@@ -23,6 +23,15 @@ button{font-family:'Fredoka',system-ui,sans-serif}
 .lb+.lb{border-left:1.5px solid var(--line)}
 .lb.on{background:var(--accent);color:#fff}
 .menu-btn{display:none}
+@media(min-width:821px){
+ .bar .row{display:grid;grid-template-columns:1fr auto;grid-template-areas:"brand seg" "tabs tabs";row-gap:6px;padding:10px 20px 8px}
+ .brand{grid-area:brand;font-size:28px;letter-spacing:.3px}
+ .seg{grid-area:seg;align-self:center}
+ .tabs{grid-area:tabs;flex-wrap:nowrap;justify-content:space-between;gap:4px;overflow-x:auto;scrollbar-width:none;padding-top:6px;border-top:1px solid #f1eadc}
+ .tabs::-webkit-scrollbar{display:none}
+ .nbtn{white-space:nowrap;flex:0 0 auto}
+}
+@media(min-width:821px) and (max-width:1120px){.tabs .nbtn .ic{display:none}.tabs .nbtn{padding:7px 9px;font-size:13px}}
 .stage{flex:1 1 auto;position:relative}
 iframe{position:absolute;inset:0;width:100%;height:100%;border:0;background:var(--bg)}
 .veil{display:none}
