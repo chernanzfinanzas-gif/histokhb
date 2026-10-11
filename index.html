@@ -185,6 +185,22 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .thread .zone .zb{cursor:pointer}
 .note{margin:14px 0 0;padding:10px 12px;border-radius:12px;background:#fff7ee;border:1px dashed #f0c896;font-size:13.5px;color:#6b5a44}
 .empty-st{text-align:center;color:var(--muted);padding:40px 10px}
+
+/* reto */
+.rq-top{display:flex;justify-content:space-between;align-items:center;margin:18px 0 8px;font-family:'Fredoka';font-weight:600;color:var(--muted);font-size:14px}
+.dots{display:flex;gap:6px}.dots i{width:10px;height:10px;border-radius:50%;background:var(--line);display:block}.dots i.ok{background:#4caf50}.dots i.ko{background:#e05252}.dots i.cur{background:var(--accent)}
+.rq{background:#fff;border:1px solid var(--line);border-radius:18px;padding:18px 16px}
+.rq .dif{font-size:12px;font-weight:800;letter-spacing:1px;text-transform:uppercase;color:var(--accent)}
+.rq h2{margin:6px 0 14px;font-size:21px;line-height:1.25}
+.opt{display:block;width:100%;text-align:left;border:1.5px solid var(--line);background:#fff;border-radius:14px;padding:13px 14px;margin:8px 0;font-size:16px;font-weight:600}
+.opt.ok{background:#e8f6e9;border-color:#4caf50}.opt.ko{background:#fdeaea;border-color:#e05252}.opt:disabled{opacity:1;color:inherit}
+.fb{margin-top:12px;padding:12px;border-radius:12px;background:#fff7ee;font-size:15px}
+.fb b{font-family:'Fredoka'}
+.rbtns{display:flex;gap:8px;margin-top:12px}.rbtns .btn{flex:1;text-align:center;text-decoration:none}
+.pista{background:none;border:0;color:var(--muted);font-weight:700;font-size:14px;padding:6px 0;text-decoration:underline}
+.score{text-align:center;padding:24px 8px}
+.score .big1{font-family:'Fredoka';font-weight:700;font-size:56px;color:var(--accent);line-height:1}
+.score .streak{display:inline-block;margin-top:10px;background:#fff;border:1px solid var(--line);border-radius:999px;padding:6px 14px;font-weight:800}
 @media(min-width:900px){
  .wrap{max-width:760px}
  .eras{grid-template-columns:repeat(3,1fr)}
@@ -213,7 +229,9 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <div class="sec-t">Otras formas de explorar</div>
   <button class="big" onclick="go('#/mundo')"><span class="bi">🌍</span><div><h3>El mundo a la vez</h3><p>¿Qué pasaba en China mientras caía Roma? Compara todas las civilizaciones, año a año.</p></div></button>
   <button class="big" onclick="go('#/aqui')"><span class="bi">📍</span><div><h3>¿Qué pasó donde estás?</h3><p>Tu móvil te sitúa y la app te cuenta la historia del lugar que pisas.</p></div></button>
-  <div id="favs0"></div>
+  <button class="big" onclick="go('#/reto')"><span class="bi">🏆</span><div><h3>Reto del día</h3><p id="retoMini">5 preguntas nuevas cada día. ¿Cuántas aciertas?</p></div></button>
+  <button class="big" onclick="go('#/favs')"><span class="bi">⭐</span><div><h3>Guardados</h3><p id="favMini">Las historias que marques con ☆.</p></div></button>
+  <div id="favs0" class="hide"></div>
   <div class="foot0">HistoKHB · <span id="nfichas"></span> historias y más de 2.300 hechos del mundo · Del Big Bang a hoy</div>
  </div>
 </div></section>
@@ -258,6 +276,9 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
  <div id="aquiOut"></div>
 </div></section>
 
+<!-- RETO -->
+<section class="scr" id="s-reto"><div class="wrap"><div id="retoBox"></div></div></section>
+
 <!-- GUARDADOS -->
 <section class="scr" id="s-favs"><div class="wrap">
  <div class="aqui-hero"><div class="bi">⭐</div><h1>Guardados</h1><p>Las historias que marques con ☆ se guardan aquí, en este móvil.</p></div>
@@ -269,8 +290,8 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
  <a href="#/" data-n="inicio"><span class="i">🏠</span>Inicio</a>
  <a href="#/epoca" data-n="epoca"><span class="i">📜</span>Épocas</a>
  <a href="#/mundo" data-n="mundo"><span class="i">🌍</span>El mundo</a>
+ <a href="#/reto" data-n="reto"><span class="i">🏆</span>Reto</a>
  <a href="#/aqui" data-n="aqui"><span class="i">📍</span>Aquí</a>
- <a href="#/favs" data-n="favs"><span class="i">⭐</span>Guardados</a>
 </nav>
 
 <div class="sheet" id="sheet" role="dialog" aria-modal="true">
@@ -320,7 +341,7 @@ if('serviceWorker' in navigator){window.addEventListener('load',()=>navigator.se
 
 // ---------- rutas ----------
 let lastScreen=null, lastRoute=null;
-function show(id){document.querySelectorAll('.scr').forEach(s=>s.classList.toggle('on',s.id==='s-'+id));document.querySelectorAll('#nav a').forEach(a=>a.classList.toggle('on',a.dataset.n===id));}
+function show(id){document.querySelectorAll('.scr').forEach(s=>s.classList.toggle('on',s.id==='s-'+id));document.querySelectorAll('#nav a').forEach(a=>a.classList.toggle('on',a.dataset.n===id||(id==='favs'&&a.dataset.n==='inicio')));}
 function route(){
  if(!IDX)return;
  const p=location.hash.replace(/^#\/?/,'').split('/').map(decodeURIComponent);
@@ -336,6 +357,7 @@ function route(){
  else if(k==='mundo'){renderMundo(p[1]||'ano',p.slice(2));}
  else if(k==='aqui'){renderAqui();}
  else if(k==='favs'){renderFavs();}
+ else if(k==='reto'){renderReto(p[1]);}
  else renderInicio();
 }
 
@@ -346,7 +368,7 @@ function initInicio(){
  let t=null; $('#q').addEventListener('input',e=>{clearTimeout(t);t=setTimeout(()=>doSearch(e.target.value),180);});
  $('#q').addEventListener('focus',()=>{sinc().catch(()=>{});if(!BUS)getJ('buscar.json').then(j=>{BUS=j;}).catch(()=>{});if(!LUG)getJ('lugares.json').then(j=>LUG=j).catch(()=>{});},{once:true});
 }
-function renderInicio(){lastScreen='inicio';show('inicio');renderFavs0();}
+function renderInicio(){lastScreen='inicio';show('inicio');renderFavs0();const f=LS.get('hk_favs',[]);$('#favMini').textContent=f.length?f.length+' historia'+(f.length>1?'s':'')+' guardada'+(f.length>1?'s':'')+' en este móvil.':'Las historias que marques con ☆.';const r=LS.get('hk_reto',{d:{}});const t=r.d[hoy()];$('#retoMini').textContent=t?'Hoy: '+t.s+'/5 · racha de '+racha()+' día'+(racha()>1?'s':''):'5 preguntas nuevas cada día. ¿Cuántas aciertas?';}
 function doSearch(q){
  const r=$('#res'), body=$('#inicio-body'); q=norm(q.trim());
  if(q.length<2){r.innerHTML='';body.classList.remove('hide');return;}
@@ -593,6 +615,51 @@ async function aquiAt(pt,label){
   $('#wkList').innerHTML=g.length?g.map(x=>`<a class="wk" href="https://es.wikipedia.org/?curid=${x.pageid}" target="_blank" rel="noopener"><b>${esc(x.title)}</b><span>${x.dist<1000?Math.round(x.dist)+' m':(x.dist/1000).toFixed(1)+' km'}</span></a>`).join('')+'<p class="rt">Enlaces a Wikipedia: contenido externo, no revisado por HistoKHB.</p>':'<p class="rt">No hay artículos cerca.</p>';
  }catch(e){$('#wkList').innerHTML='<p class="rt">No se ha podido consultar Wikipedia.</p>';}
 }
+
+
+// ---------- reto del día ----------
+let RETOQ=null, RS=null;
+function hoy(){const d=new Date();return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');}
+function rng(seed){let h=1779033703^seed.length;for(let i=0;i<seed.length;i++){h=Math.imul(h^seed.charCodeAt(i),3432918353);h=h<<13|h>>>19;}return function(){h=Math.imul(h^h>>>16,2246822507);h=Math.imul(h^h>>>13,3266489909);h^=h>>>16;return (h>>>0)/4294967296;};}
+function racha(){const r=LS.get('hk_reto',{d:{}});let n=0;const d=new Date();for(;;){const k=d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');if(r.d[k]){n++;d.setDate(d.getDate()-1);}else{if(n===0&&k===hoy()){d.setDate(d.getDate()-1);continue;}break;}}return n;}
+function pickSet(seed,practice){
+ const R=rng(seed), byDif={n:[],g:[],p:[]}; RETOQ.forEach((q,i)=>byDif[q[1]].push(i));
+ const want=['n','n','g','g','p'], used=new Set(), secs=new Set(), out=[];
+ want.forEach(d=>{for(let t=0;t<200;t++){const i=byDif[d][Math.floor(R()*byDif[d].length)];const f=IDX.fichas[RETOQ[i][0]];if(used.has(i)||(t<150&&f&&secs.has(f.sec)))continue;used.add(i);f&&secs.add(f.sec);out.push(i);break;}});
+ return out.map(i=>{const q=RETOQ[i];const ord=[0,1,2,3].sort(()=>R()-.5);return {i,ord,ans:null,hint:false};});
+}
+async function renderReto(mode){
+ lastScreen='reto'; show('reto');
+ if(!RETOQ){$('#retoBox').innerHTML='<p class="empty-st">Cargando preguntas…</p>';RETOQ=await getJ('reto.json');}
+ const r=LS.get('hk_reto',{d:{}}), today=hoy();
+ if(mode==='practica'){ if(!RS||!RS.practice||RS.done){RS={practice:true,qs:pickSet('p'+Date.now(),true),k:0,done:false};} }
+ else if(!RS||RS.practice||RS.day!==today){ RS={day:today,practice:false,qs:pickSet('hk'+today),k:0,done:!!r.d[today]};
+   if(r.d[today]&&r.d[today].a){RS.qs.forEach((q,j)=>q.ans=r.d[today].a[j]);RS.k=5;} }
+ drawReto();
+}
+function drawReto(){
+ const B=$('#retoBox'), n=RS.qs.length;
+ const dots='<div class="dots">'+RS.qs.map((q,j)=>`<i class="${q.ans==null?(j===RS.k?'cur':''):(q.ans===RETOQ[q.i][4]?'ok':'ko')}"></i>`).join('')+'</div>';
+ if(RS.k>=n){ // resultado
+  const ok=RS.qs.filter(q=>q.ans===RETOQ[q.i][4]).length;
+  if(!RS.practice){const r=LS.get('hk_reto',{d:{}});if(!r.d[RS.day]){r.d[RS.day]={s:ok,a:RS.qs.map(q=>q.ans)};LS.set('hk_reto',r);}}
+  const st=racha(), msg=ok===5?'¡Pleno! Eres un sabio de la historia.':ok>=4?'¡Muy bien!':ok>=2?'¡No está mal! Mañana, más.':'La historia es larga… ¡mañana seguro que mejor!';
+  const share='🏆 He sacado '+ok+'/5 en el Reto del día de HistoKHB'+(RS.practice?'':(st>1?' (racha de '+st+' días)':''))+'. ¿Te atreves?\n👉 https://chernanzfinanzas-gif.github.io/histokhb/#/reto';
+  B.innerHTML=`<div class="score"><div class="sec-t" style="margin-top:6px">${RS.practice?'Práctica':'Reto del día · '+RS.day.split('-').reverse().join('/')}</div><div class="big1">${ok}/5</div><p>${msg}</p>${RS.practice?'':`<span class="streak">🔥 Racha: ${st} día${st>1?'s':''}</span>`}</div>`+
+   `<div class="rbtns"><a class="btn" style="background:var(--wa)" target="_blank" rel="noopener" href="${waLink(share)}">Retar por WhatsApp</a></div>`+
+   `<div class="rbtns"><button class="btn sec" onclick="go('#/reto/practica');renderReto('practica')">Practicar más</button></div>`+
+   `<div class="sec-t">Repasa las respuestas</div>`+RS.qs.map(q=>{const Q=RETOQ[q.i],f=IDX.fichas[Q[0]];return `<button class="res" onclick="go('#/f/${Q[0]}')"><div class="rk">${q.ans===Q[4]?'✅':'❌'} ${f?esc(f.t):''}</div><div class="rt">${esc(Q[2])}</div><div class="rs">Respuesta: ${esc(Q[3][Q[4]])}</div></button>`;}).join('')+
+   (RS.practice?'':'<p class="rt" style="text-align:center">Mañana tendrás 5 preguntas nuevas.</p>');
+  renderInicio&&0; return;
+ }
+ const q=RS.qs[RS.k], Q=RETOQ[q.i], f=IDX.fichas[Q[0]], difN={n:'Fácil',g:'Media',p:'Difícil'}[Q[1]];
+ let h=`<div class="rq-top"><span>${RS.practice?'Práctica':'Reto del día'} · ${RS.k+1} de ${n}</span>${dots}</div><div class="rq"><div class="dif">${difN}${f?' · '+esc(IDX.secciones.find(s=>s.id===f.sec).t):''}</div><h2>${esc(Q[2])}</h2>`;
+ h+=q.ord.map(o=>{let c='';if(q.ans!=null){if(o===Q[4])c='ok';else if(o===q.ans)c='ko';}return `<button class="opt ${c}" ${q.ans!=null?'disabled':''} onclick="answer(${o})">${esc(Q[3][o])}</button>`;}).join('');
+ if(q.ans==null) h+= q.hint?`<div class="fb">💡 ${esc(Q[5])}</div>`:`<button class="pista" onclick="RS.qs[RS.k].hint=true;drawReto()">💡 Ver pista</button>`;
+ else h+=`<div class="fb"><b>${q.ans===Q[4]?'¡Correcto!':'¡Casi!'}</b> ${esc(Q[6])}</div><div class="rbtns"><button class="btn sec" onclick="go('#/f/${Q[0]}')">📖 Leer la ficha</button><button class="btn" onclick="RS.k++;drawReto();window.scrollTo(0,0)">${RS.k+1<n?'Siguiente →':'Ver resultado'}</button></div>`;
+ B.innerHTML=h+'</div>';
+}
+function answer(o){const q=RS.qs[RS.k];if(q.ans!=null)return;q.ans=o;drawReto();}
 
 // ---------- guardados ----------
 function renderFavs(){
