@@ -33,6 +33,15 @@ button{font:inherit;color:inherit}
 .capbar::-webkit-scrollbar{display:none}
 .capbar button{flex:0 0 auto;border:1.5px solid var(--line);background:#fff;border-radius:999px;padding:6px 12px;font-family:'Fredoka';font-weight:600;font-size:14px}
 .capbar button.on{background:var(--era);border-color:var(--era);color:#fff}
+.capwrap{position:sticky;top:62px;z-index:10;margin:0 -16px;background:var(--bg);border-bottom:1px solid var(--line)}
+.capwrap .capbar{position:static;margin:0;border:0;padding:10px 44px}
+.arr{position:absolute;top:0;bottom:0;width:44px;border:0;z-index:2;font-family:'Fredoka';font-size:26px;font-weight:700;color:var(--era);display:flex;align-items:center;justify-content:center;transition:opacity .2s}
+.arr.l{left:0;background:linear-gradient(90deg,var(--bg) 60%,rgba(251,246,236,0))}
+.arr.r{right:0;background:linear-gradient(270deg,var(--bg) 60%,rgba(251,246,236,0))}
+.arr.off{opacity:0;pointer-events:none}
+.arr span{display:flex;width:30px;height:30px;border-radius:50%;background:#fff;border:1.5px solid var(--line);align-items:center;justify-content:center;line-height:1;padding-bottom:3px}
+.sh-illo{margin:-16px -18px 14px;height:170px;overflow:hidden}
+.sh-illo svg,.sh-illo img{width:100%;height:100%;display:block;object-fit:cover}
 .cap{margin-top:22px}
 .cap .illo{height:120px;border-radius:16px;overflow:hidden}
 .cap .illo svg{width:100%;height:100%;display:block}
@@ -131,7 +140,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <p>Cae Roma, nace el islam, se levantan castillos y catedrales, y los mongoles unen medio planeta.</p>
   <div class="stats"><span>476 – 1492</span><span id="nf"></span><span>5 capítulos</span></div>
  </div>
- <div class="capbar" id="capbar"></div>
+ <div class="capwrap"><button class="arr l" id="arrL" aria-label="Capítulos anteriores"><span>‹</span></button><div class="capbar" id="capbar"></div><button class="arr r" id="arrR" aria-label="Más capítulos"><span>›</span></button></div>
  <div id="caps"></div>
  <div class="note">Cómo funciona: los capítulos van en una fila que se desliza con el dedo y se queda fija arriba. Cada tarjeta enseña dos líneas del nivel elegido; al tocarla se abre la ficha a pantalla completa (pantalla 2).</div>
 </div></section>
@@ -210,6 +219,10 @@ function init(){
  cs.querySelectorAll('.card').forEach(b=>b.onclick=()=>openEra(b.dataset.k));
  const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){cb.querySelectorAll('button').forEach(b=>b.classList.toggle('on',b.dataset.c===e.target.id));const on=cb.querySelector('.on');on&&on.scrollIntoView({inline:'center',block:'nearest'});}}),{rootMargin:'-130px 0px -60% 0px'});
  D.caps.forEach(c=>io.observe(document.getElementById(c.id)));
+ const upd=()=>{$('#arrL').classList.toggle('off',cb.scrollLeft<8);$('#arrR').classList.toggle('off',cb.scrollLeft+cb.clientWidth>=cb.scrollWidth-8);};
+ cb.addEventListener('scroll',upd,{passive:true}); window.addEventListener('resize',upd); upd();
+ $('#arrL').onclick=()=>cb.scrollBy({left:-cb.clientWidth*0.7,behavior:'smooth'});
+ $('#arrR').onclick=()=>cb.scrollBy({left:cb.clientWidth*0.7,behavior:'smooth'});
  // FICHA
  $('#openDemo').onclick=()=>openEra('med3-0');
  $('#shClose').onclick=closeSheet;
@@ -241,7 +254,8 @@ function renderSheet(){
  if(CURK==='era'){
   const f=D.fichas[CUR]; const h=f[LV]||f.p;
   $('#shTtl').textContent=f.t; $('#seg').style.display='';
-  b.innerHTML=`<div class="sh-head"><div class="ic">${f.ic}</div><div><div class="d">${f.d} · ${f.c}</div><h2>${f.t}</h2></div></div><div class="rt">⏱ ${mins(h)} min de lectura</div><div class="txt">${h}</div>`+
+  const cap=D.caps.find(c=>c.f.includes(CUR));
+  b.innerHTML=`<div class="sh-illo">${cap?cap.svg:''}</div><div class="sh-head"><div class="ic">${f.ic}</div><div><div class="d">${f.d} · ${f.c}</div><h2>${f.t}</h2></div></div><div class="rt">⏱ ${mins(h)} min de lectura</div><div class="txt">${h}</div>`+
    (LV!=='p'?`<button class="more" onclick="LV='p';document.querySelectorAll('#seg button').forEach(x=>x.classList.toggle('on',x.dataset.l==='p'));renderSheet();window.scrollTo(0,0)">Quiero saber más →</button>`:'');
   const keys=D.caps.flatMap(c=>c.f), i=keys.indexOf(CUR);
   const y=parseInt(f.d)||1000;
