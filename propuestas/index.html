@@ -99,6 +99,11 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .pick .chips button{flex:0 0 auto;border:1.5px solid var(--line);background:#fff;border-radius:999px;padding:5px 11px;font-size:13.5px;font-weight:700}
 .pick .chips button.on{background:var(--ink);color:#fff;border-color:var(--ink)}
 .pick .hint{font-size:12.5px;color:var(--muted);margin-top:6px}
+.sels{display:grid;grid-template-columns:repeat(3,1fr);gap:6px}
+.pick select{width:100%;font-family:'Fredoka';font-weight:600;font-size:14px;padding:9px 6px;border-radius:10px;border:1.5px solid var(--ink);background:#fff;color:var(--ink);-webkit-appearance:none;appearance:none;text-overflow:ellipsis;padding-right:22px;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%232e2a40'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 7px center}
+.pick select.per{margin-top:6px;border-color:var(--line);font-size:13.5px;background-color:#fff7ee}
+.pick select:not(.per)[data-empty="1"]{border-style:dashed;color:var(--muted);border-color:var(--line)}
+.cols{top:166px!important}
 .cols{display:grid;gap:6px;margin-top:10px;position:sticky;top:150px;z-index:9;background:var(--bg);padding:6px 0}
 .cols div{font-family:'Fredoka';font-weight:600;font-size:13.5px;text-align:center;background:#fff;border:1px solid var(--line);border-radius:10px;padding:5px 2px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .trow{display:grid;gap:6px;margin-top:6px}
@@ -154,11 +159,11 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 <!-- 3B · ZONAS EN PARALELO -->
 <section class="scr" id="mundoB"><div class="wrap">
  <div class="pick">
-  <div class="chips" id="chips"></div>
-  <div class="hint">Elige hasta 3 zonas · se muestran del año 700 al 1500</div>
+  <div class="sels"><select id="z1"></select><select id="z2"></select><select id="z3"></select></div>
+  <select id="per" class="per"><option value="-3500,476">Edad Antigua</option><option value="476,1492" selected>Edad Media</option><option value="1492,1789">Edad Moderna</option><option value="1789,2026">Edad Contemporánea</option><option value="-1000000,-3500">Prehistoria</option></select>
  </div>
  <div id="par"></div>
- <div class="note">Eliges 2 o 3 zonas y bajas en el tiempo viéndolas avanzar a la vez. Las casillas rayadas son años sin novedad en esa zona.</div>
+ <div class="note">Eliges 2 o 3 zonas (cada columna tiene su selector) y la época, y bajas en el tiempo viéndolas avanzar a la vez. Las casillas rayadas son años sin novedad en esa zona.</div>
 </div></section>
 
 <!-- hoja de ficha -->
@@ -217,10 +222,14 @@ function init(){
  $('#yl').onclick=()=>stepYear(-1); $('#yr').onclick=()=>stepYear(1);
  setYear(1066);
  // MUNDO B
- const sel=['Hispania · Castilla · España','China','Mesoamérica'];
- D.regs.forEach(([r])=>{const b=document.createElement('button');b.textContent=r.replace('Hispania · Castilla · España','Castilla · España');b.dataset.r=r;if(sel.includes(r))b.classList.add('on');
-  b.onclick=()=>{const on=[...$('#chips').querySelectorAll('.on')];if(b.classList.contains('on')){b.classList.remove('on');}else{if(on.length>=3)on[0].classList.remove('on');b.classList.add('on');}renderPar();};
-  $('#chips').appendChild(b);});
+ const def=['Hispania · Castilla · España','China','Mesoamérica'];
+ ['z1','z2','z3'].forEach((id,i)=>{
+  const el=document.getElementById(id);
+  let o=i===2?'<option value="">— ninguna —</option>':'';
+  Object.entries(CONT).forEach(([ck,cn])=>{o+=`<optgroup label="${cn}">`+D.regs.filter(r=>r[1]===ck).map(([r])=>`<option value="${r}">${r.replace('Hispania · Castilla · España','Castilla · España')}</option>`).join('')+'</optgroup>';});
+  el.innerHTML=o; el.value=def[i]; el.onchange=renderPar;
+ });
+ $('#per').onchange=renderPar;
  renderPar();
 }
 // ---- ficha
@@ -265,11 +274,12 @@ function setYear(y){
 }
 // ---- mundo B
 function renderPar(){
- const sel=[...$('#chips').querySelectorAll('.on')].map(b=>b.dataset.r);
+ const sel=['z1','z2','z3'].map(i=>document.getElementById(i).value).filter(Boolean); ['z1','z2','z3'].forEach(i=>document.getElementById(i).dataset.empty=document.getElementById(i).value?'0':'1'); const [y0,y1]=$('#per').value.split(',').map(Number);
  const p=$('#par'); if(!sel.length){p.innerHTML='<p>Elige alguna zona.</p>';return;}
  const cols=`grid-template-columns:repeat(${sel.length},1fr)`;
- const ys=new Set(); sel.forEach(r=>(D.ev[r]||[]).forEach(e=>{if(e[0]>=700&&e[0]<=1500)ys.add(e[0]);}));
+ const ys=new Set(); sel.forEach(r=>(D.ev[r]||[]).forEach(e=>{if(e[0]>=y0&&e[0]<y1)ys.add(e[0]);}));
  let h=`<div class="cols" style="${cols}">${sel.map(r=>`<div>${r.replace('Hispania · Castilla · España','Castilla · España')}</div>`).join('')}</div>`;
+ h+=`<div class="trow" style="${cols}"><div class="yr">Al empezar la época (${fy(y0)})</div>`+sel.map(r=>{const a=(D.ev[r]||[]).filter(e=>e[0]<y0);const e=a[a.length-1];return e?`<div class="cell" style="background:${e[2]}55">${e[1]}<br><small style="opacity:.7">desde ${fy(e[0])}</small></div>`:'<div class="cell empty"></div>';}).join('')+'</div>';
  [...ys].sort((a,b)=>a-b).forEach(y=>{
   h+=`<div class="trow" style="${cols}"><div class="yr">${fy(y)}</div>`+sel.map(r=>{
    const e=(D.ev[r]||[]).find(e=>e[0]===y);
