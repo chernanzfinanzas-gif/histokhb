@@ -187,6 +187,9 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .empty-st{text-align:center;color:var(--muted);padding:40px 10px}
 
 /* reto */
+.rango{display:flex;gap:12px;align-items:center;text-align:left;background:#fff;border:1px solid var(--line);border-radius:16px;padding:12px 14px;margin:14px 0 4px}
+.rango .ri{font-size:38px}.rango .rb{flex:1}.rango .rn{font-family:'Fredoka';font-weight:600;font-size:18px}
+.bar2{height:8px;background:var(--line);border-radius:99px;margin:6px 0;overflow:hidden}.bar2 i{display:block;height:100%;background:var(--accent);border-radius:99px}
 .rq-top{display:flex;justify-content:space-between;align-items:center;margin:18px 0 8px;font-family:'Fredoka';font-weight:600;color:var(--muted);font-size:14px}
 .dots{display:flex;gap:6px}.dots i{width:10px;height:10px;border-radius:50%;background:var(--line);display:block}.dots i.ok{background:#4caf50}.dots i.ko{background:#e05252}.dots i.cur{background:var(--accent)}
 .rq{background:#fff;border:1px solid var(--line);border-radius:18px;padding:18px 16px}
@@ -224,12 +227,14 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
  <div class="search"><span class="mag">🔎</span><input id="q" type="search" placeholder="Busca: Cleopatra, Almanzor, penicilina…" autocomplete="off"></div>
  <div class="results" id="res"></div>
  <div id="inicio-body">
+  <div class="sec-t">Hoy en HistoKHB</div>
+  <button class="big" onclick="go('#/reto')"><span class="bi" id="retoIco">🏆</span><div><h3>Reto del día</h3><p id="retoMini">5 preguntas nuevas cada día. ¿Cuántas aciertas?</p></div></button>
+  <div id="hdia"></div>
   <div class="sec-t">Viaja por las épocas</div>
   <div class="eras" id="eras"></div>
   <div class="sec-t">Otras formas de explorar</div>
   <button class="big" onclick="go('#/mundo')"><span class="bi">🌍</span><div><h3>El mundo a la vez</h3><p>¿Qué pasaba en China mientras caía Roma? Compara todas las civilizaciones, año a año.</p></div></button>
   <button class="big" onclick="go('#/aqui')"><span class="bi">📍</span><div><h3>¿Qué pasó donde estás?</h3><p>Tu móvil te sitúa y la app te cuenta la historia del lugar que pisas.</p></div></button>
-  <button class="big" onclick="go('#/reto')"><span class="bi">🏆</span><div><h3>Reto del día</h3><p id="retoMini">5 preguntas nuevas cada día. ¿Cuántas aciertas?</p></div></button>
   <button class="big" onclick="go('#/favs')"><span class="bi">⭐</span><div><h3>Guardados</h3><p id="favMini">Las historias que marques con ☆.</p></div></button>
   <div id="favs0" class="hide"></div>
   <div class="foot0">HistoKHB · <span id="nfichas"></span> historias y más de 2.300 hechos del mundo · Del Big Bang a hoy</div>
@@ -368,7 +373,9 @@ function initInicio(){
  let t=null; $('#q').addEventListener('input',e=>{clearTimeout(t);t=setTimeout(()=>doSearch(e.target.value),180);});
  $('#q').addEventListener('focus',()=>{sinc().catch(()=>{});if(!BUS)getJ('buscar.json').then(j=>{BUS=j;}).catch(()=>{});if(!LUG)getJ('lugares.json').then(j=>LUG=j).catch(()=>{});},{once:true});
 }
-function renderInicio(){lastScreen='inicio';show('inicio');renderFavs0();const f=LS.get('hk_favs',[]);$('#favMini').textContent=f.length?f.length+' historia'+(f.length>1?'s':'')+' guardada'+(f.length>1?'s':'')+' en este móvil.':'Las historias que marques con ☆.';const r=LS.get('hk_reto',{d:{}});const t=r.d[hoy()],st=racha();$('#retoMini').textContent=(t&&t.ok)?'✅ Hoy resuelto ('+t.s+'/5 a la primera) · 🔥 racha de '+st+' día'+(st!==1?'s':''):(st?'🔥 Racha de '+st+' día'+(st!==1?'s':'')+'. ¡Resuelve el de hoy para seguir!':'5 preguntas nuevas cada día. ¿Te atreves?');}
+function renderInicio(){lastScreen='inicio';show('inicio');renderFavs0();const f=LS.get('hk_favs',[]);$('#favMini').textContent=f.length?f.length+' historia'+(f.length>1?'s':'')+' guardada'+(f.length>1?'s':'')+' en este móvil.':'Las historias que marques con ☆.';const r=LS.get('hk_reto',{d:{}});const t=r.d[hoy()],st=racha();const RG=rango(st).r;$('#retoIco').textContent=RG[1];$('#retoMini').textContent=(t&&t.ok)?'✅ Hoy resuelto ('+t.s+'/5 a la primera) · 🔥 racha de '+st+' día'+(st!==1?'s':''):(st?'🔥 Racha de '+st+' día'+(st!==1?'s':'')+'. ¡Resuelve el de hoy para seguir!':'5 preguntas nuevas cada día. ¿Te atreves?')+(st?' · '+RG[2]:'');
+ const ks=Object.keys(IDX.fichas), R=rng('dia'+hoy()), hk=ks[Math.floor(R()*ks.length)], hf=IDX.fichas[hk];
+ $('#hdia').innerHTML=`<button class="card" style="border-color:var(--accent)" onclick="go('#/f/${hk}')"><div class="ic">${hf.ic}</div><div><div class="d">📖 Historia del día · ${esc(hf.d)}</div><h3>${esc(hf.t)}</h3><div class="t">${esc(hf.tz)}</div></div></button>`;}
 function doSearch(q){
  const r=$('#res'), body=$('#inicio-body'); q=norm(q.trim());
  if(q.length<2){r.innerHTML='';body.classList.remove('hide');return;}
@@ -630,6 +637,11 @@ function pickSet(seed){
  want.forEach(d=>{for(let t=0;t<200;t++){const i=byDif[d][Math.floor(R()*byDif[d].length)];const f=IDX.fichas[RETOQ[i][0]];if(used.has(i)||(t<150&&f&&secs.has(f.sec)))continue;used.add(i);f&&secs.add(f.sec);out.push(i);break;}});
  return out.map(i=>({i,ord:[0,1,2,3].sort(()=>R()-.5),ans:null,wrong:[],hint:false}));
 }
+const RANGOS=[[0,'🧭','Viajero curioso'],[3,'📜','Aprendiz de escriba'],[7,'🪶','Cronista'],[14,'🏛️','Erudito'],[30,'📚','Sabio de Alejandría'],[60,'🦉','Guardián de la memoria'],[100,'👑','Maestro de la Historia']];
+function rango(n){let r=RANGOS[0],nx=null;for(let i=0;i<RANGOS.length;i++){if(n>=RANGOS[i][0]){r=RANGOS[i];nx=RANGOS[i+1]||null;}}return {r,nx};}
+function rangoHTML(st){const {r,nx}=rango(st);const best=LS.get('hk_reto',{d:{}}).best||st;
+ const pct=nx?Math.round((st-r[0])/(nx[0]-r[0])*100):100;
+ return `<div class="rango"><div class="ri">${r[1]}</div><div class="rb"><div class="rn">${r[2]}</div><div class="bar2"><i style="width:${pct}%"></i></div><div class="rt">${nx?`Te faltan ${nx[0]-st} día${nx[0]-st!==1?'s':''} para <b>${nx[1]} ${nx[2]}</b>`:'¡Has alcanzado la categoría máxima!'} · Mejor racha: ${Math.max(best,st)}</div></div></div>`;}
 function saveProg(){ if(!RS.practice) LS.set('hk_reto_prog',RS); }
 async function renderReto(mode){
  lastScreen='reto'; show('reto');
@@ -647,10 +659,10 @@ function drawReto(){
  const dots='<div class="dots">'+RS.qs.map((q,j)=>`<i class="${q.ans==null?(j===RS.k?'cur':''):(q.wrong.length?'ko':'ok')}"></i>`).join('')+'</div>';
  if(RS.k>=n){ // terminado: las 5 resueltas
   const first=RS.qs.filter(q=>!q.wrong.length).length;
-  if(!RS.practice){const r=LS.get('hk_reto',{d:{}});if(!(r.d[RS.day]||{}).ok){r.d[RS.day]={s:first,ok:true};LS.set('hk_reto',r);}}
+  if(!RS.practice){const r=LS.get('hk_reto',{d:{}});if(!(r.d[RS.day]||{}).ok){r.d[RS.day]={s:first,ok:true};LS.set('hk_reto',r);const st0=racha();const prevR=rango(st0-1).r;r.best=Math.max(r.best||0,st0);LS.set('hk_reto',r);RS.subio=(rango(st0).r!==prevR)?rango(st0).r:null;}}
   const st=racha(), msg=first===5?'¡Pleno a la primera! Eres un sabio de la historia.':first>=3?'¡Muy bien! Reto resuelto.':'¡Reto resuelto! Buscar en las fichas también es aprender.';
-  const share='🏆 Reto del día de HistoKHB: '+first+'/5 a la primera'+(RS.practice?'':(st>1?' · 🔥 racha de '+st+' días':''))+'. ¿Te atreves?\n👉 https://chernanzfinanzas-gif.github.io/histokhb/#/reto';
-  B.innerHTML=`<div class="score"><div class="sec-t" style="margin-top:6px">${RS.practice?'Práctica':'Reto del día · '+RS.day.split('-').reverse().join('/')}</div><div class="big1">${first}/5</div><p style="margin:4px 0 0;color:var(--muted);font-weight:700">a la primera</p><p>${msg}</p>${RS.practice?'':`<span class="streak">🔥 Racha: ${st} día${st!==1?'s':''}</span><p class="rt">Cada día que resuelves las 5 preguntas suma uno. Si fallas un día, la racha vuelve a empezar.</p>`}</div>`+
+  const share='🏆 Reto del día de HistoKHB: '+first+'/5 a la primera'+(RS.practice?'':(st>1?' · 🔥 racha de '+st+' días · '+rango(st).r[1]+' '+rango(st).r[2]:''))+'. ¿Te atreves?\n👉 https://chernanzfinanzas-gif.github.io/histokhb/#/reto';
+  B.innerHTML=`<div class="score"><div class="sec-t" style="margin-top:6px">${RS.practice?'Práctica':'Reto del día · '+RS.day.split('-').reverse().join('/')}</div><div class="big1">${first}/5</div><p style="margin:4px 0 0;color:var(--muted);font-weight:700">a la primera</p><p>${msg}</p>${RS.practice?'':`${RS.subio?`<div class="fb" style="text-align:center">🎉 ¡Nueva categoría: <b>${RS.subio[1]} ${RS.subio[2]}</b>!</div>`:''}<span class="streak">🔥 Racha: ${st} día${st!==1?'s':''}</span>${rangoHTML(st)}<p class="rt">Cada día que resuelves las 5 preguntas suma uno. Si un día no lo haces, la racha vuelve a empezar.</p>`}</div>`+
    `<div class="rbtns"><a class="btn" style="background:var(--wa)" target="_blank" rel="noopener" href="${waLink(share)}">Retar por WhatsApp</a></div>`+
    `<div class="rbtns"><button class="btn sec" onclick="RS=null;go('#/reto/practica');renderReto('practica')">Practicar más</button></div>`+
    `<div class="sec-t">Repasa las respuestas</div>`+RS.qs.map(q=>{const Q=RETOQ[q.i],f=IDX.fichas[Q[0]];return `<button class="res" onclick="go('#/f/${Q[0]}')"><div class="rk">${q.wrong.length?'🔎 Resuelta buscando':'✅ A la primera'} · ${f?esc(f.t):''}</div><div class="rt">${esc(Q[2])}</div><div class="rs">Respuesta: ${esc(Q[3][Q[4]])}</div></button>`;}).join('')+
@@ -658,7 +670,8 @@ function drawReto(){
   return;
  }
  const q=RS.qs[RS.k], Q=RETOQ[q.i], f=IDX.fichas[Q[0]], difN={n:'Fácil',g:'Media',p:'Difícil'}[Q[1]];
- let h=`<div class="rq-top"><span>${RS.practice?'Práctica':'Reto del día'} · ${RS.k+1} de ${n}</span>${dots}</div><div class="rq"><div class="dif">${difN}${f?' · '+esc(IDX.secciones.find(s=>s.id===f.sec).t):''}</div><h2>${esc(Q[2])}</h2>`;
+ const inv=Q[1]==='p';
+ let h=`<div class="rq-top"><span>${RS.practice?'Práctica':'Reto del día'} · ${RS.k+1} de ${n}</span>${dots}</div><div class="rq"><div class="dif">${inv?'🔎 Pregunta de investigación':difN}${f?' · '+esc(IDX.secciones.find(s=>s.id===f.sec).t):''}</div><h2>${esc(Q[2])}</h2>`+(inv&&q.ans==null&&!q.wrong.length?`<div class="fb" style="margin:0 0 6px">La respuesta está en la ficha <b>«${f?esc(f.t):''}»</b>. ¿Te la sabes o vas a investigar?<div class="rbtns"><button class="btn sec" onclick="go('#/f/${Q[0]}')">📖 Investigar en la ficha</button></div></div>`:'');
  h+=q.ord.map(o=>{let c='',dis=false;if(q.ans!=null){dis=true;if(o===Q[4])c='ok';}if(q.wrong.includes(o)){c='ko';dis=true;}return `<button class="opt ${c}" ${dis?'disabled':''} onclick="answer(${o})">${q.wrong.includes(o)?'<s>'+esc(Q[3][o])+'</s>':esc(Q[3][o])}</button>`;}).join('');
  if(q.ans==null&&!q.wrong.length) h+= q.hint?`<div class="fb">💡 ${esc(Q[5])}</div>`:`<button class="pista" onclick="RS.qs[RS.k].hint=true;drawReto()">💡 Ver pista</button>`;
  else if(q.ans==null) h+=`<div class="fb"><b>No es esa.</b> La respuesta está en la ficha «${f?esc(f.t):''}». Búscala y vuelve a intentarlo.</div><div class="rbtns"><button class="btn" onclick="go('#/f/${Q[0]}')">📖 Buscar en la ficha</button></div>`;
