@@ -252,8 +252,8 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 
 <!-- AQUÍ -->
 <section class="scr" id="s-aqui"><div class="wrap">
- <div class="aqui-hero"><div class="bi">📍</div><h1>¿Qué pasó donde estás?</h1><p>Tu móvil te sitúa y te contamos la historia del lugar: lo que pasó aquí, lo que hay alrededor y la historia de esta tierra a lo largo del tiempo.</p>
-  <button class="btn" id="geoBtn">📍 Localizarme</button> <button class="btn sec" id="demoBtn">Probar en Carrión</button>
+ <div class="aqui-hero"><div class="bi">📍</div><h1>¿Qué pasó donde estás?</h1><p>Tu móvil te sitúa y te contamos la historia del lugar: lo que pasó aquí, lo que hay alrededor y la historia de esta tierra a lo largo del tiempo.</p><div class="note" style="margin:0 0 14px">🚧 Sección en desarrollo: los resultados pueden ser poco exactos.</div>
+  <button class="btn" id="geoBtn">📍 Localizarme</button> <button class="btn sec" id="demoBtn">Probar en Carrión</button> <button class="btn sec" id="demoBtn2">Probar en Madrid</button>
   <div id="geoMsg" class="rt"></div></div>
  <div id="aquiOut"></div>
 </div></section>
@@ -538,27 +538,55 @@ $('#geoBtn').onclick=()=>{
   e=>{m.textContent='No he podido localizarte ('+(e.code===1?'permiso denegado':'sin señal')+'). Prueba otra vez o usa «Probar en Carrión».';},{enableHighAccuracy:false,timeout:15000,maximumAge:300000});
 };
 $('#demoBtn').onclick=()=>aquiAt([42.338,-4.603],'Carrión de los Condes (prueba)');
+$('#demoBtn2').onclick=()=>aquiAt([40.62,-3.70],'Norte de Madrid (prueba)');
+let ETQ=null;
 async function aquiAt(pt,label){
  const out=$('#aquiOut'); out.innerHTML='<p class="empty-st">Buscando historia…</p>';
- if(!LUG)LUG=await getJ('lugares.json').catch(()=>({lugares:[]})); await sinc();
- const ls=LUG.lugares.map(l=>[l,km(pt,[l.lat,l.lon])]).sort((a,b)=>a[1]-b[1]);
- let h=`<p class="rt" style="text-align:center">📍 ${esc(label)} · ${pt[0].toFixed(3)}, ${pt[1].toFixed(3)}</p>`;
- // 1. Aquí
- const aqui=ls.filter(x=>x[1]<=12), cerca=ls.filter(x=>x[1]>12&&x[1]<=60);
- h+='<div class="sec-t">Aquí</div>';
- h+= aqui.length? aqui.map(([l,d])=>`<button class="lugar" onclick="go('#/l/${l.id}')"><div class="lk">📍 Estás aquí · ${d<1?'a menos de 1 km':Math.round(d)+' km'}</div><h3>${esc(l.nombre)}</h3><p>${esc(strip(l.texto.general).slice(0,150))}…</p></button>`).join('')
-   : `<div class="note">Todavía no tenemos una ficha propia de este sitio. Queda apuntado para escribirla. Mientras tanto, esto es lo que hay cerca y la historia de esta tierra.</div>`;
- if(cerca.length) h+='<div class="sec-t">Alrededor (hasta 60 km)</div>'+cerca.map(([l,d])=>`<button class="lugar" style="border-width:1px" onclick="go('#/l/${l.id}')"><div class="lk">${Math.round(d)} km</div><h3>${esc(l.nombre)}</h3></button>`).join('');
+ if(!LUG)LUG=await getJ('lugares.json').catch(()=>({lugares:[]}));
+ if(!ETQ)ETQ=await getJ('etiquetas.json').catch(()=>({}));
+ await sinc();
+ // lugares etiquetados con su distancia
+ const P=Object.entries(ETQ).map(([n,v])=>({n,lat:v[0],lon:v[1],cc:v[2],pa:v[3],f:v[4],d:km(pt,[v[0],v[1]])})).sort((a,b)=>a.d-b.d);
+ const esp=P.find(x=>x.pa==='ES'&&x.d<80); const miCC=esp?esp.cc:'';
+ const seen=new Set();
+ function items(places){ // fichas de esos lugares, sin repetir, ordenadas por distancia y fecha
+  const L=[]; places.forEach(pl=>pl.f.forEach(id=>{if(seen.has(id))return;seen.add(id);L.push({id,pl});}));
+  return L;
+ }
+ function row({id,pl}){
+  const dist=pl.d<1?'aquí':Math.round(pl.d)+' km';
+  if(id.startsWith('f:')){const k=id.slice(2),f=IDX.fichas[k];if(!f)return'';
+   return `<button class="card" onclick="go('#/f/${k}')"><div class="ic">${f.ic}</div><div><div class="d">📍 ${esc(pl.n)} · ${dist}</div><h3>${esc(f.t)}</h3><div class="t">${esc(f.d)} · ${esc(f.tz)}</div></div></button>`;}
+  const key=id.slice(2), r=key.slice(0,key.lastIndexOf('|')), y=+key.split('|').pop();
+  const e=(SINC.ev[r]||[]).find(e=>e[0]===y);
+  return `<div class="zone"><div class="bar" style="background:${e?e[2]:'#ccc'}"></div><button class="zb" onclick="go('#/s/${encodeURIComponent(key)}')"><div class="zy">📍 ${esc(pl.n)} · ${dist} · ${fy(y)} · ${esc(rn(r))}</div><div class="zt">${esc(e?e[1]:'')}</div></button></div>`;
+ }
+ function block(title,list,max){ if(!list.length)return '';
+  const show=list.slice(0,max), rest=list.slice(max);
+  return `<div class="sec-t">${title} <span style="text-transform:none;letter-spacing:0">· ${list.length}</span></div>`+show.map(row).join('')+
+   (rest.length?`<details><summary class="more" style="list-style:none">Ver ${rest.length} más</summary>${rest.map(row).join('')}</details>`:'');
+ }
+ let h=`<div class="note" style="margin-top:4px">🚧 <b>Sección en desarrollo:</b> los resultados pueden ser poco exactos. Vamos añadiendo lugares poco a poco.</div>`;
+ h+=`<p class="rt" style="text-align:center">📍 ${esc(label)} · ${pt[0].toFixed(3)}, ${pt[1].toFixed(3)}${miCC?' · '+esc(miCC):''}</p>`;
+ // 1. Fichas de lugar propias
+ const ls=LUG.lugares.map(l=>[l,km(pt,[l.lat,l.lon])]).filter(x=>x[1]<=60).sort((a,b)=>a[1]-b[1]);
+ if(ls.length) h+='<div class="sec-t">Fichas de lugar</div>'+ls.map(([l,d])=>`<button class="lugar" onclick="go('#/l/${l.id}')"><div class="lk">📍 ${d<1?'Estás aquí':Math.round(d)+' km'}</div><h3>${esc(l.nombre)}</h3><p>${esc(strip(l.texto.general).slice(0,140))}…</p></button>`).join('');
+ // 2. Anillos
+ const r1=items(P.filter(x=>x.d<=15)), r2=items(P.filter(x=>x.d>15&&x.d<=60));
+ const r3=miCC?items(P.filter(x=>x.d>60&&x.cc===miCC)):items(P.filter(x=>x.d>60&&x.d<=300));
+ h+=block('Aquí (hasta 15 km)',r1,12)+block('Cerca (hasta 60 km)',r2,12)+block(miCC?'En '+miCC:'En tu región (hasta 300 km)',r3,10);
+ if(!r1.length&&!r2.length&&!ls.length) h+=`<div class="note">Todavía no tenemos historias de lugares cercanos a este punto. Queda apuntado para escribirlas.</div>`;
  h+='<div class="sec-t">En Wikipedia, cerca de aquí</div><div id="wkList"><p class="rt">Buscando…</p></div>';
- // 3. Esta tierra
+ // 3. Grandes hitos de la zona (solo los que no tienen lugar concreto)
+ const tagged=new Set(Object.values(ETQ).flatMap(v=>v[4]));
  const inIber= pt[0]>35.8&&pt[0]<44&&pt[1]>-9.6&&pt[1]<3.4;
- let regs=[]; if(inIber){const n=nearest(IBER,pt);regs=[n[0][0]];if(n[0][0]!==ESP)regs.push(ESP);} else {regs=[nearest(CENT,pt)[0][0]];}
- h+='<div class="sec-t">Esta tierra a lo largo del tiempo</div><div class="thread">'+regs.map(r=>{
-   const a=(SINC.ev[r]||[]); return `<h3 class="f" style="margin:10px 0 2px">${esc(rn(r))} <span class="rt">· ${a.length} momentos</span></h3>`+
-   a.map(e=>`<div class="zone"><div class="bar" style="background:${e[2]}"></div><button class="zb" ${e[3]?`onclick="go('#/s/${encodeURIComponent(r+'|'+e[0])}')"`:`onclick="go('#/mundo/ano/${Math.max(-3500,e[0])}')"`}><div class="zy">${fy(e[0])}${e[3]?' · 📖 ficha':''}</div><div class="zt">${esc(e[1])}</div></button></div>`).join('');
- }).join('')+'</div>';
+ let regs=[]; if(inIber){const n=nearest(IBER,pt);regs=[n[0][0]];if(n[0][0]!==ESP)regs.push(ESP);} else regs=[nearest(CENT,pt)[0][0]];
+ h+='<div class="sec-t">Esta tierra a lo largo del tiempo</div><p class="rt">Los grandes momentos de la zona que no tienen un lugar concreto.</p>'+regs.map(r=>{
+  const a=(SINC.ev[r]||[]).filter(e=>!tagged.has('s:'+r+'|'+e[0]));
+  return `<details class="thread"><summary class="big" style="list-style:none;cursor:pointer"><span class="bi">🧭</span><div><h3>${esc(rn(r))}</h3><p>${a.length} momentos · toca para desplegar</p></div></summary>`+
+   a.map(e=>`<div class="zone"><div class="bar" style="background:${e[2]}"></div><button class="zb" ${e[3]?`onclick="go('#/s/${encodeURIComponent(r+'|'+e[0])}')"`:`onclick="go('#/mundo/ano/${Math.max(-3500,e[0])}')"`}><div class="zy">${fy(e[0])}${e[3]?' · 📖 ficha':''}</div><div class="zt">${esc(e[1])}</div></button></div>`).join('')+'</details>';
+ }).join('');
  out.innerHTML=h; out.scrollIntoView({behavior:'smooth'});
- // Wikipedia (relleno)
  try{
   const u=`https://es.wikipedia.org/w/api.php?action=query&list=geosearch&gscoord=${pt[0]}|${pt[1]}&gsradius=10000&gslimit=12&format=json&origin=*`;
   const j=await (await fetch(u)).json(); const g=(j.query&&j.query.geosearch)||[];
