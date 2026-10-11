@@ -1,0 +1,284 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<title>HistoKHB · Propuestas de pantallas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#fbf6ec;--card:#fff;--ink:#2e2a40;--muted:#7d7790;--line:#ece4d6;--accent:#e08b3e;--era:#5B84B1}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0}
+body{font-family:'Nunito',system-ui,sans-serif;background:var(--bg);color:var(--ink);font-size:16px;line-height:1.5}
+h1,h2,h3,.f{font-family:'Fredoka',system-ui,sans-serif}
+button{font:inherit;color:inherit}
+/* barra de propuestas (solo para revisar) */
+.rev{position:sticky;top:0;z-index:30;background:#2e2a40;color:#fff;padding:8px 10px 10px}
+.rev p{margin:0 0 6px;font-size:12px;opacity:.75}
+.rev .pills{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none}
+.rev .pills::-webkit-scrollbar{display:none}
+.rev button{flex:0 0 auto;border:0;background:rgba(255,255,255,.12);color:#fff;border-radius:999px;padding:7px 12px;font-family:'Fredoka';font-weight:600;font-size:14px}
+.rev button.on{background:var(--accent)}
+.scr{display:none}.scr.on{display:block}
+.wrap{max-width:560px;margin:0 auto;padding:0 16px 80px}
+.note{margin:14px 0 0;padding:10px 12px;border-radius:12px;background:#fff7ee;border:1px dashed #f0c896;font-size:13.5px;color:#6b5a44}
+/* ===== Época ===== */
+.hero{position:relative;margin:0 -16px;padding:26px 20px 22px;background:linear-gradient(160deg,#5B84B1,#3d5f86);color:#fff}
+.hero .k{font-family:'Fredoka';font-size:12px;letter-spacing:2px;text-transform:uppercase;opacity:.85}
+.hero h1{margin:4px 0 6px;font-size:32px;line-height:1.1}
+.hero p{margin:0;font-size:15px;opacity:.92}
+.hero .stats{display:flex;gap:8px;margin-top:14px}
+.hero .stats span{background:rgba(255,255,255,.16);border-radius:999px;padding:4px 10px;font-size:13px;font-weight:700}
+.capbar{position:sticky;top:62px;z-index:10;margin:0 -16px;padding:10px 16px;background:var(--bg);display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;border-bottom:1px solid var(--line)}
+.capbar::-webkit-scrollbar{display:none}
+.capbar button{flex:0 0 auto;border:1.5px solid var(--line);background:#fff;border-radius:999px;padding:6px 12px;font-family:'Fredoka';font-weight:600;font-size:14px}
+.capbar button.on{background:var(--era);border-color:var(--era);color:#fff}
+.cap{margin-top:22px}
+.cap .illo{height:120px;border-radius:16px;overflow:hidden}
+.cap .illo svg{width:100%;height:100%;display:block}
+.cap h2{margin:12px 0 2px;font-size:22px;line-height:1.2}
+.cap .per{font-family:'Fredoka';font-weight:600;color:var(--era);font-size:14px}
+.cap .intro{margin:6px 0 10px;color:#4f4a60;font-size:15px}
+.card{display:flex;gap:12px;align-items:flex-start;width:100%;text-align:left;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:12px;margin:10px 0;cursor:pointer}
+.card .ic{flex:0 0 52px;height:52px}
+.card .ic svg{width:52px;height:52px}
+.card .d{font-family:'Fredoka';font-weight:600;font-size:12.5px;color:var(--muted)}
+.card h3{margin:1px 0 4px;font-size:17px;line-height:1.25}
+.card .t{font-size:14px;color:#57516a;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.tag{display:inline-block;font-size:11.5px;font-weight:700;border-radius:999px;padding:1px 8px;color:#fff;margin-left:6px;vertical-align:1px}
+/* ===== Ficha ===== */
+.sheet{position:fixed;inset:0;z-index:50;background:var(--bg);overflow-y:auto;transform:translateY(100%);transition:transform .28s ease}
+.sheet.open{transform:none}
+.sh-top{position:sticky;top:0;z-index:2;background:var(--bg);padding:10px 16px 8px;border-bottom:1px solid var(--line)}
+.sh-row{display:flex;align-items:center;gap:10px}
+.sh-close{width:38px;height:38px;border-radius:12px;border:1px solid var(--line);background:#fff;font-size:20px;line-height:1;flex:0 0 auto}
+.sh-ttl{font-family:'Fredoka';font-weight:600;font-size:15px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.seg{display:grid;grid-template-columns:repeat(3,1fr);border:1.5px solid var(--line);border-radius:999px;overflow:hidden;background:#fff;margin-top:8px}
+.seg button{border:0;background:none;padding:8px 2px;font-family:'Fredoka';font-weight:600;font-size:14px}
+.seg button+button{border-left:1.5px solid var(--line)}
+.seg button.on{background:var(--accent);color:#fff}
+.sh-body{max-width:560px;margin:0 auto;padding:16px 18px 90px}
+.sh-head{display:flex;gap:14px;align-items:center}
+.sh-head .ic svg{width:68px;height:68px}
+.sh-head h2{margin:0;font-size:24px;line-height:1.15}
+.sh-head .d{font-family:'Fredoka';font-weight:600;color:var(--muted);font-size:14px}
+.txt{font-size:17px;line-height:1.65;margin-top:12px}
+.txt p{margin:0 0 14px}
+.txt .dato{background:#fff7ee;border-left:4px solid var(--accent);padding:10px 12px;border-radius:0 10px 10px 0;font-size:15.5px}
+.txt .dato span{display:block;font-family:'Fredoka';font-weight:600;color:var(--accent);font-size:13px;text-transform:uppercase;letter-spacing:1px}
+.rt{font-size:13px;color:var(--muted);margin-top:8px}
+.more{display:block;width:100%;margin-top:6px;border:1.5px solid var(--accent);background:#fff;color:var(--accent);border-radius:14px;padding:12px;font-family:'Fredoka';font-weight:600;font-size:15px}
+.sh-foot{position:fixed;left:0;right:0;bottom:0;z-index:3;display:flex;gap:8px;padding:10px 16px calc(10px + env(safe-area-inset-bottom));background:rgba(251,246,236,.96);border-top:1px solid var(--line)}
+.sh-foot button{flex:1;border:0;border-radius:12px;padding:11px 6px;font-family:'Fredoka';font-weight:600;font-size:14.5px;background:#fff;border:1px solid var(--line)}
+.sh-foot .pri{background:var(--era);color:#fff;border-color:var(--era)}
+/* ===== Mundo A: un año ===== */
+.yearbox{position:sticky;top:62px;z-index:10;margin:0 -16px;padding:12px 16px 10px;background:var(--bg);border-bottom:1px solid var(--line)}
+.yrow{display:flex;align-items:center;gap:10px}
+.ybig{font-family:'Fredoka';font-weight:700;font-size:34px;line-height:1;min-width:120px}
+.ystep{width:40px;height:40px;border-radius:12px;border:1px solid var(--line);background:#fff;font-size:20px;font-weight:700}
+input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
+.jumps{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none}
+.jumps::-webkit-scrollbar{display:none}
+.jumps button{flex:0 0 auto;border:1px solid var(--line);background:#fff;border-radius:999px;padding:4px 10px;font-size:13px;font-weight:700}
+.cont{margin-top:18px}
+.cont h3{margin:0 0 6px;font-size:15px;text-transform:uppercase;letter-spacing:1.5px;color:var(--muted)}
+.zone{display:flex;gap:10px;align-items:stretch;background:#fff;border:1px solid var(--line);border-radius:14px;margin:7px 0;overflow:hidden;width:100%;text-align:left;padding:0}
+.zone .bar{flex:0 0 8px}
+.zone .zb{padding:9px 10px 9px 2px;flex:1}
+.zone .zn{font-family:'Fredoka';font-weight:600;font-size:15px}
+.zone .zt{font-size:14px;color:#4f4a60}
+.zone .zy{font-size:12px;color:var(--muted);font-weight:700}
+.zone.now{border-color:var(--accent);box-shadow:0 0 0 2px #f6d4ae}
+.zone .new{font-size:11px;font-weight:800;color:#fff;background:var(--accent);border-radius:999px;padding:1px 7px;margin-left:6px}
+.leg{display:flex;flex-wrap:wrap;gap:8px 12px;margin-top:8px;font-size:12.5px;color:var(--muted)}
+.leg i{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:4px;vertical-align:-1px}
+/* ===== Mundo B: zonas en paralelo ===== */
+.pick{position:sticky;top:62px;z-index:10;margin:0 -16px;padding:10px 16px;background:var(--bg);border-bottom:1px solid var(--line)}
+.pick .chips{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}
+.pick .chips::-webkit-scrollbar{display:none}
+.pick .chips button{flex:0 0 auto;border:1.5px solid var(--line);background:#fff;border-radius:999px;padding:5px 11px;font-size:13.5px;font-weight:700}
+.pick .chips button.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+.pick .hint{font-size:12.5px;color:var(--muted);margin-top:6px}
+.cols{display:grid;gap:6px;margin-top:10px;position:sticky;top:150px;z-index:9;background:var(--bg);padding:6px 0}
+.cols div{font-family:'Fredoka';font-weight:600;font-size:13.5px;text-align:center;background:#fff;border:1px solid var(--line);border-radius:10px;padding:5px 2px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.trow{display:grid;gap:6px;margin-top:6px}
+.trow .yr{grid-column:1/-1;font-family:'Fredoka';font-weight:700;font-size:13px;color:var(--muted);margin-top:8px}
+.cell{border-radius:10px;padding:7px 8px;font-size:13px;line-height:1.3;min-height:20px;border:1px solid rgba(0,0,0,.04);text-align:left}
+.cell.empty{background:repeating-linear-gradient(135deg,#f4eee2 0 6px,#f8f3ea 6px 12px);border-color:transparent}
+.cell.hasd{cursor:pointer;box-shadow:inset 0 -3px 0 rgba(224,139,62,.55)}
+</style></head>
+<body>
+<div class="rev">
+ <p>Página de prueba de diseño · no es pública</p>
+ <div class="pills">
+  <button data-s="epoca" class="on">1 · Una época</button>
+  <button data-s="ficha">2 · Una ficha</button>
+  <button data-s="mundoA">3A · El mundo en un año</button>
+  <button data-s="mundoB">3B · Zonas en paralelo</button>
+ </div>
+</div>
+
+<!-- 1 · ÉPOCA -->
+<section class="scr on" id="epoca"><div class="wrap">
+ <div class="hero">
+  <div class="k">Mil años entre dos mundos</div>
+  <h1>Edad Media</h1>
+  <p>Cae Roma, nace el islam, se levantan castillos y catedrales, y los mongoles unen medio planeta.</p>
+  <div class="stats"><span>476 – 1492</span><span id="nf"></span><span>5 capítulos</span></div>
+ </div>
+ <div class="capbar" id="capbar"></div>
+ <div id="caps"></div>
+ <div class="note">Cómo funciona: los capítulos van en una fila que se desliza con el dedo y se queda fija arriba. Cada tarjeta enseña dos líneas del nivel elegido; al tocarla se abre la ficha a pantalla completa (pantalla 2).</div>
+</div></section>
+
+<!-- 2 · FICHA (explicación; la ficha real se abre encima) -->
+<section class="scr" id="ficha"><div class="wrap">
+ <h2 style="margin:20px 0 6px">La ficha abierta</h2>
+ <p>Ocupa toda la pantalla y sube desde abajo. Arriba, el selector de nivel (cambia el texto sin cerrar). Abajo, botones al alcance del pulgar: ficha anterior / siguiente y <b>«¿Qué pasaba en el mundo?»</b>, que salta a la Sincronía en ese año.</p>
+ <button class="more" id="openDemo">Abrir una ficha de ejemplo</button>
+ <div class="note">El nivel <b>General</b> todavía no está escrito: aquí muestra provisionalmente el primer párrafo del texto profundo, para que veas la extensión aproximada.</div>
+</div></section>
+
+<!-- 3A · MUNDO EN UN AÑO -->
+<section class="scr" id="mundoA"><div class="wrap">
+ <div class="yearbox">
+  <div class="yrow"><button class="ystep" id="yl">‹</button><div class="ybig" id="yv"></div><button class="ystep" id="yr">›</button></div>
+  <input type="range" id="ys" min="-3000" max="2025" step="1">
+  <div class="jumps" id="jumps"></div>
+ </div>
+ <div class="leg" id="leg"></div>
+ <div id="zones"></div>
+ <div class="note">Eliges un año (deslizando, con las flechas o con los atajos) y ves cómo estaba cada zona del mundo. Las zonas con algo nuevo ese mismo año salen marcadas. Al tocar una con ficha, se abre.</div>
+</div></section>
+
+<!-- 3B · ZONAS EN PARALELO -->
+<section class="scr" id="mundoB"><div class="wrap">
+ <div class="pick">
+  <div class="chips" id="chips"></div>
+  <div class="hint">Elige hasta 3 zonas · se muestran del año 700 al 1500</div>
+ </div>
+ <div id="par"></div>
+ <div class="note">Eliges 2 o 3 zonas y bajas en el tiempo viéndolas avanzar a la vez. Las casillas rayadas son años sin novedad en esa zona.</div>
+</div></section>
+
+<!-- hoja de ficha -->
+<div class="sheet" id="sheet">
+ <div class="sh-top">
+  <div class="sh-row"><button class="sh-close" id="shClose" aria-label="Cerrar">✕</button><div class="sh-ttl" id="shTtl"></div></div>
+  <div class="seg" id="seg"><button data-l="n">🧒 Niños</button><button data-l="g" class="on">📘 General</button><button data-l="p">🎓 Profundo</button></div>
+ </div>
+ <div class="sh-body" id="shBody"></div>
+ <div class="sh-foot" id="shFoot"></div>
+</div>
+
+<script>
+let D, LV='g', CUR=null, CURK='era';
+const $=s=>document.querySelector(s);
+const CONT={africa:'África',asia:'Asia',europa:'Europa',america:'América',oceania:'Oceanía'};
+const CCOL={Europa:'#5B84B1',Asia:'#E6A93C','África':'#D07C43','América':'#5FA463','Oceanía':'#9B6FB0',Mundo:'#8b7d6b'};
+function fy(y){return y<0?(-y).toLocaleString('es-ES')+' a.C.':String(y);}
+function strip(h){const d=document.createElement('div');d.innerHTML=h;return d.textContent;}
+function mins(h){return Math.max(1,Math.round(strip(h).split(/\s+/).length/200));}
+
+fetch('demo.json').then(r=>r.json()).then(j=>{D=j;init();});
+
+function init(){
+ // pestañas de revisión
+ document.querySelectorAll('.rev button').forEach(b=>b.onclick=()=>{
+  document.querySelectorAll('.rev button').forEach(x=>x.classList.toggle('on',x===b));
+  document.querySelectorAll('.scr').forEach(s=>s.classList.toggle('on',s.id===b.dataset.s));
+  window.scrollTo(0,0);
+  if(b.dataset.s==='ficha') openEra('med3-0');
+ });
+ // ÉPOCA
+ $('#nf').textContent=Object.keys(D.fichas).length+' historias';
+ const cb=$('#capbar'), cs=$('#caps');
+ D.caps.forEach((c,i)=>{
+  const b=document.createElement('button'); b.textContent=(i+1)+'. '+c.t.split(/[,:]/)[0]; b.dataset.c=c.id; if(!i)b.classList.add('on');
+  b.onclick=()=>{document.getElementById(c.id).scrollIntoView({behavior:'smooth',block:'start'});};
+  cb.appendChild(b);
+  const s=document.createElement('div'); s.className='cap'; s.id=c.id; s.style.scrollMarginTop='120px';
+  s.innerHTML=`<div class="illo">${c.svg}</div><div class="per">Capítulo ${i+1} · ${c.per}</div><h2>${c.t}</h2><p class="intro">${c.intro}</p>`+
+   c.f.map(k=>{const f=D.fichas[k];return `<button class="card" data-k="${k}"><div class="ic">${f.ic}</div><div><div class="d">${f.d}<span class="tag" style="background:${CCOL[f.c]||'#8b7d6b'}">${f.c}</span></div><h3>${f.t}</h3><div class="t">${strip(f[LV]||f.p)}</div></div></button>`}).join('');
+  cs.appendChild(s);
+ });
+ cs.querySelectorAll('.card').forEach(b=>b.onclick=()=>openEra(b.dataset.k));
+ const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){cb.querySelectorAll('button').forEach(b=>b.classList.toggle('on',b.dataset.c===e.target.id));const on=cb.querySelector('.on');on&&on.scrollIntoView({inline:'center',block:'nearest'});}}),{rootMargin:'-130px 0px -60% 0px'});
+ D.caps.forEach(c=>io.observe(document.getElementById(c.id)));
+ // FICHA
+ $('#openDemo').onclick=()=>openEra('med3-0');
+ $('#shClose').onclick=closeSheet;
+ $('#seg').querySelectorAll('button').forEach(b=>b.onclick=()=>{LV=b.dataset.l;$('#seg').querySelectorAll('button').forEach(x=>x.classList.toggle('on',x===b));renderSheet();});
+ // MUNDO A
+ const fl=$('#leg'); Object.entries(D.fases).forEach(([c,n])=>fl.insertAdjacentHTML('beforeend',`<span><i style="background:${c}"></i>${n.replace(' (escritura)','')}</span>`));
+ const J=[[-2500,'Pirámides'],[-500,'Grecia clásica'],[1,'Año 1'],[476,'Cae Roma'],[711,'Al-Ándalus'],[1066,'1066'],[1492,'1492'],[1789,'1789'],[1914,'1914'],[1945,'1945']];
+ J.forEach(([y,t])=>{const b=document.createElement('button');b.textContent=t;b.onclick=()=>setYear(y);$('#jumps').appendChild(b);});
+ $('#ys').oninput=e=>setYear(+e.target.value);
+ $('#yl').onclick=()=>stepYear(-1); $('#yr').onclick=()=>stepYear(1);
+ setYear(1066);
+ // MUNDO B
+ const sel=['Hispania · Castilla · España','China','Mesoamérica'];
+ D.regs.forEach(([r])=>{const b=document.createElement('button');b.textContent=r.replace('Hispania · Castilla · España','Castilla · España');b.dataset.r=r;if(sel.includes(r))b.classList.add('on');
+  b.onclick=()=>{const on=[...$('#chips').querySelectorAll('.on')];if(b.classList.contains('on')){b.classList.remove('on');}else{if(on.length>=3)on[0].classList.remove('on');b.classList.add('on');}renderPar();};
+  $('#chips').appendChild(b);});
+ renderPar();
+}
+// ---- ficha
+function openEra(k){CURK='era';CUR=k;renderSheet();$('#sheet').classList.add('open');document.body.style.overflow='hidden';}
+function openSync(key){CURK='sync';CUR=key;renderSheet();$('#sheet').classList.add('open');document.body.style.overflow='hidden';}
+function closeSheet(){$('#sheet').classList.remove('open');document.body.style.overflow='';}
+function renderSheet(){
+ const b=$('#shBody'), ft=$('#shFoot');
+ if(CURK==='era'){
+  const f=D.fichas[CUR]; const h=f[LV]||f.p;
+  $('#shTtl').textContent=f.t; $('#seg').style.display='';
+  b.innerHTML=`<div class="sh-head"><div class="ic">${f.ic}</div><div><div class="d">${f.d} · ${f.c}</div><h2>${f.t}</h2></div></div><div class="rt">⏱ ${mins(h)} min de lectura</div><div class="txt">${h}</div>`+
+   (LV!=='p'?`<button class="more" onclick="LV='p';document.querySelectorAll('#seg button').forEach(x=>x.classList.toggle('on',x.dataset.l==='p'));renderSheet();window.scrollTo(0,0)">Quiero saber más →</button>`:'');
+  const keys=D.caps.flatMap(c=>c.f), i=keys.indexOf(CUR);
+  const y=parseInt(f.d)||1000;
+  ft.innerHTML=`<button ${i<=0?'disabled':''} onclick="openEra('${keys[i-1]}');$('#sheet').scrollTo(0,0)">‹ Anterior</button><button class="pri" onclick="closeSheet();document.querySelector('[data-s=mundoA]').click();setYear(${y})">🌍 ¿Y en el mundo?</button><button ${i>=keys.length-1?'disabled':''} onclick="openEra('${keys[i+1]}');$('#sheet').scrollTo(0,0)">Siguiente ›</button>`;
+ }else{
+  const [r,y]=CUR.split('|'); const h=D.det[CUR]||'';
+  $('#shTtl').textContent=r+' · '+fy(+y); $('#seg').style.display='none';
+  b.innerHTML=`<div class="sh-head"><div><div class="d">${fy(+y)}</div><h2>${r.replace('Hispania · Castilla · España','Castilla · España')}</h2></div></div><div class="rt">⏱ ${mins(h)} min de lectura</div><div class="txt">${h||'<p>Esta celda aún no tiene ficha en la prueba.</p>'}</div>`;
+  ft.innerHTML=`<button class="pri" onclick="closeSheet()">← Volver al mapa del año</button>`;
+ }
+ $('#sheet').scrollTo(0,0);
+}
+// ---- mundo A
+let YEAR=1066;
+function allYears(){if(!allYears.c){const s=new Set();Object.values(D.ev).forEach(a=>a.forEach(e=>s.add(e[0])));allYears.c=[...s].sort((a,b)=>a-b);}return allYears.c;}
+function stepYear(d){const ys=allYears();let i=ys.findIndex(y=>y>YEAR);if(d<0){i=ys.findLastIndex(y=>y<YEAR);setYear(i>=0?ys[i]:YEAR);}else setYear(i>=0?ys[i]:YEAR);}
+function setYear(y){
+ YEAR=y; $('#yv').textContent=fy(y); $('#ys').value=y;
+ const z=$('#zones'); let html='';
+ Object.entries(CONT).forEach(([ck,cn])=>{
+  const rs=D.regs.filter(r=>r[1]===ck); let rows='';
+  rs.forEach(([r])=>{
+   const a=(D.ev[r]||[]).filter(e=>e[0]<=y); if(!a.length)return; const e=a[a.length-1];
+   const now=e[0]===y, key=r+'|'+e[0], has=e[3]&&D.det[key];
+   rows+=`<button class="zone${now?' now':''}" ${has?`onclick="openSync('${key.replace(/'/g,"\\'")}')"`:''}><div class="bar" style="background:${e[2]}"></div><div class="zb"><div class="zn">${r.replace('Hispania · Castilla · España','Castilla · España')}${now?'<span class="new">ESTE AÑO</span>':''}</div><div class="zt">${e[1]}</div><div class="zy">desde ${fy(e[0])}${has?' · 📖 ficha':''}</div></div></button>`;
+  });
+  if(rows) html+=`<div class="cont"><h3>${cn}</h3>${rows}</div>`;
+ });
+ z.innerHTML=html;
+}
+// ---- mundo B
+function renderPar(){
+ const sel=[...$('#chips').querySelectorAll('.on')].map(b=>b.dataset.r);
+ const p=$('#par'); if(!sel.length){p.innerHTML='<p>Elige alguna zona.</p>';return;}
+ const cols=`grid-template-columns:repeat(${sel.length},1fr)`;
+ const ys=new Set(); sel.forEach(r=>(D.ev[r]||[]).forEach(e=>{if(e[0]>=700&&e[0]<=1500)ys.add(e[0]);}));
+ let h=`<div class="cols" style="${cols}">${sel.map(r=>`<div>${r.replace('Hispania · Castilla · España','Castilla · España')}</div>`).join('')}</div>`;
+ [...ys].sort((a,b)=>a-b).forEach(y=>{
+  h+=`<div class="trow" style="${cols}"><div class="yr">${fy(y)}</div>`+sel.map(r=>{
+   const e=(D.ev[r]||[]).find(e=>e[0]===y);
+   if(!e) return '<div class="cell empty"></div>';
+   const key=r+'|'+y, has=e[3]&&D.det[key];
+   return `<div class="cell${has?' hasd':''}" style="background:${e[2]}55" ${has?`onclick="openSync('${key.replace(/'/g,"\\'")}')"`:''}>${e[1]}</div>`;
+  }).join('')+'</div>';
+ });
+ p.innerHTML=h;
+}
+</script>
+</body></html>
