@@ -230,6 +230,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <div class="sec-t">Hoy en HistoKHB</div>
   <button class="big" onclick="go('#/reto')"><span class="bi" id="retoIco">🏆</span><div><h3>Reto del día</h3><p id="retoMini">5 preguntas nuevas cada día. ¿Cuántas aciertas?</p></div></button>
   <div id="hdia"></div>
+  <div id="nov0"></div>
   <div class="sec-t">Viaja por las épocas</div>
   <div class="eras" id="eras"></div>
   <div class="sec-t">Otras formas de explorar</div>
@@ -282,6 +283,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 </div></section>
 
 <!-- RETO -->
+<section class="scr" id="s-novedades"><div class="wrap"><div id="novBox"></div></div></section>
 <section class="scr" id="s-reto"><div class="wrap"><div id="retoBox"></div></div></section>
 
 <!-- GUARDADOS -->
@@ -363,11 +365,13 @@ function route(){
  else if(k==='aqui'){renderAqui();}
  else if(k==='favs'){renderFavs();}
  else if(k==='reto'){renderReto(p[1]);}
+ else if(k==='novedades'){renderNov();}
  else renderInicio();
 }
 
 // ---------- inicio ----------
 function initInicio(){
+ initNov0().catch(()=>{});
  $('#nfichas').textContent=Object.keys(IDX.fichas).length;
  $('#eras').innerHTML=IDX.secciones.map(s=>`<button class="era" style="background:linear-gradient(150deg,${s.col},${s.col}cc)" onclick="go('#/epoca/${s.id}')"><span class="ei">${ERA_IC[s.id]||''}</span><span class="ep">${s.per}</span><h3>${s.t}</h3></button>`).join('');
  let t=null; $('#q').addEventListener('input',e=>{clearTimeout(t);t=setTimeout(()=>doSearch(e.target.value),180);});
@@ -627,6 +631,8 @@ async function aquiAt(pt,label){
 // ---------- reto del día ----------
 // Regla (Carlos, 11-oct): el día suma a la racha cuando se RESUELVEN las 5 (si fallas, buscas en la ficha y reintentas).
 let RETOQ=null, RS=null;
+function FI(id){if(!id.startsWith('s:'))return IDX.fichas[id];const key=id.slice(2),r=key.slice(0,key.lastIndexOf('|')),y=+key.split('|').pop();const e=SINC&&(SINC.ev[r]||[]).find(e=>e[0]===y);return {t:e?e[1]:rn(r)+', '+fy(y),sec:'sinc',sincr:rn(r)};}
+function FH(id){return id.startsWith('s:')?'#/s/'+encodeURIComponent(id.slice(2)):'#/f/'+id;}
 function hoy(){const d=new Date();return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');}
 function dkey(d){return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');}
 function rng(seed){let h=1779033703^seed.length;for(let i=0;i<seed.length;i++){h=Math.imul(h^seed.charCodeAt(i),3432918353);h=h<<13|h>>>19;}return function(){h=Math.imul(h^h>>>16,2246822507);h=Math.imul(h^h>>>13,3266489909);h^=h>>>16;return (h>>>0)/4294967296;};}
@@ -634,7 +640,7 @@ function racha(){const r=LS.get('hk_reto',{d:{}});let n=0;const d=new Date();if(
 function pickSet(seed){
  const R=rng(seed), byDif={n:[],g:[],p:[]}; RETOQ.forEach((q,i)=>byDif[q[1]].push(i));
  const want=['n','n','g','g','p'], used=new Set(), secs=new Set(), out=[];
- want.forEach(d=>{for(let t=0;t<200;t++){const i=byDif[d][Math.floor(R()*byDif[d].length)];const f=IDX.fichas[RETOQ[i][0]];if(used.has(i)||(t<150&&f&&secs.has(f.sec)))continue;used.add(i);f&&secs.add(f.sec);out.push(i);break;}});
+ want.forEach(d=>{for(let t=0;t<200;t++){const i=byDif[d][Math.floor(R()*byDif[d].length)];const f=FI(RETOQ[i][0]);if(used.has(i)||(t<150&&f&&secs.has(f.sec)))continue;used.add(i);f&&secs.add(f.sec);out.push(i);break;}});
  return out.map(i=>({i,ord:[0,1,2,3].sort(()=>R()-.5),ans:null,wrong:[],hint:false}));
 }
 const RANGOS=[[0,'🧭','Viajero curioso'],[3,'📜','Aprendiz de escriba'],[7,'🪶','Cronista'],[14,'🏛️','Erudito'],[30,'📚','Sabio de Alejandría'],[60,'🦉','Guardián de la memoria'],[100,'👑','Maestro de la Historia']];
@@ -646,6 +652,7 @@ function saveProg(){ if(!RS.practice) LS.set('hk_reto_prog',RS); }
 async function renderReto(mode){
  lastScreen='reto'; show('reto');
  if(!RETOQ){$('#retoBox').innerHTML='<p class="empty-st">Cargando preguntas…</p>';RETOQ=await getJ('reto.json');}
+ if(!SINC){try{await sinc();}catch(e){}}
  const today=hoy();
  if(mode==='practica'){ if(!RS||!RS.practice||RS.k>=RS.qs.length){RS={practice:true,qs:pickSet('p'+Date.now()),k:0};} }
  else if(!RS||RS.practice||RS.day!==today){
@@ -665,20 +672,32 @@ function drawReto(){
   B.innerHTML=`<div class="score"><div class="sec-t" style="margin-top:6px">${RS.practice?'Práctica':'Reto del día · '+RS.day.split('-').reverse().join('/')}</div><div class="big1">${first}/5</div><p style="margin:4px 0 0;color:var(--muted);font-weight:700">a la primera</p><p>${msg}</p>${RS.practice?'':`${RS.subio?`<div class="fb" style="text-align:center">🎉 ¡Nueva categoría: <b>${RS.subio[1]} ${RS.subio[2]}</b>!</div>`:''}<span class="streak">🔥 Racha: ${st} día${st!==1?'s':''}</span>${rangoHTML(st)}<p class="rt">Cada día que resuelves las 5 preguntas suma uno. Si un día no lo haces, la racha vuelve a empezar.</p>`}</div>`+
    `<div class="rbtns"><a class="btn" style="background:var(--wa)" target="_blank" rel="noopener" href="${waLink(share)}">Retar por WhatsApp</a></div>`+
    `<div class="rbtns"><button class="btn sec" onclick="RS=null;go('#/reto/practica');renderReto('practica')">Practicar más</button></div>`+
-   `<div class="sec-t">Repasa las respuestas</div>`+RS.qs.map(q=>{const Q=RETOQ[q.i],f=IDX.fichas[Q[0]];return `<button class="res" onclick="go('#/f/${Q[0]}')"><div class="rk">${q.wrong.length?'🔎 Resuelta buscando':'✅ A la primera'} · ${f?esc(f.t):''}</div><div class="rt">${esc(Q[2])}</div><div class="rs">Respuesta: ${esc(Q[3][Q[4]])}</div></button>`;}).join('')+
+   `<div class="sec-t">Repasa las respuestas</div>`+RS.qs.map(q=>{const Q=RETOQ[q.i],f=FI(Q[0]);return `<button class="res" onclick="go('${FH(Q[0])}')"><div class="rk">${q.wrong.length?'🔎 Resuelta buscando':'✅ A la primera'} · ${f?esc(f.t):''}</div><div class="rt">${esc(Q[2])}</div><div class="rs">Respuesta: ${esc(Q[3][Q[4]])}</div></button>`;}).join('')+
    (RS.practice?'':'<p class="rt" style="text-align:center">Mañana tendrás 5 preguntas nuevas.</p>');
   return;
  }
- const q=RS.qs[RS.k], Q=RETOQ[q.i], f=IDX.fichas[Q[0]], difN={n:'Fácil',g:'Media',p:'Difícil'}[Q[1]];
+ const q=RS.qs[RS.k], Q=RETOQ[q.i], f=FI(Q[0]), difN={n:'Fácil',g:'Media',p:'Difícil'}[Q[1]];
  const inv=Q[1]==='p';
- let h=`<div class="rq-top"><span>${RS.practice?'Práctica':'Reto del día'} · ${RS.k+1} de ${n}</span>${dots}</div><div class="rq"><div class="dif">${inv?'🔎 Pregunta de investigación':difN}${f?' · '+esc(IDX.secciones.find(s=>s.id===f.sec).t):''}</div><h2>${esc(Q[2])}</h2>`+(inv&&q.ans==null&&!q.wrong.length?`<div class="fb" style="margin:0 0 6px">La respuesta está en la ficha <b>«${f?esc(f.t):''}»</b>. ¿Te la sabes o vas a investigar?<div class="rbtns"><button class="btn sec" onclick="go('#/f/${Q[0]}')">📖 Investigar en la ficha</button></div></div>`:'');
+ let h=`<div class="rq-top"><span>${RS.practice?'Práctica':'Reto del día'} · ${RS.k+1} de ${n}</span>${dots}</div><div class="rq"><div class="dif">${inv?'🔎 Pregunta de investigación':difN}${f?' · '+esc(f.sec==='sinc'?'Sincronía · '+f.sincr:IDX.secciones.find(s=>s.id===f.sec).t):''}</div><h2>${esc(Q[2])}</h2>`+(inv&&q.ans==null&&!q.wrong.length?`<div class="fb" style="margin:0 0 6px">La respuesta está en la ficha <b>«${f?esc(f.t):''}»</b>. ¿Te la sabes o vas a investigar?<div class="rbtns"><button class="btn sec" onclick="go('${FH(Q[0])}')">📖 Investigar en la ficha</button></div></div>`:'');
  h+=q.ord.map(o=>{let c='',dis=false;if(q.ans!=null){dis=true;if(o===Q[4])c='ok';}if(q.wrong.includes(o)){c='ko';dis=true;}return `<button class="opt ${c}" ${dis?'disabled':''} onclick="answer(${o})">${q.wrong.includes(o)?'<s>'+esc(Q[3][o])+'</s>':esc(Q[3][o])}</button>`;}).join('');
  if(q.ans==null&&!q.wrong.length) h+= q.hint?`<div class="fb">💡 ${esc(Q[5])}</div>`:`<button class="pista" onclick="RS.qs[RS.k].hint=true;drawReto()">💡 Ver pista</button>`;
- else if(q.ans==null) h+=`<div class="fb"><b>No es esa.</b> La respuesta está en la ficha «${f?esc(f.t):''}». Búscala y vuelve a intentarlo.</div><div class="rbtns"><button class="btn" onclick="go('#/f/${Q[0]}')">📖 Buscar en la ficha</button></div>`;
- else h+=`<div class="fb"><b>${q.wrong.length?'¡Ahora sí!':'¡Correcto!'}</b> ${esc(Q[6])}</div><div class="rbtns"><button class="btn sec" onclick="go('#/f/${Q[0]}')">📖 Leer la ficha</button><button class="btn" onclick="RS.k++;saveProg();drawReto();window.scrollTo(0,0)">${RS.k+1<n?'Siguiente →':'Ver resultado'}</button></div>`;
+ else if(q.ans==null) h+=`<div class="fb"><b>No es esa.</b> La respuesta está en la ficha «${f?esc(f.t):''}». Búscala y vuelve a intentarlo.</div><div class="rbtns"><button class="btn" onclick="go('${FH(Q[0])}')">📖 Buscar en la ficha</button></div>`;
+ else h+=`<div class="fb"><b>${q.wrong.length?'¡Ahora sí!':'¡Correcto!'}</b> ${esc(Q[6])}</div><div class="rbtns"><button class="btn sec" onclick="go('${FH(Q[0])}')">📖 Leer la ficha</button><button class="btn" onclick="RS.k++;saveProg();drawReto();window.scrollTo(0,0)">${RS.k+1<n?'Siguiente →':'Ver resultado'}</button></div>`;
  B.innerHTML=h+'</div>';
 }
 function answer(o){const q=RS.qs[RS.k],Q=RETOQ[q.i];if(q.ans!=null||q.wrong.includes(o))return;if(o===Q[4])q.ans=o;else q.wrong.push(o);saveProg();drawReto();}
+
+// ---------- novedades (proyecto vivo: cada día nuevas historias) ----------
+let NOV=null;
+async function novs(){if(!NOV){try{NOV=await getJ('novedades.json');}catch(e){NOV=[];}}return NOV;}
+function fdia(d){const [a,m,dd]=d.split('-');return +dd+' '+['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'][+m-1]+' '+a;}
+async function initNov0(){const N=await novs();if(!N.length)return;const u=N[N.length-1];
+ $('#nov0').innerHTML=`<button class="big" onclick="go('#/novedades')"><span class="bi">🆕</span><div><h3>Novedades · ${fdia(u.fecha)}</h3><p>${u.items.length} historias nuevas: ${esc(u.titulo)}. ${esc(u.items.slice(0,2).map(i=>i.t).join(' · '))}…</p></div></button>`;}
+async function renderNov(){lastScreen='novedades';show('novedades');const N=await novs();await sinc().catch(()=>{});
+ let h='<div class="sec-t" style="margin-top:6px">🆕 Novedades</div><p class="rt">HistoKHB crece cada día. Aquí tienes las últimas historias añadidas o ampliadas.</p>';
+ h+=N.slice().reverse().map(d=>`<div class="sec-t">${fdia(d.fecha)} · ${esc(d.titulo)}</div>`+d.items.map(i=>{const r=i.k.slice(0,i.k.lastIndexOf('|')),y=+i.k.split('|').pop();
+  return `<button class="res" onclick="go('#/s/${encodeURIComponent(i.k)}')"><div class="rk">${i.tipo==='nueva'?'✨ Nueva':'➕ Ampliada'} · ${esc(rn(r))} · ${fy(y)}</div><div class="rt">${esc(i.t)}</div>${i.lugares&&i.lugares.length?`<div class="rs">📍 ${esc(i.lugares.join(', '))}</div>`:''}</button>`;}).join('')).join('');
+ $('#novBox').innerHTML=h||'<p class="empty-st">Pronto habrá novedades.</p>';}
 
 // ---------- guardados ----------
 function renderFavs(){
