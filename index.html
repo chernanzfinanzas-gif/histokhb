@@ -8,32 +8,51 @@
 *{box-sizing:border-box}
 html,body{margin:0;height:100%}
 body{font-family:'Fredoka',system-ui,sans-serif;background:var(--bg);color:var(--ink);display:flex;flex-direction:column}
-.bar{background:#fff;border-bottom:1px solid var(--line);flex:0 0 auto}
-.bar .row{display:flex;align-items:center;gap:8px;flex-wrap:wrap;padding:7px 12px;max-width:1300px;margin:0 auto}
-.brand{font-weight:700;font-size:16px;color:var(--accent);margin-right:6px;white-space:nowrap}
+button{font-family:'Fredoka',system-ui,sans-serif}
+.bar{background:#fff;border-bottom:1px solid var(--line);flex:0 0 auto;position:relative;z-index:5}
+.bar .row{display:flex;align-items:center;gap:10px;padding:8px 12px;max-width:1300px;margin:0 auto}
+.brand{font-weight:700;font-size:17px;color:var(--accent);white-space:nowrap}
 .brand b{color:var(--ink);font-weight:600}
-.tabs{display:flex;gap:2px;flex-wrap:wrap;flex:1 1 auto}
-.nbtn{font-family:'Fredoka';font-weight:600;font-size:13.5px;border:1px solid transparent;background:none;color:var(--muted);padding:8px 13px;border-radius:11px;cursor:pointer}
-.nbtn:hover{background:#f2ead9;color:var(--ink)}
-.nbtn.on{background:#fff7ee;color:var(--accent);border-color:#f0d8b8}
-.lvl{display:flex;gap:5px;align-items:center;white-space:nowrap}
-.lvl>span{font-size:11px;letter-spacing:1px;text-transform:uppercase;color:var(--muted);font-weight:600}
-.lb{font-family:'Fredoka';font-weight:600;font-size:12.5px;border:1.5px solid var(--line);background:#fff;color:var(--ink);border-radius:999px;padding:5px 12px;cursor:pointer}
-.lb:hover{border-color:var(--accent)}
-.lb.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+.tabs{display:flex;gap:4px;flex-wrap:wrap;flex:1 1 auto}
+.nbtn{--c:var(--accent);display:inline-flex;align-items:center;gap:6px;font-weight:600;font-size:13.5px;border:1.5px solid transparent;background:none;color:var(--ink);padding:7px 11px;border-radius:12px;cursor:pointer}
+.nbtn .ic{font-size:15px;line-height:1}
+.nbtn:hover{background:color-mix(in srgb,var(--c) 12%,#fff)}
+.nbtn.on{background:var(--c);color:#fff;border-color:var(--c)}
+.seg{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border:1.5px solid var(--line);border-radius:999px;overflow:hidden;background:#fff;flex:0 0 auto}
+.lb{font-weight:600;font-size:13px;border:0;background:none;color:var(--ink);padding:7px 12px;cursor:pointer;white-space:nowrap}
+.lb+.lb{border-left:1.5px solid var(--line)}
+.lb.on{background:var(--accent);color:#fff}
+.menu-btn{display:none}
 .stage{flex:1 1 auto;position:relative}
 iframe{position:absolute;inset:0;width:100%;height:100%;border:0;background:var(--bg)}
-@media(max-width:640px){.brand{display:none}.nbtn{padding:7px 10px;font-size:12.5px}}
+.veil{display:none}
+@media(max-width:820px){
+ .bar .row{flex-wrap:wrap;gap:8px;padding:8px 10px}
+ .brand{font-size:16px;order:1}
+ .menu-btn{order:2;flex:1 1 auto;display:flex;align-items:center;justify-content:space-between;gap:8px;
+   font-weight:600;font-size:15px;color:#fff;background:var(--cur,var(--accent));border:0;border-radius:12px;padding:9px 14px;cursor:pointer}
+ .menu-btn .chev{transition:transform .2s}
+ .bar.open .menu-btn .chev{transform:rotate(180deg)}
+ .seg{order:3;flex:1 1 100%}
+ .lb{padding:9px 4px;font-size:14px}
+ .tabs{order:4;flex:1 1 100%;display:none;grid-template-columns:1fr 1fr;gap:8px;padding:4px 0 6px}
+ .bar.open .tabs{display:grid}
+ .nbtn{justify-content:flex-start;font-size:15px;padding:12px;border-radius:14px;
+   background:color-mix(in srgb,var(--c) 14%,#fff);border-color:color-mix(in srgb,var(--c) 35%,#fff)}
+ .nbtn .ic{font-size:20px}
+ .nbtn.on{background:var(--c);color:#fff}
+ .bar.open~.veil{display:block;position:fixed;inset:0;background:rgba(46,42,64,.25);z-index:4}
+}
 </style></head><body>
-<div class="bar"><div class="row">
- <div class="brand">Cronología <b>Universal</b></div>
- <div class="tabs"><button class="nbtn on" data-i="0" data-k="inicio" data-f="">Inicio</button><button class="nbtn" data-i="1" data-k="narrativa" data-f="">Cosmos y Tierra</button><button class="nbtn" data-i="2" data-k="narrativa" data-f="paleolitico">Prehistoria</button><button class="nbtn" data-i="3" data-k="antigua" data-f="">Edad Antigua</button><button class="nbtn" data-i="4" data-k="media" data-f="">Edad Media</button><button class="nbtn" data-i="5" data-k="moderna" data-f="">Edad Moderna</button><button class="nbtn" data-i="6" data-k="contemporanea" data-f="">Contemporánea</button><button class="nbtn" data-i="7" data-k="sincronia" data-f="">Sincronía</button></div>
- <div class="lvl"><span>Nivel</span>
-  <button class="lb" data-l="n">🧒 Niños</button>
-  <button class="lb" data-l="g">📘 General</button>
-  <button class="lb on" data-l="p">🎓 Profundo</button>
+<div class="bar" id="bar"><div class="row">
+ <div class="brand">Histo<b>KHB</b></div>
+ <button class="menu-btn" id="menuBtn" aria-expanded="false"><span id="curLbl">Inicio</span><span class="chev">▾</span></button>
+ <div class="tabs"><button class="nbtn" data-i="0" data-k="inicio" data-f="" style="--c:#e08b3e"><span class="ic">🏠</span>Inicio</button><button class="nbtn" data-i="1" data-k="narrativa" data-f="" style="--c:#6C5CE7"><span class="ic">🌌</span>Cosmos y Tierra</button><button class="nbtn" data-i="2" data-k="narrativa" data-f="paleolitico" style="--c:#A0785A"><span class="ic">🦣</span>Prehistoria</button><button class="nbtn" data-i="3" data-k="antigua" data-f="" style="--c:#C9A24B"><span class="ic">🏛️</span>Edad Antigua</button><button class="nbtn" data-i="4" data-k="media" data-f="" style="--c:#5B84B1"><span class="ic">🏰</span>Edad Media</button><button class="nbtn" data-i="5" data-k="moderna" data-f="" style="--c:#2E8B7A"><span class="ic">⛵</span>Edad Moderna</button><button class="nbtn" data-i="6" data-k="contemporanea" data-f="" style="--c:#C0504D"><span class="ic">🏭</span>Contemporánea</button><button class="nbtn" data-i="7" data-k="sincronia" data-f="" style="--c:#8B7D6B"><span class="ic">🗺️</span>Sincronía</button></div>
+ <div class="seg" role="group" aria-label="Nivel de lectura">
+  <button class="lb" data-l="n">🧒 Niños</button><button class="lb" data-l="g">📘 General</button><button class="lb" data-l="p">🎓 Profundo</button>
  </div>
 </div></div>
+<div class="veil" id="veil"></div>
 <div class="stage"><iframe id="fr" title="Cronología Universal"></iframe></div>
 <script>
 const RAW={"inicio":`<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
@@ -2568,7 +2587,13 @@ function nav(key,frag,idx){
  fr.srcdoc = RAW[key].replace('<!--DEEP-->', deep);
  if(idx==null){ idx = TABS.findIndex(t=>t[1]===key); }
  nbtns.forEach((b,i)=>b.classList.toggle('on', i===idx));
+ const t=nbtns[idx]; if(t){document.getElementById('curLbl').textContent=t.querySelector('.ic').textContent+'  '+t.textContent.replace(t.querySelector('.ic').textContent,'');document.getElementById('bar').style.setProperty('--cur',t.style.getPropertyValue('--c'));}
+ closeMenu();
 }
+const bar=document.getElementById('bar'),mb=document.getElementById('menuBtn');
+function closeMenu(){bar.classList.remove('open');mb.setAttribute('aria-expanded','false');}
+mb.addEventListener('click',()=>{const o=bar.classList.toggle('open');mb.setAttribute('aria-expanded',o);});
+document.getElementById('veil').addEventListener('click',closeMenu);
 nbtns.forEach(b=>b.addEventListener('click',()=>nav(b.dataset.k,b.dataset.f,+b.dataset.i)));
 function setLevel(l){
  localStorage.setItem('nivel',l);
@@ -2586,6 +2611,6 @@ window.addEventListener('message',e=>{
    lbs.forEach(b=>b.classList.toggle('on',b.dataset.l===m.level));
  }
 });
-setLevel(localStorage.getItem('nivel')||'p');
+setLevel(localStorage.getItem('nivel')||'g');
 nav('inicio','',0);
 </script></body></html>
