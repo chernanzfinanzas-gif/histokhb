@@ -693,7 +693,7 @@ let NOV=null;
 async function novs(){if(!NOV){try{NOV=await getJ('novedades.json');}catch(e){NOV=[];}}return NOV;}
 function fdia(d){const [a,m,dd]=d.split('-');return +dd+' '+['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'][+m-1]+' '+a;}
 async function initNov0(){const N=await novs();if(!N.length)return;const u=N[N.length-1];
- $('#nov0').innerHTML=`<button class="big" onclick="go('#/novedades')"><span class="bi">🆕</span><div><h3>Novedades · ${fdia(u.fecha)}</h3><p>${u.items.length} historias nuevas: ${esc(u.titulo)}. ${esc(u.items.slice(0,2).map(i=>i.t).join(' · '))}…</p></div></button>`;}
+ $('#nov0').innerHTML=`<button class="big" onclick="go('#/novedades')"><span class="bi">🆕</span><div><h3>Novedades · ${fdia(u.fecha)}</h3><p>${u.items.length} historias nuevas o ampliadas · ${esc(u.titulo)}. ${esc(u.items.slice(0,2).map(i=>i.t).join(' · '))}…</p></div></button>`;}
 async function renderNov(){lastScreen='novedades';show('novedades');const N=await novs();await sinc().catch(()=>{});
  let h='<div class="sec-t" style="margin-top:6px">🆕 Novedades</div><p class="rt">HistoKHB crece cada día. Aquí tienes las últimas historias añadidas o ampliadas.</p>';
  h+=N.slice().reverse().map(d=>`<div class="sec-t">${fdia(d.fecha)} · ${esc(d.titulo)}</div>`+d.items.map(i=>{const r=i.k.slice(0,i.k.lastIndexOf('|')),y=+i.k.split('|').pop();
