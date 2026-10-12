@@ -157,6 +157,9 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .new{font-size:11px;font-weight:800;color:#fff;background:var(--accent);border-radius:999px;padding:1px 7px;margin-left:6px}
 .pick{position:sticky;top:calc(var(--top) + 52px);z-index:11;margin:0 -16px;padding:10px 16px;background:var(--bg);border-bottom:1px solid var(--line)}
 .sels{display:grid;grid-template-columns:repeat(3,1fr);gap:6px}
+.zbtns{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:8px 0 0}.zbtns button{font:600 14px inherit;font-family:inherit;border:1px solid var(--line);background:#fff;border-radius:999px;padding:6px 12px;font-weight:600;cursor:pointer}.zbtns span{font-size:12px;color:var(--muted)}.zbtns:empty{display:none}
+#par.many .cell{font-size:12px;padding:6px}#par.many .cols div{font-size:12px}
+@media(min-width:900px){#m-zonas{position:relative;left:50%;transform:translateX(-50%);width:min(1500px,96vw)}}
 .pick select{width:100%;font-family:'Fredoka';font-weight:600;font-size:14px;padding:9px 22px 9px 6px;border-radius:10px;border:1.5px solid var(--ink);background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%232e2a40'/%3E%3C/svg%3E") no-repeat right 7px center;-webkit-appearance:none;appearance:none;text-overflow:ellipsis}
 .pick select.per{margin-top:6px;border-color:var(--line);background-color:#fff7ee}
 .pick select[data-empty="1"]{border-style:dashed;color:var(--muted);border-color:#cfc6b6}
@@ -269,7 +272,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
  </div>
  <div id="m-zonas" class="hide">
   <div class="pick">
-   <div class="sels"><select id="z1" aria-label="Zona 1"></select><select id="z2" aria-label="Zona 2"></select><select id="z3" aria-label="Zona 3"></select></div>
+   <div class="sels" id="sels"></div><div class="zbtns" id="zbtns"></div>
    <select id="per" class="per" aria-label="Época"><option value="-1000000,-3500">Prehistoria</option><option value="-3500,476">Edad Antigua</option><option value="476,1492" selected>Edad Media</option><option value="1492,1789">Edad Moderna</option><option value="1789,2100">Edad Contemporánea</option></select>
   </div>
   <div id="par"></div>
@@ -498,7 +501,7 @@ function renderMundo(mode,args){
  sinc().then(()=>{
   initMundo();
   if(mode==='ano'&&args[0]!=null&&args[0]!==''){YEAR=+args[0];}
-  if(mode==='zonas'&&args[0]){const z=args[0].split('~');['z1','z2','z3'].forEach((id,i)=>{if(z[i]!==undefined)document.getElementById(id).value=z[i];});}
+  if(mode==='zonas'&&args[0]){const z=args[0].split('~');ZIDS().forEach((id,i)=>{document.getElementById(id).value=z[i]!==undefined?z[i]:'';});}
   setMode(mode==='zonas'?'zonas':mode==='info'?'info':'ano');
  });
 }
@@ -510,11 +513,14 @@ function initMundo(){
  [[-3000,'Primeras ciudades'],[-2500,'Pirámides'],[-500,'Grecia clásica'],[1,'Año 1'],[476,'Cae Roma'],[711,'Al-Ándalus'],[1066,'1066'],[1492,'1492'],[1789,'1789'],[1914,'1914'],[1945,'1945'],[2001,'2001']].forEach(([y,t])=>{const b=document.createElement('button');b.textContent=t;b.onclick=()=>setYear(y);$('#jumps').appendChild(b);});
  $('#ys').oninput=e=>setYear(+e.target.value,true);
  $('#yl').onclick=()=>stepYear(-1); $('#yr').onclick=()=>stepYear(1);
- const def=[ESP,'China','Mesoamérica'];
- ['z1','z2','z3'].forEach((id,i)=>{const el=document.getElementById(id);let o=i===2?'<option value="">— ninguna —</option>':'';
+ const N=ZN(), def=N>3?ESPS.slice(0,N):[ESP,'China','Mesoamérica'];
+ $('#sels').style.gridTemplateColumns=`repeat(${N},1fr)`;
+ $('#sels').innerHTML=Array.from({length:N},(_,i)=>`<select id="z${i+1}" aria-label="Zona ${i+1}"></select>`).join('');
+ $('#zbtns').innerHTML=N>3?`<button onclick="setZones(ESPS)">🇪🇸 Toda España</button><button onclick="setZones([])">Vaciar</button><span>Hasta ${N} zonas a la vez · deja una en «— ninguna —» para quitarla</span>`:'';
+ ZIDS().forEach((id,i)=>{const el=document.getElementById(id);let o=i>=2?'<option value="">— ninguna —</option>':'';
   Object.entries(CONT).forEach(([ck,cn])=>{o+=`<optgroup label="${cn}">`+SINC.regs.filter(r=>r[1]===ck).map(([r])=>`<option value="${esc(r)}">${esc(rn(r))}</option>`).join('')+'</optgroup>';});
   o+='<optgroup label="Global">'+SINC.regs.filter(r=>r[1]==='global').map(([r])=>`<option value="${esc(r)}">${esc(r)}</option>`).join('')+'</optgroup>';
-  el.innerHTML=o; el.value=def[i]; el.onchange=renderPar;});
+  el.innerHTML=o; el.value=def[i]||''; el.onchange=renderPar;});
  $('#per').onchange=renderPar;
 }
 function setMode(m){MODE=m;$('#mseg').querySelectorAll('button').forEach(b=>b.classList.toggle('on',b.dataset.m===m));
@@ -536,18 +542,25 @@ function setYear(y,fromSlider){
  });
  $('#zones').innerHTML=html;
 }
+function ZN(){return innerWidth>=1100?9:innerWidth>=900?6:3;}
+function ZIDS(){return Array.from({length:ZN()},(_,i)=>'z'+(i+1)).filter(i=>document.getElementById(i));}
+const ESPS=['Portugal','Galicia','Asturias','León',ESP,'Navarra / P.Vasco-Rioja','Aragón / C.Valenciana','Cataluña','Al-Ándalus / Andalucía-Murcia'];
+function setZones(list){const ids=ZIDS();ids.forEach((id,i)=>{document.getElementById(id).value=list[i]||(i<2?document.getElementById(id).value:'');});
+ if(!list.length)ids.forEach((id,i)=>{if(i>=2)document.getElementById(id).value='';});
+ go('#/mundo/zonas/'+ids.map(i=>encodeURIComponent(document.getElementById(i).value)).join('~'));}
 function addZone(r){
- const ids=['z1','z2','z3']; const vals=ids.map(i=>document.getElementById(i)?.value);
  sinc().then(()=>{initMundo();
-  if(!vals.includes(r)){const free=ids.find(i=>!document.getElementById(i).value);document.getElementById(free||'z3').value=r;}
+  const ids=ZIDS(); const vals=ids.map(i=>document.getElementById(i)?.value);
+  if(!vals.includes(r)){const free=ids.find(i=>!document.getElementById(i).value);document.getElementById(free||ids[ids.length-1]).value=r;}
   const y=MODE==='ano'?YEAR:(CUR&&CUR.kind==='s'?+CUR.key.split('|').pop():YEAR);
   const per=[...$('#per').options].find(o=>{const [a,b]=o.value.split(',').map(Number);return y>=a&&y<b;}); if(per)$('#per').value=per.value;
   go('#/mundo/zonas/'+ids.map(i=>encodeURIComponent(document.getElementById(i).value)).join('~'));
  });
 }
 function renderPar(){
- const sel=['z1','z2','z3'].map(i=>document.getElementById(i).value).filter(Boolean);
- ['z1','z2','z3'].forEach(i=>document.getElementById(i).dataset.empty=document.getElementById(i).value?'0':'1');
+ const sel=ZIDS().map(i=>document.getElementById(i).value).filter(Boolean);
+ ZIDS().forEach(i=>document.getElementById(i).dataset.empty=document.getElementById(i).value?'0':'1');
+ $('#par').classList.toggle('many',sel.length>4);
  const [y0,y1]=$('#per').value.split(',').map(Number); const p=$('#par');
  if(!sel.length){p.innerHTML='<p class="empty-st">Elige alguna zona.</p>';return;}
  const cols=`grid-template-columns:repeat(${sel.length},1fr)`;
