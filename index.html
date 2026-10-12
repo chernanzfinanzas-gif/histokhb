@@ -157,7 +157,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .new{font-size:11px;font-weight:800;color:#fff;background:var(--accent);border-radius:999px;padding:1px 7px;margin-left:6px}
 .pick{position:sticky;top:calc(var(--top) + 52px);z-index:11;margin:0 -16px;padding:10px 16px;background:var(--bg);border-bottom:1px solid var(--line)}
 .sels{display:grid;grid-template-columns:repeat(3,1fr);gap:6px}
-.zbtns{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:8px 0 0}.zbtns button{font:600 14px inherit;font-family:inherit;border:1px solid var(--line);background:#fff;border-radius:999px;padding:6px 12px;font-weight:600;cursor:pointer}.zbtns span{font-size:12px;color:var(--muted)}.zbtns:empty{display:none}
+.zbtns{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:8px 0 0}.zbtns button{font:600 14px inherit;font-family:inherit;border:1px solid var(--line);background:#fff;border-radius:999px;padding:6px 12px;font-weight:600;cursor:pointer}.zbtns button:hover{border-color:var(--accent)}.zbtns span{font-size:12px;color:var(--muted)}.zbtns:empty{display:none}
 #par.many .cell{font-size:12px;padding:6px}#par.many .cols div{font-size:12px}
 @media(min-width:900px){#m-zonas{position:relative;left:50%;transform:translateX(-50%);width:min(1500px,96vw)}}
 .pick select{width:100%;font-family:'Fredoka';font-weight:600;font-size:14px;padding:9px 22px 9px 6px;border-radius:10px;border:1.5px solid var(--ink);background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%232e2a40'/%3E%3C/svg%3E") no-repeat right 7px center;-webkit-appearance:none;appearance:none;text-overflow:ellipsis}
@@ -516,7 +516,7 @@ function initMundo(){
  const N=ZN(), def=N>3?ESPS.slice(0,N):[ESP,'China','Mesoamérica'];
  $('#sels').style.gridTemplateColumns=`repeat(${N},1fr)`;
  $('#sels').innerHTML=Array.from({length:N},(_,i)=>`<select id="z${i+1}" aria-label="Zona ${i+1}"></select>`).join('');
- $('#zbtns').innerHTML=N>3?`<button onclick="setZones(ESPS)">🇪🇸 Toda España</button><button onclick="setZones([])">Vaciar</button><span>Hasta ${N} zonas a la vez · deja una en «— ninguna —» para quitarla</span>`:'';
+ $('#zbtns').innerHTML=`<button onclick="$('#per').value='476,1492';setZones(ESPS)">🇪🇸 Toda España</button>`+PRESETS.map((g,i)=>`<button title="${g.z.slice(0,N).join(' · ')}" onclick="preset(${i})">${g.n}</button>`).join('')+(N>3?`<button onclick="setZones([])">Vaciar</button><span>Hasta ${N} zonas a la vez · deja una en «— ninguna —» para quitarla</span>`:'');
  ZIDS().forEach((id,i)=>{const el=document.getElementById(id);let o=i>=2?'<option value="">— ninguna —</option>':'';
   Object.entries(CONT).forEach(([ck,cn])=>{o+=`<optgroup label="${cn}">`+SINC.regs.filter(r=>r[1]===ck).map(([r])=>`<option value="${esc(r)}">${esc(rn(r))}</option>`).join('')+'</optgroup>';});
   o+='<optgroup label="Global">'+SINC.regs.filter(r=>r[1]==='global').map(([r])=>`<option value="${esc(r)}">${esc(r)}</option>`).join('')+'</optgroup>';
@@ -545,7 +545,19 @@ function setYear(y,fromSlider){
 function ZN(){return innerWidth>=1100?9:innerWidth>=900?6:3;}
 function ZIDS(){return Array.from({length:ZN()},(_,i)=>'z'+(i+1)).filter(i=>document.getElementById(i));}
 const ESPS=['Portugal','Galicia','Asturias','León',ESP,'Navarra / P.Vasco-Rioja','Aragón / C.Valenciana','Cataluña','Al-Ándalus / Andalucía-Murcia'];
-function setZones(list){const ids=ZIDS();ids.forEach((id,i)=>{document.getElementById(id).value=list[i]||(i<2?document.getElementById(id).value:'');});
+const PRESETS=[
+ {n:'🌾 Primeras civilizaciones',e:'-3500,-1000',z:['Egipto','Mesopotamia','India','China','Levante','Anatolia','Grecia','Nubia/Sudán','Persia']},
+ {n:'⚱️ Griegos, fenicios y persas',e:'-1000,-300',z:['Grecia','Persia','Levante','Egipto','Magreb','Italia',ESP,'Anatolia','Mesopotamia']},
+ {n:'🏛️ Roma y Cartago',e:'-509,476',z:['Italia','Magreb',ESP,'Egipto','Grecia','Francia','Levante','Islas Británicas','Anatolia']},
+ {n:'🕌 Islam y Cristiandad',e:'622,1492',z:['Al-Ándalus / Andalucía-Murcia',ESP,'Francia','Italia','Anatolia','Levante','Egipto','Magreb','Persia']},
+ {n:'🐫 Ruta de la Seda',e:'-200,1450',z:['China','Estepa','Persia','India','Anatolia','Italia','Levante','Japón','SE asiático']},
+ {n:'⛵ Encuentro de dos mundos',e:'1450,1650',z:[ESP,'Mesoamérica','Andes','Portugal','Caribe','Brasil','Norteamérica','Río de la Plata','África occidental']},
+ {n:'👑 Europa de los imperios',e:'1492,1815',z:[ESP,'Francia','Islas Británicas','Europa central','Italia','Anatolia','Rusia','Portugal','Persia']},
+ {n:'🌍 Guerras mundiales',e:'1900,1950',z:['Global','Europa central','Rusia','Islas Británicas','Francia','Norteamérica','Japón','China',ESP]}];
+function preset(i){const g=PRESETS[i],P=$('#per');let o=[...P.options].find(x=>x.value===g.e);
+ if(!o){[...P.options].filter(x=>x.dataset.pre).forEach(x=>x.remove());o=new Option(g.n.replace(/^\S+\s/,'')+' ('+g.e.split(',').map(y=>y<0?(-y)+' a.C.':y).join('–')+')',g.e);o.dataset.pre=1;P.add(o);}
+ P.value=g.e;setZones(g.z,1);}
+function setZones(list,full){if(full){const ids=ZIDS();ids.forEach((id,i)=>{document.getElementById(id).value=list[i]||'';});return go('#/mundo/zonas/'+ids.map(i=>encodeURIComponent(document.getElementById(i).value)).join('~'));}const ids=ZIDS();ids.forEach((id,i)=>{document.getElementById(id).value=list[i]||(i<2?document.getElementById(id).value:'');});
  if(!list.length)ids.forEach((id,i)=>{if(i>=2)document.getElementById(id).value='';});
  go('#/mundo/zonas/'+ids.map(i=>encodeURIComponent(document.getElementById(i).value)).join('~'));}
 function addZone(r){
