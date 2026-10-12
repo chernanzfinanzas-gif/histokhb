@@ -157,7 +157,8 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .new{font-size:11px;font-weight:800;color:#fff;background:var(--accent);border-radius:999px;padding:1px 7px;margin-left:6px}
 .pick{position:sticky;top:calc(var(--top) + 52px);z-index:11;margin:0 -16px;padding:10px 16px;background:var(--bg);border-bottom:1px solid var(--line)}
 .sels{display:grid;grid-template-columns:repeat(3,1fr);gap:6px}
-.zbtns{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:8px 0 0}.zbtns button{font:600 14px inherit;font-family:inherit;border:1px solid var(--line);background:#fff;border-radius:999px;padding:6px 12px;font-weight:600;cursor:pointer}.zbtns button:hover{border-color:var(--accent)}.zbtns span{font-size:12px;color:var(--muted)}.zbtns:empty{display:none}
+.zbtns{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:8px 0 0}.zbtns button{font:600 14px inherit;font-family:inherit;border:1px solid var(--line);background:#fff;border-radius:999px;padding:6px 12px;font-weight:600;cursor:pointer}.zbtns button:hover{border-color:var(--accent)}.zbtns select.mas{width:auto;border:1px solid var(--accent);border-radius:999px;padding:6px 12px;font:600 14px inherit;font-family:inherit;background:#fff;color:var(--accent)}@media(max-width:899px){.zbtns{flex-wrap:nowrap;overflow-x:auto;padding-bottom:4px;scrollbar-width:none}.zbtns button{white-space:nowrap;flex:none;font-size:13px;padding:5px 10px}.zbtns select.mas{order:-1;flex:none;max-width:60vw;font-size:13px}}
+.zbtns span{font-size:12px;color:var(--muted)}.zbtns:empty{display:none}
 #par.many .cell{font-size:12px;padding:6px}#par.many .cols div{font-size:12px}
 @media(min-width:900px){#m-zonas{position:relative;left:50%;transform:translateX(-50%);width:min(1500px,96vw)}}
 .pick select{width:100%;font-family:'Fredoka';font-weight:600;font-size:14px;padding:9px 22px 9px 6px;border-radius:10px;border:1.5px solid var(--ink);background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%232e2a40'/%3E%3C/svg%3E") no-repeat right 7px center;-webkit-appearance:none;appearance:none;text-overflow:ellipsis}
@@ -516,7 +517,10 @@ function initMundo(){
  const N=ZN(), def=N>3?ESPS.slice(0,N):[ESP,'China','Mesoamérica'];
  $('#sels').style.gridTemplateColumns=`repeat(${N},1fr)`;
  $('#sels').innerHTML=Array.from({length:N},(_,i)=>`<select id="z${i+1}" aria-label="Zona ${i+1}"></select>`).join('');
- $('#zbtns').innerHTML=`<button onclick="$('#per').value='476,1492';setZones(ESPS)">🇪🇸 Toda España</button>`+PRESETS.map((g,i)=>`<button title="${g.z.slice(0,N).join(' · ')}" onclick="preset(${i})">${g.n}</button>`).join('')+(N>3?`<button onclick="setZones([])">Vaciar</button><span>Hasta ${N} zonas a la vez · deja una en «— ninguna —» para quitarla</span>`:'');
+ $('#zbtns').innerHTML=PRESETS.map((g,i)=>g.m?`<button title="${g.z.slice(0,N).join(' · ')}" onclick="preset(${i})">${g.n}</button>`:'').join('')
+  +`<select class="mas" aria-label="Más comparaciones" onchange="if(this.value)preset(+this.value)"><option value="">Más comparaciones…</option>`
+  +[...new Set(PRESETS.filter(g=>g.g).map(g=>g.g))].map(G=>`<optgroup label="${G}">`+PRESETS.map((g,i)=>g.g===G?`<option value="${i}">${g.n}</option>`:'').join('')+'</optgroup>').join('')+`</select>`
+  +(N>3?`<button onclick="setZones([])">Vaciar</button><span>Hasta ${N} zonas a la vez · deja una en «— ninguna —» para quitarla</span>`:'');
  ZIDS().forEach((id,i)=>{const el=document.getElementById(id);let o=i>=2?'<option value="">— ninguna —</option>':'';
   Object.entries(CONT).forEach(([ck,cn])=>{o+=`<optgroup label="${cn}">`+SINC.regs.filter(r=>r[1]===ck).map(([r])=>`<option value="${esc(r)}">${esc(rn(r))}</option>`).join('')+'</optgroup>';});
   o+='<optgroup label="Global">'+SINC.regs.filter(r=>r[1]==='global').map(([r])=>`<option value="${esc(r)}">${esc(r)}</option>`).join('')+'</optgroup>';
@@ -545,17 +549,48 @@ function setYear(y,fromSlider){
 function ZN(){return innerWidth>=1100?9:innerWidth>=900?6:3;}
 function ZIDS(){return Array.from({length:ZN()},(_,i)=>'z'+(i+1)).filter(i=>document.getElementById(i));}
 const ESPS=['Portugal','Galicia','Asturias','León',ESP,'Navarra / P.Vasco-Rioja','Aragón / C.Valenciana','Cataluña','Al-Ándalus / Andalucía-Murcia'];
+const AND='Al-Ándalus / Andalucía-Murcia',ARA='Aragón / C.Valenciana',NAV='Navarra / P.Vasco-Rioja';
+const AF=['África occidental','África oriental','África central','África austral'];
 const PRESETS=[
- {n:'🌾 Primeras civilizaciones',e:'-3500,-1000',z:['Egipto','Mesopotamia','India','China','Levante','Anatolia','Grecia','Nubia/Sudán','Persia']},
- {n:'⚱️ Griegos, fenicios y persas',e:'-1000,-300',z:['Grecia','Persia','Levante','Egipto','Magreb','Italia',ESP,'Anatolia','Mesopotamia']},
- {n:'🏛️ Roma y Cartago',e:'-509,476',z:['Italia','Magreb',ESP,'Egipto','Grecia','Francia','Levante','Islas Británicas','Anatolia']},
- {n:'🕌 Islam y Cristiandad',e:'622,1492',z:['Al-Ándalus / Andalucía-Murcia',ESP,'Francia','Italia','Anatolia','Levante','Egipto','Magreb','Persia']},
- {n:'🐫 Ruta de la Seda',e:'-200,1450',z:['China','Estepa','Persia','India','Anatolia','Italia','Levante','Japón','SE asiático']},
- {n:'⛵ Encuentro de dos mundos',e:'1450,1650',z:[ESP,'Mesoamérica','Andes','Portugal','Caribe','Brasil','Norteamérica','Río de la Plata','África occidental']},
- {n:'👑 Europa de los imperios',e:'1492,1815',z:[ESP,'Francia','Islas Británicas','Europa central','Italia','Anatolia','Rusia','Portugal','Persia']},
- {n:'🌍 Guerras mundiales',e:'1900,1950',z:['Global','Europa central','Rusia','Islas Británicas','Francia','Norteamérica','Japón','China',ESP]}];
+ // ---- 7 botones principales ----
+ {m:1,n:'🇪🇸 Toda España',e:'476,1492',z:ESPS},
+ {m:1,n:'🌾 Primeras civilizaciones',e:'-3500,-1000',z:['Egipto','Mesopotamia','India','China','Levante','Anatolia','Grecia','Nubia/Sudán','Persia']},
+ {m:1,n:'🏛️ Roma y Cartago',e:'-509,476',z:['Italia','Magreb',ESP,'Egipto','Grecia','Francia','Levante','Islas Británicas','Anatolia']},
+ {m:1,n:'🕌 Islam y Cristiandad',e:'622,1492',z:[AND,ESP,'Francia','Italia','Anatolia','Levante','Egipto','Magreb','Persia']},
+ {m:1,n:'🐫 Ruta de la Seda',e:'-200,1450',z:['China','Estepa','Persia','India','Anatolia','Italia','Levante','Japón','SE asiático']},
+ {m:1,n:'⛵ Encuentro de dos mundos',e:'1450,1650',z:[ESP,'Mesoamérica','Andes','Portugal','Caribe','Brasil','Norteamérica','Río de la Plata','África occidental']},
+ {m:1,n:'🌍 Guerras mundiales',e:'1900,1950',z:['Global','Europa central','Rusia','Islas Británicas','Francia','Norteamérica','Japón','China',ESP]},
+ // ---- desplegable ----
+ {g:'Edad Antigua',n:'Egipto, Nubia y África antigua',e:'-3300,500',z:['Egipto','Nubia/Sudán','Etiopía/Cuerno','Magreb',...AF]},
+ {g:'Edad Antigua',n:'La Edad del Bronce y su colapso',e:'-1700,-1000',z:['Egipto','Anatolia','Grecia','Levante','Mesopotamia',ESP,'Europa central','Islas Británicas','Persia']},
+ {g:'Edad Antigua',n:'Griegos, fenicios y persas',e:'-1000,-300',z:['Grecia','Persia','Levante','Egipto','Magreb','Italia',ESP,'Anatolia','Mesopotamia']},
+ {g:'Edad Antigua',n:'Hispania y las colonizaciones',e:'-1100,-218',z:[ESP,'Levante','Grecia','Magreb','Italia','Francia','Islas Británicas','Europa central','Egipto']},
+ {g:'Edad Antigua',n:'Alejandro y los reinos helenísticos',e:'-360,-30',z:['Grecia','Persia','Egipto','India','Anatolia','Levante','Mesopotamia','Italia','Estepa']},
+ {g:'Edad Antigua',n:'Roma y la China Han',e:'-200,220',z:['Italia','China','Persia','India','Estepa','Anatolia','Egipto','Levante','SE asiático']},
+ {g:'Edad Antigua',n:'América antigua',e:'-1500,900',z:['Mesoamérica','Andes','Norteamérica','Caribe','Brasil','Río de la Plata']},
+ {g:'Edad Media',n:'Las invasiones bárbaras',e:'376,600',z:['Italia',ESP,'Francia','Europa central','Islas Británicas','Magreb','Anatolia','Estepa','Persia']},
+ {g:'Edad Media',n:'Bizancio, Persia y el nacimiento del islam',e:'500,750',z:['Anatolia','Persia','Levante','Egipto','Magreb',ESP,'Italia','Mesopotamia','India']},
+ {g:'Edad Media',n:'Carlomagno, vikingos y Al-Ándalus',e:'750,1066',z:['Francia','Europa central','Islas Británicas','Italia',AND,'Asturias','Cataluña','Rusia','Anatolia']},
+ {g:'Edad Media',n:'Las Cruzadas',e:'1095,1291',z:['Levante','Francia','Anatolia','Egipto','Italia','Islas Británicas','Europa central',AND,ESP]},
+ {g:'Edad Media',n:'El Imperio mongol',e:'1200,1400',z:['Estepa','China','Persia','Rusia','Anatolia','India','Corea','Japón','Mesopotamia']},
+ {g:'Edad Media',n:'China, Corea y Japón',e:'500,1600',z:['China','Corea','Japón','SE asiático','Estepa','India']},
+ {g:'Edad Media',n:'Los grandes reinos de África',e:'700,1600',z:['África occidental','Etiopía/Cuerno','Magreb','Egipto','Nubia/Sudán','África oriental','África central','África austral']},
+ {g:'Edad Media',n:'La Corona de Aragón en el Mediterráneo',e:'1137,1516',z:[ARA,'Cataluña','Italia','Grecia','Magreb','Anatolia','Francia',ESP,AND]},
+ {g:'Edad Media',n:'Peste negra y Guerra de los Cien Años',e:'1300,1453',z:['Francia','Islas Británicas','Italia',ESP,ARA,'Europa central','Anatolia','Egipto','China']},
+ {g:'Edad Moderna',n:'La era de los descubrimientos',e:'1400,1600',z:['Portugal',ESP,'África occidental','África austral','India','SE asiático','China','Japón','Caribe']},
+ {g:'Edad Moderna',n:'Reforma y guerras de religión',e:'1517,1648',z:['Europa central','Francia','Islas Británicas',ESP,'Italia','Anatolia','Portugal','Rusia']},
+ {g:'Edad Moderna',n:'Los imperios de la pólvora',e:'1450,1750',z:['Anatolia','Persia','India','China','Japón','Rusia',ESP,'Europa central','Estepa']},
+ {g:'Edad Moderna',n:'Europa de los imperios',e:'1492,1815',z:[ESP,'Francia','Islas Británicas','Europa central','Italia','Anatolia','Rusia','Portugal','Persia']},
+ {g:'Edad Moderna',n:'Ilustración y revoluciones',e:'1750,1830',z:['Francia','Norteamérica','Islas Británicas',ESP,'Europa central','Caribe','Río de la Plata','Andes','Mesoamérica']},
+ {g:'Edad Contemporánea',n:'Las independencias americanas',e:'1790,1830',z:['Mesoamérica','Andes','Río de la Plata','Brasil','Caribe','Norteamérica',ESP,'Portugal','Francia']},
+ {g:'Edad Contemporánea',n:'La Revolución industrial',e:'1760,1900',z:['Islas Británicas','Francia','Europa central','Norteamérica',ESP,'Rusia','Japón','Italia','China']},
+ {g:'Edad Contemporánea',n:'Imperialismo y colonias',e:'1870,1914',z:['Islas Británicas','Francia','África occidental','África central','India','China','Japón','SE asiático','Egipto']},
+ {g:'Edad Contemporánea',n:'España en el siglo XX',e:'1898,2000',z:[ESP,'Cataluña',NAV,AND,'Galicia','Portugal','Francia','Europa central','Global']},
+ {g:'Edad Contemporánea',n:'La Guerra Fría',e:'1945,1991',z:['Norteamérica','Rusia','Europa central','China','Corea','SE asiático','Caribe','Global',ESP]},
+ {g:'Edad Contemporánea',n:'La descolonización',e:'1945,1980',z:['India','África occidental','África central','África oriental','África austral','Magreb','SE asiático','Levante','Islas Británicas']},
+ {g:'Edad Contemporánea',n:'El mundo de hoy',e:'1991,2100',z:['Global','Norteamérica','China','Rusia','Europa central','India','Levante',ESP,'Brasil']}];
 function preset(i){const g=PRESETS[i],P=$('#per');let o=[...P.options].find(x=>x.value===g.e);
- if(!o){[...P.options].filter(x=>x.dataset.pre).forEach(x=>x.remove());o=new Option(g.n.replace(/^\S+\s/,'')+' ('+g.e.split(',').map(y=>y<0?(-y)+' a.C.':y).join('–')+')',g.e);o.dataset.pre=1;P.add(o);}
+ if(!o){[...P.options].filter(x=>x.dataset.pre).forEach(x=>x.remove());o=new Option(g.n.replace(/^[^\p{L}]+\s/u,'')+' ('+g.e.split(',').map(y=>y<0?(-y)+' a.C.':y).join('–')+')',g.e);o.dataset.pre=1;P.add(o);}
  P.value=g.e;setZones(g.z,1);}
 function setZones(list,full){if(full){const ids=ZIDS();ids.forEach((id,i)=>{document.getElementById(id).value=list[i]||'';});return go('#/mundo/zonas/'+ids.map(i=>encodeURIComponent(document.getElementById(i).value)).join('~'));}const ids=ZIDS();ids.forEach((id,i)=>{document.getElementById(id).value=list[i]||(i<2?document.getElementById(id).value:'');});
  if(!list.length)ids.forEach((id,i)=>{if(i>=2)document.getElementById(id).value='';});
