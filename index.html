@@ -297,7 +297,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 <!-- AQUÍ -->
 <section class="scr" id="s-aqui"><div class="wrap">
  <div class="aqui-hero"><div class="bi">📍</div><h1>¿Qué pasó donde estás?</h1><p>Tu móvil te sitúa y te contamos la historia del lugar: lo que pasó aquí, lo que hay alrededor y la historia de esta tierra a lo largo del tiempo.</p><div class="note" style="margin:0 0 14px">🚧 Sección en desarrollo: los resultados pueden ser poco exactos.</div>
-  <button class="btn" id="geoBtn">📍 Localizarme</button> <button class="btn sec" id="demoBtn">Probar en Carrión</button> <button class="btn sec" id="demoBtn2">Probar en Madrid</button><br><button class="btn sec" id="yacBtn" style="margin-top:8px">🏛️ Yacimientos para visitar</button>
+  <button class="btn" id="geoBtn">📍 Localizarme</button> <button class="btn sec" id="demoBtn">Probar en Carrión</button> <button class="btn sec" id="demoBtn2">Probar en Madrid</button><br><button class="btn sec" id="yacBtn" style="margin-top:8px">🏛️ Yacimientos y monumentos</button>
   <div id="geoMsg" class="rt"></div></div>
  <div id="aquiOut"></div>
 </div></section>
@@ -499,7 +499,7 @@ async function renderSheet(){
   $('#shTtl').textContent=L.nombre; $('#seg').classList.add('hide'); document.documentElement.style.setProperty('--era','#e08b3e');
   b.innerHTML=`<div class="sh-head" style="margin-top:16px"><div class="ic" style="font-size:44px">${L.tipo==='yacimiento'?'🏛️':'📍'}</div><div><div class="d">${L.epoca?'🏛️ '+esc(L.epoca)+' · ':''}${esc(L.provincia)} · ${esc(L.comarca||'')}</div><h2>${esc(L.nombre)}</h2></div></div><div class="rt">⏱ ${mins(L.texto.general)} min de lectura</div><div class="txt">${L.texto.general}</div>`+
    (L.ver_alli&&L.ver_alli.length?`<h3 class="f" style="margin:6px 0 4px">Para verlo allí</h3><ul class="verlist">${L.ver_alli.map(v=>'<li>'+esc(v)+'</li>').join('')}</ul>`:'')+
-   `<p class="src">Fuentes: ${(L.fuentes||[]).map(u=>`<a href="${u}" target="_blank" rel="noopener">${esc(decodeURIComponent(u.replace(/^https?:\/\//,'')).slice(0,60))}</a>`).join(' · ')}</p>`;
+   ((L.fuentes||[]).length?`<p class="src">Fuentes: ${(L.fuentes||[]).map(u=>`<a href="${u}" target="_blank" rel="noopener">${esc(decodeURIComponent(u.replace(/^https?:\/\//,'')).slice(0,60))}</a>`).join(' · ')}</p>`:'');
   ft.innerHTML=`<button class="pri" onclick="go('#/aqui')">📍 Ver alrededores</button>`;
   $('#shWa').href=waLink('📍 '+L.nombre+': su historia en HistoKHB 👉 '+BASE+'#/l/'+L.id);
  }
@@ -684,13 +684,13 @@ $('#geoBtn').onclick=()=>{
 $('#demoBtn').onclick=()=>aquiAt([42.338,-4.603],'Carrión de los Condes (prueba)');
 $('#demoBtn2').onclick=()=>aquiAt([40.62,-3.70],'Norte de Madrid (prueba)');
 let ETQ=null, LASTPT=null;
-const EPOR=['Paleolítico','Neolítico','Arte levantino y esquemático','Edad del Cobre','Edad del Bronce','Tartessos, fenicios y griegos','Íberos','Edad del Hierro','Romano','Visigodo','Canarias prehispánica'];
+const EPOR=['Paleolítico','Neolítico','Arte levantino y esquemático','Edad del Cobre','Edad del Bronce','Tartessos, fenicios y griegos','Íberos','Edad del Hierro','Romano','Visigodo','Prerrománico y Alta Edad Media','Andalusí','Románico','Gótico','Mudéjar','Castillos y fortalezas','Villas y cascos medievales','Canarias prehispánica'];
 function yacRow(l,d){return `<button class="lugar" onclick="go('#/l/${l.id}')"><div class="lk">🏛️ ${esc(l.epoca||'Yacimiento')} · ${d!=null?(d<1?'Estás aquí':Math.round(d)+' km'):esc(l.provincia)}</div><h3>${esc(l.nombre)}</h3><p>${esc(strip(l.texto.general).slice(0,140))}…</p></button>`;}
 $('#yacBtn').onclick=async()=>{
  if(!LUG)LUG=await getJ('lugares.json').catch(()=>({lugares:[]}));
  const Y=LUG.lugares.filter(l=>l.tipo==='yacimiento');
  const eps=[...new Set(Y.map(l=>l.epoca))].sort((a,b)=>EPOR.indexOf(a)-EPOR.indexOf(b));
- let h=`<div class="sec-t">🏛️ Yacimientos para visitar · ${Y.length}</div><p class="rt">${LASTPT?'Ordenados por cercanía a tu posición.':'Pulsa «Localizarme» para verlos ordenados por cercanía.'}</p>`;
+ let h=`<div class="sec-t">🏛️ Yacimientos y monumentos para visitar · ${Y.length}</div><p class="rt">${LASTPT?'Ordenados por cercanía a tu posición.':'Pulsa «Localizarme» para verlos ordenados por cercanía.'}</p>`;
  eps.forEach(ep=>{let L=Y.filter(l=>l.epoca===ep).map(l=>[l,LASTPT?km(LASTPT,[l.lat,l.lon]):null]);
   L.sort((a,b)=>a[1]!=null?a[1]-b[1]:a[0].provincia.localeCompare(b[0].provincia));
   h+=`<details open><summary class="sec-t" style="cursor:pointer">${esc(ep)} · ${L.length}</summary>${L.map(([l,d])=>yacRow(l,d)).join('')}</details>`;});
@@ -728,7 +728,7 @@ async function aquiAt(pt,label){ LASTPT=pt;
  const ls=LUG.lugares.filter(l=>l.tipo!=='yacimiento').map(l=>[l,km(pt,[l.lat,l.lon])]).filter(x=>x[1]<=60).sort((a,b)=>a[1]-b[1]);
  if(ls.length) h+='<div class="sec-t">Fichas de lugar</div>'+ls.map(([l,d])=>`<button class="lugar" onclick="go('#/l/${l.id}')"><div class="lk">📍 ${d<1?'Estás aquí':Math.round(d)+' km'}</div><h3>${esc(l.nombre)}</h3><p>${esc(strip(l.texto.general).slice(0,140))}…</p></button>`).join('');
  const ys=LUG.lugares.filter(l=>l.tipo==='yacimiento').map(l=>[l,km(pt,[l.lat,l.lon])]).filter(x=>x[1]<=120).sort((a,b)=>a[1]-b[1]);
- if(ys.length) h+=`<div class="sec-t">🏛️ Yacimientos para visitar (hasta 120 km) · ${ys.length}</div>`+ys.map(([l,d])=>yacRow(l,d)).join('');
+ if(ys.length) h+=`<div class="sec-t">🏛️ Yacimientos y monumentos (hasta 120 km) · ${ys.length}</div>`+ys.map(([l,d])=>yacRow(l,d)).join('');
  // 2. Anillos
  const r1=items(P.filter(x=>x.d<=15)), r2=items(P.filter(x=>x.d>15&&x.d<=60));
  const r3=miCC?items(P.filter(x=>x.d>60&&x.cc===miCC)):items(P.filter(x=>x.d>60&&x.d<=300));
