@@ -160,7 +160,8 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .zbtns{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:8px 0 0}.zbtns button{font:600 14px inherit;font-family:inherit;border:1px solid var(--line);background:#fff;border-radius:999px;padding:6px 12px;font-weight:600;cursor:pointer}.zbtns button:hover{border-color:var(--accent)}.zbtns select.mas{width:auto;border:1px solid var(--accent);border-radius:999px;padding:6px 12px;font:600 14px inherit;font-family:inherit;background:#fff;color:var(--accent)}@media(max-width:899px){.zbtns{flex-wrap:nowrap;overflow-x:auto;padding-bottom:4px;scrollbar-width:none}.zbtns button{white-space:nowrap;flex:none;font-size:13px;padding:5px 10px}.zbtns select.mas{order:-1;flex:none;max-width:60vw;font-size:13px}}
 .zbtns span{font-size:12px;color:var(--muted)}.zbtns:empty{display:none}
 #par.many .cell{font-size:12px;padding:6px}#par.many .cols div{font-size:12px}
-@media(min-width:900px){#m-zonas{position:relative;left:50%;transform:translateX(-50%);width:min(1500px,96vw)}#m-zonas .pick:before{content:'';position:absolute;left:0;right:0;bottom:100%;height:60px;background:var(--bg)}}
+@media(min-width:900px){#m-zonas{position:relative;left:50%;transform:translateX(-50%);width:min(1500px,96vw)}}
+#m-zonas .pick:before{content:'';position:absolute;left:0;right:0;bottom:100%;height:60px;background:var(--bg)}
 .pick select{width:100%;font-family:'Fredoka';font-weight:600;font-size:14px;padding:9px 22px 9px 6px;border-radius:10px;border:1.5px solid var(--ink);background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%232e2a40'/%3E%3C/svg%3E") no-repeat right 7px center;-webkit-appearance:none;appearance:none;text-overflow:ellipsis}
 .pick select.per{margin-top:6px;border-color:var(--line);background-color:#fff7ee}
 .pick select[data-empty="1"]{border-style:dashed;color:var(--muted);border-color:#cfc6b6}
@@ -173,15 +174,13 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .cell.empty{background:repeating-linear-gradient(135deg,#f4eee2 0 6px,#f8f3ea 6px 12px);border-color:transparent;min-height:18px}
 .cell.hasd{box-shadow:inset 0 -3px 0 rgba(224,139,62,.6)}
 #m-zonas .cols{position:sticky;top:var(--pickb,170px);z-index:10;background:var(--bg);padding:6px 0;margin-top:4px}
-#par.rail{padding-right:58px}
-.trail{position:fixed;right:6px;width:50px;z-index:30;display:flex;flex-direction:column;align-items:center;touch-action:none;user-select:none;-webkit-user-select:none}
-.trail .te{font:600 10.5px 'Fredoka',sans-serif;color:var(--muted);text-align:center;line-height:1.1;padding:2px 0;max-width:50px}
-.trail .tt{position:relative;flex:1;width:50px;cursor:pointer}
-.trail .tt:before{content:'';position:absolute;left:50%;top:0;bottom:0;width:6px;margin-left:-3px;border-radius:3px;background:#efe6d6;box-shadow:inset 0 0 0 1px var(--line)}
-.trail .tk{position:absolute;left:50%;width:12px;height:2px;margin-left:-6px;background:#d8ccb8}
-.trail .th{position:absolute;left:0;right:0;height:38px;margin-top:-19px;border-radius:12px;background:var(--accent);color:#fff;font:700 11px 'Fredoka',sans-serif;display:flex;align-items:center;justify-content:center;text-align:center;line-height:1.05;box-shadow:0 2px 8px rgba(0,0,0,.18);cursor:grab;padding:0 2px;word-break:break-word}
-.trail.drag .th{cursor:grabbing;transform:scale(1.06)}
-@media(max-width:899px){#par.rail{padding-right:50px}.trail{right:2px;width:44px}.trail .tt{width:44px}.trail .th{font-size:10px;height:34px;margin-top:-17px}}
+.trail{display:flex;align-items:center;gap:8px;margin-top:8px;touch-action:none;user-select:none;-webkit-user-select:none}
+.trail .te{font:600 11.5px 'Fredoka',sans-serif;color:var(--muted);white-space:nowrap}
+.trail .tt{position:relative;flex:1;height:34px;cursor:pointer}
+.trail .tt:before{content:'';position:absolute;top:50%;left:0;right:0;height:6px;margin-top:-3px;border-radius:3px;background:#efe6d6;box-shadow:inset 0 0 0 1px var(--line)}
+.trail .tk{position:absolute;top:50%;width:2px;height:12px;margin:-6px 0 0 -1px;background:#d8ccb8}
+.trail .th{position:absolute;top:50%;height:30px;min-width:58px;margin-top:-15px;border-radius:999px;background:var(--accent);color:#fff;font:700 12.5px 'Fredoka',sans-serif;display:flex;align-items:center;justify-content:center;padding:0 10px;box-shadow:0 2px 8px rgba(0,0,0,.18);cursor:grab;white-space:nowrap;transform:translateX(-50%);z-index:2}
+.trail.drag .th{cursor:grabbing}
 /* aquí */
 .aqui-hero{text-align:center;padding:26px 6px 6px}
 .aqui-hero .bi{font-size:44px}
@@ -285,12 +284,12 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <div class="pick">
    <div class="sels" id="sels"></div><div class="zbtns" id="zbtns"></div>
    <select id="per" class="per" aria-label="Época"><option value="-1000000,-3500">Prehistoria</option><option value="-3500,476">Edad Antigua</option><option value="476,1492" selected>Edad Media</option><option value="1492,1789">Edad Moderna</option><option value="1789,2100">Edad Contemporánea</option></select>
+   <div class="trail hide" id="trail" role="slider" aria-label="Barra de tiempo" tabindex="0"><div class="te" id="tr-a"></div><div class="tt" id="tr-t"><div class="th" id="tr-h"></div></div><div class="te" id="tr-b"></div></div>
   </div>
   <div id="par"></div>
-  <div class="trail hide" id="trail" role="slider" aria-label="Barra de tiempo" tabindex="0"><div class="te" id="tr-a"></div><div class="tt" id="tr-t"><div class="th" id="tr-h"></div></div><div class="te" id="tr-b"></div></div>
  </div>
  <div id="m-info" class="hide">
-  <div class="note" style="margin-top:18px"><b>Un año:</b> elige una fecha (deslizando, con las flechas o con los atajos) y verás cómo estaba cada zona del mundo. Las que cambian ese mismo año salen marcadas. Con <b>＋</b> añades una zona a «Comparar».<br><br><b>Comparar zonas:</b> elige hasta 9 zonas (3 en el móvil) y una época, y baja en el tiempo viéndolas avanzar a la vez. Arrastra la barra de años de la derecha para viajar rápido por la época. Toca un año para ver el mundo entero en esa fecha.<br><br>El color indica la etapa de cada zona: deshabitada, paleolítico, neolítico, Edad del Bronce o civilización con escritura. Las casillas con 📖 o subrayado naranja tienen ficha.</div>
+  <div class="note" style="margin-top:18px"><b>Un año:</b> elige una fecha (deslizando, con las flechas o con los atajos) y verás cómo estaba cada zona del mundo. Las que cambian ese mismo año salen marcadas. Con <b>＋</b> añades una zona a «Comparar».<br><br><b>Comparar zonas:</b> elige hasta 9 zonas (3 en el móvil) y una época, y baja en el tiempo viéndolas avanzar a la vez. Arrastra la barra de años, debajo de la época, para viajar rápido por ella. Toca un año para ver el mundo entero en esa fecha.<br><br>El color indica la etapa de cada zona: deshabitada, paleolítico, neolítico, Edad del Bronce o civilización con escritura. Las casillas con 📖 o subrayado naranja tienen ficha.</div>
  </div>
 </div></section>
 
@@ -635,58 +634,38 @@ function renderPar(){
 }
 // ---------- barra de tiempo del comparador ----------
 const TR={rows:[],drag:false};
-function pickBottom(){const k=document.querySelector('#m-zonas .pick');return k?Math.round(k.getBoundingClientRect().bottom):170;}
+function pickBottom(){const k=document.querySelector('#m-zonas .pick');if(!k||!k.offsetParent)return 170;return Math.round(parseFloat(getComputedStyle(k).top)+k.getBoundingClientRect().height);}
+function railPlace(){const k=document.querySelector('#m-zonas .pick');if(k&&k.offsetParent)document.documentElement.style.setProperty('--pickb',pickBottom()+'px');}
 function railSetup(){
  const t=$('#trail'),p=$('#par');
  TR.rows=[...p.querySelectorAll('.trow')];
- const on=TR.rows.length>5;
- t.classList.toggle('hide',!on);p.classList.toggle('rail',on);
- if(!on)return;
+ const on=TR.rows.length>5; t.classList.toggle('hide',!on);
+ railPlace(); if(!on)return;
  const n=TR.rows.length,ys=TR.rows.map(r=>+r.dataset.y);
  $('#tr-a').textContent=fy(ys[0]);$('#tr-b').textContent=fy(ys[n-1]);
  const tt=$('#tr-t');tt.querySelectorAll('.tk').forEach(e=>e.remove());
- for(let i=1;i<8;i++){const d=document.createElement('div');d.className='tk';d.style.top=(i*12.5)+'%';tt.appendChild(d);}
- railVis();railPlace();railSync();
+ for(let i=1;i<8;i++){const d=document.createElement('div');d.className='tk';d.style.left=(i*12.5)+'%';tt.appendChild(d);}
+ railPlace();railSync();
 }
-function railPlace(){
- const t=$('#trail');if(!t||t.classList.contains('hide'))return;
- const pb=pickBottom();document.documentElement.style.setProperty('--pickb',pb+'px');
- const nav=document.querySelector('.nav');const nb=nav&&getComputedStyle(nav).display!=='none'?nav.getBoundingClientRect().height:0;
- t.style.top=(pb+46)+'px';t.style.bottom=(nb+12)+'px';
-}
-function railIdx(){ // fila que está ahora bajo las cabeceras
- const lim=pickBottom()+44;let i=0;
- for(let k=0;k<TR.rows.length;k++){if(TR.rows[k].getBoundingClientRect().bottom>lim){i=k;break;}i=k;}
- return i;
-}
+function railIdx(){const lim=pickBottom()+44;let i=0;for(let k=0;k<TR.rows.length;k++){i=k;if(TR.rows[k].getBoundingClientRect().bottom>lim)break;}return i;}
 function railShow(i){
  const n=TR.rows.length;if(!n)return;const tt=$('#tr-t'),h=$('#tr-h');
- const H=tt.clientHeight,th=h.offsetHeight,f=n>1?i/(n-1):0;
- h.style.top=(th/2+f*Math.max(0,H-th))+'px';h.textContent=fy(+TR.rows[i].dataset.y);
+ const W=tt.clientWidth,hw=h.offsetWidth,f=n>1?i/(n-1):0;
+ h.style.left=(hw/2+f*Math.max(0,W-hw))+'px';h.textContent=fy(+TR.rows[i].dataset.y);
  $('#trail').setAttribute('aria-valuetext',fy(+TR.rows[i].dataset.y));
 }
-function railVis(){const t=$('#trail');const z=$('#m-zonas');const v=TR.rows.length>5&&z&&z.offsetParent!==null;t.style.display=v?'':'none';return v;}
-function railSync(){if(!railVis())return;if(!TR.drag)railShow(railIdx());}
-function railGo(i){
- const r=TR.rows[i];if(!r)return;
- const y=window.scrollY+r.getBoundingClientRect().top-(pickBottom()+44);
- window.scrollTo({top:Math.max(0,y),behavior:'auto'});railShow(i);
-}
-function railFromY(cy){
- const tt=$('#tr-t'),b=tt.getBoundingClientRect(),th=$('#tr-h').offsetHeight;
- const f=Math.min(1,Math.max(0,(cy-b.top-th/2)/Math.max(1,b.height-th)));
- return Math.round(f*(TR.rows.length-1));
-}
+function railSync(){if(TR.rows.length>5&&!TR.drag&&$('#trail').offsetParent)railShow(railIdx());}
+function railGo(i){const r=TR.rows[i];if(!r)return;const y=window.scrollY+r.getBoundingClientRect().top-(pickBottom()+44);window.scrollTo({top:Math.max(0,y),behavior:'auto'});railShow(i);}
+function railFromX(cx){const tt=$('#tr-t'),b=tt.getBoundingClientRect(),hw=$('#tr-h').offsetWidth;const f=Math.min(1,Math.max(0,(cx-b.left-hw/2)/Math.max(1,b.width-hw)));return Math.round(f*(TR.rows.length-1));}
 (function(){
- const t=$('#trail');document.body.appendChild(t);let raf=0;
- window.addEventListener('hashchange',()=>setTimeout(()=>{railVis()&&(railPlace(),railSync());},60));
+ const t=$('#trail');let raf=0;
  window.addEventListener('scroll',()=>{if(raf)return;raf=requestAnimationFrame(()=>{raf=0;railSync();});},{passive:true});
  window.addEventListener('resize',()=>{railPlace();railSync();});
- t.addEventListener('pointerdown',e=>{if(!TR.rows.length)return;TR.drag=true;t.classList.add('drag');t.setPointerCapture(e.pointerId);railGo(railFromY(e.clientY));e.preventDefault();});
- t.addEventListener('pointermove',e=>{if(TR.drag)railGo(railFromY(e.clientY));});
+ t.addEventListener('pointerdown',e=>{if(!TR.rows.length)return;TR.drag=true;t.classList.add('drag');t.setPointerCapture(e.pointerId);railGo(railFromX(e.clientX));e.preventDefault();});
+ t.addEventListener('pointermove',e=>{if(TR.drag)railGo(railFromX(e.clientX));});
  const end=()=>{TR.drag=false;t.classList.remove('drag');};
  t.addEventListener('pointerup',end);t.addEventListener('pointercancel',end);
- t.addEventListener('keydown',e=>{const d={ArrowDown:1,ArrowRight:1,PageDown:5,ArrowUp:-1,ArrowLeft:-1,PageUp:-5}[e.key];if(d==null)return;e.preventDefault();railGo(Math.min(TR.rows.length-1,Math.max(0,railIdx()+d)));});
+ t.addEventListener('keydown',e=>{const d={ArrowRight:1,ArrowDown:1,PageDown:5,ArrowLeft:-1,ArrowUp:-1,PageUp:-5}[e.key];if(d==null)return;e.preventDefault();railGo(Math.min(TR.rows.length-1,Math.max(0,railIdx()+d)));});
 })();
 
 // ---------- aquí ----------
