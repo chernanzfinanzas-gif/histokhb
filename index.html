@@ -382,6 +382,7 @@ function route(){
    if(!lastScreen){ if(k==='f'&&IDX.fichas[p[1]]) renderEpoca(IDX.fichas[p[1]].sec,null,true); else {renderInicio();} }
    openSheet(k,p.slice(1).join('/')); return;
  }
+ if($('#sheet').classList.contains('open')&&lastScreen&&(location.hash||'#/')===lastRoute){closeSheetUI();sheetBase=null;return;} // volver a la pantalla de debajo tal como estaba
  closeSheetUI(); sheetBase=null; lastRoute=location.hash||'#/';
  if(k===''){renderInicio();}
  else if(k==='epoca'){renderEpoca(p[1]||LS.get('hk_era','antigua'),p[2]);}
