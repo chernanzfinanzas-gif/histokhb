@@ -84,7 +84,7 @@ a{color:inherit}
 .arr span{display:flex;width:30px;height:30px;border-radius:50%;background:#fff;border:1.5px solid var(--line);align-items:center;justify-content:center;font-family:'Fredoka';font-size:22px;font-weight:700;padding-bottom:3px}
 .cap{margin-top:22px;scroll-margin-top:calc(var(--top) + 110px)}
 .cap .illo{width:100%;aspect-ratio:3/1;max-height:250px;border-radius:16px;overflow:hidden;background:#eee}
-.cap .illo svg{width:100%;height:100%;display:block}
+.cap .illo svg,.cap .illo img{width:100%;height:100%;display:block;object-fit:cover}
 .cap .per{font-family:'Fredoka';font-weight:600;color:var(--era);font-size:14px;margin-top:10px}
 .cap h2{margin:2px 0 2px;font-size:22px;line-height:1.2}
 .cap .intro{margin:4px 0 8px;color:var(--ink2);font-size:15px}
@@ -443,7 +443,7 @@ function renderEpoca(sec,capId,silent){
   $('#ehero').style.background=`linear-gradient(160deg,${S.col},${S.col}bb)`;
   $('#ehero').innerHTML=`<div class="k">${S.per}</div><h1>${S.t}</h1><p>${S.intro}</p><div class="stats"><span>${nf} historias</span><span>${caps.length} capítulos</span></div>`;
   $('#capbar').innerHTML=caps.map((c,i)=>`<button data-c="${c.id}" class="${i?'':'on'}">${i+1}. ${esc(c.t.split(/[,:]/)[0])}</button>`).join('');
-  $('#caps').innerHTML=caps.map((c,i)=>`<div class="cap" id="cap-${c.id}"><div class="illo">${c.svg}</div><div class="per">Capítulo ${i+1} · ${esc(c.per)}</div><h2>${esc(c.t)}</h2><p class="intro">${esc(c.intro)}</p>`+c.f.map(k=>card(k)).join('')+'</div>').join('');
+  $('#caps').innerHTML=caps.map((c,i)=>`<div class="cap" id="cap-${c.id}"><div class="illo">${c.img?`<img src="${c.img}" alt="${esc(c.t)}" loading="lazy">`:c.svg}</div><div class="per">Capítulo ${i+1} · ${esc(c.per)}</div><h2>${esc(c.t)}</h2><p class="intro">${esc(c.intro)}</p>`+c.f.map(k=>card(k)).join('')+'</div>').join('');
   $('#capbar').querySelectorAll('button').forEach(b=>b.onclick=()=>document.getElementById('cap-'+b.dataset.c).scrollIntoView({behavior:'smooth',block:'start'}));
   setupCapbar(caps);
   if(!silent&&!capId) window.scrollTo(0,0);
