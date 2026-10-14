@@ -171,6 +171,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .trow .yr{grid-column:1/-1;font-family:'Fredoka';font-weight:700;font-size:13px;color:var(--muted);margin-top:8px;border:0;background:none;text-align:left;padding:0}
 .trow .yr u{text-decoration:none;color:var(--accent)}
 .cell{border-radius:10px;padding:7px 8px;font-size:13px;line-height:1.3;border:1px solid rgba(0,0,0,.04);text-align:left;width:100%}
+.lugf{display:flex;gap:8px;margin:0 0 10px}.lugf input{flex:1;min-width:0;font:inherit;font-size:16px;padding:10px 12px;border:1px solid #d8cdb8;border-radius:12px;background:#fff}.yacep summary{list-style:none}.yacep summary::-webkit-details-marker{display:none}.yacep summary:before{content:'▸ ';display:inline-block;transition:transform .15s}.yacep[open] summary:before{transform:rotate(90deg)}
 .mcell{display:flex;flex-direction:column;gap:4px}:root{--c-ev:#fbe2c8;--c-mon:#d8eacf;--c-bio:#dbe3f7}.cell.ev{background:var(--c-ev);border-left:6px solid var(--fz,#ccc)}#m-zonas .cell.bio{background:var(--c-bio)}.cell.mon{background:var(--c-mon);border-left:6px solid #6f8f5f;font-size:12px;color:#2f4426}.tleg{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:12px;margin-top:6px;color:var(--muted)}.tleg i{display:inline-block;width:14px;height:14px;border-radius:4px;vertical-align:-2px;margin-right:5px}#par.many .cell.mon{font-size:11px}.monchk{display:flex;align-items:center;gap:6px;font-size:13px;margin-top:6px;cursor:pointer}
 .cell.empty{background:repeating-linear-gradient(135deg,#f4eee2 0 6px,#f8f3ea 6px 12px);border-color:transparent;min-height:18px}
 .cell.hasd{box-shadow:inset 0 -3px 0 rgba(224,139,62,.6)}
@@ -299,7 +300,8 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 
 <!-- AQUÍ -->
 <section class="scr" id="s-aqui"><div class="wrap">
- <div class="aqui-hero"><div class="bi">📍</div><h1>¿Qué pasó donde estás?</h1><p>Tu móvil te sitúa y te contamos la historia del lugar: lo que pasó aquí, lo que hay alrededor y la historia de esta tierra a lo largo del tiempo.</p><div class="note" style="margin:0 0 14px">🚧 Sección en desarrollo: los resultados pueden ser poco exactos.</div>
+ <div class="aqui-hero"><div class="bi">📍</div><h1>¿Qué pasó donde estás?</h1><p>Tu móvil te sitúa, o escribes el sitio que quieras, y te contamos la historia del lugar: lo que pasó aquí, lo que hay alrededor y la historia de esta tierra a lo largo del tiempo.</p><div class="note" style="margin:0 0 14px">🚧 Sección en desarrollo: los resultados pueden ser poco exactos.</div>
+  <form id="lugF" class="lugf" autocomplete="off"><input id="lugQ" type="search" placeholder="Escribe un pueblo, ciudad o lugar…" aria-label="Buscar un sitio"><button class="btn" type="submit">🔎 Buscar</button></form>
   <button class="btn" id="geoBtn">📍 Localizarme</button> <button class="btn sec" id="demoBtn">Probar en Carrión</button> <button class="btn sec" id="demoBtn2">Probar en Madrid</button><br><button class="btn sec" id="yacBtn" style="margin-top:8px">🏛️ Yacimientos y monumentos</button>
   <div id="geoMsg" class="rt"></div></div>
  <div id="aquiOut"></div>
@@ -692,6 +694,20 @@ $('#geoBtn').onclick=()=>{
  navigator.geolocation.getCurrentPosition(p=>{m.textContent='';aquiAt([p.coords.latitude,p.coords.longitude],'tu posición');},
   e=>{m.textContent='No he podido localizarte ('+(e.code===1?'permiso denegado':'sin señal')+'). Prueba otra vez o usa «Probar en Carrión».';},{enableHighAccuracy:false,timeout:15000,maximumAge:300000});
 };
+$('#lugF').onsubmit=async ev=>{ev.preventDefault();
+ const q=$('#lugQ').value.trim(); if(!q)return; const m=$('#geoMsg'); m.textContent='Buscando «'+q+'»…';
+ let pt=null,label=q;
+ try{const r=await fetch('https://nominatim.openstreetmap.org/search?format=json&limit=1&accept-language=es&q='+encodeURIComponent(q));const j=await r.json();
+  if(j&&j[0]){pt=[+j[0].lat,+j[0].lon];label=j[0].display_name.split(',').slice(0,3).join(',');}}catch(e){}
+ if(!pt){ // sin conexión con el buscador de mapas: mirar en nuestros propios lugares
+  if(!LUG)LUG=await getJ('lugares.json').catch(()=>({lugares:[]})); if(!ETQ)ETQ=await getJ('etiquetas.json').catch(()=>({}));
+  const n=x=>x.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase(); const nq=n(q);
+  const e=Object.entries(ETQ).find(([k])=>n(k)===nq)||Object.entries(ETQ).find(([k])=>n(k).includes(nq));
+  if(e)pt=[e[1][0],e[1][1]]; else{const l=LUG.lugares.find(l=>n(l.nombre+' '+(l.comarca||'')).includes(nq)); if(l){pt=[l.lat,l.lon];label=l.comarca||l.nombre;}}
+ }
+ if(!pt){m.textContent='No encuentro «'+q+'». Prueba con otro nombre o añade la provincia.';return;}
+ m.textContent='📍 '+label; aquiAt(pt,label);
+};
 $('#demoBtn').onclick=()=>aquiAt([42.338,-4.603],'Carrión de los Condes (prueba)');
 $('#demoBtn2').onclick=()=>aquiAt([40.62,-3.70],'Norte de Madrid (prueba)');
 let ETQ=null, LASTPT=null;
@@ -701,11 +717,13 @@ $('#yacBtn').onclick=async()=>{
  if(!LUG)LUG=await getJ('lugares.json').catch(()=>({lugares:[]}));
  const Y=LUG.lugares.filter(l=>l.tipo==='yacimiento');
  const eps=[...new Set(Y.map(l=>l.epoca))].sort((a,b)=>EPOR.indexOf(a)-EPOR.indexOf(b));
- let h=`<div class="sec-t">🏛️ Yacimientos y monumentos para visitar · ${Y.length}</div><p class="rt">${LASTPT?'Ordenados por cercanía a tu posición.':'Pulsa «Localizarme» para verlos ordenados por cercanía.'}</p>`;
+ let h=`<div class="sec-t">🏛️ Yacimientos y monumentos para visitar · ${Y.length}</div><p class="rt">${LASTPT?'Ordenados por cercanía a tu posición.':'Pulsa «Localizarme» o escribe un sitio arriba para verlos ordenados por cercanía.'}</p>`;
  eps.forEach(ep=>{let L=Y.filter(l=>l.epoca===ep).map(l=>[l,LASTPT?km(LASTPT,[l.lat,l.lon]):null]);
   L.sort((a,b)=>a[1]!=null?a[1]-b[1]:a[0].provincia.localeCompare(b[0].provincia));
-  h+=`<details open><summary class="sec-t" style="cursor:pointer">${esc(ep)} · ${L.length}</summary>${L.map(([l,d])=>yacRow(l,d)).join('')}</details>`;});
+  h+=`<details class="yacep" name="yacep"><summary class="sec-t" style="cursor:pointer">${esc(ep)} · ${L.length}</summary>${L.map(([l,d])=>yacRow(l,d)).join('')}</details>`;});
  $('#aquiOut').innerHTML=h;
+ // una época abierta cada vez
+ $('#aquiOut').querySelectorAll('details.yacep').forEach(d=>d.addEventListener('toggle',()=>{if(d.open){$('#aquiOut').querySelectorAll('details.yacep').forEach(o=>{if(o!==d)o.open=false;});d.scrollIntoView({block:'start',behavior:'smooth'});}}));
 };
 async function aquiAt(pt,label){ LASTPT=pt;
  const out=$('#aquiOut'); out.innerHTML='<p class="empty-st">Buscando historia…</p>';
