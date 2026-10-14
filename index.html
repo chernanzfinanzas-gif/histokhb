@@ -108,6 +108,7 @@ a{color:inherit}
 .lvq{margin:2px 0 6px;color:var(--ink2);font-size:14px;text-align:center}
 .lvhome{margin:0 auto 14px}
 .rq-ficha{font-size:14px;font-weight:700;color:var(--ink2);margin:-2px 0 6px}
+.mhint{position:relative;z-index:12;margin:6px 0 4px;font-size:14px;color:var(--ink2);background:#fff6e8;border-radius:10px;padding:8px 12px}
 .seg{display:grid;grid-template-columns:repeat(3,1fr);border:1.5px solid var(--line);border-radius:999px;overflow:hidden;background:#fff;margin:8px auto 0;max-width:640px}
 .seg button{border:0;background:none;padding:8px 2px;font-family:'Fredoka';font-weight:600;font-size:14px}
 .seg button+button{border-left:1.5px solid var(--line)}
@@ -279,7 +280,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 
 <!-- EL MUNDO -->
 <section class="scr" id="s-mundo"><div class="wrap">
- <div class="mtabs"><div class="seg" id="mseg"><button data-m="ano" class="on">📅 Un año</button><button data-m="zonas">🧭 Comparar</button><button data-m="info">❔ Ayuda</button></div></div>
+ <div class="mtabs"><div class="seg" id="mseg"><button data-m="zonas" class="on">🧭 Comparar</button><button data-m="ano">📅 Un año</button><button data-m="info">❔ Ayuda</button></div></div>
  <div id="m-ano">
   <div class="yearbox">
    <div class="yrow"><button class="ystep" id="yl" aria-label="Año anterior con novedades">‹</button><div class="ybig" id="yv"></div><button class="ystep" id="yr" aria-label="Año siguiente con novedades">›</button></div>
@@ -290,6 +291,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <div id="zones"></div>
  </div>
  <div id="m-zonas" class="hide">
+  <p class="mhint">👉 Para ver qué pasó en <b>todo el mundo</b> un año concreto, pulsa <u>ver el mundo</u> junto a ese año: verás todas las fichas de esa fecha.</p>
   <div class="pick">
    <div class="sels" id="sels"></div><div class="zbtns" id="zbtns"></div>
    <select id="per" class="per" aria-label="Época"><option value="-1000000,-3500">Prehistoria</option><option value="-3500,476">Edad Antigua</option><option value="476,1492" selected>Edad Media</option><option value="1492,1789">Edad Moderna</option><option value="1789,2100">Edad Contemporánea</option></select>
@@ -394,7 +396,7 @@ function route(){
  closeSheetUI(); sheetBase=null; lastRoute=location.hash||'#/';
  if(k===''){renderInicio();}
  else if(k==='epoca'){renderEpoca(p[1]||LS.get('hk_era','antigua'),p[2]);}
- else if(k==='mundo'){renderMundo(p[1]||'ano',p.slice(2));}
+ else if(k==='mundo'){renderMundo(p[1]||'zonas',p.slice(2));}
  else if(k==='aqui'){renderAqui();}
  else if(k==='favs'){renderFavs();}
  else if(k==='reto'){renderReto(p[1]);}
@@ -536,7 +538,7 @@ function renderMundo(mode,args){
   initMundo();
   if(mode==='ano'&&args[0]!=null&&args[0]!==''){YEAR=+args[0];}
   if(mode==='zonas'&&args[0]){const z=args[0].split('~');ZIDS().forEach((id,i)=>{document.getElementById(id).value=z[i]!==undefined?z[i]:'';});}
-  setMode(mode==='zonas'?'zonas':mode==='info'?'info':'ano');
+  setMode(mode==='ano'?'ano':mode==='info'?'info':'zonas');
  });
 }
 let mInit=false;
@@ -649,7 +651,7 @@ function renderPar(){
  const ys=new Set(); sel.forEach(r=>(SINC.ev[r]||[]).forEach(e=>{if(e[0]>=y0&&e[0]<y1)ys.add(e[0]);}));
  const SM=LS.get('hk_mon',true); if(SM&&!LUG){getJ('lugares.json').then(j=>{LUG=j;MONI=null;renderPar();}).catch(()=>{});} const MI=SM?monIdx():null; if(MI) sel.forEach(r=>Object.keys(MI[r]||{}).forEach(k=>{k=+k;if(k>=y0&&k<y1)ys.add(k);}));
  let h=`<div class="cols" style="${cols}">${sel.map(r=>`<div>${esc(rn(r))}</div>`).join('')}</div>`;
- h+=`<div class="trow" data-y="${y0}" style="${cols}"><div class="yr">Al empezar la época (${fy(Math.max(y0,-900000))})</div>`+sel.map(r=>{const a=(SINC.ev[r]||[]).filter(e=>e[0]<y0);let e=a[a.length-1];if(e&&e[4]!=null&&y0>=e[4])e=null;return e?`<div class="cell ev" style="--fz:${e[2]}">${esc(e[1])}<br><small style="opacity:.7">desde ${fy(e[0])}</small></div>`:'<div class="cell empty"></div>';}).join('')+'</div>';
+ h+=`<div class="trow" data-y="${y0}" style="${cols}"><div class="yr">Al empezar la época (${fy(Math.max(y0,-900000))})</div>`+sel.map(r=>{const a=(SINC.ev[r]||[]).filter(e=>e[0]<y0);let e=a[a.length-1];if(e&&e[4]!=null&&y0>=e[4])e=null;return e?(e[3]?`<button class="cell ev hasd${e[3]===2?' bio':''}" style="--fz:${e[2]}" onclick="go('#/s/${encodeURIComponent(r+'|'+e[0])}')">${esc(e[1])}<br><small style="opacity:.7">desde ${fy(e[0])}</small></button>`:`<div class="cell ev" style="--fz:${e[2]}">${esc(e[1])}<br><small style="opacity:.7">desde ${fy(e[0])}</small></div>`):'<div class="cell empty"></div>';}).join('')+'</div>';
  [...ys].sort((a,b)=>a-b).forEach(y=>{
   h+=`<div class="trow" data-y="${y}" style="${cols}"><button class="yr" onclick="go('#/mundo/ano/${y}')">${fy(y)} <u>· ver el mundo</u></button>`+sel.map(r=>{
    const e=(SINC.ev[r]||[]).find(e=>e[0]===y); const mo=(MI&&MI[r]&&MI[r][y])||[]; const mh=mo.map(l=>`<button class="cell mon" onclick="go('#/l/${l.id}')">🏛️ ${esc(l.nombre)}</button>`).join('');
