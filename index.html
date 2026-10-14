@@ -171,7 +171,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .trow .yr{grid-column:1/-1;font-family:'Fredoka';font-weight:700;font-size:13px;color:var(--muted);margin-top:8px;border:0;background:none;text-align:left;padding:0}
 .trow .yr u{text-decoration:none;color:var(--accent)}
 .cell{border-radius:10px;padding:7px 8px;font-size:13px;line-height:1.3;border:1px solid rgba(0,0,0,.04);text-align:left;width:100%}
-.mcell{display:flex;flex-direction:column;gap:4px}.cell.mon{background:#f3ede1;border:1px dashed #b9a684;font-size:12px;color:#5a4a32}#par.many .cell.mon{font-size:11px}.monchk{display:flex;align-items:center;gap:6px;font-size:13px;margin-top:6px;cursor:pointer}
+.mcell{display:flex;flex-direction:column;gap:4px}:root{--c-ev:#fbe2c8;--c-mon:#d8eacf;--c-bio:#dbe3f7}.cell.ev{background:var(--c-ev);border-left:6px solid var(--fz,#ccc)}#m-zonas .cell.bio{background:var(--c-bio)}.cell.mon{background:var(--c-mon);border-left:6px solid #6f8f5f;font-size:12px;color:#2f4426}.tleg{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:12px;margin-top:6px;color:var(--muted)}.tleg i{display:inline-block;width:14px;height:14px;border-radius:4px;vertical-align:-2px;margin-right:5px}#par.many .cell.mon{font-size:11px}.monchk{display:flex;align-items:center;gap:6px;font-size:13px;margin-top:6px;cursor:pointer}
 .cell.empty{background:repeating-linear-gradient(135deg,#f4eee2 0 6px,#f8f3ea 6px 12px);border-color:transparent;min-height:18px}
 .cell.hasd{box-shadow:inset 0 -3px 0 rgba(224,139,62,.6)}
 .cell.bio,.zt.bio{font-weight:700}.cell.bio:before{content:'📜 ';font-weight:400}
@@ -287,6 +287,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
    <div class="sels" id="sels"></div><div class="zbtns" id="zbtns"></div>
    <select id="per" class="per" aria-label="Época"><option value="-1000000,-3500">Prehistoria</option><option value="-3500,476">Edad Antigua</option><option value="476,1492" selected>Edad Media</option><option value="1492,1789">Edad Moderna</option><option value="1789,2100">Edad Contemporánea</option></select>
    <label class="monchk"><input type="checkbox" id="monChk"> 🏛️ Ver también monumentos y yacimientos</label>
+   <div class="tleg"><span><i style="background:var(--c-ev)"></i>Hechos históricos</span><span><i style="background:var(--c-mon)"></i>🏛️ Monumentos y yacimientos</span><span><i style="background:var(--c-bio)"></i>📜 Biografías</span><span><i style="background:linear-gradient(90deg,#C9D8EC 30%,transparent 30%)"></i>Franja: etapa (Paleolítico, Bronce…)</span></div>
    <div class="trail hide" id="trail" role="slider" aria-label="Barra de tiempo" tabindex="0"><div class="te" id="tr-a"></div><div class="tt" id="tr-t"><div class="th" id="tr-h"></div></div><div class="te" id="tr-b"></div></div>
   </div>
   <div id="par"></div>
@@ -632,12 +633,12 @@ function renderPar(){
  const ys=new Set(); sel.forEach(r=>(SINC.ev[r]||[]).forEach(e=>{if(e[0]>=y0&&e[0]<y1)ys.add(e[0]);}));
  const SM=LS.get('hk_mon',true); if(SM&&!LUG){getJ('lugares.json').then(j=>{LUG=j;MONI=null;renderPar();}).catch(()=>{});} const MI=SM?monIdx():null; if(MI) sel.forEach(r=>Object.keys(MI[r]||{}).forEach(k=>{k=+k;if(k>=y0&&k<y1)ys.add(k);}));
  let h=`<div class="cols" style="${cols}">${sel.map(r=>`<div>${esc(rn(r))}</div>`).join('')}</div>`;
- h+=`<div class="trow" data-y="${y0}" style="${cols}"><div class="yr">Al empezar la época (${fy(Math.max(y0,-900000))})</div>`+sel.map(r=>{const a=(SINC.ev[r]||[]).filter(e=>e[0]<y0);let e=a[a.length-1];if(e&&e[4]!=null&&y0>=e[4])e=null;return e?`<div class="cell" style="background:${e[2]}55">${esc(e[1])}<br><small style="opacity:.7">desde ${fy(e[0])}</small></div>`:'<div class="cell empty"></div>';}).join('')+'</div>';
+ h+=`<div class="trow" data-y="${y0}" style="${cols}"><div class="yr">Al empezar la época (${fy(Math.max(y0,-900000))})</div>`+sel.map(r=>{const a=(SINC.ev[r]||[]).filter(e=>e[0]<y0);let e=a[a.length-1];if(e&&e[4]!=null&&y0>=e[4])e=null;return e?`<div class="cell ev" style="--fz:${e[2]}">${esc(e[1])}<br><small style="opacity:.7">desde ${fy(e[0])}</small></div>`:'<div class="cell empty"></div>';}).join('')+'</div>';
  [...ys].sort((a,b)=>a-b).forEach(y=>{
   h+=`<div class="trow" data-y="${y}" style="${cols}"><button class="yr" onclick="go('#/mundo/ano/${y}')">${fy(y)} <u>· ver el mundo</u></button>`+sel.map(r=>{
    const e=(SINC.ev[r]||[]).find(e=>e[0]===y); const mo=(MI&&MI[r]&&MI[r][y])||[]; const mh=mo.map(l=>`<button class="cell mon" onclick="go('#/l/${l.id}')">🏛️ ${esc(l.nombre)}</button>`).join('');
    if(!e)return mo.length?`<div class="mcell">${mh}</div>`:'<div class="cell empty"></div>';
-   const key=r+'|'+y; const eh=e[3]?`<button class="cell hasd${e[3]===2?' bio':''}" style="background:${e[2]}55" onclick="go('#/s/${encodeURIComponent(key)}')">${esc(e[1])}</button>`:`<div class="cell" style="background:${e[2]}55">${esc(e[1])}</div>`; return mo.length?`<div class="mcell">${eh}${mh}</div>`:eh;
+   const key=r+'|'+y; const eh=e[3]?`<button class="cell ev hasd${e[3]===2?' bio':''}" style="--fz:${e[2]}" onclick="go('#/s/${encodeURIComponent(key)}')">${esc(e[1])}</button>`:`<div class="cell ev" style="--fz:${e[2]}">${esc(e[1])}</div>`; return mo.length?`<div class="mcell">${eh}${mh}</div>`:eh;
   }).join('')+'</div>';
  });
  p.innerHTML=h; railSetup();
