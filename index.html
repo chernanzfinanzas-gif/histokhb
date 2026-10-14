@@ -105,6 +105,8 @@ a{color:inherit}
 .ibtn.wa2{background:var(--wa);border-color:var(--wa);color:#fff}
 .ibtn.wa2 svg{width:20px;height:20px}
 .sh-ttl{flex:1;font-family:'Fredoka';font-weight:600;font-size:15px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.lvq{margin:2px 0 6px;color:var(--ink2);font-size:14px;text-align:center}
+.lvhome{margin:0 auto 14px}
 .seg{display:grid;grid-template-columns:repeat(3,1fr);border:1.5px solid var(--line);border-radius:999px;overflow:hidden;background:#fff;margin:8px auto 0;max-width:640px}
 .seg button{border:0;background:none;padding:8px 2px;font-family:'Fredoka';font-weight:600;font-size:14px}
 .seg button+button{border-left:1.5px solid var(--line)}
@@ -254,6 +256,8 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <div id="hdia"></div>
   <div id="nov0"></div>
   <div class="sec-t">Viaja por las épocas</div>
+  <p class="lvq">¿Cómo quieres leer las historias?</p>
+  <div class="seg lvhome" id="segHome"><button data-l="n">🧒 Niños</button><button data-l="g">📘 General</button><button data-l="p">🎓 Profundo</button></div>
   <div class="eras" id="eras"></div>
   <div class="sec-t">Otras formas de explorar</div>
   <button class="big" onclick="go('#/mundo')"><span class="bi">🌍</span><div><h3>El mundo a la vez</h3><p>¿Qué pasaba en China mientras caía Roma? Compara todas las civilizaciones, año a año.</p></div></button>
@@ -471,7 +475,8 @@ function closeSheet(){ if(sheetBase!==null){const b=sheetBase;sheetBase=null;go(
 $('#shClose').onclick=closeSheet;
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&CUR)closeSheet();});
 $('#seg').querySelectorAll('button').forEach(b=>b.onclick=()=>{setLevel(b.dataset.l);renderSheet();});
-function setLevel(l){LV=l;LS.set('hk_nivel',l);$('#seg').querySelectorAll('button').forEach(x=>x.classList.toggle('on',x.dataset.l===l));}
+$('#segHome').querySelectorAll('button').forEach(b=>b.onclick=()=>setLevel(b.dataset.l));
+function setLevel(l){LV=l;LS.set('hk_nivel',l);['#seg','#segHome'].forEach(id=>$(id).querySelectorAll('button').forEach(x=>x.classList.toggle('on',x.dataset.l===l)));}
 setLevel(LV);
 $('#shFav').onclick=()=>{if(!CUR)return;const id=CUR.kind+':'+CUR.key;let f=LS.get('hk_favs',[]);const k=CUR.kind==='f'?CUR.key:id;f=f.includes(k)?f.filter(x=>x!==k):[...f,k];LS.set('hk_favs',f);favBtn();if(curEra){const keep=curEra;curEra=null;if(lastScreen==='epoca')renderEpoca(keep,null,true);}};
 function favBtn(){const k=CUR.kind==='f'?CUR.key:CUR.kind+':'+CUR.key;const on=LS.get('hk_favs',[]).includes(k);$('#shFav').textContent=on?'★':'☆';$('#shFav').style.color=on?'#e0a020':'';}
@@ -718,7 +723,7 @@ $('#lugF').onsubmit=async ev=>{ev.preventDefault();
 $('#demoBtn').onclick=()=>aquiAt([42.338,-4.603],'Carrión de los Condes (prueba)');
 $('#demoBtn2').onclick=()=>aquiAt([40.62,-3.70],'Norte de Madrid (prueba)');
 let ETQ=null, LASTPT=null;
-const EPOR=['Paleolítico', 'Neolítico', 'Arte levantino y esquemático', 'Edad del Cobre', 'Edad del Bronce', 'Egipto faraónico', 'Nubia (Kush)', 'Mesopotamia antigua', 'Persia aqueménida', 'Partos y sasánidas', 'Israel y Judá antiguos', 'Fenicios y púnicos', 'China antigua', 'China imperial', 'Tartessos, fenicios y griegos', 'Íberos', 'Edad del Hierro', 'Etruscos', 'Griegos', 'Romano', 'Grecorromano', 'Antigüedad tardía', 'Copto y bizantino', 'Bizantino', 'Visigodo', 'Prerrománico y Alta Edad Media', 'Andalusí', 'Islámico medieval', 'Cruzados', 'Románico', 'Gótico', 'Mudéjar', 'Castillos y fortalezas', 'Villas y cascos medievales', 'Renacimiento', 'Barroco', 'Ilustración y Neoclásico', 'Guerra de la Independencia', 'Siglo XIX', 'Modernismo', 'Guerra Civil', 'Siglo XX', 'Canarias prehispánica'];
+const EPOR=['Paleolítico', 'Neolítico', 'Arte levantino y esquemático', 'Edad del Cobre', 'Edad del Bronce', 'Egipto faraónico', 'Nubia (Kush)', 'Mesopotamia antigua', 'Persia aqueménida', 'Partos y sasánidas', 'Israel y Judá antiguos', 'Fenicios y púnicos', 'China antigua', 'China imperial', 'Civilización del Indo', 'India antigua', 'India medieval', 'India mogol', 'Tartessos, fenicios y griegos', 'Íberos', 'Edad del Hierro', 'Etruscos', 'Griegos', 'Romano', 'Grecorromano', 'Antigüedad tardía', 'Copto y bizantino', 'Bizantino', 'Visigodo', 'Prerrománico y Alta Edad Media', 'Andalusí', 'Islámico medieval', 'Cruzados', 'Románico', 'Gótico', 'Mudéjar', 'Castillos y fortalezas', 'Villas y cascos medievales', 'Renacimiento', 'Barroco', 'Ilustración y Neoclásico', 'Guerra de la Independencia', 'Siglo XIX', 'Modernismo', 'Guerra Civil', 'Siglo XX', 'Canarias prehispánica'];
 function yacRow(l,d){return `<button class="lugar" onclick="go('#/l/${l.id}')"><div class="lk">🏛️ ${esc(l.epoca||'Yacimiento')} · ${d!=null?(d<1?'Estás aquí':Math.round(d)+' km'):esc(l.provincia)}</div><h3>${esc(l.nombre)}</h3><p>${esc(strip(l.texto.general).slice(0,140))}…</p></button>`;}
 $('#yacBtn').onclick=async()=>{
  if(!LUG)LUG=await getJ('lugares.json').catch(()=>({lugares:[]}));
