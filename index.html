@@ -107,6 +107,7 @@ a{color:inherit}
 .sh-ttl{flex:1;font-family:'Fredoka';font-weight:600;font-size:15px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .lvq{margin:2px 0 6px;color:var(--ink2);font-size:14px;text-align:center}
 .lvhome{margin:0 auto 14px}
+.rq-ficha{font-size:14px;font-weight:700;color:var(--ink2);margin:-2px 0 6px}
 .seg{display:grid;grid-template-columns:repeat(3,1fr);border:1.5px solid var(--line);border-radius:999px;overflow:hidden;background:#fff;margin:8px auto 0;max-width:640px}
 .seg button{border:0;background:none;padding:8px 2px;font-family:'Fredoka';font-weight:600;font-size:14px}
 .seg button+button{border-left:1.5px solid var(--line)}
@@ -856,7 +857,7 @@ function drawReto(){
  }
  const q=RS.qs[RS.k], Q=RETOQ[q.i], f=FI(Q[0]), difN={n:'Fácil',g:'Media',p:'Difícil'}[Q[1]];
  const inv=Q[1]==='p';
- let h=`<div class="rq-top"><span>${RS.practice?'Práctica':'Reto del día'} · ${RS.k+1} de ${n}</span>${dots}</div><div class="rq"><div class="dif">${inv?'🔎 Pregunta de investigación':difN}${f?' · '+esc(f.sec==='sinc'?'Sincronía · '+f.sincr:IDX.secciones.find(s=>s.id===f.sec).t):''}</div><h2>${esc(Q[2])}</h2>`+(inv&&q.ans==null&&!q.wrong.length?`<div class="fb" style="margin:0 0 6px">La respuesta está en la ficha <b>«${f?esc(f.t):''}»</b>. ¿Te la sabes o vas a investigar?<div class="rbtns"><button class="btn sec" onclick="go('${FH(Q[0])}')">📖 Investigar en la ficha</button></div></div>`:'');
+ let h=`<div class="rq-top"><span>${RS.practice?'Práctica':'Reto del día'} · ${RS.k+1} de ${n}</span>${dots}</div><div class="rq"><div class="dif">${inv?'🔎 Pregunta de investigación':difN}${f?' · '+esc(f.sec==='sinc'?'Sincronía · '+f.sincr:IDX.secciones.find(s=>s.id===f.sec).t):''}</div>${f&&f.t?`<div class="rq-ficha">📖 ${esc(f.t)}</div>`:''}<h2>${esc(Q[2])}</h2>`+(inv&&q.ans==null&&!q.wrong.length?`<div class="fb" style="margin:0 0 6px">La respuesta está en la ficha <b>«${f?esc(f.t):''}»</b>. ¿Te la sabes o vas a investigar?<div class="rbtns"><button class="btn sec" onclick="go('${FH(Q[0])}')">📖 Investigar en la ficha</button></div></div>`:'');
  h+=q.ord.map(o=>{let c='',dis=false;if(q.ans!=null){dis=true;if(o===Q[4])c='ok';}if(q.wrong.includes(o)){c='ko';dis=true;}return `<button class="opt ${c}" ${dis?'disabled':''} onclick="answer(${o})">${q.wrong.includes(o)?'<s>'+esc(Q[3][o])+'</s>':esc(Q[3][o])}</button>`;}).join('');
  if(q.ans==null&&!q.wrong.length){ h+= q.hint?`<div class="fb">💡 ${esc(Q[5])}</div>`:`<button class="pista" onclick="RS.qs[RS.k].hint=true;drawReto()">💡 Ver pista</button>`; if(LV==='n') h+=`<div class="rbtns"><button class="btn sec" onclick="go('${FH(Q[0])}')">📖 Leer la ficha</button></div>`; }
  else if(q.ans==null) h+=`<div class="fb"><b>No es esa.</b> La respuesta está en la ficha «${f?esc(f.t):''}». Búscala y vuelve a intentarlo.</div><div class="rbtns"><button class="btn" onclick="go('${FH(Q[0])}')">📖 Buscar en la ficha</button></div>`;
