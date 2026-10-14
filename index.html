@@ -718,7 +718,7 @@ $('#lugF').onsubmit=async ev=>{ev.preventDefault();
 $('#demoBtn').onclick=()=>aquiAt([42.338,-4.603],'Carrión de los Condes (prueba)');
 $('#demoBtn2').onclick=()=>aquiAt([40.62,-3.70],'Norte de Madrid (prueba)');
 let ETQ=null, LASTPT=null;
-const EPOR=['Paleolítico','Neolítico','Arte levantino y esquemático','Edad del Cobre','Edad del Bronce','Tartessos, fenicios y griegos','Íberos','Edad del Hierro','Etruscos','Griegos','Romano','Antigüedad tardía','Visigodo','Prerrománico y Alta Edad Media','Andalusí','Románico','Gótico','Mudéjar','Castillos y fortalezas','Villas y cascos medievales','Renacimiento','Barroco','Ilustración y Neoclásico','Guerra de la Independencia','Siglo XIX','Modernismo','Guerra Civil','Siglo XX','Canarias prehispánica'];
+const EPOR=['Paleolítico', 'Neolítico', 'Arte levantino y esquemático', 'Edad del Cobre', 'Edad del Bronce', 'Egipto faraónico', 'Nubia (Kush)', 'Tartessos, fenicios y griegos', 'Íberos', 'Edad del Hierro', 'Etruscos', 'Griegos', 'Romano', 'Grecorromano', 'Antigüedad tardía', 'Copto y bizantino', 'Visigodo', 'Prerrománico y Alta Edad Media', 'Andalusí', 'Islámico medieval', 'Románico', 'Gótico', 'Mudéjar', 'Castillos y fortalezas', 'Villas y cascos medievales', 'Renacimiento', 'Barroco', 'Ilustración y Neoclásico', 'Guerra de la Independencia', 'Siglo XIX', 'Modernismo', 'Guerra Civil', 'Siglo XX', 'Canarias prehispánica'];
 function yacRow(l,d){return `<button class="lugar" onclick="go('#/l/${l.id}')"><div class="lk">🏛️ ${esc(l.epoca||'Yacimiento')} · ${d!=null?(d<1?'Estás aquí':Math.round(d)+' km'):esc(l.provincia)}</div><h3>${esc(l.nombre)}</h3><p>${esc(strip(l.texto.general).slice(0,140))}…</p></button>`;}
 $('#yacBtn').onclick=async()=>{
  if(!LUG)LUG=await getJ('lugares.json').catch(()=>({lugares:[]}));
