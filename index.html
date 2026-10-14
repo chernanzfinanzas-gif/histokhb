@@ -591,6 +591,7 @@ const PRESETS=[
  {g:'Edad Antigua',n:'Alejandro y los reinos helenísticos',e:'-360,-30',z:['Grecia','Persia','Egipto','India','Anatolia','Levante','Mesopotamia','Italia','Estepa']},
  {g:'Edad Antigua',n:'Roma y la China Han',e:'-200,220',z:['Italia','China','Persia','India','Estepa','Anatolia','Egipto','Levante','SE asiático']},
  {g:'Edad Antigua',n:'América antigua',e:'-1500,900',z:['Mesoamérica','Andes','Norteamérica','Caribe','Brasil','Río de la Plata']},
+ {g:'Edad Media',n:'Canarias: aborígenes y conquista',e:'476,1492',z:['Canarias',ESP,'Portugal','Magreb',AND,'África occidental']},
  {g:'Edad Media',n:'Las invasiones bárbaras',e:'376,600',z:['Italia',ESP,'Francia','Europa central','Islas Británicas','Magreb','Anatolia','Estepa','Persia']},
  {g:'Edad Media',n:'Bizancio, Persia y el nacimiento del islam',e:'500,750',z:['Anatolia','Persia','Levante','Egipto','Magreb',ESP,'Italia','Mesopotamia','India']},
  {g:'Edad Media',n:'Carlomagno, vikingos y Al-Ándalus',e:'750,1066',z:['Francia','Europa central','Islas Británicas','Italia',AND,'Asturias','Cataluña','Rusia','Anatolia']},
@@ -685,7 +686,7 @@ function railFromX(cx){const tt=$('#tr-t'),b=tt.getBoundingClientRect(),hw=$('#t
 
 // ---------- aquí ----------
 const CENT={'Egipto':[26,30],'Nubia/Sudán':[16,32],'Magreb':[32,0],'Etiopía/Cuerno':[9,40],'África occidental':[12,-5],'África oriental':[-3,36],'África central':[0,20],'África austral':[-25,25],'Mesopotamia':[33,44],'Anatolia':[39,33],'Levante':[32,35.5],'Persia':[32,53],'India':[22,78],'China':[34,108],'Corea':[37,127.5],'Japón':[36,138],'Estepa':[47,90],'SE asiático':[13,103],'Grecia':[39,22],'Italia':[42.5,12.5],'Francia':[46.5,2.5],'Islas Británicas':[53,-2],'Europa central':[50.5,12],'Rusia':[56,38],'Norteamérica':[39,-95],'Mesoamérica':[19,-97],'Caribe':[19,-72],'Andes':[-13,-73],'Brasil':[-12,-50],'Río de la Plata':[-34,-60],'Australia':[-25,134],'Pacífico':[-15,-150]};
-const IBER={'Portugal':[39.5,-8.2],'Galicia':[42.8,-8],'Asturias':[43.3,-5.9],'León':[42.4,-5.6],[ESP]:[40.6,-3.8],'Navarra / P.Vasco-Rioja':[42.8,-2],'Aragón / C.Valenciana':[40.8,-0.6],'Cataluña':[41.8,1.7],'Al-Ándalus / Andalucía-Murcia':[37.6,-4.2]};
+const IBER={'Portugal':[39.5,-8.2],'Galicia':[42.8,-8],'Asturias':[43.3,-5.9],'León':[42.4,-5.6],[ESP]:[40.6,-3.8],'Navarra / P.Vasco-Rioja':[42.8,-2],'Aragón / C.Valenciana':[40.8,-0.6],'Cataluña':[41.8,1.7],'Al-Ándalus / Andalucía-Murcia':[37.6,-4.2],'Canarias':[28.3,-15.8]};
 function km(a,b){const R=6371,t=x=>x*Math.PI/180;const d1=t(b[0]-a[0]),d2=t(b[1]-a[1]);const h=Math.sin(d1/2)**2+Math.cos(t(a[0]))*Math.cos(t(b[0]))*Math.sin(d2/2)**2;return 2*R*Math.asin(Math.sqrt(h));}
 function nearest(tab,p){return Object.entries(tab).map(([r,c])=>[r,km(p,c)]).sort((a,b)=>a[1]-b[1]);}
 function renderAqui(){lastScreen='aqui';show('aqui');}
@@ -773,7 +774,7 @@ async function aquiAt(pt,label){ LASTPT=pt;
  if(reg.length) h+=`<details><summary class="sec-t" style="cursor:pointer">▸ Más lejos: ${esc(miCC||'en la región')} · ${reg.length}</summary>${reg.map(row).join('')}</details>`;
  // grandes hitos de la zona sin lugar concreto
  const tagged=new Set(Object.values(ETQ).flatMap(v=>v[4]));
- const inIber= pt[0]>35.8&&pt[0]<44&&pt[1]>-9.6&&pt[1]<3.4;
+ const inIber=(pt[0]>35.8&&pt[0]<44&&pt[1]>-9.6&&pt[1]<3.4)||(pt[0]>27.4&&pt[0]<29.6&&pt[1]>-18.4&&pt[1]<-13.2);
  let regs=[]; if(inIber){const n=nearest(IBER,pt);regs=[n[0][0]];if(n[0][0]!==ESP)regs.push(ESP);} else regs=[nearest(CENT,pt)[0][0]];
  h+='<div class="sec-t">Esta tierra a lo largo del tiempo</div><p class="rt">Los grandes momentos de la zona que no tienen un lugar concreto.</p>'+regs.map(r=>{
   const a=(SINC.ev[r]||[]).filter(e=>!tagged.has('s:'+r+'|'+e[0]));
