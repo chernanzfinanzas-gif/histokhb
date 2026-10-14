@@ -171,6 +171,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .trow .yr{grid-column:1/-1;font-family:'Fredoka';font-weight:700;font-size:13px;color:var(--muted);margin-top:8px;border:0;background:none;text-align:left;padding:0}
 .trow .yr u{text-decoration:none;color:var(--accent)}
 .cell{border-radius:10px;padding:7px 8px;font-size:13px;line-height:1.3;border:1px solid rgba(0,0,0,.04);text-align:left;width:100%}
+.mcell{display:flex;flex-direction:column;gap:4px}.cell.mon{background:#f3ede1;border:1px dashed #b9a684;font-size:12px;color:#5a4a32}#par.many .cell.mon{font-size:11px}.monchk{display:flex;align-items:center;gap:6px;font-size:13px;margin-top:6px;cursor:pointer}
 .cell.empty{background:repeating-linear-gradient(135deg,#f4eee2 0 6px,#f8f3ea 6px 12px);border-color:transparent;min-height:18px}
 .cell.hasd{box-shadow:inset 0 -3px 0 rgba(224,139,62,.6)}
 .cell.bio,.zt.bio{font-weight:700}.cell.bio:before{content:'📜 ';font-weight:400}
@@ -285,6 +286,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <div class="pick">
    <div class="sels" id="sels"></div><div class="zbtns" id="zbtns"></div>
    <select id="per" class="per" aria-label="Época"><option value="-1000000,-3500">Prehistoria</option><option value="-3500,476">Edad Antigua</option><option value="476,1492" selected>Edad Media</option><option value="1492,1789">Edad Moderna</option><option value="1789,2100">Edad Contemporánea</option></select>
+   <label class="monchk"><input type="checkbox" id="monChk"> 🏛️ Ver también monumentos y yacimientos</label>
    <div class="trail hide" id="trail" role="slider" aria-label="Barra de tiempo" tabindex="0"><div class="te" id="tr-a"></div><div class="tt" id="tr-t"><div class="th" id="tr-h"></div></div><div class="te" id="tr-b"></div></div>
   </div>
   <div id="par"></div>
@@ -341,7 +343,8 @@ const ERA_IC={cosmos:'🌌',prehistoria:'🦣',antigua:'🏛️',media:'🏰',mo
 const ESP='Hispania · Castilla · España';
 const $=s=>document.querySelector(s);
 const LS={get(k,d){try{const v=localStorage.getItem(k);return v==null?d:JSON.parse(v);}catch(e){return d;}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v));}catch(e){}}};
-let IDX=null, SINC=null, LUG=null, BUS=null;
+let IDX=null, SINC=null, LUG=null, BUS=null, MONI=null;
+function monIdx(){if(MONI||!LUG)return MONI;MONI={};LUG.lugares.forEach(l=>{if(l.tipo!=='yacimiento'||l.anio==null)return;const r=(l.regiones_sincronia||[])[0];if(!r)return;const o=MONI[r]=MONI[r]||{};(o[l.anio]=o[l.anio]||[]).push(l);});return MONI;}
 const TXT={}, DET={};
 let LV=LS.get('hk_nivel','g');
 function fy(y){return y<0?(-y).toLocaleString('es-ES')+' a.C.':String(y);}
@@ -491,6 +494,9 @@ async function renderSheet(){
   $('#shTtl').textContent=rn(r)+' · '+fy(y); $('#seg').classList.add('hide');
   document.documentElement.style.setProperty('--era','#8b7d6b');
   b.innerHTML=`<div class="sh-head" style="margin-top:16px"><div><div class="d">${fy(y)} · ${esc(rn(r))}</div><h2>${esc(e?e[1]:rn(r))}</h2></div></div><div class="rt">⏱ ${mins(h)} min de lectura</div><div class="txt">${h}</div>`;
+  if(!LUG)LUG=await getJ('lugares.json').catch(()=>({lugares:[]}));
+  const pv=LUG.lugares.filter(l=>(l.eventos||[]).includes(key)||(l.anio===y&&(l.regiones_sincronia||[])[0]===r)).sort((a,b)=>(a.anio||0)-(b.anio||0));
+  if(pv.length&&CUR.key===key) b.insertAdjacentHTML('beforeend',`<div class="sec-t">🏛️ Para visitar (${pv.length})</div>`+pv.map(l=>`<button class="lugar" onclick="go('#/l/${l.id}')"><div class="lk">🏛️ ${esc(l.epoca||'')}${l.anio!=null?' · h. '+fy(l.anio):''}</div><h3>${esc(l.nombre)}</h3><p>${esc([l.comarca,l.provincia].filter(Boolean).join(' · '))}</p></button>`).join(''));
   ft.innerHTML=`<button class="pri" onclick="go('#/mundo/ano/${y}')">🌍 El mundo en ${fy(y)}</button><button onclick="addZone('${esc(r)}')">🧭 Seguir esta zona</button>`;
   $('#shWa').href=waLink('🌍 '+rn(r)+', '+fy(y)+': '+(e?e[1]:'')+'\n\nEn HistoKHB 👉 '+BASE+'#/s/'+encodeURIComponent(key));
  } else if(CUR.kind==='l'){
@@ -500,7 +506,7 @@ async function renderSheet(){
   b.innerHTML=`<div class="sh-head" style="margin-top:16px"><div class="ic" style="font-size:44px">${L.tipo==='yacimiento'?'🏛️':'📍'}</div><div><div class="d">${L.epoca?'🏛️ '+esc(L.epoca)+' · ':''}${esc(L.provincia)} · ${esc(L.comarca||'')}</div><h2>${esc(L.nombre)}</h2></div></div><div class="rt">⏱ ${mins(L.texto.general)} min de lectura</div><div class="txt">${L.texto.general}</div>`+
    (L.ver_alli&&L.ver_alli.length?`<h3 class="f" style="margin:6px 0 4px">Para verlo allí</h3><ul class="verlist">${L.ver_alli.map(v=>'<li>'+esc(v)+'</li>').join('')}</ul>`:'')+
    ((L.fuentes||[]).length?`<p class="src">Fuentes: ${(L.fuentes||[]).map(u=>`<a href="${u}" target="_blank" rel="noopener">${esc(decodeURIComponent(u.replace(/^https?:\/\//,'')).slice(0,60))}</a>`).join(' · ')}</p>`:'');
-  ft.innerHTML=`<button class="pri" onclick="go('#/aqui')">📍 Ver alrededores</button>`;
+  ft.innerHTML=`<button class="pri" onclick="go('#/aqui')">📍 Ver alrededores</button>`+((L.eventos||[]).length?`<button onclick="go('#/s/${encodeURIComponent(L.eventos[0])}')">📅 En la sincronía</button>`:'');
   $('#shWa').href=waLink('📍 '+L.nombre+': su historia en HistoKHB 👉 '+BASE+'#/l/'+L.id);
  }
  favBtn();
@@ -521,6 +527,7 @@ let mInit=false;
 function initMundo(){
  if(mInit)return; mInit=true;
  $('#mseg').querySelectorAll('button').forEach(b=>b.onclick=()=>setMode(b.dataset.m));
+ $('#monChk').checked=LS.get('hk_mon',true); $('#monChk').onchange=()=>{LS.set('hk_mon',$('#monChk').checked);renderPar();};
  Object.entries(SINC.fases).forEach(([c,n])=>$('#leg').insertAdjacentHTML('beforeend',`<span><i style="background:${c}"></i>${n.replace(' (escritura)','')}</span>`));
  [[-3000,'Primeras ciudades'],[-2500,'Pirámides'],[-500,'Grecia clásica'],[1,'Año 1'],[476,'Cae Roma'],[711,'Al-Ándalus'],[1066,'1066'],[1492,'1492'],[1789,'1789'],[1914,'1914'],[1945,'1945'],[2001,'2001']].forEach(([y,t])=>{const b=document.createElement('button');b.textContent=t;b.onclick=()=>setYear(y);$('#jumps').appendChild(b);});
  $('#ys').oninput=e=>setYear(+e.target.value,true);
@@ -623,12 +630,14 @@ function renderPar(){
  if(!sel.length){p.innerHTML='<p class="empty-st">Elige alguna zona.</p>';return;}
  const cols=`grid-template-columns:repeat(${sel.length},1fr)`;
  const ys=new Set(); sel.forEach(r=>(SINC.ev[r]||[]).forEach(e=>{if(e[0]>=y0&&e[0]<y1)ys.add(e[0]);}));
+ const SM=LS.get('hk_mon',true); if(SM&&!LUG){getJ('lugares.json').then(j=>{LUG=j;MONI=null;renderPar();}).catch(()=>{});} const MI=SM?monIdx():null; if(MI) sel.forEach(r=>Object.keys(MI[r]||{}).forEach(k=>{k=+k;if(k>=y0&&k<y1)ys.add(k);}));
  let h=`<div class="cols" style="${cols}">${sel.map(r=>`<div>${esc(rn(r))}</div>`).join('')}</div>`;
  h+=`<div class="trow" data-y="${y0}" style="${cols}"><div class="yr">Al empezar la época (${fy(Math.max(y0,-900000))})</div>`+sel.map(r=>{const a=(SINC.ev[r]||[]).filter(e=>e[0]<y0);let e=a[a.length-1];if(e&&e[4]!=null&&y0>=e[4])e=null;return e?`<div class="cell" style="background:${e[2]}55">${esc(e[1])}<br><small style="opacity:.7">desde ${fy(e[0])}</small></div>`:'<div class="cell empty"></div>';}).join('')+'</div>';
  [...ys].sort((a,b)=>a-b).forEach(y=>{
   h+=`<div class="trow" data-y="${y}" style="${cols}"><button class="yr" onclick="go('#/mundo/ano/${y}')">${fy(y)} <u>· ver el mundo</u></button>`+sel.map(r=>{
-   const e=(SINC.ev[r]||[]).find(e=>e[0]===y); if(!e)return '<div class="cell empty"></div>';
-   const key=r+'|'+y; return e[3]?`<button class="cell hasd${e[3]===2?' bio':''}" style="background:${e[2]}55" onclick="go('#/s/${encodeURIComponent(key)}')">${esc(e[1])}</button>`:`<div class="cell" style="background:${e[2]}55">${esc(e[1])}</div>`;
+   const e=(SINC.ev[r]||[]).find(e=>e[0]===y); const mo=(MI&&MI[r]&&MI[r][y])||[]; const mh=mo.map(l=>`<button class="cell mon" onclick="go('#/l/${l.id}')">🏛️ ${esc(l.nombre)}</button>`).join('');
+   if(!e)return mo.length?`<div class="mcell">${mh}</div>`:'<div class="cell empty"></div>';
+   const key=r+'|'+y; const eh=e[3]?`<button class="cell hasd${e[3]===2?' bio':''}" style="background:${e[2]}55" onclick="go('#/s/${encodeURIComponent(key)}')">${esc(e[1])}</button>`:`<div class="cell" style="background:${e[2]}55">${esc(e[1])}</div>`; return mo.length?`<div class="mcell">${eh}${mh}</div>`:eh;
   }).join('')+'</div>';
  });
  p.innerHTML=h; railSetup();
