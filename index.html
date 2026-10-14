@@ -487,6 +487,11 @@ async function renderSheet(){
   b.innerHTML=`<div class="sh-illo">${ill}</div><div class="sh-head"><div class="ic">${f.ic}</div><div><div class="d">${esc(f.d)} · ${esc(f.c)}</div><h2>${esc(f.t)}</h2></div></div><div class="rt">⏱ ${mins(h)} min de lectura · ${LV==='n'?'Niños':LV==='g'?'General':'Profundo'}</div><div class="txt">${h}</div>`+
    (LV!=='p'?`<button class="more" onclick="setLevel('p');renderSheet().then(()=>$('#sheet').scrollTo({top:0,behavior:'smooth'}))">Quiero saber más →</button>`:'')+
    `<p class="rt">${esc(S.t)} · ${cap?esc(cap.t):''}</p>`;
+  if(!LUG)LUG=await getJ('lugares.json').catch(()=>({lugares:[]}));
+  const pvf=LUG.lugares.filter(l=>(l.eventos||[]).includes('f:'+k));
+  if(pvf.length&&CUR.key===k){const ib=l=>{const r=(l.regiones_sincronia||[])[0];return ESPS.includes(r)||r==='Canarias';}, fuera=pvf.filter(l=>!ib(l)), esp=pvf.filter(ib);
+   const lst=a=>a.sort((x,y)=>(x.anio||0)-(y.anio||0)).map(l=>`<button class="lugar" onclick="go('#/l/${l.id}')"><div class="lk">🏛️ ${esc(l.epoca||'')}${l.anio!=null?' · '+fy(l.anio):''}</div><h3>${esc(l.nombre)}</h3><p>${esc([l.comarca,l.provincia].filter(Boolean).join(' · '))}</p></button>`).join('');
+   b.insertAdjacentHTML('beforeend',`<div class="sec-t">🏛️ Para visitar (${pvf.length})</div>`+(fuera.length?`<p class="rt">En el mundo</p>`+lst(fuera):'')+(esp.length?`<details${fuera.length?'':' open'}><summary class="sec-t" style="cursor:pointer">▸ En España y Portugal · ${esp.length}</summary>${lst(esp)}</details>`:''));}
   const keys=IDX.capitulos.flatMap(c=>c.f), i=keys.indexOf(k);
   ft.innerHTML=`<button ${i<=0?'disabled':''} onclick="go('#/f/${keys[i-1]}')">‹ Anterior</button>`+
    (f.y!=null?`<button class="pri" onclick="go('#/mundo/ano/${Math.max(-3500,f.y)}')">🌍 ¿Y en el mundo?</button>`:`<button class="pri" onclick="go('#/epoca/${f.sec}/${f.cap}')">📜 Capítulo</button>`)+
