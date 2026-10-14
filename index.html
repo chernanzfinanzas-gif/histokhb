@@ -732,11 +732,11 @@ async function aquiAt(pt,label){ LASTPT=pt;
  if(!ETQ)ETQ=await getJ('etiquetas.json').catch(()=>({}));
  await sinc();
  // lugares etiquetados con su distancia
- const P=Object.entries(ETQ).map(([n,v])=>({n,lat:v[0],lon:v[1],cc:v[2],pa:v[3],f:v[4],d:km(pt,[v[0],v[1]])})).sort((a,b)=>a.d-b.d);
+ const P=Object.entries(ETQ).map(([n,v])=>({n,lat:v[0],lon:v[1],cc:v[2],pa:v[3],f:v[4],m:new Set(v[5]||[]),d:km(pt,[v[0],v[1]])})).sort((a,b)=>a.d-b.d);
  const esp=P.find(x=>x.pa==='ES'&&x.d<80); const miCC=esp?esp.cc:'';
  const seen=new Set();
- function items(places){ // fichas de esos lugares, sin repetir, ordenadas por distancia y fecha
-  const L=[]; places.forEach(pl=>pl.f.forEach(id=>{if(seen.has(id))return;seen.add(id);L.push({id,pl});}));
+ function items(places,men){ // fichas de esos lugares, sin repetir; men=true: solo menciones de pasada
+  const L=[]; places.forEach(pl=>pl.f.forEach(id=>{if(seen.has(id)||pl.m.has(id)!==!!men)return;seen.add(id);L.push({id,pl});}));
   return L;
  }
  function row({id,pl}){
@@ -759,6 +759,7 @@ async function aquiAt(pt,label){ LASTPT=pt;
  const r1=items(P.filter(x=>x.d<=15)), r2=items(P.filter(x=>x.d>15&&x.d<=60));
  const r3=miCC?items(P.filter(x=>x.d>60&&x.cc===miCC)):items(P.filter(x=>x.d>60&&x.d<=300));
  const near=[...r1,...r2].sort((a,b)=>yr(a)-yr(b)), reg=r3.sort((a,b)=>yr(a)-yr(b));
+ const menc=items(P.filter(x=>x.d<=60),true).sort((a,b)=>yr(a)-yr(b));
  h+=`<div class="aqtabs"><button class="btn sec" data-p="pYac">🏛️ Yacimientos y monumentos · ${ys.length}</button><button class="btn sec" data-p="pHist">📜 ¿Qué pasó aquí? · ${near.length}</button></div>`;
  // panel 1: monumentos cercanos, por época (cerradas, una a la vez)
  const eps=[...new Set(ys.map(([l])=>l.epoca))].sort((a,b)=>EPOR.indexOf(a)-EPOR.indexOf(b));
@@ -768,6 +769,7 @@ async function aquiAt(pt,label){ LASTPT=pt;
  h+=`<div id="pHist" class="aqp hide">`;
  if(ls.length) h+='<div class="sec-t">Historia del lugar</div>'+ls.map(([l,d])=>`<button class="lugar" onclick="go('#/l/${l.id}')"><div class="lk">📍 ${d<1?'Estás aquí':Math.round(d)+' km'}</div><h3>${esc(l.nombre)}</h3><p>${esc(strip(l.texto.general).slice(0,140))}…</p></button>`).join('');
  h+=near.length?`<div class="sec-t">Aquí y en 60 km · de lo más antiguo a lo más moderno</div>`+near.map(row).join(''):`<div class="note">Todavía no tenemos hechos fechados en este lugar ni a menos de 60 km. Queda apuntado.</div>`;
+ if(menc.length) h+=`<details><summary class="sec-t" style="cursor:pointer">▸ También se menciona este lugar · ${menc.length}</summary><p class="rt">Historias que ocurrieron en otro sitio pero nombran este lugar o uno cercano.</p>${menc.map(row).join('')}</details>`;
  if(reg.length) h+=`<details><summary class="sec-t" style="cursor:pointer">▸ Más lejos: ${esc(miCC||'en la región')} · ${reg.length}</summary>${reg.map(row).join('')}</details>`;
  // grandes hitos de la zona sin lugar concreto
  const tagged=new Set(Object.values(ETQ).flatMap(v=>v[4]));
