@@ -393,7 +393,7 @@ if('serviceWorker' in navigator){window.addEventListener('load',()=>navigator.se
 // ---------- rutas ----------
 let lastScreen=null, lastRoute=null;
 function show(id){document.querySelectorAll('.scr').forEach(s=>s.classList.toggle('on',s.id==='s-'+id));document.querySelectorAll('#nav a').forEach(a=>a.classList.toggle('on',a.dataset.n===id||(id==='favs'&&a.dataset.n==='inicio')));}
-const ALIAS={'con1-0':'con-1789-eu'};
+const ALIAS={'con1-0':'con-1789-eu','con1-2':'con-1808-eu','con1-3':'con-1808-am','con1-5':'con-1808-es'};
 function route(){
  if(!IDX)return;
  const p=location.hash.replace(/^#\/?/,'').split('/').map(decodeURIComponent);
