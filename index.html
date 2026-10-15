@@ -235,6 +235,15 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
  .nav a{font-size:14px}
  .nav a .i{font-size:26px}
 }
+
+.txt h4{font-family:'Fredoka';font-weight:600;font-size:18px;margin:22px 0 6px;color:var(--era)}
+.txt ul.crono{list-style:none;padding:0;margin:0 0 14px;font-size:15.5px}.txt ul.crono li{padding:5px 0;border-bottom:1px dashed #e4d9c6}
+.pq{background:#fff3c4;border:2px dashed #e0b84a;border-radius:16px;padding:12px 14px;margin:16px 0;font-size:19px;line-height:1.6}
+.pq .tt{font-family:'Fredoka';font-weight:600;font-size:13px;letter-spacing:1px;text-transform:uppercase;color:#a07a10;margin-bottom:6px}.pq p{margin:0 0 8px}
+.biblio{background:#f6f1e7;border-radius:12px;padding:12px 14px;margin:18px 0;font-size:15px}.biblio li{margin:4px 0}
+.desbtn{display:inline-block;margin:-2px 0 12px;border:1.5px solid var(--era);background:#fff;color:var(--era);border-radius:20px;padding:6px 14px;font-family:'Fredoka';font-size:14px;cursor:pointer}
+.sh-illo img{max-height:none!important;height:auto;aspect-ratio:16/9;object-fit:cover}
+.lugar .lk .bio{font-size:11px;background:#e8f0fb;color:#2b4c9b;border-radius:8px;padding:1px 6px;margin-left:4px}
 </style></head>
 <body>
 <header class="top">
@@ -355,7 +364,7 @@ const ERA_IC={cosmos:'🌌',prehistoria:'🦣',antigua:'🏛️',media:'🏰',mo
 const ESP='Hispania · Castilla · España';
 const $=s=>document.querySelector(s);
 const LS={get(k,d){try{const v=localStorage.getItem(k);return v==null?d:JSON.parse(v);}catch(e){return d;}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v));}catch(e){}}};
-let IDX=null, SINC=null, LUG=null, BUS=null, MONI=null;
+let IDX=null, SINC=null, LUG=null, BUS=null, MONI=null, DESA=null;
 function monIdx(){if(MONI||!LUG)return MONI;MONI={};LUG.lugares.forEach(l=>{if(l.tipo!=='yacimiento'||l.anio==null)return;const r=(l.regiones_sincronia||[])[0];if(!r)return;const o=MONI[r]=MONI[r]||{};(o[l.anio]=o[l.anio]||[]).push(l);});return MONI;}
 const TXT={}, DET={};
 let LV=LS.get('hk_nivel','g');
@@ -384,11 +393,13 @@ if('serviceWorker' in navigator){window.addEventListener('load',()=>navigator.se
 // ---------- rutas ----------
 let lastScreen=null, lastRoute=null;
 function show(id){document.querySelectorAll('.scr').forEach(s=>s.classList.toggle('on',s.id==='s-'+id));document.querySelectorAll('#nav a').forEach(a=>a.classList.toggle('on',a.dataset.n===id||(id==='favs'&&a.dataset.n==='inicio')));}
+const ALIAS={'con1-0':'con-1789-eu'};
 function route(){
  if(!IDX)return;
  const p=location.hash.replace(/^#\/?/,'').split('/').map(decodeURIComponent);
+ if(p[0]==='f'&&!IDX.fichas[p[1]]&&ALIAS[p[1]]){location.replace('#/f/'+ALIAS[p[1]]);return;}
  const k=p[0]||'';
- if(k==='f'||k==='s'||k==='l'){ // fichas como hoja encima
+ if(k==='f'||k==='s'||k==='l'||k==='d'){ // fichas como hoja encima
    if(sheetBase===null) sheetBase=lastRoute||'#/';
    if(!lastScreen){ if(k==='f'&&IDX.fichas[p[1]]) renderEpoca(IDX.fichas[p[1]].sec,null,true); else {renderInicio();} }
    openSheet(k,p.slice(1).join('/')); return;
@@ -496,6 +507,7 @@ async function renderSheet(){
   b.innerHTML=`<div class="sh-illo">${ill}</div><div class="sh-head"><div class="ic">${f.ic}</div><div><div class="d">${esc(f.d)} · ${esc(f.c)}</div><h2>${esc(f.t)}</h2></div></div><div class="rt">⏱ ${mins(h)} min de lectura · ${LV==='n'?'Niños':LV==='g'?'General':'Profundo'}</div><div class="txt">${h}</div>`+
    (LV!=='p'?`<button class="more" onclick="setLevel('p');renderSheet().then(()=>$('#sheet').scrollTo({top:0,behavior:'smooth'}))">Quiero saber más →</button>`:'')+
    `<p class="rt">${esc(S.t)} · ${cap?esc(cap.t):''}</p>`;
+  if(f.sk&&f.sk.length){await sinc(); if(CUR&&CUR.key===k) b.insertAdjacentHTML('beforeend',`<div class="sec-t">📅 En la sincronía (${f.sk.length})</div>`+f.sk.map(key=>{const r=key.slice(0,key.lastIndexOf('|')),y=+key.split('|').pop();const e=(SINC.ev[r]||[]).find(e=>e[0]===y);return `<button class="lugar" onclick="go('#/s/${encodeURIComponent(key)}')"><div class="lk">📅 ${fy(y)} · ${esc(rn(r))}${e&&e[3]===2?'<span class="bio">biografía</span>':''}</div><h3>${esc(e?e[1]:rn(r))}</h3></button>`;}).join(''));}
   if(!LUG)LUG=await getJ('lugares.json').catch(()=>({lugares:[]}));
   const pvf=LUG.lugares.filter(l=>(l.eventos||[]).includes('f:'+k));
   if(pvf.length&&CUR.key===k){const ib=l=>{const r=(l.regiones_sincronia||[])[0];return ESPS.includes(r)||r==='Canarias';}, fuera=pvf.filter(l=>!ib(l)), esp=pvf.filter(ib);
@@ -506,6 +518,14 @@ async function renderSheet(){
    (f.y!=null?`<button class="pri" onclick="go('#/mundo/ano/${Math.max(-3500,f.y)}')">🌍 ¿Y en el mundo?</button>`:`<button class="pri" onclick="go('#/epoca/${f.sec}/${f.cap}')">📜 Capítulo</button>`)+
    `<button ${i>=keys.length-1?'disabled':''} onclick="go('#/f/${keys[i+1]}')">Siguiente ›</button>`;
   $('#shWa').href=waLink('📜 '+f.t+' ('+f.d+')\n'+f.tz+'\n\nLéelo en HistoKHB 👉 '+BASE+'#/f/'+k);
+ } else if(CUR.kind==='d'){
+  if(!DESA)DESA=await getJ('desarrollos.json').catch(()=>({}));
+  const d=DESA[CUR.key]; if(!d){b.innerHTML='<p class="empty-st">Este tema no existe.</p>';return;}
+  $('#shTtl').textContent=d.t; $('#seg').classList.add('hide');
+  b.innerHTML=(d.lam?`<div class="sh-illo"><img src="${d.lam}" alt="" loading="lazy"></div>`:'<div style="height:16px"></div>')+`<div class="sh-head"><div><div class="d">📖 Desarrollo del tema · ${esc(d.d)}</div><h2>${esc(d.t)}</h2></div></div><div class="rt">⏱ ${mins(d.h)} min de lectura</div><div class="txt">${d.h}</div>`;
+  if(d.sk&&d.sk.length){await sinc(); b.insertAdjacentHTML('beforeend',`<div class="sec-t">📅 Relacionado en la sincronía</div>`+d.sk.map(key=>{const r=key.slice(0,key.lastIndexOf('|')),y=+key.split('|').pop();const e=(SINC.ev[r]||[]).find(e=>e[0]===y);return `<button class="lugar" onclick="go('#/s/${encodeURIComponent(key)}')"><div class="lk">📅 ${fy(y)} · ${esc(rn(r))}${e&&e[3]===2?'<span class="bio">biografía</span>':''}</div><h3>${esc(e?e[1]:rn(r))}</h3></button>`;}).join(''));}
+  ft.innerHTML=`<button class="pri" onclick="history.back()">‹ Volver a la ficha</button>`;
+  $('#shWa').href=waLink('📖 '+d.t+'\n\nEn HistoKHB 👉 '+BASE+'#/d/'+CUR.key);
  } else if(CUR.kind==='s'){
   const key=CUR.key, [r,ys]=[key.slice(0,key.lastIndexOf('|')),key.slice(key.lastIndexOf('|')+1)], y=+ys;
   const D=await detOf(y); const h=D[key]||'<p>Esta casilla todavía no tiene ficha.</p>';
