@@ -546,7 +546,11 @@ async function renderSheet(){
   b.innerHTML=`<div class="sh-head" style="margin-top:16px"><div class="ic" style="font-size:44px">${L.tipo==='yacimiento'?'🏛️':'📍'}</div><div><div class="d">${L.epoca?'🏛️ '+esc(L.epoca)+' · ':''}${esc(L.provincia)} · ${esc(L.comarca||'')}</div><h2>${esc(L.nombre)}</h2></div></div><div class="rt">⏱ ${mins(L.texto.general)} min de lectura</div><div class="txt">${L.texto.general}</div>`+
    (L.ver_alli&&L.ver_alli.length?`<h3 class="f" style="margin:6px 0 4px">Para verlo allí</h3><ul class="verlist">${L.ver_alli.map(v=>'<li>'+esc(v)+'</li>').join('')}</ul>`:'')+
    ((L.fuentes||[]).length?`<p class="src">Fuentes: ${(L.fuentes||[]).map(u=>`<a href="${u}" target="_blank" rel="noopener">${esc(decodeURIComponent(u.replace(/^https?:\/\//,'')).slice(0,60))}</a>`).join(' · ')}</p>`:'');
-  ft.innerHTML=`<button class="pri" onclick="go('#/aqui')">📍 Ver alrededores</button>`+((L.eventos||[]).length?`<button onclick="go('#/s/${encodeURIComponent(L.eventos[0])}')">📅 En la sincronía</button>`:'');
+  const evF=(L.eventos||[]).filter(e=>e.startsWith('f:')&&IDX.fichas[e.slice(2)]), evD=(L.eventos||[]).filter(e=>e.startsWith('des-')), evS=(L.eventos||[]).filter(e=>e.includes('|'));
+  if(evD.length&&!DESA)DESA=await getJ('desarrollos.json').catch(()=>({}));
+  const lk=evF.map(e=>{const F=IDX.fichas[e.slice(2)];return `<button class="lugar" onclick="go('#/f/${e.slice(2)}')"><div class="lk">📖 Ficha · ${esc(F.c||'')}</div><h3>${esc(F.t)}</h3></button>`;}).concat(evD.filter(d=>DESA&&DESA[d]).map(d=>`<button class="lugar" onclick="go('#/d/${d}')"><div class="lk">📖 Desarrollo del tema</div><h3>${esc(DESA[d].t)}</h3></button>`)).join('');
+  if(lk)b.insertAdjacentHTML('beforeend',`<div class="sec-t">📖 Lo que pasó aquí, en HistoKHB</div>`+lk);
+  ft.innerHTML=`<button class="pri" onclick="go('#/aqui')">📍 Ver alrededores</button>`+(evS.length?`<button onclick="go('#/s/${encodeURIComponent(evS[0])}')">📅 En la sincronía</button>`:evF.length?`<button onclick="go('#/f/${evF[0].slice(2)}')">📖 Leer la ficha</button>`:'');
   $('#shWa').href=waLink('📍 '+L.nombre+': su historia en HistoKHB 👉 '+BASE+'#/l/'+L.id);
  }
  favBtn();
