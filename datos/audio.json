@@ -475,15 +475,27 @@
    "voz_p": "Sadaltager"
   },
   "cenozoico-7": {
-   "viva": "img/vivas/cenozoico-7.mp4"
+   "viva": "img/vivas/cenozoico-7.mp4",
+   "n": 85,
+   "voz_n": "Leda"
   },
   "cenozoico-4": {
-   "viva": "img/vivas/cenozoico-4.mp4"
+   "viva": "img/vivas/cenozoico-4.mp4",
+   "g": 140,
+   "voz_g": "Rasalgethi",
+   "n": 93,
+   "voz_n": "Leda",
+   "p": 528,
+   "voz_p": "Rasalgethi"
   },
   "cenozoico-3": {
    "viva": "img/vivas/cenozoico-3.mp4",
    "n": 78,
-   "voz_n": "Leda"
+   "voz_n": "Leda",
+   "g": 156,
+   "voz_g": "Iapetus",
+   "p": 621,
+   "voz_p": "Iapetus"
   },
   "mesozoico-1": {
    "viva": "img/vivas/mesozoico-1.mp4",
@@ -504,7 +516,9 @@
    "voz_p": "Rasalgethi"
   },
   "cenozoico-12": {
-   "viva": "img/vivas/cenozoico-12.mp4"
+   "viva": "img/vivas/cenozoico-12.mp4",
+   "n": 89,
+   "voz_n": "Leda"
   },
   "cenozoico-0": {
    "viva": "img/vivas/cenozoico-0.mp4",
@@ -547,7 +561,9 @@
    "g": 156,
    "voz_g": "Algieba",
    "n": 83,
-   "voz_n": "Leda"
+   "voz_n": "Leda",
+   "p": 612,
+   "voz_p": "Algieba"
   },
   "mesozoico-11": {
    "viva": "img/vivas/mesozoico-11.mp4",
@@ -580,22 +596,36 @@
    "voz_p": "Achird"
   },
   "cenozoico-10": {
-   "viva": "img/vivas/cenozoico-10.mp4"
+   "viva": "img/vivas/cenozoico-10.mp4",
+   "g": 153,
+   "voz_g": "Gacrux",
+   "n": 79,
+   "voz_n": "Leda"
   },
   "cenozoico-8": {
    "viva": "img/vivas/cenozoico-8.mp4",
    "g": 162,
    "voz_g": "Vindemiatrix",
    "n": 80,
-   "voz_n": "Leda"
+   "voz_n": "Leda",
+   "p": 638,
+   "voz_p": "Vindemiatrix"
   },
   "cenozoico-1": {
    "viva": "img/vivas/cenozoico-1.mp4",
    "n": 87,
-   "voz_n": "Leda"
+   "voz_n": "Leda",
+   "g": 164,
+   "voz_g": "Achird",
+   "p": 642,
+   "voz_p": "Achird"
   },
   "cenozoico-6": {
-   "viva": "img/vivas/cenozoico-6.mp4"
+   "viva": "img/vivas/cenozoico-6.mp4",
+   "g": 142,
+   "voz_g": "Despina",
+   "n": 87,
+   "voz_n": "Leda"
   },
   "mesozoico-2": {
    "viva": "img/vivas/mesozoico-2.mp4",
@@ -607,20 +637,34 @@
    "voz_p": "Algieba"
   },
   "cenozoico-5": {
-   "viva": "img/vivas/cenozoico-5.mp4"
+   "viva": "img/vivas/cenozoico-5.mp4",
+   "g": 150,
+   "voz_g": "Sadaltager",
+   "n": 87,
+   "voz_n": "Leda"
   },
   "cenozoico-11": {
-   "viva": "img/vivas/cenozoico-11.mp4"
+   "viva": "img/vivas/cenozoico-11.mp4",
+   "g": 153,
+   "voz_g": "Leda",
+   "n": 86,
+   "voz_n": "Leda"
   },
   "mesozoico-5": {
    "viva": "img/vivas/mesozoico-5.mp4",
    "g": 149,
    "voz_g": "Gacrux",
    "n": 85,
-   "voz_n": "Leda"
+   "voz_n": "Leda",
+   "p": 637,
+   "voz_p": "Gacrux"
   },
   "cenozoico-14": {
-   "viva": "img/vivas/cenozoico-14.mp4"
+   "viva": "img/vivas/cenozoico-14.mp4",
+   "g": 155,
+   "voz_g": "Aoede",
+   "n": 97,
+   "voz_n": "Leda"
   },
   "mesozoico-0": {
    "viva": "img/vivas/mesozoico-0.mp4",
@@ -667,7 +711,9 @@
   "paleolitico-16": {
    "n": 83,
    "voz_n": "Leda",
-   "viva": "img/vivas/paleolitico-16.mp4"
+   "viva": "img/vivas/paleolitico-16.mp4",
+   "g": 142,
+   "voz_g": "Achird"
   },
   "paleolitico-2": {
    "g": 152,
@@ -681,41 +727,59 @@
    "voz_g": "Leda",
    "n": 88,
    "voz_n": "Leda",
-   "viva": "img/vivas/paleolitico-3.mp4"
+   "viva": "img/vivas/paleolitico-3.mp4",
+   "p": 717,
+   "voz_p": "Leda"
   },
   "paleolitico-4": {
    "g": 160,
    "voz_g": "Vindemiatrix",
    "n": 80,
    "voz_n": "Leda",
-   "viva": "img/vivas/paleolitico-4.mp4"
+   "viva": "img/vivas/paleolitico-4.mp4",
+   "p": 700,
+   "voz_p": "Vindemiatrix"
   },
   "des-estromatolitos": {
-   "viva": "img/vivas/des-estromatolitos.mp4"
+   "viva": "img/vivas/des-estromatolitos.mp4",
+   "d": 342,
+   "voz_d": "Aoede"
   },
   "des-origen-vida": {
-   "viva": "img/vivas/des-origen-vida.mp4"
+   "viva": "img/vivas/des-origen-vida.mp4",
+   "d": 399,
+   "voz_d": "Aoede"
   },
   "paleolitico-19": {
    "viva": "img/vivas/paleolitico-19.mp4"
   },
   "paleolitico-5": {
-   "viva": "img/vivas/paleolitico-5.mp4"
+   "viva": "img/vivas/paleolitico-5.mp4",
+   "g": 161,
+   "voz_g": "Iapetus",
+   "n": 82,
+   "voz_n": "Leda"
   },
   "des-edad-tierra": {
-   "viva": "img/vivas/des-edad-tierra.mp4"
+   "viva": "img/vivas/des-edad-tierra.mp4",
+   "d": 378,
+   "voz_d": "Aoede"
   },
   "paleolitico-9": {
    "viva": "img/vivas/paleolitico-9.mp4"
   },
   "des-arqueas": {
-   "viva": "img/vivas/des-arqueas.mp4"
+   "viva": "img/vivas/des-arqueas.mp4",
+   "d": 347,
+   "voz_d": "Aoede"
   },
   "paleolitico-14": {
    "viva": "img/vivas/paleolitico-14.mp4"
   },
   "des-expansion": {
-   "viva": "img/vivas/des-expansion.mp4"
+   "viva": "img/vivas/des-expansion.mp4",
+   "d": 399,
+   "voz_d": "Aoede"
   },
   "des-bola-nieve": {
    "viva": "img/vivas/des-bola-nieve.mp4"
@@ -730,13 +794,19 @@
    "viva": "img/vivas/paleolitico-11.mp4"
   },
   "paleolitico-17": {
-   "viva": "img/vivas/paleolitico-17.mp4"
+   "viva": "img/vivas/paleolitico-17.mp4",
+   "g": 142,
+   "voz_g": "Algieba",
+   "n": 87,
+   "voz_n": "Leda"
   },
   "des-tiktaalik": {
    "viva": "img/vivas/des-tiktaalik.mp4"
   },
   "des-polvo-estrellas": {
-   "viva": "img/vivas/des-polvo-estrellas.mp4"
+   "viva": "img/vivas/des-polvo-estrellas.mp4",
+   "d": 365,
+   "voz_d": "Aoede"
   },
   "des-endosimbiosis": {
    "viva": "img/vivas/des-endosimbiosis.mp4"
@@ -748,7 +818,9 @@
    "viva": "img/vivas/des-hierro-bandeado.mp4"
   },
   "des-tectonica": {
-   "viva": "img/vivas/des-tectonica.mp4"
+   "viva": "img/vivas/des-tectonica.mp4",
+   "d": 471,
+   "voz_d": "Aoede"
   },
   "paleolitico-21": {
    "viva": "img/vivas/paleolitico-21.mp4"
@@ -757,16 +829,24 @@
    "viva": "img/vivas/paleolitico-12.mp4"
   },
   "des-luna": {
-   "viva": "img/vivas/des-luna.mp4"
+   "viva": "img/vivas/des-luna.mp4",
+   "d": 393,
+   "voz_d": "Aoede"
   },
   "paleolitico-20": {
    "viva": "img/vivas/paleolitico-20.mp4"
   },
   "paleolitico-7": {
-   "viva": "img/vivas/paleolitico-7.mp4"
+   "viva": "img/vivas/paleolitico-7.mp4",
+   "g": 153,
+   "voz_g": "Sadaltager",
+   "n": 76,
+   "voz_n": "Leda"
   },
   "des-sistema-solar": {
-   "viva": "img/vivas/des-sistema-solar.mp4"
+   "viva": "img/vivas/des-sistema-solar.mp4",
+   "d": 372,
+   "voz_d": "Aoede"
   },
   "paleolitico-13": {
    "viva": "img/vivas/paleolitico-13.mp4"
@@ -775,13 +855,71 @@
    "viva": "img/vivas/paleolitico-10.mp4"
   },
   "paleolitico-6": {
-   "viva": "img/vivas/paleolitico-6.mp4"
+   "viva": "img/vivas/paleolitico-6.mp4",
+   "g": 172,
+   "voz_g": "Rasalgethi",
+   "n": 82,
+   "voz_n": "Leda"
   },
   "des-ediacara": {
    "viva": "img/vivas/des-ediacara.mp4"
   },
   "paleolitico-15": {
    "viva": "img/vivas/paleolitico-15.mp4"
+  },
+  "des-carbon": {
+   "viva": "img/vivas/des-carbon.mp4"
+  },
+  "des-batallones": {
+   "viva": "img/vivas/des-batallones.mp4"
+  },
+  "des-chicxulub": {
+   "viva": "img/vivas/des-chicxulub.mp4"
+  },
+  "des-atapuerca": {
+   "viva": "img/vivas/des-atapuerca.mp4"
+  },
+  "des-adn-antiguo": {
+   "viva": "img/vivas/des-adn-antiguo.mp4"
+  },
+  "des-galeria-dinos": {
+   "viva": "img/vivas/des-galeria-dinos.mp4"
+  },
+  "des-mary-anning": {
+   "viva": "img/vivas/des-mary-anning.mp4"
+  },
+  "des-pirineos": {
+   "viva": "img/vivas/des-pirineos.mp4"
+  },
+  "des-dinos-iberia": {
+   "viva": "img/vivas/des-dinos-iberia.mp4"
+  },
+  "des-altamira": {
+   "viva": "img/vivas/des-altamira.mp4"
+  },
+  "des-pierolapithecus": {
+   "viva": "img/vivas/des-pierolapithecus.mp4"
+  },
+  "des-edad-hielo": {
+   "viva": "img/vivas/des-edad-hielo.mp4"
+  },
+  "des-plumas": {
+   "viva": "img/vivas/des-plumas.mp4"
+  },
+  "des-ballenas": {
+   "viva": "img/vivas/des-ballenas.mp4"
+  },
+  "des-mesiniense": {
+   "viva": "img/vivas/des-mesiniense.mp4"
+  },
+  "des-gran-mortandad": {
+   "viva": "img/vivas/des-gran-mortandad.mp4"
+  },
+  "des-lucy": {
+   "viva": "img/vivas/des-lucy.mp4"
+  },
+  "des-messel": {
+   "viva": "img/vivas/des-messel.mp4"
   }
  }
 }
