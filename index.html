@@ -132,7 +132,8 @@ a{color:inherit}
 .escuchar .bar{flex:1;height:5px;background:rgba(255,255,255,.35);border-radius:3px;overflow:hidden}
 .escuchar .bar i{display:block;height:100%;width:0;background:#fff;transition:width .3s linear}
 .escuchar .tm{font-size:13px;opacity:.9;white-space:nowrap}
-.sh-illo video{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;display:block}
+.sh-illo video{width:100%;height:auto;max-height:none!important;aspect-ratio:16/9;object-fit:cover;display:block}
+.sh-illo:has(video){max-height:none}
 .more{display:block;width:100%;margin:6px 0;border:1.5px solid var(--accent);background:#fff;color:var(--accent);border-radius:14px;padding:12px;font-family:'Fredoka';font-weight:600;font-size:15px;text-align:center;text-decoration:none}
 .verlist{margin:6px 0 14px;padding-left:20px}.verlist li{margin:4px 0}
 .src{font-size:12.5px;color:var(--muted);word-break:break-all}
