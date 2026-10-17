@@ -134,6 +134,11 @@ a{color:inherit}
 .escuchar .tm{font-size:13px;opacity:.9;white-space:nowrap}
 .sh-illo video{width:100%;height:auto;max-height:none!important;aspect-ratio:16/9;object-fit:cover;display:block}
 .sh-illo:has(video){max-height:none}
+.vista{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;margin:6px 0;border:1.5px solid #3a9a5b;background:#fff;color:#3a9a5b;border-radius:14px;padding:11px;font-family:'Fredoka';font-weight:600;font-size:15px;cursor:pointer}
+.vista.on{background:#3a9a5b;color:#fff}
+.vis{display:inline-block;margin-left:6px;font-size:11px;font-weight:700;color:#fff;background:#3a9a5b;border-radius:8px;padding:1px 7px;vertical-align:1px}
+.card.seen h3{opacity:.75}
+.capv{font-weight:700;color:#3a9a5b}
 .more{display:block;width:100%;margin:6px 0;border:1.5px solid var(--accent);background:#fff;color:var(--accent);border-radius:14px;padding:12px;font-family:'Fredoka';font-weight:600;font-size:15px;text-align:center;text-decoration:none}
 .verlist{margin:6px 0 14px;padding-left:20px}.verlist li{margin:4px 0}
 .src{font-size:12.5px;color:var(--muted);word-break:break-all}
@@ -433,7 +438,8 @@ function initInicio(){
 }
 function renderInicio(){lastScreen='inicio';show('inicio');renderFavs0();const f=LS.get('hk_favs',[]);$('#favMini').textContent=f.length?f.length+' historia'+(f.length>1?'s':'')+' guardada'+(f.length>1?'s':'')+' en este móvil.':'Las historias que marques con ☆.';const r=LS.get('hk_reto',{d:{}});const t=r.d[hoy()],st=racha();const RG=rango(st).r;$('#retoIco').textContent=RG[1];$('#retoMini').textContent=(t&&t.ok)?'✅ Hoy resuelto ('+t.s+'/5 a la primera) · 🔥 racha de '+st+' día'+(st!==1?'s':''):(st?'🔥 Racha de '+st+' día'+(st!==1?'s':'')+'. ¡Resuelve el de hoy para seguir!':'5 preguntas nuevas cada día. ¿Te atreves?')+(st?' · '+RG[2]:'');
  const ks=Object.keys(IDX.fichas), R=rng('dia'+hoy()), hk=ks[Math.floor(R()*ks.length)], hf=IDX.fichas[hk];
- $('#hdia').innerHTML=`<button class="card" style="border-color:var(--accent)" onclick="go('#/f/${hk}')"><div class="ic">${hf.ic}</div><div><div class="d">📖 Historia del día · ${esc(hf.d)}</div><h3>${esc(hf.t)}</h3><div class="t">${esc(hf.tz)}</div></div></button>`;}
+ const ul=LS.get('hk_ultima',null), uf=ul&&IDX.fichas[ul], nv=LS.get('hk_vistas',[]).filter(x=>IDX.fichas[x]).length;
+ $('#hdia').innerHTML=(uf?`<button class="card" style="border-color:#3a9a5b" onclick="go('#/f/${ul}')"><div class="ic">${uf.ic}</div><div><div class="d">↩️ Seguir donde lo dejaste${nv?` · ✓ ${nv} de ${ks.length} vistas`:''}</div><h3>${esc(uf.t)}</h3><div class="t">${esc(uf.d)}</div></div></button>`:'')+`<button class="card" style="border-color:var(--accent)" onclick="go('#/f/${hk}')"><div class="ic">${hf.ic}</div><div><div class="d">📖 Historia del día · ${esc(hf.d)}</div><h3>${esc(hf.t)}</h3><div class="t">${esc(hf.tz)}</div></div></button>`;}
 function doSearch(q){
  const r=$('#res'), body=$('#inicio-body'); q=norm(q.trim());
  if(q.length<2){r.innerHTML='';body.classList.remove('hide');return;}
@@ -461,15 +467,15 @@ function renderEpoca(sec,capId,silent){
   $('#ehero').style.background=`linear-gradient(160deg,${S.col},${S.col}bb)`;
   $('#ehero').innerHTML=`<div class="k">${S.per}</div><h1>${S.t}</h1><p>${S.intro}</p><div class="stats"><span>${nf} historias</span><span>${caps.length} capítulos</span></div>`;
   $('#capbar').innerHTML=caps.map((c,i)=>`<button data-c="${c.id}" class="${i?'':'on'}">${i+1}. ${esc(c.t.split(/[,:]/)[0])}</button>`).join('');
-  $('#caps').innerHTML=caps.map((c,i)=>`<div class="cap" id="cap-${c.id}"><div class="illo">${c.img?`<img src="${c.img}" alt="${esc(c.t)}" loading="lazy">`:c.svg}</div><div class="per">Capítulo ${i+1} · ${esc(c.per)}</div><h2>${esc(c.t)}</h2><p class="intro">${esc(c.intro)}</p>`+c.f.map(k=>card(k)).join('')+'</div>').join('');
+  $('#caps').innerHTML=caps.map((c,i)=>`<div class="cap" id="cap-${c.id}"><div class="illo">${c.img?`<img src="${c.img}" alt="${esc(c.t)}" loading="lazy">`:c.svg}</div><div class="per">Capítulo ${i+1} · ${esc(c.per)}${(()=>{const n=c.f.filter(isVista).length;return n?` · <span class="capv">✓ ${n} de ${c.f.length} vistas</span>`:'';})()}</div><h2>${esc(c.t)}</h2><p class="intro">${esc(c.intro)}</p>`+c.f.map(k=>card(k)).join('')+'</div>').join('');
   $('#capbar').querySelectorAll('button').forEach(b=>b.onclick=()=>document.getElementById('cap-'+b.dataset.c).scrollIntoView({behavior:'smooth',block:'start'}));
   setupCapbar(caps);
   if(!silent&&!capId) window.scrollTo(0,0);
  }
  if(capId){const el=document.getElementById('cap-'+capId);el&&el.scrollIntoView({block:'start'});}
 }
-function card(k){const f=IDX.fichas[k];const fav=LS.get('hk_favs',[]).includes(k);
- return `<button class="card" onclick="go('#/f/${k}')"><div class="ic">${f.ic}</div><div><div class="d">${esc(f.d)}<span class="tag" style="background:${CCOL[f.c]||'#8b7d6b'}">${esc(f.c)}</span>${fav?' <span class="star">★</span>':''}</div><h3>${esc(f.t)}</h3><div class="t">${esc(f.tz)}</div></div></button>`;}
+function card(k){const f=IDX.fichas[k];const fav=LS.get('hk_favs',[]).includes(k),vi=isVista(k);
+ return `<button class="card${vi?' seen':''}" onclick="go('#/f/${k}')"><div class="ic">${f.ic}</div><div><div class="d">${esc(f.d)}<span class="tag" style="background:${CCOL[f.c]||'#8b7d6b'}">${esc(f.c)}</span>${fav?' <span class="star">★</span>':''}${vi?'<span class="vis">✓ Vista</span>':''}</div><h3>${esc(f.t)}</h3><div class="t">${esc(f.tz)}</div></div></button>`;}
 let io=null;
 function setupCapbar(caps){
  const cb=$('#capbar');
@@ -527,6 +533,13 @@ async function audioUI(k,f){
   rt.insertAdjacentHTML('afterend',`<button class="escuchar" id="btnAud" data-k="${id}" data-src="audio/${k}-${LV}.mp3" data-d="${a[LV]}" onclick="audToggle()"><span class="ico">🔊</span><span class="lb">Escuchar</span><span class="bar"><i></i></span><span class="tm"></span></button>`);
   audPaint();}
 }
+// ── Fichas vistas y última ficha abierta ──
+const isVista=k=>LS.get('hk_vistas',[]).includes(k);
+function setVista(k,on){let v=LS.get('hk_vistas',[]);v=v.filter(x=>x!==k);if(on)v.push(k);LS.set('hk_vistas',v);if(curEra){const keep=curEra;curEra=null;if(lastScreen==='epoca')renderEpoca(keep,null,true);}const bt=$('#btnVista');if(bt&&CUR&&CUR.key===k)paintVista(bt,on);}
+function paintVista(bt,on){bt.classList.toggle('on',on);bt.textContent=on?'✓ Ficha vista':'Marcar como vista';}
+function toggleVista(){if(!CUR)return;setVista(CUR.key,!isVista(CUR.key));}
+function audSeen(){const d=PL.duration,k=(PL.dataset.k||'').split('|')[0];if(k&&IDX.fichas[k]&&d&&PL.currentTime/d>0.95&&!isVista(k))setVista(k,true);}
+['timeupdate','ended'].forEach(ev=>PL.addEventListener(ev,audSeen));
 async function renderSheet(){
  const b=$('#shBody'), ft=$('#shFoot'); if(!CUR)return;
  if(CUR.kind==='f'){
@@ -536,7 +549,8 @@ async function renderSheet(){
   const cap=IDX.capitulos.find(c=>c.id===f.cap);
   let ill= LV==='n'&&T.sv ? T.sv : f.lam ? `<img src="${f.lam}" alt="${esc(f.t)}" loading="lazy">` : (cap?cap.svg:'');
   $('#shTtl').textContent=f.t; $('#seg').classList.remove('hide');
-  b.innerHTML=`<div class="sh-illo">${ill}</div><div class="sh-head"><div class="ic">${f.ic}</div><div><div class="d">${esc(f.d)} · ${esc(f.c)}</div><h2>${esc(f.t)}</h2></div></div><div class="rt">⏱ ${mins(h)} min de lectura · ${LV==='n'?'Niños':LV==='g'?'General':'Profundo'}</div><div class="txt">${h}</div>`+
+  LS.set('hk_ultima',k);
+  b.innerHTML=`<div class="sh-illo">${ill}</div><div class="sh-head"><div class="ic">${f.ic}</div><div><div class="d">${esc(f.d)} · ${esc(f.c)}</div><h2>${esc(f.t)}</h2></div></div><div class="rt">⏱ ${mins(h)} min de lectura · ${LV==='n'?'Niños':LV==='g'?'General':'Profundo'}</div><div class="txt">${h}</div><button class="vista${isVista(k)?' on':''}" id="btnVista" onclick="toggleVista()">${isVista(k)?'✓ Ficha vista':'Marcar como vista'}</button>`+
    (LV!=='p'?`<button class="more" onclick="setLevel('p');renderSheet().then(()=>$('#sheet').scrollTo({top:0,behavior:'smooth'}))">Quiero saber más →</button>`:'')+
    `<p class="rt">${esc(S.t)} · ${cap?esc(cap.t):''}</p>`;
   await audioUI(k,f); if(!CUR||CUR.key!==k)return;
