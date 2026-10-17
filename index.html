@@ -128,6 +128,11 @@ a{color:inherit}
 .txt .dato{background:#fff7ee;border-left:4px solid var(--accent);padding:10px 12px;border-radius:0 10px 10px 0;font-size:15.5px}
 .txt .dato span{display:block;font-family:'Fredoka';font-weight:600;color:var(--accent);font-size:13px;text-transform:uppercase;letter-spacing:1px}
 .txt table{border-collapse:collapse;font-size:14px;width:100%}.txt td,.txt th{border:1px solid var(--line);padding:4px 6px}
+.escuchar{display:flex;align-items:center;gap:10px;width:100%;margin:10px 0 4px;border:0;background:var(--era,var(--accent));color:#fff;border-radius:14px;padding:11px 14px;font-family:'Fredoka';font-weight:600;font-size:15px;cursor:pointer;text-align:left}
+.escuchar .bar{flex:1;height:5px;background:rgba(255,255,255,.35);border-radius:3px;overflow:hidden}
+.escuchar .bar i{display:block;height:100%;width:0;background:#fff;transition:width .3s linear}
+.escuchar .tm{font-size:13px;opacity:.9;white-space:nowrap}
+.sh-illo video{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;display:block}
 .more{display:block;width:100%;margin:6px 0;border:1.5px solid var(--accent);background:#fff;color:var(--accent);border-radius:14px;padding:12px;font-family:'Fredoka';font-weight:600;font-size:15px;text-align:center;text-decoration:none}
 .verlist{margin:6px 0 14px;padding-left:20px}.verlist li{margin:4px 0}
 .src{font-size:12.5px;color:var(--muted);word-break:break-all}
@@ -484,7 +489,7 @@ async function openSheet(kind,key){
  $('#shBody').innerHTML='<p class="empty-st">Cargando…</p>'; $('#shFoot').innerHTML='';
  await renderSheet(); sh.scrollTo(0,0);
 }
-function closeSheetUI(){const sh=$('#sheet');if(sh.classList.contains('open')){sh.classList.remove('open');document.body.style.overflow='';CUR=null;}}
+function closeSheetUI(){const sh=$('#sheet');if(sh.classList.contains('open')){stopAud();sh.classList.remove('open');document.body.style.overflow='';CUR=null;}}
 let navCount=0; window.addEventListener('hashchange',()=>{navCount++;});
 let sheetBase=null; // ruta de pantalla bajo la ficha
 function closeSheet(){ if(sheetBase!==null){const b=sheetBase;sheetBase=null;go(b);} else { const f=CUR&&CUR.kind==='f'&&IDX.fichas[CUR.key]; go(f?'#/epoca/'+f.sec:'#/'); } }
@@ -496,6 +501,31 @@ function setLevel(l){LV=l;LS.set('hk_nivel',l);document.querySelectorAll('.lvsel
 setLevel(LV);
 $('#shFav').onclick=()=>{if(!CUR)return;const id=CUR.kind+':'+CUR.key;let f=LS.get('hk_favs',[]);const k=CUR.kind==='f'?CUR.key:id;f=f.includes(k)?f.filter(x=>x!==k):[...f,k];LS.set('hk_favs',f);favBtn();if(curEra){const keep=curEra;curEra=null;if(lastScreen==='epoca')renderEpoca(keep,null,true);}};
 function favBtn(){const k=CUR.kind==='f'?CUR.key:CUR.kind+':'+CUR.key;const on=LS.get('hk_favs',[]).includes(k);$('#shFav').textContent=on?'★':'☆';$('#shFav').style.color=on?'#e0a020':'';}
+// ── Audio de las fichas y láminas animadas (datos/audio.json) ──
+let AMAN=null; const PL=new Audio(); PL.preload='none';
+async function audMan(){if(!AMAN)AMAN=await getJ('audio.json').catch(()=>({fichas:{}}));return AMAN;}
+function fmtS(t){t=Math.max(0,Math.round(t||0));const m=Math.floor(t/60),s=t%60;return m?`${m} min ${s?s+' s':''}`.trim():`${s} s`;}
+function stopAud(){try{PL.pause();}catch(e){} PL.removeAttribute('src'); PL.dataset.k=''; audPaint();}
+function audPaint(){const bt=$('#btnAud'); if(!bt)return; const mine=PL.dataset.k===bt.dataset.k, on=mine&&!PL.paused;
+ bt.querySelector('.ico').textContent=on?'❚❚':'🔊'; bt.querySelector('.lb').textContent=on?'Pausa':(mine&&PL.currentTime>0?'Seguir':'Escuchar');
+ const d=PL.duration||+bt.dataset.d||0, c=mine?PL.currentTime:0; bt.querySelector('.bar i').style.width=(d?Math.min(100,100*c/d):0)+'%';
+ bt.querySelector('.tm').textContent=mine&&c>0?fmtS(c)+' / '+fmtS(d):fmtS(d);}
+['play','pause','timeupdate','ended','loadedmetadata'].forEach(ev=>PL.addEventListener(ev,audPaint));
+PL.addEventListener('ended',()=>{PL.currentTime=0;audPaint();});
+function audToggle(){const bt=$('#btnAud'); if(!bt)return; const k=bt.dataset.k;
+ if(PL.dataset.k!==k){PL.src=bt.dataset.src; PL.dataset.k=k;
+  if('mediaSession' in navigator&&window.MediaMetadata){const f=IDX.fichas[CUR.key]; navigator.mediaSession.metadata=new MediaMetadata({title:f.t,artist:'HistoKHB',artwork:f.lam?[{src:f.lam}]:[]});}}
+ if(PL.paused)PL.play().catch(()=>{}); else PL.pause();}
+async function audioUI(k,f){
+ const M=await audMan(); const a=(M.fichas||{})[k]; if(!CUR||CUR.key!==k)return;
+ const id=k+'|'+LV; if(PL.dataset.k&&PL.dataset.k!==id)stopAud();
+ if(!a)return; const b=$('#shBody');
+ const calm=(navigator.connection&&navigator.connection.saveData)||matchMedia('(prefers-reduced-motion: reduce)').matches;
+ if(a.viva&&LV!=='n'&&!calm){const il=b.querySelector('.sh-illo'); if(il)il.innerHTML=`<video src="${a.viva}" ${f.lam?`poster="${f.lam}"`:''} autoplay muted loop playsinline preload="metadata" aria-label="${esc(f.t)}"></video>`;}
+ if(a[LV]){const rt=b.querySelector('.rt'); if(!rt)return;
+  rt.insertAdjacentHTML('afterend',`<button class="escuchar" id="btnAud" data-k="${id}" data-src="audio/${k}-${LV}.mp3" data-d="${a[LV]}" onclick="audToggle()"><span class="ico">🔊</span><span class="lb">Escuchar</span><span class="bar"><i></i></span><span class="tm"></span></button>`);
+  audPaint();}
+}
 async function renderSheet(){
  const b=$('#shBody'), ft=$('#shFoot'); if(!CUR)return;
  if(CUR.kind==='f'){
@@ -508,6 +538,7 @@ async function renderSheet(){
   b.innerHTML=`<div class="sh-illo">${ill}</div><div class="sh-head"><div class="ic">${f.ic}</div><div><div class="d">${esc(f.d)} · ${esc(f.c)}</div><h2>${esc(f.t)}</h2></div></div><div class="rt">⏱ ${mins(h)} min de lectura · ${LV==='n'?'Niños':LV==='g'?'General':'Profundo'}</div><div class="txt">${h}</div>`+
    (LV!=='p'?`<button class="more" onclick="setLevel('p');renderSheet().then(()=>$('#sheet').scrollTo({top:0,behavior:'smooth'}))">Quiero saber más →</button>`:'')+
    `<p class="rt">${esc(S.t)} · ${cap?esc(cap.t):''}</p>`;
+  await audioUI(k,f); if(!CUR||CUR.key!==k)return;
   if(f.sk&&f.sk.length){await sinc(); if(CUR&&CUR.key===k) b.insertAdjacentHTML('beforeend',`<div class="sec-t">📅 En la sincronía (${f.sk.length})</div>`+f.sk.map(key=>{const r=key.slice(0,key.lastIndexOf('|')),y=+key.split('|').pop();const e=(SINC.ev[r]||[]).find(e=>e[0]===y);return `<button class="lugar" onclick="go('#/s/${encodeURIComponent(key)}')"><div class="lk">📅 ${fy(y)} · ${esc(rn(r))}${e&&e[3]===2?'<span class="bio">biografía</span>':''}</div><h3>${esc(e?e[1]:rn(r))}</h3></button>`;}).join(''));}
   if(!LUG)LUG=await getJ('lugares.json').catch(()=>({lugares:[]}));
   const pvf=LUG.lugares.filter(l=>(l.eventos||[]).includes('f:'+k));
