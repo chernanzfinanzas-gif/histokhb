@@ -1,0 +1,10 @@
+{
+ "nota": "Audios en audio/<ficha>-<nivel>.mp3 (n,g,p = segundos); viva = lámina animada",
+ "fichas": {
+  "ant2-5": {
+   "g": 114,
+   "voz_g": "Charon",
+   "viva": "img/vivas/ant2-5.mp4"
+  }
+ }
+}
