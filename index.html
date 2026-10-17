@@ -521,16 +521,16 @@ function audPaint(){const bt=$('#btnAud'); if(!bt)return; const mine=PL.dataset.
 PL.addEventListener('ended',()=>{PL.currentTime=0;audPaint();});
 function audToggle(){const bt=$('#btnAud'); if(!bt)return; const k=bt.dataset.k;
  if(PL.dataset.k!==k){PL.src=bt.dataset.src; PL.dataset.k=k;
-  if('mediaSession' in navigator&&window.MediaMetadata){const f=IDX.fichas[CUR.key]; navigator.mediaSession.metadata=new MediaMetadata({title:f.t,artist:'HistoKHB',artwork:f.lam?[{src:f.lam}]:[]});}}
+  if('mediaSession' in navigator&&window.MediaMetadata){navigator.mediaSession.metadata=new MediaMetadata({title:bt.dataset.t||'',artist:'HistoKHB',artwork:bt.dataset.l?[{src:bt.dataset.l}]:[]});}}
  if(PL.paused)PL.play().catch(()=>{}); else PL.pause();}
-async function audioUI(k,f){
+async function audioUI(k,f,lv){lv=lv||LV;
  const M=await audMan(); const a=(M.fichas||{})[k]; if(!CUR||CUR.key!==k)return;
- const id=k+'|'+LV; if(PL.dataset.k&&PL.dataset.k!==id)stopAud();
+ const id=k+'|'+lv; if(PL.dataset.k&&PL.dataset.k!==id)stopAud();
  if(!a)return; const b=$('#shBody');
  const calm=(navigator.connection&&navigator.connection.saveData)||matchMedia('(prefers-reduced-motion: reduce)').matches;
- if(a.viva&&LV!=='n'&&!calm){const il=b.querySelector('.sh-illo'); if(il)il.innerHTML=`<video src="${a.viva}" ${f.lam?`poster="${f.lam}"`:''} autoplay muted loop playsinline preload="metadata" aria-label="${esc(f.t)}"></video>`;}
- if(a[LV]){const rt=b.querySelector('.rt'); if(!rt)return;
-  rt.insertAdjacentHTML('afterend',`<button class="escuchar" id="btnAud" data-k="${id}" data-src="audio/${k}-${LV}.mp3" data-d="${a[LV]}" onclick="audToggle()"><span class="ico">🔊</span><span class="lb">Escuchar</span><span class="bar"><i></i></span><span class="tm"></span></button>`);
+ if(a.viva&&lv!=='n'&&!calm){const il=b.querySelector('.sh-illo'); if(il)il.innerHTML=`<video src="${a.viva}" ${f.lam?`poster="${f.lam}"`:''} autoplay muted loop playsinline preload="metadata" aria-label="${esc(f.t)}"></video>`;}
+ if(a[lv]){const rt=b.querySelector('.rt'); if(!rt)return;
+  rt.insertAdjacentHTML('afterend',`<button class="escuchar" id="btnAud" data-k="${id}" data-src="audio/${k}-${lv}.mp3" data-d="${a[lv]}" data-t="${esc(f.t)}" data-l="${f.lam||''}" onclick="audToggle()"><span class="ico">🔊</span><span class="lb">Escuchar</span><span class="bar"><i></i></span><span class="tm"></span></button>`);
   audPaint();}
 }
 // ── Fichas vistas y última ficha abierta ──
@@ -570,6 +570,7 @@ async function renderSheet(){
   const d=DESA[CUR.key]; if(!d){b.innerHTML='<p class="empty-st">Este tema no existe.</p>';return;}
   $('#shTtl').textContent=d.t; $('#seg').classList.add('hide');
   b.innerHTML=(d.lam?`<div class="sh-illo"><img src="${d.lam}" alt="" loading="lazy"></div>`:'<div style="height:16px"></div>')+`<div class="sh-head"><div><div class="d">📖 Desarrollo del tema · ${esc(d.d)}</div><h2>${esc(d.t)}</h2></div></div><div class="rt">⏱ ${mins(d.h)} min de lectura</div><div class="txt">${d.h}</div>`;
+  await audioUI(CUR.key,{t:d.t,lam:d.lam},'d'); if(!CUR||CUR.kind!=='d')return;
   if(d.sk&&d.sk.length){await sinc(); b.insertAdjacentHTML('beforeend',`<div class="sec-t">📅 Relacionado en la sincronía</div>`+d.sk.map(key=>{const r=key.slice(0,key.lastIndexOf('|')),y=+key.split('|').pop();const e=(SINC.ev[r]||[]).find(e=>e[0]===y);return `<button class="lugar" onclick="go('#/s/${encodeURIComponent(key)}')"><div class="lk">📅 ${fy(y)} · ${esc(rn(r))}${e&&e[3]===2?'<span class="bio">biografía</span>':''}</div><h3>${esc(e?e[1]:rn(r))}</h3></button>`;}).join(''));}
   ft.innerHTML=`<button class="pri" onclick="history.back()">‹ Volver a la ficha</button>`;
   $('#shWa').href=waLink('📖 '+d.t+'\n\nEn HistoKHB 👉 '+BASE+'#/d/'+CUR.key);
