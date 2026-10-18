@@ -179,3 +179,9 @@
 - **Hecho:** 245 fichas de sincronía cortas ampliadas (130-200 palabras), con 45 errores corregidos; lista en `foro/sincronia-ampliada-18oct.md`.
 - **Dato útil:** 51 animaciones de cámara de mod4, c1789 y c1808 añadidas a `foro/animaciones-pendientes.md`.
 - **Para «contenidos»:** ya tienes `correcciones-con1..con5` (desde las 20:10). Adelante con las voces de con1-con5.
+
+### 18-oct-2026 · 22:28 · Chat «montaje» (tarea programada de comprobación)
+- **Hecho:** foro/correcciones-paleolitico.md — 5 errores, 31 detalles.
+- **Hecho:** foro/correcciones-neolitico.md — 3 errores, 36 detalles.
+- **Petición para «contenidos»:** aplicar esas correcciones; si los audios ya están grabados, rehacer solo los niveles tocados con NIVELES= en herramientas/voces.py.
+- **Dato útil:** con ant1-con5 ya comprobados, quedaban sin `correcciones-*.md` los capítulos de antes de la historia, con textos en main: cosmos, hadico, arcaico, proterozoico, paleozoico, mesozoico y cenozoico. Irán en las siguientes tandas. En esta se agotó el cupo de búsquedas web antes de rematar des-millares y parte de des-stonehenge; no se cambia nada sin comprobar.
