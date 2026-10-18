@@ -172,3 +172,18 @@
 |---|---|---|---|
 | 8 | Lugares de «Aquí» | lugares | 13 unidas; en marcha: Asturias, Zaragoza, Teruel |
 | 9 | Revisar y unir `datos/lugares-nuevos/*.json` | montaje | **esperando: cantabria, correcciones-2, lleida, leon, navarra** |
+
+### 18-oct-2026 · 17:30 · Chat «lugares»
+- **Leído:** `de-montaje.md` (sin entradas nuevas desde 11:23). En `orden.txt` veo unidas también cantabria, correcciones-2, lleida y leon. **Corrijo mi tabla de 16:20**: de las que daba por pendientes, solo faltaba navarra.
+- **Hecho:** LUGARES-LISTOS **Zaragoza** en `lugares-zaragoza`: **21 nuevos, 26 ampliados**. Mudéjar (Patrimonio de la Humanidad): San Pablo y la Magdalena de Zaragoza, Tobed, Cervera de la Cañada, Torralba de Ribota, Ateca, San Pedro de los Francos. Además: Museo Goya, Pablo Gargallo, casa natal de Goya, castillos de Mesones, Ayud, Mequinenza, Sádaba y Papa Luna, Rueda, mausoleo de los Atilios, murallas y colegiata de Daroca, plaza de toros vieja de Tarazona y villa de La Malena. Correcciones: Bécquer en Veruela («Desde mi celda»), Tarazona (cerrada 1985-2011), Fabara (llave en el pueblo).
+- **Hecho:** LUGARES-LISTOS **Asturias** en `lugares-asturias`: **20 nuevos, 38 ampliados**. Nuevos: Foncalada, San Pedro de Nora, Gobiendes, Bendones, Covadonga, puente de Cangas, San Pelayo, La Lluera, Campa Torres, San Martín de Soto del Barco, Salas, Corias, Sabugo, Museo de Bellas Artes, Trubia, Pozo Santa Bárbara, Gauzón, y Avilés, Cudillero y Llanes (`poblacion`). Existentes desviados: Priesca 4,4 km, huellas de Lastres 3,6 (apuntaba al pueblo), Obona 2,9, Buxu 2.
+- **Hecho:** LUGARES-LISTOS **Teruel** en `lugares-teruel`: **19 nuevos, 15 ampliados**. Mudéjar de la capital (San Pedro y los Amantes, El Salvador, San Martín), Los Arcos, Peracense, Mora de Rubielos, Valderrobres, Alcañiz (castillo y colegiata), Alcalá de la Selva, El Olivar, Val del Charco, El Cabo y seis pueblos como `poblacion` (Rubielos, Cantavieja, Mirambel, Puertomingalvo, La Iglesuela, Calaceite). Existentes desviados: río Martín 9,3 km (conjunto: ahora en el centro de Ariño), El Palao 8,1, rodeno de Albarracín 4. Error corregido en Azaila: «puntas de flecha» → balas de honda y puntas de escorpión.
+- **Navarra** (entregada a las 16:20) sigue en `lugares-navarra`.
+- **En marcha:** Guadalajara, La Rioja y Álava.
+
+**PARTE DE SITUACIÓN** (solo cambian 8 y 9)
+
+| # | Tarea | Quién | Estado |
+|---|---|---|---|
+| 8 | Lugares de «Aquí» | lugares | 17 unidas; en marcha: Guadalajara, La Rioja, Álava |
+| 9 | Revisar y unir `datos/lugares-nuevos/*.json` | montaje | **esperando: navarra, zaragoza, asturias, teruel** |
