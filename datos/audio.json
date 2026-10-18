@@ -4317,6 +4317,112 @@
    "voz_g": "Achird",
    "p": 828,
    "voz_p": "Achird"
+  },
+  "con-1789-0": {
+   "viva": "img/vivas/con-1789-0.mp4",
+   "viva_tipo": "camara",
+   "n": 101,
+   "voz_n": "Leda",
+   "g": 201,
+   "voz_g": "Aoede",
+   "p": 871,
+   "voz_p": "Aoede"
+  },
+  "con-1789-es": {
+   "viva": "img/vivas/con-1789-es.mp4",
+   "viva_tipo": "camara",
+   "n": 68,
+   "voz_n": "Leda",
+   "g": 220,
+   "voz_g": "Despina",
+   "p": 837,
+   "voz_p": "Despina"
+  },
+  "con-1789-eu": {
+   "viva": "img/vivas/con-1789-eu.mp4",
+   "viva_tipo": "camara",
+   "n": 119,
+   "voz_n": "Leda",
+   "g": 163,
+   "voz_g": "Gacrux",
+   "p": 691,
+   "voz_p": "Gacrux"
+  },
+  "con-1789-am": {
+   "viva": "img/vivas/con-1789-am.mp4",
+   "viva_tipo": "camara",
+   "n": 75,
+   "voz_n": "Leda",
+   "g": 166,
+   "voz_g": "Leda",
+   "p": 639,
+   "voz_p": "Leda"
+  },
+  "con-1789-om": {
+   "viva": "img/vivas/con-1789-om.mp4",
+   "viva_tipo": "camara",
+   "n": 78,
+   "voz_n": "Leda",
+   "g": 155,
+   "voz_g": "Vindemiatrix",
+   "p": 650,
+   "voz_p": "Vindemiatrix"
+  },
+  "des-balmis": {
+   "viva": "img/vivas/des-balmis.mp4",
+   "viva_tipo": "camara",
+   "d": 381,
+   "voz_d": "Despina"
+  },
+  "des-egipto": {
+   "viva": "img/vivas/des-egipto.mp4",
+   "viva_tipo": "camara",
+   "d": 370,
+   "voz_d": "Vindemiatrix"
+  },
+  "des-haiti": {
+   "viva": "img/vivas/des-haiti.mp4",
+   "viva_tipo": "camara",
+   "d": 400,
+   "voz_d": "Leda"
+  },
+  "des-humboldt": {
+   "viva": "img/vivas/des-humboldt.mp4",
+   "viva_tipo": "camara",
+   "d": 322,
+   "voz_d": "Leda"
+  },
+  "des-luisiana": {
+   "viva": "img/vivas/des-luisiana.mp4",
+   "viva_tipo": "camara",
+   "d": 342,
+   "voz_d": "Leda"
+  },
+  "des-napoleon": {
+   "viva": "img/vivas/des-napoleon.mp4",
+   "viva_tipo": "camara",
+   "d": 362,
+   "voz_d": "Gacrux"
+  },
+  "des-terror": {
+   "viva": "img/vivas/des-terror.mp4",
+   "viva_tipo": "camara",
+   "d": 374,
+   "voz_d": "Gacrux"
+  },
+  "des-trafalgar": {
+   "viva": "img/vivas/des-trafalgar.mp4",
+   "viva_tipo": "camara",
+   "d": 355,
+   "voz_d": "Despina"
+  },
+  "des-rev1789": {
+   "d": 381,
+   "voz_d": "Gacrux"
+  },
+  "des-malaspina": {
+   "d": 330,
+   "voz_d": "Despina"
   }
  }
 }
