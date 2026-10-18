@@ -13,7 +13,6 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 
 ### Edad Antigua
 - [ ] ant1-0 · Sumer y sus ciudades
-- [ ] ant1-1 · Egipto: el Imperio Antiguo y las pirámides
 - [ ] ant1-11 · Caral, la ciudad más antigua de América
 - [ ] ant1-12 · China antes de las dinastías: Longshan y el «gran Yu»
 - [ ] ant1-13 · El Argar, el primer Estado de la península
@@ -36,7 +35,6 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] neolitico-19 · Las megaaldeas de Ucrania
 - [ ] neolitico-6 · Agriculturas de otros mundos
 - [ ] paleolitico-12 · El poblamiento del planeta
-- [ ] paleolitico-13 · El arte de las cavernas
 - [ ] paleolitico-14 · Las Venus paleolíticas
 
 ### Desarrollos
@@ -333,7 +331,63 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] des-misiones-guaranies · Las ruinas de San Ignacio Miní
 - [ ] des-ronda-noche · La ronda de noche
 
+- [ ] mod4-0 · Newton y la razón universal
+- [ ] mod4-2 · La España de los primeros Borbones
+- [ ] mod4-1 · Los filósofos de la Ilustración
+- [ ] mod4-7 · Las expediciones científicas españolas
+- [ ] mod4-12 · Las mujeres de la Ilustración
+- [ ] mod4-15 · Qianlong y el comercio de Cantón
+- [ ] mod4-18 · El terremoto de Lisboa de 1755
+- [ ] mod4-10 · Federico el Grande y la Guerra de los Siete Años
+- [ ] mod4-4 · Catalina la Grande y la Europa oriental
+- [ ] mod4-6 · Carlos III y el Madrid ilustrado
+- [ ] mod4-14 · Plassey y la Compañía de las Indias
+- [ ] mod4-11 · Empieza la Revolución Industrial
+- [ ] mod4-13 · Mozart y el Clasicismo
+- [ ] mod4-16 · Junípero Serra y las misiones de California
+- [ ] mod4-3 · La independencia de Estados Unidos
+- [ ] mod4-17 · Olaudah Equiano y los primeros abolicionistas
+- [ ] mod4-8 · Túpac Amaru II y las rebeliones de 1780
+- [ ] mod4-5 · Y mientras tanto…
+- [ ] des-edificio-prado · El edificio de Villanueva
+- [ ] des-mision-carmelo · La misión de Carmel
+- [ ] des-sanssouci · Sanssouci
+- [ ] con-1789-0 · El mundo entre 1789 y 1808: la era de las revoluciones
+- [ ] con-1789-es · España entre 1789 y 1808: de Carlos IV a la crisis de la monarquía
+- [ ] con-1789-eu · Europa entre 1789 y 1808: la Revolución francesa y Napoleón
+- [ ] con-1789-am · América entre 1789 y 1808: Haití, Estados Unidos y los imperios ibéricos
+- [ ] con-1789-om · Oriente Medio y el norte de África entre 1789 y 1808: Napoleón en Egipto
+- [ ] des-rev1789 · 1789: el año que cambió Francia
+- [ ] des-terror · El Terror (1793-1794)
+- [ ] des-napoleon · Napoleón: del Consulado al Imperio (1799-1808)
+- [ ] des-egipto · La expedición a Egipto y el nacimiento de la egiptología (1798-1801)
+- [ ] des-trafalgar · Trafalgar (1805)
+- [ ] des-haiti · La revolución de Haití (1791-1804)
+- [ ] des-luisiana · La compra de Luisiana y el viaje de Lewis y Clark (1803-1806)
+- [ ] des-humboldt · El viaje de Humboldt por América (1799-1804)
+- [ ] des-malaspina · La expedición Malaspina (1789-1794)
+- [ ] des-balmis · La Real Expedición Filantrópica de la Vacuna (1803-1806)
+- [ ] con-1808-0 · El mundo entre 1808 y 1830: imperios que caen, naciones que nacen y máquinas de vapor
+- [ ] con-1808-es · España entre 1808 y 1830: de la guerra de la Independencia a la Década Ominosa
+- [ ] con-1808-eu · Europa entre 1808 y 1830: de Napoleón a la Restauración
+- [ ] con-1808-am · América entre 1808 y 1830: las independencias
+- [ ] con-1808-om · Oriente Medio y el norte de África entre 1808 y 1830: reformas desde arriba y presión de Europa
+- [ ] con-1808-as · Asia y Oceanía entre 1808 y 1830: imperios cerrados, compañías comerciales y un volcán que enfrió el mundo
+- [ ] des-cadiz · Las Cortes de Cádiz y la Constitución de 1812
+- [ ] des-trienio · Riego y el Trienio Liberal (1820-1823)
+- [ ] des-rusia1812 · La campaña de Rusia (1812)
+- [ ] des-bolivar · Simón Bolívar y la Gran Colombia (1810-1830)
+- [ ] des-sanmartin · San Martín y el cruce de los Andes (1812-1822)
+- [ ] des-mexico · México: de Hidalgo a Iturbide (1810-1824)
+- [ ] des-guerraind · La guerra de la Independencia: Bailén, los Sitios y la guerrilla (1808-1814)
+- [ ] des-grecia · La guerra de independencia griega (1821-1830)
+- [ ] des-te-opio · El té, el opio y el viaje secreto de las plantas de té (1757-1860)
+
 ## Hechos con Gemini
+
+- [x] ant1-1 (Gemini Flash, 18-oct) · Egipto: el Imperio Antiguo y las pirámides
+- [x] paleolitico-13 (Gemini Flash, 18-oct) · El arte de las cavernas
+- [x] des-ishtar (Gemini Flash, 18-oct) · La puerta de Ishtar
 
 - [x] ant1-8 (al final con Veo; el de Gemini también salió bien) · Sargón de Acad, el primer imperio
 - [x] des-caral · Caral: una ciudad sin guerra (recortado a 5 s en ida y vuelta: Gemini arrastró el zigurat del vídeo anterior)
