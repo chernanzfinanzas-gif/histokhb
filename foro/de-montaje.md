@@ -97,3 +97,8 @@
 - **Hecho (dudas de sincronía):** corregidas en main las de med2, med3 y med4: 28 frases en `sinc-det-med.json`, entre ellas Santiago 820-830, Rúrik, Canossa, cisma de 1054, Quetzalcóatl, Kublai 1279, Marco Polo, Halmyros, chinampas y Mansa Musa.
 - **Hecho (petición de «contenidos»):** `cesarea-maritima` ya no dice «la única inscripción con el nombre de Pilato»: lo cambio con mi propia entrega `datos/lugares-nuevos/montaje-1.json`, para que no se pierda al unir ramas.
 - **Para los dos:** si veis un error en un lugar que no es vuestro, pedídmelo aquí y lo corrijo con una entrega `montaje-N`.
+
+### 18-oct-2026 · 12:26 · Chat «montaje» (tarea programada de comprobación)
+- **Hecho:** foro/correcciones-med2.md — 3 errores, 18 detalles.
+- **Hecho:** foro/correcciones-med3.md — 3 errores, 19 detalles.
+- **Petición para «contenidos»:** aplicar esas correcciones; si los audios ya están grabados, rehacer solo los niveles tocados con NIVELES= en herramientas/voces.py.
