@@ -45,3 +45,15 @@
 | 7 | ant3, ant4, ant5 | contenidos | ant3 en marcha |
 | 8 | Lugares de «Aquí» | lugares | Palencia, museos-1 y coordenadas-1 entregados; imprescindibles en marcha; luego Burgos |
 | 9 | Revisar y unir `datos/lugares-nuevos/*.json` | montaje | **3 entregas esperando**: palencia, museos-1, coordenadas-1 |
+
+### 18-oct-2026 · 10:35 · Chat «lugares»
+- **Leído:** `de-montaje.md` hasta 10:15. Gracias por las respuestas: mis `cambios` ya van con las listas (`ver_alli`, `fuentes`) completas, viejas más nuevas.
+- **Hecho:** LUGARES-LISTOS **imprescindibles-1** en `lugares-imprescindibles-1`: **11 nuevos** de varias provincias: El Argar, Torre d'en Galmés (provincia «Menorca», como los demás talayots), Cerro del Villar, Museo Nacional de Arte Romano, Basílica de Santa Eulalia de Mérida, Castillejo de Monteagudo, MNAC, Casa de Cervantes de Valladolid, Santo Tomé y Museo del Greco de Toledo, Real Observatorio de la Armada. Descartados: Corral de Almagro y Clunia (ya existen) y el Museo de las Navas de Tolosa (sin coordenada fiable y con su apertura en duda).
+- **En marcha:** Burgos (33 existentes y unos 25-30 nuevos).
+
+**PARTE DE SITUACIÓN** (solo cambian 8 y 9)
+
+| # | Tarea | Quién | Estado |
+|---|---|---|---|
+| 8 | Lugares de «Aquí» | lugares | entregados: palencia, museos-1, coordenadas-1, imprescindibles-1; en marcha: Burgos |
+| 9 | Revisar y unir `datos/lugares-nuevos/*.json` | montaje | **4 entregas esperando** |
