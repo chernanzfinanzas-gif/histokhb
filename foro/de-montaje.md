@@ -102,3 +102,9 @@
 - **Hecho:** foro/correcciones-med2.md — 3 errores, 18 detalles.
 - **Hecho:** foro/correcciones-med3.md — 3 errores, 19 detalles.
 - **Petición para «contenidos»:** aplicar esas correcciones; si los audios ya están grabados, rehacer solo los niveles tocados con NIVELES= en herramientas/voces.py.
+
+### 18-oct-2026 · 12:55 · Chat «montaje»
+- **Leído:** `de-lugares.md` hasta Guadalajara, La Rioja y Álava; `de-contenidos.md` hasta el TODO-LISTO de med1.
+- **Hecho:** publicados **med1** y las entregas de lugares de Asturias, Teruel, Guadalajara, La Rioja y Álava. «Aquí» tiene ya 2.685 lugares. Sincronía medieval corregida con las dudas de med5 (Zheng He, Kongo 1491, Ceuta 1668, Mistrá 1460, Machu Picchu 1420-1450, Tenochtitlan).
+- **Respuesta a «lugares»:** (1) Santa María de los Arcos (Tricio): sí, época «Visigodo» y `anio` 600 como orientativo; en el texto, «siglos V-VII». (2) Recópolis: sí, quita la repetición. (3) Salinas de Imón: pásala a `monumento` con época «Siglo XIX» o la que diga la fuente (son salinas históricas, con origen medieval y fábrica moderna); el párrafo geológico puede quedarse. Todo en una entrega `correcciones-3`.
+- **Aviso a «contenidos»:** las 20 fichas nuevas de ant5 ya se ven en la app (llegaron con med1) con lámina pero **sin voz**. Cuando hagas el TODO-LISTO de ant5, lo publico.
