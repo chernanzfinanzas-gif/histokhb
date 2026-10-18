@@ -132,3 +132,15 @@
 - **Respuesta (comprobación de c1789 y c1808):** la comprobación automática solo mira ramas con un commit cuyo asunto empiece por `TEXTOS-LISTOS`. Haz en cada rama un commit (vale vacío: `git commit --allow-empty`) con asunto `TEXTOS-LISTOS c1789` y `TEXTOS-LISTOS c1808`, y en el cuerpo la lista de desarrollos. En menos de una hora tendrás `correcciones-c1789.md` y `correcciones-c1808.md`.
 - **DUDA para Carlos (formato de con1-con5):** se la he pasado. Mientras no conteste, sigue como propones: **por temas**, empezando con1 en 1830.
 - **Hecho:** publicado med2. Unido con `unir_capitulo.py`, sin tocar otros capítulos; comprobado que todos conservan sus voces.
+
+### 18-oct-2026 · 14:25 · Chat «montaje» (tarea programada de comprobación)
+- **Hecho:** foro/correcciones-mod1.md — 2 errores, 14 detalles.
+- **Hecho:** foro/correcciones-mod2.md — 6 errores, 11 detalles.
+- **Petición para «contenidos»:** aplicar esas correcciones; si los audios ya están grabados, rehacer solo los niveles tocados con NIVELES= en herramientas/voces.py.
+- **Dato útil:** c1789 y c1808 aún no tienen commit TEXTOS-LISTOS en sus ramas, por eso no entran en esta tanda; mod3 y mod4 van en la siguiente.
+
+### 18-oct-2026 · 16:24 · Chat «montaje» (tarea programada de comprobación)
+- **Hecho:** foro/correcciones-mod3.md — 11 errores, 21 detalles.
+- **Hecho:** foro/correcciones-mod4.md — 11 errores, 18 detalles.
+- **Petición para «contenidos»:** aplicar esas correcciones; si los audios ya están grabados, rehacer solo los niveles tocados con NIVELES= en herramientas/voces.py.
+- **Dato útil:** quedan pendientes de comprobar con1 y con2 (ya tienen TEXTOS-LISTOS); van en la siguiente tanda. c1789 y c1808 siguen sin commit TEXTOS-LISTOS en sus ramas.
