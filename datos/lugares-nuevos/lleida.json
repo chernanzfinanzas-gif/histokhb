@@ -1,0 +1,1182 @@
+{
+ "zona": "Lleida",
+ "nuevos": [
+  {
+   "id": "museu-de-lleida",
+   "nombre": "Museu de Lleida (Diocesà i Comarcal)",
+   "provincia": "Lleida",
+   "comarca": "Lleida (Segrià)",
+   "lat": 41.6137,
+   "lon": 0.6216,
+   "tipo": "museo",
+   "estilo": "Arqueología y arte medieval",
+   "epoca": "Gótico",
+   "anio": 2007,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>El <b>Museu de Lleida</b> reúne bajo un mismo techo la historia de las tierras de poniente, desde la prehistoria hasta la Edad Moderna. Sus fondos vienen de colecciones veteranas: el antiguo <b>Museu Diocesà</b>, creado en <b>1893</b>, el tesoro de la catedral y el fondo arqueológico del Institut d'Estudis Ilerdencs. La institución nació como consorcio en 1997 y estrenó su sede actual en <b>noviembre de 2007</b>.</p><p>El edificio, obra del arquitecto <b>Joan Rodon</b>, aprovecha el antiguo convento de carmelitas descalzos y su iglesia del siglo XVII. Dentro esperan piezas de primera: el <b>baptisterio visigodo del Bovalar</b> (Seròs), una cabeza de Medusa romana, el ajedrez de cristal de roca de Sant Pere d'Àger o el <i>Pentecostés</i> de Bartomeu de Robió, del retablo mayor de la Seu Vella.</p><p>El museo ha vivido también un largo pleito: tras pasar las parroquias de la Franja al obispado de Barbastro-Monzón en 1995, Aragón reclamó más de un centenar de piezas, y las 44 procedentes del monasterio de <b>Sixena</b> fueron retiradas por la Guardia Civil en diciembre de 2017 y llevadas a Sixena.</p>"
+   },
+   "ver_alli": [
+    "El baptisterio del Bovalar, con su ciborio reconstruido con piezas originales.",
+    "El juego de ajedrez de cristal de roca de Sant Pere d'Àger (siglos X-XI).",
+    "El Pentecostés de Bartomeu de Robió, del retablo de la Seu Vella."
+   ],
+   "fuentes": [
+    "https://www.enciclopedia.cat/EC-GEC-0260505",
+    "https://museudelleida.cat/wp-content/uploads/2013/09/dossier_mll_es.pdf",
+    "https://www.openstreetmap.org/way/288780508"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monestir-de-bellpuig-de-les-avellanes",
+   "nombre": "Monasterio de Santa Maria de Bellpuig de les Avellanes",
+   "provincia": "Lleida",
+   "comarca": "Os de Balaguer (Noguera)",
+   "lat": 41.8751,
+   "lon": 0.7575,
+   "tipo": "iglesia",
+   "estilo": "Románico y gótico",
+   "epoca": "Románico",
+   "anio": 1166,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>En un altozano de la Noguera se levanta este monasterio, nacido en <b>1166</b> de la mano del ermitaño <b>Joan d'Organyà</b> y con el apoyo de los condes de Urgell <b>Ermengol VII y Dolça</b>. Fue durante siglos una comunidad de canónigos premostratenses y el gran panteón de los <b>condes de Urgell</b>.</p><p>De su época románica conserva el <b>claustro del siglo XII</b>, con 36 capiteles decorados en las galerías sur y oeste. La iglesia, en cambio, se rehízo en <b>gótico</b> a partir del siglo XIV: se planeó como gran basílica de cruz latina, pero la nave acabó acortándose.</p><p>Tras la exclaustración de 1835 el monasterio pasó por varias manos. El banquero Agustí Santesmasses lo compró en 1894 y vendió los sepulcros condales al museo <b>The Cloisters de Nueva York</b>; los restos de los condes volvieron en 1967. Desde 1910 lo ocupan los Hermanos Maristas, que lo restauraron.</p><p class=\"dato\"><span>¿Sabías que…?</span>Los sepulcros de los condes de Urgell se vendieron por 15.000 pesetas y hoy se exhiben en Nueva York.</p>"
+   },
+   "ver_alli": [
+    "El claustro románico y sus capiteles esculpidos.",
+    "La cabecera gótica, con ábside central pentagonal.",
+    "Los sencillos sepulcros de piedra donde reposan los restos devueltos de los condes."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Bellpuig",
+    "https://www.openstreetmap.org/relation/20217238",
+    "https://www.wikidata.org/wiki/Q6421861"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castell-de-montsonis",
+   "nombre": "Castell de Montsonís",
+   "provincia": "Lleida",
+   "comarca": "Foradada (Noguera)",
+   "lat": 41.8872,
+   "lon": 1.0224,
+   "tipo": "castillo",
+   "estilo": "Medieval y renacentista",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1024,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Según la tradición, el conde <b>Ermengol II de Urgell</b> mandó construir esta fortaleza en <b>1024</b>, en plena frontera con al-Ándalus; la primera mención documental segura es de 1129. Durante <b>125 años</b>, hasta la conquista de Lleida en 1149, vigiló aquella raya.</p><p>Lo que hoy vemos es sobre todo fruto de dos campañas: una en la segunda mitad del siglo XVI, a partir de una torre de la vieja muralla, y otra en el XVII, tras sufrir <b>cinco asaltos</b> en la Guerra dels Segadors. Dos torres cuadradas, portales con dovelas y escudos, ventanas ojivales geminadas, aspilleras y ventanales renacentistas componen su fachada.</p><p>Desde 1835 pertenece a los <b>barones de Albi</b>, y sigue habitado: la bandera ondea en la torre del homenaje. Se presenta como el primer castillo privado de España abierto al público, y en 2024 celebró su milenario.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje, todavía con su bandera.",
+    "Los portales con escudos en los dinteles.",
+    "La iglesia del siglo XVIII adosada al castillo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Monts%C3%B3n%C3%ADs",
+    "https://www.openstreetmap.org/way/406241881",
+    "https://www.wikidata.org/wiki/Q11913065"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castell-de-llorda",
+   "nombre": "Castell de Llordà",
+   "provincia": "Lleida",
+   "comarca": "Isona i Conca Dellà (Pallars Jussà)",
+   "lat": 42.1164,
+   "lon": 1.0907,
+   "tipo": "castillo",
+   "estilo": "Románico",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1033,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Encaramado sobre la Conca Dellà, Llordà fue la residencia y el centro de poder de <b>Arnau Mir de Tost</b>, el caballero que conquistó y repobló el Pallars Jussà para el conde de Urgell en el siglo XI. El castillo está documentado con certeza en <b>1033</b>, aunque el lugar aparece ya en 961.</p><p>Está considerado <b>uno de los mejores ejemplos de arquitectura residencial altomedieval de Cataluña</b>. Tiene tres recintos sucesivos y, en lo más alto, el <b>palacio señorial</b>, de finales del siglo XI: tres salas superpuestas, una planta baja de tres naves con bóveda de cañón y una gran sala con ventanas geminadas. En algunos muros se ve el aparejo en espiga (<i>opus spicatum</i>).</p><p>Tras las excavaciones iniciadas en 1997 y la restauración, el castillo volvió a ser visitable. En el primer recinto se alza la iglesia de <b>Sant Sadurní de Llordà</b>.</p>"
+   },
+   "ver_alli": [
+    "El palacio de Arnau Mir de Tost y su sala de ventanas geminadas.",
+    "El aparejo en espiga (opus spicatum) de los muros interiores.",
+    "La iglesia de Sant Sadurní en el primer recinto y la vista sobre la Conca Dellà."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Llord%C3%A1",
+    "https://www.openstreetmap.org/way/209434631",
+    "https://www.wikidata.org/wiki/Q11680600"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castell-formos-balaguer",
+   "nombre": "Castell Formós (Balaguer)",
+   "provincia": "Lleida",
+   "comarca": "Balaguer (Noguera)",
+   "lat": 41.7943,
+   "lon": 0.8061,
+   "tipo": "castillo",
+   "estilo": "Andalusí y medieval",
+   "epoca": "Castillos y fortalezas",
+   "anio": 897,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Sobre Balaguer, el <b>Castell Formós</b> nació como fortaleza andalusí: según el cronista Ibn Hayyan, lo empezó <b>Lubb ibn Muhammad en octubre de 897</b>. A mediados del siglo XI, bajo <b>Yusuf al-Muzaffar</b>, se convirtió en un palacio refinado, con yesos decorados emparentados con los de la Aljafería de Zaragoza.</p><p>Balaguer cayó en manos cristianas en <b>1105</b> y el castillo pasó a ser residencia de los <b>condes de Urgell</b>. Su gran momento trágico llegó en <b>1413</b>: el conde Jaume el Dissortat, alzado contra Fernando de Antequera, resistió aquí un asedio de tres meses que acabó con la entrada de las tropas reales y el saqueo del castillo. La artillería marcó su ruina progresiva.</p><p>Hoy queda un recinto poligonal de unos 140 por 70 m, con una muralla norte de 5,5 m de altura, siete torres y un foso excavado en la terraza del río.</p><p class=\"dato\"><span>¿Sabías que…?</span>Los fragmentos de yeso del palacio taifa —más de 470— se guardan en el Museu Comarcal de la Noguera.</p>"
+   },
+   "ver_alli": [
+    "La muralla norte con sus torres de esquina.",
+    "El foso excavado en la terraza del río.",
+    "La vista sobre Balaguer y el Segre."
+   ],
+   "fuentes": [
+    "https://www.enciclopedia.cat/catalunya-romanica/castell-formos-o-de-balaguer",
+    "https://es.wikipedia.org/wiki/Castillo_Form%C3%B3s",
+    "https://www.openstreetmap.org/way/211488282",
+    "https://www.wikidata.org/wiki/Q8342137"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-maria-de-balaguer",
+   "nombre": "Iglesia de Santa Maria de Balaguer",
+   "provincia": "Lleida",
+   "comarca": "Balaguer (Noguera)",
+   "lat": 41.7917,
+   "lon": 0.8044,
+   "tipo": "iglesia",
+   "estilo": "Gótico",
+   "epoca": "Gótico",
+   "anio": 1351,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Su silueta corona la colina de la orilla derecha del <b>Segre</b> y es la imagen más reconocible de Balaguer. Las obras arrancaron en <b>1351</b> gracias a un donativo de 30.000 sueldos del rey <b>Pedro el Ceremonioso</b>, quedaron paradas más de un siglo y la iglesia no se consagró hasta el <b>24 de febrero de 1558</b>.</p><p>Es un templo de <b>una sola nave muy amplia</b>, con capillas entre los contrafuertes, ábside de siete lados y bóvedas estrelladas. El campanario, octogonal, recibió sus dos primeras campanas en 1392.</p><p>Su historia no fue tranquila: tras la desamortización sirvió de cuartel y de prisión (1836), volvió al culto en 1881 y fue de nuevo cárcel en 1923 y durante la Guerra Civil.</p>"
+   },
+   "ver_alli": [
+    "La gran nave única y sus bóvedas estrelladas.",
+    "El campanario octogonal.",
+    "La vista de la iglesia sobre el río desde el puente."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_(Balaguer)",
+    "https://www.openstreetmap.org/way/211495998",
+    "https://www.wikidata.org/wiki/Q18007561"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "colegiata-de-sant-pere-d-ager",
+   "nombre": "Colegiata de Sant Pere d'Àger",
+   "provincia": "Lleida",
+   "comarca": "Àger (Noguera)",
+   "lat": 41.9998,
+   "lon": 0.7627,
+   "tipo": "iglesia",
+   "estilo": "Románico y gótico",
+   "epoca": "Románico",
+   "anio": 1047,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Dentro del recinto del castillo de Àger, dominando el valle, se alza la colegiata de <b>Sant Pere</b>. Hubo aquí un monasterio benedictino ya en 1036, pero su gran impulso llegó en <b>1047</b>, cuando <b>Arnau Mir de Tost</b>, tras conquistar la villa, instaló clérigos venidos de Osona, dotó la abadía y consiguió que no dependiera del obispo de Urgell.</p><p>La iglesia románica del siglo XI tiene tres naves y tres ábsides, y bajo ella una <b>cripta de tres naves</b>, construida probablemente entre 1048 y 1068, que funciona casi como una iglesia independiente. Pedro el Ceremonioso mandó levantar un <b>claustro gótico</b>, del que solo queda una parte tras los daños de la Guerra dels Segadors.</p><p>Convertida en colegiata en 1592, pasó al obispado de Lleida en 1874. Es de la Generalitat desde 1984 y está en proceso de restauración.</p>"
+   },
+   "ver_alli": [
+    "La cripta de tres naves bajo la iglesia.",
+    "Lo que queda del claustro gótico.",
+    "El panorama del valle de Àger desde el recinto del castillo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Colegiata_de_San_Pedro_(Ager)",
+    "https://www.wikidata.org/wiki/Q8460083"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castell-de-ciutadilla",
+   "nombre": "Castell de Ciutadilla",
+   "provincia": "Lleida",
+   "comarca": "Ciutadilla (Urgell)",
+   "lat": 41.5609,
+   "lon": 1.141,
+   "tipo": "castillo",
+   "estilo": "Medieval y renacentista",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1029,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Ciutadilla, en el valle del Corb, ya aparece por escrito el <b>30 de septiembre de 1029</b>, en una sentencia que menciona sus murallas. Fue tierra de los <b>Guimerà</b>, y en el siglo XVI Gispert de Guimerà convirtió la fortaleza medieval en un <b>palacio renacentista</b>.</p><p>Su pieza estrella es la <b>torre del homenaje</b>, cuadrada, de <b>siete plantas</b>, con matacán y ventanal renacentista arriba. Dentro, un patio trapezoidal y una gran escalera que hasta principios del siglo XX tenía una galería con columnas.</p><p>En 1908 se empezó a derribar parte del edificio y el abandono y el expolio se llevaron muchos elementos. A finales del siglo XX una restauración mínima frenó su ruina.</p><p class=\"dato\"><span>¿Sabías que…?</span>En 1640 el señor de Ciutadilla, Ramon de Guimerà, negoció en nombre de la Diputació la ayuda militar de Francia frente a Castilla.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje de siete plantas.",
+    "El matacán y el ventanal renacentista.",
+    "El patio trapezoidal."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Ciutadilla",
+    "https://www.openstreetmap.org/node/2068349851",
+    "https://www.wikidata.org/wiki/Q8342279"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castell-de-les-sitges",
+   "nombre": "Castell de les Sitges",
+   "provincia": "Lleida",
+   "comarca": "Torrefeta i Florejacs (Segarra)",
+   "lat": 41.8162,
+   "lon": 1.228,
+   "tipo": "castillo",
+   "estilo": "Medieval",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1116,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>En plena Ruta dels Castells del Sió, el castillo de les Sitges aparece documentado en <b>1116</b> como <i>castrum de Ciges</i>. Hasta finales del siglo XIII perteneció a los <b>Alemany de Cervelló</b>, señores de Guimerà.</p><p>Es un ejemplo clásico de castillo de la Segarra: una <b>torre cuadrada</b> rodeada por una muralla que cierra un recinto también cuadrado. La torre, del siglo XIII, supera los <b>20 metros</b> y conserva la antigua puerta de acceso a unos <b>8 metros</b> del suelo.</p><p>Su último linaje señorial, los Rivera, perdió el dominio cuando Felipe V se lo confiscó al acabar la Guerra de Sucesión por haber apoyado al archiduque Carlos.</p>"
+   },
+   "ver_alli": [
+    "La torre de más de 20 m.",
+    "La puerta elevada a unos 8 m de altura.",
+    "El recinto amurallado cuadrado alrededor de la torre."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_las_Sitges",
+    "https://www.openstreetmap.org/way/196585692",
+    "https://www.wikidata.org/wiki/Q8342650"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castell-de-concabella",
+   "nombre": "Castell de Concabella",
+   "provincia": "Lleida",
+   "comarca": "Els Plans de Sió (Segarra)",
+   "lat": 41.7515,
+   "lon": 1.2349,
+   "tipo": "castillo",
+   "estilo": "Medieval y renacentista",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1040,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Es el castillo, o casa fortificada, <b>más grande de la Segarra</b>. Aparece por primera vez en <b>1040</b>, en el acta de consagración de la catedral de la Seu d'Urgell, y fue la casa de la familia <b>Concabella</b> desde mediados del siglo XI hasta el XIV.</p><p>En el siglo XVI la fortaleza medieval se convirtió en <b>palacio señorial</b>: planta cuadrada, fachada de <b>30 metros</b>, portalada noble, patio interior, ventanas renacentistas y dos torres cuadradas. Desde entonces y durante unos tres siglos fue de los <b>Erill</b>.</p><p>Las obras de restauración empezaron en 1991: se rehízo el tejado y se desmontó el café que en 1953 se había instalado en la fachada sur.</p><p class=\"dato\"><span>¿Sabías que…?</span>Un miembro del linaje, Pere de Concabella, fue abad de Poblet entre 1198 y 1204.</p>"
+   },
+   "ver_alli": [
+    "La fachada de 30 m con su portalada noble.",
+    "Las dos torres cuadradas.",
+    "Las ventanas renacentistas del patio."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Concabella",
+    "https://www.openstreetmap.org/way/1408334351",
+    "https://www.wikidata.org/wiki/Q8342284"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "el-bovalar",
+   "nombre": "El Bovalar",
+   "provincia": "Lleida",
+   "comarca": "Seròs (Segrià)",
+   "lat": 41.4551,
+   "lon": 0.427,
+   "tipo": "yacimiento",
+   "estilo": "Visigodo",
+   "epoca": "Visigodo",
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>En Seròs se excavó una <b>aldea de época visigoda</b>: casas de piedra apiñadas, normalmente de tres estancias, alrededor de un espacio común con almazara, bodegas e iglesia.</p><p>La iglesia es una <b>basílica de tres naves</b> de 26 por 12 m, con cabecera tripartita y, a los pies, un <b>baptisterio</b> con piscina cuadrada y un baldaquino sobre seis columnas. A su alrededor y en su interior se documentaron unas <b>70 tumbas</b>.</p><p>Un <b>gran incendio</b> destruyó el conjunto a comienzos del siglo VIII, en tiempos de la conquista musulmana: en el yacimiento aparecieron monedas de oro (tremises) del rey visigodo <b>Àkhila</b> acuñadas en Zaragoza. Se excavó entre 1943 y 1987.</p><p class=\"dato\"><span>¿Sabías que…?</span>El baldaquino del baptisterio se ha reconstruido con sus piezas originales en el Museu de Lleida.</p>"
+   },
+   "ver_alli": [
+    "La planta de la basílica y el baptisterio a sus pies.",
+    "Las casas de la aldea en torno al espacio común.",
+    "Completa la visita con el baptisterio reconstruido del Museu de Lleida."
+   ],
+   "fuentes": [
+    "https://www.enciclopedia.cat/del-roma-al-romanic/basilica-baptisteri-i-necropoli-del-bovalar-seros",
+    "https://es.wikipedia.org/wiki/El_Bovalar",
+    "https://www.openstreetmap.org/way/252396553",
+    "https://www.wikidata.org/wiki/Q8772854"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-maria-d-agramunt",
+   "nombre": "Iglesia de Santa Maria d'Agramunt",
+   "provincia": "Lleida",
+   "comarca": "Agramunt (Urgell)",
+   "lat": 41.7872,
+   "lon": 1.0991,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "anio": 1163,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Es uno de los grandes templos del <b>románico de la escuela de Lleida</b>. El edificio actual se levantó en el siglo XII, posiblemente a partir de <b>1163</b>, año de la carta de población de Ermengol VII, y hacia 1236 estaba casi acabado. Tiene tres naves y tres ábsides semicirculares.</p><p>Su joya es la <b>portada oeste</b>, de mediados del siglo XIII: <b>ocho arquivoltas</b> sobre dieciséis columnas a cada lado y, encima, un grupo en alto relieve con la <b>Virgen con el Niño</b>, la Anunciación y la Adoración de los Reyes. Una inscripción cuenta que lo pagaron los <b>tejedores</b> de la villa en <b>1283</b>.</p><p>El campanario es ya gótico, probablemente de finales del siglo XIV. Bajo la iglesia se conserva un refugio antiaéreo de la Guerra Civil.</p>"
+   },
+   "ver_alli": [
+    "Las ocho arquivoltas de la portada oeste.",
+    "El grupo de la Virgen pagado por los tejedores en 1283.",
+    "La portada norte, más sencilla, con decoración geométrica."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Santa_Maria_de_Agramunt",
+    "https://www.openstreetmap.org/way/741042388",
+    "https://www.wikidata.org/wiki/Q11947569"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "sant-serni-de-tavernoles",
+   "nombre": "Monasterio de Sant Serni de Tavèrnoles",
+   "provincia": "Lleida",
+   "comarca": "Les Valls de Valira (Alt Urgell)",
+   "lat": 42.3828,
+   "lon": 1.4582,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "anio": 1040,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Muy cerca de la Seu d'Urgell, en Anserall, quedan los restos de un monasterio de <b>origen visigodo</b> y estrechamente ligado al obispado de Urgell. Aquí estudió <b>Feliu d'Urgell</b>, abad entre 776 y 799 y obispo desde 782.</p><p>Vivió su esplendor en el siglo XI: su iglesia se consagró en <b>1040</b>. De ella se conserva la gran <b>cabecera</b>, con un ábside central que se abre a su vez en tres ábsides menores y un transepto rematado por grandes absidiolos, una planta poco común. Del claustro no queda nada y de la nave solo restos de muros.</p><p>Secularizado en 1592, sus tesoros se dispersaron: el <b>baldaquino y el frontal</b> de altar del siglo XII están en el MNAC de Barcelona, y algunos capiteles acabaron en Norteamérica. La restauración de la cabecera empezó en 1971.</p>"
+   },
+   "ver_alli": [
+    "La cabecera con sus ábsides escalonados.",
+    "Los restos de los muros de la nave.",
+    "El entorno del valle del Valira, junto a la Seu d'Urgell."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Saturnino_de_Tab%C3%A9rnolas",
+    "https://www.openstreetmap.org/way/394554383",
+    "https://www.wikidata.org/wiki/Q3849438"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-eugenia-d-argolell",
+   "nombre": "Iglesia de Santa Eugènia d'Argolell",
+   "provincia": "Lleida",
+   "comarca": "Les Valls de Valira (Alt Urgell)",
+   "lat": 42.4354,
+   "lon": 1.4468,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "anio": 1008,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>En el pequeño pueblo de Argolell, casi en la frontera de Andorra, esta iglesita románica aparece ya en una donación de <b>1008</b>. Es un edificio sencillo, de nave rectangular con techo de madera y un ábside semicircular liso; el campanario, de base cuadrada, se remata con un piso octogonal posterior.</p><p>Su fama viene de sus <b>pinturas murales</b> de hacia principios del siglo XII, emparentadas con el círculo del <b>Maestro de Pedret</b>. Tres fragmentos, con la <b>Virgen con el cáliz</b> y varios <b>apóstoles</b>, se conservan hoy en el Museu Nacional d'Art de Catalunya (MNAC).</p>"
+   },
+   "ver_alli": [
+    "El ábside semicircular y su ventana con restos de decoración pintada.",
+    "El campanario con su último piso octogonal.",
+    "Para ver las pinturas, el MNAC de Barcelona."
+   ],
+   "fuentes": [
+    "https://www.enciclopedia.cat/catalunya-romanica/santa-eugenia-dargolell-anserall",
+    "https://www.museunacional.cat/en/node/98362",
+    "https://www.openstreetmap.org/way/395221658"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "sant-climent-de-coll-de-nargo",
+   "nombre": "Iglesia de Sant Climent de Coll de Nargó",
+   "provincia": "Lleida",
+   "comarca": "Coll de Nargó (Alt Urgell)",
+   "lat": 42.1716,
+   "lon": 1.3131,
+   "tipo": "iglesia",
+   "estilo": "Románico lombardo",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Es un hermoso ejemplo de <b>románico lombardo</b> del Pirineo leridano. La iglesia se construyó probablemente a finales del siglo XI, pero reaprovechó la base de un campanario más antiguo, del siglo X como pronto.</p><p>Tiene <b>una sola nave</b> con bóveda de cañón y un ábside semicircular decorado con arcuaciones ciegas entre lesenas, la firma de los constructores lombardos. El <b>campanario</b>, adosado al norte, es su rasgo más llamativo: un alto basamento troncopiramidal, rematado por un piso con <b>ventanas triforadas</b> y cubierta piramidal de losas.</p><p>La restauraron en 1930-31 los Amics de l'Art Vell, dirigidos por <b>Cèsar Martinell</b>; entonces apareció, adosada al sur, una segunda iglesia que nunca se acabó.</p>"
+   },
+   "ver_alli": [
+    "El campanario y sus ventanas triforadas.",
+    "Las arcuaciones lombardas del ábside.",
+    "La ventana cruciforme de la fachada de poniente."
+   ],
+   "fuentes": [
+    "https://www.enciclopedia.cat/catalunya-romanica/sant-climent-de-coll-de-nargo",
+    "https://www.openstreetmap.org/way/199202364",
+    "https://www.wikidata.org/wiki/Q4993496"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-maria-d-arties",
+   "nombre": "Iglesia de Santa Maria d'Arties",
+   "provincia": "Lleida",
+   "comarca": "Naut Aran (Val d'Aran)",
+   "lat": 42.6979,
+   "lon": 0.8707,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Esta iglesia de Arties es una obra plenamente del <b>siglo XII</b>. Tiene planta basilical de <b>tres naves</b> divididas en cuatro tramos por arcos de medio punto; de sus tres ábsides, el central se perdió y fue sustituido por una sacristía.</p><p>Lo mejor está fuera: la <b>portada norte</b>, con seis arcos de medio punto y sin dintel, algo excepcional en el valle, decorada con ajedrezado y con canecillos con <b>cabezas humanas</b>. Por los aleros asoman máscaras, cabezas de perro, mono y león.</p><p>En época gótica se le añadió la esbelta <b>torre campanario</b> de cubierta piramidal, en el lado oeste.</p>"
+   },
+   "ver_alli": [
+    "La portada norte de seis arcos, sin dintel.",
+    "Los canecillos con caras y animales.",
+    "La torre gótica del campanario."
+   ],
+   "fuentes": [
+    "https://www.enciclopedia.cat/catalunya-romanica/santa-maria-darties-salardu",
+    "https://www.openstreetmap.org/way/400763305"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-eularia-d-unha",
+   "nombre": "Iglesia de Santa Eulàlia d'Unha",
+   "provincia": "Lleida",
+   "comarca": "Naut Aran (Val d'Aran)",
+   "lat": 42.7094,
+   "lon": 0.9022,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>En lo alto del pueblo de Unha, sobre Salardú, se alza esta iglesia románica del <b>siglo XII</b>. Tiene planta basilical de <b>tres naves</b> que convergen hacia levante, cada una cerrada por un ábside semicircular; las separan arcos de medio punto sobre pilares redondos.</p><p>Por fuera, la cabecera luce la clásica <b>decoración lombarda</b>: arquillos ciegos y friso en dientes de sierra. Sobre la puerta hay un <b>crismón</b> muy rudimentario. El campanario moderno, de cuerpo octogonal, se remata con una cubierta de base <b>bulbosa</b>.</p><p>Dentro guarda varias pilas de piedra: una bautismal de casi un metro de diámetro decorada con una cruz y una benditera con flor de lis, señal de influencia francesa.</p>"
+   },
+   "ver_alli": [
+    "La cabecera de tres ábsides con arquillos lombardos.",
+    "El crismón sobre la puerta.",
+    "La pila bautismal y la benditera con flor de lis."
+   ],
+   "fuentes": [
+    "https://www.enciclopedia.cat/catalunya-romanica/santa-eularia-dunha-salardu",
+    "https://www.openstreetmap.org/node/11224476037"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castell-de-guimera",
+   "nombre": "Castell y villa de Guimerà",
+   "provincia": "Lleida",
+   "comarca": "Guimerà (Urgell)",
+   "lat": 41.5652,
+   "lon": 1.186,
+   "tipo": "castillo",
+   "estilo": "Románico",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1077,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Guimerà es un <b>pueblo castral</b> que creció de arriba abajo desde el castillo hasta el río Corb, con calles estrechas y empinadas que siguen las curvas de nivel y pasan a menudo bajo las casas. El castillo se menciona con seguridad en <b>1077</b>.</p><p>Lo corona una <b>torre circular</b> de unos <b>20 m</b>, de los siglos XI o principios del XII, con muros de 2,4 m de grosor y la puerta a 6,5 m del suelo. Fue de los <b>Cervelló</b> y de su rama de los <b>Alemany</b>, y después de los Castre, los Pinós y los duques de Híjar.</p><p>La torre sufrió en la Primera Guerra Carlista (1835); en una foto de 1885 aún aparece entera y, según la tradición, se agrietó hacia 1905. Se consolidó en 1996.</p>"
+   },
+   "ver_alli": [
+    "La torre circular agrietada que domina el pueblo.",
+    "Las calles en zigzag y los pasajes cubiertos.",
+    "La rampa empedrada desde el patio de la iglesia."
+   ],
+   "fuentes": [
+    "https://www.enciclopedia.cat/EC-CATROM-2452801",
+    "https://www.openstreetmap.org/way/165024131",
+    "https://www.wikidata.org/wiki/Q17596244"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "catedral-de-solsona",
+   "nombre": "Catedral de Santa Maria de Solsona",
+   "provincia": "Lleida",
+   "comarca": "Solsona (Solsonès)",
+   "lat": 41.9944,
+   "lon": 1.5196,
+   "tipo": "iglesia",
+   "estilo": "Románico y gótico",
+   "epoca": "Gótico",
+   "anio": 1299,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Hubo aquí una iglesia románica consagrada en <b>1163</b>, de la que se conservan el ábside, dos absidiolos y la base del campanario. La catedral actual, <b>gótica</b>, se empezó en <b>1299</b>, se hizo sobre todo en el siglo XIV y no se terminó hasta <b>1630</b>, con el presbiterio.</p><p>Su gran tesoro es la <b>Mare de Déu del Claustre</b>, patrona de la ciudad: una talla de piedra de finales del siglo XII y <b>105 cm</b>, sentada con el Niño en el regazo y dos monstruos bajo los pies, atribuida al maestro <b>Gilabert de Toulouse</b>. Está considerada una de las esculturas más importantes del románico catalán.</p><p>En el siglo XVIII, por iniciativa del obispo Rafael Lasala, se hicieron el cancel y la puerta de Sant Agustí, a costa de la gran portada románica.</p>"
+   },
+   "ver_alli": [
+    "La Mare de Déu del Claustre, talla románica de piedra.",
+    "El ábside románico con su ventana de arquivoltas.",
+    "La nave gótica."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_de_Santa_Mar%C3%ADa_(Solsona)",
+    "https://www.openstreetmap.org/way/260441548",
+    "https://www.wikidata.org/wiki/Q2942509"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "sant-pere-del-burgal",
+   "nombre": "Monasterio de Sant Pere del Burgal",
+   "provincia": "Lleida",
+   "comarca": "La Guingueta d'Àneu (Pallars Sobirà)",
+   "lat": 42.546,
+   "lon": 1.1672,
+   "tipo": "iglesia",
+   "estilo": "Románico lombardo",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Junto a Escaló, en la Noguera Pallaresa, quedan la iglesia y los restos de este monasterio benedictino documentado en el <b>siglo IX</b>. La iglesia actual, del <b>siglo XI</b>, tiene tres naves y tres ábsides con arcos ciegos y lesenas lombardas.</p><p>Es famosa por sus <b>pinturas murales</b>, fechadas entre <b>1080 y 1090</b>: un Pantocrátor entre los arcángeles Miguel y Gabriel y, debajo, la Virgen con un cáliz rodeada de santos. En la parte baja aparece una dama con la inscripción «…cia comitissa», identificada con la condesa <b>Lucía de la Marca</b>, casada en 1085 con Artal I de Pallars: ese retrato es la clave para fecharlas.</p><p>Los originales están en el MNAC de Barcelona; en la iglesia se han colocado <b>reproducciones</b>.</p>"
+   },
+   "ver_alli": [
+    "La reproducción de las pinturas del ábside.",
+    "El retrato de la condesa Lucía en la parte baja.",
+    "Las arcuaciones lombardas de los ábsides."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Pedro_de_Burgal",
+    "https://www.openstreetmap.org/way/339878522",
+    "https://www.wikidata.org/wiki/Q9034420"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-maria-del-castell-de-cubells",
+   "nombre": "Iglesia de Santa Maria del Castell de Cubells",
+   "provincia": "Lleida",
+   "comarca": "Cubells (Noguera)",
+   "lat": 41.8515,
+   "lon": 0.9586,
+   "tipo": "iglesia",
+   "estilo": "Románico (escuela de Lleida)",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Es el único edificio que queda del antiguo <b>castillo de Cubells</b>, documentado desde el siglo XI. La iglesia, de nave única con bóveda apuntada y ábside semicircular, es del <b>siglo XIII</b>, y debió de encargarla la familia señorial.</p><p>Su gran atractivo es la <b>portada sur</b>, de la segunda mitad del siglo XIII: seis arquivoltas que copian las de <b>Agramunt</b>, dentro de la escuela de Lleida, y unas dovelas y capiteles labrados por un taller local de estilo muy personal. Allí aparecen estrellas, un águila, un <b>león</b> rampante en la clave, una serpiente, monstruos y hasta un <b>elefante con un castillo</b> a cuestas junto a un centauro.</p><p>En 1748 se alargó hacia poniente, y en el siglo XIX se le adosó un templo nuevo por el norte.</p>"
+   },
+   "ver_alli": [
+    "Las dovelas esculpidas de la portada sur.",
+    "El elefante con castillo y el centauro del friso.",
+    "Los capiteles del arco triunfal en el interior."
+   ],
+   "fuentes": [
+    "https://www.enciclopedia.cat/catalunya-romanica/santa-maria-del-castell-de-cubells",
+    "https://www.openstreetmap.org/way/188740674",
+    "https://www.wikidata.org/wiki/Q11947629"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "montfalco-murallat",
+   "nombre": "Montfalcó Murallat",
+   "provincia": "Lleida",
+   "comarca": "Les Oluges (Segarra)",
+   "lat": 41.6888,
+   "lon": 1.3397,
+   "tipo": "monumento",
+   "estilo": "Villa amurallada medieval",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>En la confluencia del río Sió y la riera de Vergós, Montfalcó es un diminuto <b>pueblo amurallado</b>. Sus <b>15 casas</b> se apiñan alrededor de una plaza central, con los tejados vertiendo hacia dentro, y sus muros traseros forman la muralla: no hay ni una construcción fuera del recinto.</p><p>A mediados del siglo XIX el diccionario de Madoz lo describía con las casas «encerradas en una muralla muy fuerte» y contaba 6 vecinos y 37 almas. Pertenecía a la jurisdicción del duque de Cardona y tiene iglesia parroquial dedicada a <b>Sant Pere</b>.</p>"
+   },
+   "ver_alli": [
+    "La iglesia de Sant Pere.",
+    "La plaza interior donde confluyen los tejados.",
+    "El perímetro exterior: las casas hacen de muralla."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Montfalc%C3%B3_Murallat",
+    "https://www.openstreetmap.org/node/2069154596",
+    "https://www.wikidata.org/wiki/Q9034853"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palau-de-la-paeria",
+   "nombre": "Palau de la Paeria",
+   "provincia": "Lleida",
+   "comarca": "Lleida (Segrià)",
+   "lat": 41.6146,
+   "lon": 0.6268,
+   "tipo": "monumento",
+   "estilo": "Gótico civil",
+   "epoca": "Gótico",
+   "anio": 1383,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>El ayuntamiento de Lleida ocupa un palacio del <b>siglo XIII</b> que fue residencia de los <b>Sanaüja</b>, señores de les Borges Blanques. En <b>1383</b> lo cedieron a la Paeria para que fuese sede del gobierno municipal, y lo sigue siendo.</p><p>La fachada es de <b>gótico catalán</b>: una puerta de medio punto que aún recuerda al románico, ventanas pequeñas en la primera planta que le dan aire defensivo y ventanales altos y estrechos con columnillas en la segunda. Sobre la puerta, tres escudos con la señera real.</p><p class=\"dato\"><span>¿Sabías que…?</span>El nombre de «paer» viene de un privilegio de Jaime I de 1264 a los antiguos cónsules de la ciudad; de ahí el título de «paer en cap».</p>"
+   },
+   "ver_alli": [
+    "Los ventanales con columnillas de la segunda planta.",
+    "Los tres escudos sobre la puerta.",
+    "La fachada principal y su aire defensivo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Palacio_de_la_Paeria",
+    "https://www.openstreetmap.org/way/288105598",
+    "https://www.wikidata.org/wiki/Q6744870"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "roca-moros",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Arte levantino y esquemático",
+    "lat": 41.4647,
+    "lon": 0.6973,
+    "ver_alli": [
+     "Centro de interpretación y visita al abrigo.",
+     "La visita es guiada y conviene reservar; el centro tiene además una sala de realidad virtual.",
+     "Busca la «danza» de las nueve mujeres y, junto a las pinturas, las inscripciones ibéricas y latinas grabadas siglos después.",
+     "Ciudad de Lleida, a unos 20 km."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Roca_dels_Moros",
+     "https://es.wikipedia.org/wiki/Roca_de_los_Moros"
+    ]
+   }
+  },
+  {
+   "id": "els-vilars",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Primera Edad del Hierro; ilergete",
+    "lat": 41.5686,
+    "lon": 0.9539,
+    "texto": {
+     "general": "<p>En plena llanura de les Garrigues, a unos 4 km de Arbeca, se levanta una de las fortificaciones más sorprendentes de la protohistoria peninsular: <b>Els Vilars</b>. La fundaron hace unos <b>2.700-2.800 años</b>, en la Primera Edad del Hierro, gentes de la cultura de los campos de urnas, antepasados de los íberos <b>ilergetes</b>. Vivieron en ella sin interrupción unos <b>cuatrocientos años</b>, hasta que la abandonaron de forma brusca hacia el 325 a. C., por motivos que aún se desconocen.</p><p>Es una fortaleza de <b>planta oval</b>, rodeada por una muralla de unos cinco metros de ancho y otros tantos de alto, con una docena de torres, y por un gran <b>foso</b> de unos 15 metros de anchura. Por delante, una barrera de <b>piedras hincadas</b> en el suelo (lo que los arqueólogos llaman <i>chevaux-de-frise</i>) frenaba a quien llegara a pie o a caballo. Solo dos pequeñas puertas daban acceso al interior.</p><p>Dentro, las casas rectangulares rodeaban una plaza presidida por un gran pozo o cisterna, clave en un lugar elegido precisamente para controlar el agua y las tierras aluviales. Allí vivía un centenar de personas. Se descubrió en 1975, se excava desde mediados de los años ochenta y desde 1998 es Bien Cultural de Interés Nacional.</p><p class=\"dato\"><span>¿Sabías que…?</span>Lo raro de Els Vilars es que se construyó en el llano y no en lo alto de un cerro, como la mayoría de poblados fortificados de su tiempo: su defensa dependía por completo de murallas, foso y piedras hincadas.</p>"
+    },
+    "ver_alli": [
+     "Visitas guiadas (con reserva).",
+     "Rodea el foso y fíjate en la barrera de piedras hincadas delante de la muralla.",
+     "En el centro del recinto, el gran pozo en torno al que se ordenaban las casas.",
+     "Se puede llegar a pie desde Arbeca por un camino junto al canal."
+    ],
+    "fuentes": [
+     "https://patrimoni.gencat.cat/en/node/1355",
+     "https://es.wikipedia.org/wiki/Vilars_de_Arbeca"
+    ]
+   }
+  },
+  {
+   "id": "moli-espigol",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Ibérico",
+    "lat": 41.709,
+    "lon": 1.0716,
+    "texto": {
+     "general": "<p>A poco más de un kilómetro de Tornabous, junto al canal d'Urgell, se extienden los restos de la mayor ciudad de los íberos <b>ilergetes</b> conocida en la llanura de Lleida. Los niveles más antiguos son de finales del siglo VI o inicios del V a. C., y el poblado vivió su apogeo en los siglos <b>IV y III a. C.</b>, cuando se calcula que llegó a tener unas <b>500 casas</b> y varios miles de habitantes. Se ha llegado a proponer que fuera la capital de los ilergetes.</p><p>La ciudad tenía un trazado de calles en <b>retícula</b>, algo que se ha relacionado con influencias del mundo griego, y hasta <b>cuatro murallas</b> de épocas distintas. En 1991 apareció la base de una torre que pudo alcanzar unos 9 metros de altura, un elemento llamativo en un lugar sin relieve. La ocupación ibérica terminó con la llegada de Roma, a finales del siglo III a. C., y el lugar quedó abandonado definitivamente a comienzos del siglo I a. C.</p><p>Descubierto en 1919, se excavó sobre todo entre 1970 y 1986. Desde el año 2000 lo gestiona el Museu d'Arqueologia de Catalunya y en 2009 fue declarado Bien Cultural de Interés Nacional. Un pequeño centro junto al recinto muestra parte de los materiales.</p>"
+    },
+    "ver_alli": [
+     "Yacimiento y centro de interpretación (Ruta dels Ibers).",
+     "Recorre las calles en cuadrícula y busca la base de la gran torre.",
+     "Hay visitas guiadas en fechas señaladas y, en octubre, un fin de semana ibérico con recreaciones."
+    ],
+    "fuentes": [
+     "https://museu.gramenet.cat/fileadmin/museu_torre_balldovina/Imatges_activitats/ProgramaCSI2020_Ruta_dels_Ibers.pdf",
+     "https://www.enciclopedia.cat/EC-GEC-0241649",
+     "https://www.festivalesdeespana.com/festival/cap-de-setmana-iberic-moli-d-espigol-tornabous"
+    ]
+   }
+  },
+  {
+   "id": "iesso",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Romano",
+    "lat": 41.7877,
+    "lon": 1.2899,
+    "texto": {
+     "general": "<p>Bajo la villa de Guissona y los campos que la rodean está <b>Iesso</b>, una ciudad romana citada por Plinio el Viejo y Ptolomeo. Roma la fundó a <b>principios del siglo I a. C.</b> (hacia el 100 a. C.) en un lugar donde antes solo había un pequeño hábitat, y la ciudad siguió viva sin interrupción hasta el Bajo Imperio. Llegó a ocupar unas <b>18 hectáreas</b>, más que la villa medieval y moderna, algo excepcional entre las ciudades romanas de Cataluña.</p><p>Tenía planta poligonal y calles en retícula. Se conservan un buen tramo de la <b>muralla</b> con su <b>puerta norte</b>, una de las calles principales, el cardo máximo, que debía medir unos 560 metros, y unas <b>termas</b> de los primeros tiempos de la ciudad. También se han excavado un barrio de casas con una <i>domus</i> señorial y un almacén de la Antigüedad tardía.</p><p>Su territorio abarcaba la actual Segarra y parte del Urgell. Las primeras excavaciones las hizo el Institut d'Estudis Catalans en 1933 y los trabajos continúan hoy; de sus necrópolis han salido piezas como un jinete de bronce y una lápida con una inscripción latina en verso.</p>"
+    },
+    "ver_alli": [
+     "Parque arqueológico y museo de Guissona.",
+     "En el parque: la puerta norte con la muralla, las termas y el barrio de casas.",
+     "El Museu Eduard Camps i Cava hace de centro de interpretación y guarda los hallazgos."
+    ],
+    "fuentes": [
+     "https://icac.cat/recerca/projectes-de-recerca/projecte/recerca-arqueologica-a-iesso-guissona/?pdf=665",
+     "https://es.wikipedia.org/wiki/Iesso",
+     "https://femturisme.cat/rutes/ruta-pel-patrimoni-de-guissona"
+    ]
+   }
+  },
+  {
+   "id": "sant-climent-de-taull",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico lombardo",
+    "lat": 42.5174,
+    "lon": 0.8486,
+    "texto": {
+     "general": "<p>A la entrada de Taüll se alza la iglesia más famosa del románico catalán. Fue <b>consagrada el 10 de diciembre de 1123</b>, como recuerda una inscripción pintada en una de sus columnas, hoy en el Museu Nacional d'Art de Catalunya (MNAC). Desde el año 2000 forma parte de las iglesias románicas del Vall de Boí declaradas <b>Patrimonio Mundial</b> por la UNESCO.</p><p>Es una <b>basílica de tres naves</b> separadas por columnas cilíndricas, con techumbre de madera y una cabecera de tres ábsides decorados por fuera con arquillos ciegos y frisos de dientes de sierra, la típica decoración lombarda. Junto a la cabecera, exenta, se levanta su esbelta <b>torre de seis pisos</b>.</p><p>El ábside central estaba cubierto por el célebre <b>Pantocrátor</b>, un Cristo en majestad dentro de una mandorla, obra del anónimo <b>Maestro de Taüll</b>. Las pinturas se arrancaron entre 1919 y 1923 y se llevaron a Barcelona, donde se exponen en el MNAC. En la iglesia, un <b>videomapping</b> recrea sobre el ábside y el presbiterio las pinturas tal como eran en 1123.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "El videomapping que «repinta» el ábside con el Pantocrátor original.",
+     "Sube al campanario de seis pisos: hay vistas a Santa Maria de Taüll y al valle.",
+     "Desde fuera, la cabecera con sus tres ábsides lombardos."
+    ],
+    "fuentes": [
+     "https://www.centreromanic.com/en/visit/",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Clemente_(Tahull)",
+     "https://www.centreromanic.com/en/video-mapping/"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-de-taull",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico lombardo",
+    "lat": 42.5202,
+    "lon": 0.8473,
+    "texto": {
+     "general": "<p>En el centro del casco viejo de Taüll, rodeada de casas, está la otra gran iglesia del pueblo. Fue <b>consagrada el 11 de diciembre de 1123</b>, un día después que Sant Climent, por el obispo Ramon Guillem de Roda-Barbastro: dos consagraciones seguidas que muestran el poder de los señores de Erill en el valle. Forma parte del conjunto románico del Vall de Boí, <b>Patrimonio Mundial</b>.</p><p>Es una basílica de <b>tres naves</b> con cabecera de tres ábsides de decoración lombarda, en los que aparecen unos círculos concéntricos que no se ven en ninguna otra iglesia del valle. El campanario está integrado en el edificio, a los pies de la nave norte. En el siglo XVIII fue reformada al gusto barroco y en los años setenta del siglo XX se le devolvió el aspecto románico.</p><p>Sus pinturas murales se arrancaron en varias campañas (1919-1923, 1960 y 1971) y hoy están en el MNAC. En el ábside presidía la <b>Epifanía</b>: la Virgen en el trono con el Niño y los Reyes Magos ofreciendo sus dones. En la iglesia se pueden ver reproducciones del ábside y del muro sur, y en 2024 volvió a su sitio un fragmento original, el <b>Baño del Niño Jesús</b>.</p>"
+    },
+    "ver_alli": [
+     "Gratuita.",
+     "Las reproducciones de la Epifanía del ábside y del muro sur.",
+     "El fragmento original del Baño del Niño Jesús, sobre una columna del sureste.",
+     "Las tres pilas románicas y, por fuera, el campanario y los ábsides lombardos."
+    ],
+    "fuentes": [
+     "https://www.centreromanic.com/en/visit/",
+     "https://www.centreromanic.com/en/church/santa-maria-de-taull/",
+     "https://es.wikipedia.org/wiki/Iglesia_de_Santa_María_(Tahull)"
+    ]
+   }
+  },
+  {
+   "id": "sant-joan-de-boi",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico lombardo",
+    "lat": 42.5224,
+    "lon": 0.8336,
+    "texto": {
+     "general": "<p>Esta pequeña iglesia del pueblo de Boí es contemporánea de las demás del valle y seguramente obra de los mismos constructores. Es una <b>basílica de tres naves</b>, con cubierta de madera a dos aguas, ábside central y dos absidiolos. Fue declarada monumento histórico-artístico en 1962 y en el año 2000 entró en la lista de <b>Patrimonio Mundial</b> con el resto del Vall de Boí.</p><p>Sus paredes, por dentro y por fuera, estaban cubiertas de pinturas al fresco del llamado <b>Maestro de Boí</b>, que se arrancaron y llevaron al MNAC. Entre sus temas están la <b>lapidación de san Esteban</b>, el primer mártir cristiano, las profecías de Daniel, un bestiario con animales fantásticos (uno lleva una flor de lis en la boca) y unos <b>juglares</b>. Dentro de la iglesia hay una reproducción.</p><p>Un incendio en el siglo XIII dañó gravemente el campanario, que perdió sus tres cuerpos superiores: hoy solo quedan los tres inferiores, con la misma decoración lombarda de arquillos ciegos que las otras torres del valle. También están en el MNAC cuatro tallas de un Descendimiento y un frontal de altar del siglo XIII dedicado a san Pedro.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "La reproducción de las pinturas: la lapidación de san Esteban y los juglares.",
+     "Por fuera, el campanario truncado tras el incendio del siglo XIII."
+    ],
+    "fuentes": [
+     "https://www.centreromanic.com/en/church/sant-joan-de-boi/",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Juan_de_Boí"
+    ]
+   }
+  },
+  {
+   "id": "santa-eulalia-d-erill-la-vall",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico lombardo",
+    "texto": {
+     "general": "<p>La iglesia de Erill la Vall, el pueblo de los señores de Erill, ya aparece en un documento de 1064. Se construyó en el siglo XI y se amplió en el XII, cuando se alargó la nave y se levantaron el campanario y el pórtico. Es una <b>nave única</b> muy alargada con cabecera de tres ábsides, y forma parte del conjunto románico del Vall de Boí, <b>Patrimonio Mundial</b> desde el año 2000.</p><p>Lo más llamativo es su <b>campanario lombardo de seis pisos</b>, esbelto y decorado con arquillos ciegos y frisos de dientes de sierra, alineado con las torres de Sant Joan de Boí y Sant Climent de Taüll: servían también para comunicarse y vigilar el valle. En el lado norte se añadió un <b>pórtico</b> con arcos sobre columnas.</p><p>Aquí se halló en 1907 el <b>Descendimiento de Erill</b>, un grupo de siete tallas de madera del siglo XII, el único conjunto completo que se conserva del taller de Erill. Los originales están repartidos entre el Museu Episcopal de Vic y el MNAC (la Virgen y san Juan); en la iglesia se expone una copia.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "La copia del Descendimiento, con sus siete figuras.",
+     "El pórtico norte y la pila bautismal románica de piedra.",
+     "El campanario de seis pisos, mejor visto desde el camino que baja al río."
+    ],
+    "fuentes": [
+     "https://www.centreromanic.com/en/visit/",
+     "https://www.wikidata.org/wiki/Q1589509",
+     "https://centreromanic.com/en/?p=6649",
+     "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Eulalia_(Erill_la_Vall)",
+     "https://museuartmedieval.cat/en/colleccions/romanesque/the-descent-from-the-cross-from-erill-la-vall-mev-4229"
+    ]
+   }
+  },
+  {
+   "id": "monestir-de-vallbona",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico y gótico (cisterciense)",
+    "lat": 41.5246,
+    "lon": 1.0882,
+    "texto": {
+     "general": "<p>Vallbona es el monasterio <b>cisterciense femenino</b> más importante de Cataluña y, con Poblet y Santes Creus, forma la Ruta del Císter. Nació en <b>1153</b> como una comunidad mixta de ermitaños fundada por Ramon de Vallbona; en 1175 solo quedaban mujeres, que adoptaron la regla del Císter. Desde entonces ha tenido <b>comunidad de monjas sin interrupción</b>, salvo durante la Guerra Civil.</p><p>Recibió el favor de los reyes y de la nobleza catalana: Alfonso II y Jaime I se alojaron aquí, y en el siglo XIV llegó a tener 150 religiosas. La reina <b>Violante de Hungría</b>, esposa de Jaime I, eligió ser enterrada en el monasterio, del que era benefactora.</p><p>La iglesia, levantada entre los siglos XII y XIV, muestra el paso del románico al gótico: planta de cruz latina con una sola nave y un <b>cimborrio octogonal</b> del siglo XIII sobre el crucero. La portada norte tiene un tímpano con la Virgen y el Niño rodeados de ángeles. El claustro mezcla obras de los siglos XII al XV, y en la sala capitular yacen varias abadesas.</p>"
+    },
+    "ver_alli": [
+     "Visita guiada.",
+     "El cimborrio octogonal sobre el crucero y la portada norte con la Virgen.",
+     "El claustro, con galerías de épocas distintas.",
+     "La sala capitular y la Virgen del Claustro, talla románica de piedra."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santa_María_(Vallbona_de_les_Monges)",
+     "https://en.wikipedia.org/wiki/Violant_of_Hungary"
+    ]
+   }
+  },
+  {
+   "id": "seu-vella-de-lleida",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico tardío y gótico",
+    "lat": 41.6179,
+    "lon": 0.6265,
+    "texto": {
+     "general": "<p>La catedral vieja de Lleida domina la ciudad desde lo alto del cerro de la Seu Vella, donde antes estuvo la mezquita mayor, consagrada como catedral tras la conquista cristiana de 1149. La nueva catedral la diseñó el maestro <b>Pere de Coma</b>, y la primera piedra se colocó el <b>22 de julio de 1203</b>, en presencia del rey Pedro el Católico. Fue <b>consagrada en 1278</b>.</p><p>Es un templo de transición: planta y formas románicas con bóvedas de crucería góticas. Sus portadas y capiteles crearon un taller propio, la llamada <b>Escuela de Lleida</b>. La nave central mide unos 70 metros de largo y 19 de alto. Entre los siglos XIII y XV se añadieron el gran <b>claustro</b>, con una galería abierta como mirador sobre la ciudad, el campanario y la puerta de los Apóstoles.</p><p>En 1707, tras la conquista de Lleida por las tropas de Felipe V, se convirtió en <b>cuartel</b> y dejó de tener culto. El ejército la cedió en 1948 y al año siguiente empezó su restauración. Paradójicamente, ese uso militar evitó reformas posteriores y conservó su estilo original.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "El claustro y su galería mirador sobre Lleida y el Segrià.",
+     "Los capiteles y portadas de la Escuela de Lleida, como la puerta dels Fillols.",
+     "Se puede subir al campanario."
+    ],
+    "fuentes": [
+     "https://www.turoseuvella.cat/es/servicios-y-horarios/visites-guiades",
+     "https://es.wikipedia.org/wiki/Seo_Vieja_(Lérida)"
+    ]
+   }
+  },
+  {
+   "id": "sant-feliu-de-barruera",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico lombardo",
+    "lat": 42.504,
+    "lon": 0.8024,
+    "texto": {
+     "general": "<p>Sant Feliu es la iglesia parroquial de Barruera, cabeza del Vall de Boí, y una de las iglesias románicas del valle declaradas <b>Patrimonio Mundial</b>. Está algo apartada del núcleo histórico, del que la separa hoy la carretera, en la partida de les Gavarreres.</p><p>Ya aparece en documentos del monasterio de Lavaix de 1072 y 1103. Se construyó en el siglo XI y se transformó muchas veces después. Es de <b>una sola nave</b> con bóveda de cañón y ábside semicircular; pronto se le añadió un segundo ábside al sur, con un brazo de crucero que debía dar al templo forma de cruz latina, aunque el ábside norte nunca llegó a existir.</p><p>En los años setenta se derribaron añadidos y se liberó la cabecera para devolverle su aspecto románico. Sus documentos reflejan el curioso sistema de los <b>correctores</b> del valle: sacerdotes que debían ser hijos del Vall de Boí y que se turnaban cada año como párroco.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "La cabecera con sus dos ábsides lombardos.",
+     "El campanario y la nave cubierta con bóveda de cañón."
+    ],
+    "fuentes": [
+     "https://museucatedralseudurgell.org/en/territori/sant-feliu-de-barruera",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Félix_(Barruera)"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-de-cardet",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico lombardo",
+    "lat": 42.4978,
+    "lon": 0.786,
+    "texto": {
+     "general": "<p>La iglesia de Cardet, también llamada Santa Maria de les Cabanasses, está en el extremo del pueblo, al borde de un barranco. Su parte más antigua, del siglo XI, son el muro sur y parte del oeste; hacia 1123 se rehízo con el ábside y la cubierta de la nave, y en el siglo XVIII tuvo nuevas reformas. Forma parte de las iglesias del Vall de Boí declaradas <b>Patrimonio Mundial</b>.</p><p>El fuerte desnivel obligó a construir el ábside en dos plantas: la de la nave y, debajo, una <b>cripta</b>, la única conocida en el valle, a la que se baja por un pasillo estrecho desde el centro de la nave. Por eso su ábside es mucho más alto que los de las demás iglesias. Por fuera luce la decoración lombarda de arquillos ciegos y dientes de sierra, y sobre la fachada oeste se alza una espadaña.</p><p>Dentro se venera la imagen de la Mare de Déu de les Cabanasses, del siglo XIV. Su frontal de altar del siglo XIII, con la Virgen en una mandorla rodeada por el Tetramorfos, está en el MNAC.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "Baja a la cripta, única en el valle.",
+     "Mira el ábside desde el barranco para entender su altura.",
+     "En el pórtico, el crismón tallado de forma tosca."
+    ],
+    "fuentes": [
+     "https://www.centreromanic.com/",
+     "https://es.wikipedia.org/wiki/Iglesia_de_Santa_María_(Cardet)",
+     "https://www.enciclopedia.cat/catalunya-romanica/santa-maria-de-cardet-la-vall-de-boi"
+    ]
+   }
+  },
+  {
+   "id": "assumpcio-de-coll",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico lombardo",
+    "lat": 42.4721,
+    "lon": 0.7726,
+    "texto": {
+     "general": "<p>En el pequeño pueblo de Cóll, junto al cementerio, está esta iglesia del siglo XII, construida con sillares bien labrados y <b>consagrada en 1110</b>. Forma parte de las iglesias románicas del Vall de Boí, <b>Patrimonio Mundial</b> desde el año 2000.</p><p>Tiene una sola nave con dos capillas laterales y bóveda de cañón, y un ábside con decoración lombarda. Su <b>portada</b> oeste tiene cuatro arquivoltas rodeadas de ajedrezado, capiteles historiados y vegetales y, en la clave, un <b>crismón</b> considerado el más bello del valle, con dos palomas y dos cabecitas humanas, una de ellas tocando un cuerno de caza.</p><p>La puerta de madera conserva sus <b>herrajes de forja medievales</b>. La torre, de cuatro cuerpos, se alza sobre la capilla sur; los dos últimos se rehicieron en época gótica. Su frontal de altar románico se guarda en el Museu Episcopal de Vic.</p>"
+    },
+    "ver_alli": [
+     "Con entrada (abre en temporadas concretas).",
+     "El crismón de la portada, con palomas y un cazador con cuerno.",
+     "Los herrajes medievales de la puerta."
+    ],
+    "fuentes": [
+     "https://www.centreromanic.com/",
+     "https://es.wikipedia.org/wiki/Iglesia_de_Santa_María_de_la_Asunción_(Coll)"
+    ]
+   }
+  },
+  {
+   "id": "nativitat-de-durro",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico lombardo",
+    "lat": 42.4982,
+    "lon": 0.8207,
+    "texto": {
+     "general": "<p>La iglesia de Durro forma parte del conjunto románico declarado <b>Patrimonio Mundial</b>. Es contemporánea de las de Taüll, Boí y Erill la Vall, y probablemente obra de los mismos constructores. Tiene una sola nave larga con bóveda de cañón sobre arcos fajones, construida con sillares bien escuadrados.</p><p>En el muro sur se adosó en la segunda mitad del siglo XII un <b>porche</b> que protege la portada, con dos arquivoltas, ajedrezado y un <b>crismón</b> acompañado de dos pájaros enfrentados y dos animales, quizá un buey y un león. El <b>campanario</b>, de cinco pisos con arquillos ciegos sobre un gran zócalo, se levanta en el ángulo nordeste.</p><p>Tuvo un Descendimiento de madera emparentado con el de Erill: la Virgen está en el MNAC, el Cristo ardió en 1936 y dentro de la iglesia se expone la figura de Nicodemo. Sobre el pueblo, a unos 1.500 metros de altitud, está la ermita de <b>Sant Quirc</b>, del siglo XII.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "El porche medieval y el crismón de la portada sur.",
+     "La talla de Nicodemo, superviviente del antiguo Descendimiento.",
+     "Paseo de 1,5 km hasta la ermita de Sant Quirc, con vistas al valle."
+    ],
+    "fuentes": [
+     "https://www.centreromanic.com/",
+     "https://es.wikipedia.org/wiki/Iglesia_de_la_Natividad_de_la_Virgen_(Durro)",
+     "https://www.vallboi.cat/en/node/236"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-la-seu-d-urgell",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico (italianizante)",
+    "lat": 42.3578,
+    "lon": 1.462,
+    "texto": {
+     "general": "<p>La catedral de Santa Maria es la <b>única catedral íntegramente románica de Cataluña</b>. Es la tercera levantada en este mismo lugar: las obras del edificio actual empezaron con el obispo Ot (1116-1122) y, tras un parón, en <b>1175</b> se contrató al maestro <b>Ramon Lambard</b>, que se comprometió a cerrar las bóvedas, alzar los campanarios y acabar el cimborrio en siete años.</p><p>Su aire es muy italiano, sobre todo en la decoración de la fachada y en la <b>galería abierta</b> que recorre la cabecera. Preside el altar mayor la <b>Mare de Déu d'Urgell</b>, talla románica del siglo XIII. Desde la catedral se pasa al <b>claustro</b>, con capiteles de talleres del Rosellón, y a la iglesia de Sant Miquel.</p><p>El Museu Diocesà d'Urgell guarda una de sus grandes joyas: el <b>Beato de la Seu d'Urgell</b>, un manuscrito iluminado del último cuarto del siglo X con los comentarios al Apocalipsis. Fue robado en 1996 y recuperado en 1997.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "La galería de la cabecera, vista desde fuera.",
+     "El claustro y sus capiteles.",
+     "En el museo diocesano, el Beato del siglo X."
+    ],
+    "fuentes": [
+     "https://museucatedralseudurgell.org/",
+     "https://es.wikipedia.org/wiki/Catedral_de_Santa_María_(Urgel)",
+     "https://museucatedralseudurgell.org/en/obra/urgell-beatus"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-d-organya",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico y gótico",
+    "lat": 42.2113,
+    "lon": 1.3287,
+    "texto": {
+     "general": "<p>La iglesia de Santa Maria de Organyà aparece en los documentos desde el año 993. El <b>5 de junio de 1090</b> se consagró un nuevo edificio, a petición de los señores de Caboet, para una comunidad de <b>canónigos agustinos</b>. Fue colegiata hasta mediados del siglo XIX.</p><p>Hoy es un edificio de tres naves muy rehecho a lo largo de los siglos. Del románico se conserva el <b>ábside</b> semicircular de principios del siglo XII, con un friso de arcos dobles. La fachada oeste, probablemente del siglo XIII, tiene un campanario en la esquina, una galería de ocho arcos y una portada de tres arcos apuntados con escultura tardía de los siglos XIII-XIV.</p><p>En el archivo de esta canónica apareció en <b>1904</b> uno de los grandes tesoros de la lengua catalana: las <b>Homilies d'Organyà</b>, unos sermones de finales del siglo XII o principios del XIII, considerados el texto literario más antiguo conservado en catalán. Los dio a conocer el historiador Joaquim Miret i Sans. El original está en la Biblioteca de Catalunya y en Organyà se expone una réplica.</p>"
+    },
+    "ver_alli": [
+     "Exterior libre.",
+     "El ábside románico, hecho en parte con toba, una piedra ligera y amarillenta.",
+     "La portada y la galería de la fachada oeste.",
+     "Junto a la iglesia, el espacio de las Homilies, con una réplica del manuscrito."
+    ],
+    "fuentes": [
+     "https://www.enciclopedia.cat/catalunya-romanica/santa-maria-dorganya",
+     "https://es.wikipedia.org/wiki/Homilías_de_Organyà",
+     "https://www.eltemps.cat/documents/el-temps_2002_08_0949_0046_0048.pdf"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-de-covet",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "texto": {
+     "general": "<p>En el pequeño pueblo de Covet, en la Conca Dellà, se esconde una de las iglesias más ricas del románico catalán. Se construyó en el siglo XII y fue declarada Monumento Nacional en 1921. Es de una sola nave con bóveda apuntada, crucero bajo con un pequeño ábside en cada brazo y ábside semicircular.</p><p>Su gran tesoro es la <b>portada esculpida</b>, de mediados del siglo XII (entre 1150 y 1160, según los especialistas), protegida por un tejadillo sobre canecillos. En el tímpano, <b>Cristo en majestad</b> dentro de una mandorla sostenida por un serafín y un querubín, con los símbolos de los evangelistas. En las arquivoltas desfilan Adán y Eva tras el pecado, Daniel entre los leones, músicos, acróbatas, doce ángeles y <b>doce dovelas con los signos del zodiaco</b>.</p><p>La fachada tiene un rosetón y dos torrecillas con escaleras de caracol que suben a una tribuna interior abierta a la nave, emparentada con la galería de la catedral de la Seu d'Urgell. Bajo la cornisa del ábside, una treintena de canecillos muestran cabezas grotescas, músicos y acróbatas.</p>"
+    },
+    "ver_alli": [
+     "Concertada.",
+     "Lee la portada: el Cristo en majestad, Adán y Eva, Daniel y el zodiaco.",
+     "Los canecillos del ábside, con músicos y acróbatas.",
+     "Dentro, la tribuna a los pies de la nave."
+    ],
+    "fuentes": [
+     "https://museucatedralseudurgell.org/en/territori/santa-maria-de-covet",
+     "https://www.wikidata.org/wiki/Q3585188",
+     "https://www.enciclopedia.cat/catalunya-romanica/santa-maria-de-covet-isona"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-de-mur",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico lombardo",
+    "lat": 42.1042,
+    "lon": 0.8583,
+    "texto": {
+     "general": "<p>Junto al castillo de Mur, en lo alto de una loma del Pallars Jussà, está esta antigua canónica fundada por los condes de Pallars Jussà <b>Ramon IV y Valença</b> y consagrada en <b>1069</b>. Tras la muerte del conde se instaló aquí una comunidad de canónigos agustinos, que vivió en el lugar hasta su secularización en 1592. Castillo y monasterio, rodeados por una muralla, formaban una gran fortificación.</p><p>La iglesia es <b>románica lombarda</b>, de tres naves con bóveda de cañón y tres ábsides semicirculares. A su lado se conserva un <b>claustro</b> del siglo XII, restaurado tras haber sufrido un fuerte expolio.</p><p>Sus pinturas murales corrieron peor suerte: las del ábside central se arrancaron en <b>1919</b> y se vendieron a un anticuario pese a la intervención de la Junta de Museos de Cataluña; hoy están en el <b>Museo de Bellas Artes de Boston</b>. Las de la capilla sur están en el MNAC. Aquel escándalo hizo reaccionar a Barcelona, que puso en marcha la campaña para salvar las pinturas románicas del Pirineo. In situ solo quedan pequeños restos.</p>"
+    },
+    "ver_alli": [
+     "Con entrada o concertada.",
+     "El claustro románico.",
+     "Los restos de pintura que quedan en el ábside.",
+     "El castillo de Mur, a pocos metros."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santa_María_de_Mur",
+     "https://es.wikipedia.org/wiki/Iglesia_de_Santa_María_(Tahull)"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-de-gerri",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.3222,
+    "lon": 1.0666,
+    "texto": {
+     "general": "<p>Al otro lado del puente de Gerri de la Sal, a orillas del Noguera Pallaresa, se alza este antiguo monasterio benedictino. Sus orígenes se remontan al año 807; en el siglo X pasó a la advocación de Santa Maria y llegó a ser el <b>monasterio más rico del obispado de Urgell</b>. El obispo san Ot de Urgell murió aquí en 1122 y aquí tiene su tumba. Fue exclaustrado en 1835.</p><p>Del conjunto monástico solo queda la <b>iglesia</b> del siglo XII, con su atrio o pórtico de entrada; del resto, apenas ruinas. Es una basílica de tres naves con tres ábsides, y dentro guarda unos <b>treinta capiteles</b> labrados con hojas, animales fantásticos, monstruos, ángeles y personajes con leones o serpientes.</p><p>La portada oeste tiene tres arquivoltas sobre una imposta ajedrezada, y sobre la fachada se alza una gran <b>espadaña</b> de tres pisos con arcos trilobulados. El pueblo vivió durante siglos de la sal: el Reial Alfolí, donde se almacenaba, alberga hoy un museo.</p>"
+    },
+    "ver_alli": [
+     "Exterior libre.",
+     "Cruza el puente desde el pueblo hasta el monasterio.",
+     "La espadaña de tres pisos y el pórtico de la fachada.",
+     "Dentro (si está abierto), los capiteles; en el pueblo, las salinas y el Reial Alfolí."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santa_María_de_Gerri",
+     "https://patrimoni.gencat.cat/en/node/1446"
+    ]
+   }
+  },
+  {
+   "id": "assumpcio-de-bossost",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.7858,
+    "lon": 0.6922,
+    "texto": {
+     "general": "<p>La iglesia parroquial de Bossòst, dedicada en realidad a la <b>Purificació de Maria</b> (Era Mair de Diu dera Purificacion, en aranés), está en el centro del pueblo, a orillas del Garona. Se considera el edificio más destacado del románico del Val d'Aran y uno de los mejor conservados: mantiene casi intacta su estructura de la segunda mitad del siglo XII.</p><p>Es una <b>basílica de tres naves</b> separadas por pilares cilíndricos, con tres ábsides semicirculares. El campanario, cuadrado y de tres pisos, se adosa al muro norte junto a la cabecera y quizá es algo anterior a la nave.</p><p>Tiene dos portadas con <b>tímpano esculpido</b>. La norte, la más rica, muestra a Cristo en majestad rodeado de los símbolos de los cuatro evangelistas, con dos máscaras que representan el sol y la luna, y un crismón en el dintel. La sur, algo más tardía, tiene en el tímpano un crismón con la S invertida. Dentro se conserva una pila bautismal de finales del siglo XII.</p>"
+    },
+    "ver_alli": [
+     "Libre.",
+     "El tímpano de la portada norte, con el sol y la luna.",
+     "El crismón del tímpano sur.",
+     "Dentro, las tres naves y la pila bautismal románica."
+    ],
+    "fuentes": [
+     "https://www.visitvaldaran.com/en/2015/06/08/",
+     "https://www.enciclopedia.cat/catalunya-romanica/era-purificacion-de-maria-de-bossost",
+     "https://www.enciclopedia.cat/catalunya-romanica/era-assumpcion-de-maria-de-bossost"
+    ],
+    "nombre": "Purificació de Maria de Bossòst"
+   }
+  },
+  {
+   "id": "sant-andreu-de-salardu",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico de transición y gótico",
+    "lat": 42.7075,
+    "lon": 0.902,
+    "texto": {
+     "general": "<p>En la parte alta de Salardú, en el Naut Aran, se levanta esta iglesia de transición entre el románico y el gótico, construida probablemente hacia mediados del siglo XIII. Es de <b>tres naves</b> que terminan en tres ábsides semicirculares; la central tiene bóveda apuntada.</p><p>La portada sur tiene columnas y capiteles con motivos vegetales y un crismón encima. En el siglo XV se le añadió en la esquina suroeste un esbelto <b>campanario octogonal</b>, con saeteras que le dan un aire defensivo. Por dentro, las paredes conservan en parte <b>pinturas murales</b>.</p><p>Su gran tesoro es el <b>Cristo de Salardú</b>, una talla románica de madera policromada que preside el altar mayor. Se atribuye al taller de Erill y se fecha en el <b>siglo XII</b>, en la etapa más madura de ese maestro.</p>"
+    },
+    "ver_alli": [
+     "Libre o con entrada.",
+     "El Cristo de Salardú en el altar mayor.",
+     "Las pinturas murales del interior.",
+     "El campanario octogonal, visible desde todo el pueblo."
+    ],
+    "fuentes": [
+     "https://www.visitvaldaran.com/en/2015/06/08/",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Andrés_(Salardú)",
+     "https://www.enciclopedia.cat/catalunya-romanica/sant-andreu-de-salardu"
+    ]
+   }
+  },
+  {
+   "id": "universidad-de-cervera",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Barroco y neoclásico",
+    "lat": 41.6706,
+    "lon": 1.2743,
+    "texto": {
+     "general": "<p>Después de la guerra de Sucesión, Felipe V cerró las <b>siete universidades catalanas</b> (Barcelona, Lleida, Girona, Tarragona, Vic, Solsona y la Seu d'Urgell) y creó una sola en <b>Cervera</b>, una villa pequeña que le había sido fiel durante el conflicto. El decreto que la eligió es de 1717, y la nueva universidad tuvo además el monopolio de la edición de los libros de enseñanza.</p><p>El enorme edificio se construyó entre <b>1718 y 1740</b>, sobre un proyecto inicial de Francesc Soriano ejecutado por Miguel Marín. Es de planta rectangular: la gran <b>fachada principal</b> es barroca, mientras que la fachada interior, de una segunda etapa, es ya neoclásica.</p><p>Albergó las facultades de Teología, Humanidades, Medicina, Filosofía y Derecho, y por sus aulas pasaron el humanista Josep Finestres, Narcís Monturiol, el general Prim y el filósofo Jaume Balmes. Funcionó hasta <b>1842</b>, cuando la universidad se trasladó a Barcelona.</p>"
+    },
+    "ver_alli": [
+     "Visitas.",
+     "La gran fachada barroca de la calle.",
+     "El patio interior con su fachada neoclásica."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Universidad_de_Cervera"
+    ]
+   }
+  },
+  {
+   "id": "museu-conca-della",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de paleontología y arqueología",
+    "lat": 42.1172,
+    "lon": 1.0439
+   }
+  },
+  {
+   "id": "montsec-vilanova-meia",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Centro de interpretación paleontológica",
+    "lat": 41.9953,
+    "lon": 1.0242
+   }
+  },
+  {
+   "id": "geoparque-origens",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Geología y paleontología (centro de visitantes)",
+    "fuentes": [
+     "https://www.geoparcorigens.cat/en/geoparc-origens/",
+     "https://www.geoparcorigens.cat/en/activity/epicentre/",
+     "https://www.catalannews.com/culture/item/unesco-declares-conca-de-tremp-montsec-a-global-geopark",
+     "https://www.escapadaambnens.com/es/actividad/782/epicentro-el-centro-de-visitantes-del-pallars-jussa/"
+    ]
+   }
+  }
+ ]
+}

@@ -97,6 +97,52 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] des-ninive · La biblioteca de Asurbanipal
 - [ ] des-ishtar · La Puerta de Ishtar
 
+### Edad Antigua · capítulo 4
+- [ ] ant4-0 · La Grecia clásica
+- [ ] ant4-1 · Alejandro Magno y el helenismo
+- [ ] ant4-2 · Roma: de la República al dominio del mundo
+- [ ] ant4-3 · Hispania romana: conquista y romanización
+- [ ] ant4-5 · China: Qin y Han
+- [ ] ant4-6 · India: el Imperio Maurya
+- [ ] ant4-7 · Y mientras tanto…
+- [ ] ant4-9 · Pericles y la Acrópolis
+- [ ] ant4-10 · Sócrates, Platón y Aristóteles
+- [ ] ant4-11 · Aníbal y las guerras púnicas
+- [ ] ant4-12 · Numancia
+- [ ] ant4-13 · Viriato y los lusitanos
+- [ ] ant4-14 · Julio César
+- [ ] ant4-15 · Darío I y Persépolis
+- [ ] ant4-16 · Qin Shi Huang y los guerreros de terracota
+- [ ] ant4-17 · Ashoka
+- [ ] ant4-18 · Las damas ibéricas: Elche, Baza y el Cerro de los Santos
+- [ ] ant4-20 · Paracas y Nazca
+- [ ] des-partenon · El Partenón
+- [ ] des-numancia · Numancia, el asedio
+- [ ] des-terracota · Los guerreros de terracota
+- [ ] des-elche · La Dama de Elche
+- [ ] des-persepolis · Persépolis
+
+### Edad Media · capítulo 1
+- [ ] med1-0 · La caída de Roma y los reinos bárbaros
+- [ ] med1-5 · Suevos, vándalos y alanos: Hispania se rompe
+- [ ] med1-10 · Clodoveo y los francos
+- [ ] med1-14 · Teodorico y la Italia ostrogoda
+- [ ] med1-6 · Justiniano, Teodora y Santa Sofía
+- [ ] med1-11 · La peste de Justiniano
+- [ ] med1-3 · La Iglesia, los monjes y el papado
+- [ ] med1-9 · Los anglosajones y Sutton Hoo
+- [ ] med1-1 · La Hispania visigoda: el reino de Toledo
+- [ ] med1-13 · China: Sui y Tang
+- [ ] med1-7 · Isidoro de Sevilla y las Etimologías
+- [ ] med1-12 · Los mayas del Clásico: Palenque y Pakal
+- [ ] med1-8 · El tesoro de Guarrazar
+- [ ] med1-4 · Y mientras tanto…
+- [ ] des-ravena · Los mosaicos de Rávena
+- [ ] des-santa-sofia · Santa Sofía
+- [ ] des-guarrazar · Las coronas de Guarrazar
+- [ ] des-sutton-hoo · Sutton Hoo, el barco enterrado
+- [ ] des-palenque · La tumba de Pakal
+
 ## Hechos con Gemini
 
 - [x] ant1-8 (al final con Veo; el de Gemini también salió bien) · Sargón de Acad, el primer imperio
