@@ -6,7 +6,7 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 
 ## Prioridad
 
-- [ ] des-guiza · Cómo se construyó la Gran Pirámide
+- [x] des-guiza (Gemini, 18-oct) · Cómo se construyó la Gran Pirámide
 
 ## Resto
 
