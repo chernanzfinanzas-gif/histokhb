@@ -1,0 +1,451 @@
+{
+ "zona": "Almería",
+ "nuevos": [
+  {
+   "id": "castillo-de-velez-blanco",
+   "nombre": "Castillo de Vélez Blanco",
+   "provincia": "Almería",
+   "comarca": "Vélez-Blanco",
+   "lat": 37.6909,
+   "lon": -2.0983,
+   "tipo": "castillo",
+   "estilo": "Renacimiento",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1506,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p><b>Pedro Fajardo</b>, primer marqués de los Vélez, lo levantó entre <b>1506 y 1515</b> sobre una alcazaba islámica, alegando que solo la rehabilitaba para sortear la prohibición real de construir fortalezas nuevas. Por fuera es un castillo de almenas rematadas en esferas; por dentro tuvo un lujoso <b>patio renacentista</b> de mármol de Macael.</p><p>Ese patio ya no está aquí: en 1904 se vendió a un anticuario y desde 1945 se exhibe en el <b>Metropolitan Museum de Nueva York</b>. Los frisos de madera con los trabajos de Hércules y los triunfos de César reaparecieron en 1996 en el Museo de Artes Decorativas de París.</p><p>La <b>torre del homenaje</b>, de casi 25 m, podía aislarse como último reducto. La Junta de Andalucía compró el castillo en 2005.</p>"
+   },
+   "ver_alli": [
+    "La silueta del castillo sobre el pueblo.",
+    "La torre del homenaje.",
+    "Las almenas rematadas en esferas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Vélez-Blanco",
+    "https://www.openstreetmap.org/?mlat=37.6909&mlon=-2.0983#map=18/37.6909/-2.0983"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-tabernas",
+   "nombre": "Castillo de Tabernas",
+   "provincia": "Almería",
+   "comarca": "Tabernas",
+   "lat": 37.0522,
+   "lon": -2.3948,
+   "tipo": "castillo",
+   "estilo": "Andalusí",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Sobre un cerro a las afueras de Tabernas, esta alcazaba andalusí vivió su mejor momento en el <b>reino nazarí</b>, cuando fue la segunda de la actual provincia de Almería. Se entregó a los cristianos en <b>1489</b>; los Reyes Católicos se alojaron en ella y desde aquí partió Fernando para tomar Almería.</p><p>En 1522 ya estaba en ruinas y a finales del siglo XVI quedó abandonada. Al pie del cerro se halló una necrópolis árabe y, en las obras iniciadas en 2021, un aljibe andalusí en muy buen estado.</p><p>Desde arriba se domina el paisaje desértico de Tabernas, escenario de rodajes de cine.</p>"
+   },
+   "ver_alli": [
+    "Los restos de murallas y torres en la cima.",
+    "El aljibe andalusí recuperado.",
+    "La vista del desierto de Tabernas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Tabernas",
+    "https://www.openstreetmap.org/?mlat=37.0522&mlon=-2.3948#map=18/37.0522/-2.3948"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "mojacar",
+   "nombre": "Mojácar",
+   "provincia": "Almería",
+   "comarca": "Mojácar",
+   "lat": 37.1405,
+   "lon": -1.8512,
+   "tipo": "poblacion",
+   "estilo": "Pueblo blanco",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1488,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Colgado de un cerro frente al mar, Mojácar es el gran <b>pueblo blanco</b> de Almería. Al-Idrisi lo cita en el siglo XII; en época nazarí fue tierra de frontera, con atalayas y correrías de ambos bandos, hasta su entrega a los Reyes Católicos el <b>13 de junio de 1488</b>.</p><p>En los siglos XVI y XVII el miedo a los corsarios berberiscos llevó a amurallarlo. La iglesia de <b>Santa María</b>, de 1560 y levantada sobre la antigua mezquita, tenía también uso defensivo.</p><p>A mediados de los años cincuenta el pintor Jesús de Perceval unió a Mojácar el <b>indalo</b>, la figurilla prehistórica que hoy es símbolo de toda Almería.</p>"
+   },
+   "ver_alli": [
+    "La Plaza Nueva y su mirador hacia la costa.",
+    "La iglesia-fortaleza de Santa María.",
+    "La antigua puerta de la ciudad en la plaza del Caño."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Mojácar",
+    "https://www.openstreetmap.org/?mlat=37.1405&mlon=-1.8512#map=18/37.1405/-1.8512"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-san-andres-carboneras",
+   "nombre": "Castillo de San Andrés",
+   "provincia": "Almería",
+   "comarca": "Carboneras",
+   "lat": 36.9966,
+   "lon": -1.8944,
+   "tipo": "castillo",
+   "estilo": "Fortaleza costera",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1621,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>En el casco antiguo de Carboneras, junto a la playa, este castillo lo mandaron levantar los <b>marqueses del Carpio</b> como defensa costera tras una rebelión morisca. Se ordenó a finales del siglo XVI y se terminó en <b>1621</b>.</p><p>Tiene planta rectangular, torres semicirculares en tres esquinas y un patio de armas en el centro. El escudo de los marqueses preside el arco de la entrada. En el siglo XIX pasó a la Casa de Alba.</p>"
+   },
+   "ver_alli": [
+    "El escudo de los marqueses del Carpio sobre la puerta.",
+    "Las torres semicirculares.",
+    "El patio de armas."
+   ],
+   "fuentes": [
+    "https://andalucia.org/en/carboneras-cultural-tourism-castillo-de-san-andres",
+    "https://www.openstreetmap.org/?mlat=36.9966&mlon=-1.8944#map=18/36.9966/-1.8944"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "cable-ingles-almeria",
+   "nombre": "Cable Inglés",
+   "provincia": "Almería",
+   "comarca": "Almería",
+   "lat": 36.8335,
+   "lon": -2.4596,
+   "tipo": "monumento",
+   "estilo": "Arquitectura del hierro",
+   "epoca": "Siglo XX",
+   "anio": 1904,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Este gran <b>cargadero de mineral</b> de hierro lo construyó la compañía británica The Alquife Mines and Railway Company, con proyecto del ingeniero John Ernst Harrison. Se inauguró el <b>27 de abril de 1904</b>, durante una visita de Alfonso XIII.</p><p>El mineral llegaba en tren desde las minas de <b>Alquife</b> (Granada), caía por gravedad a los depósitos y de ahí a los barcos: cargar un buque pasó de llevar 8 o 10 días a unas 10 horas. Mide 108 m de largo y se alza unos 18 m sobre el mar.</p><p>Dejó de funcionar en 1970 y es Bien de Interés Cultural desde 1998. Desde abril de 2023 su tablero es un <b>mirador peatonal</b> sobre el puerto.</p>"
+   },
+   "ver_alli": [
+    "La gran estructura de hierro sobre el puerto.",
+    "El paseo por el tablero, hoy mirador.",
+    "Las vistas de la Alcazaba y el puerto."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Cable_Inglés",
+    "https://www.openstreetmap.org/?mlat=36.8335&mlon=-2.4596#map=18/36.8335/-2.4596"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "minas-de-oro-de-rodalquilar",
+   "nombre": "Minas de oro de Rodalquilar",
+   "provincia": "Almería",
+   "comarca": "Níjar",
+   "lat": 36.8521,
+   "lon": -2.0462,
+   "tipo": "monumento",
+   "estilo": "Patrimonio industrial",
+   "epoca": "Siglo XX",
+   "anio": 1957,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>En pleno Parque Natural de Cabo de Gata, el valle de Rodalquilar vivió una <b>fiebre del oro</b> que empezó en la década de 1880 y no terminó hasta la de 1990, con empresas y buscadores de España, Europa y América.</p><p>La mina más rica fue el <b>Filón 340</b>: de los unos 5.000 kg de oro extraídos entre 1957 y 1966, mil salieron en poco más de dos años. Hoy quedan las ruinas de las instalaciones escalonadas en la ladera, y el anfiteatro del pueblo ocupa los restos de una antigua planta.</p><p>El paisaje, casi lunar, ha servido de escenario a películas como <b>La muerte tenía un precio</b> (1965).</p><p class=\"dato\"><span>¿Sabías que…?</span>Aquí se descubrió un mineral nuevo, la rodalquilarita.</p>"
+   },
+   "ver_alli": [
+    "Las ruinas escalonadas de la planta de tratamiento.",
+    "Los colores de las rocas volcánicas en los caminos mineros.",
+    "El pueblo de Rodalquilar al pie del valle."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Rodalquilar",
+    "https://www.openstreetmap.org/?mlat=36.8521&mlon=-2.0462#map=18/36.8521/-2.0462"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-san-felipe-los-escullos",
+   "nombre": "Castillo de San Felipe",
+   "provincia": "Almería",
+   "comarca": "Níjar (Los Escullos)",
+   "lat": 36.8023,
+   "lon": -2.0628,
+   "tipo": "castillo",
+   "estilo": "Fuerte abaluartado",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1771,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>En la costa de Los Escullos, dentro del Parque Natural de Cabo de Gata, este <b>fuerte abaluartado</b> se levantó en <b>1771</b>, en el reinado de <b>Carlos III</b>, para proteger la costa de ataques por mar. Formaba parte de la red de torres y baterías de vigilancia del litoral.</p><p>Se restauró en 1991 y es Bien de Interés Cultural desde 1993. El exterior se puede ver libremente.</p>"
+   },
+   "ver_alli": [
+    "La planta abaluartada del fuerte.",
+    "Su posición sobre el mar en Los Escullos.",
+    "El paisaje volcánico de Cabo de Gata alrededor."
+   ],
+   "fuentes": [
+    "https://ninos.kiddle.co/Castillo_de_San_Felipe_(Los_Escullos)",
+    "https://www.openstreetmap.org/?mlat=36.8023&mlon=-2.0628#map=18/36.8023/-2.0628"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-la-encarnacion-velez-rubio",
+   "nombre": "Iglesia de la Encarnación de Vélez-Rubio",
+   "provincia": "Almería",
+   "comarca": "Vélez-Rubio",
+   "lat": 37.6475,
+   "lon": -2.0744,
+   "tipo": "iglesia",
+   "estilo": "Barroco final",
+   "epoca": "Barroco",
+   "anio": 1754,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Las obras empezaron el 25 de marzo de <b>1754</b>, sobre una iglesia mudéjar dañada por los terremotos de 1724 y 1751, y el templo se inauguró en 1769. Lo pagó el <b>X marqués de los Vélez</b> y lo proyectó el monje jerónimo Pedro de San Agustín.</p><p>Es una muestra del paso del <b>barroco al neoclásico</b>. Su fachada, obra de Francisco Fernández, queda entre dos torres de unos 37 m rematadas en cuerpos octogonales. Dentro tiene tres naves, una gran cúpula y cinco retablos; el mayor, de Francisco Antonio de Testa, es de 1770-1774.</p><p>Su órgano, del francés Guillermo D'Enoyer, es el instrumento histórico mejor conservado de la provincia.</p>"
+   },
+   "ver_alli": [
+    "La fachada de piedra entre las dos torres.",
+    "La cúpula y el retablo mayor.",
+    "El órgano de Guillermo D'Enoyer."
+   ],
+   "fuentes": [
+    "https://andalucia.com/node/38164",
+    "https://www.openstreetmap.org/?mlat=37.6475&mlon=-2.0744#map=18/37.6475/-2.0744"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "antigua-estacion-de-almeria",
+   "nombre": "Antigua estación de ferrocarril de Almería",
+   "provincia": "Almería",
+   "comarca": "Almería",
+   "lat": 36.8346,
+   "lon": -2.4561,
+   "tipo": "monumento",
+   "estilo": "Arquitectura del hierro y ecléctico",
+   "epoca": "Siglo XIX",
+   "anio": 1893,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Se construyó entre <b>1890 y 1893</b> para la Compañía de los Caminos de Hierro del Sur de España, que llevaba el tren hasta Almería desde Linares y Granada. Su diseño se atribuye a <b>Laurent Farge</b>, ingeniero de la casa Fives-Lille.</p><p>El cuerpo central es de <b>hierro y cristal</b>, entre dos alas de piedra y ladrillo con detalles eclécticos y toques mudéjares. Dejó de recibir viajeros en 2005, cuando abrió la nueva estación intermodal a su lado.</p>"
+   },
+   "ver_alli": [
+    "La gran fachada central de hierro y vidrio.",
+    "Los detalles de ladrillo de las alas laterales."
+   ],
+   "fuentes": [
+    "https://www.barcelo.com/guia-turismo/es/espana/almeria/que-ver/estacion-tren-almeria/",
+    "https://www.openstreetmap.org/?mlat=36.8346&mlon=-2.4561#map=18/36.8346/-2.4561"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-la-encarnacion-vera",
+   "nombre": "Iglesia de la Encarnación de Vera",
+   "provincia": "Almería",
+   "comarca": "Vera",
+   "lat": 37.247,
+   "lon": -1.8687,
+   "tipo": "iglesia",
+   "estilo": "Gótico y mudéjar (iglesia-fortaleza)",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Un terremoto destruyó Vera en <b>1518</b> y la ciudad se reconstruyó en el llano. Su iglesia mayor, del siglo XVI, se pensó también como <b>fortaleza</b> frente a berberiscos y piratas: muros gruesos, accesos elevados y macizos y <b>torres cuadradas</b> en las esquinas.</p><p>Es de una sola nave en cinco tramos, de ladrillo y mampostería, y mezcla gótico y mudéjar: la levantaron alarifes moriscos a las órdenes de Francisco Capilla. Dentro destaca el retablo mayor barroco del siglo XVIII con la Virgen de la Victoria.</p><p class=\"dato\"><span>¿Sabías que…?</span>Cuenta la leyenda que el sitio de la nueva iglesia lo marcó un ballestero disparando desde el cerro del Espíritu Santo, donde estaba la Vera antigua.</p>"
+   },
+   "ver_alli": [
+    "Las torres macizas de las esquinas.",
+    "Los muros sin apenas vanos, de aspecto militar.",
+    "El retablo mayor barroco."
+   ],
+   "fuentes": [
+    "https://www.guiarepsol.com/es/fichas/monumento/iglesia-nuestra-senora-de-la-encarnacion-11965/",
+    "https://www.openstreetmap.org/?mlat=37.247&mlon=-1.8687#map=18/37.247/-1.8687"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "los-millares",
+   "campos": {
+    "lat": 36.9625,
+    "lon": -2.527,
+    "estilo": "Calcolítico (cultura de Los Millares)",
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Cultura_arqueol%C3%B3gica_de_Los_Millares",
+     "https://www.google.com/maps/place/?q=place_id:ChIJj_WCTQsLcA0RVVGJMFSJoxQ",
+     "https://www.openstreetmap.org/?mlat=36.9625&mlon=-2.527#map=18/36.9625/-2.527"
+    ]
+   }
+  },
+  {
+   "id": "los-letreros",
+   "campos": {
+    "estilo": "Arte rupestre esquemático",
+    "fuentes": [
+     "https://andalucia.org/en/velez-blanco-cultural-tourism-cueva-de-los-letreros",
+     "https://rupestre.art/es/caves/cueva-ambrosio",
+     "https://www.wikidata.org/wiki/Q15109106"
+    ]
+   }
+  },
+  {
+   "id": "baria",
+   "campos": {
+    "lat": 37.2472,
+    "lon": -1.776,
+    "estilo": "Fenicio-púnico y romano",
+    "texto": {
+     "general": "<p>Villaricos guarda los restos de <b>Baria</b>, una colonia fenicia fundada en el siglo VIII a. C. En el siglo VI a. C. ya era una ciudad-estado de unas 6 hectáreas que controlaba las minas de hierro, plomo y cobre de Sierra Almagrera, con santuarios dedicados a Astarté que han dejado estelas, esculturas y pebeteros de terracota.</p><p>Su <b>necrópolis</b>, al norte de la ciudad, tiene tumbas monumentales excavadas o semiexcavadas en la roca desde el siglo VI a. C. Algunas guardaban ajuares ricos, con <b>huevos de avestruz</b> tallados o pintados de los siglos VI al IV a. C. y cerámica griega.</p><p>En la Segunda Guerra Púnica la asaltó y saqueó Publio Cornelio Escipión. Bajo Roma pagó tributo, perdió sus minas y su ceca, y entre finales del siglo I a. C. y el siglo IV d. C. tuvo un barrio dedicado a las salazones de pescado.</p>"
+    },
+    "ver_alli": [
+     "Las tumbas excavadas en la roca de la necrópolis, con visita libre.",
+     "Llevar agua y gorra: el enclave no tiene sombra.",
+     "Museo Arqueológico de Cuevas del Almanzora, en el castillo del pueblo."
+    ],
+    "fuentes": [
+     "https://www.juntadeandalucia.es/aaiicc/enclaves/enclave-arqueologico-villaricos",
+     "https://www.google.com/maps/place/?q=place_id:ChIJqSdTYwwrew0RkXs2CTdWH-Y",
+     "https://www.openstreetmap.org/?mlat=37.2472&mlon=-1.776#map=18/37.2472/-1.776"
+    ]
+   }
+  },
+  {
+   "id": "alcazaba-de-almeria",
+   "campos": {
+    "lat": 36.8409,
+    "lon": -2.4713,
+    "estilo": "Califal y taifa; castillo cristiano",
+    "texto": {
+     "general": "<p>Abderramán III mandó construirla en el 955, cuando dio a Almería el título de medina, sobre una fortaleza anterior. La ampliaron Almanzor y Jayrán, el primer rey de la taifa de Almería, y es uno de los mayores recintos fortificados de al-Ándalus.</p><p>Tiene <b>tres recintos</b> escalonados por el cerro. El primero, el más amplio, servía de refugio a la población en caso de asedio y tenía grandes aljibes; hoy está ocupado por jardines. El segundo era una pequeña ciudad palaciega, con la residencia de los gobernadores, mezquita y baños, donde se alzaba el desaparecido palacio de Almotacín.</p><p>El tercero es un <b>castillo cristiano</b> que los Reyes Católicos mandaron levantar tras tomar la ciudad en 1489: de planta triangular, con torres redondas y sillares, preparado para resistir la artillería. Es Monumento Histórico-Artístico desde 1931 y Conjunto Monumental desde 1989.</p>"
+    },
+    "ver_alli": [
+     "El Muro de la Vela y los jardines del primer recinto.",
+     "Los aljibes califales y la vivienda musulmana reconstruida del segundo recinto.",
+     "La torre del homenaje del castillo cristiano y las vistas sobre la ciudad y el puerto."
+    ],
+    "fuentes": [
+     "https://www.juntadeandalucia.es/organismos/culturaydeporte/areas/cultura/museos-arte/directorio-museos/detalle/2597.html",
+     "https://www.spain.info/es/lugares-interes/alcazaba-almeria/",
+     "https://en.wikipedia.org/wiki/Alcazaba_of_Almer%C3%ADa",
+     "https://www.eldebate.com/espana/andalucia/20250201/breve-historia-alcazaba-almeria-origen-atalaya-ciudad-milenaria_266029.html",
+     "https://www.google.com/maps/place/?q=place_id:ChIJc_ShtQd2cA0RbM9cV5RxV98",
+     "https://www.openstreetmap.org/?mlat=36.8409&mlon=-2.4713#map=18/36.8409/-2.4713"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-almeria",
+   "campos": {
+    "lat": 36.8381,
+    "lon": -2.4673,
+    "estilo": "Gótico y renacimiento (catedral-fortaleza)",
+    "texto": {
+     "general": "<p>Tras el terremoto de 1522 que destruyó el templo anterior, el obispo fray Diego Fernández de Villalán la mandó empezar en 1524, probablemente con trazas de Diego de Siloé. Como la costa sufría los ataques de los piratas berberiscos, se diseñó como una <b>fortaleza</b>: torreones, almenas, adarves, troneras y una cubierta plana donde montar cañones.</p><p>En 1555 el obispo contrató a <b>Juan de Orea</b>, autor de la portada principal (1567), con un programa en honor de Carlos V, Hércules y el lema «non plus ultra»; de la puerta de los Perdones (1569), y de la sillería del coro, de nogal, con 75 asientos (1558-1561). El claustro neoclásico se hizo entre 1785 y 1797.</p><p>En el muro exterior de la cabecera está el <b>«sol de Portocarrero»</b>, un sol con cara rodeado de cintas. Su nombre se debe, por error, a un obispo que vivió mucho después de que se labrara.</p>"
+    },
+    "ver_alli": [
+     "Fijarse en las almenas y torreones: por fuera parece un castillo.",
+     "La portada principal de Juan de Orea.",
+     "El sol de Portocarrero, en el muro exterior de la capilla del Cristo de la Escucha, en la cabecera.",
+     "La sillería del coro y el claustro neoclásico."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Catedral_de_Almer%C3%ADa",
+     "https://en.wikipedia.org/wiki/Almer%C3%ADa_Cathedral",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ11qnkwZ2cA0R8cTxBWKCijE",
+     "https://www.openstreetmap.org/?mlat=36.8381&mlon=-2.4673#map=18/36.8381/-2.4673"
+    ]
+   }
+  },
+  {
+   "id": "refugios-de-la-guerra-civil-de-almeria",
+   "campos": {
+    "lat": 36.8416,
+    "lon": -2.4646,
+    "estilo": "Arquitectura defensiva civil del siglo XX",
+    "texto": {
+     "general": "<p>Almería sufrió 52 bombardeos aéreos y navales durante la Guerra Civil. Para proteger a sus vecinos, el arquitecto <b>Guillermo Langle Rubio</b>, con los ingenieros Carlos Fernández Celaya y José Fornieles, diseñó en 1936 una red de <b>más de 4 kilómetros de galerías</b>, a unos 9 metros bajo la ciudad y con 67 accesos. Se construyó entre 1937 y 1938, en unos 16 meses.</p><p>Las fuentes le dan capacidad para entre 34.000 y 40.000 personas. El peor ataque llegó el 31 de mayo de 1937, cuando los refugios ya estaban en obras: la flota alemana bombardeó la ciudad por orden de Hitler, con 19 muertos, 55 heridos y 35 edificios destruidos.</p><p>Olvidados durante décadas, se redescubrieron en 2001 y se abrieron al público en diciembre de 2006. Se visita casi un kilómetro de la galería principal, bajo el Paseo de Almería, con un <b>quirófano</b> con suelo de mármol de Macael y luz propia, sala de espera y almacenes.</p>"
+    },
+    "ver_alli": [
+     "Visitas guiadas.",
+     "El quirófano, con su suelo de mármol de Macael.",
+     "La galería principal, que corre bajo el Paseo de Almería."
+    ],
+    "fuentes": [
+     "https://andalucia.org/en/almeria-cultural-tourism-refugios-de-la-guerra-civil-almeria",
+     "https://www.barcelo.com/guia-turismo/en/spain/almeria/things-to-do/refugios-de-la-guerra-civil/",
+     "https://www.fascinatingspain.com/articulo/the-best-of/top-10-most-spectacular-squares-in-spain/20200308003157066888.html",
+     "https://www.google.com/maps/place/?q=place_id:ChIJjyU2TwB2cA0R5btFMd9yQF0",
+     "https://www.openstreetmap.org/?mlat=36.8416&mlon=-2.4646#map=18/36.8416/-2.4646"
+    ]
+   }
+  },
+  {
+   "id": "karst-en-yesos-de-sorbas",
+   "campos": {
+    "estilo": "Karst en yeso (Messiniense)",
+    "fuentes": [
+     "https://showcaves.com/english/es/caves/Sorbas.html",
+     "https://andalucia.org/en/sorbas-information-services-los-yesares",
+     "https://almerinatura.com/en/natural-areas/yesos-de-sorbas",
+     "https://www.google.com/maps/place/?q=place_id:ChIJZZcl39DHeg0RAnCOb8fc36g",
+     "https://www.openstreetmap.org/?mlat=37.0921&mlon=-2.1074#map=18/37.0921/-2.1074"
+    ]
+   }
+  },
+  {
+   "id": "geoparque-cabo-de-gata-nijar",
+   "campos": {
+    "estilo": "Vulcanismo y arrecifes del Mioceno",
+    "fuentes": [
+     "https://cabogataalmeria.com/storage/app/media/pdf/rutas/21_LasAmoladeras.pdf",
+     "https://www.juntadeandalucia.es/medioambiente/portal/documents/20151/fc047cf0-bbaa-ec93-764f-70839fbb1beb",
+     "https://oiccpress.com/geoconservation-research/article/the-messinian-late-miocene-coral-reefs-in-the-cabo-de-gata-nijar-unesco-global-geopark-3/fulltext",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ1WVlSRqReg0RAexX9_eov58",
+     "https://www.openstreetmap.org/?mlat=36.8183&mlon=-2.2553#map=18/36.8183/-2.2553"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-almeria",
+   "campos": {
+    "estilo": "Edificio contemporáneo; colecciones prehistóricas",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Museum_of_Almer%C3%ADa",
+     "https://www.spain.info/es/lugares-interes/museo-almeria/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJiaNbov6deg0RWee6V7djXPk",
+     "https://www.openstreetmap.org/?mlat=36.8386&mlon=-2.4556#map=18/36.8386/-2.4556"
+    ]
+   }
+  },
+  {
+   "id": "museo-arqueologico-cuevas-del-almanzora",
+   "campos": {
+    "lat": 37.297,
+    "lon": -1.8828,
+    "estilo": "Castillo renacentista; colección argárica",
+    "fuentes": [
+     "https://andalucia.org/en/cuevas-del-almanzora-cultural-tourism-museo-arqueologico-cuevas-de-almanzora",
+     "https://myalmeria.com/en/cuevas-del-almanzora/info/724-what-to-visit/cuevas-del-almanzora-archaeological-museum",
+     "https://www.google.com/maps/place/?q=place_id:ChIJlxxCCjsrZQ0REFVZfmGOwEI",
+     "https://www.openstreetmap.org/?mlat=37.297&mlon=-1.8828#map=18/37.297/-1.8828"
+    ]
+   }
+  }
+ ]
+}
