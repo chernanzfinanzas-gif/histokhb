@@ -129,15 +129,15 @@ a{color:inherit}
 .txt .dato span{display:block;font-family:'Fredoka';font-weight:600;color:var(--accent);font-size:13px;text-transform:uppercase;letter-spacing:1px}
 .txt table{border-collapse:collapse;font-size:14px;width:100%}.txt td,.txt th{border:1px solid var(--line);padding:4px 6px}
 .escuchar{display:flex;align-items:center;gap:10px;width:100%;margin:10px 0 4px;border:0;background:var(--era,var(--accent));color:#fff;border-radius:14px;padding:11px 14px;font-family:'Fredoka';font-weight:600;font-size:15px;cursor:pointer;text-align:left}
-.audbox{display:flex;gap:8px;align-items:stretch;margin:10px 0 4px}
-.audbox .escuchar{margin:0;flex:1;min-width:0}
-.audx{display:none;border:0;border-radius:14px;background:rgba(0,0,0,.6);color:#fff;font-size:15px;padding:0 14px;cursor:pointer}
-.aud-on .audx{display:block}
-.aud-on .sh-illo{position:sticky;top:var(--shtop,104px);z-index:2;height:clamp(96px,17vh,150px);max-height:none!important;box-shadow:0 8px 14px -10px rgba(0,0,0,.45)}
-.aud-on .sh-illo>img,.aud-on .sh-illo>video,.aud-on .sh-illo>svg{width:100%;height:100%!important;max-height:none!important;aspect-ratio:auto!important;object-fit:cover}
-.aud-on .sh-illo .audbox{position:absolute;left:8px;right:8px;bottom:8px;margin:0}
-.aud-on .sh-illo .escuchar{padding:8px 12px;font-size:14px;background:color-mix(in srgb,var(--era,#c9a14a) 88%,transparent)}
-.aud-on .sh-body>.audbox{position:sticky;top:var(--shtop,104px);z-index:2}
+.audbox{margin:10px 0 4px}
+.audrow{display:flex;gap:8px;align-items:stretch}
+.audrow .escuchar{margin:0;flex:1;min-width:0}
+.audctl{display:none;gap:6px;margin-top:6px}
+.audbox.act .audctl{display:flex}
+.audctl button{flex:1;border:1.5px solid var(--era,var(--accent));background:#fff;color:var(--era,var(--accent));border-radius:12px;padding:7px 4px;font-family:'Fredoka';font-weight:600;font-size:14px;cursor:pointer}
+.escuchar .bar{cursor:pointer}
+.aud-on .sh-illo{position:sticky;top:var(--shtop,104px);z-index:3}
+.aud-on #audBox{position:sticky;top:calc(var(--shtop,104px) + var(--illoh,0px));z-index:3;background:var(--bg);margin:0 -18px;padding:8px 18px;box-shadow:0 8px 12px -10px rgba(0,0,0,.35)}
 .syn{transition:background .4s,box-shadow .4s;border-radius:6px}
 .syn.reading{background:#fff1c2;box-shadow:0 0 0 6px #fff1c2}
 .aud-on .syn{cursor:pointer}
@@ -541,6 +541,7 @@ function audPaint(){const bt=$('#btnAud'); if(!bt){audSync();return;} const id=b
  bt.querySelector('.lb').textContent=on?'Pausa':(c>1?`Seguir (${fmtS(c)})`:'Escuchar');
  bt.querySelector('.bar i').style.width=(d?Math.min(100,100*c/d):0)+'%';
  bt.querySelector('.tm').textContent=mine&&c>0?fmtS(c)+' / '+fmtS(d):fmtS(d);
+ const bx=$('#audBox'); if(bx)bx.classList.toggle('act',mine||c>1);
  audSync();}
 ['play','pause','timeupdate','ended','loadedmetadata','seeked'].forEach(ev=>PL.addEventListener(ev,audPaint));
 PL.addEventListener('ended',()=>{posSet(PL.dataset.k,0);PL.currentTime=0;audPaint();});
@@ -549,11 +550,10 @@ function audToggle(){const bt=$('#btnAud'); if(!bt)return; const id=bt.dataset.k
   if(p>0){try{PL.currentTime=p;}catch(e){} PL.addEventListener('loadedmetadata',()=>{if(Math.abs(PL.currentTime-p)>1)PL.currentTime=p;},{once:true});}
   if('mediaSession' in navigator&&window.MediaMetadata){navigator.mediaSession.metadata=new MediaMetadata({title:bt.dataset.t||'',artist:'HistoKHB',artwork:bt.dataset.l?[{src:bt.dataset.l}]:[]});}}
  if(PL.paused){PL.play().catch(()=>{}); follow=true; audDock(true);} else PL.pause();}
-// franja fija arriba mientras suena
-function audDock(on){const sh=$('#sheet'), b=$('#shBody'), box=$('#audBox');
- if(!on){sh.classList.remove('aud-on'); clearReading(); volverUI(false); if(box){const rt=b.querySelector('.rt'); if(rt&&box.previousElementSibling!==rt)rt.after(box);} return;}
- if(!box)return; sh.style.setProperty('--shtop',$('.sh-top').offsetHeight+'px'); sh.classList.add('aud-on');
- const il=b.querySelector('.sh-illo'); if(il&&il.offsetHeight>20&&box.parentElement!==il)il.appendChild(box);}
+// lámina y marcador fijos arriba mientras suena (sin cambiar su tamaño); el texto corre por debajo
+function audMeasure(){const sh=$('#sheet'), il=$('#shBody .sh-illo'); sh.style.setProperty('--shtop',$('.sh-top').offsetHeight+'px'); sh.style.setProperty('--illoh',(il?il.offsetHeight:0)+'px');}
+function audDock(on){const sh=$('#sheet'); if(!on){sh.classList.remove('aud-on'); clearReading(); volverUI(false); return;} if(!$('#audBox'))return; audMeasure(); sh.classList.add('aud-on');}
+window.addEventListener('resize',()=>{if($('#sheet').classList.contains('aud-on'))audMeasure();});
 // el texto sigue a la voz (reparto por caracteres)
 let SY=null, follow=true, followT=0;
 function audSyncBuild(id,txt,lead){SY=null; if(!txt)return;
@@ -564,9 +564,18 @@ function audSyncBuild(id,txt,lead){SY=null; if(!txt)return;
 function clearReading(){if(SY&&SY.cur>=0&&SY.els[SY.cur])SY.els[SY.cur].classList.remove('reading'); if(SY)SY.cur=-1;}
 function audSync(){if(!SY)return; const mine=PL.dataset.k===SY.id&&!!PL.getAttribute('src'); if(!mine||!$('#sheet').classList.contains('aud-on')){clearReading();return;}
  const d=PL.duration||0; if(!d)return; const pos=PL.currentTime/d*SY.tot; let i=0; while(i+1<SY.st.length&&SY.st[i+1]<=pos)i++;
- if(i!==SY.cur){clearReading(); SY.cur=i; const e=SY.els[i]; e.classList.add('reading'); if(follow&&!PL.paused)e.scrollIntoView({behavior:'smooth',block:'center'});}}
+ if(i!==SY.cur){clearReading(); SY.cur=i; SY.els[i].classList.add('reading');}
+ if(follow&&!PL.paused)audScrollTo(i,pos);}
+function audScrollTo(i,pos){const e=SY.els[i], sh=$('#sheet'), bx=$('#audBox'); if(!e||!bx)return;
+ const top=bx.getBoundingClientRect().bottom+12, avail=sh.clientHeight-top-90, r=e.getBoundingClientRect();
+ const end=i+1<SY.st.length?SY.st[i+1]:SY.tot, fr=Math.min(1,Math.max(0,(pos-SY.st[i])/Math.max(1,end-SY.st[i])));
+ const want=top-Math.max(0,r.height-avail)*fr, d=r.top-want; if(Math.abs(d)>30)sh.scrollBy({top:d,behavior:'smooth'});}
 function volverUI(on){let v=$('#volver'); if(!v){$('#sheet').insertAdjacentHTML('beforeend','<button id="volver" class="volver hide" onclick="volverSuena()">↧ Volver a lo que suena</button>'); v=$('#volver');} v.classList.toggle('hide',!on);}
-function volverSuena(){follow=true; clearTimeout(followT); volverUI(false); if(SY&&SY.cur>=0)SY.els[SY.cur].scrollIntoView({behavior:'smooth',block:'center'});}
+function volverSuena(){follow=true; clearTimeout(followT); volverUI(false); if(SY&&SY.cur>=0&&PL.duration)audScrollTo(SY.cur,PL.currentTime/PL.duration*SY.tot);}
+function audSeek(dt){if(!$('#btnAud'))return; if(PL.dataset.k!==$('#btnAud').dataset.k||!PL.getAttribute('src')){audToggle();return;} PL.currentTime=Math.max(0,Math.min((PL.duration||0)-1,PL.currentTime+dt)); follow=true; volverSuena();}
+function audRestart(){const bt=$('#btnAud'); if(!bt)return; posSet(bt.dataset.k,0); if(PL.dataset.k===bt.dataset.k&&PL.getAttribute('src')){PL.currentTime=0; follow=true; $('#sheet').scrollTo({top:0,behavior:'smooth'}); if(PL.paused)PL.play().catch(()=>{});} else {audPaint(); audToggle();}}
+function audBar(ev){const bt=$('#btnAud'); if(PL.dataset.k!==bt.dataset.k||!PL.getAttribute('src')||!PL.duration)return; ev.stopPropagation();
+ const r=ev.currentTarget.getBoundingClientRect(), f=Math.min(1,Math.max(0,(ev.clientX-r.left)/r.width)); PL.currentTime=f*PL.duration; follow=true; volverSuena();}
 function audUserScroll(){if(!$('#sheet').classList.contains('aud-on')||PL.paused)return; follow=false; volverUI(true); clearTimeout(followT); followT=setTimeout(volverSuena,8000);}
 ['wheel','touchmove'].forEach(ev=>$('#sheet').addEventListener(ev,audUserScroll,{passive:true}));
 // tocar un párrafo salta el audio a ese punto
@@ -581,7 +590,7 @@ async function audioUI(k,f,lv){lv=lv||LV;
  const calm=(navigator.connection&&navigator.connection.saveData)||matchMedia('(prefers-reduced-motion: reduce)').matches;
  if(a.viva&&lv!=='n'&&!calm){const il=b.querySelector('.sh-illo'); if(il)il.innerHTML=`<video src="${a.viva}" ${f.lam?`poster="${f.lam}"`:''} autoplay muted loop playsinline preload="metadata" aria-label="${esc(f.t)}"></video>`;}
  if(a[lv]){const rt=b.querySelector('.rt'); if(!rt)return;
-  rt.insertAdjacentHTML('afterend',`<div class="audbox" id="audBox"><button class="escuchar" id="btnAud" data-k="${id}" data-src="audio/${k}-${lv}.mp3" data-d="${a[lv]}" data-t="${esc(f.t)}" data-l="${f.lam||''}" onclick="audToggle()"><span class="ico">🔊</span><span class="lb">Escuchar</span><span class="bar"><i></i></span><span class="tm"></span></button><button class="audx" title="Parar" aria-label="Parar" onclick="stopAud()">■</button></div>`);
+  rt.insertAdjacentHTML('afterend',`<div class="audbox" id="audBox"><div class="audrow"><button class="escuchar" id="btnAud" data-k="${id}" data-src="audio/${k}-${lv}.mp3" data-d="${a[lv]}" data-t="${esc(f.t)}" data-l="${f.lam||''}" onclick="audToggle()"><span class="ico">🔊</span><span class="lb">Escuchar</span><span class="bar" onclick="audBar(event)"><i></i></span><span class="tm"></span></button></div><div class="audctl"><button onclick="audRestart()" aria-label="Desde el principio">⟲ Inicio</button><button onclick="audSeek(-30)" aria-label="Atrasar 30 segundos">−30 s</button><button onclick="audSeek(30)" aria-label="Adelantar 30 segundos">+30 s</button><button onclick="stopAud()" aria-label="Parar">■ Parar</button></div></div>`);
   audSyncBuild(id,b.querySelector('.txt'),lv==='d'?(f.t||'').length+26:0);
   if(PL.dataset.k===id&&PL.getAttribute('src'))audDock(true);
   audPaint();}
