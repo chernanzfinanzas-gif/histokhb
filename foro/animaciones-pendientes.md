@@ -169,6 +169,30 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] des-sipan · El Señor de Sipán
 - [ ] des-teotihuacan · Teotihuacan
 
+### Edad Media · capítulo 2
+- [ ] med2-0 · Mahoma y la expansión del islam
+- [ ] med2-2 · Al-Ándalus y el esplendor de Córdoba
+- [ ] med2-3 · Covadonga y el reino de Asturias
+- [ ] med2-15 · China Tang: esplendor y rebelión
+- [ ] med2-18 · El colapso maya y Chichén Itzá
+- [ ] med2-17 · Ghana, el país del oro
+- [ ] med2-4 · Carlomagno y el Imperio carolingio
+- [ ] med2-1 · La Edad de Oro del islam: Bagdad
+- [ ] med2-7 · De Oviedo al Duero: de Alfonso II a Alfonso III
+- [ ] med2-12 · El arte asturiano
+- [ ] med2-16 · Angkor y el imperio jemer
+- [ ] med2-10 · La Casa de la Sabiduría y al-Juarismi
+- [ ] med2-11 · Santiago de Compostela y el nacimiento del Camino
+- [ ] med2-19 · Fátima al-Fihri y la mezquita de al-Qarawiyyin
+- [ ] med2-14 · La Rus de Kiev
+- [ ] med2-8 · El reino de León y la Castilla de Fernán González
+- [ ] med2-9 · Abderramán III y Medina Azahara
+- [ ] med2-6 · Y mientras tanto…
+- [ ] des-mezquita · La Mezquita de Córdoba
+- [ ] des-azahara · Medina Azahara
+- [ ] des-naranco · Santa María del Naranco
+- [ ] des-anse · L'Anse aux Meadows
+
 ## Hechos con Gemini
 
 - [x] ant1-8 (al final con Veo; el de Gemini también salió bien) · Sargón de Acad, el primer imperio
