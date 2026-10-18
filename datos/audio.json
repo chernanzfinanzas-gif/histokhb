@@ -2557,6 +2557,90 @@
    "viva_tipo": "camara",
    "d": 354,
    "voz_d": "Vindemiatrix"
+  },
+  "med4-4": {
+   "viva": "img/vivas/med4-4.mp4",
+   "viva_tipo": "veo"
+  },
+  "des-alhambra": {
+   "viva": "img/vivas/des-alhambra.mp4",
+   "viva_tipo": "veo"
+  },
+  "med4-11": {
+   "viva": "img/vivas/med4-11.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-cantigas": {
+   "viva": "img/vivas/des-cantigas.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-scrovegni": {
+   "viva": "img/vivas/des-scrovegni.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-tenochtitlan": {
+   "viva": "img/vivas/des-tenochtitlan.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-zimbabue": {
+   "viva": "img/vivas/des-zimbabue.mp4",
+   "viva_tipo": "camara"
+  },
+  "med4-0": {
+   "viva": "img/vivas/med4-0.mp4",
+   "viva_tipo": "camara"
+  },
+  "med4-1": {
+   "viva": "img/vivas/med4-1.mp4",
+   "viva_tipo": "camara"
+  },
+  "med4-10": {
+   "viva": "img/vivas/med4-10.mp4",
+   "viva_tipo": "camara"
+  },
+  "med4-12": {
+   "viva": "img/vivas/med4-12.mp4",
+   "viva_tipo": "camara"
+  },
+  "med4-13": {
+   "viva": "img/vivas/med4-13.mp4",
+   "viva_tipo": "camara"
+  },
+  "med4-14": {
+   "viva": "img/vivas/med4-14.mp4",
+   "viva_tipo": "camara"
+  },
+  "med4-15": {
+   "viva": "img/vivas/med4-15.mp4",
+   "viva_tipo": "camara"
+  },
+  "med4-2": {
+   "viva": "img/vivas/med4-2.mp4",
+   "viva_tipo": "camara"
+  },
+  "med4-3": {
+   "viva": "img/vivas/med4-3.mp4",
+   "viva_tipo": "camara"
+  },
+  "med4-5": {
+   "viva": "img/vivas/med4-5.mp4",
+   "viva_tipo": "camara"
+  },
+  "med4-6": {
+   "viva": "img/vivas/med4-6.mp4",
+   "viva_tipo": "camara"
+  },
+  "med4-7": {
+   "viva": "img/vivas/med4-7.mp4",
+   "viva_tipo": "camara"
+  },
+  "med4-8": {
+   "viva": "img/vivas/med4-8.mp4",
+   "viva_tipo": "camara"
+  },
+  "med4-9": {
+   "viva": "img/vivas/med4-9.mp4",
+   "viva_tipo": "camara"
   }
  }
 }
