@@ -1,0 +1,814 @@
+{
+ "zona": "México, Centroamérica y Caribe",
+ "nuevos": [
+  {
+   "id": "basilica-de-guadalupe",
+   "nombre": "Basílica de Guadalupe",
+   "provincia": "México",
+   "comarca": "Ciudad de México (Tepeyac)",
+   "lat": 19.4849,
+   "lon": -99.1178,
+   "tipo": "iglesia",
+   "estilo": "Barroco novohispano (antigua basílica) y arquitectura moderna (nueva basílica)",
+   "epoca": "Virreinatos y Brasil colonial",
+   "anio": 1709,
+   "regiones_sincronia": [
+    "Mesoamérica"
+   ],
+   "texto": {
+    "general": "<p>Al pie del cerro del Tepeyac, en el norte de la Ciudad de México, está el santuario mariano más visitado de América. Según la tradición, aquí se apareció la Virgen al indígena <b>Juan Diego</b>, que vivió junto a la primera ermita desde 1531 hasta su muerte en 1548 y se ocupó de cuidarla. Su manto, el <b>ayate</b> con la imagen de la Virgen de Guadalupe, es el centro de la devoción.</p><p>La <b>antigua basílica</b>, obra de Pedro de Arrieta, se empezó con la primera piedra el 25 de marzo de 1695 y se abrió en 1709. Entre 1974 y 1976 se levantó a su lado la <b>nueva basílica</b>, proyectada por un equipo en el que estaban Pedro Ramírez Vázquez y fray Gabriel Chávez de la Mora. El 12 de octubre de 1976 la imagen se llevó en procesión al nuevo templo.</p><p>Cada año llegan millones de peregrinos (las cifras varían mucho según la fuente), sobre todo en torno al <b>12 de diciembre</b>, la fiesta de la Virgen.</p>"
+   },
+   "ver_alli": [
+    "En la gran explanada del atrio conviven la antigua y la nueva basílica; la imagen se venera en la nueva.",
+    "Detrás de las basílicas se sube a pie al cerro del Tepeyac.",
+    "En torno al 12 de diciembre hay multitudes de peregrinos."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_Santa_Mar%C3%ADa_de_Guadalupe",
+    "https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Guadalupe",
+    "https://www.openstreetmap.org/way/120733641"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-juan-de-ulua",
+   "nombre": "Fortaleza de San Juan de Ulúa",
+   "provincia": "México",
+   "comarca": "Veracruz",
+   "lat": 19.2094,
+   "lon": -96.1314,
+   "tipo": "castillo",
+   "estilo": "Fortificación abaluartada",
+   "epoca": "Virreinatos y Brasil colonial",
+   "anio": 1535,
+   "regiones_sincronia": [
+    "Mesoamérica"
+   ],
+   "texto": {
+    "general": "<p>Frente al puerto de Veracruz, sobre un islote, está la fortaleza que fue durante siglos la puerta de la Nueva España. Juan de Grijalva llegó aquí el 8 de abril de 1518, y hacia <b>1535</b> se empezaron los primeros fuertes. La isla servía de abrigo y muelle a los <b>galeones</b> que venían de España.</p><p>Tras la independencia de México, Ulúa fue el <b>último baluarte</b> fiel a la monarquía española: su guarnición no capituló hasta el <b>23 de noviembre de 1825</b>. Después la ocuparon los franceses en 1838, en la llamada Guerra de los Pasteles, y los estadounidenses durante la invasión de 1847.</p><p>Sus celdas se usaron como <b>prisión</b>, sobre todo en la segunda mitad del siglo XIX. Allí estuvieron presos fray Servando Teresa de Mier y Benito Juárez, y de allí se escapó más de una vez el bandido Chucho el Roto.</p>"
+   },
+   "ver_alli": [
+    "Está en el islote frente al puerto de Veracruz, unido hoy a tierra por la zona portuaria.",
+    "Hace mucho calor y hay poca sombra: conviene llevar agua y sombrero.",
+    "Se recorren los baluartes, los patios y las antiguas celdas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/San_Juan_de_Ul%C3%BAa",
+    "https://en.wikipedia.org/wiki/San_Juan_de_Ul%C3%BAa",
+    "https://www.openstreetmap.org/relation/16117528"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santo-domingo-de-guzman-oaxaca",
+   "nombre": "Templo y ex convento de Santo Domingo de Guzmán (Oaxaca)",
+   "provincia": "México",
+   "comarca": "Oaxaca de Juárez",
+   "lat": 17.0657,
+   "lon": -96.7231,
+   "tipo": "iglesia",
+   "estilo": "Barroco novohispano",
+   "epoca": "Virreinatos y Brasil colonial",
+   "anio": 1608,
+   "regiones_sincronia": [
+    "Mesoamérica"
+   ],
+   "texto": {
+    "general": "<p>La gran iglesia de los dominicos de Oaxaca es una de las joyas del <b>barroco novohispano</b>. En 1551 el ayuntamiento cedió a la orden los terrenos; el convento se inauguró en <b>1608</b>, aún sin terminar, y las obras del templo acabaron en 1666. Su interior es un despliegue de decoración barroca, y en 1724 se empezó la <b>capilla del Rosario</b>, la última gran obra del conjunto.</p><p>El antiguo convento alberga hoy el <b>Museo Regional de Oaxaca</b>, donde se expone el tesoro mixteco que Alfonso Caso halló en la <b>Tumba 7 de Monte Albán</b>. Otra parte del convento es un jardín etnobotánico con plantas nativas de Oaxaca.</p><p>El templo forma parte del <b>centro histórico de Oaxaca</b>, ciudad de trazado en damero, que es Patrimonio de la Humanidad desde 1987 junto con Monte Albán.</p>"
+   },
+   "ver_alli": [
+    "Está al final del andador peatonal de Macedonio Alcalá, en el centro de Oaxaca.",
+    "El museo del ex convento y el jardín etnobotánico se visitan aparte de la iglesia.",
+    "Monte Albán está a unos 10 km: se combinan bien en un mismo viaje."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Templo_de_Santo_Domingo_de_Guzm%C3%A1n_(Oaxaca)",
+    "https://whc.unesco.org/es/list/415",
+    "https://en.wikipedia.org/wiki/Church_of_Santo_Domingo_de_Guzm%C3%A1n",
+    "https://www.openstreetmap.org/way/121991411"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-de-bellas-artes",
+   "nombre": "Palacio de Bellas Artes",
+   "provincia": "México",
+   "comarca": "Ciudad de México (Centro)",
+   "lat": 19.4354,
+   "lon": -99.1413,
+   "tipo": "monumento",
+   "estilo": "Art nouveau (exterior) y art déco (interior)",
+   "epoca": "Iberoamérica contemporánea",
+   "anio": 1934,
+   "regiones_sincronia": [
+    "Mesoamérica"
+   ],
+   "texto": {
+    "general": "<p>El gran teatro y museo de México empezó a construirse el 2 de agosto de 1904, en tiempos de Porfirio Díaz, con proyecto del italiano <b>Adamo Boari</b>. La Revolución paró las obras durante años; Federico Mariscal las retomó en 1931 y el palacio se inauguró el <b>29 de septiembre de 1934</b>. Por eso su exterior de mármol blanco es <b>art nouveau</b> y su interior, <b>art déco</b>.</p><p>El telón de la sala es un mosaico de cristal encargado a <b>Tiffany & Co.</b> de Nueva York: 206 paneles con cerca de un millón de piezas que muestran el valle de México con los volcanes Popocatépetl e Iztaccíhuatl, y pesa unas 22 toneladas.</p><p>En sus galerías se exponen 17 <b>murales</b> de siete artistas mexicanos, pintados entre 1928 y 1963, entre ellos Diego Rivera, José Clemente Orozco, David Alfaro Siqueiros y Rufino Tamayo. Rivera rehízo aquí en 1934 <i>El hombre controlador del universo</i>, después de que se destruyera el original que había pintado en el Rockefeller Center de Nueva York. El edificio, sobre arcillas del antiguo lago, se hunde desde 1907.</p>"
+   },
+   "ver_alli": [
+    "Está junto a la Alameda Central, a pocos minutos a pie del Zócalo.",
+    "Los murales se ven en las galerías de los pisos superiores.",
+    "La sala de espectáculos, con el telón de cristal, acoge ópera, conciertos y el Ballet Folklórico."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Palacio_de_Bellas_Artes_(Ciudad_de_M%C3%A9xico)",
+    "https://en.wikipedia.org/wiki/Palacio_de_Bellas_Artes",
+    "https://www.openstreetmap.org/way/157051087"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iximche",
+   "nombre": "Iximché",
+   "provincia": "Guatemala",
+   "comarca": "Tecpán (Chimaltenango)",
+   "lat": 14.7359,
+   "lon": -90.9966,
+   "tipo": "yacimiento",
+   "estilo": "Maya posclásico de las tierras altas",
+   "epoca": "Mesoamérica prehispánica",
+   "anio": 1470,
+   "regiones_sincronia": [
+    "Mesoamérica"
+   ],
+   "texto": {
+    "general": "<p>En las tierras altas de Guatemala, los <b>kaqchikeles</b> fundaron hacia <b>1470</b> la capital de su reino. Se han registrado más de 160 estructuras, con seis plazas principales, templos, palacios y dos campos de juego de pelota.</p><p>Los kaqchikeles recibieron a los españoles de <b>Pedro de Alvarado</b> el 14 de abril de 1524 como aliados, y el 27 de julio de ese año Alvarado fundó aquí <b>Santiago de los Caballeros de Guatemala</b>, la primera capital española del país. Pero sus exigencias de oro rompieron la alianza: el 28 de agosto de 1524 la población abandonó la ciudad y empezó una larga rebelión. Los españoles dejaron el lugar en 1527, y los kaqchikeles no se rindieron hasta 1530.</p><p>Iximché es Monumento Nacional desde los años sesenta y sigue siendo un lugar sagrado: los mayas celebran ceremonias en sus altares, y en 2007 acogió la III Cumbre Continental de Pueblos Indígenas de Abya Yala.</p>"
+   },
+   "ver_alli": [
+    "Está junto al pueblo de Tecpán, en el departamento de Chimaltenango.",
+    "Hay un pequeño museo a la entrada; al fondo del sitio los mayas siguen haciendo ceremonias, que conviene respetar."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iximch%C3%A9",
+    "https://en.wikipedia.org/wiki/Iximche"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "joya-de-ceren",
+   "nombre": "Joya de Cerén",
+   "provincia": "El Salvador",
+   "comarca": "San Juan Opico (La Libertad)",
+   "lat": 13.8277,
+   "lon": -89.3562,
+   "tipo": "yacimiento",
+   "estilo": "Aldea maya del Clásico (bahareque)",
+   "epoca": "Mesoamérica prehispánica",
+   "anio": 650,
+   "regiones_sincronia": [
+    "Mesoamérica"
+   ],
+   "texto": {
+    "general": "<p>Hacia el año <b>650</b>, la erupción del volcán <b>Loma Caldera</b>, a menos de un kilómetro, sepultó bajo catorce capas de ceniza una pequeña aldea de campesinos mayas, con sus casas, cocinas, almacenes y parcelas de cultivo, algunas cercadas con madera.</p><p>Por eso la llaman la «<b>Pompeya de América</b>»: no es una ciudad de reyes, sino la vida diaria de la gente corriente, algo muy raro en la arqueología de Mesoamérica. Entre sus edificios hay un <b>temazcal</b>, un baño de vapor.</p><p>Se descubrió por casualidad en <b>1976</b>, al preparar el terreno para unos silos de grano, y el arqueólogo Payson Sheets dirigió las primeras investigaciones entre 1978 y 1980. Es Patrimonio de la Humanidad desde el 11 de diciembre de 1993.</p>"
+   },
+   "ver_alli": [
+    "Las casas excavadas se ven bajo cubiertas que las protegen de la lluvia y el sol.",
+    "Un pequeño museo explica la erupción y la vida en la aldea.",
+    "Está en el valle de Zapotitán, en el municipio de San Juan Opico."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Joya_de_Cer%C3%A9n",
+    "https://en.wikipedia.org/wiki/Joya_de_Cer%C3%A9n"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "fuertes-de-portobelo",
+   "nombre": "Fuertes de Portobelo",
+   "provincia": "Panamá",
+   "comarca": "Portobelo (Colón)",
+   "lat": 9.5547,
+   "lon": -79.6555,
+   "tipo": "castillo",
+   "estilo": "Fortificación abaluartada (Antonelli y siglo XVIII)",
+   "epoca": "Virreinatos y Brasil colonial",
+   "anio": 1597,
+   "regiones_sincronia": [
+    "Mesoamérica"
+   ],
+   "texto": {
+    "general": "<p>En una bahía de la costa caribeña de Panamá, Portobelo fue fundado en <b>1597</b> y pronto sustituyó a Nombre de Dios como uno de los dos puertos atlánticos de la <b>flota de Indias</b>: por aquí salía hacia España la plata americana.</p><p>Para protegerlo se levantó un cinturón de fuertes, cuarteles y baterías alrededor de la bahía. La primera fase, de 1596 a 1599, sigue el estilo de los ingenieros <b>Antonelli</b>; la segunda, de 1753 a 1760, es neoclásica. La riqueza del puerto atrajo a piratas y armadas enemigas: <b>Henry Morgan</b> lo saqueó en 1668 durante catorce días, y el almirante británico <b>Edward Vernon</b> lo tomó el 21 de noviembre de 1739.</p><p>Desde 1980 los fuertes de Portobelo y el de San Lorenzo, en la desembocadura del río Chagres, son Patrimonio de la Humanidad como parte del sistema defensivo con el que España protegía el comercio transatlántico.</p>"
+   },
+   "ver_alli": [
+    "Los fuertes de San Jerónimo, en el pueblo, y de Santiago, a la entrada de la bahía, se recorren a pie entre cañones.",
+    "El conjunto incluye también el fuerte de San Lorenzo, en la desembocadura del Chagres, más al oeste y a otra excursión."
+   ],
+   "fuentes": [
+    "https://whc.unesco.org/es/list/135",
+    "https://en.wikipedia.org/wiki/Portobelo,_Col%C3%B3n",
+    "https://es.wikipedia.org/wiki/Portobelo",
+    "https://www.openstreetmap.org/relation/10264491"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-san-pedro-de-la-roca",
+   "nombre": "Castillo de San Pedro de la Roca (El Morro de Santiago)",
+   "provincia": "Cuba",
+   "comarca": "Santiago de Cuba",
+   "lat": 19.9685,
+   "lon": -75.8703,
+   "tipo": "castillo",
+   "estilo": "Fortificación abaluartada de influencia renacentista italiana",
+   "epoca": "Virreinatos y Brasil colonial",
+   "anio": 1638,
+   "regiones_sincronia": [
+    "Caribe"
+   ],
+   "texto": {
+    "general": "<p>Sobre un promontorio de roca a la entrada de la bahía de Santiago de Cuba se levanta esta fortaleza, construida en <b>1638</b> con trazas del ingeniero italiano <b>Bautista Antonelli</b> para defender el puerto de los ataques por mar de corsarios y piratas.</p><p>Tras el terremoto de 1766, el ingeniero Agustín Crame reformó sus defensas. Durante las guerras de independencia sirvió de <b>prisión</b>, y frente a sus costas se libró, el <b>3 de julio de 1898</b>, la batalla naval de Santiago de Cuba, en la guerra entre España y Estados Unidos.</p><p>La UNESCO lo inscribió como Patrimonio de la Humanidad en 1997 por ser el ejemplo más completo y mejor conservado de la <b>arquitectura militar española en América</b>, basada en principios italianos y renacentistas.</p>"
+   },
+   "ver_alli": [
+    "Está en la boca de la bahía, a las afueras de Santiago.",
+    "Desde lo alto hay vistas amplias del mar Caribe y de la costa.",
+    "Hace calor y hay poca sombra: mejor a primera hora o al atardecer."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_San_Pedro_de_la_Roca",
+    "https://whc.unesco.org/es/list/841",
+    "https://en.wikipedia.org/wiki/Castillo_de_San_Pedro_de_la_Roca",
+    "https://www.openstreetmap.org/relation/20345825"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "museo-nacional-de-antropologia",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arquitectura moderna mexicana",
+    "ver_alli": [
+     "Hace falta al menos medio día; la sala mexica, con la Piedra del Sol, es la central.",
+     "La sala maya guarda la máscara de jade de Pakal y una reproducción de su cripta.",
+     "Está en el bosque de Chapultepec, cerca del castillo."
+    ]
+   }
+  },
+  {
+   "id": "teotihuacan",
+   "campos": {
+    "estilo": "Arquitectura teotihuacana (talud-tablero)"
+   }
+  },
+  {
+   "id": "templo-mayor",
+   "campos": {
+    "estilo": "Arquitectura mexica",
+    "ver_alli": [
+     "Se recorre por pasarelas sobre las ruinas, junto al Zócalo y la catedral.",
+     "El museo del sitio guarda las ofrendas, la Coyolxauhqui y el monolito de Tlaltecuhtli."
+    ]
+   }
+  },
+  {
+   "id": "plaza-de-las-tres-culturas-tlatelolco",
+   "campos": {
+    "estilo": "Arquitectura mexica y colonial",
+    "ver_alli": [
+     "Se recorren las ruinas junto a la iglesia de Santiago; hay un pequeño museo.",
+     "Alrededor se ven a la vez las ruinas, la iglesia del siglo XVI y los edificios modernos que dan nombre a la plaza."
+    ]
+   }
+  },
+  {
+   "id": "cuicuilco",
+   "campos": {
+    "estilo": "Preclásico mesoamericano (basamento circular)",
+    "ver_alli": [
+     "Junto a la avenida Insurgentes Sur; visita corta.",
+     "Desde el sendero se ve el corte de la lava del Xitle junto a la pirámide."
+    ]
+   }
+  },
+  {
+   "id": "texcotzingo-los-banos-de-nezahualcoyotl",
+   "campos": {
+    "lat": 19.497,
+    "lon": -98.818,
+    "estilo": "Arquitectura acolhua tallada en la roca",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Texcotzingo"
+    ]
+   }
+  },
+  {
+   "id": "monte-alban",
+   "campos": {
+    "estilo": "Arquitectura zapoteca",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Monte_Alb%C3%A1n"
+    ]
+   }
+  },
+  {
+   "id": "mitla",
+   "campos": {
+    "estilo": "Arquitectura zapoteca-mixteca (grecas de mosaico)"
+   }
+  },
+  {
+   "id": "palenque",
+   "campos": {
+    "estilo": "Maya clásico"
+   }
+  },
+  {
+   "id": "bonampak",
+   "campos": {
+    "estilo": "Maya clásico (pintura mural)",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Bonampak"
+    ]
+   }
+  },
+  {
+   "id": "yaxchilan",
+   "campos": {
+    "estilo": "Maya clásico (dinteles tallados)",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Yaxchilan"
+    ]
+   }
+  },
+  {
+   "id": "calakmul",
+   "campos": {
+    "estilo": "Maya preclásico y clásico",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Calakmul"
+    ]
+   }
+  },
+  {
+   "id": "chichen-itza",
+   "campos": {
+    "estilo": "Maya del Clásico terminal y Posclásico temprano"
+   }
+  },
+  {
+   "id": "uxmal",
+   "campos": {
+    "estilo": "Maya Puuc"
+   }
+  },
+  {
+   "id": "mayapan",
+   "campos": {
+    "estilo": "Maya posclásico"
+   }
+  },
+  {
+   "id": "tulum",
+   "campos": {
+    "estilo": "Maya posclásico (costa oriental)"
+   }
+  },
+  {
+   "id": "el-tajin",
+   "campos": {
+    "estilo": "Clásico del Golfo (nichos y cornisas voladas)",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/El_Taj%C3%ADn"
+    ]
+   }
+  },
+  {
+   "id": "xochicalco",
+   "campos": {
+    "estilo": "Epiclásico mesoamericano",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Xochicalco"
+    ]
+   }
+  },
+  {
+   "id": "cacaxtla",
+   "campos": {
+    "estilo": "Epiclásico (pintura mural)"
+   }
+  },
+  {
+   "id": "tula",
+   "campos": {
+    "estilo": "Arquitectura tolteca"
+   }
+  },
+  {
+   "id": "gran-piramide-de-cholula",
+   "campos": {
+    "estilo": "Pirámide mesoamericana con santuario colonial"
+   }
+  },
+  {
+   "id": "malinalco",
+   "campos": {
+    "lat": 18.9533,
+    "lon": -99.5031,
+    "estilo": "Arquitectura mexica monolítica",
+    "fuentes": [
+     "https://www.openstreetmap.org/way/26619694"
+    ]
+   }
+  },
+  {
+   "id": "tzintzuntzan",
+   "campos": {
+    "lat": 19.6231,
+    "lon": -101.5738,
+    "estilo": "Arquitectura purépecha (yácatas)",
+    "fuentes": [
+     "https://www.openstreetmap.org/way/26797083"
+    ]
+   }
+  },
+  {
+   "id": "parque-museo-la-venta",
+   "campos": {
+    "lat": 18.0017,
+    "lon": -92.934,
+    "tipo": "museo",
+    "estilo": "Escultura olmeca al aire libre",
+    "fuentes": [
+     "https://www.openstreetmap.org/way/802672901"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-antropologia-de-xalapa",
+   "campos": {
+    "lat": 19.5507,
+    "lon": -96.9309,
+    "tipo": "museo",
+    "estilo": "Arte olmeca y del Golfo",
+    "ver_alli": [
+     "El edificio baja en terrazas, de las piezas más antiguas a las más recientes.",
+     "Las cabezas colosales están en las salas y en los patios ajardinados."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/way/367905094"
+    ]
+   }
+  },
+  {
+   "id": "paquime-casas-grandes",
+   "campos": {
+    "estilo": "Arquitectura de adobe de Casas Grandes",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Casas_Grandes"
+    ]
+   }
+  },
+  {
+   "id": "tikal",
+   "campos": {
+    "estilo": "Maya clásico",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Tikal"
+    ]
+   }
+  },
+  {
+   "id": "quirigua",
+   "campos": {
+    "estilo": "Maya clásico (estelas monumentales)",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Quirigu%C3%A1"
+    ]
+   }
+  },
+  {
+   "id": "copan",
+   "campos": {
+    "estilo": "Maya clásico",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Cop%C3%A1n"
+    ]
+   }
+  },
+  {
+   "id": "parque-ceremonial-indigena-de-caguana",
+   "campos": {
+    "lat": 18.2953,
+    "lon": -66.779,
+    "estilo": "Arte taíno (bateyes y petroglifos)",
+    "fuentes": [
+     "https://www.openstreetmap.org/way/431764708"
+    ]
+   }
+  },
+  {
+   "id": "zocalo-y-catedral-metropolitana",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Renacentista, barroco y neoclásico"
+   }
+  },
+  {
+   "id": "palacio-nacional-y-murales-de-diego-rive",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Barroco novohispano; muralismo mexicano",
+    "ver_alli": [
+     "Hay que llevar identificación para entrar.",
+     "Los murales de Rivera están en la escalera principal y en las galerías del primer piso."
+    ]
+   }
+  },
+  {
+   "id": "casa-azul-de-frida-kahlo",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Casa-museo",
+    "ver_alli": [
+     "Suele haber mucha demanda: conviene reservar con días de antelación.",
+     "La casa de León Trotski está a pocas calles."
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-chapultepec",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Neoclásico"
+   }
+  },
+  {
+   "id": "dolores-hidalgo",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Barroco novohispano"
+   }
+  },
+  {
+   "id": "alhondiga-de-granaditas",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Neoclásico"
+   }
+  },
+  {
+   "id": "zacatecas",
+   "campos": {
+    "lat": 22.7755,
+    "lon": -102.572,
+    "tipo": "poblacion",
+    "estilo": "Barroco churrigueresco",
+    "fuentes": [
+     "https://www.openstreetmap.org/way/746186615"
+    ]
+   }
+  },
+  {
+   "id": "fuertes-de-loreto-y-guadalupe",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Fortificación abaluartada"
+   }
+  },
+  {
+   "id": "capilla-del-rosario-de-puebla",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Barroco novohispano"
+   }
+  },
+  {
+   "id": "cerro-de-las-campanas-y-teatro-de-la-rep",
+   "campos": {
+    "lat": 20.593,
+    "lon": -100.4096,
+    "tipo": "monumento",
+    "estilo": "Memorial y teatro del siglo XIX",
+    "fuentes": [
+     "https://www.openstreetmap.org/way/1264975822"
+    ]
+   }
+  },
+  {
+   "id": "museo-casa-de-villa",
+   "campos": {
+    "lat": 28.6267,
+    "lon": -106.0685,
+    "tipo": "museo",
+    "estilo": "Casa-museo",
+    "fuentes": [
+     "https://www.openstreetmap.org/node/1656703991"
+    ]
+   }
+  },
+  {
+   "id": "fuerte-de-san-diego",
+   "campos": {
+    "lat": 16.8499,
+    "lon": -99.9026,
+    "tipo": "castillo",
+    "estilo": "Fortificación abaluartada en estrella",
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/158418"
+    ]
+   }
+  },
+  {
+   "id": "murallas-de-campeche",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Fortificación abaluartada"
+   }
+  },
+  {
+   "id": "san-cristobal-de-las-casas",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Colonial y barroco"
+   }
+  },
+  {
+   "id": "hospicio-cabanas",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Neoclásico; murales de Orozco"
+   }
+  },
+  {
+   "id": "antigua-guatemala",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Barroco antigüeño"
+   }
+  },
+  {
+   "id": "panama-viejo-y-casco-antiguo",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Colonial español"
+   }
+  },
+  {
+   "id": "esclusas-de-miraflores-canal-de-panama",
+   "campos": {
+    "lat": 8.9955,
+    "lon": -79.5907,
+    "tipo": "monumento",
+    "estilo": "Ingeniería del siglo XX",
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/11491019",
+     "https://en.wikipedia.org/wiki/Miraflores_(Panama)"
+    ]
+   }
+  },
+  {
+   "id": "el-mozote",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Memorial"
+   }
+  },
+  {
+   "id": "catedral-de-san-salvador-y-tumba-de-rome",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura moderna"
+   }
+  },
+  {
+   "id": "zona-colonial-de-santo-domingo",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Gótico isabelino y renacentista"
+   }
+  },
+  {
+   "id": "la-isabela",
+   "campos": {
+    "estilo": "Arqueología colonial temprana",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/La_Isabela"
+    ]
+   }
+  },
+  {
+   "id": "puerta-del-conde-y-altar-de-la-patria",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Puerta de muralla colonial y mausoleo de mármol"
+   }
+  },
+  {
+   "id": "museo-memorial-de-la-resistencia-dominic",
+   "campos": {
+    "lat": 18.4717,
+    "lon": -69.888,
+    "tipo": "museo",
+    "estilo": "Museo de memoria",
+    "fuentes": [
+     "https://www.openstreetmap.org/way/406641460"
+    ]
+   }
+  },
+  {
+   "id": "la-habana-vieja-y-sus-fortificaciones",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Barroco colonial y fortificación abaluartada",
+    "texto": {
+     "general": "<p>La ciudad antigua de La Habana, con sus plazas, la catedral barroca, palacios coloniales y las grandes fortalezas que defendían el puerto de las flotas: el castillo del Morro y La Fuerza, tomados por los ingleses en 1762, y La Cabaña, levantada después, entre 1763 y 1774, para cerrar el flanco por el que entraron. Es Patrimonio de la Humanidad.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/La_Caba%C3%B1a"
+    ]
+   }
+  },
+  {
+   "id": "trinidad-y-el-valle-de-los-ingenios",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Colonial cubano"
+   }
+  },
+  {
+   "id": "cuartel-moncada-y-cementerio-de-santa-if",
+   "campos": {
+    "lat": 20.0264,
+    "lon": -75.8192,
+    "tipo": "monumento",
+    "estilo": "Arquitectura militar",
+    "fuentes": [
+     "https://www.openstreetmap.org/way/39075813",
+     "https://en.wikipedia.org/wiki/Attack_on_the_Moncada_Barracks"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-revolucion",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Ecléctico",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Museum_of_the_Revolution_(Cuba)"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-playa-giron",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de historia"
+   }
+  },
+  {
+   "id": "viejo-san-juan-y-el-morro",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Fortificación abaluartada",
+    "ver_alli": [
+     "El Morro y el castillo de San Cristóbal se visitan juntos.",
+     "Desde las murallas de El Morro se domina la entrada de la bahía."
+    ]
+   }
+  },
+  {
+   "id": "ciudadela-laferriere",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Fortaleza de montaña del siglo XIX",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Citadelle_Laferri%C3%A8re"
+    ]
+   }
+  },
+  {
+   "id": "museo-del-meteorito-progreso",
+   "campos": {
+    "lat": 21.2885,
+    "lon": -89.6562,
+    "tipo": "museo",
+    "estilo": "Museo de ciencia",
+    "fuentes": [
+     "https://www.sopitas.com/?p=1804428",
+     "https://www.poresto.com/yucatan/2026/4/1/museo-del-meteorito-y-reserva-el-corchito-acumulan-mas-de-42-mil-visitantes-en-tres-meses.html",
+     "https://www.openstreetmap.org/node/11098100117"
+    ]
+   }
+  },
+  {
+   "id": "el-mirador",
+   "campos": {
+    "estilo": "Maya preclásico",
+    "fuentes": [
+     "https://www.riegl.com/en-uk/news-insights/article/lidar-analyses-in-the-contiguous-mirador-calakmul-karst-basin-guatemala-an-introduction-to-new-perspectives-on-regional-early-maya-socioeconomic-and-political-organization",
+     "https://hyperallergic.com/long-lost-maya-kingdom-uncovered-in-guatemala/",
+     "https://www.elespectador.com/ciencia/descubren-gran-civilizacion-maya-de-hace-2000-anos-en-el-norte-de-guatemala/",
+     "https://en.wikipedia.org/wiki/El_Mirador"
+    ]
+   }
+  },
+  {
+   "id": "canales-y-chinampas-de-xochimilco",
+   "campos": {
+    "estilo": "Paisaje agrícola de chinampas"
+   }
+  }
+ ]
+}

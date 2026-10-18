@@ -1,0 +1,821 @@
+{
+ "zona": "Levante",
+ "nuevos": [
+  {
+   "id": "bet-shean-escitopolis",
+   "nombre": "Bet She'an (Escitópolis)",
+   "provincia": "Israel/Palestina",
+   "comarca": "Bet She'an (valle del Jordán)",
+   "lat": 32.5013,
+   "lon": 35.5016,
+   "tipo": "yacimiento",
+   "estilo": "Urbanismo romano y bizantino",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Levante"
+   ],
+   "texto": {
+    "general": "<p>Al pie de un gran montículo junto al valle del Jordán se extienden las calles de columnas de una de las ciudades romanas mejor conservadas de la región. Mucho antes, tras la conquista de <b>Tutmosis III</b> en el siglo XV a. C., el lugar fue el centro administrativo de Egipto en la zona durante unos 300 años, hasta que un incendio lo destruyó hacia el 1150 a. C.</p><p>En época helenística recibió el nombre de <b>Escitópolis</b>, «ciudad de los escitas», y con Roma fue la principal ciudad de la <b>Decápolis</b>, la única de esa liga al oeste del Jordán. Su teatro romano es el mejor conservado de la antigua Samaria.</p><p>El 18 de enero de 749 un <b>terremoto</b> arrasó la ciudad omeya de Baysán, que nunca recuperó su importancia.</p>"
+   },
+   "ver_alli": [
+    "El parque nacional reúne el teatro, las termas y las calles de columnas; desde lo alto del montículo se ve todo el conjunto.",
+    "En verano hace mucho calor: mejor ir a primera hora.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Beit_She%27an",
+    "https://www.openstreetmap.org/search?query=Scythopolis%20theatre"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "avdat",
+   "nombre": "Avdat",
+   "provincia": "Israel/Palestina",
+   "comarca": "Négueb",
+   "lat": 30.7942,
+   "lon": 34.774,
+   "tipo": "yacimiento",
+   "estilo": "Nabateo y bizantino",
+   "epoca": "Grecorromano",
+   "anio": -9,
+   "regiones_sincronia": [
+    "Levante"
+   ],
+   "texto": {
+    "general": "<p>En lo alto de una colina del desierto del Négueb, Avdat fue la ciudad nabatea más importante de la <b>Ruta del Incienso</b> después de Petra. Desde el siglo III a. C. fue un campamento de caravanas en el camino de Petra a Gaza.</p><p>Tomó su nombre del rey <b>Obodas I</b>, venerado como dios tras su muerte, al que se dedicó un templo en la acrópolis en el 9 a. C. En los siglos V y VI se levantaron arriba una ciudadela y un monasterio con dos iglesias, entre ellas la de San Teodoro.</p><p>Un terremoto a comienzos del siglo VIII la destruyó. Desde 2005 es Patrimonio Mundial, junto con otras ciudades del desierto del Négueb.</p>"
+   },
+   "ver_alli": [
+    "El centro de visitantes está al pie de la colina, a unos 500 m al oeste de la acrópolis.",
+    "En el desierto conviene llevar agua y protección del sol.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Avdat",
+    "https://www.openstreetmap.org/search?query=Avdat%20National%20Park"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-de-hisham",
+   "nombre": "Palacio de Hisham (Jirbat al-Mafyar)",
+   "provincia": "Cisjordania (Palestina)",
+   "comarca": "Jericó",
+   "lat": 31.8823,
+   "lon": 35.4598,
+   "tipo": "yacimiento",
+   "estilo": "Arquitectura omeya",
+   "epoca": "Islámico medieval",
+   "anio": 724,
+   "regiones_sincronia": [
+    "Levante"
+   ],
+   "texto": {
+    "general": "<p>A unos 3 km al norte del centro de Jericó quedan las ruinas de un gran complejo palaciego <b>omeya</b> construido entre 724 y 743. Un fragmento de cerámica con el nombre «Hisham» lo relaciona con el califa <b>Hisham ibn Abd al-Malik</b>, aunque no es seguro quién lo mandó levantar.</p><p>Su joya es el suelo de mosaico de la sala de baños, de unos 835 metros cuadrados, uno de los mayores conservados. En la pequeña sala de recepción está el famoso mosaico del <b>Árbol de la Vida</b>: un árbol cargado de fruta, dos gacelas paciendo y un león que ataca a una tercera.</p><p>Se suele decir que lo destruyó el terremoto de 749, aunque un estudio geológico de 2013 lo relaciona con el de 1033. El gran mosaico se restauró con fondos japoneses y se abrió al público en octubre de 2021, bajo una cubierta con pasarelas.</p>"
+   },
+   "ver_alli": [
+    "El gran mosaico de los baños se ve desde pasarelas elevadas bajo una cubierta.",
+    "Parte de las yeserías del palacio se exponen en el Museo Rockefeller de Jerusalén.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Hisham%27s_Palace"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "betania-al-otro-lado-del-jordan-al-maghtas",
+   "nombre": "Betania al otro lado del Jordán (Al-Maghtas)",
+   "provincia": "Jordania",
+   "comarca": "Valle del Jordán",
+   "lat": 31.8372,
+   "lon": 35.5503,
+   "tipo": "yacimiento",
+   "estilo": "Iglesias bizantinas",
+   "epoca": "Antigüedad tardía",
+   "anio": 491,
+   "regiones_sincronia": [
+    "Levante"
+   ],
+   "texto": {
+    "general": "<p>En la orilla oriental del río Jordán, poco antes del mar Muerto, la tradición cristiana sitúa el lugar donde <b>Juan el Bautista</b> bautizó a Jesús. Es Patrimonio Mundial desde 2015 con el nombre de «Betania al otro lado del Jordán».</p><p>El emperador <b>Anastasio I</b> levantó entre 491 y 518 la primera iglesia dedicada a San Juan, y en 570 se construyó una escalera de mármol que bajaba al agua. En la colina de <b>Tell al-Jarrar</b>, que la tradición identifica con el lugar desde el que el profeta Elías subió al cielo, se construyó un monasterio en el siglo V.</p><p>El mapa en mosaico de Madaba, del siglo VI, recoge el nombre de «Betabara». En la orilla de enfrente está Qasr al-Yahud, otro lugar de peregrinación que no forma parte de la inscripción de la UNESCO.</p>"
+   },
+   "ver_alli": [
+    "La visita se hace en grupo desde el centro de visitantes, con un tramo en lanzadera y otro a pie hasta el río.",
+    "Se ven los restos de las iglesias bizantinas y la orilla del Jordán.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Al-Maghtas",
+    "https://www.openstreetmap.org/search?query=Bethany%20Beyond%20the%20Jordan"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "um-er-rasas",
+   "nombre": "Um er-Rasas (Kastron Mefaa)",
+   "provincia": "Jordania",
+   "comarca": "Madaba",
+   "lat": 31.5008,
+   "lon": 35.9203,
+   "tipo": "yacimiento",
+   "estilo": "Mosaico bizantino y omeya",
+   "epoca": "Islámico medieval",
+   "anio": 785,
+   "regiones_sincronia": [
+    "Levante"
+   ],
+   "texto": {
+    "general": "<p>En la estepa al sureste de Madaba se alzan las ruinas de <b>Kastron Mefaa</b>, una antigua ciudad con varias iglesias de suelos de mosaico. Es Patrimonio Mundial desde 2004.</p><p>Su gran tesoro es el mosaico de la <b>iglesia de San Esteban</b>, cuyas inscripciones griegas lo fechan entre 756 y 785, ya en época abasí. Muestra vistas de ciudades de Tierra Santa y de Egipto: Jerusalén, Nablus, Cesarea, Gaza, Filadelfia (Amán), Madaba, Kerak o Alejandría, entre otras.</p><p>Aproximadamente 1,6 km al norte de las murallas se levanta una solitaria <b>torre</b> bizantina, que se cree que usaban ascetas estilitas.</p>"
+   },
+   "ver_alli": [
+    "Los mosaicos de San Esteban están bajo una cubierta protectora, con pasarelas.",
+    "Se suele combinar con Madaba en el mismo día.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Umm_ar-Rasas"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "bosra",
+   "nombre": "Bosra",
+   "provincia": "Siria",
+   "comarca": "Daraa (Hauran)",
+   "lat": 32.5177,
+   "lon": 36.4814,
+   "tipo": "yacimiento",
+   "estilo": "Teatro romano de basalto",
+   "epoca": "Romano",
+   "anio": 106,
+   "regiones_sincronia": [
+    "Levante"
+   ],
+   "texto": {
+    "general": "<p>Bosra, en la llanura del Hauran, fue primero la capital del norte del reino de los <b>nabateos</b>. En el 106, un general de Trajano tomó el reino y la ciudad pasó a ser la capital de la provincia romana de <b>Arabia</b>. Es Patrimonio Mundial desde 1980.</p><p>Su gran joya es el <b>teatro romano</b> de basalto negro, del siglo II, con capacidad para unas 17.000 personas. Se conservó casi entero porque en la Edad Media los ayubíes construyeron una fortaleza a su alrededor, que guardaba el camino de Damasco.</p><p>La ciudad tiene también la mezquita de al-Omari, levantada por los omeyas en 721, una de las más antiguas que se conservan. La tradición islámica sitúa aquí el encuentro del joven Mahoma con el monje cristiano Bahira.</p>"
+   },
+   "ver_alli": [
+    "El teatro se visita entrando por la fortaleza que lo rodea.",
+    "La ciudad antigua, de casas de basalto, se recorre a pie.",
+    "Consultar antes la situación de seguridad y viajar con guía.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Bosra",
+    "https://en.wikipedia.org/wiki/Roman_Theatre_at_Bosra"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "basilica-de-san-simeon-el-estilita",
+   "nombre": "Basílica de San Simeón el Estilita (Qalat Siman)",
+   "provincia": "Siria",
+   "comarca": "Alepo (Macizo Calcáreo)",
+   "lat": 36.334,
+   "lon": 36.8441,
+   "tipo": "yacimiento",
+   "estilo": "Arquitectura paleocristiana siria",
+   "epoca": "Antigüedad tardía",
+   "anio": 490,
+   "regiones_sincronia": [
+    "Levante"
+   ],
+   "texto": {
+    "general": "<p>Al noroeste de Alepo, en lo alto de una colina, quedan las ruinas de uno de los grandes santuarios de la cristiandad antigua. Aquí vivió durante años sobre una columna el monje <b>Simeón el Estilita</b>, que murió en 459.</p><p>Unas décadas después se levantó a su alrededor una enorme iglesia en forma de <b>cruz</b>: cuatro basílicas unidas a un patio octogonal, en cuyo centro, bajo una cúpula, quedaba la columna del santo. Las obras se dan por terminadas hacia 490.</p><p>Desde 2011 forma parte del Patrimonio Mundial «Pueblos antiguos del norte de Siria». En mayo de 2016 un bombardeo dañó los restos de la columna y las ruinas que la rodean.</p>"
+   },
+   "ver_alli": [
+    "En el centro de la basílica se ve lo que queda de la columna del santo.",
+    "Consultar antes la situación de seguridad y viajar con guía.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Church_of_Saint_Simeon_Stylites"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "apamea",
+   "nombre": "Apamea",
+   "provincia": "Siria",
+   "comarca": "Hama (valle del Orontes)",
+   "lat": 35.4204,
+   "lon": 36.4017,
+   "tipo": "yacimiento",
+   "estilo": "Urbanismo helenístico y romano",
+   "epoca": "Griegos",
+   "anio": -300,
+   "regiones_sincronia": [
+    "Levante"
+   ],
+   "texto": {
+    "general": "<p>Sobre una meseta que domina el valle del Orontes, <b>Seleuco I</b>, uno de los generales de Alejandro Magno, fundó hacia el 300 a. C. una ciudad a la que dio el nombre de su esposa, Apama. La convirtió en una base militar donde se criaban <b>500 elefantes</b> de guerra.</p><p>Su imagen más famosa es la <b>gran columnata</b>: una avenida de casi 2 km de largo, una de las más largas del mundo romano.</p><p>Los terremotos, como el del 115, la arruinaron varias veces. Durante la guerra de Siria fue muy saqueada: en 2017 las fotos de satélite mostraban el terreno cubierto de cientos de agujeros de buscadores de tesoros.</p>"
+   },
+   "ver_alli": [
+    "La gran columnata se recorre a pie de norte a sur.",
+    "Consultar antes la situación de seguridad y viajar con guía.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Apamea,_Syria",
+    "https://www.openstreetmap.org/search?query=Apamea"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "valle-de-qadisha",
+   "nombre": "Valle de Qadisha y monasterio de Qannubin",
+   "provincia": "Líbano",
+   "comarca": "Bsharri (Líbano Norte)",
+   "lat": 34.2574,
+   "lon": 35.9497,
+   "tipo": "iglesia",
+   "estilo": "Monasterios rupestres maronitas",
+   "epoca": "Islámico medieval",
+   "regiones_sincronia": [
+    "Levante"
+   ],
+   "texto": {
+    "general": "<p>El «Valle Santo» es un profundo cañón del norte del Líbano, lleno de cuevas en sus acantilados. Durante siglos sirvió de refugio a <b>ermitaños</b> y monjes, que convirtieron muchas de esas cuevas en celdas, capillas y monasterios.</p><p>Allí los monjes <b>maronitas</b> establecieron un centro en <b>Qannubin</b>, y desde el siglo XV el monasterio de Deir Qannubin fue la sede del patriarca maronita durante unos 500 años. Las campañas mamelucas de 1268 y 1283 atacaron las cuevas fortificadas y los monasterios del valle.</p><p>Desde 1998 es Patrimonio Mundial junto con el <b>Bosque de los Cedros de Dios</b>, que crece en la montaña, sobre el valle.</p>"
+   },
+   "ver_alli": [
+    "Al monasterio de Qannubin solo se llega a pie, por un sendero que baja al fondo del valle.",
+    "El Bosque de los Cedros de Dios está más arriba, junto a Bsharri.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Kadisha_Valley",
+    "https://www.openstreetmap.org/search?query=Qannoubine%20Monastery"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "tell-es-sultan-jerico",
+   "campos": {
+    "estilo": "Neolítico precerámico",
+    "ver_alli": [
+     "El montículo está en las afueras de Jericó, junto al manantial de Ein es-Sultan.",
+     "Se ve sobre todo la gran trinchera de Kathleen Kenyon con la torre neolítica en el fondo.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "mari-tell-hariri",
+   "campos": {
+    "estilo": "Arquitectura mesopotámica de adobe",
+    "ver_alli": [
+     "Consultar antes la situación de seguridad y viajar con guía.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "dura-europos",
+   "campos": {
+    "estilo": "Urbanismo helenístico y romano",
+    "ver_alli": [
+     "Consultar antes la situación de seguridad y viajar con guía.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "cuevas-del-monte-carmelo-nahal-me-arot",
+   "campos": {
+    "estilo": "Cuevas prehistóricas",
+    "ver_alli": [
+     "Las cuevas están en una reserva natural en la ladera del Carmelo, con un sendero señalizado que sube hasta ellas.",
+     "En una de las cuevas se proyecta un audiovisual sobre la vida prehistórica.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "museo-de-jordania-y-ciudadela-de-aman",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo arqueológico y acrópolis romana y omeya",
+    "ver_alli": [
+     "El punto marca la Ciudadela, con su pequeño museo arqueológico; desde lo alto se ve el teatro romano de Amán.",
+     "El Museo de Jordania, donde hoy se exponen las estatuas de ʿAin Ghazal y los Rollos, está en Ras al-Ain, a algo más de 1 km al suroeste.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "megido",
+   "campos": {
+    "estilo": "Tell cananeo e israelita",
+    "ver_alli": [
+     "El parque nacional tiene un pequeño centro de visitantes con una maqueta del tell.",
+     "Merece la pena bajar al túnel de agua excavado en la roca.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "ugarit-ras-shamra",
+   "campos": {
+    "estilo": "Ciudad cananea de la Edad del Bronce",
+    "ver_alli": [
+     "Está junto a la costa, a unos kilómetros al norte de Latakia.",
+     "Consultar antes la situación de seguridad y viajar con guía.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "ebla-tell-mardikh",
+   "campos": {
+    "estilo": "Ciudad de adobe de la Edad del Bronce",
+    "ver_alli": [
+     "Consultar antes la situación de seguridad y viajar con guía.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "biblos",
+   "campos": {
+    "estilo": "Fenicio, romano y cruzado",
+    "ver_alli": [
+     "El recinto arqueológico se recorre desde el castillo cruzado, que tiene la mejor vista sobre las ruinas y el mar.",
+     "Al lado están el zoco antiguo y el pequeño puerto.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "tiro",
+   "campos": {
+    "estilo": "Romano y bizantino",
+    "ver_alli": [
+     "Hay dos zonas separadas: la de al-Mina, junto al mar, y la de al-Bass, con el hipódromo, el arco y la necrópolis.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "sidon-castillo-del-mar",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Fortaleza cruzada",
+    "ver_alli": [
+     "Se entra por el puente de piedra desde el paseo marítimo.",
+     "En el casco antiguo, a pocos pasos, están el Museo del Jabón y el caravasar de los francos.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "ciudad-de-david-y-tunel-de-ezequias",
+   "campos": {
+    "estilo": "Edad del Hierro",
+    "ver_alli": [
+     "Está en el barrio de Silwan, al sur de la Ciudad Vieja, bajando desde la puerta de los Basureros.",
+     "Para el túnel de agua conviene llevar calzado que pueda mojarse y una linterna.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "laquis",
+   "campos": {
+    "estilo": "Tell de la Edad del Hierro",
+    "ver_alli": [
+     "El tell está en campo abierto, en la Sefelá; se llega mejor en coche.",
+     "Arriba hay paneles que explican el asedio asirio y la rampa.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "tel-dan",
+   "campos": {
+    "estilo": "Tell cananeo e israelita",
+    "ver_alli": [
+     "El yacimiento está dentro de una reserva natural, con senderos junto a los manantiales del río Dan.",
+     "La puerta cananea de adobe está al final del recorrido.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "hazor",
+   "campos": {
+    "estilo": "Tell cananeo e israelita",
+    "ver_alli": [
+     "El parque nacional está junto al kibutz Ayelet HaShahar.",
+     "Lo más llamativo es bajar por la escalera del gran pozo de agua de época israelita.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "museo-de-israel-los-rollos-del-mar-muert",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arquitectura moderna",
+    "ver_alli": [
+     "Está en el oeste de Jerusalén, en la colina junto a la Knéset.",
+     "El Santuario del Libro y la gran maqueta de la ciudad del Segundo Templo están en el jardín, al aire libre.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "qumran",
+   "campos": {
+    "estilo": "Asentamiento del periodo del Segundo Templo",
+    "ver_alli": [
+     "El parque está junto a la carretera de la orilla del mar Muerto; se empieza con un audiovisual.",
+     "Desde los miradores se ve la cueva 4 en el acantilado.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "muro-occidental-y-explanada-del-templo",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Sillería herodiana",
+    "ver_alli": [
+     "A la plaza del Muro se entra con control de seguridad; hay zonas separadas para hombres y mujeres y conviene vestir con recato.",
+     "El Parque Arqueológico, en la esquina sur, muestra la calle herodiana y el arco de Robinson.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "masada",
+   "campos": {
+    "estilo": "Arquitectura herodiana",
+    "ver_alli": [
+     "Se sube en teleférico o a pie por el sendero de la serpiente; en verano conviene ir muy temprano por el calor.",
+     "En el centro de visitantes, al pie de la meseta, hay un museo con hallazgos de las excavaciones.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "cesarea-maritima",
+   "campos": {
+    "estilo": "Romano herodiano y cruzado",
+    "ver_alli": [
+     "El parque nacional reúne el teatro, el palacio junto al mar, el hipódromo y la ciudad cruzada amurallada.",
+     "El acueducto está algo al norte, en la playa.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "petra",
+   "campos": {
+    "estilo": "Arquitectura nabatea rupestre",
+    "ver_alli": [
+     "El punto marca el centro de la ciudad antigua, junto a la calle de columnas; el Tesoro queda a algo más de 1 km al sureste, al final del Siq.",
+     "Se necesita al menos un día completo y buen calzado.",
+     "Antes de entrar conviene ver el Museo de Petra, junto al centro de visitantes."
+    ]
+   }
+  },
+  {
+   "id": "jerash",
+   "campos": {
+    "estilo": "Urbanismo romano",
+    "ver_alli": [
+     "Se entra por el Arco de Adriano y se recorre la ciudad de sur a norte por la calle de columnas.",
+     "Hay que reservar varias horas.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "palmira",
+   "campos": {
+    "estilo": "Grecorromano palmireno",
+    "ver_alli": [
+     "Consultar antes la situación de seguridad y viajar con guía.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "baalbek",
+   "campos": {
+    "estilo": "Templos romanos corintios",
+    "ver_alli": [
+     "El recinto reúne el templo de Júpiter y el de Baco; el pequeño templo de Venus queda algo apartado.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "basilica-del-santo-sepulcro",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Bizantino y románico cruzado",
+    "ver_alli": [
+     "Suele haber mucha gente; a primera hora de la mañana se ve con más calma.",
+     "Dentro conviven capillas de varias confesiones; se pide silencio y vestir con respeto.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ],
+    "texto": {
+     "general": "<p>La iglesia construida por Constantino sobre el lugar donde los cristianos sitúan la crucifixión y la tumba de Jesús. Destruida por al-Hakim en 1009 y reconstruida por bizantinos y cruzados. Comparten el templo seis confesiones cristianas; desde hace siglos dos familias musulmanas se encargan de la puerta: los Joudeh guardan la llave y los Nuseibeh la abren.</p><p>Recuperar este lugar fue el gran objetivo de la Primera Cruzada. Tras tomar Jerusalén en julio de 1099, los cruzados pusieron canónigos latinos en la iglesia y Godofredo de Bouillon tomó el título de «defensor del Santo Sepulcro». Ampliaron el templo bizantino con una iglesia de estilo románico que se consagró en 1149, y la fachada de doble puerta que se ve hoy es de aquella obra. En 1187 Saladino recuperó la ciudad, pero dejó la iglesia abierta a los cristianos orientales y, tras la tregua de 1192, a los peregrinos.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Church_of_the_Holy_Sepulchre"
+    ]
+   }
+  },
+  {
+   "id": "basilica-de-la-natividad",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Basílica paleocristiana",
+    "ver_alli": [
+     "La basílica da a la plaza del Pesebre, en el centro de Belén.",
+     "La puerta de la Humildad, muy baja, obliga a agacharse para entrar.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "madaba-y-monte-nebo",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Mosaico bizantino",
+    "ver_alli": [
+     "El punto marca la iglesia de San Jorge de Madaba, con el mapa en mosaico.",
+     "El monte Nebo y su basílica están a unos 9 km al noroeste.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "cupula-de-la-roca-y-mezquita-de-al-aqsa",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura omeya"
+   }
+  },
+  {
+   "id": "gran-mezquita-de-los-omeyas",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura omeya",
+    "ver_alli": [
+     "Está en el corazón de la Ciudad Vieja, al final del zoco al-Hamidiyya.",
+     "Consultar antes la situación de seguridad y viajar con guía.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "anjar",
+   "campos": {
+    "estilo": "Urbanismo omeya",
+    "ver_alli": [
+     "El recinto está en el valle de la Becá, a las afueras del pueblo de Anjar.",
+     "Se recorre siguiendo sus dos calles principales, que se cruzan en un tetrapilo.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ],
+    "lat": 33.7323,
+    "lon": 35.9335,
+    "fuentes": [
+     "https://www.openstreetmap.org/way/26932279"
+    ]
+   }
+  },
+  {
+   "id": "qusayr-amra",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura omeya",
+    "ver_alli": [
+     "Está junto a la carretera del desierto oriental; se combina bien con Qasr al-Jarana.",
+     "Hay un pequeño centro de visitantes antes de llegar al edificio.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "acre-akko",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Ciudad cruzada y otomana",
+    "ver_alli": [
+     "La ciudad vieja amurallada se recorre a pie; las salas de los caballeros están bajo la ciudadela otomana.",
+     "El túnel de los templarios llega hasta la zona del puerto.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "krak-de-los-caballeros",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Fortaleza cruzada",
+    "ver_alli": [
+     "El castillo domina el valle desde una colina sobre la carretera de Homs a la costa.",
+     "Consultar antes la situación de seguridad y viajar con guía.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-kerak",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Fortaleza cruzada",
+    "ver_alli": [
+     "Está en lo alto de la ciudad de Kerak, sobre la antigua Vía Real.",
+     "Conviene llevar linterna para las galerías subterráneas.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "ciudadela-de-alepo",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Arquitectura militar ayubí",
+    "ver_alli": [
+     "Se entra por el puente y la gran puerta desde la plaza que la rodea, junto al zoco.",
+     "Consultar antes la situación de seguridad y viajar con guía.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "qasr-al-jarana",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura omeya",
+    "ver_alli": [
+     "A unos 60 km de Amán, junto a la carretera del desierto oriental; se combina con Qusayr Amra.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "yad-vashem",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arquitectura contemporánea",
+    "ver_alli": [
+     "Está en el monte del Recuerdo, al oeste de Jerusalén, junto al monte Herzl.",
+     "La visita es dura; no se recomienda a niños pequeños.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "sala-de-la-independencia",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Edificio de comienzos del siglo XX",
+    "ver_alli": [
+     "Está en el bulevar Rothschild, en la Ciudad Blanca.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "ciudad-blanca-de-tel-aviv",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Bauhaus y Estilo Internacional",
+    "ver_alli": [
+     "Hay un centro Bauhaus con recorridos a pie.",
+     "Las calles más representativas están en torno a la plaza Dizengoff y el bulevar Rothschild.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "plaza-rabin-y-memorial",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Urbanismo moderno",
+    "ver_alli": [
+     "El Centro Isaac Rabin, al norte de la ciudad, cuenta su vida.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "monte-herzl",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Cementerio nacional",
+    "ver_alli": [
+     "Está junto a Yad Vashem.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "kibutz-degania",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Kibutz",
+    "ver_alli": [
+     "Cerca está el lugar donde el río Jordán sale del lago.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ],
+    "lat": 32.7069,
+    "lon": 35.5751,
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/21239400"
+    ]
+   }
+  },
+  {
+   "id": "museo-yasir-arafat",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arquitectura contemporánea",
+    "ver_alli": [
+     "Se conserva su habitación tal como la dejó.",
+     "El mausoleo está en el mismo recinto de la Muqata.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ],
+    "lat": 31.9115,
+    "lon": 35.2088,
+    "fuentes": [
+     "https://www.openstreetmap.org/way/287710481"
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-de-beirut",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Neoegipcio",
+    "ver_alli": [
+     "Cerca está la «Casa Amarilla», un edificio de francotiradores convertido en lugar de memoria.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/National_Museum_of_Beirut"
+    ]
+   }
+  },
+  {
+   "id": "deir-al-qamar-y-palacio-de-beiteddine",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Arquitectura libanesa de época otomana",
+    "ver_alli": [
+     "El punto marca el pueblo de Deir al-Qamar; el palacio de Beiteddine está a unos 1,5 km al este, en la ladera de enfrente.",
+     "El palacio tiene una gran colección de mosaicos bizantinos.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "wadi-rum",
+   "campos": {
+    "estilo": "Paisaje desértico con inscripciones rupestres",
+    "ver_alli": [
+     "Se recorre en todoterreno o camello con guías beduinos.",
+     "El centro de visitantes está a unos 7 km al norte del pueblo de Rum, en la carretera de entrada.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ],
+    "texto": {
+     "general": "<p>Un desierto de arena roja y montañas de arenisca por el que cabalgaron Lawrence de Arabia y las tropas árabes en 1917 hacia Áqaba. Se rodaron allí la película «Lawrence de Arabia» y otras de ciencia ficción. Tiene inscripciones nabateas. Es Patrimonio de la Humanidad.</p>"
+    },
+    "fuentes": [
+     "https://whc.unesco.org/en/list/1377/"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-petra",
+   "campos": {
+    "estilo": "Museo arqueológico",
+    "ver_alli": [
+     "Está junto al centro de visitantes, antes de la puerta de entrada a Petra.",
+     "Conviene verlo antes de recorrer el Siq para entender lo que se va a ver."
+    ],
+    "lat": 30.3253,
+    "lon": 35.4679,
+    "fuentes": [
+     "https://theartnewspaper.com/2019/05/30/petras-rich-heritage-goes-on-show-for-all-to-see-in-new-museum",
+     "https://www.jordan.emb-japan.go.jp/files/000471617.pdf",
+     "https://www.openstreetmap.org/way/156571190"
+    ]
+   }
+  },
+  {
+   "id": "cafarnaum",
+   "campos": {
+    "estilo": "Romano y bizantino"
+   }
+  }
+ ]
+}

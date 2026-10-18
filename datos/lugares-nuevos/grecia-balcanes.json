@@ -1,0 +1,1266 @@
+{
+ "zona": "Grecia y Balcanes",
+ "nuevos": [
+  {
+   "id": "filipos",
+   "nombre": "Filipos",
+   "provincia": "Grecia",
+   "comarca": "Kavala (Macedonia Oriental)",
+   "lat": 41.0128,
+   "lon": 24.2865,
+   "tipo": "yacimiento",
+   "estilo": "Ciudad romana y paleocristiana",
+   "epoca": "Romano",
+   "anio": -42,
+   "regiones_sincronia": [
+    "Grecia"
+   ],
+   "texto": {
+    "general": "<p>Los colonos de Tasos fundaron aquí hacia el 360 a. C. la aldea de Crénides; en el 356 a. C. <b>Filipo II de Macedonia</b> la conquistó y le puso su nombre. En la llanura al oeste de la ciudad se libró en octubre del 42 a. C. la <b>batalla de Filipos</b>: Marco Antonio y Octavio derrotaron a Bruto y Casio, los asesinos de César, y con ellos murió la República romana.</p><p>Hacia el año 49 o 50 llegó <b>san Pablo</b>, que según la tradición predicó aquí por primera vez en suelo europeo y bautizó a Lidia, una comerciante de púrpura. Se conservan el foro romano, en dos terrazas, el teatro griego ampliado para los juegos romanos y varias basílicas, como la llamada Basílica B, parecida a Santa Sofía de Constantinopla. Es Patrimonio de la Humanidad desde 2016.</p>"
+   },
+   "ver_alli": [
+    "Está junto a la carretera de Kavala a Drama, a unos 15 km de Kavala.",
+    "El recinto es grande y casi sin sombra: en verano conviene ir temprano."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Philippi",
+    "https://es.wikipedia.org/wiki/Filipos",
+    "https://www.openstreetmap.org/way/245445583"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "fortaleza-vieja-de-corfu",
+   "nombre": "Fortaleza Vieja y ciudad vieja de Corfú",
+   "provincia": "Grecia",
+   "comarca": "Corfú (islas Jónicas)",
+   "lat": 39.6234,
+   "lon": 19.9285,
+   "tipo": "castillo",
+   "estilo": "Fortificación veneciana",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1386,
+   "regiones_sincronia": [
+    "Grecia"
+   ],
+   "texto": {
+    "general": "<p>Corfú estuvo en manos de <b>Venecia</b> de 1386 a 1797, y su ciudad, la «ciudad de los castillos», fue la llave del Adriático. La Fortaleza Vieja ocupa un promontorio separado de la ciudad por un foso artificial. Sus defensas resistieron los asedios otomanos de <b>1537, 1571, 1573 y 1716</b>, de modo que Corfú fue la única parte de Grecia que los otomanos nunca conquistaron.</p><p>Tras los venecianos llegaron los británicos, que en 1815 levantaron el Palacio de San Miguel y San Jorge y trajeron el críquet, que todavía se juega en la isla. La ciudad vieja, con sus calles estrechas, casas de varios pisos y la galería porticada del Liston, es Patrimonio de la Humanidad desde 2007.</p>"
+   },
+   "ver_alli": [
+    "La fortaleza se cruza por un puente sobre el foso desde la gran explanada (Spianada), junto al Liston.",
+    "Desde lo alto hay vistas de la ciudad vieja y del mar; el suelo de piedra es resbaladizo.",
+    "La Fortaleza Nueva, al otro lado de la ciudad vieja, se ve desde el puerto."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Old_Town_of_Corfu",
+    "https://www.openstreetmap.org/way/624275904"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "gortina",
+   "nombre": "Gortina",
+   "provincia": "Grecia",
+   "comarca": "Creta (llanura de Mesará)",
+   "lat": 35.0626,
+   "lon": 24.947,
+   "tipo": "yacimiento",
+   "estilo": "Ciudad griega y romana",
+   "epoca": "Griegos",
+   "regiones_sincronia": [
+    "Grecia"
+   ],
+   "texto": {
+    "general": "<p>En Gortina se conserva el <b>Código de Gortina</b>, la ley escrita griega más completa que ha llegado hasta nosotros. Se grabó en la primera mitad del siglo V a. C. en los muros de un edificio público del ágora: doce columnas con unas 600 líneas escritas en <b>bustrófedon</b>, es decir, una línea de izquierda a derecha y la siguiente al revés, como los surcos de un arado.</p><p>Las leyes tratan de esclavos, adulterio, divorcio, derechos de las viudas, custodia de los hijos, herencias y adopción. Los romanos reaprovecharon los bloques en su odeón, y Gortina fue después la capital de la provincia romana de Creta y Cirenaica. Junto a la entrada están las ruinas de la basílica de San Tito, el discípulo de san Pablo, del siglo VI y reconstruida en el X.</p>"
+   },
+   "ver_alli": [
+    "Está en el sur de Creta, junto a la carretera de Heraclión a Festos, cerca del pueblo de Agioi Deka.",
+    "La zona con vallas guarda el odeón con el Código y la basílica de San Tito; buena parte de la ciudad romana se extiende por los olivares del otro lado de la carretera.",
+    "Festos queda a unos 15 km."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Gortina",
+    "https://en.wikipedia.org/wiki/Gortyn_code",
+    "https://www.openstreetmap.org/node/5649987111"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "acropolis-de-lindos",
+   "nombre": "Acrópolis de Lindos",
+   "provincia": "Grecia",
+   "comarca": "Lindos (isla de Rodas)",
+   "lat": 36.0916,
+   "lon": 28.0885,
+   "tipo": "yacimiento",
+   "estilo": "Santuario griego y castillo de los Hospitalarios",
+   "epoca": "Griegos",
+   "regiones_sincronia": [
+    "Grecia"
+   ],
+   "texto": {
+    "general": "<p>Sobre una roca que cae a pico sobre el mar, Lindos fue una de las tres ciudades antiguas de Rodas, gran centro comercial ya en el siglo VIII a. C.; sus colonos fundaron Gela, en Sicilia, en el 689/8 a. C. Aquí nació <b>Cleóbulo</b>, uno de los siete sabios de Grecia.</p><p>En lo alto está el santuario de <b>Atenea Lindia</b>: un templo dórico de finales del siglo IV a. C., unos propileos y una gran stoa helenística de 87 metros. Al pie de la escalera se talló en la roca, hacia el 180 a. C., el relieve de un barco de guerra con la estatua del general Hagesandro. Los caballeros de San Juan rodearon la cima con un castillo antes de 1317. Los italianos, que ocuparon la isla de 1912 a 1945, hicieron restauraciones hoy muy discutidas.</p>"
+   },
+   "ver_alli": [
+    "Se sube a pie desde el pueblo de Lindos, de casas blancas, por callejuelas y escaleras.",
+    "En lo alto no hay sombra: mejor a primera hora o al atardecer.",
+    "Desde arriba se ve la pequeña bahía de San Pablo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Lindos",
+    "https://www.openstreetmap.org/way/24629519"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "fortaleza-de-palamidi",
+   "nombre": "Fortaleza de Palamidi",
+   "provincia": "Grecia",
+   "comarca": "Nauplia (Argólida)",
+   "lat": 37.5615,
+   "lon": 22.8038,
+   "tipo": "castillo",
+   "estilo": "Fortificación barroca veneciana",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1711,
+   "regiones_sincronia": [
+    "Grecia"
+   ],
+   "texto": {
+    "general": "<p>Los venecianos levantaron esta enorme fortaleza entre <b>1711 y 1714</b> en la colina que domina Nauplia, con planos del ingeniero Antonio Giancix; la construyó el francés Pierre de la Salle. Apenas terminada, en <b>1715</b>, la tomaron los otomanos, que la conservaron más de un siglo.</p><p>En <b>1822</b>, durante la guerra de independencia, los griegos la conquistaron en el asedio de Nauplia. Uno de sus bastiones, el de Milcíades, sirvió después de cárcel, y en él estuvo preso <b>Theodoros Kolokotronis</b>, el gran héroe de la revolución griega.</p>"
+   },
+   "ver_alli": [
+    "Se puede subir a pie desde Nauplia por una larga escalera de piedra o en coche hasta la entrada.",
+    "Desde arriba se ven Nauplia y el golfo Argólico.",
+    "La subida a pie es dura en los días de calor."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Palamidi",
+    "https://www.openstreetmap.org/relation/3734604"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "parque-arqueologico-de-pafos",
+   "nombre": "Parque arqueológico de Pafos",
+   "provincia": "Chipre",
+   "comarca": "Pafos",
+   "lat": 34.7582,
+   "lon": 32.4061,
+   "tipo": "yacimiento",
+   "estilo": "Mosaicos romanos",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Grecia"
+   ],
+   "texto": {
+    "general": "<p>Nea Pafos se fundó probablemente a finales del siglo IV a. C. y en el siglo II a. C. sustituyó a Salamina como capital de Chipre; lo siguió siendo con los Ptolomeos y con los romanos. De aquella ciudad quedan grandes casas con algunos de los <b>mosaicos</b> más hermosos del Mediterráneo.</p><p>La <b>Casa de Dioniso</b>, del siglo III d. C., ocupa unos 2.000 m², y los mosaicos cubren cerca de una cuarta parte. Junto a ella están la Villa de Teseo, con el héroe luchando contra el Minotauro, y la Casa de Aión, descubierta por arqueólogos polacos en 1982. Hay también un odeón del siglo II para unos 1.200 espectadores. El conjunto, con las Tumbas de los Reyes, es Patrimonio de la Humanidad desde 1980.</p>"
+   },
+   "ver_alli": [
+    "La entrada está junto al puerto de Kato Pafos, cerca del fuerte.",
+    "Las casas con mosaicos están cubiertas, pero el resto del parque tiene poca sombra.",
+    "Las Tumbas de los Reyes están a unos 2 km al norte."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Paphos_Archaeological_Park",
+    "https://www.openstreetmap.org/way/27442222"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "choirokoitia",
+   "nombre": "Choirokoitia",
+   "provincia": "Chipre",
+   "comarca": "Larnaca",
+   "lat": 34.7968,
+   "lon": 33.344,
+   "tipo": "yacimiento",
+   "estilo": "Aldea neolítica",
+   "epoca": "Neolítico",
+   "anio": -7000,
+   "regiones_sincronia": [
+    "Grecia"
+   ],
+   "texto": {
+    "general": "<p>Hacia el 7000 a. C., según las dataciones por radiocarbono, unos campesinos levantaron en esta ladera junto a un río una aldea de <b>casas redondas</b> de piedra y adobe, de 2 a 9 metros de diámetro, agrupadas alrededor de patios. Un muro de unos 2,5 metros de grosor la protegía.</p><p>A los muertos se los enterraba encogidos bajo el suelo de las casas, a veces con ofrendas. El yacimiento lo descubrió en 1934 Porfirios Dikaios, que lo excavó hasta 1946; desde 1977 trabaja aquí una misión francesa. Es Patrimonio de la Humanidad desde 1998.</p>"
+   },
+   "ver_alli": [
+    "Está junto a la autopista de Nicosia a Limasol, cerca del pueblo de Choirokoitia.",
+    "Al pie de la colina hay casas reconstruidas que ayudan a imaginar la aldea.",
+    "El sendero sube por la ladera con escalones y poca sombra."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Choirokoitia",
+    "https://www.openstreetmap.org/way/1101925644"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-rila",
+   "nombre": "Monasterio de Rila",
+   "provincia": "Bulgaria",
+   "comarca": "Montes Rila (provincia de Kiustendil)",
+   "lat": 42.1333,
+   "lon": 23.3402,
+   "tipo": "iglesia",
+   "estilo": "Renacimiento nacional búlgaro",
+   "epoca": "Bizantino",
+   "anio": 1335,
+   "regiones_sincronia": [
+    "Grecia"
+   ],
+   "texto": {
+    "general": "<p>Según la tradición, lo fundaron en el siglo X los discípulos del ermitaño <b>san Juan de Rila</b> (876-946), en tiempos del zar Pedro I. Lo más antiguo que queda es la <b>torre de Hrelio</b>, levantada en 1334-1335 por un señor feudal de ese nombre.</p><p>Un incendio lo destruyó en 1833 y se reconstruyó entre 1834 y 1862 con dinero de búlgaros de todo el país, bajo la dirección de Alexi Rilets. Los frescos, terminados en 1846, son en parte de los hermanos Zahari y Dimitar Zograf. Durante el dominio otomano fue un refugio de la lengua y la cultura búlgaras; Neofit Rilski abrió aquí una escuela y el revolucionario Vasil Levski se escondió entre sus muros. Es Patrimonio de la Humanidad desde 1983.</p>"
+   },
+   "ver_alli": [
+    "Está en un valle de los montes Rila, a unos 120 km al sur de Sofía.",
+    "Es un monasterio habitado: hay que ir vestido de forma adecuada y respetar las zonas de culto.",
+    "Las galerías de las celdas rodean un gran patio con la iglesia en el centro."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Rila_Monastery",
+    "https://www.openstreetmap.org/way/432365600"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "tumba-tracia-de-kazanlak",
+   "nombre": "Tumba tracia de Kazanlak",
+   "provincia": "Bulgaria",
+   "comarca": "Kazanlak (valle de las Rosas)",
+   "lat": 42.6258,
+   "lon": 25.3994,
+   "tipo": "yacimiento",
+   "estilo": "Tumba tracia con frescos",
+   "epoca": "Edad del Hierro",
+   "regiones_sincronia": [
+    "Grecia"
+   ],
+   "texto": {
+    "general": "<p>Esta tumba tracia del <b>siglo IV a. C.</b> tiene un estrecho corredor que lleva a una cámara redonda cubierta con una cúpula de ladrillo, en forma de colmena. Las dos están pintadas al fresco.</p><p>En la cúpula se ve a una pareja sentada que se da la mano por la muñeca, mientras se acerca una procesión con bandejas, músicos y caballos ensillados sin jinete; en lo alto corre una carrera de carros. Es uno de los conjuntos de pintura antigua mejor conservados de los Balcanes y fue de los primeros lugares de Bulgaria declarados Patrimonio de la Humanidad, en 1979.</p>"
+   },
+   "ver_alli": [
+    "Está en el parque de Tyulbeto, en una colina junto al centro de Kazanlak.",
+    "La tumba original está cerrada para proteger las pinturas; al lado se visita una réplica exacta.",
+    "En el valle hay muchos otros túmulos tracios, algunos visitables cerca de Shipka."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Thracian_Tomb_of_Kazanlak",
+    "https://www.openstreetmap.org/way/212107109"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "puente-latino-de-sarajevo",
+   "nombre": "Puente Latino de Sarajevo",
+   "provincia": "Bosnia y Herzegovina",
+   "comarca": "Sarajevo",
+   "lat": 43.8576,
+   "lon": 18.4289,
+   "tipo": "monumento",
+   "estilo": "Arquitectura otomana",
+   "epoca": "Siglo XX",
+   "anio": 1914,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>Un puente de piedra sobre el río Miljacka con <b>cuatro arcos</b>. Ya había un puente aquí en 1541, probablemente de madera; uno de piedra lo construyó Ali Ajni-Beg hacia 1565 y, tras una riada en 1791, se rehízo en 1798-1799.</p><p>El <b>28 de junio de 1914</b>, en el extremo norte del puente, el joven <b>Gavrilo Princip</b> mató a tiros al archiduque Francisco Fernando, heredero del trono de Austria-Hungría. El atentado desató la crisis de julio y, en pocas semanas, la Primera Guerra Mundial. En la Yugoslavia comunista se le llamó Puente de Princip; tras las guerras de los años noventa recuperó su nombre.</p>"
+   },
+   "ver_alli": [
+    "Está en el centro de Sarajevo, a pocos pasos de la Baščaršija, el viejo barrio otomano.",
+    "Una placa en la esquina del extremo norte recuerda el atentado.",
+    "Es peatonal."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Latin_Bridge",
+    "https://www.openstreetmap.org/way/242640790"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "memorial-de-srebrenica-potocari",
+   "nombre": "Memorial de Srebrenica-Potočari",
+   "provincia": "Bosnia y Herzegovina",
+   "comarca": "Potočari (Srebrenica)",
+   "lat": 44.158,
+   "lon": 19.3017,
+   "tipo": "monumento",
+   "estilo": "Memorial y cementerio",
+   "epoca": "Siglo XX",
+   "anio": 1995,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>En julio de 1995, las tropas serbobosnias de <b>Ratko Mladić</b> tomaron Srebrenica, que la ONU había declarado «zona segura» y vigilaban unos 400 cascos azules neerlandeses con base en Potočari. La ciudad cayó el 11 de julio y en los días siguientes fueron asesinados unos <b>8.000</b> hombres y muchachos bosnios musulmanes. El Tribunal Penal Internacional para la ex Yugoslavia y la Corte Internacional de Justicia lo calificaron de <b>genocidio</b>; Mladić y Radovan Karadžić fueron condenados a cadena perpetua.</p><p>El memorial lo inauguró el expresidente estadounidense Bill Clinton el 20 de septiembre de 2003. En el cementerio, frente a la antigua base de la ONU, hay miles de lápidas blancas: en 2021 se habían enterrado aquí 6.671 víctimas, y cada 11 de julio se entierran las identificadas durante el año.</p>"
+   },
+   "ver_alli": [
+    "Está en Potočari, a unos 5 km al norte de Srebrenica, junto a la carretera de Bratunac.",
+    "Al otro lado de la carretera, en la antigua fábrica de baterías que fue base neerlandesa, hay un centro de exposiciones sobre el asedio y el genocidio.",
+    "Es un lugar de duelo: se visita con respeto y en silencio."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Masacre_de_Srebrenica",
+    "https://en.wikipedia.org/wiki/Srebrenica_Genocide_Memorial",
+    "https://www.openstreetmap.org/way/284475840"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "stobi",
+   "nombre": "Stobi",
+   "provincia": "Macedonia del Norte",
+   "comarca": "Gradsko (valle del Vardar)",
+   "lat": 41.5513,
+   "lon": 21.974,
+   "tipo": "yacimiento",
+   "estilo": "Ciudad romana y paleocristiana",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Grecia"
+   ],
+   "texto": {
+    "general": "<p>Stobi estaba donde el río Crna (el antiguo Erigón) desemboca en el <b>Vardar</b> (el Axios), en el camino que unía el Danubio con el Egeo. Nació como un pueblo de los peonios, pasó a Macedonia con Filipo V y creció con los romanos, que le dieron el rango de municipio; llegó a ser capital de la provincia de Macedonia Salutaris.</p><p>Quedan un teatro del siglo III, calles, casas ricas y, sobre todo, iglesias de la Antigüedad tardía: Stobi era sede de un obispo ya en el año 325, y su <b>basílica episcopal</b>, de los siglos V y VI, tiene un baptisterio con un gran suelo de mosaico. El rey ostrogodo Teodorico la saqueó en el 479 y un fuerte terremoto la golpeó en el 518.</p>"
+   },
+   "ver_alli": [
+    "Está junto a la autopista de Skopie a Grecia, cerca de Gradsko, a una hora de Skopie.",
+    "Hay una audioguía gratuita que se descarga en el móvil a la entrada.",
+    "Algunos mosaicos se cubren en invierno para protegerlos."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Stobi",
+    "https://www.openstreetmap.org/way/209092691"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "butrint",
+   "nombre": "Butrint",
+   "provincia": "Albania",
+   "comarca": "Sarandë (Vlorë)",
+   "lat": 39.7449,
+   "lon": 20.0202,
+   "tipo": "yacimiento",
+   "estilo": "Ciudad griega, romana y bizantina",
+   "epoca": "Grecorromano",
+   "regiones_sincronia": [
+    "Grecia"
+   ],
+   "texto": {
+    "general": "<p>En una península boscosa entre un lago y el canal que lo une al mar, Butrint resume dos mil quinientos años de historia. Según la leyenda que recoge Virgilio, la visitó Eneas al huir de Troya. En el siglo IV a. C. ya tenía <b>teatro griego</b>, y en el 31 a. C. Augusto la convirtió en colonia de veteranos y la ciudad dobló su tamaño.</p><p>De la época cristiana queda un <b>baptisterio</b> con un gran mosaico del siglo VI. Venecia compró la zona en 1386 y Alí Pachá de Tepelena la conquistó en 1798. Las primeras excavaciones las hizo desde 1928 una expedición italiana dirigida por Luigi Maria Ugolini. Es Patrimonio de la Humanidad desde 1992.</p>"
+   },
+   "ver_alli": [
+    "Está al final de la carretera de la costa, a unos 20 km al sur de Sarandë.",
+    "El recorrido va por un bosque con sombra y termina en el castillo, donde está el museo.",
+    "El teatro suele estar parcialmente inundado y en él viven tortugas."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Butrint",
+    "https://www.openstreetmap.org/relation/9316413"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-berat",
+   "nombre": "Castillo y ciudad de Berat",
+   "provincia": "Albania",
+   "comarca": "Berat",
+   "lat": 40.7094,
+   "lon": 19.9458,
+   "tipo": "castillo",
+   "estilo": "Fortaleza bizantina y casas otomanas",
+   "epoca": "Imperio otomano",
+   "regiones_sincronia": [
+    "Grecia"
+   ],
+   "texto": {
+    "general": "<p>Berat, la «ciudad de una ventana sobre otra», escalona sus casas blancas por la ladera del barrio de <b>Mangalem</b>, frente al de Gorica, al otro lado del río Osum. En lo alto, el <b>castillo</b> (Kalaja) tiene murallas reforzadas por Teodosio II en el siglo V, rehechas por Justiniano en el VI y otra vez en el siglo XIII por Miguel Comneno Ducas; dentro, la gente sigue viviendo entre iglesias bizantinas y ruinas de mezquitas.</p><p>Los otomanos tomaron la ciudad en 1385. De su época queda la Mezquita del Plomo, de 1555, llamada así por el plomo que cubre su cúpula. La catedral de San Nicolás, dentro del castillo, es hoy un museo dedicado a <b>Onufri</b>, gran pintor de iconos del siglo XVI. Berat forma un conjunto Patrimonio de la Humanidad con Gjirokastër.</p>"
+   },
+   "ver_alli": [
+    "Al castillo se sube a pie desde el centro por una calle empedrada y empinada.",
+    "Dentro de las murallas hay casas habitadas, restaurantes y pequeñas iglesias.",
+    "Desde el barrio de Gorica, al otro lado del río, se ve de frente la fachada de ventanas de Mangalem."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Berat",
+    "https://www.openstreetmap.org/node/3664223267"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-de-diocleciano",
+   "nombre": "Palacio de Diocleciano",
+   "provincia": "Croacia",
+   "comarca": "Split (Dalmacia)",
+   "lat": 43.5083,
+   "lon": 16.4402,
+   "tipo": "monumento",
+   "estilo": "Arquitectura romana tardía",
+   "epoca": "Romano",
+   "anio": 305,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>El emperador <b>Diocleciano</b> mandó construir este palacio fortificado junto al Adriático, probablemente desde el año 295, para retirarse a él tras abdicar el <b>1 de mayo de 305</b>; aún estaba sin terminar. Es un gran rectángulo de unos 215 por 180 metros con dieciséis torres: la mitad era residencia del emperador y la otra mitad, guarnición militar.</p><p>El <b>Peristilo</b>, un patio monumental de columnas, llevaba a las habitaciones imperiales y al mausoleo de Diocleciano, convertido después en la <b>catedral de San Duje</b>. En el siglo VII, cuando ávaros y eslavos destruyeron la cercana Salona, sus habitantes se refugiaron entre los muros del palacio: así nació Split, que sigue viviendo dentro. Es Patrimonio de la Humanidad desde 1979.</p>"
+   },
+   "ver_alli": [
+    "El palacio es el centro del casco viejo de Split, junto al paseo marítimo, y se recorre a pie libremente.",
+    "Los sótanos, que reproducen la planta de las salas imperiales, se visitan aparte.",
+    "Se puede subir al campanario de la catedral para ver el palacio desde arriba."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Diocletian%27s_Palace",
+    "https://www.openstreetmap.org/way/29704912"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "ciudad-vieja-de-dubrovnik",
+   "nombre": "Ciudad vieja de Dubrovnik",
+   "provincia": "Croacia",
+   "comarca": "Dubrovnik (Dalmacia)",
+   "lat": 42.6413,
+   "lon": 18.1089,
+   "tipo": "poblacion",
+   "estilo": "Ciudad amurallada medieval y renacentista",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1358,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>Dubrovnik fue la capital de la <b>República de Ragusa</b>, una república de mercaderes que nació en 1358 y que duró hasta que el mariscal francés Marmont la abolió en 1808. La rodean unas <b>murallas</b> de casi 2 km, levantadas sobre todo entre los siglos XIII y XVII, con hasta 25 metros de altura; la torre Minčeta, terminada en 1464, se convirtió en el símbolo de la ciudad que nadie conquistaba.</p><p>Es Patrimonio de la Humanidad desde 1979. Durante el asedio del ejército yugoslavo en 1991-1992, los proyectiles alcanzaron 563 de los 824 edificios del casco viejo y nueve ardieron por completo; la ciudad se restauró en los años siguientes.</p>"
+   },
+   "ver_alli": [
+    "El Stradun, la calle principal, atraviesa el casco viejo desde la puerta de Pile.",
+    "Se puede recorrer el camino de ronda de las murallas, con vistas sobre los tejados y el mar.",
+    "En verano y con cruceros en el puerto hay mucha gente: mejor a primera hora."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Walls_of_Dubrovnik",
+    "https://www.openstreetmap.org/way/987089809"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "felix-romuliana",
+   "nombre": "Felix Romuliana",
+   "provincia": "Serbia",
+   "comarca": "Gamzigrad (Zaječar)",
+   "lat": 43.8989,
+   "lon": 22.1857,
+   "tipo": "yacimiento",
+   "estilo": "Palacio imperial romano tardío",
+   "epoca": "Romano",
+   "anio": 298,
+   "regiones_sincronia": [
+    "Grecia"
+   ],
+   "texto": {
+    "general": "<p>El emperador <b>Galerio</b> empezó a construir este palacio fortificado en el año 298, tras su victoria sobre los persas sasánidas, en el lugar donde había nacido. Le puso el nombre de su madre, <b>Rómula</b>, sacerdotisa de un culto dacio.</p><p>Rómula y Galerio fueron enterrados en dos mausoleos en la cercana colina de Magura y divinizados. Las excavaciones han sacado a la luz mosaicos con Dioniso y Medusa. Durante mucho tiempo no se supo qué era el lugar, hasta que en 1984 apareció un arco con la inscripción «FELIX ROMULIANA». Es Patrimonio de la Humanidad desde 2007.</p>"
+   },
+   "ver_alli": [
+    "Está cerca del pueblo de Gamzigrad y de su balneario, a unos 10 km de Zaječar, en el este de Serbia.",
+    "Hay visitas guiadas en serbio y en inglés.",
+    "Algunos mosaicos están en el Museo Nacional de Zaječar."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Felix_Romuliana",
+    "https://www.openstreetmap.org/way/96921763"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-studenica",
+   "nombre": "Monasterio de Studenica",
+   "provincia": "Serbia",
+   "comarca": "Kraljevo (Raška)",
+   "lat": 43.4865,
+   "lon": 20.5317,
+   "tipo": "iglesia",
+   "estilo": "Escuela de Raška (románico y bizantino)",
+   "epoca": "Bizantino",
+   "anio": 1196,
+   "regiones_sincronia": [
+    "Grecia"
+   ],
+   "texto": {
+    "general": "<p>Lo fundó a finales del siglo XII <b>Esteban Nemanja</b>, el gran príncipe que unificó Serbia, poco después de abdicar; en la primavera de 1196 se hizo monje aquí. Su hijo Rastko, <b>san Sava</b>, primer arzobispo de Serbia, trajo después sus reliquias e hizo del monasterio el centro político, cultural y espiritual de la Serbia medieval.</p><p>La iglesia de la Virgen, con fachadas de mármol blanco, mezcla el románico de Occidente con el bizantino: es el origen de la <b>escuela de Raška</b>. Dentro, la Crucifixión sobre fondo azul, pintada en 1209, es una de las cumbres del arte serbio. Al lado está la pequeña Iglesia del Rey, que mandó construir el rey Milutin en 1314. Es Patrimonio de la Humanidad desde 1986.</p>"
+   },
+   "ver_alli": [
+    "Está en un valle boscoso de los montes de Golija, a unos 10 km de la carretera de Kraljevo a Novi Pazar, por una carretera de curvas.",
+    "Es un monasterio habitado: normalmente no se permiten fotos dentro de las iglesias.",
+    "Los monjes venden vino y productos propios."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Studenica_Monastery",
+    "https://www.openstreetmap.org/way/206182687"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "necropolis-de-varna",
+   "campos": {
+    "estilo": "Necrópolis calcolítica",
+    "ver_alli": [
+     "El lugar de la necrópolis, en la zona industrial del oeste de Varna, está vallado y no tiene instalaciones para visitantes.",
+     "El oro de las tumbas se expone en el Museo Arqueológico de Varna, en el centro de la ciudad, a unos 4 km."
+    ],
+    "lat": 43.2145,
+    "lon": 27.8717,
+    "fuentes": [
+     "https://www.openstreetmap.org/way/656506021"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-arte-cicladico",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arte cicládico",
+    "ver_alli": [
+     "Está en el barrio de Kolonaki, cerca de la avenida Vasilissis Sofias y del Museo Bizantino y Cristiano.",
+     "Además de los ídolos cicládicos tiene salas de arte griego antiguo y de antigüedades chipriotas."
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-cnosos",
+   "campos": {
+    "estilo": "Palacio minoico",
+    "ver_alli": [
+     "Está a unos 5 km al sur del centro de Heraclión.",
+     "Conviene ir a primera hora: es el yacimiento más visitado de Creta y en verano apenas hay sombra.",
+     "Los frescos que se ven en el palacio son copias; los originales están en el Museo Arqueológico de Heraclión."
+    ]
+   }
+  },
+  {
+   "id": "museo-arqueologico-de-heraclion",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arte minoico",
+    "ver_alli": [
+     "Está en el centro de Heraclión, junto a la plaza Eleftherias.",
+     "Es el complemento natural de la visita a Cnosos: aquí están los frescos originales y los objetos hallados en los palacios."
+    ],
+    "texto": {
+     "general": "<p>Reúne casi todo el arte minoico: los frescos originales de los palacios —el salto del toro, los delfines, las damas de azul—, la diosa de las serpientes, joyas, el <b>disco de Festo</b>, hallado en 1908, y tablillas en <b>lineal A</b>, la escritura minoica que nadie sabe leer, y en <b>lineal B</b>, el griego más antiguo, descifrado por Michael Ventris en 1952.</p><p>Spyridon Marinatos, que en 1939 relacionó la erupción de Thera con el declive minoico, dirigió este museo entre 1929 y 1937.</p>"
+    }
+   }
+  },
+  {
+   "id": "festos",
+   "campos": {
+    "estilo": "Palacio minoico",
+    "ver_alli": [
+     "Está en una colina sobre la llanura de Mesará, en el sur de Creta, a una hora larga en coche desde Heraclión.",
+     "Tiene muchos menos visitantes que Cnosos y no está reconstruido.",
+     "A pocos kilómetros se pueden ver también las ruinas de Agia Triada y de Gortina."
+    ]
+   }
+  },
+  {
+   "id": "akrotiri",
+   "campos": {
+    "estilo": "Ciudad cicládica de la Edad del Bronce",
+    "ver_alli": [
+     "Está en el sur de Santorini, cerca del pueblo de Akrotiri.",
+     "Todo el yacimiento está bajo una gran cubierta y se recorre por pasarelas.",
+     "Los frescos y objetos hallados se exponen en el Museo Prehistórico de Thera, en Fira."
+    ]
+   }
+  },
+  {
+   "id": "micenas",
+   "campos": {
+    "estilo": "Ciudadela micénica",
+    "ver_alli": [
+     "Está en la Argólida, a unos 2 km del pueblo moderno de Mykines.",
+     "Hay museo junto a la ciudadela, y el «Tesoro de Atreo» queda a unos centenares de metros, junto a la carretera.",
+     "La subida a la ciudadela no tiene sombra: mejor a primera hora."
+    ]
+   }
+  },
+  {
+   "id": "tirinto",
+   "campos": {
+    "estilo": "Ciudadela micénica",
+    "ver_alli": [
+     "Está junto a la carretera de Argos a Nauplia, a pocos kilómetros de Nauplia.",
+     "Lo más impresionante son las murallas ciclópeas y sus galerías cubiertas."
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-nestor",
+   "campos": {
+    "estilo": "Palacio micénico",
+    "ver_alli": [
+     "Está en una colina sobre la bahía de Navarino, al norte de Pilos.",
+     "Las ruinas están protegidas por una cubierta y se recorren por pasarelas.",
+     "Cerca del aparcamiento hay una tumba de cúpula (tholos)."
+    ]
+   }
+  },
+  {
+   "id": "acropolis-de-atenas",
+   "campos": {
+    "estilo": "Arquitectura griega clásica (dórica y jónica)",
+    "ver_alli": [
+     "Se sube por el oeste, desde la calle Dionysiou Areopagitou o desde el barrio de Plaka.",
+     "Es el monumento más visitado de Grecia: mejor a primera hora o al final del día.",
+     "El Museo de la Acrópolis, al pie de la colina, guarda las esculturas originales."
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-acropolis",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Escultura griega arcaica y clásica",
+    "ver_alli": [
+     "Está al pie de la Acrópolis, en la calle Dionysiou Areopagitou, junto a la parada de metro Akropoli.",
+     "Lo ideal es visitarlo el mismo día que la Acrópolis.",
+     "Desde la galería del último piso se ve el Partenón."
+    ]
+   }
+  },
+  {
+   "id": "agora-de-atenas",
+   "campos": {
+    "estilo": "Arquitectura griega clásica y helenística",
+    "ver_alli": [
+     "La entrada principal está al norte, junto a la estación de Monastiraki y la vía del tren.",
+     "Tiene menos gente que la Acrópolis y más sombra.",
+     "El museo está en la Stoa de Átalo, dentro del recinto."
+    ]
+   }
+  },
+  {
+   "id": "kerameikos",
+   "campos": {
+    "estilo": "Necrópolis griega",
+    "ver_alli": [
+     "Está al oeste del centro, al final de la calle Ermou, cerca de la estación de Thiseio.",
+     "Tiene un pequeño museo con las estelas funerarias originales."
+    ]
+   }
+  },
+  {
+   "id": "pnyx",
+   "campos": {
+    "estilo": "Lugar de asamblea griego",
+    "ver_alli": [
+     "Está en la colina frente a la Acrópolis, al oeste, en la zona arbolada de Filopapos.",
+     "Se pasea libremente y es uno de los mejores miradores de la Acrópolis."
+    ]
+   }
+  },
+  {
+   "id": "templo-de-zeus-olimpico",
+   "campos": {
+    "estilo": "Templo corintio",
+    "ver_alli": [
+     "Está junto al Arco de Adriano, al sureste de la Acrópolis.",
+     "Gran parte del templo se ve también desde fuera del recinto."
+    ]
+   }
+  },
+  {
+   "id": "museo-arqueologico-nacional-de-atenas",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arte griego antiguo",
+    "ver_alli": [
+     "Está en la avenida 28is Oktovriou (Patision), a unos 10 minutos a pie de la estación de metro Viktoria.",
+     "Es enorme: conviene elegir antes las salas que más interesan (micénica, escultura, bronces, Thera)."
+    ]
+   }
+  },
+  {
+   "id": "templo-de-poseidon-en-sunion",
+   "campos": {
+    "estilo": "Templo dórico",
+    "ver_alli": [
+     "Está en el cabo Sunión, en el extremo sur del Ática, a unos 70 km de Atenas por la carretera de la costa.",
+     "Es famoso por las puestas de sol sobre el mar."
+    ]
+   }
+  },
+  {
+   "id": "maraton",
+   "campos": {
+    "estilo": "Túmulo funerario",
+    "ver_alli": [
+     "El túmulo de los atenienses está en la llanura de Maratón, cerca de la costa.",
+     "El Museo Arqueológico de Maratón y el túmulo de los plateos están a unos kilómetros, al pie de los montes."
+    ]
+   }
+  },
+  {
+   "id": "termopilas",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Monumento conmemorativo moderno",
+    "ver_alli": [
+     "El monumento a Leónidas está junto a la antigua carretera de Atenas a Lamía.",
+     "Enfrente se sube a la pequeña colina de Kolonos, donde está el epitafio de Simónides.",
+     "Hay un centro de interpretación al lado."
+    ]
+   }
+  },
+  {
+   "id": "salamina",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Monumento conmemorativo moderno",
+    "ver_alli": [
+     "El monumento a los combatientes de Salamina está en la península de Kynosura, en el este de la isla, frente al estrecho donde se libró la batalla.",
+     "Se llega en ferri desde Pérama, en unos minutos."
+    ],
+    "lat": 37.9469,
+    "lon": 23.5512,
+    "fuentes": [
+     "https://www.openstreetmap.org/node/5174547662"
+    ]
+   }
+  },
+  {
+   "id": "laurion-minas-de-plata",
+   "campos": {
+    "estilo": "Minería antigua",
+    "ver_alli": [
+     "En la ciudad de Laurio están el Museo Arqueológico, con hallazgos de las minas y de Tórico, y un pequeño museo mineralógico.",
+     "Los pozos y lavaderos antiguos se ven al aire libre en el sitio arqueológico de las minas de Drymos, a unos kilómetros al suroeste, con un sendero señalizado."
+    ]
+   }
+  },
+  {
+   "id": "santuario-de-eleusis",
+   "campos": {
+    "estilo": "Santuario griego",
+    "ver_alli": [
+     "Está en el centro de la ciudad de Elefsina, a unos 20 km al oeste de Atenas.",
+     "Tiene un museo dentro del recinto con piezas del santuario."
+    ]
+   }
+  },
+  {
+   "id": "delfos",
+   "campos": {
+    "estilo": "Santuario griego",
+    "ver_alli": [
+     "Está en la ladera del Parnaso, junto al pueblo de Delfos, a unas dos horas y media de Atenas en coche.",
+     "El museo está junto al yacimiento, y algo más abajo, junto a la carretera, el santuario de Atenea Pronaia con su tholos.",
+     "La subida hasta el estadio es empinada: mejor temprano."
+    ]
+   }
+  },
+  {
+   "id": "olimpia",
+   "campos": {
+    "estilo": "Santuario griego",
+    "ver_alli": [
+     "Está junto al pueblo de Archea Olympia, en el oeste del Peloponeso.",
+     "El Museo Arqueológico está a pocos minutos a pie, al otro lado de la carretera.",
+     "En verano conviene ir a primera hora por el calor."
+    ]
+   }
+  },
+  {
+   "id": "teatro-y-santuario-de-epidauro",
+   "campos": {
+    "estilo": "Teatro griego",
+    "ver_alli": [
+     "Está en la Argólida, a unos 30 km de Nauplia.",
+     "Desde lo alto de las gradas se oye lo que se dice en la orquesta: es la prueba que hace casi todo el mundo.",
+     "En verano se representan obras clásicas en el teatro durante el festival de Epidauro."
+    ]
+   }
+  },
+  {
+   "id": "antigua-corinto-y-acrocorinto",
+   "campos": {
+    "estilo": "Templo dórico arcaico y ciudad romana",
+    "ver_alli": [
+     "El yacimiento y su museo están en el pueblo de Archea Korinthos, a unos 8 km de la Corinto moderna.",
+     "Se puede subir en coche hasta la entrada del Acrocorinto, unos 3 km más arriba, con grandes vistas."
+    ]
+   }
+  },
+  {
+   "id": "esparta-y-su-museo",
+   "campos": {
+    "estilo": "Ciudad griega",
+    "ver_alli": [
+     "Las ruinas de la acrópolis y el teatro están en un olivar al norte de la ciudad moderna, junto a la estatua de Leónidas.",
+     "El Museo Arqueológico está en el centro de Esparta, a 1 km.",
+     "Mistrá está a solo 5 km."
+    ]
+   }
+  },
+  {
+   "id": "mesene",
+   "campos": {
+    "estilo": "Ciudad helenística",
+    "ver_alli": [
+     "Está junto al pueblo de Mavromati, al pie del monte Itome, en Mesenia.",
+     "Es muy extensa: el estadio queda en la parte baja y hay que volver cuesta arriba.",
+     "Hay un museo a la entrada del pueblo."
+    ]
+   }
+  },
+  {
+   "id": "templo-de-apolo-en-bassae",
+   "campos": {
+    "estilo": "Templo dórico",
+    "ver_alli": [
+     "Está aislado en las montañas de Arcadia, a más de 1.100 metros de altura; las carreteras de acceso son estrechas y con curvas.",
+     "El templo está cubierto por una gran carpa de protección mientras se restaura."
+    ]
+   }
+  },
+  {
+   "id": "delos",
+   "campos": {
+    "estilo": "Santuario griego",
+    "ver_alli": [
+     "Se llega en barco desde Míkonos; no se puede pernoctar en la isla.",
+     "Hay muy poca sombra: conviene llevar agua y sombrero.",
+     "El museo de la isla guarda los leones originales de la terraza."
+    ]
+   }
+  },
+  {
+   "id": "templo-de-afaya-en-egina",
+   "campos": {
+    "estilo": "Templo dórico",
+    "ver_alli": [
+     "Está en una colina con pinos al este de la isla de Egina, a unos 12 km del puerto.",
+     "Hay autobús desde la ciudad de Egina; la isla está a una hora o menos en barco desde el Pireo.",
+     "Las esculturas de los frontones están en la Gliptoteca de Múnich."
+    ]
+   }
+  },
+  {
+   "id": "heraion-de-samos-y-pitagoreio",
+   "campos": {
+    "estilo": "Santuario griego",
+    "ver_alli": [
+     "El Heraion está junto a la costa, a unos 6 km al oeste de Pitagoreio.",
+     "El túnel de Eupalinos está en la colina sobre Pitagoreio y se visita aparte.",
+     "Muchas piezas del santuario, como el gran kouros, están en el Museo Arqueológico de Vathy."
+    ]
+   }
+  },
+  {
+   "id": "dodona",
+   "campos": {
+    "estilo": "Santuario oracular griego",
+    "ver_alli": [
+     "Está en un valle de montaña a unos 20 km al suroeste de Ioánina.",
+     "Lo más visible es el gran teatro; del santuario del roble sagrado quedan cimientos.",
+     "Los hallazgos, como las tablillas de plomo con preguntas al oráculo, están en el Museo Arqueológico de Ioánina."
+    ]
+   }
+  },
+  {
+   "id": "vergina-tumbas-reales-de-egas",
+   "campos": {
+    "estilo": "Tumbas macedonias",
+    "ver_alli": [
+     "El museo está dentro del gran túmulo, en el pueblo de Vergina, a unos 12 km de Veria.",
+     "Las ruinas del palacio de Egas, en la colina cercana, se visitan también."
+    ],
+    "lat": 40.4875,
+    "lon": 22.3194,
+    "fuentes": [
+     "https://www.openstreetmap.org/way/350569994"
+    ]
+   }
+  },
+  {
+   "id": "pela",
+   "campos": {
+    "estilo": "Ciudad macedonia",
+    "ver_alli": [
+     "Está junto a la carretera de Tesalónica a Edesa, a unos 40 km de Tesalónica.",
+     "El museo arqueológico está a unos centenares de metros del yacimiento.",
+     "Algunos mosaicos se cubren en invierno para protegerlos."
+    ],
+    "lat": 40.7538,
+    "lon": 22.5183,
+    "fuentes": [
+     "https://www.openstreetmap.org/way/161905709"
+    ]
+   }
+  },
+  {
+   "id": "dion",
+   "campos": {
+    "estilo": "Santuario y ciudad macedonia",
+    "ver_alli": [
+     "Está al pie del monte Olimpo, junto al pueblo de Dion, a unos 15 km de Katerini.",
+     "El museo está en el pueblo, a unos centenares de metros del parque arqueológico."
+    ],
+    "lat": 40.1748,
+    "lon": 22.4914,
+    "fuentes": [
+     "https://www.openstreetmap.org/way/249176654"
+    ]
+   }
+  },
+  {
+   "id": "pidna",
+   "campos": {
+    "estilo": "Ciudad macedonia",
+    "ver_alli": [
+     "Está junto a la autopista de Atenas a Tesalónica, cerca de Makrygialos.",
+     "Se conservan sobre todo las murallas bizantinas levantadas sobre las antiguas."
+    ],
+    "lat": 40.3974,
+    "lon": 22.617,
+    "fuentes": [
+     "https://www.openstreetmap.org/way/694332498"
+    ]
+   }
+  },
+  {
+   "id": "ciudad-medieval-de-rodas",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Gótico de los caballeros hospitalarios",
+    "ver_alli": [
+     "La ciudad amurallada está junto al puerto de Mandraki y se recorre a pie.",
+     "El Palacio del Gran Maestre está en lo alto de la calle de los Caballeros.",
+     "Se puede pasear también por el foso, al pie de las murallas."
+    ]
+   }
+  },
+  {
+   "id": "iglesias-de-tesalonica",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura paleocristiana y bizantina",
+    "ver_alli": [
+     "La Rotonda, Santa Sofía y San Demetrio están en el centro y se pueden recorrer a pie en una mañana.",
+     "El Museo de la Cultura Bizantina, cerca de la Torre Blanca, completa la visita."
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-hosios-lukas",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Bizantino medio",
+    "ver_alli": [
+     "Está cerca del pueblo de Distomo, en Beocia, a unos 45 minutos en coche desde Delfos.",
+     "Es un monasterio habitado: hay que ir vestido de forma adecuada."
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-dafni",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Bizantino medio",
+    "ver_alli": [
+     "Está en Chaidari, junto a la antigua Vía Sacra que iba de Atenas a Eleusis, a unos 10 km del centro.",
+     "Lo más importante son los mosaicos del interior, con el Pantocrátor de la cúpula."
+    ]
+   }
+  },
+  {
+   "id": "nea-moni-de-quios",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Bizantino medio",
+    "ver_alli": [
+     "Está en el monte Provateio, en el centro de la isla de Quíos, a unos 15 km de la capital.",
+     "Los mosaicos sufrieron por el terremoto de 1881 y se han restaurado."
+    ]
+   }
+  },
+  {
+   "id": "monte-athos",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Monasterios ortodoxos bizantinos y postbizantinos",
+    "ver_alli": [
+     "Para entrar hace falta un permiso (diamonitirion), solo para hombres, que se tramita en la oficina de peregrinos de Tesalónica o de Uranúpolis.",
+     "Desde Uranúpolis salen barcos turísticos que bordean la costa y permiten ver los monasterios desde el mar.",
+     "Karyés, la pequeña capital, tiene la iglesia del Protaton, con frescos atribuidos a Manuel Panselinos."
+    ],
+    "lat": 40.2574,
+    "lon": 24.2451,
+    "fuentes": [
+     "https://www.openstreetmap.org/node/303638925"
+    ]
+   }
+  },
+  {
+   "id": "mistra",
+   "campos": {
+    "estilo": "Bizantino tardío",
+    "ver_alli": [
+     "Está a 5 km de Esparta, en una ladera del Taigeto.",
+     "Hay dos entradas, una abajo y otra junto al castillo: conviene empezar por arriba si se va en coche.",
+     "Es un monasterio en parte habitado (la Pantanassa): hay que ir vestido de forma adecuada."
+    ]
+   }
+  },
+  {
+   "id": "monemvasia",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Ciudad fortificada bizantina y veneciana",
+    "ver_alli": [
+     "Se entra por la calzada que une la roca con tierra firme y por una única puerta en la muralla; dentro no hay coches.",
+     "La subida a la ciudad alta y a Santa Sofía es empinada y resbaladiza."
+    ]
+   }
+  },
+  {
+   "id": "meteora",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Monasterios postbizantinos",
+    "ver_alli": [
+     "Está junto a Kalambaka, en Tesalia; seis monasterios siguen habitados y se pueden visitar.",
+     "Hay que ir vestido de forma adecuada: en algunos prestan faldas a la entrada.",
+     "El Gran Meteoro es el mayor y el más antiguo."
+    ]
+   }
+  },
+  {
+   "id": "museo-bizantino-y-cristiano",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arte bizantino",
+    "ver_alli": [
+     "Está en la avenida Vasilissis Sofias, cerca de la estación de metro Evangelismos.",
+     "Junto a él están los restos del Liceo de Aristóteles."
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-san-juan-de-patmos",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Monasterio fortificado bizantino",
+    "ver_alli": [
+     "Está en lo alto de la Chora, el pueblo principal de Patmos, sobre el puerto de Skala.",
+     "A mitad de camino entre el puerto y el monasterio está la cueva del Apocalipsis.",
+     "Hay que ir vestido de forma adecuada."
+    ]
+   }
+  },
+  {
+   "id": "iglesias-de-kastoria",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Bizantino",
+    "ver_alli": [
+     "Las iglesias están repartidas por la ciudad vieja, en la península que entra en el lago Orestiada.",
+     "Muchas suelen estar cerradas; el Museo Bizantino de Kastoriá reúne iconos de la ciudad."
+    ]
+   }
+  },
+  {
+   "id": "panagia-parigoritissa-de-arta",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Bizantino del Despotado de Epiro",
+    "ver_alli": [
+     "Está en el centro de Arta, junto a los restos del monasterio que la rodeaba.",
+     "En las afueras está el famoso puente de piedra de Arta, sobre el río Arachthos."
+    ],
+    "lat": 39.1588,
+    "lon": 20.9834,
+    "fuentes": [
+     "https://www.openstreetmap.org/way/150910134"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-livadia",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Fortaleza medieval",
+    "ver_alli": [
+     "Está en lo alto de la garganta del río Erkyna, sobre el centro de Livadiá.",
+     "Al pie del castillo están las fuentes de Erkyna y el lugar del antiguo oráculo de Trofonio."
+    ]
+   }
+  },
+  {
+   "id": "iglesias-pintadas-de-troodos",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Bizantino con tejado de madera",
+    "ver_alli": [
+     "Las diez iglesias están dispersas por los valles de los montes Troodos; la de Asinou, cerca de Nikitari, es una de las más ricas en frescos.",
+     "Muchas tienen la llave en el pueblo o un guarda, y no se permite hacer fotos dentro.",
+     "Agios Nikolaos tis Stegis, cerca de Kakopetria, está a unos 12 km en línea recta."
+    ],
+    "lat": 35.0462,
+    "lon": 32.9734,
+    "fuentes": [
+     "https://www.openstreetmap.org/way/277512413"
+    ]
+   }
+  },
+  {
+   "id": "ohrid-san-clemente-y-santa-sofia",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Bizantino",
+    "ver_alli": [
+     "Santa Sofía está en la ciudad vieja; San Clemente y San Pantaleón, en la colina de Plaošnik, a unos 300 metros, sobre el lago.",
+     "La ciudad y el lago de Ohrid son Patrimonio de la Humanidad."
+    ]
+   }
+  },
+  {
+   "id": "iglesia-de-boyana",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Bizantino medieval búlgaro",
+    "ver_alli": [
+     "Está en el barrio de Boyana, al pie del monte Vitosha, a unos 8 km del centro de Sofía.",
+     "Se entra en grupos pequeños y por poco tiempo para proteger los frescos; dentro no se permiten fotos."
+    ],
+    "lat": 42.6446,
+    "lon": 23.2662,
+    "fuentes": [
+     "https://www.openstreetmap.org/way/44890267"
+    ]
+   }
+  },
+  {
+   "id": "pliska-y-gran-preslav",
+   "campos": {
+    "estilo": "Arquitectura del Primer Imperio búlgaro",
+    "ver_alli": [
+     "La Gran Basílica está a algo más de 1 km al norte de la ciudadela de Pliska, donde hay un museo.",
+     "Gran Preslav, con su propio museo, queda a unos 40 km al suroeste."
+    ],
+    "lat": 43.3986,
+    "lon": 27.1388,
+    "fuentes": [
+     "https://www.openstreetmap.org/way/268646446"
+    ]
+   }
+  },
+  {
+   "id": "anfiteatro-de-durres",
+   "campos": {
+    "estilo": "Anfiteatro romano",
+    "ver_alli": [
+     "Está en el centro de Durrës, junto a las murallas bizantinas y a pocos minutos del puerto.",
+     "Dentro se conserva la capilla con mosaicos."
+    ]
+   }
+  },
+  {
+   "id": "puente-viejo-de-mostar",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura otomana",
+    "ver_alli": [
+     "El puente es peatonal y une los dos barrios del casco viejo, sobre el río Neretva.",
+     "Fue destruido en 1993 y reconstruido; cerca hay un pequeño museo sobre su historia.",
+     "Cada verano, los jóvenes del lugar saltan al río desde el puente, a unos 20 metros de altura."
+    ]
+   }
+  },
+  {
+   "id": "puente-de-mehmed-pasa-sokolovic",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura otomana",
+    "ver_alli": [
+     "Está en Višegrad, sobre el río Drina, y es peatonal.",
+     "Es el escenario de la novela «Un puente sobre el Drina», de Ivo Andrić."
+    ]
+   }
+  },
+  {
+   "id": "museo-arqueologico-de-varna",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo arqueológico",
+    "ver_alli": [
+     "Salas del oro de Varna, en el bulevar Maria Luiza, 41.",
+     "El lugar de la necrópolis, en una zona industrial a unos 4 km, no tiene instalaciones para visitantes."
+    ]
+   }
+  },
+  {
+   "id": "provadia-solnitsata",
+   "campos": {
+    "estilo": "Asentamiento calcolítico fortificado",
+    "ver_alli": [
+     "Yacimiento al aire libre con restos de la muralla y de las instalaciones de la sal.",
+     "Las visitas se organizan con el Museo Histórico de Provadia; conviene llamar antes."
+    ]
+   }
+  },
+  {
+   "id": "museo-prehistorico-de-thera",
+   "campos": {
+    "estilo": "Arte cicládico de la Edad del Bronce",
+    "ver_alli": [
+     "Está en el centro de Fira, a pocos pasos de los miradores de la caldera.",
+     "Conviene verlo antes o después de visitar el yacimiento de Akrotiri."
+    ],
+    "lat": 36.4166,
+    "lon": 25.4326,
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Museum_of_Prehistoric_Thera",
+     "https://santorini.gr/museums/prehistoric-museum-of-thera/",
+     "https://www.openstreetmap.org/way/142786287"
+    ]
+   }
+  },
+  {
+   "id": "museo-arqueologico-de-olimpia",
+   "campos": {
+    "estilo": "Escultura griega",
+    "ver_alli": [
+     "Está a pocos minutos a pie del yacimiento, y se visita con la misma entrada.",
+     "En el pueblo de Olimpia hay además un museo dedicado a la historia de los Juegos en la Antigüedad."
+    ],
+    "lat": 37.6435,
+    "lon": 21.6296,
+    "fuentes": [
+     "https://whc.unesco.org/en/list/517/",
+     "https://aroundus.com/p/7314875-archaelogical-museum-of-olympia",
+     "https://www.sci.news/archaeology/oldest-known-fragment-homers-odyssey-06202.html",
+     "https://www.openstreetmap.org/relation/1980861"
+    ]
+   }
+  },
+  {
+   "id": "academia-de-platon",
+   "campos": {
+    "estilo": "Escuela filosófica griega"
+   }
+  },
+  {
+   "id": "liceo-de-aristoteles",
+   "campos": {
+    "estilo": "Gimnasio griego",
+    "ver_alli": [
+     "Yacimiento al aire libre en pleno centro de Atenas, entre la calle Rigillis y la avenida Vasilissis Sofias, cerca del Museo Bizantino.",
+     "Pasarelas y paneles explican la palestra y los baños."
+    ]
+   }
+  }
+ ]
+}

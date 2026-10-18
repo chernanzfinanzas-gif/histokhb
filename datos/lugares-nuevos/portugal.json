@@ -1,0 +1,1508 @@
+{
+ "zona": "Portugal",
+ "nuevos": [
+  {
+   "id": "palacio-da-pena",
+   "nombre": "Palacio Nacional da Pena",
+   "provincia": "Lisboa (Portugal)",
+   "comarca": "Sintra",
+   "lat": 38.7876,
+   "lon": -9.3906,
+   "tipo": "monumento",
+   "estilo": "Romanticismo (neogótico, neomudéjar, neomanuelino)",
+   "epoca": "Siglo XIX",
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>En lo alto de la sierra de Sintra hubo en el siglo XII una pequeña ermita de <b>Nossa Senhora da Pena</b>; en tiempos de <b>Manuel I</b> se convirtió en un monasterio de monjes <b>jerónimos</b>, que el <b>terremoto de 1755</b> dejó casi en ruinas. Tras la boda de la reina <b>María II</b> con <b>Fernando II</b> en 1836, el rey consorte compró con su fortuna personal el viejo monasterio y la sierra, y en lugar de restaurarlo decidió levantar un palacio a su gusto, con la supervisión del barón <b>Von Eschwege</b>.</p><p>El resultado es el gran capricho del <b>Romanticismo</b> portugués: torres neogóticas, arcos neoislámicos, detalles pseudomanuelinos que copian la Torre de Belém, los Jerónimos o una ventana del Convento de Cristo de Tomar, todo pintado de colores vivos. Fue residencia de verano de <b>Carlos I</b> y la reina <b>Amelia</b>, que estaba allí cuando estalló la revolución del 5 de octubre de 1910.</p><p>Monumento Nacional desde 1910, forma parte del <b>Paisaje cultural de Sintra</b>, Patrimonio de la Humanidad desde 1995.</p><p class=\"dato\"><span>¿Sabías que…?</span>Fernando II diseñó el pórtico del <b>Tritón</b>, mitad hombre y mitad pez, como «una alegoría de la creación del mundo».</p>"
+   },
+   "ver_alli": [
+    "El pórtico del Tritón, a la entrada del patio.",
+    "El claustro del antiguo monasterio: cada columna es distinta.",
+    "Las vistas desde los adarves sobre Sintra y el Atlántico.",
+    "El parque, con el Chalet de la condesa de Edla."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Palacio_da_Pena",
+    "https://www.openstreetmap.org/way/612095421"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-nacional-de-sintra",
+   "nombre": "Palacio Nacional de Sintra",
+   "provincia": "Lisboa (Portugal)",
+   "comarca": "Sintra",
+   "lat": 38.7977,
+   "lon": -9.3907,
+   "tipo": "monumento",
+   "estilo": "Gótico, mudéjar y manuelino",
+   "epoca": "Gótico",
+   "anio": 1508,
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>En pleno casco de Sintra, sus dos enormes <b>chimeneas cónicas</b> gemelas son el símbolo de la villa. Es un palacio real que fue creciendo a trozos: en 1489 una campaña de obras forró su interior de <b>azulejos andaluces</b>, y entre 1505 y 1520 <b>Manuel I</b> le añadió el ala manuelina.</p><p>Por dentro es una sucesión de salas con nombre propio: la de los <b>Cisnes</b>, la de las <b>Urracas</b> (Pegas), la <b>Sala Moura</b> o de los Árabes y, sobre todo, la <b>Sala de los Blasones</b>, empezada en 1508, cuya cúpula muestra los escudos de <b>72 familias nobles</b> portuguesas. Es una mezcla de gótico, <b>mudéjar</b>, manuelino y renacentista.</p><p>Monumento Nacional desde 1910, forma parte del Paisaje cultural de Sintra, Patrimonio de la Humanidad desde 1995.</p>"
+   },
+   "ver_alli": [
+    "Las dos chimeneas cónicas de las cocinas.",
+    "La cúpula de la Sala de los Blasones.",
+    "Los azulejos de tradición andalusí de las salas más antiguas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Palacio_Nacional_de_Sintra",
+    "https://www.openstreetmap.org/relation/18734112"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "quinta-da-regaleira",
+   "nombre": "Quinta da Regaleira",
+   "provincia": "Lisboa (Portugal)",
+   "comarca": "Sintra",
+   "lat": 38.7963,
+   "lon": -9.396,
+   "tipo": "monumento",
+   "estilo": "Neomanuelino",
+   "epoca": "Siglo XX",
+   "anio": 1910,
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>En 1892 <b>António Augusto Carvalho Monteiro</b> compró esta finca a los barones da Regaleira y encargó al italiano <b>Luigi Manini</b> un palacio y un jardín llenos de símbolos. La mayor parte de lo que se ve se terminó en <b>1910</b>, en estilo <b>neomanuelino</b> con guiños góticos, renacentistas y clásicos.</p><p>El jardín es un recorrido iniciático por la alquimia, la masonería y la leyenda templaria. Su pieza más famosa es el <b>pozo iniciático</b>: una escalera de caracol que baja por <b>nueve rellanos</b> separados por quince peldaños, que se ha relacionado con los círculos de la <i>Divina Comedia</i>, y que conecta con grutas y galerías. Junto al palacio está la capilla de la Santísima Trinidad, con la cruz de la Orden de Cristo en el suelo.</p><p>El ayuntamiento de Sintra compró la finca en 1997.</p>"
+   },
+   "ver_alli": [
+    "El pozo iniciático: bajar sus nueve rellanos hasta el fondo.",
+    "Las galerías subterráneas que salen del pozo.",
+    "La capilla de la Santísima Trinidad, junto al palacio."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Quinta_da_Regaleira",
+    "https://www.openstreetmap.org/way/169844121"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museu-nacional-de-arte-antiga",
+   "nombre": "Museo Nacional de Arte Antiga",
+   "provincia": "Lisboa (Portugal)",
+   "comarca": "Lisboa",
+   "lat": 38.7048,
+   "lon": -9.1615,
+   "tipo": "museo",
+   "estilo": "Pintura y artes decorativas",
+   "epoca": "Renacimiento",
+   "anio": 1884,
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>Abrió en <b>1884</b> y los lisboetas lo llaman el museo de las <b>Janelas Verdes</b>, las ventanas verdes. Ocupa un palacio del siglo XVII de los condes de Alvor que en 1770 compró el <b>marqués de Pombal</b>; en 1940 se le añadió un anexo sobre el solar de un convento carmelita destruido por el terremoto de 1755. Muchas piezas llegaron tras la supresión de las órdenes religiosas en 1834.</p><p>Es la gran colección de arte antiguo de Portugal. Su joya son las seis tablas de los <b>Paneles de San Vicente</b> de <b>Nuno Gonçalves</b>. Al lado, el tríptico de <b>Las tentaciones de san Antonio</b> de <b>El Bosco</b>, los biombos japoneses de tipo <b>Namban</b> y la vajilla Germain, encargada por José I.</p>"
+   },
+   "ver_alli": [
+    "Los Paneles de San Vicente de Nuno Gonçalves.",
+    "Las tentaciones de san Antonio, de El Bosco.",
+    "Los biombos de tipo Namban.",
+    "La vajilla Germain."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_Nacional_de_Arte_Antiguo",
+    "https://www.openstreetmap.org/way/98656587"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museu-nacional-do-azulejo",
+   "nombre": "Museo Nacional del Azulejo",
+   "provincia": "Lisboa (Portugal)",
+   "comarca": "Lisboa",
+   "lat": 38.7249,
+   "lon": -9.1137,
+   "tipo": "museo",
+   "estilo": "Azulejería; convento manuelino con iglesia barroca",
+   "epoca": "Barroco",
+   "anio": 1965,
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>El museo, creado en <b>1965</b> y nacional desde 1980, ocupa el convento de <b>Madre de Deus</b>, fundado en <b>1509</b> por la reina <b>Leonor</b>, viuda de Juan II. Es el lugar para entender por qué Portugal vive revestido de azulejos: unas <b>7.000 piezas</b> componen su colección.</p><p>La pieza estrella es la <b>Gran Vista de Lisboa</b>, un panel de hacia 1700 que muestra la ciudad a lo largo del río antes del <b>terremoto de 1755</b>. La visita incluye la iglesia del convento, que recibió decoración barroca bajo Juan V, y la capilla de San Antonio, con su decorado barroco del siglo XVIII.</p>"
+   },
+   "ver_alli": [
+    "La Gran Vista de Lisboa, en la segunda planta.",
+    "La iglesia de Madre de Deus y la capilla de San Antonio.",
+    "El retablo de mayólica de Nossa Senhora da Vida."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_Nacional_del_Azulejo",
+    "https://en.wikipedia.org/wiki/National_Azulejo_Museum",
+    "https://www.openstreetmap.org/way/1451054092"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "mosteiro-de-sao-vicente-de-fora",
+   "nombre": "Monasterio de São Vicente de Fora",
+   "provincia": "Lisboa (Portugal)",
+   "comarca": "Lisboa",
+   "lat": 38.7146,
+   "lon": -9.1278,
+   "tipo": "iglesia",
+   "estilo": "Manierista",
+   "epoca": "Renacimiento",
+   "anio": 1627,
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>Su nombre recuerda que estuvo «fuera» de las murallas. San Vicente fue proclamado patrón de Lisboa en <b>1173</b>, cuando sus reliquias llegaron desde el Algarve a una iglesia extramuros en este lugar. El templo actual lo diseñaron el italiano <b>Filippo Terzi</b> y el español <b>Juan de Herrera</b>, y se terminó en <b>1627</b>: una fachada monumental, sobria y simétrica que domina la colina de Alfama.</p><p>Dentro destacan el baldaquino barroco y los claustros forrados de <b>azulejos</b> del siglo XVIII, que ilustran las <b>fábulas de La Fontaine</b>. En 1885 el antiguo refectorio se convirtió en el <b>panteón de los Braganza</b>, con los sarcófagos de casi todos los reyes de la dinastía, desde Juan IV hasta Manuel II.</p>"
+   },
+   "ver_alli": [
+    "Los azulejos de las fábulas de La Fontaine en los claustros.",
+    "El panteón real de los Braganza.",
+    "Las vistas desde la azotea sobre Alfama y el Tajo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Vicente_de_Fora",
+    "https://www.openstreetmap.org/relation/3310877"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "centro-historico-de-oporto",
+   "nombre": "Centro histórico de Oporto (Ribeira)",
+   "provincia": "Porto (Portugal)",
+   "comarca": "Porto",
+   "lat": 41.1406,
+   "lon": -8.613,
+   "tipo": "poblacion",
+   "estilo": "Casco histórico medieval y barroco",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>Oporto debe su nombre y su fortuna al puerto del Duero. Su casco antiguo, que baja en cuestas desde la catedral hasta el muelle de la <b>Ribeira</b>, es <b>Patrimonio de la Humanidad desde 1996</b>; la zona protegida abarca unas <b>49 hectáreas</b> e incluye la orilla de Vila Nova de Gaia con las bodegas del vino de Oporto.</p><p>Dentro caben más de diez siglos de historia: la catedral con su núcleo románico, los restos de la <b>Muralla Fernandina</b>, la iglesia manuelina de Santa Clara, el neoclásico Palacio de la Bolsa y la iglesia de los Congregados, entre fachadas estrechas de colores y ropa tendida.</p>"
+   },
+   "ver_alli": [
+    "La plaza y el muelle de la Ribeira, junto al río.",
+    "Los restos de la Muralla Fernandina.",
+    "La vista de la Ribeira desde la orilla de Gaia."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Centro_hist%C3%B3rico_de_Oporto",
+    "https://www.openstreetmap.org/relation/19127155"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "torre-dos-clerigos",
+   "nombre": "Iglesia y Torre de los Clérigos",
+   "provincia": "Porto (Portugal)",
+   "comarca": "Porto",
+   "lat": 41.1457,
+   "lon": -8.6146,
+   "tipo": "iglesia",
+   "estilo": "Barroco",
+   "epoca": "Barroco",
+   "anio": 1754,
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>La silueta de Oporto tiene un mástil: la <b>Torre de los Clérigos</b>, de unos <b>75 metros</b>, durante mucho tiempo el edificio más alto de Portugal y referencia para los barcos que subían por el Duero. La iglesia y la torre las proyectó el italiano <b>Nicolau Nasoni</b>, gran figura del <b>barroco</b> portuense, por encargo de la Hermandad de los Clérigos Pobres; se construyeron entre <b>1754 y 1763</b>.</p><p>La iglesia tiene una fachada muy decorada y la torre, algo más sobria, se sube por una escalera de más de <b>240 peldaños</b>. Estaban previstas dos torres, pero la segunda nunca se hizo. Monumento Nacional desde 1910.</p><p class=\"dato\"><span>¿Sabías que…?</span>El lugar se conocía como el «cerro de los ahorcados», porque allí se enterraba a los ajusticiados.</p>"
+   },
+   "ver_alli": [
+    "La fachada barroca de la iglesia.",
+    "La subida a la torre y la vista de 360° sobre Oporto."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Torre_de_los_Cl%C3%A9rigos",
+    "https://www.openstreetmap.org/way/247168260"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "se-do-porto",
+   "nombre": "Catedral de Oporto (Sé do Porto)",
+   "provincia": "Porto (Portugal)",
+   "comarca": "Porto",
+   "lat": 41.1428,
+   "lon": -8.6112,
+   "tipo": "iglesia",
+   "estilo": "Románico, gótico y barroco",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>Fortaleza más que templo a primera vista, la catedral de Oporto corona el cerro más antiguo de la ciudad. Se empezó en la primera mitad del <b>siglo XII</b> y se terminó a comienzos del XIII; de esa época <b>románica</b> son la fachada con dos torres y rosetón y las tres naves con bóveda de cañón.</p><p>Los siglos le añadieron capas: la capilla gótica de João Gordo (hacia 1333), el <b>claustro gótico</b> de los siglos XIV-XV, el nártex barroco de <b>Nasoni</b> (hacia 1736) y la portada de hacia 1772. Arriba, paneles de azulejos narran la vida de la Virgen y las <i>Metamorfosis</i> de Ovidio. Aquí se casaron en <b>1387</b> el rey <b>Juan I</b> y <b>Felipa de Lancaster</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>Su altar de plata del siglo XVII se salvó del saqueo francés de 1809 escondido tras una pared de yeso levantada a toda prisa.</p>"
+   },
+   "ver_alli": [
+    "La fachada románica con su rosetón.",
+    "El claustro gótico y los azulejos de los pisos altos.",
+    "El altar de plata, a la izquierda del ábside.",
+    "La vista sobre la Ribeira desde el atrio."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_de_Oporto",
+    "https://www.openstreetmap.org/way/210461448"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-da-bolsa",
+   "nombre": "Palacio de la Bolsa",
+   "provincia": "Porto (Portugal)",
+   "comarca": "Porto",
+   "lat": 41.1414,
+   "lon": -8.6158,
+   "tipo": "monumento",
+   "estilo": "Neoclásico (y neomorisco en el Salón Árabe)",
+   "epoca": "Siglo XIX",
+   "anio": 1842,
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>La burguesía comercial de Oporto levantó su Bolsa sobre los claustros del convento de San Francisco, destruidos por un incendio en <b>1832</b> durante las guerras liberales. Las obras empezaron en <b>1842</b> según el proyecto <b>neoclásico</b> de <b>Joaquim da Costa Lima Júnior</b>; la estructura estaba lista hacia 1850, pero la decoración interior no se completó hasta 1910.</p><p>Se entra al <b>Patio de las Naciones</b>, cubierto por una cúpula octogonal de hierro y vidrio con los escudos de los países que comerciaban con Portugal. El final de la visita es el <b>Salón Árabe</b> (1862-1880), de Gustavo Adolfo Gonçalves e Sousa, un derroche <b>neomorisco</b> que todavía sirve para recibir a jefes de Estado.</p>"
+   },
+   "ver_alli": [
+    "El Patio de las Naciones y su cúpula de hierro y cristal.",
+    "El Salón Árabe."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Pal%C3%A1cio_da_Bolsa",
+    "https://www.openstreetmap.org/relation/5424595"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "igreja-de-sao-francisco-porto",
+   "nombre": "Iglesia de San Francisco (Oporto)",
+   "provincia": "Porto (Portugal)",
+   "comarca": "Porto",
+   "lat": 41.141,
+   "lon": -8.6159,
+   "tipo": "iglesia",
+   "estilo": "Gótico, con interior de talla barroca",
+   "epoca": "Gótico",
+   "anio": 1383,
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>Por fuera es una sobria iglesia <b>gótica</b>, empezada en <b>1383</b> y terminada en 1410. Por dentro es otra cosa: durante unos 160 años, tallistas portugueses forraron sus muros de madera labrada, pagada por las familias de Oporto que tenían allí sus panteones, hasta convertirla en una de las iglesias más deslumbrantes del barroco portugués.</p><p>En la capilla de Nuestra Señora de la Concepción está el <b>Árbol de Jesé</b> (1718-1721), con esculturas de 1719 de Manuel Carneiro Adão: la genealogía de Jesús con doce reyes de Judá. Bajo la casa anexa (1746-1749) se excavaron unas <b>catacumbas</b> donde se enterró a los benefactores de la orden entre 1749 y 1866. El convento desapareció en la guerra civil de 1828-1834; solo quedó la iglesia.</p>"
+   },
+   "ver_alli": [
+    "El Árbol de Jesé, en la capilla de la Concepción.",
+    "El contraste entre la fachada gótica y el interior tallado.",
+    "Las catacumbas de la casa anexa."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Francisco_(Oporto)",
+    "https://www.openstreetmap.org/way/210681249"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "ponte-luis-i",
+   "nombre": "Puente Don Luis I",
+   "provincia": "Porto (Portugal)",
+   "comarca": "Porto / Vila Nova de Gaia",
+   "lat": 41.14,
+   "lon": -8.6095,
+   "tipo": "monumento",
+   "estilo": "Arquitectura del hierro",
+   "epoca": "Siglo XIX",
+   "anio": 1886,
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>El gran arco de hierro que une Oporto con Vila Nova de Gaia se inauguró en <b>1886</b>. Lo proyectó el ingeniero <b>Théophile Seyrig</b>, antiguo socio de <b>Gustave Eiffel</b>, y lo construyó la empresa belga Société de Willebroeck, que ganó el concurso convocado en 1879 (la propuesta de la casa Eiffel fue rechazada).</p><p>Su arco salva unos <b>172 metros</b> y sostiene <b>dos tableros</b>: el inferior, de unos 174 metros, a ras del muelle de la Ribeira, y el superior, de unos 390 metros, por donde hoy pasa la línea D del metro de Oporto y se cruza a pie con el río a vista de pájaro.</p>"
+   },
+   "ver_alli": [
+    "Cruzar a pie el tablero superior.",
+    "El arco visto desde el muelle de la Ribeira.",
+    "La vista sobre las bodegas de Gaia."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Puente_Don_Luis_I",
+    "https://www.openstreetmap.org/way/98835981"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "se-de-braga",
+   "nombre": "Catedral de Braga",
+   "provincia": "Braga (Portugal)",
+   "comarca": "Braga",
+   "lat": 41.55,
+   "lon": -8.4269,
+   "tipo": "iglesia",
+   "estilo": "Románico, gótico y barroco",
+   "epoca": "Románico",
+   "anio": 1089,
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>La catedral de Braga, sede de su arzobispado, hunde sus raíces en el siglo XI. El obispo <b>Pedro</b> empezó la iglesia en el siglo XI y se consagró en <b>1089</b>; sobre esa base <b>románica</b> se fueron sumando capillas góticas, un exonártex del siglo XVI y una gran reforma <b>barroca</b> del arzobispo Rodrigo de Moura Teles (1704-1728).</p><p>En la <b>capilla de los Reyes</b> (1374) reposan <b>Enrique de Borgoña</b> y <b>Teresa de León</b>, condes de Portugal y padres del primer rey, Alfonso I. Dos <b>órganos barrocos</b> gemelos de Simón Fontanes (1737 y 1739), con talla de Marceliano de Araújo, son otra de sus joyas.</p>"
+   },
+   "ver_alli": [
+    "Los dos órganos barrocos gemelos.",
+    "La capilla de los Reyes, con las tumbas de los padres de Alfonso I.",
+    "La capilla gótica de la Gloria."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_de_Braga",
+    "https://www.openstreetmap.org/way/22746378"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "capela-dos-ossos-evora",
+   "nombre": "Capilla de los Huesos de Évora",
+   "provincia": "Évora (Portugal)",
+   "comarca": "Évora",
+   "lat": 38.5688,
+   "lon": -7.9086,
+   "tipo": "iglesia",
+   "estilo": "Manierista",
+   "epoca": "Renacimiento",
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>Junto a la iglesia de San Francisco de Évora, un fraile franciscano levantó en el <b>siglo XVI</b>, en pleno espíritu de la Contrarreforma, una capilla para hacer pensar en la muerte. Sus muros y sus ocho columnas están cubiertos con los huesos de unas <b>5.000 personas</b>, sacados de los cementerios de las iglesias cercanas.</p><p>La sala mide 18,7 por 11 metros y apenas recibe luz por tres pequeñas aberturas. A la entrada, una inscripción avisa al visitante: <b>«Nós ossos que aqui estamos pelos vossos esperamos»</b> («Nosotros, los huesos que aquí estamos, por los vuestros esperamos»).</p>"
+   },
+   "ver_alli": [
+    "La inscripción sobre la puerta.",
+    "Las columnas forradas de cráneos.",
+    "El poema del siglo XIX colgado en un pilar."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Capilla_de_los_Huesos_(%C3%89vora)",
+    "https://en.wikipedia.org/wiki/Capela_dos_Ossos",
+    "https://www.openstreetmap.org/node/6763794307"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monsaraz",
+   "nombre": "Monsaraz",
+   "provincia": "Évora (Portugal)",
+   "comarca": "Reguengos de Monsaraz",
+   "lat": 38.4431,
+   "lon": -7.3805,
+   "tipo": "poblacion",
+   "estilo": "Villa medieval amurallada",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1232,
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>Una villa blanca encaramada en un cerro amurallado sobre el <b>Guadiana</b>, frente a la frontera española y al embalse de Alqueva. Fue castro antes de los romanos y la ocuparon visigodos y musulmanes. <b>Geraldo Sem Pavor</b> la tomó en 1167, pero se perdió de nuevo; en <b>1232</b> <b>Sancho II</b>, con ayuda de los <b>templarios</b>, la recuperó para siempre y la dejó a su cargo para guardar la frontera.</p><p>Recibió fueros de Alfonso III (1276) y de Manuel I (1512), y tras la Restauración de 1640 se reforzaron sus defensas dentro del sistema de Elvas. Fue cabeza de concejo hasta que la sede pasó a Reguengos en 1838. Dentro de los muros quedan la cisterna, la picota y la Casa de la Inquisición.</p>"
+   },
+   "ver_alli": [
+    "La calle principal, empedrada y encalada.",
+    "La iglesia matriz de Nossa Senhora da Lagoa y la picota.",
+    "El castillo y la vista sobre el Alqueva."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monsaraz",
+    "https://en.wikipedia.org/wiki/Monsaraz",
+    "https://www.openstreetmap.org/way/135069838"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castelo-de-marvao",
+   "nombre": "Castillo de Marvão",
+   "provincia": "Portalegre (Portugal)",
+   "comarca": "Marvão",
+   "lat": 39.397,
+   "lon": -7.3799,
+   "tipo": "castillo",
+   "estilo": "Medieval, con añadidos abaluartados",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>Encaramado a <b>867 metros</b> en la sierra de São Mamede, a un paso de la frontera, Marvão es un nido de águilas. Su origen se atribuye al caudillo islámico <b>Ibn Marwan</b>, que se hizo fuerte aquí hacia 876-877. Los cristianos de Alfonso I tomaron la zona entre 1160 y 1166, y en 1226 Sancho II le dio fuero para poblarla.</p><p>Hacia 1300 el rey <b>Dinis</b> reforzó las defensas y levantó la torre del homenaje. Las murallas abrazan todo el pueblo, y las puertas en recodo frenaban a los asaltantes. En las guerras de la Restauración (1640-1662) sufrió ataques españoles y fue reparada. Dentro, una gran <b>cisterna</b> abovedada recogía la lluvia para resistir los asedios.</p>"
+   },
+   "ver_alli": [
+    "El paseo por las murallas, con vistas a España.",
+    "La torre del homenaje.",
+    "La cisterna abovedada.",
+    "Las puertas en recodo de la entrada."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Castle_of_Marv%C3%A3o",
+    "https://www.openstreetmap.org/node/372865739"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "elvas-ciudad-cuartel",
+   "nombre": "Elvas, ciudad-cuartel fronteriza",
+   "provincia": "Portalegre (Portugal)",
+   "comarca": "Elvas",
+   "lat": 38.8806,
+   "lon": -7.1636,
+   "tipo": "poblacion",
+   "estilo": "Fortificación abaluartada (escuela holandesa)",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>Frente a Badajoz, Elvas fue la llave de la frontera. Se fortificó intensamente entre los siglos <b>XVII y XIX</b>, empezando durante la guerra de la Restauración, con un diseño del jesuita neerlandés <b>João Piscásio Cosmander</b>: es el mejor ejemplo conservado de la <b>escuela holandesa</b> de fortificación y el mayor sistema abaluartado de foso seco del mundo.</p><p>La UNESCO la declaró <b>Patrimonio de la Humanidad en 2012</b> como «ciudad-cuartel fronteriza». El conjunto incluye las murallas de la ciudad, los fuertes de <b>Santa Luzia</b> y de <b>Nossa Senhora da Graça</b> y el <b>acueducto de Amoreira</b>, de 6 km, terminado en 1622.</p>"
+   },
+   "ver_alli": [
+    "El recinto abaluartado que rodea la ciudad.",
+    "El acueducto de Amoreira.",
+    "El fuerte de Nossa Senhora da Graça, en el cerro al norte.",
+    "El fuerte de Santa Luzia."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Garrison_Border_Town_of_Elvas_and_its_Fortifications",
+    "https://www.openstreetmap.org/way/114285018"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "sinagoga-de-tomar",
+   "nombre": "Sinagoga de Tomar",
+   "provincia": "Santarém (Portugal)",
+   "comarca": "Tomar",
+   "lat": 39.6032,
+   "lon": -8.4138,
+   "tipo": "iglesia",
+   "estilo": "Gótico",
+   "epoca": "Gótico",
+   "anio": 1460,
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>Es uno de los grandes testimonios de la presencia judía en el Portugal medieval. Se levantó entre 1430 y <b>1460</b>: una sala pequeña con bóvedas <b>góticas</b> sobre <b>cuatro columnas</b>, que se han interpretado como las cuatro matriarcas, y doce ménsulas por las doce tribus de Israel.</p><p>La comunidad rezó aquí hasta <b>1496</b>, cuando <b>Manuel I</b> ordenó la conversión forzosa o la expulsión de los judíos. Después fue cárcel, ermita de São Bartolomeu, pajar y almacén. En <b>1923</b> la compró <b>Samuel Schwarz</b>, que la restauró y en 1939 la donó al Estado para que fuese museo: el <b>Museo Luso-Hebraico Abraham Zacuto</b>. Monumento Nacional desde 1921.</p>"
+   },
+   "ver_alli": [
+    "Las cuatro columnas y las bóvedas góticas.",
+    "El Museo Luso-Hebraico Abraham Zacuto que alberga."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Synagogue_of_Tomar",
+    "https://www.openstreetmap.org/way/462190532"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castelo-de-almourol",
+   "nombre": "Castillo de Almourol",
+   "provincia": "Santarém (Portugal)",
+   "comarca": "Vila Nova da Barquinha",
+   "lat": 39.4619,
+   "lon": -8.3839,
+   "tipo": "castillo",
+   "estilo": "Románico templario",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1171,
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>Un castillo sobre un islote de granito en mitad del <b>Tajo</b>, cerca de la desembocadura del Zêzere: pocas imágenes son tan de cuento. Tras su conquista en 1129 quedó a cargo de <b>Gualdim Pais</b>, maestre de los <b>templarios</b> en Portugal, que lo reconstruyó; una inscripción sobre la puerta fecha las obras en <b>1171</b>. Formaba parte de la línea templaria que defendía el Tajo durante la Reconquista.</p><p>Perdido su valor militar, se arruinó y los románticos del siglo XIX lo «reinventaron». Entre 1939 y los años cincuenta se restauró, con almenas añadidas, para servir de residencia oficial de la República.</p>"
+   },
+   "ver_alli": [
+    "La travesía en barca hasta el islote.",
+    "La torre del homenaje y su vista sobre el Tajo.",
+    "La inscripción de 1171 sobre la puerta."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Castle_of_Almourol",
+    "https://www.openstreetmap.org/relation/9331267"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castelo-de-braganca",
+   "nombre": "Castillo de Bragança y Domus Municipalis",
+   "provincia": "Bragança (Portugal)",
+   "comarca": "Bragança",
+   "lat": 41.8041,
+   "lon": -6.7493,
+   "tipo": "castillo",
+   "estilo": "Medieval; Domus románica",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1187,
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>En lo alto de la ciudad, a unos 800 metros de altitud, el castillo de Bragança está muy bien conservado. <b>Sancho I</b> pagó en <b>1187</b> la muralla y el castillo, y tras el Tratado de Segovia (1400) <b>Juan I</b> reforzó las defensas. La muralla, de unos 2 metros de grosor y quince torres, encierra unas tres hectáreas de casco histórico. La torre del homenaje acoge desde 1936 un museo militar.</p><p>Dentro del recinto está la <b>Domus Municipalis</b>, una rareza: un edificio civil <b>románico</b>, pentagonal, de mediados del siglo XIII según la datación más común. Abajo tiene una cisterna y arriba una sala donde se reunían los «hombres buenos» del concejo. Castillo y Domus son Monumento Nacional desde 1910.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje y su museo militar.",
+    "El paseo por la muralla.",
+    "La Domus Municipalis y la iglesia de Santa María.",
+    "La picota medieval."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Castle_of_Bragan%C3%A7a",
+    "https://en.wikipedia.org/wiki/Domus_Municipalis",
+    "https://www.openstreetmap.org/relation/10662351"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "anta-grande-do-zambujeiro",
+   "nombre": "Anta Grande do Zambujeiro",
+   "provincia": "Évora (Portugal)",
+   "comarca": "Évora",
+   "lat": 38.5392,
+   "lon": -8.0144,
+   "tipo": "yacimiento",
+   "estilo": "Megalítico (dolmen de corredor)",
+   "epoca": "Neolítico",
+   "anio": -4000,
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>Es un dolmen de dimensiones colosales cerca de Évora. Se levantó entre el <b>4000 y el 3000 a. C.</b>, en la misma época que los demás megalitos de Évora: una <b>cámara poligonal</b> de siete losas de unos <b>8 metros</b> de alto, a la que se llega por un corredor de unos 12 metros.</p><p>La gran losa de cubierta, de unos 7 metros, está hoy rota y caída sobre el <b>túmulo</b> que todavía envuelve casi toda la tumba. Las excavaciones de 1965 sacaron placas de pizarra, collares, báculos, objetos de cobre y cerámica, que se llevaron al museo de Évora. Monumento Nacional desde 1971.</p>"
+   },
+   "ver_alli": [
+    "Las enormes losas de la cámara.",
+    "El corredor de acceso.",
+    "El menhir decorado tendido junto a la entrada."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Anta_Grande_do_Zambujeiro",
+    "https://www.openstreetmap.org/node/1587734446"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monsanto",
+   "nombre": "Monsanto",
+   "provincia": "Castelo Branco (Portugal)",
+   "comarca": "Idanha-a-Nova",
+   "lat": 40.0395,
+   "lon": -7.1159,
+   "tipo": "poblacion",
+   "estilo": "Aldea de granito",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1165,
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>Las casas de Monsanto se encajan entre <b>peñascos de granito</b> gigantes, aprovechando rocas y cuevas como paredes y tejados, en la ladera de un monte que sube hasta unos 758 metros. En <b>1938</b> un concurso del Estado Novo la proclamó la <b>«aldea más portuguesa de Portugal»</b>.</p><p>Arriba están las ruinas del castillo: en 1165 Alfonso I confió la plaza a los <b>templarios</b> y su maestre <b>Gualdim Pais</b> levantó la fortaleza, rehecha después por Sancho I. En el siglo XIX la voló la explosión de su polvorín.</p><p class=\"dato\"><span>¿Sabías que…?</span>El trofeo del concurso de 1938, un <b>gallo de plata</b>, corona aún la Torre de Lucano, la torre del reloj del pueblo.</p>"
+   },
+   "ver_alli": [
+    "La Torre de Lucano con el gallo de plata.",
+    "Las casas encajadas bajo los peñascos.",
+    "La subida al castillo y la vista sobre la llanura."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Monsanto_(Idanha-a-Nova)",
+    "https://www.openstreetmap.org/way/383375191"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santuario-de-fatima",
+   "nombre": "Santuario de Fátima",
+   "provincia": "Santarém (Portugal)",
+   "comarca": "Ourém",
+   "lat": 39.6322,
+   "lon": -8.6718,
+   "tipo": "iglesia",
+   "estilo": "Neobarroco y contemporáneo",
+   "epoca": "Siglo XX",
+   "anio": 1928,
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>En la Cova da Iria, tres pastorcillos —<b>Lucía dos Santos</b> y los hermanos <b>Francisco</b> y <b>Jacinta Marto</b>— dijeron haber visto a la Virgen entre el <b>13 de mayo y el 13 de octubre de 1917</b>. En el lugar se alzó la <b>Capilla de las Apariciones</b>, con primera misa en 1921; fue dinamitada en 1922 y reconstruida ese mismo año.</p><p>Al fondo de la gran explanada está la <b>basílica de Nuestra Señora del Rosario</b>, neobarroca, del neerlandés <b>Gerardus van Kriecken</b>: se empezó en <b>1928</b>, se consagró en 1953 y su torre mide 65 metros. Dentro reposan los tres videntes. Enfrente, la moderna basílica de la Santísima Trinidad, de Alexandros Tombazis, inaugurada en 2007, tiene 9.000 asientos.</p>"
+   },
+   "ver_alli": [
+    "La Capilla de las Apariciones.",
+    "Las tumbas de los pastorcillos en la basílica del Rosario.",
+    "La basílica de la Santísima Trinidad."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Santuario_de_F%C3%A1tima",
+    "https://www.openstreetmap.org/way/1029122076"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "angra-do-heroismo",
+   "nombre": "Angra do Heroísmo",
+   "provincia": "Azores (Portugal)",
+   "comarca": "Angra do Heroísmo (isla Terceira)",
+   "lat": 38.6559,
+   "lon": -27.2186,
+   "tipo": "poblacion",
+   "estilo": "Ciudad renacentista atlántica",
+   "epoca": "Renacimiento",
+   "anio": 1534,
+   "regiones_sincronia": [
+    "Portugal"
+   ],
+   "texto": {
+    "general": "<p>En mitad del Atlántico, la bahía de Angra fue refugio de carabelas y galeones en la ruta portuguesa de las Indias. En <b>1534</b> fue la primera de las Azores en tener rango de ciudad y sede de obispado, y se trazó con calles rectilíneas que todavía se recorren. Su centro histórico es <b>Patrimonio de la Humanidad desde 1983</b>.</p><p>Sobre el monte Brasil vigila la fortaleza de <b>São João Baptista</b>, empezada como fuerte de São Filipe bajo Felipe II y rodeada por unos 4 km de murallas. En las guerras liberales sirvió de capital del bando de la reina <b>María II</b>, que residió en la isla de 1830 a 1833 y le dio el título «do Heroísmo» por resistir el ataque miguelista de 1829. El terremoto del <b>1 de enero de 1980</b> dañó gravemente el casco, reconstruido en cuatro años.</p>"
+   },
+   "ver_alli": [
+    "La Praça Velha y el ayuntamiento.",
+    "La catedral del Santo Salvador.",
+    "La fortaleza de São João Baptista en el monte Brasil.",
+    "Las calles de casas de colores pastel."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Angra_do_Hero%C3%ADsmo",
+    "https://www.openstreetmap.org/way/234771884"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "valle-coa",
+   "campos": {
+    "lat": 41.0062,
+    "lon": -7.105,
+    "tipo": "yacimiento",
+    "estilo": "Arte rupestre paleolítico al aire libre",
+    "provincia": "Guarda (Portugal)",
+    "ver_alli": [
+     "El Museo del Côa, en Vila Nova de Foz Côa, a unos 8 km del núcleo de Penascosa, explica el arte del valle y es buen punto de partida.",
+     "Los núcleos de grabados (Canada do Inferno, Penascosa, Ribeira de Piscos) solo se visitan con guía y conviene reservar.",
+     "En Penascosa busque los caballos y cabras grabados unos sobre otros; la luz rasante del atardecer o la linterna del guía los hace aparecer."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Sitios_de_arte_rupestre_prehist%C3%B3rico_del_valle_del_Coa_y_de_Siega_Verde",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=N%C3%BAcleo%20de%20Arte%20Rupestre%20da%20Penascosa",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ181VPpeAPA0R2douGt872vo"
+    ]
+   }
+  },
+  {
+   "id": "almendres",
+   "campos": {
+    "lat": 38.5575,
+    "lon": -8.0612,
+    "tipo": "yacimiento",
+    "estilo": "Megalitismo (crómlech neolítico)",
+    "texto": {
+     "general": "<p>En una ladera suave entre alcornoques, cerca de Évora, se alzan unos <b>95 menhires de granito</b>, uno de los mayores conjuntos megalíticos de la península ibérica. No se levantaron de una vez: los arqueólogos distinguen varias fases, desde el <b>Neolítico antiguo, hacia el 6000 a. C.</b>, hasta el final del Neolítico y el Calcolítico, de modo que generaciones sucesivas añadieron y recolocaron piedras durante milenios.</p><p>El conjunto quedó olvidado hasta que en <b>1966</b> lo redescubrió Henrique Leonor Pina mientras trabajaba en los mapas geológicos de Portugal. Una docena de piedras llevan <b>grabados</b>: cazoletas, círculos y, en una de ellas, una figura humana esquemática junto a un báculo.</p><p>Su disposición no parece casual: el eje principal va de noroeste a sureste y dos de los grupos miran hacia la salida del sol en los equinoccios. A 1,4 km se alza un <b>menhir aislado</b> de unos 4,5 m que, visto desde el crómlech, parece marcar la salida del sol en un solsticio.</p>"
+    },
+    "ver_alli": [
+     "Recorra el óvalo de piedras buscando las que llevan grabados: cazoletas, círculos y una figura humana con báculo.",
+     "El menhir aislado de los Almendres está a unos 1,3 km al noreste, con un corto sendero desde el camino.",
+     "El último tramo de pista hasta el crómlech es de tierra y está en mal estado; mejor hacerlo despacio o a pie.",
+     "Évora, ciudad Patrimonio de la Humanidad, queda a unos 15 km."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Cr%C3%B3mlech_de_los_Almendros",
+     "https://en.wikipedia.org/wiki/Almendres_Cromlech",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Cromeleque%20dos%20Almendres",
+     "https://www.google.com/maps/place/?q=place_id:ChIJHZy9w-7tGQ0RrjGiYAhqNBE"
+    ]
+   }
+  },
+  {
+   "id": "briteiros",
+   "campos": {
+    "lat": 41.5281,
+    "lon": -8.3165,
+    "tipo": "yacimiento",
+    "estilo": "Cultura castreña (Edad del Hierro)",
+    "texto": {
+     "general": "<p>Cerca de Guimarães se extiende uno de los grandes poblados de la <b>cultura castreña</b> del noroeste peninsular. Casi todo lo que se ve hoy es de los <b>dos últimos siglos antes de Cristo</b>, aunque en el lugar hay grabados de la Edad del Bronce y el poblado siguió habitado bajo Roma hasta ir decayendo desde el siglo I d. C.</p><p>Cuatro líneas de muralla protegían una acrópolis de unas 7 hectáreas con un <b>centenar de núcleos familiares</b>, cada uno formado por una a tres casas redondas de piedra en torno a un patio. Se calcula que allí vivían unas 600 personas, y hasta 1.500 en todo el poblado. Tenía además un baño castreño con una gran losa decorada de casi 3 m², la <b>«Pedra Formosa»</b>, que durante mucho tiempo se creyó parte de una cámara funeraria.</p><p><b>Francisco Martins Sarmento</b> empezó a excavarlo en 1875 y reconstruyó un par de casas que todavía ayudan a imaginar el poblado. Es Monumento Nacional desde 1910.</p>"
+    },
+    "ver_alli": [
+     "Suba por las calles empedradas hasta las dos casas redondas que reconstruyó Martins Sarmento: dan la escala real del poblado.",
+     "Fíjese en las líneas de muralla y en los patios que agrupan las casas de cada familia.",
+     "Busque el baño castreño con la «Pedra Formosa», la gran losa decorada.",
+     "El Museu da Cultura Castreja, en Briteiros, a algo más de 1 km, guarda piezas del yacimiento. El suelo es irregular: calzado cómodo."
+    ],
+    "fuentes": [
+     "https://archaeology.org/issues/march-april-2022/off-the-grid/otg-citania-de-briteiros-portugal/",
+     "https://en.wikipedia.org/wiki/Cit%C3%A2nia_de_Briteiros",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Cit%C3%A2nia%20de%20Briteiros",
+     "https://www.google.com/maps/place/?q=place_id:ChIJP8TokU77JA0RWjWRAaUxCeY"
+    ]
+   }
+  },
+  {
+   "id": "sanfins",
+   "campos": {
+    "lat": 41.3235,
+    "lon": -8.3866,
+    "tipo": "yacimiento",
+    "estilo": "Cultura castreña (Edad del Hierro)",
+    "texto": {
+     "general": "<p>Sobre un cerro de Paços de Ferreira, la Citânia de Sanfins es uno de los grandes castros excavados de Portugal. Se construyó en varias fases entre el <b>siglo V a. C. y el II d. C.</b>, y vivió su mejor momento en torno al cambio de era, en los <b>siglos I a. C. y I d. C.</b>, ya en la órbita de Roma.</p><p>Tres líneas de muralla de granito rodean unas <b>160 casas</b>, casi todas redondas y de unos 5 m de diámetro, agrupadas en barrios de cuatro o cinco viviendas alrededor de un patio común. Tiene también su <b>«Pedra Formosa»</b>: un baño de vapor con decoración tallada de tipo celta.</p><p>Las excavaciones empezaron en 1895 con Francisco Martins Sarmento y José Leite de Vasconcelos; en 1995 se reconstruyó una casa y se colocó la réplica de una estatua de guerrero. Mucho después de su abandono, en la Edad Media, hubo en el cerro una capilla y un pequeño cementerio cristiano.</p>"
+    },
+    "ver_alli": [
+     "Busque la casa reconstruida y la réplica de la estatua de guerrero castreño junto a la segunda muralla.",
+     "Fíjese en cómo las casas redondas se agrupan de cuatro en cuatro o de cinco en cinco alrededor de un patio común.",
+     "Desde lo alto del cerro hay una amplia vista sobre los valles del entorno.",
+     "El Museu Arqueológico da Citânia de Sanfins, en Sanfins de Ferreira, a unos 1,5 km, completa la visita."
+    ],
+    "fuentes": [
+     "https://www.museunacionalarqueologia.gov.pt/?p=4124",
+     "https://en.wikipedia.org/wiki/Cit%C3%A2nia_de_Sanfins",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Cit%C3%A2nia%20de%20Sanfins",
+     "https://www.google.com/maps/place/?q=place_id:ChIJWyIWf2XzJA0R09ydxlItdwI"
+    ]
+   }
+  },
+  {
+   "id": "santa-luzia",
+   "campos": {
+    "lat": 41.7053,
+    "lon": -8.8355,
+    "tipo": "yacimiento",
+    "estilo": "Cultura castreña (Edad del Hierro) y romano",
+    "texto": {
+     "general": "<p>En la cima del monte de Santa Luzia, junto al santuario y con vistas a la desembocadura del <b>Lima</b>, quedan los restos de un castro de la <b>Edad del Hierro</b> que siguió habitado en época romana; entre sus cerámicas hay piezas castreñas, romanas y visigodas.</p><p>Se han identificado unas <b>74 casas</b>, la mayoría de planta redonda u ovalada y unas pocas rectangulares, agrupadas en pequeños barrios con sus propios muros. Lo defendían <b>tres líneas de muralla</b> con torres y dos fosos.</p><p>Solo se ha excavado alrededor de un tercio. La primera excavación fue en <b>1876</b>, y buena parte del resto se perdió a comienzos del siglo XX con las obras del hotel, de la basílica y de sus accesos.</p>"
+    },
+    "ver_alli": [
+     "Las pasarelas elevadas permiten ver desde arriba la planta de las casas redondas y de los barrios amurallados.",
+     "Combine la visita con la basílica de Santa Luzia, a pocos pasos, y su mirador sobre el Lima y el Atlántico.",
+     "Se puede subir desde Viana do Castelo en el funicular de Santa Luzia y caminar unos minutos."
+    ],
+    "fuentes": [
+     "https://bilheteira.patrimoniocultural.gov.pt/en/monument/6",
+     "https://en.wikipedia.org/wiki/Cit%C3%A2nia_de_Santa_Luzia",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Cit%C3%A2nia%20de%20Santa%20Luzia",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ6-8JodW3JQ0R_AwuHFN8TYM"
+    ]
+   }
+  },
+  {
+   "id": "sao-lourenco",
+   "campos": {
+    "lat": 41.5565,
+    "lon": -8.7619,
+    "tipo": "yacimiento",
+    "estilo": "Cultura castreña (Edad del Hierro) y romano",
+    "texto": {
+     "general": "<p>Este castro domina la costa de Esposende y la desembocadura del <b>Cávado</b>. Estuvo habitado desde los <b>siglos VII-VI a. C.</b>; desde los siglos V-IV a. C. se levantaron casas redondas de piedra, hacia el cambio de era se remodeló y en época romana se reorganizó como una aldea a la romana, ocupada hasta el <b>siglo V d. C.</b></p><p><b>Tres líneas de muralla</b> y un foso cerraban el lado oriental del monte. Las excavaciones empezaron en 1985, después de que una cantera y una carretera destruyeran parte del poblado; desde los años noventa el municipio lo ha ido convirtiendo en museo al aire libre, con <b>cinco casas reconstruidas</b> con sus tejados.</p><p>Entre los hallazgos hay conjuntos de monedas romanas de plata. En la cima, la capilla de São Lourenço, construida en los años cincuenta sobre parte de las ruinas, sirve hoy de mirador sobre el Atlántico.</p>"
+    },
+    "ver_alli": [
+     "Empiece por el Centro Interpretativo, junto al yacimiento, con piezas halladas y un documental.",
+     "Las cinco casas reconstruidas con su tejado muestran cómo era un núcleo familiar castreño.",
+     "Suba hasta la capilla de São Lourenço: el mirador abarca la costa de Esposende y la desembocadura del Cávado.",
+     "Parte de los hallazgos, como las monedas romanas de plata, están en el Museo Municipal de Esposende."
+    ],
+    "fuentes": [
+     "https://www.e-konomista.pt/castro-de-sao-lourenco-esposende/",
+     "https://exarc.net/venues/castro-de-s-lourenco-pt",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Castro%20de%20S%C3%A3o%20Louren%C3%A7o%20Esposende",
+     "https://www.google.com/maps/place/?q=place_id:ChIJz93U029LJA0R7hiGtME7mPQ"
+    ]
+   }
+  },
+  {
+   "id": "conimbriga",
+   "campos": {
+    "lat": 40.099,
+    "lon": -8.4925,
+    "tipo": "yacimiento",
+    "estilo": "Romano",
+    "texto": {
+     "general": "<p>Junto a Condeixa-a-Nova está <b>Conímbriga</b>, el yacimiento romano mejor estudiado de Portugal. El cerro ya estaba habitado en la Edad del Hierro; Roma lo convirtió en ciudad y, bajo Vespasiano, entre los años 69 y 79, fue elevada a <b>municipio</b>, con foro, tres termas y casas ricas decoradas con mosaicos, esculturas y pinturas.</p><p>Entre ellas destacan la <b>Casa de los Surtidores</b> (Casa dos Repuxos), con un jardín central lleno de canalizaciones de agua y más de 500 m² de mosaicos, y la <b>Casa de Cantaber</b>, la mayor residencia conocida de la ciudad, con más de 3.200 m² y unas 40 estancias. A finales del siglo III la ciudad se encerró tras una nueva muralla de unos 1.500 m de largo.</p><p>No bastó: los <b>suevos</b> la asaltaron en 465 y 468, y la familia del aristócrata Cantaber fue capturada y vendida como esclava. En 589 el obispo se trasladó a Aeminium, la futura <b>Coímbra</b>. Solo se ha excavado alrededor de un 10 % de la ciudad; el Museo Monográfico abrió en 1962.</p>"
+    },
+    "ver_alli": [
+     "Empiece por el Museo Monográfico, junto a la entrada, para entender la ciudad antes de recorrerla.",
+     "En la Casa de los Surtidores, el jardín con sus canalizaciones y los suelos de mosaico se ven desde pasarelas.",
+     "Recorra la muralla tardía, de unos 1.500 m, y busque la gran Casa de Cantaber.",
+     "Hay poca sombra: mejor a primera hora en verano."
+    ],
+    "fuentes": [
+     "https://www.deco.proteste.pt/familia-consumo/ferias-lazer/noticias/conimbriga-guia-completo-visitar-ruinas-romanas-museu-buracas-casmilo-condeixa-nova",
+     "https://en.wikipedia.org/wiki/Con%C3%ADmbriga",
+     "https://es.wikipedia.org/wiki/Con%C3%ADmbriga",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Con%C3%ADmbriga",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ3faLqaJYIg0R9y9Ok9vNiD8"
+    ]
+   }
+  },
+  {
+   "id": "evora-templo",
+   "campos": {
+    "lat": 38.5726,
+    "lon": -7.9073,
+    "tipo": "monumento",
+    "estilo": "Romano imperial (orden corintio)",
+    "texto": {
+     "general": "<p>En lo más alto de Évora, en el foro de la ciudad romana de <b>Liberalitas Iulia</b>, se levantó en el <b>siglo I d. C.</b> este templo, dedicado con toda probabilidad al culto del emperador <b>Augusto</b>. De su pórtico de seis columnas de frente se conservan columnas corintias con basas y capiteles de <b>mármol de Estremoz</b> sobre un alto podio.</p><p>Lo de «templo de Diana» es un error con historia: nació de una leyenda del siglo XVII, difundida por el padre Manuel Fialho, sin base arqueológica. Que haya llegado hasta hoy se debe, paradójicamente, a que se le dieron otros usos: en el siglo XIV quedó embutido en una torre del castillo y funcionó como <b>carnicería</b> hasta <b>1836</b>.</p><p>En 1872 el arquitecto italiano Giuseppe Cinatti retiró los añadidos medievales y lo dejó tal como lo vemos. Es Monumento Nacional desde 1907 y forma parte del centro histórico de Évora, Patrimonio Mundial desde 1986.</p>"
+    },
+    "ver_alli": [
+     "Rodee el templo: en el lado norte se conservan seis columnas y en los laterales cuatro y tres.",
+     "Fíjese en los capiteles corintios y las basas de mármol blanco de Estremoz sobre el podio de granito.",
+     "De noche está iluminado; al lado quedan la catedral y el museo de Évora."
+    ],
+    "fuentes": [
+     "https://www.visitportugal.com/en/node/128541",
+     "https://en.wikipedia.org/wiki/Roman_Temple_of_%C3%89vora",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Templo%20Romano%20de%20%C3%89vora",
+     "https://www.google.com/maps/place/?q=place_id:ChIJQXqPCd3kGQ0RvX--v_U4dho"
+    ]
+   }
+  },
+  {
+   "id": "mirobriga",
+   "campos": {
+    "lat": 38.0096,
+    "lon": -8.6845,
+    "tipo": "yacimiento",
+    "estilo": "Romano",
+    "texto": {
+     "general": "<p>Sobre una colina junto a Santiago do Cacém, Miróbriga nació como poblado de la Edad del Hierro, habitado al menos desde los siglos V-IV a. C. Con Roma, desde la segunda mitad del siglo I d. C., se amplió hasta unas 2,8 hectáreas y se dotó de un <b>foro</b> que ocupaba casi toda la cima.</p><p>Allí se levantaron un templo imperial, otro dedicado a <b>Venus</b> y restos de uno anterior a una divinidad local; en la ladera quedan dos <b>termas</b>, de las mejor conservadas de Portugal. El <b>circo</b>, de 370 × 75 m y con un arco de triunfo en su entrada sur, es el único de Portugal del que se conoce el plano completo.</p><p>La ciudad fue decayendo desde el final de la Antigüedad, aunque siguió habitada en torno a la capilla de São Brás. Las primeras investigaciones arqueológicas, de João Gualberto da Cruz e Silva, empezaron en 1922.</p>"
+    },
+    "ver_alli": [
+     "Suba al foro en lo alto de la colina, con los restos de los templos y vistas sobre el campo alentejano.",
+     "Las dos termas, en la ladera, conservan bien sus salas y conducciones.",
+     "El circo queda apartado del núcleo principal; merece el paseo para hacerse idea de sus 370 m de pista.",
+     "El centro interpretativo de la entrada expone piezas halladas en el yacimiento."
+    ],
+    "fuentes": [
+     "https://www.allaboutportugal.pt/es/santiago-do-cacem/monumentos/ruinas-romanas-de-mirobriga",
+     "https://en.wikipedia.org/wiki/Mir%C3%B3briga",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Ru%C3%ADnas%20Romanas%20de%20Mir%C3%B3briga",
+     "https://www.google.com/maps/place/?q=place_id:ChIJN28okpPHGw0R_c3kkcG5xuY"
+    ]
+   }
+  },
+  {
+   "id": "troia",
+   "campos": {
+    "lat": 38.4859,
+    "lon": -8.8836,
+    "tipo": "yacimiento",
+    "estilo": "Romano (industria de salazón)",
+    "texto": {
+     "general": "<p>En la península de Tróia, frente a Setúbal y a orillas del estuario del Sado, funcionó entre los <b>siglos I y VI d. C.</b> uno de los mayores centros de salazón de pescado del mundo romano. Se conocen <b>25 talleres con 182 piletas</b>; el mayor superaba los 1.000 m².</p><p>Allí se salaba pescado y se fabricaban salsas como el <b>garum</b>, que viajaban en ánforas por todo el Imperio. Alrededor de las fábricas creció un pueblo con <b>termas</b> de unos 450 m², necrópolis con un mausoleo de nichos para urnas y, a finales del siglo IV o inicios del V, una <b>basílica paleocristiana</b> levantada sobre un taller abandonado.</p><p>Las ruinas ya interesaron en el siglo XVIII a la futura reina María I. Hubo excavaciones en 1850, cuando aparecieron pinturas murales en las llamadas Casas da Princesa, y de nuevo en 1948 y 1967. Es Monumento Nacional desde 1910.</p>"
+    },
+    "ver_alli": [
+     "Recorra las hileras de piletas de salazón, excavadas a pie de agua junto al estuario del Sado.",
+     "Busque las termas, con sus salas calientes y el suelo elevado de la calefacción.",
+     "No se pierda el mausoleo con nichos para urnas y la basílica paleocristiana.",
+     "Desde Setúbal se llega en barco a Tróia; las ruinas quedan a unos kilómetros por una pista de tierra."
+    ],
+    "fuentes": [
+     "https://echoboomer.pt/ruinas-romanas-de-troia-um-lugar-que-permanece-no-tempo-desde-o-sec-i",
+     "https://en.wikipedia.org/wiki/Roman_ruins_of_Tr%C3%B3ia",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Ru%C3%ADnas%20Romanas%20de%20Tr%C3%B3ia",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ35OKmytDGQ0RyLUKZdwt8E8"
+    ]
+   }
+  },
+  {
+   "id": "milreu",
+   "campos": {
+    "lat": 37.0952,
+    "lon": -7.904,
+    "tipo": "yacimiento",
+    "estilo": "Romano (villa)",
+    "texto": {
+     "general": "<p>A las afueras de Estói, cerca de Faro, están los restos de una gran <b>villa romana</b> habitada entre los <b>siglos I y IV</b>. A finales del siglo III se reorganizó en torno a un <b>peristilo</b> de 22 columnas con jardín, y en el siglo IV recibió una entrada monumental.</p><p>Sus termas, con vestuario, piscina circular y salas templada y caliente, conservan <b>mosaicos de tema marino</b>, con peces alargados y hasta un calamar. Aquí aparecieron bustos imperiales como los de <b>Agripina la Menor</b> y <b>Galieno</b>.</p><p>Al sur se alza un <b>templo dedicado a una divinidad del agua</b>, convertido después del siglo VI en iglesia cristiana con pila bautismal. El lugar se abandonó en el siglo X; en el siglo XVI se construyó encima una casa rural, y el arqueólogo Estácio da Veiga lo dio a conocer en 1877.</p>"
+    },
+    "ver_alli": [
+     "Busque en las termas los mosaicos marinos: peces alargados y hasta un calamar.",
+     "El templo del agua, al sur, es la estructura más alta que queda en pie: después fue iglesia y conserva la pila bautismal.",
+     "Los paneles con dibujos de reconstrucción ayudan a imaginar el peristilo de 22 columnas.",
+     "Estói queda a unos 15 minutos a pie."
+    ],
+    "fuentes": [
+     "https://bilheteira.patrimoniocultural.gov.pt/en/monument/35",
+     "https://en.wikipedia.org/wiki/Roman_ruins_of_Milreu",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Ru%C3%ADnas%20Romanas%20de%20Milreu",
+     "https://www.google.com/maps/place/?q=place_id:ChIJu35nKUasGg0R-aTy8ZE5nak"
+    ]
+   }
+  },
+  {
+   "id": "sao-cucufate",
+   "campos": {
+    "lat": 38.2233,
+    "lon": -7.845,
+    "tipo": "yacimiento",
+    "estilo": "Romano tardío",
+    "texto": {
+     "general": "<p>Cerca de Vila de Frades (Vidigueira) se conserva una <b>villa romana</b> que empezó en el siglo I como una casa modesta con termas y peristilo, se amplió en el II y, a <b>mediados del siglo IV</b>, fue sustituida por un edificio monumental: un cuerpo central flanqueado por dos alas casi simétricas, construido en altura sobre <b>galerías abovedadas</b>.</p><p>Lo excepcional es que esas bóvedas y muros siguen en pie, algo rarísimo en una villa romana. La razón es que, abandonada la villa entre finales del siglo IV y mediados del V, hacia el <b>siglo IX</b> se instaló sobre sus ruinas un <b>monasterio</b>; la comunidad religiosa lo usó, con altibajos, hasta el siglo XVII.</p><p>Junto a la casa se conservan un gran depósito de agua con arcadas de 35 × 10 m y un pequeño templo romano con ábside. Lo excavaron Jorge Alarcão y Robert Étienne entre 1979 y 1985.</p>"
+    },
+    "ver_alli": [
+     "Fíjese en las galerías abovedadas de la planta baja: son romanas y siguen sosteniendo el edificio.",
+     "Rodee la fachada para ver el cuerpo central y las dos alas casi simétricas.",
+     "Detrás queda el gran depósito de agua con arcadas; al sur, el pequeño templo con ábside.",
+     "En Vila de Frades, el centro interpretativo explica la producción de vino de la villa."
+    ],
+    "fuentes": [
+     "https://bilheteira.patrimoniocultural.gov.pt/en/monument/37",
+     "https://en.wikipedia.org/wiki/Roman_ruins_of_S%C3%A3o_Cucufate",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Ru%C3%ADnas%20Romanas%20de%20S%C3%A3o%20Cucufate",
+     "https://www.google.com/maps/place/?q=place_id:ChIJZ_GwAJ4IGg0RNHmhzGb4NLo"
+    ]
+   }
+  },
+  {
+   "id": "chaves-termas",
+   "campos": {
+    "lat": 41.7393,
+    "lon": -7.468,
+    "tipo": "yacimiento",
+    "estilo": "Romano (termas)",
+    "texto": {
+     "general": "<p>En el centro de Chaves, la antigua <b>Aquae Flaviae</b>, elevada a municipio por Vespasiano en el año 79, apareció en <b>2005</b>, durante los sondeos previos a un aparcamiento subterráneo, un gran balneario romano de agua caliente. El aparcamiento se abandonó y en su lugar se hizo un museo.</p><p>Tiene <b>dos grandes piscinas</b> y siete pequeñas individuales, y su sistema hidráulico sigue funcionando. A finales del <b>siglo IV</b> un <b>terremoto</b> hundió la bóveda, de unos 10 m de altura, y selló el edificio durante unos diecisiete siglos; bajo los escombros aparecieron restos de tres personas.</p><p>Sus excavadores lo comparan con las termas de Bath, en Inglaterra, y lo consideran único en la península ibérica. El <b>Museu das Termas Romanas</b> abrió el 21 de diciembre de 2021.</p>"
+    },
+    "ver_alli": [
+     "Las pasarelas recorren el balneario sobre las piscinas, que siguen llenándose con el agua del manantial.",
+     "Las pantallas táctiles explican el uso de cada sala.",
+     "A pocos minutos, el puente de Trajano cruza el Tâmega."
+    ],
+    "fuentes": [
+     "https://www.idealista.pt/news/node/50224",
+     "https://www.dn.pt/artes/sismo-congelou-no-tempo-balneario-romano-em-chaves-5444320.html",
+     "https://www.idealista.pt/en/news/node/62429",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Termas%20Romanas%20de%20Chaves",
+     "https://www.google.com/maps/place/?q=place_id:ChIJSdARBWneOg0R4lNUltEdo14"
+    ]
+   }
+  },
+  {
+   "id": "dume",
+   "campos": {
+    "lat": 41.5675,
+    "lon": -8.4349,
+    "tipo": "yacimiento",
+    "estilo": "Paleocristiano y suevo, sobre villa romana",
+    "ver_alli": [
+     "En el núcleo museológico, junto a la iglesia de Dume, se ven los cimientos de la basílica y restos de la villa romana anterior.",
+     "Busque la tapa del sarcófago atribuido a San Martín de Dume.",
+     "Muchas piezas halladas aquí están en el Museu D. Diogo de Sousa, en Braga."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Monastery_of_Dumio",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=S%C3%A3o%20Martinho%20de%20Dume",
+     "https://www.google.com/maps/place/?q=place_id:ChIJY2AM2f7-JA0RFpLvmJSqMFo"
+    ]
+   }
+  },
+  {
+   "id": "sao-frutuoso",
+   "campos": {
+    "lat": 41.5603,
+    "lon": -8.4388,
+    "tipo": "iglesia",
+    "estilo": "Visigodo, reformado en los siglos IX-X",
+    "texto": {
+     "general": "<p>En Real, a las afueras de Braga, se esconde una pequeña joya: la capilla que <b>san Fructuoso</b>, obispo de Braga, mandó levantar en el <b>siglo VII</b> como su propio mausoleo, junto al monasterio de San Salvador que fundó en el año 656.</p><p>Tiene planta de <b>cruz griega</b>, con brazos interiores semicirculares y frisos con <b>arcos de herradura</b>, y se ha comparado con el mausoleo de Gala Placidia en Rávena. Se discute cuánto queda de la obra visigoda, porque se reconstruyó y redecoró en los siglos IX-X: un documento de 883 la vuelve a consagrar.</p><p>En 1102 el arzobispo compostelano Diego Gelmírez se llevó las reliquias del santo a Santiago. En 1728 la capilla quedó integrada en la iglesia de un convento franciscano, y desde 1931 se restauró para recuperar su planta original. Es Monumento Nacional desde 1944.</p>"
+    },
+    "ver_alli": [
+     "Entre por la iglesia contigua del antiguo convento y observe la planta en cruz griega con brazos semicirculares.",
+     "Fíjese en los frisos con arcos de herradura sobre los pilares.",
+     "Conviene acordar la visita con antelación (la oficina de turismo de Braga facilita el contacto)."
+    ],
+    "fuentes": [
+     "https://www.visitportugal.com/en/NR/exeres/8EC7281A-6C44-4029-A31E-AC8942902BF2",
+     "https://en.wikipedia.org/wiki/Chapel_of_S%C3%A3o_Frutuoso",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Capela%20de%20S%C3%A3o%20Frutuoso%20de%20Mont%C3%A9lios",
+     "https://www.google.com/maps/place/?q=place_id:ChIJA9UdNf3-JA0REhog7N8pbTA"
+    ]
+   }
+  },
+  {
+   "id": "idanha",
+   "campos": {
+    "lat": 39.9963,
+    "lon": -7.1446,
+    "tipo": "poblacion",
+    "estilo": "Romano, visigodo y medieval",
+    "texto": {
+     "general": "<p>Hoy es una aldea de menos de un centenar de vecinos, pero fue la <b>Civitas Igaeditanorum</b>, capital regional romana desde el siglo I a. C., y después <b>Egitania</b>, sede de un obispado creado en tiempos del rey suevo Teodomiro, hacia 559-569, que siguió con los visigodos hasta la invasión musulmana.</p><p>Su gran monumento es la <b>catedral</b>, levantada sobre una basílica primitiva y restaurada en el siglo XVI, junto a la que se conserva un <b>baptisterio</b>. En época islámica el templo se usó como mezquita. Tras la Reconquista la aldea pasó a los <b>templarios</b>, y la llamada Torre dos Templários se apoya en un antiguo templo romano.</p><p>La tradición dice que aquí nació el rey visigodo <b>Wamba</b>. El obispado se restauró en 1199 y acabó convertido en la diócesis de Guarda.</p>"
+    },
+    "ver_alli": [
+     "La catedral, en el corazón de la aldea, guarda inscripciones y piezas romanas y visigodas; junto a ella está el baptisterio.",
+     "Pasee por dentro de la muralla y busque la Torre dos Templários, levantada sobre un templo romano.",
+     "La aldea es pequeña y se recorre a pie en poco tiempo."
+    ],
+    "fuentes": [
+     "https://origenesdeeuropa.eu/lugar_patrimonio/catedral-e-idanha-a-velha/",
+     "https://en.wikipedia.org/wiki/Idanha-a-Velha",
+     "https://es.wikipedia.org/wiki/Idanha-a-Velha",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Catedral%20de%20Idanha-a-Velha",
+     "https://www.google.com/maps/place/?q=place_id:ChIJxZEihY92PQ0RjQ3-I1bSqNw"
+    ]
+   }
+  },
+  {
+   "id": "mertola",
+   "campos": {
+    "lat": 37.6407,
+    "lon": -7.6616,
+    "tipo": "yacimiento",
+    "estilo": "Paleocristiano",
+    "texto": {
+     "general": "<p>En el Rossio do Carmo de Mértola, junto a la antigua vía romana hacia Beja, se excavó una <b>basílica paleocristiana</b> de planta rectangular, con <b>tres naves</b> de igual anchura y dos ábsides enfrentados en los extremos de la nave central.</p><p>Era un templo funerario: su suelo estaba cubierto de tumbas, unas con lápida e inscripción en la cabecera y otras anónimas bajo losas de pizarra. Las <b>lápidas más antiguas son del siglo V</b>, y el lugar siguió en uso hasta que, en los siglos IX-X, los pobladores musulmanes lo transformaron.</p><p>Las primeras noticias se deben a Estácio da Veiga, a finales del siglo XIX; en 1920 se construyó encima una escuela. Hoy los restos y sus lápidas forman el núcleo paleocristiano del <b>Museo de Mértola</b>.</p>"
+    },
+    "ver_alli": [
+     "Fíjese en la planta de tres naves y en los dos ábsides enfrentados.",
+     "Las lápidas funerarias se exponen junto a las tumbas donde aparecieron.",
+     "No se pierda la cisterna; la visita se completa con los demás núcleos del Museo de Mértola, como la mezquita-iglesia y el castillo."
+    ],
+    "fuentes": [
+     "https://roteirosarqueologicosdoalentejo.uevora.pt/en/basilica-rossio-do-carmo/",
+     "https://www.infopedia.pt/artigos/$basilica-paleocrista-de-mertola",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Rossio%20do%20Carmo%20M%C3%A9rtola",
+     "https://www.google.com/maps/place/?q=place_id:ChIJDevwlYZ7EA0R24Ml0GGRgW0"
+    ]
+   }
+  },
+  {
+   "id": "castelo-de-guimaraes",
+   "campos": {
+    "lat": 41.4479,
+    "lon": -8.2904,
+    "tipo": "castillo",
+    "estilo": "Románico y gótico (militar)",
+    "texto": {
+     "general": "<p>En la segunda mitad del <b>siglo X</b>, la condesa <b>Mumadona Dias</b> mandó levantar una fortaleza para proteger de musulmanes y normandos el monasterio que había fundado en Guimarães; un documento de 968 ya la menciona como recién construida.</p><p>A finales del siglo XI el conde <b>Enrique</b> la amplió como residencia, y según la tradición allí nació en 1111 su hijo <b>Afonso Henriques</b>. Cerca de la villa, en <b>1128</b>, la batalla de São Mamede abrió el camino a la independencia de Portugal: por eso se la llama la «cuna de la nación».</p><p>La torre del homenaje y el recinto con ocho torres son de finales del siglo XIII. Muy arruinado, fue restaurado por el Estado entre 1937 y 1940.</p>"
+    },
+    "ver_alli": [
+     "Recorra el adarve sobre la muralla para ver la torre del homenaje y las ocho torres del recinto.",
+     "Al pie del castillo está la pequeña iglesia románica de São Miguel do Castelo.",
+     "A pocos pasos queda el Palacio de los Duques de Bragança, y bajando, el casco histórico de Guimarães."
+    ],
+    "fuentes": [
+     "https://www.museusemonumentos.pt/pt/museus-e-monumentos/castelo-de-guimaraes",
+     "https://en.wikipedia.org/wiki/Castle_of_Guimar%C3%A3es",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Castelo%20de%20Guimar%C3%A3es",
+     "https://www.google.com/maps/place/?q=place_id:ChIJIzwXZuzvJA0ROaxWynCX6fw"
+    ]
+   }
+  },
+  {
+   "id": "mosteiro-da-batalha",
+   "campos": {
+    "lat": 39.6592,
+    "lon": -8.8256,
+    "tipo": "iglesia",
+    "estilo": "Gótico y manuelino",
+    "texto": {
+     "general": "<p>Antes de la batalla de <b>Aljubarrota</b> (1385), el rey <b>João I</b> prometió a la Virgen un gran monasterio si vencía a Castilla. Las obras de Santa María da Vitória empezaron en <b>1386</b> y duraron hasta hacia 1517, bajo siete reyes y quince maestros de obras.</p><p>Afonso Domingues trazó un gótico con ecos ingleses; <b>Huguet</b> lo continuó en gótico flamígero y construyó la <b>Capilla del Fundador</b> (1426-1434), primer panteón real de Portugal, donde João I y Felipa de Lancaster yacen con las manos entrelazadas junto a sus hijos, entre ellos Enrique el Navegante. La sala capitular, de 19 m de lado, se cubre con una bóveda estrellada sin pilar central y guarda las tumbas de dos soldados desconocidos de la Primera Guerra Mundial.</p><p>Las <b>Capillas Imperfectas</b>, encargadas por el rey Duarte en 1437, nunca recibieron bóveda: las obras se pararon cuando la corona volcó su esfuerzo en los Jerónimos de Lisboa. Su portal manuelino, terminado en 1509, repite más de doscientas veces el lema del rey Duarte. Es Patrimonio Mundial desde 1983.</p>"
+    },
+    "ver_alli": [
+     "En la Capilla del Fundador, bajo la bóveda estrellada, busque el sepulcro de João I y Felipa de Lancaster con las manos entrelazadas.",
+     "La sala capitular se cubre con una bóveda de 19 m de lado sin pilar central; allí montan guardia ante los soldados desconocidos.",
+     "Las Capillas Imperfectas, a cielo abierto, tienen un portal manuelino de unos 15 m.",
+     "En el Claustro Real conviven tracerías góticas y arcos manuelinos."
+    ],
+    "fuentes": [
+     "https://www.museusemonumentos.pt/pt/museus-e-monumentos/mosteiro-da-batalha",
+     "https://en.wikipedia.org/wiki/Batalha_Monastery",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Mosteiro%20da%20Batalha",
+     "https://www.google.com/maps/place/?q=place_id:ChIJubepyEV1Ig0R6R09p38NEVY"
+    ]
+   }
+  },
+  {
+   "id": "mosteiro-de-alcobaca",
+   "campos": {
+    "lat": 39.5483,
+    "lon": -8.9797,
+    "tipo": "iglesia",
+    "estilo": "Gótico cisterciense",
+    "texto": {
+     "general": "<p>En <b>1153</b> Afonso Henriques donó estas tierras a <b>Bernardo de Claraval</b> para que los cistercienses fundaran un monasterio. La iglesia se empezó en <b>1178</b> y se consagró en 1252: con unos <b>106 m de largo</b> fue la mayor de Portugal y, con el monasterio, el primer edificio gótico del país.</p><p>En el crucero reposan el rey <b>Pedro I</b> e <b>Inés de Castro</b>, la dama asesinada en 1355 por orden del padre del rey, Afonso IV, cada uno a un lado. Sus sepulcros, de autor desconocido, están entre las mejores esculturas góticas portuguesas: el del rey se apoya en leones y el de Inés en seres mitad hombre, mitad bestia.</p><p>El rey Dinis añadió a finales del siglo XIII el claustro, uno de los mayores claustros cistercienses medievales de Europa. La gran cocina revestida de azulejos es de mediados del siglo XVIII. Es Patrimonio Mundial desde 1989.</p>"
+    },
+    "ver_alli": [
+     "Recorra la nave de la iglesia, de unos 106 m, desnuda y luminosa como pedía la regla cisterciense.",
+     "En el crucero, los sepulcros de Pedro I e Inés de Castro: el del rey sobre leones, el de Inés sobre figuras fantásticas.",
+     "No se pierda el claustro del rey Dinis ni la enorme cocina de azulejos con su chimenea central."
+    ],
+    "fuentes": [
+     "https://www.museusemonumentos.pt/pt/museus-e-monumentos/mosteiro-de-alcobaca",
+     "https://en.wikipedia.org/wiki/Alcoba%C3%A7a_Monastery",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Mosteiro%20de%20Alcoba%C3%A7a",
+     "https://www.google.com/maps/place/?q=place_id:ChIJwflT2dmlGA0RrAKSqYyqHu8"
+    ]
+   }
+  },
+  {
+   "id": "convento-de-cristo",
+   "campos": {
+    "lat": 39.6036,
+    "lon": -8.419,
+    "tipo": "iglesia",
+    "estilo": "Románico templario, manuelino y renacentista",
+    "ver_alli": [
+     "La Charola, la rotonda templaria de 16 lados, es el corazón del conjunto: fíjese en sus pinturas y dorados.",
+     "Desde el claustro, busque la gran ventana manuelina de la sala capitular, de Diogo de Arruda.",
+     "El claustro de João III es una obra clave del manierismo portugués.",
+     "Suba por el recinto del castillo templario, que rodea el convento."
+    ],
+    "fuentes": [
+     "https://www.museusemonumentos.pt/pt/museus-e-monumentos/convento-de-cristo",
+     "https://en.wikipedia.org/wiki/Convent_of_Christ_(Tomar)",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Charola%20Tomar",
+     "https://www.google.com/maps/place/?q=place_id:ChIJv9GHO6J-GA0RDe7t2iI9dPo"
+    ]
+   }
+  },
+  {
+   "id": "obidos",
+   "campos": {
+    "lat": 39.362,
+    "lon": -9.1568,
+    "tipo": "poblacion",
+    "estilo": "Villa medieval amurallada",
+    "texto": {
+     "general": "<p>Encaramada en una colina, Óbidos conserva dentro de su <b>muralla</b> calles empedradas, casas blancas y su castillo. <b>Afonso Henriques</b> la tomó a los musulmanes en <b>1148</b>, y en 1195 recibió su primer fuero.</p><p>Es la «villa de las reinas». Ya en 1210 Afonso II la había dado a la reina Urraca, y en <b>1282</b>, al casarse con <b>Isabel de Aragón</b>, la futura Reina Santa, el rey <b>Dinis</b> le entregó Óbidos junto con otras villas; la costumbre de regalar la villa a las reinas duró hasta el siglo XIX. En tiempos de Dinis se remodelaron el castillo y las murallas.</p><p>En la iglesia de Santa María se casaron en 1441 el futuro rey Afonso V y su prima Isabel, cuando aún eran niños. El terremoto de 1755 dañó murallas e iglesias; desde el siglo XVII la villa es también famosa por su licor de guindas, la <b>ginjinha</b>.</p>"
+    },
+    "ver_alli": [
+     "Recorra a pie el adarve de la muralla, con vistas sobre los tejados y el campo (sin barandilla en muchos tramos).",
+     "Entre por la Porta da Vila, con su oratorio de azulejos del siglo XVIII.",
+     "En la plaza de Santa María, la iglesia donde se casó Afonso V tiene el interior forrado de azulejos.",
+     "El castillo es hoy una pousada."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/%C3%93bidos,_Portugal",
+     "https://www.infopedia.pt/artigos/$rainha-santa-isabel",
+     "https://postal.pt/cultura/conheca-a-vila-portuguesa-que-e-famosa-por-um-licor-e-que-um-rei-ofereceu-como-prenda-de-casamento/",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Igreja%20de%20Santa%20Maria%2C%20%C3%93bidos",
+     "https://www.google.com/maps/place/?q=place_id:ChIJq3TmGJC0GA0RDDJlLK-MgiY"
+    ]
+   }
+  },
+  {
+   "id": "se-de-lisboa",
+   "campos": {
+    "lat": 38.7098,
+    "lon": -9.1329,
+    "tipo": "iglesia",
+    "estilo": "Románico y gótico",
+    "texto": {
+     "general": "<p>Tras conquistar Lisboa en <b>1147</b> con la ayuda de cruzados, Afonso Henriques mandó construir la catedral sobre el solar de la mezquita mayor; su primer obispo fue el cruzado inglés Gilbert de Hastings. La obra, <b>románica</b>, se terminó en las primeras décadas del siglo XIII.</p><p>Después llegaron el <b>claustro gótico</b> del rey Dinis, a finales del siglo XIII, la capilla funeraria del mercader Bartolomeu Joanes, de comienzos del XIV, y la <b>girola</b> gótica de Afonso IV, de mediados de ese siglo. El terremoto de 1755 destruyó la capilla mayor con el panteón real, y a comienzos del siglo XX una restauración le devolvió su aspecto medieval.</p><p>Desde 1990 se excava el claustro: han aparecido una <b>calle romana</b> con tiendas a ambos lados, restos visigodos y muros de la antigua <b>mezquita</b>, que en 2020 se decidió conservar.</p>"
+    },
+    "ver_alli": [
+     "Fíjese en la fachada románica, con sus dos torres y el rosetón.",
+     "Detrás del altar, la girola gótica de Afonso IV tiene capillas con sepulcros medievales.",
+     "En el claustro se ven las excavaciones: una calle romana con tiendas y los muros de la antigua mezquita.",
+     "Junto a la entrada, la capilla de Bartolomeu Joanes guarda un belén de Machado de Castro."
+    ],
+    "fuentes": [
+     "https://www.sedelisboa.pt/tourist-visits/?lang=en",
+     "https://en.wikipedia.org/wiki/Lisbon_Cathedral",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=S%C3%A9%20de%20Lisboa",
+     "https://www.google.com/maps/place/?q=place_id:ChIJm9xRPnc0GQ0RGWK34RwdbpI"
+    ]
+   }
+  },
+  {
+   "id": "castelo-de-sao-jorge",
+   "campos": {
+    "lat": 38.7139,
+    "lon": -9.1335,
+    "tipo": "castillo",
+    "estilo": "Andalusí y medieval cristiano",
+    "texto": {
+     "general": "<p>En la colina más alta de Lisboa hubo gente al menos desde el siglo VIII a. C. y fortificaciones desde época romana, pero el castillo que vemos es en esencia la <b>alcazaba islámica</b>, levantada por tropas bereberes con la muralla llamada Cerca Moura. En <b>1147</b> la tomaron Afonso Henriques y los cruzados del norte de Europa.</p><p>Hacia 1300 el rey Dinis convirtió la alcazaba en <b>palacio real</b>, y aquí recibió Manuel I a <b>Vasco da Gama</b> en 1498, a su vuelta de la India. A comienzos del siglo XVI la corte se trasladó al nuevo palacio de la Ribeira, junto al Tajo, y el castillo fue decayendo, sobre todo tras el terremoto de 1755. Su dedicación a <b>san Jorge</b> se debe a João I, casado con la inglesa Felipa de Lancaster.</p><p>El castillo medieval conserva diez torres. El Estado Novo lo restauró a fondo y derribó los añadidos posteriores; desde 1998, en la Torre de Ulises, una cámara oscura muestra Lisboa en 360 grados.</p>"
+    },
+    "ver_alli": [
+     "Recorra las murallas y las torres: desde ellas se domina toda Lisboa y el Tajo.",
+     "En la Torre de Ulises, la cámara oscura proyecta la ciudad en directo en 360 grados (visitas guiadas en grupos pequeños).",
+     "El núcleo museológico y el área arqueológica muestran restos de las distintas épocas de la colina."
+    ],
+    "fuentes": [
+     "https://castelodesaojorge.pt/en/plan-your-visit/guided-tours/",
+     "https://en.wikipedia.org/wiki/S%C3%A3o_Jorge_Castle",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Castelo%20de%20S%C3%A3o%20Jorge",
+     "https://www.google.com/maps/place/?q=place_id:ChIJm8MOtHc0GQ0R1zPkmUFwwLQ"
+    ]
+   }
+  },
+  {
+   "id": "castelo-dos-mouros",
+   "campos": {
+    "lat": 38.7925,
+    "lon": -9.389,
+    "tipo": "castillo",
+    "estilo": "Andalusí, restaurado en el Romanticismo",
+    "texto": {
+     "general": "<p>Sobre las crestas graníticas de la sierra de Sintra, este castillo nació en los <b>siglos VIII-IX</b>, en tiempos de al-Ándalus, para proteger a la población del territorio agrícola del entorno. Tras la conquista de Lisboa en <b>1147</b>, se rindió sin lucha a Afonso Henriques.</p><p>Su capilla de São Pedro sirvió de parroquia en la Edad Media y Fernando I lo reconstruyó en 1375, pero perdió valor militar y en el siglo XVI quedó abandonado; el terremoto de 1755 lo dañó aún más. Conserva una doble muralla de unos 450 m de perímetro, cinco torres rectangulares y una circular, y una cisterna de 18 m de largo.</p><p>El aire romántico que tiene hoy se lo dio el rey consorte <b>Fernando II</b>, que desde 1840 consolidó sus muros y repobló de árboles la ladera. Forma parte del Paisaje Cultural de Sintra, Patrimonio Mundial desde 1995.</p>"
+    },
+    "ver_alli": [
+     "Camine por la doble muralla hasta la Torre Real, la más alta, con vistas sobre Sintra, el palacio da Pena y el mar.",
+     "Busque la gran cisterna abovedada y las ruinas de la capilla de São Pedro.",
+     "Hay muchas escaleras y pendientes: agua y buen calzado."
+    ],
+    "fuentes": [
+     "https://www.parquesdesintra.pt/pt/parques-monumentos/castelo-dos-mouros/",
+     "https://en.wikipedia.org/wiki/Castle_of_the_Moors",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Castelo%20dos%20Mouros%20Sintra",
+     "https://www.google.com/maps/place/?q=place_id:ChIJDQfLUsfaHg0R4CODIv779yQ"
+    ]
+   }
+  },
+  {
+   "id": "mezquita-de-mertola",
+   "campos": {
+    "lat": 37.6384,
+    "lon": -7.6636,
+    "tipo": "iglesia",
+    "estilo": "Islámico, reformado en el siglo XVI",
+    "texto": {
+     "general": "<p>La iglesia matriz de Mértola fue la <b>mezquita</b> de la ciudad islámica, probablemente de finales del siglo XII. En <b>1238</b>, tras la conquista cristiana, los caballeros de la <b>Orden de Santiago</b> la consagraron al culto cristiano.</p><p>El edificio mantiene la planta de la mezquita: un espacio casi cuadrado de <b>cinco naves</b>, la central más ancha, sobre hileras de columnas. Y conserva su <b>mihrab</b>, el nicho poligonal que indicaba la dirección de La Meca, decorado con arcos polilobulados de yeso, que había quedado tapado en la reforma del siglo XVI.</p><p>Esa reforma la convirtió en iglesia de salón, con bóvedas de crucería, y la coronó por fuera con almenas y pináculos; el alminar fue sustituido por un campanario. Aún se ven cuatro puertas de arco apuntado enmarcadas por su alfiz.</p>"
+    },
+    "ver_alli": [
+     "Dentro, fíjese en el bosque de columnas que divide las cinco naves, herencia de la sala de oración.",
+     "Busque en el muro el mihrab, el nicho poligonal con arcos polilobulados de yeso.",
+     "Por fuera, mire las cuatro puertas de arco apuntado con su alfiz y las almenas del tejado.",
+     "Desde la iglesia se sube al castillo de Mértola."
+    ],
+    "fuentes": [
+     "https://www.infopedia.pt/artigos/$igreja-matriz-de-mertola",
+     "https://en.wikipedia.org/wiki/Church_of_Nossa_Senhora_da_Anuncia%C3%A7%C3%A3o",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Igreja%20Matriz%20de%20M%C3%A9rtola",
+     "https://www.google.com/maps/place/?q=place_id:ChIJX2MnxoV7EA0RKbIMqMuDRUQ"
+    ]
+   }
+  },
+  {
+   "id": "castelo-de-silves",
+   "campos": {
+    "lat": 37.1911,
+    "lon": -8.4381,
+    "tipo": "castillo",
+    "estilo": "Andalusí (almorávide y almohade)",
+    "texto": {
+     "general": "<p>Sobre la colina de Silves, la <b>Silb</b> de los musulmanes y capital del Algarve islámico, se alza un castillo de murallas de tapial revestidas de <b>arenisca roja de Silves</b>, la piedra que le da su color. Hubo aquí un poblado prerromano, pero los muros y torres actuales son obra de almorávides y almohades, en los <b>siglos XII y XIII</b>.</p><p>En el siglo XI vivió en Silves el rey poeta <b>al-Mutamid</b>; las excavaciones de 2005-2006 sacaron a la luz restos del palacio de los gobernadores. En <b>1189</b> Sancho I la conquistó con ayuda de cruzados del norte de Europa, pero en 1191 los almohades la recuperaron; la conquista cristiana definitiva llegó en <b>1249</b>.</p><p>Dentro del recinto quedan grandes aljibes, como la Cisterna da Moura, con cinco naves, que abastecían a la población en los asedios. Su aspecto actual se debe a la restauración de los años cuarenta del siglo XX. Es Monumento Nacional desde 1910.</p>"
+    },
+    "ver_alli": [
+     "Recorra el adarve de la muralla roja, con vistas sobre la ciudad y la campiña.",
+     "Asómese a los aljibes, como la Cisterna da Moura, de cinco naves.",
+     "Busque los restos del palacio islámico excavado dentro del recinto.",
+     "A la entrada, la estatua de Sancho I recuerda la conquista de 1189."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Silves_Castle",
+     "https://postal.pt/cultura/este-castelo-do-algarve-tem-mais-de-1000-anos-e-parece-saido-de-um-filme/",
+     "https://es.wikipedia.org/wiki/Silves_(Portugal)",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Castelo%20de%20Silves",
+     "https://www.google.com/maps/place/?q=place_id:ChIJw_psdbbZGg0R7gmGapxeO9k"
+    ]
+   }
+  },
+  {
+   "id": "mosteiro-dos-jeronimos",
+   "campos": {
+    "lat": 38.6978,
+    "lon": -9.206,
+    "tipo": "iglesia",
+    "estilo": "Manuelino",
+    "texto": {
+     "general": "<p>El rey <b>Manuel I</b> decidió en 1495 fundar en Belém, junto al Tajo, un gran monasterio para los monjes <b>jerónimos</b>, que debían rezar por el rey y asistir a los navegantes. Las obras empezaron el <b>6 de enero de 1501</b> y se pagaron con la <b>Vintena da Pimenta</b>, un impuesto del 5 % sobre el comercio con África y Oriente, es decir, con el dinero de las especias.</p><p>Es la gran obra del estilo <b>manuelino</b>: Diogo de Boitaca dio los planos y João de Castilho, desde hacia 1517, labró el portal sur de unos 32 m y remató el claustro de 55 m de lado, cuajado de cuerdas, conchas y plantas talladas en piedra.</p><p>En el coro bajo están las tumbas de <b>Vasco da Gama</b> y del poeta <b>Camões</b>, trasladadas en 1880, y en el claustro reposa Fernando Pessoa. Los monjes lo ocuparon hasta 1833. Es Patrimonio Mundial desde 1983, y aquí se firmó en 2007 el Tratado de Lisboa de la Unión Europea.</p>"
+    },
+    "ver_alli": [
+     "Antes de entrar, mire el portal sur, de unos 32 m de alto, labrado por João de Castilho.",
+     "En la iglesia, junto a la entrada, están los sepulcros de Vasco da Gama y de Camões.",
+     "El claustro, de 55 m de lado y dos pisos, es el gran escaparate de la decoración manuelina: cuerdas, conchas, plantas.",
+     "Conviene reservar hora: el aforo es limitado y suele haber colas."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Jer%C3%B3nimos_Monastery",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Mosteiro%20dos%20Jer%C3%B3nimos",
+     "https://www.google.com/maps/place/?q=place_id:ChIJS5zCw0LLHg0R7euWjjRddYc"
+    ]
+   }
+  },
+  {
+   "id": "torre-de-belem",
+   "campos": {
+    "lat": 38.6916,
+    "lon": -9.216,
+    "tipo": "castillo",
+    "estilo": "Manuelino",
+    "texto": {
+     "general": "<p>Entre <b>1514 y 1519</b>, por orden de Manuel I, el arquitecto militar <b>Francisco de Arruda</b> levantó esta fortaleza para defender la entrada de Lisboa por el Tajo, por donde salían las naves hacia la India y Brasil. Su nombre oficial es Torre de San Vicente.</p><p>Se construyó sobre un islote junto a la orilla; no es cierto que estuviera en medio del río y que el terremoto de 1755 la acercara a tierra: fue la orilla la que avanzó. Un baluarte con troneras para <b>17 cañones</b> se adelanta sobre el agua, y detrás se alza la torre, de unos 30 m y cuatro plantas.</p><p>Es una obra cumbre del <b>manuelino</b>, con garitas de cúpula de aire morisco. En la base de una de ellas asoma un <b>rinoceronte</b>, probablemente el que Manuel I envió al papa en 1515 y que dibujó Durero. Sus calabozos sirvieron de prisión hasta 1830. Es Patrimonio Mundial desde 1983.</p>"
+    },
+    "ver_alli": [
+     "Busque el rinoceronte esculpido en la base de una de las garitas.",
+     "Fíjese en las cruces de la Orden de Cristo, las esferas armilares y las cuerdas talladas.",
+     "Desde la terraza del baluarte se ve el Tajo; dentro, las escaleras son estrechas y el aforo limitado.",
+     "El monasterio de los Jerónimos queda a un paseo."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Bel%C3%A9m_Tower",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Torre%20de%20Bel%C3%A9m",
+     "https://www.google.com/maps/place/?q=place_id:ChIJS5zCw0LLHg0RP1FSz63cAjA"
+    ]
+   }
+  },
+  {
+   "id": "palacio-nacional-de-mafra",
+   "campos": {
+    "lat": 38.9369,
+    "lon": -9.3258,
+    "tipo": "monumento",
+    "estilo": "Barroco",
+    "texto": {
+     "general": "<p>En 1711 el rey <b>João V</b> prometió levantar un convento si la reina María Ana de Austria le daba descendencia; nació la infanta Bárbara y el <b>17 de noviembre de 1717</b> se colocó la primera piedra. Pagado con el <b>oro y los diamantes de Brasil</b>, el proyecto de João Frederico Ludovice creció hasta reunir <b>palacio, basílica y convento</b> franciscano en un solo edificio de unos 40.000 m², con unas 1.200 salas.</p><p>La basílica se consagró en 1730. Trabajaron en la obra unos 15.000 obreros diarios de media y murieron más de 1.300. Sus torres guardan dos <b>carillones</b>, la mayor colección histórica del mundo, y la basílica tiene seis órganos de comienzos del siglo XIX.</p><p>La <b>biblioteca</b> rococó, de 88 m, guarda más de 36.000 volúmenes y una colonia de murciélagos que se come los insectos que podrían dañarlos. Es Patrimonio Mundial desde 2019 y escenario de la novela de José Saramago <i>Memorial del convento</i>.</p>"
+    },
+    "ver_alli": [
+     "La basílica ocupa el centro de la larga fachada, entre las dos alas del palacio.",
+     "En la basílica, fíjese en los seis órganos y, desde fuera, en las dos torres de los carillones.",
+     "La biblioteca rococó, de 88 m, es el final de la visita.",
+     "Algunas zonas pueden estar en obras; conviene informarse antes."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Mafra_National_Palace",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Pal%C3%A1cio%20Nacional%20de%20Mafra",
+     "https://www.google.com/maps/place/?q=place_id:ChIJfelwis3XHg0Rncm3F87bJWo"
+    ]
+   }
+  },
+  {
+   "id": "bom-jesus-do-monte",
+   "campos": {
+    "lat": 41.5547,
+    "lon": -8.3771,
+    "tipo": "iglesia",
+    "estilo": "Barroco y neoclásico",
+    "texto": {
+     "general": "<p>En una ladera boscosa a las afueras de Braga, el arzobispo <b>Rodrigo de Moura Teles</b> emprendió en <b>1722</b> la gran escalinata barroca que sube al santuario: 116 m de desnivel y 583 escalones.</p><p>El primer tramo es un Vía Crucis con capillas y figuras de terracota de la Pasión. Siguen dos escaleras en zigzag: la de los <b>Cinco Sentidos</b>, con una fuente para cada uno, y la de las <b>Tres Virtudes</b>, fe, esperanza y caridad. Arriba, la iglesia de <b>Carlos Amarante</b> (1784-1834) fue una de las primeras neoclásicas de Portugal.</p><p>El <b>funicular</b> de 1882, que funciona con contrapeso de agua, fue el primero de la península ibérica y sigue en servicio. El santuario es Patrimonio Mundial desde 2019 y basílica menor desde 2015.</p>"
+    },
+    "ver_alli": [
+     "Suba a pie la escalinata para ver de cerca las fuentes de los Cinco Sentidos y de las Tres Virtudes.",
+     "Si prefiere ahorrarse la subida, tome el funicular de agua de 1882 y baje andando.",
+     "Arriba, la iglesia neoclásica y los jardines ofrecen una amplia vista sobre Braga."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Bom_Jesus_do_Monte",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Santu%C3%A1rio%20do%20Bom%20Jesus%20do%20Monte",
+     "https://www.google.com/maps/place/?q=place_id:ChIJeU97nRX8JA0RpO4Dtx9L6e0"
+    ]
+   }
+  },
+  {
+   "id": "biblioteca-joanina",
+   "campos": {
+    "lat": 40.2071,
+    "lon": -8.4265,
+    "tipo": "monumento",
+    "estilo": "Barroco",
+    "texto": {
+     "general": "<p>Entre <b>1717 y 1728</b>, en tiempos de João V, la Universidad de Coimbra levantó esta biblioteca barroca. Por fuera es sobria; dentro, <b>tres salas</b> separadas por arcos están forradas de estanterías doradas y lacadas con motivos <b>chinescos</b>, sobre maderas de Brasil, bajo techos pintados por Simões Ribeiro y Vicente Nunes. Al fondo preside un retrato del rey pintado por Domenico Duprà en 1725.</p><p>El edificio está pensado para proteger los libros: muros de unos 2,11 m de grosor y una puerta de teca mantienen la temperatura entre 18 y 20 °C. Y, como en Mafra, una colonia de <b>murciélagos</b> sale de noche a comerse los insectos; por eso cada noche se cubren los muebles con cuero.</p>"
+    },
+    "ver_alli": [
+     "La visita a la sala noble es corta y por turnos; no se permiten fotografías dentro.",
+     "Fíjese en las estanterías doradas y lacadas con motivos chinescos y en el retrato de João V al fondo.",
+     "Se visita dentro del recorrido por la Universidad de Coimbra, en el Patio de las Escuelas."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Biblioteca_Joanina",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Biblioteca%20Joanina",
+     "https://www.google.com/maps/place/?q=place_id:ChIJI07yBaf5Ig0Re5djdGDEF2E"
+    ]
+   }
+  },
+  {
+   "id": "baixa-pombalina",
+   "campos": {
+    "lat": 38.7106,
+    "lon": -9.1377,
+    "tipo": "poblacion",
+    "estilo": "Pombalino",
+    "texto": {
+     "general": "<p>El terremoto de <b>1755</b> arrasó el centro de Lisboa. El primer ministro de José I, <b>Sebastião José de Carvalho e Melo</b>, futuro marqués de Pombal, dirigió la reconstrucción: en lugar del trazado medieval se dibujó una <b>cuadrícula</b> de calles rectas entre el Rossio, al norte, y la Praça do Comércio, abierta al Tajo.</p><p>Los edificios llevaban dentro la <b>«gaiola» pombalina</b>, un entramado de madera pensado para repartir los esfuerzos de un sismo; los modelos se probaban haciendo marchar tropas a su alrededor. Los muros entre casas sobresalían por encima de los tejados para frenar los incendios.</p><p>Es uno de los primeros grandes planes urbanísticos modernos de Europa, y desde 2004 figura en la lista indicativa de Portugal para Patrimonio Mundial.</p>"
+    },
+    "ver_alli": [
+     "Baje por la Rua Augusta desde el Rossio hasta el arco que se abre a la Praça do Comércio y al Tajo.",
+     "Fíjese en la uniformidad de las fachadas y en la cuadrícula de calles rectas.",
+     "En la Praça do Comércio, abierta al río, se entiende la escala del plan de reconstrucción."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Pombaline_Lower_Town",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Rua%20Augusta%20Lisboa",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ6R7LA3k0GQ0Rk00Z1v-rLT8"
+    ]
+   }
+  },
+  {
+   "id": "museu-das-trilobites-canelas",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo paleontológico (fósiles del Ordovícico)",
+    "provincia": "Aveiro (Portugal)",
+    "ver_alli": [
+     "Centro de Interpretación Geológica de Canelas, con trilobites gigantes y otros fósiles ordovícicos.",
+     "Está junto a la cantera de pizarra donde se encontraron; la visita guiada empieza con un breve documental.",
+     "Conviene reservar la visita con antelación."
+    ],
+    "fuentes": [
+     "https://museudastrilobites.pt/en/home/",
+     "https://roteirodasminas.dgeg.gov.pt/en/lista-de-pontos/museum-of-the-giant-trilobites-en-1/",
+     "https://sciencedaily.com/releases/2009/05/090505072714.htm",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Centro%20de%20Interpreta%C3%A7%C3%A3o%20Geol%C3%B3gica%20de%20Canelas",
+     "https://www.google.com/maps/place/?q=place_id:ChIJF5yFI4phIw0RkZDPdmbiBDg"
+    ]
+   }
+  },
+  {
+   "id": "fortaleza-de-sagres",
+   "campos": {
+    "provincia": "Faro (Portugal)",
+    "comarca": "Vila do Bispo",
+    "lat": 37.0008,
+    "lon": -8.9483,
+    "tipo": "castillo",
+    "estilo": "Fortificación moderna",
+    "fuentes": [
+     "https://www.visitportugal.com/es/content/fortaleza-de-sagres",
+     "https://en.wikipedia.org/wiki/Fortress_of_Sagres",
+     "https://www.openstreetmap.org/way/1328757662"
+    ],
+    "ver_alli": [
+     "Recinto amurallado con paseo por el borde de los acantilados.",
+     "Rosa de los vientos de piedra e iglesia de Nossa Senhora da Graça.",
+     "Cerca está el cabo de San Vicente."
+    ]
+   }
+  },
+  {
+   "id": "mercado-de-escravos-de-lagos",
+   "campos": {
+    "provincia": "Faro (Portugal)",
+    "comarca": "Lagos",
+    "lat": 37.1006,
+    "lon": -8.6712,
+    "tipo": "museo",
+    "estilo": "Edificio manierista; museo",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Mercado_de_Escravos",
+     "https://contestedhistories.org/wp-content/uploads/Portugal-Slave-Market-Museum-in-Lagos.pdf",
+     "https://www.openstreetmap.org/way/96585011"
+    ],
+    "ver_alli": [
+     "Museo en la plaza del Infante Don Enrique, en el centro histórico.",
+     "Exposición con objetos, mapas y la historia de las personas esclavizadas."
+    ]
+   }
+  }
+ ]
+}
