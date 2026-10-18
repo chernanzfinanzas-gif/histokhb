@@ -1,0 +1,715 @@
+{
+ "zona": "A Coruña",
+ "nuevos": [
+  {
+   "id": "monasterio-de-caaveiro",
+   "nombre": "Monasterio de San Xoán de Caaveiro",
+   "provincia": "A Coruña",
+   "comarca": "A Capela",
+   "lat": 43.4176,
+   "lon": -8.0685,
+   "tipo": "iglesia",
+   "estilo": "Románico y barroco",
+   "epoca": "Románico",
+   "anio": 934,
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>Escondido en lo más profundo de las <b>Fragas do Eume</b>, sobre un espolón rocoso junto al río, el monasterio de Caaveiro es uno de los lugares más evocadores de Galicia. Se fundó en el año <b>934</b>, con el impulso del obispo <b>Rosendo</b> —el mismo san Rosendo que poco después fundaría Celanova—, y fue benedictino antes de pasar en el siglo XII a los canónigos de San Agustín.</p><p>Vivió su mejor momento entre <b>1220 y 1259</b>, cuando su dominio alcanzó la máxima extensión. Después fue Real Colegiata con seis canónigos hasta finales del siglo XVIII, cuando quedó abandonado. En <b>1896</b> Pío García Espinosa compró buena parte de las tierras y lo restauró a su gusto: derribó algunas partes, levantó un pabellón almenado y rehízo la capilla de Santa Isabel.</p><p>Hoy se conservan la cabecera y buena parte de la nave de la <b>iglesia románica</b>, un <b>campanario barroco</b> del siglo XVIII de la escuela de Simón Rodríguez, y la casa de los canónigos con sus cocinas. Es Bien de Interés Cultural desde 1975.</p>"
+   },
+   "ver_alli": [
+    "La cabecera románica de la iglesia, lo más antiguo que queda en pie.",
+    "El campanario barroco, recortado contra el bosque.",
+    "Las vistas sobre el cañón del Eume desde el recinto."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Juan_de_Caaveiro",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ48wa1WwMLg0RObeD1D3fN9g",
+    "https://www.openstreetmap.org/search?query=Mosteiro%20de%20Caaveiro"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-vimianzo",
+   "nombre": "Castillo de Vimianzo",
+   "provincia": "A Coruña",
+   "comarca": "Vimianzo",
+   "lat": 43.1112,
+   "lon": -9.0315,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>A la entrada de Vimianzo, en plena Costa da Morte, se alza una fortaleza que se conserva en <b>muy buen estado</b>. La levantó el linaje <b>Mariño de Lobeira</b> entre finales del siglo XII y principios del XIII, aunque lo que vemos hoy es sobre todo de los siglos XIV y XV.</p><p>Su historia es la de las luchas de la nobleza gallega. En <b>1467</b>, durante la revuelta irmandiña, fue asediado, tomado y destruido; después lo reconstruyó el arzobispo Alonso de Fonseca II, a quien poco antes Bernal Sánchez de Moscoso había tenido encerrado dos años en una jaula. Pasó por varias manos —los Moscoso, condes de Altamira, y luego los Martelo— hasta que la <b>Diputación de A Coruña lo compró en 1973</b>.</p><p>Tiene planta poligonal irregular adaptada al terreno, tres torres rectangulares alrededor del patio de armas, una <b>torre del homenaje</b> con almenas y un profundo foso. Hoy acoge una muestra permanente de <b>artesanía popular</b>.</p>"
+   },
+   "ver_alli": [
+    "El escudo con la cabeza de lobo de los Moscoso sobre el portalón.",
+    "Las almenas en punta de diamante de la torre del homenaje.",
+    "El foso que rodea todo el perímetro y el camino de ronda.",
+    "La muestra de artesanía popular del interior."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Vimianzo",
+    "https://www.google.com/maps/place/?q=place_id:ChIJyUoISRTILg0R698RseAo-lo",
+    "https://www.openstreetmap.org/search?query=Castelo%20de%20Vimianzo"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "horreo-de-carnota",
+   "nombre": "Hórreo de Carnota",
+   "provincia": "A Coruña",
+   "comarca": "Carnota",
+   "lat": 42.8224,
+   "lon": -9.0906,
+   "tipo": "monumento",
+   "estilo": "Barroco",
+   "epoca": "Barroco",
+   "anio": 1768,
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>Junto a la iglesia de Santa Comba de Carnota se extiende un granero de piedra tan largo que cuesta abarcarlo con la mirada. El <b>hórreo de Carnota</b> fue diseñado en <b>1768</b> por <b>Gregorio Quintela</b>, y en <b>1783</b> se le añadieron once pares de pies más hasta llegar a los <b>22 pares</b> que tiene hoy.</p><p>Mide <b>34,76 metros</b> de largo por 1,90 de ancho. Los hórreos servían para guardar el maíz y el grano lejos de la humedad y de los roedores: por eso se alzan sobre pies rematados por losas planas que impiden subir a los ratones. Galicia tiene miles, pero muy pocos con estas dimensiones.</p><p class=\"dato\"><span>¿Sabías que…?</span>El de Carnota compite en tamaño con su vecino de Lira, del mismo municipio, algo más largo (36,53 m) pero más estrecho.</p>"
+   },
+   "ver_alli": [
+    "La hilera de 22 pares de pies de piedra, mejor desde un extremo.",
+    "Las losas planas sobre los pies que frenaban a los roedores.",
+    "La iglesia de Santa Comba, al lado, que forma conjunto con el hórreo."
+   ],
+   "fuentes": [
+    "https://blog.turismo.gal/horreos-traditional-raised-granary-with-their-own-name-in-galicia/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ8YhQwdDXLg0Rq1t8Qsdec-g",
+    "https://www.openstreetmap.org/search?query=Horreo%20de%20Carnota"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-maria-a-nova-de-noia",
+   "nombre": "Iglesia de Santa María a Nova (Noia)",
+   "provincia": "A Coruña",
+   "comarca": "Noia",
+   "lat": 42.7835,
+   "lon": -8.8859,
+   "tipo": "iglesia",
+   "estilo": "Gótico",
+   "epoca": "Gótico",
+   "anio": 1327,
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>En Noia, villa marinera del fondo de su ría, se levanta una de las <b>iglesias góticas más representativas</b> de Galicia. Santa María a Nova se construyó en <b>1327</b> sobre un templo románico anterior: nave única, cabecera plana y muros gruesos. En el siglo XVIII se le añadieron sacristía, una capilla y un pórtico.</p><p>Lo que la hace única está a su alrededor y en su interior: una enorme colección de <b>laudas gremiales</b>, las lápidas que cubrían las tumbas y que llevan grabados los símbolos del oficio del difunto —carpinteros, carniceros, zapateros, sastres…—. Se considera la mayor colección de su tipo del mundo y hoy se visita como exposición permanente.</p><p>Dentro destacan el retablo mayor rococó y el arco plateresco de la capilla de los Carneiro, con sus sepulcros.</p>"
+   },
+   "ver_alli": [
+    "Las laudas con herramientas grabadas: intenta adivinar el oficio de cada difunto.",
+    "El arco plateresco de la capilla de los Carneiro.",
+    "El retablo mayor rococó."
+   ],
+   "fuentes": [
+    "https://www.spain.info/es/lugares-interes/iglesia-santa-maria-nueva-noia/",
+    "https://www.paxinasgalegas.es/fiestas/exposicion-permanente-de-laudas-gremiales-noia-19110.html",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ7XJc0QUhLw0RTPZPi8AsI7E",
+    "https://www.openstreetmap.org/search?query=Igrexa%20de%20Santa%20Maria%20a%20Nova"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "torreon-de-los-andrade-pontedeume",
+   "nombre": "Torreón de los Andrade (Pontedeume)",
+   "provincia": "A Coruña",
+   "comarca": "Pontedeume",
+   "lat": 43.4077,
+   "lon": -8.172,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>En el centro de Pontedeume, villa que recibió su título de Alfonso X en 1270, se alza la torre de los poderosos <b>Andrade</b>, señores de esta comarca. Es una obra del <b>siglo XIV</b> encargada por <b>Fernán Pérez de Andrade, «O Bo»</b>, aunque ya en 1295 existía aquí una torre.</p><p>Es un bloque macizo de <b>11,5 metros de lado y 18 de alto</b>, con muros de 2,35 metros en la planta baja. Cada piso tenía su función: abajo prisión y defensa, luego cuarto de guardia, después cocina y comedor y, arriba, el dormitorio. Fue restaurada en 1951 y 1974.</p><p>Hoy es <b>Centro de Interpretación de la historia de los Andrade</b>, oficina de turismo y sala de exposiciones. Es Bien de Interés Cultural desde 1924.</p>"
+   },
+   "ver_alli": [
+    "El grosor de los muros en la planta baja.",
+    "La exposición sobre el linaje de los Andrade.",
+    "El escudo con el jabalí, emblema de la familia."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Torreón_de_los_Andrade",
+    "https://www.google.com/maps/place/?q=place_id:ChIJH8XpAHRzLg0R7HOdmHst2ls",
+    "https://www.openstreetmap.org/search?query=Torreon%20dos%20Andrade%20Pontedeume"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-moeche",
+   "nombre": "Castillo de Moeche",
+   "provincia": "A Coruña",
+   "comarca": "Moeche",
+   "lat": 43.55,
+   "lon": -7.9928,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>En un valle tranquilo de la comarca de Ferrol se alza un castillo del <b>siglo XV</b> que guarda la memoria de una de las grandes revueltas campesinas de Europa. Las excavaciones apuntan a una fortaleza anterior, posiblemente del siglo XIV.</p><p>Hacia <b>1467</b>, en la segunda revuelta irmandiña, los campesinos alzados contra los abusos de los señores lo atacaron, y es muy posible que fuera de los primeros en caer. Tras la derrota de la revuelta, su señor <b>Pedro Álvarez Osorio</b> ordenó reconstruirlo y ampliarlo… con irmandiños presos como mano de obra.</p><p>Conserva la torre del homenaje, la plaza de armas y una muralla de planta octogonal irregular, además de estancias de servicio, armas, comedor y caballerizas.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje y sus tres escudos en la fachada.",
+    "La muralla octogonal que encierra la plaza de armas.",
+    "Las caballerizas y las estancias que rodean el patio central."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Moeche",
+    "https://www.google.com/maps/place/?q=place_id:ChIJH3E1pALjLQ0RI1Dvf0Fv_zg",
+    "https://www.openstreetmap.org/search?query=Castelo%20de%20Moeche"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-san-felipe-ferrol",
+   "nombre": "Castillo de San Felipe",
+   "provincia": "A Coruña",
+   "comarca": "Ferrol",
+   "lat": 43.4647,
+   "lon": -8.2818,
+   "tipo": "castillo",
+   "estilo": "Abaluartado",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1557,
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>En la parte más estrecha de la ría de Ferrol, este castillo vigilaba la entrada a uno de los grandes puertos militares de España. Se empezó en <b>1557</b> por orden de <b>Felipe II</b>, de quien toma el nombre, y entre <b>1731 y 1755</b> el ingeniero Francisco Montaigú lo reformó siguiendo las ideas de Vauban.</p><p>Tiene forma de <b>punta de flecha</b>, con una doble línea de cañones en dos pisos hacia el mar y un gran hornabeque hacia tierra. Una cadena tendida entre él y el castillo de San Martín, en la orilla opuesta, podía cerrar la ría.</p><p>Su gran día llegó el <b>25 de agosto de 1800</b>: una armada británica de más de cien barcos al mando del contralmirante John Borlase Warren intentó tomar Ferrol, y los ataques fueron rechazados con apoyo de las baterías de la ría.</p>"
+   },
+   "ver_alli": [
+    "Las baterías en dos pisos que miran a la boca de la ría.",
+    "El foso y la puerta principal del lado de tierra.",
+    "Las vistas al castillo de La Palma, en la otra orilla."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_San_Felipe_(Ferrol)",
+    "https://www.google.com/maps/place/?q=place_id:ChIJbag6J6d3Lg0R7KfzztKQsjs",
+    "https://www.openstreetmap.org/search?query=Castelo%20de%20San%20Felipe%20Ferrol"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-paio-de-antealtares",
+   "nombre": "Monasterio de San Paio de Antealtares",
+   "provincia": "A Coruña",
+   "comarca": "Santiago de Compostela",
+   "lat": 42.8803,
+   "lon": -8.5427,
+   "tipo": "iglesia",
+   "estilo": "Barroco",
+   "epoca": "Barroco",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>Frente a la cabecera de la catedral, en la plaza de la Quintana, se extiende el largo muro de un monasterio de clausura con una historia tan antigua como la del propio Santiago. Lo fundó en el <b>siglo IX</b> el rey <b>Alfonso II</b> para que <b>doce monjes benedictinos</b> cuidasen y diesen culto al sepulcro del Apóstol, recién descubierto.</p><p>Los monjes se marcharon en <b>1499</b> y desde entonces lo ocupan monjas de clausura. El edificio primitivo se derribó y lo que vemos es casi todo de los <b>siglos XVII y XVIII</b>; la iglesia, de planta de cruz griega, la diseñó <b>fray Gabriel de Casas</b>.</p><p>Su <b>Museo de Arte Sacro</b> guarda una pieza excepcional: el primitivo altar que acompañaba al sepulcro del Apóstol, que el arzobispo Xelmírez regaló al convento cuando lo sustituyó en la catedral por otro más grandioso.</p>"
+   },
+   "ver_alli": [
+    "El antiguo altar del sepulcro apostólico, en el museo.",
+    "El retablo dorado del altar mayor.",
+    "El gran muro del monasterio que cierra la Quintana."
+   ],
+   "fuentes": [
+    "https://www.santiagoturismo.com/monumentos/mosteiro-e-igrexa-de-san-paio-de-antealtares-11",
+    "https://en.wikipedia.org/wiki/Monastery_of_Saint_Pelagius_of_Antealtares",
+    "https://www.google.com/maps/place/?q=place_id:ChIJO8LRF0T-Lg0RdqewJR3RlfI",
+    "https://www.openstreetmap.org/search?query=Mosteiro%20de%20San%20Paio%20de%20Antealtares"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "pazo-de-raxoi",
+   "nombre": "Pazo de Raxoi",
+   "provincia": "A Coruña",
+   "comarca": "Santiago de Compostela",
+   "lat": 42.8805,
+   "lon": -8.5462,
+   "tipo": "monumento",
+   "estilo": "Neoclásico",
+   "epoca": "Ilustración y Neoclásico",
+   "anio": 1766,
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>Cerrando la plaza del Obradoiro frente a la catedral, este largo palacio de columnas es uno de los grandes edificios <b>neoclásicos</b> de España. Lo encargó en <b>1766</b> el arzobispo <b>Bartolomé de Rajoy</b> y lo trazó el ingeniero francés <b>Carlos Lemaur</b>; según la inscripción de su friso, se construyó entre 1766 y 1772.</p><p>Nació para usos muy diversos: seminario de confesores, cárcel municipal en la parte trasera y casa consistorial. Hoy es la sede del <b>Ayuntamiento de Santiago</b> y de la presidencia de la Xunta de Galicia.</p><p>En el frontón central, un relieve en mármol representa la legendaria <b>batalla de Clavijo</b>, obra de José Gambino y José Ferreiro, y en lo más alto cabalga un Santiago ecuestre de José Ferreiro.</p>"
+   },
+   "ver_alli": [
+    "El relieve de la batalla de Clavijo en el frontón.",
+    "El Santiago a caballo que remata la fachada.",
+    "La galería de columnas que recorre todo el frente."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Palacio_de_Rajoy",
+    "https://www.google.com/maps/place/?q=place_id:ChIJV6Kh3UP-Lg0RwQ5pXKp-9h4",
+    "https://www.openstreetmap.org/search?query=Pazo%20de%20Raxoi"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "muros",
+   "nombre": "Muros",
+   "provincia": "A Coruña",
+   "comarca": "Muros",
+   "lat": 42.7751,
+   "lon": -9.0588,
+   "tipo": "poblacion",
+   "estilo": "Casco marinero medieval",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>Muros es una villa marinera volcada sobre su puerto, a la entrada de la ría de Muros y Noia. Según la tradición la fundó en el siglo XIII el rey <b>Sancho IV</b>, y en <b>1970</b> fue declarada <b>conjunto histórico-artístico</b> por conservar su trama urbana medieval y marinera.</p><p>Pasear por ella es recorrer calles estrechas de <b>casas de piedra con soportales</b>, casi siempre de arcos apuntados, que sostienen una o dos plantas con balcones. En el siglo XIX se añadieron balconadas de hierro y galerías acristaladas. La iglesia de <b>Santa María do Campo</b> conserva su fachada románica y un interior gótico marinero del siglo XV.</p><p>Muy cerca, en Serres, se ha restaurado el molino de mareas del <b>Pozo do Cachón</b>, que muestra cómo se aprovechaba la subida y bajada de la marea para moler.</p>"
+   },
+   "ver_alli": [
+    "Los soportales de arcos apuntados junto al puerto.",
+    "La iglesia de Santa María do Campo, con su rosetón.",
+    "El cruceiro de la Praza do Cristo.",
+    "El molino de mareas del Pozo do Cachón, en Serres."
+   ],
+   "fuentes": [
+    "https://blog.turismo.gal/marine-houses-in-muros/",
+    "https://www.elespanol.com/quincemil/vivir/escapadas/20260409/pueblo-medieval-marinero-conjunto-historico-artistico-encanto-ideal-recorrer-pie-trt/1003744195948_0.html",
+    "https://www.google.com/maps/place/?q=place_id:ChIJT2KNNgEpLw0RuVzwUdvmhtA",
+    "https://www.openstreetmap.org/search?query=Praza%20do%20Cristo%20Muros"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "dombate",
+   "campos": {
+    "lat": 43.1901,
+    "lon": -8.9694,
+    "estilo": "Megalitismo (dolmen de corredor)",
+    "texto": {
+     "general": "<p>Llamado a menudo la <b>«catedral del megalitismo gallego»</b>, el dolmen de Dombate es uno de los sepulcros neolíticos mejor conservados del noroeste peninsular. Su túmulo se levantó en la primera mitad del IV milenio a. C. y el monumento se usó aproximadamente entre el <b>3800 y el 2700 a. C.</b></p><p>El túmulo, la <i>mámoa</i>, mide unos 24 metros de diámetro. Dentro guarda una cámara poligonal de siete grandes losas —una de ellas de 4,64 por 3 metros— y un corredor de tres tramos. Debajo apareció un dolmen anterior, más pequeño y sencillo. Las losas de la cámara y del corredor conservan <b>pinturas</b> rojas y negras de motivos geométricos (zigzags, ondulados, retículas), y a la entrada del túmulo se halló una hilera de veinte pequeños ídolos.</p><p>Lo excavó José María Bello Diéguez entre 1987 y 1989. Tras años de deterioro, en 2011 se terminó la gran cubierta que hoy lo protege de la lluvia, y junto a él se montó una réplica visitable de la cámara.</p><p class=\"dato\"><span>¿Sabías que…?</span>El poeta Eduardo Pondal le dedicó un poema en 1885, incluido después en <i>Queixumes dos pinos</i>.</p>"
+    },
+    "ver_alli": [
+     "Las pinturas geométricas de las losas, rojas y negras, bajo la cubierta protectora.",
+     "La réplica de la cámara, en la que se puede entrar, y la exposición del centro de recepción, junto al recinto del dolmen.",
+     "El castro de Borneiro está a menos de 2 km."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Dolmen_de_Dombate",
+     "https://www.openstreetmap.org/?mlat=43.1901&mlon=-8.9694#map=18/43.1901/-8.9694",
+     "https://www.google.com/maps/place/?q=place_id:ChIJWYGj-p-5Lg0ReCBbfg7uebc"
+    ]
+   }
+  },
+  {
+   "id": "cabaleiros",
+   "campos": {
+    "estilo": "Megalitismo (dolmen)",
+    "texto": {
+     "general": "<p>En Tordoia, entre pinos, se conserva este <b>dolmen neolítico</b> con restos de su túmulo cubiertos de hierba. Su cámara es poligonal, de unos 3,10 por 2,70 metros en planta y 1,70 de alto, y la cubre una enorme losa de casi 4 por 3,40 metros.</p><p>En la zona lo llaman <b>«Casa da Moura»</b>, porque la tradición popular atribuía estos monumentos a las mouras, seres mágicos. Cuenta la leyenda que una moura trajo la losa de cubierta desde muy lejos mientras tejía con las manos.</p><p>Fue declarado monumento histórico en 1975 y hoy está protegido dentro de un cercado de piedra.</p>"
+    },
+    "ver_alli": [
+     "La gran losa de cubierta, de casi cuatro metros, sobre la cámara poligonal.",
+     "Los restos del túmulo alrededor, cubiertos de hierba.",
+     "Está dentro de un cercado de piedra y se visita libremente."
+    ],
+    "fuentes": [
+     "https://gl.wikipedia.org/wiki/Dolmen_de_Cabaleiros",
+     "https://www.wikidata.org/wiki/Q14826246",
+     "https://turismo.dacoruna.gal/en/node/842",
+     "https://www.openstreetmap.org/?mlat=43.09688&mlon=-8.55038#map=18/43.09688/-8.55038"
+    ]
+   }
+  },
+  {
+   "id": "axeitos",
+   "campos": {
+    "lat": 42.6001,
+    "lon": -9.0168,
+    "estilo": "Megalitismo (dolmen de corredor)",
+    "texto": {
+     "general": "<p>El dolmen de Axeitos, también llamado <b>Pedra do Mouro</b>, es uno de los mejor conservados de Galicia. Es una tumba de corredor neolítica, fechada entre el <b>4000 y el 3600 a. C.</b>, en lo alto de un pequeño montículo de la parroquia de Oleiros, en Ribeira.</p><p>La cámara la forman <b>ocho grandes losas</b> verticales cubiertas por una sola laja que sigue en su sitio, y alcanza hoy unos dos metros de altura. Del corredor, orientado al este, solo quedan tres piedras. Seguramente estuvo cubierto por un túmulo de tierra y piedras.</p><p>Estas tumbas solían ser colectivas, probablemente de personas destacadas, y acompañadas de ajuar. Fue declarado monumento en 1978 y hoy se visita en un pequeño pinar acondicionado.</p>"
+    },
+    "ver_alli": [
+     "La cámara de ocho losas con su cubierta original en su sitio.",
+     "Los restos del corredor, orientado al este.",
+     "El castro de Baroña y las dunas de Corrubedo están cerca."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Dolmen_de_Axeitos",
+     "https://es.wikipedia.org/wiki/Dolmen_de_Axeitos",
+     "https://www.openstreetmap.org/?mlat=42.6001&mlon=-9.0168#map=18/42.6001/-9.0168",
+     "https://www.google.com/maps/place/?q=place_id:ChIJNdsJwaYwLw0RD8M3Yro0s-4"
+    ]
+   }
+  },
+  {
+   "id": "barona",
+   "campos": {
+    "lat": 42.6947,
+    "lon": -9.032,
+    "estilo": "Cultura castreña",
+    "texto": {
+     "general": "<p>Sobre una pequeña península rocosa frente al Atlántico, el castro de Baroña es una de las imágenes más bellas de la <b>cultura castreña</b>. Estuvo habitado entre el <b>siglo I a. C. y el I d. C.</b> y conserva una veintena de casas de planta circular u oval.</p><p>Para llegar al poblado había que cruzar un <b>foso</b> de cuatro metros de ancho y tres de fondo excavado en el istmo, y después dos murallas. Dentro, las casas se agrupan en barrios separados por muros, y unas escaleras de piedra —de las mejor conservadas de los castros gallegos— suben al sector más alto.</p><p>No tenía agua dentro: había que ir a buscarla fuera. Sus habitantes vivían sobre todo del mar, de pescado y marisco, además de ganado y bellotas, y trabajaban el metal, la piedra y el tejido. Se excavó por primera vez en 1933.</p>"
+    },
+    "ver_alli": [
+     "El foso y la muralla del istmo, a la entrada.",
+     "Las escaleras de piedra entre barrios de casas circulares.",
+     "Las vistas sobre el océano desde el sector más alto; el último tramo del sendero es de rocas."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Castro_de_Baro%C3%B1a",
+     "https://es.wikipedia.org/wiki/Castro_de_Baro%C3%B1a",
+     "https://www.openstreetmap.org/?mlat=42.6947&mlon=-9.032#map=18/42.6947/-9.032",
+     "https://www.google.com/maps/place/?q=place_id:ChIJsyvYOE8vLw0RLBZJob6OWss"
+    ]
+   }
+  },
+  {
+   "id": "elvina",
+   "campos": {
+    "lat": 43.3293,
+    "lon": -8.4165,
+    "estilo": "Cultura castreña con fase romana",
+    "texto": {
+     "general": "<p>En un pequeño cerro de las afueras de A Coruña, junto al campus universitario de Elviña, se levanta uno de los grandes castros de Galicia. Estuvo ocupado desde el <b>siglo III a. C. hasta el VI d. C.</b>, con una importante fase romana, y es monumento histórico-artístico desde <b>1962</b>.</p><p>Lo forman varios recintos aterrazados separados por <b>tres murallas</b>. La que rodea la croa, el recinto más alto, tiene una entrada monumental entre dos torreones semicirculares, y en algunos tramos supera los cuatro metros de ancho y de alto. Entre sus construcciones destacan una fuente-aljibe y un edificio que se ha interpretado como templo.</p><p>Las excavaciones de 2002-2003 mostraron que era mucho mayor de lo que se creía: unas 7-8 hectáreas y quizá 2000 habitantes hacia el año 50 d. C. Aquí se encontró el <b>tesoro de Elviña</b>, hoy en el Museo Arqueológico del castillo de San Antón. Se cree que su población se fue trasladando poco a poco a Brigantium, la actual A Coruña.</p>"
+    },
+    "ver_alli": [
+     "La entrada monumental de la croa, entre dos torreones.",
+     "La fuente-aljibe del sector aterrazado.",
+     "No suele estar abierto a diario: el Museo Arqueológico de San Antón organiza visitas guiadas."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Castro_de_Elvi%C3%B1a",
+     "https://es.wikipedia.org/wiki/Castro_de_Elvi%C3%B1a",
+     "https://www.openstreetmap.org/?mlat=43.3292&mlon=-8.4174#map=18/43.3292/-8.4174",
+     "https://www.google.com/maps/place/?q=place_id:ChIJT_yAqiF9Lg0RNiFuWvGSG7E"
+    ]
+   }
+  },
+  {
+   "id": "borneiro",
+   "campos": {
+    "lat": 43.1946,
+    "lon": -8.9523,
+    "estilo": "Cultura castreña",
+    "texto": {
+     "general": "<p>El castro de Borneiro, conocido como <b>A Cibdá</b>, fue el <b>primer castro gallego fechado por carbono 14</b>. Estuvo habitado entre los siglos IV y I a. C. y no muestra señales de romanización, lo que lo convierte en un buen ejemplo de la cultura castreña antes de Roma.</p><p>Se descubrió en 1924 y se excavó en los años treinta, setenta y, sobre todo, ochenta, con Ana Romero Masiá. Hasta hoy se han excavado <b>36 construcciones</b>, unas tres cuartas partes del total. El recinto, de 90 por 55 metros, está rodeado por un foso y dos murallas, salvo en el lado este, donde la fuerte pendiente sirve de defensa.</p><p>Las casas son circulares o cuadradas con las esquinas redondeadas, y destacan por su gran tamaño. Junto a la entrada hay un «barrio extramuros» con una gran vivienda ovalada, dos fuentes y un horno. Lo hallado —cerámica, moldes de fundición, cuentas de vidrio— se expone en el Museo Arqueológico de A Coruña.</p>"
+    },
+    "ver_alli": [
+     "Las grandes casas circulares, entre las mayores de los castros gallegos.",
+     "El barrio extramuros, junto a la entrada, con sus fuentes y el horno.",
+     "Se llega por un corto camino en cuesta desde la carretera; el dolmen de Dombate está a menos de 2 km."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Castro_de_Borneiro",
+     "https://es.wikipedia.org/wiki/Castro_de_Borneiro",
+     "https://www.openstreetmap.org/?mlat=43.1946&mlon=-8.9522#map=18/43.1946/-8.9522",
+     "https://www.google.com/maps/place/?q=place_id:ChIJDSLwCmy5Lg0R--bSYUnYx3A"
+    ]
+   }
+  },
+  {
+   "id": "neixon",
+   "campos": {
+    "lat": 42.662,
+    "lon": -8.8404,
+    "estilo": "Cultura castreña",
+    "texto": {
+     "general": "<p>En la punta de Neixón, una pequeña península de la ría de Arousa, hay <b>dos castros</b> separados por unos cien metros. El <b>Castro Pequeno</b> es el más antiguo, de la transición del Bronce al Hierro; el <b>Castro Grande</b> se levantó después de que el primero se abandonara y estuvo ocupado hasta época tardorromana.</p><p>El Castro Grande tenía terraplenes y fosos como defensa. Sus habitantes cultivaban cereales, recogían frutos silvestres, pescaban, mariscaban y criaban ganado, y entre ellos había trabajadores del metal.</p><p>Los castros se excavan desde comienzos del siglo XX —la última gran campaña fue de 2003 a 2007— y son Bien de Interés Cultural desde 2011. Muy cerca está el <b>Centro Arqueolóxico do Barbanza</b>, abierto en 2002, que explica el megalitismo, el arte rupestre y la cultura castreña de la comarca.</p>"
+    },
+    "ver_alli": [
+     "Las casas circulares del Castro Pequeno, al borde del mar.",
+     "Los fosos del Castro Grande, unos 300 m más al interior, junto a las pasarelas del pinar.",
+     "El Centro Arqueolóxico do Barbanza está a unos 500 m: conviene empezar por él."
+    ],
+    "fuentes": [
+     "https://boiroturismo.gal/arqueologia/Castros de Neixón-20267/",
+     "https://www.paxinasgalegas.es/fiestas/centro-arqueologico-del-barbanza-los-castros-de-neixon-boiro-4644.html",
+     "https://museos.xunta.gal/en/museos/archaeological-centre-barbanza",
+     "https://www.google.com/maps/place/?q=place_id:ChIJDepRk149Lw0R7jGsuNpEIlc",
+     "https://www.google.com/maps/place/?q=place_id:ChIJR-dbcrY9Lw0R4StvAGeOV3o",
+     "https://www.openstreetmap.org/?mlat=42.6609&mlon=-8.8401#map=18/42.6609/-8.8401",
+     "https://www.openstreetmap.org/?mlat=42.6663&mlon=-8.8434#map=18/42.6663/-8.8434"
+    ]
+   }
+  },
+  {
+   "id": "torre-hercules",
+   "campos": {
+    "lat": 43.386,
+    "lon": -8.4065,
+    "estilo": "Romano, con forro neoclásico",
+    "texto": {
+     "general": "<p>La Torre de Hércules es el <b>único faro romano del mundo que sigue funcionando</b>. Se levantó entre finales del siglo I y comienzos del II, en época de Trajano; una inscripción a sus pies da el nombre de su arquitecto, <b>Cayo Sevio Lupo</b>, natural de Aeminium, la actual Coímbra. Mide <b>55 metros</b> y es Patrimonio Mundial desde 2009.</p><p>Hacia el año 415, Paulo Orosio ya hablaba de un «faro altísimo» en Brigantia, en la ruta hacia Britania. En la Edad Media perdió su uso y se convirtió en fortificación. En 1682 se le añadió una escalera de madera, y en tiempos de Carlos III se reformó por completo: la obra neoclásica, dirigida por <b>Eustaquio Giannini</b>, se terminó en 1791 y envolvió el núcleo romano, que sigue dentro.</p><p>Su nombre viene de una leyenda medieval: Hércules habría vencido aquí al gigante Gerión, enterrado su cabeza y levantado encima una torre con una antorcha.</p><p class=\"dato\"><span>¿Sabías que…?</span>Hasta el siglo XX se llamaba Faro de Brigantia; el nombre de «Torre de Hércules» se popularizó después.</p>"
+    },
+    "ver_alli": [
+     "Al entrar, los muros y bóvedas del núcleo romano, envueltos por la torre neoclásica.",
+     "La inscripción de Cayo Sevio Lupo, a los pies de la torre.",
+     "El parque escultórico que la rodea, con obras de artistas del siglo XX.",
+     "Desde 2026 hay obras de restauración y el acceso al interior está limitado: consulta antes de ir."
+    ],
+    "fuentes": [
+     "https://www.elespanol.com/quincemil/a-coruna/20260313/obras-torre-hercules-coruna-empiezan-lunes-suspende-venta-entradas-individuales/1003744168100_0.html",
+     "https://es.wikipedia.org/wiki/Torre_de_H%C3%A9rcules",
+     "https://www.openstreetmap.org/?mlat=43.3859&mlon=-8.4065#map=18/43.3859/-8.4065",
+     "https://www.google.com/maps/place/?q=place_id:ChIJV9WFsXJ8Lg0RoNcQ82Qok4I"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-santiago-y-portico-de-la-glo",
+   "campos": {
+    "lat": 42.8806,
+    "lon": -8.5445,
+    "estilo": "Románico, con añadidos gótico, renacentista y barroco",
+    "ver_alli": [
+     "El Pórtico de la Gloria, detrás de la fachada del Obradoiro: Santiago sentado en la columna central y los veinticuatro ancianos músicos.",
+     "La cripta y el sepulcro del apóstol, bajo el altar mayor.",
+     "La visita al Pórtico tiene aforo limitado: conviene reservarla en la web de la catedral."
+    ],
+    "fuentes": [
+     "https://visitas.catedraldesantiago.es/en/free-visits-to-the-portico-of-gloria-no-guide/",
+     "https://www.openstreetmap.org/?mlat=42.8804&mlon=-8.5446#map=18/42.8804/-8.5446",
+     "https://www.google.com/maps/place/?q=place_id:ChIJB0dBJkP-Lg0RxRaj0LljjqE",
+     "https://es.wikipedia.org/wiki/Catedral_de_Santiago_de_Compostela"
+    ]
+   }
+  },
+  {
+   "id": "colegiata-de-santa-maria-do-sar",
+   "campos": {
+    "lat": 42.8721,
+    "lon": -8.5371,
+    "estilo": "Románico",
+    "texto": {
+     "general": "<p>A orillas del río Sar, a las afueras del casco histórico de Santiago, se levanta una de las iglesias que conservan más obra <b>románica</b> de la ciudad, junto con la catedral. La fundó <b>Munio Alfonso</b>, canónigo compostelano y obispo de Mondoñedo, que empezó las obras en 1134; murió en <b>1136</b>, el año de la carta fundacional, y Gelmírez se hizo cargo de la fundación, que Alfonso VII confirmó en 1137. La ocupó una comunidad de canónigos agustinos.</p><p>Lo más llamativo está dentro: sus <b>columnas y muros están visiblemente inclinados</b> hacia fuera. El terreno blando junto al río, la atrevida altura de las naves y el peso de las bóvedas hicieron ceder la fábrica, y ya desde el siglo XVI se notaba la inestabilidad. Para sujetarla se añadieron los grandes <b>arbotantes</b> exteriores en los siglos XVII y XVIII, y la bóveda se rehízo en el XVI.</p><p>Del claustro solo queda la galería pegada a la iglesia, la única románica de Santiago; el resto se derribó a mediados del siglo XVIII. Hoy alberga un pequeño museo de piezas arqueológicas y litúrgicas.</p>"
+    },
+    "ver_alli": [
+     "Las columnas inclinadas de la nave: se ven mejor mirando desde los pies de la iglesia.",
+     "Los arbotantes del exterior, añadidos para que no se hundiera.",
+     "La galería románica del claustro y el pequeño museo."
+    ],
+    "fuentes": [
+     "https://www.monestirs.cat/monst/annex/espa/galicia/corunya/esar.htm",
+     "https://www.santiagoturismo.com/monumentos/colexiata-santa-maria-a-real-do-sar-6",
+     "https://www.openstreetmap.org/?mlat=42.8721&mlon=-8.537#map=18/42.8721/-8.537",
+     "https://www.google.com/maps/place/?q=place_id:ChIJSXPCATj-Lg0ROoFu2epFiJI"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-sobrado-dos-monxes",
+   "campos": {
+    "lat": 43.0385,
+    "lon": -8.0229,
+    "estilo": "Románico, renacentista y barroco",
+    "texto": {
+     "general": "<p>El monasterio de Santa María de Sobrado se fundó hacia el año <b>951</b>, pero a comienzos del siglo XII estaba abandonado. En enero de <b>1142</b> los hermanos Fernando y Bermudo Pérez de Traba lo entregaron al Císter, y san Bernardo envió monjes desde Claraval.</p><p>De aquella época quedan la <b>sala capitular</b> y la capilla de la Magdalena, de tradición románica, además de la antigua cocina. Casi todo lo demás se construyó desde finales del siglo XV, cuando el monasterio volvió a ser uno de los más ricos de Galicia: la gran <b>iglesia barroca</b>, terminada a finales del XVII y consagrada en 1708, la sacristía renacentista y tres claustros. Entre 1500 y 1530 los monjes crearon la <b>laguna</b> cercana, para dar agua a cocinas y molino y criar truchas.</p><p>La desamortización lo cerró en 1834 y acabó en ruinas. En 1954 empezó su reconstrucción y desde 1966 lo habitan <b>monjes trapenses</b>. Está en el Camino del Norte, que es Patrimonio Mundial.</p>"
+    },
+    "ver_alli": [
+     "La fachada barroca de la iglesia y la cúpula del crucero.",
+     "La sala capitular medieval y la antigua cocina.",
+     "Los claustros de los Peregrinos y Procesional; el de la comunidad es clausura.",
+     "La laguna de Sobrado, a corta distancia, creada por los monjes."
+    ],
+    "fuentes": [
+     "https://blog.turismo.gal/monastery-and-lagoa-of-sobrado-dos-monxes-a-coruna/",
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_(Sobrado)",
+     "https://www.spain.info/es/lugares-interes/monasterio-santa-maria-sobrado/",
+     "https://www.openstreetmap.org/?mlat=43.0385&mlon=-8.0229#map=18/43.0385/-8.0229",
+     "https://www.google.com/maps/place/?q=place_id:ChIJSyeVaD4xLg0R6YcEOZY5vWo"
+    ]
+   }
+  },
+  {
+   "id": "iglesias-goticas-de-betanzos",
+   "campos": {
+    "lat": 43.2824,
+    "lon": -8.2114,
+    "estilo": "Gótico",
+    "texto": {
+     "general": "<p>En el casco histórico de Betanzos se conservan, a pocos pasos unas de otras, tres iglesias <b>góticas</b> de finales del siglo XIV y del XV, ligadas a los poderosos señores de Andrade.</p><p>La más importante es <b>San Francisco</b>, reconstruida por <b>Fernán Pérez de Andrade</b> en la segunda mitad del siglo XIV sobre un convento anterior. Guarda 16 sepulcros de la familia, y sobre todo el del propio Fernán Pérez: el sarcófago se apoya en un <b>oso y un jabalí</b>, los animales de su linaje, lleva escenas de caza en los costados y encima la figura yacente del caballero con sus perros y cuatro ángeles. La fecha de su inscripción, 1387, señala el final de las obras de la iglesia; él murió en 1397. En la bóveda, entre ángeles músicos, hay uno que toca la gaita.</p><p>Al lado está <b>Santa María do Azougue</b>, de tres naves, levantada entre finales del siglo XIV y comienzos del XV, con un rosetón sobre la portada. Un poco más allá, <b>Santiago</b>, también edificada por Fernán Pérez de Andrade, tiene tres naves y tres ábsides, y junto a ella se alza la torre del reloj municipal, del siglo XVI.</p>"
+    },
+    "ver_alli": [
+     "En San Francisco, el sepulcro de Fernán Pérez de Andrade sobre el oso y el jabalí, bajo el coro.",
+     "El jabalí que sostiene una cruz en lo alto del tejado de San Francisco.",
+     "Santa María do Azougue está a unos 60 m y Santiago a unos 170 m: se ven las tres en un paseo corto."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Francisco_(Betanzos)",
+     "https://www.spain.info/es/lugares-interes/iglesia-santa-maria-azogue-betanzos/",
+     "https://www.spain.info/pt_BR/lugares-interesse/igreja-santiago-betanzos/",
+     "https://www.openstreetmap.org/?mlat=43.2824&mlon=-8.2114#map=18/43.2824/-8.2114",
+     "https://www.google.com/maps/place/?q=place_id:ChIJCxV5xxlsLg0Ru-WubgwM1oA",
+     "https://www.google.com/maps/place/?q=place_id:ChIJMQj4xxlsLg0RmakYd2Kjk8E",
+     "https://www.google.com/maps/place/?q=place_id:ChIJjVQ58xlsLg0RQbJIAI-azbM"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-de-cambre",
+   "campos": {
+    "lat": 43.2921,
+    "lon": -8.3441,
+    "estilo": "Románico (de influencia compostelana)",
+    "texto": {
+     "general": "<p>Santa María de Cambre es uno de los mejores ejemplos del <b>románico compostelano</b> en el rural gallego. Es lo único que queda de un antiguo monasterio familiar, donado en el año 932 al monasterio compostelano de San Paio de Antealtares. La iglesia actual se construyó a finales del siglo XII; un capitel lleva grabada la fecha de <b>1194</b>.</p><p>Su rasgo más raro es la <b>girola</b>, un deambulatorio con capillas en la cabecera, poco habitual en una iglesia rural: la cabecera reúne la capilla mayor y cinco absidiolos, que conservan sus cornisas y bóvedas originales. Se nota la huella del taller de la catedral de Santiago.</p><p>En la fachada, columnas pareadas, un tímpano con el Cordero de Dios, el profeta Daniel entre leones y un rosetón. Dentro hay tres naves y unos <b>noventa y cuatro capiteles</b>. Guarda una pila conocida como <b>Hidria de Jerusalén</b>, que la tradición identifica con una de las tinajas de las bodas de Caná, y una Virgen con el Niño en piedra de finales del siglo XII.</p>"
+    },
+    "ver_alli": [
+     "La cabecera por fuera, con la capilla mayor y sus cinco absidiolos.",
+     "El tímpano con el Cordero de Dios y el rosetón de la fachada.",
+     "Dentro, la Hidria de Jerusalén y el capitel fechado en 1194; el interior se ve en horario de culto o con visita concertada."
+    ],
+    "fuentes": [
+     "https://blog.turismo.gal/?p=11722",
+     "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_(Cambre)",
+     "https://www.openstreetmap.org/?mlat=43.2922&mlon=-8.3441#map=18/43.2922/-8.3441",
+     "https://www.google.com/maps/place/?q=place_id:ChIJp5E0AKllLg0Rk-3aNHRk_5g"
+    ]
+   }
+  },
+  {
+   "id": "san-miguel-de-breamo",
+   "campos": {
+    "lat": 43.3998,
+    "lon": -8.1835,
+    "estilo": "Románico",
+    "texto": {
+     "general": "<p>En lo alto del monte Breamo, entre bosque y por encima de la ría, se alza solitaria la iglesia románica de San Miguel. Es lo único que queda de un pequeño <b>monasterio</b>, documentado por primera vez en <b>1169</b> y que en el siglo XIV era un priorato de canónigos agustinos.</p><p>La iglesia tiene <b>planta de cruz latina</b>: una sola nave, crucero y cabecera con tres ábsides semicirculares. Una inscripción la fecha en <b>1187</b>, aunque las obras debieron de seguir hasta comienzos del siglo XIII. Sus portadas son estrechas y casi sin decoración, lo que le da un aire de fortaleza.</p><p>Fue una casa modesta, que tuvo pleitos con el monasterio de Sobrado y sufrió la ambición de la nobleza local. Desapareció probablemente a finales del siglo XVI y la iglesia quedó como ermita.</p>"
+    },
+    "ver_alli": [
+     "Los tres ábsides semicirculares de la cabecera.",
+     "Las portadas estrechas y sobrias, como de fortaleza.",
+     "Su emplazamiento aislado en lo alto del monte, a un corto desvío del Camino Inglés."
+    ],
+    "fuentes": [
+     "https://monestirs.cat/monst/annex/espa/galicia/corunya/ebreamo.htm",
+     "https://www.openstreetmap.org/?mlat=43.3998&mlon=-8.1835#map=18/43.3998/-8.1835",
+     "https://www.google.com/maps/place/?q=place_id:ChIJNb-10qNzLg0REL82fBpPGuU"
+    ]
+   }
+  },
+  {
+   "id": "fachada-del-obradoiro",
+   "campos": {
+    "lat": 42.8805,
+    "lon": -8.5458,
+    "estilo": "Barroco",
+    "texto": {
+     "general": "<p>La fachada del Obradoiro es la cara occidental de la catedral de Santiago y el símbolo de la ciudad. La levantó <b>Fernando de Casas Novoa</b> desde <b>1738</b>, delante de la fachada románica del maestro Mateo, para proteger el <b>Pórtico de la Gloria</b> de la lluvia y del viento; sus grandes ventanales de cristal dejan pasar la luz al pórtico y a las naves. Se terminó en febrero de 1750, cuando el arquitecto ya había muerto.</p><p>Entre dos torres de casi <b>75 metros</b>, la Torre das Campás y la da Carraca, el cuerpo central culmina con Santiago vestido de peregrino. Debajo aparecen la urna del sepulcro bajo una estrella y sus discípulos Atanasio y Teodoro. Es la gran obra del <b>barroco gallego</b>.</p><p>Delante, una doble escalera del siglo XVII, de Ginés Martínez, rodea la entrada a la cripta románica, la llamada «Catedral Vieja».</p><p class=\"dato\"><span>¿Sabías que…?</span>El Obradoiro aparece en el reverso de las monedas españolas de 1, 2 y 5 céntimos de euro.</p>"
+    },
+    "ver_alli": [
+     "Mírala desde el centro de la plaza del Obradoiro: Santiago peregrino en lo alto, entre las dos torres.",
+     "Los grandes ventanales que iluminan el Pórtico de la Gloria.",
+     "La doble escalera y, bajo ella, la puerta de la cripta."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Fachada_del_Obradoiro",
+     "https://audiala.com/es/espana/santiago-de-compostela/fachada-del-obradoiro/",
+     "https://www.openstreetmap.org/?mlat=42.8805&mlon=-8.5458#map=18/42.8805/-8.5458",
+     "https://www.google.com/maps/place/?q=place_id:ChIJBbvqHQD_Lg0R6IqbCVlWZIg"
+    ]
+   }
+  },
+  {
+   "id": "hostal-dos-reis-catolicos",
+   "campos": {
+    "lat": 42.8814,
+    "lon": -8.5459,
+    "estilo": "Gótico tardío y plateresco, con patios renacentistas y barrocos",
+    "texto": {
+     "general": "<p>Tras visitar Santiago en 1486, los Reyes Católicos decidieron levantar un gran <b>hospital para los peregrinos</b>. En <b>1499</b> le asignaron parte de las rentas del Voto de Santiago, y el arquitecto real <b>Enrique Egas</b> lo trazó y dirigió las obras entre 1501 y 1511. Ocupa el lado norte de la plaza del Obradoiro.</p><p>Su <b>portada plateresca</b>, contratada en 1519 con los maestros franceses Martín de Blas y Guillén Colás, muestra a Adán y Eva, santos, los doce apóstoles y medallones de Isabel y Fernando. En 1678 se le añadió encima un gran balcón barroco. La capilla real conserva una reja del siglo XVI.</p><p>Tiene <b>cuatro patios</b> en cruz griega: los dos renacentistas del proyecto original y dos barrocos del siglo XVIII. Fue hospital hasta 1953 y después hotel; hoy es el Parador de Santiago.</p>"
+    },
+    "ver_alli": [
+     "La portada plateresca, con Adán y Eva abajo y los medallones de los Reyes Católicos.",
+     "Los patios renacentistas de San Juan y San Marcos.",
+     "Las cadenas sobre pilares que cierran el espacio ante la fachada."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Hospital_de_los_Reyes_Cat%C3%B3licos",
+     "https://www.openstreetmap.org/?mlat=42.8815&mlon=-8.5459#map=18/42.8815/-8.5459",
+     "https://www.google.com/maps/place/?q=place_id:ChIJSWDGRgD_Lg0RKgdg0HGHRII"
+    ]
+   }
+  },
+  {
+   "id": "san-martin-pinario",
+   "campos": {
+    "lat": 42.882,
+    "lon": -8.5443,
+    "estilo": "Renacimiento y barroco",
+    "texto": {
+     "general": "<p>Frente a la fachada de la Azabachería de la catedral se extiende uno de los mayores monasterios de España: ocupa 2,2 hectáreas. Fundado a finales del siglo X y benedictino desde comienzos del XII, se <b>reconstruyó por completo desde la última década del siglo XVI</b>, con trazas de Mateo López, y fue durante la Edad Moderna uno de los grandes poderes eclesiásticos de Galicia.</p><p>La <b>iglesia</b>, terminada en 1652, tiene una sola nave con capillas y una cúpula en el crucero. Dentro destacan la <b>sillería del coro</b>, tallada por Mateo de Prado entre 1639 y 1647, y los retablos del crucero, obra de <b>Fernando de Casas Novoa</b>, uno de los conjuntos más espléndidos del barroco. El gran claustro procesional, empezado en 1636, lo terminó Casas Novoa en 1743.</p><p>Tras la desamortización de 1835 pasó a ser oficinas del Estado y, desde 1868, seminario. Hoy es seminario, hospedería y <b>museo de arte sacro</b>, con la botica, la imprenta y el antiguo coro de la catedral.</p>"
+    },
+    "ver_alli": [
+     "La fachada-retablo de la iglesia, con San Martín partiendo su capa en lo alto.",
+     "La sillería del coro y los retablos barrocos de Casas Novoa.",
+     "En el museo, la botica, la antigua imprenta y el coro renacentista de la catedral."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Mart%C3%ADn_Pinario",
+     "https://www.openstreetmap.org/?mlat=42.8821&mlon=-8.5443#map=18/42.8821/-8.5443",
+     "https://www.google.com/maps/place/?q=place_id:ChIJN02meET-Lg0RlGhqMFllo34"
+    ]
+   }
+  },
+  {
+   "id": "colegio-de-fonseca",
+   "campos": {
+    "lat": 42.8794,
+    "lon": -8.5452,
+    "estilo": "Renacimiento (plateresco)",
+    "texto": {
+     "general": "<p>El arzobispo <b>Alonso III de Fonseca</b> mandó levantar este colegio en la casa familiar donde había nacido, para reunir los estudios universitarios que estaban dispersos por la ciudad. Las obras se hicieron en la primera mitad del siglo XVI, con trazas de Juan de Álava, y el colegio empezó a funcionar en <b>1544</b>. Fue el núcleo de la Universidad de Santiago.</p><p>La <b>portada</b> renacentista, en dos cuerpos, muestra el escudo de los Fonseca rodeado de los Doctores de la Iglesia. Dentro, el <b>claustro</b> de Gil de Hontañón, muy elegante, está recorrido por una larga inscripción. A la derecha de la entrada se abre una capilla gótica.</p><p>Hoy es la Biblioteca General de la Universidad y acoge exposiciones en la capilla y en el salón artesonado.</p>"
+    },
+    "ver_alli": [
+     "El claustro y la inscripción que lo recorre bajo la cornisa.",
+     "La portada con el escudo de los Fonseca.",
+     "El salón artesonado y la capilla, cuando hay exposiciones; el acceso al claustro suele ser libre."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Colegio_de_Santiago_Alfeo",
+     "https://www.santiagoturismo.com/monumentos/colexio-de-fonseca-3",
+     "https://www.openstreetmap.org/?mlat=42.8794&mlon=-8.5452#map=18/42.8794/-8.5452",
+     "https://www.google.com/maps/place/?q=place_id:ChIJCYOKWUH-Lg0R6jAM5J3V3WE"
+    ]
+   }
+  },
+  {
+   "id": "arsenal-de-ferrol",
+   "campos": {
+    "lat": 43.4782,
+    "lon": -8.2404,
+    "estilo": "Arquitectura ilustrada (neoclásica)",
+    "texto": {
+     "general": "<p>A mediados del siglo XVIII la Corona decidió convertir Ferrol en la gran base naval del Cantábrico. El primer proyecto del arsenal lo diseñó en 1747 Cosme Álvarez y se aprobó en <b>1750</b>, en tiempos de Fernando VI y del marqués de la Ensenada; después lo modificó <b>Jorge Juan</b>, con ingenieros como Sánchez Bort.</p><p>El arsenal es la materialización del ideal <b>ilustrado</b>: una dársena para 70 navíos de línea, con diques, almacenes y talleres, donde todo responde al orden, la utilidad y la ciencia. Su pieza más monumental es la <b>Puerta del Dique</b>. Al mismo tiempo creció la ciudad: el barrio de la Magdalena, con sus calles rectas en cuadrícula, cuyo plan se aprobó en 1761, es uno de los mejores ejemplos del urbanismo de la Ilustración.</p><p>Sigue siendo base de la Armada y astillero de Navantia. Su historia se cuenta en el <b>Museo Naval</b> y en el Museo de la Construcción Naval (Exponav), en antiguos edificios del propio arsenal.</p>"
+    },
+    "ver_alli": [
+     "La Puerta del Dique, la entrada monumental del arsenal.",
+     "El barrio de la Magdalena, con su trazado en cuadrícula, a pocos pasos.",
+     "El interior solo se visita con visitas guiadas en fechas concretas; el Museo Naval y Exponav lo explican."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Arsenal_de_Ferrol",
+     "https://blog.turismo.gal/ferrol-boasts-about-the-legacy-of-illustration/",
+     "https://www.openstreetmap.org/?mlat=43.4782&mlon=-8.2404#map=18/43.4782/-8.2404",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ1fQDzxV2Lg0Rs17YlttxDiw"
+    ]
+   }
+  }
+ ]
+}

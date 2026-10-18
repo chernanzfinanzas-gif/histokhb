@@ -1,0 +1,1472 @@
+{
+ "zona": "Madrid",
+ "nuevos": [
+  {
+   "id": "catedral-de-la-almudena",
+   "nombre": "Catedral de la Almudena",
+   "provincia": "Madrid",
+   "comarca": "Madrid (barrio de Palacio)",
+   "lat": 40.4157,
+   "lon": -3.7146,
+   "tipo": "iglesia",
+   "estilo": "Neoclásico por fuera, neogótico por dentro, cripta neorrománica",
+   "epoca": "Siglo XX",
+   "anio": 1993,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Madrid tardó más de un siglo en tener catedral. <b>Alfonso XII</b> puso la primera piedra el <b>4 de abril de 1883</b>, sobre un proyecto neogótico de <b>Francisco de Cubas</b>; en <b>1911</b> se abrió al culto la cripta, y después las obras se arrastraron entre parones, una guerra y la falta de dinero. En 1950 <b>Fernando Chueca Goitia</b> y <b>Carlos Sidro</b> ganaron el concurso para terminarla y le dieron un exterior <b>neoclásico</b> que dialoga con el Palacio Real, justo enfrente. La consagró el papa <b>Juan Pablo II</b> el <b>15 de junio de 1993</b>.</p><p>El resultado es una mezcla curiosa: fachada clásica, naves <b>neogóticas</b> y una cripta <b>neorrománica</b> con más de cuatrocientas columnas, cada una con un capitel distinto. Rompe además la costumbre de orientar los templos hacia el este: mira de <b>norte a sur</b>, porque se concibió como parte del conjunto del palacio.</p><p>Dentro guarda piezas mucho más antiguas que el edificio: la talla gótica de la <b>Virgen de la Almudena</b> y un retablo de <b>Juan de Borgoña</b> de finales del siglo XV, además de un Cristo crucificado de <b>Juan de Mesa</b> (1620). El ábside se decoró en 2004 con pinturas y vidrieras de <b>Kiko Argüello</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>Una de sus torres se llama «de los Gallegos», porque sus campanas las donaron gallegos de Madrid.</p>"
+   },
+   "ver_alli": [
+    "La fachada principal, frente al Palacio Real, y los apóstoles de la cúpula, de Luis Sanguino.",
+    "El retablo de Juan de Borgoña y la imagen gótica de la Virgen de la Almudena.",
+    "El techo de la nave, de colores geométricos, y las pinturas del ábside.",
+    "La cripta, con su bosque de columnas de capiteles todos diferentes."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_de_la_Almudena",
+    "https://www.openstreetmap.org/search?query=Catedral%20de%20la%20Almudena%20Madrid"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-la-encarnacion",
+   "nombre": "Real Monasterio de la Encarnación",
+   "provincia": "Madrid",
+   "comarca": "Madrid (barrio de Palacio)",
+   "lat": 40.42,
+   "lon": -3.7115,
+   "tipo": "iglesia",
+   "estilo": "Barroco temprano de fachada herreriana",
+   "epoca": "Barroco",
+   "anio": 1616,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Lo fundó la reina <b>Margarita de Austria</b>, esposa de <b>Felipe III</b>, para monjas agustinas, junto al antiguo Alcázar de Madrid. La obra se hizo entre <b>1611 y 1616</b>, pero la reina murió en octubre de 1611 sin verla acabada. La trazó el carmelita <b>fray Alberto de la Madre de Dios</b>, y su fachada, sobria y de raíz herreriana, se tiene por uno de los modelos de las primeras formas barrocas de Castilla.</p><p>En el siglo XVIII <b>Ventura Rodríguez</b> renovó el interior de la iglesia, con capiteles jónicos y bóvedas de casetones, y le dio un tabernáculo considerado obra maestra. Los frescos de la capilla mayor son de <b>Francisco Bayeu</b>, y el retablo mayor tiene una Anunciación de <b>Vicente Carducho</b>.</p><p>El monasterio guarda pintura y escultura de primera: obras de <b>Bernardino Luini</b>, <b>Lucas Jordán</b>, <b>Pedro de Mena</b> o <b>Gregorio Fernández</b>, autor de un Cristo yacente. Pero lo más famoso es su <b>relicario</b>, con numerosas reliquias.</p><p class=\"dato\"><span>¿Sabías que…?</span>En el relicario hay una ampolla que, según la tradición, contiene sangre de <b>san Pantaleón</b>, y que se licúa cada 27 de julio.</p>"
+   },
+   "ver_alli": [
+    "La fachada de la iglesia, austera, en la plaza de la Encarnación.",
+    "Dentro, el tabernáculo de Ventura Rodríguez y los frescos de Bayeu.",
+    "En la visita al monasterio, el relicario y el Cristo yacente de Gregorio Fernández."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Real_Monasterio_de_la_Encarnación_(Madrid)",
+    "https://www.openstreetmap.org/search?query=Real%20Monasterio%20de%20la%20Encarnación%20Madrid"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-thyssen-bornemisza",
+   "nombre": "Museo Thyssen-Bornemisza",
+   "provincia": "Madrid",
+   "comarca": "Madrid (paseo del Prado)",
+   "lat": 40.4162,
+   "lon": -3.6949,
+   "tipo": "museo",
+   "estilo": "Pintura europea del siglo XIII al XX",
+   "epoca": "Renacimiento",
+   "anio": 1992,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Este museo, vecino del Prado, nació de una colección privada: la que reunieron los barones <b>Thyssen-Bornemisza</b>. Abrió el <b>8 de octubre de 1992</b> en el <b>palacio de Villahermosa</b>, un edificio del siglo XVIII que <b>Rafael Moneo</b> reformó por dentro con salas en torno a un atrio y luz natural cenital. En <b>1993</b> el Estado compró 775 obras por <b>350 millones de dólares</b>.</p><p>Su gran virtud es completar lo que le falta al Prado: va desde los primitivos italianos del siglo XIII, como <b>Duccio</b>, hasta el arte de los años ochenta. Aquí está el único <b>Jan van Eyck</b> de España, un Durero, el <b>Enrique VIII</b> de Holbein, Caravaggio, Rembrandt y, ya en la época contemporánea, impresionistas, expresionistas alemanes, vanguardias y pintura estadounidense como la <b>Habitación de hotel</b> de Hopper.</p><p>Desde 2004 una ampliación acoge además la colección de <b>Carmen Thyssen</b>, que se expone en préstamo, y las exposiciones temporales.</p>"
+   },
+   "ver_alli": [
+    "El díptico de la Anunciación de Jan van Eyck, el único del pintor en España.",
+    "El retrato de Enrique VIII de Holbein y la Santa Catalina de Caravaggio.",
+    "Las salas de impresionistas y la pintura norteamericana, con Hopper y O'Keeffe."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_Thyssen-Bornemisza",
+    "https://www.openstreetmap.org/search?query=Museo%20Thyssen-Bornemisza"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-sorolla",
+   "nombre": "Museo Sorolla",
+   "provincia": "Madrid",
+   "comarca": "Madrid (Chamberí)",
+   "lat": 40.4354,
+   "lon": -3.6925,
+   "tipo": "museo",
+   "estilo": "Casa-museo del pintor",
+   "epoca": "Siglo XX",
+   "anio": 1911,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Es la casa donde vivió y pintó <b>Joaquín Sorolla</b>. La levantó el arquitecto <b>Enrique María Repullés</b> y la familia se instaló en <b>1911</b>. Su esposa, <b>Clotilde García del Castillo</b>, legó en su testamento de 1925 la casa y las obras al Estado; el museo se inauguró el <b>11 de junio de 1932</b>.</p><p>Conserva el ambiente de hogar y taller: el gran estudio con sus caballetes, los salones y los objetos de la familia. Y sobre todo los cuadros: más de mil doscientas pinturas del propio Sorolla, entre ellas la luminosa <b>Paseo a orillas del mar</b>, <b>El baño del caballo</b> o <b>Madre</b>, además de miles de dibujos.</p><p>El <b>jardín</b> lo diseñó el propio pintor, inspirado en la <b>Alhambra</b> y el <b>Alcázar de Sevilla</b>, con fuentes, azulejos y plantas traídas de Andalucía: un rincón andaluz en pleno Madrid.</p>"
+   },
+   "ver_alli": [
+    "El jardín andalusí, con sus fuentes y azulejos, antes de entrar.",
+    "El estudio del pintor, con sus pinceles y caballetes.",
+    "Paseo a orillas del mar y El baño del caballo, dos de sus cuadros más célebres."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_Sorolla",
+    "https://www.openstreetmap.org/search?query=Museo%20Sorolla%20Madrid"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-lazaro-galdiano",
+   "nombre": "Museo Lázaro Galdiano",
+   "provincia": "Madrid",
+   "comarca": "Madrid (barrio de Salamanca)",
+   "lat": 40.437,
+   "lon": -3.6858,
+   "tipo": "museo",
+   "estilo": "Colección privada de arte en un palacete",
+   "epoca": "Renacimiento",
+   "anio": 1951,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p><b>José Lázaro Galdiano</b>, editor y coleccionista, reunió en su palacete de <b>Parque Florido</b> una colección asombrosa. Al morir en <b>1947</b> la legó al Estado, junto con la casa y una biblioteca de unos 20.000 volúmenes, y el museo abrió el <b>27 de enero de 1951</b>. Tiene más de <b>12.600 piezas</b>.</p><p>La pintura es lo más llamativo. De <b>Goya</b> guarda <b>Las brujas</b> y <b>El aquelarre</b>, pintados en 1797-1798 para los duques de Osuna, y de <b>El Bosco</b> un <b>San Juan Bautista en meditación</b>. Hay también obras de El Greco, Zurbarán y Murillo, y una tabla del taller de Leonardo, el <b>Salvador adolescente</b>, considerada la mejor obra leonardesca de España.</p><p>Visitarlo es entrar en la casa de un gran coleccionista, que fue también editor: su editorial se llamaba La España Moderna.</p>"
+   },
+   "ver_alli": [
+    "El aquelarre de Goya, con el gran macho cabrío rodeado de brujas.",
+    "El San Juan Bautista de El Bosco.",
+    "Las salas del palacete de Parque Florido, que fue la casa del coleccionista."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_Lázaro_Galdiano",
+    "https://www.openstreetmap.org/search?query=Museo%20Lázaro%20Galdiano"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "real-academia-de-bellas-artes-de-san-fernando",
+   "nombre": "Real Academia de Bellas Artes de San Fernando",
+   "provincia": "Madrid",
+   "comarca": "Madrid (calle de Alcalá)",
+   "lat": 40.4178,
+   "lon": -3.7007,
+   "tipo": "museo",
+   "estilo": "Palacio barroco reformado al gusto neoclásico",
+   "epoca": "Ilustración y Neoclásico",
+   "anio": 1752,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>La Academia se fundó el <b>12 de abril de 1752</b> bajo el patrocinio de <b>Fernando VI</b>, para enseñar pintura, escultura y arquitectura según las normas académicas de la Ilustración. Desde <b>1773</b> ocupa el <b>palacio de Goyeneche</b>, en la calle de Alcalá, obra barroca de <b>José de Churriguera</b> a la que <b>Diego de Villanueva</b> quitó los adornos para darle un aire neoclásico.</p><p>Su museo es una de las grandes pinacotecas de Madrid. Tiene trece pinturas de <b>Goya</b>, que fue académico y profesor de la casa: entre ellas <b>El entierro de la sardina</b>, el retrato de la actriz <b>La Tirana</b> y un autorretrato de 1815. Hay además los frailes mercedarios de <b>Zurbarán</b>, obras de <b>Rubens</b> y <b>La Primavera</b> de <b>Arcimboldo</b>, la única suya en un museo español.</p><p>En el mismo edificio está la <b>Calcografía Nacional</b>, que guarda planchas de grabado originales de Goya.</p>"
+   },
+   "ver_alli": [
+    "El entierro de la sardina y los demás Goyas de la colección.",
+    "La Primavera de Arcimboldo, un rostro hecho de flores.",
+    "La sala de la Calcografía con las planchas grabadas por Goya."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Real_Academia_de_Bellas_Artes_de_San_Fernando",
+    "https://www.openstreetmap.org/search?query=Real%20Academia%20de%20Bellas%20Artes%20de%20San%20Fernando"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "puente-de-segovia",
+   "nombre": "Puente de Segovia",
+   "provincia": "Madrid",
+   "comarca": "Madrid (Manzanares)",
+   "lat": 40.414,
+   "lon": -3.7229,
+   "tipo": "monumento",
+   "estilo": "Herreriano",
+   "epoca": "Renacimiento",
+   "anio": 1584,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Lo mandó construir <b>Felipe II</b> y lo trazó <b>Juan de Herrera</b>, el arquitecto de El Escorial, entre <b>1582 y 1584</b>, para dar paso al camino de Segovia sobre el <b>Manzanares</b>. Tiene <b>nueve arcos</b> de medio punto. Ya en 1345 y 1346 Alfonso XI había autorizado un puente en este paso.</p><p>Su grandeza contrastaba tanto con el escaso caudal del río que los escritores del Siglo de Oro se burlaron sin piedad. Quevedo, Góngora, Tirso y <b>Lope de Vega</b> le dedicaron versos; Lope hace hablar al propio río: «¡Quítenme aquesta puente que me mata, / señores regidores de la Villa!».</p><p>En <b>noviembre de 1936</b> el Gobierno republicano lo voló para frenar el avance de las tropas sublevadas sobre Madrid. Tras la guerra se reconstruyó, algo más ancho que el original.</p>"
+   },
+   "ver_alli": [
+    "Los nueve arcos, mejor vistos desde los paseos de Madrid Río.",
+    "Desde el puente, la vista de la cornisa con la Almudena y el Palacio Real."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Puente_de_Segovia",
+    "https://www.openstreetmap.org/search?query=Puente%20de%20Segovia%20Madrid"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "casa-y-torre-de-los-lujanes",
+   "nombre": "Casa y Torre de los Lujanes",
+   "provincia": "Madrid",
+   "comarca": "Madrid (plaza de la Villa)",
+   "lat": 40.4152,
+   "lon": -3.7101,
+   "tipo": "monumento",
+   "estilo": "Mudéjar",
+   "epoca": "Mudéjar",
+   "anio": 1494,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En la <b>plaza de la Villa</b>, el corazón del Madrid medieval, se alza uno de los edificios civiles más antiguos de la ciudad. La <b>torre</b> se fecha a principios del siglo XV y la casa a finales de ese siglo; <b>Juan de Luján</b> la reconstruyó en <b>1494</b>. Pedro de Luján, camarero del rey, había comprado la casa, y sus descendientes vivieron en ella durante generaciones.</p><p>Es de estilo <b>mudéjar</b>, y en la fachada de la calle del Codo conserva una <b>puerta de arco de herradura</b>. Desde 1858 el edificio ha acogido distintas instituciones, entre ellas la Real Academia de Ciencias Morales y Políticas.</p><p class=\"dato\"><span>¿Sabías que…?</span>Una tradición cuenta que el rey <b>Francisco I de Francia</b> estuvo preso en esta torre tras ser capturado en la batalla de Pavía (1525), pero no hay documentos que lo confirmen.</p>"
+   },
+   "ver_alli": [
+    "La torre de ladrillo y la puerta de herradura de la calle del Codo.",
+    "Alrededor, el resto de la plaza de la Villa, centro del Madrid medieval."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Casa_y_Torre_de_los_Lujanes",
+    "https://www.openstreetmap.org/search?query=Casa%20y%20Torre%20de%20los%20Lujanes"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "capilla-del-obispo",
+   "nombre": "Capilla del Obispo",
+   "provincia": "Madrid",
+   "comarca": "Madrid (plaza de la Paja)",
+   "lat": 40.4125,
+   "lon": -3.7116,
+   "tipo": "iglesia",
+   "estilo": "Gótico tardío y plateresco",
+   "epoca": "Renacimiento",
+   "anio": 1535,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Su nombre oficial es capilla de Nuestra Señora y San Juan de Letrán, pero todo Madrid la conoce como <b>capilla del Obispo</b>. La levantaron entre <b>1520 y 1535</b>, junto a la iglesia de San Andrés, los <b>Vargas</b>, la familia para la que, según la tradición, trabajó <b>san Isidro</b>. La impulsó Francisco de Vargas y la terminó su hijo <b>Gutierre de Vargas Carvajal</b>, obispo de Plasencia, de quien le viene el nombre.</p><p>Se construyó para custodiar el cuerpo del santo, que estuvo aquí hasta <b>1544</b>, cuando, tras largos pleitos, pasó a la parroquia de San Andrés. Desde entonces fue panteón de los Vargas. La estructura es <b>gótica</b>, pero la decoración ya es del <b>Renacimiento</b>.</p><p>Su joya es el conjunto que el obispo encargó en <b>1547</b> a <b>Francisco Giralte</b>: el gran <b>retablo mayor</b> y los sepulcros de alabastro de la familia. Tras una larga restauración, volvió a abrirse en 2010.</p>"
+   },
+   "ver_alli": [
+    "El gran retablo mayor de Francisco Giralte.",
+    "Los sepulcros de alabastro de los Vargas, también de Giralte.",
+    "Fuera, la plaza de la Paja y la iglesia de San Andrés, a la que está unida."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Capilla_del_Obispo",
+    "https://www.openstreetmap.org/search?query=Capilla%20del%20Obispo%20Madrid"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "chinchon",
+   "nombre": "Chinchón y su Plaza Mayor",
+   "provincia": "Madrid",
+   "comarca": "Chinchón (Las Vegas)",
+   "lat": 40.1401,
+   "lon": -3.4225,
+   "tipo": "poblacion",
+   "estilo": "Plaza porticada castellana",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>La <b>Plaza Mayor de Chinchón</b> es una de las plazas porticadas más bonitas de Castilla. Las primeras casas con soportales y balcones se levantaron en el <b>siglo XV</b>, y la plaza quedó cerrada del todo en el <b>siglo XVII</b>. Es de forma <b>irregular</b>, rodeada de casas de tres plantas con <b>234 balcones</b> de madera pintados de verde.</p><p>Desde siempre ha sido el escenario de la vida del pueblo: corridas de toros, juegos de cañas, fiestas y representaciones. También del cine: aparece en la escena taurina de <b>La vuelta al mundo en 80 días</b>, y <b>Orson Welles</b> rodó aquí parte de <b>Una historia inmortal</b>. El conjunto histórico se declaró en <b>1974</b>.</p><p>Sobre la plaza se alza la iglesia de la <b>Asunción</b>, comenzada en 1534 con proyecto de Alonso de Covarrubias; su retablo mayor tiene un cuadro de <b>Goya</b>, encargado por su hermano Camilo, capellán de los condes. A las afueras queda el castillo de los condes de Chinchón, de finales del siglo XV.</p><p class=\"dato\"><span>¿Sabías que…?</span>La <b>quina</b>, el árbol cuya corteza combatía las fiebres, se llama en latín <i>Cinchona</i> por una condesa de Chinchón, esposa de un virrey del Perú.</p>"
+   },
+   "ver_alli": [
+    "La plaza entera desde un balcón o desde los soportales.",
+    "La iglesia de la Asunción, con el cuadro de Goya en el altar mayor.",
+    "El castillo de los condes, que se ve desde fuera."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Chinchón",
+    "https://es.wikipedia.org/wiki/Plaza_Mayor_de_Chinchón",
+    "https://www.openstreetmap.org/search?query=Plaza%20Mayor%20Chinchón"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "catedral-magistral-de-alcala",
+   "nombre": "Catedral Magistral de Alcalá de Henares",
+   "provincia": "Madrid",
+   "comarca": "Alcalá de Henares",
+   "lat": 40.4804,
+   "lon": -3.3692,
+   "tipo": "iglesia",
+   "estilo": "Gótico tardío",
+   "epoca": "Gótico",
+   "anio": 1497,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Está dedicada a los <b>Santos Niños Justo y Pastor</b>, dos niños de siete y nueve años que, según la tradición, fueron ejecutados en el año <b>304</b> a las afueras de Complutum durante la persecución de Diocleciano. El arzobispo Carrillo (1446-1482) reconstruyó la iglesia y la hizo colegiata, y en tiempos del cardenal <b>Cisneros</b> recibió el título de <b>Magistral</b>.</p><p>El edificio actual, <b>gótico tardío</b>, se construyó entre <b>1497 y 1515</b>; la torre se levantó después, entre 1528 y 1582, con intervención de <b>Rodrigo Gil de Hontañón</b>. En 1991, al restaurarse la diócesis de Alcalá, pasó a ser catedral-magistral.</p><p>El <b>21 de julio de 1936</b>, al empezar la Guerra Civil, un incendio destruyó casi todo su tesoro. En la cripta se conservan los restos de los santos en una urna de plata y oro de 1702, junto a la piedra de su martirio.</p>"
+   },
+   "ver_alli": [
+    "La torre, que domina la plaza de los Santos Niños.",
+    "La cripta, con la urna de los Santos Niños y la piedra del martirio.",
+    "El interior gótico, sobrio tras el incendio de 1936."
+   ],
+   "fuentes": [
+    "https://es.hispanopedia.com/wiki/Catedral_de_Alcal%C3%A1_de_Henares",
+    "https://www.openstreetmap.org/search?query=Catedral%20Magistral%20Alcalá%20de%20Henares"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-villaviciosa-de-odon",
+   "nombre": "Castillo de Villaviciosa de Odón",
+   "provincia": "Madrid",
+   "comarca": "Villaviciosa de Odón",
+   "lat": 40.3574,
+   "lon": -3.8963,
+   "tipo": "castillo",
+   "estilo": "Palacio-fortaleza herreriano",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1583,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>El primer castillo lo levantaron en <b>1496</b> Andrés de Cabrera y Beatriz de Bobadilla, marqueses de Moya. Durante la revuelta de los <b>Comuneros</b>, en 1521, fue derribado, y en <b>1583</b> Diego Fernández de Cabrera y Bobadilla, conde de Chinchón, encargó su reconstrucción a <b>Juan de Herrera</b>, el arquitecto de El Escorial. Herrera hizo una torre distinta a las demás, lo que da al castillo un perfil asimétrico.</p><p>Es un palacio-fortaleza y ha sido escenario de episodios de la historia de España. El rey <b>Fernando VI</b> se retiró aquí en 1758, tras la muerte de su esposa Bárbara de Braganza, y aquí murió al año siguiente. En 1808, tras el motín de Aranjuez, estuvo encerrado entre sus muros <b>Manuel Godoy</b>.</p><p>En el siglo XVIII lo restauró <b>Ventura Rodríguez</b>. El Estado lo compró en 1965 y desde <b>1972</b> alberga el <b>Archivo Histórico del Ejército del Aire</b>.</p>"
+   },
+   "ver_alli": [
+    "El perfil asimétrico que le dio Herrera, con una torre distinta de las demás.",
+    "Los parques que lo rodean, buenos para verlo desde fuera."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Villaviciosa_de_Odón",
+    "https://www.openstreetmap.org/search?query=Castillo%20de%20Villaviciosa%20de%20Odón"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "patones-de-arriba",
+   "nombre": "Patones de Arriba",
+   "provincia": "Madrid",
+   "comarca": "Patones (Sierra Norte)",
+   "lat": 40.866,
+   "lon": -3.493,
+   "tipo": "poblacion",
+   "estilo": "Arquitectura negra de pizarra",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p><b>Patones de Arriba</b> es el mejor ejemplo de <b>arquitectura negra</b> de la Comunidad de Madrid: casi todas sus casas están levantadas con <b>pizarra</b>, el material que daba el terreno. El conjunto fue declarado <b>Bien de Interés Cultural en 1999</b>.</p><p>Su aislamiento alimentó una leyenda famosa: la del <b>rey de Patones</b>. Antonio Ponz la recogió en 1781: los vecinos se habrían gobernado durante siglos por un linaje hereditario de «reyes». El pueblo dependía de Uceda hasta que en <b>1769</b> obtuvo el título de aldea independiente, y quizá entonces desapareció aquel «reinado».</p><p>A partir de 1960 los vecinos fueron bajando a <b>Patones de Abajo</b>, en el llano, y el pueblo viejo quedó casi vacío; hoy apenas tiene una veintena de habitantes y vive del turismo rural. La antigua iglesia de San José, de mediados del siglo XVII, se dedica a exposiciones.</p>"
+   },
+   "ver_alli": [
+    "Las casas de pizarra negra, todas del mismo material.",
+    "La antigua iglesia de San José, hoy sala de exposiciones.",
+    "Se entra a pie: el coche se deja a la entrada del pueblo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Patones",
+    "https://www.openstreetmap.org/search?query=Patones%20de%20Arriba"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-valdeiglesias",
+   "nombre": "Monasterio de Santa María la Real de Valdeiglesias",
+   "provincia": "Madrid",
+   "comarca": "Pelayos de la Presa",
+   "lat": 40.3655,
+   "lon": -4.3229,
+   "tipo": "iglesia",
+   "estilo": "Románico, gótico, renacentista y barroco",
+   "epoca": "Románico",
+   "anio": 1150,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Fundado en <b>1150</b> bajo la protección de <b>Alfonso VII</b>, este monasterio fue primero benedictino; en <b>1177</b> <b>Alfonso VIII</b> trajo monjes de la Santa Espina (Valladolid) y desde entonces fue <b>cisterciense</b>, el único de origen cisterciense de la Comunidad de Madrid. Del primer momento, <b>románico</b>, quedan el ábside y la nave de la iglesia.</p><p>En el siglo XVI el abad fray Jerónimo Hurtado de Toledo cubrió la iglesia y el claustro con bóvedas de piedra y añadió la galería alta del claustro, y en el XVIII se rehizo la fachada. Tras la <b>desamortización de 1835</b> quedó abandonado y fue expoliado; los incendios y el tiempo hundieron arcos, muros y bóvedas.</p><p>En <b>1974</b> el arquitecto <b>Mariano García Benito</b> compró las ruinas y las protegió durante décadas; en 2004 las cedió a una fundación, que ha consolidado el conjunto. Hoy se visita como una <b>ruina romántica</b> donde conviven todos los estilos de su larga vida.</p>"
+   },
+   "ver_alli": [
+    "El ábside románico de la iglesia, la parte más antigua.",
+    "El claustro, con su galería superior del siglo XVI.",
+    "Las bóvedas hundidas y los muros en pie, que dejan leer las fases del edificio."
+   ],
+   "fuentes": [
+    "https://www.comunidad.madrid/en/file/61532/download",
+    "https://www.infobae.com/espana/2026/06/21/el-monasterio-protegido-mas-antiguo-de-madrid-recibe-la-autorizacion-para-celebrar-bodas-y-conciertos-con-hasta-345-asistentes/",
+    "https://www.openstreetmap.org/search?query=Monasterio%20de%20Santa%20María%20la%20Real%20de%20Valdeiglesias"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-la-magdalena-torrelaguna",
+   "nombre": "Iglesia de Santa María Magdalena de Torrelaguna",
+   "provincia": "Madrid",
+   "comarca": "Torrelaguna (Sierra Norte)",
+   "lat": 40.828,
+   "lon": -3.5379,
+   "tipo": "iglesia",
+   "estilo": "Gótico isabelino",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Sorprende encontrar un templo tan grande en una villa pequeña. La iglesia de la Magdalena se levantó en el <b>siglo XV</b>, sobre otra anterior, y las obras siguieron durante el XVI. Es uno de los mejores ejemplos del <b>gótico isabelino</b> o tardío de la Comunidad de Madrid: tres naves de planta basilical cubiertas con bóvedas de crucería.</p><p>Su gran valedor fue el cardenal <b>Cisneros</b>, natural de Torrelaguna, que remató la obra y contrató al maestro <b>Juan Campero</b> para el campanario. La torre, de tres cuerpos, lleva en lo alto los escudos de la villa y del cardenal.</p><p>La <b>portada de la Resurrección</b>, del siglo XVI, mezcla gótico y Renacimiento y la pagó el arzobispo Fonseca, cuyo escudo luce. Dentro hay retablos platerescos y barrocos; en 2014, al restaurar el retablo renacentista, aparecieron dibujos e inscripciones en su parte trasera. Es monumento desde <b>1983</b>.</p>"
+   },
+   "ver_alli": [
+    "La torre, con los escudos de la villa y de Cisneros.",
+    "La portada de la Resurrección, con el escudo del arzobispo Fonseca.",
+    "Las tres naves con bóvedas de crucería y el retablo mayor."
+   ],
+   "fuentes": [
+    "https://es.hispanopedia.com/wiki/Iglesia_de_la_Magdalena_(Torrelaguna)",
+    "https://www.openstreetmap.org/search?query=Iglesia%20de%20Santa%20María%20Magdalena%20Torrelaguna"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-la-alameda",
+   "nombre": "Castillo de la Alameda",
+   "provincia": "Madrid",
+   "comarca": "Madrid (Barajas)",
+   "lat": 40.4587,
+   "lon": -3.5925,
+   "tipo": "castillo",
+   "estilo": "Castillo bajomedieval",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1431,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En el barrio de la Alameda de Osuna, en el distrito de Barajas, quedan los restos de este castillo, que se levantó entre <b>1431 y 1476</b>. La aldea de La Alameda había pasado a los <b>Mendoza</b> y después, como dote, a la familia <b>Zapata</b>; en 1575 Francisco Zapata y Cisneros fue nombrado primer <b>conde de Barajas</b> y amplió la fortaleza, cuyo foso convirtió en jardín.</p><p>Abandonado con el tiempo, sus piedras se reutilizaron en otras obras. En la Guerra Civil se instaló a su lado un nido de ametralladoras del sistema defensivo republicano de El Capricho, que lo dañó aún más. Hoy conserva dos torres, una cuadrada y otra cilíndrica.</p><p>Las excavaciones, iniciadas en 1996, encontraron también un poblado de la <b>Edad del Bronce</b>, de hacia el 2000 a. C., y restos hasta época romana. Desde 2010 el conjunto está musealizado como parte del <b>Museo de los Orígenes</b> del Ayuntamiento.</p>"
+   },
+   "ver_alli": [
+    "Las dos torres que quedan, cuadrada y redonda, y el foso.",
+    "El centro de interpretación con los hallazgos de las excavaciones.",
+    "El búnker de la Guerra Civil junto al castillo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_La_Alameda",
+    "https://www.openstreetmap.org/search?query=Castillo%20de%20la%20Alameda%20Madrid"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-de-liria",
+   "nombre": "Palacio de Liria",
+   "provincia": "Madrid",
+   "comarca": "Madrid (calle de la Princesa)",
+   "lat": 40.4277,
+   "lon": -3.7124,
+   "tipo": "monumento",
+   "estilo": "Neoclásico",
+   "epoca": "Ilustración y Neoclásico",
+   "anio": 1767,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Es la residencia madrileña de los duques de Alba. Lo empezó a construir hacia <b>1767</b> el duque de Liria, de la familia <b>Berwick</b>, descendiente de un hijo ilegítimo de Jacobo II de Inglaterra. El principal autor fue el francés <b>Louis Guilbert</b>, despedido en 1771, y lo terminó <b>Ventura Rodríguez</b>. La casa de Alba se unió a la de Berwick en 1802.</p><p>El <b>17 de noviembre de 1936</b>, en plena Guerra Civil, un bombardeo lo incendió y solo quedaron en pie las fachadas. Muchas obras de arte se habían puesto a salvo antes. La duquesa <b>Cayetana</b> lo reconstruyó entre 1948 y 1956.</p><p>Desde <b>2019</b> se visita como museo. Guarda la colección de la casa de Alba, con el retrato de la <b>duquesa de Alba vestida de blanco</b> de <b>Goya</b>, y en su biblioteca 21 documentos manuscritos de <b>Cristóbal Colón</b>, entre ellos seis cartas y un dibujo de la costa de La Española.</p>"
+   },
+   "ver_alli": [
+    "La fachada neoclásica y los jardines, desde la calle de la Princesa.",
+    "El retrato de la duquesa de Alba de Goya.",
+    "En la biblioteca, los manuscritos de Colón."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Palacio_de_Liria",
+    "https://www.openstreetmap.org/search?query=Palacio%20de%20Liria"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "silla-de-felipe-ii",
+   "nombre": "Silla de Felipe II",
+   "provincia": "Madrid",
+   "comarca": "San Lorenzo de El Escorial",
+   "lat": 40.5685,
+   "lon": -4.1525,
+   "tipo": "monumento",
+   "estilo": "Rocas talladas en granito",
+   "epoca": "Edad del Hierro",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En la falda de las <b>Machotas</b>, sobre el bosque de La Herrería, un gran canchal de granito tiene tallados <b>asientos, escalones y plataformas</b>. La tradición dice que desde aquí <b>Felipe II</b> vigilaba las obras del monasterio de El Escorial (1563-1584), que se ve enfrente, al otro lado del valle.</p><p>Hoy esa historia está en duda. La historiadora <b>Alicia M. Canto</b> sostuvo que, por la distancia y el ángulo de visión, no pudo servir para seguir las obras, y propuso que es un <b>altar prerromano de los vetones</b>, quizá dedicado a un dios guerrero indígena, para sacrificios de animales. En 2015 aparecieron cerca una figura antropomorfa y altares más pequeños que apoyan la idea. Otros creen que es una recreación romántica del siglo XIX.</p><p>Sea cual sea su origen, es uno de los <b>miradores</b> más visitados de la sierra, con una vista completa del monasterio.</p><p class=\"dato\"><span>¿Sabías que…?</span>Un cuadro de 1890 de esta silla, de Luis Álvarez Catalá, apareció en el reverso de los billetes de cien pesetas entre 1925 y 1939.</p>"
+   },
+   "ver_alli": [
+    "Los tres asientos tallados que miran al norte, hacia el monasterio.",
+    "La vista de El Escorial y del bosque de La Herrería.",
+    "El arce de Montpellier junto a la roca, catalogado como árbol singular."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Silla_de_Felipe_II",
+    "https://www.openstreetmap.org/search?query=Silla%20de%20Felipe%20II"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "real-fabrica-de-tapices",
+   "nombre": "Real Fábrica de Tapices",
+   "provincia": "Madrid",
+   "comarca": "Madrid (Retiro)",
+   "lat": 40.4058,
+   "lon": -3.6825,
+   "tipo": "monumento",
+   "estilo": "Neomudéjar (edificio de 1889-1891)",
+   "epoca": "Ilustración y Neoclásico",
+   "anio": 1720,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>La fundó <b>Felipe V</b> en <b>1720</b>, con el tapicero flamenco <b>Jacobo Vandergoten</b>, de Amberes, y su familia. Su primera sede estuvo junto a la <b>puerta de Santa Bárbara</b>, y por eso se la conoció como fábrica de Santa Bárbara.</p><p>Aquí trabajó <b>Goya</b> como pintor de cartones entre <b>1775 y 1792</b>: pintaba los modelos a tamaño real sobre los que se tejían los tapices. Dejó el trabajo cuando una enfermedad lo dejó sordo.</p><p>El edificio actual, de estilo <b>neomudéjar</b>, lo diseñó <b>José Segundo de Lema</b> a finales del siglo XIX. Tres siglos después de su fundación, la fábrica sigue tejiendo a mano <b>tapices y alfombras</b> y restaurando piezas textiles históricas.</p>"
+   },
+   "ver_alli": [
+    "Los telares en funcionamiento, con artesanos tejiendo a mano.",
+    "Los talleres de restauración de tapices y alfombras antiguas.",
+    "El edificio neomudéjar de la calle Fuenterrabía."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Real_Fábrica_de_Tapices",
+    "https://www.openstreetmap.org/search?query=Real%20Fábrica%20de%20Tapices%20Madrid"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "casa-natal-de-cervantes",
+   "nombre": "Museo Casa Natal de Cervantes",
+   "provincia": "Madrid",
+   "comarca": "Alcalá de Henares",
+   "lat": 40.4822,
+   "lon": -3.3671,
+   "tipo": "museo",
+   "estilo": "Casa castellana del siglo XVI recreada",
+   "epoca": "Renacimiento",
+   "anio": 1547,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En la calle Mayor de Alcalá se recuerda el lugar donde según la tradición nació <b>Miguel de Cervantes</b>, el <b>29 de septiembre de 1547</b>; fue bautizado el 9 de octubre en la antigua iglesia de Santa María. La fecha exacta del nacimiento no es segura, pero sí que el autor del Quijote era alcalaíno.</p><p>La casa actual se levantó en <b>1956</b>, al estilo de las casas castellanas tradicionales, y recrea las estancias de una familia acomodada de los siglos XVI y XVII, alrededor de un <b>patio</b>. Hay piezas relacionadas con la medicina, el oficio de su padre, <b>Rodrigo de Cervantes</b>.</p><p>El museo reúne además una colección de <b>ediciones cervantinas</b> desde el siglo XVII hasta hoy.</p>"
+   },
+   "ver_alli": [
+    "El patio, centro de la casa.",
+    "Las estancias recreadas y los objetos de medicina, el oficio de su padre.",
+    "Las ediciones cervantinas antiguas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Casa_natal_de_Cervantes",
+    "https://www.openstreetmap.org/search?query=Museo%20Casa%20Natal%20de%20Cervantes"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "pinilla-neandertales",
+   "campos": {
+    "lat": 40.924,
+    "lon": -3.8082,
+    "estilo": "Yacimiento paleolítico (cuevas y abrigos)",
+    "ver_alli": [
+     "Solo se visita con visitas guiadas por miembros del equipo de investigación, con reserva previa.",
+     "Las cuevas y abrigos del Calvero de la Higuera están en la ladera, junto al embalse de Pinilla.",
+     "En el mismo valle del Lozoya, el Monasterio de El Paular."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Yacimientos_del_Calvero_de_la_Higuera",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "llano-horca",
+   "campos": {
+    "lat": 40.478,
+    "lon": -3.2347,
+    "estilo": "Oppidum carpetano (Edad del Hierro)",
+    "texto": {
+     "general": "<p>En lo alto de un cerro junto a Santorcaz se alzaba El <b>Llano de la Horca</b>, una ciudad fortificada (<i>oppidum</i>) de los <b>carpetanos</b>, el pueblo prerromano que ocupaba buena parte de la actual Comunidad de Madrid. Tenía unas 14 hectáreas y estuvo habitada entre mediados del siglo III y mediados del I a. C., sobre una ocupación más antigua de la Edad del Bronce.</p><p>Sus excavaciones son de las que mejor han permitido conocer cómo eran las casas y el urbanismo de los carpetanos. Entre los hallazgos destaca el «<b>Vaso de los Caballos</b>», una cerámica decorada con caballos, y una <b>vajilla de bronce de época tardorrepublicana</b> —cazos y simpula—, testimonio del contacto con el mundo romano en los últimos tiempos del poblado.</p>"
+    },
+    "ver_alli": [
+     "El yacimiento está al norte del pueblo, al otro lado de la carretera M-213; se llega a pie por un camino agrícola.",
+     "Los restos visibles son modestos: muros de casas a ras de suelo. Conviene consultar antes las condiciones de visita.",
+     "Alcalá de Henares, con Complutum y el Museo Arqueológico y Paleontológico regional, queda cerca."
+    ],
+    "fuentes": [
+     "https://comunidad.madrid/en/cultura/patrimonio-cultural/asentamiento-carpetano-llano-horca-santorcaz",
+     "https://es.wikipedia.org/wiki/Carpetanos",
+     "https://en.wikipedia.org/wiki/Santorcaz",
+     "https://webs.ucm.es/info/arqueoweb/pdf/16/04Mendez.pdf",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "complutum",
+   "campos": {
+    "lat": 40.474,
+    "lon": -3.3844,
+    "estilo": "Romano",
+    "texto": {
+     "general": "<p><b>Complutum</b> es la ciudad romana de la que nació Alcalá de Henares. Se construyó en el llano junto al Henares en el siglo I d. C., cuando la población del viejo poblado del cerro del Viso bajó a una zona más fértil y mejor comunicada, y se reformó mucho en el siglo III. Era un cruce de caminos: el Itinerario de Antonino la sitúa en la vía de Mérida a Zaragoza.</p><p>En el <b>foro</b>, el corazón de la ciudad, se han excavado una <b>basílica</b>, la curia, unas termas y pórticos con tiendas. Se conocen hasta cinco decumanos y un cardo, aunque media ciudad quedó destruida entre 1970 y 1974 al construirse el barrio de Reyes Católicos. Desde 2008 el foro se visita como museo al aire libre.</p><p>Muy cerca está la <b>Casa de Hippolytus</b>, sede del colegio de jóvenes de Complutum, con estancias dedicadas al ocio. Su sala mayor conserva un gran <b>mosaico con una escena de pesca</b>, firmado por <b>Hippolytus</b>, un maestro mosaísta probablemente norteafricano. Un edificio moderno la protege y se recorre por pasarelas elevadas.</p>"
+    },
+    "ver_alli": [
+     "Son dos visitas separadas: el foro, en el camino del Juncal, y la Casa de Hippolytus, a algo más de medio kilómetro, junto a la avenida de Madrid.",
+     "En la Casa de Hippolytus, el mosaico de los peces se contempla desde las pasarelas.",
+     "El Museo Arqueológico y Paleontológico regional, en el centro de Alcalá, expone mosaicos de casas de Complutum."
+    ],
+    "fuentes": [
+     "https://www.miradormadrid.com/?p=21223",
+     "https://es.wikipedia.org/wiki/Complutum",
+     "https://es.wikipedia.org/wiki/Casa_de_Hippolytus",
+     "https://es.wikipedia.org/wiki/Museo_Arqueológico_y_Paleontológico_de_la_Comunidad_de_Madrid",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "dehesa-oliva",
+   "campos": {
+    "lat": 40.8835,
+    "lon": -3.451,
+    "estilo": "Poblado carpetano y ciudad romana",
+    "texto": {
+     "general": "<p>En el <b>cerro de la Oliva</b>, donde el Lozoya se junta con el Jarama, hubo un poblado prerromano de los <b>carpetanos</b> que, tras la conquista romana, se transformó en una <b>ciudad planificada</b>, con calles en cuadrícula, conducciones de agua y edificios públicos. Tres laderas eran defensas naturales, y solo la cara sur, la más accesible, necesitó muralla. Se abandonó de forma pacífica a comienzos del siglo I d. C.</p><p>El cerro dominaba la ruta hacia la Meseta Norte por el puerto de Somosierra y se ocupó en muchas épocas, desde la Prehistoria reciente hasta la Edad Moderna. En la Antigüedad tardía se usó como <b>necrópolis</b>, y en su entorno se han documentado antiguas explotaciones de cobre y estaño.</p>"
+    },
+    "ver_alli": [
+     "Se sube a pie por un sendero en cuesta, sin sombra, desde la zona de la presa del Pontón de la Oliva.",
+     "En la cima se ven los cimientos de casas y calles de la ciudad.",
+     "Desde arriba se domina la confluencia del Lozoya y el Jarama."
+    ],
+    "fuentes": [
+     "https://comunidad.madrid/en/cultura/patrimonio-cultural/necropolis-tardoantigua-dehesa-oliva",
+     "https://www.visitmadrid.es/donde-ir/villas-madrid/patones",
+     "https://es.wikipedia.org/wiki/Patones",
+     "https://es.wikipedia.org/wiki/Carpetanos",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-los-mendoza",
+   "campos": {
+    "lat": 40.7272,
+    "lon": -3.8619,
+    "estilo": "Gótico isabelino",
+    "texto": {
+     "general": "<p>Es un <b>palacio-fortaleza</b> levantado por la poderosa Casa de Mendoza al pie de la sierra de Guadarrama, junto al embalse de Santillana. Lo empezó Diego Hurtado de Mendoza, <b>primer duque del Infantado</b>: su testamento demuestra que las obras ya estaban en marcha en junio de 1475. Sustituyó a un castillo anterior de la familia, cuyas ruinas, el castillo viejo, siguen cerca.</p><p>Su hijo Íñigo López de Mendoza retomó las obras hacia 1480, amplió el edificio y llamó a <b>Juan Guas</b>, arquitecto de los Reyes Católicos, a quien se deben la galería del sur, el patio porticado y la rica decoración de torres y almenas. Dentro quedó integrada una iglesia románico-mudéjar anterior. Se considera el precedente del Palacio del Infantado de Guadalajara.</p><p>Gracias a sucesivas restauraciones está en excelente estado y es uno de los castillos mejor conservados de la Comunidad de Madrid. Fue declarado Monumento Histórico-Artístico en 1931 y sigue siendo propiedad del Ducado del Infantado.</p>"
+    },
+    "ver_alli": [
+     "El interior está cerrado a la visita desde 2025; el exterior se ve libremente.",
+     "Fíjate en la galería gótico-isabelina de la fachada sur y en los caballeros que rematan las torres de las esquinas.",
+     "A unos 700 metros quedan las ruinas del castillo viejo de los Mendoza."
+    ],
+    "fuentes": [
+     "https://lamaletainquieta.com/manzanares-el-real/",
+     "https://es.wikipedia.org/wiki/Castillo_de_los_Mendoza",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "muralla-arabe-de-madrid",
+   "campos": {
+    "lat": 40.4149,
+    "lon": -3.7146,
+    "estilo": "Andalusí (siglo IX)",
+    "ver_alli": [
+     "Se ve desde la cuesta de la Vega, a los pies de la catedral de la Almudena.",
+     "El parque del Emir Mohamed I, junto a la muralla, permite acercarse a los lienzos y torres.",
+     "Muy cerca, el Museo de San Isidro explica los orígenes de Madrid."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Muralla_musulmana_de_Madrid",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "buitrago-del-lozoya",
+   "campos": {
+    "lat": 40.9948,
+    "lon": -3.6358,
+    "estilo": "Andalusí y medieval cristiano",
+    "texto": {
+     "general": "<p>Buitrago del Lozoya conserva el <b>recinto amurallado mejor conservado de la Comunidad de Madrid</b>, y el único que se mantiene completo. La muralla, de más de 800 metros de perímetro, se asienta sobre un meandro del río Lozoya —hoy embalse de Puentes Viejas— que la rodea por tres lados como un foso natural.</p><p>Su origen es <b>musulmán</b>: probablemente se levantó entre los siglos IX y XI para vigilar el paso hacia Somosierra. Tras la conquista de Alfonso VI, en el siglo XI, los cristianos la ampliaron y reformaron hasta el siglo XV. Del lado del río basta un adarve bajo de unos 6 metros; en los lados sur y sureste, sin defensa natural, el muro supera los 9 metros y se refuerza con doce torres, una torre albarrana, barbacana, foso, castillo y una coracha que bajaba al agua.</p><p>Desde 1368 la villa fue señorío de los <b>Mendoza</b>, futuros duques del Infantado, y vivió con ellos su época de esplendor en los siglos XV y XVI. Bajo su protección prosperó una importante comunidad judía.</p>"
+    },
+    "ver_alli": [
+     "Entra por la puerta principal, bajo la Torre del Reloj, una torre albarrana pentagonal de 16 metros.",
+     "Se puede subir a un tramo del adarve alto de la muralla.",
+     "Dentro del recinto, la iglesia de Santa María del Castillo; en el ángulo de la muralla, el castillo."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Muralla_de_Buitrago_del_Lozoya",
+     "https://es.wikipedia.org/wiki/Buitrago_del_Lozoya",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-el-paular",
+   "campos": {
+    "lat": 40.8886,
+    "lon": -3.8882,
+    "estilo": "Gótico y gótico-mudéjar",
+    "texto": {
+     "general": "<p>El monasterio de Santa María de El Paular, en el valle del Lozoya, fue la <b>primera cartuja de Castilla</b>. Lo fundó en 1390 Juan I, cumpliendo el deseo de su padre Enrique II, junto a una antigua ermita de Santa María de El Paular que todavía existe. Fue cartuja hasta 1835, y desde 1954 lo habitan monjes benedictinos.</p><p>En sus obras trabajaron grandes maestros: Rodrigo Alfonso, el morisco Abderramán, autor del refectorio gótico-mudéjar, y <b>Juan Guas</b>, que hizo la portada de la iglesia y el claustro. La iglesia guarda un extraordinario <b>retablo de alabastro policromado</b> de finales del siglo XV, con diecisiete escenas bíblicas, una reja del cartujo Francisco de Salamanca y la sillería de nogal tallada en el siglo XVI por Bartolomé Fernández, que volvió a su sitio en 2003.</p><p>Entre 1626 y 1632 <b>Vicente Carducho</b> pintó para el claustro 54 grandes lienzos sobre la vida de san Bruno y la historia de la orden. Tras la desamortización se repartieron por museos; se conservan 52, y han vuelto a colgar en el claustro.</p>"
+    },
+    "ver_alli": [
+     "La visita es guiada y la hacen los propios monjes.",
+     "En la iglesia, el retablo de alabastro del altar mayor y la reja.",
+     "En el claustro, los lienzos de Carducho y el templete gótico octogonal con su fuente."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santa_María_de_El_Paular",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "abside-de-los-milagros",
+   "campos": {
+    "lat": 40.7458,
+    "lon": -3.5134,
+    "estilo": "Románico-mudéjar",
+    "anio": 1250,
+    "texto": {
+     "general": "<p>En la plaza de la Constitución de Talamanca de Jarama se levanta este <b>ábside</b>, único resto de una iglesia construida a <b>mediados del siglo XIII</b>, antes llamada ermita de San Nicolás y conocida popularmente como «El Morabito». Es una muestra del <b>románico-mudéjar</b> o románico de ladrillo, el estilo que desde León se extendió por la Meseta hasta Madrid y Guadalajara, y uno de los pocos restos románicos de la región.</p><p>Talamanca era entonces una villa próspera, cabeza de una amplia comarca del arzobispado de Toledo. Las excavaciones en la plaza han mostrado que el lugar estaba habitado desde antes de los romanos, y bajo el ábside aparecieron restos de otro más pequeño y tumbas de ladrillo anteriores al siglo XIII.</p><p>Es semicircular, con bóveda de horno, y va precedido de un tramo recto con bóveda de cañón. Está hecho de cantos rodados revestidos de ladrillo y se decora por fuera con <b>arcos ciegos doblados en tres alturas</b>, típicos del estilo.</p>"
+    },
+    "ver_alli": [
+     "Está al aire libre, en la plaza de la Constitución, en el centro del pueblo.",
+     "Rodéalo para ver los arcos ciegos de ladrillo en tres pisos.",
+     "Por dentro, una hornacina renacentista ocupa una de las tres ventanas."
+    ],
+    "fuentes": [
+     "https://todosobremadrid.com/que-hacer/abside-de-los-milagros/",
+     "https://es.wikipedia.org/wiki/Ábside_de_los_Milagros",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "santo-domingo-de-pradena-del-rincon",
+   "campos": {
+    "lat": 41.0441,
+    "lon": -3.5419,
+    "estilo": "Románico rural y mudéjar",
+    "texto": {
+     "general": "<p>La iglesia de Santo Domingo de Silos reúne los dos estilos de la <b>repoblación</b> de la sierra en los siglos XII y XIII: el <b>románico rural</b> y el <b>mudéjar</b>. Es uno de los escasos ejemplos con restos románicos importantes de la región madrileña y está declarada Bien de Interés Cultural.</p><p>La nave, de mampostería y con techumbre de madera, es del siglo XII; la cabecera, con ábside semicircular, se rehízo en el XIII. Dentro conserva <b>pinturas murales góticas</b> de la primera mitad del siglo XIV. Por fuera destaca la <b>galería porticada mudéjar de ladrillo</b>, de finales del XIII, el ejemplo más completo y mejor conservado de este tipo de pórticos en la zona.</p><p>Bajo el pórtico se excavó una <b>necrópolis</b> de 64 tumbas antropomorfas talladas en la roca, de los siglos XII al XV, y junto al templo un <b>horno para fundir campanas</b> del siglo XVI con cinco moldes. Tras la restauración, lo hallado se expone en vitrinas en el coro.</p>"
+    },
+    "ver_alli": [
+     "Rodea la iglesia para ver el pórtico mudéjar de ladrillo de la fachada norte.",
+     "Dentro, las pinturas murales góticas de la nave y las vitrinas del coro.",
+     "La necrópolis y el horno de campanas se han adaptado para la visita; el interior suele verse en visitas guiadas o en horario de culto."
+    ],
+    "fuentes": [
+     "https://www.comunidad.madrid/patrimonio-cultural/iglesia-parroquial-santo-domingo-silos-pradena-rincon",
+     "https://es.wikipedia.org/wiki/Iglesia_de_Santo_Domingo_de_Silos_(Prádena_del_Rincón)",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-el-escorial",
+   "campos": {
+    "lat": 40.5891,
+    "lon": -4.1476,
+    "estilo": "Renacimiento herreriano",
+    "ver_alli": [
+     "Recorre la basílica, el Panteón de Reyes y la gran sala de la Real Biblioteca, con su bóveda pintada.",
+     "Desde la lonja se aprecia la fachada sobria y la escala del conjunto, al pie del monte Abantos.",
+     "Los jardines y la huerta del monasterio se abren al valle hacia el sur."
+    ],
+    "fuentes": [
+     "https://www.patrimonionacional.es/visita/real-monasterio-de-san-lorenzo-de-el-escorial",
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Lorenzo_de_El_Escorial",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "plaza-mayor-de-madrid",
+   "campos": {
+    "lat": 40.4155,
+    "lon": -3.7074,
+    "estilo": "Barroco madrileño",
+    "texto": {
+     "general": "<p>En el siglo XVI, fuera de la muralla medieval, aquí se celebraba el mercado principal de la villa, en la llamada plaza del Arrabal. Felipe II encargó su reforma a Juan de Herrera; el primer edificio, la <b>Casa de la Panadería</b>, se empezó en 1590, y <b>Juan Gómez de Mora</b> terminó la plaza en 1619 por encargo de Felipe III.</p><p>Además de mercado, fue escenario de <b>corridas de toros</b>, <b>autos de fe</b> —como el de 1680 que pintó Francisco Rizi—, <b>ejecuciones públicas</b> y de la beatificación de san Isidro, patrón de Madrid. Sufrió tres grandes incendios (1631, 1672 y 1790); tras el último, Juan de Villanueva la reconstruyó, rebajó las casas de cinco a tres plantas y cerró las esquinas con grandes arcos.</p><p>En el centro está desde 1848 la <b>estatua ecuestre de Felipe III</b>, obra de Juan de Bolonia y Pietro Tacca fechada en 1616. Las pinturas de la fachada de la Casa de la Panadería, con figuras mitológicas como Cibeles, son de Carlos Franco (1992).</p>"
+    },
+    "ver_alli": [
+     "En el lado norte, la Casa de la Panadería, con sus pinturas y el escudo de Carlos II.",
+     "Enfrente, en el lado sur, la Casa de la Carnicería.",
+     "En el centro, la estatua ecuestre de Felipe III."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Plaza_Mayor_de_Madrid",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "palacio-real-de-madrid",
+   "campos": {
+    "lat": 40.418,
+    "lon": -3.7143,
+    "estilo": "Barroco tardío y clasicismo",
+    "texto": {
+     "general": "<p>Sobre el solar del viejo <b>Real Alcázar</b>, destruido casi del todo por un incendio en 1734, Felipe V mandó levantar este palacio, aprovechando incluso parte de sus cimientos. Las obras empezaron en 1738 según las trazas de <b>Filippo Juvara</b>; a su muerte las adaptó su discípulo <b>Giovanni Battista Sacchetti</b>, y <b>Francesco Sabatini</b> lo terminó. Carlos III fue el primer rey que vivió en él de forma continua (1764).</p><p>Con 135.000 m² y 3.418 habitaciones es el mayor palacio real de Europa occidental. Es la residencia oficial del rey, aunque la familia real vive en la Zarzuela y aquí se celebran las ceremonias de Estado. El último rey que lo habitó fue Alfonso XIII, y durante la Segunda República vivió en él el presidente Manuel Azaña.</p><p>Sus salones guardan frescos de <b>Tiepolo</b> —el del Salón del Trono—, Corrado Giaquinto y Mengs, pinturas de Caravaggio, Velázquez y Goya, el conjunto de instrumentos conocido como los <b>Stradivarius Palatinos</b> y la Real Armería.</p>"
+    },
+    "ver_alli": [
+     "El Salón del Trono, con la bóveda pintada por Tiepolo.",
+     "La Real Armería, junto a la plaza de la Armería.",
+     "Desde la plaza de la Armería, frente a la catedral de la Almudena, se asoma al Campo del Moro."
+    ],
+    "fuentes": [
+     "https://www.patrimonionacional.es/visita/palacio-real-de-madrid",
+     "https://es.wikipedia.org/wiki/Palacio_Real_de_Madrid",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "museo-del-prado",
+   "campos": {
+    "lat": 40.4138,
+    "lon": -3.6921,
+    "estilo": "Neoclásico",
+    "texto": {
+     "general": "<p>El edificio lo concibió el conde de Floridablanca, ministro de Carlos III, como <b>Real Gabinete de Historia Natural</b>, dentro del plan para convertir el paseo del Prado en un paseo de la ciencia, junto al Jardín Botánico y el Observatorio Astronómico. Lo proyectó <b>Juan de Villanueva</b> hacia 1785, y el rey aprobó el proyecto en 1786; es una de las cimas del neoclasicismo español.</p><p>Las obras se alargaron y el edificio quedó sin uso, hasta que Fernando VII y sobre todo su esposa <b>Isabel de Braganza</b> impulsaron desde 1818 su recuperación como museo de arte. El <b>19 de noviembre de 1819</b> abrió como Museo Real de Pinturas, con 311 cuadros de la escuela española de las colecciones reales.</p><p>Hoy es uno de los grandes museos del mundo, con las mejores colecciones que existen de <b>Velázquez, el Greco, Goya, Tiziano, Rubens y el Bosco</b>. En 2007 se inauguró la ampliación de Rafael Moneo.</p>"
+    },
+    "ver_alli": [
+     "Goya es el artista más representado del museo: dedica tiempo a sus salas.",
+     "Las salas de Velázquez son el corazón de la colección.",
+     "Fíjate en la fachada de Villanueva hacia el paseo del Prado, con su gran pórtico."
+    ],
+    "fuentes": [
+     "https://www.museodelprado.es/visita-museo",
+     "https://es.wikipedia.org/wiki/Museo_del_Prado",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "puerta-de-alcala",
+   "campos": {
+    "lat": 40.42,
+    "lon": -3.6887,
+    "estilo": "Neoclásico",
+    "texto": {
+     "general": "<p>Es una de las cinco antiguas puertas reales de Madrid: por ella entraban los viajeros que llegaban por el camino de Alcalá de Henares, desde Aragón y Francia. Ya había una puerta en este camino desde el siglo XVI, y se rehízo para la entrada en Madrid de la reina Margarita de Austria en 1599.</p><p><b>Carlos III</b>, que había entrado en Madrid el 9 de diciembre de 1759, quiso una puerta nueva que conmemorara su llegada y embelleciera la ciudad. En mayo de 1769 eligió personalmente el proyecto de <b>Francesco Sabatini</b>, frente a los de Ventura Rodríguez y José de Hermosilla, y la obra se terminó en 1778.</p><p>Tiene aspecto de <b>arco de triunfo romano</b>, con unos 44 metros de frente y 22 de alto; su cara exterior, que mira a oriente, lleva diez columnas de granito de Segovia. Fue declarada monumento histórico-artístico en 1976.</p>"
+    },
+    "ver_alli": [
+     "Está en el centro de la rotonda de la plaza de la Independencia; mírala desde las aceras, junto a la entrada del Retiro.",
+     "Compara sus dos caras: la que mira al este, con diez columnas de granito, y la que mira al centro.",
+     "Fíjate en que, a diferencia de los arcos romanos, no lleva el busto del rey."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Puerta_de_Alcalá",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "real-jardin-botanico",
+   "campos": {
+    "lat": 40.4111,
+    "lon": -3.6911,
+    "estilo": "Neoclásico (jardín ilustrado)",
+    "texto": {
+     "general": "<p>Lo fundó <b>Fernando VI en 1755</b> en la huerta de Migas Calientes, junto al Manzanares. <b>Carlos III</b> ordenó trasladarlo al paseo del Prado, al lado del Gabinete de Historia Natural que se estaba construyendo (hoy Museo del Prado), y el nuevo jardín se inauguró en 1781.</p><p>La primera traza, en tres terrazas escalonadas, la hicieron el botánico Casimiro Gómez Ortega y <b>Francesco Sabatini</b>, autor de la Puerta Real del paseo del Prado; entre 1785 y 1789 <b>Juan de Villanueva</b> hizo el proyecto definitivo, con cuadros geométricos y fuentes en las esquinas. Las dos terrazas bajas siguen como se construyeron.</p><p>El jardín recibió las plantas, semillas y dibujos de las grandes <b>expediciones científicas</b> de la Corona: la de Mutis a Nueva Granada, la de Ruiz y Pavón a Perú, la de Sessé y Mociño a Nueva España y la vuelta al mundo de Malaspina. Hoy es un centro del CSIC y su herbario, con cerca de un millón de pliegos, es el más importante de España.</p>"
+    },
+    "ver_alli": [
+     "Recorre las tres terrazas: la de los Cuadros, la de las Escuelas Botánicas y la del Plano de la Flor.",
+     "Los invernaderos: el de Graells, del siglo XIX, y el moderno de Exhibición.",
+     "Se entra por la puerta de la plaza de Murillo; la Puerta Real de Sabatini da al paseo del Prado."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Real_Jardín_Botánico_de_Madrid",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "real-casa-de-correos",
+   "campos": {
+    "lat": 40.4164,
+    "lon": -3.7038,
+    "estilo": "Clasicismo del siglo XVIII",
+    "texto": {
+     "general": "<p>Es el <b>edificio más antiguo de la Puerta del Sol</b>. La idea de una gran casa de correos fue del marqués de la Ensenada hacia 1750; los primeros planos los hizo Ventura Rodríguez, pero desde 1760 la obra pasó al francés <b>Jaime Marquet</b>, que la reorganizó en torno a dos patios. Se terminó en 1768.</p><p>En 1847 se convirtió en <b>Ministerio de la Gobernación</b>, y tras la Guerra Civil fue sede de la Dirección General de Seguridad. Desde la gran reforma de 1996-1998 es la sede de la presidencia de la <b>Comunidad de Madrid</b>.</p><p>Su <b>reloj</b>, del relojero José Rodríguez Losada, se inauguró el 19 de noviembre de 1866, y sus campanadas marcan las doce uvas de Nochevieja. Desde 1856, ante la puerta principal está el <b>kilómetro cero</b>, origen de las carreteras radiales españolas y de la numeración de las calles de Madrid.</p>"
+    },
+    "ver_alli": [
+     "Busca en la acera, ante la puerta principal, la placa del kilómetro cero, rodeada por una rosa de los vientos con las capitales de provincia.",
+     "Arriba, el templete del reloj de las campanadas.",
+     "En la fachada hay tres placas en homenaje a hechos históricos del pueblo madrileño."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Real_Casa_de_Correos",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "san-antonio-de-la-florida",
+   "campos": {
+    "lat": 40.4254,
+    "lon": -3.7256,
+    "estilo": "Neoclásico",
+    "texto": {
+     "general": "<p>Carlos IV encargó al arquitecto italiano <b>Felipe Fontana</b> esta pequeña ermita neoclásica de planta de cruz griega, y él mismo puso la primera piedra en 1792. Sustituía a otra de Sabatini, desmontada ese año por las obras de la Real Posesión de la Florida.</p><p>Entre agosto y diciembre de 1798, <b>Goya</b>, como pintor de cámara, decoró al fresco la cúpula y las bóvedas con un milagro de san Antonio de Padua rodeado de majos y majas del Madrid de su tiempo, que charlan y miran apoyados en una barandilla pintada. En 1919 se trasladaron aquí sus restos desde la Sacramental de San Isidro: la ermita es museo y panteón del pintor.</p><p>Desde 1929 hay dos ermitas gemelas: una conserva los frescos de Goya y la otra se dedica al culto. Cada 13 de junio se celebra junto a ellas la verbena de San Antonio de la Florida.</p>"
+    },
+    "ver_alli": [
+     "Levanta la vista a la cúpula: los personajes se asoman a una barandilla pintada alrededor del milagro.",
+     "La tumba de Goya está en la propia ermita.",
+     "La ermita gemela de al lado es la que se usa para el culto."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Ermita_de_San_Antonio_de_la_Florida",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "san-francisco-el-grande",
+   "campos": {
+    "lat": 40.4105,
+    "lon": -3.7145,
+    "estilo": "Neoclásico",
+    "texto": {
+     "general": "<p>La Real Basílica de San Francisco el Grande ocupa el lugar de un convento que, según la leyenda, fundó el propio san Francisco de Asís en 1217. En 1760 los franciscanos derribaron el viejo templo; el proyecto de Ventura Rodríguez, de 1761, fue rechazado a favor del de fray <b>Francisco Cabezas</b>, una gran rotonda cubierta por una cúpula.</p><p>Por problemas técnicos las obras se pararon en 1768; Antonio Plo concluyó la cúpula en 1770 y, desde 1776, <b>Francesco Sabatini</b> hizo la fachada principal y sus dos torres. Su <b>cúpula</b> se considera la tercera de planta circular de mayor diámetro de la cristiandad. La decoración interior, de estilo ecléctico, es de finales del siglo XIX.</p><p>Guarda una pinacoteca de pintura española de los siglos XVII al XIX, con obras de <b>Zurbarán</b> y de <b>Goya</b>.</p>"
+    },
+    "ver_alli": [
+     "Entra en la gran rotonda y levanta la vista hacia la cúpula.",
+     "Busca en las capillas los cuadros de Goya y de Zurbarán.",
+     "Goya pintó esta cúpula al fondo de su cuadro La pradera de San Isidro (1788)."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Basílica_de_San_Francisco_el_Grande",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "cuartel-del-conde-duque",
+   "campos": {
+    "lat": 40.4277,
+    "lon": -3.7114,
+    "estilo": "Barroco churrigueresco",
+    "texto": {
+     "general": "<p>El 4 de noviembre de 1717 Felipe V ordenó construir un cuartel para sus <b>Reales Guardias de Corps</b>, un cuerpo de élite creado en 1704 para custodiar al rey, con alojamiento para 600 guardias y 400 caballos. El encargo recayó en <b>Pedro de Ribera</b>, maestro mayor de obras de Madrid y el gran arquitecto del barroco madrileño.</p><p>Ribera proyectó un enorme edificio rectangular con tres grandes patios y le dio una <b>portada</b> barroca muy recargada, que los clasicistas del siglo XVIII criticaron con dureza; para darle perspectiva trazó una pequeña plaza delante. En 1869 un incendio destruyó los pisos altos y casi hizo desaparecer la torre, que había servido de prisión de políticos.</p><p>En 1969 dejó de ser cuartel y el Ayuntamiento lo rehabilitó con proyecto de Julio Cano Lasso. Hoy es un centro cultural con el Archivo de Villa, la Biblioteca Histórica, la Hemeroteca Municipal, bibliotecas públicas y el Museo de Arte Contemporáneo, además de exposiciones y conciertos.</p>"
+    },
+    "ver_alli": [
+     "Mira la portada de Pedro de Ribera desde la plaza que él mismo trazó delante.",
+     "Entra en los patios, donde se celebran conciertos y exposiciones.",
+     "Muy cerca, el palacio de Liria y el Museo ABC."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Cuartel_del_Conde-Duque",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "puente-de-toledo",
+   "campos": {
+    "lat": 40.3997,
+    "lon": -3.7149,
+    "estilo": "Barroco churrigueresco",
+    "texto": {
+     "general": "<p>Felipe IV ya quiso unir Madrid con el camino de Toledo mediante un puente sobre el Manzanares, pero las crecidas destruyeron los primeros, de 1649-1660 y de 1680. El actual se encargó a <b>Pedro de Ribera</b> en 1715, y el impulso del corregidor, el marqués de Vadillo, permitió construirlo entre 1718 y 1732.</p><p>Es de estilo <b>barroco churrigueresco</b>, con pilares sobre tajamares piramidales. En el centro tiene dos templetes con las estatuas de los patronos de Madrid, <b>San Isidro Labrador y Santa María de la Cabeza</b>, labradas en piedra caliza en 1723 por Juan Alonso Villabrille y Ron con Luis Salvador Carmona.</p><p>Une la glorieta de Pirámides con la del Marqués de Vadillo, entre los distritos de Arganzuela y Carabanchel. En 1952 el ingeniero Carlos Fernández Casado defendió protegerlo con dos puentes nuevos a los lados: «No cabe tocar el puente de Toledo».</p>"
+    },
+    "ver_alli": [
+     "Cruza el puente a pie y detente ante los templetes centrales con San Isidro y Santa María de la Cabeza.",
+     "Baja a las orillas del Manzanares para ver los arcos y los tajamares piramidales.",
+     "Desde los jardines junto al río se ve en toda su longitud."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Puente_de_Toledo_(Madrid)",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "descalzas-reales",
+   "campos": {
+    "lat": 40.4183,
+    "lon": -3.7062,
+    "estilo": "Renacimiento",
+    "texto": {
+     "general": "<p>El monasterio de las <b>Descalzas Reales</b>, de monjas clarisas, lo fundó en 1559 <b>Juana de Austria</b>, hermana de Felipe II, viuda del príncipe Juan Manuel de Portugal y madre del rey don Sebastián. Lo instaló en el antiguo palacio del tesorero imperial Alonso Gutiérrez, donde se alojaron Carlos V e Isabel de Portugal y donde ella misma había nacido en 1535. La iglesia se terminó en 1564.</p><p>Muchas monjas procedían de familias reales y nobles, y sus regalos llenaron el convento de obras de arte. Su joya es la serie de tapices de la <b>Apoteosis de la Eucaristía</b>, tejidos en Bruselas sobre diseños de <b>Rubens</b> por encargo de la infanta Isabel Clara Eugenia, hija de Felipe II: uno de los proyectos más ambiciosos del barroco europeo.</p><p>Del palacio se conserva la <b>escalera</b> de hacia 1525, decorada con pinturas al fresco del siglo XVII. Juana de Austria está enterrada aquí, en una capilla con su estatua orante de Pompeo Leoni.</p>"
+    },
+    "ver_alli": [
+     "La visita es siempre guiada y conviene reservar.",
+     "La escalera con frescos y la sala de los tapices de Rubens son lo más impresionante.",
+     "La sobria fachada a la plaza de las Descalzas esconde la riqueza del interior."
+    ],
+    "fuentes": [
+     "https://www.patrimonionacional.es/visita/monasterio-de-las-descalzas-reales",
+     "https://es.wikipedia.org/wiki/Monasterio_de_las_Descalzas_Reales_(Madrid)",
+     "https://www.esmadrid.com/informacion-turistica/monasterio-de-las-descalzas-reales",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "palacio-real-de-aranjuez",
+   "campos": {
+    "lat": 40.0363,
+    "lon": -3.6083,
+    "estilo": "Renacimiento herreriano y barroco",
+    "texto": {
+     "general": "<p>Carlos V ya se alojaba en Aranjuez, en el viejo palacio de los maestres de Santiago, cuando empezó a convertirlo en villa regia con un gran coto de caza. <b>Felipe II</b> encargó en 1564 un palacio de primavera junto al Tajo a <b>Juan Bautista de Toledo</b>, y a su muerte lo continuó su discípulo <b>Juan de Herrera</b>.</p><p>Las obras se pararon en el siglo XVII; Fernando VI acometió una gran ampliación y Carlos III añadió las alas que cierran el patio de armas. En la capilla del palacio se constituyó el 25 de septiembre de 1808 la <b>Junta Central Suprema</b>, durante la guerra contra Napoleón. Hoy alberga el Museo de la Vida en Palacio, con trajes de corte y vestidos de novia de reinas e infantas.</p><p>Sus jardines, regados por el Tajo y el Jarama, son los más importantes de la época de los Austrias. Con la Casa del Labrador y el resto del Real Sitio forman desde 2001 el <b>Paisaje Cultural de Aranjuez</b>, Patrimonio Mundial.</p>"
+    },
+    "ver_alli": [
+     "Dentro, el Gabinete de Porcelana y el Salón Árabe son las salas más llamativas.",
+     "Pasea por el Jardín del Parterre, junto al palacio.",
+     "Fuera del recinto, en el Jardín del Príncipe, está la Casa del Labrador."
+    ],
+    "fuentes": [
+     "https://www.patrimonionacional.es/visita/palacio-real-de-aranjuez",
+     "https://es.wikipedia.org/wiki/Palacio_Real_de_Aranjuez",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "universidad-de-alcala",
+   "campos": {
+    "lat": 40.4829,
+    "lon": -3.3631,
+    "estilo": "Renacimiento plateresco",
+    "texto": {
+     "general": "<p>El 14 de marzo de 1499 el <b>cardenal Cisneros</b> puso la primera piedra del Colegio Mayor de San Ildefonso, origen de la Universidad de Alcalá, según trazas de Pedro Gumiel. Con él quería mejorar la formación de los clérigos de su tiempo.</p><p>Su célebre <b>fachada plateresca</b> es obra de <b>Rodrigo Gil de Hontañón</b> (1537-1553); en lo alto luce el gran escudo imperial de Carlos V, patrono de la universidad, labrado por Juan Guerra en 1552. Es una de las obras maestras del Renacimiento español.</p><p>Dentro destacan la capilla de San Ildefonso, terminada en 1510, con el sepulcro vacío de Cisneros —enterrado en la catedral magistral— y la tumba de Nebrija; el <b>Paraninfo</b>, empezado en 1516, donde cada año se entrega el <b>Premio Cervantes</b>, y el Patio Trilingüe. Desde 1998 es Patrimonio Mundial con el casco histórico de Alcalá.</p>"
+    },
+    "ver_alli": [
+     "Contempla la fachada desde la plaza de San Diego, con el escudo de Carlos V en lo alto.",
+     "El Paraninfo, la capilla y los patios se ven en visita guiada.",
+     "El Patio Trilingüe debe su nombre a los estudiantes de latín, griego y hebreo que vivían en él."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Colegio_Mayor_de_San_Ildefonso",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "nuevo-baztan",
+   "campos": {
+    "lat": 40.3661,
+    "lon": -3.2431,
+    "estilo": "Barroco churrigueresco",
+    "texto": {
+     "general": "<p>Nuevo Baztán nació como un ensayo de <b>ciudad industrial</b>. Desde 1709 el navarro <b>Juan de Goyeneche</b> —editor, periodista y político— levantó en un despoblado del término de La Olmeda un complejo agrícola e industrial inspirado en las ideas de Colbert, el ministro de Luis XIV, y le dio el nombre de su valle natal, el Baztán.</p><p>El arquitecto <b>José Benito de Churriguera</b> diseñó el <b>palacio de Goyeneche</b> (1709-1713), la iglesia de San Francisco Javier, unida a él, y las plazas de delante y detrás. Un informe de 1722 describe el pueblo con ochenta casas, más de quinientas personas y fábricas de cristales, sombreros, pieles y telares de seda y lana, con maestros extranjeros que enseñaban a los vecinos.</p><p>El palacio, la iglesia y las plazas fueron declarados Monumento Histórico-Artístico en 1941 y Bien de Interés Cultural en 2000.</p>"
+    },
+    "ver_alli": [
+     "Empieza en la plaza de la Iglesia, ante la fachada del palacio y la iglesia de San Francisco Javier.",
+     "Rodea el palacio para ver la plaza trasera.",
+     "La oficina de turismo organiza visitas guiadas al conjunto."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_de_Goyeneche_(Nuevo_Baztán)",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "cementerio-de-la-florida-y-el-dos-de-may",
+   "campos": {
+    "lat": 40.4268,
+    "lon": -3.7248,
+    "estilo": "Pequeño camposanto de 1796",
+    "ver_alli": [
+     "Solo abre en fechas señaladas, como el 2 de mayo, y en visitas concertadas.",
+     "En el jardín, sobre la cripta de la antigua ermita, la losa bajo la que reposan los fusilados.",
+     "En la plaza del Dos de Mayo, en Malasaña, el arco del parque de artillería de Monteleón."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Cementerio_de_la_Florida",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "congreso-de-los-diputados",
+   "campos": {
+    "lat": 40.4164,
+    "lon": -3.6966,
+    "estilo": "Neoclásico",
+    "texto": {
+     "general": "<p>Aquí estuvo el convento del Espíritu Santo, en cuya iglesia se reunieron provisionalmente las Cortes desde 1834. Para sustituirlo, <b>Narciso Pascual y Colomer</b> proyectó el Palacio de las Cortes, de estilo <b>neoclásico</b>: las obras empezaron el 10 de octubre de 1843 y la reina <b>Isabel II</b> lo inauguró el 31 de octubre de 1850. Mientras tanto, los diputados se reunían en el salón de baile del Teatro Real.</p><p>La fachada tiene un pórtico de seis columnas corintias con un frontón de <b>Ponciano Ponzano</b> que representa a España con la Constitución. Ponzano hizo también los dos <b>leones</b> de la escalinata, fundidos en 1866 con el bronce de cañones tomados al enemigo en la guerra de África de 1860.</p><p>Aquí se proclamó a Juan Carlos I en 1975 y a Felipe VI en 2014, y aquí se vivió el golpe de Estado del <b>23 de febrero de 1981</b>, cuyos impactos de bala aún se ven en el techo del hemiciclo.</p>"
+    },
+    "ver_alli": [
+     "Los leones de bronce de la escalinata, frente a la Carrera de San Jerónimo.",
+     "Sobre las seis columnas corintias, el frontón esculpido por Ponzano.",
+     "En la visita guiada al hemiciclo se ven los impactos de bala del 23-F."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_de_las_Cortes_(Madrid)",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "biblioteca-nacional-y-museo-arqueologico",
+   "campos": {
+    "lat": 40.4235,
+    "lon": -3.6894,
+    "estilo": "Neoclásico",
+    "ver_alli": [
+     "En el Museo Arqueológico Nacional, la Dama de Elche, la Dama de Baza y las coronas de Guarrazar.",
+     "La Biblioteca Nacional muestra parte de sus fondos en exposiciones.",
+     "La fachada de la Biblioteca da al paseo de Recoletos; la entrada del museo está en la calle de Serrano."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_de_Biblioteca_y_Museos_Nacionales",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-cristal-del-retiro",
+   "campos": {
+    "lat": 40.4136,
+    "lon": -3.6821,
+    "estilo": "Arquitectura de hierro y cristal",
+    "texto": {
+     "general": "<p>Lo construyó el arquitecto <b>Ricardo Velázquez Bosco</b> en 1887 para la Exposición General de las Islas Filipinas, una muestra de exaltación colonial. Era un gran <b>invernadero</b> para las plantas tropicales del archipiélago, inspirado en el Crystal Palace que Joseph Paxton levantó en Londres en 1851.</p><p>Su estructura de hierro está totalmente cubierta de cristal, con tres naves sobre una planta en forma de trébol y una cúpula de más de 22 metros de altura. La decoración cerámica de frisos y remates es de Daniel Zuloaga. A sus pies, un lago artificial completaba el ambiente para las plantas acuáticas.</p><p>Se restauró por completo en 1975 y hoy es una de las sedes del <b>Museo Reina Sofía</b>, que organiza en él exposiciones de arte contemporáneo.</p>"
+    },
+    "ver_alli": [
+     "Rodea el estanque para verlo reflejado en el agua.",
+     "Fíjate en la cerámica de Daniel Zuloaga de frisos y remates.",
+     "En el mismo parque, el Palacio de Velázquez, del mismo arquitecto."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_de_Cristal_del_Retiro",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "estacion-de-atocha",
+   "campos": {
+    "lat": 40.407,
+    "lon": -3.6914,
+    "estilo": "Arquitectura de hierro (siglo XIX)",
+    "texto": {
+     "general": "<p>Atocha empezó como un simple apeadero en 1851. La gran estación que vemos, la estación del <b>Mediodía</b> de la compañía MZA, se inauguró en 1892 con proyecto de <b>Alberto de Palacio</b>, colaborador de Gustave Eiffel.</p><p>Su <b>nave de hierro y cristal</b> mide 152 metros de largo, 27 de alto y 48 de luz, lo que permitía meter seis vías bajo una sola cubierta.</p><p>Con la llegada del AVE, <b>Rafael Moneo</b> dirigió entre 1985 y 1992 una gran remodelación: detrás se construyeron dos estaciones nuevas, y la antigua nave se convirtió en un vestíbulo con un <b>jardín tropical</b> donde antes estaban las vías y los andenes.</p>"
+    },
+    "ver_alli": [
+     "Entra en la nave antigua desde la plaza del Emperador Carlos V y pasea por el jardín tropical.",
+     "Mira hacia arriba para ver la estructura de hierro de la marquesina.",
+     "Fuera, la torre del reloj y el edificio circular de Moneo marcan el intercambiador."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Estación_de_Madrid_Atocha",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "banco-de-espana",
+   "campos": {
+    "lat": 40.4183,
+    "lon": -3.6947,
+    "estilo": "Eclecticismo",
+    "texto": {
+     "general": "<p>El Banco de España se creó en 1856 y tuvo su primera sede en la calle de Atocha. Para la nueva compró el palacio de Alcañices, junto a Cibeles, y los arquitectos <b>Eduardo Adaro y Severiano Sainz de la Lastra</b> ganaron con su proyecto la medalla de oro de la Exposición Nacional de Bellas Artes de 1884. El 4 de julio de ese año Alfonso XII puso la primera piedra, y el 3 de marzo de 1891 lo inauguraron Alfonso XIII y la reina regente María Cristina.</p><p>Las fachadas tienen una decoración ecléctica sobre zócalos sobrios que transmiten solidez. En 1927 el edificio creció hacia la calle de Alcalá copiando la fachada original, y entre 2003 y 2006 Rafael Moneo cerró la manzana en la esquina con Marqués de Cubas.</p><p>Bajo el edificio está la <b>cámara del oro</b>, que guarda cerca de un tercio de las reservas de oro de España.</p>"
+    },
+    "ver_alli": [
+     "Rodea el edificio por la plaza de Cibeles y la calle de Alcalá para ver el chaflán y la fachada ecléctica.",
+     "En la esquina con Marqués de Cubas está la ampliación de Moneo, que prolonga la fachada original.",
+     "El banco tiene previsto abrir la cámara del oro a las visitas a partir de 2028."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Edificio_del_Banco_de_España_(Madrid)",
+     "https://www.elindependiente.com/economia/2025/05/28/banco-espana-camara-oro/amp/",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "teatro-real",
+   "campos": {
+    "lat": 40.4182,
+    "lon": -3.7104,
+    "estilo": "Neoclásico (sala a la italiana)",
+    "texto": {
+     "general": "<p>Fernando VII quiso un teatro de ópera dentro de la reforma de la plaza de Oriente, frente al Palacio Real, sobre el solar del viejo teatro de los Caños del Peral. La primera piedra se puso el 23 de abril de 1818, con proyecto de Antonio López Aguado, pero la falta de dinero retrasó las obras, y fue su hija <b>Isabel II</b> quien lo inauguró el 19 de noviembre de 1850.</p><p>Por daños en el edificio cerró en 1925; reabrió en 1966 como sala de conciertos y, tras una gran reforma iniciada en 1991, volvió a ser teatro de ópera el <b>11 de octubre de 1997</b>.</p><p>Tiene planta de hexágono irregular, con la fachada principal a la plaza de Oriente y otra a la plaza de Isabel II, y casi 2.000 localidades. Acogió el Festival de Eurovisión de 1969.</p>"
+    },
+    "ver_alli": [
+     "Rodéalo: la fachada principal mira al Palacio Real y la otra, a la plaza de Isabel II.",
+     "La visita recorre la sala, de estilo italiano, y los salones.",
+     "Desde la plaza de Oriente se aprecia el eje que une el teatro con el palacio."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Teatro_Real_(Madrid)",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "canal-de-isabel-ii-presa-del-ponton-de-l",
+   "campos": {
+    "lat": 40.8834,
+    "lon": -3.442,
+    "estilo": "Ingeniería hidráulica del siglo XIX",
+    "texto": {
+     "general": "<p>Hacia 1848 Madrid tenía unos 206.000 habitantes y bebía de los viejos viajes de agua y de 54 fuentes atendidas por aguadores. El ministro <b>Juan Bravo Murillo</b> impulsó un canal que trajera el agua pura del río Lozoya, y los ingenieros Juan Rafo y Juan de Ribera eligieron esta garganta, cerca de la unión del Lozoya con el Jarama, para la presa principal.</p><p>La primera piedra se puso el 11 de agosto de 1851. En la obra trabajaron <b>1.500 presos de las guerras carlistas</b>, 200 obreros libres y 400 animales, en durísimas condiciones, y en el campamento estalló una epidemia de cólera. La presa se terminó en 1857 y el agua llegó a Madrid el <b>24 de junio de 1858</b>, con una fuente provisional en la calle de San Bernardo inaugurada por Isabel II.</p><p>Pero el lugar se eligió mal: pronto aparecieron filtraciones que arruinaron su capacidad de embalse. Es la presa más antigua del sistema del <b>Canal de Isabel II</b>, en el límite entre Madrid y Guadalajara.</p>"
+    },
+    "ver_alli": [
+     "Desde el aparcamiento junto a la presa salen sendas por la orilla del río.",
+     "Fíjate en el gran muro de la presa, que en algunos puntos supera los 17 metros de altura.",
+     "Muy cerca, el yacimiento de la Dehesa de la Oliva."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Pontón_de_la_Oliva",
+     "https://es.wikipedia.org/wiki/Canal_de_Isabel_II",
+     "https://www.visitmadrid.es/donde-ir/villas-madrid/patones",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "gran-via-de-madrid-y-edificio-metropolis",
+   "campos": {
+    "lat": 40.4188,
+    "lon": -3.6974,
+    "estilo": "Eclecticismo y primeros rascacielos",
+    "texto": {
+     "general": "<p>Las obras de la <b>Gran Vía</b> empezaron el 4 de abril de 1910: el rey <b>Alfonso XIII</b> dio el primer golpe con una piqueta de plata en la casa del cura de la iglesia de San José. Se abrió en tres tramos, de la calle de Alcalá a la plaza de España; el último se terminó en 1929, aunque algunos edificios no se acabaron hasta después de la Guerra Civil.</p><p>En su arranque está el <b>edificio Metrópolis</b>, de los franceses Jules y Raymond Février para una compañía de seguros, terminado por Luis Esteve en 1910 e inaugurado el 21 de enero de 1911. Mide 45 metros y su cúpula de pizarra, decorada con pan de oro de 24 quilates, es uno de los símbolos de Madrid.</p><p>La avenida se llenó de cines y cafés, y en ella se levantó el primer rascacielos de Madrid, el edificio de <b>Telefónica</b> (1926-1929), de Ignacio de Cárdenas, que fue el más alto de la ciudad hasta 1953.</p>"
+    },
+    "ver_alli": [
+     "Empieza en la esquina con la calle de Alcalá, ante el Metrópolis y su cúpula dorada coronada por una Victoria alada.",
+     "Sube por la avenida hasta el edificio Telefónica, en el número 28.",
+     "Al anochecer, con los edificios iluminados, es cuando mejor luce."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Edificio_Metrópolis",
+     "https://es.wikipedia.org/wiki/Gran_Vía_(Madrid)",
+     "https://es.wikipedia.org/wiki/Edificio_Telefónica",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-cibeles",
+   "campos": {
+    "lat": 40.4188,
+    "lon": -3.6918,
+    "estilo": "Modernismo (neoplateresco)",
+    "texto": {
+     "general": "<p>El antiguo <b>Palacio de Comunicaciones</b> se levantó sobre parte de los viejos jardines del Buen Retiro, lo que causó polémica por quitarle a Madrid un lugar de recreo. Lo diseñaron, tras ganar un concurso, los jóvenes arquitectos <b>Antonio Palacios y Joaquín Otamendi</b>: la primera piedra se puso en 1907 y se inauguró el 14 de marzo de 1919 como central de correos, telégrafos y teléfonos.</p><p>Es uno de los primeros y más representativos edificios modernistas del centro de Madrid, con una fachada blanca que evoca el plateresco y el barroco salmantino. La decoración escultórica es de Ángel García Díaz. Sus autores querían hacer «un edificio para el público».</p><p>Con el declive del correo postal pasó al Ayuntamiento, que se trasladó aquí a finales de 2007 desde la plaza de la Villa. Hoy alberga también el centro cultural CentroCentro.</p>"
+    },
+    "ver_alli": [
+     "Contempla la fachada desde la fuente de Cibeles.",
+     "Entra al gran vestíbulo y a las exposiciones de CentroCentro.",
+     "Fíjate en la decoración escultórica de Ángel García Díaz."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_de_Cibeles",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "campo-de-batalla-del-jarama",
+   "campos": {
+    "lat": 40.2228,
+    "lon": -3.4781,
+    "estilo": "Paisaje de guerra y memorial",
+    "texto": {
+     "general": "<p>Entre el 6 y el 27 de febrero de 1937, el ejército sublevado lanzó una ofensiva al sureste de Madrid para cruzar el Jarama y cortar las comunicaciones de la capital, entre ellas la carretera de Valencia. Las tropas republicanas, reagrupadas bajo el mando del general Miaja, frenaron el avance antes de Arganda, y el frente quedó estabilizado.</p><p>Con los republicanos combatieron las <b>Brigadas Internacionales</b> XI, XII, XIV y XV, entre el Jarama y Morata de Tajuña; en el bando sublevado lucharon unidades de la Legión y de Regulares, con carros alemanes y aviación alemana e italiana. Aún quedan trincheras por los cerros.</p><p>En el cerro de la Iglesia, sobre una red de trincheras a unos 3 km de Morata, se levanta desde el 7 de octubre de 2006 el <b>monumento a las Brigadas Internacionales</b> de Martín Chirino: dos grandes manos de acero corten que se unen, de 7 metros de altura con el pedestal. En Morata de Tajuña hay además un museo dedicado a la batalla.</p>"
+    },
+    "ver_alli": [
+     "El punto marcado es el monumento de las manos, junto al cruce de las carreteras M-302 y M-311, camino de San Martín de la Vega.",
+     "Una ruta sube a la cima del cerro entre restos de trincheras.",
+     "En Morata de Tajuña, el Museo de la Batalla del Jarama reúne objetos del combate."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Batalla_del_Jarama",
+     "https://morataturismo.es/en/?p=1621",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "trincheras-de-la-ciudad-universitaria",
+   "campos": {
+    "lat": 40.4347,
+    "lon": -3.7294,
+    "estilo": "Fortificación de la Guerra Civil",
+    "texto": {
+     "general": "<p>En noviembre de 1936 las columnas del general Varela intentaron entrar en Madrid por la Casa de Campo. Tras varios intentos fallidos de cruzar el Manzanares, el 15 de noviembre empezó la batalla de la <b>Ciudad Universitaria</b>, entonces un campus recién construido: se combatió de facultad en facultad hasta el 23 de noviembre. Allí se detuvo por primera vez el avance de las tropas de Franco, y el frente quedó casi inmóvil hasta el final de la guerra.</p><p>En esta batalla entraron en combate por primera vez las <b>Brigadas Internacionales</b> y material pesado soviético. Muchos edificios del campus conservan aún impactos de metralla, y quedaron búnkeres y trincheras: desde 2016 un equipo dirigido por el arqueólogo Alfredo González Ruibal excava posiciones del frente en el campus.</p><p>En el vecino <b>Parque del Oeste</b> siguen en pie tres de los quince fortines de hormigón que construyeron las tropas franquistas, tapiados salvo las troneras para las ametralladoras y con impactos de la artillería republicana; en uno se lee «Zapadores número 7».</p>"
+    },
+    "ver_alli": [
+     "El punto marcado es el primero de los fortines del Parque del Oeste, cerca de la avenida de Séneca.",
+     "Fíjate en las troneras y en los impactos de artillería en el hormigón.",
+     "En el campus, varias facultades conservan marcas de metralla."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Batalla_de_la_Ciudad_Universitaria",
+     "https://www.timeout.es/madrid/es/que-hacer/ruta-madrid-guerra-civil-bunker",
+     "https://www.ehu.eus/es/web/campusa/-/n_20170712-excavacion-madrid",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "valle-de-cuelgamuros",
+   "campos": {
+    "lat": 40.6418,
+    "lon": -4.1553,
+    "estilo": "Arquitectura monumental franquista",
+    "texto": {
+     "general": "<p>El conjunto conocido durante décadas como Valle de los Caídos, denominado oficialmente <b>Valle de Cuelgamuros</b> desde 2022, lo mandó construir el general Franco en 1940. Se levantó entre 1940 y 1958, principalmente con mano de obra de <b>presos políticos republicanos</b> acogidos a la redención de penas por el trabajo, además de trabajadores contratados. Lo diseñaron los arquitectos Pedro Muguruza y Diego Méndez, con esculturas de Juan de Ávalos, entre otros.</p><p>Lo forman una basílica excavada en la roca, una abadía benedictina y una <b>cruz de 150 metros</b> sobre el risco de la Nava. En sus criptas reposan los restos de <b>33.833 combatientes de ambos bandos</b> de la Guerra Civil: poco antes de la inauguración, en 1959, se llevaron también restos de soldados republicanos, y no están separados por bandos.</p><p>Los restos de Franco se exhumaron el 24 de octubre de 2019 y se trasladaron al cementerio de Mingorrubio; los de José Antonio Primo de Rivera, en 2023, al de San Isidro, por deseo de su familia. En noviembre de 2025 el jurado de un concurso convocado por el Gobierno eligió el proyecto «La base y la cruz» para resignificarlo, que mantiene la cruz y la basílica y añade un centro de interpretación. Su resignificación sigue siendo objeto de debate.</p>"
+    },
+    "ver_alli": [
+     "Se llega solo por la carretera M-527, desde la carretera de El Escorial a Guadarrama.",
+     "Sobre la puerta de la basílica, la Piedad de Juan de Ávalos.",
+     "Desde la explanada se ve la cruz sobre el risco de la Nava, con las esculturas de Ávalos en su base."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Valle_de_los_Caídos",
+     "https://es.wikipedia.org/wiki/Valle_de_Cuelgamuros",
+     "https://www.metalocus.es/es/noticias/la-base-y-la-cruz-gana-el-concurso-para-resignificar-el-valle-de-los-caidos",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "museo-reina-sofia-y-el-guernica",
+   "campos": {
+    "lat": 40.408,
+    "lon": -3.6944,
+    "estilo": "Neoclásico (edificio Sabatini) y contemporáneo",
+    "texto": {
+     "general": "<p>El museo ocupa el antiguo <b>Hospital General de Madrid</b>, un gran edificio neoclásico del siglo XVIII diseñado por José de Hermosilla y continuado por <b>Francesco Sabatini</b>, por lo que hoy se llama edificio Sabatini. Rehabilitado, se inauguró el 26 de mayo de 1986 como Centro de Arte Reina Sofía, para exposiciones temporales; en 1988 se convirtió en museo nacional y abrió su colección el 10 de septiembre de 1992. En 2005 se añadió la ampliación de <b>Jean Nouvel</b>.</p><p>Su obra más famosa es el <b>Guernica de Picasso</b>, expuesto con bocetos preparatorios y las fotografías de Dora Maar que documentan cómo se pintó. El cuadro estuvo décadas en el MoMA de Nueva York, llegó a España en 1981, se mostró primero en el Casón del Buen Retiro y desde 1992 está aquí.</p><p>La colección reúne grandes obras de <b>Picasso, Dalí y Miró</b>, del cubismo y del surrealismo. El museo gestiona también el Palacio de Cristal y el Palacio de Velázquez, en el Retiro.</p>"
+    },
+    "ver_alli": [
+     "El Guernica está en el edificio Sabatini, rodeado de sus bocetos y de las fotos de Dora Maar.",
+     "El patio-jardín del edificio Sabatini tiene esculturas.",
+     "La ampliación de Jean Nouvel, junto a la ronda de Atocha, alberga la biblioteca y el auditorio."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Museo_Nacional_Centro_de_Arte_Reina_Sofía",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "museo-geominero-madrid",
+   "campos": {
+    "estilo": "Sala historicista de 1926 con vidrieras",
+    "ver_alli": [
+     "Sala histórica con vitrinas de minerales, rocas y fósiles de toda España, bajo una gran cubierta de vidrieras.",
+     "Vitrinas del Cámbrico de Murero con trilobites y esponjas.",
+     "A los pisos altos se sube por escaleras de caracol en las esquinas de la sala."
+    ],
+    "fuentes": [
+     "https://info.igme.es/media/Material_Divulgativo/HOJA_04_Flora_e_nvertebrados.pdf",
+     "https://www.igme.es/?p=6695",
+     "https://en.wikipedia.org/wiki/Museo_Geominero",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "mncn-madrid",
+   "campos": {
+    "estilo": "Museo de historia natural",
+    "ver_alli": [
+     "Exposición «Minerales, fósiles y evolución humana», con trilobites, el megaterio y el Diplodocus.",
+     "Jardín de piedras exterior con rocas, sobre todo de la Comunidad de Madrid.",
+     "El museo ocupa dos edificios, a ambos lados de la Escuela de Ingenieros Industriales."
+    ],
+    "fuentes": [
+     "https://www.mncn.csic.es/sites/default/files/2022-07/Guia_accesible_Geologia.pdf",
+     "https://audiala.com/es/espana/madrid/museo-nacional-de-ciencias-naturales",
+     "https://en.wikipedia.org/wiki/National_Museum_of_Natural_Sciences,_Madrid",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "marpa-alcala-de-henares",
+   "campos": {
+    "lat": 40.4828,
+    "lon": -3.3692,
+    "estilo": "Museo arqueológico y paleontológico",
+    "ver_alli": [
+     "Sala de paleontología del Mioceno con fósiles del Cerro de los Batallones, montajes y recreaciones del paisaje.",
+     "Mosaicos romanos de Complutum, como los de las casas de Aquiles y de Leda.",
+     "El propio cerro solo se visita en las jornadas de puertas abiertas que se organizan algunos veranos durante la excavación."
+    ],
+    "fuentes": [
+     "https://www.comunidad.madrid/node/62034",
+     "https://en.wikipedia.org/wiki/Regional_Archaeological_Museum_of_the_Community_of_Madrid",
+     "https://comunidad.madrid/en/cultura/patrimonio-cultural/yacimiento-paleontologico-cerro-batallones",
+     "https://es.wikipedia.org/wiki/Museo_Arqueológico_y_Paleontológico_de_la_Comunidad_de_Madrid",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-san-isidro-madrid",
+   "campos": {
+    "estilo": "Museo de historia de Madrid",
+    "ver_alli": [
+     "Sala de Prehistoria con bifaces del Manzanares y fósiles de elefantes.",
+     "Está en la plaza de San Andrés, en La Latina, y tiene un jardín arqueológico.",
+     "Al otro lado del Manzanares, el cerro de San Isidro, donde se hicieron los primeros hallazgos."
+    ],
+    "fuentes": [
+     "https://www.madrid.es/UnidadesDescentralizadas/MuseosMunicipales/MuseoDeSanIsidro/Publicaciones/ficheros/or%C3%ADgenesgu%C3%ADa+marco30.11.12.pdf",
+     "https://diario.madrid.es/blog/2023/08/09/desde-la-prehistoria-hasta-la-tradicion/",
+     "https://es.hispanopedia.com/wiki/Museo_de_San_Isidro",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  }
+ ]
+}

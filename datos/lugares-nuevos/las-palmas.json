@@ -1,0 +1,821 @@
+{
+ "zona": "Las Palmas",
+ "nuevos": [
+  {
+   "id": "barrio-de-vegueta",
+   "nombre": "Barrio de Vegueta",
+   "provincia": "Las Palmas",
+   "comarca": "Las Palmas de Gran Canaria",
+   "lat": 28.0994,
+   "lon": -15.4145,
+   "tipo": "poblacion",
+   "estilo": "Casco histórico (ss. XV-XIX)",
+   "epoca": "Renacimiento",
+   "anio": 1478,
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>Vegueta es el lugar donde nació Las Palmas de Gran Canaria. El <b>24 de junio de 1478</b> desembarcaron en la bahía de Las Isletas las tropas de <b>Juan Rejón</b>, que levantaron su campamento junto al barranco Guiniguada. Lo llamaron <b>Real de las Tres Palmas</b>, por las palmeras que crecían allí, y fue el primer asentamiento castellano en el Atlántico.</p><p>Alrededor de aquel campamento creció la ciudad: el <b>Hospital de San Martín</b> se fundó en 1481 y la <b>Real Audiencia</b> en 1526. Las incursiones de Drake y de Van der Does en el siglo XVI quemaron buena parte de la villa primitiva, y de la fortificación original no queda nada.</p><p>Hoy es el centro histórico mejor conservado de Canarias, con calles empedradas, casas de balcones de madera y plazas tranquilas. Aquí están la catedral de Santa Ana, la Casa de Colón, el Museo Canario y la ermita de San Antonio Abad. Fue declarado <b>Conjunto Histórico-Artístico</b> el 5 de abril de 1973.</p><p class=\"dato\"><span>¿Sabías que…?</span>La ermita de San Antonio Abad se alza junto al lugar donde Juan Rejón plantó el primer campamento de la conquista.</p>"
+   },
+   "ver_alli": [
+    "Pasear por la calle de Los Balcones y la plaza de Santa Ana.",
+    "Buscar la pequeña ermita de San Antonio Abad, junto al antiguo campamento.",
+    "Fijarse en los balcones de madera y los patios de las casonas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Vegueta"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "basilica-del-pino-teror",
+   "nombre": "Basílica de Nuestra Señora del Pino",
+   "provincia": "Las Palmas",
+   "comarca": "Teror (Gran Canaria)",
+   "lat": 28.0593,
+   "lon": -15.5478,
+   "tipo": "iglesia",
+   "estilo": "Arquitectura canaria del siglo XVIII",
+   "epoca": "Barroco",
+   "anio": 1767,
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>En el centro de Teror se alza el templo de la <b>Virgen del Pino</b>, patrona de Gran Canaria. La tradición sitúa su aparición el <b>8 de septiembre de 1481</b>; la imagen que se venera hoy data de 1535. La parroquia se creó en 1505 y el templo actual, construido en el siglo XVIII con obra atribuida a <b>Antonio de la Rocha</b>, se consagró en <b>1767</b>.</p><p>Por fuera destaca la <b>torre de sillería amarilla</b> a la derecha de la fachada. Dentro, la Virgen preside el altar en un trono con baldaquino de plata, y hay imaginería de <b>José Luján Pérez</b>, el gran escultor canario.</p><p>El 12 de enero de 1916 el papa Benedicto XV le dio el título de <b>basílica menor</b>, la primera de Canarias. En 1976 fue declarada monumento nacional.</p><p class=\"dato\"><span>¿Sabías que…?</span>Cada vez que la Virgen del Pino baja a Las Palmas, la recepción oficial de bienvenida se celebra en el Castillo de Mata.</p>"
+   },
+   "ver_alli": [
+    "La torre amarilla de sillería, a la derecha de la fachada.",
+    "El trono de plata de la Virgen en el altar mayor.",
+    "Las tallas de Luján Pérez."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_del_Pino",
+    "https://en.wikipedia.org/wiki/Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_del_Pino",
+    "https://es.wikipedia.org/wiki/Castillo_de_Mata"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-san-sebastian-aguimes",
+   "nombre": "Iglesia de San Sebastián",
+   "provincia": "Las Palmas",
+   "comarca": "Agüimes (Gran Canaria)",
+   "lat": 27.9066,
+   "lon": -15.4463,
+   "tipo": "iglesia",
+   "estilo": "Neoclásico",
+   "epoca": "Ilustración y Neoclásico",
+   "anio": 1796,
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>La gran iglesia de San Sebastián, con sus dos torres, preside el casco antiguo de Agüimes. Es una de las mejores muestras del <b>estilo neoclásico</b> en Canarias. Se proyectó en 1787 porque la iglesia anterior se había quedado pequeña, y los planos son del canónigo y arquitecto <b>Diego Nicolás Eduardo</b>.</p><p>La obra fue lentísima. Se trabajó de 1796 a 1837, se paró, se retomó entre 1876 y 1888, cuando se inauguró, y no se dio por terminada hasta <b>1940</b>. En total hubo dos parones de 39 y 51 años.</p><p>Dentro tiene tres naves con bóvedas de medio cañón, separadas por columnas toscanas y arcos de medio punto. Sobre el crucero se levanta un <b>cimborrio con doce ventanales</b> en el tambor, único en Canarias.</p><p class=\"dato\"><span>¿Sabías que…?</span>Entre el primer proyecto y el final de las obras pasaron más de 150 años.</p>"
+   },
+   "ver_alli": [
+    "Las dos torres de la fachada, visibles desde todo el casco.",
+    "El cimborrio de doce ventanales sobre el crucero.",
+    "Las calles estrechas del casco viejo que rodean la iglesia."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Sebasti%C3%A1n_(Ag%C3%BCimes)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-santiago-galdar",
+   "nombre": "Iglesia de Santiago de los Caballeros",
+   "provincia": "Las Palmas",
+   "comarca": "Gáldar (Gran Canaria)",
+   "lat": 28.145,
+   "lon": -15.656,
+   "tipo": "iglesia",
+   "estilo": "Neoclásico",
+   "epoca": "Ilustración y Neoclásico",
+   "anio": 1778,
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>En el centro de Gáldar se levanta esta gran iglesia de dos torres dedicada a <b>Santiago Apóstol</b>. El edificio actual se construyó entre <b>1778 y 1826</b>, en estilo <b>neoclásico</b>, con proyecto de <b>Diego Nicolás Eduardo</b>, el mismo arquitecto de la iglesia de Agüimes.</p><p>Está protegida como Bien de Interés Cultural desde 1978. Es una de las grandes iglesias neoclásicas de Gran Canaria, junto con la de Agüimes, del mismo arquitecto.</p><p>Muy cerca, a pocos pasos, se encuentra la Cueva Pintada, el gran yacimiento prehispánico de Gáldar.</p>"
+   },
+   "ver_alli": [
+    "Las dos torres neoclásicas de la fachada.",
+    "La plaza que se abre delante de la iglesia.",
+    "Combinar la visita con la cercana Cueva Pintada."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Church_of_Santiago_de_los_Caballeros"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-san-juan-bautista-arucas",
+   "nombre": "Iglesia de San Juan Bautista",
+   "provincia": "Las Palmas",
+   "comarca": "Arucas (Gran Canaria)",
+   "lat": 28.1186,
+   "lon": -15.5231,
+   "tipo": "iglesia",
+   "estilo": "Neogótico",
+   "epoca": "Siglo XX",
+   "anio": 1909,
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>Aunque la llaman «la <b>catedral de Arucas</b>», no es catedral ni basílica: es la iglesia parroquial del pueblo. Sus agujas oscuras de estilo <b>neogótico</b> destacan entre las casas blancas. La proyectó el arquitecto <b>Manuel Vega y March</b> y las obras empezaron el <b>19 de marzo de 1909</b>.</p><p>Está hecha con <b>cantería de Arucas</b>, la piedra de las canteras del municipio, labrada por los canteros del pueblo, famosos por su habilidad. Se abrió al culto en 1917, pero los trabajos de arquitectura siguieron hasta <b>1977</b>.</p><p>Dentro sorprenden las <b>vidrieras</b> de la casa francesa Maumejean; las del altar mayor son de 1920. La pila bautismal de piedra azul es obra de Domingo Benavides, de 1862.</p><p class=\"dato\"><span>¿Sabías que…?</span>Entre el comienzo de las obras y el final pasaron casi 70 años.</p>"
+   },
+   "ver_alli": [
+    "Las agujas neogóticas de piedra oscura.",
+    "Las vidrieras de Maumejean, sobre todo las del altar mayor.",
+    "La pila bautismal de piedra azul."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Juan_Bautista_(Arucas)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-mata",
+   "nombre": "Castillo de Mata",
+   "provincia": "Las Palmas",
+   "comarca": "Las Palmas de Gran Canaria",
+   "lat": 28.1071,
+   "lon": -15.4217,
+   "tipo": "castillo",
+   "estilo": "Fortificación renacentista",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1577,
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>Es lo que queda de las defensas de Las Palmas al final de su <b>muralla</b>. En 1577 el ingeniero <b>Juan Alonso Rubián</b> levantó aquí un torreón redondo en el extremo de la muralla.</p><p>En 1599 la armada holandesa de <b>Pieter van der Does</b> atacó la ciudad y dañó el castillo. Tras la retirada holandesa, <b>Francisco de la Rúa</b> lo reconstruyó como «Casa Mata», con artillería a cubierto, y de ahí viene su nombre. En 1780 se rehicieron parapetos, troneras y polvorines.</p><p>Fue declarado monumento en 1949 y tuvo uso militar hasta 1997. En 2002 una excavación sacó a la luz el <b>cubelo original</b>. Desde 2015 es museo: cuenta la historia del castillo y la de la ciudad y su relación con el mar.</p><p class=\"dato\"><span>¿Sabías que…?</span>Cuando la Virgen del Pino baja desde Teror, la recibe oficialmente la ciudad aquí, en el castillo.</p>"
+   },
+   "ver_alli": [
+    "El cubelo original descubierto en 2002.",
+    "Las troneras y parapetos del siglo XVIII.",
+    "Las salas del museo sobre la ciudad y el mar."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Mata"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-san-gabriel",
+   "nombre": "Castillo de San Gabriel",
+   "provincia": "Las Palmas",
+   "comarca": "Arrecife (Lanzarote)",
+   "lat": 28.9563,
+   "lon": -13.548,
+   "tipo": "castillo",
+   "estilo": "Fortificación del siglo XVI",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1576,
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>Sobre un islote frente a Arrecife se alza esta pequeña fortaleza de piedra oscura, el símbolo de la ciudad. La primera, de <b>1576</b>, era de <b>madera</b>, y estaba en el islote llamado hoy «del Quemado». Su nombre lo explica todo: en <b>1586</b> un ataque de piratas turco-argelinos la incendió.</p><p>En <b>1587</b> el ingeniero <b>Leonardo Torriani</b> propuso rehacerla en piedra, amurallar todo el islote y levantar las dependencias en cantería para evitar nuevos incendios. En el siglo XVIII se construyó el <b>Puente de las Bolas</b>, de piedra y rematado con dos bolas, que la une con la ciudad.</p><p>Desde 1972 alberga un museo, y desde 2014 se llama <b>Museo de Historia de Arrecife</b>. En 1979 fue declarado Bien de Interés Cultural junto con el puente y los caminos hasta la costa.</p>"
+   },
+   "ver_alli": [
+    "El Puente de las Bolas, con su puente levadizo.",
+    "Los cañones frente al castillo y las vistas del puerto.",
+    "El museo de historia de Arrecife."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_San_Gabriel"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-san-jose-arrecife",
+   "nombre": "Castillo de San José (MIAC)",
+   "provincia": "Las Palmas",
+   "comarca": "Arrecife (Lanzarote)",
+   "lat": 28.971,
+   "lon": -13.5332,
+   "tipo": "castillo",
+   "estilo": "Fortificación del siglo XVIII",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1779,
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>Este castillo, junto al puerto de Naos, se construyó entre <b>1776 y 1779</b> por orden de <b>Carlos III</b>. El rey, preocupado por la miseria de los isleños, quiso que la obra diera trabajo en una época de hambre y pobreza. Por eso la gente lo llamó la «<b>fortaleza del hambre</b>».</p><p>En los años setenta <b>César Manrique</b> rehízo el interior y lo convirtió en el <b>Museo Internacional de Arte Contemporáneo (MIAC)</b>, que abrió en <b>1976</b>. En la parte baja hay un restaurante con vistas al puerto, al que se baja por una escalera de caracol.</p><p>Es Bien de Interés Cultural desde 1949.</p><p class=\"dato\"><span>¿Sabías que…?</span>Un castillo militar levantado para dar de comer a los isleños es hoy uno de los museos de arte moderno de Canarias.</p>"
+   },
+   "ver_alli": [
+    "La sala abovedada con obras de arte contemporáneo.",
+    "La azotea y las vistas sobre el puerto de Naos.",
+    "La escalera de caracol que baja al restaurante."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Castillo_de_San_Jos%C3%A9",
+    "https://es.hispanopedia.com/wiki/Castillo_de_San_Jos%C3%A9"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "fundacion-cesar-manrique",
+   "nombre": "Fundación César Manrique (Taro de Tahíche)",
+   "provincia": "Las Palmas",
+   "comarca": "Teguise (Lanzarote)",
+   "lat": 29.0031,
+   "lon": -13.5473,
+   "tipo": "museo",
+   "estilo": "Arquitectura de César Manrique",
+   "epoca": "Siglo XX",
+   "anio": 1992,
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>Fue la casa del artista lanzaroteño <b>César Manrique</b>, levantada sobre una colada de lava de las erupciones de <b>1730 a 1736</b>. Debajo de la casa hay <b>habitaciones subterráneas</b> metidas dentro de burbujas volcánicas.</p><p>Se inauguró como centro cultural el <b>27 de marzo de 1992</b>, seis meses antes de la muerte de su fundador. Tiene dos colecciones: obras del propio Manrique y arte contemporáneo de artistas de su generación que él reunió.</p><p>Es la mejor manera de entender su idea de unir arte, arquitectura y paisaje volcánico, la misma que se ve en los Jameos del Agua o el Mirador del Río.</p>"
+   },
+   "ver_alli": [
+    "Las salas subterráneas dentro de las burbujas volcánicas.",
+    "La lava negra sobre la que se asienta la casa.",
+    "Las obras del propio Manrique."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Fundaci%C3%B3n_C%C3%A9sar_Manrique"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "mirador-del-rio",
+   "nombre": "Mirador del Río",
+   "provincia": "Las Palmas",
+   "comarca": "Haría (Lanzarote)",
+   "lat": 29.2144,
+   "lon": -13.4813,
+   "tipo": "monumento",
+   "estilo": "Arquitectura de César Manrique",
+   "epoca": "Siglo XX",
+   "anio": 1973,
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>En el extremo norte de Lanzarote, <b>César Manrique</b> creó entre <b>1971 y 1973</b> un mirador casi invisible, camuflado dentro de la roca. Desde <b>479 metros</b> de altura se ve el estrecho de El Río, que separa Lanzarote de <b>La Graciosa</b>, a unos dos kilómetros.</p><p>A finales del siglo XIX ya había aquí baterías de artillería, desde las que los vigías controlaban los barcos que cruzaban el estrecho; sus restos se ven al este del mirador. La obra técnica corrió a cargo del artista <b>Jesús Rafael Soto</b> y el arquitecto <b>Eduardo Cáceres</b>.</p><p>En días despejados se ven también Montaña Clara, el Roque del Oeste y Alegranza, las islas del <b>archipiélago Chinijo</b>.</p>"
+   },
+   "ver_alli": [
+    "La vista de La Graciosa y el archipiélago Chinijo.",
+    "El interior del mirador, excavado en la roca.",
+    "Los restos de la antigua batería, al este."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Mirador_del_R%C3%ADo"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "casa-de-los-coroneles",
+   "nombre": "Casa de los Coroneles",
+   "provincia": "Las Palmas",
+   "comarca": "La Oliva (Fuerteventura)",
+   "lat": 28.6065,
+   "lon": -13.9252,
+   "tipo": "monumento",
+   "estilo": "Arquitectura tradicional canaria",
+   "epoca": "Barroco",
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>Esta gran casona fue la residencia de los <b>coroneles</b> que mandaron en Fuerteventura durante siglos. Se construyó en la <b>segunda mitad del siglo XVII</b>, a iniciativa de Ginés de Cabrera Bethencourt; la siguió su hijo Melchor y la terminó su nieto Agustín, el quinto y más famoso de los coroneles.</p><p>Tiene planta cuadrada de unos <b>42 metros</b> de lado y tres patios. Dos <b>torres almenadas</b> flanquean la fachada principal, que tiene <b>ocho balcones</b> de madera de estilo canario. Las almenas eran sobre todo una forma de mostrar el poder militar de sus dueños. Delante se abre una plaza de armas de 75 por 55 metros.</p><p>Es monumento desde el 13 de junio de 1979. Se restauró en 2005 y abrió al público en 2006 como espacio cultural.</p><p class=\"dato\"><span>¿Sabías que…?</span>En 1787 un visitante la describió como «la mejor Casa de todas las de la Ysla».</p>"
+   },
+   "ver_alli": [
+    "Las dos torres almenadas de la fachada.",
+    "Los ocho balcones de madera.",
+    "Los patios y la carpintería restaurada del interior."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Casa_de_los_Coroneles"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "torre-del-toston",
+   "nombre": "Torre del Tostón",
+   "provincia": "Las Palmas",
+   "comarca": "La Oliva (Fuerteventura)",
+   "lat": 28.68,
+   "lon": -14.0106,
+   "tipo": "castillo",
+   "estilo": "Torre defensiva del siglo XVIII",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>En El Cotillo, al noroeste de Fuerteventura, esta torre redonda de piedra volcánica vigilaba la costa y los barcos del puerto. La construyó en el <b>siglo XVIII</b> el ingeniero militar <b>Claudio de L'Isle</b>, sobre las ruinas de una torre anterior conocida como «castillo de Rico Roque».</p><p>Tiene <b>dos plantas</b>, la entrada en alto y una plataforma para la artillería: llegó a tener tres cañones de hierro contra los piratas franceses, ingleses y berberiscos. Su nombre original era <b>Torre de Nuestra Señora del Pilar y San Miguel</b>.</p><p>Es casi gemela de otras torres de la época, como la de Gando en Gran Canaria o el castillo de las Coloradas en Lanzarote. Es monumento desde 1949 y hoy se usa como sala de exposiciones y mirador.</p>"
+   },
+   "ver_alli": [
+    "La entrada en alto de la torre.",
+    "La plataforma de artillería y las vistas de la costa.",
+    "Las exposiciones de artistas locales del interior."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Torre_del_Tost%C3%B3n",
+    "https://www.burgenwelt.org/spanien/toston/burgenwelt-toston-objektseite.pdf"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "cueva-pintada-galdar",
+   "campos": {
+    "lat": 28.1441,
+    "lon": -15.6551,
+    "estilo": "Arte rupestre aborigen (pintura geométrica) y poblado de casas de piedra",
+    "ver_alli": [
+     "Empezar por el museo, con piezas halladas en el poblado y audiovisuales que explican la vida de los antiguos canarios.",
+     "Detenerse ante la cueva con los paneles geométricos en rojo, blanco y negro, el corazón del conjunto.",
+     "Recorrer el poblado de casas de piedra que rodea la cueva.",
+     "Completar la visita con el casco histórico de Gáldar, a pocos pasos."
+    ],
+    "fuentes": [
+     "https://rupestre.art/es/caves/cueva-pintada-galdar",
+     "https://www.openstreetmap.org/way/1317468782",
+     "https://www.google.com/maps/place/?q=place_id:ChIJVc3-rTHzQAwRkEUh6Qky-lo"
+    ]
+   }
+  },
+  {
+   "id": "risco-caido",
+   "campos": {
+    "lat": 28.0435,
+    "lon": -15.6618,
+    "estilo": "Arquitectura troglodita aborigen (cuevas excavadas)",
+    "texto": {
+     "general": "<p>En el margen izquierdo del <b>Barranco Hondo</b>, entre Artenara y Gáldar, los antiguos canarios excavaron en la roca volcánica del cantil un conjunto de <b>21 cuevas</b>, a unos cien metros sobre el fondo del barranco. Se usaron como viviendas y para guardar el grano y el ganado durante al menos seiscientos años, y algunas siguieron ocupadas hasta principios del siglo XX. Las dio a conocer el arqueólogo <b>Julio Cuenca</b>.</p><p>La más famosa es la cueva <b>C6</b>, un almogarén o lugar sagrado con una bóveda, rasgo único en las islas. Por una abertura artificial entra la luz del sol y de la luna y, a lo largo del año, va iluminando sus paredes, donde hay grabados de <b>triángulos</b> que se interpretan como representaciones del pubis femenino, símbolo de fertilidad. Se ha propuesto que funcionaba como <b>observatorio o calendario</b>, aunque algunos investigadores lo discuten por falta de estudios científicos que lo prueben.</p><p>El 7 de julio de 2019 la UNESCO declaró <b>Patrimonio Mundial</b> el «Paisaje cultural de Risco Caído y las Montañas Sagradas de Gran Canaria»: unas 18.000 hectáreas en Artenara, Tejeda, Gáldar y Agaete, con la cuenca de Tejeda y el macizo de Tamadaba. Fue el primer bien de Gran Canaria en la lista.</p><p class=\"dato\"><span>¿Sabías que…?</span>El paisaje protegido reúne más de un millar de grabados de triángulos púbicos, que se considera la mayor concentración del mundo.</p>"
+    },
+    "ver_alli": [
+     "Las cuevas están protegidas: conviene informarse en el centro de interpretación sobre cómo visitarlas.",
+     "Para entender el lugar, empezar por el Centro de Interpretación de Risco Caído en el pueblo de Artenara, a unos 3 km en línea recta, con una réplica de la cueva C6 donde se ve el juego de la luz.",
+     "Desde las cumbres de Artenara y Tejeda se domina el paisaje de las Montañas Sagradas, con el Roque Bentayga y el Roque Nublo."
+    ],
+    "fuentes": [
+     "https://rupestre.art/es/caves/risco-caido",
+     "https://es.wikipedia.org/wiki/Risco_Ca%C3%ADdo",
+     "https://www.openstreetmap.org/way/624104943",
+     "https://www.google.com/maps/place/?q=place_id:ChIJneTsTWuPQAwR1f8EVfH4hMo",
+     "https://www.elindependiente.com/tendencias/cultura/2019/07/08/risco-caido-las-montanas-sagradas-gran-canaria-patrimonio-mundial-la-unesco/amp/"
+    ]
+   }
+  },
+  {
+   "id": "cenobio-de-valeron",
+   "campos": {
+    "lat": 28.1388,
+    "lon": -15.604,
+    "anio": 1300,
+    "estilo": "Granero colectivo aborigen excavado en toba volcánica",
+    "texto": {
+     "general": "<p>Bajo un gran arco natural de toba volcánica, en el barranco de Valerón (Santa María de Guía), los antiguos canarios excavaron con herramientas de piedra y madera un enorme <b>granero colectivo</b>: <b>298 compartimentos</b> de entre uno y tres metros cuadrados, repartidos en ocho pisos, donde se guardaban el grano y otros alimentos de la comunidad.</p><p>Las dataciones más recientes sitúan su uso entre los <b>siglos XIII y XV</b>, justo antes de la conquista castellana, aunque algunos autores creen que se siguió usando algo más. Guardar la cosecha en lo alto de un risco, en un lugar común y vigilado, era una forma de protegerla y de repartirla en los años malos.</p><p>Su nombre viene de una idea romántica: durante mucho tiempo se creyó que allí vivían en clausura las <b>harimaguadas</b>, jóvenes consagradas, como en un convento o «cenobio». Hoy se sabe que era un granero. Fue declarado monumento histórico-artístico en 1978 y es Bien de Interés Cultural.</p>"
+    },
+    "ver_alli": [
+     "Subir por las escaleras y pasarelas hasta los silos: se ven las bocas de los compartimentos alineadas en pisos bajo el arco de toba.",
+     "Fijarse en las marcas de los cierres de los silos y en cómo aprovecharon la roca blanda.",
+     "Forma parte de la Red de Parques Arqueológicos de Gran Canaria; hay que contar con algunos escalones."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Cenobio_de_Valer%C3%B3n",
+     "https://www.openstreetmap.org/way/126733848",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ25afC1ONQAwRkQQHEjPww1I"
+    ]
+   }
+  },
+  {
+   "id": "roque-bentayga",
+   "campos": {
+    "lat": 27.9915,
+    "lon": -15.6418,
+    "estilo": "Santuario y poblado aborigen de montaña",
+    "texto": {
+     "general": "<p>El <b>Roque Bentayga</b> es un gran monolito de roca de <b>1.414 metros</b> de altitud en el centro de Gran Canaria, en la cuenca de Tejeda. Para los antiguos canarios fue un lugar sagrado y, según algunas fuentes, también un baluarte defensivo.</p><p>En el lado oriental de su base hay un <b>almogarén</b>, un lugar de culto excavado en la roca, y un muro de piedra recorre la base por el este y el sur, quizá para delimitar el espacio sagrado. Muy cerca, en las Cuevas del Rey y el roque Camello, hay un centenar de cuevas con viviendas, enterramientos y silos.</p><p>Fue declarado Bien de Interés Cultural, como zona arqueológica, en 2018. Está dentro del paisaje cultural de <b>Risco Caído y las Montañas Sagradas</b>, Patrimonio Mundial desde 2019, que abarca toda la cuenca de Tejeda.</p>"
+    },
+    "ver_alli": [
+     "Empezar por el Centro de Interpretación del Roque Bentayga, unos 400 m al sureste del roque, donde arranca el sendero.",
+     "Subir por el sendero (corto pero empinado) hasta el almogarén y el muro de la base del roque.",
+     "Desde arriba se ve la cuenca de Tejeda con el Roque Nublo enfrente."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Roque_Bentayga",
+     "https://es.wikipedia.org/wiki/Risco_Ca%C3%ADdo",
+     "https://www.openstreetmap.org/node/518504791",
+     "https://www.google.com/maps/place/?q=place_id:ChIJq6qqpsmPQAwRiFeTJdWlM6Q",
+     "https://www.google.com/maps/place/?q=place_id:ChIJN50h1aePQAwRUOdU1fTqaaQ"
+    ]
+   }
+  },
+  {
+   "id": "cuatro-puertas",
+   "campos": {
+    "lat": 27.959,
+    "lon": -15.4184,
+    "estilo": "Arquitectura troglodita aborigen excavada en toba",
+    "texto": {
+     "general": "<p>En la <b>Montaña Bermeja</b>, al sur de Telde y a unos cuatro kilómetros del aeropuerto de Gando, los antiguos canarios excavaron en la toba una gran cueva artificial orientada al noreste, de unos <b>17 por 7 metros</b>, con <b>cuatro grandes bocas</b> que se abren a un mismo espacio interior. Delante, una veintena de agujeros de poste indica que el porche estaba cerrado.</p><p>Su uso no está claro, pero por su forma monumental y su posición la mayoría de los arqueólogos la considera un <b>lugar sagrado</b>, donde dirigirían los ritos el faycán y las harimaguadas. En lo alto de la montaña hay un <b>almogarén</b> donde se hacían libaciones y ofrendas.</p><p>Alrededor hay más cuevas: la de <b>Los Papeles</b>, con triángulos grabados asociados a la fertilidad; la de <b>Los Pilares</b>, varias cavidades unidas por pasadizos estrechos, corazón de un poblado troglodita; la de <b>La Audiencia</b>, y una cantera de molinos de mano. Es Bien de Interés Cultural desde 1972.</p>"
+    },
+    "ver_alli": [
+     "Se deja el coche al final de la carretera y se sube a pie unos minutos por un camino de tierra; conviene calzado firme.",
+     "Además de la cueva de las cuatro bocas, dar la vuelta a la montaña por el sendero para ver las demás cuevas del poblado.",
+     "Desde la ladera se ven la costa y el aeropuerto de Gando."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Cuatro_Puertas",
+     "https://en.wikipedia.org/wiki/Four_Doors_cave_site,_Telde",
+     "https://www.openstreetmap.org/node/315516436",
+     "https://www.google.com/maps/place/?q=place_id:ChIJk1KCWQ2YQAwRfLc4TQOQFqo"
+    ]
+   }
+  },
+  {
+   "id": "poblado-de-tufia",
+   "campos": {
+    "lat": 27.9637,
+    "lon": -15.38,
+    "estilo": "Poblado aborigen costero de casas de piedra y cuevas",
+    "texto": {
+     "general": "<p>Sobre el promontorio de <b>Tufia</b>, en la costa de Telde, entre la playa de Tufia y la de Aguadulce, se conservan los restos de un poblado de los antiguos canarios. Tiene <b>casas de piedra seca</b> agrupadas en dos núcleos; en el del sur hay cuatro recintos de vivienda bien conservados.</p><p>En el lado sur del promontorio se abren <b>cuevas</b> directamente sobre el mar. Las dataciones por radiocarbono de una de las casas, hechas sobre una viga de tronco de palmera, la sitúan entre los <b>siglos XIII y XIV</b>, y en una antigua cueva de Aguadulce se obtuvo una de las fechas más antiguas de Gran Canaria.</p><p>Es un buen ejemplo de cómo vivían los antiguos canarios junto al mar. Está protegido desde 1973 y hoy es Bien de Interés Cultural, dentro del Sitio de Interés Científico de Tufia.</p>"
+    },
+    "ver_alli": [
+     "Ver las casas de piedra desde el vallado del promontorio y las cuevas abiertas sobre el mar en el lado sur.",
+     "El recinto vallado suele estar cerrado: se contempla desde fuera.",
+     "Junto al poblado está el pequeño caserío marinero de Tufia, con su playa de arena negra."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Tufia",
+     "https://dataciones.grancanaria.com/settlement/downloadPdf/55",
+     "https://www.openstreetmap.org/way/126710518",
+     "https://www.google.com/maps/place/?q=place_id:ChIJI4CissGiQAwRar1UyuM7PRg"
+    ]
+   }
+  },
+  {
+   "id": "barranco-de-guayadeque",
+   "campos": {
+    "lat": 27.9333,
+    "lon": -15.4825,
+    "estilo": "Poblado troglodita y necrópolis aborigen",
+    "texto": {
+     "general": "<p>El <b>Barranco de Guayadeque</b>, entre los municipios de Agüimes e Ingenio, es uno de los barrancos más grandes de Canarias. En sus laderas hay <b>cientos de cuevas</b> que los antiguos canarios usaron como viviendas y como lugares de enterramiento; en 2020 todavía se descubrieron zonas aborígenes intactas.</p><p>De aquí procede la mayor colección de <b>momias</b> y utensilios aborígenes que guarda hoy el <b>Museo Canario</b> de Las Palmas de Gran Canaria.</p><p>El barranco sigue habitado de una forma muy antigua: en el caserío de <b>Cueva Bermeja</b> hay cuevas convertidas en casas, una ermita y restaurantes en cuevas. Es Bien de Interés Cultural como zona arqueológica desde 1991 y Monumento Natural desde 2000.</p>"
+    },
+    "ver_alli": [
+     "Empezar por el Centro de Interpretación, a la entrada del barranco (unos 2,5 km aguas abajo de Cueva Bermeja), con una parte instalada en una cueva.",
+     "Subir por la carretera del barranco hasta Cueva Bermeja para ver las casas-cueva y la ermita.",
+     "Fijarse en las bocas de cuevas que salpican las paredes del barranco."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Barranco_de_Guayadeque",
+     "https://www.openstreetmap.org/node/3507793674",
+     "https://www.google.com/maps/place/?q=place_id:ChIJZTU9GASZQAwRbPjtwW9YJMU"
+    ]
+   }
+  },
+  {
+   "id": "necropolis-de-arteara",
+   "campos": {
+    "estilo": "Necrópolis tumular aborigen",
+    "texto": {
+     "general": "<p>En la margen derecha del <b>barranco de Fataga</b>, junto al caserío de Arteara, se extiende uno de los mayores <b>cementerios de los antiguos canarios</b>: más de <b>800 túmulos</b> de piedra repartidos en unos 137.000 metros cuadrados, entre los bloques de un antiguo derrumbe de ladera y junto a un palmeral.</p><p>Cada tumba tiene una <b>cista</b>, una caja de piedra donde se colocaba al difunto, cubierta por un túmulo de piedra seca; algunas llevan encima una estructura a modo de torreón. Es la misma forma de enterramiento de otras necrópolis de Gran Canaria, como el Maipés de Agaete.</p><p>Fue declarada monumento histórico-artístico en 1973 y es Bien de Interés Cultural como zona arqueológica. En 2014 se abrió un centro de interpretación y pasó a formar parte de la red de parques arqueológicos de la isla.</p>"
+    },
+    "ver_alli": [
+     "Empezar por el pequeño centro de visitantes, que explica los ritos funerarios de los antiguos canarios.",
+     "Recorrer los senderos señalizados entre los túmulos; el terreno es irregular y en algunos tramos empinado.",
+     "Volver por el palmeral de Arteara, en el fondo del barranco."
+    ],
+    "fuentes": [
+     "https://www.wikidata.org/wiki/Q6039283",
+     "https://es.wikipedia.org/wiki/Necr%C3%B3polis_de_Arteara",
+     "https://www.google.com/maps/place/?q=place_id:ChIJpzIyXeqcQAwRTjCBHURisek"
+    ]
+   }
+  },
+  {
+   "id": "maipes-de-agaete",
+   "campos": {
+    "lat": 28.0977,
+    "lon": -15.6931,
+    "estilo": "Necrópolis tumular aborigen sobre malpaís",
+    "texto": {
+     "general": "<p>A las afueras de Agaete, sobre una colada de lava (el «malpaís» o <b>maipés</b>), los antiguos canarios levantaron una gran <b>necrópolis</b> de unos 700 túmulos de piedra volcánica, según los recuentos. La colada, de unos 25 hectáreas en esta zona, procede de los volcanes cercanos y bajó por el fondo del barranco hace unos 3.000 años.</p><p>La mayoría de las tumbas tienen planta redonda o elíptica y forma de cono truncado; las más sencillas se rematan con anillos de piedras y las más elaboradas tienen forma de <b>torre</b>, y quizá eran de personajes importantes. Algunas llegan a ocho metros de diámetro y tres de altura.</p><p>Fue declarado patrimonio histórico en 1973 y es Bien de Interés Cultural como zona arqueológica. Desde 2013 es un parque arqueológico con pasarelas y paneles.</p>"
+    },
+    "ver_alli": [
+     "Seguir las pasarelas metálicas entre los túmulos, con paneles en castellano e inglés.",
+     "Buscar las tumbas en forma de torre, las más elaboradas del conjunto.",
+     "Fijarse en el contraste entre la lava negra y el verde del valle de Agaete; suele hacer viento."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Agaete_necropolis",
+     "https://www.openstreetmap.org/way/247233532",
+     "https://www.google.com/maps/place/?q=place_id:ChIJX_ayOCqLQAwRI0_TX6oKPAk"
+    ]
+   }
+  },
+  {
+   "id": "fortaleza-de-ansite",
+   "campos": {
+    "lat": 27.8815,
+    "lon": -15.5275,
+    "estilo": "Poblado troglodita y fortaleza natural aborigen",
+    "texto": {
+     "general": "<p><b>La Fortaleza</b> o Fortaleza de Ansite, en el corazón de la Caldera de Tirajana (Santa Lucía de Tirajana), es un poblado de los antiguos canarios formado por tres roques: la <b>Fortaleza Grande</b>, la Fortaleza Chica y Titana. En su cara oriental hay cuevas naturales y otras excavadas, que sirvieron de viviendas, graneros y enterramientos.</p><p>Fue uno de los últimos refugios de los canarios durante la conquista castellana, y aquí los asedió la tropa de Pedro de Vera. La tradición fija el <b>29 de abril de 1483</b> como el fin de la conquista de Gran Canaria, con la rendición de los últimos resistentes en Ansite.</p><p>Un túnel natural atraviesa el roque de lado a lado y comunica las dos vertientes del poblado. Es Bien de Interés Cultural.</p>"
+    },
+    "ver_alli": [
+     "Empezar por el Centro de Interpretación La Fortaleza, en la carretera GC-651, a unos 800 m del roque.",
+     "Subir hasta las cuevas de la cara oriental y atravesar el túnel que cruza la Fortaleza Grande; conviene calzado firme.",
+     "Desde arriba se domina la Caldera de Tirajana."
+    ],
+    "fuentes": [
+     "https://www.grancanaria.com/turismo/en/the-island/the-island-with-557-different-faces/la-fortaleza-a-telluric-place/",
+     "https://www.openstreetmap.org/node/1404531427",
+     "https://www.openstreetmap.org/node/834801973",
+     "https://www.google.com/maps/place/?q=place_id:ChIJsUFSD4ybQAwRc-0lbk4kkJQ"
+    ]
+   }
+  },
+  {
+   "id": "museo-canario",
+   "campos": {
+    "lat": 28.0996,
+    "lon": -15.4153,
+    "estilo": "Museo de arqueología y antropología canaria",
+    "texto": {
+     "general": "<p><b>El Museo Canario</b> nació en <b>1879</b> por iniciativa de un grupo de la burguesía de Las Palmas encabezado por el médico <b>Gregorio Chil y Naranjo</b> y el historiador Agustín Millares Torres. Es una sociedad científica y cultural, y desde su fundación guarda la colección más importante sobre la cultura de los antiguos canarios.</p><p>Está en el barrio de <b>Vegueta</b>, en la antigua casa de Chil. Expone cerámica, más de doscientas <b>pintaderas</b> (sellos de barro), figurillas de terracota como el célebre <b>Ídolo de Tara</b>, útiles de hueso y madera y una reproducción de la Cueva Pintada de Gáldar.</p><p>Su sala más impresionante es la sala Verneau, con unos <b>900 cráneos</b> y varias <b>momias</b> aborígenes. Tiene además archivo, biblioteca y una hemeroteca con más de un millón de ejemplares de periódicos y revistas.</p>"
+    },
+    "ver_alli": [
+     "Buscar el Ídolo de Tara y la vitrina de las pintaderas, con sus dibujos geométricos.",
+     "La sala de las momias y los cráneos puede impresionar a niños o personas sensibles.",
+     "Está a pocos minutos a pie de la catedral de Santa Ana y la Casa de Colón."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/El_Museo_Canario",
+     "https://en.wikipedia.org/wiki/Museo_Canario",
+     "https://www.openstreetmap.org/relation/7528179",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ1-x_NoyVQAwRWdvtW0QY5Zk"
+    ]
+   }
+  },
+  {
+   "id": "zonzamas",
+   "campos": {
+    "lat": 29.0125,
+    "lon": -13.5702,
+    "estilo": "Poblado aborigen majo",
+    "texto": {
+     "general": "<p>Entre la Caldera de Zonzamas y la Montaña de Maneje, en el centro de Lanzarote, está uno de los principales poblados de los <b>majos</b>, los antiguos habitantes de la isla. Lo más llamativo es el llamado <b>Palacio de Zonzamas</b>, una muralla de aspecto ciclópeo alrededor de una cueva natural, con piedras que pesan entre 1.300 y 1.800 kilos.</p><p>Según las investigaciones, se construyó hacia el <b>siglo V</b>, estuvo ocupado hasta el VIII, se volvió a habitar desde el XII y quizá se abandonó tras la gran erupción de Timanfaya de 1730-1736. Hay casas hondas semienterradas, cerámica, huesos de cabra, conchas de lapas y grabados. Una gran <b>quesera</b>, un bloque de basalto de casi cuatro metros con canales paralelos labrados, plantea aún preguntas sobre su uso, quizá ritual.</p><p>La tradición lo asocia con <b>Zonzamas</b>, uno de los últimos reyes de la isla antes de la conquista, aunque su historia mezcla datos y leyenda. Las excavaciones empezaron en 1973; es monumento histórico-artístico desde 1979 y Bien de Interés Cultural desde 2000.</p>"
+    },
+    "ver_alli": [
+     "El yacimiento está vallado y sin acceso libre; se ve en visitas guiadas en grupo.",
+     "Fijarse en los enormes bloques de la muralla del Palacio de Zonzamas.",
+     "Junto al yacimiento se levanta el cono de la Caldera de Zonzamas."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Poblado_de_Zonzamas",
+     "https://es.wikipedia.org/wiki/Zonzamas",
+     "https://www.lanzarote.com/en/?p=1574",
+     "https://www.openstreetmap.org/node/631728423",
+     "https://www.google.com/maps/place/?q=place_id:ChIJccVVPAAhRgwR26355Qwkd_M"
+    ]
+   }
+  },
+  {
+   "id": "montana-de-tindaya",
+   "campos": {
+    "lat": 28.5964,
+    "lon": -13.9765,
+    "estilo": "Santuario rupestre aborigen (grabados podomorfos)",
+    "texto": {
+     "general": "<p>La <b>Montaña de Tindaya</b>, en La Oliva, se alza unos 400 metros sobre el nivel del mar en medio del llano de Esquinzo. Es un domo de <b>traquita</b>, una roca clara de origen volcánico, y fue la montaña sagrada de los <b>majos</b> de Fuerteventura.</p><p>En su roca hay más de <b>300 grabados de pies</b> humanos, los <b>podomorfos</b>, muchos de ellos orientados hacia el Teide y Gran Canaria. Su significado se discute: quizá eran ritos para pedir lluvia. Es Bien de Interés Cultural y además Monumento Natural.</p><p>En 1993 el escultor <b>Eduardo Chillida</b> ideó vaciar el interior de la montaña para crear un enorme espacio, el Monumento a la Tolerancia. El proyecto fue muy discutido y el Cabildo de Fuerteventura lo descartó en 2019.</p>"
+    },
+    "ver_alli": [
+     "Subir a la montaña no está permitido sin autorización: se contempla desde los caminos que la rodean.",
+     "Verla desde el pueblo de Tindaya, al pie de la montaña, sobre todo con la luz de la tarde."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monta%C3%B1a_de_Tindaya",
+     "https://en.wikipedia.org/wiki/Monta%C3%B1a_de_Tindaya",
+     "https://www.openstreetmap.org/node/1314528190",
+     "https://www.google.com/maps/place/?q=place_id:ChIJEdIly4i2RwwRaTBVdVZXSvc"
+    ]
+   }
+  },
+  {
+   "id": "poblado-de-la-atalayita",
+   "campos": {
+    "lat": 28.3249,
+    "lon": -13.9262,
+    "estilo": "Poblado aborigen majo de casas de piedra",
+    "texto": {
+     "general": "<p>En el valle de <b>Pozo Negro</b>, en el municipio de Antigua, los <b>majos</b> de Fuerteventura levantaron un poblado sobre un malpaís. Tiene más de <b>115 construcciones</b> repartidas en más de 1.200 metros cuadrados, con más de seis siglos de antigüedad: casas de piedra de planta redondeada, corrales y cuevas en los tubos volcánicos.</p><p>Las construcciones servían de refugio para la noche, de protección contra el mal tiempo y de escondite en caso de ataque. El conjunto muestra muy bien cómo vivían los pastores de la isla antes de la conquista.</p>"
+    },
+    "ver_alli": [
+     "Empezar por el Centro de Interpretación, a unos 250 m del poblado, con folletos que explican los tipos de construcciones.",
+     "Recorrer las casas de piedra semienterradas en la lava; algunas tienen la entrada muy baja.",
+     "Subir al pequeño cerro junto al poblado para verlo entero desde arriba."
+    ],
+    "fuentes": [
+     "https://www.hellocanaryislands.com/museums-and-places-of-interest/fuerteventura/la-atalayita/",
+     "https://www.openstreetmap.org/way/252144269",
+     "https://www.google.com/maps/place/?q=place_id:ChIJzWGaJliVRwwRvmdVGywduCc"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-santa-barbara",
+   "campos": {
+    "lat": 29.0579,
+    "lon": -13.55,
+    "estilo": "Arquitectura militar del siglo XVI",
+    "texto": {
+     "general": "<p>En el borde del cráter del volcán de <b>Guanapay</b>, a un kilómetro de Teguise, se levanta el castillo de Santa Bárbara. Empezó como una <b>torre de vigilancia</b> construida en el siglo XV por Sancho de Herrera, y a mediados del siglo XVI se convirtió en castillo para refugio de los vecinos de Teguise; la obra se terminó en 1576 rodeando la torre.</p><p>Lanzarote sufría los ataques de piratas y corsarios berberiscos. Tras el saqueo de <b>Morato Arráez</b> en 1586 el castillo se reconstruyó, y lo documentó el ingeniero <b>Leonardo Torriani</b> en sus informes al rey Felipe II. En el siglo XVII perdió importancia frente a las nuevas defensas de Arrecife.</p><p>Después fue palomar militar (1899) y, desde 1913, propiedad del Ayuntamiento de Teguise. Entre 1991 y 2011 albergó un museo etnográfico sobre la emigración canaria y hoy es el <b>Museo de la Piratería</b>. Es Bien de Interés Cultural.</p>"
+    },
+    "ver_alli": [
+     "Subir en coche o a pie hasta el borde del cráter de Guanapay.",
+     "Recorrer el castillo y las salas del Museo de la Piratería.",
+     "Desde arriba se ve la Villa de Teguise y buena parte de la isla."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Santa_B%C3%A1rbara_(Teguise)",
+     "https://turismoteguise.com/es/villa-de-teguise-detalle.php?pdf=1",
+     "https://www.openstreetmap.org/relation/3396286",
+     "https://www.google.com/maps/place/?q=place_id:ChIJAQCw53sgRgwRnJ6aWh_vKBI"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-la-luz",
+   "campos": {
+    "lat": 28.1486,
+    "lon": -15.4248,
+    "estilo": "Arquitectura militar (siglos XV-XVII)",
+    "texto": {
+     "general": "<p>La fortaleza más antigua de Gran Canaria se levantó en <b>1494</b>, al incorporarse la isla a la Corona de Castilla, por orden del gobernador <b>Alonso Fajardo</b>, en el lugar donde Juan Rejón había alzado un fuerte de madera en 1478. Se construyó sobre un arrecife que quedaba aislado en la pleamar; hoy está a más de 150 metros del mar, en el barrio de La Isleta.</p><p>Fue creciendo por fases: una torre medieval, un baluarte hacia 1515 y nuevos añadidos en 1553. En 1595 fue escenario de la resistencia de Las Palmas contra la flota de <b>Francis Drake</b> y John Hawkins, que no logró tomar la ciudad. En 1599 la armada holandesa de Pieter van der Does lo incendió, y se reconstruyó; su aspecto exterior es de finales del siglo XVII.</p><p>Es monumento histórico-artístico desde 1941. Tras una restauración de Nieto y Sobejano, desde 2015 es sede de la <b>Fundación de Arte y Pensamiento Martín Chirino</b>, con obras del escultor.</p>"
+    },
+    "ver_alli": [
+     "Recorrer el interior restaurado, donde las esculturas de hierro de Martín Chirino conviven con los muros antiguos.",
+     "Fijarse en los restos de la torre medieval en el centro del castillo.",
+     "Fijarse en cómo el castillo, que nació sobre un arrecife, ha quedado hoy tierra adentro, junto al puerto de La Luz."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_la_Luz",
+     "https://lpacultura.com/news/las-palmas-de-gran-canaria-and-its-history-as-a-fortified-city",
+     "https://en.wikipedia.org/wiki/Battle_of_Las_Palmas",
+     "https://www.openstreetmap.org/way/126808548",
+     "https://www.google.com/maps/place/?q=place_id:ChIJVVUlfEaVQAwR8AWz_lAAaAM"
+    ]
+   }
+  },
+  {
+   "id": "betancuria",
+   "campos": {
+    "lat": 28.4251,
+    "lon": -14.0572,
+    "estilo": "Casco histórico colonial canario",
+    "texto": {
+     "general": "<p>En un valle del interior de Fuerteventura, protegido de los ataques desde el mar, nació hacia <b>1405</b> la villa de Betancuria, que toma su nombre del conquistador normando <b>Jean de Béthencourt</b>. Fue la capital de la isla hasta <b>1834</b>, cuando la capitalidad pasó a La Oliva.</p><p>Su iglesia de <b>Santa María</b> fue catedral del obispado de Fuerteventura, creado en 1424 y suprimido en 1431. El 16 de agosto de 1593 una incursión berberisca dirigida por Xabán Arráez arrasó la villa y se llevó cautivos a unos sesenta vecinos; la iglesia se reconstruyó después y hoy tiene al lado un museo de arte sacro.</p><p>Junto al pueblo están las ruinas del convento franciscano de <b>San Buenaventura</b>, de 1416, el primero que se construyó en Canarias; no se reedificó tras el ataque de 1593.</p>"
+    },
+    "ver_alli": [
+     "Entrar en la iglesia de Santa María, en la plaza del mismo nombre.",
+     "Pasear por las calles empedradas de casas blancas del casco.",
+     "Acercarse a las ruinas del convento de San Buenaventura, a la entrada del pueblo."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Betancuria",
+     "https://www.openstreetmap.org/way/207292892",
+     "https://www.google.com/maps/place/?q=place_id:ChIJXcvn5XS7RwwRRPHJdLLR-ho"
+    ]
+   }
+  },
+  {
+   "id": "villa-de-teguise",
+   "campos": {
+    "lat": 29.0593,
+    "lon": -13.56,
+    "estilo": "Casco histórico colonial canario",
+    "texto": {
+     "general": "<p>Teguise, fundada por Maciot de Béthencourt, sobrino de Jean de Béthencourt, fue el primer núcleo urbano de Lanzarote y su <b>capital</b> desde la primera mitad del siglo XV hasta mediados del XIX, cuando la capitalidad pasó a Arrecife (en 1847 según Wikipedia; el Ayuntamiento da 1852).</p><p>Sus calles empedradas y casas blancas conservan conventos y casonas: la iglesia de <b>Nuestra Señora de Guadalupe</b>, del siglo XVI y matriz de la isla, los conventos de San Francisco y Santo Domingo, de los siglos XVI y XVII, y el <b>Palacio Spínola</b>, del siglo XVIII. El castillo de Santa Bárbara la vigila desde el volcán de Guanapay.</p><p>Está declarada conjunto histórico-artístico. Cada domingo sus calles se llenan con un gran mercadillo.</p>"
+    },
+    "ver_alli": [
+     "Empezar por la plaza de la Constitución, con la iglesia de Guadalupe y el Palacio Spínola.",
+     "Callejear hasta los conventos de San Francisco y Santo Domingo.",
+     "Los domingos el mercadillo ocupa el casco: si se busca tranquilidad, mejor otro día."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Teguise",
+     "https://turismoteguise.com/es/villa-de-teguise-detalle.php?pdf=1",
+     "https://www.openstreetmap.org/way/132913875",
+     "https://www.google.com/maps/place/?q=place_id:ChIJo56U1WUgRgwRqD4UKUMtGYE"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-santa-ana",
+   "campos": {
+    "lat": 28.1007,
+    "lon": -15.4149,
+    "estilo": "Gótico tardío, renacentista y neoclásico",
+    "texto": {
+     "general": "<p>La <b>Catedral de Santa Ana</b> preside la plaza del mismo nombre en <b>Vegueta</b>, el barrio fundacional de Las Palmas de Gran Canaria. Las obras empezaron hacia 1497-1500 con el diseño de Diego Alonso Montaude, a quien siguió Juan de Palacios, y se detuvieron en 1570 por falta de dinero.</p><p>El interior es de <b>gótico tardío</b>: sus pilares se abren en lo alto en nervios que recuerdan a <b>palmeras</b>. Desde 1781 el canónigo tinerfeño <b>Diego Nicolás Eduardo</b> continuó el templo siguiendo las estructuras góticas y le dio la fachada <b>neoclásica</b>. Hay también capillas con columnas renacentistas.</p><p>León XIII la declaró basílica en 1894 y es monumento histórico-artístico desde 1974. En una de las salas del patio de los Naranjos está el Museo Diocesano de Arte Sacro.</p>"
+    },
+    "ver_alli": [
+     "Mirar hacia arriba en las naves: los pilares se abren como troncos de palmera.",
+     "Subir a la torre (hay ascensor) para ver Vegueta y el puerto.",
+     "Ver el patio de los Naranjos y el Museo Diocesano, y en la plaza las esculturas de perros canarios."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_de_Canarias",
+     "https://en.wikipedia.org/wiki/Las_Palmas_Cathedral",
+     "https://www.openstreetmap.org/way/38062745",
+     "https://www.google.com/maps/place/?q=place_id:ChIJSc9YJoyVQAwRtp182Z2yz-w"
+    ]
+   }
+  },
+  {
+   "id": "casa-de-colon",
+   "campos": {
+    "lat": 28.1015,
+    "lon": -15.4141,
+    "estilo": "Arquitectura señorial canaria (siglo XVI, reformada en el XX)",
+    "texto": {
+     "general": "<p>En Vegueta, junto a la catedral, la <b>Casa de Colón</b> une varias casas de finales del siglo XVI; una de ellas formaría parte de la antigua casa de los gobernadores de la isla. Según la tradición, <b>Cristóbal Colón</b> pasó por aquí en 1492, en su primer viaje, cuando buscaba ayuda para reparar La Pinta, aunque no está comprobado.</p><p>El edificio ha tenido diversas reformas desde 1950 y conserva zonas del siglo XVI. Se inauguró como museo en <b>1951</b>.</p><p>Tiene dos patios y trece salas sobre los viajes de Colón, el papel de Canarias en la ruta a América, la historia de Gran Canaria y de la ciudad, cerámica precolombina y pintura de los siglos XVI al XIX, además de una biblioteca de unos 25.000 volúmenes.</p>"
+    },
+    "ver_alli": [
+     "Detenerse en los dos patios de la casa.",
+     "Ver las maquetas de barcos y la sala de cartografía.",
+     "En el piso alto, la colección de pintura de los siglos XVI al XIX."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Casa_de_Col%C3%B3n_(Las_Palmas_de_Gran_Canaria)",
+     "https://www.openstreetmap.org/relation/19853960",
+     "https://www.google.com/maps/place/?q=place_id:ChIJvdT2mI6VQAwR6y8B8S-vYCk"
+    ]
+   }
+  },
+  {
+   "id": "jameos-del-agua",
+   "campos": {
+    "lat": 29.1575,
+    "lon": -13.4319,
+    "estilo": "Arte y arquitectura de César Manrique en un tubo volcánico",
+    "texto": {
+     "general": "<p>Los <b>Jameos del Agua</b> están en un tubo volcánico formado por la erupción del <b>volcán de La Corona</b>, de unos 6 kilómetros conocidos, de los que al menos 1,5 se adentran bajo el mar (el Túnel de la Atlántida). Un «jameo» es el agujero que se abre cuando se hunde el techo de un tubo volcánico.</p><p>El artista lanzaroteño <b>César Manrique</b> transformó el lugar en un espacio de arte, música y naturaleza. Las obras empezaron a principios de los años sesenta; las primeras fases se abrieron al público en <b>1966</b> y el conjunto, con su auditorio, se inauguró oficialmente en 1977.</p><p>En el lago interior, de agua de mar, vive un diminuto cangrejo ciego y albino, el <i>Munidopsis polymorpha</i>, endémico de aquí. Desde 1987 la Casa de los Volcanes se dedica a la vulcanología.</p>"
+    },
+    "ver_alli": [
+     "Bajar por el Jameo Chico hasta el lago para ver los cangrejos ciegos; no se pueden echar monedas al agua.",
+     "Asomarse al Jameo Grande, con la piscina blanca y los jardines diseñados por Manrique.",
+     "Ver el auditorio excavado en el tubo volcánico y la Casa de los Volcanes."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Jameos_del_Agua",
+     "https://www.openstreetmap.org/way/1240819746",
+     "https://www.google.com/maps/place/?q=place_id:ChIJgVp54cqjSAwRylE3Lpfj4TA"
+    ]
+   }
+  },
+  {
+   "id": "geoparque-lanzarote-mancha-blanca",
+   "campos": {
+    "estilo": "Paisaje volcánico (erupciones de 1730-1736 y 1824)",
+    "ver_alli": [
+     "Centro de Visitantes e Interpretación de Mancha Blanca (carretera Tinajo-Yaiza, km 11,5), con sala que simula una erupción y pasarela sobre las lavas de 1730-1736.",
+     "Ruta en autobús por las Montañas del Fuego, dentro del Parque Nacional de Timanfaya.",
+     "No se deben coger piedras ni salir de las pasarelas."
+    ],
+    "fuentes": [
+     "https://tinajo.es/en/node/1131",
+     "https://miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/timanfaya/guia-visitante/mancha-blanca.html",
+     "https://geoparquelanzarote.org/?p=1931",
+     "https://www.openstreetmap.org/way/52832220",
+     "https://www.google.com/maps/place/?q=place_id:ChIJdzthuB8jRgwRs6Y3B6Fs__s"
+    ]
+   }
+  },
+  {
+   "id": "ajuy-complejo-basal",
+   "campos": {
+    "estilo": "Afloramiento geológico (complejo basal y sedimentos marinos)",
+    "ver_alli": [
+     "Sendero desde la playa de arena negra de Ajuy hasta las cuevas, entre capas de sedimentos marinos y antiguos hornos de cal.",
+     "No se deben coger piedras ni salir de los caminos señalizados."
+    ],
+    "fuentes": [
+     "https://hellocanaryislands.com/nature-spaces/fuerteventura/cuevas-de-ajuy",
+     "https://macpaleo.uac.pt/locations/cuevas-de-ajuy-puerto-de-la-pena-147/",
+     "https://en.wikipedia.org/wiki/Geology_of_the_Canary_Islands",
+     "https://www.openstreetmap.org/node/319804504",
+     "https://www.google.com/maps/place/?q=place_id:ChIJWROTOv6lRwwRw8WOowhAp40"
+    ]
+   }
+  }
+ ]
+}
