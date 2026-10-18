@@ -1,0 +1,1260 @@
+{
+ "zona": "Navarra",
+ "nuevos": [
+  {
+   "id": "ciudadela-de-pamplona",
+   "nombre": "Ciudadela de Pamplona",
+   "provincia": "Navarra",
+   "comarca": "Pamplona",
+   "lat": 42.8119,
+   "lon": -1.6493,
+   "tipo": "castillo",
+   "estilo": "Fortificación abaluartada renacentista",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1571,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>En <b>1571 Felipe II</b> ordenó levantar en Pamplona una ciudadela moderna, capaz de resistir la artillería. El proyecto fue del ingeniero militar <b>Giacomo Palearo, «el Fratín»</b>, con el impulso del virrey Vespasiano Gonzaga, y tomó como modelo la ciudadela que Francesco Paciotto había trazado para Amberes.</p><p>El resultado es una <b>estrella de cinco puntas</b> con un baluarte en cada una: San Antón y La Victoria mirando a la ciudad, y San Juan (o El Real), Santa María y Santiago hacia el campo. Los dos baluartes interiores se derribaron en parte a finales del siglo XIX y principios del XX para abrir el Primer Ensanche.</p><p>Su episodio más famoso es casi de novela: el <b>16 de febrero de 1808</b> las tropas francesas del general D'Armagnac la tomaron con un engaño, acercando a la puerta soldados desarmados que redujeron a la guardia. Perdió su carácter militar en <b>1964</b> y hoy es, junto a la Vuelta del Castillo, la <b>mayor zona verde de Pamplona</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>Corre una versión legendaria según la cual los franceses entraron fingiendo una pelea de bolas de nieve; el relato del historiador Thiers no la recoge.</p>"
+   },
+   "ver_alli": [
+    "Recorre el foso y los baluartes para ver la planta en estrella.",
+    "Entra en los edificios interiores (Polvorín, Horno, Cuerpo de Guardia), que hoy acogen exposiciones.",
+    "Fíjate en el corte de los baluartes interiores, mutilados por el Ensanche."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Ciudadela_de_Pamplona",
+    "https://es.wikipedia.org/wiki/Fortificaciones_de_Pamplona",
+    "https://www.openstreetmap.org/way/42946489"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "murallas-de-pamplona",
+   "nombre": "Murallas de Pamplona",
+   "provincia": "Navarra",
+   "comarca": "Pamplona",
+   "lat": 42.8213,
+   "lon": -1.6408,
+   "tipo": "monumento",
+   "estilo": "Fortificación abaluartada (siglos XVI-XVIII)",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Pamplona conserva buena parte del cinturón de piedra que la convirtió en <b>plaza fuerte</b> de la frontera con Francia. El recinto medieval común a los burgos estaba cerrado a finales del siglo XV; tras la conquista castellana y la toma de 1521 se reforzó, y el gran proyecto del ingeniero <b>Verboom</b> (1726) guió las obras de todo el siglo XVIII. El conjunto subsistente fue declarado <b>Monumento Nacional en 1939</b>.</p><p>Cada baluarte tiene su historia: el de <b>Redín</b>, antes llamado de la Magdalena, recibió a mediados del XVIII el baluarte bajo de Guadalupe; el de <b>Labrit</b> lleva desde 1669 el nombre de Juan de Labrit, el último rey de la Navarra independiente, que según la tradición huyó por su puerta.</p><p>La entrada más emblemática es el <b>Portal de Francia</b>, construido en <b>1553</b> por el virrey duque de Alburquerque, que aún conserva su <b>puente levadizo</b>. En el <b>Fortín de San Bartolomé</b>, comenzado en 1727, funciona desde 2010 el Centro de Interpretación de las Fortificaciones.</p><p class=\"dato\"><span>¿Sabías que…?</span>El puente levadizo del Portal de Francia se baja cada año para que entren los Reyes Magos.</p>"
+   },
+   "ver_alli": [
+    "Asómate al mirador del baluarte de Redín, sobre el meandro del Arga.",
+    "Cruza el Portal de Francia y mira el mecanismo del puente levadizo.",
+    "Visita el Fortín de San Bartolomé para entender el sistema defensivo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Fortificaciones_de_Pamplona",
+    "https://www.pamplona.es/en/node/39226"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-san-saturnino-pamplona",
+   "nombre": "Iglesia de San Saturnino (San Cernin)",
+   "provincia": "Navarra",
+   "comarca": "Pamplona",
+   "lat": 42.818,
+   "lon": -1.6449,
+   "tipo": "iglesia",
+   "estilo": "Gótico",
+   "epoca": "Gótico",
+   "anio": 1297,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Es la parroquia del antiguo <b>Burgo de San Cernin</b>, el barrio de francos que durante siglos vivió separado —y a menudo enfrentado— de la Navarrería y de San Nicolás. Sobre un templo románico de hacia 1180-1200 se levantó la iglesia <b>gótica</b> actual, que alcanzó el hastial hacia <b>1297</b>, fecha que figura en la clave de la bóveda del sotocoro.</p><p>Su interior es una <b>nave única muy amplia</b> con bóveda sexpartita y capillas entre contrafuertes. Por fuera la delatan sus dos <b>torres medievales</b>, de unos 55 metros, que estuvieron almenadas hasta el siglo XVIII: la de la campana marcaba la vida de la ciudad y la del reloj tuvo su primer reloj en 1499.</p><p>En el siglo XVIII se sustituyó el claustro gótico por la gran <b>capilla barroca de la Virgen del Camino</b>, de cruz griega, comenzada en 1758 y bendecida en 1776. La imagen, románica, apareció en 1487 y es patrona de la ciudad.</p>"
+   },
+   "ver_alli": [
+    "El atrio del siglo XVI con las tallas de Santiago peregrino y San Saturnino.",
+    "Las dos torres desde la calle San Saturnino.",
+    "La capilla de la Virgen del Camino, contraste barroco con la nave gótica."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Saturnino_(Pamplona)",
+    "https://www.openstreetmap.org/way/265883845"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-san-nicolas-pamplona",
+   "nombre": "Iglesia de San Nicolás",
+   "provincia": "Navarra",
+   "comarca": "Pamplona",
+   "lat": 42.8157,
+   "lon": -1.6449,
+   "tipo": "iglesia",
+   "estilo": "Gótico (iglesia-fortaleza)",
+   "epoca": "Gótico",
+   "anio": 1231,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>San Nicolás nació como <b>iglesia-fortaleza</b> de la Población de San Nicolás, uno de los tres burgos que formaron Pamplona y que se gobernaron por separado hasta el <b>Privilegio de la Unión de 1423</b>. Se alzó junto a la muralla exterior y servía de bastión, una forma de esquivar la prohibición real de construir defensas contra el vecino Burgo de San Cernin.</p><p>La rivalidad acabó en tragedia: en <b>1222</b> los de San Cernin asaltaron e incendiaron el templo con vecinos refugiados dentro. La iglesia nueva se consagró en <b>1231</b>; sus naves son protogóticas y las bóvedas del crucero y el presbiterio, del siglo XIV.</p><p>Los añadidos neogóticos de ladrillo del siglo XIX ocultan buena parte del exterior, pero los muros gruesos y la torre con matacanes recuerdan su pasado militar. Dentro guarda un <b>órgano barroco de 1769</b>, de los más importantes de la ciudad.</p>"
+   },
+   "ver_alli": [
+    "La torre mayor con matacanes, herencia de la iglesia-fortaleza.",
+    "El órgano barroco de 1769.",
+    "Las vidrieras y bóvedas del presbiterio, del siglo XIV."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Nicol%C3%A1s_(Pamplona)",
+    "https://www.openstreetmap.org/way/33168413"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "camara-de-comptos-pamplona",
+   "nombre": "Cámara de Comptos",
+   "provincia": "Navarra",
+   "comarca": "Pamplona",
+   "lat": 42.8176,
+   "lon": -1.6456,
+   "tipo": "monumento",
+   "estilo": "Gótico civil",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Este sobrio caserón <b>gótico</b> se construyó en el <b>siglo XIII</b> como residencia, y Carlos V lo compró en 1524; desde el siglo XVI alberga la institución que le da nombre.</p><p>La <b>Cámara de Comptos</b> la creó el rey <b>Carlos II de Navarra el 18 de febrero de 1365</b> como tribunal permanente para revisar las cuentas del reino. Sigue existiendo: hoy fiscaliza la gestión económica y financiera del sector público navarro.</p><p>El edificio fue declarado <b>Monumento Nacional en 1868</b>.</p>"
+   },
+   "ver_alli": [
+    "La fachada de piedra con arcos apuntados de la calle Ansoleaga.",
+    "El patio interior, si está abierto.",
+    "Compara su sobriedad con la iglesia de San Saturnino, a pocos pasos."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/C%C3%A1mara_de_Comptos_de_Navarra",
+    "https://www.openstreetmap.org/way/1429105339"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-fitero",
+   "nombre": "Monasterio de Fitero",
+   "provincia": "Navarra",
+   "comarca": "Fitero",
+   "lat": 42.056,
+   "lon": -1.8571,
+   "tipo": "iglesia",
+   "estilo": "Cisterciense, transición del románico al gótico",
+   "epoca": "Románico",
+   "anio": 1140,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>El monasterio cisterciense de Fitero nació gracias a una donación de <b>Alfonso VII en 1140</b>. Tras un primer asentamiento en Niencebas, la comunidad se trasladó a Fitero hacia 1152. De aquí salió su abad <b>San Raimundo</b>, que en 1158 recibió de Sancho III la plaza de Calatrava y fundó la milicia que daría lugar a la <b>Orden de Calatrava</b>.</p><p>La iglesia, de <b>transición del románico al gótico</b>, es enorme: tres naves de seis tramos, crucero y una cabecera con <b>girola y cinco capillas</b>. Se empezó en el último cuarto del siglo XII y se terminó en <b>1247</b> con fondos del arzobispo Rodrigo Jiménez de Rada.</p><p>Del monasterio destaca la <b>sala capitular</b>, la estancia mejor conservada, con bóvedas sobre cuatro columnas exentas. El retablo mayor es del siglo XVI, y en el tesoro se guarda una <b>arqueta califal de marfil de 966</b> que cita Medina Azahara.</p><p class=\"dato\"><span>¿Sabías que…?</span>Se han catalogado más de 200 marcas de cantero; una de ellas, una jirafa, recuerda a un diplodocus. Bécquer ambientó en este monasterio su leyenda <i>El miserere</i>.</p>"
+   },
+   "ver_alli": [
+    "La girola con sus cinco capillas, muy cisterciense.",
+    "La sala capitular en la panda este del claustro.",
+    "Busca marcas de cantero en los sillares."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Fitero",
+    "https://www.openstreetmap.org/node/8827070393"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-tulebras",
+   "nombre": "Monasterio de Tulebras",
+   "provincia": "Navarra",
+   "comarca": "Tulebras",
+   "lat": 41.9767,
+   "lon": -1.6761,
+   "tipo": "iglesia",
+   "estilo": "Románico cisterciense",
+   "epoca": "Románico",
+   "anio": 1157,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>El monasterio de <b>Santa María de la Caridad</b> es la <b>primera fundación femenina del Císter en España</b> y casa madre de otros monasterios cistercienses de monjas. El rey navarro García Ramírez ofreció en 1147 un lugar cerca de Tudela a monjas llegadas del Languedoc, y hacia <b>1157</b> la comunidad se estableció aquí, a unos 11 km al sur de la ciudad.</p><p>La iglesia es <b>románica cisterciense</b> de finales del siglo XII, cubierta en el siglo XVI con una bóveda renacentista de resabios góticos. El monasterio sobrevivió a la desamortización de 1835 y hoy sigue habitado por una comunidad de monjas.</p><p>Su <b>museo</b> reúne pintura, escultura, orfebrería y libros de coro de los siglos XVI al XVIII, y una de sus salas es el antiguo <b>dormitorio monacal del siglo XII</b>.</p>"
+   },
+   "ver_alli": [
+    "La sobria iglesia románica cisterciense.",
+    "El museo, con la sala del dormitorio medieval.",
+    "Los productos que elaboran las monjas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Tulebras",
+    "https://www.openstreetmap.org/relation/7253002"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-marcilla",
+   "nombre": "Castillo de Marcilla",
+   "provincia": "Navarra",
+   "comarca": "Marcilla",
+   "lat": 42.3267,
+   "lon": -1.7387,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Esta fortaleza gótica la levantó en el <b>siglo XV</b> el poderoso <b>mosén Pierres de Peralta</b>, con ayuda del rey Carlos III el Noble, que aportó materiales y mil libras. Es un cuadrado con <b>cuatro torreones</b> en las esquinas, otros más esbeltos en el centro de los muros y una torre del homenaje en la fachada.</p><p>Tras la conquista castellana, el cardenal <b>Cisneros</b> ordenó en 1516 derribar los castillos navarros. Marcilla se salvó gracias a <b>Ana de Velasco</b>, esposa del primer marqués de Falces, que impidió la demolición, y por eso el castillo sigue en pie.</p><p>El Gobierno de Navarra lo compró en 1976 y lo restauró a fondo entre 2009 y 2012. Hoy es la <b>casa consistorial</b> de Marcilla y aún se ven buena parte de sus <b>fosos</b>.</p>"
+   },
+   "ver_alli": [
+    "Los fosos que rodean el edificio.",
+    "La torre del homenaje en la fachada principal.",
+    "El juego de torreones prismáticos de las esquinas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Marcilla",
+    "https://www.openstreetmap.org/node/4170345447"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-maria-la-real-de-olite",
+   "nombre": "Iglesia de Santa María la Real de Olite",
+   "provincia": "Navarra",
+   "comarca": "Olite",
+   "lat": 42.4817,
+   "lon": -1.6499,
+   "tipo": "iglesia",
+   "estilo": "Gótico",
+   "epoca": "Gótico",
+   "anio": 1300,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Pegada al Palacio Real, Santa María fue la iglesia donde celebraban sus actos religiosos los reyes de la <b>casa de Évreux</b>. Se empezó en el primer tercio del siglo XIII con un estilo entre cisterciense y gótico inicial, y evolucionó hacia el gótico pleno.</p><p>Su joya es la <b>portada</b>, terminada hacia <b>1300</b>: un arco apuntado presidido por la Virgen con el Niño, con escenas de la infancia de Jesús —Anunciación, Nacimiento, matanza de los inocentes, huida a Egipto— y flanqueado por un friso con el <b>apostolado</b>. Delante, el <b>atrio</b> añadido hacia 1432 luce esculturas atribuidas al taller de <b>Jehan de Lome</b>.</p><p>Dentro, el <b>retablo mayor</b> de <b>Pedro de Aponte</b> (1528) reúne 28 tablas pintadas al óleo en cinco pisos alrededor de una Virgen gótica. La torre del siglo XV aprovechó el cuerpo de un torreón antiguo. Es Bien de Interés Cultural desde 1925.</p>"
+   },
+   "ver_alli": [
+    "La portada con el apostolado y las escenas de la infancia de Cristo.",
+    "Las esculturas del atrio, del taller de Jehan de Lome.",
+    "El retablo de Pedro de Aponte, con sus 28 tablas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_la_Real_(Olite)",
+    "https://www.openstreetmap.org/way/159238699"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-de-los-reyes-de-navarra-estella",
+   "nombre": "Palacio de los Reyes de Navarra (Estella)",
+   "provincia": "Navarra",
+   "comarca": "Estella-Lizarra",
+   "lat": 42.6694,
+   "lon": -2.0298,
+   "tipo": "monumento",
+   "estilo": "Románico civil",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Frente a la escalinata de San Pedro de la Rúa se alza uno de los <b>dos únicos edificios románicos civiles de Navarra</b>, construido en la <b>segunda mitad del siglo XII</b>. Es una rareza: casi todo lo que queda del románico son iglesias y monasterios, y aquí vemos cómo era un palacio de la época.</p><p>La fachada principal abre en la planta baja una galería de <b>cuatro arcos de medio punto</b>. En uno de sus capiteles se representa la lucha de <b>Roldán contra el gigante Ferragut</b>, héroes de las leyendas carolingias; el escultor lo firmó: <i>MARTINUS ME FECIT</i>, Martín de Logroño. El piso superior de ladrillo es un añadido del siglo XVIII.</p><p>Monumento Histórico-Artístico desde 1931, desde el <b>14 de junio de 1991</b> alberga el <b>Museo Gustavo de Maeztu</b>, dedicado a este pintor.</p>"
+   },
+   "ver_alli": [
+    "El capitel de Roldán y Ferragut, a la izquierda de la fachada.",
+    "Busca la firma de Martín de Logroño en el ábaco.",
+    "Las salas del Museo Gustavo de Maeztu."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Palacio_de_los_Reyes_de_Navarra_(Estella)",
+    "https://www.openstreetmap.org/way/429897256"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santo-sepulcro-de-estella",
+   "nombre": "Iglesia del Santo Sepulcro de Estella",
+   "provincia": "Navarra",
+   "comarca": "Estella-Lizarra",
+   "lat": 42.6697,
+   "lon": -2.0252,
+   "tipo": "iglesia",
+   "estilo": "Románico y gótico",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Esta iglesia de Estella ya era en <b>1123</b> sede de la cofradía del Santo Sepulcro. De hacia 1200 quedan la nave del Evangelio y un ábside semicircular <b>románico</b>; en el siglo XIV se añadieron cabeceras poligonales y la obra no se concluyó hasta el siglo XVI. Dejó de ser parroquia en 1881.</p><p>Lo que de verdad hay que ver es su <b>portada gótica de principios del siglo XIV</b>: doce arquivoltas y un tímpano en tres pisos con la <b>Última Cena</b> abajo, las tres Marías ante el sepulcro y el <i>Noli me tangere</i> en medio, y la <b>Crucifixión</b> arriba. La corona un apostolado en hornacinas.</p><p>A los lados de la puerta esperan <b>Santiago vestido de peregrino</b> y san Martín de Tours como obispo, un saludo de piedra para quienes llegaban por el Camino.</p>"
+   },
+   "ver_alli": [
+    "El tímpano de tres pisos de la portada.",
+    "Las figuras de Santiago peregrino y san Martín junto a la puerta.",
+    "El ábside románico, la parte más antigua."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_del_Santo_Sepulcro_(Estella)",
+    "https://www.openstreetmap.org/way/111459756"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-del-crucifijo-puente-la-reina",
+   "nombre": "Iglesia del Crucifijo",
+   "provincia": "Navarra",
+   "comarca": "Puente la Reina",
+   "lat": 42.6731,
+   "lon": -1.8107,
+   "tipo": "iglesia",
+   "estilo": "Románico tardío",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Es lo primero que encuentra el peregrino al entrar en Puente la Reina: el Camino de Santiago pasa <b>bajo el arco de la iglesia del Crucifijo</b> antes de enfilar la calle Mayor. La fundaron los <b>templarios</b> a mediados del siglo XII junto a un albergue para caminantes, y después perteneció a la Orden de Malta; desde 1919 la atienden los padres reparadores.</p><p>El templo es <b>románico tardío</b> del siglo XII, ampliado en el siglo XIV. Pero la fama se la da su crucificado: un <b>Cristo gótico</b> de origen germánico clavado en una insólita <b>cruz en forma de Y</b>, como un árbol con dos ramas.</p>"
+   },
+   "ver_alli": [
+    "El Cristo gótico sobre la cruz en forma de Y.",
+    "El arco por el que el Camino entra en la villa.",
+    "La sobriedad del templo tardorrománico."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Puente_la_Reina",
+    "https://www.pilgrim.es/?p=17190",
+    "https://www.openstreetmap.org/way/718201775"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-criz-de-eslava",
+   "nombre": "Ciudad romana de Santa Criz",
+   "provincia": "Navarra",
+   "comarca": "Eslava",
+   "lat": 42.5456,
+   "lon": -1.4511,
+   "tipo": "yacimiento",
+   "estilo": "Ciudad romana",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>En un cerro de Eslava se esconden los restos de una <b>ciudad romana</b> de nombre aún incierto —se han propuesto Nemanturissa o Biturís, que cita Ptolomeo—. Nació como un <b>castro vascón</b> que, con la llegada de Roma y sobre todo en época de <b>Augusto</b>, se transformó en ciudad al modo romano y llegó a ocupar cerca de <b>13 hectáreas</b>.</p><p>El yacimiento lo descubrió el sacerdote Juan Castrillo en <b>1917</b>, y se excava desde los años noventa. La estructura más importante es el <b>foro</b>, con un criptopórtico y una basílica, del que solo se ha excavado un tercio. Fuera de la ciudad se extiende una <b>necrópolis</b> de unos 2.000 m², con enterramientos suntuosos con estatuas y otros sencillos con estelas.</p>"
+   },
+   "ver_alli": [
+    "El criptopórtico del foro.",
+    "Los mausoleos y la necrópolis al pie del cerro.",
+    "Las vistas desde el cerro, que explican por qué se eligió el sitio."
+   ],
+   "fuentes": [
+    "https://www.unav.edu/web/bebrave/pensar/santa-criz-un-yacimiento-arqueologico-por-resurgir",
+    "https://www.openstreetmap.org/way/1343510299"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "ciudad-romana-de-cara",
+   "nombre": "Ciudad romana de Cara",
+   "provincia": "Navarra",
+   "comarca": "Santacara",
+   "lat": 42.374,
+   "lon": -1.5494,
+   "tipo": "yacimiento",
+   "estilo": "Ciudad romana",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Junto a Santacara, que conserva el nombre antiguo, estuvo la ciudad de los <b>carenses</b>. <b>Plinio el Viejo</b> los cita junto a los de Andelos y Pompaelo dentro del convento jurídico de Caesaraugusta, y <b>Ptolomeo</b> la sitúa en territorio vascón. Era además una <i>mansio</i> en la vía de Caesaraugusta a Pompaelo y un importante cruce de caminos.</p><p>La ciudad vivió entre el <b>siglo I a.C. y el IV d.C.</b> sobre un poblado anterior, y ocupaba unas <b>16-18 hectáreas</b>. Entre 1974 y 1982 <b>María Ángeles Mezquíriz</b> dirigió siete campañas que sacaron a la luz el foro, zonas de casas, la acrópolis y la necrópolis, con cerámica, restos de esculturas de bronce y mármol e inscripciones.</p><p>Es Bien de Interés Cultural y solo se ha excavado una parte de la ciudad.</p>"
+   },
+   "ver_alli": [
+    "Las estructuras del foro y las casas excavadas.",
+    "Las zonas de la acrópolis y la necrópolis.",
+    "El pueblo de Santacara, heredero del nombre romano."
+   ],
+   "fuentes": [
+    "https://es.hispanopedia.com/wiki/Ciudad_romana_de_Cara",
+    "https://www.openstreetmap.org/node/2110571507"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-monjardin",
+   "nombre": "Castillo de Monjardín (San Esteban de Deyo)",
+   "provincia": "Navarra",
+   "comarca": "Villamayor de Monjardín",
+   "lat": 42.6338,
+   "lon": -2.1061,
+   "tipo": "castillo",
+   "estilo": "Ruinas medievales",
+   "epoca": "Castillos y fortalezas",
+   "anio": 914,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Sobre una cima de <b>890 metros</b> de Tierra Estella se levantaba el castillo de <b>San Esteban de Deyo</b>. Fue una de las últimas fortalezas de los <b>Banu Qasi</b>, hasta que el rey <b>Sancho Garcés I</b> de Pamplona la conquistó en <b>914</b>; el monarca fue enterrado en San Esteban.</p><p>Hoy solo quedan en pie sus muros. Muchas de sus piedras se reutilizaron en el siglo XVII para construir la <b>ermita barroca de San Esteban</b>, junto a las ruinas, que son Bien de Interés Cultural desde 1985.</p><p>El lugar está envuelto en leyendas: el <i>Códice Calixtino</i> cuenta que <b>Carlomagno</b> tomó el castillo a un príncipe navarro llamado Furré, y el nombre de Monjardín se ha relacionado con el «Mons Garzini» de aquellos relatos.</p>"
+   },
+   "ver_alli": [
+    "La panorámica sobre Tierra Estella desde la cima.",
+    "Los restos de muralla del castillo.",
+    "La ermita de San Esteban, hecha con piedras del castillo."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/San_Esteban_de_Deyo",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ-eooDwpzUA0R6ueRKKuB2sk"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-maria-de-viana",
+   "nombre": "Iglesia de Santa María de Viana",
+   "provincia": "Navarra",
+   "comarca": "Viana",
+   "lat": 42.5152,
+   "lon": -2.3714,
+   "tipo": "iglesia",
+   "estilo": "Gótico, con portada del siglo XVI",
+   "epoca": "Gótico",
+   "anio": 1250,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>La gran iglesia de Viana se construyó entre <b>1250 y 1312</b>: tres naves <b>góticas</b> de cuatro tramos, cabecera poligonal y bóvedas de crucería. En el siglo XVI se le añadió en el lado sur una monumental <b>portada</b>, contratada en <b>1549</b> por Juan de Goyaz, y la torre.</p><p>A sus pies está la tumba más famosa de la villa: la de <b>César Borgia</b>, que murió en una emboscada junto a Viana en marzo de <b>1507</b>. Un obispo de Calahorra mandó sacar sus restos y enterrarlos en la calle; se localizaron en 1884, se analizaron en 1945 y desde 1953 descansan a los pies de la portada, fuera del templo.</p><p>Dentro, la <b>capilla de San Juan del Ramo</b> fue decorada entre 1784 y 1787 por el pintor <b>Luis Paret y Alcázar</b>, con pinturas al temple en la cúpula y dos lienzos de 1786 y 1787.</p>"
+   },
+   "ver_alli": [
+    "La portada sur del siglo XVI, como un gran arco de triunfo.",
+    "La lápida de César Borgia ante la iglesia.",
+    "Las pinturas de Luis Paret en la capilla de San Juan del Ramo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_(Viana)",
+    "https://www.openstreetmap.org/way/345397534"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santuario-de-san-miguel-de-aralar",
+   "nombre": "Santuario de San Miguel de Aralar",
+   "provincia": "Navarra",
+   "comarca": "Huarte-Araquil",
+   "lat": 42.947,
+   "lon": -1.9668,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>En lo alto de la sierra de Aralar está uno de los santuarios más queridos de Navarra. Su primera mención escrita es de <b>1032</b>, aunque se cree que hubo aquí un templo prerrománico. La iglesia actual es <b>románica</b>, de tres naves casi de la misma altura y tres ábsides.</p><p>Su gran curiosidad es que dentro de la iglesia hay <b>otra pequeña capilla</b> con tejado a dos aguas, del siglo XII, levantada sobre la gruta donde, según la leyenda, se apareció San Miguel. El relato cuenta que el caballero <b>Teodosio de Goñi</b>, condenado a arrastrar cadenas por matar por error a sus padres, quedó libre cuando el arcángel venció a un dragón en este monte.</p><p>Su tesoro es el <b>retablo esmaltado</b>: 39 piezas de cobre dorado y esmaltado de finales del siglo XII. En <b>1979</b> lo robó el famoso ladrón de arte Erik «el Belga».</p>"
+   },
+   "ver_alli": [
+    "El retablo de esmaltes del siglo XII en la cabecera.",
+    "La capillita interior sobre la gruta de la aparición.",
+    "Los trozos de cadena atribuidos a Teodosio de Goñi."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Santuario_de_San_Miguel_de_Aralar",
+    "https://www.openstreetmap.org/way/76086280"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "cerco-de-artajona",
+   "nombre": "Cerco de Artajona",
+   "provincia": "Navarra",
+   "comarca": "Artajona",
+   "lat": 42.5917,
+   "lon": -1.7653,
+   "tipo": "monumento",
+   "estilo": "Recinto amurallado románico",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1085,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Desde la carretera, Artajona parece un castillo de cuento: una muralla con torres que corona un cerro. Es el <b>Cerco</b>, levantado entre <b>1085 y 1109</b> por los canónigos de <b>Saint-Sernin de Toulouse</b>, señores de la villa gracias a una donación de 1084 del obispo de Pamplona. Las obras las dirigió el primer rector tolosano, Hugo de Conques.</p><p>El recinto tenía unos <b>700 metros de perímetro</b> y <b>17 torres</b>; hoy se mantienen nueve y los cimientos de otras tres. Dentro se alza la iglesia-fortaleza de <b>San Saturnino</b>, del siglo XIII, con un curioso tejado invertido que recogía la lluvia en un aljibe.</p><p>Es Bien de Interés Cultural desde 1999.</p>"
+   },
+   "ver_alli": [
+    "El paseo de ronda y las torres restauradas.",
+    "La iglesia-fortaleza de San Saturnino en lo alto.",
+    "La vista del conjunto desde la carretera de acceso."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Cerco_de_Artajona",
+    "https://www.openstreetmap.org/node/2984461792"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "dolmenes-de-artajona",
+   "nombre": "Dólmenes de Artajona",
+   "provincia": "Navarra",
+   "comarca": "Artajona",
+   "lat": 42.6254,
+   "lon": -1.7514,
+   "tipo": "yacimiento",
+   "estilo": "Megalitismo",
+   "epoca": "Neolítico",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>En las lomas al norte de Artajona se encuentra el <b>grupo de dólmenes más meridional de Navarra</b>. Los dos más conocidos son el <b>Portillo de Enériz</b> y <b>La Mina de Farangortea</b>, separados por unos 850 metros de pinar.</p><p>Son grandes <b>sepulcros de galería con losa de separación</b>, levantados con enormes piedras y cubiertos por túmulos de más de 20 metros de diámetro. Su tipo no encaja del todo en los modelos clásicos: los arqueólogos los ven como una variante entre la galería cubierta y el sepulcro de corredor. El de Farangortea lo dio a conocer Tomás López Sellés en 1961.</p>"
+   },
+   "ver_alli": [
+    "La cámara y las grandes losas del Portillo de Enériz.",
+    "La losa separadora con hendidura central de La Mina.",
+    "El paseo de unos 850 m entre ambos dólmenes."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Artajona_(Navarra)",
+    "https://apie.navarramedia.es/en/rutas/route-2-dolmenes-de-artajona/",
+    "https://www.aranzadi.eus/fileadmin/docs/Munibe/1961041044.pdf",
+    "https://www.openstreetmap.org/node/198382695"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-de-tudela-palacio-decanal",
+   "nombre": "Museo de Tudela (Palacio Decanal)",
+   "provincia": "Navarra",
+   "comarca": "Tudela",
+   "lat": 42.0632,
+   "lon": -1.6055,
+   "tipo": "museo",
+   "estilo": "Palacio gótico-mudéjar con fachada plateresca",
+   "epoca": "Gótico",
+   "anio": 2000,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Junto a la catedral, el <b>Palacio Decanal</b> fue la residencia de los deanes de Tudela, que gobernaban la colegiata con poderes casi de obispo. Se construyó entre <b>1477 y 1500</b> en estilo <b>gótico-mudéjar</b>, y hacia <b>1515</b> el deán <b>Pedro de Villalón</b>, camarero del papa Julio II, le añadió la rica fachada <b>plateresca</b> de la calle Roso, con los escudos del papa.</p><p>Tras una restauración completa, el <b>26 de junio de 2000</b> abrió aquí el <b>Museo de Tudela</b>, de propiedad diocesana. Sus salas recorren arqueología, escultura, pintura, retablos, orfebrería y el claustro románico de la catedral.</p>"
+   },
+   "ver_alli": [
+    "La fachada plateresca de la calle Roso.",
+    "La fachada mudéjar de ladrillo de la calle La Merced.",
+    "El acceso al claustro románico de la catedral."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Palacio_Decanal_(Tudela)",
+    "https://museodetudela.com/en/museum/the-building/",
+    "https://www.openstreetmap.org/node/3595274807"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "acueducto-de-noain",
+   "nombre": "Acueducto de Noáin",
+   "provincia": "Navarra",
+   "comarca": "Noáin (Valle de Elorz)",
+   "lat": 42.7466,
+   "lon": -1.6282,
+   "tipo": "monumento",
+   "estilo": "Neoclásico",
+   "epoca": "Ilustración y Neoclásico",
+   "anio": 1782,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Al sur de Pamplona, una fila de <b>96 arcos</b> cruza el campo durante casi <b>un kilómetro</b>. Es el acueducto de Noáin, la gran obra hidráulica del reinado de <b>Carlos III</b>, diseñada por el arquitecto <b>Ventura Rodríguez</b> y terminada en <b>1782</b>.</p><p>Su misión era llevar a Pamplona el agua potable del <b>manantial de Subiza</b>, en la vertiente norte de la sierra del Perdón. Abasteció a la capital hasta <b>1895</b>. Es Bien de Interés Cultural desde 1992.</p>"
+   },
+   "ver_alli": [
+    "La sucesión de arcos de sillería a lo largo del valle.",
+    "Recorre a pie parte de su kilómetro de longitud.",
+    "Observa la regularidad de sus 96 arcos."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Acueducto_de_No%C3%A1in",
+    "https://www.openstreetmap.org/way/26129919"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "hipogeo-de-longar",
+   "nombre": "Hipogeo de Longar",
+   "provincia": "Navarra",
+   "comarca": "Viana",
+   "lat": 42.5775,
+   "lon": -2.3934,
+   "tipo": "yacimiento",
+   "estilo": "Sepulcro colectivo (hipogeo)",
+   "epoca": "Neolítico",
+   "anio": -2630,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>En 1985 un vecino de Viana, Luis Arazuri, descubrió esta tumba colectiva excavada en la tierra. Entre 1991 y 1993 la excavaron Javier Armendáriz y Susana Irigaray, y encontraron los restos de <b>114 personas</b> —hombres, mujeres y niños— depositados entre el <b>2630 y el 2500 a.C.</b>, a finales del Neolítico.</p><p>La tumba tiene un corredor de piedras hincadas y una <b>cámara excavada en la arcilla</b> de 1,5 m de altura, cubierta por dos losas que pesan casi siete toneladas. A la entrada, una losa con un orificio circular servía de puerta.</p><p>Lo que la hace célebre son sus <b>flechas</b>: de las 31 puntas de sílex halladas, <b>cuatro estaban clavadas en huesos</b> —en la cara, la columna y el hombro—, una prueba directa de violencia hace unos 4.600 años. Una herida en una costilla muestra señales de haber cicatrizado.</p>"
+   },
+   "ver_alli": [
+    "El corredor de ortostatos que lleva a la cámara.",
+    "Las dos grandes losas de la cubierta.",
+    "La losa de entrada con el orificio circular."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Hipogeo_de_Longar_(Viana)",
+    "https://www.openstreetmap.org/node/5505646668"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "real-fabrica-de-armas-de-orbaiceta",
+   "nombre": "Real Fábrica de Armas de Orbaiceta",
+   "provincia": "Navarra",
+   "comarca": "Orbaizeta (Valle de Aezkoa)",
+   "lat": 43.0091,
+   "lon": -1.2278,
+   "tipo": "monumento",
+   "estilo": "Arquitectura industrial de la Ilustración",
+   "epoca": "Ilustración y Neoclásico",
+   "anio": 1784,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>En el Pirineo navarro, en el valle de Aezkoa, se conservan los restos de una gran instalación industrial del siglo XVIII. Aquí, donde ya funcionaba una ferrería autorizada por la reina Blanca I desde <b>1432</b>, Carlos III fundó en <b>1784</b> la <b>Real Fábrica de Armas y Municiones</b>.</p><p>Los franceses la destruyeron en parte durante la Guerra de la Independencia, y cerró definitivamente en <b>1884</b> tras años de pleitos entre los vecinos del valle de Aezkoa y los militares. Sus restos entraron en 2008 en la Lista Roja del patrimonio en peligro y ese mismo año fueron declaradas <b>Bien de Interés Cultural</b>; desde entonces se han consolidado varias construcciones.</p>"
+   },
+   "ver_alli": [
+    "Los restos consolidados de los edificios de la fábrica.",
+    "El antiguo palacio, hoy centro de visitantes.",
+    "El entorno del valle de Aezkoa, puerta de Irati."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Real_F%C3%A1brica_de_Armas_de_Orbaiceta",
+    "https://www.openstreetmap.org/way/185812330"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "cuevas-de-zugarramurdi",
+   "nombre": "Cuevas de Zugarramurdi",
+   "provincia": "Navarra",
+   "comarca": "Zugarramurdi",
+   "lat": 43.2684,
+   "lon": -1.5481,
+   "tipo": "monumento",
+   "estilo": "Cueva natural",
+   "epoca": "Barroco",
+   "anio": 1610,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>El arroyo Olabidea, llamado en euskera <i>Infernuko erreka</i>, el «arroyo del infierno», ha excavado en la roca una gran cueva que en su tramo mayor mide unos <b>120 metros de largo, 30 de ancho y 12 de alto</b>. Un escenario así alimentó durante siglos las historias de aquelarres.</p><p>Su nombre quedó ligado a un célebre proceso de brujería: hacia <b>1610</b> la Inquisición de Logroño juzgó a <b>31 personas</b> de Baztán, Urdax y Zugarramurdi. Trece murieron bajo tortura y el <b>7 de diciembre</b> seis fueron quemadas vivas y otras cinco en efigie.</p><p>Para entender aquella historia, el pueblo abrió en <b>julio de 2007</b> el <b>Museo de las Brujas</b> en su antiguo hospital.</p>"
+   },
+   "ver_alli": [
+    "La gran sala atravesada por el arroyo del Infierno.",
+    "Las dimensiones de la sala principal, de 12 metros de alto.",
+    "El Museo de las Brujas, en el pueblo, para completar la visita."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Cuevas_de_Zugarramurdi",
+    "https://www.openstreetmap.org/node/493597568"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "aezkoa-irati",
+   "campos": {
+    "estilo": "Megalitismo (dólmenes y crómlechs)",
+    "lat": 43.038,
+    "lon": -1.223,
+    "texto": {
+     "general": "<p>Los pastos altos del <b>valle de Aezkoa</b>, en el Pirineo navarro y camino de la selva de Irati, están sembrados de monumentos prehistóricos: se conocen <b>13 dólmenes, 51 crómlechs y 11 túmulos</b>. Los dólmenes son sepulcros colectivos de piedra; los crómlechs, círculos de piedras hincadas del I milenio a. C. donde se depositaban las cenizas de los difuntos.</p><p>El punto de la app está en la <b>estación megalítica de Azpegi</b>, en término de Orbaizeta, el conjunto mejor señalizado y más fácil de visitar del valle. En el collado de Azpegi (Azpegiko lepoa) se agrupa una quincena de pequeños crómlechs, y alrededor se reparten los dólmenes <b>Azpegi I a IV</b>. El mayor, Azpegi I, tiene una cámara rectangular dentro de un túmulo de unos 15 metros, rodeado a su vez por un crómlech de 12 piedras; los otros tres conservan solo dos o tres losas.</p><p>A un kilómetro hacia el oeste, en la loma de Soroluze, hay otro dolmen y otro grupo de crómlechs. La ruta sale del refugio de Azpegi, a unos 2,8 km de la antigua <b>Real Fábrica de Municiones de Orbaizeta</b>, levantada en 1784 por orden de Carlos III.</p><p class=\"dato\"><span>¿Sabías que…?</span>Muy cerca, en la cima del Urkulu, se alza una torre romana.</p>"
+    },
+    "ver_alli": [
+     "Los crómlechs del collado de Azpegi: círculos pequeños de piedras que asoman entre la hierba.",
+     "El dolmen Azpegi I, con su túmulo y su anillo de piedras.",
+     "Senderos libres por los pastos de Aezkoa; desde el refugio de Azpegi se puede seguir hasta la loma de Soroluze.",
+     "Selva de Irati y las ruinas de la fábrica de Orbaizeta, muy cerca."
+    ],
+    "fuentes": [
+     "https://www.rutasnavarra.com/asp/asp_artic/709.pdf",
+     "https://www.irati.org/visitas-recomendadas/visitas-recomendadas-aezkoa/",
+     "https://www.irati.org/senderismo/estacion-megalitica-de-azpegi/",
+     "https://www.megalithic.co.uk/article.php?sid=21569",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Azpegi",
+     "https://www.google.com/maps/place/?q=place_id:ChIJbwngxMXSUA0R5TPwPdhpYxw"
+    ]
+   }
+  },
+  {
+   "id": "las-eretas",
+   "campos": {
+    "estilo": "Protohistoria (primera Edad del Hierro)",
+    "lat": 42.5272,
+    "lon": -1.8312,
+    "texto": {
+     "general": "<p>Las Eretas es un poblado de la <b>primera Edad del Hierro</b>, de la cultura de los Campos de Urnas, a orillas del Arga en Berbinzana. Apareció por sorpresa en <b>1991</b>, cuando el pueblo iba a construir unas piscinas: el arqueólogo <b>Javier Armendáriz</b> excavó buscando restos romanos y encontró, a un metro de profundidad, una aldea del <b>siglo VII a. C.</b>, habitada hasta el siglo I a. C.</p><p>Una <b>muralla</b> con dos torres rodeaba un caserío de casas rectangulares adosadas, con el hogar en el centro y paredes de adobe pintadas con dibujos geométricos en rojo y negro. Se ordenaban en torno a una calle y una pequeña plaza enlosada, y no hay grandes diferencias de tamaño entre ellas. Bajo el suelo de varias casas aparecieron <b>seis enterramientos de recién nacidos</b>, uno de ellos un bebé de tres meses cubierto por una losa con una taza y una ofrenda de comida.</p><p>Solo se ha excavado en torno a una quinta parte del yacimiento. Desde <b>2011</b> lo acompaña un museo instalado en una antigua fábrica de conservas, con reconstrucciones de los interiores de las casas.</p><p class=\"dato\"><span>¿Sabías que…?</span>La necrópolis del poblado no se ha encontrado: se supone que estaba fuera de la muralla, como era costumbre.</p>"
+    },
+    "ver_alli": [
+     "Museo y ruinas visitables.",
+     "Las casas reconstruidas, con su hogar central y paredes pintadas.",
+     "La muralla y la calle enlosada del poblado."
+    ],
+    "fuentes": [
+     "https://observatorio-investigacion.unavarra.es/documentos/6466674ded623452f23f4198",
+     "https://www.world-archaeology.com/issues/travel-las-eretas/",
+     "https://www.wikidata.org/wiki/Q141548302",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Museo%20de%20las%20Eretas%2C%20Berbinzana"
+    ],
+    "anio": -700
+   }
+  },
+  {
+   "id": "alto-cruz",
+   "campos": {
+    "estilo": "Protohistoria (Bronce final y primera Edad del Hierro)",
+    "lat": 41.9263,
+    "lon": -1.4454,
+    "texto": {
+     "general": "<p>En un cerro junto a Cortes, en la Ribera, está uno de los grandes yacimientos de la <b>protohistoria europea</b>: un poblado de los <b>Campos de Urnas</b> ocupado desde el Bronce final hasta la primera Edad del Hierro. Durante décadas fue la referencia para fechar la I Edad del Hierro en la Península.</p><p>Se excavó por primera vez entre <b>1950 y 1952</b> (O. Gil Farrés) y después, de forma intermitente, con <b>Juan Maluquer de Motes</b>, que lo estudió en los años cincuenta y volvió en 1986-1988. En los años noventa un equipo de la Universidad de Barcelona reabrió los trabajos, que quedaron sin terminar.</p><p>En <b>2023</b> empezó una nueva fase de investigación, con campañas en 2024 y 2025. Han documentado la cara exterior de la <b>muralla</b>, de 2,2 metros de grosor en la zona excavada, y una estancia de adobe adosada a ella, y han tomado muestras para fechar por radiocarbono unas fases que hasta ahora se databan solo por la cerámica.</p>"
+    },
+    "ver_alli": [
+     "Visita guiada y exposición permanente.",
+     "El tramo de muralla excavado y la estancia de adobe adosada.",
+     "Desde el cerro, la vega del Ebro que dominaba el poblado."
+    ],
+    "fuentes": [
+     "https://www.ub.edu/grap/index.php/alto-de-la-cruz-las-claves-de-la-protohistoria-europea/difusion",
+     "https://www.culturanavarra.es/uploads/files/TAN%2037%2014.pdf",
+     "https://www.wikidata.org/wiki/Q120780128",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Alto%20de%20la%20Cruz%2C%20Cortes%2C%20Navarra"
+    ]
+   }
+  },
+  {
+   "id": "andelos",
+   "campos": {
+    "estilo": "Romano",
+    "texto": {
+     "general": "<p>Andelos fue una <b>ciudad romana</b> en territorio de los vascones, citada por Plinio y Ptolomeo como ciudad tributaria del convento jurídico de Caesaraugusta. Nació sobre una pequeña aldea de la Edad del Hierro de los siglos IV-III a. C. y vivió su mejor época en los <b>siglos I y II d. C.</b>; hoy se recorren el trazado de sus calles, casas, tiendas, termas y fuentes.</p><p>Lo más notable es su <b>sistema de abastecimiento de agua</b>: la presa de <b>Iturránduz</b> (en realidad dos presas, descubiertas en 1980 y 1983), un canal y un depósito de distribución o <i>castellum aquae</i>. En el yacimiento apareció además, en 1993, un pavimento con una <b>inscripción ibérica</b>.</p><p>Lo excavaron Saturnino Rivera Manescau en 1940, Blas Taracena en 1943-1944 y, de forma sistemática entre 1980 y 2000, <b>María Ángeles Mezquíriz</b>. El pequeño museo, de 1999-2000, expone entre otras piezas el mosaico del <b>Triunfo de Baco</b>.</p>"
+    },
+    "ver_alli": [
+     "Con entrada y reserva.",
+     "La presa y el depósito del sistema de agua.",
+     "El mosaico del Triunfo de Baco, en el museo."
+    ],
+    "fuentes": [
+     "https://www.spain.info/fr/curiosites/ruines-romaines-andelos-mendigorria/",
+     "https://www.wikidata.org/wiki/Q3615328",
+     "https://es.wikipedia.org/wiki/Andelos"
+    ]
+   }
+  },
+  {
+   "id": "arellano",
+   "campos": {
+    "estilo": "Romano",
+    "lat": 42.5526,
+    "lon": -2.0739,
+    "texto": {
+     "general": "<p>A unos 6,5 km al sur de Arellano, cerca de Estella, se levantó una <b>villa romana</b> habitada entre los siglos I y V d. C. En sus primeros siglos (I-III) fue una explotación agrícola volcada en el <b>vino</b>, con una gran bodega; después se transformó en una lujosa residencia de campo.</p><p>Su nombre viene del <b>mosaico octogonal de las Musas</b>, hallado por casualidad a finales del siglo XIX y trasladado al <b>Museo Arqueológico Nacional</b>. Blas Taracena hizo catas a mediados del siglo XX y María Ángeles Mezquíriz la excavó a fondo entre 1985 y 2000.</p><p>La villa tenía un <b>espacio de culto</b> con dos aras decoradas con cabezas de toro, que apunta a la diosa <b>Cibeles</b> y al taurobolio, un «bautismo de sangre» con el sacrificio de un toro. Estas prácticas pudieron mantenerse aquí hasta el siglo V. Hoy un edificio protege los restos, con mosaicos restaurados y paneles.</p>"
+    },
+    "ver_alli": [
+     "Con entrada (mismo operador que Andelos).",
+     "La bodega romana y su zona de producción de vino.",
+     "El espacio de culto con las aras de cabezas de toro."
+    ],
+    "fuentes": [
+     "https://www.unav.edu/web/catedra-patrimonio/itinerarios-visitas/la-villa-romana-de-arellano",
+     "https://www.unav.edu/web/catedra-patrimonio/itinerarios-visitas/la-villa-romana-de-arellano/taurobolio",
+     "https://www.unav.edu/web/catedra-patrimonio/itinerarios-visitas/la-villa-romana-de-arellano/edificio-exterior",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Villa%20romana%20de%20las%20Musas%20Arellano",
+     "https://www.google.com/maps/place/?q=place_id:ChIJadKceN11UA0Rl5S9S-477CI"
+    ]
+   }
+  },
+  {
+   "id": "palacio-real-de-olite",
+   "campos": {
+    "estilo": "Gótico civil",
+    "lat": 42.4817,
+    "lon": -1.6495,
+    "texto": {
+     "general": "<p>Fue la corte de <b>Carlos III el Noble</b>, que a finales del siglo XIV y comienzos del XV amplió el viejo castillo hasta convertirlo en uno de los palacios más refinados de la Europa de su tiempo. La <b>Gran Torre</b> se levantó entre 1402 y 1408, y la reina Leonor encargó la capilla de San Jorge.</p><p>El palacio es un laberinto de torres: la de la Vit, la más alta con 40 metros, la del Homenaje (133 escalones de caracol), la de los Cuatro Vientos, la de las Tres Coronas o la del Aljibe, que guardaba agua del Cidacos. Tenía <b>jardines colgantes</b>, algunos a casi 20 metros de altura, regados por tuberías de plomo desde 1409.</p><p>Tras la conquista de Navarra en 1512 entró en decadencia, y en <b>1813</b> el guerrillero <b>Espoz y Mina</b> lo incendió para que no se hicieran fuertes en él los franceses. Los arquitectos José y Javier Yárnoz ganaron en 1923 el concurso de restauración, empezada en 1937. Hoy es el monumento más visitado de Navarra, y el Palacio Viejo o de los Teobaldos es Parador.</p><p class=\"dato\"><span>¿Sabías que…?</span>La morera negra del patio es Monumento Natural de Navarra desde 1991.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "Subir a la torre del Homenaje y recorrer los adarves.",
+     "Los patios de la morera y los jardines colgantes.",
+     "Al lado, la portada gótica de Santa María la Real."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_Real_de_Olite",
+     "https://www.wikidata.org/wiki/Q1934670",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Castillo%20de%20Olite"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-pamplona",
+   "campos": {
+    "estilo": "Gótico, con fachada neoclásica",
+    "lat": 42.8196,
+    "lon": -1.6412,
+    "texto": {
+     "general": "<p>Sobre una catedral <b>románica</b> consagrada en 1127 se levanta la actual, <b>gótica</b>. En <b>1390</b> se hundió buena parte del templo románico, y el 27 de mayo de <b>1394</b>, reinando Carlos III el Noble, se puso la primera piedra del nuevo, que se terminó a comienzos del siglo XVI.</p><p>En el centro de la nave está el <b>sepulcro de Carlos III el Noble y Leonor de Trastámara</b>, de alabastro, obra de Johan Lome de Tournai, rodeado por un cortejo de 28 figuras de nobles y eclesiásticos. El <b>claustro</b>, de gótico francés y anterior a la iglesia (hacia 1280-1360), es una de las joyas del gótico europeo, con capiteles de bestiario y escenas de artesanos.</p><p>Por fuera engaña: la <b>fachada neoclásica</b>, de finales del siglo XVIII, la proyectó Ventura Rodríguez en 1783 y la ejecutó Santos Ángel de Ochandátegui. En sus torres cuelga la campana <b>María</b>, de unas 13 toneladas.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "El sepulcro de Carlos III y Leonor, en el centro de la nave.",
+     "El claustro gótico y sus puertas esculpidas.",
+     "La campana María, en las torres de la fachada."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_de_Pamplona_(Espa%C3%B1a)",
+     "https://www.ecured.cu/Catedral_de_Santa_Mar%C3%ADa_la_Real_de_Pamplona",
+     "https://www.barcelo.com/guia-turismo/es/espana/pamplona/que-ver/catedral-de-pamplona/",
+     "https://www.wikidata.org/wiki/Q389210",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Catedral%20de%20Pamplona"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-leyre",
+   "campos": {
+    "estilo": "Románico",
+    "lat": 42.6362,
+    "lon": -1.171,
+    "texto": {
+     "general": "<p>Leyre es uno de los monasterios más antiguos de Navarra: ya en <b>848</b> se alojó en él san Eulogio de Córdoba, que encontró una biblioteca bien surtida. Fue <b>panteón de los primeros reyes de Pamplona</b>; una arqueta de 1613 reúne los restos atribuidos a Íñigo Arista, Sancho Garcés I o Sancho Garcés II Abarca, entre otros, aunque la atribución se discute.</p><p>Su gran tesoro es la <b>cripta</b>, consagrada con la cabecera en <b>1057</b>, de columnas bajas y capiteles enormes. En el siglo XII se amplió la iglesia, nuevamente consagrada en 1098, y se labró la <b>Porta Speciosa</b>, atribuida al maestro Esteban, el de la puerta de las Platerías de Santiago.</p><p>Cerró el 16 de febrero de 1836 con la desamortización y quedó abandonado hasta que los <b>benedictinos</b> volvieron el 10 de noviembre de 1954. De aquí salió la <b>arqueta de Leyre</b>, marfil hispanomusulmán de 1005 hoy en el Museo de Navarra.</p><p class=\"dato\"><span>¿Sabías que…?</span>Según la leyenda, el abad <b>San Virila</b> se quedó escuchando a un ruiseñor y, al volver, habían pasado trescientos años.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "La cripta, con sus capiteles enormes casi a ras de suelo.",
+     "La Porta Speciosa, en la fachada occidental.",
+     "El conjunto de la cabecera románica, por fuera."
+    ],
+    "fuentes": [
+     "https://www.visitnavarra.es/en/-/ruta-medieval-navarra-olite-ujue-castillo-de-javier-y-monasterio-de-leyre",
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Salvador_de_Leyre",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Monasterio%20de%20Leyre",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ78LkB51TVw0RJ4dQx7vwrWE"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-la-oliva",
+   "campos": {
+    "estilo": "Cisterciense (románico y gótico)",
+    "lat": 42.3718,
+    "lon": -1.4667,
+    "texto": {
+     "general": "<p>Fue uno de los primeros monasterios <b>cistercienses</b> de la Península. La fecha tradicional de fundación, 1134, está superada: se cree que nació hacia 1145 y que en 1150 García Ramírez y Ramón Berenguer IV lo vincularon a la abadía francesa de Escaladieu.</p><p>La <b>iglesia abacial</b>, construida entre <b>1164 y 1198</b>, es de una sobriedad imponente: la nave central mide unos 74 metros de largo y 18 de alto. La portada y los rosetones son de hacia 1300; la sala capitular, de finales del siglo XII, y el <b>claustro gótico</b> se hizo entre mediados del siglo XIV y finales del XV.</p><p>Tras la desamortización los monjes salieron en 1835. En 1927 llegó una comunidad <b>trapense</b>, que aún lo habita, y en 2024 la iglesia reabrió tras una restauración.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "La nave de la iglesia, de 74 metros, sin apenas decoración.",
+     "El claustro gótico y la sala capitular cisterciense."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monasterio_de_La_Oliva",
+     "https://www.wikidata.org/wiki/Q110621",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Monasterio%20de%20la%20Oliva%20Carcastillo"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-irache",
+   "campos": {
+    "estilo": "Románico, con claustro plateresco",
+    "lat": 42.6501,
+    "lon": -2.0432,
+    "texto": {
+     "general": "<p>Documentado ya en el año <b>958</b>, Irache es uno de los monasterios más antiguos de Navarra. Entre 1052 y 1054 el rey García el de Nájera fundó aquí el <b>primer hospital de peregrinos</b> del reino, al pie del Camino de Santiago.</p><p>La <b>iglesia</b> actual, de los siglos XII y XIII, es románica. En el siglo XVI se añadieron el <b>claustro plateresco</b>, de Martín de Oyarzábal, y la Puerta Preciosa. Desde 1569 funcionó aquí una <b>universidad</b> benedictina, hasta su cierre a comienzos del siglo XIX, y con la desamortización de 1836 los monjes salieron y sus retablos se repartieron.</p><p>Junto al monasterio está la famosa <b>fuente del vino</b>: las Bodegas Irache adaptaron un caño de la fuente para que de él salga vino, y del otro, agua, para los peregrinos.</p>"
+    },
+    "ver_alli": [
+     "Libre.",
+     "La cabecera románica de la iglesia.",
+     "El claustro plateresco.",
+     "La fuente del vino, junto a las bodegas."
+    ],
+    "fuentes": [
+     "https://www.pilgrimaps.com/monastery-of-irache/",
+     "https://es.wikipedia.org/wiki/Monasterio_de_Irache",
+     "https://www.wikidata.org/wiki/Q1725740",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Monasterio%20de%20Irache"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-javier",
+   "campos": {
+    "estilo": "Medieval, muy restaurado",
+    "lat": 42.594,
+    "lon": -1.2158,
+    "texto": {
+     "general": "<p>El castillo arranca en el <b>siglo X</b>; en el XI se le añadió la primera muralla y en el XIII dos cuerpos poligonales y dos torres. Su parte más antigua es la <b>torre de San Miguel</b>, el torreón del homenaje.</p><p>Aquí nació el <b>7 de abril de 1506</b> <b>San Francisco Javier</b>, patrón de Navarra y uno de los primeros jesuitas. En <b>1516</b> el cardenal Cisneros mandó derribarlo; solo se desmochó, pero se rellenó el foso, se tiraron dos puertas y dos torres redondas y la de San Miguel quedó partida por la mitad.</p><p>A finales del siglo XIX estaba casi en ruinas cuando la duquesa de Villahermosa y su marido, el conde de Guaqui, emprendieron su restauración; ella lo donó después, con la basílica, a la Compañía de Jesús. Cada mes de marzo miles de personas acuden en la <b>Javierada</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>En la torre del Santo Cristo se conservan unas pinturas murales de la <b>danza de la muerte</b> descritas como únicas en España.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "La torre de San Miguel, la parte más antigua.",
+     "El Cristo gótico y la danza de la muerte de la torre del Santo Cristo."
+    ],
+    "fuentes": [
+     "https://www.castillodejavier.es/en",
+     "https://es.wikipedia.org/wiki/Castillo_de_Javier",
+     "https://es.wikipedia.org/wiki/Francisco_Javier",
+     "https://www.wikidata.org/wiki/Q112738",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Castillo%20de%20Javier"
+    ]
+   }
+  },
+  {
+   "id": "estella-lizarra",
+   "campos": {
+    "estilo": "Románico (conjunto medieval)",
+    "lat": 42.672,
+    "lon": -2.0316,
+    "texto": {
+     "general": "<p>Estella nació como <b>burgo de francos</b> en el Camino de Santiago: el rey <b>Sancho Ramírez</b> le concedió un fuero para atraer pobladores y comerciantes, y la villa se fundó hacia <b>1090</b>. El barrio de San Pedro de la Rúa se llenó de gentes del sur de Francia; luego crecieron los de San Miguel y San Juan, que en 1266 compartieron un único concejo.</p><p>Su patrimonio románico es tal que Julio Caro Baroja la llamó «capital del románico navarro» y otros, «la Toledo del norte». Destacan la iglesia de <b>San Pedro de la Rúa</b>, la portada de <b>San Miguel</b> y el <b>Palacio de los Reyes de Navarra</b>, del siglo XII, rara muestra de arquitectura civil románica y hoy Museo Gustavo de Maeztu.</p><p>Tuvo una importante judería, asaltada en 1328, cuya sinagoga se convirtió en la iglesia de Santa María Jus del Castillo. En el siglo XIX fue plaza fuerte del carlismo: Carlos VII instaló aquí su corte en 1874.</p>"
+    },
+    "ver_alli": [
+     "Acceso libre.",
+     "El Palacio de los Reyes de Navarra, en la plaza de San Martín.",
+     "La escalinata y la portada de San Pedro de la Rúa.",
+     "La portada de San Miguel, al otro lado del Ega."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Estella",
+     "https://www.wikidata.org/wiki/Q20492375",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Estella-Lizarra"
+    ]
+   }
+  },
+  {
+   "id": "puente-la-reina",
+   "campos": {
+    "estilo": "Románico (conjunto medieval)",
+    "lat": 42.6716,
+    "lon": -1.8155,
+    "texto": {
+     "general": "<p>Aquí se juntan las dos grandes rutas que llegan de Francia: la que baja de <b>Roncesvalles</b> y la que viene del <b>Somport</b>. Desde este punto forman un solo <b>Camino Francés</b> hacia Santiago.</p><p>Para que los peregrinos cruzaran el Arga, una reina mandó levantar en el <b>siglo XI</b> el <b>puente románico</b> que da nombre al pueblo; no se sabe si fue doña Mayor, esposa de Sancho el Mayor, o doña Estefanía, mujer de García el de Nájera. Mide 110 metros, con una calzada de 4 metros, y tiene siete arcos de medio punto (uno bajo tierra).</p><p>En 1122 la villa recibió el fuero de Estella. Su <b>calle Mayor</b> es el propio Camino y desemboca en el puente. En ella están la iglesia de <b>Santiago</b>, con portada románica y la talla de Santiago Beltza, y la del <b>Crucifijo</b>, que guarda un Cristo gótico en una cruz con forma de Y.</p>"
+    },
+    "ver_alli": [
+     "Acceso libre.",
+     "El puente románico, mejor visto desde la orilla del río.",
+     "La portada de Santiago, en la calle Mayor.",
+     "El Cristo en cruz de Y de la iglesia del Crucifijo."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Puente_la_Reina",
+     "https://www.wikidata.org/wiki/Q43170542",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Puente%20la%20Reina"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-de-eunate",
+   "campos": {
+    "estilo": "Románico",
+    "lat": 42.6722,
+    "lon": -1.7616,
+    "texto": {
+     "general": "<p>En mitad del campo, cerca de Muruzábal, se alza esta iglesia <b>románica</b> de la segunda mitad del siglo XII. Su planta es <b>octogonal</b>, aunque no del todo regular: la rompen un ábside pentagonal y una torrecilla cuadrada.</p><p>La rodea una <b>galería exterior de 33 arcos</b> con capiteles decorados, que le da su aspecto inconfundible. En sus tumbas aparecieron <b>conchas de vieira</b>, el símbolo del peregrino, por lo que se piensa que sirvió de refugio u hospital en el Camino de Santiago.</p><p>Se dice a menudo que es obra de los templarios, pero ningún documento lo prueba. Las plantas centrales recuerdan al Santo Sepulcro de Jerusalén, como en Torres del Río.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "Rodear la iglesia por la galería de 33 arcos.",
+     "Los capiteles de la arquería exterior."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_de_Eunate",
+     "https://www.wikidata.org/wiki/Q520112",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Eunate"
+    ]
+   }
+  },
+  {
+   "id": "santo-sepulcro-de-torres-del-rio",
+   "campos": {
+    "estilo": "Románico",
+    "lat": 42.5521,
+    "lon": -2.2714,
+    "texto": {
+     "general": "<p>Esta pequeña iglesia <b>octogonal</b>, levantada entre <b>1160 y 1170</b>, se atribuye a los templarios, que a menudo construían plantas centrales en recuerdo del Santo Sepulcro de Jerusalén.</p><p>Lo extraordinario está dentro: una <b>cúpula de crucería</b> cuyos ocho arcos se cruzan formando una estrella con un octógono en el centro. Es una bóveda de tipo hispanomusulmán que los estudios relacionan con las del mihrab de la mezquita de Córdoba.</p><p>La linterna que la corona se añadió después. Fue declarada monumento en 1931 y se restauró en 1960-1964 y en 1993.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "Mirar hacia arriba: la estrella de ocho arcos de la cúpula.",
+     "Por fuera, el volumen octogonal con la torrecilla."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Iglesia_del_Santo_Sepulcro_(Torres_del_R%C3%ADo)",
+     "https://www.wikidata.org/wiki/Q20970631",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Santo%20Sepulcro%2C%20Torres%20del%20R%C3%ADo"
+    ]
+   }
+  },
+  {
+   "id": "colegiata-de-roncesvalles",
+   "campos": {
+    "estilo": "Gótico",
+    "lat": 43.0097,
+    "lon": -1.3196,
+    "texto": {
+     "general": "<p>Al pie del Pirineo, Roncesvalles nació como <b>hospital de peregrinos</b>: su fundación empezó en 1127, y en la segunda mitad del siglo XII los canónigos levantaron el hospital de la Caridad.</p><p>A comienzos del siglo XIII <b>Sancho VII el Fuerte</b> impulsó la gran iglesia de Santa María, levantada por un arquitecto francés al modo del <b>gótico de París</b>, con planta derivada de Notre-Dame, y la eligió como sepultura. Su sepulcro está hoy en la capilla de San Agustín; su estatua yacente mide 2,25 metros, y se calcula que el rey medía más de dos metros. Según la tradición, la colegiata guarda las cadenas de la batalla de las Navas de Tolosa.</p><p>Incendios en 1445, 1468 y 1626 obligaron a rehacer gran parte en el siglo XVII. Preside el altar la <b>Virgen de Roncesvalles</b>, talla gótica de madera forrada de plata de mediados del siglo XIV. El museo guarda el llamado «ajedrez de Carlomagno».</p>"
+    },
+    "ver_alli": [
+     "Iglesia libre; museo con entrada.",
+     "La Virgen de plata del altar mayor.",
+     "El sepulcro de Sancho el Fuerte, en la capilla de San Agustín.",
+     "El «ajedrez de Carlomagno», en el museo."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Real_Colegiata_de_Santa_Mar%C3%ADa_de_Roncesvalles",
+     "https://www.unav.edu/web/catedra-patrimonio/itinerarios-visitas/roncesvalles/sepulcro-sancho-el-fuerte",
+     "https://www.unav.edu/web/catedra-patrimonio/actividades/ciclos-y-conferencias/2012/santa-maria-de-roncesvalles-y-la-recepcion-de-la-arquitectura-gotica-parisina",
+     "https://www.spain.info/es/lugares-interes/real-colegiata-roncesvalles/",
+     "https://www.wikidata.org/wiki/Q2984058",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Colegiata%20Roncesvalles"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-la-real-de-sanguesa",
+   "campos": {
+    "estilo": "Románico y gótico",
+    "lat": 42.5771,
+    "lon": -1.2853,
+    "texto": {
+     "general": "<p>En <b>1131</b> Alfonso I el Batallador donó a la Orden de San Juan de Jerusalén la entonces modesta iglesia de Santa María, junto al puente de Sangüesa sobre el Aragón, en pleno Camino.</p><p>Su gloria es la <b>portada sur</b>, uno de los grandes conjuntos escultóricos del Camino, con unas 333 esculturas. Firmada por <b>Leodegarius</b>, a quien se atribuye la mayor parte, muestra un <b>Juicio Final</b> con Cristo entronizado entre bienaventurados y condenados; en una jamba, una figura con una soga al cuello se identifica con <b>Judas</b>. El apostolado superior se atribuye al maestro de San Juan de la Peña.</p><p>Sobre el crucero se alza una <b>torre octogonal</b> rematada por una aguja gótica. Dentro, el retablo mayor plateresco (1550-1570) se atribuye a Jorge de Flandes.</p>"
+    },
+    "ver_alli": [
+     "Libre.",
+     "La portada sur: el Juicio Final y las figuras de las jambas.",
+     "La figura de Judas ahorcado.",
+     "La torre octogonal desde la calle Mayor."
+    ],
+    "fuentes": [
+     "https://www.visitnavarra.es/es/planifica-viaje/rutas-por-navarra/leyre-javier-sanguesa/-/categories/14012352",
+     "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_la_Real_(Sang%C3%BCesa)",
+     "https://www.wikidata.org/wiki/Q5117169",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Santa%20Mar%C3%ADa%20la%20Real%2C%20Sang%C3%BCesa"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-de-ujue",
+   "campos": {
+    "estilo": "Románico y gótico",
+    "lat": 42.5062,
+    "lon": -1.4996,
+    "texto": {
+     "general": "<p>En lo alto de Ujué, con vistas a media Navarra, se alza esta <b>iglesia-fortaleza</b>. La primitiva iglesia románica la mandó levantar el rey Sancho Ramírez sobre un templo anterior, y en 1093 la donó al monasterio aragonés de Montearagón.</p><p>En el siglo XIV <b>Carlos II el Malo</b> transformó la nave en estilo gótico y la rodeó de torres almenadas y muros que le dan aspecto de castillo. Por su voluntad, su <b>corazón</b> se guarda en el santuario.</p><p>Preside el templo la <b>Virgen de Ujué</b>, talla del siglo XII que Carlos II mandó forrar de plata. Según la leyenda, una paloma guió a un pastor hasta la cueva donde estaba escondida. Reyes y reinas peregrinaron aquí, y la reina Blanca instituyó en 1436 las novenas a la Virgen.</p>"
+    },
+    "ver_alli": [
+     "Libre.",
+     "El corazón de Carlos II el Malo, junto al altar.",
+     "La Virgen de plata del siglo XII.",
+     "Las torres almenadas y los muros góticos que le dan aspecto de fortaleza."
+    ],
+    "fuentes": [
+     "https://www.visitnavarra.es/en/plan-your-trip/routes-in-navarre/olite-ujue",
+     "https://www.barcelo.com/guia-turismo/es/espana/pamplona/que-ver/ujue/",
+     "https://www.unav.edu/web/catedra-patrimonio/itinerarios-visitas/iglesia-santa-maria-de-ujue",
+     "https://www.wikidata.org/wiki/Q20492459",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Santa%20Mar%C3%ADa%20Uju%C3%A9"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-tudela",
+   "campos": {
+    "estilo": "Románico y gótico",
+    "lat": 42.0636,
+    "lon": -1.6052,
+    "texto": {
+     "general": "<p>La catedral de Tudela se empezó hacia 1168 en el solar de la antigua mezquita mayor, que se derribó porque no coincidía su orientación. Se dedicó en <b>1188</b> y fue elevada a catedral en el siglo XVIII.</p><p>Su <b>Puerta del Juicio Final</b>, de hacia 1200, tiene ocho arquivoltas con <b>115 dovelas</b> esculpidas: más de cien grupos de figuras, con el Cielo a un lado y el Infierno al otro.</p><p>El <b>claustro románico</b> (1180-1206) conserva 42 capiteles historiados. Dentro destacan el retablo mayor, de Pedro Díaz de Oviedo, consagrado en 1494, y la barroca capilla de Santa Ana, de planta octogonal.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "La Puerta del Juicio: el Cielo a un lado y los castigos del Infierno al otro.",
+     "Los capiteles historiados del claustro.",
+     "La capilla barroca de Santa Ana."
+    ],
+    "fuentes": [
+     "https://www.inspain.org/es/navarra/tudela/catedral-de-tudela/",
+     "https://es.wikipedia.org/wiki/Catedral_de_Tudela",
+     "https://www.wikidata.org/wiki/Q2942843",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Catedral%20de%20Tudela"
+    ]
+   }
+  },
+  {
+   "id": "san-pedro-de-la-rua",
+   "campos": {
+    "estilo": "Románico",
+    "lat": 42.6689,
+    "lon": -2.0293,
+    "texto": {
+     "general": "<p>Fue la iglesia del barrio de los francos y, desde 1256, la iglesia mayor de Estella. Documentada como parroquia en 1174, su cabecera es del último cuarto del siglo XII y su <b>portada</b>, de mediados del XIII, que se alcanza por una gran escalinata, tiene en las jambas sirenas, centauros, arpías y grifos.</p><p>El <b>claustro</b>, de hacia 1170, perdió dos de sus cuatro alas en 1572, cuando se voló el castillo de Zalatambor, que estaba encima. En las que quedan, la occidental y la norte, los capiteles cuentan la vida de Cristo y de los santos, entre ellos <b>San Andrés</b>, patrón de la ciudad, junto a arpías, sirenas aladas y esfinges.</p><p>En el centro de la galería oeste, una <b>columna de fustes entrelazados</b> en espiral sostiene los arcos, uno de los soportes más originales del románico.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "La escalinata y la portada con sus figuras fantásticas.",
+     "La columna de fustes entrelazados del claustro.",
+     "Los capiteles con la historia de San Andrés."
+    ],
+    "fuentes": [
+     "https://www.gronze.com/navarra/estella-lizarra",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Pedro_de_la_R%C3%BAa_(Estella)",
+     "https://ribaj.com/culture/cloister-of-san-pedro-de-la-rua-estella-navarra",
+     "https://www.wikidata.org/wiki/Q11682867",
+     "https://nominatim.openstreetmap.org/search?format=json&q=San%20Pedro%20de%20la%20R%C3%BAa"
+    ],
+    "anio": 1170
+   }
+  },
+  {
+   "id": "san-miguel-de-estella",
+   "campos": {
+    "estilo": "Románico, con naves góticas",
+    "lat": 42.6709,
+    "lon": -2.0284,
+    "texto": {
+     "general": "<p>San Miguel era la parroquia del barrio del mercado de Estella, documentada desde 1145. Lo más antiguo que queda se construyó probablemente entre 1187 y 1196, y en el siglo XVI sus tres naves se rehicieron con formas góticas.</p><p>Su fama se la da la <b>portada norte</b>, abierta a la antigua plaza del mercado y labrada hacia 1170-1190 por escultores desconocidos. En dos grandes relieves, <b>San Miguel alancea al dragón</b> y <b>pesa las almas</b>: con una mano sostiene la balanza y con la otra lleva un alma hacia Abraham, mientras al otro lado acecha un demonio y abajo una boca monstruosa engulle a los condenados.</p><p>Al otro lado, otro relieve muestra a <b>las tres Marías ante el sepulcro</b> de Cristo. Dentro, el retablo de Santa Elena y varias capillas funerarias de familias de Estella.</p><p class=\"dato\"><span>¿Sabías que…?</span>El escudo de San Miguel no es el de Navarra: es un escudo de lujo de la época, porque las cadenas navarras son posteriores a 1234.</p>"
+    },
+    "ver_alli": [
+     "Exterior libre.",
+     "Los dos relieves de San Miguel a la izquierda de la portada.",
+     "Las tres Marías ante el sepulcro, en el lado opuesto."
+    ],
+    "fuentes": [
+     "https://www.gronze.com/navarra/estella-lizarra",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Miguel_(Estella)",
+     "https://www.unav.edu/web/catedra-patrimonio/itinerarios-visitas/san-miguel-de-estella",
+     "https://www.unav.edu/web/catedra-patrimonio/itinerarios-visitas/san-miguel-de-estella/relieve-san-miguel",
+     "https://www.wikidata.org/wiki/Q3957384",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%20de%20San%20Miguel%2C%20Estella"
+    ]
+   }
+  },
+  {
+   "id": "iglesia-de-gazolaz",
+   "campos": {
+    "estilo": "Románico tardío",
+    "lat": 42.7916,
+    "lon": -1.7179,
+    "texto": {
+     "general": "<p>Esta iglesia de Nuestra Señora de la Purificación, en Gazólaz, a pocos kilómetros de Pamplona, es <b>románica tardía</b>, de la primera mitad del siglo XIII. Es monumento desde 1931 y forma parte del Patrimonio Mundial de los Caminos de Santiago desde 2015.</p><p>Su gran rareza es el <b>pórtico</b>: tres arcos de medio punto sobre columnas pareadas, con pequeñas bóvedas nervadas de arcos apuntados que anuncian el gótico. En Navarra solo hay tres pórticos de este tipo. Cada capitel es distinto: la entrada en Jerusalén, un ángel con un caballo, un centauro, grifos o <b>San Miguel con el dragón</b>.</p><p>La portada tiene tres arquivoltas y un tímpano con crismón, apoyado sobre un toro y un león que devora a un hombre. Dentro, una sola nave con un retablo mayor de 1641-1645.</p>"
+    },
+    "ver_alli": [
+     "Exterior libre.",
+     "Los capiteles historiados del pórtico.",
+     "El crismón y las ménsulas del toro y el león en la portada.",
+     "Los canecillos del alero."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Church_of_Nuestra_Se%C3%B1ora_de_la_Purificaci%C3%B3n_(Gaz%C3%B3laz)",
+     "https://es.hispanopedia.com/wiki/Iglesia_de_Nuestra_Se%C3%B1ora_de_la_Purificaci%C3%B3n_(Gaz%C3%B3laz)",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%2C%20Gaz%C3%B3laz",
+     "https://www.google.com/maps/place/?q=place_id:ChIJG6OZejWMUA0Rjkrp5nKLIJ4"
+    ]
+   }
+  },
+  {
+   "id": "san-martin-de-artaiz",
+   "campos": {
+    "estilo": "Románico",
+    "lat": 42.7486,
+    "lon": -1.4695,
+    "texto": {
+     "general": "<p>En la pequeña aldea de Artaiz (Unciti), esta iglesia de una sola nave y ábside semicircular tiene una de las portadas románicas más ricas de Navarra. Su fecha se discute entre mediados y finales del siglo XII.</p><p>La <b>portada</b> muestra en el tímpano un crismón y, en las enjutas, dos leones: uno devora a un hombre y el otro lo protege. Encima, un <b>tejaroz</b> alterna siete canecillos (músicos, una danzarina, una mujer dando a luz, un exhibicionista, un guerrero contra un dragón) con seis relieves: <b>San Miguel pesando las almas</b>, una misa, el descenso de Cristo a los infiernos, el sacrificio de Isaac, el rico Epulón y Lázaro, y dos caballeros en combate.</p><p>Su escultura recuerda a la de Leyre y Sangüesa. Las pinturas murales góticas del ábside se arrancaron en 1958 y hoy están en el Museo de Navarra.</p>"
+    },
+    "ver_alli": [
+     "Exterior libre.",
+     "Los seis relieves y siete canecillos del tejaroz.",
+     "Los leones de las enjutas a ambos lados del arco."
+    ],
+    "fuentes": [
+     "https://www.romanicodigital.com/sites/default/files/pdfs/files/navarra_Artaiz.pdf",
+     "https://nominatim.openstreetmap.org/search?format=json&q=San%20Mart%C3%ADn%20Artaiz",
+     "https://www.google.com/maps/place/?q=place_id:ChIJaZP8HkW8UA0R94TGOWXfbBA"
+    ]
+   }
+  },
+  {
+   "id": "ermita-de-catalain",
+   "campos": {
+    "estilo": "Románico",
+    "lat": 42.6024,
+    "lon": -1.627,
+    "texto": {
+     "general": "<p>En un campo junto a Garínoain, esta ermita es lo que queda de un monasterio del <b>siglo XII</b> que en la Edad Media tuvo un <b>hospital de peregrinos</b> en una variante del Camino de Santiago. La primera noticia es su donación a Roncesvalles a comienzos del siglo XIII.</p><p>El <b>ábside</b> tiene por dentro una arquería de siete arcos de medio punto. En el capitel del arco triunfal aparece el <b>rey David tocando el arpa</b> entre águilas. Por fuera, una portada con dos arquivoltas, bajo un pórtico con cornisa ajedrezada, y una espadaña para dos campanas.</p><p>Dentro guarda un <b>Cristo gótico</b> del siglo XIV, con los pies clavados con un solo clavo, y una pila bautismal de la misma época. Sigue siendo lugar de romería del valle.</p>"
+    },
+    "ver_alli": [
+     "Exterior libre.",
+     "El capitel del rey David, en el arco triunfal.",
+     "La arquería interior del ábside.",
+     "Los canecillos del alero del ábside."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Ermita_del_Cristo_de_Catal%C3%A1in",
+     "https://www.wikidata.org/wiki/Q20492201",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Catal%C3%A1in"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-iranzu",
+   "campos": {
+    "estilo": "Cisterciense (románico y gótico)",
+    "texto": {
+     "general": "<p>Monasterio <b>cisterciense de transición</b>, escondido en un barranco de la sierra de Urbasa, cerca de Abárzuza. Los monjes llegaron en <b>1176</b>, cuando el obispo de Pamplona Pedro de París donó estas tierras a su hermano Nicolás, y las obras se prolongaron del siglo XII al XIV.</p><p>Conserva la iglesia medieval, el <b>claustro</b>, la sala capitular y la cocina. Tras la desamortización los monjes salieron en 1839 y el edificio pasó al Estado.</p><p>La Institución Príncipe de Viana empezó a reconstruirlo en <b>1942</b>, y hoy lo cuidan los padres <b>teatinos</b>.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "El claustro y la sala capitular.",
+     "La cocina medieval.",
+     "El barranco de Iranzu, con senderos alrededor."
+    ],
+    "fuentes": [
+     "https://www.wikidata.org/wiki/Q837979",
+     "https://es.wikipedia.org/wiki/Monasterio_de_Iranzu"
+    ]
+   }
+  },
+  {
+   "id": "ayuntamiento-de-pamplona",
+   "campos": {
+    "estilo": "Barroco",
+    "lat": 42.8185,
+    "lon": -1.6443,
+    "texto": {
+     "general": "<p>El Ayuntamiento está justo donde lo situó <b>Carlos III el Noble</b> en el <b>Privilegio de la Unión</b> de 1423, que unió los tres burgos de Pamplona en una sola ciudad. El edificio actual se levantó entre 1751 y 1760.</p><p>Su <b>fachada</b> barroca, diseñada por José Zay y Lorda, superpone los tres órdenes clásicos: dórico, jónico y corintio. Junto a la puerta, dos estatuas representan la <b>Prudencia</b> y la <b>Justicia</b>. Arriba, la <b>Fama</b> entre dos Hércules y un reloj del siglo XVIII.</p><p>El interior se rehízo en 1951-1953, conservando la fachada. Desde su balcón se lanza cada <b>6 de julio</b> a mediodía el <b>chupinazo</b> que abre los Sanfermines.</p>"
+    },
+    "ver_alli": [
+     "Exterior libre.",
+     "Las estatuas de la Prudencia y la Justicia junto a la puerta.",
+     "La Fama y los dos Hércules del remate.",
+     "Las placas con la altitud de la ciudad junto a la puerta."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Casa_Consistorial_de_Pamplona",
+     "https://www.pamplona.es/ayuntamiento/varios/informacion-sobre-la-casa-consistorial-del-ayuntamiento-de-pamplona",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Udaletxea%2C%20Pamplona",
+     "https://www.google.com/maps/place/?q=place_id:ChIJmUbm2fuSUA0Rjnk-k7nmZYI"
+    ]
+   }
+  }
+ ]
+}
