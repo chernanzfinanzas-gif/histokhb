@@ -268,3 +268,46 @@
 - **Hecho:** LUGARES-LISTOS **remates-3** (`lugares-remates-3`), mi primer `borrar`: había **dos fichas de la Foncalada** de Oviedo a 64 m, `fuente-de-foncalada` (mía, Asturias) y `foncalada-oviedo` (de «contenidos», con eventos de med2). Me quedo con la de «contenidos», le paso mi texto (más completo) y mis fuentes, y borro la mía. Al unir los textos había una diferencia: según es.wikipedia, la atribución a Alfonso III es la tradicional y las inscripciones apuntan a Alfonso II. El texto da las dos.
 - **Búsqueda de duplicados en toda la app** (pares a menos de 350 m con nombres parecidos, y a menos de 8 km con nombres casi iguales): no hay más duplicados reales en España. Fuera de España quedan fichas que parecen hechas así a propósito, como partes de un mismo museo: Museo Británico (3 fichas en el mismo punto), Louvre (2) y Lavra de Kiev con el Museo de los Tesoros. No las toco.
 - **Estado:** termino la pasada de España. Si «montaje» o Carlos quieren otra zona (Portugal tiene 30 fichas sin `estilo` repartidas en 16 «provincias» distintas), la hago.
+
+### 18-oct-2026 · 17:49 · Chat «lugares»
+- **Leído:** `de-montaje.md` hasta 16:24. Según `orden.txt`, ya están unidas Baleares y remates-1, -2 y -3. Gracias.
+- **Decisión de Carlos (17:44):** seguir **fuera de España**, con una pasada más ligera que la española pero con lo más relevante de cada país o zona; hacer **Portugal con fichas nuevas**; y **comprobar las coordenadas de todo lo que toque**.
+- **Hecho:** LUGARES-LISTOS **tipos-mundo** (`lugares-tipos-mundo`): **808 cambios, solo del campo `tipo`**. De las 1.363 fichas de fuera de España, 1.312 tenían «yacimiento» por defecto. Quedan 288 monumentos, 224 museos, 165 iglesias (catedrales, mezquitas, templos y monasterios en uso), 69 poblaciones (medinas, cascos y ciudades coloniales) y 62 castillos. Las ruinas antiguas siguen como yacimiento: Karnak, Partenón, Teotihuacán… Primero apliqué una regla por nombre y época y después revisé la lista a mano. No toca Portugal, que va en su propia entrega.
+- **Hecho:** LUGARES-LISTOS **Portugal** (`lugares-portugal`): **24 nuevos y 36 cambios**. Las 34 fichas existentes salen de «yacimiento» y reciben su tipo real, `estilo`, textos ampliados y coordenadas comprobadas con OSM y Google. Sanfins estaba desviado 1,2 km y São Lourenço 1 km; el Côa pasa del museo al núcleo de Penascosa. Los Jerónimos no se empezaron «para celebrar el viaje de Gama»: se decidió en 1495, antes del viaje. Unifico `provincia` como «Distrito (Portugal)»; había tres con otro formato. Las nuevas son Pena, Regaleira, Palacio de Sintra, Arte Antiga, Azulejo, São Vicente de Fora, Oporto (centro, Clérigos, Sé, Bolsa, São Francisco, puente Luís I), Sé de Braga, Capela dos Ossos, Monsaraz, Marvão, Elvas, sinagoga de Tomar, Almourol, Bragança, Zambujeiro, Monsanto, Fátima y Angra do Heroísmo. **Sagres** y el **Mercado de Escravos de Lagos** ya los había creado «contenidos» hoy: no los duplico, les paso coordenadas comprobadas, tipo, `estilo` y un `ver_alli` sin horarios.
+- **Dato útil (auditoría de coordenadas fuera de España):** he comparado las 1.363 fichas con OpenStreetMap; 397 quedan confirmadas a menos de 300 m. El error más grave es el **Palacio de Wilanów**: lon 19,09 en vez de 21,09, unos 136 km. Hay 18 sospechosas más, entre 1 y 10 km (necrópolis de Varna, Girsu, Kumbi Saleh, Nínive, Beni Hasan, Museo Hamel…).
+- **En marcha, por zonas** (coordenadas con dos fuentes, tipo, `estilo` y lo imprescindible que falte): Italia, Francia-Bélgica-Suiza, Reino Unido-Irlanda, Grecia-Balcanes, Egipto-Sudán y China. Después: Europa central, Rusia, Turquía, Levante, Irak-Irán-Golfo, Magreb, África subsahariana, India, Japón-Corea, Sureste asiático, Oceanía, Norteamérica, México-Caribe y Sudamérica.
+
+### 18-oct-2026 · 19:03 · Chat «lugares»
+- **Leído:** `de-montaje.md` hasta 18:30. Según `orden.txt`, unidas hasta remates-3. **Pendientes de unir: 23 entregas mías**, todas en sus ramas `lugares-*`: tipos-mundo, portugal, remates-4 y las 20 zonas del mundo de abajo.
+- **Orden recomendado para unir:** primero `tipos-mundo` y después las zonas. Cada zona repite los tipos de tipos-mundo en sus fichas y afina unos pocos, así que conviene que la zona vaya detrás.
+- **Hecho: el mundo entero revisado, por zonas.** En cada zona: coordenadas comprobadas con dos fuentes (Google Places más OSM o la caja de Wikipedia), `tipo` correcto, `estilo` en todas, `ver_alli` sin precios ni horarios, y los imprescindibles que faltaban. **Total: 197 lugares nuevos y 1.355 cambios.**
+
+| Rama | Nuevos | Cambios | Lo más llamativo |
+|---|---|---|---|
+| lugares-italia | 8 | 102 | Siena, San Gimignano, Matera, Museo Egipcio de Turín, La Valeta |
+| lugares-francia-benelux | 13 | 68 | Amiens, Estrasburgo, Chenonceau, Grand-Place, Waterloo, Chillon |
+| lugares-reino-unido-irlanda | 7 | 66 | York, Fountains, Skellig Michael, Cashel; Tomás Moro murió en Tower Hill, no en la Torre |
+| lugares-europa-central-norte | 16 | 77 | **Wilanów estaba a 136 km** (lon 19,09 en vez de 21,09); Neuschwanstein, Wieliczka, Vasa |
+| lugares-rusia-ucrania | 8 | 42 | Kizhi, Derbent, Quersoneso; museo del Gulag (se mudó en 2015) y Baikonur, a 5 km |
+| lugares-grecia-balcanes | 18 | 64 | Filipos, Butrint, Diocleciano, Dubrovnik, Rila; Varna a 3,5 km; Athos, de la cumbre a Karyés |
+| lugares-turquia-caucaso | 9 | 55 | Nemrut, Afrodisias, Hierápolis, Echmiadzin; Galípoli, de un punto en el interior a la cala de Anzac |
+| lugares-levante | 9 | 48 | Bet She'an, Bosra, San Simeón; las llaves del Santo Sepulcro las guardan dos familias, no una |
+| lugares-irak-iran-golfo | 6 | 63 | Bam, Nasir al-Molk, Borsippa; mausoleo de Jomeini a 6,3 km |
+| lugares-egipto-sudan | 6 | 58 | Valle de las Reinas, Siwa, Tanis, Naqa; Wadi Natrun tenía lat = lon |
+| lugares-magreb | 10 | 27 | Volubilis, Aït Ben Haddou, Djemila, Leptis Magna, Cirene (Libia) |
+| lugares-africa-subsahariana | 6 | 86 | 40 coordenadas corregidas; **Mapungubwe caía en Zimbabue** (15,6 km) |
+| lugares-india-asia-central | 16 | 64 | Goa, Amber, Elefanta, Sigiriya, Boudhanath; Taxila a 4 km |
+| lugares-china | 7 | 71 | **36 coordenadas: Google da en China el sistema GCJ-02, desplazado 300-700 m**; Tumbas Ming a 5,3 km |
+| lugares-japon-corea | 7 | 66 | Nijō, Shuri, Changdeokgung; museo Hamel a 10 km; Fuji: las mujeres pudieron subir desde 1872 |
+| lugares-sureste-asiatico | 16 | 107 | Preah Vihear, Wat Pho, George Town; Galang a 6,4 km |
+| lugares-oceania | 5 | 71 | Parramatta, Wairau Bar, Kuk; 36 coordenadas (Wybalenna, a 7 km) |
+| lugares-norteamerica | 6 | 70 | Capitolio, Fort Sumter, Acoma; Mistaken Point, a 12 km de los fósiles |
+| lugares-mexico-caribe | 8 | 64 | Guadalupe, San Juan de Ulúa, Joya de Cerén; La Cabaña no pudo caer en 1762 (se construyó en 1763-1774) |
+| lugares-sudamerica | 16 | 86 | Pachacámac, Ciudad Perdida, Teatro Colón; Monte Alegre a 14 km, Carabobo a 13 |
+
+- **Lo que no he tocado y conviene saber:**
+  - **`epoca` y `anio` de las fichas de «contenidos»:** no los cambio, porque están ligados a capítulos. Tres tandas propusieron cambios y los he quitado antes de entregar: Templo Malatestiano, Biblioteca Marciana, San Nicolás de Bari, Carabobo y la Quinta de San Pedro Alejandrino.
+  - **Dudas de época que podríais mirar:** Durham va en «Prerrománico» (la catedral es románica); el museo de Jingdezhen va en «Edad Media»; Te Papa y Auckland, en «Pueblos del Pacífico»; Kasubi (Uganda), en «Costa suajili».
+  - **Frase de Exteriores:** en algunos textos (Egipto, Turquía, Hermitage, Kumbi Saleh) la frase «Antes de viajar, consulta…» estaba metida en mitad del texto, a veces repetida. Esas tandas la han quitado del texto, y el aviso se queda en `ver_alli`. En Irak e Irán se ha dejado en el texto. **«contenidos»**, si la herramienta la mete en el texto a propósito, decidme y lo unifico.
+  - **Fichas que juntan dos sitios lejanos**, con el punto en el principal: Tughlaqabad y Daulatabad (unos 1.000 km), Panamá Viejo y Casco Antiguo (8 km), Raj Ghat y Gandhi Smriti (5 km). Quizá convenga separarlas.
+- **Hecho:** LUGARES-LISTOS **remates-4** (`lugares-remates-4`): Murallas Reales de Ceuta, con la coordenada comprobada y `estilo`.
