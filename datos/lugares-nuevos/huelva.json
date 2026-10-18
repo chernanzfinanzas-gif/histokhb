@@ -1,0 +1,520 @@
+{
+ "zona": "Huelva",
+ "nuevos": [
+  {
+   "id": "arucci-turobriga",
+   "nombre": "Ciudad romana de Arucci Turobriga",
+   "provincia": "Huelva",
+   "comarca": "Aroche (Sierra de Huelva)",
+   "lat": 37.9697,
+   "lon": -6.9486,
+   "tipo": "yacimiento",
+   "estilo": "Ciudad hispanorromana",
+   "epoca": "Romano",
+   "anio": -15,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>En el término municipal de Aroche se excavan desde <b>1996</b> los restos de <b>Arucci Turobriga</b>, una ciudad hispanorromana de la antigua <b>Beturia Céltica</b>. Se fundó en tiempos de <b>Augusto</b> (hacia el 15-10 a. C.), creció en época flavia y se amplió con Adriano a mediados del siglo II, pero quedó abandonada hacia comienzos del siglo III.</p><p>Las excavaciones, que abarcan doce hectáreas, han sacado a la luz el <b>foro</b>, unas <b>termas</b>, una zona de viviendas y el <b>campo de Marte</b>, un espacio de entrenamiento militar.</p><p>Sobre los restos de la basílica romana se levanta la <b>ermita de San Mamés</b>, del siglo XIII, una de las llamadas «de repoblación». A finales de mayo se celebra la romería de San Mamés en los Llanos de la Belleza.</p>"
+   },
+   "ver_alli": [
+    "El foro romano, junto a la ermita.",
+    "La ermita de San Mamés, levantada sobre la basílica romana.",
+    "Las termas y el campo de Marte."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Tur%C3%B3briga"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "casa-museo-zenobia-y-juan-ramon-jimenez",
+   "nombre": "Casa Museo Zenobia y Juan Ramón Jiménez",
+   "provincia": "Huelva",
+   "comarca": "Moguer",
+   "lat": 37.2762,
+   "lon": -6.837,
+   "tipo": "museo",
+   "estilo": "Casa señorial andaluza",
+   "epoca": "Siglo XX",
+   "anio": 1956,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>En esta casa de Moguer vivió el poeta <b>Juan Ramón Jiménez</b> desde los cinco años, hacia 1886, hasta los veintiséis. Fueron los años de su infancia y su juventud.</p><p>La casa se convirtió en museo en <b>1956</b> y desde 1987 la gestiona la <b>Fundación Juan Ramón Jiménez</b>. Conserva muebles, enseres y pinturas de la familia, y una biblioteca con unos <b>3.700 volúmenes y 7.500 revistas</b> en inglés, alemán, francés y español.</p><p>Se exponen ediciones de «Platero y yo» en múltiples idiomas, y en el corral todavía se muestra <b>el pesebre de Platero</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>Juan Ramón donó la mitad del importe de su premio Nobel.</p>"
+   },
+   "ver_alli": [
+    "Las habitaciones con los muebles y objetos de la familia.",
+    "La biblioteca, con miles de libros y revistas en cuatro idiomas.",
+    "El pesebre de Platero en el corral y las ediciones del libro en muchos idiomas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Casa_Museo_Zenobia_y_Juan_Ram%C3%B3n_Jim%C3%A9nez"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-aracena",
+   "nombre": "Castillo de Aracena",
+   "provincia": "Huelva",
+   "comarca": "Aracena (Sierra de Huelva)",
+   "lat": 37.8898,
+   "lon": -6.5627,
+   "tipo": "castillo",
+   "estilo": "Fortaleza medieval e iglesia mudéjar",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Coronando el cerro sobre el pueblo de Aracena se alzan los restos de su castillo y, dentro del recinto, una iglesia. La fortaleza se levantó en el <b>siglo XIII</b>, en época islámica, sobre una construcción fortificada musulmana anterior. Tras la conquista, la Corona de Castilla cedió Aracena a la <b>Orden del Temple</b>.</p><p>Junto a las murallas está la iglesia de <b>Nuestra Señora del Mayor Dolor</b>, de estilo <b>mudéjar</b>. Sus obras debieron empezar a finales del siglo XIII, se pararon en el XIV y se retomaron a comienzos del XV, por eso sus portadas oeste y norte son ya de un <b>gótico tardío</b>. A la iglesia se adosa una <b>torre mudéjar</b>.</p><p>El mismo cerro esconde una sorpresa: la <b>Gruta de las Maravillas</b>, formada por el agua en la roca caliza del cerro del Castillo. Abrió al público en <b>1914</b>, la primera cueva turística de España, y tiene 1.400 metros visitables.</p><p class=\"dato\"><span>¿Sabías que…?</span>El castillo es Bien de Interés Cultural, con categoría de monumento, desde 1949.</p>"
+   },
+   "ver_alli": [
+    "La torre mudéjar adosada a la iglesia.",
+    "Las portadas góticas de la iglesia del Mayor Dolor.",
+    "Las vistas sobre el pueblo y la sierra; abajo, la entrada a la Gruta de las Maravillas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Aracena",
+    "https://es.wikipedia.org/wiki/Gruta_de_las_Maravillas"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-aroche",
+   "nombre": "Castillo de Aroche",
+   "provincia": "Huelva",
+   "comarca": "Aroche (Sierra de Huelva)",
+   "lat": 37.9458,
+   "lon": -6.9543,
+   "tipo": "castillo",
+   "estilo": "Almohade, con reformas cristianas",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1293,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>El castillo de Aroche corona el pueblo, en tierras que fueron frontera con Portugal. Las dataciones por carbono 14 hechas en 2004 lo sitúan en época <b>almohade</b>, entre los siglos XII y XIII, aunque sus restos más antiguos podrían ser de una construcción almorávide del siglo XI.</p><p>Al pasar a la Corona de Castilla se reedificó en <b>1293</b>, según un documento de <b>Sancho IV</b>, y después se reparó y reformó muchas veces por su papel en las guerras con Portugal: hay obras documentadas en 1386, durante el siglo XV y hasta el XVII; la puerta de acceso actual es del XVIII. Su muralla tiene <b>diez torres</b>, cuatro en las esquinas y seis entre los lienzos.</p><p>Lo más sorprendente está dentro: en 1801 se proyectó en su interior una <b>plaza de toros</b>, y desde 1804 el patio del castillo se usa para corridas.</p>"
+   },
+   "ver_alli": [
+    "La plaza de toros instalada dentro del recinto amurallado.",
+    "Las diez torres de la muralla.",
+    "Las vistas sobre el pueblo y la sierra."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Aroche"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-cortegana",
+   "nombre": "Castillo de Cortegana",
+   "provincia": "Huelva",
+   "comarca": "Cortegana (Sierra de Huelva)",
+   "lat": 37.9104,
+   "lon": -6.8168,
+   "tipo": "castillo",
+   "estilo": "Fortaleza bajomedieval",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1480,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Desde su cerro, el castillo de Cortegana formaba parte de la <b>Banda Gallega</b>, la línea de fortalezas que protegía el Reino de Sevilla frente a Portugal, por su cercanía a la frontera. Su origen todavía se discute: el pueblo aparece en las fuentes cristianas en 1253, la primera fortificación probablemente es de después de <b>1297</b> y el castillo se cita por escrito por primera vez en <b>1315</b>.</p><p>Durante el siglo XIV se amplió varias veces, y tras la batalla de <b>Aljubarrota</b> (1385) se reforzaron sus muros. Entre finales del siglo XV y comienzos del XVI tomó su aspecto actual; la poderosa <b>torre del homenaje</b> se levantó hacia <b>1480</b>.</p><p>En la década de 1970 se rehabilitó y se convirtió en museo. Hoy es el escenario de las <b>Jornadas Medievales</b> de Cortegana, sobre todo en agosto. Comparte el cerro con la ermita de Nuestra Señora de la Piedad.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje de hacia 1480.",
+    "El recorrido por las murallas y las salas del castillo-museo.",
+    "La ermita de Nuestra Señora de la Piedad, en el mismo cerro."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Cortegana"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-cumbres-mayores",
+   "nombre": "Castillo de Cumbres Mayores",
+   "provincia": "Huelva",
+   "comarca": "Cumbres Mayores (Sierra de Huelva)",
+   "lat": 38.0644,
+   "lon": -6.6459,
+   "tipo": "castillo",
+   "estilo": "Fortaleza bajomedieval",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1293,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>En la sierra de Huelva, Cumbres Mayores conserva su castillo medieval. Lo mandó construir en <b>1293</b> el rey <b>Sancho IV</b> para defender el Reino de Sevilla desde la <b>Banda Gallega</b> y frenar la expansión de Portugal. En el siglo XV recibió reformas importantes.</p><p>Su planta es irregular, de <b>nueve lados</b>, con <b>ocho torreones</b> y una curiosa <b>torre del homenaje de dos cabezas</b>. Los muros alcanzan los diez metros de altura y tres de grosor.</p><p>Fue declarado <b>Monumento Nacional en 1895</b>. En 1973 y 1999 se hicieron restauraciones destacadas.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje bicéfala, de dos cabezas.",
+    "Los muros de diez metros de alto y tres de grueso.",
+    "La planta de nueve lados con sus ocho torreones."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Cumbres_Mayores"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-san-marcos-sanlucar-de-guadiana",
+   "nombre": "Castillo de San Marcos (Sanlúcar de Guadiana)",
+   "provincia": "Huelva",
+   "comarca": "Sanlúcar de Guadiana (Andévalo)",
+   "lat": 37.4758,
+   "lon": -7.4632,
+   "tipo": "castillo",
+   "estilo": "Fortaleza medieval con añadidos abaluartados",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1666,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Sobre una colina al este de Sanlúcar de Guadiana, el castillo de San Marcos mira de frente a <b>Alcoutim</b>, el pueblo portugués de la otra orilla del Guadiana. Pocos lugares hacen tan visible lo que fue durante siglos esta frontera.</p><p>El cerro tuvo ocupación islámica y cristiana medieval, y a mediados del <b>siglo XVI</b> se reforzó la fortificación. En <b>1666</b>, al final de la <b>Guerra de Restauración portuguesa</b> (1640-1668), lo tomaron las tropas portuguesas, que le añadieron un baluarte en la torre noreste, medias lunas para proteger la entrada norte y una batería en el lado oeste.</p><p>En 2011 el Ministerio de Cultura y la Junta de Andalucía proyectaron su restauración, con 2,7 millones de euros, que consolidó las defensas y recuperó el foso y el glacis.</p>"
+   },
+   "ver_alli": [
+    "Las vistas sobre el Guadiana y Alcoutim, al otro lado de la frontera.",
+    "El baluarte y las medias lunas que añadieron los portugueses.",
+    "El foso y el glacis recuperados en la restauración."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_San_Marcos_(Sanl%C3%BAcar_de_Guadiana)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "catedral-de-la-merced-huelva",
+   "nombre": "Catedral de la Merced (Huelva)",
+   "provincia": "Huelva",
+   "comarca": "Huelva",
+   "lat": 37.2629,
+   "lon": -6.9525,
+   "tipo": "iglesia",
+   "estilo": "Barroco",
+   "epoca": "Barroco",
+   "anio": 1605,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>La catedral de Huelva nació como iglesia de un convento: el de los padres <b>mercedarios</b>, fundado en <b>1605</b> sobre la antigua ermita de San Roque por orden de Alonso Pérez de Guzmán, VII duque de Medina Sidonia. Las obras principales terminaron entre 1612 y 1615.</p><p>Los terremotos marcaron su historia. El de Lisboa de <b>1755</b> lo dañó gravemente y el de 1765 todavía más, así que a finales del siglo XVIII se levantó un templo nuevo bajo la dirección de Pedro de Silva. Su fachada <b>barroca</b> de ladrillo revocado, de tres cuerpos, tiene un cierto sabor colonial, acentuado por las espadañas añadidas en 1915.</p><p>Fue consagrada como <b>catedral</b> el 15 de marzo de <b>1954</b>. Tras el terremoto de 1969 se restauró bajo la dirección de Rafael Manzano. Dentro destaca la <b>Virgen de la Cinta</b>, tallada en 1616 y atribuida a <b>Juan Martínez Montañés</b>, y el Cristo de Jerusalén y Buen Viaje, de escuela gaditano-genovesa.</p>"
+   },
+   "ver_alli": [
+    "La fachada barroca con sus espadañas de aire colonial.",
+    "La Virgen de la Cinta atribuida a Martínez Montañés.",
+    "El Cristo de Jerusalén y Buen Viaje."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_de_Nuestra_Se%C3%B1ora_de_la_Merced_(Huelva)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-san-jorge-palos",
+   "nombre": "Iglesia de San Jorge (Palos de la Frontera)",
+   "provincia": "Huelva",
+   "comarca": "Palos de la Frontera",
+   "lat": 37.2306,
+   "lon": -6.892,
+   "tipo": "iglesia",
+   "estilo": "Gótico-mudéjar",
+   "epoca": "Mudéjar",
+   "anio": 1492,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>En esta iglesia comenzó, de algún modo, el viaje del Descubrimiento. Es un templo <b>gótico-mudéjar</b> del siglo XV (los autores dudan entre finales del XIV y mediados del XV, cuando lo mandaron levantar los condes de Miranda).</p><p>En la plaza que hay frente a su portada principal, la <b>Puerta de América</b>, se leyó el <b>23 de mayo de 1492</b> la real orden que obligaba a los vecinos de Palos a entregar <b>dos carabelas a Cristóbal Colón</b>. Meses después, según la tradición, los marinos salieron por la <b>Puerta de los Novios</b>, encabezados por los <b>Pinzón</b> y Colón, para embarcar la madrugada del <b>3 de agosto de 1492</b>.</p><p>La Puerta de los Novios, en el lado norte, es mudéjar y del siglo XV, algo posterior a la portada principal. Debe su nombre a que por ella entraban las parejas antes de casarse. La iglesia es Monumento Nacional desde 1931.</p>"
+   },
+   "ver_alli": [
+    "La Puerta de los Novios, en el lado norte, por donde salieron los marinos.",
+    "La plaza ante la Puerta de América, donde se leyó la orden de las carabelas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Jorge_(Palos_de_la_Frontera)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-santa-clara-moguer",
+   "nombre": "Monasterio de Santa Clara (Moguer)",
+   "provincia": "Huelva",
+   "comarca": "Moguer",
+   "lat": 37.2759,
+   "lon": -6.8393,
+   "tipo": "iglesia",
+   "estilo": "Gótico-mudéjar",
+   "epoca": "Mudéjar",
+   "anio": 1337,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Este monasterio de monjas clarisas lo fundó en <b>1337</b> <b>Alonso Jofre Tenorio</b>. La iglesia, empezada en 1338 y abierta al culto hacia 1405, es un templo <b>gótico-mudéjar</b> de tres naves separadas por arcos apuntados.</p><p>Está unido para siempre a <b>Colón</b>. De regreso de su primer viaje, el almirante veló en esta iglesia y mandó decir una misa de acción de gracias la madrugada del <b>16 de marzo de 1493</b>.</p><p>Guarda los espléndidos <b>sepulcros de los Portocarrero</b>, del siglo XVI, uno de ellos obra de los italianos Gian Giacomo della Porta y Giovanni Maria da Pasallo. La <b>sillería mudéjar del coro</b>, de finales del siglo XIV, se compone de 29 piezas. Es Monumento Nacional desde 1931.</p><p class=\"dato\"><span>¿Sabías que…?</span>La arquería baja de su claustro, del siglo XIV, forma el claustro más antiguo de Andalucía.</p>"
+   },
+   "ver_alli": [
+    "Los sepulcros renacentistas de los Portocarrero junto al altar.",
+    "La sillería mudéjar del coro.",
+    "El claustro del siglo XIV."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Clara_(Moguer)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "muelle-de-las-carabelas",
+   "nombre": "Muelle de las Carabelas",
+   "provincia": "Huelva",
+   "comarca": "Palos de la Frontera (La Rábida)",
+   "lat": 37.2113,
+   "lon": -6.9279,
+   "tipo": "museo",
+   "estilo": "Réplicas de naves del siglo XV",
+   "epoca": "Renacimiento",
+   "anio": 1994,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>A los pies del monasterio de La Rábida, en el paraje del mismo nombre, flotan tres barcos que cuentan la historia más famosa de esta costa: las réplicas de <b>la Niña, la Pinta y la Santa María</b>, las naves con las que Colón zarpó desde Palos en 1492. Se construyeron en <b>Isla Cristina</b> para el <b>V Centenario</b> de 1992 y formaron parte de la Exposición Universal de Sevilla.</p><p>El muelle se inauguró en <b>1994</b> y lo gestiona la Diputación de Huelva. Se pueden recorrer las tres naves por dentro y comprobar lo pequeñas que eran para cruzar el océano; la Santa María es la mayor de las tres.</p><p>Alrededor se recrean un <b>barrio portuario medieval</b>, con mercado, alfar y carretas, inspirado en el Palos de entonces, y un <b>poblado indígena</b> de la isla de Guanahaní, con cabañas de madera y paredes de caña. Un museo y una sala audiovisual completan la visita.</p><p class=\"dato\"><span>¿Sabías que…?</span>Es uno de los lugares más visitados de Andalucía: en 2007 rondó los 200.000 visitantes.</p>"
+   },
+   "ver_alli": [
+    "Subir a bordo de las tres réplicas y comparar sus tamaños.",
+    "El barrio medieval portuario y el poblado de Guanahaní.",
+    "Muy cerca, el monasterio de La Rábida."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Muelle_de_las_Carabelas"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santuario-de-el-rocio",
+   "nombre": "Santuario de El Rocío",
+   "provincia": "Huelva",
+   "comarca": "Almonte (aldea de El Rocío)",
+   "lat": 37.1307,
+   "lon": -6.4847,
+   "tipo": "iglesia",
+   "estilo": "Santuario del siglo XX",
+   "epoca": "Siglo XX",
+   "anio": 1969,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>El santuario de El Rocío es el corazón de una de las devociones más multitudinarias de España. Su historia empieza en la Edad Media: tras la conquista de Almonte por <b>Alfonso X</b>, en la segunda mitad del siglo XIII, debió de levantarse aquí una ermita a la Virgen, y en <b>1335</b> aparece por escrito <b>Santa María de las Rocinas</b>. El nombre de «Rocío» se documenta en 1653.</p><p>La ermita quedó en ruinas con el <b>terremoto de 1755</b> y se rehízo en 1760. El templo actual lo decidió la Hermandad Matriz en 1961: la primera piedra se puso el 26 de enero de <b>1964</b> y la Virgen entró en él el 13 de abril de <b>1969</b>. Lo proyectaron los arquitectos Alberto Balbontín de Orta y Antonio Delgado y Roig, con planta de cruz latina, tres naves y triforio.</p><p>Cada año, por <b>Pentecostés</b>, la romería reúne aquí a cientos de miles de personas, en una de las fiestas populares más relevantes del país. El entorno del santuario es Bien de Interés Cultural como Sitio Histórico desde 2006.</p><p class=\"dato\"><span>¿Sabías que…?</span>El «Libro de la montería», del siglo XIV, ya cita «una tierra que dicen las Rocinas», el antiguo nombre del lugar.</p>"
+   },
+   "ver_alli": [
+    "El interior de cruz latina, con tres naves y triforio.",
+    "La imagen de la Virgen del Rocío, centro de la devoción.",
+    "El entorno de la aldea, protegido como Sitio Histórico."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Ermita_de_El_Roc%C3%ADo"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "dolmen-soto",
+   "campos": {
+    "estilo": "Megalítico (sepulcro de corredor)",
+    "texto": {
+     "general": "<p>Uno de los grandes <b>sepulcros megalíticos</b> del suroeste de la Península, levantado hacia el 3000-2500 a. C., hace unos 4.500-5.000 años. Lo descubrió <b>Armando de Soto</b> en su finca La Lobita, y su estudio final lo hizo el prehistoriador Hugo Obermaier. Fue declarado Monumento Nacional en 1931.</p><p>El monumento, cubierto por un gran túmulo de tierra, mide <b>casi 21 metros</b> de largo: un corredor de grandes losas que se ensancha hasta la cámara funeraria. Unas 43 de sus piedras tienen <b>grabados</b> y restos de pintura: figuras humanas esquemáticas, puñales y formas geométricas. Aunque había sido saqueado, se hallaron ocho cuerpos enterrados en cuclillas con sus ajuares.</p><p>Está orientado de este a oeste, de modo que en torno a los <b>equinoccios</b> el sol del amanecer recorre todo el corredor e ilumina la cámara durante unos minutos.</p>"
+    },
+    "ver_alli": [
+     "Recorre el corredor hasta la cámara, cada vez más alto y ancho.",
+     "Busca en las losas los grabados de figuras humanas y puñales.",
+     "En las visitas especiales de los equinoccios se ve entrar el sol hasta el fondo; hay que reservar."
+    ],
+    "fuentes": [
+     "https://rupestre.art/es/caves/dolmen-de-soto",
+     "https://www.wikidata.org/wiki/Q5812504",
+     "https://www.spain.info/es/lugares-interes/dolmen-soto/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJzYqUsAfCEQ0RlPKUC2zQgFk"
+    ]
+   }
+  },
+  {
+   "id": "el-pozuelo",
+   "campos": {
+    "lat": 37.6039,
+    "lon": -6.6632,
+    "estilo": "Megalítico (sepulcros de corredor)",
+    "texto": {
+     "general": "<p>En plena sierra, junto a la aldea de El Pozuelo, se reúne una necrópolis de <b>once sepulcros de corredor</b>, numerados del 1 al 11 y agrupados en cinco conjuntos. Los descubrió y excavó en su mayor parte Carlos Cerdán en 1946, y hoy es Bien de Interés Cultural como zona arqueológica.</p><p>Se suelen fechar en la <b>Edad del Cobre</b>, hacia el 3000-2500 a. C., aunque algunas guías alargan su uso desde mediados del IV milenio hasta el 2000 a. C. Llaman la atención sus <b>plantas variadas</b>: alargadas, trapezoidales y sobre todo cruciformes o con varias cámaras, como el dolmen 11, con cinco cámaras y antecámara.</p><p>En el grupo de Los Llanetes, antes de los dólmenes se habían alzado <b>estelas</b>, y algunas se reaprovecharon después como apoyo de las losas de la cubierta de la cámara. Hay ortostatos con grabados y restos de pintura roja.</p>"
+    },
+    "ver_alli": [
+     "Pasea entre los dólmenes, repartidos por el monte en pequeños grupos.",
+     "Fíjate en las plantas con varias cámaras, poco frecuentes en otros megalitos.",
+     "El camino es una pista de tierra: lleva calzado cómodo y agua.",
+     "La cuenca minera de Riotinto queda cerca."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Yacimiento_arqueol%C3%B3gico_de_El_Pozuelo",
+     "https://visit-andalucia.com/pozuelo-dolmens-huelva/",
+     "https://www.openstreetmap.org/?mlat=37.603&mlon=-6.6561#map=18/37.603/-6.6561",
+     "https://www.google.com/maps/place/?q=place_id:ChIJnYj8Y3KREQ0RHyYtF-5ViI0"
+    ]
+   }
+  },
+  {
+   "id": "museo-huelva",
+   "campos": {
+    "lat": 37.255,
+    "lon": -6.9435,
+    "estilo": "Protohistórico (colecciones tartésicas y fenicias)",
+    "ver_alli": [
+     "La sala de Tartessos, con la reconstrucción del carro de La Joya.",
+     "Las armas de bronce del depósito de la ría de Huelva.",
+     "Las cerámicas fenicias y griegas halladas en el subsuelo de la ciudad.",
+     "El Muelle del Tinto y los Lugares Colombinos están cerca."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Museo_de_Huelva",
+     "https://www.openstreetmap.org/?mlat=37.255&mlon=-6.9436#map=18/37.255/-6.9436",
+     "https://www.google.com/maps/place/?q=place_id:ChIJm2k3tiLQEQ0Ru4kdZwuBwg8"
+    ]
+   }
+  },
+  {
+   "id": "riotinto",
+   "campos": {
+    "lat": 37.6935,
+    "lon": -6.5966,
+    "estilo": "Patrimonio minero (romano e industrial)",
+    "ver_alli": [
+     "En el Museo Minero, la noria romana de desagüe y la reproducción de una mina romana.",
+     "Asómate a la Corta Atalaya, la enorme mina a cielo abierto (visita guiada).",
+     "El tren minero recorre la orilla del río Tinto, con sus aguas rojas.",
+     "El barrio inglés de Bella Vista está a un paso."
+    ],
+    "fuentes": [
+     "https://www.erih.net/i-want-to-go-there/site/riotinto-mining-park",
+     "https://www.eldiario.es/viajes/riotinto-anos-historia-minera_1_2816495.html",
+     "https://www.openstreetmap.org/?mlat=37.6937&mlon=-6.5967#map=18/37.6937/-6.5967",
+     "https://www.google.com/maps/place/?q=place_id:ChIJs1LKjGmbEQ0R5fD4s0O_IoI"
+    ]
+   }
+  },
+  {
+   "id": "tharsis",
+   "campos": {
+    "lat": 37.6006,
+    "lon": -7.1206,
+    "estilo": "Patrimonio minero (romano e industrial)",
+    "texto": {
+     "general": "<p>Tharsis es otra gran cuenca minera de la <b>Faja Pirítica</b> de Huelva, explotada desde la <b>Edad del Cobre</b>. Su época más intensa fue la romana, como muestran los <b>escoriales</b> de Los Silillos, Esperanza, Filón Sur o Huerta Grande; algunos autores sitúan en Filón Sur la mansión de <i>Ad Rubras</i> que cita el Itinerario de Antonino.</p><p>Desde <b>1866</b> la explotó la británica Tharsis Sulphur and Copper Company, que levantó una colonia para su personal y un <b>ferrocarril</b>, inaugurado en 1871, para llevar el mineral a la ría de Huelva. Desde los años sesenta el principal tajo fue la <b>Corta Filón Norte</b>, hoy inactiva y semiinundada de aguas de colores.</p><p>La explotación cesó a comienzos del siglo XXI. En <b>2014</b> la cuenca de Tharsis-La Zarza fue declarada <b>Bien de Interés Cultural</b> como zona patrimonial, y el antiguo hospital minero acoge un museo.</p>"
+    },
+    "ver_alli": [
+     "Asómate a la Corta Filón Norte, con sus aguas de colores.",
+     "El museo minero, en el antiguo hospital de la compañía, guarda locomotoras y coches del ferrocarril.",
+     "Hay senderos entre escoriales y restos de instalaciones mineras."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Tharsis_(Huelva)",
+     "https://www.openstreetmap.org/?mlat=37.6005&mlon=-7.1201#map=18/37.6005/-7.1201",
+     "https://www.google.com/maps/place/?q=place_id:ChIJs1qDkJlSEA0R94i3ttR8SyM",
+     "https://www.google.com/maps/place/?q=place_id:ChIJc_QlPktTEA0RpcPXccGSLYM"
+    ]
+   }
+  },
+  {
+   "id": "mezquita-de-almonaster-la-real",
+   "campos": {
+    "lat": 37.8704,
+    "lon": -6.7871,
+    "estilo": "Califal (andalusí)",
+    "texto": {
+     "general": "<p>En lo alto de Almonaster la Real, dentro de una antigua fortaleza, se conserva casi completa una pequeña <b>mezquita rural</b> de época del <b>Califato de Córdoba</b>, de los siglos IX-X. Se alzó sobre una <b>basílica visigoda</b> del siglo VI.</p><p>Tiene <b>cinco naves</b> de anchura desigual, la central más ancha, y un <b>mihrab</b> de ladrillo y piedra de aspecto arcaico. Sus constructores reaprovecharon columnas y capiteles romanos de los siglos I y II y piezas visigodas, como una lápida con epitafio, un cancel, un cimacio y un dintel. El alminar es una torre cuadrada exterior.</p><p>Tras la conquista cristiana se convirtió en <b>ermita</b>, ya citada en el siglo XV con la advocación de Nuestra Señora de la Concepción, lo que la salvó. Fue declarada Monumento Nacional el 3 de junio de 1931. Junto a ella, una plaza de toros se adosa al recinto de la fortaleza.</p>"
+    },
+    "ver_alli": [
+     "Dentro, el bosque de arcos sobre columnas y capiteles romanos reaprovechados.",
+     "El mihrab, sencillo y antiguo, y las piezas visigodas reutilizadas.",
+     "La subida desde el pueblo tiene buenas vistas de la sierra; al lado está la plaza de toros."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Mezquita_de_Almonaster_la_Real",
+     "https://www.openstreetmap.org/?mlat=37.8704&mlon=-6.7871#map=18/37.8704/-6.7871",
+     "https://www.google.com/maps/place/?q=place_id:ChIJudcIeYEMEQ0RmbNstCEqZqY"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-la-rabida",
+   "campos": {
+    "lat": 37.2077,
+    "lon": -6.9262,
+    "estilo": "Gótico-mudéjar",
+    "texto": {
+     "general": "<p>Este <b>monasterio franciscano</b>, junto a la desembocadura del Tinto y el Odiel, se levantó entre los siglos XIV y XV en estilo <b>gótico-mudéjar</b>. Su claustro mudéjar es del siglo XV, y en el XVII se le añadió un piso con almenas. Las mayores reformas llegaron tras el terremoto de Lisboa de 1755.</p><p>Aquí llegó <b>Cristóbal Colón</b> en 1485. Los frailes <b>Juan Pérez</b> y <b>Antonio de Marchena</b> le dieron apoyo y le ayudaron a defender su proyecto ante la corte, lo que hace de La Rábida uno de los <b>Lugares Colombinos</b>, junto a Palos y Moguer.</p><p>La iglesia guarda la Virgen de los Milagros, una pequeña imagen de alabastro, y un Cristo del siglo XV. En 1930 <b>Daniel Vázquez Díaz</b> pintó al fresco el «Poema del Descubrimiento». Fue declarado Monumento Nacional en 1856, y en 1993 lo visitó el papa Juan Pablo II.</p>"
+    },
+    "ver_alli": [
+     "El claustro mudéjar, el rincón mejor conservado del monasterio.",
+     "Los frescos del «Poema del Descubrimiento» de Vázquez Díaz.",
+     "La sala con las banderas de los países americanos y la arqueta con tierra de cada uno."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Monasterio_de_La_R%C3%A1bida",
+     "https://www.openstreetmap.org/?mlat=37.2076&mlon=-6.9262#map=18/37.2076/-6.9262",
+     "https://www.google.com/maps/place/?q=place_id:ChIJo-CWAJzQEQ0Rh98o-zq4THo"
+    ]
+   }
+  },
+  {
+   "id": "murallas-de-niebla",
+   "campos": {
+    "lat": 37.3623,
+    "lon": -6.678,
+    "estilo": "Almohade (tapial)",
+    "texto": {
+     "general": "<p>Niebla conserva uno de los <b>recintos amurallados</b> más completos de su tipo. La muralla actual la construyeron los <b>almohades</b> entre los siglos XII y XIII: mide unos <b>2 kilómetros</b>, encierra 16 hectáreas y tiene unas <b>50 torres</b>, con una altura máxima de 16 metros. Está hecha de tierra arcillosa rojiza, con las esquinas reforzadas con sillares.</p><p>Se entraba por cinco puertas principales: la del <b>Socorro</b>, la de <b>Sevilla</b>, la del Embarcadero, la del Agua y la del Buey, además de una poterna y el postigo llamado Puerta del Agujero. Es Bien de Interés Cultural desde 1945.</p><p>Dentro del recinto está el <b>castillo de los Guzmán</b>, levantado en el siglo XV sobre una ciudadela andalusí por los señores de Niebla, de la casa de Medina Sidonia. Las tropas francesas lo volaron en 1812, en su retirada, y tuvo que reconstruirse casi por completo.</p>"
+    },
+    "ver_alli": [
+     "Rodea la muralla por fuera para ver el color rojizo de la tierra y la sucesión de torres.",
+     "Entra por la Puerta de Sevilla o la del Socorro, dos de las cinco puertas principales.",
+     "El castillo de los Guzmán, dentro del recinto, se visita aparte."
+    ],
+    "fuentes": [
+     "https://ninos.kiddle.co/Muralla_urbana_de_Niebla",
+     "https://www.barcelo.com/guia-turismo/es/espana/huelva/que-ver/castillo-de-niebla/",
+     "https://www.openstreetmap.org/?mlat=37.3623&mlon=-6.6784#map=18/37.3623/-6.6784",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ0TpPbTHpEQ0RXV8ygr9Gj3o"
+    ]
+   }
+  },
+  {
+   "id": "barrio-bella-vista-de-riotinto",
+   "campos": {
+    "lat": 37.6968,
+    "lon": -6.5974,
+    "estilo": "Victoriano",
+    "texto": {
+     "general": "<p>En <b>1873</b> la británica <b>Rio Tinto Company Limited</b> compró las minas de Riotinto, y con ella llegó una colonia inglesa de directivos y técnicos. Para ellos se levantó, en varias fases entre <b>1883 y 1928</b>, el barrio de <b>Bella Vista</b>, separado del pueblo y de los mineros.</p><p>Sus casas conservan el aire de la <b>arquitectura victoriana</b>. La vida social giraba en torno al <b>Club Inglés</b>; había una capilla presbiteriana y, cerca, un cementerio protestante. Entre las aficiones de los británicos tuvo mucha importancia el <b>fútbol</b>.</p><p>En 1954 la Compañía Española de Minas de Río Tinto se hizo con el control de la cuenca y el barrio pasó a técnicos españoles. Desde 1992 forma parte del <b>Parque Minero de Riotinto</b>, y la «Casa 21» se ha conservado como museo de cómo vivían sus habitantes.</p>"
+    },
+    "ver_alli": [
+     "Entra en la Casa 21, amueblada como cuando la habitaban los ingleses.",
+     "Pasea entre las casas con jardín y busca la capilla presbiteriana y el Club Inglés.",
+     "El cementerio inglés queda a las afueras del barrio."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Barrio_de_Bella_Vista",
+     "https://www.openstreetmap.org/?mlat=37.6988&mlon=-6.5945#map=18/37.6988/-6.5945",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ1V_qb0GbEQ0RCghEapqYfbM",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ-81R8EKbEQ0RKD_s4QxS6ko"
+    ]
+   }
+  }
+ ]
+}
