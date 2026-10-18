@@ -33,7 +33,7 @@ Trabajas como historiador del arte y arqueólogo riguroso.
  "ver_alli":["Qué mirar: 2-4 frases cortas y prácticas."],
  "fuentes":["https://..."],"creada":"AAAA-MM-DD"}
 ```
-- `tipo` es **obligatorio** y solo puede ser: `monumento`, `yacimiento`, `museo`, `castillo` o `iglesia` (catedrales, monasterios, ermitas y mezquitas van como `iglesia`; palacios, puentes y murallas, como `monumento`). Añade también el `tipo` a los lugares existentes que toques, vía `cambios`.
+- `tipo` es **obligatorio** y solo puede ser: `monumento`, `yacimiento`, `museo`, `castillo`, `iglesia` o `poblacion` (catedrales, monasterios, ermitas y mezquitas van como `iglesia`; palacios, puentes y murallas sueltos, como `monumento`; **pueblos, villas, barrios y cascos históricos** —Carrión de los Condes, Covarrubias, el Albaicín, la ciudad monumental de Cáceres— van como `poblacion`; un yacimiento es solo un lugar arqueológico, no un pueblo vivo). Añade también el `tipo` a los lugares existentes que toques, vía `cambios`.
 - `epoca` se elige de las que ya usa `lugares.json` (Románico, Gótico, Mudéjar, Romano, Castillos y fortalezas, Renacimiento, Barroco…).
 - `regiones_sincronia`: una de las zonas que ya aparecen en `lugares.json` para esa provincia.
 - Las coordenadas **se comprueban con la web** (Wikipedia, OpenStreetMap, la web oficial), con 4 decimales, en el edificio y no en el pueblo. Nada de memoria.
