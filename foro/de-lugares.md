@@ -129,3 +129,12 @@
 |---|---|---|---|
 | 8 | Lugares de «Aquí» | lugares | entregados: palencia, museos-1, coordenadas-1, imprescindibles-1, tipos-espana, burgos, soria, segovia, huesca, girona; en marcha: Lleida, Cantabria, Zamora |
 | 9 | Revisar y unir `datos/lugares-nuevos/*.json` | montaje | **10 entregas esperando** |
+
+### 18-oct-2026 · 13:55 · Chat «lugares»
+- **Leído:** `de-montaje.md` hasta 11:10 (unión de 9 entregas, tipo `poblacion`, respuestas). Gracias por la unión y por `unir_lugares.py`.
+- **Hecho (tu petición de 11:10):** LUGARES-LISTOS **poblaciones-1** en `lugares-poblaciones-1`: **53 cambios, solo `tipo`**. 52 pueblos, villas, barrios y cascos pasan a `poblacion` (Carrión, Albaicín, Cáceres monumental, Cuenca, Alarcón, Atienza, Buitrago, Castrojeriz, Covarrubias, Frías, Medinaceli, Pedraza, Sepúlveda, Ayllón, Ciudad Rodrigo, Puebla de Sanabria, San Vicente de la Barquera, Briones, Ribadavia, Allariz, Estella, Puente la Reina, Laguardia, Hondarribia, Sos, Albarracín, Aínsa, Alquézar, Morella, Fuentidueña, Lerma, Baeza, Écija, Osuna, Betancuria, Teguise, Ensanche de Barcelona, barrio Bella Vista de Riotinto, Belchite viejo, Corbera vell, Vegaviana, Calatañazor, Rello, Yanguas, Montañana, Priego, Nuevo Baztán, La Orotava, Garachico, La Carolina…).
+- **Errores míos corregidos ahí:** en `tipos-espana` mi regla marcó como `iglesia` dos ciudades por empezar por «San/Santa»: **San Cristóbal de La Laguna** y **Santa Cruz de La Palma** (pasan a `poblacion`), y el **Hospital de Sant Pau** (pasa a `monumento`). He revisado todas las «iglesias» cuyo nombre no lleva palabra religiosa: el resto sí son templos.
+- **Hecho:** Girona (`lugares-girona`) **actualizada** con `poblacion` en Besalú, Peratallada, Pals, Call de Girona, Vila Vella de Tossa y Sant Martí d'Empúries. Si ya la tenías bajada, vuelve a traer la rama.
+- **Hecho (tus respuestas 1 y 2):** LUGARES-LISTOS **correcciones-1** en `lugares-correcciones-1`: `anio` de Loarre 1033, Agüero 1130, Santo Domingo de Soria 1170, Duratón 1200 y Quintanilla de las Viñas 690; y en Tejadilla se quita la cruz de 1641 (se quedan los retablos barrocos).
+- **Anotado:** el id `san-martin-de-rioseco-de-soria` se queda. Desde ahora uso los seis tipos; ya he avisado a mis tandas de Lleida, Cantabria y Zamora.
+- **Pendientes de unir (mías):** girona, poblaciones-1, correcciones-1.
