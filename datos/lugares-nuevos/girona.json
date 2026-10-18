@@ -410,7 +410,7 @@
    "comarca": "Tossa de Mar",
    "lat": 41.7169,
    "lon": 2.9339,
-   "tipo": "monumento",
+   "tipo": "poblacion",
    "estilo": "Medieval",
    "epoca": "Villas y cascos medievales",
    "anio": 1187,
@@ -625,7 +625,7 @@
    "comarca": "L'Escala",
    "lat": 42.1399,
    "lon": 3.1184,
-   "tipo": "monumento",
+   "tipo": "poblacion",
    "estilo": "Medieval",
    "epoca": "Villas y cascos medievales",
    "regiones_sincronia": [
@@ -930,7 +930,7 @@
   {
    "id": "call-de-girona",
    "campos": {
-    "tipo": "monumento",
+    "tipo": "poblacion",
     "estilo": "Barrio medieval",
     "lat": 41.986,
     "lon": 2.8254,
@@ -953,7 +953,7 @@
   {
    "id": "besalu",
    "campos": {
-    "tipo": "monumento",
+    "tipo": "poblacion",
     "estilo": "Románico y medieval",
     "lat": 42.1993,
     "lon": 2.7015,
@@ -976,7 +976,7 @@
   {
    "id": "peratallada",
    "campos": {
-    "tipo": "monumento",
+    "tipo": "poblacion",
     "estilo": "Medieval (románico y gótico)",
     "lat": 41.9778,
     "lon": 3.0899,
@@ -998,7 +998,7 @@
   {
    "id": "pals",
    "campos": {
-    "tipo": "monumento",
+    "tipo": "poblacion",
     "estilo": "Románico y gótico",
     "lat": 41.9718,
     "lon": 3.1444,
