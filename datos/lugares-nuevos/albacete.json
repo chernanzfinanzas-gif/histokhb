@@ -1,0 +1,417 @@
+{
+ "zona": "Albacete",
+ "nuevos": [
+  {
+   "id": "alcala-del-jucar",
+   "nombre": "Alcalá del Júcar",
+   "provincia": "Albacete",
+   "comarca": "Alcalá del Júcar (La Manchuela)",
+   "lat": 39.1929,
+   "lon": -1.429,
+   "tipo": "poblacion",
+   "estilo": "Villa medieval con castillo almohade",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1364,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Alcalá del Júcar es uno de esos pueblos que parecen imposibles: sus casas se <b>cuelgan de la hoz que el río Júcar</b> ha excavado en la roca, y muchas viviendas están directamente <b>talladas en la peña</b>. En lo alto, coronando el caserío, se alza el <b>castillo</b>, levantado por los <b>almohades entre los siglos XII y XIII</b>.</p><p>Alfonso VIII ganó la plaza para Castilla en <b>1211</b>, junto con Jorquera y Garadén, y la conquista quedó asegurada tras Las Navas de Tolosa (1212). Durante siglo y medio Alcalá fue una aldea de Jorquera, hasta que el <b>18 de abril de 1364</b> el rey Pedro I le concedió el título de villa y la separó de su antigua cabeza.</p><p>El nombre se ha explicado como «castillo del río Júcar», a partir de la voz <i>alcalá</i>, «castillo». El pueblo fue declarado <b>Conjunto Histórico-Artístico en 1982</b>, y entre sus rincones están las cuevas del Diablo, de Masagó y del Garadén.</p>"
+   },
+   "ver_alli": [
+    "Sube hasta el castillo: desde arriba se ve toda la hoz y el caserío escalonado.",
+    "Pasea por las calles en cuesta y fíjate en las casas excavadas en la roca.",
+    "Cruza el Puente viejo para tener la vista clásica del pueblo colgado sobre el Júcar."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Alcal%C3%A1_del_J%C3%BAcar"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "chinchilla-de-monte-aragon",
+   "nombre": "Chinchilla de Monte-Aragón",
+   "provincia": "Albacete",
+   "comarca": "Chinchilla de Monte-Aragón",
+   "lat": 38.9208,
+   "lon": -1.7251,
+   "tipo": "poblacion",
+   "estilo": "Casco medieval y moderno",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1422,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Encaramada en un cerro a pocos kilómetros de Albacete, Chinchilla fue durante siglos <b>la ciudad principal de la comarca</b>. En <b>1422</b> recibió el título de ciudad y fue capital de la llamada <b>Mancha de Aragón</b>; en el Trienio Liberal (1820-1823) llegó a ser capital de una efímera provincia de Chinchilla, hasta que en <b>1833</b> la capitalidad pasó definitivamente a Albacete.</p><p>El corazón del casco es la <b>plaza de la Mancha</b>. Allí se reúnen el <b>Ayuntamiento</b>, construido entre los siglos XVI y XVIII y presidido por un busto de Carlos III, la <b>iglesia de Santa María del Salvador</b> (siglos XV-XVI), que guarda la imagen del siglo XIV de la Virgen de las Nieves, y la Torre del Reloj.</p><p>Por las laderas se reparten <b>casas-cueva</b> y, en lo alto, vigila el castillo. Los antiguos <b>baños árabes</b> fueron declarados Bien de Interés Cultural en 2002.</p>"
+   },
+   "ver_alli": [
+    "En la plaza de la Mancha, mira la fachada del Ayuntamiento con el busto de Carlos III.",
+    "Entra en Santa María del Salvador para ver la mezcla de gótico y renacimiento.",
+    "Sube por las calles hacia el castillo y fíjate en las casas-cueva de la ladera."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Chinchilla_de_Monte-Arag%C3%B3n"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-chinchilla",
+   "nombre": "Castillo de Chinchilla",
+   "provincia": "Albacete",
+   "comarca": "Chinchilla de Monte-Aragón",
+   "lat": 38.9188,
+   "lon": -1.7286,
+   "tipo": "castillo",
+   "estilo": "Fortaleza bajomedieval (siglo XV)",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>El castillo domina desde el <b>cerro de San Blas</b> la ciudad de Chinchilla y buena parte de la llanura albaceteña. Bajo sus muros se han hallado restos de murallas de distintas épocas, y su aspecto actual es el de una fortaleza <b>reconstruida en el siglo XV</b>: el infante <b>don Juan Manuel</b>, señor de Villena, remodeló sus murallas, y a mediados de ese siglo la restauró <b>Juan Pacheco</b>, primer marqués de Villena.</p><p>Su historia posterior es la de un edificio reutilizado: durante <b>casi tres siglos fue prisión</b>, lo que acabó de darle su forma, y entre sus presos más célebres estuvo <b>César Borja</b>. Sirvió de cuartel en la Guerra de Sucesión y para las tropas napoleónicas en la Guerra de la Independencia.</p><p>Está construido en piedra, con mampostería en los muros y sillería en las partes más nobles, y fue declarado <b>monumento histórico-artístico en 1931</b>.</p>"
+   },
+   "ver_alli": [
+    "Rodea el castillo por fuera para apreciar la mole de sus muros sobre el cerro.",
+    "Asómate a la llanura: desde aquí se ve la ciudad de Albacete.",
+    "Por la noche, su iluminación de colores se distingue desde lejos."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Chinchilla"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-penas-de-san-pedro",
+   "nombre": "Castillo de Peñas de San Pedro",
+   "provincia": "Albacete",
+   "comarca": "Peñas de San Pedro",
+   "lat": 38.7294,
+   "lon": -2.002,
+   "tipo": "castillo",
+   "estilo": "Fortaleza andalusí y cristiana",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Sobre una enorme peña caliza al sur de Albacete se extiende uno de los recintos fortificados más espectaculares de la provincia. Fue <b>uno de los enclaves defensivos más importantes de la taifa de Murcia</b>, y su muralla, de <b>más de 1.000 metros</b>, se considera probablemente de origen islámico.</p><p>Hacia <b>1216-1217</b> los castellanos lo ocuparon brevemente, pero poco después Ibn Hud lo recuperó por sorpresa, escalando la peña de noche con unos quinientos hombres. En el siglo XIII pasó definitivamente a manos cristianas, y en <b>1242</b> el castillo y la aldea fueron entregados a Sancho Sánchez de Mazuelo.</p><p>Su posición inexpugnable le devolvió protagonismo en el siglo XIX: en la <b>Primera Guerra Carlista</b> lo ocuparon tropas de Cabrera (1836), se le añadieron baterías y en <b>1837</b> llegó a albergar la Real Audiencia Territorial de Albacete.</p>"
+   },
+   "ver_alli": [
+    "Sube a pie desde el pueblo hasta lo alto de la peña.",
+    "Recorre el perímetro de murallas que corona la peña.",
+    "Busca los restos de las baterías del siglo XIX añadidas en las guerras carlistas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Pe%C3%B1as_de_San_Pedro",
+    "https://es.wikipedia.org/wiki/Pe%C3%B1as_de_San_Pedro"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "ermita-de-belen-lietor",
+   "nombre": "Ermita de Belén (Liétor)",
+   "provincia": "Albacete",
+   "comarca": "Liétor",
+   "lat": 38.5419,
+   "lon": -1.9544,
+   "tipo": "iglesia",
+   "estilo": "Barroco popular",
+   "epoca": "Barroco",
+   "anio": 1734,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Por fuera es una ermita modesta, de planta rectangular con arcos diafragma y techumbre de madera. Por dentro es una sorpresa: <b>todas sus paredes y retablos están cubiertos de pinturas murales</b> de estilo popular, realizadas entre <b>1734 y 1735</b>.</p><p>Las pinturas muestran <b>santos, escenas bíblicas y una alegoría de la muerte</b>, a menudo acompañadas de versos moralizantes. Destacan el camarín con los <b>cuatro evangelistas y el Espíritu Santo</b>, un frente con columnas salomónicas y tres paneles con la Visitación, la Sagrada Familia y la Inmaculada. Hay además retablos pintados de san Antonio y santa Bárbara.</p><p>Fue declarada <b>Monumento Histórico-Artístico en 1976</b>. Es uno de los conjuntos de pintura popular barroca más completos de la provincia.</p>"
+   },
+   "ver_alli": [
+    "Fíjate en la alegoría de la muerte y en los versos que acompañan a las escenas.",
+    "Busca a los cuatro evangelistas en el camarín.",
+    "Fíjate en el frente con columnas salomónicas y en los paneles de la Visitación, la Sagrada Familia y la Inmaculada."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Li%C3%A9tor"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-yeste",
+   "nombre": "Castillo de Yeste",
+   "provincia": "Albacete",
+   "comarca": "Yeste (Sierra del Segura)",
+   "lat": 38.3669,
+   "lon": -2.3182,
+   "tipo": "castillo",
+   "estilo": "Andalusí con reformas góticas",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>El castillo de Yeste es de <b>origen musulmán, del siglo XII</b>, y fue fortaleza fronteriza frente al reino nazarí de Granada. Las tropas castellanas tomaron la villa en los primeros meses de <b>1242</b> y ese mismo año fue concedida a la <b>Orden de Santiago</b>, que hizo de Yeste una de sus encomiendas para proteger la frontera.</p><p>Entre los <b>siglos XV y XVI</b> sufrió numerosas transformaciones que le dieron su aspecto sólido y lo convirtieron en una residencia palaciega. Se entra por la gran <b>torre del homenaje</b>, en cuya puerta lucen los escudos de piedra de la Orden de Santiago y de la familia <b>Figueroa</b>.</p><p>Dentro sorprende su <b>patio de armas columnado</b>, con doble galería: la inferior de gótico tardío y la superior de madera, con una ventana con parteluz.</p>"
+   },
+   "ver_alli": [
+    "En la puerta de la torre del homenaje, busca los escudos de Santiago y de los Figueroa.",
+    "Mira las dos galerías del patio: piedra gótica abajo, madera arriba.",
+    "Recorre las salas del castillo, convertido en residencia palaciega en los siglos XV y XVI."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Yeste",
+    "https://es.wikipedia.org/wiki/Yeste"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "catedral-de-albacete",
+   "nombre": "Catedral de San Juan Bautista de Albacete",
+   "provincia": "Albacete",
+   "comarca": "Albacete",
+   "lat": 38.9957,
+   "lon": -1.856,
+   "tipo": "iglesia",
+   "estilo": "Gótico y renacentista, terminada en el siglo XX",
+   "epoca": "Renacimiento",
+   "anio": 1515,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>La catedral de Albacete empezó a levantarse en <b>1515</b> sobre un antiguo templo mudéjar, y su obra se alargó durante siglos. Enrique Egas vino de Toledo a tasarla y, en <b>1538</b>, <b>Diego de Siloé</b> aconsejó sustituir los pilares góticos por columnas: así nacieron sus <b>cuatro grandes columnas jónicas de 13,65 metros</b>, dibujadas por Jerónimo Quijano. Las bóvedas no se cerraron hasta <b>1690</b>.</p><p>Fue durante siglos la parroquia de San Juan Bautista, hasta que en <b>1949</b> Pío XII creó la diócesis de Albacete y la elevó a catedral; ese mismo año se terminó con su aspecto actual.</p><p>Lo que más llama la atención al entrar son las <b>pinturas murales de Casimiro Escribá</b>, encargadas en 1958, que cubren unos <b>1.000 m²</b>. En la capilla de la Virgen de los Llanos se conserva un retablo renacentista con tablas del <b>Maestro de Albacete</b>.</p>"
+   },
+   "ver_alli": [
+    "Levanta la vista hacia las cuatro columnas jónicas que sostienen las naves.",
+    "Recorre las pinturas murales de Casimiro Escribá.",
+    "En la capilla de la Virgen de los Llanos, busca las tablas renacentistas del Maestro de Albacete."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_de_San_Juan_Bautista_de_Albacete"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "pasaje-de-lodares",
+   "nombre": "Pasaje de Lodares",
+   "provincia": "Albacete",
+   "comarca": "Albacete",
+   "lat": 38.9932,
+   "lon": -1.8558,
+   "tipo": "monumento",
+   "estilo": "Modernista e historicista",
+   "epoca": "Siglo XX",
+   "anio": 1925,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En pleno centro de Albacete, el Pasaje de Lodares es una galería comercial cubierta que parece trasladada desde Italia. Lo mandó construir <b>Gabriel Lodares</b> y lo proyectó en <b>1925</b> el arquitecto valenciano <b>Buenaventura Ferrando Castells</b>, a imagen de las <b>galerías italianas</b>.</p><p>Es arquitectura <b>modernista</b> de principios del siglo XX que mezcla <b>columnas renacentistas</b> con adornos neobarrocos. Una <b>cubierta de cristal sostenida por arcos de hierro</b> deja entrar la luz sobre las fachadas, y los accesos se cierran con puertas de hierro forjado.</p><p>Hoy sigue siendo un paso comercial muy vivo y una de las imágenes más reconocibles de la ciudad.</p>"
+   },
+   "ver_alli": [
+    "Levanta la vista hacia la cubierta de cristal y los arcos de hierro.",
+    "Fíjate en las columnas y en la decoración de las fachadas interiores.",
+    "Mira las puertas de hierro forjado de los accesos."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Pasaje_de_Lodares"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "reales-fabricas-de-riopar",
+   "nombre": "Reales Fábricas de San Juan de Alcaraz (Riópar)",
+   "provincia": "Albacete",
+   "comarca": "Riópar (Sierra de Alcaraz)",
+   "lat": 38.5004,
+   "lon": -2.4192,
+   "tipo": "monumento",
+   "estilo": "Arquitectura industrial del siglo XVIII",
+   "epoca": "Ilustración y Neoclásico",
+   "anio": 1772,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En <b>1772</b> Carlos III autorizó al ingeniero austriaco <b>Juan Jorge Graubner</b>, naturalizado español, a levantar en la sierra de Alcaraz unas fábricas de latón. Eligió un lugar junto a un curso de agua donde había agua, leña y <b>calamina</b>, el mineral de cinc necesario para la aleación.</p><p>Así nacieron las <b>Reales Fábricas de Bronce y Latón de San Juan de Alcaraz</b>, consideradas la <b>primera fábrica de latón y bronce de España y la segunda de Europa</b>, tras la de Goslar (Alemania). Alrededor creció el Riópar actual, fundado como colonia para los trabajadores de las minas y las fábricas, mientras el pueblo medieval —Riópar Viejo— quedaba a unos 3 km.</p><p>A finales del siglo XIX la mina de calamina dejó de ser rentable y comenzó el declive; las fábricas cerraron definitivamente en <b>1993</b>. Hoy los antiguos edificios albergan un museo y en el pueblo siguen trabajando talleres de bronce.</p>"
+   },
+   "ver_alli": [
+    "Visita el museo instalado en los antiguos edificios fabriles.",
+    "Busca el canal (caz) que llevaba el agua para mover la maquinaria.",
+    "Asómate a algún taller de bronce del pueblo, heredero de la tradición."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Ri%C3%B3par"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "alcaraz",
+   "nombre": "Alcaraz",
+   "provincia": "Albacete",
+   "comarca": "Alcaraz (Sierra de Alcaraz)",
+   "lat": 38.6648,
+   "lon": -2.4911,
+   "tipo": "poblacion",
+   "estilo": "Casco medieval y plaza renacentista",
+   "epoca": "Renacimiento",
+   "anio": 1213,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Alcaraz fue una de las grandes plazas de la frontera castellana. <b>Alfonso VIII</b> entró en su fortaleza el <b>23 de mayo de 1213</b>, por la puerta de Granada, acompañado del arzobispo Jiménez de Rada, al año siguiente de Las Navas de Tolosa.</p><p>Su joya es la <b>Plaza Mayor</b>, transformada a principios del siglo XVI, donde se recortan juntas la <b>torre del Tardón</b> y la <b>torre de la Trinidad</b>, la imagen más conocida del pueblo. La <b>iglesia de la Santísima Trinidad</b>, gótica y renacentista de los siglos XIV-XV, es la única parroquia que queda de las doce que llegó a tener.</p><p>Alcaraz es además la patria del arquitecto renacentista <b>Andrés de Vandelvira</b>. El casco fue declarado <b>Conjunto Histórico-Artístico en 1945</b>.</p>"
+   },
+   "ver_alli": [
+    "En la Plaza Mayor, fotografía juntas las torres del Tardón y de la Trinidad.",
+    "Rodea la iglesia de la Trinidad para ver su portada gótica.",
+    "Junto a la torre del Tardón, fíjate en la Lonja de Santo Domingo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Alcaraz"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "nerpio",
+   "campos": {
+    "lat": 38.1234,
+    "lon": -2.3781,
+    "estilo": "Arte rupestre levantino y esquemático",
+    "texto": {
+     "general": "<p>La sierra de Nerpio, en la cabecera del río Taibilla, es uno de los grandes santuarios del arte rupestre peninsular: tiene <b>más de treinta estaciones con pintura levantina</b> y varias decenas con arte esquemático. Forma parte del conjunto «Arte Rupestre del Arco Mediterráneo de la península ibérica», <b>Patrimonio de la Humanidad desde 1998</b>.</p><p>El conjunto más conocido es la <b>Solana de las Covachas</b>, descubierto en <b>1954</b> por José Soto Pérez: nueve abrigos con unas doscientas figuras de arqueros, mujeres y animales (cabras, ciervos, toros y caballos), con escenas de caza y de danza. En cuatro de sus abrigos aparece además arte esquemático. Se cree que el entorno sirvió como lugar de reunión y ceremonia para grupos numerosos.</p><p>Conviven aquí dos maneras de pintar. El <b>arte levantino</b>, figurativo y lleno de movimiento, se fecha entre hace unos 10.000 y 6.500 años; el <b>esquemático</b>, de trazos, puntos y figuras simplificadas, entre hace unos 6.500 y 3.200 años, ya en manos de grupos neolíticos.</p><p class=\"dato\"><span>¿Sabías que…?</span>En el cercano Torcal de las Bojadillas hay cientos de figuras pintadas con una pluma de ave a modo de pincel, un trazo tan fino que se considera excepcional en Europa occidental.</p>"
+    },
+    "ver_alli": [
+     "La Solana de las Covachas está a unos 7 km del pueblo, junto a la aldea de Pedro Andrés; la visita es guiada y se reserva en la oficina de turismo de Nerpio.",
+     "Fíjate en los pequeños arqueros levantinos en plena carrera y en las figuras femeninas.",
+     "El camino de subida atraviesa el paisaje de la sierra del Segura: lleva calzado cómodo."
+    ],
+    "fuentes": [
+     "https://spain.info/en/places-of-interest/solana-covachas",
+     "https://es.wikipedia.org/wiki/Nerpio",
+     "https://www.openstreetmap.org/?mlat=38.1234&mlon=-2.3781#map=18/38.1234/-2.3781",
+     "https://www.google.com/maps/place/?q=place_id:ChIJpZxGkRaFZQ0RMUBUpsNnbxA"
+    ]
+   }
+  },
+  {
+   "id": "minateda",
+   "campos": {
+    "lat": 38.465,
+    "lon": -1.6159,
+    "estilo": "Arte rupestre levantino y esquemático",
+    "ver_alli": [
+     "El abrigo está a 10-15 minutos a pie desde el aparcamiento por un sendero sencillo; las pinturas se ven a través de una reja.",
+     "Con visita guiada se entra al recinto y se distinguen mejor las figuras superpuestas.",
+     "Muy cerca está el Tolmo de Minateda, la ciudad que ocupó la muela vecina durante tres mil años."
+    ],
+    "fuentes": [
+     "https://www.prehistour.eu/portfolio-item/abrigo-grande-of-minateda/",
+     "https://rupestre.art/es/caves/minateda-rock-art",
+     "https://www.openstreetmap.org/?mlat=38.465&mlon=-1.6159#map=18/38.465/-1.6159",
+     "https://www.google.com/maps/place/?q=place_id:ChIJa2TQCMA7ZA0RZXD3mgUkRWA"
+    ]
+   }
+  },
+  {
+   "id": "motilla-acequion",
+   "campos": {
+    "lat": 39.0245,
+    "lon": -2.028,
+    "estilo": "Motilla (fortificación de la Edad del Bronce)",
+    "ver_alli": [
+     "Está junto a la laguna del Acequión, en terrenos de acceso restringido: consulta antes si se puede visitar.",
+     "Se reconocen los dos muros concéntricos de piedra que rodeaban la torre central."
+    ],
+    "fuentes": [
+     "https://www.ucm.es/motillaelacequion/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ2wGMAKhDZg0R1uaGs3yIr34",
+     "https://www.openstreetmap.org/?mlat=39.0256&mlon=-2.0245#map=18/39.0256/-2.0245"
+    ]
+   }
+  },
+  {
+   "id": "libisosa",
+   "campos": {
+    "lat": 38.9417,
+    "lon": -2.3547,
+    "estilo": "Oppidum ibérico y colonia romana",
+    "texto": {
+     "general": "<p>En el <b>Cerro del Castillo</b> de Lezuza se levantó una ciudad de los íberos <b>oretanos</b>, citada por Ptolomeo, que estuvo habitada desde el Bronce Final (siglos IX-VIII a. C.). La ocupación se extiende por unas 30 hectáreas y llega hasta la Baja Edad Media.</p><p>En el primer tercio del siglo I a. C. la ciudad fue destruida de forma repentina, en el contexto de las <b>guerras sertorianas</b>; se suele situar hacia el 75 a. C., cuando Metelo pasó por la zona. El incendio dejó las casas con todo dentro, y se han recuperado más de <b>155.000 piezas</b>: una bodega guardaba más de 80 ánforas-tinaja.</p><p>Después Roma la convirtió en colonia, <b>Libisosa Foroaugustana</b>, que cita Plinio el Viejo, probablemente por concesión de Augusto. De entonces son el foro y una basílica de 41 por 14,5 metros. En lo alto del cerro queda una torre medieval de unos 13 metros de lado, de la época en que las tropas de Alfonso VIII tomaron el castillo de Lezuza, tras conquistar Alcaraz en 1213.</p><p class=\"dato\"><span>¿Sabías que…?</span>Lo excava sin interrupción desde 1996 un equipo de la Universidad de Alicante, iniciado por José Uroz Sáez.</p>"
+    },
+    "ver_alli": [
+     "Las casas íberas incendiadas, con sus estancias y almacenes, son lo más impresionante del recorrido.",
+     "Busca el foro romano y la torre medieval de la cima, desde donde se domina la llanura.",
+     "La colección museográfica de Libisosa está en el pueblo de Lezuza, a menos de 1 km del yacimiento; la visita guiada ayuda mucho a entenderlo."
+    ],
+    "fuentes": [
+     "https://www.eldiario.es/castilla-la-mancha/yacimiento-libisosa-lezuza-parque-arqueologico-sexto-castilla-mancha_1_8435323.html",
+     "https://es.wikipedia.org/wiki/Libisosa",
+     "https://www.openstreetmap.org/?mlat=38.9417&mlon=-2.3547#map=18/38.9417/-2.3547",
+     "https://www.google.com/maps/place/?q=place_id:ChIJWSZXuPIYZg0RBXZfGYyy2Ro"
+    ]
+   }
+  },
+  {
+   "id": "tolmo-minateda",
+   "campos": {
+    "lat": 38.4765,
+    "lon": -1.6068,
+    "estilo": "Oppidum ibérico, ciudad romana y conjunto episcopal visigodo",
+    "texto": {
+     "general": "<p>El Tolmo es una gran muela de roca en un cruce de caminos entre la Meseta y la costa del sureste, y estuvo habitado de forma casi continua durante <b>más de tres mil años</b>: desde la Edad del Bronce (su muralla más antigua se fecha hacia el 1200 a. C.) hasta época islámica.</p><p>Fue ciudad íbera y luego romana. En el <b>9 a. C.</b> alcanzó el rango de municipio, probablemente con el nombre de <b>Ilunum</b>, y lo celebró con una muralla de sillería y una gran inscripción a <b>Augusto</b>.</p><p>En época visigoda fue la sede de un obispo, <b>Eio</b>, creada entre finales del siglo VI y comienzos del VII. En lo alto se levantó un conjunto con una <b>basílica</b> de tres naves, un <b>baptisterio</b> a sus pies y un edificio monumental, probablemente el palacio episcopal, que se consolidaron en 2024. La ciudad siguió viva en época islámica como <b>Madinat Iyih</b>, nombre que dio origen al actual Minateda, hasta su abandono a finales del siglo IX.</p><p class=\"dato\"><span>¿Sabías que…?</span>La entrada a la ciudad, en El Reguerón, acumula al menos cinco murallas superpuestas de épocas distintas, desde la Edad del Bronce hasta los siglos VIII-IX.</p>"
+    },
+    "ver_alli": [
+     "El centro de interpretación está a unos 350 m del yacimiento, junto a la autovía A-30; conviene empezar por él.",
+     "Fíjate en la entrada de El Reguerón, con murallas de épocas distintas, y en las plantas de la basílica y el baptisterio en lo alto.",
+     "A poco más de 1 km está el Abrigo Grande de Minateda, con arte rupestre."
+    ],
+    "fuentes": [
+     "https://www.hoteles.net/albacete/hellin/tolmo-minateda-hellin-albacete.html",
+     "https://es.wikipedia.org/wiki/Tolmo_de_Minateda",
+     "https://cultura.castillalamancha.es/sites/default/files/2020-07/FICHA%20TOLMO%20DE%20MINATEDA.pdf",
+     "https://www.google.com/maps/place/?q=place_id:ChIJBzvjGK0kZA0RBgaEJOTdVhE",
+     "https://www.openstreetmap.org/?mlat=38.474&mlon=-1.6042#map=18/38.474/-1.6042"
+    ]
+   }
+  },
+  {
+   "id": "cerro-santos",
+   "campos": {
+    "lat": 38.733,
+    "lon": -1.2694,
+    "estilo": "Santuario ibérico",
+    "ver_alli": [
+     "En el cerro apenas quedan restos: un monolito conmemorativo y fragmentos de cerámica por el suelo.",
+     "Las esculturas están en el Museo de Albacete y en el Museo Arqueológico Nacional; conviene verlas antes o después."
+    ],
+    "fuentes": [
+     "https://vici.org/vici/15394",
+     "https://www.openstreetmap.org/?mlat=38.7327&mlon=-1.2694#map=18/38.7327/-1.2694",
+     "https://www.google.com/maps/place/?q=place_id:ChIJIf5NznSsZg0RES-DujaatUE"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-almansa",
+   "campos": {
+    "lat": 38.8716,
+    "lon": -1.0933,
+    "estilo": "Gótico (siglo XV) sobre muros de tapial",
+    "texto": {
+     "general": "<p>El castillo corona el <b>Cerro del Águila</b>, un peñón calizo alargado que se alza sobre la llanura de Almansa. Pudo tener un origen almohade, pero los muros de tapial que se conservan se han fechado, por análisis de 2008, a finales del siglo XIII o comienzos del XIV, en las primeras décadas del dominio cristiano.</p><p>En el siglo XIV Almansa pasó al señorío de Villena y <b>don Juan Manuel</b> mandó rehacer sus murallas. Su aspecto actual se lo dio en el siglo XV <b>Juan Pacheco</b>, marqués de Villena: la <b>torre del homenaje</b>, fechada entre 1449 y 1454 y con sus escudos en las cuatro caras, las torres semicirculares y la barbacana.</p><p>Desde el siglo XVI se fue arruinando, y en 1919 el alcalde llegó a pedir permiso para derribarlo. Lo salvaron los informes de las Reales Academias de la Historia y de Bellas Artes, y en <b>1921</b> fue declarado Monumento Nacional. Se restaura desde 1952.</p><p class=\"dato\"><span>¿Sabías que…?</span>La escalera de caracol gótica de la torre, tallada en parte en la roca, no se descubrió hasta mediados del siglo XX.</p>"
+    },
+    "ver_alli": [
+     "Sube la escalera de caracol de la torre del homenaje hasta la terraza, con vistas a toda la llanura.",
+     "Busca los escudos de Juan Pacheco en las caras de la torre.",
+     "Dentro hay un pequeño museo con armas y una maqueta del castillo; hay muchos escalones y suelo irregular."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Almansa",
+     "https://www.openstreetmap.org/?mlat=38.8716&mlon=-1.0933#map=18/38.8716/-1.0933",
+     "https://www.google.com/maps/place/?q=place_id:ChIJJY77XRxPYQ0RK2AvvtwXopE"
+    ]
+   }
+  }
+ ]
+}
