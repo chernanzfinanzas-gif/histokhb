@@ -1,0 +1,458 @@
+{
+ "zona": "Bizkaia",
+ "nuevos": [
+  {
+   "id": "museo-de-bellas-artes-de-bilbao",
+   "nombre": "Museo de Bellas Artes de Bilbao",
+   "provincia": "Bizkaia",
+   "comarca": "Bilbao",
+   "lat": 43.2655,
+   "lon": -2.9381,
+   "tipo": "museo",
+   "estilo": "Edificio de 1945 y ampliación de 1970",
+   "epoca": "Siglo XX",
+   "anio": 1908,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>El museo se creó en <b>1908</b> y abrió en 1914. Su edificio es obra de Fernando Urrutia y Gonzalo Cárdenas y se terminó en <b>1945</b>; en 1962 fue declarado Monumento Nacional. En 1970 se le añadió una ampliación de Álvaro Líbano y Ricardo de Beascoa.</p><p>Guarda más de <b>10.000 piezas</b>: unas 1.500 pinturas, 400 esculturas, más de 6.500 obras sobre papel y un millar de objetos de artes aplicadas. Entre lo más conocido están <b>«La Anunciación» de El Greco</b>, el retrato de Martín Zapater de <b>Goya</b>, cuatro cuadros de Zurbarán, las «Lavanderas en Arlés» de <b>Gauguin</b> y una gran colección de arte vasco, con Zuloaga y Arteta.</p><p>Desde noviembre de 2022 el museo está en obras de ampliación, con un proyecto de Norman Foster y Luis María Uriarte, así que conviene informarse antes de lo que está expuesto.</p>"
+   },
+   "ver_alli": [
+    "«La Anunciación» de El Greco y el retrato de Goya, si están expuestos.",
+    "Las salas de arte vasco, con Zuloaga y Arteta.",
+    "El edificio de 1945, a unos 450 metros del Guggenheim."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Bellas_Artes_de_Bilbao",
+    "https://www.openstreetmap.org/way/28211432",
+    "https://www.google.com/maps/place/?q=place_id:ChIJnblaYydQTg0R8ejum75ob-A"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "basilica-de-begona",
+   "nombre": "Basílica de Begoña",
+   "provincia": "Bizkaia",
+   "comarca": "Bilbao",
+   "lat": 43.2588,
+   "lon": -2.9137,
+   "tipo": "iglesia",
+   "estilo": "Gótico, con portada renacentista",
+   "epoca": "Gótico",
+   "anio": 1511,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>En lo alto de una colina sobre el Casco Viejo, la basílica guarda la imagen de la <b>Virgen de Begoña</b>, patrona de Bizkaia.</p><p>Las obras empezaron en <b>1511</b> con planos de Sancho Martínez de Arego y duraron casi un siglo: las bóvedas no se cerraron hasta el siglo XVII. Es un templo <b>gótico</b>, con una portada de mediados del siglo XVI que ya anuncia el Renacimiento. La torre actual es mucho más reciente: la diseñó José María Basterra y se levantó entre 1902 y 1907.</p><p>En las guerras carlistas, junto a la basílica cayó herido de muerte el general carlista <b>Tomás de Zumalacárregui</b>.</p>"
+   },
+   "ver_alli": [
+    "Sube a pie por las escaleras desde el Casco Viejo o en ascensor, y mira Bilbao desde arriba.",
+    "La portada renacentista de mediados del siglo XVI.",
+    "La imagen de la Virgen de Begoña en el altar mayor."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Basilica_of_Bego%C3%B1a",
+    "https://www.openstreetmap.org/way/28463782",
+    "https://www.google.com/maps/place/?q=place_id:ChIJOb4NoLZPTg0Rx4IQBRxgKq0"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "catedral-de-santiago-bilbao",
+   "nombre": "Catedral de Santiago de Bilbao",
+   "provincia": "Bizkaia",
+   "comarca": "Bilbao",
+   "lat": 43.2572,
+   "lon": -2.9237,
+   "tipo": "iglesia",
+   "estilo": "Gótico, con fachada y torre neogóticas",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Es el templo mayor de las Siete Calles. Se levantó en estilo <b>gótico</b> entre finales del siglo XIV y comienzos del XVI. De principios del XVI son el <b>claustro</b> y la <b>Puerta del Ángel</b>, de gótico flamígero; del Renacimiento, la sacristía y el pórtico sur, empezado en 1580 y cubierto en 1686.</p><p>La fachada y la torre que vemos hoy son <b>neogóticas</b>: las diseñó Severino de Achúcarro y se terminaron en 1891. En 1819 recibió el título de basílica, la primera del País Vasco, y en 1931 fue declarada monumento. Cuando en 1949 se creó la diócesis de Bilbao pasó a ser su sede, y se consagró como <b>catedral</b> en 1955.</p><p>Las inundaciones de 1983 la dañaron gravemente y su restauración duró hasta el año 2000.</p>"
+   },
+   "ver_alli": [
+    "El claustro gótico y la Puerta del Ángel.",
+    "El pórtico sur, de época renacentista.",
+    "La fachada neogótica de Achúcarro, desde la plaza de Santiago."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_de_Santiago_(Bilbao)",
+    "https://www.openstreetmap.org/relation/7560683",
+    "https://www.google.com/maps/place/?q=place_id:ChIJAe9mcTVOTg0RNX0wHwm6OSs"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "casco-viejo-de-bilbao",
+   "nombre": "Casco Viejo de Bilbao (Siete Calles)",
+   "provincia": "Bizkaia",
+   "comarca": "Bilbao",
+   "lat": 43.259,
+   "lon": -2.9227,
+   "tipo": "poblacion",
+   "estilo": "Trazado medieval de calles paralelas",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1300,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Bilbao nació aquí: el señor de Bizkaia <b>Diego López de Haro</b> le dio carta puebla el <b>15 de junio de 1300</b>, y el rey Fernando IV la confirmó en 1301. Al principio eran solo tres calles, Somera, Artekale y Tendería; en el siglo siguiente se completaron las <b>Siete Calles</b> (Zazpikaleak): Somera, Artekale, Tendería, Belostikale, Carnicería Vieja, Barrenkale y Barrenkale Barrena.</p><p>La villa estaba amurallada; la calle de la Ronda sigue el trazado de la muralla, que se derribó en 1571 tras las inundaciones y el gran incendio de 1569 para que la ciudad pudiera crecer. Después la villa se amplió hacia el norte, con la <b>Plaza Nueva</b> y las calles de Santa María, Bidebarrieta, Correo y Askao.</p><p>Además de la catedral de Santiago, guarda las iglesias de San Antón, San Nicolás y los Santos Juanes. Es conjunto histórico desde el 9 de noviembre de 1972. El 26 de agosto de 1983, en plena Semana Grande, la ría se desbordó y el agua inundó sus calles.</p>"
+   },
+   "ver_alli": [
+    "La Plaza Nueva, fruto de la ampliación de la villa hacia el norte.",
+    "Recorre en paralelo las Siete Calles, de Somera a Barrenkale Barrena.",
+    "La catedral de Santiago y la iglesia de San Antón junto a la ría."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Bilbao",
+    "https://en.wikipedia.org/wiki/Casco_Viejo",
+    "https://es.wikipedia.org/wiki/Casco_Viejo_(Bilbao)",
+    "https://www.openstreetmap.org/way/133171870",
+    "https://www.google.com/maps/place/?q=place_id:ChIJmeIQU8lPTg0R_46Dgsg67hk"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "casa-de-juntas-de-gernika",
+   "nombre": "Casa de Juntas y Árbol de Gernika",
+   "provincia": "Bizkaia",
+   "comarca": "Gernika-Lumo",
+   "lat": 43.3131,
+   "lon": -2.6797,
+   "tipo": "monumento",
+   "estilo": "Neoclásico",
+   "epoca": "Ilustración y Neoclásico",
+   "anio": 1826,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Bajo el <b>roble de Gernika</b> se reunían las Juntas del Señorío de Bizkaia. Suspendidas en 1877, se restauraron en 1979, y hoy la Casa de Juntas es la sede de las <b>Juntas Generales de Bizkaia</b>. El edificio actual, neoclásico, se empezó en <b>1826</b> según proyecto de Antonio Echevarría, junto a la antigua iglesia de Santa María la Antigua.</p><p>La sala de sesiones es <b>elíptica</b>, con los escaños a los lados y un altar que hace de mesa presidencial; la decoran 26 retratos de señores de Bizkaia. En la sala de la vidriera, un gran ventanal alegórico de 235 m² (1985) cubre el techo, y un tríptico de Gustavo de Maeztu recuerda la galerna de 1878 que mató a 200 pescadores de Bermeo.</p><p>El roble actual se plantó en 2015; sus antecesores vivieron de 1792 a 1860 y de 1860 a 2004. El conjunto salió intacto del bombardeo de 1937. Una placa recuerda las palabras con las que juró su cargo en 1936 <b>José Antonio Aguirre</b>, primer lehendakari.</p>"
+   },
+   "ver_alli": [
+    "El roble actual, plantado en 2015.",
+    "La sala de Juntas elíptica, con los retratos de los señores de Bizkaia.",
+    "La gran vidriera del techo y el tríptico de Maeztu.",
+    "El Museo de la Paz está a unos 250 metros."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Casa_de_Juntas_de_Guernica",
+    "https://es.wikipedia.org/wiki/Bombardeo_de_Guernica",
+    "https://www.openstreetmap.org/relation/17862437",
+    "https://www.google.com/maps/place/?q=place_id:ChIJK69HuxQ6Tg0Rhe6oC2_OBM8"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-juan-de-gaztelugatxe",
+   "nombre": "San Juan de Gaztelugatxe",
+   "provincia": "Bizkaia",
+   "comarca": "Bermeo",
+   "lat": 43.4474,
+   "lon": -2.7848,
+   "tipo": "iglesia",
+   "estilo": "Ermita reconstruida en 1980",
+   "epoca": "Prerrománico y Alta Edad Media",
+   "anio": 1053,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Sobre un islote unido a la costa de Bermeo por un puente de dos arcos y <b>241 escalones</b> tallados en la roca se alza la ermita de San Juan. Se la sitúa en el siglo X, con hallazgos del IX, sobre los restos de un castillo. En <b>1053</b> el señor de Bizkaia Íñigo López y su mujer Toda Ortiz la donaron al monasterio de San Juan de la Peña, y en 1162 pasó a los premonstratenses.</p><p>Su historia es agitada: la saqueó <b>Francis Drake</b> en 1593 y al año siguiente unos hugonotes mataron al ermitaño. Ardió varias veces; tras el último incendio, el 10 de noviembre de 1978, se reabrió el 25 de junio de 1980. El islote y la isla vecina de Aketxe forman un biotopo protegido entre Bakio y el cabo Matxitxako.</p><p class=\"dato\"><span>¿Sabías que…?</span>En la séptima temporada de «Juego de Tronos» el islote hizo de Rocadragón, con un palacio digital en lugar de la ermita. La fama disparó las visitas, y en temporada alta el acceso se regula con reserva previa.</p>"
+   },
+   "ver_alli": [
+    "El camino de bajada y los 241 escalones del islote, con un vía crucis.",
+    "El puente de piedra de dos arcos.",
+    "Al llegar arriba, la costumbre es tocar tres veces la campana y pedir un deseo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/San_Juan_de_Gaztelugatxe",
+    "https://www.openstreetmap.org/way/28746138",
+    "https://www.google.com/maps/place/?q=place_id:ChIJDWgHMgRATg0RM7t5K1YKCGE"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "basilica-de-la-asuncion-lekeitio",
+   "nombre": "Basílica de la Asunción de Santa María (Lekeitio)",
+   "provincia": "Bizkaia",
+   "comarca": "Lekeitio",
+   "lat": 43.3632,
+   "lon": -2.5027,
+   "tipo": "iglesia",
+   "estilo": "Gótico tardío",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Lekeitio, villa marinera con carta puebla de 1325, tiene uno de los edificios góticos más importantes de Bizkaia. La basílica es una construcción de <b>gótico tardío</b> del siglo XV, declarada Monumento Nacional. Tiene tres naves de cuatro tramos y ábside poligonal; la central, más alta, se cubre con bóvedas estrelladas.</p><p>Por fuera impresionan sus <b>contrafuertes, arbotantes y pináculos</b>, y el perfil escalonado que le da la nave central, más alta que las laterales.</p><p>Dentro está su gran tesoro: el <b>retablo mayor</b>, de gótico hispanoflamenco, tallado en la primera década del siglo XVI y policromado entre 1510 y 1514, con predominio del oro. No se conoce su autor: trabajaron al menos siete artistas bajo una misma dirección, quizá maestros del norte de Europa. La iglesia guarda también la talla de la Virgen de la Antigua, del siglo XII, en un retablo barroco.</p>"
+   },
+   "ver_alli": [
+    "Los arbotantes y pináculos de la fachada.",
+    "El retablo mayor dorado, uno de los mejores de escultura hispanoflamenca.",
+    "La Virgen de la Antigua en su retablo barroco."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Lequeitio",
+    "https://www.spain.info/es/lugares-interes/basilica-asuncion-santa-maria-lekeitio/",
+    "https://www.euskadi.eus/retablo1/bizkaia/conoce-nuestros-retablos/rutas-culturales-euskadi/web01-a2kulonr/es/",
+    "https://www.openstreetmap.org/way/40946726",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ5bcGBt8mTg0RHnvRcVrGsg4"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "torre-ercilla-bermeo",
+   "nombre": "Torre Ercilla (Museo del Pescador)",
+   "provincia": "Bizkaia",
+   "comarca": "Bermeo",
+   "lat": 43.4204,
+   "lon": -2.7212,
+   "tipo": "monumento",
+   "estilo": "Casa torre gótica del siglo XV",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Sobre el puerto viejo de Bermeo se alza la <b>Torre Ercilla</b>, una casa torre del siglo XV y la única que se conserva en la villa. Perteneció a la familia del poeta <b>Alonso de Ercilla</b>, autor de «La Araucana». Sus gruesos muros y algunos elementos defensivos recuerdan que también servía de protección.</p><p>A comienzos del siglo XX estaba muy deteriorada, y se mantuvo en pie gracias a las familias que la habitaban, entre ellas la del pintor Benito Barrueta. En 1944 fue declarada monumento histórico-artístico, en 1947 la compró la Diputación de Bizkaia y desde <b>1948</b> alberga el <b>Museo del Pescador</b>, dedicado a la pesca y a la vida de los arrantzales.</p><p>La fachada principal, de piedra bien labrada, da a la plaza Torrontero; la trasera, que mira a un patio vecinal, es de mampostería más pobre.</p>"
+   },
+   "ver_alli": [
+    "La fachada de sillería desde la plaza Torrontero.",
+    "Las salas del museo sobre la pesca y la vida en el puerto.",
+    "El puerto viejo de Bermeo, a los pies de la torre."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Torre_Ercilla",
+    "https://www.openstreetmap.org/way/655255674",
+    "https://www.google.com/maps/place/?q=place_id:ChIJV-1V-Vw-Tg0R8l4uT32wEPo"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "urduna-orduna",
+   "nombre": "Urduña / Orduña",
+   "provincia": "Bizkaia",
+   "comarca": "Urduña / Orduña",
+   "lat": 42.9947,
+   "lon": -3.0096,
+   "tipo": "poblacion",
+   "estilo": "Casco histórico medieval",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1229,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Orduña es el único municipio de Bizkaia con título de <b>ciudad</b>, y un enclave vizcaíno rodeado por Álava y Burgos, en la orilla del Nervión y al pie de la sierra Salvada. Ya la citan las crónicas de Alfonso III.</p><p>El señor de Bizkaia Lope Díaz II de Haro le dio carta puebla en <b>1229</b>, y el rey Enrique IV le concedió el título de ciudad en 1467. Por aquí pasaba la lana de Castilla camino de los puertos del norte de Europa. La <b>Aduana</b>, levantada en el siglo XVIII, empezó a funcionar en 1792; el traslado de las aduanas a la costa en 1841 trajo la decadencia.</p><p>En la Guerra Civil, las tropas franquistas instalaron en la ciudad un campo de concentración donde murieron al menos 225 personas.</p>"
+   },
+   "ver_alli": [
+    "La plaza de los Fueros, centro del casco histórico.",
+    "El edificio de la Aduana del siglo XVIII.",
+    "Las vistas de la sierra Salvada que cierra el valle."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Ordu%C3%B1a",
+    "https://www.openstreetmap.org/way/220075836",
+    "https://www.google.com/maps/place/?q=place_id:ChIJp0YiK0-vTw0RQ_x7GYuR_lw"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "balmaseda",
+   "nombre": "Balmaseda y su Puente Viejo",
+   "provincia": "Bizkaia",
+   "comarca": "Balmaseda",
+   "lat": 43.1928,
+   "lon": -3.1954,
+   "tipo": "poblacion",
+   "estilo": "Villa medieval con puente fortificado",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1199,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>En <b>1199</b> Lope Sánchez de Mena dio a Balmaseda el fuero de Logroño y la convirtió en la <b>primera villa</b> del señorío de Bizkaia. A orillas del Cadagua, en Las Encartaciones, creció como puesto comercial y aduanero en el camino entre Castilla y Bizkaia, y tuvo una importante comunidad judía hasta la expulsión.</p><p>Su símbolo es el <b>Puente Viejo</b> o de La Muza, medieval, con un torreón en el centro donde se cobraba el <b>portazgo</b> por el paso de mercancías y personas. En la villa destacan la iglesia de San Severino, del siglo XV, el convento de Santa Clara y los palacios de Urrutia y Horcasitas.</p><p>Cada Semana Santa más de 600 vecinos representan la <b>Pasión Viviente</b>. A las afueras, la antigua fábrica de boinas La Encartada, del siglo XIX, conserva su maquinaria como museo.</p>"
+   },
+   "ver_alli": [
+    "El Puente Viejo y su torreón, mejor desde la orilla del Cadagua.",
+    "La iglesia de San Severino.",
+    "Las calles del casco viejo, con sus palacios."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Valmaseda",
+    "https://turismo.euskadi.eus/es/localidades/balmaseda/webtur00-content/es/",
+    "https://www.openstreetmap.org/way/290336544",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ1YR6Qxz9Tg0REfegCQUmvYE"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "santimamine",
+   "campos": {
+    "lat": 43.3466,
+    "lon": -2.6367,
+    "estilo": "Arte rupestre magdaleniense",
+    "texto": {
+     "general": "<p>En el barrio de Basondo, en Kortezubi, al pie del monte Ereñozar y dentro de la reserva de Urdaibai, se abre la cueva más importante de Bizkaia. En 1916 unos chavales encontraron las pinturas sin darles importancia; en agosto de ese año el compositor <b>Jesús Guridi</b> entró con ellos y comprobó que eran arte prehistórico, y en 1917 el abate <b>Breuil</b> certificó su antigüedad.</p><p>Las pinturas son del <b>Magdaleniense</b>, al final del Paleolítico superior. Son <b>47 figuras de animales</b>, todas en negro y hechas con carbón: 32 bisontes, 7 cabras, 6 caballos, un ciervo y un oso. Entre 1917 y 1918 la estudiaron Telesforo de Aranzadi, José Miguel de Barandiarán y Enrique Eguren, que excavaron el yacimiento de la entrada, habitado desde el Paleolítico superior hasta época romana.</p><p>Desde julio de 2008 es <b>Patrimonio de la Humanidad</b>, dentro del conjunto de arte rupestre de la cornisa cantábrica. Para protegerla, en 2006 se cerró del todo al público: se visita el vestíbulo y el interior se recorre en una <b>visita virtual en 3D</b>, hecha con escáner y fotografía de alta definición.</p>"
+    },
+    "ver_alli": [
+     "El gran vestíbulo de la entrada, donde vivieron sus habitantes prehistóricos.",
+     "La visita virtual en 3D, que enseña los bisontes de la sala de las pinturas.",
+     "El bosque pintado de Oma, de Agustín Ibarrola, a poca distancia a pie."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Cave_of_Altamira_and_Paleolithic_Cave_Art_of_Northern_Spain",
+     "https://rupestre.art/es/caves/santimamine",
+     "https://es.wikipedia.org/wiki/Cueva_de_Santimami%C3%B1e",
+     "https://www.openstreetmap.org/node/1480454057",
+     "https://www.google.com/maps/place/?q=place_id:ChIJux314xdawokRiwFjb3BdGgU"
+    ]
+   }
+  },
+  {
+   "id": "arrola",
+   "campos": {
+    "lat": 43.3104,
+    "lon": -2.6053,
+    "estilo": "Oppidum fortificado de la Edad del Hierro",
+    "texto": {
+     "general": "<p>En la cumbre de Arrola, en la sierra de Gastiburu y entre Arratzu, Nabarniz y Mendata, se levantó el mayor poblado fortificado de Bizkaia, considerado el castro de la Edad del Hierro mejor conservado del territorio. Se habitó desde los últimos siglos antes de Cristo —las fuentes hablan del siglo IV o del III a. C.— hasta el siglo I d. C., cuando se abandonó con el avance romano.</p><p>Su <b>muralla</b> era un núcleo de tierra forrado de piedra, de unos 5 o 6 metros de alto, con foso y empalizada. Las puertas estaban <b>en codo</b>, formando un pasillo de unos 10 metros que obligaba a entrar de lado. El recinto amurallado tiene unas 8 hectáreas; algunas fuentes dan hasta 16 para todo el conjunto.</p><p>Ya en 1827 lo describieron para la Diputación de Bizkaia y en 1942 Blas Taracena lo estudió por primera vez. Desde 2001, con la Universidad del País Vasco, se han reconstruido más de 50 metros de muralla y la <b>puerta sur</b>, reutilizando las piedras originales.</p>"
+    },
+    "ver_alli": [
+     "La puerta sur reconstruida, con su pasillo en codo.",
+     "Los tramos de muralla rehechos con sus piedras originales.",
+     "Las vistas sobre el valle de Urdaibai desde la cumbre.",
+     "Arrolagune, el centro de interpretación, está en Arratzu, a unos 3 km del poblado."
+    ],
+    "fuentes": [
+     "https://www.bizkaia.eus/en/web/comunicacion/berriak/-/news/detailView/arrolako-aztarnategiaren-irudikapen-birtuala-bizkaiko-kulturaondarea-errealismo-handiarekin-ezagutzeko",
+     "https://www.ancient-history-sites.com/?p=122921",
+     "https://www.losviajeros.com/Tips.php?p=2063",
+     "https://www.ehu.eus/euskoiker/noticias/reconstruccion-de-la-puerta-sur-del-castro-de-arrola",
+     "https://www.openstreetmap.org/way/371693877",
+     "https://www.google.com/maps/place/?q=place_id:ChIJt0J-g0UlTg0RnBDR1IojjbY",
+     "https://www.google.com/maps/place/?q=place_id:ChIJW52P5Zg6Tg0RYU3gr21Bkug"
+    ]
+   }
+  },
+  {
+   "id": "argineta",
+   "campos": {
+    "lat": 43.1399,
+    "lon": -2.5357,
+    "estilo": "Sepulcros antropomorfos y estelas altomedievales",
+    "texto": {
+     "general": "<p>Junto a la ermita de <b>San Adrián</b>, a las afueras de Elorrio, se reúnen <b>20 sepulcros y 5 estelas</b> de arenisca del monte Oiz: cuatro estelas son discoidales y una triangular. Los sepulcros tienen caja con forma de cuerpo humano y tapa a dos aguas; en algunos, caja y tapa no son pareja.</p><p>Son piezas de la Alta Edad Media, de entre los siglos <b>VII y IX</b>, hechas para los cementerios de los barrios vecinos de Mendraka, Miota y Berrio, y reunidas aquí en el siglo XIX.</p><p>Dos tapas llevan inscripciones funerarias, el testimonio escrito más antiguo de comunidades cristianas en Bizkaia. Una recuerda a <b>Paterna</b>, «sierva de Dios»; otra a <b>Momus</b>, con la fecha de la era 921, es decir, el año <b>883</b>.</p>"
+    },
+    "ver_alli": [
+     "Las tapas con inscripción, en la segunda y tercera fila de la izquierda.",
+     "Las estelas discoidales decoradas.",
+     "La ermita de San Adrián y las vistas sobre los montes de Elorrio."
+    ],
+    "fuentes": [
+     "https://tourism.euskadi.eus/en/cultural-heritage/necropolis-of-argineta/webtur00-content/en/",
+     "https://www.elorrioturismo.eus/wp-content/uploads/2022/11/EN-Necropolis-of-argineta.pdf",
+     "https://www.openstreetmap.org/way/588397724",
+     "https://www.google.com/maps/place/?q=place_id:ChIJMVp_R6nUTw0RzxjYWYj-S8E"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-munatones",
+   "campos": {
+    "lat": 43.3251,
+    "lon": -3.1093,
+    "estilo": "Casa torre gótica fortificada",
+    "texto": {
+     "general": "<p>En el barrio de San Martín de Muñatones, en Muskiz, Juan López de Salazar e Inés de Muñatones levantaron hacia <b>1339</b> una casa torre. Su descendiente <b>Lope García de Salazar</b> la heredó en 1439 y desde 1454 la convirtió en castillo: subió la torre a cuatro alturas, engrosó sus muros de 1,10 a 2,80 metros, la rodeó de palacios y añadió murallas. La torre alcanza unos 25 metros.</p><p>El recinto exterior es rectangular, con cubos en las esquinas, y un foso lo rodea por tres lados. Más tarde Juan Salazar añadió otra muralla con torres cilíndricas.</p><p>La historia de Lope es de novela: en julio de 1470 su propio hijo Juan, «el Moro», lo sitió y lo dejó recluido en la torre. Encerrado allí escribió las <b>«Bienandanzas e fortunas»</b>, una gran crónica de su tiempo. Murió en 1476 en Portugalete, envenenado.</p>"
+    },
+    "ver_alli": [
+     "La torre principal, con sus muros de casi tres metros.",
+     "El foso y la muralla exterior con sus cubos.",
+     "Se visita con guía."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Mu%C3%B1atones",
+     "https://es.wikipedia.org/wiki/Lope_Garc%C3%ADa_de_Salazar",
+     "https://www.openstreetmap.org/way/278060656",
+     "https://www.google.com/maps/place/?q=place_id:ChIJW3ewPs33Tg0RA54vRWRVXoU"
+    ]
+   }
+  },
+  {
+   "id": "puente-de-bizkaia",
+   "campos": {
+    "lat": 43.3232,
+    "lon": -3.0171,
+    "estilo": "Arquitectura del hierro",
+    "texto": {
+     "general": "<p>Une Portugalete y Getxo sobre la ría de Bilbao. Lo proyectó el ingeniero <b>Alberto de Palacio</b>, con la colaboración del francés Ferdinand Arnodin, experto en cables, y se inauguró el <b>28 de julio de 1893</b>. Fue el primer puente transbordador del mundo y hoy es el más antiguo en servicio.</p><p>La idea es genial: una <b>barquilla</b> colgada de cables de una viga a 61 metros de altura cruza los 160 metros de ría con coches y personas, sin cerrar el paso a los barcos que subían a Bilbao.</p><p>El 17 de junio de 1937, en la Guerra Civil, el ejército republicano voló su travesaño para frenar el avance franquista. Reconstruido según proyecto de José Juan Aracil, volvió a funcionar el 19 de junio de 1941. La UNESCO lo declaró <b>Patrimonio Mundial</b> el 13 de julio de 2006.</p>"
+    },
+    "ver_alli": [
+     "Cruza en la barquilla y mira cómo cuelga de los cables.",
+     "Sube a la pasarela de la viga, abierta al público desde 1999, para ver la ría desde arriba.",
+     "Las torres de hierro remachado, mejor vistas desde el paseo de Portugalete."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Puente_de_Vizcaya",
+     "https://www.openstreetmap.org/way/27447931",
+     "https://www.google.com/maps/search/?api=1&query=43.3228164,-3.0178318"
+    ]
+   }
+  },
+  {
+   "id": "gernika-museo-de-la-paz",
+   "campos": {
+    "lat": 43.3151,
+    "lon": -2.6784,
+    "estilo": "Edificio de la reconstrucción de posguerra",
+    "texto": {
+     "general": "<p>El <b>lunes 26 de abril de 1937</b>, día de mercado, la Legión Cóndor alemana y la Aviación Legionaria italiana, aliadas de Franco, bombardearon Gernika durante unas tres horas y media. El número de muertos sigue discutido: las cifras más citadas hablan de 250 a 300, aunque las estimaciones van de 126 a unos 2.000. <b>Picasso</b> pintó su «Guernica» para el pabellón español de la Exposición de París de ese mismo año.</p><p>El museo abrió en 1998 como museo municipal y en 2003 se convirtió en el <b>Museo de la Paz</b>. Ocupa un edificio de la Foru Plaza levantado en la reconstrucción de la villa, obra de Manuel María Smith, que fue juzgado y oficina de correos. Su exposición gira en torno a tres preguntas: qué es la paz, qué dejó el bombardeo y cómo está hoy la paz en el mundo.</p><p>Tiene además un centro de documentación sobre el bombardeo, la Guerra Civil y el exilio. A pocos pasos, la Casa de Juntas y el árbol de Gernika salieron intactos del ataque.</p>"
+    },
+    "ver_alli": [
+     "La exposición sobre el bombardeo y lo que dejó en la villa.",
+     "El centro de documentación sobre la Guerra Civil y el exilio.",
+     "Después, sube a la Casa de Juntas y al árbol, a unos 250 metros."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Museo_de_la_Paz_de_Gernika",
+     "https://es.wikipedia.org/wiki/Bombardeo_de_Guernica",
+     "https://www.openstreetmap.org/node/2278920655",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ_1WRKms6Tg0RXkMVpcBof2M"
+    ]
+   }
+  },
+  {
+   "id": "museo-guggenheim-bilbao",
+   "campos": {
+    "lat": 43.2684,
+    "lon": -2.9341,
+    "estilo": "Arquitectura deconstructivista",
+    "texto": {
+     "general": "<p>El edificio de <b>Frank O. Gehry</b> junto a la ría lo inauguró el rey Juan Carlos I el <b>18 de octubre de 1997</b>. Sus curvas están forradas de planchas de <b>titanio</b> de un tercio de milímetro, que cambian de color con la luz. Tiene 24.000 m², de ellos 10.540 de exposición en 19 galerías.</p><p>Se convirtió en el símbolo de la transformación de Bilbao. La prensa acuñó el término «<b>efecto Guggenheim</b>»: desde su apertura recibe de media más de un millón de visitantes al año, que impulsaron el turismo y la renovación urbana de Bilbao.</p><p>Fuera esperan el <b>Puppy</b> de Jeff Koons, un perro gigante cubierto de flores, y <b>Mamá</b>, la araña de Louise Bourgeois. Dentro está <b>«La materia del tiempo»</b>, las siete enormes esculturas de acero de Richard Serra instaladas en 2005.</p>"
+    },
+    "ver_alli": [
+     "Rodea el edificio por la ría para ver cómo cambia el titanio con la luz.",
+     "El Puppy de flores en la plaza de entrada y la araña Mamá junto al agua.",
+     "Las esculturas de Richard Serra, que se recorren por dentro."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Museo_Guggenheim_Bilbao",
+     "https://www.openstreetmap.org/way/118499485",
+     "https://www.google.com/maps/place/?q=place_id:ChIJtTFg3t5PTg0RrW2vzbeTiFA"
+    ]
+   }
+  }
+ ]
+}

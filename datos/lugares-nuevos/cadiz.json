@@ -1,0 +1,626 @@
+{
+ "zona": "Cádiz",
+ "nuevos": [
+  {
+   "id": "torre-tavira",
+   "nombre": "Torre Tavira",
+   "provincia": "Cádiz",
+   "comarca": "Cádiz",
+   "lat": 36.532,
+   "lon": -6.2984,
+   "tipo": "monumento",
+   "estilo": "Torre mirador del siglo XVIII",
+   "epoca": "Ilustración y Neoclásico",
+   "anio": 1778,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>En el siglo XVIII los comerciantes de Cádiz construyeron <b>más de cien torres mirador</b> para otear la llegada de sus barcos. La más alta es esta, en la casa palacio de los marqueses de Recaño: unos 33 metros sobre la calle y <b>45 sobre el nivel del mar</b>.</p><p>Por eso en <b>1778</b> fue nombrada <b>torre vigía oficial del puerto</b>. Su primer vigía fue el teniente de fragata <b>Antonio Tavira</b>, que le dio nombre.</p><p>Desde 1994 la gestiona una concesión privada que instaló en ella una <b>cámara oscura</b>, desde la que se contempla la ciudad.</p>"
+   },
+   "ver_alli": [
+    "La cámara oscura.",
+    "La terraza con vistas a las torres mirador de Cádiz.",
+    "La casa palacio de los marqueses de Recaño."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Torre_Tavira",
+    "https://www.wikidata.org/wiki/Q9088848",
+    "https://www.openstreetmap.org/?mlat=36.532&mlon=-6.2984#map=18/36.532/-6.2984"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-santa-catalina-cadiz",
+   "nombre": "Castillo de Santa Catalina",
+   "provincia": "Cádiz",
+   "comarca": "Cádiz",
+   "lat": 36.5329,
+   "lon": -6.308,
+   "tipo": "castillo",
+   "estilo": "Fortificación abaluartada",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1597,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Tras el saqueo de Cádiz por la flota anglo-holandesa en 1596, <b>Felipe II</b> ordenó en <b>1597</b> levantar esta fortaleza junto al mar. El proyecto fue del ingeniero <b>Cristóbal de Rojas</b>, que murió antes de verlo terminado.</p><p>Tiene planta <b>pentagonal</b> de influencia italiana, con puntas que salen al mar en forma de estrella. En su interior hay una <b>capilla de 1693</b>, dedicada a santa Catalina y a la Inmaculada.</p><p>En <b>1769</b> Carlos III la convirtió en prisión militar para presos ilustres. Hoy es espacio cultural.</p>"
+   },
+   "ver_alli": [
+    "Las puntas en forma de estrella sobre el mar.",
+    "La capilla de 1693.",
+    "El paseo por las murallas con vistas al mar."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Santa_Catalina_(Cádiz)",
+    "https://www.wikidata.org/wiki/Q8342552",
+    "https://www.openstreetmap.org/?mlat=36.5329&mlon=-6.308#map=18/36.5329/-6.308"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "catedral-de-jerez",
+   "nombre": "Catedral de Jerez de la Frontera",
+   "provincia": "Cádiz",
+   "comarca": "Jerez de la Frontera",
+   "lat": 36.6821,
+   "lon": -6.141,
+   "tipo": "iglesia",
+   "estilo": "Gótico, barroco y neoclásico",
+   "epoca": "Barroco",
+   "anio": 1695,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Se alza sobre parte de la antigua <b>mezquita mayor</b> y de la iglesia del Salvador. Fue colegiata hasta que en <b>1980</b> Juan Pablo II la elevó a catedral.</p><p>Las obras empezaron el <b>9 de mayo de 1695</b>, con traza atribuida a Diego Moreno Meléndez, y no se terminaron hasta <b>1778</b>. Se pagaron en parte con un impuesto sobre el <b>vino de Jerez</b>. Mezcla una estructura gótica de cinco naves con decoración barroca y neoclásica.</p><p>La <b>torre campanario</b> está separada del templo y es lo único anterior a 1695: probablemente se levantó sobre el alminar de la mezquita. Dentro destaca <b>La Virgen Niña de Zurbarán</b>.</p>"
+   },
+   "ver_alli": [
+    "La torre campanario exenta, a pocos metros del templo.",
+    "Las cinco naves de estructura gótica.",
+    "La Virgen Niña de Zurbarán."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_de_Jerez_de_la_Frontera",
+    "https://www.wikidata.org/wiki/Q2942688",
+    "https://www.openstreetmap.org/?mlat=36.6821&mlon=-6.141#map=18/36.6821/-6.141"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "arcos-de-la-frontera",
+   "nombre": "Arcos de la Frontera",
+   "provincia": "Cádiz",
+   "comarca": "Sierra de Cádiz",
+   "lat": 36.7483,
+   "lon": -5.8063,
+   "tipo": "poblacion",
+   "estilo": "Pueblo blanco medieval",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Arcos se asienta sobre <b>la Peña</b>, un espolón rocoso cortado a pico sobre un meandro del Guadalete y declarado monumento natural. Fue capital de una <b>taifa</b> independiente desde 1012 hasta que Sevilla la absorbió en 1069.</p><p>Pasó a Castilla en 1253, y tras la revuelta mudéjar la recuperó <b>Alfonso X</b> en octubre de 1264. Desde 1540 fue señorío de los duques de Arcos.</p><p>En lo alto se reúnen el <b>castillo</b> andalusí y la iglesia de <b>Santa María de la Asunción</b>, de origen mudéjar y remodelada en el siglo XVI, con una portada ojival (gótica). La iglesia de San Pedro, de los siglos XV-XVII, se asoma también al cortado.</p>"
+   },
+   "ver_alli": [
+    "Las vistas desde lo alto de la Peña.",
+    "La portada ojival de Santa María de la Asunción.",
+    "La iglesia de San Pedro al borde de la Peña."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Arcos_de_la_Frontera",
+    "https://www.wikidata.org/wiki/Q3276855",
+    "https://www.openstreetmap.org/?mlat=36.7483&mlon=-5.8063#map=18/36.7483/-5.8063"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "vejer-de-la-frontera",
+   "nombre": "Vejer de la Frontera",
+   "provincia": "Cádiz",
+   "comarca": "La Janda",
+   "lat": 36.2536,
+   "lon": -5.9626,
+   "tipo": "poblacion",
+   "estilo": "Pueblo blanco amurallado",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Vejer corona un cerro con su casco histórico todavía encerrado en <b>murallas</b>. Es conjunto histórico-artístico desde <b>1976</b> y forma parte de Los Pueblos Más Bonitos de España.</p><p>Fernando III la ganó en 1250, pero se perdió en la revuelta mudéjar de 1264; la reconquista definitiva se completó en 1285. En 1307 el señorío pasó a <b>Guzmán el Bueno</b>, cuyos herederos fueron los duques de Medina Sidonia.</p><p>Del castillo se conserva una puerta árabe del <b>siglo XI</b>, y la iglesia del <b>Divino Salvador</b>, mudéjar y gótica, se levantó sobre una mezquita.</p><p class=\"dato\"><span>¿Sabías que…?</span>El traje tradicional de las vejeriegas, el «cobijado», las envolvía en un manto negro que solo dejaba un ojo al descubierto.</p>"
+   },
+   "ver_alli": [
+    "El recorrido por las murallas del casco histórico.",
+    "La puerta árabe del castillo.",
+    "La iglesia del Divino Salvador."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Vejer_de_la_Frontera",
+    "https://www.openstreetmap.org/?mlat=36.2536&mlon=-5.9626#map=18/36.2536/-5.9626"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "setenil-de-las-bodegas",
+   "nombre": "Setenil de las Bodegas",
+   "provincia": "Cádiz",
+   "comarca": "Sierra de Cádiz",
+   "lat": 36.8623,
+   "lon": -5.1796,
+   "tipo": "poblacion",
+   "estilo": "Casas bajo la roca y fortaleza nazarí",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Setenil es famoso por sus <b>casas bajo la roca</b>: en la parte baja, las viviendas aprovechan el tajo que el río Trejo abrió en la piedra, cerrando con una fachada el abrigo natural en lugar de excavarlo. Calles como Cuevas del Sol o Cuevas de la Sombra viven literalmente bajo la peña.</p><p>Arriba quedan los restos de una <b>fortaleza nazarí del siglo XIII</b>, con unos 530 metros de muralla y unas 40 torres. Resistió siete asedios hasta que los Reyes Católicos la tomaron el <b>21 de septiembre de 1484</b>; la tradición relaciona el nombre del pueblo con esos asedios (<i>septem nihil</i>, «siete veces nada»).</p><p>La iglesia de la Encarnación, mudéjar y gótica, es de los siglos XV-XVII. El casco es conjunto histórico desde 1985.</p>"
+   },
+   "ver_alli": [
+    "Las calles Cuevas del Sol y Cuevas de la Sombra.",
+    "La torre del homenaje de la fortaleza nazarí.",
+    "La iglesia de la Encarnación."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Setenil_de_las_Bodegas",
+    "https://www.openstreetmap.org/?mlat=36.8623&mlon=-5.1796#map=18/36.8623/-5.1796"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-castellar-de-la-frontera",
+   "nombre": "Castillo de Castellar de la Frontera",
+   "provincia": "Cádiz",
+   "comarca": "Campo de Gibraltar",
+   "lat": 36.3188,
+   "lon": -5.4531,
+   "tipo": "castillo",
+   "estilo": "Nazarí",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Un castillo con un pueblo entero dentro. Esta villa-fortaleza del siglo XIII, con rasgos del reino nazarí de Granada, se encuentra dentro del parque natural de Los Alcornocales.</p><p>En <b>1434</b> la tomó para Castilla <b>Juan de Saavedra</b>, alcaide de Jimena. En los siglos siguientes la población creció dentro de las murallas, con casas adosadas al muro y un alcázar palacio.</p><p>Entre 1968 y 1971 se construyó Castellar Nuevo y la mayoría de los vecinos se trasladó allí. El pueblo viejo es <b>Monumento Histórico-Artístico desde 1963</b>; el alcázar es hoy un hotel.</p>"
+   },
+   "ver_alli": [
+    "Las callejuelas dentro de la muralla.",
+    "La puerta de entrada al recinto.",
+    "El alcázar, hoy convertido en hotel."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castellar_de_la_Frontera",
+    "https://es.wikipedia.org/wiki/Castillo_de_Castellar",
+    "https://www.wikidata.org/wiki/Q1049150",
+    "https://www.openstreetmap.org/?mlat=36.3188&mlon=-5.4531#map=18/36.3188/-5.4531"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-jimena-de-la-frontera",
+   "nombre": "Castillo de Jimena de la Frontera",
+   "provincia": "Cádiz",
+   "comarca": "Campo de Gibraltar",
+   "lat": 36.4322,
+   "lon": -5.4554,
+   "tipo": "castillo",
+   "estilo": "Andalusí",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Corona el cerro sobre el pueblo blanco de Jimena. Es una construcción árabe que se cree levantada sobre la antigua ciudad de <b>Oba</b>.</p><p>Su torre del homenaje es <b>circular</b>, de 13 metros, la más alta del conjunto, y en su interior esconde otra torre más antigua de planta poligonal. Los jerezanos la tomaron en <b>1430</b>, y en <b>1456</b> quedó definitivamente en manos de Castilla.</p><p>Dentro del recinto hay un cementerio con dos fosas comunes de la Guerra Civil. Es monumento protegido desde 1931.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje circular.",
+    "El cementerio dentro del recinto.",
+    "Las vistas sobre el pueblo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Jimena_de_la_Frontera",
+    "https://www.wikidata.org/wiki/Q1049191",
+    "https://www.openstreetmap.org/?mlat=36.4322&mlon=-5.4554#map=18/36.4322/-5.4554"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "conjunto-arqueologico-romano-de-medina-sidonia",
+   "nombre": "Conjunto Arqueológico Romano de Medina Sidonia",
+   "provincia": "Cádiz",
+   "comarca": "La Janda",
+   "lat": 36.4596,
+   "lon": -5.9292,
+   "tipo": "yacimiento",
+   "estilo": "Romano",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Bajo las calles de Medina Sidonia se esconde la ciudad romana de <b>Asido Caesarina</b>, que Augusto convirtió en colonia de derecho romano. En el barrio de Santiago se pueden recorrer restos del <b>siglo I</b>.</p><p>Se conservan tramos de las <b>cloacas</b> y conducciones de agua, una <b>calle romana</b> pavimentada, una vivienda y los sótanos de un gran edificio, además de hornos de alfarero de época musulmana.</p><p>Sobre el conjunto se ha instalado el <b>Museo Arqueológico de Medina Sidonia</b>.</p>"
+   },
+   "ver_alli": [
+    "Las cloacas romanas.",
+    "La calle romana pavimentada.",
+    "Las piezas del museo arqueológico."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Conjunto_Arqueológico_Romano_de_Medina_Sidonia",
+    "https://es.wikipedia.org/wiki/Medina-Sidonia",
+    "https://www.openstreetmap.org/?mlat=36.4596&mlon=-5.9292#map=18/36.4596/-5.9292"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-santiago-sanlucar",
+   "nombre": "Castillo de Santiago",
+   "provincia": "Cádiz",
+   "comarca": "Sanlúcar de Barrameda",
+   "lat": 36.777,
+   "lon": -6.3505,
+   "tipo": "castillo",
+   "estilo": "Gótico tardío",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1477,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Lo levantó la casa de <b>Medina Sidonia</b> entre <b>1477 y 1478</b>, bajo Enrique Pérez de Guzmán, II duque, en una esquina de la antigua ciudadela de Guzmán el Bueno, al borde de una barranca.</p><p>La torre del homenaje sigue el modelo de la de <b>Guzmán el Bueno en Tarifa</b>. Es gótico tardío, con detalles que anuncian el Renacimiento, como una puerta firmada por «Marinu de Nea», quizá napolitano.</p><p>Rehabilitado desde 2003, hoy es el monumento más visitado de Sanlúcar y alberga pequeños museos.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje, inspirada en la de Tarifa.",
+    "La puerta firmada por «Marinu de Nea».",
+    "Los museos que alberga."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Santiago",
+    "https://www.wikidata.org/wiki/Q8342559",
+    "https://www.openstreetmap.org/?mlat=36.777&mlon=-6.3505#map=18/36.777/-6.3505"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-nuestra-senora-de-la-o-sanlucar",
+   "nombre": "Iglesia de Nuestra Señora de la O",
+   "provincia": "Cádiz",
+   "comarca": "Sanlúcar de Barrameda",
+   "lat": 36.7761,
+   "lon": -6.3531,
+   "tipo": "iglesia",
+   "estilo": "Gótico-mudéjar",
+   "epoca": "Mudéjar",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Es la parroquia mayor de Sanlúcar, en el Barrio Alto. No se sabe con certeza cuándo se fundó; según un cronista local la fundó en 1360 Isabel de la Cerda, nieta de Guzmán el Bueno.</p><p>Su <b>portada mudéjar</b>, monumental y única en su género, es la gran joya del edificio. Dentro, tres naves cubiertas con artesonados de madera. El campanario se añadió en <b>1604</b>, obra de <b>Alonso de Vandelvira</b>, aprovechando una torre del antiguo alcázar.</p><p>Está pegada al <b>palacio de los duques de Medina Sidonia</b>, unida a su capilla por una tribuna. Es monumento desde 1931.</p>"
+   },
+   "ver_alli": [
+    "La portada mudéjar con los escudos.",
+    "Los artesonados de las naves.",
+    "El campanario de Vandelvira y el palacio ducal contiguo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Nuestra_Señora_de_la_O_(Sanlúcar_de_Barrameda)",
+    "https://www.wikidata.org/wiki/Q5909591",
+    "https://www.openstreetmap.org/?mlat=36.7761&mlon=-6.3531#map=18/36.7761/-6.3531"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "zahara-de-la-sierra",
+   "nombre": "Zahara de la Sierra",
+   "provincia": "Cádiz",
+   "comarca": "Sierra de Cádiz",
+   "lat": 36.8405,
+   "lon": -5.3904,
+   "tipo": "poblacion",
+   "estilo": "Pueblo blanco con castillo nazarí",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Zahara se recuesta bajo un peñón coronado por su <b>castillo nazarí</b>, sobre el embalse de Zahara-El Gastor. Ya en 1282 se la citaba como «importante fortaleza y frontera». Es conjunto histórico-artístico desde <b>1983</b>.</p><p>Los cristianos la ocuparon en 1407, pero los nazaríes la recuperaron a finales de diciembre de <b>1481</b>, y ese golpe sirvió de pretexto para la <b>guerra de Granada</b>. En 1483 la reconquistó <b>Rodrigo Ponce de León</b>, que desde entonces se tituló marqués de Zahara.</p><p>En la plaza está la iglesia de <b>Santa María de la Mesa</b>, barroca del siglo XVIII, levantada donde estuvo la antigua mezquita.</p>"
+   },
+   "ver_alli": [
+    "La subida a la torre del homenaje del castillo.",
+    "La iglesia barroca de Santa María de la Mesa.",
+    "Las vistas sobre el embalse."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Zahara_de_la_Sierra",
+    "https://es.wikipedia.org/wiki/Castillo_de_Zahara_de_la_Sierra",
+    "https://www.openstreetmap.org/?mlat=36.8405&mlon=-5.3904#map=18/36.8405/-5.3904"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "cueva-del-tajo-de-las-figuras",
+   "nombre": "Cueva del Tajo de las Figuras",
+   "provincia": "Cádiz",
+   "comarca": "Benalup-Casas Viejas",
+   "lat": 36.3171,
+   "lon": -5.7344,
+   "tipo": "yacimiento",
+   "estilo": "Arte rupestre esquemático",
+   "epoca": "Arte levantino y esquemático",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Un pequeño abrigo en la sierra, frente al embalse del Celemín, con una <b>gran cantidad de pinturas rupestres</b>, en su mayoría del <b>Neolítico y el Calcolítico</b>.</p><p>Representan sobre todo <b>aves</b>, cuadrúpedos y figuras humanas. Algunos investigadores han querido reconocer aves migratorias, como el ibis eremita.</p><p>Los primeros estudios los hicieron en <b>1913</b> Juan Cabré y Eduardo Hernández-Pacheco, y en <b>1924</b> fue declarada monumento. Por su deterioro no se puede visitar desde 2008.</p>"
+   },
+   "ver_alli": [
+    "Las numerosas figuras de aves.",
+    "El paisaje del abrigo sobre el embalse del Celemín.",
+    "Hay que informarse antes: el abrigo permanece cerrado."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Cueva_del_Tajo_de_las_Figuras",
+    "https://www.wikidata.org/wiki/Q5493799",
+    "https://www.openstreetmap.org/?mlat=36.3171&mlon=-5.7344#map=18/36.3171/-5.7344"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "dona-blanca",
+   "campos": {
+    "lat": 36.6279,
+    "lon": -6.1611,
+    "estilo": "Fenicio"
+   }
+  },
+  {
+   "id": "laja-alta",
+   "campos": {
+    "estilo": "Arte esquemático",
+    "texto": {
+     "general": "<p>En la garganta de Gamero, en Jimena de la Frontera, a 370 metros de altitud y a unos 27 kilómetros del mar en línea recta, se abre un pequeño abrigo rocoso con <b>59 figuras</b> de <b>arte esquemático</b>, pintadas sobre todo en rojo y algunas en negro. Lo descubrió en 1978 un vecino del pueblo, <b>Salvador Corbacho</b>, que avisó a la Consejería de Cultura.</p><p>En el centro del panel hay una famosa escena de <b>barcos</b>, rodeada de figuras humanas, ídolos con ojos, soles y otros signos. Durante años se pensó que eran naves fenicias, o el encuentro entre navegantes del Mediterráneo oriental y los pueblos del sur peninsular; otros autores ven en ellos barcas prehistóricas de juncos, o una escena de pesca.</p><p>Un estudio de 2018 aumentó el número de figuras conocidas y obtuvo las primeras <b>fechas absolutas</b>: el abrigo tuvo un uso simbólico entre el IV y el III milenio antes de Cristo. Los barcos serían las primeras figuras pintadas, y sus autores defienden que se trata de las representaciones más antiguas de barcos de vela del Mediterráneo.</p>"
+    },
+    "ver_alli": [
+     "Se llega por una ruta de senderismo; lo mejor es ir con guías locales.",
+     "En el panel, busca en el centro el grupo de barcos y, alrededor, los ídolos con ojos.",
+     "Fíjate en las pocas figuras negras entre las rojas.",
+     "El abrigo está en el Parque Natural de Los Alcornocales: no toques las pinturas, el viento ya las desgasta."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Cueva_de_la_Laja_Alta",
+     "https://www.wikidata.org/wiki/Q97620324"
+    ]
+   }
+  },
+  {
+   "id": "alberite",
+   "campos": {
+    "lat": 36.8159,
+    "lon": -5.6366,
+    "estilo": "Megalítico",
+    "texto": {
+     "general": "<p>Este dolmen salió a la luz en <b>1993</b> gracias a la Guardia Civil: su servicio de protección de la naturaleza recuperó un ajuar funerario expoliado y localizó el lugar del saqueo en la finca Alberite, en Villamartín, junto a un túmulo de piedras. Con unos <b>6.000 años</b>, es uno de los dólmenes más antiguos de la península ibérica.</p><p>Lo excavaron arqueólogos de la Universidad de Cádiz. Es un <b>sepulcro de galería</b> de unos 23 metros de largo, dividido por jambas y con una entrada monumental de dos grandes piedras exentas. En algunas losas hay <b>pinturas esquemáticas en ocre</b> y grabados de armas, lunas, soles y alguna figura humana.</p><p>Dentro aparecieron dos individuos cuyos huesos se habían descarnado y espolvoreado con ocre. Su ajuar incluía herramientas de piedra pulida, cuentas de collar de piedra, ámbar y concha, una paleta para el ocre y un gran <b>cristal de cuarzo</b> de unos 20 centímetros.</p>"
+    },
+    "ver_alli": [
+     "El dolmen está en una finca privada: consulta antes en el Ayuntamiento de Villamartín cómo visitarlo.",
+     "Fíjate en la entrada monumental y en la larga galería de losas.",
+     "Busca en las piedras los restos de pintura roja.",
+     "Aprovecha para recorrer los pueblos blancos de la sierra de Cádiz."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Dolmen_de_Alberite",
+     "https://www.wikidata.org/wiki/Q5812478"
+    ]
+   }
+  },
+  {
+   "id": "gadir",
+   "campos": {
+    "lat": 36.5321,
+    "lon": -6.2978,
+    "estilo": "Fenicio",
+    "ver_alli": [
+     "La visita, en grupos reducidos, empieza con un audiovisual sobre los fenicios en Cádiz.",
+     "Busca el esqueleto de «Mattan» y, en las casas, el esqueleto de un gato de hace unos 2.800 años.",
+     "Museo de Cádiz, con los dos sarcófagos fenicios, el masculino (hallado en 1887) y el femenino (1980).",
+     "Castillo de Doña Blanca, en El Puerto de Santa María."
+    ]
+   }
+  },
+  {
+   "id": "baelo-claudia",
+   "campos": {
+    "lat": 36.0896,
+    "lon": -5.7746,
+    "estilo": "Romano",
+    "ver_alli": [
+     "Empieza por el centro de visitantes, con su museo.",
+     "Recorre el foro, los templos, el teatro y las piletas de la fábrica de salazón junto a la playa.",
+     "Playa y duna de Bolonia."
+    ]
+   }
+  },
+  {
+   "id": "carteia",
+   "campos": {
+    "estilo": "Púnico y romano",
+    "texto": {
+     "general": "<p>En la bahía de Algeciras, junto a la desembocadura del Guadarranque, los fenicios se instalaron en el siglo VII a. C. en el cercano Cerro del Prado, y sus descendientes, los cartagineses o púnicos, fundaron Carteia en el siglo IV a. C. De esa época se conserva un tramo de su <b>muralla</b>.</p><p>Tras la victoria de Roma en las guerras púnicas, se instalaron allí romanos. Sus hijos con mujeres hispanas no eran reconocidos como ciudadanos, y en el <b>171 a. C.</b> el Senado, según cuenta Tito Livio, concedió a la ciudad el título de <b>Colonia Libertinorum Carteia</b> para más de 4.000 de ellos: fue la <b>primera colonia latina fuera de Italia</b>.</p><p>Se ven un templo de época republicana, unas termas, varias casas, una factoría de salazones, un gran edificio de época de Augusto y necrópolis del siglo VI; el gran teatro solo se enseña en visitas especiales. La ciudad se despobló en el siglo VII. A fines del siglo XVI se levantó la torre del Rocadillo, una atalaya contra los piratas, y hay incluso un búnker de la Segunda Guerra Mundial.</p>"
+    },
+    "ver_alli": [
+     "Las visitas son guiadas y con reserva previa.",
+     "Fíjate en los restos del templo republicano y en el tramo de muralla púnica.",
+     "Busca la factoría de salazones y la torre del Rocadillo, del siglo XVI.",
+     "Desde el yacimiento se ve el Peñón de Gibraltar al otro lado de la bahía."
+    ],
+    "fuentes": [
+     "https://www.juntadeandalucia.es/aaiicc/enclaves/enclave-arqueologico-carteia",
+     "https://www.wikidata.org/wiki/Q97616842",
+     "https://es.wikipedia.org/wiki/Carteia"
+    ]
+   }
+  },
+  {
+   "id": "teatro-cadiz",
+   "campos": {
+    "lat": 36.5283,
+    "lon": -6.2937,
+    "estilo": "Romano tardorrepublicano",
+    "texto": {
+     "general": "<p>El teatro de Cádiz lo mandó construir en el siglo I a. C. <b>Lucio Cornelio Balbo el Menor</b>, de una rica familia gaditana aliada de Julio César, como parte de una ciudad nueva junto a la vieja ciudad fenicia. Es el <b>teatro romano más antiguo de la Península</b> y el segundo mayor de Hispania: casi 120 metros de diámetro y más de <b>10.000 espectadores</b>.</p><p>Es de los pocos edificios de la Hispania romana que citan autores antiguos. En una carta a <b>Cicerón</b>, el gobernador de la Bética cuenta que Balbo hizo representar en él una obra escrita por él mismo sobre su papel en las guerras civiles, y que lloró al verla.</p><p>Con el tiempo quedó cubierto y sus estructuras se aprovecharon en la villa medieval que levantó Alfonso X en el siglo XIII. Apareció de forma inesperada en <b>octubre de 1980</b>, en unos sondeos que buscaban el castillo medieval. Se ha excavado parte del graderío y la galería que corre bajo él; el escenario sigue bajo las casas del barrio del Pópulo.</p>"
+    },
+    "ver_alli": [
+     "Entra por el centro de interpretación de la calle Mesón, en el barrio del Pópulo.",
+     "Asómate a los pozos del suelo que dejan ver el escenario, la orquesta y las primeras gradas.",
+     "Recorre la galería subterránea que lleva al graderío.",
+     "Cerca están la factoría de salazones de la calle Sacramento, el yacimiento Gadir y el Museo de Cádiz."
+    ],
+    "fuentes": [
+     "https://www.juntadeandalucia.es/aaiicc/enclaves/enclave-arqueologico-teatro-romano-de-cadiz",
+     "https://www.juntadeandalucia.es/aaiicc/enclaves/enclave-arqueologico-factoria-de-salazones",
+     "https://es.wikipedia.org/wiki/Teatro_romano_de_C%C3%A1diz"
+    ]
+   }
+  },
+  {
+   "id": "carissa-aurelia",
+   "campos": {
+    "lat": 36.8709,
+    "lon": -5.7287,
+    "estilo": "Ibérico y romano",
+    "texto": {
+     "general": "<p>Entre Bornos y Espera, sobre unas colinas suaves que dominan la campiña del río Salado, están las ruinas de <b>Carissa</b>, una ciudad de origen íbero que se hizo romana. <b>Plinio el Viejo</b> la cita como ciudad de derecho latino con el sobrenombre de <b>Aurelia</b>; a finales del siglo I a. C. era una de las veintisiete de la zona que tenían ese derecho, y con Vespasiano llegó a acuñar moneda propia.</p><p>El lugar estuvo habitado desde el final del Neolítico o la Edad del Cobre hasta la Edad Media. Se conserva un tramo de <b>calzada romana</b> entre los restos de sus puertas, además de restos de la muralla y de edificios.</p><p>Lo más llamativo son sus dos <b>necrópolis</b>, excavadas en 1985-1986. La del norte tiene <b>columbarios</b>, nichos para urnas excavados en la roca o construidos con piedra. La del sur tiene tumbas con planta de <b>cruz griega</b>, cámaras subterráneas excavadas en la roca e incineraciones en urna. Entre las inscripciones funerarias destaca una paleocristiana de los siglos IV-V.</p>"
+    },
+    "ver_alli": [
+     "Conviene llegar por el acceso de la carretera A-371; el camino desde Bornos no es apto para coches.",
+     "Recorre la calzada romana entre los restos de las puertas.",
+     "Busca los columbarios excavados en la roca de la necrópolis norte.",
+     "No hay sombra: evita las horas de calor. Completa la visita en el Museo Arqueológico de Espera."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Carissa_Aurelia",
+     "https://es.wikipedia.org/wiki/Carissa_Aurelia"
+    ]
+   }
+  },
+  {
+   "id": "ocuri",
+   "campos": {
+    "lat": 36.6866,
+    "lon": -5.4472,
+    "estilo": "Romano",
+    "texto": {
+     "general": "<p>La ciudad romana de Ocuri ocupa el cerro del <b>Salto de la Mora</b>, sobre Ubrique, desde el que se domina el paso hacia Benaocaz y la Manga de Villaluenga. El lugar estuvo habitado desde la Edad del Bronce hasta época andalusí. Se conservan la <b>muralla ciclópea</b>, unas extensas <b>termas</b> y monedas acuñadas en la propia ciudad.</p><p>A la entrada se alza el <b>mausoleo</b> o «columbario», un edificio funerario romano que conserva sus grandes hornacinas para sarcófagos y sus pequeños nichos para urnas. Su planta la dibujó por primera vez Miguel de Olivares en 1801. Pocos años antes, en 1793, el agricultor Juan Vegazo había comprado los terrenos para excavar en busca de una «Pompeya ocuritana»; casi todo lo que encontró se perdió.</p><p>En 2024 un equipo de la Universidad de Granada sacó a la luz el <b>foro</b>, con pedestales de estatuas, un altar monumental y una moneda con el crismón, su primera imagen cristiana; la ciudad estuvo habitada al menos hasta finales del siglo IV. En el foro crece un <b>acebuche</b> de más de 700 años, catalogado como árbol singular.</p>"
+    },
+    "ver_alli": [
+     "La visita guiada sale del centro de interpretación, junto a la carretera de Ubrique a Benaocaz, y sube a pie al cerro.",
+     "Entra en el mausoleo y fíjate en las hornacinas y los nichos para urnas.",
+     "En el foro, busca el viejo acebuche junto a los pedestales.",
+     "Recorre las termas y el trazado de la muralla."
+    ],
+    "fuentes": [
+     "https://www.ugr.es/node/43831",
+     "https://es.hispanopedia.com/wiki/Ocuri",
+     "https://es.wikipedia.org/wiki/Ocuri",
+     "https://archaeologymag.com/2024/10/ancient-roman-forum-in-spain"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-guzman-el-bueno",
+   "campos": {
+    "lat": 36.0118,
+    "lon": -5.603,
+    "estilo": "Califal, con reformas castellanas",
+    "texto": {
+     "general": "<p>En el extremo sur de la península, mirando al estrecho de Gibraltar, el califa <b>Abderramán III</b> mandó construir en el año <b>960</b> este alcázar, sobre restos romanos. El núcleo califal, de planta trapezoidal y sillares bien escuadrados, tenía 15 torres, de las que se conservan 13.</p><p>Su nombre recuerda la <b>defensa de Tarifa</b> de <b>1294</b>. El rey Sancho IV confió la plaza a Alonso Pérez de Guzmán frente a su hermano, el infante don Juan, aliado con meriníes y nazaríes. Los sitiadores tenían prisionero al hijo menor de Guzmán y amenazaron con matarlo si no se rendía; según la leyenda, Guzmán les arrojó su propio puñal antes que entregar la plaza, y el muchacho murió ante las murallas.</p><p>Tras la conquista castellana se añadieron las almenas en punta de diamante, una barbacana y la torre albarrana octogonal llamada <b>torre de Guzmán el Bueno</b>. Se restauró en el siglo XVII contra los piratas berberiscos y fue centro de la resistencia de Tarifa en la Guerra de la Independencia.</p>"
+    },
+    "ver_alli": [
+     "Recorre el paseo de ronda entre la muralla y la barbacana.",
+     "Busca la torre octogonal de Guzmán el Bueno y la Puerta gótica.",
+     "Fíjate en las almenas en punta de diamante añadidas por los castellanos.",
+     "Desde las murallas, en días claros, se ve la costa de Marruecos."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Tarifa",
+     "https://es.wikipedia.org/wiki/Guzm%C3%A1n_el_Bueno"
+    ]
+   }
+  },
+  {
+   "id": "alcazar-de-jerez",
+   "campos": {
+    "lat": 36.6808,
+    "lon": -6.14,
+    "estilo": "Almohade, con palacio barroco",
+    "texto": {
+     "general": "<p>En el ángulo suroeste de la muralla de Jerez, sobre una colina habitada ya en la Edad del Cobre, se alza esta <b>fortaleza-palacio almohade</b>, probablemente del siglo XII. Desde aquí se gobernaba el Jerez musulmán, y es uno de los pocos ejemplos de arquitectura almohade que quedan en la Península.</p><p>Jerez se declaró vasalla de Castilla en 1248, pero el alcázar siguió en manos de su gobernador musulmán hasta que los castellanos lo tomaron. En <b>1264</b> los musulmanes se sublevaron, pasaron a cuchillo a la guarnición cristiana y recuperaron la fortaleza por poco tiempo; lo cuentan las <i>Cantigas</i> de Alfonso X.</p><p>Del alcázar islámico se conservan las puertas, la torre octogonal, los <b>baños</b>, con sus tres salas y lucernas en forma de estrella, y la <b>mezquita</b>, la única que queda de las dieciocho que tuvo la ciudad: conserva el alminar, el patio de abluciones, la sala de oración y el mihrab. Luego se añadieron la torre del Homenaje, del siglo XV, y el <b>palacio barroco de Villavicencio</b>, levantado desde 1664 sobre restos árabes.</p><p class=\"dato\"><span>¿Sabías que…?</span>En la torre del palacio hay una cámara oscura: con lentes y espejos proyecta en tiempo real las calles y monumentos de Jerez.</p>"
+    },
+    "ver_alli": [
+     "Entra en la mezquita y busca el mihrab y el patio de abluciones.",
+     "En los baños, mira las lucernas en forma de estrella de las cúpulas.",
+     "Fíjate desde la Alameda Vieja en la gran torre octogonal.",
+     "Sube a la cámara oscura para ver la ciudad a vista de pájaro."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Alc%C3%A1zar_de_Jerez_de_la_Frontera"
+    ]
+   }
+  },
+  {
+   "id": "catedral-nueva-de-cadiz",
+   "campos": {
+    "lat": 36.529,
+    "lon": -6.2953,
+    "estilo": "Barroco y neoclásico",
+    "texto": {
+     "general": "<p>En 1717 la Casa de Contratación se trasladó de Sevilla a Cádiz, y la ciudad, enriquecida por el comercio con América, quiso una catedral a su altura. Se empezó en <b>1722</b> con proyecto de <b>Vicente Acero</b> y se dio por terminada en <b>1838</b>, aún con obras pendientes; las torres se acabaron en 1845 y 1862.</p><p>En esos 116 años pasaron por ella varios arquitectos, como Gaspar y Torcuato Cayón, y las crisis económicas obligaron a cambiar materiales y planes. Por eso mezcla <b>barroco, rococó y neoclásico</b>, con mármol genovés en altares y puertas y piedra ostionera en los muros.</p><p>Su <b>cúpula del crucero</b>, cubierta de azulejos dorados, brilla al sol y se ve desde casi toda la ciudad. Bajo el altar mayor está la <b>cripta</b>, por debajo del nivel del mar, donde están enterrados el compositor <b>Manuel de Falla</b> y el escritor <b>José María Pemán</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>La bóveda plana de la cripta produce una curiosa reverberación: un susurro se oye amplificado.</p>"
+    },
+    "ver_alli": [
+     "Fíjate en la fachada de formas cóncavas y convexas y en sus dos torres.",
+     "Baja a la cripta y prueba su eco bajo la bóveda plana.",
+     "Sube a la torre del Reloj por su larga rampa para ver Cádiz y el mar.",
+     "Mira la cúpula dorada desde el paseo del Campo del Sur."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_de_la_Santa_Cruz_(C%C3%A1diz)"
+    ]
+   }
+  },
+  {
+   "id": "oratorio-de-san-felipe-neri",
+   "campos": {
+    "lat": 36.5329,
+    "lon": -6.2998,
+    "tipo": "iglesia",
+    "anio": 1685,
+    "estilo": "Barroco",
+    "texto": {
+     "general": "<p>El oratorio de San Felipe Neri es una iglesia barroca de <b>planta elíptica</b>, construida entre <b>1685 y 1719</b> por Blas Díaz. El terremoto de Lisboa de 1755 la dañó y su cúpula, con ocho ventanales, se rehízo en 1764.</p><p>Durante la invasión napoleónica, con Cádiz sitiada, aquí se reunieron desde 1811 las <b>Cortes</b>, y aquí se proclamó en 1812 la <b>Constitución</b>, la primera de España, de marcado carácter liberal. En la fachada, numerosas lápidas recuerdan a los diputados doceañistas; la mayoría se colocaron en 1912, en el centenario.</p><p>Dentro tiene siete capillas alrededor del óvalo. Destacan la del Sagrario, de los hermanos genoveses Schiaffino, y el retablo mayor rococó, presidido por una <b>Inmaculada de Murillo</b>, considerada de las mejores del pintor.</p>"
+    },
+    "ver_alli": [
+     "Antes de entrar, lee en la fachada las lápidas dedicadas a los diputados de 1812.",
+     "Dentro, fíjate en la planta ovalada y en la cúpula.",
+     "Busca la Inmaculada de Murillo en el retablo mayor.",
+     "Mira la capilla del Sagrario, obra de los Schiaffino."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Oratorio_de_San_Felipe_Neri_(C%C3%A1diz)"
+    ]
+   }
+  },
+  {
+   "id": "mirador-del-estrecho-tarifa",
+   "campos": {
+    "lat": 36.0537,
+    "lon": -5.5504,
+    "estilo": "Paisaje geológico"
+   }
+  }
+ ]
+}
