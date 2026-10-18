@@ -2,9 +2,14 @@
  "nota": "Audios en audio/<ficha>-<nivel>.mp3 (n,g,p = segundos); viva = lámina animada",
  "fichas": {
   "ant2-5": {
-   "g": 114,
+   "g": 145,
    "voz_g": "Charon",
-   "viva": "img/vivas/ant2-5.mp4"
+   "viva": "img/vivas/ant2-5.mp4",
+   "n": 88,
+   "voz_n": "Leda",
+   "p": 769,
+   "voz_p": "Charon",
+   "viva_tipo": "camara"
   },
   "arcaico-0": {
    "g": 163,
@@ -1326,7 +1331,7 @@
   "des-caral": {
    "viva": "img/vivas/des-caral.mp4",
    "viva_tipo": "gemini",
-   "d": 356,
+   "d": 359,
    "voz_d": "Achird"
   },
   "ant1-10": {
@@ -1342,17 +1347,17 @@
   "des-guiza": {
    "viva": "img/vivas/des-guiza.mp4",
    "viva_tipo": "camara",
-   "d": 346,
+   "d": 339,
    "voz_d": "Gacrux"
   },
   "ant1-8": {
    "viva": "img/vivas/ant1-8.mp4",
    "viva_tipo": "veo",
-   "n": 86,
+   "n": 89,
    "voz_n": "Leda",
    "g": 154,
    "voz_g": "Sadaltager",
-   "p": 749,
+   "p": 758,
    "voz_p": "Sadaltager"
   },
   "ant1-0": {
@@ -1362,7 +1367,7 @@
    "voz_n": "Leda",
    "g": 148,
    "voz_g": "Aoede",
-   "p": 783,
+   "p": 788,
    "voz_p": "Aoede"
   },
   "ant1-1": {
@@ -1372,7 +1377,7 @@
    "voz_n": "Leda",
    "g": 166,
    "voz_g": "Gacrux",
-   "p": 835,
+   "p": 823,
    "voz_p": "Gacrux"
   },
   "ant1-2": {
@@ -1390,7 +1395,7 @@
    "viva_tipo": "camara",
    "n": 86,
    "voz_n": "Leda",
-   "g": 149,
+   "g": 141,
    "voz_g": "Leda",
    "p": 800,
    "voz_p": "Leda"
@@ -1402,7 +1407,7 @@
    "voz_n": "Leda",
    "g": 151,
    "voz_g": "Despina",
-   "p": 771,
+   "p": 757,
    "voz_p": "Despina"
   },
   "ant1-5": {
@@ -1412,7 +1417,7 @@
    "voz_n": "Leda",
    "g": 149,
    "voz_g": "Leda",
-   "p": 669,
+   "p": 671,
    "voz_p": "Leda"
   },
   "ant1-6": {
@@ -1420,9 +1425,9 @@
    "viva_tipo": "camara",
    "n": 85,
    "voz_n": "Leda",
-   "g": 149,
+   "g": 160,
    "voz_g": "Vindemiatrix",
-   "p": 629,
+   "p": 633,
    "voz_p": "Vindemiatrix"
   },
   "ant1-7": {
@@ -1432,7 +1437,7 @@
    "voz_n": "Leda",
    "g": 147,
    "voz_g": "Aoede",
-   "p": 590,
+   "p": 595,
    "voz_p": "Aoede"
   },
   "ant1-9": {
@@ -1452,7 +1457,7 @@
    "voz_n": "Leda",
    "g": 147,
    "voz_g": "Achird",
-   "p": 622,
+   "p": 641,
    "voz_p": "Achird"
   },
   "ant1-12": {
@@ -1472,7 +1477,7 @@
    "voz_n": "Leda",
    "g": 148,
    "voz_g": "Gacrux",
-   "p": 750,
+   "p": 775,
    "voz_p": "Gacrux"
   },
   "des-ur": {
@@ -1484,7 +1489,7 @@
   "des-mohenjo": {
    "viva": "img/vivas/des-mohenjo.mp4",
    "viva_tipo": "camara",
-   "d": 350,
+   "d": 353,
    "voz_d": "Algieba"
   },
   "des-argar": {
@@ -1492,6 +1497,186 @@
    "viva_tipo": "camara",
    "d": 373,
    "voz_d": "Gacrux"
+  },
+  "ant2-13": {
+   "n": 81,
+   "voz_n": "Leda",
+   "g": 153,
+   "voz_g": "Achird",
+   "p": 706,
+   "voz_p": "Achird",
+   "viva": "img/vivas/ant2-13.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant2-0": {
+   "n": 84,
+   "voz_n": "Leda",
+   "g": 140,
+   "voz_g": "Vindemiatrix",
+   "p": 912,
+   "voz_p": "Vindemiatrix",
+   "viva": "img/vivas/ant2-0.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant2-15": {
+   "n": 83,
+   "voz_n": "Leda",
+   "g": 134,
+   "voz_g": "Algieba",
+   "p": 612,
+   "voz_p": "Algieba",
+   "viva": "img/vivas/ant2-15.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant2-1": {
+   "n": 89,
+   "voz_n": "Leda",
+   "g": 146,
+   "voz_g": "Iapetus",
+   "p": 850,
+   "voz_p": "Iapetus",
+   "viva": "img/vivas/ant2-1.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant2-6": {
+   "n": 90,
+   "voz_n": "Leda",
+   "g": 142,
+   "voz_g": "Rasalgethi",
+   "p": 697,
+   "voz_p": "Rasalgethi",
+   "viva": "img/vivas/ant2-6.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant2-2": {
+   "n": 82,
+   "voz_n": "Leda",
+   "g": 144,
+   "voz_g": "Sadaltager",
+   "p": 737,
+   "voz_p": "Sadaltager",
+   "viva": "img/vivas/ant2-2.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant2-11": {
+   "n": 82,
+   "voz_n": "Leda",
+   "g": 141,
+   "voz_g": "Aoede",
+   "p": 593,
+   "voz_p": "Aoede",
+   "viva": "img/vivas/ant2-11.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant2-4": {
+   "n": 82,
+   "voz_n": "Leda",
+   "g": 138,
+   "voz_g": "Despina",
+   "p": 703,
+   "voz_p": "Despina",
+   "viva": "img/vivas/ant2-4.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant2-3": {
+   "n": 147,
+   "voz_n": "Leda",
+   "g": 142,
+   "voz_g": "Gacrux",
+   "p": 823,
+   "voz_p": "Gacrux",
+   "viva": "img/vivas/ant2-3.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant2-7": {
+   "n": 84,
+   "voz_n": "Leda",
+   "g": 134,
+   "voz_g": "Leda",
+   "p": 746,
+   "voz_p": "Leda",
+   "viva": "img/vivas/ant2-7.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant2-8": {
+   "n": 86,
+   "voz_n": "Leda",
+   "g": 181,
+   "voz_g": "Vindemiatrix",
+   "p": 771,
+   "voz_p": "Vindemiatrix",
+   "viva": "img/vivas/ant2-8.mp4",
+   "viva_tipo": "veo"
+  },
+  "ant2-9": {
+   "n": 90,
+   "voz_n": "Leda",
+   "g": 149,
+   "voz_g": "Achird",
+   "p": 593,
+   "voz_p": "Achird",
+   "viva": "img/vivas/ant2-9.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant2-14": {
+   "n": 76,
+   "voz_n": "Leda",
+   "g": 138,
+   "voz_g": "Algieba",
+   "p": 658,
+   "voz_p": "Algieba",
+   "viva": "img/vivas/ant2-14.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant2-10": {
+   "n": 81,
+   "voz_n": "Leda",
+   "g": 149,
+   "voz_g": "Iapetus",
+   "p": 769,
+   "voz_p": "Iapetus",
+   "viva": "img/vivas/ant2-10.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant2-12": {
+   "n": 80,
+   "voz_n": "Leda",
+   "g": 151,
+   "voz_g": "Rasalgethi",
+   "p": 652,
+   "voz_p": "Rasalgethi",
+   "viva": "img/vivas/ant2-12.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-uluburun": {
+   "d": 336,
+   "voz_d": "Sadaltager",
+   "viva": "img/vivas/des-uluburun.mp4",
+   "viva_tipo": "veo"
+  },
+  "des-tutankamon": {
+   "d": 377,
+   "voz_d": "Achird",
+   "viva": "img/vivas/des-tutankamon.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-hattusa": {
+   "d": 369,
+   "voz_d": "Iapetus",
+   "viva": "img/vivas/des-hattusa.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-akrotiri": {
+   "d": 355,
+   "voz_d": "Aoede",
+   "viva": "img/vivas/des-akrotiri.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-motilla": {
+   "d": 311,
+   "voz_d": "Algieba",
+   "viva": "img/vivas/des-motilla.mp4",
+   "viva_tipo": "camara"
   }
  }
 }
