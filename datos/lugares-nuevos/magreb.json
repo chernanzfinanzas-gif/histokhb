@@ -1,0 +1,642 @@
+{
+ "zona": "Magreb y Libia",
+ "nuevos": [
+  {
+   "id": "volubilis",
+   "nombre": "Volubilis",
+   "provincia": "Marruecos",
+   "comarca": "Mulay Idrís Zerhun (Mequinez)",
+   "lat": 34.0741,
+   "lon": -5.5554,
+   "tipo": "yacimiento",
+   "estilo": "Ciudad romana",
+   "epoca": "Romano",
+   "anio": 217,
+   "regiones_sincronia": [
+    "Magreb"
+   ],
+   "texto": {
+    "general": "<p>Al pie del monte Zerhun, entre olivares, están las ruinas de la ciudad romana más importante de Marruecos. Nació como asentamiento bereber en el siglo III a.C. y pudo ser capital del reino de Mauritania en tiempos de <b>Juba II</b>, al que Roma puso en el trono en el 25 a.C. A finales del siglo II d.C. tenía unos 20.000 habitantes y vivía sobre todo del aceite de oliva. En el año 217 el gobernador levantó el <b>arco de Caracalla</b>, en honor del emperador y de su madre Julia Domna. Patrimonio Mundial desde 1997.</p><p>Hacia el año 285 Roma perdió la ciudad y nunca la recuperó, pero siguió habitada: en 787-788 <b>Idrís I</b> fundó aquí la dinastía idrisí, la primera dinastía islámica de Marruecos, antes de que la capital pasara a Fez. Siglos después Mulay Ismail se llevó piedra de sus ruinas para construir Mequinez, y el terremoto de 1755 la destrozó. Hoy se ven en su sitio los mosaicos de las casas de Orfeo, de los Trabajos de Hércules y de Venus.</p>"
+   },
+   "ver_alli": [
+    "Está a unos 30 km de Mequinez y muy cerca de la ciudad santa de Mulay Idrís Zerhun.",
+    "Los mosaicos siguen en el suelo de las casas; el sol aprieta y casi no hay sombra, así que conviene llevar agua y sombrero."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Volubilis",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ9cctFABpoA0RggFvPvggEt8",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Volubilis+archaeological+site"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "ksar-de-ait-ben-haddou",
+   "nombre": "Ksar de Aït Ben Haddou",
+   "provincia": "Marruecos",
+   "comarca": "Uarzazat",
+   "lat": 31.0471,
+   "lon": -7.1291,
+   "tipo": "poblacion",
+   "estilo": "Arquitectura de tierra presahariana",
+   "epoca": "Magreb andalusí y alauí",
+   "regiones_sincronia": [
+    "Magreb"
+   ],
+   "texto": {
+    "general": "<p>Un <b>ksar</b>, pueblo fortificado de casas de tierra apiñadas en la ladera de una colina, junto al valle del Ounila, en la antigua ruta de caravanas que cruzaba el Atlas entre el Sáhara y Marrakech por el puerto de Tizi n'Tichka. El lugar estaba fortificado ya en tiempos de los almorávides, en el siglo XI, aunque ninguna de las construcciones que se ven hoy parece anterior al siglo XVII.</p><p>Está hecho de tapial, adobe y madera: las casas altas llevan tapial en la planta baja y adobe, más ligero, en los pisos de arriba. Por eso necesita reparaciones constantes. Es Patrimonio Mundial desde 1987 y uno de los decorados naturales más famosos del cine: aquí se rodaron escenas de <i>Lawrence de Arabia</i> (1962), <i>Gladiator</i> (2000) y de la serie <i>Juego de tronos</i>.</p>"
+   },
+   "ver_alli": [
+    "Está a unos 30 km de Uarzazat; se cruza el río por un puente peatonal para llegar a la entrada del ksar.",
+    "Subir hasta el granero fortificado de lo alto de la colina da la mejor vista del valle; mejor a primera o última hora, cuando hay menos grupos."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/A%C3%AFt_Benhaddou",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ0xV5uWbgug0RCo5i2t8UpK8",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Ksar+Aït-Ben-Haddou"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "medina-de-esauira-mogador",
+   "nombre": "Medina de Esauira (Mogador)",
+   "provincia": "Marruecos",
+   "comarca": "Esauira",
+   "lat": 31.5145,
+   "lon": -9.7723,
+   "tipo": "poblacion",
+   "estilo": "Ciudad fortificada del s. XVIII",
+   "epoca": "Magreb andalusí y alauí",
+   "anio": 1760,
+   "regiones_sincronia": [
+    "Magreb"
+   ],
+   "texto": {
+    "general": "<p>Una ciudad amurallada junto al Atlántico, de casas blancas con puertas azules, que hasta los años sesenta se llamó <b>Mogador</b>. Ya en la Antigüedad el rey <b>Juba II</b> instaló en la isla de enfrente un taller de púrpura, el tinte que se sacaba de los caracoles marinos. La ciudad actual la mandó levantar hacia 1760 el sultán alauí <b>Mohamed ben Abdalá</b>, que encargó el trazado al ingeniero francés Théodore Cornut, y fue durante más de un siglo el gran puerto de Marruecos, al que llegaban las caravanas de Marrakech.</p><p>Tuvo una gran comunidad judía, que vivía en el <i>mellah</i>, donde quedan antiguas sinagogas. Su medina es Patrimonio Mundial desde 2001. Sobre el mar se alinean los cañones de la <b>Skala</b>, el bastión de la muralla, donde se rodaron escenas de <i>Juego de tronos</i>.</p>"
+   },
+   "ver_alli": [
+    "El punto marcado es la Skala de la Ville, el bastión con cañones sobre el mar; desde allí se entra a la medina a pie.",
+    "El puerto de pescadores, con su propia fortaleza, está a pocos minutos y es muy animado por la tarde."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Essaouira",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ82PFQ0-brQ0RDZiJrIDu1gE",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Skala+de+la+Ville+Essaouira"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "medina-y-ribat-de-susa",
+   "nombre": "Medina y ribat de Susa",
+   "provincia": "Túnez",
+   "comarca": "Susa",
+   "lat": 35.8277,
+   "lon": 10.6388,
+   "tipo": "poblacion",
+   "estilo": "Arquitectura aglabí",
+   "epoca": "Islámico medieval",
+   "anio": 821,
+   "regiones_sincronia": [
+    "Magreb"
+   ],
+   "texto": {
+    "general": "<p>La medina amurallada de Susa, sobre la antigua Hadrumeto púnica y romana, es uno de los mejores ejemplos de ciudad de los primeros siglos del islam en el Magreb. En su centro están el <b>ribat</b>, fortaleza de guerreros religiosos que vigilaban la costa, y la Gran Mezquita, que mandó construir en 851 el emir aglabí Abu l-Abbas Muhammad. Patrimonio Mundial desde 1988.</p><p>Una inscripción de mármol en la torre del ribat lleva el año 821 y el nombre del emir <b>Ziyadat Allah I</b>, aunque los historiadores discuten si marca la fundación o una reforma. Dentro tiene la sala de oración más antigua que se conserva en el norte de África, y su torre cilíndrica servía probablemente de faro y de puesto de señales en la cadena de ribats de la costa de Ifriqiya.</p>"
+   },
+   "ver_alli": [
+    "El ribat y la Gran Mezquita están uno junto a otro, en la parte baja de la medina, cerca del puerto.",
+    "Desde lo alto de la torre del ribat se ve toda la medina y el mar."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Medina_of_Sousse",
+    "https://en.wikipedia.org/wiki/Ribat_of_Sousse",
+    "https://en.wikipedia.org/wiki/Great_Mosque_of_Sousse",
+    "https://www.google.com/maps/place/?q=place_id:ChIJNZpBhXN1AhMRwBmaKfis3fU",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Ribat+de+Sousse"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "sbeitla-sufetula",
+   "nombre": "Sbeitla (Sufetula)",
+   "provincia": "Túnez",
+   "comarca": "Kasserine",
+   "lat": 35.2404,
+   "lon": 9.12,
+   "tipo": "yacimiento",
+   "estilo": "Ciudad romana y bizantina",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Magreb"
+   ],
+   "texto": {
+    "general": "<p>Las ruinas de Sufetula, en el centro de Túnez, guardan los templos del foro romano mejor conservados del país: <b>tres templos</b> uno junto a otro, dedicados a los dioses del Capitolio, detrás de un recinto amurallado y un arco. La ciudad se enriqueció en el siglo II con el aceite de oliva, fue sede de un obispo y vivió una nueva época de esplendor con los bizantinos.</p><p>En el año 647, cerca de aquí, el ejército árabe que mandaba <b>Abd Allah ibn Saad</b>, gobernador de Egipto, derrotó al patricio bizantino <b>Gregorio</b> y a sus aliados bereberes. Aquella batalla debilitó el poder bizantino en África y abrió el camino a la conquista musulmana del Magreb, que unos veinte años después fundaría Kairuán.</p>"
+   },
+   "ver_alli": [
+    "El yacimiento está a la entrada de la ciudad moderna de Sbeitla; la taquilla y el pequeño museo quedan al otro lado de la carretera.",
+    "Al atardecer la luz dorada sobre los tres templos es la mejor del día."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Sbeitla",
+    "https://www.google.com/maps/place/?q=place_id:ChIJHRoMTBRK-RIRPkSOUQsP91w",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Sufetula"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "djemila",
+   "nombre": "Djemila (Cuicul)",
+   "provincia": "Argelia",
+   "comarca": "Sétif",
+   "lat": 36.3205,
+   "lon": 5.7367,
+   "tipo": "yacimiento",
+   "estilo": "Ciudad romana de montaña",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Magreb"
+   ],
+   "texto": {
+    "general": "<p>Una ciudad romana colgada a unos 900 metros de altura, sobre una estrecha meseta entre dos barrancos de las montañas de Argelia. Se llamaba <b>Cuicul</b> y nació en el siglo I como guarnición militar. Patrimonio Mundial desde 1982, por cómo los romanos adaptaron su urbanismo a un terreno de montaña.</p><p>En el siglo III, con los emperadores de la familia de Septimio Severo, nacido en África, la ciudad se amplió con un nuevo foro, el templo de la Gens Septimia y el <b>arco de Caracalla</b>. En el siglo V se construyó al sur un barrio cristiano con tres basílicas, un baptisterio y unas termas.</p>"
+   },
+   "ver_alli": [
+    "Está a unos 50 km de Sétif, por carreteras de montaña.",
+    "Junto a las ruinas hay un museo con grandes mosaicos del yacimiento.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Dj%C3%A9mila",
+    "https://www.google.com/maps/place/?q=place_id:ChIJi5_6ByKo8xIRbi_B_uXi_fo",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Djémila"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "tipasa",
+   "nombre": "Tipasa",
+   "provincia": "Argelia",
+   "comarca": "Tipasa",
+   "lat": 36.5936,
+   "lon": 2.4439,
+   "tipo": "yacimiento",
+   "estilo": "Ciudad púnica, romana y paleocristiana",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Magreb"
+   ],
+   "texto": {
+    "general": "<p>Ruinas romanas entre pinos, sobre tres colinas que bajan hasta el Mediterráneo, a unos 20 km de la antigua Cesarea (Cherchell). Empezó como pequeña factoría comercial púnica, el emperador Claudio la convirtió en colonia militar para la conquista de los reinos de Mauritania, y en el siglo III fue un gran centro cristiano, sede de un obispo, con algunas de las basílicas más grandes de la actual Argelia, como la de <b>Santa Salsa</b>. Patrimonio Mundial desde 1982.</p><p>Según la leyenda, Salsa era una muchacha cristiana que en el siglo IV arrojó al mar la cabeza de un ídolo con forma de serpiente y murió apedreada. Muchos siglos después, el escritor <b>Albert Camus</b>, nacido en Argelia, escribió aquí sus <i>Bodas en Tipasa</i>; una estela de 1961 recuerda una de sus frases: «Comprendo aquí lo que llaman gloria: el derecho a amar sin medida».</p>"
+   },
+   "ver_alli": [
+    "El parque arqueológico está junto al puerto de la ciudad moderna de Tipasa, a unos 70 km de Argel.",
+    "Cerca, en una colina, se alza el gran Mausoleo Real de Mauritania, que se visita aparte.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Tipasa",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ1TCMQ_J_hRIR-2ecT8u7kYM",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Tipaza+ruines+romaines"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "valle-del-mzab",
+   "nombre": "Valle del M'zab (Gardaya)",
+   "provincia": "Argelia",
+   "comarca": "Gardaya",
+   "lat": 32.4889,
+   "lon": 3.6742,
+   "tipo": "poblacion",
+   "estilo": "Arquitectura ibadí del desierto",
+   "epoca": "Islámico medieval",
+   "anio": 1012,
+   "regiones_sincronia": [
+    "Magreb"
+   ],
+   "texto": {
+    "general": "<p>En un valle del Sáhara argelino, cinco <i>ksur</i>, pueblos fortificados, se escalonan sobre colinas alrededor de sus mezquitas: <b>Gardaya</b>, Beni Isguen, Melika, Bounoura y El Atteuf. Los fundaron entre 1012 y 1350 los <b>mozabíes</b>, bereberes de la rama ibadí del islam, que se instalaron en el desierto y organizaron con reglas muy estrictas el agua, los palmerales y el espacio de cada casa.</p><p>Las casas, de formas sencillas y colores ocres, se adaptan al calor del desierto y a la vida en comunidad, y su manera de construir se ha copiado en otras partes del Sáhara. Patrimonio Mundial desde 1982 como ejemplo intacto de hábitat tradicional adaptado a su medio.</p>"
+   },
+   "ver_alli": [
+    "El punto marcado es la vieja mezquita en lo alto del ksar de Gardaya.",
+    "Algunos ksur, como Beni Isguen, solo se recorren con un guía local y con normas de vestimenta y fotografía.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/M%27zab",
+    "https://www.google.com/maps/place/?q=place_id:ChIJXZHZJj0nZBIRm4_06DnND3o",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Ghardaïa+ksar"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "leptis-magna",
+   "nombre": "Leptis Magna",
+   "provincia": "Libia",
+   "comarca": "Al Jums",
+   "lat": 32.6362,
+   "lon": 14.2908,
+   "tipo": "yacimiento",
+   "estilo": "Ciudad romana severiana",
+   "epoca": "Romano",
+   "anio": 203,
+   "regiones_sincronia": [
+    "Magreb"
+   ],
+   "texto": {
+    "general": "<p>Una de las ciudades romanas más espectaculares del Mediterráneo, junto al mar en la desembocadura del uadi Lebda. Nació como asentamiento púnico en la segunda mitad del siglo VII a.C. y fue la ciudad natal del emperador <b>Septimio Severo</b> (193-211), que la llenó de monumentos: un nuevo foro, una gran basílica, un puerto reconstruido y el arco que se levantó hacia 203, cuando el emperador recorrió África. Patrimonio Mundial desde 1982.</p><p>Los vándalos la tomaron en 439 y mandaron derribar sus murallas; volvió a manos de Bizancio en 533-534, pero ya no se recuperó, y tras la conquista árabe, hacia 647, quedó casi abandonada. La arena la conservó hasta que los arqueólogos italianos la excavaron en los años veinte y treinta del siglo XX.</p>"
+   },
+   "ver_alli": [
+    "Está a las afueras de Al Jums, a unos 130 km al este de Trípoli.",
+    "Junto a la entrada hay un museo con esculturas y piezas de la ciudad.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Leptis_Magna",
+    "https://en.wikipedia.org/wiki/Arch_of_Septimius_Severus_(Leptis_Magna)",
+    "https://www.google.com/maps/place/?q=place_id:ChIJKWqqNl71phMR-lPAnMssGRc",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Leptis+Magna"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "cirene",
+   "nombre": "Cirene",
+   "provincia": "Libia",
+   "comarca": "Shahat (Cirenaica)",
+   "lat": 32.8222,
+   "lon": 21.854,
+   "tipo": "yacimiento",
+   "estilo": "Ciudad griega y romana",
+   "epoca": "Griegos",
+   "anio": -631,
+   "regiones_sincronia": [
+    "Magreb"
+   ],
+   "texto": {
+    "general": "<p>La gran colonia griega del norte de África, que dio nombre a toda la región, la Cirenaica. Según los autores griegos, la fundaron en 631 a.C. colonos de la isla de Tera (Santorini) guiados por <b>Bato</b>, por consejo del oráculo de Delfos. Se hizo rica con los caballos, el comercio y el <b>silfio</b>, una planta medicinal que aparecía en sus monedas y que, de tanto recogerla, se extinguió en el siglo I.</p><p>Fue patria de pensadores como <b>Aristipo</b>, fundador de la escuela cirenaica, y del sabio <b>Eratóstenes</b>, que midió la Tierra. Tuvo uno de los mayores templos griegos, el de Zeus, y un santuario de Apolo con un templo del siglo VII a.C. Pasó a Roma en el 96 a.C., sufrió terremotos en 262 y 365 y se abandonó tras la conquista árabe. Patrimonio Mundial desde 1982, en peligro desde 2017.</p>"
+   },
+   "ver_alli": [
+    "Las ruinas están junto a la población de Shahat, en los montes del Yebel al-Ajdar, a unos 200 km de Bengasi.",
+    "El santuario de Apolo, en la parte baja junto a la fuente, y el templo de Zeus, en la parte alta, son los dos polos de la visita.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Cyrene,_Libya",
+    "https://www.google.com/maps/place/?q=place_id:ChIJEcEcBIt1fxMR2vzB5UBOiQk",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Cyrene"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "mesa-de-arte-rupestre-de-tassili-n-ajjer",
+   "campos": {
+    "estilo": "Arte rupestre sahariano",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Tassili_n%27Ajjer",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Tassili+n'Ajjer"
+    ],
+    "ver_alli": [
+     "Solo se visita con guías y agencias autorizadas, normalmente en expediciones de varios días que salen de Djanet.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "museo-del-bardo",
+   "campos": {
+    "estilo": "Palacio de los beyes con ampliación moderna",
+    "tipo": "museo",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJZUdtiDkz_RIRZ1qp5OILUxU",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Musée+du+Bardo+Tunis"
+    ],
+    "ver_alli": [
+     "Está en el barrio del Bardo, al oeste del centro de Túnez, junto a la sede del Parlamento.",
+     "Conviene reservar al menos dos horas para las salas de mosaicos."
+    ]
+   }
+  },
+  {
+   "id": "dougga",
+   "campos": {
+    "estilo": "Ciudad númida y romana",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ68eHwcyC_BIR722LjYThEzU",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Dougga"
+    ],
+    "ver_alli": [
+     "Está en lo alto de una colina entre olivares, cerca de Teboursouk, en el norte de Túnez.",
+     "El recorrido entre el teatro, el Capitolio y el mausoleo líbico-púnico se hace a pie por calles romanas empedradas; conviene llevar agua y sombrero."
+    ]
+   }
+  },
+  {
+   "id": "anfiteatro-de-el-jem",
+   "campos": {
+    "estilo": "Anfiteatro romano",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ9V1P35z8ARMRqCO4L4AIbPU",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Amphithéâtre+d'El+Jem"
+    ],
+    "ver_alli": [
+     "Se levanta en pleno centro de El Jem, entre Susa y Sfax.",
+     "Se puede bajar a los pasillos subterráneos donde esperaban fieras y gladiadores y subir a las gradas altas.",
+     "Cerca está el museo arqueológico, con mosaicos de las villas de Thysdrus."
+    ]
+   }
+  },
+  {
+   "id": "timgad",
+   "campos": {
+    "estilo": "Urbanismo romano en cuadrícula",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJpaiJhcum9hIRa8s3_GDfSx8",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Timgad"
+    ]
+   }
+  },
+  {
+   "id": "cartago",
+   "campos": {
+    "estilo": "Ciudad púnica y romana",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJsalpd8m04hIRaduc5E7WRvk",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Colline+de+Byrsa"
+    ],
+    "ver_alli": [
+     "Los restos están repartidos por el barrio residencial de Cartago, a las afueras de Túnez; para moverse entre ellos sirven el tren TGM o el taxi.",
+     "La colina de Byrsa, con el museo y las casas púnicas, es un buen punto de partida y tiene vistas sobre el golfo de Túnez."
+    ]
+   }
+  },
+  {
+   "id": "kerkouane",
+   "campos": {
+    "estilo": "Ciudad púnica",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJtWOBHp4wHRMRWuy_0HaNcUE"
+    ],
+    "ver_alli": [
+     "Está junto al mar, en la punta del cabo Bon, lejos de las grandes ciudades.",
+     "Al lado hay un pequeño museo con cerámicas y objetos de la ciudad púnica."
+    ]
+   }
+  },
+  {
+   "id": "hipona-annaba",
+   "campos": {
+    "estilo": "Ciudad romana y paleocristiana",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJJZQpBdAH8BIR9_7ECdQf8M0",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Hippone+site+archéologique"
+    ],
+    "ver_alli": [
+     "Las ruinas están a las afueras de Annaba, al pie de la colina de la basílica de San Agustín.",
+     "Junto a ellas está el museo de Hipona, con mosaicos y estatuas del yacimiento."
+    ]
+   }
+  },
+  {
+   "id": "gran-mezquita-de-kairuan",
+   "campos": {
+    "estilo": "Arquitectura aglabí",
+    "tipo": "iglesia",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ45cjaD_F_RIRHrojZwgOIYk",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Grande+Mosquée+de+Kairouan"
+    ]
+   }
+  },
+  {
+   "id": "mahdia",
+   "campos": {
+    "estilo": "Arquitectura fatimí",
+    "tipo": "poblacion",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJY_VdnPcjAhMRgUsNdjC1Alk",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Mahdia+Skifa+el+Kahla"
+    ],
+    "ver_alli": [
+     "La medina ocupa la península; se entra por la Skifa el-Kahla, un largo pasaje abovedado.",
+     "En el extremo de la península están el fuerte otomano y el cementerio marino."
+    ]
+   }
+  },
+  {
+   "id": "kumbi-saleh",
+   "campos": {
+    "estilo": "Ciudad de piedra del Sahel medieval",
+    "lat": 15.7656,
+    "lon": -7.9686,
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Koumbi_Saleh",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Koumbi+Saleh"
+    ],
+    "texto": {
+     "general": "<p>Las ruinas de piedra que se identifican con la capital del antiguo reino de Ghana, con una gran mezquita, casas de varios pisos y calles, en lo que hoy es casi desierto, cerca de la frontera con Malí. El francés Albert Bonnel de Mézières dio a conocer las ruinas en 1914, y los arqueólogos franceses las excavaron en varias campañas entre 1949 y 1981. Raymond Mauny calculó que la ciudad pudo tener entre 15.000 y 20.000 habitantes, una cifra enorme para un lugar del Sáhara con tan poca agua.</p><p>Hacia 1068 el geógrafo andalusí <b>al-Bakri</b>, que nunca estuvo allí y escribía con lo que le contaban viajeros y mercaderes, describió la capital de Ghana como dos ciudades separadas unos 10 km: la de los comerciantes musulmanes, con doce mezquitas, y la del rey, con su palacio y sus bosques sagrados. Las ruinas de Kumbi Saleh se identifican con la ciudad de los mercaderes, aunque hoy algunos investigadores lo discuten y la ciudad del rey no se ha encontrado.</p>"
+    }
+   }
+  },
+  {
+   "id": "fez-el-bali-y-al-qarawiyyin",
+   "campos": {
+    "estilo": "Medina medieval idrisí y benimerín",
+    "tipo": "poblacion",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJPw3jxFnznw0Rg9_Qr76oFIY"
+    ]
+   }
+  },
+  {
+   "id": "kutubia",
+   "campos": {
+    "estilo": "Arquitectura almohade",
+    "tipo": "iglesia",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ313XmVzurw0Rwm9umhM4zdg",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Mosquée+Koutoubia+Marrakech"
+    ],
+    "texto": {
+     "general": "<p>La gran mezquita almohade de Marrakech, con un alminar de 77 metros, modelo de la Giralda de Sevilla y de la torre Hasán de Rabat. Junto a ella está la plaza de Yamaa el Fna. Su nombre viene de los vendedores de libros, kutub, que tenían sus puestos alrededor.</p><p>El califa <b>Abd al-Mumin</b> tomó Marrakech a los almorávides en 1147 y mandó levantar esta gran mezquita, cuyo alminar se terminó en tiempos de su nieto al-Mansur. En la corte almohade de Marrakech el filósofo cordobés <b>Averroes</b> recibió hacia 1168 el encargo de explicar a Aristóteles, fue médico del califa desde 1182 y murió en 1198.</p>"
+    }
+   }
+  },
+  {
+   "id": "torre-hasan",
+   "campos": {
+    "estilo": "Arquitectura almohade",
+    "tipo": "monumento",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ8QoUlJFrpw0RXGFGkplsNhM",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Tour+Hassan+Rabat"
+    ]
+   }
+  },
+  {
+   "id": "mezquita-de-tinmel",
+   "campos": {
+    "estilo": "Arquitectura almohade",
+    "tipo": "iglesia",
+    "lat": 30.9848,
+    "lon": -8.2282,
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJZWw_SgBHsA0Rqs8NO_FGXGk",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Tinmel"
+    ]
+   }
+  },
+  {
+   "id": "mequinez",
+   "campos": {
+    "estilo": "Arquitectura alauí",
+    "tipo": "poblacion",
+    "lat": 33.8926,
+    "lon": -5.5646,
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ0-4DEp5boA0RBOHOY8uRJHg",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Bab+Mansour+Meknès"
+    ]
+   }
+  },
+  {
+   "id": "medina-de-tetuan",
+   "campos": {
+    "estilo": "Medina andalusí",
+    "tipo": "poblacion",
+    "lat": 35.5709,
+    "lon": -5.367,
+    "fuentes": [
+     "https://whc.unesco.org/en/list/837",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Médina+de+Tétouan",
+     "https://www.google.com/maps/place/?q=place_id:ChIJW8JOtERCCw0RTQ9lOk04HSs"
+    ]
+   }
+  },
+  {
+   "id": "chauen-chefchaouen",
+   "campos": {
+    "estilo": "Medina andalusí de montaña",
+    "tipo": "poblacion",
+    "lat": 35.1687,
+    "lon": -5.2621,
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJyzUAA2gnCw0RvVlSSz-x28w",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Chefchaouen+kasbah"
+    ]
+   }
+  },
+  {
+   "id": "testour",
+   "campos": {
+    "estilo": "Arquitectura morisca",
+    "tipo": "poblacion",
+    "lat": 36.5538,
+    "lon": 9.447,
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ86ugRnKW_BIRkiJDN-9t_kM",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Testour+Grande+Mosquée"
+    ]
+   }
+  },
+  {
+   "id": "medina-de-tunez-y-mezquita-zaytuna",
+   "campos": {
+    "estilo": "Medina islámica medieval",
+    "tipo": "poblacion",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJDeUNT3U0_RIRMU9KwrJeBdY",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Mosquée+Zitouna"
+    ]
+   }
+  },
+  {
+   "id": "ribat-de-monastir",
+   "campos": {
+    "estilo": "Ribat islámico temprano",
+    "tipo": "castillo",
+    "lat": 35.7762,
+    "lon": 10.833,
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJHzgEBTBtAhMRqyURTru9pFM",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Ribat+Monastir+Tunisie"
+    ]
+   }
+  },
+  {
+   "id": "mausoleo-de-mohamed-v",
+   "campos": {
+    "estilo": "Arquitectura marroquí tradicional (s. XX)",
+    "tipo": "monumento",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJIQ_FAZFrpw0RR2twZGQWwOQ",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Mausolée+Mohammed+V"
+    ],
+    "ver_alli": [
+     "Está en la misma explanada que la Torre Hasán y se visitan juntos.",
+     "Desde una galería alta se ven las tumbas y su techo decorado."
+    ]
+   }
+  },
+  {
+   "id": "mezquita-hassan-ii",
+   "campos": {
+    "estilo": "Arquitectura marroquí tradicional (s. XX)",
+    "tipo": "iglesia",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJj9WUeWDSpw0RctCw5xjWoWc",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Mosquée+Hassan+II"
+    ]
+   }
+  },
+  {
+   "id": "casbah-de-argel",
+   "campos": {
+    "estilo": "Medina otomana",
+    "tipo": "poblacion",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJj0rwbCSzjxIRoCI9EYrFm8M",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Casbah+d'Alger"
+    ]
+   }
+  },
+  {
+   "id": "monumento-de-los-martires-maqam-echahid",
+   "campos": {
+    "estilo": "Monumento moderno de hormigón",
+    "tipo": "monumento",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJVes1dZ2yjxIRPKvH9FziPJM",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Maqam+Echahid"
+    ]
+   }
+  },
+  {
+   "id": "mausoleo-de-bourguiba",
+   "campos": {
+    "estilo": "Arquitectura tunecina del s. XX",
+    "tipo": "monumento",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJGV2l9TNtAhMR1_ZRALvMa64",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Mausolée+Bourguiba"
+    ]
+   }
+  },
+  {
+   "id": "medina-y-kasbah-de-tanger",
+   "campos": {
+    "estilo": "Medina y alcazaba marroquí",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Kasbah_Palace,_Tangier",
+     "https://en.le360.ma/tourism/a-guide-to-tangiers-must-visit-museums-galleries-and-cultural-landmarks_4ZSDCAYHYZBWXJXUAHWM2JFM4A/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ5Z-soU1_DA0Rx5X3hYj_Rng",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Kasbah+Tanger"
+    ],
+    "ver_alli": [
+     "El palacio de la Kasbah (Dar el Makhzen) es un museo.",
+     "La tumba tradicional de Ibn Battuta está en una calle de la medina que lleva su nombre; se ve desde fuera.",
+     "Desde los miradores de la Kasbah se ve el Estrecho y, en días claros, la costa de Tarifa."
+    ]
+   }
+  }
+ ]
+}
