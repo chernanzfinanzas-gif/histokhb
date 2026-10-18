@@ -1,0 +1,3048 @@
+{
+ "zona": "Tipo de los lugares de España (resto de provincias)",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "abside-de-los-milagros",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "acueducto-segovia",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "ainsa",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "ajuy-complejo-basal",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "alarcon",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "albaicin",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "albarracin",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "albarracin-cella",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "alcazaba-de-almeria",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "alcazaba-de-antequera",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "alcazaba-de-badajoz",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "alcazaba-de-merida",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "alcazaba-y-gibralfaro",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "alcazar-de-jerez",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "alcazar-de-los-reyes-cristianos",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "alcazar-de-segovia",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "alcazar-de-toledo-y-museo-del-ejercito",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "alhambra-y-generalife",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "allariz",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "alquezar",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "altos-hornos-de-sagunto",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "anillo-olimpico-de-montjuic",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "archivo-de-indias",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "arco-bera",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "arco-de-triunfo-y-parque-de-la-ciutadell",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "arsenal-de-ferrol",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "assumpcio-de-bossost",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "assumpcio-de-coll",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "asuncion-de-duraton",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "asuncion-de-tuesta",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "atienza",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "ayllon",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "ayuntamiento-de-alicante",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "ayuntamiento-de-pamplona",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "ayuntamiento-de-sevilla",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "banco-de-espana",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "banos-arabes-de-jaen",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "banos-arabes-de-palma",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "banos-arabes-de-ronda",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "banos-del-almirante",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "barrio-bella-vista-de-riotinto",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "basilica-de-san-vicente",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "basilica-de-santa-maria-de-los-arcos",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "basilica-del-pilar",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "besalu",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "betancuria",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "biblioteca-nacional-y-museo-arqueologico",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "briones",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "buitrago-del-lozoya",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "bunkeres-del-carmel",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "call-de-girona",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-la-albuera",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-los-arapiles",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "campo-de-batalla-del-jarama",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "canal-de-isabel-ii-presa-del-ponton-de-l",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "capilla-real-de-granada",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "cartagena-romana",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "cartuja-de-granada",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "cartuja-de-valldemossa",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "casa-batllo-y-casa-mila-la-pedrera",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "casa-botines",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "casa-de-colon",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "casa-de-pilatos",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "casa-navas-y-el-modernismo-de-reus",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "casco-antiguo-de-cuenca-y-casas-colgadas",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "castell-de-bellver",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castell-de-montsoriu",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castell-de-xativa",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castell-y-colegiata-de-cardona",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-almansa",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-almodovar-del-rio",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-belmonte",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-burgalimar",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-caravaca-de-la-cruz",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-coca",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-consuegra",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-gormaz",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-guzman-el-bueno",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-javier",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-la-luz",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-la-mota",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-loarre",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-lorca",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-los-mendoza",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-los-templarios",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-molina-de-aragon",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-monterrei",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-monzon",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-munatones",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-penafiel",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-peniscola",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-sant-ferran",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-santa-barbara",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-santa-catalina",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-trujillo",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-turegano",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "catedral-de-almeria",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-barcelona",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-cuenca",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-el-burgo-de-osma",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-girona",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-granada",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-huesca",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-jaca",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-jaen",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-la-seu-d-urgell",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-leon",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-lugo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-malaga-la-manquita",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-mallorca",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-mondonedo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-murcia",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-ourense",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-oviedo-y-camara-santa",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-pamplona",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-roda-de-isabena",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-santa-ana",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-santa-maria-de-vitoria",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-santiago-y-portico-de-la-glo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-santo-domingo-de-la-calzada",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-segovia",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-siguenza",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-tarazona",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-tarragona",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-teruel",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-tudela",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-tui",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-valencia-y-miguelete",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-valladolid",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-zamora",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-nueva-de-cadiz",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-nueva-de-plasencia",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-nueva-de-salamanca",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-primada-de-toledo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-vieja-de-salamanca",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-y-murallas-de-avila",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "cavas-codorniu",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "cementerio-de-la-florida-y-el-dos-de-may",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "cigarralejo",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "ciudad-de-las-artes-y-las-ciencias",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "ciudad-monumental-de-caceres",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "ciudad-rodrigo",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "claustro-de-san-pedro-de-soria",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "colegiata-de-castaneda",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "colegiata-de-cervatos",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "colegiata-de-roncesvalles",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "colegiata-de-santa-maria-de-calatayud",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "colegiata-de-santa-maria-do-sar",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "colegiata-de-santillana-del-mar",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "colegiata-de-toro",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "colegio-de-fonseca",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "colegio-de-santo-domingo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "colegio-del-cardenal",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "colegio-del-patriarca",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "colonia-guell",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "concatedral-de-la-redonda",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "congreso-de-los-diputados",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "conjunto-renacentista-de-baeza",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "convento-de-san-esteban",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "corral-de-comedias-de-almagro",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "cripta-san-vicente",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "cuartel-del-conde-duque",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "descalzas-reales",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "ecija-la-ciudad-de-las-torres",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "ecija-museo",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "egara",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "el-banuelo",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "el-paleontologic-valencia",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "el-salvador-de-carabias",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "el-transparente-de-la-catedral-de-toledo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "ensanche-de-barcelona-pla-cerda",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "ermita-de-catalain",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "ermita-de-nuestra-senora-de-tiermes",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "ermita-de-san-baudelio-de-berlanga",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "ermita-de-santa-coloma-de-albendiego",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "escalinata-del-ovalo-de-teruel",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "escalinata-y-fachada-de-la-catedral-de-g",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "estacion-de-atocha",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "estacion-de-canfranc",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "estacion-del-norte-de-valencia",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "estella-lizarra",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "fabrica-de-luz-museo-energia-ponferrada",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "fachada-del-obradoiro",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "fortaleza-de-la-mota",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "fuentiduena",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "fuerte-de-marlborough",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "fundacio-joan-miro",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "galve-legendark",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "garachico",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "gernika-museo-de-la-paz",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "giralda-y-catedral-de-sevilla",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "gran-via-de-madrid-y-edificio-metropolis",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "hondarribia",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "hospital-de-la-caridad",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "hospital-de-los-venerables",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "hospital-de-sant-pau",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "hospital-de-santiago",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "hospital-de-tavera",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "hostal-dos-reis-catolicos",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "huellas-de-los-sitios-de-zaragoza",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "icp-sabadell-museu",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "iglesia-de-gazolaz",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "iglesia-de-la-vera-cruz",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "iglesia-de-santa-cruz-de-baeza",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "iglesia-rupestre-de-bobastro",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "iglesias-del-serrablo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "iglesias-goticas-de-betanzos",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "iglesias-mudejares-de-sahagun",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "isla-de-la-cartuja-y-la-expo-92",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "jameos-del-agua",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "la-carolina",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "la-clerecia",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "la-orotava",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "la-seo-de-zaragoza",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "laguardia",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "lonja-de-la-seda",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "lonja-de-zaragoza",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "lugo",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "marpa-alcala-de-henares",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "medellin-teatro",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "medinaceli",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "melque",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "mercado-central-de-valencia",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "mezquita-catedral-de-cordoba",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "mezquita-de-almonaster-la-real",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "mezquita-del-cristo-de-la-luz",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "mncn-madrid",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "monasterio-de-armenteira",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-carboeiro",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-carracedo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-cornellana",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-el-escorial",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-el-paular",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-gradefes",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-guadalupe",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-irache",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-la-oliva",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-la-rabida",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-la-valldigna",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-leyre",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-moreruela",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-oseira",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-piedra",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-samos",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-san-juan-de-la-pena",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-santa-clara-de-tordesillas",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-santa-maria-de-valdedios",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-santa-maria-la-real-de-naj",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-sobrado-dos-monxes",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-ucles",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-yuste",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monestir-de-poblet",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monestir-de-ripoll",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monestir-de-sant-cugat",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monestir-de-sant-pere-de-rodes",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monestir-de-santes-creus",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monestir-de-vallbona",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "montanana",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "monumento-a-la-batalla-de-vitoria",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "monumento-del-bruc",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "monumento-y-museo-de-la-batalla-de-baile",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "morella",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "morella-temps-de-dinosaures",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "muja",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "mumi-museo-mineria-asturias",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "mupa-cuenca",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "mupe-elche",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "muralla-arabe-de-madrid",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "muralla-punica",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "murallas-de-ciudad-rodrigo",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "murallas-de-girona-y-el-sitio-de-1809",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "murallas-de-la-macarena",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "murallas-de-montblanc",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "murallas-de-niebla",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "murallas-y-arsenal-de-cartagena",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-arqueologico-cuevas-del-almanzora",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-arqueologico-de-murcia",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-canario",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-ciencias-naturales-alava",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-ciencias-naturales-unizar",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-concilios",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-almeria",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-ambrona",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-ciudad-real",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-la-naturaleza-y-arqueologia",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-san-isidro-madrid",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-santa-clara-palacio-del-rey-lob",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-del-ferrocarril-de-cataluna-y-la-l",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-del-prado",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-geominero-madrid",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-guggenheim-bilbao",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-huelva",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-ibero",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-nacional-de-escultura-colegio-de-s",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-refugio-de-la-guerra-civil-de-cart",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-reina-sofia-y-el-guernica",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-salzillo",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-siderurgia-mineria-sabero",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museu-alcover",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museu-arqueologic-alcoi",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museu-conca-della",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museu-de-montserrat",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museu-prehistoria-valencia",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "nativitat-de-durro",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "nuestra-senora-de-tejadilla",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "nuestra-senora-del-rivero",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "nuevo-baztan",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "oiasso",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "oratorio-de-san-felipe-neri",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "osuna-monumental",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "pabellon-mies-van-der-rohe",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-de-carlos-v",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-de-cibeles",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-de-cristal-del-retiro",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-de-guevara",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-de-la-aljaferia",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-de-la-almudaina",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-de-monterrey",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-de-revillagigedo",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-de-san-telmo",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-de-sobrellano-y-el-capricho-de-g",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-de-sonanes",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-del-infantado",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-del-marques-de-dos-aguas",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-del-viso-del-marques",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-ducal-de-gandia",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-ducal-de-pastrana",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-episcopal-de-astorga",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-real-de-aranjuez",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-real-de-la-granja",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-real-de-madrid",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-real-de-olite",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palau-de-la-generalitat",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palau-de-la-musica-catalana",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palau-de-la-virreina",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "pals",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "park-guell",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "pedraza",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "peratallada",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "plaza-de-espana-de-sevilla",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "plaza-de-espana-de-vitoria",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "plaza-mayor-de-madrid",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "plaza-mayor-de-ocana",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "plaza-mayor-de-salamanca",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "plaza-mayor-de-trujillo",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "plaza-mayor-de-valladolid",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "plaza-mayor-de-villanueva-de-los-infante",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "plaza-vazquez-de-molina",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "poblado-de-colonizacion-de-vegaviana",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "poble-vell-de-corbera-d-ebre",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "pozo-soton-y-la-mineria-asturiana",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "priego-de-cordoba-barroco",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "puebla-de-sanabria",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "pueblo-viejo-de-belchite",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "puente-alcantara",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "puente-de-bizkaia",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "puente-de-pontesampaio",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "puente-de-toledo",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "puente-del-paso-honroso",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "puente-la-reina",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "puente-nuevo-de-ronda",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "puerta-de-alcala",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "real-alcazar-de-sevilla",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "real-casa-de-correos",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "real-colegiata-de-san-isidoro",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "real-fabrica-de-tabacos",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "real-jardin-botanico",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "refugio-307",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "refugios-de-la-guerra-civil-de-almeria",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "ribadavia-y-su-juderia",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "ruta-orwell-en-la-sierra-de-alcubierre",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "sa-llotja-de-palma",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "sacra-capilla-del-salvador",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "sagrada-familia",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "sagunto-teatro",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "san-adrian-de-sasabe",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-andres-de-avila",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-antonio-de-la-florida",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-bartolome-de-campisabalos",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-bartolome-de-logrono",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-cebrian-de-mazote",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-cristobal-de-la-laguna",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-esteban-de-segovia",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-esteban-de-sos-del-rey-catolico",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-francisco-el-grande",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-juan-de-amandi",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-juan-de-duero",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-juan-de-los-caballeros",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-juan-de-los-reyes",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-juan-de-uncastillo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-julian-de-los-prados",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-lorenzo-de-segovia",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-marcos-de-leon",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "san-marcos-de-salamanca",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "san-martin-de-artaiz",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-martin-de-castaneda",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-martin-de-elines",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-martin-de-rioseco-de-soria",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-martin-de-segovia",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-martin-pinario",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-martino-de-mondonedo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-miguel-de-almazan",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-miguel-de-andaluz",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-miguel-de-belena-de-sorbe",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-miguel-de-breamo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-miguel-de-corullon",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-miguel-de-estella",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-miguel-de-lillo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-miguel-de-san-esteban-de-gormaz",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-miguel-de-sotosalbos",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-millan-de-segovia",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-millan-suso",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-nicolas-de-portomarin",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-pedro-de-avila",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-pedro-de-caracena",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-pedro-de-la-rua",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-pedro-de-perorrubio",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-pedro-de-siresa",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-pedro-el-viejo-de-huesca",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-pedro-nave",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-pedro-rocas",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-prudencio-de-armentia",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-salvador-de-ejea",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-salvador-de-priesca",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-salvador-de-valdedios",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "san-vicente-de-la-barquera",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "sant-andreu-de-salardu",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "sant-benet-de-bages",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "sant-climent-de-taull",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "sant-feliu-de-barruera",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "sant-jaume-de-frontanya",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "sant-joan-de-boi",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "sant-joan-de-les-abadesses",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "sant-pau-del-camp",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "sant-pere-de-galligants",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-comba-bande",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-cristina-de-lena",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-cruz-de-la-palma",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-eulalia-boveda",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-d-organya",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-de-alaon",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-de-barbera",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-de-bareyo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-de-cambre",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-de-cardet",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-de-eunate",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-de-gerri",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-de-iguacel",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-de-l-estany",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-de-la-oliva",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-de-lebena",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-de-lluca",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-de-mur",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-de-muro-de-roda",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-de-pinilla-de-jadraque",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-de-santa-cruz-de-la-seros",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-de-taull",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-de-ujue",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-de-uncastillo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-de-vilabertran",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-del-azogue-de-benavente",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-del-mar",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-del-naranco",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-la-antigua-de-valladolid",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-la-real-de-obona",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-la-real-de-sanguesa",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-maria-magdalena-de-zamora",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-marta-de-tera",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santiago-de-aguero",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santiago-de-villafranca-del-bierzo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santo-domingo-de-pradena-del-rincon",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santo-domingo-de-soria",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santo-estevo-de-ribas-de-sil",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santo-sepulcro-de-torres-del-rio",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santo-tomas-cantuariense",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santo-toribio-de-liebana",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santuario-de-loyola",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "sepulveda",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "seu-vella-de-lleida",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "sexi",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "sinagoga-de-cordoba",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "sinagoga-de-santa-maria-la-blanca",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "sinagoga-del-transito-museo-sefardi",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "son-bou",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "sos-del-rey-catolico",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "teatro-cadiz",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "teatro-malaga",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "teatro-museo-dali",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "teatro-real",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "torre-de-la-calahorra",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "torre-del-conde",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "torre-del-oro",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "torre-hercules",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "torres-de-quart",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "torres-de-serranos",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "trincheras-de-la-ciudad-universitaria",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "universidad-de-alcala",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "universidad-de-cervera",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "universidad-de-onati",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "universidad-de-oviedo",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "universidad-de-salamanca",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "universidad-laboral-de-gijon",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "valle-de-cuelgamuros",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "valverde-rupestre",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "vega-del-mar",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "vilar-de-donas",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "villa-de-teguise",
+   "campos": {
+    "tipo": "monumento"
+   }
+  }
+ ]
+}

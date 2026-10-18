@@ -252,7 +252,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .aq-chip.off{opacity:.4}
 .aq-dot{width:22px;height:22px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:12px;color:#fff;border:2px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.35);flex:0 0 auto}
 .aq-dot.mk{width:30px;height:30px;font-size:15px}
-.aq-dot.mon{background:#c0533a}.aq-dot.yac{background:#b8862b}.aq-dot.mus{background:#3b6ea8}
+.aq-dot.mon{background:#8a6a3a}.aq-dot.yac{background:#b8862b}.aq-dot.mus{background:#3b6ea8}.aq-dot.cas{background:#c0533a}.aq-dot.igl{background:#7b4fa0}.aq-dot.pob{background:#4f8a4b}
 #aqMap .leaflet-popup-content{font-family:'Nunito',system-ui,sans-serif;font-size:14px;margin:12px 14px;max-width:250px}
 .aq-pp h3{font-family:'Fredoka',system-ui,sans-serif;margin:0 0 4px;font-size:16px}.aq-pp .k{color:var(--muted);font-size:12.5px;margin-bottom:6px}
 .aq-pp a{display:block;margin-top:6px;color:var(--accent);font-weight:700;text-decoration:none}
@@ -398,7 +398,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <div class="aq-demos"><button class="btn sec" data-p="42.338,-4.603" data-n="Carrión de los Condes">Carrión</button><button class="btn sec" data-p="40.416,-3.703" data-n="Madrid">Madrid</button><button class="btn sec" data-p="41.39,2.17" data-n="Barcelona">Barcelona</button><button class="btn sec" data-p="37.39,-5.99" data-n="Sevilla">Sevilla</button><button class="btn sec" data-p="43.36,-8.41" data-n="A Coruña">A Coruña</button></div>
   <div id="geoMsg" class="rt"></div></div>
  <div id="aqMapBox" class="hide"><div id="aqMap"></div>
-  <div class="aq-chips"><span class="aq-chip" data-t="mon"><span class="aq-dot mon">🏰</span>Monumentos <span id="aqc-mon"></span></span><span class="aq-chip" data-t="yac"><span class="aq-dot yac">⛏️</span>Yacimientos <span id="aqc-yac"></span></span><span class="aq-chip" data-t="mus"><span class="aq-dot mus">🏛️</span>Museos <span id="aqc-mus"></span></span></div></div>
+  <div class="aq-chips"><span class="aq-chip" data-t="pob"><span class="aq-dot pob">🏘️</span>Pueblos <span id="aqc-pob"></span></span><span class="aq-chip" data-t="igl"><span class="aq-dot igl">⛪</span>Iglesias <span id="aqc-igl"></span></span><span class="aq-chip" data-t="cas"><span class="aq-dot cas">🏰</span>Castillos <span id="aqc-cas"></span></span><span class="aq-chip" data-t="mon"><span class="aq-dot mon">🏛️</span>Monumentos <span id="aqc-mon"></span></span><span class="aq-chip" data-t="yac"><span class="aq-dot yac">⛏️</span>Yacimientos <span id="aqc-yac"></span></span><span class="aq-chip" data-t="mus"><span class="aq-dot mus">🖼️</span>Museos <span id="aqc-mus"></span></span></div></div>
  <div id="aquiOut"></div>
 </div></section>
 
@@ -978,12 +978,22 @@ $('#lugF').onsubmit=async ev=>{ev.preventDefault();
 };
 document.querySelectorAll('.aq-demos button').forEach(b=>b.onclick=()=>{$('#geoMsg').textContent='📍 '+b.dataset.n;aquiAt(b.dataset.p.split(',').map(Number),b.dataset.n);});
 // ---- mapa (Leaflet se carga solo al usarlo) ----
-const AQ={M:null,layer:null,rings:null,on:{mon:1,yac:1,mus:1}};
-const AQI={mon:'🏰',yac:'⛏️',mus:'🏛️'}, AQN={mon:'Monumento',yac:'Yacimiento',mus:'Museo'};
+const AQ={M:null,layer:null,rings:null,on:{pob:1,igl:1,cas:1,mon:1,yac:1,mus:1}};
+const AQI={pob:'🏘️',igl:'⛪',cas:'🏰',mon:'🏛️',yac:'⛏️',mus:'🖼️'}, AQN={pob:'Pueblo o casco histórico',igl:'Iglesia o monasterio',cas:'Castillo',mon:'Monumento',yac:'Yacimiento',mus:'Museo'};
+const AQ_TIPO={poblacion:'pob',iglesia:'igl',castillo:'cas',monumento:'mon',museo:'mus'};
 const AQ_MON=/iglesia|catedral|castillo|monasterio|palacio|puente|acueducto|muralla|ermita|torre|colegiata|bas[ií]lica|alc[aá]zar|mezquita|sinagoga|convento|teatro|anfiteatro|arco|capilla|abad[ií]a|fortaleza|alcazaba|santuario|claustro/i;
 const AQ_EPY=/paleol|neol|bronce|hierro|cobre|íberos|iberos|romano|griegos|cenozoico|mesozoico|paleozoico|arte levantino|prehisp|megal|celt|talay|tartes|fenici|egipto|mesopotamia|persia|nubia/i;
 const AQ_YAC=/yacimiento|cueva|abrigo|dolmen|d[oó]lmenes|menhir|castro|necr[oó]polis|villa romana|ciudad romana|oppidum|poblado|huellas|icnitas|cantera|t[uú]mulo|cromlech|naveta|talayot|taula|ruinas/i;
-function aqTipo(l){if(l.t)return l.t;const n=l.nombre||'';return l.t=/museo|centro de interpret|aula arqueol|exposici/i.test(n)?'mus':AQ_YAC.test(n)?'yac':(AQ_MON.test(n)||/^(san|santa|santo|santiago|nuestra se)/i.test(n))?'mon':(l.epoca&&!AQ_EPY.test(l.epoca))?'mon':'yac';}
+function aqTipo(l){if(l.t)return l.t;
+ if(AQ_TIPO[l.tipo])return l.t=AQ_TIPO[l.tipo]; // tipo fijo puesto por el chat «lugares»; «yacimiento» era el valor por defecto de todos, así que ese se deduce
+ const n=l.nombre||'', e=l.epoca||'';
+ if(/museo|centro de interpret|aula arqueol|exposici/i.test(n))return l.t='mus';
+ if(!l.tipo||/villas y cascos/i.test(e)||/casco|ciudad monumental|ciudad vieja|barrio|albaic|juder[ií]a|conjunto hist|villa de |pueblo/i.test(n))return l.t='pob';
+ if(/iglesia|catedral|colegiata|bas[ií]lica|ermita|monasterio|convento|abad[ií]a|capilla|santuario|mezquita|sinagoga|claustro|cartuja|descalzas|clarisas|carmelitas|encarnaci[oó]n|^(san|santa|santo|santiago|nuestra se)/i.test(n))return l.t='igl';
+ if(/castillo|alc[aá]zar|alcazaba|fortaleza|torre|muralla|castell/i.test(n)||/castillos/i.test(e))return l.t='cas';
+ if(AQ_YAC.test(n))return l.t='yac';
+ if(/palacio|puente|acueducto|teatro|anfiteatro|arco|circo|termas|faro|jard[ií]n|plaza|casa |monumento/i.test(n))return l.t='mon';
+ return l.t=(e&&!AQ_EPY.test(e))?'mon':'yac';}
 let LEAF=null;
 function loadLeaflet(){if(window.L&&window.L.map)return Promise.resolve();if(LEAF)return LEAF;
  LEAF=new Promise((ok,ko)=>{const c=document.createElement('link');c.rel='stylesheet';c.href='https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';document.head.appendChild(c);
@@ -992,7 +1002,7 @@ function aqPopup(l){const d=LASTPT?km(LASTPT,[l.lat,l.lon]):null;
  const f=(l.eventos||[]).filter(e=>e.startsWith('f:')).map(e=>e.slice(2)).filter(k=>IDX.fichas[k]).slice(0,3);
  const tx=strip(l.texto&&(l.texto.general||Object.values(l.texto)[0])).slice(0,180);
  return `<div class="aq-pp"><h3>${AQI[l.t]} ${esc(l.nombre)}</h3><div class="k">${AQN[l.t]}${l.epoca?' · '+esc(l.epoca):''}${l.provincia?' · '+esc(l.provincia):''}${d!=null?' · '+(d<1?'aquí':Math.round(d)+' km'):''}</div>${esc(tx)}…<a href="#/l/${l.id}">Ver el lugar completo ›</a>${f.map(k=>`<a href="#/f/${k}">📖 ${esc(IDX.fichas[k].t)}</a>`).join('')}</div>`;}
-function aqDraw(){const M=AQ.M;if(!M||!LUG)return;AQ.layer.clearLayers();const b=M.getBounds().pad(.2),big=M.getZoom()>=10,cnt={mon:0,yac:0,mus:0};
+function aqDraw(){const M=AQ.M;if(!M||!LUG)return;AQ.layer.clearLayers();const b=M.getBounds().pad(.2),big=M.getZoom()>=10,cnt={pob:0,igl:0,cas:0,mon:0,yac:0,mus:0};
  LUG.lugares.forEach(l=>{if(l.lat==null||!b.contains([l.lat,l.lon]))return;const t=aqTipo(l);cnt[t]++;if(!AQ.on[t])return;
   const ic=window.L.divIcon({className:'',html:big?`<span class="aq-dot mk ${t}">${AQI[t]}</span>`:`<span class="aq-dot ${t}" style="width:14px;height:14px;border-width:1.5px"></span>`,iconSize:big?[30,30]:[14,14],iconAnchor:big?[15,15]:[7,7]});
   window.L.marker([l.lat,l.lon],{icon:ic}).bindPopup(()=>aqPopup(l)).addTo(AQ.layer);});
