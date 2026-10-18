@@ -737,14 +737,18 @@
    "voz_n": "Leda",
    "viva": "img/vivas/paleolitico-16.mp4",
    "g": 142,
-   "voz_g": "Achird"
+   "voz_g": "Achird",
+   "p": 669,
+   "voz_p": "Achird"
   },
   "paleolitico-2": {
    "g": 152,
    "voz_g": "Gacrux",
    "n": 76,
    "voz_n": "Leda",
-   "viva": "img/vivas/paleolitico-2.mp4"
+   "viva": "img/vivas/paleolitico-2.mp4",
+   "p": 771,
+   "voz_p": "Gacrux"
   },
   "paleolitico-3": {
    "g": 158,
