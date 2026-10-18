@@ -1,5 +1,5 @@
 // HistoKHB — service worker: la app abre sin conexión con lo ya visto.
-const V='hk-v249';
+const V='hk-v250';
 const SHELL=['./','index.html','manifest.json','datos/indice.json','img/icono-192.png'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(V).then(c=>c.addAll(SHELL)).then(()=>self.skipWaiting()));});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==V).map(k=>caches.delete(k)))).then(()=>self.clients.claim()));});
