@@ -1,0 +1,642 @@
+{
+ "zona": "La Rioja",
+ "nuevos": [
+  {
+   "id": "monasterio-de-san-millan-de-yuso",
+   "nombre": "Monasterio de San Millán de Yuso",
+   "provincia": "La Rioja",
+   "comarca": "San Millán de la Cogolla",
+   "lat": 42.3258,
+   "lon": -2.8658,
+   "tipo": "iglesia",
+   "estilo": "Renacimiento y barroco",
+   "epoca": "Renacimiento",
+   "anio": 1053,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Al pie del monte donde vivió San Millán, el rey <b>García Sánchez III de Navarra</b> mandó levantar en <b>1053</b> un nuevo monasterio, el «de abajo» (Yuso), frente al primitivo de Suso, el «de arriba». Aquel edificio románico se derribó por completo y en el <b>siglo XVI</b> se reconstruyó a lo grande, con la iglesia en gótico tardío, el claustro bajo de <b>Juan Pérez de Solarte</b> (desde 1549) y la portada barroca de Pablo de Basave y Diego de Lizarraga.</p><p>Su gran fama viene de los libros. En su archivo se guardaba el <b>códice 60</b>, con las <b>Glosas Emilianenses</b>: anotaciones al margen que contienen las primeras frases en castellano y palabras en vascuence. Conserva además dos cartularios, el Galicano y el Bulario, y unos trescientos documentos originales.</p><p>En <b>1878</b> llegaron los <b>Agustinos Recoletos</b>, que lo ocuparon para formar misioneros destinados a Filipinas y emprendieron su rehabilitación. Desde el <b>4 de diciembre de 1997</b> es <b>Patrimonio de la Humanidad</b>, junto con Suso.</p><p class=\"dato\"><span>¿Sabías que…?</span>Las arquetas de San Millán y San Felices estaban forradas de oro y piedras preciosas, pero en 1809 los soldados de Napoleón las arrancaron; aún se conservan los marfiles románicos del siglo XI.</p>"
+   },
+   "ver_alli": [
+    "Recorre el claustro bajo renacentista y asómate a la iglesia de gótico tardío.",
+    "En la sacristía, fíjate en la colección de cobres pintados.",
+    "Busca los marfiles románicos de las arquetas de San Millán y San Felices."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Millán_de_Yuso"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-canas",
+   "nombre": "Monasterio de Cañas (Santa María de San Salvador)",
+   "provincia": "La Rioja",
+   "comarca": "Cañas",
+   "lat": 42.3922,
+   "lon": -2.8444,
+   "tipo": "iglesia",
+   "estilo": "Cisterciense, románico y gótico",
+   "epoca": "Gótico",
+   "anio": 1170,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>El <b>9 de abril de 1170</b>, <b>Lope Díaz de Haro</b> y su esposa Aldonza Rodríguez donaron tierras en Cañas y Canillas a unas monjas cistercienses, que se trasladaron desde Hayuela y levantaron aquí su abadía. </p><p>La iglesia creció en tres etapas: quedan pocos restos románicos en la parte baja de los ábsides; la cabecera hasta el crucero es <b>gótica del siglo XIII</b>, y la nave central se terminó tras el siglo XVI. Lo que la hace única son sus <b>veinte grandes ventanales</b> cerrados con <b>láminas de alabastro blanco</b> en lugar de vidrieras, que tamizan la luz.</p><p>En la <b>sala capitular</b>, de bóveda apoyada en una sola columna con capitel en forma de palmera, se guarda el sepulcro de la <b>beata Urraca Díaz de Haro</b>, de finales del XIII o comienzos del XIV. La antigua cilla, que fue bodega y almacén, es hoy museo. Es Monumento Nacional desde <b>1943</b>.</p>"
+   },
+   "ver_alli": [
+    "Entra en la iglesia y mira cómo entra la luz por los ventanales de alabastro.",
+    "En la sala capitular, fíjate en la columna central con capitel de palmera.",
+    "Busca el sepulcro gótico de la beata Urraca."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Cañas"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-valvanera",
+   "nombre": "Monasterio de Valvanera",
+   "provincia": "La Rioja",
+   "comarca": "Anguiano",
+   "lat": 42.2308,
+   "lon": -2.8704,
+   "tipo": "iglesia",
+   "estilo": "Gótico tardío",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>A algo más de <b>1000 metros</b> de altitud,, está el santuario de la <b>Virgen de Valvanera</b>, patrona de La Rioja. Según la tradición, un ladrón arrepentido, <b>Nuño Oñez</b>, encontró la imagen en el hueco de un roble guiado por un ángel. La historia se puso por escrito en latín y se tradujo en <b>1419</b>.</p><p>El lugar fue eremitorio en el último tercio del siglo IX; el primer abad conocido, Don Sancho, aparece en <b>990</b>. Se consagró una iglesia prerrománica en <b>1073</b> y otra románica en <b>1183</b>. La actual, de una sola nave en forma de cruz, es de <b>gótico tardío de finales del siglo XIV</b>.</p><p>La comunidad benedictina lo cuidó durante unos diez siglos. Sufrió la Guerra de la Independencia en <b>1809</b> y la exclaustración de 1835, y en <b>1883</b> volvieron monjes llegados de Montserrat.</p>"
+   },
+   "ver_alli": [
+    "Sube al camarín de la Virgen, construido en 1630.",
+    "Fíjate en la nave gótica de una sola planta en cruz.",
+    "Disfruta del paisaje de montaña: buena parte del encanto es el entorno."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Valvanera"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-maria-de-palacio-logrono",
+   "nombre": "Iglesia de Santa María de Palacio (Logroño)",
+   "provincia": "La Rioja",
+   "comarca": "Logroño",
+   "lat": 42.4681,
+   "lon": -2.4444,
+   "tipo": "iglesia",
+   "estilo": "Gótico y barroco",
+   "epoca": "Gótico",
+   "anio": 1130,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Su nombre recuerda un regalo real: en <b>1130</b> el rey <b>Alfonso VII</b> donó su palacio de Logroño para la primera fundación de la <b>Orden del Santo Sepulcro</b> en Castilla. Por eso la iglesia lleva también el título de <b>imperial</b>.</p><p>Su silueta inconfundible es <b>«la Aguja»</b>: una linterna octogonal del <b>siglo XIII</b> rematada por una flecha de ocho caras. En 1671 ya amenazaba con caerse; hubo que reforzarla y las obras terminaron en <b>1750</b>, aunque a cambio perdió los ventanales inferiores y el templo se volvió más oscuro.</p><p>Los tres últimos tramos de la nave son góticos del XIII; crucero y cabecera se rehicieron entre los siglos XV y XVI. El retablo mayor, manierista, se atribuye a <b>Arnao de Bruselas</b>. Del claustro primitivo solo queda el lado oeste.</p><p class=\"dato\"><span>¿Sabías que…?</span>El retablo iba destinado a La Redonda, pero el cabildo lo rechazó por llevar los escudos del donante, y acabó aquí.</p>"
+   },
+   "ver_alli": [
+    "Busca desde la calle la aguja piramidal de ocho caras.",
+    "Dentro, mira el retablo mayor manierista atribuido a Arnao de Bruselas.",
+    "Asómate al lado oeste del claustro, el único que queda del primitivo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santa_María_de_Palacio_(Logroño)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santiago-el-real-logrono",
+   "nombre": "Iglesia de Santiago el Real (Logroño)",
+   "provincia": "La Rioja",
+   "comarca": "Logroño",
+   "lat": 42.4679,
+   "lon": -2.4476,
+   "tipo": "iglesia",
+   "estilo": "Gótico tardío y barroco",
+   "epoca": "Gótico",
+   "anio": 1513,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>En el casco viejo de Logroño se levanta la iglesia del apóstol Santiago. La actual se construyó entre <b>1513 y 1527</b>, tras el incendio de la anterior, como una enorme <b>nave única sin columnas</b> de unos <b>42 metros de largo y 24 de alto</b>. La torre se levantó entre 1570 y 1573.</p><p>La portada sur, encargada a <b>Juan Raón</b> (1669-1672), es un gran retablo de piedra. Allí cabalga un monumental <b>Santiago Matamoros</b> de 1737, acompañado de un Santiago peregrino. Dentro, el retablo mayor (terminado en 1656) dedica su tercer piso a la legendaria <b>batalla de Clavijo</b>.</p><p>Aquí se venera a la <b>Virgen de la Esperanza</b>, imagen gótica del siglo XIV, patrona y alcaldesa mayor de Logroño. Según la tradición, la ciudad se encomendó a ella durante el sitio francés de 1521.</p>"
+   },
+   "ver_alli": [
+    "Delante de la portada sur, busca el gran Santiago Matamoros a caballo.",
+    "Dentro, impresiona la nave única sin columnas.",
+    "Fíjate en el tercer piso del retablo mayor: la batalla de Clavijo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santiago_el_Real_(Logroño)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "puente-de-piedra-logrono",
+   "nombre": "Puente de Piedra (Logroño)",
+   "provincia": "La Rioja",
+   "comarca": "Logroño",
+   "lat": 42.4701,
+   "lon": -2.4438,
+   "tipo": "monumento",
+   "estilo": "Ingeniería del siglo XIX",
+   "epoca": "Siglo XIX",
+   "anio": 1884,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Por aquí entra en Logroño el <b>Camino de Santiago</b>. Ya el Fuero de <b>1095</b> cita la «cabeza del Puente de San Juan», y la tradición atribuye el puente medieval a <b>San Juan de Ortega</b>. Tenía <b>doce arcos</b>, unos 200 metros de largo y <b>tres torreones</b> defensivos, uno de ellos con puente levadizo.</p><p>El río fue minándolo: una gran riada en <b>1775</b> derribó el primer torreón, en 1850 se tiraron las torres en ruinas y en <b>1871</b> otra crecida obligó a demoler los últimos arcos. En 1880 una barca de pontoneros zozobró mientras se cruzaba el Ebro y murieron <b>90 soldados</b>.</p><p>El puente actual, con proyecto de <b>Fermín Manso de Zúñiga</b>, se inauguró el <b>11 de junio de 1884</b>, en las fiestas de San Bernabé. Tiene <b>siete arcos</b> de bóveda elíptica y <b>198 metros</b> de longitud.</p>"
+   },
+   "ver_alli": [
+    "Crúzalo a pie desde la orilla izquierda, como los peregrinos.",
+    "Fíjate en los tres arcos centrales, más anchos que los laterales.",
+    "Desde la orilla, mira el perfil del casco viejo y las torres de la ciudad."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Puente_de_Piedra_(Logroño)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-sajazarra",
+   "nombre": "Castillo de Sajazarra",
+   "provincia": "La Rioja",
+   "comarca": "Sajazarra",
+   "lat": 42.5893,
+   "lon": -2.9601,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Es uno de los castillos mejor conservados de La Rioja. El actual es <b>del siglo XV</b> (en 1463 estaba en obras), levantado sobre otro de los siglos XII y XIII. A finales de ese siglo la villa pasó a ser señorío de los <b>Velasco</b>.</p><p>Tiene planta rectangular, con una <b>torre del homenaje</b> en el centro rodeada por un recinto. La torre lleva <b>torreones octogonales</b> en las esquinas, y el recinto cubos en los ángulos; <b>matacanes corridos</b> coronan torre, torreones y puerta.</p><p>La torre se desplomó en <b>1956</b> y se reconstruyó en 1970-1971. Es de <b>propiedad privada</b> y desde 1973 alberga una bodega, así que se ve por fuera.</p>"
+   },
+   "ver_alli": [
+    "Rodéalo para ver los torreones octogonales de la torre del homenaje.",
+    "Fíjate en los matacanes corridos sobre la puerta del muro sur.",
+    "Pasea después por el pequeño casco de Sajazarra."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Sajazarra"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-clavijo",
+   "nombre": "Castillo de Clavijo",
+   "provincia": "La Rioja",
+   "comarca": "Clavijo",
+   "lat": 42.3502,
+   "lon": -2.4273,
+   "tipo": "castillo",
+   "estilo": "Fortaleza altomedieval",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Sobre un peñasco que domina los valles al sur de Logroño, el castillo de Clavijo se adapta a la roca con una planta alargada. Se fecha en torno al <b>siglo X u XI</b>, aunque no se sabe con seguridad si lo construyeron cristianos o musulmanes. Se conservan la muralla, una <b>puerta con arco de herradura</b> y, junto a ella, la torre del homenaje, hoy muy deteriorada.</p><p>Su nombre está unido a la <b>batalla de Clavijo</b>, en la que, según la leyenda, el apóstol <b>Santiago</b> ayudó a las tropas de <b>Ramiro I de Asturias</b> frente a las de Abderramán II. Es un relato legendario, ligado al llamado Voto de Santiago.</p><p>Hoy pertenece al Gobierno de La Rioja.</p>"
+   },
+   "ver_alli": [
+    "Entra por la puerta con arco de herradura.",
+    "Sube a lo alto: se domina el valle y, a lo lejos, Logroño.",
+    "Ve con calzado firme: el acceso tiene tramos de roca."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Clavijo"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-davalillo",
+   "nombre": "Castillo de Davalillo",
+   "provincia": "La Rioja",
+   "comarca": "San Asensio",
+   "lat": 42.5391,
+   "lon": -2.7327,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>En un cerro que domina el <b>Ebro</b>, a unos 5 km de San Asensio, se alza este castillo de la antigua frontera con Navarra. Probablemente se levantó en tiempos de <b>Alfonso VIII</b>, entre finales del siglo XII y comienzos del XIII, y aparece en los documentos en <b>1367</b>.</p><p>Tiene una curiosa <b>planta de siete lados</b>, de sillería de arenisca, con torrecillas redondas y una <b>torre del homenaje</b> cuadrada de cuatro pisos. La tenencia estuvo ligada a los <b>Manrique</b>, duques de Nájera, aunque el castillo era del rey.</p><p>A sus pies queda la ermita de Nuestra Señora de Davalillo, probablemente iglesia del pueblo desaparecido del mismo nombre, que se despobló por las luchas entre los Manrique y los Velasco. En 2018 el castillo pasó a manos de una bodega y en 2019 comenzó su rehabilitación.</p>"
+   },
+   "ver_alli": [
+    "Sube a pie al cerro: las vistas sobre el Ebro y la Sonsierra son el premio.",
+    "Rodea la cerca para apreciar la planta de siete lados.",
+    "Busca abajo la ermita de Davalillo, resto del pueblo desaparecido."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Davalillo"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-la-piedad-casalarreina",
+   "nombre": "Monasterio de Nuestra Señora de la Piedad (Casalarreina)",
+   "provincia": "La Rioja",
+   "comarca": "Casalarreina",
+   "lat": 42.547,
+   "lon": -2.914,
+   "tipo": "iglesia",
+   "estilo": "Gótico tardío y plateresco",
+   "epoca": "Renacimiento",
+   "anio": 1514,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Las obras empezaron en <b>1514</b> por orden de <b>Juan Fernández de Velasco</b>, obispo de Calahorra y de Palencia. Las trazas fueron de <b>Juan Gil de Hontañón</b>, que visitó la obra en 1516 con su hijo Rodrigo, cuando trabajaba allí el taller de <b>Felipe Bigarny</b>. Se destinó a monjas <b>dominicas</b>.</p><p>Su joya es la <b>portada</b>, una fachada-retablo esculpida antes de 1530 por Juan de Balmaseda, Cristóbal de Forcia y Juan de Cabreros, que mezcla el gótico final con el primer Renacimiento.</p><p>En marzo de <b>1522</b> el papa <b>Adriano VI</b>, de camino a Roma, se alojó en el palacio de los Velasco de Casalarreina y bendijo el monasterio. Es Bien de Interés Cultural desde <b>1977</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>Se dice que es el único monasterio de España consagrado por un papa.</p>"
+   },
+   "ver_alli": [
+    "Detente ante la portada-retablo y recorre su decoración escultórica.",
+    "Fíjate en la mezcla de gótico final y decoración renacentista.",
+    "En el pueblo sigue en pie el palacio de los Velasco, donde durmió el papa."
+   ],
+   "fuentes": [
+    "https://es.hispanopedia.com/wiki/Casalarreina",
+    "https://en.wikipedia.org/wiki/Monastery_of_Santa_Maria_de_la_Piedad_(Casalarreina)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "real-fabrica-de-panos-ezcaray",
+   "nombre": "Real Fábrica de Paños de Ezcaray",
+   "provincia": "La Rioja",
+   "comarca": "Ezcaray",
+   "lat": 42.3277,
+   "lon": -3.0137,
+   "tipo": "monumento",
+   "estilo": "Arquitectura industrial del siglo XVIII",
+   "epoca": "Ilustración y Neoclásico",
+   "anio": 1752,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Ezcaray fue en el siglo XVIII un pequeño centro industrial. En <b>1752</b>, con el apoyo del <b>marqués de la Ensenada</b>, nació aquí una fábrica de paños que recibió el nombre de <b>Santa Bárbara</b>, por doña Bárbara de Braganza, esposa de Fernando VI.</p><p>En <b>1773</b>, con <b>Carlos III</b>, obtuvo el privilegio de Compañía Real: «Compañía Real de San Carlos y Santa Bárbara de la villa de Ezcaray». Tras un incendio en <b>1785</b> que arrasó buena parte de la fábrica, se levantó la Casa de Tintes, llamada <b>«El Fuerte»</b>, con materiales incombustibles.</p><p>A comienzos del siglo XIX empezó su declive por el retraso técnico. Es Bien de Interés Cultural desde <b>1992</b> y hoy funciona como albergue.</p>"
+   },
+   "ver_alli": [
+    "Mira el conjunto de la antigua fábrica desde la avenida de Santo Domingo.",
+    "Busca «El Fuerte», la casa de tintes reconstruida tras el incendio de 1785.",
+    "Completa la visita con un paseo por el casco de Ezcaray."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Real_Fábrica_de_Paños_de_Ezcaray"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "haro",
+   "nombre": "Haro",
+   "provincia": "La Rioja",
+   "comarca": "Haro",
+   "lat": 42.577,
+   "lon": -2.8468,
+   "tipo": "poblacion",
+   "estilo": "Renacimiento y barroco",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1187,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Haro aparece por escrito en <b>1040</b> y recibió fuero de <b>Alfonso VIII en 1187</b>. Fue cuna del señorío de los <b>López de Haro</b>, señores de Vizcaya, y desde 1430 los condes de Haro fueron los Fernández de Velasco. Tiene título de ciudad desde <b>1891</b> y su casco es conjunto histórico-artístico desde <b>1975</b>.</p><p>El centro es la <b>plaza de la Paz</b>, con el ayuntamiento neoclásico (inscripción de 1769, bajo Carlos III). Subiendo por calles de palacios se llega a la iglesia de <b>Santo Tomás</b>, con una <b>portada plateresca de Felipe Bigarny</b> (1512-1525) y una torre barroca que sirvió de modelo a otras de La Rioja.</p><p>Bajo el casco, el <b>barrio de la Estación</b> nació cuando llegó el tren en <b>1863</b> y las bodegas se instalaron junto a las vías. Hoy concentra muchas bodegas centenarias.</p>"
+   },
+   "ver_alli": [
+    "Empieza en la plaza de la Paz, frente al ayuntamiento.",
+    "Sube a Santo Tomás y detente ante la portada plateresca.",
+    "Baja al barrio de la Estación para ver las grandes bodegas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Haro",
+    "https://es.hispanopedia.com/wiki/Iglesia_de_Santo_Tom%C3%A1s_(Haro)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-cornago",
+   "nombre": "Castillo de Cornago",
+   "provincia": "La Rioja",
+   "comarca": "Cornago",
+   "lat": 42.066,
+   "lon": -2.0962,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Sobre el pueblo de Cornago, en la Rioja Baja, se alza un castillo de <b>planta rectangular</b> con <b>cuatro torres</b> en las esquinas: tres cilíndricas, de tamaños distintos, y una cuadrada. Se construyó en el <b>siglo XIII</b>, en tiempos de Fernando III, sobre los restos de una fortaleza anterior.</p><p>Tras la guerra entre Pedro I y Enrique de Trastámara, Enrique lo entregó a <b>Juan Martínez de Luna</b>. Desde entonces fue de la familia <b>Luna</b>, «señores de Jubera y Cornago», un linaje al que perteneció el célebre valido <b>Álvaro de Luna</b>.</p><p>Desde el siglo XIX hasta los años ochenta del XX su patio sirvió de <b>cementerio</b>. Después empezó la rehabilitación, que dejó al descubierto un silo a 7 metros de profundidad y un pozo o aljibe.</p>"
+   },
+   "ver_alli": [
+    "Fíjate en que cada torre es distinta: tres redondas y una cuadrada.",
+    "Busca las almenas que aún conserva una de las torres de la entrada.",
+    "Asómate a las vistas desde lo alto del pueblo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Cornago"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-aguas-mansas-agoncillo",
+   "nombre": "Castillo de Aguas Mansas (Agoncillo)",
+   "provincia": "La Rioja",
+   "comarca": "Agoncillo",
+   "lat": 42.4462,
+   "lon": -2.2916,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>En el centro de Agoncillo, cerca de Logroño, este castillo de <b>sillería</b> tiene planta casi rectangular y <b>cuatro torres</b> en las esquinas que conservan sus matacanes. Se levantó en dos etapas, a mediados del <b>siglo XIV</b> y a fines del XV, sobre una construcción anterior.</p><p>En <b>1337</b> lo compró <b>Rodrigo Alfonso de Medrano</b>, ballestero de Alfonso XI, y sus descendientes, los condes de Siruela, lo habitaron hasta el siglo XIX. El escudo de los Medrano con la cruz de Calatrava sigue sobre la portada oriental.</p><p>La torre del homenaje, la más alta, tiene cuatro plantas con bóvedas de cañón apuntado. El patio se rehízo en el siglo XVI como un claustro de dos alturas. Tras su restauración en <b>1990</b> alberga el <b>Ayuntamiento</b> y la biblioteca.</p>"
+   },
+   "ver_alli": [
+    "Busca el escudo de los Medrano sobre la portada oriental.",
+    "Fíjate en los matacanes que coronan las cuatro torres.",
+    "Si puedes entrar, mira el patio claustral del siglo XVI."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Aguas_Mansas"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "contrebia-leucade",
+   "campos": {
+    "lat": 41.9778,
+    "lon": -1.9713,
+    "estilo": "Oppidum celtíbero y romano",
+    "texto": {
+     "general": "<p>Sobre dos cerros junto al río Alhama, en un meandro cuyo acantilado defendía media ciudad, se levantó <b>Contrebia Leucade</b>, la «ciudad blanca» de los celtíberos. La otra mitad se cerraba con una muralla y un <b>foso tallado en la roca de casi 700 metros</b>, de 7 a 9 de ancho y hasta 8 de profundidad. El lugar estuvo habitado unos dos mil años, desde un poblado de la primera Edad del Hierro hasta su abandono hacia el siglo IX, pasando por la ciudad celtíbera, la romana y un asentamiento visigodo.</p><p>Sus defensas la hicieron famosa. Roma la conquistó en la campaña del <b>143-142 a. C.</b>: Quinto Cecilio Metelo solo pudo entrar por sorpresa en aquella «inexpugnable ciudad hispánica». En el <b>77 a. C.</b> Sertorio la tomó tras un asedio de 44 días, cuando logró abrir brecha y derribar una de sus torres. Tito Livio cuenta el episodio, y Blas Taracena identificó las ruinas en los años veinte del siglo pasado.</p><p>Como en Tiermes, sus casas se apoyaban en la roca de la ladera, en terrazas talladas, y todavía se ven las calles y los huecos de vigas y escaleras; por eso las dos ciudades se recorren casi como ciudades rupestres. Conserva además cloacas de grandes losas y un pozo excavado en la roca, con escalera, que bajaba hasta el agua del río para resistir los asedios.</p>"
+    },
+    "ver_alli": [
+     "El gran foso tallado en la roca, junto a la muralla.",
+     "Las calles y las casas excavadas en la ladera, con los huecos de vigas y escaleras.",
+     "El pozo con escalera labrada que bajaba hasta el agua del Alhama.",
+     "El centro de interpretación está en Aguilar del Río Alhama, a unos 2 km; la visita guiada se reserva allí."
+    ],
+    "fuentes": [
+     "https://celtiberiahistorica.es/en/exposicion-viva/contrebia-leukade-aguilar-del-rio-alhama",
+     "https://es.wikipedia.org/wiki/Contrebia_Leucade",
+     "https://www.google.com/maps/place/?q=place_id:ChIJGZd3L6L8Wg0RwKBGfc7XTkw",
+     "https://www.openstreetmap.org/?mlat=41.97564&mlon=-1.96993#map=18/41.97564/-1.96993"
+    ]
+   }
+  },
+  {
+   "id": "calahorra",
+   "campos": {
+    "lat": 42.3043,
+    "lon": -1.9578,
+    "estilo": "Romano",
+    "texto": {
+     "general": "<p>Sobre el poblado de Kalakorikos creció <b>Calagurris</b>, una de las grandes ciudades romanas del valle del Ebro. Aliada de <b>Sertorio</b>, siguió fiel a su causa incluso tras su muerte, y en el <b>72 a. C.</b> resistió el cerco de las tropas de Pompeyo hasta el hambre extrema, con casos de canibalismo según las crónicas: es la <i>fames calagurritana</i>, que simboliza la estatua de la Matrona.</p><p>Después Roma la premió. Recibió los títulos de <i>Nassica</i> y de <i>Iulia</i>, la ciudadanía romana como municipio, y tuvo foro, termas, cloacas, teatro y un circo en el actual paseo del Mercadal. Fue también patria del orador <b>Quintiliano</b> y del poeta cristiano <b>Prudencio</b>.</p><p>El punto de la app está en el yacimiento de <b>La Clínica</b>, con edificios del siglo I habitados hasta la segunda mitad del III: un edificio suntuoso decorado con columnas y estucos, un conjunto termal y una cloaca. Quedaron fuera de la nueva muralla del siglo III y se abandonaron.</p>"
+    },
+    "ver_alli": [
+     "En La Clínica, el conjunto termal, la cloaca y los restos del edificio de columnas.",
+     "Los restos de la muralla del siglo III, en las traseras de la calle San Blas.",
+     "El paseo del Mercadal, sobre el antiguo circo romano.",
+     "La Clínica se visita en grupo con cita previa; el Museo de la Romanización, que guarda la Dama Calagurritana, estaba cerrado por obras a principios de 2026."
+    ],
+    "fuentes": [
+     "https://nuevecuatrouno.com/2026/01/13/calahorra-rioja-museos-aumento-visitantes/",
+     "https://es.wikipedia.org/wiki/Calahorra",
+     "https://calahorra.es/wp-content/uploads/2021/11/arqueologia.pdf",
+     "https://nuevecuatrouno.com/2024/03/06/calahorra-visitas-guiadas-yacimientos-arqueologicos/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJtV6fqoOPWg0RV-Ye28GY6vc",
+     "https://www.openstreetmap.org/?mlat=42.30437&mlon=-1.95797#map=18/42.30437/-1.95797"
+    ]
+   }
+  },
+  {
+   "id": "san-millan-suso",
+   "campos": {
+    "lat": 42.3294,
+    "lon": -2.8727,
+    "estilo": "Visigodo, mozárabe y románico",
+    "ver_alli": [
+     "El monasterio está cerrado por obras hasta 2027, con aperturas limitadas puntuales.",
+     "Cuando abre: las cuevas del eremitorio, el cenotafio románico de San Millán y los arcos de herradura mozárabes.",
+     "El suelo de cantos del pórtico y los sepulcros de los siete infantes de Lara.",
+     "El monasterio de Yuso, abajo, en el valle."
+    ],
+    "fuentes": [
+     "https://nuevecuatrouno.com/2026/07/22/las-obras-del-monasterio-de-suso-se-retrasan-hasta-finales-de-la-primavera-de-2027/",
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Millán_de_Suso",
+     "https://www.google.com/maps/place/?q=place_id:ChIJLXKW_myrWg0RpM3r-06dgMI",
+     "https://www.openstreetmap.org/?mlat=42.32932&mlon=-2.87277#map=18/42.32932/-2.87277"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-santa-maria-la-real-de-naj",
+   "campos": {
+    "lat": 42.4166,
+    "lon": -2.7356,
+    "estilo": "Gótico, con añadidos renacentistas y barrocos",
+    "texto": {
+     "general": "<p>Según la leyenda, en 1044 el rey <b>García Sánchez III «el de Nájera»</b> siguió a su halcón hasta una cueva y encontró allí una imagen de la Virgen con un jarro de azucenas, una lámpara y una campana. Mandó levantar un templo que se consagró el <b>12 de diciembre de 1052</b>, y el monasterio se convirtió en panteón de los reyes de Nájera-Pamplona, antecesores de los de Navarra.</p><p>La iglesia románica se sustituyó por la actual, gótica, construida entre <b>1422 y 1453</b>. Dentro, bajo el coro, sigue la cueva de la Virgen, con los sepulcros reales. La sillería gótica del coro es de 1493-1495, y el retablo mayor barroco, de finales del siglo XVII.</p><p>Su joya es el <b>claustro de los Caballeros</b>, terminado en 1517, al que se entra por la puerta de Carlos I, de gótico flamígero. Tras la desamortización de 1835 el conjunto quedó abandonado; en 1889 se declaró monumento nacional y desde 1895 lo cuidan los franciscanos.</p>"
+    },
+    "ver_alli": [
+     "La cueva bajo el coro donde, según la tradición, apareció la Virgen, con el panteón real.",
+     "La sillería gótica del coro y la silla del abad con el rey García.",
+     "El claustro de los Caballeros y la puerta de Carlos I.",
+     "La escalera real, con su cúpula pintada de 1594."
+    ],
+    "fuentes": [
+     "https://www.spain.info/es/lugares-interes/monasterio-santa-maria-real-najera/",
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santa_María_la_Real_(Nájera)",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ_-BRoUtcRQ0RUWVCTAEHIOo",
+     "https://www.openstreetmap.org/?mlat=42.41644&mlon=-2.73577#map=18/42.41644/-2.73577"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-santo-domingo-de-la-calzada",
+   "campos": {
+    "lat": 42.441,
+    "lon": -2.9536,
+    "estilo": "Románico y gótico, torre barroca",
+    "texto": {
+     "general": "<p>La catedral nació junto al Camino de Santiago, en la ciudad que fundó el santo constructor de puentes y calzadas. Alfonso VI donó el terreno en 1098 y la primera iglesia se consagró en 1106. La actual se empezó en <b>1158</b> bajo el maestro Garçion: de él es la cabecera románica, con <b>girola</b> para que los peregrinos pudieran rodear el altar. Las naves son ya góticas, y fue catedral desde el siglo XIII.</p><p>Dentro hay un <b>gallinero</b> con un gallo y una gallina vivos, por la leyenda del peregrino ahorcado: el milagro de la villa «donde cantó la gallina después de asada». Una bula del papa Clemente VI de 1350 permite que haya animales en el templo, algo único en el mundo.</p><p>Fuera se alza la <b>torre exenta</b> barroca de Martín de Beratúa, de 1762: unos 70 metros, la más alta de La Rioja. La portada sur, con los santos patronos en hornacinas, es de 1761-1765.</p>"
+    },
+    "ver_alli": [
+     "El gallinero con el gallo y la gallina, frente al sepulcro del santo.",
+     "La cabecera románica y la girola de peregrinación.",
+     "El retablo de Damián Forment.",
+     "La torre exenta, separada del templo, que puede subirse."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_del_Salvador_(Santo_Domingo_de_la_Calzada)",
+     "https://www.google.com/maps/place/?q=place_id:ChIJp6F7k6N8RQ0RRz8c35tHrtY",
+     "https://www.openstreetmap.org/?mlat=42.44106&mlon=-2.95372#map=18/42.44106/-2.95372"
+    ]
+   }
+  },
+  {
+   "id": "briones",
+   "campos": {
+    "lat": 42.5444,
+    "lon": -2.785,
+    "estilo": "Villa medieval; iglesia gótica y torre barroca",
+    "texto": {
+     "general": "<p>Villa amurallada sobre un cerro encima del Ebro. Tras la muerte de Sancho el de Peñalén, en 1076, pasó con La Rioja a Castilla y quedó en manos de los Haro. En 1240 Fernando III cercó aquí al señor rebelde Diego López III de Haro, y desde entonces fue villa de realengo. En <b>1256</b> Alfonso X le dio el fuero de Vitoria para asegurar la frontera frente a Navarra, y en 1379 se firmó aquí el <b>Tratado de Briones</b> entre Navarra y Castilla.</p><p>En lo alto quedan las ruinas del <b>castillo</b> del siglo XIII: tres muros de la torre del homenaje, con una escalera de caracol que sube a lo alto. Más abajo, la iglesia de la <b>Asunción</b>, del siglo XVI, gótica, con bóvedas estrelladas y una torre barroca de estilo riojano de Martín de Beratúa.</p><p>El casco, con palacios como el del marqués de San Nicolás, hoy ayuntamiento, está protegido como conjunto histórico desde 1973, y Briones forma parte de Los Pueblos más Bonitos de España.</p>"
+    },
+    "ver_alli": [
+     "La iglesia de la Asunción, con sus bóvedas estrelladas y la torre barroca.",
+     "Las ruinas del castillo y la vista sobre el Ebro desde lo alto.",
+     "Los restos de la muralla y los palacios de la plaza.",
+     "Es mejor dejar el coche a la entrada y subir a pie."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Briones",
+     "https://es.hispanopedia.com/wiki/Castillo_de_Briones",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ32b1U86KTw0RW6Te58-o1LM",
+     "https://www.openstreetmap.org/?mlat=42.54438&mlon=-2.78502#map=18/42.54438/-2.78502"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-de-la-piscina",
+   "campos": {
+    "estilo": "Románico",
+    "texto": {
+     "general": "<p>La fundó el infante <b>Ramiro Sánchez</b>, hijo de Sancho Garcés IV, al volver de la expedición a Tierra Santa en la que se atacó Jerusalén, la Primera Cruzada. Según la tradición trajo un fragmento de la Cruz y dejó encargada la ermita en su testamento de 1110. Las obras terminaron en <b>1136</b> y el obispo de Calahorra la consagró en 1137. Su nombre recuerda la piscina de Betesda de Jerusalén.</p><p>Es un románico puro, casi sin añadidos: nave de cuatro tramos con bóveda de cañón, ábside semicircular con canecillos, portada sur de arquivoltas y una torre cuadrada. En el ábside quedan restos de pinturas del siglo XIII; sobre la puerta, el escudo de la cofradía de la Divisa, que se sigue reuniendo aquí cada 15 de agosto.</p><p>Junto a ella hay una <b>necrópolis excavada en la roca</b>, con 49 tumbas de los siglos X al XIV; las más antiguas tienen forma humana.</p>"
+    },
+    "ver_alli": [
+     "El ábside semicircular y sus canecillos.",
+     "Las tumbas antropomorfas talladas en la roca, junto a la ermita.",
+     "El escudo de la Divisa sobre la puerta.",
+     "Exterior libre; el interior se visita de forma concertada o en horario de culto."
+    ],
+    "fuentes": [
+     "https://www.spain.info/es/lugares-interes/iglesia-santa-maria-piscina/",
+     "https://www.wikidata.org/wiki/Q613742",
+     "https://en.wikipedia.org/wiki/Hermitage_of_Santa_Mar%C3%ADa_de_La_Piscina",
+     "https://ninos.kiddle.co/Ermita_de_Santa_María_de_La_Piscina"
+    ]
+   }
+  },
+  {
+   "id": "san-bartolome-de-logrono",
+   "campos": {
+    "lat": 42.4673,
+    "lon": -2.4436,
+    "estilo": "Románico y gótico, torre mudéjar",
+    "texto": {
+     "general": "<p>La iglesia más antigua de Logroño, junto al Camino de Santiago. Se empezó en el siglo XII: románicos son la cabecera y la base de la torre. Las obras siguieron en el XIII ya con el gótico, y es monumento nacional desde 1866.</p><p>Lo mejor es su <b>portada gótica</b>, del siglo XIV y con recuerdos románicos. En 19 escenas cuenta la vida de san Bartolomé: a un lado sus milagros y predicación; al otro, su martirio, desollado vivo, y el santo predicando con su propia piel al hombro. En el tímpano, Cristo entre la Virgen y san Juan.</p><p>Dentro, tres naves con pilares octogonales y una capilla con dos sepulcros góticos de caballeros yacentes, uno con inscripción de 1341. La torre, dañada por la artillería francesa en el cerco de 1521, se rehízo en ladrillo, en estilo mudéjar.</p>"
+    },
+    "ver_alli": [
+     "Las escenas del martirio de san Bartolomé en la portada.",
+     "Los dos sepulcros góticos con caballeros yacentes.",
+     "La torre mudéjar de ladrillo.",
+     "Está en pleno Camino de Santiago, cerca de La Redonda."
+    ],
+    "fuentes": [
+     "https://www.spain.info/es/lugares-interes/iglesia-san-bartolome-logrono/",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Bartolomé_(Logroño)",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ2clXcD-rWg0RE6IHue-ZNq8",
+     "https://www.openstreetmap.org/?mlat=42.46721&mlon=-2.44353#map=18/42.46721/-2.44353"
+    ]
+   }
+  },
+  {
+   "id": "basilica-de-santa-maria-de-los-arcos",
+   "campos": {
+    "lat": 42.4029,
+    "lon": -2.7109,
+    "estilo": "Paleocristiano y visigodo, con yeserías barrocas",
+    "texto": {
+     "general": "<p>Uno de los templos cristianos más antiguos de España, y el monumento más antiguo de La Rioja en uso: desde su origen nunca ha dejado de tener culto. Se levantó sobre un <b>mausoleo romano del siglo III</b> de la ciudad de Tritium Megalon, reutilizando sus piedras. Se suele fechar en el siglo V, aunque algunos investigadores proponen los siglos IX o X.</p><p>Tiene tres naves separadas por arquerías sobre <b>columnas romanas</b> de un edificio del siglo I, las de mayor diámetro de España. Los arcos, de toba, son visigodos, de finales del VI o comienzos del VII. En el siglo XVIII se cubrió por dentro con yeserías barrocas.</p><p>Bajo el suelo aparecieron tumbas de los siglos V y VI, sarcófagos romanos reutilizados y estelas, entre ellas una paleocristiana de mármol de Carrara con el crismón. En la cabecera quedan pinturas románicas de finales del siglo XII, pintadas sobre las originales.</p>"
+    },
+    "ver_alli": [
+     "Las enormes columnas romanas reaprovechadas.",
+     "Los arcos visigodos de toba.",
+     "Las pinturas de la Pasión en la cabecera.",
+     "Se visita con guía voluntario o de forma concertada."
+    ],
+    "fuentes": [
+     "https://www.spain.info/en/places-of-interest/santa-maria-arcos-basilica",
+     "https://es.wikipedia.org/wiki/Basílica_de_Santa_María_de_Arcos",
+     "https://www.google.com/maps/place/?q=place_id:ChIJf0XE92JcRQ0RRjVwo-zaJJc",
+     "https://www.openstreetmap.org/?mlat=42.40289&mlon=-2.7107#map=18/42.40289/-2.7107"
+    ]
+   }
+  },
+  {
+   "id": "concatedral-de-la-redonda",
+   "campos": {
+    "lat": 42.4666,
+    "lon": -2.4455,
+    "estilo": "Gótico y barroco",
+    "texto": {
+     "general": "<p>Iglesia gótica de Logroño con dos torres gemelas barrocas, las «gemelas», que son el símbolo de la ciudad. Su nombre viene de una iglesia románica anterior de planta redonda. Fue colegiata y en 1959 el papa Juan XXIII la hizo concatedral.</p><p>El cuerpo central se construyó entre <b>1516 y 1538</b>, con esbeltas columnas que se abren en las bóvedas como un palmeral de piedra. Las torres, del siglo XVIII, las empezó Juan Bautista de Arbaiza y las terminaron Martín de Beratúa y Francisco Gorbea; miden unos 56 y 58 metros. Entre ellas, una fachada-retablo de piedra.</p><p>Tras el retablo mayor guarda una pequeña pintura de la Crucifixión <b>atribuida a Miguel Ángel</b>: la trajo de Roma el obispo Pedro González del Castillo en el siglo XVII, aunque su autoría no está probada.</p>"
+    },
+    "ver_alli": [
+     "Las dos torres gemelas y la fachada-retablo, desde la plaza del Mercado.",
+     "Las bóvedas de las naves, como un palmeral de piedra.",
+     "El Calvario atribuido a Miguel Ángel, en la girola.",
+     "Las torres tienen mirador visitable."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Concatedral_de_Logroño",
+     "https://nuevecuatrouno.com/2025/07/08/logrono-torres-concatedral-redonda-estreno-mirador-este-jueves/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJeU-RWz-rWg0RBDcH-EEpgQQ",
+     "https://www.openstreetmap.org/?mlat=42.46659&mlon=-2.44524#map=18/42.46659/-2.44524"
+    ]
+   }
+  },
+  {
+   "id": "enciso-icnitas",
+   "campos": {
+    "lat": 42.1482,
+    "lon": -2.2693,
+    "estilo": "Icnitas del Cretácico inferior",
+    "fuentes": [
+     "https://www.xataka.com/magnet/enciso-pequeno-anonimo-pueblo-rioja-uno-donde-hay-1-400-huellas-dinosaurios/amp",
+     "https://www.senditur.com/es/ruta/senda-de-los-dinosaurios-de-enciso/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ27fg3-XHWg0RHdSlnTQFPZg",
+     "https://www.openstreetmap.org/?mlat=42.14821&mlon=-2.26934#map=18/42.14821/-2.26934"
+    ]
+   }
+  },
+  {
+   "id": "igea-riojavenatrix",
+   "campos": {
+    "lat": 42.0683,
+    "lon": -2.0087,
+    "estilo": "Paleontología del Cretácico inferior",
+    "ver_alli": [
+     "El modelo de las patas traseras de Riojavenatrix.",
+     "La réplica a tamaño real de Riojavenatrix en la entrada.",
+     "Las réplicas de dinosaurios del centro.",
+     "Los yacimientos de huellas del valle del Linares, cerca."
+    ],
+    "fuentes": [
+     "https://www.ehu.eus/en/web/campusa-magazine/-/upv-ehu-researchers-discover-a-new-species-of-carnivorous-dinosaur-in-la-rioja",
+     "https://nuevecuatrouno.com/2026/07/01/primer-dinosaurio-dni-rioja-revive-igea-tamano-real/",
+     "https://nuevecuatrouno.com/2024/11/26/rioja-igea-centro-paleontologia-maqueta-dinosaurios/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJhQjDIY3vWg0RyQv0MgYh-gs",
+     "https://www.openstreetmap.org/?mlat=42.0683&mlon=-2.00872#map=18/42.0683/-2.00872"
+    ]
+   }
+  }
+ ]
+}
