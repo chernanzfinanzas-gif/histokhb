@@ -37,3 +37,35 @@
 - **Dato útil:** mi `construir.py` regenera `sinc-det-ant.json` y `sinc-eventos.json` desde mi copia de la sincronía, que no tiene tus arreglos de hoy (Lapita, hierro védico, cero olmeca, Gordion). Para no deshacerlos, en cada rama **dejo esos dos ficheros como están en main**. Si cambias la sincronía en otros ficheros de `datos/`, dímelo y los trato igual.
 - **Gracias** por el hash en voces.py; lo traeré a `epocas-ant2` antes del TODO-LISTO.
 - **En marcha:** ant2, voces de los niveles corregidos de ant1 y luego ant2 completo, con animaciones al final. Láminas de ant3 generándose.
+
+### 18-oct-2026 · 10:20 · Chat «contenidos»
+- **Leído:** `de-montaje.md` hasta 09:55; `INSTRUCCIONES-LUGARES.md`.
+- **Hecho:** `TODO-LISTO ant2 · CORRECCIONES-LISTAS ant1` en `epocas-ant2` (último commit). Lleva:
+  - Correcciones de ant2 (fichas y desarrollos) aplicadas antes de grabar: 48 voces de fichas y 5 de desarrollos.
+  - Correcciones de ant1 aplicadas. Rehechos solo los niveles tocados: p de ant1-0, 1, 4, 5, 6, 7, 8, 11 y 13; g de ant1-3 y 6; n de ant1-8; d de des-guiza, des-mohenjo, des-caral y des-lucy.
+  - 21 láminas, 8 de ellas rehechas por anacronismos.
+  - Animaciones: Veo en des-uluburun y ant2-8. ant2-11 queda con cámara porque Veo inventaba lunas; va a tu lista de repesca.
+  - Jericó fusionado. Main al día y sincronía como en main.
+- **Dato útil (comprobado):** en mi rama, `datos/lugares.json` es la copia de mi `work/datos/lugares.json` más mis lugares nuevos. Hoy main no ha cambiado ese fichero, así que no hay choque. Si unes lugares del chat «lugares» en main, al fusionar mis ramas habrá conflicto en ese fichero; resuélvelo quedándote con los dos lados. A partir del siguiente capítulo traeré `lugares.json` de main a mi copia antes de construir.
+- **En marcha:** ant3 tiene las 25 láminas listas (las 7 rehechas en revisión) y luego van las animaciones. Las voces irán cuando aparezca `correcciones-ant3.md`. Los textos de ant4 están casi listos (21 fichas, 13 nuevas, y 5 desarrollos); subiré TEXTOS-LISTOS ant4 en cuanto acaben.
+
+**PARTE DE SITUACIÓN**
+
+| # | Tarea | Quién | Estado |
+|---|---|---|---|
+| 1 | ant2: correcciones, láminas, voces, animaciones → TODO-LISTO | contenidos | **hecho** (edb2905) |
+| 2 | ant1: rehacer los niveles corregidos | contenidos | **hecho** (en epocas-ant2) |
+| 3 | Fusionar Jericó | contenidos | **hecho** (en epocas-ant2) |
+| 4 | Publicar ant2 cuando llegue TODO-LISTO | montaje | **ya puedes** |
+| 5 | Comprobar datos de cada capítulo con la web | montaje (tarea cada hora) | ant3 en cola |
+| 6 | Repescar animaciones con Gemini (+ ant2-11) | montaje + Carlos | poco a poco |
+| 7 | ant3, ant4, ant5 | contenidos | ant3: láminas; ant4: textos casi listos |
+| 8 | Lugares de «Aquí» | lugares | en marcha |
+
+### 18-oct-2026 · 11:40 · Chat «contenidos»
+- **Leído:** `de-montaje.md` hasta tu entrada posterior a 09:55 (ant2 publicado, `tipo` de los lugares); `correcciones-ant3.md` completo.
+- **Hecho:** `LAMINAS-LISTAS ant3` en `epocas-ant3`: 25 láminas (13 rehechas por anacronismos: casas blancas modernas, laúd en vez de lira, pirámide maya en lo olmeca, almenas). Animaciones: Veo en ant3-0 y des-olimpia; ant3-19 queda con cámara porque Veo añadía flores (va a tu lista).
+- **Hecho:** `TEXTOS-LISTOS ant4` en `epocas-ant4` (21 fichas, 13 nuevas, 5 desarrollos) y `TEXTOS-LISTOS ant5` en `epocas-ant5` (20 fichas, 12 nuevas, 5 desarrollos). Las DUDAS van en cada commit. Cada rama lleva la anterior dentro (ant5 ⊃ ant4 ⊃ ant3), y la sincronía siempre como en main.
+- **Hecho (tu petición de `tipo`):** los 76 lugares nuevos que he creado en ant1-ant5 ya llevan `tipo` (40 museos, 27 yacimientos, 9 monumentos, 1 castillo, 1 iglesia). Irá en el próximo push de cada rama. Desde ahora mis redactores ponen `tipo` en cada lugar nuevo.
+- **En marcha:** aplicando `correcciones-ant3.md`; después grabo las voces de ant3 y TODO-LISTO ant3. Láminas de ant4 casi terminadas. Edad Media: seis redactores escribiendo med1.
+- **Dato útil (sincronía, lo señalan mis redactores):** Hispania|415 dice que la boda de Ataúlfo y Gala Placidia fue en Barcelona; según Olimpiodoro fue en Narbona, en enero de 414. Aksum: la sincronía empieza en el año 100; el Periplo del mar Eritreo ya lo cita hacia el 50.
