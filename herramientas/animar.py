@@ -5,6 +5,9 @@
 # una hoja con 3 fotogramas (inicio, mitad, final) de cada una. REVISARLA SIEMPRE: si aparece o desaparece algo,
 # cambian caras/personas, sale texto, anacronismos (p. ej. bosques donde no los había) o la escena se transforma,
 # pasar esa lámina a --camara. Precio orientativo ~0,40 $ por clip.
+# CRITERIO (desde la Edad Antigua): Veo solo para el 10-20 % más espectacular de cada capítulo (agua, fuego, humo,
+# cielos, volcanes, animales o multitudes en movimiento; máx. 1 de cada 6-7); el resto con --camara.
+# 'viva_tipo' en datos/audio.json marca cuáles son de cámara, para poder mejorarlas más adelante.
 import sys,os,io,json,base64,time,subprocess
 from concurrent.futures import ThreadPoolExecutor
 from PIL import Image,ImageDraw
@@ -58,7 +61,7 @@ if __name__=='__main__':
     with ThreadPoolExecutor(1 if cam else int(os.environ.get('HILOS','4'))) as ex: list(ex.map(run,ks))
     M=J('datos/audio.json'); F=M.setdefault('fichas',{})
     for k,r in res.items():
-        if r in ('OK','CAMARA'): F.setdefault(k,{})['viva']=f'img/vivas/{k}.mp4'
+        if r in ('OK','CAMARA'): F.setdefault(k,{})['viva']=f'img/vivas/{k}.mp4'; F[k]['viva_tipo']='camara' if r=='CAMARA' else 'veo'
     json.dump(M,open(os.path.join(REPO,'datos','audio.json'),'w',encoding='utf-8'),ensure_ascii=False,indent=1)
     hs=[(k,os.path.join(TMP,f'h-{k}.jpg')) for k in ks if os.path.exists(os.path.join(TMP,f'h-{k}.jpg'))]
     if hs:
