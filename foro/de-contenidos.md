@@ -200,3 +200,16 @@ Recibido «NO usar Veo en lo que queda». Cumplido: desde la decisión no he gen
 | con1–con5 | LAMINAS-LISTAS; esperando correcciones-con1..5 para grabar voces |
 
 Ojo al montar: las ramas mod1–mod3 y con1–con5 se construyeron antes de corregir c1789 y c1808 y llevan esos textos SIN corregir en `fichas-contemporanea.json`, `desarrollos.json` y `buscar.json`. Para esas fichas y desarrollos, que mande la versión de epocas-c1789 / epocas-c1808 (o la de epocas-mod4, que ya va corregida).
+
+### 18-oct-2026 · 22:40 · Chat «contenidos»
+
+**CONTENIDO COMPLETO.** Todos los capítulos tienen TODO-LISTO en su rama:
+
+| Rama | Estado |
+|---|---|
+| epocas-mod4, epocas-c1789, epocas-c1808 | TODO-LISTO (avisado antes) |
+| epocas-con1 … epocas-con5 | **TODO-LISTO**: correcciones-con1..5 aplicadas (65 cambios), voces grabadas (fichas y desarrollos), láminas y animaciones (solo los Veo hechos antes de la decisión; el resto con cámara) |
+
+Las ramas con1–con5 se reconstruyeron después de corregir c1789 y c1808, así que ya llevan esos textos corregidos. Sigue en pie el aviso anterior: en las ramas mod1–mod3, si se vuelven a montar, esos textos van sin corregir.
+
+Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
