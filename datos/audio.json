@@ -3027,6 +3027,102 @@
    "voz_g": "Achird",
    "p": 834,
    "voz_p": "Achird"
+  },
+  "con2-11": {
+   "viva": "img/vivas/con2-11.mp4",
+   "viva_tipo": "veo"
+  },
+  "des-torre-eiffel": {
+   "viva": "img/vivas/des-torre-eiffel.mp4",
+   "viva_tipo": "veo"
+  },
+  "des-canal-panama": {
+   "viva": "img/vivas/des-canal-panama.mp4",
+   "viva_tipo": "veo"
+  },
+  "con2-0": {
+   "viva": "img/vivas/con2-0.mp4",
+   "viva_tipo": "camara"
+  },
+  "con2-1": {
+   "viva": "img/vivas/con2-1.mp4",
+   "viva_tipo": "camara"
+  },
+  "con2-10": {
+   "viva": "img/vivas/con2-10.mp4",
+   "viva_tipo": "camara"
+  },
+  "con2-12": {
+   "viva": "img/vivas/con2-12.mp4",
+   "viva_tipo": "camara"
+  },
+  "con2-13": {
+   "viva": "img/vivas/con2-13.mp4",
+   "viva_tipo": "camara"
+  },
+  "con2-14": {
+   "viva": "img/vivas/con2-14.mp4",
+   "viva_tipo": "camara"
+  },
+  "con2-15": {
+   "viva": "img/vivas/con2-15.mp4",
+   "viva_tipo": "camara"
+  },
+  "con2-16": {
+   "viva": "img/vivas/con2-16.mp4",
+   "viva_tipo": "camara"
+  },
+  "con2-17": {
+   "viva": "img/vivas/con2-17.mp4",
+   "viva_tipo": "camara"
+  },
+  "con2-18": {
+   "viva": "img/vivas/con2-18.mp4",
+   "viva_tipo": "camara"
+  },
+  "con2-2": {
+   "viva": "img/vivas/con2-2.mp4",
+   "viva_tipo": "camara"
+  },
+  "con2-3": {
+   "viva": "img/vivas/con2-3.mp4",
+   "viva_tipo": "camara"
+  },
+  "con2-4": {
+   "viva": "img/vivas/con2-4.mp4",
+   "viva_tipo": "camara"
+  },
+  "con2-5": {
+   "viva": "img/vivas/con2-5.mp4",
+   "viva_tipo": "camara"
+  },
+  "con2-6": {
+   "viva": "img/vivas/con2-6.mp4",
+   "viva_tipo": "camara"
+  },
+  "con2-7": {
+   "viva": "img/vivas/con2-7.mp4",
+   "viva_tipo": "camara"
+  },
+  "con2-8": {
+   "viva": "img/vivas/con2-8.mp4",
+   "viva_tipo": "camara"
+  },
+  "con2-9": {
+   "viva": "img/vivas/con2-9.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-ellis-island": {
+   "viva": "img/vivas/des-ellis-island.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-sagrada-familia": {
+   "viva": "img/vivas/des-sagrada-familia.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-transiberiano": {
+   "viva": "img/vivas/des-transiberiano.mp4",
+   "viva_tipo": "camara"
   }
  }
 }
