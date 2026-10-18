@@ -1,0 +1,324 @@
+{
+ "zona": "Pueblos, villas y cascos históricos (tipo poblacion)",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "carrion-de-los-condes",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "albaicin",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "ciudad-monumental-de-caceres",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "alarcon",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "casco-antiguo-de-cuenca-y-casas-colgadas",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "atienza",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "buitrago-del-lozoya",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "castrojeriz",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "covarrubias",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "frias",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "medinaceli",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "pedraza",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "sepulveda",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "ayllon",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "ciudad-rodrigo",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "puebla-de-sanabria",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "san-vicente-de-la-barquera",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "briones",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "ribadavia-y-su-juderia",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "allariz",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "estella-lizarra",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "puente-la-reina",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "laguardia",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "hondarribia",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "sos-del-rey-catolico",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "albarracin",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "ainsa",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "alquezar",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "morella",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "fuentiduena",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "villa-ducal-de-lerma",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "conjunto-renacentista-de-baeza",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "ecija-la-ciudad-de-las-torres",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "osuna-monumental",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "betancuria",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "villa-de-teguise",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "ensanche-de-barcelona-pla-cerda",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "barrio-bella-vista-de-riotinto",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "pueblo-viejo-de-belchite",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "poble-vell-de-corbera-d-ebre",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "poblado-de-colonizacion-de-vegaviana",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "calatanazor",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "rello",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "yanguas",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "montanana",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "priego-de-cordoba-barroco",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "nuevo-baztan",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "la-orotava",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "garachico",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "la-carolina",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "san-cristobal-de-la-laguna",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "santa-cruz-de-la-palma",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "hospital-de-sant-pau",
+   "campos": {
+    "tipo": "monumento"
+   }
+  }
+ ]
+}

@@ -1,0 +1,1192 @@
+{
+ "zona": "Girona",
+ "nuevos": [
+  {
+   "id": "banys-arabs-de-girona",
+   "nombre": "Banys Àrabs de Girona",
+   "provincia": "Girona",
+   "comarca": "Girona",
+   "lat": 41.9882,
+   "lon": 2.8257,
+   "tipo": "monumento",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "anio": 1194,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Pese a su nombre, estos baños no son árabes: son un <b>edificio cristiano románico de 1194</b>, construido imitando los baños públicos musulmanes del norte de África, que a su vez heredaban la planta de las termas romanas. El nombre de «baños árabes» se popularizó en el siglo XIX.</p><p>El recorrido seguía el orden clásico: <b>vestuario</b> (apodyterium), sala fría (frigidarium), sala tibia (tepidarium), <b>sala caliente</b> (caldarium), cuyo suelo se apoya sobre una cámara de aire caliente como el hipocausto romano, y la sala del horno. El asedio de 1285 los dañó mucho; en 1294 Jaime II los cedió a Ramón de Tolrà a cambio de restaurarlos.</p><p>Dejaron de funcionar como baños en el siglo XV. Desde 1617 un convento de capuchinas los usó como despensa, cocina y lavandería, y en 1929 pasaron a manos públicas y se rehabilitaron.</p><p class=\"dato\"><span>¿Sabías que…?</span>La joya es el templete del vestuario: <b>ocho columnas</b> alrededor de una piscina octogonal sostienen una cúpula que llega a 12,2 metros y deja entrar la luz desde lo alto.</p>"
+   },
+   "ver_alli": [
+    "El templete de ocho columnas y su linterna en la sala de vestuarios.",
+    "Los capiteles, con follaje y algún animal, y los arcos de medio punto (no de herradura).",
+    "Los respiraderos polilobulados de la bóveda del caldarium."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Ba%C3%B1os_%C3%A1rabes_(Gerona)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "basilica-de-sant-feliu-girona",
+   "nombre": "Basílica de Sant Feliu",
+   "provincia": "Girona",
+   "comarca": "Girona",
+   "lat": 41.9879,
+   "lon": 2.8249,
+   "tipo": "iglesia",
+   "estilo": "Románico, gótico y barroco",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>En el Barri Vell de Girona, fuera de la antigua muralla, Sant Feliu es uno de los templos más venerables de la ciudad. Su construcción se alargó <b>del siglo XII al XVII</b>: conserva la cabecera románica, el grueso del templo es gótico y la portada principal, en la fachada sur, es barroca.</p><p>Es un templo de enorme antigüedad: durante la ocupación musulmana, desde 717, la iglesia anterior hizo las veces de catedral, y la tradición dice que el rey visigodo <b>Recaredo</b> le donó una corona votiva. Su campanario gótico, levantado entre los siglos XIV y XVI, sustituyó al románico.</p><p>El gran tesoro está dentro: <b>ocho sarcófagos romanos y paleocristianos de los siglos III y IV</b>, que aparecieron al construir la iglesia, junto al sepulcro gótico de san Narciso, patrón de la ciudad. En 2011 recibió el título de basílica menor.</p><p class=\"dato\"><span>¿Sabías que…?</span>Las restauraciones de finales del siglo XX descubrieron la policromía gótica de bóvedas y nervios, que en época barroca se había tapado con cal.</p>"
+   },
+   "ver_alli": [
+    "Los ocho sarcófagos romanos y paleocristianos.",
+    "Los capiteles del ábside, procedentes del claustro románico, con escenas de san Félix y san Narciso.",
+    "El sepulcro gótico de san Narciso y el campanario gótico junto a la portada."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_F%C3%A9lix_(Gerona)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museu-d-art-de-girona",
+   "nombre": "Museu d'Art de Girona",
+   "provincia": "Girona",
+   "comarca": "Girona",
+   "lat": 41.9869,
+   "lon": 2.8264,
+   "tipo": "museo",
+   "estilo": "Románico, gótico y moderno",
+   "epoca": "Románico",
+   "anio": 1976,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Ocupa el <b>Palacio Episcopal</b>, pegado a la catedral. El edificio, documentado ya en 988, se amplió en el siglo XIII con aspecto de castillo —fue la primera construcción gótica de Girona— y en el siglo XVI se transformó en palacio.</p><p>El museo nació en <b>1976</b> al unir el antiguo Museo Provincial y el Museo Diocesano, y guarda la que se considera la <b>tercera colección de arte románico y gótico más importante de Cataluña</b>, además de pintura de los siglos XIX y XX.</p><p>Entre sus piezas destacan el <b>ara portátil de Sant Pere de Rodes</b>, la <b>viga de Cruïlles</b>, retablos góticos como el de Púbol de Bernat Martorell o el de Sant Miquel de Cruïlles de Lluís Borrassà, y el enorme lienzo de Ramon Martí Alsina <i>El gran día de Gerona</i> (496 × 1082 cm), sobre el 19 de septiembre de 1809.</p>"
+   },
+   "ver_alli": [
+    "El ara de Sant Pere de Rodes y la viga de Cruïlles en las salas románicas.",
+    "Los retablos góticos de Martorell y Borrassà.",
+    "El gran cuadro de Martí Alsina sobre los sitios de Girona."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Arte_de_Gerona"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monestir-de-sant-daniel",
+   "nombre": "Monestir de Sant Daniel",
+   "provincia": "Girona",
+   "comarca": "Girona",
+   "lat": 41.9883,
+   "lon": 2.8333,
+   "tipo": "iglesia",
+   "estilo": "Románico y gótico",
+   "epoca": "Románico",
+   "anio": 1018,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>En el valle de Sant Daniel, a las afueras de Girona, este monasterio de monjas benedictinas lo fundó la condesa <b>Ermesenda</b>: en 1015 compró con su marido Ramón Borrell la iglesia y sus tierras por cien onzas de oro, y en 1018, ya viuda, firmó con su hijo la donación que se considera el acta fundacional.</p><p>La iglesia era una réplica algo mayor de Sant Pere de Galligants, con cimborrio y planta de cruz griega. El <b>claustro</b> tiene dos pisos: el inferior, románico del siglo XIII, con columnas dobles; el superior, gótico del XV.</p><p>En una pequeña cripta se venera a san Daniel en un <b>sarcófago gótico de alabastro de 1345</b>, obra de Aloi de Montbrai, con seis escenas de la vida del santo.</p><p class=\"dato\"><span>¿Sabías que…?</span>Sigue habitado: es la única comunidad benedictina de Cataluña que continúa en el lugar donde se fundó, hace más de mil años.</p>"
+   },
+   "ver_alli": [
+    "El claustro de dos pisos, románico abajo y gótico arriba.",
+    "El sepulcro de alabastro de san Daniel en la cripta.",
+    "El paseo por el valle de Sant Daniel hasta el monasterio."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Daniel_(Gerona)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castell-de-requesens",
+   "nombre": "Castell de Requesens",
+   "provincia": "Girona",
+   "comarca": "La Jonquera",
+   "lat": 42.4466,
+   "lon": 2.9445,
+   "tipo": "castillo",
+   "estilo": "Neomedieval sobre castillo medieval",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1893,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>En la sierra de l'Albera, controlando desde hace siglos el paso hacia el norte, Requesens parece un castillo de cuento… y en buena parte está reconstruido. Ya se cita como «castrum Rechosindo» en 1085, y desde 1418 perteneció a los <b>Rocabertí</b>, vizcondes de Peralada.</p><p>Lo que vemos hoy es sobre todo obra de <b>1893-1899</b>, cuando Tomàs de Rocabertí y su hermana lo rehicieron como residencia de verano con criterios neomedievales y el mismo granito de la montaña. Tiene <b>tres recintos fortificados</b>.</p><p>Las leyendas lo rodean: un río subterráneo que llevaba pescado fresco a los sitiados y un gigante siete veces más alto que su torre mayor. Salvador Dalí intentó comprarlo antes de quedarse con Púbol.</p><p class=\"dato\"><span>¿Sabías que…?</span>Parte de la película <i>El caballero del dragón</i> (1985) se rodó entre sus muros.</p>"
+   },
+   "ver_alli": [
+    "Los tres recintos de murallas escalonados.",
+    "La fábrica de granito de la montaña y la silueta de torres entre el bosque.",
+    "Las vistas sobre los valles de l'Albera."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Requesens"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "sant-quirze-de-colera",
+   "nombre": "Monestir de Sant Quirze de Colera",
+   "provincia": "Girona",
+   "comarca": "Rabós",
+   "lat": 42.4163,
+   "lon": 3.0589,
+   "tipo": "iglesia",
+   "estilo": "Prerrománico y románico",
+   "epoca": "Románico",
+   "anio": 935,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Escondido en un valle solitario de la sierra de l'Albera, este monasterio benedictino está documentado desde el siglo IX. En 927 el conde Gausberto le cedió tierras y su iglesia se consagró en <b>935</b>; en 1123 se celebró una segunda consagración.</p><p>La iglesia tiene <b>tres naves</b> cubiertas con bóveda de cañón y una cabecera de <b>tres ábsides semicirculares</b>. En la restauración aparecieron restos de pinturas románicas, y en el antiguo refectorio se hallaron tumbas antropomorfas que delatan una ocupación anterior.</p><p>En 1592 se unió a Sant Pere de Besalú, y con la desamortización de 1835 pasó a manos privadas.</p><p class=\"dato\"><span>¿Sabías que…?</span>En 1994 el ayuntamiento de Rabós lo compró por un precio simbólico: mil pesetas.</p>"
+   },
+   "ver_alli": [
+    "La cabecera de tres ábsides vista desde fuera.",
+    "Las naves con bóveda de cañón y los restos de pintura románica.",
+    "El valle y el entorno de l'Albera, mejor a pie."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Quirico_de_Colera"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castell-de-sant-salvador-de-verdera",
+   "nombre": "Castell de Sant Salvador de Verdera",
+   "provincia": "Girona",
+   "comarca": "El Port de la Selva",
+   "lat": 42.3199,
+   "lon": 3.168,
+   "tipo": "castillo",
+   "estilo": "Medieval",
+   "epoca": "Castillos y fortalezas",
+   "anio": 904,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>En la cima más alta de la sierra de Rodes, a <b>670 metros</b> y por encima de Sant Pere de Rodes, se alzan las ruinas de Verdera. Se menciona por primera vez en <b>904</b> como posesión de los condes de Empúries.</p><p>En 974 el conde Gausfredo I lo entregó al monasterio de Sant Pere de Rodes para garantizar su defensa, aunque castillo y abadía vivieron siglos de pleitos con los condes. En junio de <b>1285</b>, durante la cruzada francesa contra la Corona de Aragón, los invasores lo ocuparon seis meses.</p><p>En 1708 se inutilizó militarmente. Junto al castillo quedan restos de la iglesia de Sant Salvador, de la primera mitad del siglo XI, con tres naves y tres ábsides.</p>"
+   },
+   "ver_alli": [
+    "Las vistas desde la cima de la sierra de Rodes.",
+    "Los restos de la iglesia de Sant Salvador.",
+    "El monasterio de Sant Pere de Rodes a vista de pájaro."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Verdera"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museu-arqueologic-de-banyoles",
+   "nombre": "Museu Arqueològic Comarcal de Banyoles",
+   "provincia": "Girona",
+   "comarca": "Banyoles",
+   "lat": 42.1187,
+   "lon": 2.767,
+   "tipo": "museo",
+   "estilo": "Románico y gótico (edificio)",
+   "epoca": "Paleolítico",
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Ocupa la <b>Pia Almoina</b>, un edificio de Banyoles que mezcla arquitectura románica y gótica sobre restos aún más antiguos. Tras una gran renovación, reabrió a finales de 2025 con <b>más de 1.600 piezas originales</b> que recorren la historia del Pla de l'Estany desde hace millones de años hasta la Edad Media.</p><p>Su estrella es la <b>mandíbula de Banyoles</b>, hallada en <b>1887</b> en un bloque de travertino de una cantera del Pla de la Formiga y estudiada por el farmacéutico Pere Alsius, cuya familia la custodió durante generaciones. Tiene entre 45.000 y 65.000 años y perteneció a una mujer adulta; un estudio de 2022 la atribuye a <b>Homo sapiens</b> y no a un neandertal, aunque sin el mentón no hay certeza absoluta.</p><p>Entre otras piezas, el museo muestra un cráneo de tigre de dientes de sable de un millón de años y una sandalia romana de cuero del siglo V.</p>"
+   },
+   "ver_alli": [
+    "La mandíbula de Banyoles, original.",
+    "Los fósiles del Pla de l'Estany, con el cráneo de dientes de sable.",
+    "La galería gótica de la Pia Almoina."
+   ],
+   "fuentes": [
+    "https://es.ara.cat/cultura/renovado-museo-expone-mandibula-humana-preciada-europa_1_5590466.html",
+    "https://www.3cat.cat/3catinfo/el-primer-homo-sapiens-europeu-era-de-banyoles/noticia/3200617/",
+    "https://es.wikipedia.org/wiki/Casa_de_la_Pia_Almoina_(Ba%C3%B1olas)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monestir-de-sant-esteve-de-banyoles",
+   "nombre": "Monestir de Sant Esteve de Banyoles",
+   "provincia": "Girona",
+   "comarca": "Banyoles",
+   "lat": 42.1205,
+   "lon": 2.7697,
+   "tipo": "iglesia",
+   "estilo": "Gótico tardío y neoclásico",
+   "epoca": "Prerrománico y Alta Edad Media",
+   "anio": 822,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Es una de las <b>primeras fundaciones benedictinas de Cataluña</b>: existía antes de 812, la fundó el abad Bonitus y aparece en un documento de 822.</p><p>Su historia es una sucesión de destrucciones y reconstrucciones: un ataque sarraceno arrasó la primera iglesia, en 957 se consagró otra con tres ábsides, los terremotos de 1427-1428 lo dañaron y en 1655 cayeron el campanario, el claustro románico y parte del templo. Lo que vemos hoy es en gran parte del <b>siglo XVII</b>, con la fachada gótica tardía del XVI y un claustro neoclásico del XVIII.</p><p>Dentro guarda el <b>retablo de Nuestra Señora de l'Escala</b>, atribuido a Joan Antigó, de mediados del siglo XV, con una Virgen gótica del XIV en el centro.</p>"
+   },
+   "ver_alli": [
+    "El retablo gótico de Santa Maria de l'Escala.",
+    "El claustro neoclásico, rehabilitado en 2003.",
+    "La fachada gótica tardía de la iglesia."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Esteban_(Ba%C3%B1olas)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castell-de-pubol",
+   "nombre": "Castell Gala Dalí de Púbol",
+   "provincia": "Girona",
+   "comarca": "La Pera",
+   "lat": 42.0146,
+   "lon": 2.9833,
+   "tipo": "museo",
+   "estilo": "Gótico; interiores de Dalí",
+   "epoca": "Siglo XX",
+   "anio": 1969,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>En 1969 Salvador Dalí prometió a Gala un castillo, y acabó comprándole este de Púbol, una fortaleza medieval —documentada desde 1065, con el edificio actual de hacia 1420— que estaba muy deteriorada. Dalí dirigió la restauración y creó la decoración interior.</p><p>Gala lo frecuentó, sobre todo en verano, entre 1970 y 1980. Cuando ella murió en 1982 fue enterrada en el <b>mausoleo subterráneo</b> que el pintor había diseñado. Dalí, nombrado ese año marqués de Púbol, vivió en el castillo hasta que un <b>incendio en 1984</b> le causó graves quemaduras.</p><p>Abierto como casa-museo desde <b>1996</b>, guarda los trajes de alta costura de Gala, un Cadillac negro en el garaje y un jardín con <b>elefantes de patas larguísimas</b> y una piscina con bustos de Wagner.</p>"
+   },
+   "ver_alli": [
+    "Los elefantes de patas largas del jardín.",
+    "La cripta con la tumba de Gala.",
+    "El Cadillac negro y los vestidos de Gala."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_P%C3%BAbol"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "casa-museu-dali-portlligat",
+   "nombre": "Casa-Museu Salvador Dalí de Portlligat",
+   "provincia": "Girona",
+   "comarca": "Cadaqués",
+   "lat": 42.2932,
+   "lon": 3.2861,
+   "tipo": "museo",
+   "estilo": "Arquitectura popular ampliada por Dalí",
+   "epoca": "Siglo XX",
+   "anio": 1930,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>En esta pequeña cala junto a Cadaqués vivió y trabajó Dalí desde 1930. Empezó comprando una <b>barraca de pescadores</b> en 1929 y fue anexionando otras durante cuarenta años: nuevas plantas en 1935, la biblioteca en 1942, la última barraca en 1954… hasta unir varias barracas en una sola casa.</p><p>La casa, decorada con innumerables <b>huevos</b>, mezcla lo popular con lo surrealista: un oso disecado regalo de Edward James hace de paragüero y lamparero, y la <b>piscina</b> de 1967 tiene un sofá en forma de labios y surtidores con forma de cisne.</p><p>Las obras para convertirla en museo empezaron en 1994; es Bien de Interés Cultural desde 1997.</p>"
+   },
+   "ver_alli": [
+    "Los huevos que decoran la casa.",
+    "La piscina con el sofá en forma de labios.",
+    "El oso disecado regalo de Edward James."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Casa-Museo_Salvador_Dal%C3%AD"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "sant-cristofol-de-beget",
+   "nombre": "Sant Cristòfol de Beget",
+   "provincia": "Girona",
+   "comarca": "Camprodon",
+   "lat": 42.321,
+   "lon": 2.48,
+   "tipo": "iglesia",
+   "estilo": "Románico lombardo",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Beget, un pequeño pueblo del Ripollès, en el término de Camprodon, conserva una iglesia románica muy completa. El valle aparece ya en 979, y en 1013 el monasterio de Sant Pere de Camprodon edificó aquí una iglesia; en 1168 ya era parroquia.</p><p>Lo más llamativo es su <b>campanario lombardo de cuatro pisos</b>, separados por frisos en dientes de sierra: los pisos bajos podrían ser de un templo anterior, del siglo X, y los dos superiores son del XII.</p><p>Dentro guarda la <b>Majestat de Beget</b>, una talla románica policromada de Cristo en majestad del siglo XII, y una pila bautismal románica de inmersión de 120 cm de diámetro.</p>"
+   },
+   "ver_alli": [
+    "La Majestat de Beget, talla románica policromada del siglo XII.",
+    "El campanario de cuatro pisos con frisos en dientes de sierra.",
+    "La portada sur, de cinco arquivoltas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Crist%C3%B3bal_(Beget)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "villa-romana-de-vilauba",
+   "nombre": "Vil·la romana de Vilauba",
+   "provincia": "Girona",
+   "comarca": "Camós",
+   "lat": 42.0999,
+   "lon": 2.7417,
+   "tipo": "yacimiento",
+   "estilo": "Romano y visigodo",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Entre campos, cerca de Banyoles, estos restos son de una de las <b>villas romanas mejor estudiadas de Cataluña</b>. Se descubrió en 1932 y desde 1978 se excava de forma sistemática bajo la dirección del Museo Arqueológico de Banyoles.</p><p>Su larga vida permite seguir la evolución de una finca rural desde el Alto Imperio (siglos I-III) hasta el Bajo Imperio (IV-V). Entre los siglos VI y VIII, en época visigoda, la villa se transformó en un <b>vicus</b>, una pequeña aldea altomedieval.</p><p>Han salido monedas, cerámicas, herramientas de hueso, bronce y hierro, restos de animales y plantas carbonizados y <b>tres figuritas de bronce de un larario</b>, el altar doméstico romano.</p>"
+   },
+   "ver_alli": [
+    "La planta de la villa, restaurada y señalizada.",
+    "Las huellas de la reconversión en aldea visigoda.",
+    "Las piezas en el museo de Banyoles."
+   ],
+   "fuentes": [
+    "https://visitmuseum.gencat.cat/en/museum/vil-la-romana-de-vilauba"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castell-de-peralada",
+   "nombre": "Castell de Peralada",
+   "provincia": "Girona",
+   "comarca": "Peralada",
+   "lat": 42.3076,
+   "lon": 3.011,
+   "tipo": "castillo",
+   "estilo": "Gótico y renacentista, reformado en el siglo XIX",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Peralada ya tenía castillo en el siglo IX, pero fue destruido en 1285 durante la invasión francesa del Empordà. A mediados del siglo XIV los vizcondes <b>Rocabertí</b> levantaron fuera de las murallas un nuevo palacio, origen del actual; en 1599 se convirtieron en condes de Peralada.</p><p>La fachada oriental es renacentista y a finales del siglo XIX el edificio se amplió bajo la dirección del arquitecto francés Grant. En 1923 lo compró <b>Miquel Mateu</b>, que reunió en él una colección de vidrio, cerámica, pintura, libros y manuscritos.</p><p>Hoy sus jardines acogen cada verano el <b>Festival Internacional de Música de Peralada</b>, y desde 1979 el castillo alberga un casino.</p>"
+   },
+   "ver_alli": [
+    "La fachada renacentista y las torres sobre el parque.",
+    "Los jardines del festival.",
+    "El recinto amurallado de Peralada, a pocos pasos."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Peralada"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-maria-de-castello-d-empuries",
+   "nombre": "Basílica de Santa Maria de Castelló d'Empúries",
+   "provincia": "Girona",
+   "comarca": "Castelló d'Empúries",
+   "lat": 42.2595,
+   "lon": 3.0761,
+   "tipo": "iglesia",
+   "estilo": "Gótico",
+   "epoca": "Gótico",
+   "anio": 1261,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Josep Pla la llamó «<b>la catedral del Empordà</b>», y sus dimensiones lo justifican, aunque nunca llegó a ser catedral pese a los intentos de los condes de Empúries. Sustituyó a una iglesia románica consagrada en 1064, de la que queda el <b>campanario</b> de cinco plantas y 36 metros, de influencia lombarda.</p><p>Las obras góticas empezaron el <b>13 de febrero de 1261</b>, con Ramón de Xartres, y terminaron a principios del siglo XV: tres naves de nueve tramos con bóvedas de crucería.</p><p>Su portada, atribuida a Antoni Antigó, alinea a los <b>doce apóstoles</b> en hornacinas y una Adoración de los Reyes en el tímpano. Dentro, el retablo de alabastro, de 6,56 metros y obra del francés Ponç Gaspar (1456), y un órgano de unos 4.500 tubos.</p>"
+   },
+   "ver_alli": [
+    "La portada con el apostolado y la Epifanía.",
+    "El retablo de alabastro del altar mayor.",
+    "El campanario románico, superviviente del templo anterior."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_Santa_Mar%C3%ADa_(Castell%C3%B3n_de_Ampurias)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "vila-vella-de-tossa-de-mar",
+   "nombre": "Vila Vella de Tossa de Mar",
+   "provincia": "Girona",
+   "comarca": "Tossa de Mar",
+   "lat": 41.7169,
+   "lon": 2.9339,
+   "tipo": "poblacion",
+   "estilo": "Medieval",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1187,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Sobre el promontorio que cierra la playa de Tossa se alza la Vila Vella, considerada <b>el único ejemplo de población medieval fortificada que se conserva en la costa catalana</b>. La muralla se levantó contra los piratas a partir de 1187, cuando el abad de Ripoll, señor del lugar, concedió carta de población.</p><p>El recinto, de unos <b>300 metros de perímetro</b>, se conserva casi entero, con <b>siete torres circulares</b>: las principales son la de en Joanàs, sobre el mar, la de les Hores o del Reloj, junto a la entrada, y la del Codolar.</p><p>Del castillo que coronaba la colina, donde hoy está el faro, no queda casi nada. Fue declarada Monumento Histórico-Artístico en 1931.</p>"
+   },
+   "ver_alli": [
+    "La torre de les Hores, puerta de entrada al recinto.",
+    "El paseo de ronda y la torre de en Joanàs sobre el mar.",
+    "Las vistas desde el faro sobre la bahía."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Tosa_de_Mar"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "villa-romana-dels-ametllers",
+   "nombre": "Vil·la romana dels Ametllers",
+   "provincia": "Girona",
+   "comarca": "Tossa de Mar",
+   "lat": 41.7199,
+   "lon": 2.9287,
+   "tipo": "yacimiento",
+   "estilo": "Romano",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>En plena Tossa, en una terraza con vistas al mar, están los restos de una villa romana fundada hacia los <b>últimos años del siglo I a. C.</b> sobre un poblado ibérico anterior. Las excavaciones empezaron en 1914 con Ignasi Melé y continuaron a lo largo del siglo XX.</p><p>Se conservan la zona señorial, con estancias de mosaico, y unos <b>baños</b> con hipocaustos, hornos y una gran piscina, construidos en el siglo II. Al pie del cerro estaba la parte rústica, donde se transformaban los productos del campo. La villa se fue abandonando lentamente hacia finales del siglo IV o inicios del V.</p><p>Su pieza más famosa es un <b>mosaico</b> con la inscripción <i>SALVO VITALE FELIX TURISSA</i>: «si Vitalis está bien, Turissa (Tossa) es feliz». Vitalis sería el dueño de la villa en el siglo IV. El original se expone en el Museu Municipal de Tossa.</p><p class=\"dato\"><span>¿Sabías que…?</span>El mismo mosaico lleva la firma del taller: <i>EX OFFICINA FELICES</i>, el obrador de un tal Félix.</p>"
+   },
+   "ver_alli": [
+    "La zona de baños con los hipocaustos.",
+    "La terraza señorial con vistas al mar.",
+    "El mosaico de Vitalis en el Museu Municipal."
+   ],
+   "fuentes": [
+    "https://www.enciclopedia.cat/del-roma-al-romanic/villa-dels-ametllers-tossa-de-mar"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "coves-prehistoriques-de-serinya",
+   "nombre": "Coves Prehistòriques de Serinyà",
+   "provincia": "Girona",
+   "comarca": "Serinyà",
+   "lat": 42.1606,
+   "lon": 2.7462,
+   "tipo": "yacimiento",
+   "estilo": "Paleolítico",
+   "epoca": "Paleolítico",
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Junto al pueblo de Serinyà se abren varias cuevas que los humanos frecuentaron durante unos 200.000 años. El parque, creado en 1996, permite visitar tres: <b>l'Arbreda</b>, la más importante, cuyo techo se hundió; la <b>cova del Mollet</b> y la del <b>Reclau Viver</b>.</p><p>Por aquí pasaron <i>Homo heidelbergensis</i> (hace unos 200.000 años), los <b>neandertales</b> (entre 90.000 y 39.000 años) y los primeros humanos modernos (entre 39.000 y 16.000 años). Mucho después, agricultores neolíticos y gentes de la Edad del Bronce las usaron como refugio, almacén y tumba.</p><p>Las primeras excavaciones las hizo en 1871 Pere Alsius. En 1973 apareció un cráneo de unos 22.300 años, y en el Mollet un diente de unos 200.000 años, considerado el resto humano más antiguo de Cataluña.</p>"
+   },
+   "ver_alli": [
+    "La cova de l'Arbreda, sin techo, con su secuencia de niveles.",
+    "La entrada de la cova del Mollet.",
+    "El centro de interpretación sobre neandertales y sapiens."
+   ],
+   "fuentes": [
+    "https://showcaves.com/english/es/showcaves/Serinya.html"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "sant-miquel-de-cruilles",
+   "nombre": "Monestir de Sant Miquel de Cruïlles",
+   "provincia": "Girona",
+   "comarca": "Cruïlles, Monells i Sant Sadurní de l'Heura",
+   "lat": 41.954,
+   "lon": 3.0047,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "anio": 1057,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>En el Baix Empordà, entre campos, se alza este antiguo <b>monasterio benedictino</b> edificado a mediados del siglo XI y documentado en 1057, cuando la condesa Ermesenda lo unió al monasterio piamontés de San Michele della Chiusa.</p><p>Su iglesia tiene planta basilical de <b>tres naves</b>, transepto y <b>tres ábsides</b> semicirculares con decoración lombarda. Sobre el crucero, una cúpula semiesférica asoma al exterior como cimborrio; el campanario cuadrado se añadió en los siglos XVI-XVII.</p><p>En 1930 se retiró su retablo gótico de <b>Lluís Borrassà</b> para llevarlo al Museu d'Art de Girona, y al hacerlo aparecieron pinturas murales del siglo XII con la traición de Judas.</p>"
+   },
+   "ver_alli": [
+    "La cabecera de tres ábsides con arcuaciones lombardas.",
+    "El cimborrio sobre el crucero.",
+    "Las pinturas murales de la traición de Judas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Miguel_(Cruilles)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castell-d-hostalric",
+   "nombre": "Castell d'Hostalric",
+   "provincia": "Girona",
+   "comarca": "Hostalric",
+   "lat": 41.7438,
+   "lon": 2.6334,
+   "tipo": "castillo",
+   "estilo": "Medieval y fortificación moderna",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1145,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Sobre un cerro de roca volcánica, el castillo de Hostalric ya existía en 1145 y perteneció a los vizcondes de <b>Cabrera</b>. La villa conserva unos <b>600 metros de muralla</b> con ocho torres cilíndricas, obra sobre todo del siglo XIV.</p><p>Los franceses lo desmantelaron en 1695, y desde la Guerra de Sucesión (1711-1713) se reconstruyó durante buena parte del siglo XVIII como fortaleza moderna: ese es el aspecto que tiene hoy.</p><p>En la Guerra de la Independencia fue una plaza fuerte de primer orden: la villa cayó en 1809, pero el castillo resistió hasta mayo de 1810, cuando lo ocuparon los franceses.</p>"
+   },
+   "ver_alli": [
+    "La fortaleza reconstruida en el siglo XVIII.",
+    "La muralla medieval de la villa con sus torres cilíndricas.",
+    "La torre dels Frares, de unos 13 m de diámetro y muros de 3,5 m."
+   ],
+   "fuentes": [
+    "https://www.enciclopedia.cat/catalunya-romanica/vila-fortificada-dhostalric",
+    "https://es.wikipedia.org/wiki/Castillo_de_Hostalrich"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monestir-de-sant-feliu-de-guixols",
+   "nombre": "Monestir de Sant Feliu de Guíxols",
+   "provincia": "Girona",
+   "comarca": "Sant Feliu de Guíxols",
+   "lat": 41.78,
+   "lon": 3.0267,
+   "tipo": "iglesia",
+   "estilo": "Prerrománico, románico y gótico",
+   "epoca": "Prerrománico y Alta Edad Media",
+   "anio": 968,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Junto al puerto de Sant Feliu de Guíxols, este monasterio benedictino está documentado desde 968, aunque probablemente ya existía antes.</p><p>Su elemento más singular es la <b>Porta Ferrada</b>, una fachada <b>prerrománica</b> descubierta en una restauración de 1931, quizá de un edificio carolingio, que hoy sirve de atrio a la iglesia.</p><p>En el siglo XIV el conjunto se fortificó; quedan la <b>torre del Corn</b>, rectangular, y la <b>torre del Fum</b>, semicircular: según la tradición, desde una se avisaba con humo y desde la otra con un cuerno. La iglesia es gótica, de una nave con crucero y tres ábsides poligonales, con parte de la nave aún románica.</p>"
+   },
+   "ver_alli": [
+    "La Porta Ferrada, fachada prerrománica que hace de atrio.",
+    "Las torres del Fum y del Corn.",
+    "La nave gótica con tramo románico."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Fel%C3%ADu_de_Guixols"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castell-del-montgri",
+   "nombre": "Castell del Montgrí",
+   "provincia": "Girona",
+   "comarca": "Torroella de Montgrí",
+   "lat": 42.052,
+   "lon": 3.1316,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1294,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Su silueta cuadrada corona el macizo del Montgrí, a <b>315 metros</b> de altura y a 6 km del mar. Lo mandó levantar el rey <b>Jaime II</b> a partir de 1294 como punto de control en su pugna con Ponce V, conde de Empúries.</p><p>Es de <b>planta cuadrada de 31 metros de lado</b>, con cuatro torres cilíndricas en las esquinas y muros de unos 13 metros coronados de almenas.</p><p>Nunca se terminó: las obras se interrumpieron en 1301, cuando el poder del conde de Barcelona se impuso al de Empúries y la fortaleza dejó de ser necesaria.</p>"
+   },
+   "ver_alli": [
+    "Las cuatro torres cilíndricas de las esquinas.",
+    "Los muros almenados de unos 13 metros.",
+    "Las vistas desde la cima del Montgrí."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_del_Montgr%C3%AD"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monestir-de-sant-pere-de-camprodon",
+   "nombre": "Monestir de Sant Pere de Camprodon",
+   "provincia": "Girona",
+   "comarca": "Camprodon",
+   "lat": 42.3143,
+   "lon": 2.3695,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "anio": 952,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Hacia 950 el conde Wifredo de Besalú decidió fundar un monasterio en el valle de Camprodon, y en 952 ya había comunidad con su primer abad, Gaufred. Llegó a tener 25 monjes en su época de esplendor, en los siglos XI y XII.</p><p>La iglesia actual, de <b>mediados del siglo XII</b>, es austera: planta de cruz latina con <b>cuatro ábsides cuadrados</b>, el mayor tan ancho como la nave. Sobre el crucero se alza una cúpula revestida por fuera con una <b>linterna octogonal</b> que sirve de base a un campanario de dos pisos.</p><p>La vida monástica terminó con la exclaustración de 1835, cuando apenas quedaban cinco monjes.</p>"
+   },
+   "ver_alli": [
+    "El cimborrio octogonal con el campanario.",
+    "El pórtico, única decoración, con columnas y capiteles.",
+    "Los ábsides cuadrados, rareza del románico catalán."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Pedro_(Camprod%C3%B3n)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "sant-marti-d-empuries",
+   "nombre": "Sant Martí d'Empúries",
+   "provincia": "Girona",
+   "comarca": "L'Escala",
+   "lat": 42.1399,
+   "lon": 3.1184,
+   "tipo": "poblacion",
+   "estilo": "Medieval",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Este pueblecito amurallado es el lugar donde todo empezó: en el siglo VI a. C. los griegos de Focea fundaron aquí su primera colonia, la <b>Palaiápolis</b>, antes de extenderse a tierra firme, donde hoy están las ruinas de Empúries.</p><p>Tras la Antigüedad fue sede episcopal entre 516 y 693, la tomaron los musulmanes en 715 y Carlomagno la recuperó en 785. Fue capital del <b>condado de Empúries</b> hasta al menos 1064, cuando la capital pasó a Castelló.</p><p>La iglesia de Sant Martí está documentada desde 824, pero el templo actual es de <b>1507</b>. Conserva inscripciones de 926, 1248 y 1507 y dos mesas de altar, una de finales del siglo IV y otra prerrománica.</p><p class=\"dato\"><span>¿Sabías que…?</span>Hoy apenas tiene unas decenas de vecinos: 43 habitantes según el censo de 2023.</p>"
+   },
+   "ver_alli": [
+    "La iglesia de Sant Martí y su plaza mayor.",
+    "El recinto amurallado del pueblo.",
+    "Las vistas a las ruinas de Empúries y al golfo de Roses."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/San_Mart%C3%ADn_de_Ampurias"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "la-draga",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Poblado neolítico lacustre",
+    "lat": 42.1267,
+    "lon": 2.7586
+   }
+  },
+  {
+   "id": "ullastret",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Ciudad ibérica",
+    "lat": 42.007,
+    "lon": 3.0788,
+    "texto": {
+     "general": "<p>Sobre el <b>Puig de Sant Andreu</b>, una colina que en la Antigüedad se alzaba junto a la laguna de Ullastret, se encuentra el mayor núcleo urbano ibérico conocido en Cataluña. Los autores grecolatinos situaban en estas tierras a la tribu de los <b>indiketes</b>. Un primer poblado de adobe y madera ocupaba la colina a finales del siglo VII a. C.; la ciudad de piedra se levantó en el siglo VI a. C., con una potente <b>muralla</b> desde finales de ese siglo, reforzada con torres circulares.</p><p>A finales del siglo III a. C. el recinto amurallado casi dobló su superficie y sus defensas se reformaron al empezar la Segunda Guerra Púnica. Poco después, en el primer cuarto del siglo II a. C., la ciudad se abandonó sin señales de destrucción. A unos 300 metros, en lo que entonces era una isla de la laguna, estaba un segundo poblado, la <b>Illa d'en Reixac</b>, de la misma comunidad.</p><p>Las excavaciones, iniciadas en 1947, han sacado a la luz calles, casas, cisternas y silos excavados en la roca, varios templos y un gran edificio interpretado como palacio. Entre los hallazgos destacan un <b>cráneo atravesado por un clavo de hierro</b>, expuesto como trofeo de guerra, y una carta comercial escrita sobre plomo en escritura ibérica.</p><p class=\"dato\"><span>¿Sabías que…?</span>El museo, inaugurado en 1961, ocupa lo alto de la colina, sobre los restos de un castillo medieval; su sala principal es la antigua capilla gótica de Sant Andreu.</p>"
+    },
+    "ver_alli": [
+     "Recorrido por la muralla, con sus torres circulares, y las calles de la ciudad.",
+     "Las cisternas y los silos excavados en la roca.",
+     "Museo de Ullastret (MAC), en lo alto de la colina, en la antigua capilla de Sant Andreu.",
+     "Desde arriba se ve la llanura de la antigua laguna y la Illa d'en Reixac."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Ciudad_%C3%ADbera_de_Ullastret",
+     "https://patrimoni.gencat.cat/en/node/1455",
+     "https://www.enciclopedia.cat/catalunya-romanica/castell-de-sant-andreu-ullastret",
+     "https://surtdecasa.cat/emporda/entorn/ullastret-iberica-partida-doble"
+    ]
+   }
+  },
+  {
+   "id": "ampurias",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Griego y romano",
+    "lat": 42.1347,
+    "lon": 3.1206
+   }
+  },
+  {
+   "id": "roses-megalitos",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Megalitismo",
+    "lat": 42.257,
+    "lon": 3.1972,
+    "texto": {
+     "general": "<p>En las colinas que rodean Roses, en el extremo sur del macizo del Cap de Creus, se conserva un denso conjunto de <b>dólmenes y menhires</b> levantados por las comunidades campesinas del Neolítico. Los menhires de la zona se datan entre el cuarto y el tercer milenio antes de Cristo.</p><p>La pieza estrella es el dolmen de la <b>Creu d'en Cobertella</b>, de hacia el 2500 a. C. Es un sepulcro de galería cubierta de 5,20 metros de largo, 2,45 de ancho y 2,14 de alto, coronado por una losa de unas <b>cuatro toneladas</b>. Se considera el dolmen más grande de Cataluña y fue declarado monumento histórico-artístico en 1964.</p><p class=\"dato\"><span>¿Sabías que…?</span>Estas cámaras eran tumbas colectivas: se usaban durante generaciones para enterrar a los miembros de una misma comunidad.</p>"
+    },
+    "ver_alli": [
+     "La galería y la enorme losa de cubierta de la Creu d'en Cobertella (no se permite entrar en la cámara).",
+     "Ruta megalítica a pie por las colinas de Roses, que enlaza dólmenes y menhires.",
+     "Ciudadela de Roses y Cap de Creus."
+    ]
+   }
+  },
+  {
+   "id": "albera",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Megalitismo",
+    "lat": 42.3847,
+    "lon": 2.9882,
+    "texto": {
+     "general": "<p>La vertiente sur de la sierra de <b>l'Albera</b>, junto a la frontera francesa, es una de las zonas con más megalitos de Cataluña: hay dólmenes repartidos por los términos de Cantallops, La Jonquera, Capmany, Espolla y Sant Climent. Desde 1986 esta vertiente es paraje natural de interés nacional.</p><p>El más conocido es el dolmen de la <b>Cabana Arqueta</b>, en Espolla, construido entre el 2700 y el 2500 a. C. Tiene un corredor y una cámara poligonal de losas de granito, de unos 2,5 metros de largo y 2 de alto, y conserva restos del túmulo que lo cubría. Lo dio a conocer en 1879 el maestro de Espolla Antoni Balmaña, se excavó varias veces en el siglo XX y fue consolidado a finales de ese siglo.</p>"
+    },
+    "ver_alli": [
+     "Dolmen de la Cabana Arqueta: corredor y cámara de granito, sobre un pequeño cerro entre olivos.",
+     "El camino de acceso no es apto para coches bajos; conviene aparcar y subir a pie.",
+     "«Circuit Dolmens i Estanys» en Cantallops.",
+     "Paraje natural de l'Albera."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Dolmen_de_la_Cabana_Arqueta",
+     "https://costabrava.org/en/a-donde-ir/comarcas/alt-emporda/cantallops",
+     "https://www.gencat.cat/mediamb/europarc2004/Images/201_41180.pdf"
+    ]
+   }
+  },
+  {
+   "id": "castell-palamos",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Poblado ibérico",
+    "lat": 41.8604,
+    "lon": 3.1586,
+    "texto": {
+     "general": "<p>En la punta que cierra por el sur la playa de Castell, sobre un promontorio de 35 metros, vivieron los íberos <b>indiketes</b> desde el siglo VI a. C. hasta el siglo I d. C. Las primeras cabañas eran de madera; el poblado vivió su mejor época en los siglos IV y III a. C. y conoció un nuevo impulso ya bajo Roma, en el siglo II a. C., antes de abandonarse poco a poco en el siglo I d. C.</p><p>El único acceso, por el istmo, estaba cerrado por una muralla, y la entrada en forma de L quedaba flanqueada por <b>dos torres</b>. Dentro se ven casas adosadas a muros de sillares de granito, dos <b>cisternas</b> excavadas en la roca y conectadas entre sí, una plaza porticada de unos 300 m² y la llamada plaza de los Silos, donde se excavaron unos sesenta.</p><p>Las primeras excavaciones fueron en 1935-1936 y se retomaron en 1943-1949; en 1996 fue declarado Bien Cultural de Interés Nacional.</p>"
+    },
+    "ver_alli": [
+     "La entrada en L con sus dos torres y las cisternas talladas en la roca.",
+     "La plaza de los Silos y la plaza porticada.",
+     "Visita libre (Ruta dels Ibers); se llega por el camino de ronda.",
+     "Playa de Castell."
+    ],
+    "fuentes": [
+     "https://www.poblesdecatalunya.cat/element.php?e=11802",
+     "https://es.wikipedia.org/wiki/Poblado_%C3%ADbero_de_Castell"
+    ]
+   }
+  },
+  {
+   "id": "puig-castellet",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Poblado ibérico",
+    "lat": 41.7161,
+    "lon": 2.8481,
+    "texto": {
+     "general": "<p>En lo alto de una colina sobre Lloret de Mar se conserva un pequeño <b>recinto fortificado ibérico</b>. Desde esta posición estratégica los indiketes dominaban una amplia franja de costa y controlaban directamente los demás poblados ibéricos de la zona.</p><p>Fue un asentamiento de vida corta: estuvo habitado unos <b>cincuenta años</b> y se abandonó hacia el <b>200 a. C.</b>, en los años en que Roma se asentaba en la Península tras la Segunda Guerra Púnica. Hoy forma parte de la Ruta dels Ibers.</p>"
+    },
+    "ver_alli": [
+     "El trazado del recinto amurallado y sus estancias.",
+     "Las vistas sobre la costa de Lloret, que explican por qué se fortificó este punto.",
+     "Apertura muy limitada: conviene informarse antes de ir.",
+     "Ruta dels Ibers."
+    ]
+   }
+  },
+  {
+   "id": "rhode",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Griego, románico y fortificación renacentista",
+    "lat": 42.2674,
+    "lon": 3.1701,
+    "texto": {
+     "general": "<p>Dentro de la gran ciudadela de Roses están los restos de <b>Rhode</b>, la colonia griega que autores antiguos como Estrabón atribuían a los rodios y situaban en el siglo VIII a. C. Las excavaciones no la llevan más allá del siglo V a. C., vinculada a Emporion. Su gran momento llegó desde la segunda mitad del siglo IV a. C.: acuñó su propia dracma y sus talleres exportaron cerámica de barniz negro por todo el litoral. Se conserva un barrio de los siglos IV-III a. C.</p><p>En el 195 a. C. Rhode se negó a aceptar el poder de Roma durante la campaña de Catón y fue desalojada. El lugar no se recuperó hasta el siglo IV d. C., y siguió habitado en época visigoda. Sobre la antigua iglesia paleocristiana nació después el <b>monasterio benedictino de Santa Maria de Roses</b>, cuyo templo románico de tres naves se consagró en 1053.</p><p>Todo quedó encerrado en la <b>fortaleza</b> que Carlos I mandó levantar a mediados del siglo XVI, asediada varias veces hasta la guerra contra Napoleón; al marcharse en 1814, el ejército francés la dejó inutilizada. Desde 2004 es el Museu de la Ciutadella.</p>"
+    },
+    "ver_alli": [
+     "El barrio griego helenístico, dentro del recinto.",
+     "Las ruinas de la iglesia románica de Santa Maria, con su portada reconstruida.",
+     "Los baluartes de la ciudadela y el Museo de la Ciutadella.",
+     "Ampurias, a media hora."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Ciudadela_de_Rosas",
+     "https://es.wikipedia.org/wiki/Ciudadela_de_Rosas",
+     "https://www.enciclopedia.cat/del-roma-al-romanic/ciutat-de-roses",
+     "https://www.enciclopedia.cat/catalunya-romanica/santa-maria-de-roses"
+    ]
+   }
+  },
+  {
+   "id": "sant-sebastia-guarda",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Poblado ibérico",
+    "lat": 41.8979,
+    "lon": 3.2027,
+    "texto": {
+     "general": "<p>En lo alto del cabo de Sant Sebastià, a unos 165 metros sobre el mar y junto al faro de Llafranc, hubo un <b>pequeño poblado íbero</b> habitado desde finales del siglo VI a. C. hasta mediados del siglo I a. C. Se descubrió entre 1958 y 1960 y se excavó en 1984-1987.</p><p>Se han excavado 26 <b>silos</b> para guardar cereal que, una vez inservibles, se usaron como basureros: por eso han dado miles de fragmentos de cerámica, tanto importada del Mediterráneo como fabricada por los propios íberos. En uno de ellos apareció un cuenco de barniz negro de hace unos 2.200 años con una inscripción en la que se ha propuesto leer «Baskal», quizá el nombre de una divinidad ibérica desconocida.</p><p>El poblado comparte la cima con una <b>torre de vigía</b> levantada a partir de 1445 contra los piratas, una ermita barroca y el faro del siglo XIX.</p>"
+    },
+    "ver_alli": [
+     "Los restos del poblado íbero junto al faro.",
+     "La torre de vigía del siglo XV y la ermita.",
+     "Vistas sobre la Costa Brava desde el cabo.",
+     "Visitas guiadas con reserva desde el Museu del Suro."
+    ],
+    "fuentes": [
+     "https://museu.gramenet.cat/fileadmin/museu_torre_balldovina/Imatges_activitats/ProgramaCSI2020_Ruta_dels_Ibers.pdf",
+     "https://en.wikipedia.org/wiki/Sant_Sebasti%C3%A0_de_la_Guarda",
+     "https://www.3cat.cat/3catinfo/descobreixen-una-possible-nova-divinitat-ibera-en-un-bol-de-2200-anys-a-lemporda/noticia/3207215/",
+     "https://es.wikipedia.org/wiki/Torre_de_San_Sebasti%C3%A1n"
+    ]
+   }
+  },
+  {
+   "id": "puig-rom",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Visigodo",
+    "lat": 42.256,
+    "lon": 3.189,
+    "texto": {
+     "general": "<p>Sobre uno de los picos del Puig Rom, que domina la bahía de Roses, se alza un <b>recinto fortificado visigodo</b> habitado desde la segunda mitad del siglo VII hasta el primer cuarto del siglo VIII, es decir, hasta la llegada de los musulmanes. Se considera uno de los recintos fortificados de época visigoda mejor conservados.</p><p>Lo descubrieron en 1946 Lluís Pericot, Francesc Riuró, Miquel Oliva y Pere de Palol. La muralla está hecha con dos paramentos rellenos de tierra y piedra menuda, y la puerta queda entre <b>dos torres cuadrangulares</b>. Dentro aparecieron monedas visigodas y romanas, herramientas agrícolas de hierro, hebillas de cinturón visigodas, adornos de origen bizantino y una cuchara visigoda.</p>"
+    },
+    "ver_alli": [
+     "La puerta de acceso entre las dos torres cuadradas.",
+     "El trazado de la muralla y de las casas en la cima.",
+     "Vistas sobre la bahía de Roses; la subida es empinada.",
+     "Al aire libre. Conviene consultar antes las condiciones de visita."
+    ],
+    "fuentes": [
+     "https://visitacostabrava.com/en/what-to-visit/retreats/visigothic-castrum",
+     "https://es.wikipedia.org/wiki/Castrum_o_Ciudadela_visigoda_del_Puig_Rom"
+    ]
+   }
+  },
+  {
+   "id": "monestir-de-sant-pere-de-rodes",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.3234,
+    "lon": 3.1664,
+    "texto": {
+     "general": "<p>Colgado en la sierra de Verdera, sobre el cabo de Creus y el mar, Sant Pere de Rodes aparece por primera vez en el año 878 como una simple celda monástica. En 945 se convirtió en <b>monasterio benedictino independiente</b>, regido por un abad, y entre los siglos XI y XIV fue el gran centro espiritual del condado de Empúries.</p><p>Su iglesia, <b>consagrada en 1022</b>, tiene planta de cruz latina con tres naves cubiertas con bóveda de cañón, y mezcla tradiciones tardorromanas, carolingias y prerrománicas: llaman la atención sus columnas y capiteles de aire clásico. El campanario, del siglo XII, es de planta cuadrada y de influencia lombarda. La portada de mármol blanco que esculpió el <b>Maestro de Cabestany</b> se perdió; solo quedan fragmentos.</p><p>Los monjes lo abandonaron en 1793. La Generalitat empezó a restaurarlo en 1935, y tras las excavaciones posteriores a 1990 se restauró el conjunto, sobre todo la iglesia. Muy cerca quedan la iglesia de Santa Helena, resto del poblado medieval de Santa Creu de Rodes, y en la cima las ruinas del castillo de Sant Salvador de Verdera, que lo protegía.</p>"
+    },
+    "ver_alli": [
+     "La nave de la iglesia, con sus columnas y capiteles de tradición clásica.",
+     "El campanario lombardo y el claustro.",
+     "Iglesia de Santa Helena y subida al castillo de Verdera.",
+     "Las vistas sobre el cabo de Creus y El Port de la Selva. Con entrada."
+    ],
+    "fuentes": [
+     "https://patrimoni.gencat.cat/ca/coleccio/monestir-de-sant-pere-de-rodes",
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Pedro_de_Roda"
+    ]
+   }
+  },
+  {
+   "id": "monestir-de-ripoll",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.2014,
+    "lon": 2.1907,
+    "texto": {
+     "general": "<p>El conde <b>Guifré el Pilós</b> (Wifredo el Velloso) fundó Santa Maria de Ripoll hacia 879-880, y su primera iglesia se consagró en 888. El monasterio se convirtió en el <b>panteón de los condes</b>: allí reposan el propio Guifré y, entre otros, Ramon Berenguer III. Con el abad <b>Oliba</b> (1008-1046) la iglesia se amplió con un transepto de siete ábsides, dos campanarios y una cripta, y se consagró en 1032. Su biblioteca pasó de 121 manuscritos en 1008 a 246 a la muerte de Oliba; de su scriptorium salió la Biblia de Ripoll.</p><p>La gran joya es la <b>portada</b> del siglo XII, un arco de triunfo cubierto de relieves que ha merecido el nombre de «Biblia de piedra»: el Pantocrátor con los evangelistas, los ancianos del Apocalipsis, David, Salomón, Moisés, Jonás y los trabajos de los doce meses. El claustro, de dos pisos, se empezó hacia 1180.</p><p>El terremoto de 1428 derribó un campanario, y tras la exclaustración de 1835 el monasterio fue saqueado e incendiado. Lo que se ve hoy de la iglesia es en buena parte la reconstrucción de <b>Elies Rogent</b> (1886-1893), que añadió elementos que no existían en el original.</p>"
+    },
+    "ver_alli": [
+     "La portada románica: busca el Pantocrátor y el calendario de los meses.",
+     "El claustro, con su piso inferior románico.",
+     "La tumba de Guifré el Pilós y el sepulcro de Ramon Berenguer III.",
+     "Con entrada."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_(Ripoll)"
+    ]
+   }
+  },
+  {
+   "id": "sant-joan-de-les-abadesses",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico y gótico",
+    "lat": 42.2327,
+    "lon": 2.2862,
+    "texto": {
+     "general": "<p>Hacia 885 el conde <b>Guifré el Pilós</b> fundó este monasterio para su hija <b>Emma</b>, que fue su primera abadesa; la iglesia se consagró en 887. Durante casi sesenta años fue el único monasterio femenino de Cataluña. En 1017 las monjas fueron expulsadas, acusadas de llevar una vida poco ejemplar, y el lugar pasó a una comunidad masculina que acabó siendo de <b>canónigos agustinos</b>.</p><p>La iglesia románica actual se consagró en 1150 y quedó muy dañada por el terremoto de 1428. Dentro guarda su gran tesoro: el <b>Santíssim Misteri</b>, un Descendimiento de la Cruz tallado en madera en <b>1251</b>, la única escultura románica de este tipo en Cataluña que sigue en su lugar original. Se llama así porque en 1426 apareció, oculto en la cabeza de Cristo, un relicario con restos incorruptos de la Eucaristía.</p><p>El conjunto se completa con el retablo de Santa Maria la Blanca (1343), el claustro gótico del siglo XV y un museo abierto en 1975.</p>"
+    },
+    "ver_alli": [
+     "El Descendimiento de 1251 (Santíssim Misteri).",
+     "El retablo gótico de Santa Maria la Blanca.",
+     "El claustro gótico y el museo del monasterio.",
+     "Con entrada."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Juan_de_las_Abadesas",
+     "https://www.enciclopedia.cat/gran-enciclopedia-catalana/monestir-de-sant-joan-de-les-abadesses",
+     "https://patrimoni.gencat.cat/en/node/10877"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-girona",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico, gótico y barroco",
+    "lat": 41.9875,
+    "lon": 2.8263,
+    "texto": {
+     "general": "<p>La catedral de Girona tiene la <b>nave gótica más ancha del mundo</b>: 22,98 metros de luz, 50 de largo y 34 de alto, sin una sola columna. La obra gótica empezó en 1312 por la cabecera, con girola y nueve capillas. Para la nave, en 1416 el obispo Dalmau de Mur reunió a doce maestros de obras; la mayoría prefería tres naves, pero se impuso la idea de <b>Guillem Bofill</b> de cubrirla con una sola bóveda.</p><p>De la catedral románica, consagrada en 1038, queda la llamada <b>torre de Carlomagno</b> y el claustro del siglo XII, decorado con escenas del Antiguo y del Nuevo Testamento. La fachada barroca se debe al proyecto de Pere Costa de 1730, y a sus pies se abre la monumental escalinata.</p><p>El tesoro guarda dos piezas excepcionales: el <b>Tapiz de la Creación</b>, del siglo XII, y el <b>Beato de Girona</b>, un manuscrito del siglo X ilustrado por la monja Ende y el monje Emeterio.</p>"
+    },
+    "ver_alli": [
+     "Ponte en el centro de la nave para sentir sus casi 23 metros de anchura.",
+     "El claustro románico y la torre de Carlomagno.",
+     "El Tapiz de la Creación y el Beato, en el tesoro.",
+     "Con entrada."
+    ],
+    "fuentes": [
+     "https://catedraldegirona.cat/en/girona-cathedral-cultural-visit/",
+     "https://es.wikipedia.org/wiki/Catedral_de_Santa_Mar%C3%ADa_(Gerona)",
+     "https://www.enciclopedia.cat/gran-enciclopedia-catalana/catedral-de-girona"
+    ]
+   }
+  },
+  {
+   "id": "call-de-girona",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Barrio medieval",
+    "lat": 41.986,
+    "lon": 2.8254,
+    "texto": {
+     "general": "<p>Alrededor de la calle de la Força, en el corazón del Barri Vell, se conserva uno de los <b>barrios judíos</b> mejor conservados de Europa: un laberinto de callejones estrechos, escaleras y patios. Girona tuvo la segunda comunidad judía más importante de Cataluña, con cerca de un millar de personas en los siglos XII y XIII; en el siglo XV quedaban unas cien, antes de la expulsión de 1492.</p><p>Aquí nació en 1194 <b>Mossé ben Nahman, Nahmánides</b> (Bonastruc ça Porta en los documentos cristianos), rabino, médico y cabalista. Con él arranca la escuela cabalística de Girona; en 1263 defendió el judaísmo en la Disputa de Barcelona ante Jaime I y acabó desterrado: murió en Acre en 1270.</p><p>Desde 1992 el Patronat del Call se ocupa de recuperar el barrio. Su <b>Museu d'Història dels Jueus</b>, en la calle de la Força, recorre en once ámbitos la vida de la comunidad: sus orígenes, el barrio, la sinagoga, el cementerio y la figura del «Maestro de Girona».</p>"
+    },
+    "ver_alli": [
+     "Pasea por la calle de la Força y los callejones que bajan hacia el Onyar.",
+     "Museu d'Història dels Jueus: la réplica del sello de bronce de Nahmánides, hallado cerca de Acre.",
+     "Calles libres; museo con entrada."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Nahm%C3%A1nides",
+     "https://www.coe.int/es/web/cultural-routes/-/patronat-del-call-de-girona",
+     "https://jguideeurope.org/en/site/bonastruc-da-porta-center-and-jewish-museum/",
+     "https://girona.cat/call/eng/museu_col_cultura.php"
+    ]
+   }
+  },
+  {
+   "id": "besalu",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Románico y medieval",
+    "lat": 42.1993,
+    "lon": 2.7015,
+    "texto": {
+     "general": "<p>Besalú fue la capital de un <b>condado propio</b> desde la muerte de Guifré el Pilós en 902 hasta 1111, cuando pasó a la casa de Barcelona. De aquella época conserva un casco medieval que en 1966 fue declarado conjunto histórico-artístico, con las iglesias de Sant Pere y Sant Vicenç y el antiguo hospital de peregrinos de Sant Julià.</p><p>Su imagen más famosa es el <b>puente sobre el Fluvià</b>, documentado desde 1075: siete arcos desiguales, trazado en ángulo y una torre a media altura. Ha sido reconstruido muchas veces; en 1939 se volaron dos de sus arcos durante la Guerra Civil.</p><p>Besalú tuvo también una comunidad judía: en 1264 Jaime I le concedió permiso para construir una sinagoga. En <b>1964</b> se descubrió el <b>micvé</b>, el baño ritual judío, alimentado por agua que se filtra desde el río; la sinagoga rehabilitada se inauguró en 2007.</p>"
+    },
+    "ver_alli": [
+     "Cruza el puente fortificado y mira la torre desde la orilla del Fluvià.",
+     "El micvé y los restos de la sinagoga, en la plaza de los Judíos.",
+     "La iglesia de Sant Pere y las calles del casco antiguo.",
+     "Acceso libre; micvé con visita guiada."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Puente_de_Besal%C3%BA",
+     "https://es.wikipedia.org/wiki/Besal%C3%BA",
+     "https://www.portalgironi.cat/index.php/patrimoni/patrim-garrotxa/patrim-garrotxa-besalu/2539-patrim-besalu-sinagoga"
+    ]
+   }
+  },
+  {
+   "id": "peratallada",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Medieval (románico y gótico)",
+    "lat": 41.9778,
+    "lon": 3.0899,
+    "texto": {
+     "general": "<p>Su nombre, «piedra tallada», lo explica todo: Peratallada está rodeada por un <b>foso excavado en la roca</b>, de modo que a los casi 5 metros de muralla se suman otros 5 de roca cortada en vertical; en algunos tramos el foso llega a 7 metros de hondo. El castillo aparece en los documentos en 1065 como <i>Petra Taliata</i>, y sus primeros señores ya se citan en 1039.</p><p>En el centro se alza el <b>castillo-palacio</b>: una torre del homenaje de hacia el siglo XII, con la puerta a 7 metros del suelo, y una sala mayor del siglo XI, ampliada con edificios góticos en los siglos XIII y XIV. En 1266 la heredera Guillema de Peratallada se casó con Gilabert de Cruïlles, uniendo los dos linajes; el rey Juan I se alojó aquí en 1390.</p><p>Las murallas, de los siglos XII o XIII, encierran varios recintos de calles empedradas, con la iglesia de Sant Esteve, de principios del siglo XIII.</p>"
+    },
+    "ver_alli": [
+     "El foso tallado en la roca al pie de las murallas.",
+     "La torre del homenaje y la fachada del castillo-palacio.",
+     "Las calles empedradas y la iglesia de Sant Esteve.",
+     "Acceso libre."
+    ],
+    "fuentes": [
+     "https://www.enciclopedia.cat/catalunya-romanica/castell-de-peratallada-vulpellac",
+     "https://es.wikipedia.org/wiki/Peratallada"
+    ]
+   }
+  },
+  {
+   "id": "pals",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Románico y gótico",
+    "lat": 41.9718,
+    "lon": 3.1444,
+    "texto": {
+     "general": "<p>El casco antiguo de Pals, el <b>barrio del Pedró</b>, ocupa una colina sobre la llanura del Empordà. Su castillo ya se documenta en 889, en un precepto del rey carolingio Odón. Sus murallas, de piedra arenisca dorada, están entre las mejor conservadas de la comarca.</p><p>Del castillo solo queda la <b>Torre de les Hores</b>, la antigua torre del homenaje románica: circular, de unos 15 metros de alto y asentada sobre la roca. En el siglo XV se le añadió un pequeño campanario gótico, de ahí su nombre. El castillo quedó en ruinas tras la guerra civil catalana del siglo XV, y en 1478 Juan II permitió usar sus piedras para la iglesia.</p><p>La <b>iglesia de Sant Pere</b>, ya citada en 994, es gótica de nave única, con portada barroca y restos de la fachada románica anterior.</p>"
+    },
+    "ver_alli": [
+     "La Torre de les Hores, con su campanario gótico.",
+     "El mirador Josep Pla, al que se llega por la muralla, con vistas a los arrozales y las islas Medes.",
+     "La iglesia de Sant Pere y las calles del Pedró.",
+     "Acceso libre."
+    ],
+    "fuentes": [
+     "https://patrimoni.gencat.cat/en/node/11463",
+     "https://www.visitpals.com/en/what-to-do/routes-on-foot-or-by-bicycle/the-old-quarter-of-pals/",
+     "https://es.wikipedia.org/wiki/Castillo_de_Pals"
+    ]
+   }
+  },
+  {
+   "id": "castell-de-montsoriu",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Románico y gótico",
+    "lat": 41.7831,
+    "lon": 2.5406,
+    "texto": {
+     "general": "<p>A 650 metros de altura, en la cima de un cerro que domina el Montseny y la Selva, se alza el castillo de los <b>vizcondes de Cabrera</b>, considerado uno de los castillos góticos más importantes de Cataluña. Se cita por primera vez en el año 1002, en una donación al monasterio de Sant Cugat.</p><p>Los Cabrera lo convirtieron en <b>castillo-palacio</b>, con tres recintos amurallados; el más bajo se añadió en el siglo XIV. Decayó desde el siglo XV, cuando la familia se trasladó a Blanes y estalló la guerra remensa (1462-1472). Se vendió en el siglo XVI y aún lo ocuparon tropas francesas entre 1808 y 1814 y soldados en la primera guerra carlista.</p><p>Desde 1998 es propiedad del Consell Comarcal de la Selva, que lo excava y restaura. Entre sus restos destaca un gran aljibe de 12 por 4,5 metros y 5 de profundidad.</p>"
+    },
+    "ver_alli": [
+     "Los tres recintos amurallados, que se recorren subiendo.",
+     "La sala gótica y el gran aljibe.",
+     "Las vistas sobre el Montseny.",
+     "Con entrada y reserva."
+    ],
+    "fuentes": [
+     "https://www.montsoriu.cat/home/",
+     "https://es.wikipedia.org/wiki/Castillo_de_Montsoriu"
+    ]
+   }
+  },
+  {
+   "id": "sant-pere-de-galligants",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 41.9888,
+    "lon": 2.8265,
+    "texto": {
+     "general": "<p>Junto al río Galligants, a los pies de la muralla de Girona, se levanta este monasterio benedictino, documentado desde el año <b>992</b>, cuando el conde Ramon Borrell vendió al abad el dominio sobre el barrio de Sant Pere.</p><p>La iglesia actual se construyó hacia 1130, con un legado de Ramon Berenguer III. Su <b>campanario octogonal</b> de dos pisos se reforzó en 1362, cuando el monasterio quedó dentro del recinto amurallado. El <b>claustro</b>, cuya galería norte es de 1154 y el resto de hacia 1190, tiene capiteles con escenas de la vida de Jesús, leones y sirenas, emparentados con los de la catedral y Sant Cugat.</p><p>Tras la exclaustración de 1835, cuando solo quedaban un abad y cuatro monjes, el edificio se dedicó a museo: desde 1857 alberga la sede gerundense del <b>Museu d'Arqueologia de Catalunya</b>.</p>"
+    },
+    "ver_alli": [
+     "Los capiteles historiados del claustro.",
+     "El campanario octogonal y la cabecera.",
+     "Las piezas del Museu d'Arqueologia de Catalunya dentro de la iglesia.",
+     "Con entrada."
+    ],
+    "fuentes": [
+     "https://www.spain.info/pt_BR/lugares-interesse/museu-arqueologico-sant-pere-galligants/",
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Pedro_de_Galligans"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-de-porqueres",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "texto": {
+     "general": "<p>A orillas del <b>lago de Banyoles</b> se alza esta pequeña iglesia románica, consagrada el <b>5 de abril de 1182</b> por el obispo Ramon de Girona. El lugar ya se cita en el año 906, cuando Emma, abadesa de Sant Joan de les Abadesses, recibió la confirmación de «Santa María de Porcarias».</p><p>Tiene una sola nave con bóveda de cañón y un ábside alargado. Su fama se debe a la escultura: la <b>portada</b> occidental tiene cuatro arcos en degradación con capiteles de leones y piñas, y los grandes <b>capiteles del arco triunfal</b>, de un metro de alto, muestran atlantes, figuras y, en el ábaco izquierdo, la serie de los doce apóstoles. El campanario cuadrado es del siglo XVIII; en 1957 se rehízo la bóveda y el arco triunfal.</p>"
+    },
+    "ver_alli": [
+     "Los grandes capiteles del arco triunfal, con atlantes y los doce apóstoles.",
+     "La portada occidental, con sus capiteles de leones.",
+     "El paseo alrededor del lago de Banyoles.",
+     "Exterior libre."
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-de-vilabertran",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.2821,
+    "lon": 2.9791,
+    "texto": {
+     "general": "<p>Esta canónica de <b>canónigos agustinos</b> nació en 1066, cuando el presbítero Pere Rigall se hizo cargo de la iglesia de Santa Maria; en 1069 las familias de la zona donaron los terrenos y en 1080 empezaron las obras. La iglesia se consagró el <b>11 de noviembre de 1100</b>. Su claustro, del siglo XII, es sencillo y austero, y el campanario de los siglos XII-XIII luce tres pisos de galerías de estilo lombardo.</p><p>El <b>29 de octubre de 1295</b> se celebró aquí la boda de <b>Jaime II de Aragón</b> con Blanca de Anjou (o de Nápoles). A mediados del siglo XIV la canónica recibió la <b>cruz de Vilabertran</b>, de plata con camafeos y fragmentos de la Vera Cruz. Desde 1410 el abad Antoni Girgós añadió el palacio abacial y la torre del reloj y amuralló el conjunto. La desamortización de 1835 puso fin a la comunidad.</p><p class=\"dato\"><span>¿Sabías que…?</span>Cada verano el monasterio acoge un festival de música clásica dedicado a Franz Schubert.</p>"
+    },
+    "ver_alli": [
+     "El campanario lombardo y el claustro románico.",
+     "La cruz procesional de Vilabertran.",
+     "El palacio abacial.",
+     "Con entrada."
+    ],
+    "fuentes": [
+     "https://patrimoni.gencat.cat/en/node/11442",
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_(Vilabertr%C3%A1n)"
+    ]
+   }
+  },
+  {
+   "id": "escalinata-y-fachada-de-la-catedral-de-g",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Barroco",
+    "lat": 41.9872,
+    "lon": 2.8257,
+    "texto": {
+     "general": "<p>La catedral gótica de Girona se presenta a la ciudad con una fachada barroca y una escalinata monumental de <b>noventa escalones</b>, construida a finales del siglo XVII, que salva el desnivel entre la plaza y el templo y lo convierte en un gran escenario.</p><p>La fachada responde al proyecto que el arquitecto <b>Pere Costa</b> trazó en 1730, como un gran retablo de piedra; él mismo esculpió las figuras de las Tres Virtudes. Las obras se alargaron durante siglos. Detrás espera la nave gótica más ancha del mundo, de 22,98 metros.</p>"
+    },
+    "ver_alli": [
+     "Sube la escalinata y gírate: la vista sobre el Barri Vell es de las mejores.",
+     "Mira la fachada como un retablo: las Tres Virtudes de Pere Costa.",
+     "Libre."
+    ],
+    "fuentes": [
+     "https://www.enciclopedia.cat/gran-enciclopedia-catalana/catedral-de-girona",
+     "https://www.enciclopedia.cat/gran-enciclopedia-catalana/pere-costa-i-cases",
+     "https://es.wikipedia.org/wiki/Catedral_de_Santa_Mar%C3%ADa_(Gerona)"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-sant-ferran",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Abaluartado (sistema Vauban)",
+    "lat": 42.274,
+    "lon": 2.9461,
+    "texto": {
+     "general": "<p>Una de las mayores fortalezas de Europa. Su primera piedra se puso el <b>13 de diciembre de 1753</b>, en tiempos de <b>Fernando VI</b>, que le da nombre, para defender la frontera con Francia; la dirigió el ingeniero militar Juan Martín Cermeño. Sus murallas tienen más de tres kilómetros de perímetro (3.125 m) y encierran 32 hectáreas: podía alojar a <b>4.000 hombres</b> y unos 450 caballos.</p><p>Bajo el patio de armas hay <b>cisternas</b> con capacidad para 9 millones de litros de agua. En la guerra contra Napoleón fue la última plaza ocupada por los franceses, que la entregaron el 4 de junio de 1814. Aquí murió preso en 1810 el general Álvarez de Castro, defensor de Girona.</p><p>El <b>1 de febrero de 1939</b> se reunieron en sus caballerizas las <b>últimas Cortes de la República</b> en España, con 62 diputados; Juan Negrín pronunció allí su último discurso como presidente del Gobierno. El 8 de febrero parte de la fortaleza fue volada.</p>"
+    },
+    "ver_alli": [
+     "Las caballerizas, donde se reunieron las últimas Cortes de la República.",
+     "Las grandes cisternas bajo el patio de armas.",
+     "Los baluartes y los fosos.",
+     "Con entrada."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_San_Fernando_(Figueras)",
+     "https://en.wikipedia.org/wiki/Third_siege_of_Girona_(Peninsular_War)"
+    ]
+   }
+  },
+  {
+   "id": "murallas-de-girona-y-el-sitio-de-1809",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Romano, carolingio y medieval",
+    "lat": 41.986,
+    "lon": 2.8285,
+    "texto": {
+     "general": "<p>Las murallas de Girona resumen dos mil años de historia. El primer recinto, <b>romano</b>, se levantó hacia el 80-70 a. C.; en los siglos IX y X se añadieron torres carolingias, y en el siglo XIV, con Pedro el Ceremonioso, se consolidó la Força Vella y se amurallaron los barrios exteriores. En el siglo XVII llegaron baluartes y fosos.</p><p>Esas defensas vivieron su prueba más dura en el <b>tercer sitio</b> de la guerra de la Independencia: del <b>6 de mayo al 12 de diciembre de 1809</b> la ciudad resistió el asedio francés bajo el mando del general <b>Mariano Álvarez de Castro</b>. Murieron unos 10.000 soldados y civiles, sobre todo de hambre y enfermedades. Álvarez de Castro, enfermo, cedió el mando antes de la capitulación; fue llevado preso a Francia y murió en el castillo de Sant Ferran de Figueres el 21 de enero de 1810.</p><p>Hoy un <b>paseo de unos 1,5 km</b> recorre lo alto de la muralla, recuperada entre 1983 y 2003, desde la Torre Gironella, el punto más alto, hasta la plaza de Sant Pere.</p>"
+    },
+    "ver_alli": [
+     "El paseo de la muralla, con miradores sobre la catedral y el Barri Vell.",
+     "La Torre Gironella, el punto más alto del recinto.",
+     "Las torres carolingias entre la catedral y la Torre Gironella.",
+     "Paseo de la muralla libre."
+    ],
+    "fuentes": [
+     "https://web.girona.cat/documents/d/guest/dossier-pladirector-muralla",
+     "https://en.wikipedia.org/wiki/Third_siege_of_Girona_(Peninsular_War)",
+     "https://www.enciclopedia.cat/gran-enciclopedia-catalana/setges-de-girona"
+    ]
+   }
+  },
+  {
+   "id": "teatro-museo-dali",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Surrealismo",
+    "lat": 42.268,
+    "lon": 2.9597,
+    "texto": {
+     "general": "<p>Salvador Dalí convirtió en museo el <b>antiguo Teatro Municipal</b> de Figueres, su ciudad natal, construido entre 1848 y 1850 y arrasado por un incendio en 1939, del que solo quedaron la fachada y los muros. Allí mismo, en el vestíbulo, había expuesto de joven sus primeras obras, en 1918 y 1919, y enfrente está la iglesia de Sant Pere, donde fue bautizado.</p><p>El museo se inauguró el <b>28 de septiembre de 1974</b>. Lo corona una <b>cúpula geodésica</b> encargada en 1969 al arquitecto Emilio Pérez Piñero, y dentro está la famosa sala Mae West, diseñada con Óscar Tusquets. Dalí vivió sus últimos años en la contigua <b>Torre Galatea</b>.</p><p>Murió en 1989 y fue enterrado el 25 de enero en una <b>cripta bajo la cúpula</b>. Desde 2001 el museo exhibe también su colección de joyas.</p>"
+    },
+    "ver_alli": [
+     "La cúpula geodésica y la cripta donde está enterrado Dalí.",
+     "La sala Mae West: mírala desde el mirador para ver el rostro.",
+     "La fachada de la Torre Galatea y la sala de joyas.",
+     "Con entrada."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Teatro-Museo_Dal%C3%AD"
+    ]
+   }
+  }
+ ]
+}
