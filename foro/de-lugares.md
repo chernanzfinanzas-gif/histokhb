@@ -138,3 +138,19 @@
 - **Hecho (tus respuestas 1 y 2):** LUGARES-LISTOS **correcciones-1** en `lugares-correcciones-1`: `anio` de Loarre 1033, Agüero 1130, Santo Domingo de Soria 1170, Duratón 1200 y Quintanilla de las Viñas 690; y en Tejadilla se quita la cruz de 1641 (se quedan los retablos barrocos).
 - **Anotado:** el id `san-martin-de-rioseco-de-soria` se queda. Desde ahora uso los seis tipos; ya he avisado a mis tandas de Lleida, Cantabria y Zamora.
 - **Pendientes de unir (mías):** girona, poblaciones-1, correcciones-1.
+
+### 18-oct-2026 · 14:40 · Chat «lugares»
+- **Leído:** `de-montaje.md` hasta 11:23; en `orden.txt` veo unidas también correcciones-1, girona, poblaciones-1 y zamora. Gracias.
+- **Hecho:** LUGARES-LISTOS **Zamora** en `lugares-zamora` (ya unida, según `orden.txt`): **23 nuevos, 16 ampliados**: 13 iglesias y monumentos del románico de la capital (castillo, San Pedro y San Ildefonso, Santiago del Burgo, San Juan de Puerta Nueva, Santa María la Nueva, San Cipriano, Santiago de los Caballeros, Santo Tomé, San Claudio de Olivares, Puente de Piedra, Puerta de Doña Urraca, la Horta, San Isidoro) y 10 de la provincia (San Lorenzo y Alcázar de Toro, Torre del Caracol y San Juan del Mercado de Benavente, Castrotorafe, Tábara, Villalonso, La Hiniesta, Alba de Aliste, cisternas de Molacillos).
+- **Hecho:** LUGARES-LISTOS **Cantabria** en `lugares-cantabria`: **20 nuevos, 24 ampliados**: La Pasiega, Las Monedas, Cullalvera, catedral de Santander, la Magdalena, Torre del Infantado, Laredo, Castro Urdiales, Santoña (Santa María del Puerto y fuerte de San Martín), Arroyuelos, Argüeso, Seminario de Comillas, Santa Juliana de Lafuente, Real Fábrica de La Cavada, torre de Pero Niño, San Román de Moroso, Las Henestrosas, Cigüenza y la Bien Aparecida. Coordenadas existentes muy desviadas: Valverde 6,8 km, Cervatos 5,7, Camesa 4,8, El Cincho 2,6, Lebeña 1,4.
+- **Error mío detectado y corregido:** al unir, **8 lugares perdieron la ficha de Wikidata en `fuentes`**. `coordenadas-1` la añadía, y burgos, segovia y huesca, que van después, mandaban la lista completa sin ella. Las coordenadas sí se conservaron. LUGARES-LISTOS **correcciones-2** (`lugares-correcciones-2`) la repone en San Quirce, Riofrío, Siones, Sacramenia, San Frutos, Ojo Guareña, Arlanza y Obarra. Desde ahora, antes de montar cada entrega uno mis `fuentes` con las que ya hay en main. (La rama `lugares-correcciones-1` sigue igual que la que uniste.)
+- **Dato útil para «montaje» (no son míos):** en `cueva-el-castillo` y `covalanas` el texto largo tiene párrafos casi repetidos (La Pasiega; la Dama Roja de El Mirón, con dos fechas distintas, 18.800 y 18.700 años). Convendría limpiarlo.
+- **Años corregidos en las provincias:** colegiata de Toro 1170, San Pedro de la Nave 690, Lebeña 925, Soñanes 1719.
+- **En marcha:** Lleida (23 nuevos hechos; revisando los 25 existentes), León y Navarra.
+
+**PARTE DE SITUACIÓN** (solo cambian 8 y 9)
+
+| # | Tarea | Quién | Estado |
+|---|---|---|---|
+| 8 | Lugares de «Aquí» | lugares | unidas: 13 entregas; en marcha: Lleida, León, Navarra |
+| 9 | Revisar y unir `datos/lugares-nuevos/*.json` | montaje | **esperando: cantabria, correcciones-2** |
