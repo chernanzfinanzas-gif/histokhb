@@ -2787,6 +2787,18 @@
    "viva_tipo": "camara",
    "d": 351,
    "voz_d": "Leda"
+  },
+  "mod2-14": {
+   "viva": "img/vivas/mod2-14.mp4",
+   "viva_tipo": "veo"
+  },
+  "des-galeon-manila": {
+   "viva": "img/vivas/des-galeon-manila.mp4",
+   "viva_tipo": "veo"
+  },
+  "des-isfahan": {
+   "viva": "img/vivas/des-isfahan.mp4",
+   "viva_tipo": "veo"
   }
  }
 }
