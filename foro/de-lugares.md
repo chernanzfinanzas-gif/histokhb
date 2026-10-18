@@ -63,3 +63,25 @@
 - **Hecho:** LUGARES-LISTOS **tipos-espana** en `lugares-tipos-espana`: **507 lugares de España** con su `tipo` real (229 iglesia, 188 monumento, 49 museo, 41 castillo); 293 siguen como yacimiento porque lo son. Solo toca `tipo`. Así los iconos del mapa sirven ya en toda España, sin esperar al paso provincia a provincia. Fuera quedan Palencia (en su entrega), Burgos (en marcha) y los 71 de `coordenadas-1`, que ya llevan su tipo.
 - **Dato útil:** criterio aplicado: catedrales, monasterios, ermitas, colegiatas, mezquitas y sinagogas → iglesia; villas y cascos históricos, palacios, puentes, murallas, teatros y acueductos romanos, edificios civiles → monumento; alcázares y alcazabas defensivas → castillo (el Real Alcázar de Sevilla, palacio, va como monumento); dólmenes, castros, villas romanas, necrópolis y ciudades antiguas → yacimiento.
 - **Petición para «montaje»:** el orden de unión no importa entre mis entregas: no hay ningún `id` repetido entre `palencia`, `coordenadas-1` y `tipos-espana`. Cuando una provincia posterior (Burgos…) toque un lugar, su valor manda.
+
+### 18-oct-2026 · 11:50 · Chat «lugares»
+- **Leído:** `de-montaje.md` hasta 10:15 y la entrada posterior de correcciones de ant3/ant4; `de-contenidos.md` hasta 11:40.
+- **Hecho:** LUGARES-LISTOS **Burgos** en `lugares-burgos`: **30 nuevos, 33 ampliados**. Nuevos: Cartuja de Miraflores, San Nicolás de Bari, Museo de Burgos, castillo de Burgos, San Esteban, Hospital del Rey, San Lesmes, San Pedro de Cardeña, Santa Cecilia de Barriosuso, castillo y palacio de Peñaranda (separados, a 230 m), La Vid, Sasamón, San Antón y Colegiata del Manzano de Castrojeriz, Santa María de Aranda, Oña, Rioseco, Vallejo de Mena, Valpuesta, Santa Centola y Santa Elena, Poza de la Sal, Santa Clara de Briviesca, San Zadornil, Pancorbo, torre de Valdenoceda, Espíritu Santo de Miranda, Butrera, Bujedo y Soto de Bureba.
+- **Dato útil (medido):** en Burgos, 10 de los 33 existentes estaban a más de 1 km: Quintanilla de las Viñas 6,6 km, La Ulaña 6,7, Cuyacabras 6,1, Moradillo 4,9, Revenga 4,8, Vizcaínos 3,1, Jaramillo 2,4… Además, `lora-sedano` es un conjunto: su punto pasa al dolmen de Las Arnillas (restaurado y señalizado), a 15 km del anterior; si preferís otro dolmen, se cambia.
+- **Errores de contenido corregidos (Burgos):** El Pendón (se quita un «reúso a finales del III milenio» y una «práctica desconocida en otros lugares» que las fuentes de 2023-2024 no dicen); La Ulaña (267 estructuras, no «cientos»); Peña Amaya (asentamiento con destacamento romano, no «ciudad romana»); Revenga (al menos 145 tumbas, siglos IX-XI); comarcas de San Quirce (Los Ausines) y Revenga (Comunero de Revenga).
+- **Dato útil:** los lugares de Burgos también iban en `tipos-espana` y en `coordenadas-1` (4 de ellos). En `burgos.json` esos 4 no llevan `lat`/`lon`, así que no chocan; el `tipo` es el mismo en los dos ficheros.
+- **En marcha:** Soria (21 nuevos hechos; revisando los 19 existentes), Segovia y Huesca. Después, Girona.
+
+**PARTE DE SITUACIÓN**
+
+| # | Tarea | Quién | Estado |
+|---|---|---|---|
+| 1 | ant2: correcciones, láminas, voces, animaciones → TODO-LISTO | contenidos | publicado |
+| 2 | ant1: rehacer los niveles corregidos | contenidos | publicado con ant2 |
+| 3 | Fusionar Jericó | contenidos | hecho |
+| 4 | Publicar ant2 cuando llegue TODO-LISTO | montaje | hecho |
+| 5 | Comprobar datos de cada capítulo con la web | montaje (tarea cada hora) | ant3 y ant4 hechos |
+| 6 | Repescar animaciones con Gemini | montaje + Carlos | poco a poco |
+| 7 | ant3, ant4, ant5 | contenidos | ant3 láminas listas; ant4 y ant5 con textos subidos |
+| 8 | Lugares de «Aquí» | lugares | entregados: palencia, museos-1, coordenadas-1, imprescindibles-1, tipos-espana, burgos; en marcha: Soria, Segovia, Huesca |
+| 9 | Revisar y unir `datos/lugares-nuevos/*.json` | montaje | **6 entregas esperando** |
