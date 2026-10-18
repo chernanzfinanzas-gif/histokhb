@@ -1,0 +1,43 @@
+{
+ "zona": "Remates 1",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "museo-de-america",
+   "campos": {
+    "provincia": "Madrid",
+    "tipo": "museo",
+    "estilo": "Museo de arqueología, etnología y arte de América"
+   }
+  },
+  {
+   "id": "museo-naval-el-galeon-de-manila",
+   "campos": {
+    "provincia": "Madrid",
+    "tipo": "museo",
+    "estilo": "Museo naval"
+   }
+  },
+  {
+   "id": "templo-de-debod",
+   "campos": {
+    "provincia": "Madrid",
+    "tipo": "monumento",
+    "estilo": "Templo egipcio de época meroítica y ptolemaica, trasladado a Madrid"
+   }
+  },
+  {
+   "id": "muralla-bizantina-de-cartagena",
+   "campos": {
+    "provincia": "Murcia",
+    "estilo": "Muralla bizantina"
+   }
+  },
+  {
+   "id": "gobas-lano",
+   "campos": {
+    "estilo": "Cuevas artificiales eremíticas altomedievales"
+   }
+  }
+ ]
+}
