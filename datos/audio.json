@@ -1680,83 +1680,183 @@
   },
   "med1-9": {
    "viva": "img/vivas/med1-9.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 81,
+   "voz_n": "Leda",
+   "g": 138,
+   "voz_g": "Rasalgethi",
+   "p": 731,
+   "voz_p": "Rasalgethi"
   },
   "med1-2": {
    "viva": "img/vivas/med1-2.mp4",
-   "viva_tipo": "veo"
+   "viva_tipo": "veo",
+   "n": 90,
+   "voz_n": "Leda",
+   "g": 154,
+   "voz_g": "Achird",
+   "p": 835,
+   "voz_p": "Achird"
   },
   "med1-0": {
    "viva": "img/vivas/med1-0.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 83,
+   "voz_n": "Leda",
+   "g": 163,
+   "voz_g": "Aoede",
+   "p": 819,
+   "voz_p": "Aoede"
   },
   "med1-1": {
    "viva": "img/vivas/med1-1.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 83,
+   "voz_n": "Leda",
+   "g": 160,
+   "voz_g": "Sadaltager",
+   "p": 860,
+   "voz_p": "Sadaltager"
   },
   "med1-3": {
    "viva": "img/vivas/med1-3.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 83,
+   "voz_n": "Leda",
+   "g": 141,
+   "voz_g": "Iapetus",
+   "p": 790,
+   "voz_p": "Iapetus"
   },
   "med1-4": {
    "viva": "img/vivas/med1-4.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 78,
+   "voz_n": "Leda",
+   "g": 138,
+   "voz_g": "Vindemiatrix",
+   "p": 744,
+   "voz_p": "Vindemiatrix"
   },
   "med1-5": {
    "viva": "img/vivas/med1-5.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 85,
+   "voz_n": "Leda",
+   "g": 144,
+   "voz_g": "Despina",
+   "p": 855,
+   "voz_p": "Despina"
   },
   "med1-6": {
    "viva": "img/vivas/med1-6.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 84,
+   "voz_n": "Leda",
+   "g": 140,
+   "voz_g": "Vindemiatrix",
+   "p": 777,
+   "voz_p": "Vindemiatrix"
   },
   "med1-7": {
    "viva": "img/vivas/med1-7.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 77,
+   "voz_n": "Leda",
+   "g": 156,
+   "voz_g": "Despina",
+   "p": 676,
+   "voz_p": "Despina"
   },
   "med1-8": {
    "viva": "img/vivas/med1-8.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 79,
+   "voz_n": "Leda",
+   "g": 160,
+   "voz_g": "Leda",
+   "p": 625,
+   "voz_p": "Leda"
   },
   "med1-10": {
    "viva": "img/vivas/med1-10.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 88,
+   "voz_n": "Leda",
+   "g": 138,
+   "voz_g": "Gacrux",
+   "p": 777,
+   "voz_p": "Gacrux"
   },
   "med1-11": {
    "viva": "img/vivas/med1-11.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 77,
+   "voz_n": "Leda",
+   "g": 129,
+   "voz_g": "Algieba",
+   "p": 595,
+   "voz_p": "Algieba"
   },
   "med1-12": {
    "viva": "img/vivas/med1-12.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 86,
+   "voz_n": "Leda",
+   "g": 146,
+   "voz_g": "Gacrux",
+   "p": 683,
+   "voz_p": "Gacrux"
   },
   "med1-13": {
    "viva": "img/vivas/med1-13.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 80,
+   "voz_n": "Leda",
+   "g": 142,
+   "voz_g": "Aoede",
+   "p": 717,
+   "voz_p": "Aoede"
   },
   "med1-14": {
    "viva": "img/vivas/med1-14.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 87,
+   "voz_n": "Leda",
+   "g": 155,
+   "voz_g": "Leda",
+   "p": 744,
+   "voz_p": "Leda"
   },
   "des-ravena": {
    "viva": "img/vivas/des-ravena.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "d": 352,
+   "voz_d": "Leda"
   },
   "des-santa-sofia": {
    "viva": "img/vivas/des-santa-sofia.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "d": 383,
+   "voz_d": "Vindemiatrix"
   },
   "des-guarrazar": {
    "viva": "img/vivas/des-guarrazar.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "d": 374,
+   "voz_d": "Leda"
   },
   "des-sutton-hoo": {
    "viva": "img/vivas/des-sutton-hoo.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "d": 374,
+   "voz_d": "Rasalgethi"
   },
   "des-palenque": {
    "viva": "img/vivas/des-palenque.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "d": 363,
+   "voz_d": "Gacrux"
   }
  }
 }
