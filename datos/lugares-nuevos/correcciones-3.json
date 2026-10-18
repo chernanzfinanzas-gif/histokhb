@@ -1,0 +1,37 @@
+{
+ "zona": "Correcciones pedidas por montaje (12:55)",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "basilica-de-santa-maria-de-los-arcos",
+   "campos": {
+    "epoca": "Visigodo",
+    "anio": 600
+   }
+  },
+  {
+   "id": "recopolis",
+   "campos": {
+    "texto": {
+     "general": "<p>En 578, tras varios años de campañas, el rey <b>Leovigildo</b> fundó aquí, en un cerro sobre el Tajo, una ciudad nueva y le dio el nombre de su hijo Recaredo. Lo cuenta el cronista Juan de Biclaro. Leovigildo imitaba a los emperadores de Constantinopla, que fundaban ciudades con su nombre, y quería mostrar que el rey godo estaba por encima de los nobles. Las excavaciones han descubierto el gran edificio del palacio, la iglesia, una calle con tiendas y talleres y la muralla.</p>"
+    }
+   }
+  },
+  {
+   "id": "salinas-de-imon",
+   "campos": {
+    "tipo": "monumento",
+    "epoca": "Ilustración y Neoclásico",
+    "texto": {
+     "general": "<p>Bajo Imón hay capas de sal y yeso del <b>Keuper</b>, el final del Triásico, hace unos 230 a 200 millones de años. Entonces Pangea empezaba a abrirse y por las grietas entraban mares someros que se evaporaban al sol una y otra vez, dejando gruesas capas de sal. Hoy el agua subterránea atraviesa esas capas, sale salada a la superficie y vuelve a evaporarse en las balsas: es sal de un mar del tiempo de los primeros dinosaurios.</p><p>Las salinas se explotan desde la Edad Media; en el siglo XVIII fueron salinas reales y, con <b>Carlos III</b>, la Corona levantó los grandes almacenes, artesas y canales que aún siguen en pie. La producción se interrumpió a finales del siglo XX y se reanudó en 2015. Son Bien de Interés Cultural y forman parte de la candidatura «Paisaje dulce y salado de Sigüenza y Atienza» a Patrimonio Mundial.</p><p>En Imón no hay pruebas de explotación prehistórica: sus balsas son medievales y modernas, y algunos autores les suponen un origen romano. Pero la sal de los manantiales del interior se aprovechó desde muy antiguo. En las salinas de Espartinas, en Ciempozuelos (Madrid), y en la laguna de Villafáfila (Zamora), se han encontrado miles de fragmentos de vasijas usadas para cocer salmuera al fuego, de la Edad del Cobre, hacia 2.200-2.000 aC. La sal servía para el ganado y para conservar la carne y el queso.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Salt_mine_of_Im%C3%B3n",
+     "https://www.elindependiente.com/espana/2024/07/09/salinas-imon-brihuega-funcionan/amp/",
+     "https://www.mindat.org/loc-343084.html",
+     "https://es.wikipedia.org/wiki/Salinas_de_Imón"
+    ]
+   }
+  }
+ ]
+}
