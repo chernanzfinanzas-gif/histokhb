@@ -1857,6 +1857,110 @@
    "viva_tipo": "camara",
    "d": 363,
    "voz_d": "Gacrux"
+  },
+  "med3-5": {
+   "viva": "img/vivas/med3-5.mp4",
+   "viva_tipo": "veo"
+  },
+  "des-angkor-wat": {
+   "viva": "img/vivas/des-angkor-wat.mp4",
+   "viva_tipo": "camara"
+  },
+  "med3-7": {
+   "viva": "img/vivas/med3-7.mp4",
+   "viva_tipo": "veo"
+  },
+  "des-cahokia": {
+   "viva": "img/vivas/des-cahokia.mp4",
+   "viva_tipo": "veo"
+  },
+  "des-catedral-burgos": {
+   "viva": "img/vivas/des-catedral-burgos.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-giralda": {
+   "viva": "img/vivas/des-giralda.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-portico": {
+   "viva": "img/vivas/des-portico.mp4",
+   "viva_tipo": "camara"
+  },
+  "med3-0": {
+   "viva": "img/vivas/med3-0.mp4",
+   "viva_tipo": "camara"
+  },
+  "med3-1": {
+   "viva": "img/vivas/med3-1.mp4",
+   "viva_tipo": "camara"
+  },
+  "med3-10": {
+   "viva": "img/vivas/med3-10.mp4",
+   "viva_tipo": "camara"
+  },
+  "med3-11": {
+   "viva": "img/vivas/med3-11.mp4",
+   "viva_tipo": "camara"
+  },
+  "med3-12": {
+   "viva": "img/vivas/med3-12.mp4",
+   "viva_tipo": "camara"
+  },
+  "med3-13": {
+   "viva": "img/vivas/med3-13.mp4",
+   "viva_tipo": "camara"
+  },
+  "med3-14": {
+   "viva": "img/vivas/med3-14.mp4",
+   "viva_tipo": "camara"
+  },
+  "med3-15": {
+   "viva": "img/vivas/med3-15.mp4",
+   "viva_tipo": "camara"
+  },
+  "med3-16": {
+   "viva": "img/vivas/med3-16.mp4",
+   "viva_tipo": "camara"
+  },
+  "med3-17": {
+   "viva": "img/vivas/med3-17.mp4",
+   "viva_tipo": "camara"
+  },
+  "med3-18": {
+   "viva": "img/vivas/med3-18.mp4",
+   "viva_tipo": "camara"
+  },
+  "med3-19": {
+   "viva": "img/vivas/med3-19.mp4",
+   "viva_tipo": "camara"
+  },
+  "med3-2": {
+   "viva": "img/vivas/med3-2.mp4",
+   "viva_tipo": "camara"
+  },
+  "med3-20": {
+   "viva": "img/vivas/med3-20.mp4",
+   "viva_tipo": "camara"
+  },
+  "med3-3": {
+   "viva": "img/vivas/med3-3.mp4",
+   "viva_tipo": "camara"
+  },
+  "med3-4": {
+   "viva": "img/vivas/med3-4.mp4",
+   "viva_tipo": "camara"
+  },
+  "med3-6": {
+   "viva": "img/vivas/med3-6.mp4",
+   "viva_tipo": "camara"
+  },
+  "med3-8": {
+   "viva": "img/vivas/med3-8.mp4",
+   "viva_tipo": "camara"
+  },
+  "med3-9": {
+   "viva": "img/vivas/med3-9.mp4",
+   "viva_tipo": "camara"
   }
  }
 }
