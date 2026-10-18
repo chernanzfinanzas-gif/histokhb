@@ -1,0 +1,667 @@
+{
+ "zona": "Álava",
+ "nuevos": [
+  {
+   "id": "catedral-de-maria-inmaculada-vitoria",
+   "nombre": "Catedral de María Inmaculada (Catedral Nueva de Vitoria)",
+   "provincia": "Álava",
+   "comarca": "Vitoria-Gasteiz",
+   "lat": 42.8454,
+   "lon": -2.6771,
+   "tipo": "iglesia",
+   "estilo": "Neogótico",
+   "epoca": "Siglo XX",
+   "anio": 1907,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Vitoria tiene dos catedrales, y esta es la «nueva». Las obras empezaron el <b>4 de agosto de 1907</b>, impulsadas por el obispo José Cadena y Eleta, con planos de <b>Julián de Apraiz y Javier de Luque</b>. Tras un largo parón, se retomaron entre 1946 y 1969; se consagró el <b>24 de septiembre de 1969</b> y las obras se dieron por terminadas en <b>1973</b>.</p><p>Es un templo <b>neogótico</b> enorme: <b>118 metros</b> de largo, 62 de ancho en el crucero y 35 de alto. Se la considera la segunda iglesia más grande de España después de la catedral de Sevilla. Las dos torres previstas para la fachada nunca se hicieron por su coste, y en su lugar se construyó un pórtico con terraza.</p><p>Su escultura cuenta el siglo XX: las <b>gárgolas</b> de la fachada sur (1964-1965) representan soldados de la Guerra Civil, y un friso del norte muestra escenas de la guerra del Rif de 1909. Desde 1999 la girola acoge el <b>Museo Diocesano de Arte Sacro de Álava</b>.</p>"
+   },
+   "ver_alli": [
+    "Busca en la fachada sur las gárgolas de soldados, una con máscara antigás.",
+    "Dentro, mide con la vista la altura del crucero.",
+    "Visita la girola, donde está el Museo Diocesano de Arte Sacro.",
+    "Baja a la cripta, inspirada en la de la Sagrada Familia."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_de_María_Inmaculada_de_Vitoria"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "muralla-medieval-de-vitoria",
+   "nombre": "Muralla medieval de Vitoria",
+   "provincia": "Álava",
+   "comarca": "Vitoria-Gasteiz",
+   "lat": 42.8478,
+   "lon": -2.6726,
+   "tipo": "monumento",
+   "estilo": "Medieval",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Cuando el rey <b>Sancho VI de Navarra</b> fundó la villa de Nueva Victoria en <b>1181</b>, el recinto amurallado ya existía: el fuero de ese año lo menciona. Se fecha en el <b>siglo XII</b>. Medía unos <b>900 metros</b> y tenía unos <b>22 torreones</b>; hoy se conserva cerca de la mitad.</p><p>Durante siglos quedó escondida tras las casas. La recuperación empezó en <b>2006</b>, cuando quedaron al descubierto unos 136 metros detrás de la calle Correría, y siguió en <b>2010</b> con otros 160 metros tras la iglesia de San Miguel, protegidos con una celosía de madera de cedro. Ese año la actuación recibió una mención de los <b>Premios Europa Nostra</b>.</p><p>En 2001, las excavaciones bajo la catedral de Santa María hallaron restos de sus cimientos.</p>"
+   },
+   "ver_alli": [
+    "Recorre la pasarela junto al lienzo de muralla.",
+    "Fíjate en los paneles que explican los torreones y sus fases.",
+    "Asómate a los miradores sobre la ciudad nueva."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Muralla_de_Vitoria"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-de-escoriaza-esquivel",
+   "nombre": "Palacio de Escoriaza-Esquivel",
+   "provincia": "Álava",
+   "comarca": "Vitoria-Gasteiz",
+   "lat": 42.8496,
+   "lon": -2.6731,
+   "tipo": "monumento",
+   "estilo": "Renacimiento plateresco",
+   "epoca": "Renacimiento",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Lo mandaron construir a mediados del <b>siglo XVI</b> <b>Fernán López de Escoriaza</b>, médico del rey <b>Enrique VIII de Inglaterra</b>, y su mujer <b>Victoria de Anda y Esquivel</b>. Es uno de los mejores ejemplos de arquitectura civil renacentista del País Vasco.</p><p>La fachada principal da a una pequeña plaza y tiene una <b>portada plateresca</b> con los <b>bustos</b> de los dos propietarios. Dentro hay un <b>patio cuadrado</b> con doble arquería superpuesta en tres de sus lados, con capiteles y medallones muy decorados.</p><p>Hoy pertenece al Ayuntamiento de Vitoria-Gasteiz, que organiza visitas guiadas en algunas temporadas.</p>"
+   },
+   "ver_alli": [
+    "Busca en la portada los bustos del médico y de su esposa.",
+    "Si está abierto, entra al patio de doble arquería.",
+    "Rodéalo: el palacio está pegado a la muralla medieval."
+   ],
+   "fuentes": [
+    "https://turismo.euskadi.eus/es/patrimonio-cultural/palacio-escoriaza-esquivel/webtur00-content/es/",
+    "https://es.wikipedia.org/wiki/Muralla_de_Vitoria"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-san-pedro-de-vitoria",
+   "nombre": "Iglesia de San Pedro Apóstol (Vitoria)",
+   "provincia": "Álava",
+   "comarca": "Vitoria-Gasteiz",
+   "lat": 42.8482,
+   "lon": -2.6749,
+   "tipo": "iglesia",
+   "estilo": "Gótico",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Es una de las iglesias medievales del casco viejo de Vitoria. Se construyó entre <b>finales del siglo XIII y comienzos del XIV</b> como una <b>iglesia-fortaleza</b>, porque estaba junto a la muralla y formaba parte de la defensa de la villa.</p><p>La torre actual se empezó en <b>1708</b>, y el pórtico sur, de estilo neogótico, lo añadió <b>Fausto Íñiguez de Betolaza</b> en <b>1897</b>. Fue declarada Monumento Nacional en <b>1931</b>.</p>"
+   },
+   "ver_alli": [
+    "Rodea el templo para ver su aspecto de fortaleza, propio de su papel defensivo.",
+    "Fíjate en el pórtico neogótico de 1897.",
+    "Dentro, recorre la nave gótica."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Church_of_San_Pedro_Ap%C3%B3stol,_Vitoria-Gasteiz"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-de-bellas-artes-de-alava",
+   "nombre": "Museo de Bellas Artes de Álava",
+   "provincia": "Álava",
+   "comarca": "Vitoria-Gasteiz",
+   "lat": 42.8417,
+   "lon": -2.6796,
+   "tipo": "museo",
+   "estilo": "Palacio ecléctico (1912-1916)",
+   "epoca": "Siglo XIX",
+   "anio": 1942,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>El museo ocupa el <b>palacio Augustí-Zulueta</b>, una mansión ecléctica con elementos barrocos, románicos y neovascos, levantada entre <b>1912 y 1916</b> por los mismos arquitectos que la Catedral Nueva, <b>Julián de Apraiz y Javier de Luque</b>. El palacio se compró en 1941 y el museo abrió en <b>1942</b>.</p><p>Su punto fuerte es el <b>arte vasco de 1850 a 1950</b>: Darío de Regoyos, Adolfo Guiard, Ignacio Zuloaga, Aurelio Arteta, Elías Salaverría, Francisco Iturrino o los hermanos Zubiaurre. Hay también arte español de los siglos XVIII al XX, con retratos de Vicente López y de los Madrazo y paisajes de Carlos de Haes y Aureliano de Beruete.</p><p>Tres salas de la segunda planta reúnen el fondo del pintor <b>Fernando de Amárica</b>.</p>"
+   },
+   "ver_alli": [
+    "Empieza por la planta baja, dedicada al arte vasco.",
+    "Busca «La siesta de los segadores» de Josep Maria Sert.",
+    "Fíjate también en el propio palacio ecléctico que lo alberga."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Bellas_Artes_de_Álava"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "torre-de-mendoza",
+   "nombre": "Torre de Mendoza",
+   "provincia": "Álava",
+   "comarca": "Vitoria-Gasteiz (Mendoza)",
+   "lat": 42.8599,
+   "lon": -2.774,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>En el pueblo de Mendoza, a pocos kilómetros de Vitoria, está la casa-torre del <b>linaje Mendoza</b>, una de las familias más poderosas de la Castilla medieval. Se construyó en el <b>siglo XIII</b> como su residencia.</p><p>Es una torre de <b>cinco plantas</b> con rasgos del gótico civil, rodeada por un muro con <b>cuatro cubos redondos</b> en las esquinas. Cuando los Mendoza se marcharon sirvió de <b>cárcel</b>; en 1856 los duques del Infantado la vendieron. Se restauró en <b>1963</b>.</p><p>Durante décadas fue sede del <b>Museo de Heráldica de Álava</b>, que cerró en 2007 por no cumplir las normas de accesibilidad. Es Bien de Interés Cultural desde <b>1984</b>.</p>"
+   },
+   "ver_alli": [
+    "Rodea la cerca y cuenta los cuatro cubos de las esquinas.",
+    "Fíjate en los vanos defensivos de los pisos altos de la torre.",
+    "Recuerda que fue museo de heráldica: aún hay una sala con escudos de los linajes alaveses."
+   ],
+   "fuentes": [
+    "https://turismo.euskadi.eus/es/patrimonio-cultural/torre-de-mendoza/webtur00-content/es/",
+    "https://en.wikipedia.org/wiki/Tower_of_Mendoza"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "torre-de-los-varona",
+   "nombre": "Torre-palacio de los Varona (Villanañe)",
+   "provincia": "Álava",
+   "comarca": "Valdegovía",
+   "lat": 42.8298,
+   "lon": -3.0715,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>En Villanañe, en el valle de Valdegovía, se conserva la casa-torre de los Varona. La <b>torre gótica</b> se fecha a finales del <b>siglo XIV</b> o comienzos del XV, y el palacio que la acompaña se fue añadiendo a partir del XV.</p><p>Desde siempre la ha habitado la misma familia, los <b>Varona</b>. Su apellido nace de una leyenda: una joven, <b>María Pérez</b>, siguió a sus hermanos a la guerra y derrotó ella sola a <b>Alfonso el Batallador</b>; por su valentía la llamaron «varona».</p><p>Está restaurada y musealizada, con salas que conservan muebles, papeles pintados y cerámicas de época. Es Bien de Interés Cultural desde <b>1984</b>.</p>"
+   },
+   "ver_alli": [
+    "Mira la torre gótica y el palacio que se le adosa.",
+    "En la visita guiada, fíjate en el mobiliario y los papeles pintados.",
+    "Pregunta por la leyenda de María Pérez, la «varona»."
+   ],
+   "fuentes": [
+    "https://turismo.euskadi.eus/es/patrimonio-cultural/torre-palacio-de-los-varona/webtur00-content/es/",
+    "https://en.wikipedia.org/wiki/Tower_of_Villana%C3%B1e"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-portilla",
+   "nombre": "Castillo de Portilla",
+   "provincia": "Álava",
+   "comarca": "Zambrana",
+   "lat": 42.6704,
+   "lon": -2.8337,
+   "tipo": "castillo",
+   "estilo": "Fortaleza medieval (ruinas)",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1040,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>En lo alto de una peña, a unos <b>780 metros</b> de altitud, quedan las ruinas del castillo de Portilla, con vistas al valle de Miranda de Ebro y a los montes Obarenes. Lo levantaron los reyes de <b>Navarra</b> y aparece por escrito en <b>1040</b>. Entre 1076 y 1200 pasó varias veces de Navarra a Castilla y de Castilla a Navarra.</p><p>A sus pies estaba la <b>Villavieja</b>, el antiguo pueblo, con restos de muralla y de la iglesia de Santa María, de la primera mitad del siglo XIII. Entre 1542 y 1600 el poblado y el castillo se abandonaron, y la gente bajó al núcleo actual.</p><p>En el <b>siglo XIII</b> Portilla usaba un sello con un castillo casi idéntico al del <b>escudo de Álava</b>, que después adoptaron la Hermandad de Álava y la Junta de Elorriaga. Por eso se considera que el castillo del escudo alavés es este.</p>"
+   },
+   "ver_alli": [
+    "Sube por el camino medieval, con pasarelas y miradores.",
+    "En la Villavieja, busca los restos de la iglesia de Santa María.",
+    "Desde lo alto, compara la silueta con la del escudo de Álava."
+   ],
+   "fuentes": [
+    "https://es.hispanopedia.com/wiki/Portilla_(%C3%81lava)",
+    "https://turismovasco.com/araba/que-ver-araba/castillo-de-portilla/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "conjunto-monumental-de-quejana",
+   "nombre": "Conjunto monumental de Quejana",
+   "provincia": "Álava",
+   "comarca": "Ayala",
+   "lat": 43.0765,
+   "lon": -3.0736,
+   "tipo": "monumento",
+   "estilo": "Gótico",
+   "epoca": "Gótico",
+   "anio": 1378,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Quejana es la cuna de los <b>Ayala</b>, uno de los grandes linajes de la Castilla bajomedieval. Aquí se reúnen el <b>palacio fortificado</b> de la familia, de planta cuadrada con dos torres, y el <b>convento de dominicas de San Juan</b>, fundado el <b>2 de diciembre de 1378</b> por Fernán Pérez de Ayala. Las últimas monjas se marcharon en 2008.</p><p>Su hijo fue el canciller <b>Pedro López de Ayala</b>, poeta e historiador, nombrado Canciller Mayor de Castilla en 1398. En <b>1399</b> levantó como panteón familiar la torre-capilla de la <b>Virgen del Cabello</b>, donde reposan él y su esposa Leonor de Guzmán en <b>sepulcros de alabastro</b> del taller toledano de Ferrand González, junto a las estatuas yacentes de sus padres.</p><p>Es Monumento Nacional desde 1984 y desde 2023 pertenece a la Diputación Foral de Álava.</p><p class=\"dato\"><span>¿Sabías que…?</span>El retablo original de la capilla está hoy en el Instituto de Arte de Chicago.</p>"
+   },
+   "ver_alli": [
+    "Entra en la capilla de la Virgen del Cabello, una torre almenada.",
+    "Fíjate en los sepulcros de alabastro del canciller y su esposa.",
+    "Mira cómo el palacio se comunica directamente con la iglesia."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Conjunto_monumental_de_Quejana"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "dolmen-de-aizkomendi",
+   "nombre": "Dolmen de Aizkomendi",
+   "provincia": "Álava",
+   "comarca": "San Millán (Eguilaz)",
+   "lat": 42.8632,
+   "lon": -2.3354,
+   "tipo": "yacimiento",
+   "estilo": "Megalitismo",
+   "epoca": "Neolítico",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>En Eguilaz, en la Llanada Alavesa, se alza el dolmen de Aizkomendi. Lo encontró el dueño del terreno en <b>1832</b>, en un campo de labor llamado Aizcomendi, y poco después lo describió el diccionario de <b>Madoz</b>: grandes peñascos a los lados y una enorme losa encima.</p><p>Era un sepulcro colectivo, con una cámara central y un corredor hacia el este, cubierto por un gran <b>túmulo</b>. Se usó en el <b>Neolítico</b> y siguió en uso en la Edad de los Metales. En su interior aparecieron restos humanos.</p><p>Lo que se ve hoy ha sido muy modificado desde su descubrimiento. A pocos kilómetros está el dolmen de Sorginetxe.</p>"
+   },
+   "ver_alli": [
+    "Rodea la cámara y fíjate en la gran losa de cubierta.",
+    "Busca los restos del túmulo que la cubría.",
+    "Lee el panel de la entrada, que explica su historia."
+   ],
+   "fuentes": [
+    "https://es.hispanopedia.com/wiki/Dolmen_de_Aizkomendi"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-martin-de-tours-de-gaceo",
+   "nombre": "Iglesia de San Martín de Tours (Gaceo)",
+   "provincia": "Álava",
+   "comarca": "Iruraiz-Gauna",
+   "lat": 42.8483,
+   "lon": -2.4291,
+   "tipo": "iglesia",
+   "estilo": "Románico con pinturas góticas",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Por fuera es un pequeño templo rural del <b>siglo XIII</b>, de nave rectangular y ábside semicircular, con influencias protogóticas. Por dentro guarda un tesoro: un conjunto de <b>pinturas murales góticas</b> que cubre ábside y presbiterio.</p><p>Estuvieron ocultas bajo una capa de cal hasta que, en <b>1967</b>, salieron a la luz. En el ábside aparece <b>Dios Padre con el Hijo crucificado y la paloma del Espíritu Santo</b>, rodeado de santos; en las bóvedas, escenas de la infancia de Jesús, de su Pasión y su Resurrección, y el descenso al limbo.</p><p>La escena más impactante es el <b>Juicio Final</b>, con la balanza que pesa las buenas y malas obras y el infierno en la parte baja. Gaceo está en el Camino de Santiago del interior, que cruza la Llanada Alavesa.</p>"
+   },
+   "ver_alli": [
+    "Mira el ábside: la Trinidad preside todo el conjunto.",
+    "Busca la balanza del Juicio Final y el infierno abajo a la derecha.",
+    "Recorre las bóvedas del presbiterio con las escenas de la vida de Cristo."
+   ],
+   "fuentes": [
+    "https://www.euskadi.eus/iglesia-de-san-martin-de-tours/gazeo-iruraiz-gauna/web01-a4donjak/es/",
+    "https://www.euskadi.eus/en/cultural-heritage/paintings-of-gazeo-and-alaitza/web01-ejeduki/en/",
+    "https://www.gasteizhoy.com/gazeo-cuadrilla-llanada-alavesa-pueblos-alaveses/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "salvatierra-agurain",
+   "nombre": "Salvatierra-Agurain",
+   "provincia": "Álava",
+   "comarca": "Agurain / Salvatierra",
+   "lat": 42.8493,
+   "lon": -2.3887,
+   "tipo": "poblacion",
+   "estilo": "Villa medieval amurallada",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1256,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>En <b>1256</b> el rey <b>Alfonso X</b> fundó la villa sobre la aldea de Hagurahin y le dio fuero y el nombre de Salvatierra. Su casco medieval amurallado se organiza en tres calles principales, <b>Mayor, Carnicería y Zapatari</b>.</p><p>En los extremos de la calle Mayor se alzan dos <b>iglesias-fortaleza</b> de los siglos XV y XVI: <b>Santa María</b>, con un retablo de 1530 de Lope de Larrea y un coro plateresco con el escudo de Carlos I, y <b>San Juan</b>, levantada sobre una fábrica anterior. La antigua iglesia de San Martín, del siglo XIII, alberga hoy el ayuntamiento.</p><p>Un gran incendio destruyó casi toda la villa en <b>1564</b>. Por Salvatierra pasaban la calzada romana de Astorga a Burdeos y el Camino de Santiago del interior, y su feria de ganado tiene más de 600 años.</p>"
+   },
+   "ver_alli": [
+    "Recorre la calle Mayor de una iglesia-fortaleza a la otra.",
+    "En Santa María, fíjate en el coro plateresco y el retablo de Lope de Larrea.",
+    "Busca los restos de la muralla en el perímetro del casco."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Salvatierra_(Álava)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "labastida",
+   "nombre": "Labastida",
+   "provincia": "Álava",
+   "comarca": "Rioja Alavesa",
+   "lat": 42.5902,
+   "lon": -2.7928,
+   "tipo": "poblacion",
+   "estilo": "Medieval, renacentista y barroco",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1242,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Labastida nació en el <b>cerro de la Mota</b>, donde hubo un recinto fortificado del Reino de Navarra. Se cree que Sancho el Fuerte le dio el villazgo en 1196; hacia <b>1200</b> pasó a Castilla y <b>Fernando III</b> le confirmó el fuero en <b>1242</b>.</p><p>En lo alto queda la iglesia del <b>Santo Cristo</b>, del <b>siglo XII</b>, con portada tardorrománica y aspecto de fortaleza; fue la primera parroquia. Junto a ella está el <b>arco de Toloño</b>, una de las antiguas puertas, y por el de Larrazuria se entra a la calle Mayor, donde lucen palacios barrocos y <b>29 escudos</b> en las fachadas.</p><p>La <b>plaza de la Paz</b> reúne la iglesia de la <b>Asunción</b>, inaugurada en 1602, con fachada en un gran arco y una torre de más de 54 metros, y el <b>ayuntamiento</b> barroco, construido entre 1730 y 1745.</p>"
+   },
+   "ver_alli": [
+    "Sube al cerro de la Mota hasta la iglesia del Santo Cristo.",
+    "Entra por el arco de Larrazuria y cuenta escudos en la calle Mayor.",
+    "En la plaza de la Paz, entra en la Asunción para ver su retablo barroco."
+   ],
+   "fuentes": [
+    "https://www.euskadi.eus/conjunto-del-casco-historico-de-labastida/labastida/web01-a4donjak/es/",
+    "https://www.gasteizhoy.com/labastida-un-mar-de-vid-entre-el-rio-ebro-y-la-sierra-de-tolono/"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "rioja-alavesa-dolmenes",
+   "campos": {
+    "lat": 42.5676,
+    "lon": -2.5536,
+    "estilo": "Megalitismo (dólmenes de corredor)",
+    "texto": {
+     "general": "<p>Entre viñedos, varios dólmenes del final del Neolítico, como la Chabola de la Hechicera (Elvillar), el de San Martín (Laguardia) o El Sotillo. Forman una ruta que se puede recorrer libremente.</p><p>El punto de la app está en la <b>Chabola de la Hechicera</b>, el mayor y mejor conservado. Es un dolmen de corredor: una cámara de nueve losas de arenisca, de unos 4 metros por 3,80 y 2,70 de alto, aún con su losa de cubierta, y un pasillo de unos 6 metros. Se descubrió en 1935 y Barandiaran lo excavó en 1936. Guardaba restos de 39 personas y un vaso campaniforme, y se usó desde hace unos 5.000 años hasta la Edad del Bronce.</p><p>El dolmen de San Martín, descubierto en 1956 por Barandiaran y Fernández Medrano, guardaba restos de 21 personas en su nivel neolítico.</p><p class=\"dato\"><span>¿Sabías que…?</span>Los vecinos de Elvillar contaban que la mañana de San Juan se oían cantar en el dolmen a una hechicera, y que quien se acercaba se convertía en piedra.</p>"
+    },
+    "ver_alli": [
+     "La cámara y el corredor de la Chabola de la Hechicera, con su gran losa de cubierta.",
+     "El dolmen de San Martín, junto a la carretera de Laguardia a Leza, con un guardaviñas encima.",
+     "El dolmen de El Sotillo, cerca de Leza.",
+     "Laguardia, villa amurallada medieval."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Chabola_de_la_Hechicera",
+     "https://es.wikipedia.org/wiki/Dolmen_de_San_Mart%C3%ADn",
+     "https://es.wikipedia.org/wiki/Chabola_de_la_Hechicera",
+     "https://www.google.com/maps/place/?q=place_id:ChIJY962FiT5Tw0RX8JreYdo5oI",
+     "https://www.openstreetmap.org/?mlat=42.56761&mlon=-2.55356#map=18/42.56761/-2.55356"
+    ]
+   }
+  },
+  {
+   "id": "sorginetxe",
+   "campos": {
+    "lat": 42.8296,
+    "lon": -2.3782,
+    "estilo": "Megalitismo (dolmen simple)",
+    "texto": {
+     "general": "<p>Pequeño dolmen de cinco losas calizas, de hacia el <b>2500 a. C.</b>, cuyo nombre significa «casa de las brujas»: según la leyenda, lo levantaron las <i>sorginak</i>, que traían las piedras de noche sobre la punta de sus ruecas.</p><p>Era la tumba de los antiguos pobladores del valle, ganaderos en su mayoría. Las cinco losas cierran una cámara poligonal cubierta por una gran losa de unos 2,30 por 1,90 metros. El túmulo de tierra que la tapaba se ha perdido.</p><p>Se excavó en 1879 y en 1890 se recogieron una punta de flecha y huesos humanos, hoy perdidos. En 1909 Federico Baraibar compró el terreno para protegerlo y en 1913 lo donó a la Diputación de Álava.</p>"
+    },
+    "ver_alli": [
+     "La gran losa de cubierta sobre las cinco piedras.",
+     "Visita libre junto a la carretera, en Arrizala.",
+     "Villa amurallada de Salvatierra."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Dolmen_de_Sorginetxe",
+     "https://www.google.com/maps/place/?q=place_id:ChIJvZRuaZ4ZUA0RNRG0T_axaXE",
+     "https://www.openstreetmap.org/?mlat=42.82955&mlon=-2.37824#map=18/42.82955/-2.37824"
+    ]
+   }
+  },
+  {
+   "id": "la-hoya",
+   "campos": {
+    "lat": 42.5648,
+    "lon": -2.5859,
+    "estilo": "Poblado de la Edad del Bronce y del Hierro",
+    "texto": {
+     "general": "<p>Poblado habitado durante casi mil años, del <b>1200 al 250 a. C.</b>, con unos 370 metros de muralla y una casa reconstruida a tamaño real. Lo descubrió en 1935 un labrador que sacaba cerámica al arar, y las grandes campañas las dirigió Armando Llanos desde 1973. Solo se ha excavado una pequeña parte.</p><p>Sus casas eran alargadas, de unos 16 por 5,5 metros, con tres estancias y techo vegetal. Bajo los suelos se enterraba a los niños pequeños. La muralla se rehízo varias veces.</p><p>El final fue violento: entre los siglos IV y III a. C. un ataque incendió y derribó el poblado, y en una calle aparecieron cinco adultos bajo los escombros.</p>"
+    },
+    "ver_alli": [
+     "La casa reconstruida a tamaño real en el centro de interpretación.",
+     "Las calles y la muralla, con paneles y códigos QR.",
+     "Laguardia y los dólmenes de la Rioja Alavesa, muy cerca."
+    ],
+    "fuentes": [
+     "https://alavaturismo.eus/en/poblado-de-la-hoya",
+     "https://es.hispanopedia.com/wiki/La_Hoya_(Laguardia)",
+     "https://en.wikipedia.org/wiki/La_Hoya,_%C3%81lava",
+     "https://www.google.com/maps/place/?q=place_id:ChIJJU1yNKz5Tw0R9VMwARqip8Q",
+     "https://www.openstreetmap.org/?mlat=42.56476&mlon=-2.58587#map=18/42.56476/-2.58587"
+    ]
+   }
+  },
+  {
+   "id": "iruna-veleia",
+   "campos": {
+    "lat": 42.8416,
+    "lon": -2.7886,
+    "estilo": "Romano, con muralla tardorromana",
+    "texto": {
+     "general": "<p>Ciudad romana junto al Zadorra, con murallas tardorromanas, habitada durante más de 1.500 años: desde un gran poblado de la Edad del Bronce y del Hierro hasta el siglo V, con un epílogo medieval. Fue <b>Veleia</b>, la principal ciudad de los caristios, en la calzada de Astorga a Burdeos; en 2012 apareció un altar con el nombre de sus habitantes que lo confirmó.</p><p>A fines del siglo III la ciudad, en crisis, se encerró en una <b>muralla</b> que rodea algo más de 10 hectáreas, con torres cuadradas y semicirculares. Fuera de ella, la fotografía aérea ha mostrado barrios enteros de la ciudad anterior, y en 2026 se identificó un <b>circo</b> de unos 280 metros de largo, para unos 5.000 espectadores.</p><p>De aquí es la <b>Dama de Iruña</b>, hallada en 1845, que se expone en el BIBAT de Vitoria. Entre 2005 y 2008 el yacimiento se hizo famoso por unos supuestos «hallazgos excepcionales» que una comisión científica declaró falsos.</p>"
+    },
+    "ver_alli": [
+     "El recorrido por la muralla tardorromana y su puerta.",
+     "Las casas, cisternas y el mercado excavados.",
+     "La Dama de Iruña, en el BIBAT de Vitoria.",
+     "Hay visitas guiadas en temporada y está previsto un centro de visitantes."
+    ],
+    "fuentes": [
+     "https://www.gasteizhoy.com/iruna-veleia-tendra-un-centro-de-visitantes/",
+     "https://es.wikipedia.org/wiki/Iruña-Veleia",
+     "https://www.google.com/maps/place/?q=place_id:ChIJJ9uMPvC_Tw0RzAFoixbBxOY",
+     "https://www.openstreetmap.org/?mlat=42.84212&mlon=-2.78728#map=18/42.84212/-2.78728"
+    ]
+   }
+  },
+  {
+   "id": "salinas-anana",
+   "campos": {
+    "lat": 42.7993,
+    "lon": -2.9842,
+    "estilo": "Salinas de interior (arquitectura tradicional de la sal)",
+    "texto": {
+     "general": "<p>Unas salinas de interior que se explotan desde hace <b>más de 7.000 años</b>. En el siglo I a. C., con Roma, se pasó de hervir la salmuera al fuego a dejar que el sol la evaporase en eras, lo que multiplicó la producción.</p><p>El agua sale de manantiales muy salados, como el de Santa Engracia, y corre por canales de madera hasta miles de terrazas. La explotación está documentada por escrito desde el año 822, y en la Edad Media sus salinas fueron, con las de Poza de la Sal, las más importantes de la península.</p><p>Llegó a tener más de <b>5.000 eras</b>. Abandonado a mediados del siglo XX, el valle es monumento desde 1984, una fundación lo recupera, hoy más de 2.000 eras vuelven a producir sal y la FAO lo ha reconocido como patrimonio agrícola mundial.</p>"
+    },
+    "ver_alli": [
+     "Las terrazas de eras escalonadas y los canales de madera.",
+     "El manantial de Santa Engracia, donde nace la salmuera.",
+     "Visitas guiadas al valle y a las eras."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Valle_Salado_(A%C3%B1ana)",
+     "https://es.wikipedia.org/wiki/Añana",
+     "https://www.google.com/maps/place/?q=place_id:ChIJgz8xX_GYTw0R5OG7xM68pYw",
+     "https://www.openstreetmap.org/?mlat=42.79926&mlon=-2.98421#map=18/42.79926/-2.98421"
+    ]
+   }
+  },
+  {
+   "id": "faido",
+   "campos": {
+    "lat": 42.6651,
+    "lon": -2.6542,
+    "estilo": "Rupestre altomedieval",
+    "texto": {
+     "general": "<p>Cuevas artificiales habitadas en los siglos VI-VII y una ermita excavada en la roca, con una pila bautismal tallada en un solo bloque que podría ser visigoda.</p><p>La ermita de <b>Nuestra Señora de la Peña</b> es una de las iglesias cristianas más antiguas que se conservan en el País Vasco. Tiene dos partes: un vestíbulo de obra adosado a la peña, con arco de medio punto, y el templo excavado en la roca, que aprovecha una iglesia prerrománica. Fue lugar de culto y de bautismo, y después casa de ermitaños. Su Virgen es de los siglos XIII-XIV y en la restauración de 1977 aparecieron pinturas murales.</p><p>Es la única que sigue en uso de la docena de cuevas que se acondicionaron como templos en la zona. Cerca están las cuevas de <b>Kruzia</b>, ocupadas en los siglos VI y VII, con sepulturas e inscripción, y las de San Miguel.</p>"
+    },
+    "ver_alli": [
+     "La iglesia excavada en la peña y su pila bautismal de un solo bloque.",
+     "Las cuevas de Kruzia, junto al camino del pueblo a la ermita.",
+     "Las cuevas son de acceso libre; la ermita se ve con visita guiada concertada."
+    ],
+    "fuentes": [
+     "https://www.gasteizhoy.com/faido-entre-cerros-rocosos-y-cuevas-artificiales/",
+     "https://www.deia.eus/rutas-y-naturaleza/2025/08/07/ermita-virgen-pena-arcaico-culto-9957429.html",
+     "https://www.google.com/maps/place/?q=place_id:ChIJa8L6R9_xTw0RfUQs_ZprebU",
+     "https://www.openstreetmap.org/?mlat=42.66509&mlon=-2.65422#map=18/42.66509/-2.65422"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-santa-maria-de-vitoria",
+   "campos": {
+    "lat": 42.8508,
+    "lon": -2.6725,
+    "estilo": "Gótico",
+    "texto": {
+     "general": "<p>En lo alto de la «Almendra», el casco medieval que Sancho VI de Navarra fundó en <b>1181</b>, la iglesia de Santa María era a la vez templo y parte de la muralla. Se empezó en el siglo XIII, en gótico, y fue colegiata hasta que en 1862 se convirtió en catedral; es la «catedral vieja».</p><p>Arrastraba problemas de estructura desde su origen, y en 1994 la caída de un trozo de bóveda obligó a cerrarla. La restauración se hizo visitable con el lema <b>«Abierto por obras»</b>, premiado por Europa Nostra en 2002. Ken Follett presentó en su pórtico en 2008 <i>Un mundo sin fin</i>, en reconocimiento de la inspiración que le había dado el templo. La restauración terminó en 2025.</p><p>Su gran joya es el <b>pórtico del siglo XIV</b>, con portadas esculpidas. Desde 2015 forma parte del Camino de Santiago del Norte, Patrimonio Mundial.</p>"
+    },
+    "ver_alli": [
+     "El pórtico gótico del siglo XIV y sus portadas esculpidas.",
+     "Los cimientos y la torre, que se recorren en la visita guiada.",
+     "La plaza de Santa María y la Almendra medieval alrededor."
+    ],
+    "fuentes": [
+     "https://www.catedralvitoria.eus/data/galerias/20-Visitas_ES.pdf",
+     "https://es.wikipedia.org/wiki/Catedral_de_Santa_María_(Vitoria)",
+     "https://www.google.com/maps/place/?q=place_id:ChIJaUhXmmnCTw0RG61urdRjy-c",
+     "https://www.openstreetmap.org/?mlat=42.85079&mlon=-2.67239#map=18/42.85079/-2.67239"
+    ]
+   }
+  },
+  {
+   "id": "laguardia",
+   "campos": {
+    "lat": 42.5553,
+    "lon": -2.5854,
+    "estilo": "Villa medieval amurallada",
+    "texto": {
+     "general": "<p>Villa fundada por Sancho VI el Sabio de Navarra, que le dio fueros en <b>1164</b>, en un altozano que vigilaba la frontera: de ahí su nombre, La Guardia de la Sonsierra de Navarra. En el siglo XIII Sancho VII el Fuerte la amuralló; de las puertas antiguas siguen Páganos, Mercadal, San Juan y Santa Engracia, y en el siglo XV se abrió la de Carnicerías.</p><p>El pórtico gótico de <b>Santa María de los Reyes</b> conserva su policromía. Se labró a finales del siglo XIV y se pintó en el XVII; es uno de los pocos pórticos policromados que quedan en España. En las arquivoltas están los apóstoles, en el parteluz la Virgen de los Reyes y en el tímpano escenas de su vida.</p><p>Hoy es la capital del vino de la Rioja Alavesa y la única localidad vasca en Los Pueblos más Bonitos de España.</p>"
+    },
+    "ver_alli": [
+     "El pórtico policromado de Santa María de los Reyes, con visita guiada.",
+     "El paseo por la muralla y la puerta de Páganos, con su mirador sobre los viñedos.",
+     "El poblado de La Hoya, a las afueras."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Laguardia",
+     "https://es.wikipedia.org/wiki/Iglesia_de_Santa_María_de_los_Reyes",
+     "https://www.google.com/maps/place/?q=place_id:ChIJFTmTalH4Tw0RybL95VWH7_o",
+     "https://www.openstreetmap.org/?mlat=42.55528&mlon=-2.58542#map=18/42.55528/-2.58542"
+    ]
+   }
+  },
+  {
+   "id": "santuario-de-estibaliz",
+   "campos": {
+    "estilo": "Románico",
+    "texto": {
+     "general": "<p>Con la portada «Speciosa» y la Virgen románica patrona de Álava.</p><p>Sobre un cerro de la Llanada, Estíbaliz ya era en los siglos X a XII un lugar importante, con monasterio o iglesia y casa fuerte. Su iglesia del <b>siglo XII</b>, de planta de cruz con tres naves y tres ábsides, es una de las joyas del románico vasco y bien de interés cultural desde 1931.</p><p>La <b>Virgen</b>, una talla románica en madera de cerezo del siglo XII, se restauró en 1897 y es patrona de Álava desde 1941. El santuario estuvo abandonado en el siglo XVI y desde 1923 lo cuidan los benedictinos.</p>"
+    },
+    "ver_alli": [
+     "La portada Speciosa.",
+     "La talla románica de la Virgen, junto al altar.",
+     "La pila bautismal románica.",
+     "Acceso libre al templo; el centro de interpretación organiza visitas guiadas."
+    ],
+    "fuentes": [
+     "https://www.euskadi.eus/santuario-de-estibaliz/villafranca-vitoria/web01-a4donjak/es/",
+     "https://www.wikidata.org/wiki/Q1139113",
+     "https://turismovasco.com/araba/que-ver-araba/santuario-de-estibaliz/"
+    ]
+   }
+  },
+  {
+   "id": "san-prudencio-de-armentia",
+   "campos": {
+    "lat": 42.8331,
+    "lon": -2.702,
+    "estilo": "Románico, reformado en el siglo XVIII",
+    "texto": {
+     "general": "<p>Armentia fue sede de un obispado de Álava desde finales del siglo IX hasta 1087, y aquí nació, según la tradición, <b>san Prudencio</b>, patrón de Álava. La iglesia románica se levantó en las últimas décadas del siglo XII, hacia la fundación de Vitoria, y entre 1773 y 1776 se reformó a fondo: se rehicieron los muros y la escultura se recolocó.</p><p>Conserva dos <b>tímpanos románicos</b>: la Ascensión de Cristo con los apóstoles y el del Cordero de Dios con un crismón, de la escuela de Jaca. También hay relieves como el del <b>Descenso a los Infiernos</b>, con Cristo sacando a los primeros padres del Limbo, o el Santo Entierro, parecido al de Silos.</p>"
+    },
+    "ver_alli": [
+     "Los tímpanos de la Ascensión y del Cordero, en el pórtico.",
+     "Los relieves del Descenso a los Infiernos y del Santo Entierro.",
+     "El ábside, la única parte que no envuelven los muros del siglo XVIII.",
+     "Se puede llegar a pie o en bici por la senda de Armentia."
+    ],
+    "fuentes": [
+     "https://www.euskadi.eus/en/cultural-heritage/basilica-of-san-prudencio/aa30-12375/en/",
+     "https://es.wikipedia.org/wiki/Basílica_de_San_Prudencio_(Armentia)",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ60vcP_7BTw0RG6wqtN5P8rQ",
+     "https://www.openstreetmap.org/?mlat=42.83312&mlon=-2.70204#map=18/42.83312/-2.70204"
+    ]
+   }
+  },
+  {
+   "id": "asuncion-de-tuesta",
+   "campos": {
+    "lat": 42.8092,
+    "lon": -3.0242,
+    "estilo": "Transición del románico al gótico",
+    "texto": {
+     "general": "<p>Portada con capiteles historiados, una joya del románico alavés. La iglesia es un gran ejemplo en Álava del paso del <b>románico al gótico</b>: no se conoce la fecha exacta, pero casi todo debió de hacerse entre la segunda mitad del siglo XII y la primera del XIII.</p><p>La portada está llena de ángeles y personas, fieras y monstruos, aves y vegetales. El pórtico que la cubre es muy posterior, de 1795. Dentro hay una pequeña bóveda de cinco lados con ventanales, un retablo de finales del siglo XVI y una escultura de la Virgen Blanca.</p>"
+    },
+    "ver_alli": [
+     "Los capiteles y arquivoltas de la portada.",
+     "La bóveda de la cabecera, de cinco lados.",
+     "La Virgen Blanca.",
+     "Exterior libre; interior concertado o en horario de culto."
+    ],
+    "fuentes": [
+     "https://alavaturismo.eus/en/church-of-our-lady-of-the-assumption-tuesta",
+     "https://es.wikipedia.org/wiki/Tuesta",
+     "https://www.google.com/maps/place/?q=place_id:ChIJEU1tM0mfTw0RSGeJJ8oJn1s",
+     "https://www.openstreetmap.org/?mlat=42.80923&mlon=-3.02421#map=18/42.80923/-3.02421"
+    ]
+   }
+  },
+  {
+   "id": "plaza-de-espana-de-vitoria",
+   "campos": {
+    "lat": 42.8465,
+    "lon": -2.6724,
+    "estilo": "Neoclásico",
+    "texto": {
+     "general": "<p>Plaza Nueva neoclásica, de 1781, de Justo Antonio de Olaguíbel, porticada y cerrada, con el Ayuntamiento en uno de sus lados. Unió la ciudad medieval de la colina con los nuevos barrios del llano.</p><p>Las obras empezaron el 17 de octubre de <b>1781</b>, en el 600 aniversario de la fundación de Vitoria, y se inauguró en 1791. Es un <b>cuadrado de 61 metros</b> de lado con soportales de arcos de medio punto. Para salvar un desnivel de casi veinte metros se construyeron los Arquillos.</p><p>Sirvió de modelo a las plazas de San Sebastián y Bilbao. Se llamó Plaza Nueva, de la Constitución, de Alfonso XIII y de la República, y es Plaza de España desde 1936.</p>"
+    },
+    "ver_alli": [
+     "La fachada del Ayuntamiento, con su frontón y el escudo.",
+     "Los soportales de los cuatro lados.",
+     "Los Arquillos, al lado, que salvan el desnivel con la ciudad vieja."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Plaza_de_España_(Vitoria)",
+     "https://www.google.com/maps/place/?q=place_id:ChIJvxilvm7CTw0R2vJc8zjPoig",
+     "https://www.openstreetmap.org/?mlat=42.84647&mlon=-2.67241#map=18/42.84647/-2.67241"
+    ]
+   }
+  },
+  {
+   "id": "monumento-a-la-batalla-de-vitoria",
+   "campos": {
+    "lat": 42.8466,
+    "lon": -2.6733,
+    "estilo": "Escultura conmemorativa de principios del siglo XX",
+    "texto": {
+     "general": "<p>En la plaza de la Virgen Blanca se levanta el monumento a la batalla del <b>21 de junio de 1813</b>, en la que Wellington derrotó al ejército de José Bonaparte, que tuvo que dejar España. Las tropas aliadas, españolas, británicas y portuguesas, las mandaban Wellington y el general alavés Miguel Ricardo de Álava.</p><p>La idea nació en 1813, pero no salió adelante hasta un siglo después. En 1913 se convocó un concurso que ganó el escultor <b>Gabriel Borrás</b>, y el monumento, de piedra y bronce, se inauguró el 4 de agosto de 1917.</p><p>Tiene tres pisos. Arriba, la Victoria, y un león, el ejército aliado, que pisa el águila napoleónica. En medio, Wellington a caballo y otras figuras de los aliados; abajo, los cañones franceses a sus pies.</p>"
+    },
+    "ver_alli": [
+     "La Victoria y el león que pisa el águila, en lo alto.",
+     "Wellington a caballo, en el piso central.",
+     "Los cañones franceses de la base."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monumento_a_la_Batalla_de_Vitoria",
+     "https://www.google.com/maps/place/?q=place_id:ChIJF2bSpm7CTw0R7kAu7UgkkWE",
+     "https://www.openstreetmap.org/?mlat=42.84656&mlon=-2.67331#map=18/42.84656/-2.67331"
+    ]
+   }
+  },
+  {
+   "id": "museo-ciencias-naturales-alava",
+   "campos": {
+    "lat": 42.8503,
+    "lon": -2.6746,
+    "estilo": "Casa torre medieval (torre de Doña Otxanda)",
+    "ver_alli": [
+     "La planta de ciencias de la Tierra, con los vertebrados terciarios de Zambrana y la flora y fauna fósiles de Izarra.",
+     "La planta baja, con el ámbar alavés e insectos atrapados del Cretácico.",
+     "Está en la calle Fundadora de las Siervas de Jesús, 24, en el casco viejo."
+    ],
+    "fuentes": [
+     "https://alavaturismo.eus/en/-/museum-of-natural-sciences",
+     "https://www.ehu.eus/es/web/campusa/-/nuevas-especies-de-pseudocaballos-de-hace-37-millones-de-a%C3%B1os",
+     "https://web.araba.eus/documents/d/araba/carta_servicios_museos_dfa_es_2026_web",
+     "https://es.wikipedia.org/wiki/Museo_de_Ciencias_Naturales_de_Álava",
+     "https://www.google.com/maps/place/?q=place_id:ChIJHQzfOWrCTw0RLbvZcjwVjWY",
+     "https://www.openstreetmap.org/?mlat=42.85023&mlon=-2.67457#map=18/42.85023/-2.67457"
+    ]
+   }
+  }
+ ]
+}

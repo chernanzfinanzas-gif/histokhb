@@ -1,0 +1,781 @@
+{
+ "zona": "Salamanca",
+ "nuevos": [
+  {
+   "id": "casa-de-las-conchas",
+   "nombre": "Casa de las Conchas",
+   "provincia": "Salamanca",
+   "comarca": "Salamanca",
+   "lat": 40.9629,
+   "lon": -5.6658,
+   "tipo": "monumento",
+   "estilo": "Gótico tardío y plateresco",
+   "epoca": "Gótico",
+   "anio": 1493,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Pocas fachadas de Salamanca son tan fotografiadas como esta, cubierta por <b>más de 300 conchas</b> de piedra. Es un palacio urbano que se empezó hacia <b>1493</b> y se terminó en <b>1517</b>, por encargo de <b>Rodrigo Maldonado de Talavera</b>, caballero de la Orden de Santiago, catedrático y rector de la Universidad y miembro del Consejo Real; lo acabó su hijo, padre del caudillo comunero Pedro Maldonado.</p><p>Mezcla el <b>gótico tardío</b> con el nuevo gusto plateresco y un toque mudéjar: las conchas se disponen <b>a tresbolillo</b>, siguiendo la tradición mudéjar de la decoración en rombos. Sobre la puerta campea el escudo de los Maldonado, con delfines en el dintel, y las <b>cuatro grandes ventanas góticas</b> son todas distintas. La torre, como otras de la ciudad, fue desmochada y perdió dos tercios de su altura.</p><p>Dentro destaca el <b>patio con arcos mixtilíneos</b>, la escalera y el artesonado. Fue también cárcel de la Universidad, se declaró Monumento Nacional en 1929 y desde 1993 es <b>Biblioteca Pública</b>, de modo que se puede entrar a ver el patio.</p>"
+   },
+   "ver_alli": [
+    "Las conchas a tresbolillo y los escudos de la fachada.",
+    "Las cuatro ventanas góticas, cada una con un diseño diferente.",
+    "El patio de arcos mixtilíneos, entrando en la biblioteca."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Casa_de_las_Conchas_(Salamanca)",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJacFFbhUmPw0R2jprhgoQiW4"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "puente-romano-de-salamanca",
+   "nombre": "Puente Romano de Salamanca",
+   "provincia": "Salamanca",
+   "comarca": "Salamanca",
+   "lat": 40.9579,
+   "lon": -5.6701,
+   "tipo": "monumento",
+   "estilo": "Romano",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>El puente Mayor del Tormes nació para que la <b>Vía de la Plata</b>, la calzada que unía Mérida con Astorga, pudiera cruzar el río a la altura de Salamanca. No se sabe con exactitud cuándo se construyó, pero se sitúa en el <b>siglo I</b>, entre Augusto y Vespasiano: es un monumento con unos <b>dos mil años</b>.</p><p>Tiene <b>26 arcos</b> en dos partes separadas por un castillete central: la «puente vieja», junto a la ciudad, conserva los <b>15 primeros arcos romanos</b>, de granito de Los Santos; la «puente nueva» es posterior. La gran riada de San Policarpo, en <b>1626</b>, fue una de las catástrofes que más lo dañaron, y ha sobrevivido a varias restauraciones e intentos de derribo.</p><p>Hasta comienzos del siglo XX fue el único acceso a la ciudad desde el sur y aún soportó tráfico pesado hasta 1973; hoy es peatonal. Figura en el <b>escudo de Salamanca</b> junto al toro-verraco de piedra, de época vetona, que está a su entrada.</p>"
+   },
+   "ver_alli": [
+    "Los arcos romanos de la parte más cercana a la ciudad.",
+    "El verraco de piedra a la entrada del puente.",
+    "Desde la otra orilla, la vista de las dos catedrales sobre el río."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Puente_romano_de_Salamanca",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJJYsVDUcmPw0RzLFU9ThIGBA"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "convento-de-las-duenas-salamanca",
+   "nombre": "Convento de las Dueñas",
+   "provincia": "Salamanca",
+   "comarca": "Salamanca",
+   "lat": 40.9611,
+   "lon": -5.6633,
+   "tipo": "iglesia",
+   "estilo": "Mudéjar, gótico y plateresco",
+   "epoca": "Renacimiento",
+   "anio": 1419,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>En la plaza del Concilio de Trento, el convento de dominicas de las Dueñas lo fundó en <b>1419</b> <b>Juana Rodríguez de Monroy</b>, esposa de Fernando Alfonso de Olivera, como beaterio para señoras nobles; de ahí el nombre que le dio el pueblo. Se instaló en un palacio de fines del siglo XIV, del que quedan restos <b>mudéjares</b>, como un arco de herradura apuntado con enjutas de azulejos negros y verdes.</p><p>En <b>1533</b> se construyeron la iglesia y el claustro. La iglesia, gótica, con bóvedas de crucería de terceletes y portada plateresca, es obra del dominico fray Martín de Santiago.</p><p>Pero la estrella es el <b>claustro</b>, de una rara <b>planta pentagonal irregular</b>. Sus capiteles, de autor desconocido, son de una fantasía inagotable: en las enjutas asoman monstruos y grutescos que sorprenden a cualquiera que se fije.</p>"
+   },
+   "ver_alli": [
+    "Los capiteles del claustro, con monstruos y grutescos.",
+    "El arco mudéjar de herradura, resto del palacio del siglo XIV.",
+    "Desde el claustro, la vista de las torres de la catedral."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Convento_de_las_Due%C3%B1as_(Salamanca)",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ70-ezBQmPw0RO4yGWCGbeYg"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "colegio-del-arzobispo-fonseca",
+   "nombre": "Colegio del Arzobispo Fonseca",
+   "provincia": "Salamanca",
+   "comarca": "Salamanca",
+   "lat": 40.9653,
+   "lon": -5.6701,
+   "tipo": "monumento",
+   "estilo": "Renacimiento",
+   "epoca": "Renacimiento",
+   "anio": 1521,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>El Colegio Mayor del Arzobispo Fonseca, conocido popularmente como <b>Colegio de los Irlandeses</b> porque en él estudiaron los alumnos irlandeses que había en España desde los tiempos de Felipe II, es una de las grandes obras del Renacimiento salmantino. Lo fundó el arzobispo de Toledo <b>Alonso de Fonseca</b> y se empezó a construir en <b>1521</b>.</p><p>El proyecto fue de <b>Juan de Álava</b>, y en la obra intervinieron también <b>Diego de Siloé</b>, Gil de Hontañón y Alonso de Covarrubias. Se entra por un zaguán con bóveda de crucería estrellada al <b>patio</b>, de dos pisos: abajo arcos de medio punto y arriba arcos rebajados, decorados con medallones de Juan de Álava y Pedro de Ibarra.</p><p>En la capilla se conserva el <b>retablo de Alonso Berruguete</b>, con sus pinturas y esculturas. Hoy el edificio pertenece a la Universidad y funciona como residencia universitaria.</p>"
+   },
+   "ver_alli": [
+    "El patio de dos pisos: arcos de medio punto abajo y rebajados arriba.",
+    "Los medallones con bustos que decoran las arquerías.",
+    "En la capilla, el retablo de Alonso Berruguete."
+   ],
+   "fuentes": [
+    "https://www.spain.info/es/lugares-interes/colegio-mayor-arzobispo-fonseca/",
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/edificios/colegio-fonseca",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJMTA5mz4mPw0Rwk0nxTYKGeo"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "casa-lis-museo-art-nouveau-y-art-deco",
+   "nombre": "Casa Lis (Museo Art Nouveau y Art Déco)",
+   "provincia": "Salamanca",
+   "comarca": "Salamanca",
+   "lat": 40.9596,
+   "lon": -5.6668,
+   "tipo": "museo",
+   "estilo": "Modernismo",
+   "epoca": "Siglo XX",
+   "anio": 1905,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Sobre la vieja muralla, mirando al Tormes, se levanta la Casa Lis, un palacete <b>modernista</b> que hoy alberga el <b>Museo de Art Nouveau y Art Déco</b>. Lo encargó <b>Miguel de Lis</b>, industrial del curtido que viajaba por Europa y conoció el «arte nuevo», al arquitecto <b>Joaquín de Vargas</b>, autor también del Mercado de Abastos; se empezó a finales del XIX y se remató en <b>1905</b>.</p><p>Tiene dos caras. La fachada norte, a la calle Gibraltar, es la única muestra de modernismo de la ciudad, con influencias del Art Nouveau belga. La sur, la que da al río, combina un muro de piedra con <b>galerías de hierro y cristal</b> y una escalera que sube a una gran terraza. El patio central se cerró con una gran <b>vidriera emplomada</b> de colores que representa el cielo, las nubes, la luna y las estrellas, y en los herrajes de la galería alta aparece la flor de lis, en honor al apellido del dueño.</p><p>Abandonada y en ruina, la expropió el Ayuntamiento, y la colección de art déco y art nouveau cedida por <b>Manuel Ramos Andrade</b> la convirtió en museo.</p>"
+   },
+   "ver_alli": [
+    "Desde el río, la fachada sur de hierro y cristal.",
+    "La vidriera de colores que cubre el patio central.",
+    "Las flores de lis en los herrajes de la galería alta."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Casa_Lis",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJxcJqoGomPw0R_QmriWNzG6k"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-enrique-ii-ciudad-rodrigo",
+   "nombre": "Castillo de Enrique II",
+   "provincia": "Salamanca",
+   "comarca": "Ciudad Rodrigo",
+   "lat": 40.5964,
+   "lon": -6.5361,
+   "tipo": "castillo",
+   "estilo": "Gótico militar",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1372,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Asomado al río Águeda, en un extremo del recinto amurallado de Ciudad Rodrigo, se alza el castillo de Enrique II. Aunque lleva su nombre, el castillo original lo mandó construir <b>Fernando II de León</b>; <b>Enrique II</b>, el primer Trastámara, lo reconstruyó con el arquitecto zamorano <b>Lope Arias Jenízaro</b>, y una placa sobre el arco de entrada da la fecha: <b>1 de junio de 1372</b>.</p><p>Todo gira en torno a la <b>torre del homenaje</b>, cuadrada, de 17 metros de lado, con dos pisos y terraza. El recinto es cuadrado, salvo por el lado del río, con torres almenadas en las esquinas, y quedó integrado en las murallas de la ciudad.</p><p>Fue sede del museo de la ciudad entre 1928 y 1936 y desde <b>1931</b> es un <b>Parador de Turismo</b>, ampliado en 1943 y en 2000.</p><p class=\"dato\"><span>¿Sabías que…?</span>En sus piedras se han catalogado <b>1.484 marcas de cantero</b> de 214 tipos distintos, la firma de los equipos que lo levantaron.</p>"
+   },
+   "ver_alli": [
+    "La placa de 1372 sobre el arco de entrada.",
+    "La gran torre del homenaje en el centro del recinto.",
+    "Desde la muralla junto al castillo, la vista del Águeda."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Enrique_II",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ8yu293UvPA0RtoFu7F35Q4o"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "la-alberca",
+   "nombre": "La Alberca",
+   "provincia": "Salamanca",
+   "comarca": "Sierra de Francia",
+   "lat": 40.489,
+   "lon": -6.1107,
+   "tipo": "poblacion",
+   "estilo": "Arquitectura popular serrana",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>La Alberca fue el <b>primer pueblo de España declarado conjunto histórico-artístico</b>, en <b>1940</b>. Su nombre viene del árabe «al-birka», el estanque, y parte del pueblo se asienta sobre un <b>castro prerromano</b>. Se repobló entre los siglos XII y XIII por decisión de <b>Alfonso IX de León</b>, con gentes entre las que hubo muchas de origen francés, lo que explicaría los topónimos franceses de la sierra.</p><p>Su caserío guarda un detalle curioso: en los dinteles de las puertas abundan las <b>inscripciones religiosas</b>, que podrían indicar que sus vecinos eran conversos que así reafirmaban su fe. La iglesia de la Asunción, del siglo XVIII, se terminó en 1733, el mismo año que la catedral nueva de Salamanca.</p><p>El pueblo vive sus tradiciones con fuerza: el <b>Ofertorio</b> y la <b>Loa</b> de mediados de agosto, con los trajes típicos, o el «<b>marrano de San Antón</b>», un cerdo que se bendice en junio, campa libre por las calles y se rifa el 17 de enero.</p>"
+   },
+   "ver_alli": [
+    "La Plaza Mayor y el caserío serrano.",
+    "Las inscripciones religiosas grabadas en los dinteles de las puertas.",
+    "La iglesia de la Asunción y su torre, más antigua que el templo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/La_Alberca_(Salamanca)",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJe026_mGKPg0Ry2Uvo3EaLQo"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "candelario",
+   "nombre": "Candelario",
+   "provincia": "Salamanca",
+   "comarca": "Sierra de Béjar",
+   "lat": 40.3683,
+   "lon": -5.7446,
+   "tipo": "poblacion",
+   "estilo": "Arquitectura popular de montaña",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>En la sierra de Béjar, rodeado de robles y castaños bajo cumbres de más de 2.000 metros, Candelario es <b>conjunto histórico desde 1975</b>. Su arquitectura es inconfundible: casas de anchos muros de piedra y varias plantas, grandes aleros contra la nieve y amplias balconadas de madera.</p><p>Todo responde a su tradición <b>chacinera</b>. En la planta baja estaba el patio donde se despiezaba el cerdo y el «picadero» donde se hacía el embutido, que se curaba en el desván y en las galerías. Como la matanza se hacía en la calle, se crearon las <b>regaderas</b>, canalillos de agua de los neveros de la sierra que bajan por las calles empinadas y las mantenían limpias.</p><p>En las entradas están las famosas <b>batipuertas</b>, que servían de burladero para apuntillar a las reses desde dentro y permitía cerrar el paso con el portón abierto. La iglesia de la Asunción tiene un artesonado mudéjar y retablos barrocos.</p>"
+   },
+   "ver_alli": [
+    "Las batipuertas delante de las casas.",
+    "Las regaderas de agua bajando por las calles.",
+    "Las balconadas de madera donde se secaba el embutido."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Candelario",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJizEbLKFSPg0RQB31WgeHBQQ"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "miranda-del-castanar",
+   "nombre": "Miranda del Castañar",
+   "provincia": "Salamanca",
+   "comarca": "Sierra de Francia",
+   "lat": 40.4844,
+   "lon": -5.999,
+   "tipo": "poblacion",
+   "estilo": "Villa amurallada medieval",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1213,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Sobre una loma de la Sierra de Francia, Miranda del Castañar es un pueblo encerrado en sus murallas y coronado por un castillo. Nació en el siglo XII con la orden <b>Hospitalaria de Jerusalén</b> y en <b>1213</b> <b>Alfonso IX de León</b> la hizo villa y concejo, capital administrativa de la Sierra de Francia, de la que dependían casi todos los pueblos serranos.</p><p>Su recinto amurallado conserva sus <b>cuatro puertas</b>, entre ellas la de la Villa, al norte, la del Postigo, al sur, y la de San Ginés, al este. Dentro, el castillo de los Zúñiga, condes de Miranda, y una <b>plaza de toros</b> instalada en el antiguo patio de armas.</p><p>El casco histórico fue declarado conjunto histórico-artístico el <b>8 de marzo de 1973</b>. Sus calles estrechas y empinadas, con casas de piedra y entramado de madera, conservan el aire de la villa que gobernó la sierra.</p>"
+   },
+   "ver_alli": [
+    "Un paseo buscando las cuatro puertas de la muralla.",
+    "El castillo de los Zúñiga y la plaza de toros a sus pies.",
+    "Las casas serranas de entramado y balcones en las calles altas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Miranda_del_Casta%C3%B1ar",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJcSGn__P1Pg0RCWTDLadaXzI"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "convento-de-la-anunciacion-alba-de-tormes",
+   "nombre": "Convento de la Anunciación (Carmelitas de Alba de Tormes)",
+   "provincia": "Salamanca",
+   "comarca": "Alba de Tormes",
+   "lat": 40.8265,
+   "lon": -5.5145,
+   "tipo": "iglesia",
+   "estilo": "Arquitectura carmelitana",
+   "epoca": "Renacimiento",
+   "anio": 1571,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>En este convento de carmelitas descalzas reposa <b>santa Teresa de Jesús</b>. Fue su <b>octava fundación</b>, en <b>1571</b>, el día de la conversión de san Pablo, impulsada como patronos por Francisco Vázquez y Teresa de Laíz. Una tradición local cuenta que <b>san Juan de la Cruz</b> ayudó en las obras con sus propias manos.</p><p>La santa llegó aquí gravemente enferma el 20 de septiembre de 1582 y murió el <b>4 de octubre de 1582</b>. La iglesia, pensada como panteón de los fundadores, se convirtió de hecho en el suyo, y su sepulcro impulsó las reformas del templo. En el <b>retablo mayor</b> se guarda el sepulcro con su cuerpo, y a los lados se exponen su <b>brazo y su corazón</b>.</p><p>La arquitectura es la que Teresa quería para sus conventos, <b>austera y esencial</b>. Desde 2014, el <b>Museo Carmelitano</b> muestra el patrimonio del convento e incluye la celda donde murió.</p>"
+   },
+   "ver_alli": [
+    "En el retablo mayor, el sepulcro de santa Teresa.",
+    "A los lados del altar, los relicarios del brazo y el corazón.",
+    "En el museo, la celda donde murió la santa."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Alba_de_Tormes",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJh6Eg-CkWPw0RfCfrGoeb-2E"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "el-bosque-de-bejar",
+   "nombre": "El Bosque de Béjar",
+   "provincia": "Salamanca",
+   "comarca": "Béjar",
+   "lat": 40.3883,
+   "lon": -5.745,
+   "tipo": "monumento",
+   "estilo": "Jardín renacentista",
+   "epoca": "Renacimiento",
+   "anio": 1567,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>A las afueras de Béjar, El Bosque fue la <b>villa de recreo de los duques de Béjar</b> y es uno de los <b>jardines renacentistas de tipo italiano más antiguos de España</b>. Los duques canalizaron un arroyo para formar un <b>gran estanque</b> y numerosas fuentes; la primera mención documentada del estanque es de <b>1567</b>.</p><p>El conjunto reúne estanque, una fuente monumental, plazoleta, balaustradas, bancos, graderías y un palacete. Su arboleda forma casi un jardín botánico, con árboles singulares como una gran <b>secuoya gigante</b> plantada en el siglo XIX; los últimos añadidos importantes son de 1896.</p><p>Fue declarado <b>jardín artístico en 1946</b> y desde 1999 pertenece al Ayuntamiento de Béjar y a la Junta de Castilla y León.</p>"
+   },
+   "ver_alli": [
+    "El gran estanque con el palacete al fondo.",
+    "La fuente monumental y las graderías.",
+    "La secuoya gigante del siglo XIX."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Parque_de_El_Bosque",
+    "https://www.google.com/maps/place/?q=place_id:ChIJuzyDHzlTPg0RDkuTNB7d4K4"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-martin-del-castanar",
+   "nombre": "San Martín del Castañar",
+   "provincia": "Salamanca",
+   "comarca": "Sierra de Francia",
+   "lat": 40.5222,
+   "lon": -6.0645,
+   "tipo": "poblacion",
+   "estilo": "Arquitectura popular serrana",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>En el corazón de la Sierra de Francia, San Martín del Castañar es un pequeño pueblo de casas serranas. Nació con la repoblación de los reyes de León, y en <b>1225</b> <b>Alfonso IX</b> lo donó al obispo de Salamanca como señorío.</p><p>En lo alto se levanta su <b>castillo del siglo XV</b>, mandado construir por el conde de Miranda del Castañar como castillo palaciego. Cayó en desuso y en <b>1834</b> se decidió instalar el <b>cementerio</b> del pueblo dentro de sus murallas. Hoy acoge además el centro de interpretación de la Reserva de la Biosfera de las sierras de Béjar y Francia.</p><p>Junto a él está su peculiar <b>plaza de toros</b>, de forma entre ovalada y rectangular, que nació del antiguo patio de armas, donde se guardaba el ganado de los vecinos.</p>"
+   },
+   "ver_alli": [
+    "La Plaza Mayor, con su fuente y las casas de entramado.",
+    "El castillo con el cementerio dentro de sus murallas.",
+    "La plaza de toros junto al castillo y la vista de la Peña de Francia."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/San_Mart%C3%ADn_del_Casta%C3%B1ar",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJJy0-kNP0Pg0RJTutxe3pDaE"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "ledesma",
+   "nombre": "Ledesma",
+   "provincia": "Salamanca",
+   "comarca": "Tierra de Ledesma",
+   "lat": 41.0904,
+   "lon": -5.9985,
+   "tipo": "poblacion",
+   "estilo": "Villa amurallada medieval",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Sobre una muela junto al Tormes, Ledesma es la villa más importante del norte salmantino. Fue la <b>Bletisama</b> prerromana y romana: en la sacristía de Santa María la Mayor hay empotrada una lápida del emperador <b>Augusto</b> que marcaba los límites entre Bletisama, Miróbriga y Salamanca.</p><p>La rodean <b>más de 3 kilómetros de muralla</b>. La mayor parte es de finales del siglo XII, cuando <b>Fernando II de León</b> fortificó la villa con una gran muralla de sillería, torres y ocho puertas, y construyó una fortaleza en su lado más débil. En <b>1462</b> el señorío pasó a <b>Beltrán de la Cueva</b>, valido de Enrique IV, que reformó murallas y castillo y llenó la villa de obras.</p><p>Su conjunto histórico, declarado en <b>1975</b>, reúne la iglesia de Santa María la Mayor, palacios de los siglos XV al XIX, la fortaleza y el <b>puente viejo</b> sobre el Tormes, cuyo segundo arco volaron los franceses en 1812 al huir.</p>"
+   },
+   "ver_alli": [
+    "La iglesia de Santa María la Mayor y, en su sacristía, la lápida de Augusto.",
+    "Los lienzos de muralla y la fortaleza, junto a la plaza de la Fortaleza.",
+    "El puente viejo sobre el Tormes, visto desde el puente nuevo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Ledesma_(Salamanca)",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ12_FWnHLPg0R-YsPT3YCsx0"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "mogarraz",
+   "nombre": "Mogarraz",
+   "provincia": "Salamanca",
+   "comarca": "Sierra de Francia",
+   "lat": 40.4924,
+   "lon": -6.0525,
+   "tipo": "poblacion",
+   "estilo": "Arquitectura popular serrana",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Mogarraz, en la Sierra de Francia, fue declarado <b>conjunto histórico en 1998</b>. Su fundación se debe a la repoblación de los reyes leoneses, y desde 1213 formó parte del alfoz de Miranda del Castañar.</p><p>Sus calles muestran la mejor <b>arquitectura serrana</b>: fachadas de <b>entramado de madera</b> relleno de mampostería y símbolos grabados en la piedra de las puertas, que invitan a ir descubriéndolos. La iglesia parroquial tiene planta de cruz latina y altar barroco.</p><p>Lo que lo ha hecho famoso son sus <b>retratos</b>: en las fachadas cuelgan los rostros de <b>388 vecinos</b> que no emigraron en los años sesenta, una exposición permanente que ha «resucitado» a toda una generación del pueblo.</p>"
+   },
+   "ver_alli": [
+    "Los retratos de los vecinos colgados en las fachadas.",
+    "Los entramados de madera de las casas serranas.",
+    "Los símbolos grabados en los dinteles de piedra."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Mogarraz",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJuW_0skb1Pg0R5ZJqsEc4hwc"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-de-anaya-salamanca",
+   "nombre": "Palacio de Anaya",
+   "provincia": "Salamanca",
+   "comarca": "Salamanca",
+   "lat": 40.9616,
+   "lon": -5.6653,
+   "tipo": "monumento",
+   "estilo": "Neoclásico",
+   "epoca": "Ilustración y Neoclásico",
+   "anio": 1760,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Frente a la catedral nueva, el Palacio de Anaya es el antiguo <b>Colegio Mayor de San Bartolomé</b>, fundado en <b>1401</b> por <b>Diego de Anaya Maldonado</b>. El edificio actual se empezó en <b>1760</b> y es uno de los pocos <b>neoclásicos</b> de la ciudad, obra de <b>José de Hermosilla</b> y Juan de Sagarvinaga.</p><p>Hoy alberga la <b>Facultad de Filología</b> de la Universidad de Salamanca.</p><p>A su lado está la iglesia barroca de <b>San Sebastián</b>, antigua capilla del colegio, y la <b>Hospedería</b>, de 1715, obra de Joaquín Churriguera, donde vivían los estudiantes que se pagaban la carrera sirviendo a sus compañeros nobles y ricos.</p>"
+   },
+   "ver_alli": [
+    "La fachada neoclásica sobre la plaza de Anaya.",
+    "El claustro interior, en la facultad.",
+    "Al lado, la iglesia de San Sebastián y la Hospedería de Churriguera."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Palacio_de_Anaya",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJLx4HOBUmPw0RgfQeiI77RxA"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "siega-verde",
+   "campos": {
+    "estilo": "Arte rupestre paleolítico al aire libre",
+    "ver_alli": [
+     "Aula arqueológica y recorrido por los paneles grabados con visitas guiadas.",
+     "Entre caballos, uros y ciervos, pide que te señalen los renos y rinocerontes, animales de clima glaciar.",
+     "Ciudad Rodrigo, con su catedral y su muralla, a unos 20 km."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Sitios_de_arte_rupestre_prehist%C3%B3rico_del_valle_del_Coa_y_de_Siega_Verde",
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/siega-verde"
+    ],
+    "lat": 40.6972,
+    "lon": -6.6609
+   }
+  },
+  {
+   "id": "las-merchanas",
+   "campos": {
+    "lat": 40.9724,
+    "lon": -6.6561,
+    "estilo": "Castro vetón",
+    "texto": {
+     "general": "<p>El castro de Las Merchanas ocupa un <b>meandro del río Camaces</b>, en Lumbrales, en la frontera de las Arribes. Lo fundaron los <b>vetones</b>, el pueblo prerromano de los verracos, y aprovecharon el río y los cerros rocosos como defensa natural: la muralla solo cierra los tramos más vulnerables.</p><p>El recinto tiene unas <b>8,5 hectáreas</b>, pero buena parte son tesos de roca donde no se podía vivir, y se cree que casi la mitad servía para guardar el <b>ganado</b>. La puerta principal, al este, se cerraba entre dos torreones dispuestos en embudo. Delante de ella, un camino de <b>piedras hincadas</b>, «La Estacada», frenaba a infantes y jinetes. Junto a la llamada puerta vetona hay hoy un <b>verraco</b>.</p><p>El castro siguió habitado en época romana: se han encontrado restos del <b>Bajo Imperio</b> y un edificio público romano.</p>"
+    },
+    "ver_alli": [
+     "Desde el aparcamiento, una senda señalizada con paneles lleva hasta el castro.",
+     "La puerta principal en embudo y el verraco junto a la puerta vetona.",
+     "El camino de piedras hincadas, «La Estacada», delante de la muralla."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Castro_de_Las_Merchanas",
+     "https://es.wikipedia.org/wiki/Castro_de_Las_Merchanas",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Las%20Merchanas%20Lumbrales",
+     "https://www.google.com/maps/place/?q=place_id:ChIJq1WWi4YOPA0R5x4BNYvL4mY"
+    ]
+   }
+  },
+  {
+   "id": "yecla-vieja",
+   "campos": {
+    "lat": 40.9469,
+    "lon": -6.4887,
+    "estilo": "Castro vetón",
+    "texto": {
+     "general": "<p>Al sur de Yecla de Yeltes, sobre un promontorio junto al arroyo Varlaña, se conserva uno de los castros con <b>murallas</b> más gruesas y completas de la provincia. Lo fundaron los <b>vetones</b> hacia el <b>siglo V a.&nbsp;C.</b> y encierra unas <b>5 hectáreas</b>.</p><p>Lo más sorprendente son los <b>grabados</b>: en muchas piedras de la muralla hay figuras de <b>caballos</b>, algunos con <b>jinete</b>. Fuera del recinto, por el lado oeste, quedan zonas de <b>piedras hincadas</b>, clavadas de pie para frenar los asaltos de la caballería.</p><p>El castro siguió en uso en época romana y hasta la Alta Edad Media. Ya abandonado, en tiempos de los <b>Reyes Católicos</b> se levantó dentro del recinto la ermita de la <b>Virgen del Castillo</b>, que sigue abierta al culto.</p>"
+    },
+    "ver_alli": [
+     "Rodea la muralla buscando los caballos y jinetes grabados en sus piedras.",
+     "Las piedras hincadas, en el lado oeste, fuera del recinto.",
+     "La ermita de la Virgen del Castillo, dentro del castro.",
+     "En la plaza Mayor del pueblo, el aula arqueológica ayuda a preparar la visita."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Castro_de_Yecla_la_Vieja",
+     "https://es.wikipedia.org/wiki/Castro_de_Yecla_la_Vieja",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Castro%20Vet%C3%B3n%20de%20Yecla%20la%20Vieja",
+     "https://www.google.com/maps/place/?q=place_id:ChIJfVTJRFcDPA0RswiV3yIQsBA"
+    ]
+   }
+  },
+  {
+   "id": "saldeana",
+   "campos": {
+    "lat": 41.0172,
+    "lon": -6.6501,
+    "estilo": "Castro vetón",
+    "texto": {
+     "general": "<p>Castro vetón con una muralla de casi 200 metros y un gran campo de piedras hincadas. Se alza en la margen derecha del <b>río Huebra</b>, donde se le une el Arroyo Grande, sobre barrancos de granito de más de cien metros, en una zona muy escarpada. Ocupa cerca de <b>4 hectáreas</b> y se data en la <b>Segunda Edad del Hierro</b>, hacia el siglo V a.&nbsp;C.</p><p>La muralla, gruesa y en talud, de piedra sin argamasa, cierra los flancos norte y este, los únicos que no protegen los barrancos, y tiene dos puertas en embudo. Dentro se intuyen, bajo la vegetación, restos de casas de planta rectangular.</p><p>Su campo de piedras hincadas es uno de los mejores para entender esta defensa: lajas clavadas de pie delante de la muralla, por donde era más fácil llegar, para frenar a los atacantes, sobre todo a caballo. Aquí forma una franja de casi <b>cien metros</b> de ancho, con algunas piedras muy altas.</p><p>El lugar siguió ocupado en época romana y visigoda, y con intermitencias hasta la Edad Media. Es Bien de Interés Cultural desde 1931.</p>"
+    },
+    "ver_alli": [
+     "El campo de piedras hincadas, al norte, antes de llegar a la muralla.",
+     "La muralla en talud y sus puertas en embudo.",
+     "Las vistas sobre los barrancos del Huebra; el acceso es escarpado y la maleza puede tapar parte de los restos."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/yacimiento-castillo",
+     "https://es.hispanopedia.com/wiki/Castro_de_El_Castillo",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Castro%20Vet%C3%B3n%20de%20El%20Castillo%20Saldeana",
+     "https://www.google.com/maps/place/?q=place_id:ChIJySY_1OsJPA0RKqQN8vbMANU"
+    ]
+   }
+  },
+  {
+   "id": "catedral-vieja-de-salamanca",
+   "campos": {
+    "lat": 40.9604,
+    "lon": -5.6667,
+    "estilo": "Románico",
+    "ver_alli": [
+     "Mira hacia arriba en el crucero: la cúpula de la Torre del Gallo, con su exterior de escamas.",
+     "El retablo mayor de Dello Delli, con sus 53 tablas y el Juicio Final pintado encima.",
+     "En el claustro, la capilla de Santa Bárbara, con el sepulcro del obispo Juan Lucero en el centro.",
+     "La capilla de San Martín, con pinturas murales góticas."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_Vieja_de_Salamanca",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Catedral%20Vieja%20Salamanca",
+     "https://www.google.com/maps/place/?q=place_id:ChIJDVRl3hsnPw0R8pCFQKAldgM"
+    ]
+   }
+  },
+  {
+   "id": "ciudad-rodrigo",
+   "campos": {
+    "lat": 40.5975,
+    "lon": -6.5338,
+    "estilo": "Recinto medieval amurallado",
+    "texto": {
+     "general": "<p>Ciudad Rodrigo es una de las ciudades amuralladas mejor conservadas de España. Su historia medieval arranca en <b>1161</b>, cuando el rey <b>Fernando II de León</b> emprendió su repoblación para guardar la frontera con Portugal. Conserva una <b>muralla</b> medieval de más de <b>2 km</b> de perímetro, con seis puertas, reforzada en el siglo XVIII con baluartes exteriores.</p><p>La <b>catedral de Santa María</b>, empezada bajo Fernando II y construida entre los siglos XII y XIV, guarda el Pórtico del Perdón y una sillería de coro tallada por Rodrigo Alemán a finales del XV. El <b>castillo</b> lo mandó levantar <b>Enrique II</b> en 1372 y hoy es parador.</p><p>Dentro de los muros hay palacios renacentistas, como el de los Águila o la casa del marqués de Cerralbo, y una Plaza Mayor con ayuntamiento del siglo XVI. La ciudad es conjunto histórico desde 1944.</p><p class=\"dato\"><span>¿Sabías que…?</span>En su famoso Carnaval del Toro la Plaza Mayor se convierte en una plaza de toros de madera; ya se corrían toros aquí en 1417.</p>"
+    },
+    "ver_alli": [
+     "Da la vuelta a la muralla por el adarve: hay vistas sobre el río Águeda.",
+     "La catedral, con el Pórtico del Perdón y la sillería de Rodrigo Alemán.",
+     "La Plaza Mayor y su ayuntamiento renacentista.",
+     "El castillo de Enrique II, hoy parador, junto al río."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Ciudad_Rodrigo",
+     "https://www.terranostrum.es/turismo/salamanca/ciudad-rodrigo/un-paseo-por-la-muralla-y-el-rio-en-ciudad-rodrigo",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Plaza%20Mayor%20Ciudad%20Rodrigo",
+     "https://www.google.com/maps/place/?q=place_id:ChIJKVpEcXYvPA0RjRVN3K_Fah4"
+    ]
+   }
+  },
+  {
+   "id": "santo-tomas-cantuariense",
+   "campos": {
+    "lat": 40.9602,
+    "lon": -5.6602,
+    "estilo": "Románico",
+    "texto": {
+     "general": "<p>En diciembre de 1170 el arzobispo de Canterbury, <b>Tomás Becket</b>, fue asesinado en su catedral por caballeros del rey Enrique II de Inglaterra. Pocos años después, en <b>1175</b>, dos hermanos ingleses afincados en Salamanca, <b>Ricardo y Randulfo</b> (o Radulfo), le dedicaron esta iglesia: fue la <b>primera fuera de Inglaterra</b> bajo su advocación.</p><p>Es un templo <b>románico</b> del siglo XII, de planta de cruz latina con una sola nave cubierta con techumbre de madera. Por fuera lo mejor es la cabecera, con <b>tres ábsides semicirculares escalonados</b>, pilastras y ventanas molduradas. La portada norte se añadió en el siglo XVI.</p><p>Está declarada Bien de Interés Cultural desde 1983.</p>"
+    },
+    "ver_alli": [
+     "Rodea la iglesia por detrás para ver los tres ábsides escalonados.",
+     "Dentro, la nave única con techumbre de madera.",
+     "La portada norte, añadida en el siglo XVI."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-santo-tomas-cantuariense-29cf6",
+     "https://es.hispanopedia.com/wiki/Iglesia_de_Santo_Tom%C3%A1s_Cantuariense_(Salamanca)",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Santo%20Tom%C3%A1s%20Cantuariense%20Salamanca",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ6X_pwGwmPw0Ro5zWbZ622hE"
+    ]
+   }
+  },
+  {
+   "id": "san-marcos-de-salamanca",
+   "campos": {
+    "lat": 40.9697,
+    "lon": -5.6638,
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "anio": 1178,
+    "texto": {
+     "general": "<p>Iglesia de planta circular, rara en el románico, junto a la antigua Puerta de Zamora de la muralla. Se fundó en <b>1178</b> y desde 1179 fue sede de la <b>Real Clerecía de San Marcos</b>, la asociación de clérigos de la ciudad, que llegó a ser una de las grandes instituciones de Salamanca.</p><p>El círculo mide <b>18 metros de diámetro</b>, con muros de casi un metro y medio de grosor y aspecto de fortaleza. Dentro, el espacio se divide en <b>tres naves</b>, cada una acabada en su ábside, todos encajados dentro del círculo.</p><p>En <b>1967</b> aparecieron bajo el encalado unas <b>pinturas murales del siglo XIV</b>: la Anunciación en el ábside central, un gran San Cristóbal en la nave y la Coronación de la Virgen junto a la entrada.</p>"
+    },
+    "ver_alli": [
+     "Rodea el exterior para apreciar su planta redonda de aspecto defensivo.",
+     "Dentro, cómo encajan las tres naves y los tres ábsides en el círculo.",
+     "Las pinturas del siglo XIV: el San Cristóbal y la Anunciación."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Marcos_(Salamanca)",
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-san-marcos",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%20de%20San%20Marcos%20Salamanca",
+     "https://www.google.com/maps/place/?q=place_id:ChIJXYOpCxcmPw0RHJRZ_WVzWgs"
+    ]
+   }
+  },
+  {
+   "id": "universidad-de-salamanca",
+   "campos": {
+    "lat": 40.9614,
+    "lon": -5.6672,
+    "estilo": "Plateresco",
+    "ver_alli": [
+     "En la fachada, el medallón de los Reyes Católicos y, entre la decoración, la rana sobre una calavera.",
+     "Dentro, el aula de Fray Luis de León y la escalera renacentista.",
+     "La biblioteca histórica, con las estanterías barrocas de 1749.",
+     "Enfrente, el Patio de Escuelas con la estatua de Fray Luis."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Escuelas_Mayores",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Escuelas%20Mayores%20Salamanca",
+     "https://www.google.com/maps/place/?q=place_id:ChIJZ93U5D8mPw0RwhmU45CDqo4"
+    ]
+   }
+  },
+  {
+   "id": "convento-de-san-esteban",
+   "campos": {
+    "lat": 40.9603,
+    "lon": -5.6627,
+    "estilo": "Plateresco",
+    "texto": {
+     "general": "<p>Su fachada plateresca es como un enorme tapiz de piedra. En este convento de dominicos enseñó <b>Francisco de Vitoria</b>, que defendió los derechos de los indios, y según la tradición <b>Colón</b> expuso aquí su proyecto a los frailes.</p><p>La iglesia actual se empezó en <b>1524</b>: la inició <b>Juan de Álava</b>, a quien se atribuye la fachada, la continuó fray Martín de Santiago y la terminó <b>Rodrigo Gil de Hontañón</b>; se consagró en 1610. La pagó el cardenal <b>Juan Álvarez de Toledo</b>, enterrado en la capilla mayor. En el centro de la fachada, los relieves del Calvario y del martirio de San Esteban son de Juan Antonio Ceroni.</p><p>Dentro destacan el <b>retablo mayor</b> de José Benito de Churriguera, de unos 24 metros de alto; el <b>claustro de los Reyes</b> (1533-1544) y la <b>escalera de Soto</b> (1553-1556), pagada por el teólogo fray Domingo de Soto. El llamado claustro de Colón, de finales del siglo XV, recuerda las conversaciones del navegante con los frailes.</p>"
+    },
+    "ver_alli": [
+     "La fachada, con el martirio de San Esteban en el centro; mejor con luz de tarde.",
+     "El retablo mayor de Churriguera, uno de los grandes del barroco.",
+     "El claustro de los Reyes y la escalera de Soto."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Convento_de_San_Esteban_(Salamanca)",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Convento%20de%20San%20Esteban%20Salamanca",
+     "https://www.google.com/maps/place/?q=place_id:ChIJr95UTGsmPw0RyeZRh_J6i5k"
+    ]
+   }
+  },
+  {
+   "id": "catedral-nueva-de-salamanca",
+   "campos": {
+    "lat": 40.9606,
+    "lon": -5.666,
+    "estilo": "Gótico tardío, con añadidos renacentistas y barrocos",
+    "texto": {
+     "general": "<p>Gótica tardía, empezada en 1513 junto a la románica, que se conservó. Tiene añadidos renacentistas y barrocos y, en la portada de Ramos, un astronauta esculpido en una restauración de 1992.</p><p>A comienzos del siglo XVI la catedral vieja se había quedado pequeña para una ciudad que crecía con su universidad. Las primeras capillas las levantaron <b>Juan Gil de Hontañón</b> y <b>Juan de Álava</b>, y desde 1538 dirigió las obras <b>Rodrigo Gil de Hontañón</b>. La construcción se alargó hasta <b>1733</b>, ya con los Churriguera: Joaquín hizo el cimborrio y el coro.</p><p>El <b>terremoto de Lisboa</b> de 1755 cuarteó la cúpula, que se sustituyó por otra neoclásica, y obligó a reforzar con cadenas la torre, de <b>92 metros</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>El astronauta lo talló en 1992 el cantero Miguel Romero al restaurar la puerta de Ramos; en la misma fachada hay un dragón sonriente con un helado de tres bolas.</p>"
+    },
+    "ver_alli": [
+     "En la puerta de Ramos, busca el astronauta y el dragón con el helado.",
+     "Dentro, la altura de las naves góticas y el coro barroco de Joaquín Churriguera.",
+     "Con la misma visita se pasa a la Catedral Vieja, adosada."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_Nueva_de_Salamanca",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Catedral%20Nueva%20Salamanca",
+     "https://www.google.com/maps/place/?q=place_id:ChIJB4Rlo2omPw0R18UowbXnna8"
+    ]
+   }
+  },
+  {
+   "id": "plaza-mayor-de-salamanca",
+   "campos": {
+    "lat": 40.9652,
+    "lon": -5.6641,
+    "estilo": "Barroco (churrigueresco)",
+    "texto": {
+     "general": "<p>Una de las plazas más bellas de España, empezada en 1729 por Alberto de Churriguera. Sus arcos tienen medallones con reyes y personajes famosos.</p><p>La primera ala fue el <b>Pabellón Real</b>, al este; a la muerte de Churriguera la terminó <b>Andrés García de Quiñones</b>, y el cuadro se cerró en <b>1755</b>. En el lado norte está el <b>ayuntamiento</b>, que quedó sin las dos torres previstas; la espadaña se añadió en 1852.</p><p>La rodean <b>88 arcos</b> de medio punto. En los medallones del Pabellón Real aparecen <b>reyes de España</b>, y en las otras alas santos, sabios y descubridores. Aunque parece cuadrada, es un cuadrilátero irregular de unos 6.400&nbsp;m². Fue declarada Monumento Nacional en 1935.</p>"
+    },
+    "ver_alli": [
+     "Recorre los medallones: reyes en el Pabellón Real y personajes ilustres en las otras alas.",
+     "El ayuntamiento, en el lado norte, con su espadaña.",
+     "Vuelve de noche, cuando la iluminación dora la piedra."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Plaza_Mayor_de_Salamanca",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Plaza%20Mayor%20Salamanca",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ7zo6GgAnPw0RrLmqSFs_FTo"
+    ]
+   }
+  },
+  {
+   "id": "la-clerecia",
+   "campos": {
+    "lat": 40.9628,
+    "lon": -5.6664,
+    "tipo": "iglesia",
+    "estilo": "Barroco",
+    "texto": {
+     "general": "<p>Antiguo colegio de los jesuitas, empezado en 1617, con dos torres barrocas y un gran patio. Hoy es la Universidad Pontificia; se puede subir a las torres, «Scala Coeli».</p><p>Su nombre oficial era <b>Real Colegio del Espíritu Santo</b>, y se construyó bajo la protección de la reina <b>Margarita de Austria</b>, esposa de Felipe III. Trazó la planta <b>Juan Gómez de Mora</b>, y <b>Andrés García de Quiñones</b> levantó las torres, la espadaña y el claustro; el conjunto se terminó en 1754.</p><p>La iglesia tiene una sola nave y una cúpula de unos 50 metros de altura, y un retablo mayor de 1673. Cuando Carlos III expulsó a los jesuitas en <b>1767</b>, el edificio pasó a la <b>Real Clerecía de San Marcos</b>, y de ahí le viene el nombre de «la Clerecía». En 1940 se instaló aquí la Universidad Pontificia.</p>"
+    },
+    "ver_alli": [
+     "La fachada de la iglesia, con sus dos torres y la espadaña, vista desde la calle de la Compañía.",
+     "El claustro barroco de tres pisos.",
+     "Sube a las torres (Scala Coeli) para ver Salamanca desde lo alto."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/La_Clerec%C3%ADa,_Salamanca",
+     "https://www.spain.info/es/lugares-interes/clerecia/",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Clerec%C3%ADa%20Salamanca",
+     "https://www.google.com/maps/place/?q=place_id:ChIJJ8R3bhUmPw0RJZvFAS0d9Rk"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-monterrey",
+   "campos": {
+    "lat": 40.9652,
+    "lon": -5.6666,
+    "estilo": "Plateresco",
+    "texto": {
+     "general": "<p>Palacio renacentista de los Zúñiga, condes de Monterrey, empezado en 1539. Solo se construyó una parte del proyecto, con cresterías y torres de gran belleza. Pertenece a la Casa de Alba y se visita.</p><p>Lo encargó el III conde de Monterrey, <b>Alonso de Acevedo y Zúñiga</b>, y las obras empezaron el <b>18 de enero de 1539</b> con trazas de <b>Rodrigo Gil de Hontañón</b> y fray Martín de Santiago. Iba a ser un gran edificio cuadrado con patio central y torres en las esquinas, pero el dinero no alcanzó y solo se levantó <b>una de las cuatro alas</b>, la del sur.</p><p>Aun así es una de las joyas del <b>plateresco</b>: una galería corrida en el piso alto, torres con grandes escudos sostenidos por leones y grifos, y una <b>crestería calada</b> con figuras fantásticas. Es monumento desde 1929 y se abrió al público en 2018.</p>"
+    },
+    "ver_alli": [
+     "Mira la crestería calada que corona el edificio y sus figuras fantásticas.",
+     "Los escudos de las torres, sostenidos por leones y grifos.",
+     "Dentro, las estancias muestran cómo vivía la aristocracia."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_de_Monterrey",
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/palacios/palacio-monterrey",
+     "https://salamanca-turismo-prod.gvam.es/en/see/monuments/palacio-de-monterrey",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Palacio%20de%20Monterrey%20Salamanca",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ-a2l8BUmPw0RBqA1kEM00qg"
+    ]
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-los-arapiles",
+   "campos": {
+    "lat": 40.8891,
+    "lon": -5.6248,
+    "estilo": "Campo de batalla (1812)",
+    "texto": {
+     "general": "<p>El 22 de julio de 1812 el ejército aliado del duque de Wellington derrotó a los franceses de Marmont en los cerros de los Arapiles, cerca de Salamanca. Fue una de las batallas decisivas de la guerra. Hay un aula de interpretación y un mirador sobre el campo de batalla.</p><p>Británicos, portugueses y españoles se enfrentaron a un ejército francés de tamaño parecido. <b>Marmont</b> cayó herido al empezar la lucha y le sustituyó Clausel. Los aliados tuvieron unas <b>5.220 bajas</b>; los franceses perdieron unos <b>12.500 hombres</b>, contando prisioneros. Participó también la caballería del guerrillero <b>Julián Sánchez</b>.</p><p>Tras la victoria, Wellington entró en <b>Madrid</b> el 12 de agosto, y los franceses levantaron poco después el sitio de Cádiz. Los británicos la llaman <b>batalla de Salamanca</b>.</p>"
+    },
+    "ver_alli": [
+     "Sube al Arapil Grande, donde está el monumento, para ver todo el campo de batalla.",
+     "Paneles explicativos en el Arapil Grande y al pie del Arapil Chico.",
+     "El centro de interpretación, en el pueblo de Arapiles, cuenta la batalla con paneles y un audiovisual."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Batalla_de_los_Arapiles",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Memorial%20Batalla%20de%20Los%20Arapiles",
+     "https://www.google.com/maps/place/?q=place_id:ChIJVyInzewjPw0RzXkqwbIma1M",
+     "https://www.google.com/maps/place/?q=place_id:ChIJGYa-Gf0jPw0RRKJUzTOAEoE"
+    ]
+   }
+  },
+  {
+   "id": "murallas-de-ciudad-rodrigo",
+   "campos": {
+    "lat": 40.5998,
+    "lon": -6.5363,
+    "estilo": "Muralla medieval con baluartes del siglo XVIII",
+    "texto": {
+     "general": "<p>Ciudad Rodrigo sufrió dos asedios, el francés de 1810 y el británico de enero de 1812, cuando Wellington la tomó. Sus murallas medievales, reforzadas con baluartes, y la torre de la catedral conservan las marcas de los cañonazos.</p><p>La muralla, de época de Fernando II de León, tiene más de <b>2 km</b> de perímetro y seis puertas; en el siglo XVIII se le añadieron <b>baluartes</b> exteriores para resistir la artillería. En 1810 el mariscal <b>Ney</b> la tomó el 9 de julio tras 24 días de sitio, cuando los defensores del general <b>Herrasti</b> se rindieron ante la brecha abierta; aquella resistencia retrasó un mes la invasión de Portugal.</p><p>En 1812 <b>Wellington</b> la sitió el 9 de enero y la asaltó la noche del <b>19 de enero</b> por dos brechas. Como premio recibió el título de <b>duque de Ciudad Rodrigo</b>. La <b>Gran Brecha</b>, reconstruida, lleva placas que recuerdan el asalto.</p>"
+    },
+    "ver_alli": [
+     "Camina por el adarve: la muralla se puede recorrer casi entera.",
+     "En la plaza de Herrasti, la Gran Brecha con sus placas y el monumento al general.",
+     "Fíjate en la torre de la catedral, con las huellas de los cañonazos."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Ciudad_Rodrigo",
+     "https://www.terranostrum.es/turismo/salamanca/ciudad-rodrigo/un-paseo-por-la-muralla-y-el-rio-en-ciudad-rodrigo",
+     "https://tracesofwar.com/sights/130260/Brecha-Grande-Ciudad-Rodrigo.htm",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Gran%20Brecha%20Ciudad%20Rodrigo",
+     "https://www.google.com/maps/place/?q=place_id:ChIJT8MYz50vPA0R2o5d2UjGXfM"
+    ]
+   }
+  }
+ ]
+}
