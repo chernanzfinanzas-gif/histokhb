@@ -149,3 +149,54 @@
 - **Petición:** ¿puedes pasar la comprobación con la web a **c1789** (5 fichas y 10 desarrollos) y a **c1808** (6 fichas y 12 desarrollos), en `correcciones-c1789.md` y `correcciones-c1808.md`? No las he grabado todavía: lo haré cuando estén las correcciones. Desarrollos de c1789: des-rev1789, des-terror, des-napoleon, des-egipto, des-trafalgar, des-haiti, des-luisiana, des-humboldt, des-malaspina, des-balmis. Desarrollos de c1808: des-cadiz, des-trienio, des-viena, des-rusia1812, des-bolivar, des-sanmartin, des-mexico, des-guerraind, des-grecia, des-champollion, des-te-opio, des-tambora.
 - **DUDA para Carlos (formato de con1-con5):** c1789 y c1808 tienen el formato «por zonas» del piloto aprobado («España entre 1808 y 1830», «Europa entre…»). Los capítulos de la Antigua, la Media y la Moderna, en cambio, usan el formato «por temas» (15-22 fichas por capítulo). Además, con1 (1799-1848) se solapa con c1808 y le quedan solo 3 fichas. Mientras no se diga otra cosa, **sigo con con1-con5 por temas**, como la Moderna, y empiezo con1 en 1830 para no repetir 1789-1830. Si preferís zonas, decídmelo aquí y lo rehago.
 - **Aviso:** el disco se llenó a media tarde. Lo he resuelto vaciando los temporales de ant1, ant3 y ant4 y dejando sus copias de trabajo solo con el foro, sin tocar ramas ni commits. No se perdió nada subido; se repitieron las animaciones de cámara de med5 que fallaron.
+
+### 18-oct-2026 · 17:20 · Chat «contenidos»
+- **Leído:** `de-montaje.md` hasta 16:24 y las correcciones de mod1 a mod4.
+- **Hecho:**
+  - **TODO-LISTO** med3, med4 y med5. La Edad Media está completa.
+  - **TEXTOS-LISTOS** c1789 y c1808: commits vacíos con la lista de desarrollos, como pediste.
+  - **TEXTOS-LISTOS** con1, con2, con3 y con4, rehechos por temas.
+- **Aplicadas las correcciones de mod1, mod2, mod3 y mod4**, antes de grabar sus voces. Las voces de mod1 se están grabando ya; después irán mod2 y mod3.
+- **Peticiones:**
+  - Pasar la comprobación con la web a con1-con4, y a con5 cuando lo suba.
+  - **Ojo, carga de trabajo:** varios agentes de mod3, mod4 y con1-con4 se quedaron sin búsquedas web o solo recibían títulos sin resumen. Casi todas las coordenadas nuevas están puestas de memoria y conviene revisarlas con más cuidado.
+- **Dato útil:**
+  - Hacia las 16:00 se agotó el límite de uso de la sesión y se reinició el contenedor. Relancé las colas a mano y no se perdió nada subido.
+  - Lugares ya existentes con errores, por si los quieres corregir con una entrega `montaje-N`:
+    - museo-de-historia-del-gulag: cerrado desde 2024.
+    - torre-eiffel: medía 300 m en 1889.
+    - ruinas-del-yuanmingyuan y el-bund-de-shanghai: encajan mejor con con2-13 que con con2-3.
+
+| Capítulo | Estado |
+|---|---|
+| ant1-ant5, med1-med5 | TODO-LISTO |
+| mod1 | grabando voces |
+| mod2, mod3 | corregidos, voces en cola |
+| mod4 | corregido, animando; luego voces |
+| c1789, c1808 | animados; esperando correcciones para grabar |
+| con1 | láminas listas, animando |
+| con2 | láminas generándose |
+| con3, con4 | TEXTOS-LISTOS, láminas en cola |
+| con5 | escribiendo |
+
+### 18-oct-2026 · 18:50 · Chat «contenidos»
+
+Recibido «NO usar Veo en lo que queda». Cumplido: desde la decisión no he generado ningún clip Veo nuevo. Los únicos Veo de con3, con4 y con5 (3 por capítulo) ya estaban hechos antes, así que los uso, como permitís; todo lo demás va con `--camara`.
+
+| Capítulo | Estado |
+|---|---|
+| mod3 | **TODO-LISTO** (correcciones aplicadas, voces grabadas) |
+| mod4 | grabando voces; TODO-LISTO en cuanto acaben |
+| c1789, c1808 | aplicando correcciones; voces después de mod4 |
+| con1–con5 | **LAMINAS-LISTAS** (láminas y animaciones hechas); esperando correcciones-con1..5 para grabar voces |
+
+### 18-oct-2026 · 20:10 · Chat «contenidos»
+
+| Capítulo | Estado |
+|---|---|
+| mod4 | **TODO-LISTO** |
+| c1789 | **TODO-LISTO** (correcciones aplicadas sobre los datos de main; 5 fichas y 10 desarrollos con voz) |
+| c1808 | **TODO-LISTO** (ídem; 6 fichas y 12 desarrollos con voz) |
+| con1–con5 | LAMINAS-LISTAS; esperando correcciones-con1..5 para grabar voces |
+
+Ojo al montar: las ramas mod1–mod3 y con1–con5 se construyeron antes de corregir c1789 y c1808 y llevan esos textos SIN corregir en `fichas-contemporanea.json`, `desarrollos.json` y `buscar.json`. Para esas fichas y desarrollos, que mande la versión de epocas-c1789 / epocas-c1808 (o la de epocas-mod4, que ya va corregida).

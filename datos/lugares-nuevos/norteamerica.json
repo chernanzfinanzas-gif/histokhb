@@ -1,0 +1,788 @@
+{
+ "zona": "Norteamérica",
+ "nuevos": [
+  {
+   "id": "capitolio-de-washington",
+   "nombre": "Capitolio de los Estados Unidos",
+   "provincia": "Estados Unidos",
+   "comarca": "Washington D. C.",
+   "lat": 38.8899,
+   "lon": -77.0091,
+   "tipo": "monumento",
+   "estilo": "Neoclásico",
+   "epoca": "Norteamérica colonial e independencia",
+   "anio": 1793,
+   "regiones_sincronia": [
+    "Norteamérica"
+   ],
+   "texto": {
+    "general": "<p>Sede del Congreso de Estados Unidos, en lo alto de Capitol Hill, al extremo este del National Mall. El 18 de septiembre de 1793 <b>George Washington</b> colocó su primera piedra, según el proyecto de <b>William Thornton</b>, que había ganado su aprobación ese mismo año. Benjamin Latrobe y Charles Bulfinch continuaron la obra, y este último le puso hacia 1818 una primera cúpula baja forrada de cobre.</p><p>El 24 de agosto de 1814, en plena guerra con Gran Bretaña, las tropas británicas le prendieron fuego; en unos cinco años estaba restaurado. A mediados del siglo XIX el país había crecido tanto que <b>Thomas U. Walter</b> amplió el edificio y sustituyó la cúpula por la actual, de <b>hierro fundido</b>, terminada hacia 1866: se siguió trabajando en ella durante la guerra de Secesión, y en 1863 se izó en lo alto la gran <b>estatua de la Libertad</b> que la corona.</p>"
+   },
+   "ver_alli": [
+    "Se visita por dentro con visita guiada en grupos pequeños.",
+    "Desde su escalinata oeste se domina todo el National Mall hasta el monumento a Lincoln."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/United_States_Capitol"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "fuerte-sumter",
+   "nombre": "Fuerte Sumter",
+   "provincia": "Estados Unidos",
+   "comarca": "Charleston (Carolina del Sur)",
+   "lat": 32.7523,
+   "lon": -79.8747,
+   "tipo": "castillo",
+   "estilo": "Fortificación costera de ladrillo",
+   "epoca": "Estados Unidos y Canadá modernos",
+   "anio": 1861,
+   "regiones_sincronia": [
+    "Norteamérica"
+   ],
+   "texto": {
+    "general": "<p>Un fuerte de ladrillo sobre un islote a la entrada del puerto de Charleston, empezado en 1829 tras la guerra de 1812 y que nunca llegó a terminarse por dentro. Aquí empezó la <b>guerra de Secesión</b>: a las 4:30 de la madrugada del <b>12 de abril de 1861</b> las baterías del general confederado <b>Beauregard</b> abrieron fuego contra la guarnición del mayor <b>Robert Anderson</b>, que se negaba a rendirse.</p><p>Tras 34 horas de bombardeo, el fuerte se rindió el 13 de abril y Anderson se marchó llevándose la bandera. Entre 1863 y 1865 la Unión intentó recuperarlo y sus cañones lo dejaron reducido a escombros, pero los confederados aguantaron hasta febrero de 1865. El 14 de abril de ese año, cuatro años después, Anderson volvió a izar la misma bandera sobre las ruinas. Es monumento nacional desde 1948.</p>"
+   },
+   "ver_alli": [
+    "Solo se llega en barco: el trayecto por el puerto de Charleston forma parte de la visita.",
+    "Dentro del fuerte hay un pequeño museo y los guardas cuentan la historia del bombardeo."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Fort_Sumter"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "appomattox-court-house",
+   "nombre": "Appomattox Court House",
+   "provincia": "Estados Unidos",
+   "comarca": "Appomattox (Virginia)",
+   "lat": 37.3771,
+   "lon": -78.7972,
+   "tipo": "monumento",
+   "estilo": "Aldea rural del siglo XIX",
+   "epoca": "Estados Unidos y Canadá modernos",
+   "anio": 1865,
+   "regiones_sincronia": [
+    "Norteamérica"
+   ],
+   "texto": {
+    "general": "<p>En esta pequeña aldea de Virginia terminó, en la práctica, la <b>guerra de Secesión</b>. El <b>9 de abril de 1865</b>, en el salón de la <b>casa McLean</b>, el general confederado <b>Robert E. Lee</b> se reunió con <b>Ulysses S. Grant</b> para acordar la rendición de su ejército.</p><p>La casa fue desmontada a finales del siglo XIX y lo que se ve hoy es una reconstrucción abierta al público en 1949. El Servicio de Parques Nacionales se hizo cargo del lugar en 1933, y desde 1954 es parque histórico nacional, con la aldea conservada como estaba en aquellos días.</p>"
+   },
+   "ver_alli": [
+    "El centro de visitantes está en el edificio reconstruido del juzgado, a pocos pasos de la casa McLean.",
+    "La aldea se recorre a pie."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Appomattox_Court_House_National_Historical_Park"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "pueblo-de-acoma",
+   "nombre": "Pueblo de Acoma (Sky City)",
+   "provincia": "Estados Unidos",
+   "comarca": "Nuevo México",
+   "lat": 34.8953,
+   "lon": -107.5825,
+   "tipo": "poblacion",
+   "estilo": "Adobe de los indios pueblo y misión española",
+   "epoca": "Norteamérica indígena",
+   "anio": 1144,
+   "regiones_sincronia": [
+    "Norteamérica"
+   ],
+   "texto": {
+    "general": "<p>Un pueblo de adobe y piedra en lo alto de una meseta de <b>111 metros</b> en el desierto de Nuevo México, la «ciudad del cielo». Según los propios acoma, se fundó en el siglo XI y hacia 1144 ya tenía casas de adobe; otros estudios lo sitúan en el siglo XIII.</p><p>En diciembre de 1598, al poco de llegar la expedición de <b>Juan de Oñate</b>, una disputa por el maíz acabó con la muerte de su sobrino Juan de Zaldívar y de otros once españoles. En enero de 1599 los españoles asaltaron la meseta durante tres días: murieron unos 800 acoma y los supervivientes fueron esclavizados. Entre 1629 y 1641 se levantó la iglesia de <b>San Esteban del Rey</b>, para la que se subieron a la meseta adobe, piedra y barro, y vigas de pino traídas de una montaña a más de 60 kilómetros. Es monumento histórico nacional desde 1960.</p>"
+   },
+   "ver_alli": [
+    "Es un pueblo vivo: solo se visita con guía acoma, que sale del centro cultural Sky City, al pie de la meseta.",
+    "El centro cultural tiene el museo Haak'u, con la historia y el arte de los acoma."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Acoma_Pueblo"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "head-smashed-in-buffalo-jump",
+   "nombre": "Despeñadero de bisontes Head-Smashed-In",
+   "provincia": "Canadá",
+   "comarca": "Fort Macleod (Alberta)",
+   "lat": 49.7056,
+   "lon": -113.6534,
+   "tipo": "yacimiento",
+   "estilo": "Despeñadero de caza con depósitos de huesos",
+   "epoca": "Norteamérica indígena",
+   "regiones_sincronia": [
+    "Norteamérica"
+   ],
+   "texto": {
+    "general": "<p>Durante miles de años —al menos 5.500— los pueblos de las llanuras, como los <b>pies negros</b>, cazaron aquí bisontes despeñándolos. Desde las colinas Porcupine, a unos 3 km, guiaban las manadas por corredores marcados con montones de piedras; jóvenes «corredores de bisontes» disfrazados de coyotes y lobos las empujaban hacia el borde de un acantilado de unos 10-11 metros.</p><p>Al pie del cortado se acumuló un depósito de huesos de hasta <b>12 metros</b> de espesor. Su nombre traduce el pie negro <i>Estipah-skikikini-kots</i>: la leyenda cuenta que un joven quiso ver caer a los animales desde abajo y murió aplastado, con la cabeza destrozada. Es Patrimonio de la Humanidad desde 1981.</p>"
+   },
+   "ver_alli": [
+    "El centro de interpretación, abierto en 1987, está excavado en el propio acantilado, junto al despeñadero.",
+    "Un sendero sube a lo alto del cortado, con vista sobre las llanuras."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Head-Smashed-In_Buffalo_Jump",
+    "https://www.openstreetmap.org/way/226040063"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "parque-provincial-de-los-dinosaurios",
+   "nombre": "Parque Provincial de los Dinosaurios",
+   "provincia": "Canadá",
+   "comarca": "Valle del río Red Deer (Alberta)",
+   "lat": 50.7617,
+   "lon": -111.485,
+   "tipo": "yacimiento",
+   "estilo": "Badlands con fósiles del Cretácico",
+   "epoca": "Mesozoico",
+   "regiones_sincronia": [
+    "Norteamérica"
+   ],
+   "texto": {
+    "general": "<p>En el valle del río <b>Red Deer</b>, la erosión ha tallado unas <b>badlands</b> de colinas desnudas y chimeneas de roca en la <b>Formación Dinosaur Park</b>, de hace unos 76,5 a 74,8 millones de años, a finales del Cretácico. Es uno de los yacimientos de dinosaurios más ricos del mundo.</p><p>Aquí se han encontrado <b>58 especies de dinosaurios</b>, y más de 500 ejemplares se exponen hoy en museos de todo el mundo. El parque se creó en 1955 y es Patrimonio de la Humanidad desde 1979; protege además praderas y bosques de álamos junto al río.</p>"
+   },
+   "ver_alli": [
+    "El centro de visitantes, a unos 2,5 km al oeste, tiene exposiciones de dinosaurios y geología, un laboratorio de preparación de fósiles y una sala de vídeo.",
+    "Varios senderos cortos recorren las badlands junto al centro."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Dinosaur_Provincial_Park",
+    "https://www.openstreetmap.org/relation/6423610"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "poverty-point",
+   "campos": {
+    "estilo": "Terraplenes y montículos de tierra arcaicos",
+    "ver_alli": [
+     "Sitio histórico estatal de Luisiana con museo, película introductoria y senderos entre los terraplenes.",
+     "Desde una plataforma junto al montículo A se aprecia la escala de las obras."
+    ]
+   }
+  },
+  {
+   "id": "mesa-verde",
+   "campos": {
+    "estilo": "Casas en los acantilados de los pueblos ancestrales",
+    "ver_alli": [
+     "Las casas principales, como el Cliff Palace, solo se visitan con visita guiada por los guardas del parque.",
+     "Desde los miradores de la carretera de la meseta se ven otras casas en los acantilados."
+    ]
+   }
+  },
+  {
+   "id": "chaco-culture",
+   "campos": {
+    "estilo": "Grandes casas de piedra de los pueblos ancestrales"
+   }
+  },
+  {
+   "id": "cahokia-mounds",
+   "campos": {
+    "estilo": "Montículos misisipianos"
+   }
+  },
+  {
+   "id": "serpent-mound",
+   "campos": {
+    "estilo": "Montículo efigie"
+   }
+  },
+  {
+   "id": "moundville",
+   "campos": {
+    "estilo": "Montículos misisipianos"
+   }
+  },
+  {
+   "id": "ganondagan",
+   "campos": {
+    "estilo": "Poblado séneca con casa comunal reconstruida"
+   }
+  },
+  {
+   "id": "taos-pueblo",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Arquitectura de adobe de los indios pueblo"
+   }
+  },
+  {
+   "id": "l-anse-aux-meadows",
+   "campos": {
+    "estilo": "Casas nórdicas de turba",
+    "ver_alli": [
+     "Lejos de todo, en la punta norte de Terranova.",
+     "Junto a los restos excavados hay casas de turba reconstruidas y un centro de interpretación."
+    ]
+   }
+  },
+  {
+   "id": "pu-uhonua-o-honaunau",
+   "campos": {
+    "estilo": "Recinto sagrado hawaiano de piedra seca"
+   }
+  },
+  {
+   "id": "palacio-iolani",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Renacimiento americano florentino",
+    "ver_alli": [
+     "Se visita por dentro con audioguía o visita guiada; enfrente está la estatua dorada de Kamehameha."
+    ]
+   }
+  },
+  {
+   "id": "bahia-de-kealakekua",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Bahía con templo hawaiano y obelisco a Cook"
+   }
+  },
+  {
+   "id": "hagatna-plaza-de-espana-y-piedras-latte",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Colonial español y megalitos latte chamorros"
+   }
+  },
+  {
+   "id": "jamestown-historico",
+   "campos": {
+    "estilo": "Fuerte colonial inglés excavado"
+   }
+  },
+  {
+   "id": "plimoth-patuxet",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de historia viva"
+   }
+  },
+  {
+   "id": "colonial-williamsburg",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Georgiano colonial",
+    "ver_alli": [
+     "Se recorre a pie; los edificios históricos, como el Palacio del Gobernador, se visitan por dentro con recreadores vestidos de época."
+    ]
+   }
+  },
+  {
+   "id": "independence-hall-y-la-campana-de-la-lib",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Georgiano",
+    "ver_alli": [
+     "La visita a Independence Hall es guiada y con hora asignada; conviene reservar.",
+     "La Campana de la Libertad está enfrente, en su propio pabellón."
+    ]
+   }
+  },
+  {
+   "id": "sendero-de-la-libertad",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Ruta urbana colonial y georgiana"
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-saratoga",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Campo de batalla",
+    "lat": 43.0121,
+    "lon": -73.6488,
+    "ver_alli": [
+     "El centro de visitantes está en lo alto del campo de batalla; desde él sale la ruta en coche por el parque, con miradores y cañones."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Saratoga_National_Historical_Park",
+     "https://www.openstreetmap.org/way/96650311"
+    ]
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-yorktown",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Campo de batalla"
+   }
+  },
+  {
+   "id": "mount-vernon",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Georgiano colonial"
+   }
+  },
+  {
+   "id": "monticello",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Neopalladiano"
+   }
+  },
+  {
+   "id": "harvard-yard",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Georgiano y federal"
+   }
+  },
+  {
+   "id": "ciudad-vieja-de-quebec-y-las-llanuras-de",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Ciudad amurallada francesa y británica"
+   }
+  },
+  {
+   "id": "fortaleza-de-louisbourg",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Fortificación abaluartada francesa",
+    "ver_alli": [
+     "Se aparca en el centro de visitantes y un autobús lleva a la fortaleza reconstruida, animada por recreadores vestidos de época."
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-san-marcos",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Fortificación abaluartada española"
+   }
+  },
+  {
+   "id": "mision-san-xavier-del-bac",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Barroco novohispano",
+    "ver_alli": [
+     "Sigue siendo una iglesia en uso, con misa, y tiene un pequeño museo.",
+     "Junto a ella, una colina con una gruta ofrece buena vista de la misión."
+    ]
+   }
+  },
+  {
+   "id": "misiones-de-san-antonio-y-el-alamo",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Barroco novohispano"
+   }
+  },
+  {
+   "id": "mision-de-carmel",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Misión colonial española"
+   }
+  },
+  {
+   "id": "palacio-de-los-gobernadores-de-santa-fe",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Adobe colonial español"
+   }
+  },
+  {
+   "id": "fuerte-barrancas",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Fortificación de ladrillo del Tercer Sistema"
+   }
+  },
+  {
+   "id": "fuerte-mchenry",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Fuerte en estrella"
+   }
+  },
+  {
+   "id": "herencia-cheroqui-y-sendero-de-lagrimas",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo y aldeas cheroquis reconstruidas",
+    "lat": 35.8671,
+    "lon": -94.9561,
+    "ver_alli": [
+     "El centro está en Park Hill, a unos 6 km al sur de Tahlequah, donde se conservan el antiguo capitolio cheroqui y otros edificios de la Nación.",
+     "Tiene una aldea cheroqui reconstruida y una exposición sobre el Sendero de Lágrimas, que es también una ruta histórica nacional que cruza nueve estados."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Cherokee_Heritage_Center",
+     "https://www.openstreetmap.org/node/11490033960"
+    ]
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-gettysburg",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Campo de batalla con monumentos conmemorativos"
+   }
+  },
+  {
+   "id": "national-mall-lincoln-washington-y-vietn",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Neoclásico",
+    "ver_alli": [
+     "Se recorre a pie, del Lincoln al Capitolio; a los lados están los museos Smithsonian."
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-de-historia-y-cultura-afr",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arquitectura contemporánea (David Adjaye)",
+    "ver_alli": [
+     "Conviene reservar hora; está en el National Mall, junto al obelisco de Washington."
+    ]
+   }
+  },
+  {
+   "id": "museo-del-aire-y-del-espacio",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arquitectura moderna",
+    "ver_alli": [
+     "Conviene reservar hora; está en el National Mall."
+    ]
+   }
+  },
+  {
+   "id": "little-bighorn",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Campo de batalla"
+   }
+  },
+  {
+   "id": "wounded-knee",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Memorial y cementerio"
+   }
+  },
+  {
+   "id": "monte-rushmore",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Escultura monumental en granito"
+   }
+  },
+  {
+   "id": "estatua-de-la-libertad-y-ellis-island",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Escultura neoclásica de cobre"
+   }
+  },
+  {
+   "id": "memorial-de-los-hermanos-wright",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Art déco"
+   }
+  },
+  {
+   "id": "museo-henry-ford",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de historia de la técnica"
+   }
+  },
+  {
+   "id": "presa-hoover",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Presa de arco-gravedad art déco"
+   }
+  },
+  {
+   "id": "memorial-de-pearl-harbor",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura moderna",
+    "ver_alli": [
+     "Al memorial se llega en barca desde el centro de visitantes; conviene reservar plaza con antelación."
+    ]
+   }
+  },
+  {
+   "id": "manzanar",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Campo de internamiento"
+   }
+  },
+  {
+   "id": "montgomery-museo-de-rosa-parks-y-memoria",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo y memorial contemporáneos"
+   }
+  },
+  {
+   "id": "museo-nacional-de-los-derechos-civiles",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Motel de los años cincuenta"
+   }
+  },
+  {
+   "id": "museo-del-sexto-piso-dealey-plaza",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Almacén de ladrillo de 1901"
+   }
+  },
+  {
+   "id": "centro-espacial-kennedy",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de la técnica espacial",
+    "lat": 28.5233,
+    "lon": -80.6819,
+    "ver_alli": [
+     "Desde el complejo de visitantes, a la entrada de la base, salen los autobuses de la visita.",
+     "Se pueden ver lanzamientos reales desde algunas zonas."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Kennedy_Space_Center_Visitor_Complex",
+     "https://www.openstreetmap.org/way/166133965"
+    ]
+   }
+  },
+  {
+   "id": "memorial-y-museo-del-11-s",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura contemporánea"
+   }
+  },
+  {
+   "id": "museo-de-historia-de-la-computacion",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de la técnica",
+    "ver_alli": [
+     "Está en Mountain View, en pleno Silicon Valley, en el antiguo edificio de Silicon Graphics."
+    ],
+    "texto": {
+     "general": "<p>El museo de Silicon Valley, con los primeros ordenadores, el Apple I y la historia de Internet; entre 2008 y 2016 expuso además una máquina diferencial de Babbage construida por el Museo de la Ciencia de Londres. Muestra también las primeras computadoras de la guerra, el nacimiento de los videojuegos y la historia de la inteligencia artificial.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Computer_History_Museum"
+    ]
+   }
+  },
+  {
+   "id": "batoche",
+   "campos": {
+    "estilo": "Aldea métis y campo de batalla"
+   }
+  },
+  {
+   "id": "museo-canadiense-de-historia",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arquitectura orgánica (Douglas Cardinal)"
+   }
+  },
+  {
+   "id": "acantilados-de-las-palisades",
+   "campos": {
+    "estilo": "Acantilados de diabasa del Triásico"
+   }
+  },
+  {
+   "id": "museo-geologico-de-fundy",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de geología"
+   }
+  },
+  {
+   "id": "esquisto-de-burgess-yoho",
+   "campos": {
+    "estilo": "Yacimiento de fósiles del Cámbrico",
+    "lat": 51.4386,
+    "lon": -116.4719,
+    "ver_alli": [
+     "Los yacimientos están protegidos: solo se visitan en excursiones guiadas por Parks Canada, con reserva.",
+     "Cantera Walcott: 24 km ida y vuelta, unas 11 horas, dura; sale del aparcamiento de Takakkaw Falls.",
+     "Monte Stephen, con trilobites: 8 km, dura; sale del centro de visitantes de Yoho en Field."
+    ],
+    "fuentes": [
+     "https://parks.canada.ca/pn-np/bc/yoho/activ/burgess",
+     "https://parks.canada.ca/pn-np/bc/yoho/activ/burgess/walcott",
+     "https://en.wikipedia.org/wiki/Burgess_Shale",
+     "https://en.wikipedia.org/wiki/Walcott_Quarry",
+     "https://www.openstreetmap.org/node/6489825195"
+    ]
+   }
+  },
+  {
+   "id": "mistaken-point-terranova",
+   "campos": {
+    "estilo": "Yacimiento de fósiles ediacáricos",
+    "lat": 46.6269,
+    "lon": -53.1645,
+    "ver_alli": [
+     "Las visitas guiadas salen del centro de interpretación Edge of Avalon, en Portugal Cove South, a unos 12 km en línea recta de los fósiles.",
+     "La excursión dura 3,5-4 horas, con unos 6 km a pie por terreno húmedo e irregular; grupos de 12 y reserva recomendada.",
+     "Fuera del sendero solo se entra con guía o permiso; no se admiten perros ni sandalias."
+    ],
+    "fuentes": [
+     "https://www.gov.nl.ca/mpa/r-mpe/",
+     "https://en.wikipedia.org/wiki/Mistaken_Point_Ecological_Reserve",
+     "https://mapcarta.com/W125041120",
+     "https://www.openstreetmap.org/node/270837157"
+    ]
+   }
+  },
+  {
+   "id": "acantilados-fosiles-de-joggins",
+   "campos": {
+    "estilo": "Acantilados de fósiles del Carbonífero",
+    "lat": 45.6947,
+    "lon": -64.4505,
+    "ver_alli": [
+     "El centro de los Acantilados Fósiles de Joggins, en Coal Mine Point, tiene exposición de fósiles.",
+     "Ofrece visitas guiadas a la playa para ver árboles fósiles en pie; hay que tener en cuenta las mareas.",
+     "Prohibido sacar fósiles de los acantilados."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Joggins_Formation",
+     "https://en.wikipedia.org/wiki/Joggins",
+     "https://www.openstreetmap.org/node/281753986"
+    ]
+   }
+  },
+  {
+   "id": "parque-nacional-de-miguasha",
+   "campos": {
+    "estilo": "Yacimiento de peces fósiles del Devónico",
+    "lat": 48.1042,
+    "lon": -66.3482,
+    "ver_alli": [
+     "Museo del parque con fósiles de la colección, que supera los 9.000 ejemplares de peces y plantas.",
+     "Sendero por la costa y escaleras hasta la playa al pie del acantilado donde aparecen los fósiles.",
+     "Lo gestiona la Sépaq."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Miguasha_National_Park",
+     "https://www.openstreetmap.org/way/711554712"
+    ]
+   }
+  },
+  {
+   "id": "amnh-nueva-york",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Neorrománico y Beaux-Arts",
+    "ver_alli": [
+     "Esqueleto de <i>Gastornis</i> (<i>Diatryma</i>) en las salas de fósiles.",
+     "Está en Central Park West con la calle 79."
+    ]
+   }
+  },
+  {
+   "id": "museo-historia-natural-michigan",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de historia natural"
+   }
+  },
+  {
+   "id": "calvert-marine-museum",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo marítimo y de fósiles"
+   }
+  },
+  {
+   "id": "ashfall-fossil-beds",
+   "campos": {
+    "estilo": "Yacimiento de fósiles del Mioceno",
+    "ver_alli": [
+     "Parque histórico estatal con el «Rhino Barn», un edificio que cubre la excavación con los esqueletos tal como aparecieron.",
+     "Centro de visitantes y laboratorio donde se preparan los fósiles."
+    ]
+   }
+  },
+  {
+   "id": "hagerman-fossil-beds",
+   "campos": {
+    "estilo": "Yacimiento de fósiles del Plioceno",
+    "ver_alli": [
+     "Monumento nacional desde 1988, gestionado por el Servicio de Parques Nacionales.",
+     "El centro de visitantes, compartido con el parque estatal Thousand Springs, está a unos 6 km, en Hagerman, con fósiles y réplicas del caballo.",
+     "Miradores sobre el río Snake y sendero hasta las inmediaciones de la cantera histórica."
+    ]
+   }
+  },
+  {
+   "id": "white-sands-huellas",
+   "campos": {
+    "estilo": "Huellas humanas fósiles"
+   }
+  },
+  {
+   "id": "penn-museum-filadelfia",
+   "campos": {
+    "estilo": "Neorrománico italiano",
+    "ver_alli": [
+     "Las piezas de Ur se exponen en las galerías de Oriente Próximo, renovadas en 2018.",
+     "Está en el campus de la Universidad de Pensilvania, en South Street."
+    ]
+   }
+  },
+  {
+   "id": "museo-de-bellas-artes-de-boston",
+   "campos": {
+    "estilo": "Beaux-Arts",
+    "ver_alli": [
+     "En el 465 de Huntington Avenue; las piezas de Kerma se reparten entre las salas de Nubia y de Egipto.",
+     "La estatua de Sennuwy está en las salas del antiguo Egipto."
+    ]
+   }
+  },
+  {
+   "id": "museo-isac-chicago",
+   "campos": {
+    "estilo": "Art déco neogótico",
+    "ver_alli": [
+     "Sala de Jorsabad (Yelda Khorsabad Court) y galería del Imperio asirio.",
+     "Está en el campus de la Universidad de Chicago, en Hyde Park."
+    ]
+   }
+  },
+  {
+   "id": "museo-metropolitano-de-arte-nueva-york",
+   "campos": {
+    "estilo": "Beaux-Arts",
+    "ver_alli": [
+     "Salas de arte del Antiguo Oriente Próximo.",
+     "1000 Quinta Avenida, junto a Central Park."
+    ]
+   }
+  }
+ ]
+}
