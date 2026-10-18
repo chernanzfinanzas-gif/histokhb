@@ -2787,6 +2787,94 @@
    "viva_tipo": "camara",
    "d": 351,
    "voz_d": "Leda"
+  },
+  "des-sixtina": {
+   "viva": "img/vivas/des-sixtina.mp4",
+   "viva_tipo": "veo"
+  },
+  "des-victoria": {
+   "viva": "img/vivas/des-victoria.mp4",
+   "viva_tipo": "veo"
+  },
+  "mod1-5": {
+   "viva": "img/vivas/mod1-5.mp4",
+   "viva_tipo": "veo"
+  },
+  "des-potosi": {
+   "viva": "img/vivas/des-potosi.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-sevilla-indias": {
+   "viva": "img/vivas/des-sevilla-indias.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-suleymaniye": {
+   "viva": "img/vivas/des-suleymaniye.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod1-0": {
+   "viva": "img/vivas/mod1-0.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod1-1": {
+   "viva": "img/vivas/mod1-1.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod1-10": {
+   "viva": "img/vivas/mod1-10.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod1-11": {
+   "viva": "img/vivas/mod1-11.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod1-12": {
+   "viva": "img/vivas/mod1-12.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod1-13": {
+   "viva": "img/vivas/mod1-13.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod1-14": {
+   "viva": "img/vivas/mod1-14.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod1-15": {
+   "viva": "img/vivas/mod1-15.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod1-16": {
+   "viva": "img/vivas/mod1-16.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod1-2": {
+   "viva": "img/vivas/mod1-2.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod1-3": {
+   "viva": "img/vivas/mod1-3.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod1-4": {
+   "viva": "img/vivas/mod1-4.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod1-6": {
+   "viva": "img/vivas/mod1-6.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod1-7": {
+   "viva": "img/vivas/mod1-7.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod1-8": {
+   "viva": "img/vivas/mod1-8.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod1-9": {
+   "viva": "img/vivas/mod1-9.mp4",
+   "viva_tipo": "camara"
   }
  }
 }
