@@ -1,0 +1,618 @@
+{
+ "zona": "Málaga",
+ "nuevos": [
+  {
+   "id": "museo-picasso-malaga",
+   "nombre": "Museo Picasso Málaga",
+   "provincia": "Málaga",
+   "comarca": "Málaga",
+   "lat": 36.7217,
+   "lon": -4.4184,
+   "tipo": "museo",
+   "estilo": "Palacio renacentista y arte del siglo XX",
+   "epoca": "Siglo XX",
+   "anio": 2003,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Málaga, la ciudad natal de <b>Picasso</b>, tiene desde 2003 un museo dedicado a él. Se se inauguró el <b>27 de octubre de 2003</b> en el <b>Palacio de Buenavista</b>, una casa renacentista construida hacia 1530 por el regidor Diego de Cazalla.</p><p>La colección, de unas <b>285 obras</b>, nació con las donaciones de su nuera <b>Christine</b> y su nieto <b>Bernard Ruiz-Picasso</b>, 155 piezas entre ambos.</p><p>Al restaurar el palacio aparecieron restos de todas las épocas de la ciudad, incluido un tramo de la <b>muralla fenicia de Malaka</b>, que hoy se recorre por una pasarela sin tocar los restos.</p>"
+   },
+   "ver_alli": [
+    "El Palacio de Buenavista, casa renacentista del siglo XVI.",
+    "Las salas de la colección permanente.",
+    "Los restos fenicios y romanos bajo el edificio."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_Picasso_Málaga",
+    "https://www.wikidata.org/wiki/Q1368396",
+    "https://www.openstreetmap.org/?mlat=36.7217&mlon=-4.4184#map=18/36.7217/-4.4184"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "plaza-de-toros-de-ronda",
+   "nombre": "Plaza de toros de la Real Maestranza de Ronda",
+   "provincia": "Málaga",
+   "comarca": "Ronda",
+   "lat": 36.7422,
+   "lon": -5.1672,
+   "tipo": "monumento",
+   "estilo": "Neoclásico",
+   "epoca": "Ilustración y Neoclásico",
+   "anio": 1785,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Una de las plazas de toros más antiguas y bellas de España. La construyó la <b>Real Maestranza de Caballería de Ronda</b>, fundada por Felipe II en 1572, entre <b>1780 y 1785</b>, con proyecto atribuido a Martín de Aldehuela.</p><p>Se inauguró el <b>19 de mayo de 1785</b> con <b>Pedro Romero</b> y Pepe-Hillo. Su ruedo, de <b>66 metros de diámetro</b>, está rodeado por un doble anillo de <b>136 columnas toscanas</b> que forman 68 arcos.</p><p>Desde 1954 acoge la famosa <b>corrida goyesca</b>, creada por los Ordóñez para el bicentenario del nacimiento de Pedro Romero. Es monumento protegido desde 1993.</p><p class=\"dato\"><span>¿Sabías que…?</span>Pedro Romero (1754-1839), figura clave del toreo moderno, estoqueó según se cuenta más de 5.600 toros.</p>"
+   },
+   "ver_alli": [
+    "La doble arquería de columnas toscanas.",
+    "El ruedo, de 66 metros de diámetro.",
+    "El museo taurino y las caballerizas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Plaza_de_toros_de_Ronda",
+    "https://www.wikidata.org/wiki/Q97633149",
+    "https://www.openstreetmap.org/?mlat=36.7422&mlon=-5.1672#map=18/36.7422/-5.1672"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-de-mondragon-ronda",
+   "nombre": "Palacio de Mondragón",
+   "provincia": "Málaga",
+   "comarca": "Ronda",
+   "lat": 36.7377,
+   "lon": -5.1667,
+   "tipo": "monumento",
+   "estilo": "Mudéjar y renacentista",
+   "epoca": "Mudéjar",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>En el siglo XIV fue residencia del rey benimerín <b>Abd al-Malik</b> y luego del gobernador nazarí de Ronda. Cuando los <b>Reyes Católicos</b> tomaron la ciudad, el 24 de mayo de 1485, se alojaron aquí; después pasó a Melchor de Mondragón, cuyo escudo luce la portada.</p><p>Es un edificio <b>mudéjar y renacentista</b>, con fachada de dos torres de ladrillo y portada barroca del siglo XVIII. Tiene tres patios: el del pozo, el mudéjar del siglo XVI y uno tardogótico; el salón noble conserva un artesonado mudéjar.</p><p>El Ayuntamiento lo compró en 1975 y desde 2006 es el <b>Museo Municipal de Ronda</b>, dedicado a la historia de la serranía desde la prehistoria.</p>"
+   },
+   "ver_alli": [
+    "El patio mudéjar.",
+    "La fachada de dos torres de ladrillo y el escudo de los Mondragón.",
+    "El artesonado mudéjar del salón noble."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Palacio_de_Mondragón",
+    "https://www.wikidata.org/wiki/Q6058120",
+    "https://www.openstreetmap.org/?mlat=36.7377&mlon=-5.1667#map=18/36.7377/-5.1667"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "colegiata-de-santa-maria-la-mayor-antequera",
+   "nombre": "Real Colegiata de Santa María la Mayor",
+   "provincia": "Málaga",
+   "comarca": "Antequera",
+   "lat": 37.0145,
+   "lon": -4.5562,
+   "tipo": "iglesia",
+   "estilo": "Renacimiento con recuerdos góticos y mudéjares",
+   "epoca": "Renacimiento",
+   "anio": 1514,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>El obispo Diego Ramírez de Villaescusa logró en 1503 la bula para crear la colegiata de Antequera, y entre <b>1514 y 1550</b> se levantó este templo junto a la alcazaba. Es uno de los <b>primeros intentos de arquitectura renacentista</b> del sur de España, cuando aún pesaba el gusto gótico.</p><p>La fachada se organiza como un gran <b>arco de triunfo</b> de tres cuerpos. Dentro, tres naves separadas por <b>columnas jónicas</b>: se considera la primera iglesia columnaria de Andalucía. Las cubren armaduras de madera de tradición mudéjar.</p><p>En la obra trabajaron Pedro del Campo, Pedro López, maestro mayor de la catedral de Málaga, y Diego de Vergara, autor de la capilla mayor. La torre es un añadido del siglo XVII.</p>"
+   },
+   "ver_alli": [
+    "La fachada en forma de arco de triunfo.",
+    "Las columnas jónicas de las tres naves.",
+    "Las armaduras mudéjares de madera."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Real_Colegiata_de_Santa_María_la_Mayor",
+    "https://www.wikidata.org/wiki/Q6101852",
+    "https://www.openstreetmap.org/?mlat=37.0145&mlon=-4.5562#map=18/37.0145/-4.5562"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "frigiliana",
+   "nombre": "Frigiliana",
+   "provincia": "Málaga",
+   "comarca": "La Axarquía",
+   "lat": 36.7931,
+   "lon": -3.8987,
+   "tipo": "poblacion",
+   "estilo": "Barrio morisco",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Un laberinto de callejas blancas y empinadas en la sierra de la Axarquía, conocido por su <b>barrio morisco</b>. En 2015 fue el primer pueblo malagueño en entrar en <b>Los Pueblos Más Bonitos de España</b>.</p><p>Su castillo árabe, de finales del siglo IX, fue escenario en <b>1569</b> de la <b>batalla del Peñón de Frigiliana</b>, durante la rebelión de los moriscos: se refugiaron allí huidos de la Alpujarra, y tras su rendición a las tropas de Luis de Requesens el castillo fue destruido y el pueblo repoblado con cristianos viejos.</p><p>Con piedras del castillo se levantó a finales del XVI el <b>palacio de los Condes de Frigiliana</b>, «El Ingenio», hoy fábrica de miel de caña. La iglesia de <b>San Antonio</b> se terminó en 1676.</p><p class=\"dato\"><span>¿Sabías que…?</span>En 1982 se colocaron en las calles doce paneles de cerámica que cuentan la rebelión morisca y la batalla.</p>"
+   },
+   "ver_alli": [
+    "Los paneles de azulejos que narran la batalla de 1569.",
+    "La iglesia de San Antonio.",
+    "El palacio de El Ingenio, fábrica de miel de caña."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Frigiliana",
+    "https://www.openstreetmap.org/?mlat=36.7931&mlon=-3.8987#map=18/36.7931/-3.8987"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-sohail-fuengirola",
+   "nombre": "Castillo Sohail",
+   "provincia": "Málaga",
+   "comarca": "Fuengirola",
+   "lat": 36.5253,
+   "lon": -4.6289,
+   "tipo": "castillo",
+   "estilo": "Andalusí",
+   "epoca": "Castillos y fortalezas",
+   "anio": 956,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Vigila la desembocadura del río Fuengirola desde un cerro donde estuvo la antigua <b>Suel</b>, población fenicia y después municipio romano. En <b>956</b> el califa <b>Abderramán III</b> mandó construir una pequeña ciudadela sobre las ruinas romanas para defender la costa.</p><p>Los almorávides levantaron en el siglo XII el recinto actual, de planta irregular y ocho lienzos de muralla. Los cristianos lo tomaron el 7 de agosto de 1485 y lo reconstruyeron. En la guerra de la Independencia fue escenario de la <b>batalla de Fuengirola</b> (1810), y en 1812 los franceses volaron una de sus torres al retirarse.</p><p>Restaurado desde 1969 y ya municipal desde 1989, su patio es hoy un <b>auditorio</b> al aire libre de conciertos.</p>"
+   },
+   "ver_alli": [
+    "Las murallas almorávides.",
+    "La vista sobre el mar y la desembocadura del río.",
+    "El patio, hoy auditorio de conciertos."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_Sohail",
+    "https://www.wikidata.org/wiki/Q842129",
+    "https://www.openstreetmap.org/?mlat=36.5253&mlon=-4.6289#map=18/36.5253/-4.6289"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "fortaleza-de-velez-malaga",
+   "nombre": "Fortaleza de Vélez-Málaga",
+   "provincia": "Málaga",
+   "comarca": "La Axarquía",
+   "lat": 36.7845,
+   "lon": -4.1006,
+   "tipo": "castillo",
+   "estilo": "Andalusí",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>En lo más alto de Vélez-Málaga, la medina islámica se organizaba en torno a esta fortaleza. Fue casa real, capitanía, cárcel y cabildo, y aquí se rindió la ciudad a <b>Fernando el Católico</b> el <b>27 de abril de 1487</b>.</p><p>Durante la invasión francesa quedó casi destruida y sus restos sirvieron de cantera. La <b>torre del homenaje</b> se reconstruyó por completo en 1970: mide 18 metros y tiene cuatro plantas, más grande que la original.</p><p>Hoy se restauran poco a poco las murallas exteriores y junto a la torre se han rehecho dos arcos de herradura. Desde arriba hay amplias vistas.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje reconstruida y su mirador.",
+    "Los arcos de herradura junto a la torre.",
+    "El barrio de la Villa, a sus pies."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Vélez-Málaga",
+    "https://andalucia.com/province/malaga/velez/castle.htm",
+    "https://www.openstreetmap.org/?mlat=36.7845&mlon=-4.1006#map=18/36.7845/-4.1006"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "plaza-ochavada-archidona",
+   "nombre": "Plaza Ochavada",
+   "provincia": "Málaga",
+   "comarca": "Archidona",
+   "lat": 37.0946,
+   "lon": -4.3906,
+   "tipo": "monumento",
+   "estilo": "Urbanismo ilustrado con tradición mudéjar",
+   "epoca": "Ilustración y Neoclásico",
+   "anio": 1786,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Una plaza de <b>ocho lados</b> que es la joya de Archidona. Se construyó en <b>1786</b>, obra de los maestros de obras locales <b>Antonio González Sevillano</b> y <b>Francisco Frías Astorga</b>, para dar trabajo a los parados y sanear un lugar insalubre, el llamado «muladar de San Roque».</p><p>Sus fachadas, todas distintas pero formando un solo conjunto, combinan el <b>ladrillo rojo</b> con la piedra caliza blanca. Mezcla el urbanismo francés, la tradición mudéjar y una decoración clásica contenida.</p><p>Fue mercado, escenario de espectáculos y fiestas, y sus salas principales han alojado el ayuntamiento y una escuela; hoy vuelve a ser sede municipal.</p><p class=\"dato\"><span>¿Sabías que…?</span>En 2007 fue elegida «Primera Maravilla de la Provincia de Málaga» por votación popular.</p>"
+   },
+   "ver_alli": [
+    "La planta octogonal, mejor vista desde el centro.",
+    "El juego del ladrillo rojo y la piedra blanca.",
+    "La fachada principal del ayuntamiento."
+   ],
+   "fuentes": [
+    "https://andalucia.org/en/archidona-cultural-tourism-plaza-ochavada",
+    "https://www.openstreetmap.org/?mlat=37.0946&mlon=-4.3906#map=18/37.0946/-4.3906"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "termas-romanas-de-las-bovedas",
+   "nombre": "Termas romanas de Las Bóvedas",
+   "provincia": "Málaga",
+   "comarca": "Marbella (San Pedro Alcántara)",
+   "lat": 36.4681,
+   "lon": -4.9936,
+   "tipo": "yacimiento",
+   "estilo": "Romano",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Junto a la playa de Guadalmina se conserva un edificio termal romano de planta muy original: una gran <b>sala central octogonal</b> con una piscina también octogonal, a la que se abren estancias de la misma forma.</p><p>En la zona oriental quedan restos de la calefacción por el suelo (<i>suspensurae</i>), un mosaico de teselas grandes y el horno que calentaba el <i>caldarium</i>; al norte, dos salas frías con una piscina de agua fría.</p><p>Se piensa que, junto con la cercana basílica de Vega del Mar, pudieron pertenecer a <b>Cilniana</b>, una parada del Itinerario de Antonino, aunque no está confirmado. Es zona arqueológica protegida desde 2007.</p><p class=\"dato\"><span>¿Sabías que…?</span>La torre que se ve al lado no es romana: es una torre almenara para vigilar la costa, construida entre 1571 y 1575.</p>"
+   },
+   "ver_alli": [
+    "La sala central octogonal.",
+    "Los restos del sistema de calefacción.",
+    "La torre almenara de las Bóvedas, junto a las termas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Termas_romanas_de_Las_Bóvedas",
+    "https://www.wikidata.org/wiki/Q5938445",
+    "https://www.openstreetmap.org/?mlat=36.4681&mlon=-4.9936#map=18/36.4681/-4.9936"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santuario-de-la-victoria-malaga",
+   "nombre": "Santuario de la Victoria",
+   "provincia": "Málaga",
+   "comarca": "Málaga",
+   "lat": 36.7293,
+   "lon": -4.413,
+   "tipo": "iglesia",
+   "estilo": "Barroco",
+   "epoca": "Barroco",
+   "anio": 1693,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Aquí tuvo su campamento <b>Fernando el Católico</b> durante el asedio de Málaga en <b>1487</b>. En el lugar se levantó una ermita que en 1493 pasó a los frailes mínimos, y entre <b>1693 y 1700</b> se construyó la iglesia actual.</p><p>Guarda a la <b>Virgen de la Victoria</b>, patrona de Málaga y de su diócesis, en una <b>torre camarín</b> considerada una joya del barroco y una de las primeras de España. Desde 2007 es basílica menor.</p><p>Bajo el camarín está la <b>cripta panteón de los condes de Buenavista</b>, una sala cuadrada de 8,5 metros de lado sobre cuatro columnas, decorada con esqueletos y figuras de la muerte en yeso blanco sobre fondo negro.</p>"
+   },
+   "ver_alli": [
+    "El camarín barroco de la Virgen de la Victoria.",
+    "La sobrecogedora cripta de los condes de Buenavista.",
+    "La plaza ante el santuario."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Santuario_de_la_Victoria_(Málaga)",
+    "https://www.wikidata.org/wiki/Q6121578",
+    "https://www.openstreetmap.org/?mlat=36.7293&mlon=-4.413#map=18/36.7293/-4.413"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-la-estrella-teba",
+   "nombre": "Castillo de la Estrella",
+   "provincia": "Málaga",
+   "comarca": "Teba (Guadalteba)",
+   "lat": 36.9797,
+   "lon": -4.9183,
+   "tipo": "castillo",
+   "estilo": "Almohade y cristiano",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1330,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Uno de los grandes castillos de la frontera de Granada: unos 25.000 m² a 600 metros de altitud, con dieciséis torres cuadradas, una circular, una octogonal y una albarrana, y al menos siete aljibes. Su historia documentada empieza en época <b>almohade</b> (siglos XII-XIII).</p><p>En <b>1330</b> fue escenario de la <b>batalla de Teba</b>, en la campaña de Alfonso XI. Con él luchaban caballeros escoceses mandados por <b>James Douglas</b>, que llevaba el <b>corazón embalsamado del rey Roberto I Bruce</b> camino de Tierra Santa; Douglas murió en el combate junto a casi todos sus hombres.</p><p>La torre del homenaje es de época cristiana. Es monumento desde 1931 y en la iglesia restaurada del castillo hay un centro de interpretación sobre la batalla.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje.",
+    "El centro de interpretación sobre la batalla de Teba.",
+    "Las vistas sobre el Guadalteba."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_la_Estrella_(Teba)",
+    "https://www.wikidata.org/wiki/Q97633823",
+    "https://www.openstreetmap.org/?mlat=36.9797&mlon=-4.9183#map=18/36.9797/-4.9183"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "casares",
+   "nombre": "Casares",
+   "provincia": "Málaga",
+   "comarca": "Costa del Sol Occidental",
+   "lat": 36.4434,
+   "lon": -5.2737,
+   "tipo": "poblacion",
+   "estilo": "Pueblo blanco y castillo medieval",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Un pueblo blanco de la Costa del Sol Occidental coronado por los restos de su <b>castillo del siglo XIII</b>. Dentro del recinto del castillo estuvo la antigua iglesia de la Encarnación, de los siglos XVI y XVII.</p><p>La tradición dice que su nombre viene de <b>Julio César</b>, que en el 61 a. C. se curó una enfermedad del hígado en los baños de La Hedionda. Cerca estuvo también la ciudad romana de <b>Lacipo</b>.</p><p>En Casares nació en 1885 <b>Blas Infante</b>, considerado «Padre de la Patria Andaluza».</p>"
+   },
+   "ver_alli": [
+    "Las ruinas del castillo del siglo XIII.",
+    "El caserío blanco escalonado.",
+    "El antiguo convento capuchino, hoy iglesia de la Encarnación."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Casares_(Málaga)",
+    "https://www.wikidata.org/wiki/Q97633040",
+    "https://www.openstreetmap.org/?mlat=36.4434&mlon=-5.2737#map=18/36.4434/-5.2737"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "casco-antiguo-de-marbella",
+   "nombre": "Casco antiguo de Marbella",
+   "provincia": "Málaga",
+   "comarca": "Marbella",
+   "lat": 36.5101,
+   "lon": -4.885,
+   "tipo": "poblacion",
+   "estilo": "Andalusí, mudéjar y barroco",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Lejos de los puertos deportivos, Marbella conserva un casco antiguo de calles blancas y estrechas que mantiene casi la misma planta que en el siglo XVI. Los musulmanes construyeron un castillo en el siglo X y quedan restos de la muralla árabe.</p><p>Tras la entrada de los cristianos, el <b>11 de junio de 1485</b>, se trazó la <b>plaza de los Naranjos</b>, con el ayuntamiento de los Reyes Católicos y la Casa del Corregidor, de fachada gótico-mudéjar y renacentista. La <b>ermita de Santiago</b>, probablemente del siglo XV, es el templo más antiguo de la ciudad.</p><p>La <b>iglesia de la Encarnación</b> sustituyó a la antigua mezquita mayor; el edificio actual se hizo entre 1750 y 1767, con una portada rococó de piedra ocre y una torre de unos 50 metros.</p>"
+   },
+   "ver_alli": [
+    "La plaza de los Naranjos y la Casa del Corregidor.",
+    "La portada rococó de la iglesia de la Encarnación.",
+    "Los restos de la muralla árabe."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Marbella",
+    "https://es.wikipedia.org/wiki/Iglesia_de_la_Encarnación_(Marbella)",
+    "https://www.openstreetmap.org/?mlat=36.5101&mlon=-4.885#map=18/36.5101/-4.885"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "cueva-nerja",
+   "campos": {
+    "lat": 36.7618,
+    "lon": -3.8448,
+    "estilo": "Arte rupestre paleolítico"
+   }
+  },
+  {
+   "id": "dolmenes-antequera",
+   "campos": {
+    "lat": 37.0242,
+    "lon": -4.5483,
+    "estilo": "Megalítico"
+   }
+  },
+  {
+   "id": "la-pileta",
+   "campos": {
+    "lat": 36.6912,
+    "lon": -5.2699,
+    "estilo": "Arte rupestre paleolítico y esquemático",
+    "texto": {
+     "general": "<p>En 1905 <b>José Bullón Lobato</b>, un campesino del cercano Rancho del Harillo, vio salir una nube de murciélagos de una grieta del cerro mientras buscaba guano para abonar sus tierras. Al entrar encontró pinturas y llamó al lugar «cueva de los letreros»; luego tomó el nombre del cerro, la Pileta. La cueva sigue en manos de la familia que la descubrió, que guía las visitas.</p><p>Su fama llegó a los especialistas gracias al coronel inglés Willoughby Verner, que la exploró en 1909-1911. En 1912 la visitaron <b>Henri Breuil</b>, Hugo Obermaier y otros prehistoriadores, que publicaron una monografía bajo el patrocinio del príncipe Alberto I de Mónaco. En 1924 fue declarada <b>Monumento Nacional</b>, y ese mismo año Tomás Bullón descubrió la entrada actual, que era la original de la Prehistoria.</p><p>Dentro hay pinturas y grabados paleolíticos de ciervos, caballos, cabras, toros, un bisonte, <b>peces</b> y una <b>foca</b>. Destacan la llamada <b>yegua preñada</b> y el gran pez que da nombre a una de sus salas, relacionados con el Solutrense. Encima se superponen figuras negras esquemáticas de época posterior, del Eneolítico.</p>"
+    },
+    "ver_alli": [
+     "La visita es guiada, con grupos pequeños y a la luz de linternas; conviene reservar.",
+     "Busca la yegua preñada y la Sala del Pez, con su gran figura de pescado.",
+     "Fíjate en las figuras negras esquemáticas, más modernas que las paleolíticas.",
+     "Después, recorre Benaoján y el valle del Guadiaro."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Cueva_de_la_Pileta",
+     "https://rupestre.art/es/caves/cueva-de-la-pileta",
+     "https://es.wikipedia.org/wiki/Cueva_de_la_Pileta"
+    ]
+   }
+  },
+  {
+   "id": "ardales",
+   "campos": {
+    "lat": 36.8727,
+    "lon": -4.8289,
+    "estilo": "Arte rupestre paleolítico",
+    "texto": {
+     "general": "<p>También llamada de Doña Trinidad Grund, su entrada quedó al descubierto con un terremoto en 1821. Tiene manos en negativo, ciervas, caballos y signos rojos.</p><p>Un estudio de 2018 fechó algunas de esas pinturas rojas en más de 64.000 años, antes de la llegada de <i>Homo sapiens</i> a Europa. En 2021 otro estudio de las estalagmitas teñidas de rojo confirmó que el pigmento no es natural, sino que se aplicó a propósito y en varios momentos, separados por miles de años.</p><p>Si las fechas son correctas, sus autores fueron <b>neandertales</b>, que volvieron una y otra vez a pintar en la cueva, lo que indicaría que la capacidad simbólica no era exclusiva de nuestra especie. Algunos especialistas discuten el método de datación.</p>"
+    }
+   }
+  },
+  {
+   "id": "acinipo",
+   "campos": {
+    "estilo": "Romano",
+    "texto": {
+     "general": "<p>Sobre una gran meseta cerca de Ronda, Acinipo fue ocupada por primera vez en la <b>Edad del Cobre</b>, hacia el 3000 a. C. En los siglos IX-VIII a. C. sus habitantes, que vivían en cabañas, tuvieron contacto con los fenicios de la costa malagueña; el poblado se abandonó a finales del siglo VII a. C. y volvió a ocuparse en época ibérica, en el siglo V a. C.</p><p>Con la llegada de Roma, desde el 206 a. C., se levantaron edificios monumentales, la ciudad acuñó su <b>propia moneda</b> y con el tiempo llegó a ser <b>municipio romano</b>. Su joya es el <b>teatro</b>, construido posiblemente a mediados del siglo I a. C., de unos 62 metros de diámetro, con el graderío tallado en la roca caliza y el frente escénico de sillares, uno de los más antiguos de Hispania.</p><p>Hay también una gran casa aristocrática junto al antiguo foro y unas termas con palestra, construidas hacia el cambio de era sobre un manantial. El teatro se abandonó a finales del siglo II o comienzos del III, y la comarca pasó a depender de Arunda, la actual Ronda. Desde el siglo XVI el lugar se conoce como <b>«Ronda la Vieja»</b>.</p>"
+    },
+    "ver_alli": [
+     "Antes de ir, comprueba si ha reabierto: un corrimiento de tierra cortó la carretera de acceso.",
+     "En el teatro, fíjate en las gradas talladas directamente en la roca y en el frente de sillares.",
+     "Busca las cabañas protohistóricas y las termas con su palestra."
+    ],
+    "fuentes": [
+     "https://www.juntadeandalucia.es/aaiicc/enclaves/enclave-arqueologico-acinipo",
+     "https://www.wikidata.org/wiki/Q4674175"
+    ]
+   }
+  },
+  {
+   "id": "teatro-malaga",
+   "campos": {
+    "lat": 36.7212,
+    "lon": -4.4168,
+    "estilo": "Romano altoimperial",
+    "texto": {
+     "general": "<p>Al pie de la Alcazaba, el teatro de la Málaga romana se construyó en los <b>primeros años del siglo I d. C.</b>, al comienzo del Imperio, en parte sobre unas termas de época republicana. Aprovecha la ladera del cerro para el graderío, al modo griego, y completa con obra donde faltaba la roca. Es un teatro de tamaño medio.</p><p>Estuvo enterrado durante siglos bajo calles y casas. En 1940 se levantó encima la Casa de la Cultura, y en <b>1951</b>, al hacer unos jardines delante de su entrada, apareció una estructura abovedada que se tomó por una puerta de la muralla. Pronto se vio que era el acceso principal de un teatro. Tras años de debate, en los años noventa se derribó la Casa de la Cultura para excavarlo entero.</p><p>Se usó unos dos siglos y se abandonó en el siglo III. Después la zona se llenó de <b>piletas de salazón</b> donde se elaboraba el <i>garum</i>, activas hasta el siglo V, y más tarde de tumbas. Se conserva gran parte del graderío, la orquesta con grandes losas de mármol y el escenario, cuyo suelo de madera se ha reproducido.</p><p class=\"dato\"><span>¿Sabías que…?</span>En las paredes del centro de interpretación, inaugurado en 2010, se reproducen fragmentos de la <i>Lex Flavia Malacitana</i>, la ley municipal romana de Málaga.</p>"
+    },
+    "ver_alli": [
+     "Se ve bien desde la calle Alcazabilla, pero merece la pena bajar a las pasarelas.",
+     "Fíjate en la orquesta, con sus grandes losas de mármol, y en la inscripción entre ella y el escenario.",
+     "Bajo la pirámide de cristal de la calle Alcazabilla se ven piletas de salazón del siglo III.",
+     "Desde allí se sube a la Alcazaba."
+    ],
+    "fuentes": [
+     "https://www.juntadeandalucia.es/aaiicc/enclaves/enclave-arqueologico-teatro-romano-de-malaga",
+     "https://es.wikipedia.org/wiki/Teatro_romano_de_M%C3%A1laga"
+    ]
+   }
+  },
+  {
+   "id": "rio-verde",
+   "campos": {
+    "lat": 36.4957,
+    "lon": -4.9444,
+    "estilo": "Villa romana",
+    "texto": {
+     "general": "<p>En la desembocadura del río Verde, en Marbella, se conserva la parte noble de una <b>villa romana de la costa</b>, cuyos dueños vivían probablemente de la pesca y de las salazones, quizá también del tinte púrpura. Es uno de los pocos ejemplos de la vivienda de los señores en este tipo de explotaciones del litoral andaluz. Se excava desde 1960.</p><p>Las habitaciones rodean un patio porticado con una fuente monumental decorada con mármoles de colores. Seis de ellas tienen <b>mosaicos</b>: uno con una cabeza de Gorgona en el centro y varios geométricos en blanco y negro.</p><p>El más original es el <b>mosaico culinario</b>, en blanco y negro, que dibuja como un friso utensilios de cocina, sandalias y alimentos. Los mosaicos visibles son de finales del siglo II o comienzos del III, de una reforma tras un incendio; la primera casa es probablemente del siglo I, y la villa funcionó hasta el siglo IV.</p>"
+    },
+    "ver_alli": [
+     "Recorre la pasarela que rodea el patio y permite ver los mosaicos muy de cerca.",
+     "En el mosaico culinario, busca los utensilios de cocina, las sandalias y los alimentos.",
+     "Fíjate en la cabeza de Gorgona del mosaico de colores.",
+     "En San Pedro Alcántara, cerca, está la basílica de Vega del Mar."
+    ],
+    "fuentes": [
+     "https://www.historyhit.com/locations/rio-verde-roman-villa/",
+     "https://es.wikipedia.org/wiki/Villa_romana_de_R%C3%ADo_Verde"
+    ]
+   }
+  },
+  {
+   "id": "vega-del-mar",
+   "campos": {
+    "lat": 36.4721,
+    "lon": -4.9903,
+    "estilo": "Paleocristiano y visigodo",
+    "texto": {
+     "general": "<p>Junto a la desembocadura del río Guadalmina, muy cerca del mar y sobre la antigua vía romana que unía Cádiz con Cartagena, se conservan los muros de una <b>basílica cristiana</b>. Se descubrió a principios del siglo XX, cuando se plantaban eucaliptos en la zona.</p><p>Es una de las pocas iglesias de <b>tipo norteafricano</b> construidas en Andalucía en el siglo VI, levantada sobre una basílica paleocristiana anterior, del siglo IV. Su planta es casi cuadrada, de 11,5 metros de lado, con tres naves y <b>dos ábsides enfrentados</b>; el principal es el occidental, en forma de herradura.</p><p>En una de las salas junto al ábside hay una <b>pila bautismal</b> de piedra, en forma de pez por fuera y de cuatro lóbulos por dentro, donde se bautizaba por inmersión. Alrededor y dentro de la basílica se hallaron más de 180 tumbas de distintas épocas: el lugar fue también cementerio.</p>"
+    },
+    "ver_alli": [
+     "Fíjate en los dos ábsides enfrentados, uno a cada extremo de la iglesia.",
+     "Busca la pila bautismal de inmersión, con forma de pez.",
+     "Mira las tumbas de distintos tipos repartidas por el recinto."
+    ],
+    "fuentes": [
+     "https://www.andalucia.com/marbella/mainsights/basilica-necropolis.htm",
+     "https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_Vega_del_Mar"
+    ]
+   }
+  },
+  {
+   "id": "alcazaba-y-gibralfaro",
+   "campos": {
+    "lat": 36.7211,
+    "lon": -4.4159,
+    "estilo": "Andalusí (taifa y nazarí)",
+    "texto": {
+     "general": "<p>La <b>Alcazaba</b> es un palacio-fortaleza levantado sobre una fortificación fenicio-púnica. Según los cronistas musulmanes la mandó construir el rey zirí <b>Badis</b> hacia 1057-1063, aprovechando mármoles y columnas del teatro romano vecino, aunque algunos estudios creen que más bien restauró un recinto anterior. Con su doble muralla, el arquitecto Leopoldo Torres Balbás la consideraba el prototipo de la arquitectura militar del siglo XI.</p><p>En lo alto del monte se alza el <b>castillo de Gibralfaro</b>, cuyo nombre recuerda un faro antiguo («monte del faro»). Abderramán III lo convirtió en fortaleza y el rey nazarí <b>Yusuf I</b> lo amplió en 1340. Tiene dos líneas de murallas y ocho torres, y se une a la Alcazaba por la <b>Coracha</b>, un pasillo amurallado en zigzag.</p><p>En el verano de 1487 los dos recintos resistieron el duro asedio de los <b>Reyes Católicos</b>, que terminaron tomando Málaga. Tras la conquista, Fernando el Católico se alojó en Gibralfaro.</p><p class=\"dato\"><span>¿Sabías que…?</span>El pozo de Airón, en Gibralfaro, está excavado en la roca y tiene 40 metros de profundidad.</p>"
+    },
+    "ver_alli": [
+     "En la Alcazaba, fíjate en sus arcos de herradura, patios y albercas.",
+     "Sube a Gibralfaro y recorre el camino de ronda sobre la muralla: las vistas de Málaga y el puerto son de las mejores.",
+     "Busca la Coracha, el pasillo amurallado que baja hacia la Alcazaba.",
+     "En días claros se distinguen desde Gibralfaro montes del Rif."
+    ],
+    "fuentes": [
+     "https://alcazabaygibralfaro.malaga.eu/en/visits/price-list-and-visiting-hours/",
+     "https://es.wikipedia.org/wiki/Alcazaba_de_M%C3%A1laga",
+     "https://es.wikipedia.org/wiki/Castillo_de_Gibralfaro"
+    ]
+   }
+  },
+  {
+   "id": "alcazaba-de-antequera",
+   "campos": {
+    "lat": 37.0148,
+    "lon": -4.5573,
+    "estilo": "Andalusí (almohade y nazarí)",
+    "texto": {
+     "general": "<p>La alcazaba de Antequera corona la ciudad. Su origen puede ser romano, pero se menciona por primera vez en el siglo XI. Sus dos anillos de murallas resistieron en 1361 el ataque de Pedro I de Castilla; después se reforzaron con una barbacana, puertas nuevas y una coracha.</p><p>En <b>1410</b>, tras un asedio de cinco meses, la tomó el regente de Castilla, el infante <b>don Fernando</b>, que desde entonces fue conocido como <b>Fernando de Antequera</b>. Aquella conquista fue considerada el mayor triunfo cristiano entre la batalla del Salado y la toma de Granada.</p><p>Su <b>torre del Homenaje</b> es la más ancha de las torres musulmanas andaluzas, salvo la Calahorra de Gibraltar; en 1582 se le añadió un templete para la campana y el reloj de la ciudad. A su lado, la <b>torre Blanca</b> destaca por su perfecta sillería.</p><p class=\"dato\"><span>¿Sabías que…?</span>Al reloj de la torre lo llaman «Papabellotas» porque, para pagarlo, la ciudad tuvo que vender un alcornocal.</p>"
+    },
+    "ver_alli": [
+     "Sube a la torre del Homenaje y fíjate en el templete del reloj «Papabellotas».",
+     "Mira la sillería de la torre Blanca y sus ventanas de herradura.",
+     "Desde las murallas se ve toda la ciudad y la vega que la rodea.",
+     "Al salir, a pocos pasos, está la Colegiata de Santa María la Mayor."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Alcazaba_de_Antequera"
+    ]
+   }
+  },
+  {
+   "id": "banos-arabes-de-ronda",
+   "campos": {
+    "lat": 36.7389,
+    "lon": -5.1628,
+    "estilo": "Andalusí",
+    "texto": {
+     "general": "<p>Junto al río, en el barrio de San Miguel, se conservan los <b>baños árabes</b> de Ronda, que suelen citarse entre los mejor conservados de la Península. Estaban al pie de la desaparecida puerta de la Puente, en lo que en la Edad Media era un animado <b>arrabal</b> de alfareros, curtidores y esparteros, como aún recuerdan nombres como el puente de las Curtidurías.</p><p>Siguen el esquema de las termas romanas —sala de recepción, sala fría, templada y caliente, y caldera con calefacción bajo el suelo—, pero eran sobre todo <b>baños de vapor</b>. Para el baño islámico eran a la vez parte del ritual religioso y lugar de encuentro social.</p><p>Una <b>noria</b>, en la confluencia del arroyo de las Culebras con el Guadalevín, subía el agua, que un pequeño acueducto llevaba hasta la caldera. Por su tamaño se cree que era el baño más importante de la Ronda islámica: el <i>Libro de los Repartimientos</i> cita al menos cuatro.</p>"
+    },
+    "ver_alli": [
+     "Recorre en orden las salas fría, templada y caliente.",
+     "Imagina la sala caliente llena de vapor: bajo su suelo circulaba el aire de la caldera.",
+     "Al final se proyecta un vídeo que explica cómo funcionaban los baños."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Ba%C3%B1os_%C3%A1rabes_de_Ronda"
+    ]
+   }
+  },
+  {
+   "id": "iglesia-rupestre-de-bobastro",
+   "campos": {
+    "lat": 36.9023,
+    "lon": -4.7813,
+    "estilo": "Mozárabe (rupestre)",
+    "ver_alli": [
+     "Fíjate en cómo la iglesia está excavada directamente en la roca.",
+     "Lee los paneles del sendero, en español e inglés, que explican la historia de Bobastro.",
+     "Combina la visita con el Caminito del Rey, muy cerca."
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-malaga-la-manquita",
+   "campos": {
+    "lat": 36.7202,
+    "lon": -4.4194,
+    "estilo": "Renacimiento, con añadidos barrocos",
+    "texto": {
+     "general": "<p>A los pocos días de conquistar Málaga, en 1487, los Reyes Católicos ordenaron levantar un templo cristiano en el solar de la mezquita mayor. La catedral actual se empezó allí en <b>1528</b>. Las primeras trazas eran góticas, pero el proyecto se hizo <b>renacentista</b>, con la cabecera diseñada por <b>Diego de Siloé</b>; luego trabajaron en ella Andrés de Vandelvira, Hernán Ruiz II y los Diego de Vergara, padre e hijo. Se consagró en 1588.</p><p>Las obras se reanudaron en el siglo XVIII, pagadas con un impuesto a los barcos que cargaban en el puerto, y se dieron por terminadas en <b>1782</b>, sin acabar. Le falta la <b>torre sur</b> —por eso la llaman <b>«la Manquita»</b>—, además del tejado y parte de la decoración. Su torre norte alcanza 84 metros.</p><p>Según la versión más difundida, el dinero que faltaba se desvió para ayudar a los rebeldes norteamericanos en su <b>guerra de independencia</b>, a través del gobernador de Luisiana, Luis de Unzaga. Una lápida bilingüe lo recuerda en la catedral, aunque los historiadores discuten hasta qué punto fue así.</p><p class=\"dato\"><span>¿Sabías que…?</span>Las bóvedas de sus naves son de las más altas de España: solo las supera la catedral de Palma.</p>"
+    },
+    "ver_alli": [
+     "Desde la plaza del Obispo, fíjate en el hueco de la torre sur que nunca se construyó.",
+     "Dentro, mira el coro, con figuras talladas por Pedro de Mena.",
+     "Levanta la vista hacia las bóvedas, decoradas con grutescos.",
+     "Si puedes, sube a las cubiertas para ver la ciudad, la Alcazaba y Gibralfaro."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_de_M%C3%A1laga"
+    ]
+   }
+  },
+  {
+   "id": "puente-nuevo-de-ronda",
+   "campos": {
+    "lat": 36.7407,
+    "lon": -5.1659,
+    "estilo": "Neoclásico (ingeniería del siglo XVIII)",
+    "texto": {
+     "general": "<p>El Puente Nuevo salva el <b>Tajo de Ronda</b>, la garganta del río Guadalevín, y une la ciudad vieja con la nueva a unos <b>98 metros</b> de altura. Tuvo un antecesor trágico: un primer puente de 1735 se hundió seis años después y mató a 50 personas.</p><p>Por eso el nuevo se diseñó con prudencia: en lugar de un único arco de 35 metros, se rellenó el barranco con fábrica para apoyar un arco mucho más pequeño, bajando los cimientos hasta el cauce. Las obras empezaron en <b>1759</b> y se inauguró en mayo de <b>1793</b>. Intervinieron varios maestros, pero el más destacado fue <b>José Martín de Aldehuela</b>, que lo terminó.</p><p>Está hecho con sillares de «piedra de Ronda». Sobre el arco central hay una <b>cámara</b> que tuvo varios usos, entre ellos el de cárcel, y que hoy alberga una exposición sobre la historia del puente.</p><p class=\"dato\"><span>¿Sabías que…?</span>Fue el puente con el vano más alto del mundo hasta 1839.</p>"
+    },
+    "ver_alli": [
+     "Crúzalo a pie y asómate a la garganta desde los miradores.",
+     "Entra en la cámara sobre el arco central, la antigua cárcel.",
+     "Baja por los caminos y jardines de la ladera para verlo entero desde abajo."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Puente_Nuevo_(Ronda)"
+    ]
+   }
+  }
+ ]
+}

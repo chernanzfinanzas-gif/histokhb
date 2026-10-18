@@ -1,0 +1,570 @@
+{
+ "zona": "Córdoba",
+ "nuevos": [
+  {
+   "id": "mausoleo-romano-de-cordoba",
+   "nombre": "Mausoleo romano de los Jardines de la Victoria",
+   "provincia": "Córdoba",
+   "comarca": "Córdoba",
+   "lat": 37.8851,
+   "lon": -4.785,
+   "tipo": "monumento",
+   "estilo": "Romano",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>A la salida de la puerta occidental de <b>Corduba</b>, junto a la <b>Vía Augusta</b> que llevaba a Hispalis (Sevilla), las familias pudientes de la capital de la Bética levantaron sus tumbas monumentales. De ellas quedan los mausoleos de la actual Puerta de Gallegos, en los Jardines de la Victoria.</p><p>Son construcciones <b>cilíndricas del siglo I</b>, de unos <b>13 metros de diámetro</b>; el mausoleo norte se levantó en tiempos del emperador <b>Tiberio</b> (14-37 d. C.). Siglos después, a finales del III, el lugar volvió a usarse como espacio funerario.</p><p>Estuvieron ocultos hasta <b>1993</b>, cuando aparecieron en unas catas arqueológicas. Después se reconstruyeron siguiendo los patrones originales, y hoy su gran tambor de piedra sorprende en medio del paseo.</p>"
+   },
+   "ver_alli": [
+    "El gran tambor cilíndrico reconstruido, visible desde el paseo de la Victoria.",
+    "El trazado de la antigua Vía Augusta que pasaba junto a él.",
+    "El lugar de la antigua puerta occidental de la ciudad romana."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Mausoleo_romano_(Córdoba)",
+    "https://www.wikidata.org/wiki/Q3818305",
+    "https://www.openstreetmap.org/?mlat=37.8851&mlon=-4.785#map=18/37.8851/-4.785"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-de-viana",
+   "nombre": "Palacio de Viana",
+   "provincia": "Córdoba",
+   "comarca": "Córdoba",
+   "lat": 37.8886,
+   "lon": -4.774,
+   "tipo": "monumento",
+   "estilo": "Casa palacio señorial (siglos XV-XIX)",
+   "epoca": "Renacimiento",
+   "anio": 1425,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Es la gran casa señorial de Córdoba y el mejor lugar para entender la ciudad de los patios. Las primeras noticias son de <b>1425</b>, cuando Ruy Fernández de Fuentecubierta compró aquí unas casas medievales; desde entonces el conjunto fue creciendo durante más de cinco siglos.</p><p>Pasó por los <b>Figueroa</b>, señores y luego marqueses de Villaseca, y desde 1873 por los <b>marqueses de Viana</b>, sus últimos dueños. En 1980 se cedió a la Caja Provincial de Ahorros de Córdoba y en 1981 abrió al público y fue declarado monumento.</p><p>Sus unos 6.500 m² reúnen <b>doce patios</b> y un jardín, además de salones con pinturas de Valdés Leal, Luca Giordano y Julio Romero de Torres, una galería con 236 azulejos de los siglos XIII al XIX, tapices sobre cartones de Goya y una biblioteca de más de 7.000 volúmenes.</p><p class=\"dato\"><span>¿Sabías que…?</span>Su archivo, de más de 300.000 documentos, no entró en la cesión de 1980 y no se compró hasta el año 2000.</p>"
+   },
+   "ver_alli": [
+    "Los doce patios, cada uno con carácter propio, y el jardín.",
+    "La galería de los azulejos.",
+    "Las salas con obras de Julio Romero de Torres."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Palacio_de_Viana_(Córdoba)",
+    "https://www.wikidata.org/wiki/Q97626593",
+    "https://www.openstreetmap.org/?mlat=37.8886&mlon=-4.774#map=18/37.8886/-4.774"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-san-lorenzo-cordoba",
+   "nombre": "Iglesia de San Lorenzo",
+   "provincia": "Córdoba",
+   "comarca": "Córdoba",
+   "lat": 37.8885,
+   "lon": -4.7689,
+   "tipo": "iglesia",
+   "estilo": "Gótico y mudéjar (iglesia fernandina)",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Es una de las <b>iglesias fernandinas</b>, las parroquias que se levantaron en Córdoba tras la conquista cristiana de 1236. Se construyó en la segunda mitad del siglo XIII sobre la mezquita de al-Mugira, que a su vez había sustituido a una iglesia visigoda.</p><p>Su fachada es inconfundible: un <b>pórtico de tres arcos apuntados</b>, raro en Andalucía, y encima un espléndido <b>rosetón gótico-mudéjar</b>, que estuvo oculto hasta la restauración de 1963. La torre la transformó en <b>1555 Hernán Ruiz el Joven</b>, que convirtió el antiguo alminar en un campanario renacentista considerado precedente de la Giralda.</p><p>Dentro guarda un tesoro: las <b>pinturas murales del siglo XIV</b> del ábside, de estilo gótico italiano, con siete escenas de la Pasión. Tras un incendio en 1687 quedaron tapadas por bóvedas barrocas de yeso, que no se retiraron hasta 1963.</p><p class=\"dato\"><span>¿Sabías que…?</span>En 1884 apareció aquí la lápida fundacional de la mezquita sobre la que se levantó la iglesia.</p>"
+   },
+   "ver_alli": [
+    "El rosetón de la fachada sobre el pórtico de tres arcos.",
+    "La torre renacentista de Hernán Ruiz el Joven.",
+    "Las pinturas murales góticas del ábside."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Lorenzo_(Córdoba)",
+    "https://www.wikidata.org/wiki/Q1108182",
+    "https://www.openstreetmap.org/?mlat=37.8885&mlon=-4.7689#map=18/37.8885/-4.7689"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-santa-marina-cordoba",
+   "nombre": "Iglesia de Santa Marina de Aguas Santas",
+   "provincia": "Córdoba",
+   "comarca": "Córdoba",
+   "lat": 37.8898,
+   "lon": -4.7751,
+   "tipo": "iglesia",
+   "estilo": "Protogótico y mudéjar (iglesia fernandina)",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Otra de las <b>iglesias fernandinas</b>, mandada levantar por <b>Fernando III</b> tras la conquista de Córdoba, en la segunda mitad del siglo XIII. Se cree que se alzó sobre un templo visigodo del siglo VII.</p><p>Su fachada parece una fortaleza: <b>cuatro contrafuertes potentes y asimétricos</b> rematados en pináculos enmarcan un rosetón y una portada de arco apuntado. Es un estilo protogótico con toques mudéjares y algún recuerdo románico. La torre del siglo XVI es obra de <b>Hernán Ruiz el Joven</b>.</p><p>Dentro, tres naves con cubiertas de madera contratadas hacia 1495 y capillas funerarias como la de los Orozco (siglo XV) o la de los Benavides (hacia 1630). La plaza que tiene delante, con el monumento a <b>Manolete</b>, es el corazón del llamado «barrio de los toreros».</p><p class=\"dato\"><span>¿Sabías que…?</span>Es Monumento Histórico-Artístico Nacional desde 1931.</p>"
+   },
+   "ver_alli": [
+    "Los enormes contrafuertes de la fachada principal.",
+    "El rosetón y la portada apuntada.",
+    "La plaza con el monumento a Manolete."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Marina_(Córdoba)",
+    "https://www.openstreetmap.org/?mlat=37.8898&mlon=-4.7751#map=18/37.8898/-4.7751"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-de-bellas-artes-de-cordoba",
+   "nombre": "Museo de Bellas Artes de Córdoba",
+   "provincia": "Córdoba",
+   "comarca": "Córdoba",
+   "lat": 37.8813,
+   "lon": -4.7748,
+   "tipo": "museo",
+   "estilo": "Antiguo Hospital de la Caridad",
+   "epoca": "Barroco",
+   "anio": 1844,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Nació con los cuadros que dejó la <b>Desamortización de Mendizábal</b> (1835) y se inauguró en <b>1844</b>. Desde 1862 ocupa el antiguo <b>Hospital de la Caridad</b>, en la célebre plaza del Potro, un edificio declarado monumento en 1962.</p><p>Es sobre todo un museo de pintura, con artistas cordobeses y andaluces como <b>Juan de Valdés Leal</b> o <b>Julio Romero de Torres</b>. Sus piezas más antiguas son las pinturas de la antigua capilla mayor de la Mezquita-Catedral, descubiertas en 1880 y fechadas en <b>1341</b>.</p><p>Comparte sede con el Museo Julio Romero de Torres, que nació en <b>1931</b> de las salas que Enrique Romero de Torres dedicó a su hermano dentro del recinto. Su colección de dibujos está considerada de las más importantes de España.</p><p class=\"dato\"><span>¿Sabías que…?</span>Guarda unas 30 copias en yeso de esculturas famosas llegadas en 1905 del antiguo Museo Nacional de Reproducciones.</p>"
+   },
+   "ver_alli": [
+    "El edificio del antiguo Hospital de la Caridad.",
+    "Las pinturas góticas procedentes de la Mezquita-Catedral.",
+    "La plaza del Potro, a la entrada."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Bellas_Artes_de_Córdoba",
+    "https://www.wikidata.org/wiki/Q6033943",
+    "https://www.openstreetmap.org/?mlat=37.8813&mlon=-4.7748#map=18/37.8813/-4.7748"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "montoro",
+   "nombre": "Montoro",
+   "provincia": "Córdoba",
+   "comarca": "Alto Guadalquivir",
+   "lat": 38.0264,
+   "lon": -4.3815,
+   "tipo": "poblacion",
+   "estilo": "Gótico-mudéjar y renacentista",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Montoro se levanta junto al Guadalquivir, en el alto valle cordobés. Fue la <b>Epora</b> romana, ciudad federada de Roma hacia el 206 a. C. y parada de la Vía Augusta, y pasó a manos cristianas en 1238 o 1240. Su casco es <b>conjunto histórico-artístico desde 1969</b>.</p><p>La gran seña de identidad es el <b>puente de las Donadas</b>: cuatro arcos de piedra molinaza rojiza, unos 180 metros de largo, empezado a finales del siglo XV por el cantero local Pedro Fernández. Su nombre viene de una leyenda reciente según la cual las mujeres del pueblo donaron sus joyas; los documentos hablan más bien de bienes de vecinos cuya venta autorizaron los Reyes Católicos para pagar la obra.</p><p>En la plaza de España se alza la <b>iglesia de San Bartolomé</b>, gótico-mudéjar del siglo XV, rodeada de casas nobles con portadas de piedra molinaza.</p><p class=\"dato\"><span>¿Sabías que…?</span>En 1513 del puente solo estaba terminado el arco central.</p>"
+   },
+   "ver_alli": [
+    "El puente de las Donadas y la vista del pueblo desde la otra orilla.",
+    "La iglesia de San Bartolomé en la plaza de España.",
+    "Las portadas de piedra molinaza de las casas nobles."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Montoro",
+    "https://es.wikipedia.org/wiki/Puente_de_las_Donadas",
+    "https://www.openstreetmap.org/?mlat=38.0264&mlon=-4.3815#map=18/38.0264/-4.3815"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-belalcazar",
+   "nombre": "Castillo de Belalcázar",
+   "provincia": "Córdoba",
+   "comarca": "Los Pedroches",
+   "lat": 38.5827,
+   "lon": -5.1655,
+   "tipo": "castillo",
+   "estilo": "Gótico militar",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1450,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Domina el norte de la provincia desde lo alto del pueblo. Lo empezó hacia <b>1450</b> <b>Gutierre de Sotomayor</b>, maestre de la Orden de Alcántara, cuando el rey Juan II le concedió estas tierras para levantar una fortaleza.</p><p>Su gran orgullo es la <b>torre del homenaje de 47 metros</b>, considerada la más alta de la península, con detalles del gótico flamígero. En 1539 se le añadió un palacio renacentista, hoy arruinado, del que se conservan marcos de ventanas platerescos.</p><p>Tras siglos de abandono y expolio, la Junta de Andalucía lo compró en 2008 y en 2018-2019 se consolidó y se abrió a las visitas.</p>"
+   },
+   "ver_alli": [
+    "La altísima torre del homenaje.",
+    "Los restos del palacio renacentista con ventanas platerescas.",
+    "La vista sobre el valle desde lo alto."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Belalcázar",
+    "https://www.wikidata.org/wiki/Q1049134",
+    "https://www.openstreetmap.org/?mlat=38.5827&mlon=-5.1655#map=18/38.5827/-5.1655"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "zuheros",
+   "nombre": "Zuheros",
+   "provincia": "Córdoba",
+   "comarca": "Subbética",
+   "lat": 37.5439,
+   "lon": -4.3166,
+   "tipo": "poblacion",
+   "estilo": "Andalusí y renacentista",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Un pueblo blanco colgado de la sierra Subbética, a 656 metros de altitud, con su castillo plantado sobre un risco en pleno casco urbano. Desde 2016 forma parte de <b>Los Pueblos Más Bonitos de España</b>.</p><p>El <b>castillo</b> nació probablemente en época islámica, en el siglo IX, y su nombre árabe, <i>Sujayra</i>, dio el del pueblo. Los almohades levantaron el torreón y la muralla; <b>Fernando III</b> lo conquistó en 1240. En el siglo XVI <b>Hernán Ruiz el Joven</b> construyó dentro el palacio renacentista de los señores de Zuheros.</p><p>En el siglo XVIII cayó en abandono y sirvió de cantera; su torre mayor se convirtió en 1760 en torre del Reloj. En el pueblo se puede visitar también su museo arqueológico.</p>"
+   },
+   "ver_alli": [
+    "El castillo sobre su peña y el aljibe islámico.",
+    "Los restos del palacio renacentista.",
+    "El museo arqueológico del pueblo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Zuheros",
+    "https://es.wikipedia.org/wiki/Zuheros",
+    "https://www.wikidata.org/wiki/Q97624879",
+    "https://www.openstreetmap.org/?mlat=37.5439&mlon=-4.3166#map=18/37.5439/-4.3166"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "cueva-de-los-murcielagos-zuheros",
+   "nombre": "Cueva de los Murciélagos",
+   "provincia": "Córdoba",
+   "comarca": "Zuheros",
+   "lat": 37.542,
+   "lon": -4.3039,
+   "tipo": "yacimiento",
+   "estilo": "Cueva con arte rupestre",
+   "epoca": "Neolítico",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>En la sierra sobre Zuheros se abre una gran cueva kárstica, con un recorrido de unos 2 km, que la gente habitó durante milenios: desde el <b>Paleolítico Medio</b> hasta época romana.</p><p>En <b>1938</b> un grupo de oficiales del ejército hizo la primera exploración oficial y encontró restos humanos. Las excavaciones de los años sesenta la convirtieron en un yacimiento clave del <b>Neolítico andaluz</b>, que resultó ser mucho más antiguo de lo que se creía. Aparecieron cereales carbonizados y un enterramiento en un antiguo charco o <i>gur</i>.</p><p>Sus paredes guardan <b>pinturas esquemáticas</b> de animales, sobre todo cabras. Las herramientas, huesos y cerámicas halladas se exponen en el Museo Arqueológico de Zuheros.</p>"
+   },
+   "ver_alli": [
+    "Las salas de estalactitas y estalagmitas, como la del Órgano o la de las Formaciones.",
+    "Los hallazgos de la cueva en el Museo Arqueológico de Zuheros."
+   ],
+   "fuentes": [
+    "https://www.spain.info/es/lugares-interes/cueva-murcielagos-zuheros/",
+    "https://www.upo.es/patio-colorado/2022/05/26/zuheros-y-la-cueva-de-los-murcielagos",
+    "https://www.openstreetmap.org/?mlat=37.542&mlon=-4.3039#map=18/37.542/-4.3039"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-del-moral-lucena",
+   "nombre": "Castillo del Moral",
+   "provincia": "Córdoba",
+   "comarca": "Lucena",
+   "lat": 37.4082,
+   "lon": -4.4836,
+   "tipo": "castillo",
+   "estilo": "Almohade",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>En pleno centro de Lucena se alza este castillo, levantado tras la llegada de los <b>almohades</b> a partir de 1148. Su torre más famosa es la del <b>Moral</b>, de planta octogonal.</p><p>Allí estuvo preso <b>Boabdil</b>, el último rey de Granada, tras ser capturado en la <b>batalla de Lucena de 1483</b>. Junto a ella se conservan la torre de las Damas, de planta cuadrada, y las del Homenaje y del Coso, unidas por un segundo recinto de murallas.</p><p>El Ayuntamiento lo compró en 1926 y es monumento desde 1931. Desde 2001 alberga el <b>Museo Arqueológico y Etnológico de Lucena</b>, con piezas de la cueva del Ángel.</p><p class=\"dato\"><span>¿Sabías que…?</span>La torre del Moral perdió su remate almenado en el siglo XVIII, cuando se cubrió con una bóveda de ladrillo ochavada.</p>"
+   },
+   "ver_alli": [
+    "La torre octogonal del Moral, donde estuvo preso Boabdil.",
+    "El museo arqueológico del interior.",
+    "Las vistas desde lo alto de la torre."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_del_Moral",
+    "https://www.wikidata.org/wiki/Q97626354",
+    "https://www.openstreetmap.org/?mlat=37.4082&mlon=-4.4836#map=18/37.4082/-4.4836"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-espejo",
+   "nombre": "Castillo de Espejo",
+   "provincia": "Córdoba",
+   "comarca": "Campiña Sur",
+   "lat": 37.6809,
+   "lon": -4.5538,
+   "tipo": "castillo",
+   "estilo": "Medieval",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Corona a 418 metros el pueblo blanco de Espejo, un cerro habitado desde muy antiguo: aquí estuvo el oppidum íbero de <b>Ucubi</b>, que <b>Pompeyo</b> incendió en el 45 a. C., y luego la Attubi romana y la Alcalat islámica.</p><p>La fortaleza actual es del <b>siglo XIII</b>. La levantó tras la conquista cristiana <b>Pay Arias de Castro</b>, alcaide de los Reales Alcázares de Córdoba, porque el lugar estaba cerca de la frontera con el reino nazarí de Granada. En <b>1303</b> Fernando IV reconoció el señorío y dio a la villa su nombre de Espejo.</p><p>En 1366 la compró el maestre de Calatrava Pedro Muñiz de Godoy, y hoy sigue perteneciendo al <b>ducado de Osuna</b>.</p>"
+   },
+   "ver_alli": [
+    "La plaza de armas y la torre del Caballero.",
+    "La silueta del castillo sobre el caserío blanco.",
+    "Las vistas sobre la campiña."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Espejo",
+    "https://www.wikidata.org/wiki/Q97626690",
+    "https://www.openstreetmap.org/?mlat=37.6809&mlon=-4.5538#map=18/37.6809/-4.5538"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-baena",
+   "nombre": "Castillo de Baena",
+   "provincia": "Córdoba",
+   "comarca": "Guadajoz y Campiña Este",
+   "lat": 37.6135,
+   "lon": -4.327,
+   "tipo": "castillo",
+   "estilo": "Medieval",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Ocupa el punto más alto de Baena. Los cronistas musulmanes ya lo citan a finales del siglo IX, durante las revueltas de <b>Omar ibn Hafsún</b> contra el emirato de Córdoba. Fernando III lo conquistó en <b>1241</b>.</p><p>En 1386 Juan I entregó la villa a <b>Diego Fernández de Córdoba</b>, y el castillo quedó en manos de la Casa de Córdoba; en 1566 Felipe II nombró duque de Baena al V conde de Cabra. Es una fortaleza de planta casi cuadrada, de unos 70 × 37 metros, de la que se conservan tres torres: del Secreto, de los Cascabeles y de las Cinco Esquinas.</p><p>Vendido en 1879, sirvió de cantera y su patio de armas fue depósito de agua entre 1927 y 1959. Una larga restauración, entre 2005 y 2016, lo devolvió a la vida.</p><p class=\"dato\"><span>¿Sabías que…?</span>La tradición oral asegura que Boabdil estuvo preso en la torre de las Cinco Esquinas, que entre los siglos XVI y XVII se convirtió en capilla.</p>"
+   },
+   "ver_alli": [
+    "Las tres torres conservadas.",
+    "La torre de las Cinco Esquinas, convertida en capilla.",
+    "Las vistas sobre el casco de Baena."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Baena",
+    "https://www.wikidata.org/wiki/Q24568065",
+    "https://www.openstreetmap.org/?mlat=37.6135&mlon=-4.327#map=18/37.6135/-4.327"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "torreparedones",
+   "campos": {
+    "estilo": "Ibérico y romano",
+    "texto": {
+     "general": "<p>En lo alto de un cerro de la campiña, entre Baena y Castro del Río, a casi 580 metros de altitud, se levantó una <b>ciudad ibérica fortificada</b>, un <i>oppidum</i>. Hacia el 600 a. C. se rodeó de una muralla de un kilómetro de perímetro que protegía más de diez hectáreas. El lugar estuvo habitado al menos 3.500 años, desde la Edad del Cobre hasta la Baja Edad Media, y por la riqueza de sus hallazgos se le llama a veces «la Pompeya cordobesa».</p><p>Fuera de las murallas había un <b>santuario</b> en uso entre el siglo III a. C. y el siglo II d. C. La diosa no tenía forma humana: se la veneraba en una columna rematada por un capitel. La mayoría de los cientos de <b>exvotos de piedra</b> hallados representan a mujeres embarazadas, que acudían a pedir un buen parto; en 2006-2007 aparecieron unos 290 junto a la puerta oriental. En 2020 se encontró un segundo santuario con exvotos en forma de caballo.</p><p>La ciudad se hizo luego <b>romana</b>. En 2009 salieron a la luz el <b>foro</b>, de unos 528 metros cuadrados, el <b>mercado</b> (<i>macellum</i>), uno de los pocos conservados en la Península, y unas <b>termas</b>; en total se conocen tres. Una inscripción hallada en 2011 apoya que la ciudad se llamaba <b>Ituci</b>, aunque otros estudios la identifican con otra población citada por Plinio. Corona el cerro un castillo medieval, el de «Castro el Viejo».</p><p class=\"dato\"><span>¿Sabías que…?</span>En el foro se conserva una inscripción con letras de bronce que recuerda al ciudadano que pagó el enlosado de la plaza.</p>"
+    },
+    "ver_alli": [
+     "Empieza por el centro de visitantes, junto al aparcamiento.",
+     "En el foro, busca la huella de la inscripción de letras de bronce del pavimento.",
+     "Sube a la torre del castillo medieval: desde arriba se ve el trazado de la ciudad y toda la campiña.",
+     "Los exvotos y las esculturas originales están en el Museo Histórico y Arqueológico de Baena."
+    ],
+    "fuentes": [
+     "https://www.upo.es/patio-colorado/2022/05/27/parque-arqueologico-de-torreparedones-la-pompeya-cordobesa/",
+     "https://www.wikidata.org/wiki/Q2884288",
+     "https://es.wikipedia.org/wiki/Yacimiento_arqueol%C3%B3gico_de_Torreparedones"
+    ]
+   }
+  },
+  {
+   "id": "corduba",
+   "campos": {
+    "lat": 37.8848,
+    "lon": -4.7764,
+    "estilo": "Romano imperial",
+    "texto": {
+     "general": "<p>La Córdoba romana, <b>Corduba</b>, la fundó Marco Claudio Marcelo a mediados del siglo II a. C. (las fuentes dudan entre el 169-168 y el 152-151 a. C.). Fue la <b>capital de la provincia Bética</b> y la ciudad natal del filósofo <b>Séneca</b>. En el año 46 a. C. recibió el estatuto de colonia con el nombre de <b>Colonia Patricia</b>.</p><p>Su resto más visible es el <b>templo de la calle Claudio Marcelo</b>, descubierto en 1951 al ampliar el Ayuntamiento. Se empezó en tiempos del emperador Claudio y se terminó unos cuarenta años después, con Domiciano. Medía 32 por 16 metros, con seis columnas corintias en la fachada, y se alzaba en medio de una gran plaza porticada, probablemente dedicada al culto a los emperadores. Las columnas que se ven hoy se volvieron a levantar con sus piezas originales en los años cincuenta.</p><p>Quedan además el <b>puente sobre el Guadalquivir</b>, de origen romano pero muy rehecho a lo largo de los siglos, y, en el sótano del edificio nuevo del Museo Arqueológico, los restos del <b>teatro romano</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>Tras años de obras, el templo se abrió por fin a la visita interior el 19 de junio de 2025.</p>"
+    },
+    "ver_alli": [
+     "En el templo, fíjate en las columnas corintias reconstruidas sobre el podio original; se ve bien desde la calle.",
+     "Busca el altar delante de la fachada, que sirvió para calcular la altura de las columnas.",
+     "Baja al sótano del Museo Arqueológico para ver los restos del teatro.",
+     "Cruza el puente romano hasta la Torre de la Calahorra para ver la ciudad desde el río."
+    ],
+    "fuentes": [
+     "https://turismodecordoba.org/roman-temple",
+     "https://es.wikipedia.org/wiki/Templo_romano_de_C%C3%B3rdoba",
+     "https://es.wikipedia.org/wiki/Corduba",
+     "https://es.wikipedia.org/wiki/Museo_Arqueol%C3%B3gico_y_Etnol%C3%B3gico_de_C%C3%B3rdoba",
+     "https://es.wikipedia.org/wiki/Lucio_Anneo_S%C3%A9neca"
+    ]
+   }
+  },
+  {
+   "id": "ategua",
+   "campos": {
+    "estilo": "Ibérico, romano y medieval",
+    "texto": {
+     "general": "<p>Sobre un cerro junto al río Guadajoz, a unos 32 kilómetros de Córdoba, Ategua guarda más de tres mil años de historia: desde una necrópolis del Bronce Final y una ciudad tartésica hasta una gran <b>ciudad ibérica</b> amurallada, una ciudad romana y un castillo islámico. Sus murallas forman uno de los mayores recintos fortificados de la provincia.</p><p>Se hizo famosa en la <b>guerra civil entre Julio César y los hijos de Pompeyo</b>. Tras un largo y duro asedio, la ciudad se rindió y César entró en ella el 19 de febrero del 45 a. C. Su caída abrió el camino a la toma de Córdoba y, poco después, a la victoria de César en la batalla de Munda. Lo cuenta el relato antiguo de aquella campaña, el <i>Bellum Hispaniense</i>.</p><p>De época romana se ven las bases de un pórtico y unas termas; de la Edad Media, una necrópolis de los siglos VI-VIII, el castillo levantado a partir del siglo XI con su torre del homenaje y una muralla tardía sobre la ibero-romana. Según las fuentes escritas, la ciudad se abandonó hacia el siglo XV. Las excavaciones reanudadas en 2020 siguen descubriendo calles, termas y tabernas.</p>"
+    },
+    "ver_alli": [
+     "La visita es guiada y con cita previa: consulta antes con la Junta de Andalucía.",
+     "Fíjate en la muralla medieval montada sobre la ibero-romana.",
+     "En la zona romana se reconocen las bases del pórtico y el frigidario de las termas.",
+     "Desde la acrópolis se domina el llano donde acamparon los ejércitos de César."
+    ],
+    "fuentes": [
+     "https://www.juntadeandalucia.es/aaiicc/enclaves/enclave-arqueologico-ategua",
+     "https://www.wikidata.org/wiki/Q5710505",
+     "https://es.wikipedia.org/wiki/Ategua"
+    ]
+   }
+  },
+  {
+   "id": "fuente-alamo",
+   "campos": {
+    "estilo": "Villa tardorromana",
+    "texto": {
+     "general": "<p>Junto a un manantial y un arroyo, en pleno olivar de Puente Genil, se levantó una <b>villa romana</b> que vivió su gran momento en los siglos III-IV d. C. Sus edificios se ordenan alrededor del agua: primero fue sobre todo unos baños (<i>balneum</i>) y después una villa residencial con una gran sala de recepción de planta cuadrada y ábside, baños privados y, al norte, una zona agrícola con granero.</p><p>Su fama se la dan los <b>mosaicos figurativos</b>, de los conjuntos más importantes de España. El del <b>Triunfo de Dioniso</b> (Baco para los romanos), el de las <b>Tres Gracias</b> —Áglae, Eufrósine y Talía, que pavimenta la antesala del salón— y el <b>mosaico nilótico</b>, en el que unos pigmeos luchan con grullas junto al dios Nilo, representado como un anciano barbudo.</p><p>Hay además numerosos mosaicos geométricos, en blanco y negro y en color; algunos se guardan en el Museo Histórico de Puente Genil. En el lugar se han hallado huellas de romanos, visigodos y árabes a lo largo de unos mil años.</p>"
+    },
+    "ver_alli": [
+     "El mosaico del Nilo que se ve en la villa es una reproducción; fíjate en la lucha de los pigmeos con las grullas.",
+     "Busca a las Tres Gracias en la antesala del gran salón de recepción.",
+     "Al otro lado del arroyo están los baños privados y las estancias más tardías.",
+     "Completa la visita con los mosaicos geométricos del Museo Histórico de Puente Genil."
+    ],
+    "fuentes": [
+     "https://andalucia.org/en/puente-genil-cultural-tourism-villa-romana-de-fuente-alamo",
+     "https://www.wikidata.org/wiki/Q43589960",
+     "https://beticaromana.org/?p=11308",
+     "https://multimedia.andalucia.org/media/30C5694873514DF5BFE17164EAF1B940/doc/2C0291EC76BE4AF58666EACE0090BB46/1619435120119fuente_alamo_puente_genil8008222239599251949.pdf"
+    ]
+   }
+  },
+  {
+   "id": "el-ruedo",
+   "campos": {
+    "lat": 37.443,
+    "lon": -4.0895,
+    "estilo": "Villa romana",
+    "texto": {
+     "general": "<p>Esta villa apareció durante las obras de la <b>carretera A-339</b>, en Almedinilla. Se excavaron dos zonas: la casa de los señores (<i>pars urbana</i>), bien conservada y visitable, y una necrópolis de los siglos III al VII donde en 1988-1989 se documentaron 132 tumbas.</p><p>La villa estuvo habitada desde la primera mitad del siglo I hasta el siglo V. Empezó como una granja en torno a un patio; en el siglo II se le añadió un <b>peristilo</b> con columnas, y hacia finales del III o comienzos del IV vivió su momento de mayor lujo, con un ninfeo, un comedor semicircular (<i>stibadium</i>) convertido en fuente, calefacción bajo el suelo y mosaicos y pinturas en las salas que dan al patio. Al final, a mediados del siglo V, se instalaron piletas, un horno de pan y un posible horno de metal.</p><p>Su pieza estrella es una escultura de bronce de <b>Hypnos</b>, el dios del sueño, probablemente del siglo II: es una de las tres únicas estatuas de este dios halladas en el mundo romano. También salió de aquí un grupo de <b>Perseo y Andrómeda</b>, el único de ese tema conocido en la península ibérica.</p>"
+    },
+    "ver_alli": [
+     "La visita guiada dura unos 45 minutos.",
+     "Fíjate en el ninfeo y en el comedor semicircular convertido en fuente, junto a la gran sala del norte.",
+     "Busca el hipocausto, la calefacción bajo el suelo, en el ala oeste.",
+     "Los bronces de la villa se exponen en el museo de Almedinilla; cerca está el poblado íbero del Cerro de la Cruz."
+    ],
+    "fuentes": [
+     "https://www.spain.info/en/activities/roman-villa-ruedo/",
+     "https://es.wikipedia.org/wiki/Villa_romana_de_El_Ruedo"
+    ]
+   }
+  },
+  {
+   "id": "mezquita-catedral-de-cordoba",
+   "campos": {
+    "lat": 37.879,
+    "lon": -4.7794,
+    "estilo": "Califal (omeya), con catedral renacentista",
+    "ver_alli": [
+     "Recorre el bosque de columnas y arcos bicolores de herradura de la primera mezquita.",
+     "Detente ante el mihrab de al-Hakam II y su cúpula de mosaicos dorados.",
+     "Fíjate en cómo la nave renacentista de la catedral se encaja en el centro de la sala de oración.",
+     "El patio de los Naranjos es de acceso libre."
+    ]
+   }
+  },
+  {
+   "id": "medina-azahara",
+   "campos": {
+    "lat": 37.886,
+    "lon": -4.867,
+    "estilo": "Califal (omeya)",
+    "ver_alli": [
+     "Empieza por el museo y centro de visitantes; desde allí un autobús lanzadera sube al yacimiento.",
+     "Fíjate en cómo la ciudad se escalona en terrazas al pie de la sierra.",
+     "Busca el gran salón de recepción del califa, labrado entre 953 y 957, donde se recibía a los embajadores."
+    ]
+   }
+  },
+  {
+   "id": "sinagoga-de-cordoba",
+   "campos": {
+    "lat": 37.8798,
+    "lon": -4.7834,
+    "estilo": "Mudéjar",
+    "ver_alli": [
+     "Busca en las yeserías las inscripciones hebreas, una de las cuales la fecha en 1315.",
+     "Pasea después por las calles de la judería, donde nació Maimónides.",
+     "A pocos pasos, en la plazuela de Tiberíades, está la estatua de Maimónides."
+    ]
+   }
+  },
+  {
+   "id": "alcazar-de-los-reyes-cristianos",
+   "campos": {
+    "lat": 37.8765,
+    "lon": -4.7812,
+    "estilo": "Gótico mudéjar sobre restos almohades",
+    "texto": {
+     "general": "<p>Junto al Guadalquivir hubo antes un castillo tardorromano, el alcázar de los emires omeyas y una alcazaba almohade. Tras la conquista de Córdoba en 1236, el solar se repartió, y en <b>1328</b> el rey <b>Alfonso XI</b> compró parte del terreno a unos frailes agustinos para levantar una nueva fortaleza-palacio. Las obras seguían en 1350 e incluyeron unos baños de tradición islámica.</p><p>Fue residencia de los reyes de Castilla. Los <b>Reyes Católicos</b> vivieron en él unos ocho años mientras dirigían la guerra de Granada: aquí nació en 1482 su hija María, futura reina de Portugal; aquí estuvo preso en 1483 el emir <b>Boabdil</b>, liberado tras aceptar el vasallaje; y en la torre del Homenaje <b>Cristóbal Colón</b> pidió en 1486 apoyo para su viaje.</p><p>Desde 1492 fue sede del <b>tribunal de la Inquisición</b> hasta su abolición por las Cortes de Cádiz en 1812; después fue cárcel. Restaurado en los años cincuenta, se abrió al público en 1960. Tiene cuatro torres —la del Homenaje es octogonal y la de los Leones, del siglo XIII, la más antigua— y unos jardines regados todavía por un acueducto romano.</p><p class=\"dato\"><span>¿Sabías que…?</span>El Salón de los Mosaicos, antigua capilla de la Inquisición, luce desde 1959 mosaicos romanos de los siglos II y III hallados bajo la plaza de la Corredera, como el de Polifemo y Galatea.</p>"
+    },
+    "ver_alli": [
+     "Entra en el Salón de los Mosaicos para ver los pavimentos romanos de la Corredera.",
+     "Baja a los baños, con sus lucernarios en forma de estrella.",
+     "Sube a una de las torres para ver la Mezquita-Catedral y el río.",
+     "Pasea por los jardines escalonados con estanques y fuentes."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Alc%C3%A1zar_de_los_Reyes_Cristianos"
+    ]
+   }
+  },
+  {
+   "id": "torre-de-la-calahorra",
+   "campos": {
+    "lat": 37.8757,
+    "lon": -4.7766,
+    "estilo": "Islámica con reformas góticas castellanas",
+    "texto": {
+     "general": "<p>La torre de la Calahorra es una <b>fortaleza de origen islámico</b> que guardaba la entrada sur del <b>puente romano</b>, en la orilla opuesta a la Mezquita. Ya aparece en las crónicas de la conquista castellana de Córdoba, en 1236, porque estorbaba el paso a los sitiadores.</p><p>Su forma actual nace de la <b>guerra civil castellana</b> entre Pedro I y su hermanastro <b>Enrique II</b>, que llegó al trono en 1369. Enrique le añadió un foso y una segunda torre unida por un puente levadizo; de entonces es el escudo de Castilla y León de la fachada. Más tarde se añadió una tercera torre, se abrieron troneras para la artillería y en 1514 la reina Juana I mandó rodearla de una barbacana.</p><p>Fue prisión de nobles, escuela de niñas y cuartel de la Guardia Civil. Desde 1987 alberga el <b>Museo Vivo de al-Ándalus</b>, dedicado a la Córdoba de los siglos IX al XIII y a la convivencia de cristianos, judíos y musulmanes.</p>"
+    },
+    "ver_alli": [
+     "Busca en la fachada el escudo de Castilla y León de tiempos de Enrique II.",
+     "Recorre las salas del museo, que suben por el interior de la torre.",
+     "Sal a la azotea: hay una de las mejores vistas del puente romano y la Mezquita-Catedral."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Torre_de_la_Calahorra_(C%C3%B3rdoba)"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-almodovar-del-rio",
+   "campos": {
+    "lat": 37.8074,
+    "lon": -5.0238,
+    "estilo": "Andalusí con reformas góticas y restauración historicista",
+    "texto": {
+     "general": "<p>Sobre un cerro redondo que domina el Guadalquivir, en el lugar de un antiguo poblado ibero-romano, los omeyas levantaron hacia el <b>740</b> una fortaleza llamada <b>al-Mudawar</b>, «la redonda», que dio nombre al pueblo. Formó parte del emirato y del califato de Córdoba y luego pasó por las taifas de Carmona y Sevilla, los almorávides y los almohades.</p><p>En 1240 se entregó por pacto a <b>Fernando III</b>. En la Edad Media se reformó y reconstruyó varias veces, y en él se alojaron Pedro I en 1360 y, en repetidas ocasiones, su hermanastro Enrique II. Sus torres principales son la Cuadrada, la Redonda y la del Homenaje.</p><p>Lo que se ve hoy debe mucho a la gran <b>restauración</b> que emprendió en 1901 su propietario, el conde de Torralva, dirigida por el arquitecto Adolfo Fernández Casanova, y que continuó hasta 1936.</p><p class=\"dato\"><span>¿Sabías que…?</span>En 2016 la serie <i>Juego de Tronos</i> rodó aquí escenas de su séptima temporada: el castillo hizo de Altojardín.</p>"
+    },
+    "ver_alli": [
+     "Recorre el adarve entre la torre Cuadrada, la Redonda y la del Homenaje.",
+     "Sube a la torre del Homenaje para ver la vega del Guadalquivir.",
+     "Baja a las mazmorras, también usadas en el rodaje de Juego de Tronos."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Almod%C3%B3var_del_R%C3%ADo"
+    ]
+   }
+  },
+  {
+   "id": "priego-de-cordoba-barroco",
+   "campos": {
+    "lat": 37.4397,
+    "lon": -4.1916,
+    "estilo": "Barroco",
+    "texto": {
+     "general": "<p>En el siglo XVIII Priego se hizo rica con la <b>industria de la seda</b>: vendía tafetán y terciopelo en Sevilla, Málaga, Portugal, Francia y las Indias. Con ese dinero, y bajo el influjo de la escuela del arquitecto Francisco Hurtado Izquierdo, llenó sus iglesias de <b>barroco</b>, hasta ganarse el apodo de «joya del Barroco cordobés».</p><p>La pieza maestra es el <b>Sagrario de la iglesia de la Asunción</b>, realizado entre 1772 y 1784 por <b>Francisco Javier Pedrajas</b>: una sala octogonal cubierta por una gran cúpula, con yeserías blancas de inspiración rococó y la luz entrando por ocho ventanales. La iglesia, de 1525, es gótico-mudéjar por fuera, con aspecto casi de fortaleza.</p><p>Al otro extremo del casco está la <b>Fuente del Rey</b>, terminada en 1803 por Remigio del Mármol: tres estanques escalonados con <b>139 caños</b>, muchos con mascarones de piedra, junto a la Fuente de la Salud, del siglo XVI. Por algo llaman a Priego «ciudad del agua».</p>"
+    },
+    "ver_alli": [
+     "En la Asunción, entra en el Sagrario y levanta la vista hacia la cúpula de yeserías blancas.",
+     "Pasea por el barrio de la Villa, junto a la iglesia, de calles estrechas y encaladas.",
+     "En la Fuente del Rey, busca el grupo del león y la serpiente del primer estanque.",
+     "Junto a ella, mira la Fuente de la Salud, del siglo XVI."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Priego_de_C%C3%B3rdoba",
+     "https://es.wikipedia.org/wiki/Iglesia_de_la_Asunci%C3%B3n_(Priego_de_C%C3%B3rdoba)"
+    ]
+   }
+  }
+ ]
+}
