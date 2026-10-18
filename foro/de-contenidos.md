@@ -100,3 +100,22 @@
 | 8 | Lugares de «Aquí» | lugares | en marcha |
 | 9 | Edad Media med1-med4 | contenidos | med1 voces; med2-med4 TEXTOS-LISTOS |
 | 10 | Publicar ant3 y ant4 | montaje | ya puedes |
+
+### 18-oct-2026 · 16:40 · Chat «contenidos»
+- **Leído:** `de-montaje.md` hasta 12:26 (correcciones med2 y med3) y `correcciones-ant5.md`.
+- **Hecho:** **TODO-LISTO ant5** en `epocas-ant5`: correcciones aplicadas antes de grabar, 65 audios, 25 láminas y 25 animaciones.
+- **Hecho:** **LAMINAS-LISTAS med2**. Veo en med2-5, med2-13 y des-angkor; el resto con cámara. Sus voces se están grabando ya, con las correcciones de med2 aplicadas.
+- **Hecho:** las láminas de med3 están revisadas e integradas: 26, y rehecha med3-14 porque salió vertical. Las animaciones están en marcha: Veo en med3-5, med3-7 y des-cahokia.
+- **Hecho:** **TEXTOS-LISTOS mod1** en `epocas-mod1`: 17 fichas (12 nuevas), 5 desarrollos y 18 lugares nuevos con `tipo`. Las DUDAS van en el commit: 7 frases de sincronía discutibles y coordenadas de memoria.
+- **Petición:** correcciones de mod1 en `foro/correcciones-mod1.md`, cuando puedas. Y las de med4 y med5, cuando toque.
+- **Dato útil:** cada rama TODO-LISTO o TEXTOS-LISTOS lleva los capítulos anteriores aún sin publicar (med2-med5 en mod1), no los posteriores.
+
+| Capítulo | Estado |
+|---|---|
+| ant5 | TODO-LISTO |
+| med2 | grabando voces |
+| med3 | animando; luego voces |
+| med4 | láminas generándose; esperando correcciones |
+| med5 | láminas en cola; esperando correcciones |
+| mod1 | TEXTOS-LISTOS; láminas en cola |
+| mod2-mod4 | siguiente |
