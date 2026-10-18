@@ -383,6 +383,112 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] des-grecia · La guerra de independencia griega (1821-1830)
 - [ ] des-te-opio · El té, el opio y el viaje secreto de las plantas de té (1757-1860)
 
+- [ ] con1-8 · 
+- [ ] con1-10 · 
+- [ ] con1-18 · 
+- [ ] con1-9 · 
+- [ ] con1-14 · 
+- [ ] con1-19 · 
+- [ ] con1-11 · 
+- [ ] con1-4 · 
+- [ ] con1-15 · 
+- [ ] con1-13 · 
+- [ ] con1-17 · 
+- [ ] con1-20 · 
+- [ ] con1-16 · 
+- [ ] con1-21 · 
+- [ ] con1-7 · 
+- [ ] des-cruz-roja · La Cruz Roja de Ginebra
+- [ ] des-galapagos · Las islas Galápagos
+- [ ] des-suez · El canal de Suez
+- [ ] con2-1 · 
+- [ ] con2-12 · 
+- [ ] con2-0 · 
+- [ ] con2-9 · 
+- [ ] con2-10 · 
+- [ ] con2-4 · 
+- [ ] con2-3 · 
+- [ ] con2-7 · 
+- [ ] con2-5 · 
+- [ ] con2-16 · 
+- [ ] con2-2 · 
+- [ ] con2-14 · 
+- [ ] con2-17 · 
+- [ ] con2-13 · 
+- [ ] con2-15 · 
+- [ ] con2-8 · 
+- [ ] con2-18 · 
+- [ ] con2-6 · 
+- [ ] des-ellis-island · Ellis Island
+- [ ] des-sagrada-familia · La Sagrada Família
+- [ ] des-transiberiano · El Transiberiano
+- [ ] con3-0 · 
+- [ ] con3-10 · 
+- [ ] con3-8 · 
+- [ ] con3-1 · 
+- [ ] con3-18 · 
+- [ ] con3-9 · 
+- [ ] con3-12 · 
+- [ ] con3-4 · 
+- [ ] con3-19 · 
+- [ ] con3-2 · 
+- [ ] con3-3 · 
+- [ ] con3-13 · 
+- [ ] con3-16 · 
+- [ ] con3-17 · 
+- [ ] con3-14 · 
+- [ ] con3-5 · 
+- [ ] con3-15 · 
+- [ ] con3-6 · 
+- [ ] con3-7 · 
+- [ ] des-auschwitz · Auschwitz-Birkenau
+- [ ] des-guernica · El Guernica
+- [ ] des-verdun · Verdún
+- [ ] con4-0 · 
+- [ ] con4-10 · 
+- [ ] con4-16 · 
+- [ ] con4-4 · 
+- [ ] con4-11 · 
+- [ ] con4-5 · 
+- [ ] con4-1 · 
+- [ ] con4-2 · 
+- [ ] con4-12 · 
+- [ ] con4-15 · 
+- [ ] con4-14 · 
+- [ ] con4-17 · 
+- [ ] con4-3 · 
+- [ ] con4-7 · 
+- [ ] con4-13 · 
+- [ ] con4-6 · 
+- [ ] con4-19 · 
+- [ ] con4-8 · 
+- [ ] con4-9 · 
+- [ ] des-chernobil · Chernóbil
+- [ ] des-congreso-1978 · El Congreso y la Constitución de 1978
+- [ ] des-onu · La sede de la ONU en Nueva York
+- [ ] des-robben-island · Robben Island
+- [ ] con5-7 · 
+- [ ] con5-10 · 
+- [ ] con5-8 · 
+- [ ] con5-9 · 
+- [ ] con5-1 · 
+- [ ] con5-11 · 
+- [ ] con5-12 · 
+- [ ] con5-2 · 
+- [ ] con5-16 · 
+- [ ] con5-13 · 
+- [ ] con5-15 · 
+- [ ] con5-4 · 
+- [ ] con5-14 · 
+- [ ] con5-18 · 
+- [ ] con5-3 · 
+- [ ] con5-6 · 
+- [ ] con5-5 · 
+- [ ] des-atocha-11m · El memorial del 11-M en Atocha
+- [ ] des-cern · El CERN y el bosón de Higgs
+- [ ] des-memorial-11s · El Memorial del 11-S
+- [ ] des-srebrenica · El memorial de Srebrenica-Potočari
+
 ## Hechos con Gemini
 
 - [x] ant1-1 (Gemini Flash, 18-oct) · Egipto: el Imperio Antiguo y las pirámides
