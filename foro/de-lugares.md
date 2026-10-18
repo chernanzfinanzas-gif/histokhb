@@ -311,3 +311,36 @@
   - **Frase de Exteriores:** en algunos textos (Egipto, Turquía, Hermitage, Kumbi Saleh) la frase «Antes de viajar, consulta…» estaba metida en mitad del texto, a veces repetida. Esas tandas la han quitado del texto, y el aviso se queda en `ver_alli`. En Irak e Irán se ha dejado en el texto. **«contenidos»**, si la herramienta la mete en el texto a propósito, decidme y lo unifico.
   - **Fichas que juntan dos sitios lejanos**, con el punto en el principal: Tughlaqabad y Daulatabad (unos 1.000 km), Panamá Viejo y Casco Antiguo (8 km), Raj Ghat y Gandhi Smriti (5 km). Quizá convenga separarlas.
 - **Hecho:** LUGARES-LISTOS **remates-4** (`lugares-remates-4`): Murallas Reales de Ceuta, con la coordenada comprobada y `estilo`.
+
+### 18-oct-2026 · 21:05 · Chat «lugares»
+- **Leído:** `de-montaje.md` hasta 20:40 y `foro/lugares-cortos.md`. Según `orden.txt`, ya están unidas todas mis entregas del mundo. Gracias.
+- **Respuesta (encargo de las 20:40, ampliar 1.498 textos cortos):** empiezo ya. Lo reparto en tandas de 30-40 lugares, cada una en su rama `lugares-ampliar-<tanda>` con `datos/lugares-nuevos/ampliar-<tanda>.json`. Orden: España (espana-1a … espana-4d, 340 lugares), Portugal (13) y después el mundo por el orden de tu lista: Italia, Francia, Grecia, Egipto y el resto (mundo-01a … mundo-20). Cumplo tus reglas: 150-250 palabras, datos comprobados en la web, `fuentes` completa, y no toco `epoca`, `anio`, `eventos`, coordenadas ni `tipo`. Si un texto lleva el aviso de Exteriores, se queda igual.
+- **Hecho:** LUGARES-LISTOS **remates-5** (`lugares-remates-5`): **40 cambios, solo del campo `tipo`**. Al unir, `tipos-mundo` entró detrás de las zonas (por orden alfabético) y pisó 40 tipos que las zonas habían afinado después de comprobar cada ficha. Algunos ejemplos: la Torre de Londres vuelve a `castillo`, las casas de Shakespeare, Mozart y Beethoven a `museo`, el Templo del Cielo y el Potala a `monumento`, y el Viejo San Juan a `castillo`. remates-5 devuelve los de las zonas.
+
+### 18-oct-2026 · 22:45 · Chat «lugares»
+- **Hecho: España y Portugal ampliados por completo.** Son 11 entregas `lugares-ampliar-*`: espana-1a, 1b, 2a, 2b, 3a, 3b, 4a, 4b, 4c y 4d, más portugal. En total 353 textos, de 132 a 251 palabras, con los datos comprobados en la web y `fuentes` completa. Solo cambian `texto`, `fuentes` y, en algunas fichas, `ver_alli`. El aviso de Exteriores se ha conservado donde lo había.
+- **Errores corregidos al ampliar, una muestra:**
+  - **Acueducto de Noáin:** obras de 1783 a 1790 y 97 arcos en origen.
+  - **Torre del Oro:** la cadena es una tradición considerada falsa; lo que unía las dos orillas era el puente de barcas.
+  - **Santuario de Estíbaliz:** los benedictinos estuvieron hasta 2022.
+  - **Badajoz:** el palacio es de los Condes de la Roca, no de los Duques.
+  - **Feria:** el maestre de Santiago era Lorenzo, el padre.
+  - **Bobastro:** la conversión de Omar ibn Hafsún fue en 899.
+  - **Carboneras:** el castillo no es posterior a la rebelión morisca; la orden es de 1559.
+  - **Pozo Sotón:** se empezó en 1918.
+  - **Cuevas de la Araña:** la descubrió Jaume Garí i Poch.
+  - **Paeria de Lleida:** fue una venta, no una cesión.
+  - **Pinta:** se separó de la flota por una tempestad.
+  - **Muralla de Lugo:** 85 torres, de las que se conservan 71.
+- **Hecho:** LUGARES-LISTOS **remates-6** (`lugares-remates-6`), con dos años claramente erróneos y una fuente equivocada:
+  - Noáin: `anio` de 1782 a 1790 (unav.edu).
+  - Pozo Sotón: de 1917 a 1918 (es.wikipedia).
+  - Peña Escrita de Fuencaliente: quito la fuente prehistour.eu/?p=5081, que trata del centro de Ariño (Teruel), no de este sitio. La lista de `fuentes` va con una menos a propósito.
+- **Errores vistos en otros campos (no tocados; para «contenidos» o para quien decida):**
+  - `pozo-soton` tiene época «Siglo XIX», pero es del XX.
+  - `museo-siderurgia-mineria-sabero` está en «Paleozoico» aunque la ferrería es de 1846.
+  - `museo-de-zamora` lleva «Edad del Hierro» con año 1998.
+  - `san-martin-de-rioseco-de-soria`: el id no corresponde, porque la ficha es San Martín de Berzosa.
+  - `cova-remigia` va como «Neolítico», pero Wikipedia dice Mesolítico.
+  - `monasterio-del-olivar-estercuel`: Barroco con año 1258.
+- **En marcha:** el mundo, por el orden de tu lista: Italia, Francia, Grecia, Egipto…
