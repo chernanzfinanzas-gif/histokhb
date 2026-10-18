@@ -1,0 +1,400 @@
+{
+ "zona": "Ampliar mundo-16b",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "palacio-de-mandalay",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>palacio de Mandalay</b> fue la residencia de los dos últimos reyes de Birmania, <b>Mindon</b> y <b>Thibaw</b>. Se construyó entre <b>1857 y 1859</b>, cuando Mindon fundó Mandalay como nueva capital, y buena parte de sus edificios de madera de teca se trajeron desmontados del antiguo palacio de Amarapura. Ocupa el centro de una ciudadela cuadrada de murallas de ladrillo de 2 km de lado, con 48 bastiones rematados por chapiteles dorados, doce puertas y un foso de 64 metros de ancho.</p><p>El 28 de noviembre de <b>1885</b>, en la tercera guerra anglo-birmana, las tropas británicas entraron en el palacio y se llevaron a la familia real. Saquearon el recinto, quemaron la biblioteca real y lo convirtieron en el cuartel de <b>Fort Dufferin</b>. Las joyas de la corona acabaron en un museo de Londres y no volvieron a Birmania hasta 1964. En la Segunda Guerra Mundial los japoneses lo usaron como depósito y los bombardeos aliados lo redujeron a cenizas: solo se salvaron la <b>torre de vigilancia</b> y la ceca real.</p><p>Lo que se ve hoy es una <b>reconstrucción</b> levantada a partir de 1989, en parte con hormigón y chapa en lugar de teca, que sufrió daños en el terremoto del 28 de marzo de 2025. Desde lo alto de la torre se domina el conjunto. El trono del León original se expone en el Museo Nacional de Rangún.</p><p class=\"dato\"><span>¿Sabías que…?</span>Una de las salas del palacio original se desmontó en tiempos de Thibaw y se rehízo como el monasterio de Shwenandaw, fuera del recinto: es lo único que queda del palacio de madera.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJja4cmeVsyzARACXNpXFPiqc",
+     "https://www.openstreetmap.org/?mlat=21.9929&mlon=96.0962#map=17/21.9929/96.0962",
+     "https://en.wikipedia.org/wiki/Mandalay_Palace"
+    ]
+   }
+  },
+  {
+   "id": "ciudades-pyu-de-sri-ksetra",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Sri Ksetra</b> («campo de la fortuna»), junto al río Irrawaddy, en Hmawza, cerca de Pyay, fue la mayor de las ciudades del pueblo <b>pyu</b>, que dominó el valle del Irrawaddy siglos antes del reino de Pagan. Sus <b>murallas de ladrillo</b> encierran más de 1.400 hectáreas, más que Pagan o Mandalay: fue la mayor ciudad del sureste asiático antes de Angkor. Las dataciones por carbono apuntan a una ocupación desde los primeros siglos de nuestra era, y su época de esplendor fue entre los siglos VII y IX.</p><p>Fue un gran puerto comercial entre la India y China, y de la India le llegó el budismo. Los peregrinos chinos Xuanzang e Yijing la citan en el siglo VII como un país budista. Fuera de las murallas se alzan sus tres grandes estupas, entre ellas la cilíndrica <b>Bawbawgyi</b>, modelo de las pagodas posteriores. En el montículo de Khin Ba apareció el <b>gran relicario de plata</b>, con inscripciones en pyu y pali, junto a unas hojas de oro con un texto budista del siglo VI, que se considera el ejemplo más antiguo conservado de la lengua pali.</p><p>Desde <b>2014</b> es Patrimonio de la Humanidad junto con las otras dos ciudades pyu, <b>Halin</b> y <b>Beikthano</b>. El museo de Sri Ksetra, en el propio yacimiento, guarda parte de los hallazgos; otros, como una gran urna funeraria con inscripciones de los reyes pyu, están en el Museo Nacional de Rangún.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJSe6xKL6dxzARxt-ylOkRIIM",
+     "https://en.wikipedia.org/wiki/Sri_Ksetra_Kingdom",
+     "https://en.wikipedia.org/wiki/Pyu_city-states"
+    ]
+   }
+  },
+  {
+   "id": "pagoda-shwedagon",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>pagoda Shwedagon</b> es una gran estupa dorada que domina Rangún desde lo alto de la colina de Singuttara. Es el lugar más sagrado de Birmania, porque según la tradición guarda reliquias de los cuatro budas de esta era, entre ellas <b>ocho cabellos de Buda</b>, que dos mercaderes habrían recibido del propio Buda. La leyenda le atribuye más de 2.500 años, pero las crónicas la mencionan por primera vez en 1362, cuando el rey Binnya U la elevó a 18 metros.</p><p>La reina <b>Shin Saw Pu</b> (siglo XV) la subió a 40 metros y la cubrió de oro, y desde entonces reyes y fieles han seguido donando oro para mantenerla. Un terremoto de 1768 derribó su remate, y el rey Hsinbyushin la reconstruyó en 1775 hasta su altura actual de <b>99 metros</b>. Su corona lleva miles de diamantes y rubíes, y la punta un diamante de 76 quilates. La pagoda fue también escenario político: allí habló el general Aung San en 1946 pidiendo la independencia, y su hija <b>Aung San Suu Kyi</b> ante medio millón de personas el 26 de agosto de 1988.</p><p>La estupa está rodeada de decenas de templos y estupas más pequeñas, y se sube por cuatro grandes escaleras cubiertas. Se visita mejor al atardecer, cuando el oro brilla con la última luz. No hay que perderse la gran campana Maha Gandha, de bronce, fundida en 1779.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJVeT_P17rwTARbs9UljGt07c",
+     "https://www.openstreetmap.org/?mlat=16.7991&mlon=96.1494#map=17/16.7991/96.1494",
+     "https://en.wikipedia.org/wiki/Shwedagon_Pagoda"
+    ]
+   }
+  },
+  {
+   "id": "pagoda-kuthodaw",
+   "campos": {
+    "texto": {
+     "general": "<p>Al pie de la colina de Mandalay, la <b>pagoda Kuthodaw</b> («mérito real») es una estupa dorada de 57 metros, copiada de la pagoda Shwezigon de Bagan, rodeada de <b>729</b> pequeños pabellones blancos. Cada uno guarda una losa de mármol grabada por las dos caras con una página del <b>Tipitaka</b>, el canon budista en pali. Por eso se la llama «el libro más grande del mundo».</p><p>La mandó hacer el rey <b>Mindon</b> como parte de la fundación de su nueva capital en 1857, para dejar el canon grabado en piedra durante cinco mil años. Las obras empezaron en 1860 y las inscripciones se abrieron al público el 4 de mayo de <b>1868</b>. En 1871 Mindon convocó el Quinto Concilio budista. Tras la conquista británica de 1885 el recinto quedó ocupado por las tropas, y cuando se devolvió en 1890 estaba saqueado: habían desaparecido las campanas, las joyas y el oro de las letras.</p><p>Hoy las losas forman filas ordenadas en tres recintos, a la sombra de viejos árboles que perfuman el conjunto, y una losa más cuenta cómo se hizo la obra. Están en el registro Memoria del Mundo de la UNESCO desde 2013.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Kuthodaw_Pagoda",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ2Tl4zl9syzARgyEi62Sbxg0",
+     "https://www.openstreetmap.org/?mlat=22.0047&mlon=96.1129#map=17/22.0047/96.1129"
+    ]
+   }
+  },
+  {
+   "id": "ciudad-vieja-de-quebec-y-las-llanuras-de",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Quebec</b> es la única ciudad de Norteamérica que conserva sus murallas, y su casco antiguo es un conjunto colonial sin igual al norte de México. Su origen está en la <i>habitation</i> que <b>Samuel de Champlain</b> levantó en <b>1608</b> junto al río San Lorenzo, en lo que hoy es la plaza Real, y en el fuerte Saint-Louis, en lo alto del cabo Diamant. La ciudad creció así en dos niveles: la <b>Ciudad Alta</b>, centro militar, religioso y administrativo, y la <b>Ciudad Baja</b>, de comerciantes y artesanos junto al puerto.</p><p>El 13 de septiembre de <b>1759</b>, en la guerra de los Siete Años, las tropas británicas del general <b>James Wolfe</b> escalaron de noche el acantilado y derrotaron a los franceses del marqués de <b>Montcalm</b> en las <b>llanuras de Abraham</b>, junto a las murallas. La batalla duró unos treinta minutos, los dos generales murieron de sus heridas y Quebec, y al año siguiente todo Canadá, pasó a manos británicas.</p><p>Hoy se pasea entre la Ciudad Baja, con la iglesia de Notre-Dame-des-Victoires (iniciada en 1687), y la Alta, con el convento de las Ursulinas, el seminario, la Ciudadela y el hotel <b>Château Frontenac</b>. Las llanuras son desde 1908 un gran parque de 98 hectáreas con un museo sobre el asedio. El casco histórico es Patrimonio de la Humanidad desde 1985.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Old_Quebec",
+     "https://en.wikipedia.org/wiki/Plains_of_Abraham",
+     "https://whc.unesco.org/en/list/300/"
+    ]
+   }
+  },
+  {
+   "id": "fortaleza-de-louisbourg",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>fortaleza de Louisbourg</b>, en la isla de Cabo Bretón (Nueva Escocia), fue una de las mayores y más caras fortificaciones europeas de Norteamérica. Los franceses fundaron allí un puerto pesquero en <b>1713</b>, le dieron el nombre de Luis XIV y lo rodearon de murallas, levantadas sobre todo entre 1720 y 1740. Llegó a ser el tercer puerto más activo de Norteamérica, con barrio comercial, mercados, posadas y tabernas, y la segunda plaza de la Nueva Francia después de Quebec.</p><p>Tenía puntos débiles: estaba en terreno bajo, dominado por colinas, y sus defensas miraban sobre todo al mar. Colonos británicos de Nueva Inglaterra la tomaron en <b>1745</b>; Francia la recuperó en el tratado de paz de 1748, pero los británicos la conquistaron de nuevo en <b>1758</b>, en la guerra de los Siete Años, y después volaron sus murallas. En 1785 el lugar ya estaba abandonado.</p><p>Desde <b>1961</b> se ha reconstruido una cuarta parte de la ciudad y de sus defensas, en la mayor reconstrucción histórica de Norteamérica, que dio trabajo a mineros del carbón en paro. Hoy es un museo vivo gestionado por Parques de Canadá, con calles, casas y baluartes animados por soldados y vecinos vestidos de época.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Fortress_of_Louisbourg"
+    ]
+   }
+  },
+  {
+   "id": "museo-canadiense-de-historia",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Canadiense de Historia</b> se alza en Gatineau, en la orilla del río Ottawa, frente a la colina del Parlamento. Su origen es el pequeño museo que el Servicio Geológico de Canadá abrió en Montreal en 1856; se trasladó a su edificio actual en <b>1989</b>, con el nombre de Museo Canadiense de las Civilizaciones, y tomó el actual en 2013, cuando se centró en la historia y la identidad del país. Guarda más de tres millones de objetos y documentos.</p><p>El edificio, del arquitecto <b>Douglas Cardinal</b>, tiene formas onduladas: un ala evoca los afloramientos rocosos del escudo canadiense y la otra un glaciar que se derrite, bajo un gran tejado de cobre. Se diseñó bajo y alargado para no tapar las vistas del río ni del Parlamento.</p><p>Su joya es la <b>Gran Sala</b>, acristalada y frente al río, con dos exposiciones sobre los pueblos indígenas de la costa noroeste del Pacífico: el museo tiene la <b>mayor colección de tótems del mundo</b>. La sala de los Primeros Pueblos, abierta en 2003, recorre la historia de las Primeras Naciones, los inuit y los métis, y la sala de la Historia de Canadá cuenta el país desde sus orígenes. Dentro está también el Museo Canadiense de los Niños.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Canadian_Museum_of_History",
+     "https://en.wikipedia.org/wiki/Douglas_Cardinal"
+    ],
+    "ver_alli": [
+     "El edificio ondulado es obra del arquitecto Douglas Cardinal, de ascendencia pies negros y métis.",
+     "Desde la explanada junto al río se ve de frente la colina del Parlamento de Ottawa."
+    ]
+   }
+  },
+  {
+   "id": "batoche",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Batoche</b>, a orillas del río Saskatchewan Sur, entre Prince Albert y Saskatoon, fue un pueblo <b>métis</b> fundado en 1872 y bautizado con el apodo de su fundador, Xavier Letendre <i>dit</i> Batoche. En 1885 tenía unos 500 habitantes, católicos y de habla francesa, que vivían en parcelas alargadas junto al río alrededor de la iglesia de <b>San Antonio de Padua</b>.</p><p>Ese año fue la capital del gobierno provisional de <b>Louis Riel</b> durante la rebelión del Noroeste. Del 9 al 12 de mayo de <b>1885</b>, unos 250 combatientes métis dirigidos por <b>Gabriel Dumont</b>, atrincherados en pozos de tirador, resistieron a más de 900 soldados del general Frederick Middleton, hasta que se quedaron sin munición y el pueblo fue asaltado. Riel se rindió el 15 de mayo y fue ahorcado por traición en Regina; Dumont huyó a Estados Unidos, volvió años después y está enterrado en el cementerio del pueblo.</p><p>Hoy es Lugar Histórico Nacional (desde 1923). La iglesia, con agujeros de bala sobre la puerta, y la casa parroquial son los únicos edificios que siguen en pie desde 1885. Un sendero pasa junto al cementerio y los restos de los pozos de tirador, y hay un centro de visitantes e intérpretes vestidos de época. Cada julio se celebran los Días de Batoche, una gran fiesta métis.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Batoche_National_Historic_Site",
+     "https://en.wikipedia.org/wiki/Battle_of_Batoche",
+     "https://www.canadashistory.ca/explore/historic-sites/batoche",
+     "https://www.thecanadianencyclopedia.ca/article/batoche"
+    ]
+   }
+  },
+  {
+   "id": "parque-provincial-de-los-dinosaurios",
+   "campos": {
+    "texto": {
+     "general": "<p>A unos 220 km al este de Calgary, en el valle del río <b>Red Deer</b>, la erosión ha tallado unas <b>badlands</b> de colinas desnudas y chimeneas de roca. Sus capas pertenecen sobre todo a la <b>Formación Dinosaur Park</b>, depositada por ríos que desembocaban en un mar interior hace unos 76,5 a 74,8 millones de años, a finales del Cretácico. Es uno de los yacimientos de dinosaurios más ricos del mundo.</p><p>Aquí se han encontrado <b>58 especies de dinosaurios</b>, entre ellas el ceratópsido <i>Chasmosaurus belli</i>, y fósiles de casi 500 especies de seres vivos, desde esporas de helecho hasta grandes carnívoros, pasando por tiburones, rayas, tortugas y cocodrilos. Más de 500 ejemplares se exponen hoy en museos de todo el mundo, de Toronto y Ottawa a Nueva York y Chicago; desde 1985 los hallazgos van sobre todo al Museo Real Tyrrell de Paleontología, río arriba, junto a Drumheller.</p><p>El parque, de 73 km², se creó el 27 de junio de <b>1955</b> para proteger los yacimientos y es Patrimonio de la Humanidad desde <b>1979</b>. Además de las badlands protege praderas y bosques de álamos junto al río, con coyotes, ciervos mulos, berrendos y cactus que florecen en junio. Cerca del centro de visitantes se conserva la cabaña de John Ware, un vaquero afroamericano clave en la historia ganadera de Alberta.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Dinosaur_Provincial_Park",
+     "https://www.openstreetmap.org/relation/6423610"
+    ]
+   }
+  },
+  {
+   "id": "head-smashed-in-buffalo-jump",
+   "campos": {
+    "texto": {
+     "general": "<p>A 18 km al oeste de Fort Macleod, donde las estribaciones de las Montañas Rocosas empiezan a levantarse sobre la pradera, los pueblos de las llanuras, como los <b>pies negros</b>, cazaron bisontes despeñándolos durante al menos <b>5.500 años</b>. Desde las colinas Porcupine, a unos 3 km, guiaban las manadas por corredores marcados con cientos de montones de piedras; jóvenes «corredores de bisontes» disfrazados de coyotes y lobos las empujaban hacia el borde de un acantilado de unos 300 metros de largo y 10-11 metros de caída.</p><p>Los animales caían arrastrados por el peso de la manada, y al pie los cazadores los remataban con lanzas y mazas. En un campamento cercano se aprovechaba todo: la carne, la piel para tiendas y ropa, los huesos para herramientas. Al pie del cortado se acumuló un depósito de huesos de hasta <b>12 metros</b> de espesor. Su nombre traduce el pie negro <i>Estipah-skikikini-kots</i>: la leyenda cuenta que un joven quiso ver caer a los animales desde abajo y murió aplastado, con la cabeza destrozada.</p><p>El lugar se abandonó en el siglo XIX, se excavó por primera vez en 1938 y es Patrimonio de la Humanidad desde <b>1981</b>. Hoy es un museo de la cultura pies negros: su centro de interpretación, de cinco plantas, explica la ecología, los mitos y la técnica de caza desde la mirada indígena y la arqueológica.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Head-Smashed-In_Buffalo_Jump",
+     "https://www.openstreetmap.org/way/226040063"
+    ]
+   }
+  },
+  {
+   "id": "santuario-de-kateri-tekakwitha",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Kahnawake</b>, en la orilla sur del San Lorenzo frente a Montreal, nació como la misión jesuita de <b>Saint-François-Xavier</b>, donde vivían familias mohawk y de otros pueblos iroqueses que se habían hecho cristianas. Hoy es un territorio de la nación mohawk con tres Lugares Históricos Nacionales: el fuerte Saint-Louis, la misión jesuita y su casa parroquial de 1719.</p><p>A esta misión llegó en <b>1677</b> <b>Tekakwitha</b>, una joven nacida hacia 1656 en la aldea mohawk de Ossernenon, en el actual estado de Nueva York, hija de un jefe mohawk y de una mujer algonquina cristiana. De niña sobrevivió a la viruela, que mató a sus padres y a su hermano y le dejó cicatrices en la cara y mala vista. Bautizada en 1676 como Catherine, Kateri, huyó de su aldea, donde la acosaban por su fe, y recorrió más de 300 km hasta la misión. Allí vivió con duras penitencias hasta su muerte el 17 de abril de <b>1680</b>, con veinticuatro años.</p><p>Fue beatificada por Juan Pablo II en 1980 y canonizada por Benedicto XVI el 21 de octubre de 2012: es la primera santa indígena de Norteamérica, conocida como el «lirio de los mohawks». Sus restos se guardan en la iglesia de la misión, que sigue siendo un lugar de culto y peregrinación.</p>"
+    },
+    "fuentes": [
+     "https://sortirauquebec.com/en/listing/religious-building-and-site/saint-kateri-tekakwitha-shrine-at-the-saint-francis-xavier-mission",
+     "https://kahnawaketourism.rezdy.com/500576/tour-of-the-shrine-of-saint-kateri-tekakwitha-saint-francis-xavier-mission",
+     "https://en.wikipedia.org/wiki/Kateri_Tekakwitha",
+     "https://en.wikipedia.org/wiki/Kahnawake"
+    ]
+   }
+  },
+  {
+   "id": "museo-pointe-a-calliere",
+   "campos": {
+    "texto": {
+     "general": "<p>En esta punta junto al río San Lorenzo desembarcaron en <b>1642</b> Paul de Chomedey de Maisonneuve, Jeanne Mance y otros colonos franceses para fundar Ville-Marie, la futura <b>Montreal</b>. El museo de arqueología e historia que hoy ocupa el lugar se abrió en <b>1992</b>, para el 350.º aniversario de la ciudad, y lleva el nombre de <b>Louis-Hector de Callière</b>, gobernador de la Nueva Francia, que tuvo aquí su residencia.</p><p>Muy cerca se celebró en el verano de <b>1701</b> la <b>Gran Paz de Montreal</b>: unos 1.300 enviados de casi cuarenta pueblos indígenas y el gobernador firmaron el 4 de agosto un tratado que puso fin a casi un siglo de guerras entre los iroqueses, los franceses y sus aliados. Los jefes firmaron dibujando el animal de su clan. La plaza vecina se llama hoy plaza de la Gran Paz.</p><p>El edificio principal se levantó sobre pilotes para no dañar los restos, que se ven en una cripta arqueológica: los cimientos del fuerte Ville-Marie, el primer cementerio católico de la ciudad y el antiguo cauce del riachuelo Saint-Pierre, encauzado en el colector William. El conjunto incluye la vieja aduana de 1836 y guarda más de un millón de objetos arqueológicos.</p>"
+    },
+    "fuentes": [
+     "https://pacmusee.qc.ca/en/stories-of-montreal/article/the-great-peace-of-montreal/",
+     "https://pacmusee.qc.ca/en/exhibitions/detail/1701-the-great-peace-of-montreal-3/",
+     "https://vieux.montreal.qc.ca/tour/etape9/eng/9text4a.htm",
+     "https://en.wikipedia.org/wiki/Pointe-%C3%A0-Calli%C3%A8re_Museum"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-kerak",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>castillo de Kerak</b>, el <i>Crac des Moabites</i> de los cruzados, es uno de los mayores castillos del Levante. Lo empezó a construir en la década de <b>1140</b> Pagano el Copero, señor de Transjordania, bajo el rey Fulco de Jerusalén. Desde su espolón al este del mar Muerto controlaba a los pastores beduinos y las rutas de caravanas de Damasco a Egipto y La Meca. Sus sucesores lo reforzaron con torres y dos profundos fosos excavados en la roca.</p><p>En 1176 pasó a <b>Reinaldo de Châtillon</b>, que desde aquí asaltaba las caravanas y llegó a lanzar una flota contra las rutas de los peregrinos a La Meca. <b>Saladino</b> lo asedió en 1183 —durante una boda real, y aceptó no atacar la estancia de los novios— y en 1184. Tras su victoria en Hattin (1187), donde él mismo decapitó a Reinaldo, sus tropas bloquearon Kerak, que se rindió tras varios meses en <b>1188</b>. Ayubíes y mamelucos lo convirtieron en centro administrativo y el sultán Baibars añadió en 1263 una torre en la esquina noroeste.</p><p>Lo más impresionante es la muralla norte, con enormes salas abovedadas en dos pisos que servían de viviendas, establos y galerías de combate, y las galerías subterráneas. El Museo Arqueológico de Kerak, sobre la historia de la tierra de Moab, está desde 2019 en un edificio otomano frente a la muralla.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Kerak_Castle",
+     "https://en.wikipedia.org/wiki/Raynald_of_Ch%C3%A2tillon"
+    ]
+   }
+  },
+  {
+   "id": "qasr-al-jarana",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Qasr al-Jarana</b> (o Harrana) es uno de los «castillos del desierto» más conocidos de Jordania, a unos 60 km al este de Amán, solo en lo alto de una loma sobre el uadi del mismo nombre. Aunque parece una fortaleza, una inscripción en un muro del piso superior lo fecha antes del año <b>710</b>, en época <b>omeya</b>, y es posible que antes hubiera allí una casa griega o bizantina.</p><p>Es un edificio casi cuadrado de 35 metros de lado, de bloques de caliza, con torres redondeadas en las esquinas y una sola puerta al sur. Dentro, unas 60 salas en dos pisos rodean un patio con un aljibe para la lluvia, y se agrupan en «casas» o apartamentos. Su función se ha discutido mucho: lo que parecen saeteras son en realidad rendijas de ventilación, no tenía agua suficiente para un caravasar ni para resistir un asedio, y no tiene baños ni mosaicos de palacio de recreo. Hoy se cree que servía como <b>lugar de reunión con los jefes beduinos</b>, con establos, muchas salas y un patio.</p><p>Por dentro conserva yeserías con medallones, pilastras y arcos ciegos, y sus bóvedas de cañón sobre arcos siguen técnicas persas sasánidas. Se puede subir por sus escaleras a la terraza.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Qasr_Kharana"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-jordania-y-ciudadela-de-aman",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Ciudadela de Amán</b> ocupa una colina en forma de L sobre el centro de la ciudad y es uno de los lugares habitados desde hace más tiempo del mundo: hay restos desde el Neolítico, se fortificó en la Edad del Bronce y fue la capital del reino de los <b>amonitas</b>. En época romana la ciudad, llamada Filadelfia, se extendió a sus pies y la colina quedó como acrópolis.</p><p>Arriba se ven el gran templo romano llamado <b>de Hércules</b>, construido hacia 161-166, del que quedan columnas y los dedos y el codo de una estatua colosal; una iglesia bizantina del siglo VI, y el <b>palacio omeya</b>, con su sala de audiencias, mezquita, baños y aljibe. Allí estuvo desde 1951 el antiguo museo arqueológico.</p><p>Sus grandes piezas se trasladaron al <b>Museo de Jordania</b>, inaugurado en 2014 en Ras al-Ain, a algo más de un kilómetro, el mayor del país. Expone las <b>estatuas de ʿAin Ghazal</b>, de yeso y unos 9.000 años, entre las figuras humanas más antiguas que se conocen; parte de los <b>Rollos del Mar Muerto</b>, entre ellos el Rollo de Cobre, y una copia de la estela de Mesa, cuyo original está en el Louvre.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Amman_Citadel",
+     "https://en.wikipedia.org/wiki/Jordan_Museum",
+     "https://en.wikipedia.org/wiki/Mesha_Stele"
+    ]
+   }
+  },
+  {
+   "id": "madaba-y-monte-nebo",
+   "campos": {
+    "texto": {
+     "general": "<p>En el suelo de la iglesia ortodoxa de <b>San Jorge de Madaba</b> está el <b>mapa de Madaba</b>, un mosaico del siglo VI que es la representación cartográfica original más antigua de Tierra Santa y, sobre todo, de <b>Jerusalén</b>. Se hizo entre 542 y 570 para la comunidad cristiana de Madaba, entonces sede de un obispo, y se redescubrió al levantar la iglesia actual a finales del siglo XIX.</p><p>Medía 21 por 7 metros, con más de dos millones de teselas; hoy quedan unos 16 por 5. Está orientado hacia el este, como el altar, y va del Líbano al delta del Nilo, con rótulos en griego: se reconocen el mar Muerto con dos barcas, el Jordán con sus peces, Jericó rodeada de palmeras, Belén y Jerusalén, donde se reconoce la iglesia Nueva de la Virgen, consagrada en 542.</p><p>A unos 9 km está el <b>monte Nebo</b>, de 700 metros, desde donde según el Deuteronomio Moisés vio la Tierra Prometida antes de morir. En su cima, los franciscanos excavaron desde 1933 una iglesia levantada en el siglo IV en memoria de Moisés y rehecha en 597, con suelos de <b>mosaico</b>. Desde el mirador se ven el valle del Jordán, Jericó y, en días claros, Jerusalén. Juan Pablo II plantó allí un olivo en el año 2000.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Madaba_Map",
+     "https://en.wikipedia.org/wiki/Mount_Nebo"
+    ]
+   }
+  },
+  {
+   "id": "wadi-rum",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Wadi Rum</b>, el «valle de la Luna», es un desierto de arena roja y montañas de arenisca y granito en el sur de Jordania, a unos 60 km al este de Áqaba. Con 720 km² es el mayor valle del país, y desde 2011 es Patrimonio de la Humanidad mixto, cultural y natural. Lo dominan moles como el Jebel Rum, de 1.734 metros, la segunda cumbre de Jordania.</p><p>Lo habitan pueblos desde la prehistoria, que dejaron grabados rupestres de personas y antílopes, inscripciones y ruinas; los <b>nabateos</b> tuvieron aquí un templo, excavado entre 1933 y 1997, y en 2025 se anunció el hallazgo de una inscripción jeroglífica con los cartuchos del faraón Ramsés III. El oficial británico <b>T. E. Lawrence</b>, «Lawrence de Arabia», lo atravesó varias veces durante la rebelión árabe de 1917-1918 y lo describió en <i>Los siete pilares de la sabiduría</i>; una de sus formaciones lleva hoy ese nombre.</p><p>David Lean rodó aquí buena parte de <i>Lawrence de Arabia</i> (1962), que lanzó el turismo en Jordania, y después lo han usado películas de ciencia ficción como <i>Marte (The Martian)</i> o <i>Rogue One</i>. Hoy lo gestionan en buena parte los beduinos zalabia, que guían a los visitantes.</p>"
+    },
+    "fuentes": [
+     "https://whc.unesco.org/en/list/1377/",
+     "https://en.wikipedia.org/wiki/Wadi_Rum"
+    ]
+   }
+  },
+  {
+   "id": "qusayr-amra",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Qusayr Amra</b> («el pequeño palacio de Amra») es el más famoso de los castillos del desierto de Jordania, a unos 85 km de Amán. Es un pequeño pabellón con sala de audiencias y <b>baños</b>, resto de un conjunto mayor de recreo sin función militar, y uno de los hammam más antiguos del mundo islámico. Una inscripción hallada en 2012 confirma que lo mandó hacer entre 723 y 743 el príncipe <b>al-Walid ibn Yazid</b>, el futuro califa omeya al-Walid II, conocido por su afición a la música y la poesía junto a las piscinas.</p><p>Su fama se debe a sus <b>frescos</b>, una de las obras maestras del primer arte islámico: escenas de caza, bañistas desnudas, músicos, artesanos trabajando y, en la cúpula de una de las salas de baño, la primera representación conocida del cielo sobre una superficie semiesférica, con las constelaciones y los signos del zodiaco. Un fresco célebre muestra a <b>seis reyes</b>, entre ellos el emperador bizantino, el sha persa, el negus de Etiopía y el visigodo <b>Rodrigo</b>, quizá como símbolo de la supremacía del califa.</p><p>El explorador Alois Musil lo redescubrió en 1898, un equipo español restauró los frescos a finales de los años setenta y es Patrimonio Mundial desde 1985. Desde 2010 un nuevo proyecto ha limpiado las pinturas y ha sacado a la luz colores que no se veían.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Qusayr_%27Amra"
+    ]
+   }
+  },
+  {
+   "id": "um-er-rasas",
+   "campos": {
+    "texto": {
+     "general": "<p>A unos 30 km al sureste de Madaba, en la estepa, se alzan las ruinas de <b>Kastron Mefaa</b>, que se identifica con la Mefaat citada en el libro de Jeremías. Fue un campamento militar romano en la frontera del desierto, y después un centro cristiano con numerosas iglesias de suelos de mosaico, habitado aún en los primeros siglos del islam. Es Patrimonio Mundial desde 2004 y gran parte sigue enterrada.</p><p>Su gran tesoro es el mosaico de la <b>iglesia de San Esteban</b>, descubierto tras las excavaciones franciscanas de 1986, el mayor suelo de mosaico de Jordania. Sus inscripciones griegas lo fechan entre 756 y 785, ya en época abasí. Firmado por seis maestros, muestra escenas de caza y pesca y vistas de ciudades de Tierra Santa y de Egipto: Jerusalén, Nablus, Cesarea, Gaza, Filadelfia (Amán), Madaba, Kerak o Alejandría, entre otras. Algunas figuras se borraron después recolocando las teselas. Al norte está la iglesia del obispo Sergio, de 587.</p><p>Aproximadamente 1,6 km al norte de las murallas se levanta una solitaria <b>torre</b> bizantina con símbolos cristianos tallados en sus cuatro caras, que se cree que usaban ascetas estilitas, que vivían aislados en lo alto.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Umm_ar-Rasas"
+    ]
+   }
+  },
+  {
+   "id": "plaza-de-la-ciudad-vieja-de-praga",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>plaza de la Ciudad Vieja</b> es el corazón histórico de Praga, entre la plaza de Wenceslao y el Puente de Carlos. La rodean edificios de todas las épocas: la iglesia gótica de <b>Nuestra Señora de Týn</b>, la principal de este barrio desde el siglo XIV, con sus torres de 80 metros, donde está enterrado el astrónomo Tycho Brahe; la iglesia barroca de San Nicolás, el palacio Kinský, hoy sala de la Galería Nacional, y el antiguo Ayuntamiento.</p><p>En el muro del Ayuntamiento está el <b>reloj astronómico</b> (<i>orloj</i>), montado en <b>1410</b> por el relojero Mikuláš de Kadaň y el astrónomo Jan Šindel: es el tercer reloj astronómico más antiguo del mundo y el más antiguo que sigue funcionando. Cada hora desfilan los apóstoles mientras un esqueleto, la Muerte, toca la campana. En el centro de la plaza se levanta el gran <b>monumento a Jan Hus</b>, obra de Ladislav Šaloun, inaugurado en 1915 en el quinto centenario de la muerte del reformador, quemado en Constanza en 1415. Muy cerca está la capilla de Belén, donde Hus predicó desde 1402.</p><p>Frente al Ayuntamiento, 27 cruces en el suelo recuerdan a los 27 dirigentes de la revuelta contra los Habsburgo decapitados aquí en 1621, tras la batalla de la Montaña Blanca. En Navidad y Pascua se instalan en la plaza los mercados más grandes del país.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Old_Town_Square",
+     "https://en.wikipedia.org/wiki/Prague_astronomical_clock",
+     "https://en.wikipedia.org/wiki/Jan_Hus_Memorial",
+     "https://en.wikipedia.org/wiki/Bethlehem_Chapel",
+     "https://en.wikipedia.org/wiki/Church_of_Our_Lady_before_T%C3%BDn"
+    ],
+    "ver_alli": [
+     "El reloj se anima a cada hora en punto.",
+     "La torre del antiguo Ayuntamiento se puede subir y ofrece una vista panorámica de la Ciudad Vieja."
+    ]
+   }
+  },
+  {
+   "id": "plaza-de-wenceslao",
+   "campos": {
+    "texto": {
+     "general": "<p>Más que una plaza, la <b>plaza de Wenceslao</b> es un gran bulevar de 750 metros en la Ciudad Nueva de Praga, rematado en lo alto por el <b>Museo Nacional</b> (1885-1891) y la estatua ecuestre de san Wenceslao, patrón de Bohemia. Nació en 1348, cuando Carlos IV fundó la Ciudad Nueva, como mercado de caballos, y tomó su nombre actual en 1848.</p><p>Es el gran escenario de la historia checa moderna. Aquí se leyó el 28 de octubre de <b>1918</b> la declaración de independencia de Checoslovaquia. Tras la invasión del Pacto de Varsovia que aplastó la Primavera de Praga en 1968, el estudiante <b>Jan Palach</b> se quemó a lo bonzo en la plaza el 16 de enero de <b>1969</b> como protesta, y murió tres días después; un mes más tarde le imitó en el mismo lugar otro estudiante, Jan Zajíc. En marzo de 1969, unas 150.000 personas celebraron aquí la victoria del equipo de hockey checoslovaco sobre la URSS. Y en noviembre de <b>1989</b> la plaza se llenó con cientos de miles de manifestantes de la Revolución de Terciopelo, que acabó con el régimen comunista.</p><p>Hoy es una avenida comercial y peatonal en parte. Delante del Museo Nacional, una cruz de bronce en el suelo marca el lugar donde cayeron Palach y Zajíc.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Wenceslas_Square",
+     "https://en.wikipedia.org/wiki/Jan_Palach"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-praga-y-puente-de-carlos",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>castillo de Praga</b> es, según el libro Guinness, el mayor castillo antiguo del mundo: unos 570 metros de largo y casi 70.000 m². Su historia empieza hacia el año 870 y ha sido sede de los reyes de Bohemia, de emperadores del Sacro Imperio y de los presidentes de Checoslovaquia y de la República Checa, que siguen trabajando en él. Allí se guardan las joyas de la corona de Bohemia.</p><p>Dentro del recinto se alzan la catedral gótica de <b>San Vito</b>, empezada en 1344 y terminada en 1929, la basílica románica de San Jorge y el palacio real, con la gran sala de Vladislao. El emperador <b>Rodolfo II</b> hizo del castillo su residencia y reunió allí sus colecciones de arte, y para su guardia se construyó el <b>Callejón del Oro</b>, de casitas de colores, que debe su nombre a los orfebres que vivieron en él. El 23 de mayo de <b>1618</b> los nobles protestantes arrojaron por una ventana a dos gobernadores reales y a su secretario: la defenestración de Praga desató la revuelta de Bohemia y la guerra de los Treinta Años.</p><p>Abajo, el <b>Puente de Carlos</b>, empezado en 1357 por orden de Carlos IV, cruza el Moldava con 16 arcos a lo largo de 516 metros, entre torres góticas. Lo adornan 30 estatuas, casi todas barrocas, entre ellas la de san Juan Nepomuceno; las que se ven hoy son copias y los originales están en el Lapidario del Museo Nacional.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Prague_Castle",
+     "https://en.wikipedia.org/wiki/Charles_Bridge",
+     "https://en.wikipedia.org/wiki/St._Vitus_Cathedral",
+     "https://en.wikipedia.org/wiki/Golden_Lane",
+     "https://en.wikipedia.org/wiki/Defenestrations_of_Prague"
+    ]
+   }
+  },
+  {
+   "id": "iglesia-de-santa-barbara-kutna-hora",
+   "campos": {
+    "texto": {
+     "general": "<p>Kutná Hora se hizo rica con sus <b>minas de plata</b>, y la construcción de su gran iglesia dependió de esa prosperidad; está dedicada a santa Bárbara, patrona de los mineros. Se empezó en <b>1388</b>, probablemente con Johann Parler, hijo del gran arquitecto Peter Parler. Las guerras husitas pararon la obra más de sesenta años, y se retomó en 1481 con Matěj Rejsek, Benedikt Rejt y Mikuláš Parler.</p><p>El proyecto original preveía un templo quizá el doble de grande, pero las minas rendían cada vez menos: en 1588 se cubrió con su característico tejado de tres puntas y se cerró con un muro provisional. Más tarde la ocuparon los jesuitas, que dieron un aire barroco a parte del interior, y no se terminó del todo hasta <b>1905</b>, tras una restauración dirigida por Josef Mocker y Ludvík Lábler. Desde 1995 es Patrimonio Mundial junto con el centro histórico de la ciudad y la catedral de Nuestra Señora de Sedlec.</p><p>Con sus arbotantes dobles y sus altas bóvedas, es una de las iglesias góticas más famosas de Europa central. Dentro destacan las vidrieras, los altares, el púlpito y la sillería del coro, y unos frescos medievales que muestran la vida de la ciudad minera junto a escenas religiosas.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/St._Barbara%27s_Church,_Kutn%C3%A1_Hora",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ6QpxzaZBDEcR26HsPg_tnKE",
+     "https://www.openstreetmap.org/way/103176953"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-cesky-krumlov",
+   "campos": {
+    "texto": {
+     "general": "<p>Sobre un largo espolón de roca que domina un meandro del río Moldava, el noble Vítek de Prčice, de la familia de los <b>Vítkovci</b>, tenía ya en 1253 su castillo. Desde 1302 pasó a los poderosos <b>Rosenberg</b>, y Guillermo de Rosenberg lo transformó en palacio renacentista. Después fue de los Eggenberg, que le dieron su aire barroco, y desde 1717 de los <b>Schwarzenberg</b>, hasta que pasó al Estado checoslovaco en 1950.</p><p>Es el segundo mayor conjunto de castillo y palacio de Chequia, después del de Praga. Se entra por el foso de los osos al castillo bajo, con su torre del siglo XIII pintada en 1580, y de allí al castillo alto, el palacio de los Rosenberg. Un puente cubierto de cinco pisos sobre un profundo foso, de 1764, lleva al <b>teatro barroco de 1767</b>, el mejor conservado en su forma original entre los pocos de su clase que quedan en Europa, y a los jardines, donde desde 1959 funciona un auditorio giratorio al aire libre.</p><p>El castillo y la pequeña ciudad medieval que lo rodea son Patrimonio Mundial desde 1992. En el museo se expone una carroza dorada de 1638, y la leyenda dice que por el castillo se aparece la Dama Blanca, el fantasma de Perchta de Rosenberg.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_Krumlov_Castle",
+     "https://www.google.com/maps/place/?q=place_id:ChIJV71mh51dc0cRhlWWvtEL6_8",
+     "https://www.openstreetmap.org/way/797155316"
+    ]
+   }
+  },
+  {
+   "id": "dolni-vestonice",
+   "campos": {
+    "texto": {
+     "general": "<p>Al pie del monte Děvín, en las colinas de Pálava, junto a un arroyo, hubo hace unos 26.000 años un campamento de <b>cazadores de mamuts</b> de la cultura gravetiense. Rodeaban sus cabañas con una cerca de huesos de mamut, con una gran hoguera en el centro. Las excavaciones, iniciadas en 1924 por Karel Absolon, han dado miles de objetos, sobre todo arte.</p><p>La pieza más famosa es la <b>Venus de Dolní Věstonice</b>, hallada el 13 de julio de 1925 en una hoguera, partida en dos: una figura de mujer de 11 cm, de barro cocido, de entre 31.000 y 27.000 años, que está entre las cerámicas más antiguas del mundo. Un escáner de 2004 descubrió en su superficie la <b>huella del dedo de un niño</b> o niña de entre 7 y 15 años que la tocó antes de cocerse. Junto a una cabaña excavada en un talud apareció un horno con unas 2.300 figuritas de animales de barro —leones, rinocerontes, mamuts—, casi todas rotas, quizá a propósito. También hay impresiones de tejidos y cestería sobre arcilla: una prueba de que aquellos cazadores tejían fibras.</p><p>Otros hallazgos son una figurita de marfil de mamut de un joven que podría ser el primer retrato de la historia y la tumba de una mujer de más de cuarenta años bajo dos omóplatos de mamut. La Venus la guarda el Museo de Moravia, en Brno, que solo la expone en ocasiones.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJQ1Ew2zHMEkcRKlnecIKU0TY",
+     "https://en.wikipedia.org/wiki/Doln%C3%AD_V%C4%9Bstonice_(archaeological_site)",
+     "https://www.google.com/maps/place/?q=place_id:ChIJjQFJWdDNEkcR7k6_venEGYQ",
+     "https://en.wikipedia.org/wiki/Venus_of_Doln%C3%AD_V%C4%9Bstonice"
+    ]
+   }
+  },
+  {
+   "id": "timgad",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Timgad</b>, la antigua <i>Colonia Marciana Ulpia Traiana Thamugadi</i>, en las montañas del Aurès, a unos 35 km al este de Batna, la fundó el emperador <b>Trajano</b> hacia el año <b>100</b> como colonia para veteranos del ejército y colonos romanos, y como bastión frente a los bereberes de la sierra. Su nombre honra a la madre, la hermana y el padre del emperador; Thamugadi es el nombre bereber del lugar. Es uno de los mejores ejemplos que quedan del trazado romano en <b>cuadrícula</b>.</p><p>Pensada para unos 15.000 habitantes, la ciudad creció pronto más allá de su retícula. Desde el siglo III fue un foco cristiano, y en el IV un centro del donatismo con el obispo Optato. Los vándalos la saquearon en el siglo V, los bereberes la destruyeron a finales de ese siglo, el general bizantino Salomón la recuperó en 539 y en el siglo VIII ya estaba deshabitada. El explorador escocés James Bruce la visitó en 1765 y los franceses la excavaron sistemáticamente desde 1881.</p><p>Se recorren el decumano y el cardo con sus columnas corintias, el foro y el <b>arco de Trajano</b>, de 12 metros y tres vanos. Hay también un teatro de 3.500 plazas que aún se usa, cuatro termas, el templo capitolino de Júpiter y una <b>biblioteca</b> pública regalada por un ciudadano, quizá del siglo III o IV, con capacidad para unos 3.000 rollos. Es Patrimonio Mundial desde 1982.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJpaiJhcum9hIRa8s3_GDfSx8",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Timgad",
+     "https://en.wikipedia.org/wiki/Timgad"
+    ]
+   }
+  },
+  {
+   "id": "monumento-de-los-martires-maqam-echahid",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Monumento de los Mártires</b> (<i>Maqam Echahid</i>) domina Argel desde las alturas de El Madania, sobre el Jardín de Ensayos del Hamma, en el lugar de un antiguo fuerte. Se inauguró el <b>5 de julio de 1982</b>, en el vigésimo aniversario de la independencia, en memoria de los muertos de la guerra contra Francia.</p><p>La idea fue del presidente Huari Bumedián, pero lo inauguró su sucesor, Chadli Bendjedid. Lo diseñó el pintor <b>Bachir Yelles</b>, con el calígrafo Abdelhamid Skander y el escultor polaco Marian Konieczny, y lo construyó la empresa canadiense Lavalin en solo siete meses y veinte días, un reto técnico por la curvatura de las piezas, el borde del acantilado y el riesgo sísmico. Son <b>tres grandes hojas de palmera</b> de hormigón que se unen a media altura y alcanzan <b>96 metros</b>; a 14 metros del suelo sostienen un templete de estilo islámico rematado por una cúpula. Al pie de cada hoja, la estatua de un soldado representa una etapa de la lucha por la independencia.</p><p>Bajo las palmas arde una «llama eterna», y en la explanada hay una cripta, un anfiteatro y, bajo tierra, el <b>Museo Nacional del Muyahid</b>, dedicado a la guerra de liberación. Desde 2017 una iluminación con 40 focos lo hace visible de noche desde toda la bahía.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJVes1dZ2yjxIRPKvH9FziPJM",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Maqam+Echahid",
+     "https://en.wikipedia.org/wiki/Maqam_Echahid"
+    ]
+   }
+  },
+  {
+   "id": "casbah-de-argel",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Casbah</b> («ciudadela») es la ciudad vieja de Argel, una medina de callejuelas empinadas y casas blancas que bajan hacia el mar. Sobre un antiguo puerto fenicio y luego romano, su trazado actual lo creó en el siglo X la dinastía bereber de los <b>ziríes</b>, que fundó la ciudad en 944, y otras dinastías la fueron enriqueciendo.</p><p>Vivió su esplendor como sede del poder de la <b>Regencia de Argel</b> otomana. La fortaleza que la corona se empezó en 1516 con Aruj Barbarroja y se terminó en 1592, y la ciudad se cerró con murallas y fuertes. Tras la conquista francesa de 1830 se derribaron murallas y varias mezquitas se convirtieron en iglesias, como la de Ketchaoua. Durante la guerra de independencia fue el bastión del FLN en la «<b>batalla de Argel</b>» (1956-1957), que contó en 1966 la famosa película de Gillo Pontecorvo, y allí cayeron detenidos o muertos líderes como Yacef Saadi y Ali la Pointe. Es Patrimonio de la Humanidad desde 1992.</p><p>Merece la pena perderse entre sus zocos, hammams y cafés moriscos y buscar sus palacios de época otomana, como Dar Aziza, Dar Hassan Pacha, el palacio de Mustafá Pachá o el palacio de los Raïs, que alojó a los corsarios de la Regencia. Muy cerca está la Gran Mezquita, levantada por los almorávides en 1082.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJj0rwbCSzjxIRoCI9EYrFm8M",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Casbah+d'Alger",
+     "https://en.wikipedia.org/wiki/Casbah_of_Algiers",
+     "https://en.wikipedia.org/wiki/The_Battle_of_Algiers"
+    ]
+   }
+  },
+  {
+   "id": "hipona-annaba",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Hipona</b> (<i>Hippo Regius</i>), junto a la actual Annaba, fue fundada por fenicios de Tiro hacia el siglo XII a. C. Los romanos la llamaron «la Real» porque había sido residencia de los reyes númidas, y llegó a ser una gran ciudad de la provincia de África. Fue sede de un obispado desde hacia el año 250 y de varios concilios.</p><p>Su obispo más célebre fue <b>san Agustín</b>, uno de los grandes padres de la Iglesia, obispo desde 396. En 430 los vándalos sitiaron la ciudad y Agustín murió dentro de sus murallas el 28 de agosto, a los 75 años, durante el asedio. Después fue la primera capital del reino vándalo (435-439), pasó a Bizancio en 534 y la conquistaron los musulmanes en 698.</p><p>En las ruinas se ven el <b>foro</b> pavimentado en época flavia, el mercado, varias termas y el barrio cristiano, con una gran basílica de tres naves que el arqueólogo Erwan Marec identificó con la basílica de la Paz de Agustín, aunque otros especialistas lo discuten. El museo del yacimiento guarda un trofeo de bronce y estatuas de Minerva y Hércules. En lo alto de la colina, la <b>basílica de San Agustín</b>, construida entre 1881 y 1900, conserva en una estatua del santo lo que se tiene por un hueso de su brazo.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJJZQpBdAH8BIR9_7ECdQf8M0",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Hippone+site+archéologique",
+     "https://en.wikipedia.org/wiki/Hippo_Regius",
+     "https://fr.wikipedia.org/wiki/Hippone",
+     "https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_San_Agust%C3%ADn_(Annaba)"
+    ]
+   }
+  },
+  {
+   "id": "mesa-de-arte-rupestre-de-tassili-n-ajjer",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Tassili n'Ajjer</b> («meseta de los ríos») es una gran meseta de arenisca del Sáhara argelino, junto a las fronteras de Libia y Níger, de 72.000 km². La erosión ha tallado en ella bosques de roca, cañones y unos 300 arcos naturales, un paisaje casi lunar. Guarda uno de los conjuntos de arte rupestre prehistórico más importantes del mundo: <b>más de 15.000 pinturas y grabados</b>.</p><p>El arte abarca unos diez mil años y se divide en etapas. Los grabados más antiguos muestran grandes animales salvajes, como antílopes, cocodrilos o hipopótamos, de un tiempo en que el Sáhara era mucho más húmedo. Siguen las pinturas de las «<b>cabezas redondas</b>», figuras humanas que parecen flotar, algunas de más de cinco metros; luego las escenas de <b>pastores con rebaños de vacas</b>, que reflejan la llegada del pastoreo cuando el clima se secaba, y por último caballos y camellos. Lo dieron a conocer los dibujos del teniente francés Charles Brenans en los años treinta, y después las expediciones de Henri Lhote, criticadas por dañar algunas pinturas.</p><p>Es Patrimonio Mundial, a la vez cultural y natural, desde 1982, y parque nacional. En sus zonas altas sobreviven cipreses del Sáhara, de los árboles más longevos de la Tierra.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Tassili_n%27Ajjer",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Tassili+n'Ajjer",
+     "https://whc.unesco.org/en/list/179/"
+    ]
+   }
+  }
+ ]
+}
