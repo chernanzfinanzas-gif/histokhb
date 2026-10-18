@@ -23,11 +23,11 @@ thead th .tg{font-size:11px;color:var(--muted);font-weight:500;display:block}
 thead th .mv{float:right;margin-left:6px;font-size:13px;color:var(--muted);user-select:none}
 thead th .mv span{padding:0 3px;cursor:pointer}
 thead th.sub{background:#f8f1e4;font-size:13px}
+.zx{float:right;margin-left:8px;color:var(--muted);cursor:pointer;padding:0 4px;font-size:13px}
 th.y,td.y{position:sticky;left:0;z-index:4;width:var(--yw);min-width:var(--yw);background:#f3ead9;font-family:Fredoka;font-weight:600;font-size:12.5px;padding:6px 4px;text-align:right;color:#7a5a2a}
 thead th.y{z-index:6}
-td.c{width:250px;min-width:250px;max-width:250px;padding:4px 5px}
-td.c.z{width:190px;min-width:190px;max-width:190px}
-@media(min-width:1100px){td.c{width:auto;min-width:200px;max-width:none}}
+td.c{--w:max(230px,calc((100vw - var(--yw) - 24px)/var(--n,1)));width:var(--w);min-width:var(--w);max-width:var(--w);padding:4px 5px}
+td.c.z{--w:max(165px,calc((100vw - var(--yw) - 24px)/var(--n,1)))}
 .ev{display:block;font-size:13.5px;line-height:1.3;padding:4px 6px;margin:2px 0;border-radius:6px;border-left:5px solid;background:#fff;text-decoration:none;color:inherit}
 .ev small{display:block;color:var(--muted);font-size:11px;font-family:Fredoka;font-weight:500}
 .ev.det{box-shadow:inset 0 0 0 1px #e8d9bd}.ev.det::after{content:' ›';color:var(--accent);font-weight:700}
@@ -38,7 +38,8 @@ td.c.z{width:190px;min-width:190px;max-width:190px}
  <h1>🌍 Sincronía <small style="font-family:Nunito;font-weight:600;font-size:12px;color:var(--muted)">· propuesta por grupos</small></h1>
  <div class="bar" id="eras"></div>
  <div class="bar" id="grs" style="margin-top:4px"></div>
- <p class="hint">Toca el nombre de un grupo para desplegarlo en zonas · ◀ ▶ para cambiar el orden · los botones de abajo muestran u ocultan grupos.</p>
+ <div class="bar" id="zhid" style="margin-top:4px"></div>
+ <p class="hint">Toca un grupo para desplegarlo en zonas · ✕ oculta una zona · ⤢ solo ese grupo (otra vez para volver) · ◀ ▶ cambia el orden · las zonas sin datos en la época se ocultan solas.</p>
 </header>
 <div id="wrap"><table id="t"></table></div>
 <script>
@@ -49,7 +50,7 @@ const ESPS=['Portugal','Galicia','Asturias','León',ESP,'Navarra / P.Vasco-Rioja
 const APP='../index.html';
 const ERAS=[['pre','Prehistoria',-1e7,-3501],['ant','Antigua',-3500,475],['med','Media',476,1491],['mod','Moderna',1492,1788],['con','Contemporánea',1789,2100],['tod','Todo',-1e7,2100]];
 const LS={get(k,d){try{const v=localStorage.getItem(k);return v==null?d:JSON.parse(v);}catch(e){return d;}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v));}catch(e){}}};
-let S=null, G=[], ORD=LS.get('sg_ord',null), HID=new Set(LS.get('sg_hid',[])), OPEN=new Set(LS.get('sg_open',[])), ERA=LS.get('sg_era','ant');
+let ZH=new Set(LS.get('sg_zh',[])), S=null, G=[], ORD=LS.get('sg_ord',null), HID=new Set(LS.get('sg_hid',[])), OPEN=new Set(LS.get('sg_open',[])), ERA=LS.get('sg_era','ant');
 function groups(){const R=S.regs;
  const g=[{id:'global',t:'Global',ic:'🌐',zones:R.filter(r=>r[1]==='global').map(r=>r[0]),cont:null},
   {id:'espana',t:'España',ic:'🇪🇸',zones:ESPS.filter(z=>S.ev[z]),cont:'España'},
@@ -73,22 +74,28 @@ function render(){
  const has=g=>[...(g.cont?[g.cont]:[]),...g.zones].some(r=>(S.ev[r]||[]).some(e=>e[0]>=y0&&e[0]<=y1));
  const vis=G.filter(g=>!HID.has(g.id)&&has(g));
  // columnas: grupo plegado = 1 columna (todas sus zonas + su fila continental); desplegado = 1 columna por zona (+ continental si hay)
- const cols=[]; vis.forEach(g=>{const all=[...(g.cont&&S.ev[g.cont]?[g.cont]:[]),...g.zones];
-  if(OPEN.has(g.id)) all.forEach(z=>cols.push({g,regs:[z],zone:z})); else cols.push({g,regs:all,zone:null});});
+ const inEra=r=>(S.ev[r]||[]).some(e=>e[0]>=y0&&e[0]<=y1);
+ const cols=[], hidden=[]; vis.forEach(g=>{const all=[...(g.cont&&S.ev[g.cont]?[g.cont]:[]),...g.zones].filter(inEra);
+  if(OPEN.has(g.id)){const sh=all.filter(z=>!ZH.has(z)); all.filter(z=>ZH.has(z)).forEach(z=>hidden.push([g,z])); (sh.length?sh:[all[0]]).forEach(z=>cols.push({g,regs:[z],zone:z}));}
+  else cols.push({g,regs:all,zone:null});});
+ $('#zhid').innerHTML=hidden.length?'<span style="font-size:12.5px;color:var(--muted);align-self:center">Ocultas:</span>'+hidden.map(([g,z])=>`<button data-z="${esc(z)}">${esc(z===g.cont?'Todo '+g.t:rn(z))} ↺</button>`).join('')+'<button data-z="*">Mostrar todas</button>':'';
+ $('#zhid').querySelectorAll('button').forEach(b=>b.onclick=()=>{b.dataset.z==='*'?ZH.clear():ZH.delete(b.dataset.z);LS.set('sg_zh',[...ZH]);render();});
  const years=new Set(); cols.forEach(c=>c.regs.forEach(r=>(S.ev[r]||[]).forEach(e=>{if(e[0]>=y0&&e[0]<=y1)years.add(e[0]);})));
  const Y=[...years].sort((a,b)=>a-b);
  let h='<thead><tr><th class="y" rowspan="2">Año</th>';
  vis.forEach((g,i)=>{const n=cols.filter(c=>c.g===g).length;
-  h+=`<th class="g" colspan="${n}" data-g="${g.id}"><span class="mv"><span data-m="-1">◀</span><span data-m="1">▶</span></span>${g.ic} ${g.t} <span class="tg">${OPEN.has(g.id)?'▾ plegar':'▸ '+g.zones.length+' zonas'}</span></th>`;});
- h+='</tr><tr>'+cols.map(c=>`<th class="sub">${c.zone?esc(c.zone===c.g.cont?'Todo '+c.g.t:rn(c.zone)):'Todas sus zonas'}</th>`).join('')+'</tr></thead><tbody>';
+  h+=`<th class="g" colspan="${n}" data-g="${g.id}"><span class="mv"><span data-m="-1">◀</span><span data-m="1">▶</span><span data-solo="1" title="Solo este grupo">⤢</span></span>${g.ic} ${g.t} <span class="tg">${OPEN.has(g.id)?'▾ plegar':'▸ '+g.zones.length+' zonas'}</span></th>`;});
+ h+='</tr><tr>'+cols.map(c=>`<th class="sub">${c.zone?`<span class="zx" data-z="${esc(c.zone)}" title="Ocultar">✕</span>`+esc(c.zone===c.g.cont?'Todo '+c.g.t:rn(c.zone)):'Todas sus zonas'}</th>`).join('')+'</tr></thead><tbody>';
  Y.forEach(y=>{h+=`<tr><td class="y">${fy(y)}</td>`;
   cols.forEach(c=>{const items=[];c.regs.forEach(r=>evAt(r,y).forEach(e=>items.push(evHtml(r,e,!c.zone&&r!==c.g.cont))));
    h+=`<td class="c${c.zone?' z':''}">${items.join('')||'<div class="empty"></div>'}</td>`;});
   h+='</tr>';});
- h+='</tbody>'; $('#t').innerHTML=h;
+ h+='</tbody>'; $('#t').innerHTML=h; $('#t').style.setProperty('--n',cols.length);
  $('#t').querySelectorAll('th.g').forEach(th=>th.onclick=ev=>{const id=th.dataset.g, m=ev.target.dataset.m;
+  if(ev.target.dataset.solo){const solo=vis.length===1; HID=new Set(solo?[]:G.filter(g=>g.id!==id).map(g=>g.id)); if(!solo)OPEN.add(id); LS.set('sg_hid',[...HID]); LS.set('sg_open',[...OPEN]); render(); return;}
   if(m){const o=G.map(g=>g.id), i=o.indexOf(id), j=i+(+m); if(j<0||j>=o.length)return; [o[i],o[j]]=[o[j],o[i]]; ORD=o; LS.set('sg_ord',o); render(); return;}
   OPEN.has(id)?OPEN.delete(id):OPEN.add(id); LS.set('sg_open',[...OPEN]); render();});
+ $('#t').querySelectorAll('.zx').forEach(x=>x.onclick=()=>{ZH.add(x.dataset.z);LS.set('sg_zh',[...ZH]);render();});
 }
 fetch('../datos/sinc-eventos.json').then(r=>r.json()).then(j=>{S=j;render();});
 </script>
