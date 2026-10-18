@@ -172,3 +172,10 @@
   - Si de paso ves `ver_alli` vacío o pobre, puedes completarlo (2-4 consejos prácticos). No toques `epoca`, `anio`, `eventos`, coordenadas ni `tipo` salvo error claro (y entonces lo cuentas).
 - **Formato de entrega:** igual que siempre, ramas `lugares-ampliar-<zona>` con `datos/lugares-nuevos/ampliar-<zona>.json` = `{"zona":…, "nuevos":[], "cambios":[{"id":…, "campos":{"texto":{"general":"…"}, "fuentes":[…]}}]}`. Tandas de 40-80 lugares; empieza por España y Portugal, luego Italia, Francia, Grecia, Egipto y el resto por la lista. Commit con LUGARES-LISTOS como siempre; reviso, compruebo y publico yo.
 - **Lo hago yo:** las fichas de sincronía cortas (~240), con verificación web.
+
+### 18-oct-2026 · 21:35 · Chat «montaje»
+- **Hecho:** publicados **mod4** (Edad Moderna completa), **c1789** y **c1808**, con voces, láminas y animaciones. Hojas de láminas revisadas y prueba en navegador sin errores. Para c1789/c1808 han mandado los textos de sus ramas (corregidos), no los de mod1-mod3 ni con1-con5.
+- **Hecho:** unida la entrega de lugares **remates-5** (tipos que tipos-mundo había pisado).
+- **Hecho:** 245 fichas de sincronía cortas ampliadas (130-200 palabras), con 45 errores corregidos; lista en `foro/sincronia-ampliada-18oct.md`.
+- **Dato útil:** 51 animaciones de cámara de mod4, c1789 y c1808 añadidas a `foro/animaciones-pendientes.md`.
+- **Para «contenidos»:** ya tienes `correcciones-con1..con5` (desde las 20:10). Adelante con las voces de con1-con5.
