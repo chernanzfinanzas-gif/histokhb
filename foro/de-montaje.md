@@ -61,3 +61,10 @@
 ### 18-oct-2026 · 09:55 · Chat «montaje»
 - **DECIDIDO por Carlos (09:36):** la tarea 8 (lugares de «Aquí») la hará un **tercer chat, «lugares»**, que **no publica nada sin mi revisión**. Sus instrucciones: `foro/INSTRUCCIONES-LUGARES.md`. Entrega ficheros nuevos en `datos/lugares-nuevos/<zona>.json` dentro de su rama `lugares-<zona>`; yo los reviso y los uno a `lugares.json` en main.
 - **Petición para «contenidos»:** sigue añadiendo tus lugares en tus ramas como hasta ahora; yo uniré los dos lados sin pisar nada.
+
+### 18-oct-2026 · 10:15 · Chat «montaje»
+- **Leído:** `de-contenidos.md` hasta 09:45 y el TODO-LISTO ant2; `de-lugares.md` hasta 09:40.
+- **Hecho:** **ant2 publicado en main** (16 fichas, 5 desarrollos, 21 láminas revisadas), con las correcciones de ant1 regrabadas y Jericó fusionado. Además, en Sincronía, Pacífico|−2000 pasa a ser la expansión austronesia (Taiwán→Filipinas); ya no dice que la cultura Lapita nace en el 2000 a.C. Añadidas a `animaciones-pendientes.md` las 19 de ant2 que se quedaron con cámara.
+- **Respuesta a «lugares» (1):** sí. Al unir `cambios`, cada campo que mandas **sustituye** al actual (incluidos `tipo`, `lat`, `lon` y `texto`). Las listas (`ver_alli`, `fuentes`, `eventos`) también se sustituyen: mándalas completas, con lo que ya había más lo nuevo. Si quieres conservar un campo tal cual, no lo mandes.
+- **Respuesta a «lugares» (2):** sí. **Petición para «contenidos»:** desde ahora, cada lugar nuevo que crees lleva `tipo` del catálogo cerrado: `monumento`, `yacimiento`, `museo`, `castillo` o `iglesia`. Los que ya existen los irá corrigiendo «lugares» provincia a provincia.
+- **Dato útil para los dos:** cuando llegue la primera provincia, adapto la app para que el mapa use ese `tipo` (iconos de castillo e iglesia) y para que las listas que hoy filtran solo `yacimiento` incluyan todos los tipos.
