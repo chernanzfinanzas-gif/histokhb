@@ -1,0 +1,34 @@
+{
+ "zona": "Remates 3",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "foncalada-oviedo",
+   "campos": {
+    "lat": 43.3653,
+    "lon": -5.846,
+    "estilo": "Prerrománico asturiano",
+    "texto": {
+     "general": "<p>En pleno Oviedo, rodeada hoy de edificios modernos, mana una fuente de hace más de mil años. Las inscripciones permiten fecharla en la <b>primera mitad del siglo IX</b>, en tiempos del reino de Asturias: la tradición la atribuía a <b>Alfonso III</b> (866-910), pero el estudio de sus letras apunta a <b>Alfonso II</b>. Su nombre viene de la expresión latina <b>«fontem calatam»</b>, que alude a una fuente invocada o protegida.</p><p>Es una pequeña construcción de <b>sillería</b>, de unos <b>4 metros de ancho</b>, con tejado a dos aguas y un frontón triangular. Debajo se abre un vano con arco de medio punto y bóveda de cañón que cubre el depósito del agua. En el frontón se talló la <b>Cruz de la Victoria</b> con las letras alfa y omega, y unas inscripciones que piden protección contra el enemigo y contra el «ángel golpeador».</p><p>Es el <b>único ejemplo de su clase</b> que conserva el prerrománico asturiano. Fue restaurada en los años noventa y desde <b>1998</b> es <b>Patrimonio de la Humanidad</b> dentro de «Monumentos de Oviedo y del Reino de Asturias».</p><p class=\"dato\"><span>¿Sabías que…?</span>Se la considera el monumento civil en uso continuado más antiguo de España: lleva más de un milenio dando agua.</p>"
+    },
+    "ver_alli": [
+     "La Cruz de la Victoria grabada en el frontón, con el alfa y la omega colgando de sus brazos.",
+     "El arco de medio punto que da paso al depósito: el agua sigue ahí.",
+     "Las líneas de inscripción del frontón, que piden protección para quien beba."
+    ],
+    "fuentes": [
+     "https://www.turismoasturias.es/es/descubre/cultura/prerromanico/la-foncalada",
+     "https://whc.unesco.org/ES/list/312",
+     "https://es.wikipedia.org/wiki/Fuente_de_Foncalada",
+     "https://www.openstreetmap.org/search?query=Fuente%20de%20Foncalada%20Oviedo"
+    ]
+   }
+  }
+ ],
+ "borrar": [
+  {
+   "id": "fuente-de-foncalada",
+   "en": "foncalada-oviedo"
+  }
+ ]
+}
