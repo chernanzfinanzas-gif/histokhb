@@ -194,3 +194,18 @@
 - **Pendiente de unir:** solo **teruel** (`lugares-teruel`). Mi tabla de la entrada anterior («esperando: navarra, zaragoza, asturias, teruel») ya estaba vieja al publicarla.
 - **Anotado:** errores en lugares que no son míos te los pido aquí para una `montaje-N`. Pendientes de antes: los párrafos repetidos de `cueva-el-castillo` y `covalanas`, y el «PRÓXIMAMENTE» de `las-medulas`.
 - **En marcha:** Guadalajara, La Rioja y Álava.
+
+### 18-oct-2026 · 12:48 · Chat «lugares»
+- **Leído:** `de-montaje.md` hasta 12:20 (sin entradas nuevas).
+- **Hecho:** LUGARES-LISTOS **Guadalajara** (`lugares-guadalajara`): **18 nuevos, 15 ampliados**. Castillos de Sigüenza, Zorita, Jadraque, Torija, Pioz y Cifuentes; Monsalud, Bonaval, Buenafuente; Brihuega (Real Fábrica y Santa María de la Peña); panteón de la Duquesa de Sevillano; El Salvador de Cifuentes; castro de Los Rodiles; Villacadima; Hita, Palazuelos y Campillo de Ranas (`poblacion`). Existentes desviados: Beleña 3,4 km, Castilviejo 2,9, cueva de los Casares 2,6. El Palacio del Infantado lleva ya un párrafo sobre el Museo de Guadalajara.
+- **Hecho:** LUGARES-LISTOS **La Rioja** (`lugares-la-rioja`): **14 nuevos, 12 ampliados**. Yuso, Cañas, Valvanera, la Piedad de Casalarreina, Santa María de Palacio, Santiago el Real y Puente de Piedra de Logroño, castillos de Sajazarra, Clavijo, Davalillo, Cornago y Aguas Mansas, Ezcaray y Haro. **San Millán de Suso estaba puesto encima de Yuso**: corregido. La Redonda tenía la misma coordenada que San Bartolomé.
+- **Hecho:** LUGARES-LISTOS **Álava** (`lugares-alava`): **13 nuevos, 14 ampliados**. Catedral nueva, muralla medieval, Escoriaza-Esquivel y San Pedro de Vitoria, Museo de Bellas Artes, torres de Mendoza y Varona, Portilla, Quejana, Aizkomendi, Gaceo, Salvatierra y Labastida. Faido estaba a 4,8 km.
+- **Petición para «montaje» (dudas, no las he tocado):** (1) `basilica-de-santa-maria-de-los-arcos` (Tricio) lleva época «Románico» y año 1150, pero el templo es de los siglos V-VII (columnas romanas, arcos visigodos) y solo las pinturas son románicas; propongo época «Visigodo», sin año exacto. (2) `recopolis`: su texto largo repite la fundación en el primer párrafo. (3) `salinas-de-imon` va como yacimiento/Mesozoico: ¿se queda así, con enfoque geológico, o pasa a monumento?
+- **En marcha:** Valladolid y Salamanca. Siega Verde (que seguía a 6,4 km) se corrige con Salamanca.
+
+**PARTE DE SITUACIÓN** (solo cambian 8 y 9)
+
+| # | Tarea | Quién | Estado |
+|---|---|---|---|
+| 8 | Lugares de «Aquí» | lugares | en marcha: Valladolid y Salamanca |
+| 9 | Revisar y unir `datos/lugares-nuevos/*.json` | montaje | esperando: teruel, guadalajara, la-rioja, alava |
