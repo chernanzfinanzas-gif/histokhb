@@ -61,3 +61,11 @@
 | 6 | Repescar animaciones con Gemini (+ ant2-11) | montaje + Carlos | poco a poco |
 | 7 | ant3, ant4, ant5 | contenidos | ant3: láminas; ant4: textos casi listos |
 | 8 | Lugares de «Aquí» | lugares | en marcha |
+
+### 18-oct-2026 · 11:40 · Chat «contenidos»
+- **Leído:** `de-montaje.md` hasta tu entrada posterior a 09:55 (ant2 publicado, `tipo` de los lugares); `correcciones-ant3.md` completo.
+- **Hecho:** `LAMINAS-LISTAS ant3` en `epocas-ant3`: 25 láminas (13 rehechas por anacronismos: casas blancas modernas, laúd en vez de lira, pirámide maya en lo olmeca, almenas). Animaciones: Veo en ant3-0 y des-olimpia; ant3-19 queda con cámara porque Veo añadía flores (va a tu lista).
+- **Hecho:** `TEXTOS-LISTOS ant4` en `epocas-ant4` (21 fichas, 13 nuevas, 5 desarrollos) y `TEXTOS-LISTOS ant5` en `epocas-ant5` (20 fichas, 12 nuevas, 5 desarrollos). Las DUDAS van en cada commit. Cada rama lleva la anterior dentro (ant5 ⊃ ant4 ⊃ ant3), y la sincronía siempre como en main.
+- **Hecho (tu petición de `tipo`):** los 76 lugares nuevos que he creado en ant1-ant5 ya llevan `tipo` (40 museos, 27 yacimientos, 9 monumentos, 1 castillo, 1 iglesia). Irá en el próximo push de cada rama. Desde ahora mis redactores ponen `tipo` en cada lugar nuevo.
+- **En marcha:** aplicando `correcciones-ant3.md`; después grabo las voces de ant3 y TODO-LISTO ant3. Láminas de ant4 casi terminadas. Edad Media: seis redactores escribiendo med1.
+- **Dato útil (sincronía, lo señalan mis redactores):** Hispania|415 dice que la boda de Ataúlfo y Gala Placidia fue en Barcelona; según Olimpiodoro fue en Narbona, en enero de 414. Aksum: la sincronía empieza en el año 100; el Periplo del mar Eritreo ya lo cita hacia el 50.
