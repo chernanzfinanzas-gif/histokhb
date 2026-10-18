@@ -3427,6 +3427,106 @@
    "voz_g": "Leda",
    "p": 672,
    "voz_p": "Leda"
+  },
+  "des-normandia": {
+   "viva": "img/vivas/des-normandia.mp4",
+   "viva_tipo": "veo"
+  },
+  "con3-11": {
+   "viva": "img/vivas/con3-11.mp4",
+   "viva_tipo": "veo"
+  },
+  "des-hiroshima": {
+   "viva": "img/vivas/des-hiroshima.mp4",
+   "viva_tipo": "veo"
+  },
+  "con3-0": {
+   "viva": "img/vivas/con3-0.mp4",
+   "viva_tipo": "camara"
+  },
+  "con3-1": {
+   "viva": "img/vivas/con3-1.mp4",
+   "viva_tipo": "camara"
+  },
+  "con3-10": {
+   "viva": "img/vivas/con3-10.mp4",
+   "viva_tipo": "camara"
+  },
+  "con3-12": {
+   "viva": "img/vivas/con3-12.mp4",
+   "viva_tipo": "camara"
+  },
+  "con3-13": {
+   "viva": "img/vivas/con3-13.mp4",
+   "viva_tipo": "camara"
+  },
+  "con3-14": {
+   "viva": "img/vivas/con3-14.mp4",
+   "viva_tipo": "camara"
+  },
+  "con3-15": {
+   "viva": "img/vivas/con3-15.mp4",
+   "viva_tipo": "camara"
+  },
+  "con3-16": {
+   "viva": "img/vivas/con3-16.mp4",
+   "viva_tipo": "camara"
+  },
+  "con3-17": {
+   "viva": "img/vivas/con3-17.mp4",
+   "viva_tipo": "camara"
+  },
+  "con3-18": {
+   "viva": "img/vivas/con3-18.mp4",
+   "viva_tipo": "camara"
+  },
+  "con3-19": {
+   "viva": "img/vivas/con3-19.mp4",
+   "viva_tipo": "camara"
+  },
+  "con3-2": {
+   "viva": "img/vivas/con3-2.mp4",
+   "viva_tipo": "camara"
+  },
+  "con3-3": {
+   "viva": "img/vivas/con3-3.mp4",
+   "viva_tipo": "camara"
+  },
+  "con3-4": {
+   "viva": "img/vivas/con3-4.mp4",
+   "viva_tipo": "camara"
+  },
+  "con3-5": {
+   "viva": "img/vivas/con3-5.mp4",
+   "viva_tipo": "camara"
+  },
+  "con3-6": {
+   "viva": "img/vivas/con3-6.mp4",
+   "viva_tipo": "camara"
+  },
+  "con3-7": {
+   "viva": "img/vivas/con3-7.mp4",
+   "viva_tipo": "camara"
+  },
+  "con3-8": {
+   "viva": "img/vivas/con3-8.mp4",
+   "viva_tipo": "camara"
+  },
+  "con3-9": {
+   "viva": "img/vivas/con3-9.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-auschwitz": {
+   "viva": "img/vivas/des-auschwitz.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-guernica": {
+   "viva": "img/vivas/des-guernica.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-verdun": {
+   "viva": "img/vivas/des-verdun.mp4",
+   "viva_tipo": "camara"
   }
  }
 }
