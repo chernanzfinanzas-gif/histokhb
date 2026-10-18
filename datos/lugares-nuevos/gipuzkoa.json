@@ -1,0 +1,543 @@
+{
+ "zona": "Gipuzkoa",
+ "nuevos": [
+  {
+   "id": "iglesia-de-san-salvador-getaria",
+   "nombre": "Iglesia de San Salvador de Getaria",
+   "provincia": "Gipuzkoa",
+   "comarca": "Getaria",
+   "lat": 43.3045,
+   "lon": -2.2035,
+   "tipo": "iglesia",
+   "estilo": "Gótico",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>En lo alto de la calle Mayor de Getaria se alza esta iglesia <b>gótica</b>, declarada Monumento Nacional. Existía al menos en el siglo XIV, aunque la mayor parte se levantó entre los siglos XVI y XVIII. Las guerras carlistas la dañaron y hubo que repararla en el XIX.</p><p>Aquí se reunieron en <b>1397</b> las primeras <b>Juntas Generales de Gipuzkoa</b>. Y probablemente aquí se bautizó el navegante <b>Juan Sebastián Elcano</b>.</p><p>El terreno manda en su interior: el presbiterio está elevado y hay distintos niveles. Bajo el ábside pasa el <b>pasadizo de Katrapona</b>, que une el casco viejo con el puerto pesquero.</p>"
+   },
+   "ver_alli": [
+    "Los distintos niveles del interior y el presbiterio elevado.",
+    "El pasadizo de Katrapona, bajo el ábside, camino del puerto.",
+    "La calle Mayor que sube hasta la iglesia."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Salvador_(Guetaria)",
+    "https://www.openstreetmap.org/way/60206096",
+    "https://www.google.com/maps/place/?q=place_id:ChIJVQakaJ_IUQ0RTcmlVL57b_k"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santuario-de-arantzazu",
+   "nombre": "Santuario de Arantzazu",
+   "provincia": "Gipuzkoa",
+   "comarca": "Oñati",
+   "lat": 42.9791,
+   "lon": -2.3985,
+   "tipo": "iglesia",
+   "estilo": "Arquitectura moderna con arte vasco contemporáneo",
+   "epoca": "Siglo XX",
+   "anio": 1969,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>A unos 750 metros de altitud, en Oñati, cuenta la tradición que hacia <b>1468</b> el pastor Rodrigo de Balzategui encontró una imagen de la Virgen en un espino; de ahí el nombre, de <i>arantza</i>, espino. Los franciscanos cuidan el santuario desde 1514, y la Virgen es patrona de Gipuzkoa desde 1918. Los incendios de 1553, 1622 y 1834 obligaron a rehacerlo varias veces.</p><p>La basílica actual, de los años cincuenta, es de <b>Francisco Javier Sáenz de Oiza y Luis Laorga</b>, y reunió a los grandes artistas vascos: <b>Jorge Oteiza</b> hizo el friso de los apóstoles de la fachada, <b>Eduardo Chillida</b> las puertas de hierro, Lucio Muñoz el ábside y Néstor Basterretxea las pinturas de la cripta.</p><p>Tanta modernidad escandalizó: en 1955 una comisión eclesiástica paralizó las obras, que se retomaron tras el Concilio Vaticano II; se consagró en 1969. Sus torres, talladas en puntas de diamante, evocan las espinas del espino; el campanario mide 44 metros.</p>"
+   },
+   "ver_alli": [
+    "El friso de los apóstoles de Oteiza en la fachada.",
+    "Las puertas de hierro de Chillida.",
+    "El gran ábside de Lucio Muñoz y la pequeña Virgen gótica, de unos 36 cm.",
+    "Las pinturas de Basterretxea en la cripta."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Santuario_de_Arantzazu",
+    "https://www.openstreetmap.org/way/45344404",
+    "https://www.google.com/maps/place/?q=place_id:ChIJkyCxM5QoUA0R77bS5TloDSE"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-la-mota-urgull",
+   "nombre": "Castillo de la Mota y monte Urgull",
+   "provincia": "Gipuzkoa",
+   "comarca": "Donostia / San Sebastián",
+   "lat": 43.325,
+   "lon": -1.9889,
+   "tipo": "castillo",
+   "estilo": "Fortaleza medieval reformada en los siglos XVI y XVII",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1194,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>En la cima del monte <b>Urgull</b>, a unos 120 metros sobre la Parte Vieja de San Sebastián, el rey <b>Sancho VII el Fuerte</b> de Navarra mandó levantar en 1194 las murallas y el castillo de la Mota.</p><p>En el siglo XVI se le añadieron cubos artilleros. En 1688 un rayo provocó un incendio y Hércules Torrelli dirigió la reconstrucción; las reformas de Tiburcio Spanochi le dieron una forma cercana a la actual. En 1813, durante la guerra contra Napoleón, las tropas angloportuguesas de Wellington incendiaron la ciudad el 31 de agosto, y la guarnición francesa del castillo resistió bajo las bombas hasta rendirse el 8 de septiembre.</p><p>En 1921 la ciudad compró el monte al ejército y lo convirtió en parque. Desde 1950 corona el castillo una gran estatua del <b>Sagrado Corazón</b>.</p>"
+   },
+   "ver_alli": [
+    "Sube a pie desde la Parte Vieja entre el bosque y las antiguas baterías.",
+    "La terraza del castillo, con vistas sobre la bahía de La Concha.",
+    "La estatua del Sagrado Corazón que corona el monte."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_la_Mota_(San_Sebasti%C3%A1n)",
+    "https://www.openstreetmap.org/way/28156564",
+    "https://www.google.com/maps/place/?q=place_id:ChIJk3iOOrO6UQ0RO67EdPc5KP8"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "basilica-de-santa-maria-del-coro",
+   "nombre": "Basílica de Santa María del Coro",
+   "provincia": "Gipuzkoa",
+   "comarca": "Donostia / San Sebastián",
+   "lat": 43.324,
+   "lon": -1.9867,
+   "tipo": "iglesia",
+   "estilo": "Barroco, con elementos churriguerescos",
+   "epoca": "Barroco",
+   "anio": 1743,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>Al pie del monte Urgull, en la Parte Vieja de San Sebastián, se reconstruyó entre <b>1743 y 1774</b>, tras la explosión de 1688, según proyecto de Pedro Ignacio Lizardi y Miguel de Salazar. Es un templo <b>barroco</b> con detalles góticos, churriguerescos y neoclásicos.</p><p>Su <b>portada</b> barroca, con toques rococó, está coronada por la figura de San Sebastián martirizado. La fachada se alinea con la catedral del Buen Pastor al otro extremo de la calle Mayor: desde su puerta se ve la catedral al fondo.</p><p>Está dedicada a la <b>Virgen del Coro</b>, patrona de la ciudad junto con San Sebastián, y el 12 de febrero de 1973 recibió el título de basílica menor.</p>"
+   },
+   "ver_alli": [
+    "La portada barroca con San Sebastián en lo alto.",
+    "Desde la puerta, la vista de la calle Mayor con la catedral del Buen Pastor al fondo.",
+    "El altar de la Virgen del Coro."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_Santa_Mar%C3%ADa_del_Coro",
+    "https://www.openstreetmap.org/way/27263141",
+    "https://www.google.com/maps/place/?q=place_id:ChIJrSaC002lUQ0Rnize-8TrLts"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "chillida-leku",
+   "nombre": "Museo Chillida Leku",
+   "provincia": "Gipuzkoa",
+   "comarca": "Hernani",
+   "lat": 43.2783,
+   "lon": -2.0007,
+   "tipo": "museo",
+   "estilo": "Museo-jardín de escultura y caserío del siglo XVI",
+   "epoca": "Siglo XX",
+   "anio": 2000,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>El escultor donostiarra <b>Eduardo Chillida</b> encontró en ruinas el caserío <b>Zabalaga</b>, del siglo XVI, en Hernani, y lo restauró con el arquitecto Joaquín Montero. A su alrededor creó un jardín de unas <b>13 hectáreas</b> de prados y bosque para sus obras. Abrió el <b>16 de septiembre de 2000</b>.</p><p>Al aire libre hay unas <b>40 esculturas</b>, sobre todo de acero y de granito rosa. Entre las más grandes, «Buscando la luz», de 8 metros y 22 toneladas, y «Lotura XXXII», de 64 toneladas.</p><p>La crisis lo cerró el 31 de diciembre de 2010, y reabrió el 17 de abril de 2019 de la mano de la galería suiza Hauser &amp; Wirth. Ese año la revista <i>Time</i> lo incluyó, como único lugar español, entre sus «mejores lugares del mundo».</p>"
+   },
+   "ver_alli": [
+    "Pasea entre las esculturas de acero y granito repartidas por el prado.",
+    "«Buscando la luz», la gran escultura de acero de 8 metros.",
+    "El caserío Zabalaga, restaurado por Chillida."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Chillida_Leku",
+    "https://www.openstreetmap.org/way/34767269",
+    "https://www.google.com/maps/place/?q=place_id:ChIJr8Tm1DOwUQ0RiuJDb68a9-w"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "real-seminario-de-bergara",
+   "nombre": "Real Seminario de Bergara",
+   "provincia": "Gipuzkoa",
+   "comarca": "Bergara",
+   "lat": 43.1176,
+   "lon": -2.4135,
+   "tipo": "monumento",
+   "estilo": "Antiguo colegio jesuita de 1593",
+   "epoca": "Ilustración y Neoclásico",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>El edificio se levantó en <b>1593</b> como casa y colegio de los jesuitas. Entre 1769 y 1804 fue la sede de la <b>Real Sociedad Bascongada de Amigos del País</b>, la gran institución de la Ilustración vasca, y del Real Seminario.</p><p>En sus laboratorios los hermanos <b>Elhuyar</b> aislaron en <b>1783</b> un nuevo elemento químico, el <b>wolframio</b>, también llamado tungsteno.</p><p>Después acogió una de las primeras Escuelas Industriales del país, hacia 1851, y un colegio de dominicos hasta 1972. Desde 1976 es centro de la UNED. En Bergara, el museo <b>Laboratorium</b> conserva el legado de los Elhuyar, con instrumentos científicos antiguos y un jardín botánico del siglo XIX; en 2018 la Sociedad Europea de Física lo declaró sitio histórico.</p>"
+   },
+   "ver_alli": [
+    "La fachada del antiguo colegio en la plaza de San Martín de Agirre.",
+    "El museo Laboratorium, con los instrumentos científicos de la época de los Elhuyar.",
+    "El casco histórico de Bergara alrededor del seminario."
+   ],
+   "fuentes": [
+    "https://www.uned.es/universidad/centros/bergara/centro/historia.html",
+    "https://www.epsnews.eu/2018/12/eps-historic-site-the-laboratorium-in-bergara/",
+    "https://www.openstreetmap.org/way/1317811550",
+    "https://www.google.com/maps/place/?q=place_id:ChIJS_SOVAQrUA0RkydrL2utPDA"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "segura",
+   "nombre": "Segura",
+   "provincia": "Gipuzkoa",
+   "comarca": "Segura (Goierri)",
+   "lat": 43.01,
+   "lon": -2.2528,
+   "tipo": "poblacion",
+   "estilo": "Villa medieval amurallada",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1256,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>El rey <b>Alfonso X</b> fundó Segura en <b>1256</b> como villa amurallada para vigilar el camino entre Castilla y Francia por el paso de San Adrián; de esa función defensiva le viene el nombre. Su calle Mayor sigue el antiguo Camino Real.</p><p>Su casco medieval se considera el mejor conservado de Gipuzkoa y es conjunto histórico-artístico. Destacan la <b>casa Ardixarra</b>, del siglo XVI, con estructura de madera y hoy centro de interpretación medieval; el palacio Lardizabal, del XVII, que es el ayuntamiento; la casa solar de Arrue, con galería mudéjar, y la casa de Guevara, de la Baja Edad Media.</p><p>La iglesia de la <b>Asunción</b>, gótica del siglo XIV, guarda un retablo churrigueresco trazado por Miguel de Irazusta con esculturas de Luis Salvador Carmona.</p>"
+   },
+   "ver_alli": [
+    "La casa Ardixarra y su estructura de madera, en la calle Mayor.",
+    "El retablo churrigueresco de la iglesia de la Asunción.",
+    "La galería mudéjar de la casa de Arrue y el palacio Lardizabal."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Segura_(Gu%C3%ADp%C3%BAzcoa)",
+    "https://www.openstreetmap.org/way/389866951",
+    "https://www.google.com/maps/place/?q=place_id:ChIJY98I0ZEwUA0RuqHcnUbXotI"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "pasai-donibane",
+   "nombre": "Pasai Donibane (Pasajes de San Juan)",
+   "provincia": "Gipuzkoa",
+   "comarca": "Pasaia",
+   "lat": 43.3258,
+   "lon": -1.9199,
+   "tipo": "poblacion",
+   "estilo": "Pueblo marinero de una sola calle",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>En la orilla oriental de la bocana del puerto de Pasaia, apretado entre el monte y el agua, el barrio de <b>San Juan</b> (Donibane) se estira a lo largo de una sola calle, <b>Donibane Kalea</b>. Fue un pueblo pesquero independiente hasta que en 1805 se unió con San Pedro, en la otra orilla, para formar el municipio de Pasaia.</p><p>De aquí zarpó en <b>1777</b> el marqués de <b>La Fayette</b> rumbo a América, y en <b>1843</b> se alojó en el pueblo <b>Victor Hugo</b>.</p><p>Junto a la iglesia de San Juan Bautista y la ermita de Santa Ana, la factoría marítima <b>Albaola</b> construye una réplica del ballenero San Juan, una nao del siglo XVI. Unas pequeñas motoras cruzan la bocana hasta San Pedro.</p>"
+   },
+   "ver_alli": [
+    "Recorre Donibane Kalea, la calle única del pueblo.",
+    "La casa donde se alojó Victor Hugo.",
+    "La factoría Albaola y la réplica del ballenero San Juan.",
+    "Cruza a San Pedro en la motora."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Pasajes_de_San_Juan",
+    "https://www.openstreetmap.org/way/211052973",
+    "https://www.google.com/maps/place/?q=place_id:ChIJvQMvfO-lUQ0Rg1Mimr_syxc"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "tolosa",
+   "nombre": "Tolosa",
+   "provincia": "Gipuzkoa",
+   "comarca": "Tolosa",
+   "lat": 43.1382,
+   "lon": -2.0711,
+   "tipo": "poblacion",
+   "estilo": "Casco histórico medieval y barroco",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1256,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>El rey <b>Alfonso X</b> dio carta puebla a Tolosa en <b>1256</b> y le puso el nombre de la ciudad francesa de Toulouse. El casco antiguo nació sobre una isla del río Oria y estuvo amurallado, con seis puertas fortificadas. A mediados del siglo XIX fue por un tiempo capital de Gipuzkoa.</p><p>El punto de la app está en la iglesia de <b>Santa María</b>. Tras un incendio en 1503, se reanudaron las obras en 1548 y se levantó una iglesia de tres naves altas en el llamado <b>gótico vasco</b>. En 1761 Martín de Carrera le añadió la gran <b>fachada barroca</b>, con espadaña central y dos torres, y en el siglo XIX Silvestre Pérez le dio retoques neoclásicos.</p><p>Alrededor quedan el ayuntamiento barroco (1657-1672), los palacios de Aranburu y Atodo, el mercado del Zerkausi y el mercado de los sábados, donde los caseros de la comarca venden sus productos.</p>"
+   },
+   "ver_alli": [
+    "La fachada barroca de Santa María y sus tres naves altas.",
+    "El ayuntamiento barroco y los palacios del casco.",
+    "El mercado de los sábados en el Tinglado y las plazas."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Tolosa,_Spain",
+    "https://turismo.euskadi.eus/es/localidades/tolosa/webtur00-content/es/",
+    "https://www.openstreetmap.org/way/40129052",
+    "https://www.google.com/maps/place/?q=place_id:ChIJqYC5211LUA0RynNsm1nlH6c"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-santa-maria-de-deba",
+   "nombre": "Iglesia de Santa María de Deba",
+   "provincia": "Gipuzkoa",
+   "comarca": "Deba",
+   "lat": 43.2948,
+   "lon": -2.3533,
+   "tipo": "iglesia",
+   "estilo": "Gótico",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>En la plaza Vieja de Deba se levanta una gran iglesia gótica, empezada en el siglo XV y terminada en el XVII. Está declarada Bien de Interés Cultural desde 1931.</p><p>Su <b>portada gótica</b>, con figuras de rica policromía, se protege bajo el pórtico, sobre el que se alza la torre. Junto a la iglesia, su <b>claustro gótico</b> fue el primero de este tipo en Gipuzkoa.</p><p>Dentro, tres naves con bóvedas de crucería y capillas entre los contrafuertes. El retablo mayor, dedicado a la Asunción, lo hizo Bernabé Cordero en 1662 y lo montó Pedro de Alloitiz en 1668; la sacristía tiene cajonerías barrocas de Francisco de Ibero.</p>"
+   },
+   "ver_alli": [
+    "La portada gótica policromada, bajo el pórtico.",
+    "El claustro gótico, el primero de Gipuzkoa.",
+    "El retablo mayor de la Asunción."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_(Deva)",
+    "https://www.openstreetmap.org/way/42177947",
+    "https://www.google.com/maps/place/?q=place_id:ChIJgSrha5DQUQ0RRAP_n8lC-a8"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "ekain",
+   "campos": {
+    "lat": 43.2361,
+    "lon": -2.2757,
+    "comarca": "Deba (réplica en Zestoa)",
+    "estilo": "Arte rupestre magdaleniense",
+    "texto": {
+     "general": "<p>La entrada de la cueva de <b>Ekain</b>, en Deba, la encontraron el 1 de junio de 1969 Rafael Rezabal y Andoni Albizuri, de la sociedad Antxieta de Azpeitia. Una semana después entraron y vieron las pinturas. José Miguel de Barandiarán y Jesús Altuna la excavaron entre 1969 y 1975.</p><p>Tiene unas <b>70 figuras</b>, la mayoría pintadas, y casi seis de cada diez son <b>caballos</b>: unos cuarenta, considerados de los más bellos del arte magdaleniense del Cantábrico. Son del <b>Magdaleniense</b>, al final del Paleolítico superior; uno de los niveles del yacimiento está fechado hace unos 12.000 años.</p><p>Es <b>Patrimonio de la Humanidad</b> desde 2008 y está cerrada para protegerla. A unos 600 metros, a la entrada del valle de Sastarrain, en Zestoa, se construyó <b>Ekainberri</b>, una réplica exacta de sus salas principales. Muy cerca, en Aia, la cueva de <b>Altxerri</b>, con grabados y pinturas paleolíticas, también es Patrimonio de la Humanidad y está cerrada al público.</p>"
+    },
+    "ver_alli": [
+     "Ekainberri, la réplica, a unos 700 metros de la cueva original.",
+     "El panel de los caballos, el gran tesoro de Ekain.",
+     "El paseo por el valle de Sastarrain hasta la boca de la cueva verdadera."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Cueva_de_Ekain",
+     "https://www.openstreetmap.org/node/662563603",
+     "https://www.google.com/maps/place/?q=place_id:ChIJD1uEcI7PUQ0R5FgpkUuZXuU",
+     "https://www.google.com/maps/place/?q=place_id:ChIJOVAQFwDPUQ0Roet7wngniqE"
+    ]
+   }
+  },
+  {
+   "id": "elosua-plazentzia",
+   "campos": {
+    "lat": 43.1532,
+    "lon": -2.3625,
+    "estilo": "Megalitismo (dólmenes, túmulos y menhir)",
+    "texto": {
+     "general": "<p>Diecinueve monumentos megalíticos —dólmenes, cistas, túmulos y un menhir— jalonan el cordal entre Elgoibar, Azkoitia, Antzuola, Soraluze y Bergara. Se levantaron entre el 4000 y el 1500 a. C., del Neolítico a la Edad del Bronce. La mayoría los identificó <b>José Miguel de Barandiarán</b> en 1920 y 1921, y los excavó con Telesforo de Aranzadi y Enrique Eguren. Desde 2003 forman un <b>conjunto monumental</b> protegido.</p><p>El punto de la app está en el dolmen de <b>Agirreburu</b> (Agerreburu), en Bergara, a 840 metros de altitud: el único del conjunto que se ha podido reconstruir por completo. Tiene un túmulo de 11,5 metros de diámetro, es del Calcolítico y la Edad del Bronce, y aunque estaba saqueado dio huesos humanos, cerámica y hachas de piedra pulida en la excavación de 2019; se restauró en 2020.</p>"
+    },
+    "ver_alli": [
+     "El dolmen de Agirreburu, junto a la pista de Elosua a las antenas.",
+     "El menhir de Arribiribilleta y los dólmenes de la ruta PR-GI 94, de unos 20 km.",
+     "Las vistas del cordal entre los valles del Deba y del Urola."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Ruta_de_los_D%C3%B3lmenes",
+     "https://www.aranzadi.eus/assets/megalitos//2_AGERREBURU/AGERREBURU.pdf",
+     "https://debabarrenaturismo.com/en/the-dolmen-trail/dolmens/18-agirreburu",
+     "https://www.openstreetmap.org/node/3334409150"
+    ]
+   }
+  },
+  {
+   "id": "basagain",
+   "campos": {
+    "lat": 43.172,
+    "lon": -2.0782,
+    "estilo": "Poblado fortificado de la Edad del Hierro",
+    "texto": {
+     "general": "<p>En lo alto del monte Basagain, sobre el valle del Oria en Anoeta, hubo un <b>poblado amurallado</b> de la Segunda Edad del Hierro, habitado en los siglos IV a II a. C. y quizá hasta el comienzo de nuestra era. Lo excavan desde hace unos 25 años <b>Xabier Peñalver</b> y Eloísa Uribarri.</p><p>Ha dado restos de forja (herramientas, armas, adornos y escorias), una pulsera y cuentas de collar de vidrio, cerámica, semillas y decenas de losas de piedra grabadas. Unas estelas decoradas alineadas marcarían quizá una entrada del recinto.</p><p>La pieza más famosa es una losa de arenisca de unos 36 por 30 centímetros: sus líneas y bandas podrían ser un <b>plano del poblado</b>, con una calle central y casas a ambos lados. Si es así, sería el plano urbano más antiguo conocido de la península; otra lectura ve en él parcelas de cultivo.</p>"
+    },
+    "ver_alli": [
+     "Sube por la ruta señalizada desde Anoeta, con paneles explicativos.",
+     "Las excavaciones están tapadas para protegerlas, pero los paneles muestran cómo era el poblado.",
+     "Desde la cima, vistas del valle del Oria y del Txindoki."
+    ],
+    "fuentes": [
+     "https://www.anoeta.eus/files/documents/2024/275387b5e427b29a89253a468eab1814basagain-bi-aroren-arteko-herrixkapdf.pdf",
+     "https://www.euskadi.eus/gobierno-vasco/-/noticia/2018071607533683/hallazgo-de-un-posible-primer-plano-urbano-vasco-de-la-prehistoria-en-basagain/kulturklik/es/",
+     "https://www.openstreetmap.org/node/1249952957",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ_wpAD8a1UQ0RYAlbTU1rECM"
+    ]
+   }
+  },
+  {
+   "id": "oiasso",
+   "campos": {
+    "lat": 43.34,
+    "lon": -1.7878,
+    "estilo": "Antiguas escuelas del siglo XIX",
+    "texto": {
+     "general": "<p><b>Oiasso</b> fue la ciudad portuaria de los vascones en la desembocadura del Bidasoa, en la frontera entre Hispania y Aquitania. Vivió su esplendor en el siglo II, decayó en los siglos III y IV y en el V ya no deja rastro arqueológico.</p><p>El museo abrió el <b>20 de julio de 2006</b> en las antiguas escuelas públicas de Irun, del siglo XIX. En la primera planta explica el encuentro entre los indígenas y Roma; en la segunda, el <b>puerto</b> y la vida en la ciudad, con restos del muelle de madera, aparejos de pesca, monedas, calzado de cuero, peines y una maqueta del asentamiento.</p><p>Detrás del museo aparecieron en 2005 las <b>termas</b>, con sus salas calientes y frías. A unos 500 metros, la ermita de <b>Santa Elena</b> guarda la necrópolis de Oiasso, hallada en 1971: 106 urnas de cenizas y restos de tres mausoleos, usados del siglo I al IV.</p>"
+    },
+    "ver_alli": [
+     "Los restos del muelle romano de madera y los objetos del puerto.",
+     "La maqueta de la ciudad romana.",
+     "Las termas, junto al museo.",
+     "La necrópolis bajo la ermita de Santa Elena, a unos 500 metros."
+    ],
+    "fuentes": [
+     "https://turismo.euskadi.eus/es/museos/museo-romano-oiasso/webtur00-content/es/",
+     "https://oiasso.com/images/El_museo_Oiasso_de_Irun_MAN.pdf",
+     "https://www.guide-du-paysbasque.com/es/turismo/descubrir/lugares-turisticos/museos/irun-383/museo-oiasso-irun-3168.html",
+     "https://www.ondavasca.com/la-ermita-de-santa-elena-en-irun-abre-sus-puertas-al-publico-para-explorar-su-yacimiento-arqueologico/",
+     "https://www.openstreetmap.org/way/156152686",
+     "https://www.google.com/maps/place/?q=place_id:ChIJTxxaTPEIUQ0R1Pff60PSp8A"
+    ]
+   }
+  },
+  {
+   "id": "arditurri",
+   "campos": {
+    "lat": 43.2839,
+    "lon": -1.8052,
+    "estilo": "Minería romana e industrial",
+    "texto": {
+     "general": "<p>En las faldas de Peñas de Aia, en Oiartzun, se sacaron plata, plomo, hierro, zinc y fluorita durante casi dos mil años. Los <b>romanos</b> las explotaron en el siglo I d. C.: extraían galena argentífera para obtener plomo y plata, que salían por mar desde Oiasso o por la calzada.</p><p>Las galerías romanas son estrechas y abovedadas, picadas a mano, con huecos para las lámparas y escalones en el suelo. Destaca un <b>cuniculus</b>, un canal subterráneo para desaguar las galerías.</p><p>En el siglo XX la Compañía Real Asturiana de Minas explotó plomo, plata, fluorita y blenda hasta el <b>13 de noviembre de 1984</b>. El antiguo tren minero es hoy una vía verde, y en los viejos laboratorios hay un centro de interpretación.</p>"
+    },
+    "ver_alli": [
+     "La Mina Grande, con unos 800 metros de galería visitables.",
+     "Las galerías romanas de Santa Bárbara, abiertas en 2015.",
+     "La vía verde del antiguo tren minero, a pie o en bici."
+    ],
+    "fuentes": [
+     "https://turismo.euskadi.eus/es/patrimonio-cultural/minas-de-arditurri/webtur00-content/es/",
+     "https://es.hispanopedia.com/wiki/Arditurri",
+     "https://www.openstreetmap.org/way/208456629",
+     "https://www.google.com/maps/place/?q=place_id:ChIJBVHeL7UHUQ0ROAxLfEbgfIQ"
+    ]
+   }
+  },
+  {
+   "id": "hondarribia",
+   "campos": {
+    "lat": 43.3636,
+    "lon": -1.7911,
+    "estilo": "Casco amurallado medieval y moderno",
+    "texto": {
+     "general": "<p>Frente a Hendaya, en la desembocadura del Bidasoa, Hondarribia recibió del rey Alfonso VIII su <b>carta puebla en 1203</b>, con el fuero de San Sebastián, aunque ya se la cita en 1180. Su casco histórico, rodeado de murallas sobre todo de los siglos XVI y XVII, con las puertas de Santa María y San Nicolás, es conjunto monumental.</p><p>En lo alto está el <b>castillo de Carlos V</b>, una fortaleza medieval ampliada en tiempos del emperador y hoy Parador de Turismo. Al lado, la iglesia de <b>Santa María</b>, empezada en 1474 y consagrada en 1549, con torre barroca de comienzos del siglo XVIII.</p><p>En <b>1638</b> la villa resistió el asedio de las tropas francesas de Luis XIII, lo que le valió el título de «muy noble, muy leal, muy valerosa y muy siempre fiel». Cada 8 de septiembre el <b>Alarde</b> renueva el voto a la Virgen de Guadalupe. Fuera de las murallas, el barrio de pescadores de La Marina luce sus casas de colores.</p>"
+    },
+    "ver_alli": [
+     "La plaza de Armas y la fachada maciza del castillo de Carlos V.",
+     "La calle Mayor, que sube hasta la plaza de Armas.",
+     "La iglesia de Santa María y su torre barroca.",
+     "El barrio de La Marina, con sus balcones pintados."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Fuenterrab%C3%ADa",
+     "https://www.openstreetmap.org/relation/3323973",
+     "https://www.google.com/maps/place/?q=place_id:ChIJWTck3wcJUQ0ROG8QLnOjJJM"
+    ]
+   }
+  },
+  {
+   "id": "santuario-de-loyola",
+   "campos": {
+    "lat": 43.1743,
+    "lon": -2.2827,
+    "estilo": "Barroco (churrigueresco en pórtico e interior)",
+    "texto": {
+     "general": "<p>En Loiola, en Azpeitia, la casa torre de los Loyola, donde nació <b>Ignacio</b> en 1491, quedó envuelta por un enorme santuario. La primera piedra se colocó en <b>1689</b> según el proyecto del italiano <b>Carlo Fontana</b>, discípulo de Bernini, y la basílica se inauguró el 31 de julio de 1738.</p><p>La <b>cúpula</b> mide 50 metros y, con su linterna de 15, alcanza unos <b>65 metros</b>; se ve desde todo el valle del Urola. Unos 600 canteros labraron la piedra del cercano monte Izarraitz. La fachada, de unos 150 metros, corresponde al antiguo Real Colegio, con la basílica en el centro y un pórtico de tres vanos con escalinata.</p><p>La <b>Santa Casa</b>, la casa natal de los siglos XIV y XV, con la parte baja de piedra y la alta de ladrillo, se conserva en un ala del conjunto y es el corazón del santuario.</p>"
+    },
+    "ver_alli": [
+     "La cúpula, por dentro y desde el exterior.",
+     "El pórtico barroco con la escalinata y las estatuas de santos.",
+     "La Santa Casa, la casa natal de san Ignacio."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Santuario_de_Loyola",
+     "https://www.escapadarural.com/blog/vaticano-vasco-santuario-loiola-san-ignacio-azpeitia/",
+     "https://www.openstreetmap.org/relation/5562813",
+     "https://www.google.com/maps/place/?q=place_id:ChIJbw8k3xTNUQ0RY6PVNWPBcnU"
+    ]
+   }
+  },
+  {
+   "id": "universidad-de-onati",
+   "campos": {
+    "lat": 43.034,
+    "lon": -2.4152,
+    "estilo": "Plateresco",
+    "texto": {
+     "general": "<p>El obispo y humanista <b>Rodrigo Mercado de Zuazola</b>, natural de Oñati, fundó la universidad de <b>Sancti Spiritus</b> en 1540, con bula del papa Paulo III. Las obras empezaron en 1543 y fue la primera universidad del País Vasco.</p><p>Su <b>fachada plateresca</b>, de hacia 1546, es obra de Pierre Picart y está llena de esculturas. Dentro, el patio cuadrado tiene doble arquería de medio punto y una escultura de Jorge Oteiza, «La Tierra y la Luna».</p><p>Cerró en 1842, volvió a abrir en la Tercera Guerra Carlista y entre 1895 y 1901, y cerró definitivamente en <b>1901</b>. Desde 1989 alberga el Instituto Internacional de Sociología Jurídica.</p>"
+    },
+    "ver_alli": [
+     "La fachada plateresca y sus esculturas.",
+     "El patio con su doble arquería.",
+     "La escultura de Oteiza en el centro del patio.",
+     "Las visitas guiadas salen de la oficina de turismo, enfrente."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Universidad_de_O%C3%B1ate",
+     "https://www.openstreetmap.org/relation/8207366",
+     "https://www.google.com/maps/place/?q=place_id:ChIJa5YeGgIpUA0RcQoOT9aHVW4"
+    ]
+   }
+  },
+  {
+   "id": "zumaia-flysch-kpg",
+   "campos": {
+    "lat": 43.2994,
+    "lon": -2.2677,
+    "estilo": "Flysch (capas sedimentarias marinas)",
+    "ver_alli": [
+     "Georruta de Algorri: desde la ermita de San Telmo, sobre la playa de Itzurun, hay unos 500 metros a pie hasta la cala.",
+     "Paseos en barco desde el puerto para ver el flysch desde el mar.",
+     "El centro Algorri está cerrado mientras se construye un nuevo museo; en verano hay punto de información en Zumaia."
+    ],
+    "fuentes": [
+     "https://geoparkea.eus/site_media/pdf/1_GEORUTA_ALGORRI_ES.pdf",
+     "https://geoparkea.eus/en/what-see/museums-and-interpretation-centres",
+     "https://www.openstreetmap.org/node/12000530090",
+     "https://www.google.com/maps/place/?q=place_id:ChIJVVVV-XjPUQ0RQ4j-lCdJ_7I"
+    ]
+   }
+  },
+  {
+   "id": "elgea-artia",
+   "campos": {
+    "lat": 42.964,
+    "lon": -2.5112,
+    "estilo": "Megalitismo (dólmenes, túmulos y menhires)",
+    "texto": {
+     "general": "<p>La sierra de Elgea, que separa Gipuzkoa de Álava, guarda una estación megalítica de <b>nueve monumentos</b>: los dólmenes de Artaso, Elgea I y Urkitzako Lepoa, los túmulos de Alabitarte, Elgea II, Gallerdi e Isikoaitza, y los menhires de Mugarriaundi y Mugarriluze. Todos están catalogados en municipios guipuzcoanos (Eskoriatza, Leintz-Gatzaga y Oñati) y desde 2003 forman un <b>conjunto monumental</b>.</p><p>El punto de la app está en el <b>menhir de Mugarriluze</b>, junto a la cima del mismo nombre, a unos 1.109 metros, justo en la raya entre los dos territorios: la piedra ha servido de mojón y da nombre al monte (en euskera, «mojón largo»). Se le atribuye una edad entre el Neolítico y la Edad del Bronce.</p>"
+    },
+    "ver_alli": [
+     "El menhir de Mugarriluze, en la cima, sobre la raya entre Gipuzkoa y Álava.",
+     "Las vistas del embalse de Ullibarri y de la Llanada alavesa.",
+     "El dolmen de Artaso, en la parte de Oñati, accesible por la ruta PR-Gi 3014."
+    ],
+    "fuentes": [
+     "https://www.euskadi.eus/estacion-megalitica-elgea-artia-orkatzategi-y-kurutzeberri/web01-a2kulonv/es/",
+     "https://www.euskadi.eus/y22-bopv/eu/bopv2/datos/2003/07/0303997e.shtml",
+     "https://es.hispanopedia.com/wiki/Sierra_de_Elguea",
+     "https://www.google.com/maps/place/?q=place_id:ChIJWRZnwLrZTw0RZ5_E5qYuukM",
+     "https://www.openstreetmap.org/node/1743060410"
+    ]
+   }
+  },
+  {
+   "id": "aralar",
+   "campos": {
+    "lat": 42.9925,
+    "lon": -2.1077,
+    "estilo": "Megalitismo (dólmenes y menhires)",
+    "texto": {
+     "general": "<p>La sierra de Aralar, pastos de verano desde hace milenios y hoy parque natural compartido por Gipuzkoa y Navarra, reúne unos <b>80 megalitos</b>: unos 30 en la parte guipuzcoana y unos 50 en la navarra. Son del Calcolítico y la Edad del Bronce. Aquí se descubrió en 1879 el primer dolmen de Gipuzkoa.</p><p>El punto de la app está en el dolmen de <b>Jentillarri</b>, en la meseta de Arraztaran, en la vertiente guipuzcoana, a 811 metros. Es una cámara alargada de unos 6,5 metros hecha con 18 losas, dentro de un túmulo de unos 15 metros. Lo excavaron Aranzadi, Barandiaran y Eguren en 1917 y hallaron restos de al menos <b>27 personas</b>, entre ellas tres niños, junto con puntas de flecha, punzones de hueso y cristales de roca.</p><p>En la parte navarra destacan dólmenes como Obioneta y Trikuarri.</p>"
+    },
+    "ver_alli": [
+     "La cámara alargada de Jentillarri, de 18 losas.",
+     "El camino desde Lizarrusti o Enirio, entre hayedos y pastos.",
+     "Más dólmenes en la zona de Uidui y el santuario de San Miguel de Aralar, en la parte navarra."
+    ],
+    "fuentes": [
+     "https://www.euskadi.eus/web01-ejeduki/en/contenidos/informacion/aralar_megalitoak/en_11722/jentillarri.html",
+     "https://www.euskadi.eus/web01-ejeduki/en/contenidos/informacion/aralar_megalitoak/en_11722/nafarroa.html",
+     "https://www.aranzadi.eus/assets/megalitos//66_JENTILLARRI/JENTILLARRI (D).pdf",
+     "https://turismo.euskadi.eus/es/patrimonio-cultural/dolmenes-de-aralar/webtur00-content/es/",
+     "https://www.openstreetmap.org/node/564644906",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ9VJB-9JHUA0RgF8pUK0y9a8"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,510 @@
+{
+ "zona": "Lugo",
+ "nuevos": [
+  {
+   "id": "castro-de-viladonga",
+   "nombre": "Castro de Viladonga",
+   "provincia": "Lugo",
+   "comarca": "Castro de Rei",
+   "lat": 43.1609,
+   "lon": -7.3886,
+   "tipo": "yacimiento",
+   "estilo": "Castreño galaicorromano",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>En una colina de la Terra Chá, a <b>535 metros</b> de altitud, se conserva uno de los poblados fortificados más impresionantes del noroeste. El castro de Viladonga ocupa unas <b>4 hectáreas</b> dentro de sus defensas, y la mayor parte de los materiales hallados son de época romana avanzada, <b>tardorromana</b>: es un castro que siguió vivo bajo Roma.</p><p>Lo más espectacular son sus defensas. La muralla principal, de mampostería de esquisto, alcanza <b>entre 12 y 14 metros</b> de altura por la cara que da al foso. En lo alto, la «croa» —la parte más elevada, de unos 10.000 m²— guarda los cimientos de las casas.</p><p>Se excava desde <b>1971</b> y desde <b>1983</b> tiene al lado un <b>museo monográfico</b> con lo encontrado. Es Bien de Interés Cultural desde 2009.</p>"
+   },
+   "ver_alli": [
+    "El foso y la gran muralla de esquisto que rodean la croa.",
+    "Los cimientos de las casas en lo alto del poblado.",
+    "El museo junto al yacimiento, con las piezas halladas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castro_de_Viladonga",
+    "https://www.google.com/maps/place/?q=place_id:ChIJfbpRKC-5MQ0RXxTYyHVPlos",
+    "https://www.openstreetmap.org/search?query=Castro%20de%20Viladonga"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "torre-y-monasterio-de-san-vicente-do-pino",
+   "nombre": "Torre del homenaje y monasterio de San Vicente do Pino",
+   "provincia": "Lugo",
+   "comarca": "Monforte de Lemos",
+   "lat": 42.5241,
+   "lon": -7.511,
+   "tipo": "castillo",
+   "estilo": "Gótico y renacentista",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>Sobre el monte de San Vicente, que domina Monforte de Lemos, se reúnen en un solo conjunto el poder de los señores y el de los monjes. Aquí estuvo la ciudad-fortaleza amurallada de los <b>condes de Lemos</b>, levantada en torno a un monasterio cuyos orígenes se remontan al <b>siglo X</b>.</p><p>La gran protagonista es la <b>torre del homenaje</b>, construida entre los siglos XIII y XV: <b>30 metros de alto</b>, 13 de ancho y muros de 3 metros de grosor. Quedó muy dañada en la guerra irmandiña (1467-1469) y fue reconstruida al terminar el conflicto. Hoy alberga un pequeño museo sobre su historia.</p><p>Al lado, el monasterio de <b>San Vicente do Pino</b> tiene una iglesia que se empezó en el siglo XVI, con portada renacentista e interior de gótico de transición. El monasterio y los restos del palacio condal forman hoy el <b>Parador</b> de Monforte.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje y el museo de su interior.",
+    "La portada renacentista de la iglesia de San Vicente.",
+    "Los restos de la muralla y las vistas sobre Monforte y la Terra de Lemos."
+   ],
+   "fuentes": [
+    "https://turismo.ribeirasacra.org/en/keep-museum",
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Vicente_del_Pino",
+    "https://www.google.com/maps/place/?q=place_id:ChIJWwdaF-kTMA0RQbxkU_XAlUE",
+    "https://www.openstreetmap.org/search?query=Torre%20da%20Homenaxe%20Monforte"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-meira",
+   "nombre": "Monasterio de Santa María de Meira",
+   "provincia": "Lugo",
+   "comarca": "Meira",
+   "lat": 43.213,
+   "lon": -7.2914,
+   "tipo": "iglesia",
+   "estilo": "Románico cisterciense",
+   "epoca": "Románico",
+   "anio": 1143,
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>Cerca del nacimiento del Miño, en la villa de Meira, se alza la iglesia de un gran monasterio <b>cisterciense</b>. Fue fundado como casa hija de la abadía francesa de <b>Claraval</b>, probablemente en <b>1143</b>, y recibió el apoyo de los reyes Alfonso VII, Fernando II y Alfonso IX.</p><p>En 1515 se unió a la Congregación cisterciense de Castilla y en el siglo XVII tuvo una escuela de filosofía. Con la desamortización de Mendizábal, en <b>1835</b>, se suprimió; de todo el conjunto solo sobrevive la <b>iglesia</b>, hoy parroquial y monumento nacional desde 1931.</p><p>Es uno de los ejemplos más importantes del románico cisterciense en Galicia: un templo grande, sobrio y luminoso, como mandaban las normas de austeridad del Císter.</p>"
+   },
+   "ver_alli": [
+    "La fachada, con su sencillez cisterciense.",
+    "La amplitud y sobriedad de las naves.",
+    "La iglesia como único resto de un gran conjunto monástico."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Meira_Abbey",
+    "https://www.google.com/maps/place/?q=place_id:ChIJibpjAR69MQ0R6TpkYxJdWH0",
+    "https://www.openstreetmap.org/search?query=Santa%20Maria%20de%20Meira"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-ferreira-de-panton",
+   "nombre": "Monasterio de San Salvador de Ferreira de Pantón",
+   "provincia": "Lugo",
+   "comarca": "Pantón",
+   "lat": 42.5085,
+   "lon": -7.6198,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>En Ferreira de Pantón, en plena Ribeira Sacra, vive una comunidad de monjas que nunca se ha ido. El monasterio, primero benedictino y luego cisterciense y siempre femenino, es el <b>único de Galicia que ha conservado su función desde su creación hasta hoy</b>: ni siquiera la desamortización de Mendizábal lo vació.</p><p>Se levantó en varias etapas a lo largo de cinco siglos. La <b>iglesia románica</b> es del <b>siglo XII</b>, el claustro del siglo XV y el resto de dependencias del XVIII. Es monumento nacional desde 1975.</p><p>En la iglesia está enterrado el caudillo irmandiño <b>Diego de Lemos</b>, muerto en 1492, que vivió en el cercano castillo de Ferreira.</p>"
+   },
+   "ver_alli": [
+    "El ábside románico, con sus ventanas decoradas y canecillos.",
+    "El claustro del siglo XV.",
+    "Los sepulcros góticos del interior de la iglesia."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Ferreira_(Pantón)",
+    "https://www.google.com/maps/place/?q=place_id:ChIJdWtD5G4aMA0RGXzmwtV6keY",
+    "https://www.openstreetmap.org/search?query=Mosteiro%20de%20Ferreira%20de%20Panton"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-pambre",
+   "nombre": "Castillo de Pambre",
+   "provincia": "Lugo",
+   "comarca": "Palas de Rei",
+   "lat": 42.8595,
+   "lon": -7.9483,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>A pocos kilómetros del Camino Francés, sobre un peñasco junto al río Pambre, se alza uno de los castillos medievales mejor conservados de Galicia. Lo construyó a finales del <b>siglo XIV</b> <b>Gonzalo Ozores de Ulloa</b>, de una de las familias más poderosas de la comarca.</p><p>Es uno de los pocos que sobrevivieron a la <b>revuelta irmandiña</b> del siglo XV, cuando los campesinos derribaron decenas de fortalezas en toda Galicia. Tiene planta cuadrada con <b>cuatro torres en las esquinas</b> y, en el centro, la <b>torre del homenaje</b>, de 11 metros de lado y tres plantas.</p><p>Junto al castillo hay una capilla dedicada a San Pedro, fechada en el siglo XII.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje que se eleva en el centro del recinto.",
+    "Las cuatro torres de las esquinas y el paseo por la muralla.",
+    "El entorno de bosque y el río Pambre a los pies."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Pambre",
+    "https://www.google.com/maps/place/?q=place_id:ChIJd538qmLSLw0RE662hbaSGy4",
+    "https://www.openstreetmap.org/search?query=Castelo%20de%20Pambre"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "torre-de-los-moreno",
+   "nombre": "Torre de los Moreno",
+   "provincia": "Lugo",
+   "comarca": "Ribadeo",
+   "lat": 43.5365,
+   "lon": -7.0395,
+   "tipo": "monumento",
+   "estilo": "Ecléctico y modernista",
+   "epoca": "Siglo XX",
+   "anio": 1912,
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>En la plaza de España de Ribadeo, una torre coronada por una cúpula de cerámica roja y dorada anuncia el gusto de los emigrantes enriquecidos a principios del siglo XX. La promovieron los hermanos <b>José María y Juan Moreno Ulloa</b>, que según la tradición habían hecho fortuna en Argentina, y la proyectó en <b>1912</b> el arquitecto <b>Julián García Núñez</b>.</p><p>Es un edificio <b>ecléctico con elementos modernistas</b>, lleno de asimetrías, que nació como casa de pisos de alquiler: dos grandes viviendas por planta, con techos de cuatro metros, galerías de madera y de hierro fundido con vidrios de colores. El mirador lo remata una pequeña cúpula sostenida por <b>cuatro cariátides</b>.</p><p>Se hizo con <b>hormigón armado</b>, entonces poco conocido en la zona, lo que provocó su degradación prematura. Es Bien de Interés Cultural desde 1997 y está en proceso de rehabilitación.</p>"
+   },
+   "ver_alli": [
+    "La cúpula de cerámica roja vidriada y sus cuatro cariátides.",
+    "Las galerías de hierro fundido con vidrios de colores de la fachada.",
+    "Las otras casas de indianos de la plaza de España."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Torre_de_los_Moreno",
+    "https://www.google.com/maps/place/?q=place_id:ChIJnYqn-1d-MQ0RZ39rt36k0Po",
+    "https://www.openstreetmap.org/search?query=Torre%20dos%20Moreno%20Ribadeo"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "torre-de-los-andrade-vilalba",
+   "nombre": "Torre de los Andrade (Vilalba)",
+   "provincia": "Lugo",
+   "comarca": "Vilalba",
+   "lat": 43.298,
+   "lon": -7.6824,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>En el centro de Vilalba, capital de la Terra Chá, se alza la torre que queda de la antigua fortaleza de los <b>Andrade</b>. La torre actual es del <b>siglo XV</b>: la fortaleza fue destruida en la segunda revuelta irmandiña (1467-1469) y reconstruida después.</p><p>Su planta poligonal la distingue de casi todas las torres medievales gallegas, que suelen ser cuadradas. Desde los años sesenta forma parte del <b>Parador de Vilalba</b>, que tiene unas pocas habitaciones de aire medieval dentro de la propia torre y un edificio anexo moderno. Es Bien de Interés Cultural desde 1994.</p>"
+   },
+   "ver_alli": [
+    "La silueta poligonal de la torre, rara en Galicia.",
+    "El escudo con el jabalí de los Andrade.",
+    "El paseo por el casco de Vilalba alrededor de la torre."
+   ],
+   "fuentes": [
+    "https://www.pilgrim.es/camino-norte/vilalba/",
+    "https://www.paxinasgalegas.es/fiestas/torre-dos-andrade-vilalba-20193.html",
+    "https://es.wikipedia.org/wiki/Castillo_de_Andrade",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ1XznqabmMQ0Rasih9L8ISR4",
+    "https://www.openstreetmap.org/search?query=Torre%20dos%20Andrade%20Vilalba"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "o-cebreiro",
+   "nombre": "O Cebreiro",
+   "provincia": "Lugo",
+   "comarca": "Pedrafita do Cebreiro",
+   "lat": 42.7079,
+   "lon": -7.0435,
+   "tipo": "poblacion",
+   "estilo": "Arquitectura popular y prerrománico",
+   "epoca": "Prerrománico y Alta Edad Media",
+   "anio": 872,
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>O Cebreiro es la puerta de entrada del Camino Francés en Galicia: una pequeña aldea de piedra en lo alto de la sierra, entre nieblas, donde los peregrinos llegan tras la dura subida desde El Bierzo. Su iglesia de Santa María se considera <b>la primera del Camino Francés en suelo gallego</b>, de arquitectura prerrománica, y se fecha en el año <b>872</b>.</p><p>La aldea conserva varias <b>pallozas</b>, las viviendas tradicionales de la montaña: casas de planta redondeada, muros bajos de piedra y techo de paja. Cuatro están restauradas y algunas funcionan como museo etnográfico.</p><p>La iglesia guarda además la memoria de un <b>milagro eucarístico</b> que, según la leyenda, ocurrió hacia el año 1300.</p>"
+   },
+   "ver_alli": [
+    "Las pallozas de piedra y techo de paja.",
+    "La iglesia prerrománica de Santa María.",
+    "El caserío de piedra de la aldea, en lo alto de la sierra."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/O_Cebreiro",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ-6zodx30MA0RddKi-YdCNPM",
+    "https://www.openstreetmap.org/search?query=Palloza%20O%20Cebreiro"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "termas-romanas-de-lugo",
+   "nombre": "Termas romanas de Lugo",
+   "provincia": "Lugo",
+   "comarca": "Lugo",
+   "lat": 43.0016,
+   "lon": -7.5609,
+   "tipo": "yacimiento",
+   "estilo": "Romano",
+   "epoca": "Romano",
+   "anio": -15,
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>A orillas del Miño, junto al puente romano, los habitantes de <b>Lucus Augusti</b> se bañaban ya en aguas calientes. Estas termas se abrieron al mismo tiempo que se fundaba la ciudad, hacia el año <b>15 a. C.</b>, aprovechando un manantial de aguas minero-medicinales que brota a <b>43,8 °C</b>.</p><p>Hoy los restos están dentro del <b>Hotel Balneario de Lugo</b>, que sigue usando las mismas aguas. La parte mejor conservada es el <b>apodyterium</b>, el vestuario: una gran sala con suelo de opus signinum y una pared con <b>dieciocho hornacinas</b> que servían de taquillas para la ropa. También se visita la antigua sala de baños abovedada, que en época posterior se convirtió en capilla cristiana.</p><p>Son monumento histórico-artístico desde 1931.</p>"
+   },
+   "ver_alli": [
+    "Las dieciocho hornacinas del vestuario, las taquillas romanas.",
+    "La sala de baños abovedada.",
+    "El paseo junto al Miño hasta el puente romano."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Termas_romanas_de_Lucus_Augusti",
+    "https://www.google.com/maps/place/?q=place_id:ChIJIwmCgj14MA0R7VVoHXymGiU",
+    "https://www.openstreetmap.org/search?query=Termas%20romanas%20de%20Lugo"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santo-estevo-de-atan",
+   "nombre": "Iglesia de Santo Estevo de Atán",
+   "provincia": "Lugo",
+   "comarca": "Pantón",
+   "lat": 42.5005,
+   "lon": -7.7031,
+   "tipo": "iglesia",
+   "estilo": "Románico con restos prerrománicos",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>En la orilla del Miño, en plena Ribeira Sacra, esta pequeña iglesia rural resume muchos siglos de historia. Su origen está ligado a la repoblación del obispo <b>Odoario</b> en el siglo VIII y a un antiguo enclave monástico; las excavaciones de finales del siglo XX encontraron restos de varios edificios anteriores bajo el actual.</p><p>La iglesia que vemos es <b>románica</b>, de una sola nave rectangular con ábside también rectangular, canecillos y capiteles esculpidos y muchas marcas de cantero. En el campanario se reutilizaron piedras <b>prerrománicas</b> del templo anterior.</p><p>En el interior se conservan <b>pinturas murales de los siglos XV y XVI</b>. Es monumento nacional desde 1975; el interior solo se visita con guía.</p>"
+   },
+   "ver_alli": [
+    "Las piedras prerrománicas reutilizadas en el campanario.",
+    "Los canecillos y capiteles esculpidos.",
+    "Las pinturas murales del interior, si se visita con guía."
+   ],
+   "fuentes": [
+    "https://turismo.ribeirasacra.org/en/church-of-santo-estevo-de-atan",
+    "https://www.google.com/maps/place/?q=place_id:ChIJy3Uh0XYcMA0RRbqoGh2zAaA",
+    "https://www.openstreetmap.org/search?query=Igrexa%20de%20Santo%20Estevo%20de%20Atan"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "fazouro",
+   "campos": {
+    "estilo": "Cultura castreña romanizada",
+    "texto": {
+     "general": "<p>Sobre un promontorio rocoso junto a la playa de Arealonga, en Foz, el castro de Fazouro es el <b>único castro visitable de la costa cantábrica gallega</b>. Era un poblado marinero, ya <b>romanizado</b>, ocupado entre los siglos I y III d. C.</p><p>Se nota la influencia romana en sus casas: la mayoría son de <b>planta cuadrada</b>, con las esquinas en ángulo o redondeadas, y no circulares como en los castros más antiguos; algunas conservan bancos de piedra y hogares. Un foso marca el acceso desde tierra.</p><p>Se excavó en 1963 y 1965, y entre 1988 y 1993 se preparó para su visita al aire libre. Aparecieron cerámica, monedas, una fíbula de bronce y una aguja de pelo. La erosión del mar se ha llevado entre <b>25 y 30 metros</b> del yacimiento.</p>"
+    },
+    "ver_alli": [
+     "Las casas de planta cuadrada, señal de la romanización.",
+     "El foso del lado de tierra.",
+     "El borde del promontorio, donde se ve cómo el mar ha ido comiendo el castro; las playas de A Mariña están al lado."
+    ],
+    "fuentes": [
+     "https://www.ancient-history-sites.com/?p=123585",
+     "https://www.wikidata.org/wiki/Q8342716",
+     "https://www.eldebate.com/espana/galicia/20260803/castro-mar-lleva-siglos-intentando-borrar-unico-visitable-toda-costa-cantabrica-galicia_440315.html",
+     "https://www.openstreetmap.org/?mlat=43.60383&mlon=-7.29874#map=18/43.60383/-7.29874"
+    ]
+   }
+  },
+  {
+   "id": "lugo",
+   "campos": {
+    "lat": 43.0115,
+    "lon": -7.5578,
+    "estilo": "Romano (Bajo Imperio)",
+    "ver_alli": [
+     "Sube al adarve por cualquiera de las escaleras junto a las puertas y da la vuelta completa: más de dos kilómetros.",
+     "Fíjate en los torreones semicirculares que salpican todo el recorrido.",
+     "Hay un centro de interpretación de la muralla.",
+     "Cerca: las termas romanas del balneario, la Casa de los Mosaicos y la Domus do Mitreo."
+    ],
+    "fuentes": [
+     "https://www.trendencias.com/viajes/que-hacer-lugo-llueve-tres-planes-que-viajaras-2000-anos-atras-tiempo",
+     "https://www.openstreetmap.org/?mlat=43.0114&mlon=-7.5626#map=16/43.0115/-7.5578",
+     "https://www.google.com/maps/place/?q=place_id:ChIJey-m7YTOMQ0RxF17Pt5jy2A",
+     "https://es.wikipedia.org/wiki/Muralla_romana_de_Lugo"
+    ]
+   }
+  },
+  {
+   "id": "santa-eulalia-boveda",
+   "campos": {
+    "lat": 42.9801,
+    "lon": -7.686,
+    "tipo": "monumento",
+    "estilo": "Tardorromano",
+    "texto": {
+     "general": "<p>En la aldea de Bóveda de Mera, en el municipio de Lugo, se esconde uno de los edificios más enigmáticos de Galicia: una construcción <b>tardorromana</b>, probablemente del <b>siglo IV</b>, que pasó siglos enterrada hasta que se descubrió en <b>1926</b>.</p><p>Es una sala rectangular, semienterrada, con una pequeña <b>piscina</b> en el centro rodeada de columnas y cubierta por una bóveda de cañón. Esa bóveda conserva <b>pinturas murales romanas</b> de colores vivos y gran realismo, con aves como pavos reales, palomas o faisanes. Se entra por una puerta con <b>arco de herradura</b>, precedida de un atrio con dos columnas.</p><p>No se sabe con certeza para qué servía; se ha relacionado con un culto a las aguas. Más tarde se reformó y se usó como templo cristiano. Es monumento desde 1931.</p>"
+    },
+    "ver_alli": [
+     "Las aves pintadas en la bóveda, sobre la piscina central.",
+     "La puerta con arco de herradura y el atrio de columnas.",
+     "Las condiciones de visita cambian: conviene consultarlas antes."
+    ],
+    "fuentes": [
+     "https://www.spain.info/es/lugares-interes/iglesia-santa-eulalia-boveda/",
+     "https://www.inspain.org/pt/lugo/boveda-de-mera/santa-eulalia-de-boveda/",
+     "https://www.openstreetmap.org/?mlat=42.9801&mlon=-7.686#map=18/42.9801/-7.686"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-lugo",
+   "campos": {
+    "lat": 43.0092,
+    "lon": -7.5582,
+    "estilo": "Románico, con partes gótica, barroca y neoclásica",
+    "texto": {
+     "general": "<p>La catedral de Santa María de Lugo se empezó en <b>1129</b>, cuando el obispo Pedro III encargó al <b>maestro Raimundo</b> un templo nuevo en el estilo de la época, el románico; se dio por terminada en 1273. Sustituía a la catedral del obispo Odoario, del siglo VIII, tan hermosa que, según un diploma de 832, Alfonso II la tomó como modelo para la de Oviedo.</p><p>Tiene planta de cruz latina con tres naves y girola. A lo largo de los siglos sumó una cabecera gótica, la capilla barroca de la <b>Virgen de los Ojos Grandes</b> (1726), de Casas Novoa, un claustro barroco y una fachada neoclásica de Julián Sánchez Bort, cuyas torres se terminaron en el siglo XIX. Su gran joya románica es la <b>puerta norte</b>, con un Pantocrátor y, colgando en el centro, un capitel con la Última Cena.</p><p>Tiene el <b>privilegio de exponer el Santísimo de forma permanente</b>. Por eso el cáliz y la hostia aparecen en el escudo de Lugo y pasaron al <b>escudo de Galicia</b>. Es Patrimonio Mundial desde 2015, dentro de los Caminos de Santiago.</p><p class=\"dato\"><span>¿Sabías que…?</span>Es la única catedral gallega que conserva el coro en la nave central: la sillería la talló Francisco de Moure y la terminó en 1624.</p>"
+    },
+    "ver_alli": [
+     "La puerta norte, con el Pantocrátor y el capitel colgante de la Última Cena.",
+     "La sillería del coro de Francisco de Moure, en la nave central.",
+     "La capilla de la Virgen de los Ojos Grandes, en la cabecera, junto a la plaza de Santa María."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_de_Santa_Mar%C3%ADa_de_Lugo",
+     "https://www.openstreetmap.org/?mlat=43.0091&mlon=-7.5582#map=18/43.0091/-7.5582",
+     "https://www.google.com/maps/place/?q=place_id:ChIJkQyLw4TOMQ0Rg63VXjLxUeU"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-mondonedo",
+   "campos": {
+    "lat": 43.4281,
+    "lon": -7.3627,
+    "estilo": "Románico de transición al gótico, con fachada y torres barrocas",
+    "texto": {
+     "general": "<p>La sede del obispado se trasladó desde San Martiño, junto al mar, a Mondoñedo hacia 1112, y la catedral actual se empezó en <b>1219</b>; en 1246 la obra estaba avanzada y se concluyó en los siglos XIII y XIV. Es un templo <b>románico de transición al gótico</b>, de tres naves con bóvedas de crucería sobre arcos apuntados.</p><p>Por sus proporciones y su poca altura la llaman la <b>«catedral arrodillada»</b>. Su fachada, remodelada en el siglo XVIII con dos torres, conserva un <b>rosetón</b> gótico del siglo XIV de cinco metros de diámetro. Dentro hay <b>pinturas murales</b> góticas bajo los órganos, entre ellas una Degollación de los Inocentes, un retablo mayor rococó y un claustro del siglo XVII.</p><p>Es basílica y alberga el museo catedralicio y diocesano, uno de los más importantes de Galicia en arte sacro. Está en el Camino del Norte, Patrimonio Mundial.</p>"
+    },
+    "ver_alli": [
+     "El rosetón gótico de la fachada, de cinco metros.",
+     "Las pinturas murales góticas de la nave central, con la Degollación de los Inocentes.",
+     "El museo catedralicio, repartido por las naves laterales."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_de_Mondo%C3%B1edo",
+     "https://viajecaminodesantiago.com/turismo-galicia/mondonedo-catedral-arrodillada/",
+     "https://www.openstreetmap.org/?mlat=43.4281&mlon=-7.3627#map=18/43.4281/-7.3627",
+     "https://www.google.com/maps/place/?q=place_id:ChIJtx1xNsWNMQ0RcxKKtrcck14"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-samos",
+   "campos": {
+    "lat": 42.732,
+    "lon": -7.326,
+    "estilo": "Barroco y renacentista; capilla prerrománica",
+    "texto": {
+     "general": "<p>El monasterio de San Julián de Samos, en el Camino Francés, es uno de los <b>monasterios habitados más antiguos de España</b>. Su fundación se atribuye a san Martín Dumiense en el siglo VI; una inscripción del claustro recuerda que lo reconstruyó el obispo de Lugo Ermefredo en el año 665. En él se refugiaron la viuda y el hijo de Fruela I, el futuro <b>Alfonso II el Casto</b>, y desde el año 960 sigue la regla de san Benito.</p><p>Un incendio en 1558 obligó a rehacerlo casi entero, y otro en 1951 a reconstruirlo de nuevo. Por eso hoy domina lo moderno: la <b>iglesia barroca</b> (1734-1748), con una escalinata que recuerda a la del Obradoiro; el <b>claustro grande</b> (1685-1689), de 54 metros de lado, de los mayores de España, y el claustro pequeño o de las Nereidas, del siglo XVI, con su fuente barroca.</p><p>Junto al monasterio sobrevive la pequeña <b>capilla del Ciprés</b>, dedicada a San Salvador, una sencilla obra de estilo mozárabe de finales del siglo IX.</p><p class=\"dato\"><span>¿Sabías que…?</span>El padre Feijoo tomó aquí el hábito benedictino en 1690; su estatua preside el claustro grande.</p>"
+    },
+    "ver_alli": [
+     "El claustro grande, presidido por la estatua del padre Feijoo.",
+     "La clave del claustro de las Nereidas con la inscripción burlona «Qué miras, bobo».",
+     "La capilla del Ciprés, a pocos pasos del monasterio.",
+     "El interior se recorre en visita guiada con los monjes."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Juli%C3%A1n_(Samos)",
+     "https://www.openstreetmap.org/?mlat=42.7321&mlon=-7.3255#map=18/42.7321/-7.3255",
+     "https://www.openstreetmap.org/?mlat=42.7332&mlon=-7.3249#map=18/42.7332/-7.3249",
+     "https://www.google.com/maps/place/?q=place_id:ChIJn6UO5T9FMA0RLUxLoljli3c"
+    ]
+   }
+  },
+  {
+   "id": "vilar-de-donas",
+   "campos": {
+    "lat": 42.8925,
+    "lon": -7.8097,
+    "estilo": "Románico de transición al gótico",
+    "texto": {
+     "general": "<p>A un par de kilómetros del Camino Francés, cerca de Palas de Rei, la iglesia de <b>San Salvador de Vilar de Donas</b> es lo que queda de un monasterio del siglo XII ligado a la familia Arias de Monterroso. Su nombre, «donas», recuerda la tradición de que lo fundaron unas mujeres de esa familia. Después pasó a la <b>Orden de Santiago</b> y fue panteón de sus caballeros, cuyas lápidas siguen dentro.</p><p>Es un templo <b>románico</b> con señales de transición al gótico, como arcos apuntados junto a los de medio punto. Tiene planta de cruz latina, una sola nave y tres ábsides, algo raro en el románico gallego. La portada, de finales del románico, recuerda al taller del maestro Mateo y conserva sus herrajes originales.</p><p>Su gran tesoro son las <b>pinturas murales góticas</b> de la cabecera, de los siglos XIV y XV: la Anunciación, con san Gabriel y la Virgen, y en la bóveda Cristo junto al rey <b>Juan II de Castilla</b> y su hijo, el futuro Enrique IV. Es monumento desde 1931.</p>"
+    },
+    "ver_alli": [
+     "Las pinturas murales de la cabecera, con la Anunciación y el rey Juan II.",
+     "Las lápidas de los caballeros de Santiago.",
+     "Los herrajes románicos de la puerta; conviene comprobar antes si está abierta."
+    ],
+    "fuentes": [
+     "https://www.elcaminoconcorreos.com/es/blog/vilar-de-donas-la-iglesia-de-la-orden-de-santiago",
+     "https://es.hispanopedia.com/wiki/Iglesia_de_Vilar_de_Donas",
+     "https://vivecamino.com/en/palas-de-rei/iglesia-de-vilar-de-donas-3584/",
+     "https://www.openstreetmap.org/?mlat=42.8925&mlon=-7.8096#map=18/42.8925/-7.8096",
+     "https://www.google.com/maps/place/?q=place_id:ChIJvYbc4D7VLw0RHRms_e02QiQ"
+    ]
+   }
+  },
+  {
+   "id": "san-nicolas-de-portomarin",
+   "campos": {
+    "lat": 42.8078,
+    "lon": -7.6156,
+    "estilo": "Románico de transición (iglesia-fortaleza)",
+    "texto": {
+     "general": "<p>La iglesia de San Juan, también llamada de <b>San Nicolás</b>, preside la plaza de Portomarín. La levantó en los siglos XII y XIII la <b>Orden de San Juan de Jerusalén</b>, que controlaba el puente sobre el Miño y el hospital de peregrinos del Camino Francés.</p><p>Por eso parece una <b>fortaleza</b>: torres y almenas en la fachada. Su gran <b>rosetón</b> de la entrada anuncia ya el paso del románico al gótico. Es monumento histórico-artístico desde 1931.</p><p>Cuando se construyó el <b>embalse de Belesar</b>, inaugurado en 1963, el pueblo viejo quedó bajo el agua. Entre 1962 y 1963 la iglesia se desmontó y se volvió a montar <b>piedra a piedra</b> en el nuevo Portomarín.</p><p class=\"dato\"><span>¿Sabías que…?</span>Todavía se ven en los sillares los números que se pintaron para volver a colocar cada piedra en su sitio.</p>"
+    },
+    "ver_alli": [
+     "La fachada almenada y el gran rosetón.",
+     "Los números de montaje en los sillares de los muros.",
+     "Preside la plaza del nuevo Portomarín, en pleno Camino Francés."
+    ],
+    "fuentes": [
+     "https://viajecaminodesantiago.com/curiosidades/antiguo-portomarin/",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Juan_(Puertomar%C3%ADn)",
+     "https://viajecaminodesantiago.com/camino-frances/portomarin/",
+     "https://www.openstreetmap.org/?mlat=42.8078&mlon=-7.6155#map=18/42.8078/-7.6155",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ07gMMgAvMA0R1QwPxbcm2Q8"
+    ]
+   }
+  },
+  {
+   "id": "san-martino-de-mondonedo",
+   "campos": {
+    "lat": 43.5611,
+    "lon": -7.3033,
+    "estilo": "Prerrománico y románico",
+    "texto": {
+     "general": "<p>La basílica de San Martiño de Mondoñedo, en Foz, presume de ser <b>«la catedral más antigua de España»</b>. En el siglo IX fue sede de dos obispados a la vez: el de Dumio, llegado desde Braga, y el de Bretoña, la diócesis fundada por los bretones que huyeron de Britania en el siglo VI. Entre sus obispos estuvieron san Rosendo y san Gonzalo. En 1112 la sede se trasladó a la actual Mondoñedo.</p><p>El edificio guarda obra de los siglos X, XI y XII. El templo actual es <b>románico de finales del siglo XI</b>, de tres naves y tres ábsides con arquillos lombardos, y un original cimborrio rectangular de esquinas redondeadas. Los recios contrafuertes son del siglo XVIII.</p><p>Sus <b>capiteles</b> son excelentes: uno cuenta la parábola del <b>rico Epulón</b>, otro la degollación de san Juan Bautista. En 2008 aparecieron pinturas murales consideradas los frescos románicos más antiguos de Galicia. Es basílica menor desde 2007, y su museo guarda el sepulcro y el anillo de san Gonzalo.</p>"
+    },
+    "ver_alli": [
+     "Los capiteles del crucero, con el banquete del rico Epulón.",
+     "El retablo de piedra del ábside y el cimborrio rectangular.",
+     "El centro de interpretación, en la casa rectoral, junto a la cabecera."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Basilica_of_San_Marti%C3%B1o_de_Mondo%C3%B1edo",
+     "https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_San_Mart%C3%ADn_(Mondo%C3%B1edo)",
+     "https://www.openstreetmap.org/?mlat=43.5611&mlon=-7.3033#map=18/43.5611/-7.3033",
+     "https://www.google.com/maps/place/?q=place_id:ChIJGWvmZR8QMA0RwEzC4gYL-WQ"
+    ]
+   }
+  },
+  {
+   "id": "colegio-del-cardenal",
+   "campos": {
+    "lat": 42.5184,
+    "lon": -7.5168,
+    "estilo": "Herreriano (Renacimiento)",
+    "texto": {
+     "general": "<p>El Colegio de Nuestra Señora de la Antigua, en el Campo da Compañía de Monforte de Lemos, se empezó en <b>1593</b> por iniciativa del <b>cardenal Rodrigo de Castro</b>, arzobispo de Sevilla y mecenas de las artes. Por su estilo <b>herreriano</b>, raro en Galicia, lo llaman «El Escorial gallego».</p><p>Primero lo regentaron los <b>jesuitas</b>, hasta su expulsión en 1767; desde 1873 es colegio de los Escolapios. La iglesia tiene un gran retablo de Francisco de Moure y la estatua orante del cardenal, de Juan de Bolonia. En el colegio destaca la escalera monumental (1594-1603), cuyos tramos parecen sostenerse en el aire. El terremoto de Lisboa de 1755 dejó grietas que aún se ven.</p><p>Su <b>pinacoteca</b> guarda dos cuadros de <b>El Greco</b> —San Francisco y San Lorenzo— y cinco obras atribuidas a Andrea del Sarto.</p><p class=\"dato\"><span>¿Sabías que…?</span>Aquí estuvo la «Adoración de los Reyes» de Hugo van der Goes; se vendió en 1913 al museo de Berlín y con ese dinero se terminaron las obras del colegio.</p>"
+    },
+    "ver_alli": [
+     "Los dos grecos de la pinacoteca.",
+     "La escalera monumental de granito, que parece flotar.",
+     "El retablo de Moure y la estatua del cardenal en la iglesia; el interior se ve en visita guiada."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Colegio_de_Nuestra_Se%C3%B1ora_de_la_Antigua_(Monforte_de_Lemos)",
+     "https://www.google.com/maps/place/?q=place_id:ChIJO4Qyot0TMA0RcwcvkPqzNjo"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,1324 @@
+{
+ "zona": "India, sur de Asia y Asia central",
+ "nuevos": [
+  {
+   "id": "basilica-del-bom-jesus-de-goa",
+   "nombre": "Basílica del Bom Jesús de Goa",
+   "provincia": "India",
+   "comarca": "Goa Velha (Goa)",
+   "lat": 15.5008,
+   "lon": 73.9115,
+   "tipo": "iglesia",
+   "estilo": "Barroco portugués",
+   "epoca": "India mogol",
+   "anio": 1605,
+   "regiones_sincronia": [
+    "India"
+   ],
+   "texto": {
+    "general": "<p>En Goa Velha, la antigua capital de la <b>India portuguesa</b>, se levanta esta iglesia de los jesuitas, empezada en 1594 y consagrada en mayo de 1605 por el arzobispo Aleixo de Menezes. Su fachada de piedra, de estilo barroco, es uno de los grandes recuerdos del imperio que Portugal tejió por las costas de Asia.</p><p>Guarda el cuerpo de <b>san Francisco Javier</b>, nacido en 1506 en el castillo de Javier, en Navarra, y uno de los fundadores de la Compañía de Jesús en 1534. Misionó por la India, el sudeste asiático y Japón, y murió en 1552 en la isla de Shangchuan, frente a la costa de China, cuando intentaba entrar en el país. Su cuerpo llegó a Goa en 1554 y fue canonizado en 1622.</p><p>Hoy es un centro de peregrinación y forma parte del Patrimonio Mundial junto con las demás iglesias y conventos de la vieja Goa.</p>"
+   },
+   "ver_alli": [
+    "El cuerpo del santo reposa en una urna de plata, en una capilla lateral.",
+    "Es un templo en uso: se pide ropa que cubra hombros y rodillas.",
+    "Alrededor, en la misma explanada, se conservan otras iglesias y conventos de la antigua capital."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Basilica_of_Bom_Jesus",
+    "https://en.wikipedia.org/wiki/Francis_Xavier",
+    "https://www.google.com/maps/place/?q=place_id:ChIJiQKbufK-vzsRuKcVn2hWgB4",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Basilica+of+Bom+Jesus"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "fuerte-de-amber",
+   "nombre": "Fuerte de Amber",
+   "provincia": "India",
+   "comarca": "Amer (Jaipur, Rajastán)",
+   "lat": 26.9855,
+   "lon": 75.8513,
+   "tipo": "castillo",
+   "estilo": "Arquitectura rajput con influencia mogol",
+   "epoca": "India mogol",
+   "anio": 1599,
+   "regiones_sincronia": [
+    "India"
+   ],
+   "texto": {
+    "general": "<p>Sobre una colina a las afueras de Jaipur se alza el palacio-fortaleza de los <b>Kachwaha</b>, una dinastía rajput aliada de los emperadores mogoles. Lo empezó el raja <b>Man Singh</b>, cuyo palacio se terminó en 1599, y lo amplió Jai Singh I a comienzos del siglo XVII.</p><p>Por dentro mezcla la arquitectura rajput con influencias mogolas: patios, salas de audiencias, un jardín al modo mogol y el <b>Sheesh Mahal</b>, el «palacio de los espejos», cubierto de mosaicos de espejo y vidrio de colores. La puerta de Ganesh, de tres pisos y con frescos, se construyó entre 1621 y 1627.</p><p>En 1727 los Kachwaha trasladaron la capital a la nueva ciudad de Jaipur. Desde 2013 Amber es Patrimonio Mundial dentro de los «fuertes de colina del Rajastán».</p>"
+   },
+   "ver_alli": [
+    "Se sube desde el lago Maota por rampas y escaleras hasta el gran patio de entrada.",
+    "Las salas más famosas son la de audiencias públicas, la puerta de Ganesh y el Sheesh Mahal.",
+    "Desde sus terrazas se ven el lago Maota y las colinas de alrededor."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Amer_Fort",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ-w3Sy1qwbTkRK34UR2ffIWI",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Amer+Palace+Jaipur"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "jantar-mantar-de-jaipur",
+   "nombre": "Jantar Mantar de Jaipur",
+   "provincia": "India",
+   "comarca": "Jaipur (Rajastán)",
+   "lat": 26.9248,
+   "lon": 75.8245,
+   "tipo": "monumento",
+   "estilo": "Observatorio astronómico de mampostería",
+   "epoca": "India mogol",
+   "anio": 1734,
+   "regiones_sincronia": [
+    "India"
+   ],
+   "texto": {
+    "general": "<p>El rey <b>Sawai Jai Singh II</b>, fundador de Jaipur, mandó construir entre 1728 y 1734 este observatorio al aire libre, uno de los cinco que levantó en distintas ciudades de la India. Reúne <b>19 instrumentos</b> de piedra y mampostería para medir el tiempo, seguir el Sol y las estrellas y calcular eclipses.</p><p>El mayor es el <b>Vrihat Samrat Yantra</b>, un gigantesco reloj de sol de 27 metros de altura que, según se dice, marca la hora local con una precisión de unos dos segundos. Es el ejemplo mejor conservado de la astronomía de observación a simple vista, justo cuando en Europa ya se usaban telescopios.</p><p>Es Patrimonio Mundial desde 2010.</p>"
+   },
+   "ver_alli": [
+    "Está en el centro histórico de Jaipur.",
+    "Los instrumentos se recorren a pie; cada uno tiene un cartel que explica para qué servía."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Jantar_Mantar,_Jaipur",
+    "https://www.google.com/maps/place/?q=place_id:ChIJaXD1f0yxbTkRvquNoSkESuk",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Jantar+Mantar+Jaipur"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "cuevas-de-elefanta",
+   "nombre": "Cuevas de Elefanta",
+   "provincia": "India",
+   "comarca": "Isla de Elefanta (Bombay)",
+   "lat": 18.9633,
+   "lon": 72.9314,
+   "tipo": "yacimiento",
+   "estilo": "Templo rupestre shivaíta",
+   "epoca": "India antigua",
+   "anio": 550,
+   "regiones_sincronia": [
+    "India"
+   ],
+   "texto": {
+    "general": "<p>En una isla de la bahía de Bombay, unos 10 km al este de la ciudad, hay un grupo de templos excavados en la roca, dedicados sobre todo a <b>Shiva</b>. Se suelen fechar entre los siglos V y VII, y muchos estudiosos creen que estaban acabados hacia el año 550.</p><p>La cueva principal es una gran sala de columnas con relieves de la mitología de Shiva. Su obra maestra es el <b>Sadashiva</b> o «Trimurti», un busto colosal de tres cabezas de unos 7 metros. Los portugueses llamaron a la isla «Elefante» por una gran estatua de elefante que encontraron allí; hoy está en el jardín Jijamata Udyaan de Bombay.</p><p>Es Patrimonio Mundial desde 1987.</p>"
+   },
+   "ver_alli": [
+    "Se llega en barco desde la Puerta de la India.",
+    "Desde el embarcadero, un camino con escaleras sube hasta la cueva principal.",
+    "Hay más cuevas en la colina, menos visitadas."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Elephanta_Caves",
+    "https://www.google.com/maps/place/?q=place_id:ChIJL2CjfTDF5zsRP_WuGhsYq_Q",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Elephanta+Caves"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "ghats-de-benares",
+   "nombre": "Ghats de Benarés",
+   "provincia": "India",
+   "comarca": "Benarés (Uttar Pradesh)",
+   "lat": 25.3063,
+   "lon": 83.0102,
+   "tipo": "poblacion",
+   "estilo": "Escalinatas y templos junto al Ganges",
+   "epoca": "India antigua",
+   "regiones_sincronia": [
+    "India"
+   ],
+   "texto": {
+    "general": "<p>Benarés (Varanasi o Kashi) es la ciudad más sagrada del hinduismo. A lo largo de la orilla del <b>Ganges</b> se suceden 84 <b>ghats</b>, escalinatas que bajan al río y donde los peregrinos se bañan, rezan y despiden a sus muertos. La mayoría se reconstruyeron en el siglo XVIII con el patrocinio de los marathas.</p><p>El más concurrido es el <b>Dashashwamedh Ghat</b>, junto al templo de Vishwanath: según la leyenda, aquí hizo Brahma diez sacrificios del caballo, y cada tarde se celebra un aarti con lámparas en honor de Shiva, del Ganges, del Sol y del fuego. En el <b>Manikarnika Ghat</b> y en el de Harishchandra arden las piras de cremación día y noche.</p><p>A unos 8 km al norte está Sarnath, donde Buda dio su primer sermón.</p>"
+   },
+   "ver_alli": [
+    "El punto marca el Dashashwamedh Ghat; desde aquí se puede recorrer la orilla a pie o en barca.",
+    "En los ghats de cremación conviene guardar respeto a las familias.",
+    "La ceremonia del atardecer se ve desde las escalinatas o desde las barcas."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Ghats_in_Varanasi",
+    "https://www.google.com/maps/place/?q=place_id:ChIJZx9BBB4ujjkRPMgcoTbvGqY",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Dashashwamedh+Ghat"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "takht-i-bahi",
+   "nombre": "Monasterio de Takht-i-Bahi",
+   "provincia": "Pakistán",
+   "comarca": "Mardan (Jaiber Pastunjuá)",
+   "lat": 34.2861,
+   "lon": 71.9467,
+   "tipo": "yacimiento",
+   "estilo": "Monasterio budista de Gandhara",
+   "epoca": "India antigua",
+   "regiones_sincronia": [
+    "India"
+   ],
+   "texto": {
+    "general": "<p>En lo alto de un cerro cerca de Mardan, en la antigua región de <b>Gandhara</b>, se conservan las ruinas de un monasterio budista fundado en el siglo I. Allí apareció una inscripción con el nombre del rey indoparto <b>Gondofares</b>, que reinó hacia los años 20-46.</p><p>Es uno de los monasterios de Gandhara mejor conservados: un patio de estupas, otro rodeado de celdas para los monjes, salas de reunión y un comedor. Se abandonó en el siglo VII.</p><p>Es Patrimonio Mundial desde 1980, junto con los restos de la ciudad vecina de Sahr-i-Bahlol.</p>"
+   },
+   "ver_alli": [
+    "Se sube a pie por una escalera de piedra hasta las ruinas, en la cima del cerro.",
+    "Se pueden recorrer las celdas de los monjes y el patio de las estupas.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Takht-i-Bahi",
+    "https://www.google.com/maps/place/?q=place_id:ChIJracqLlJL2TgRxrT55U_zfDg",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Takht-i-Bahi"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "fuerte-de-rohtas",
+   "nombre": "Fuerte de Rohtas",
+   "provincia": "Pakistán",
+   "comarca": "Jhelum (Punyab)",
+   "lat": 32.9652,
+   "lon": 73.5762,
+   "tipo": "castillo",
+   "estilo": "Arquitectura militar suri",
+   "epoca": "India mogol",
+   "anio": 1541,
+   "regiones_sincronia": [
+    "India"
+   ],
+   "texto": {
+    "general": "<p>En 1541 <b>Sher Shah Suri</b>, el afgano que había expulsado de la India al emperador mogol Humayun, mandó levantar esta enorme fortaleza junto al paso del río Jhelum. Debía someter a los gakhar, una tribu de la zona, y cerrar el camino a Humayun si volvía de su exilio en Persia.</p><p>Sus murallas miden unos 4 km, con bastiones y más de una decena de puertas monumentales; la más cuidada es la <b>puerta de Sohail</b>, de más de 21 metros de altura. Sher Shah murió en 1545 sin verla terminada.</p><p>Es Patrimonio Mundial desde 1997, como ejemplo excepcional de la arquitectura militar musulmana de Asia central y del sur.</p>"
+   },
+   "ver_alli": [
+    "Se recorren las murallas, las puertas y la mezquita del fuerte.",
+    "El recinto es grande y conviene ir con tiempo.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Rohtas_Fort",
+    "https://www.google.com/maps/place/?q=place_id:ChIJI_aeV6eOHzkR5UFSDGl9V8M",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Rohtas+Fort"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "estupa-de-boudhanath",
+   "nombre": "Estupa de Boudhanath",
+   "provincia": "Nepal",
+   "comarca": "Katmandú",
+   "lat": 27.7214,
+   "lon": 85.362,
+   "tipo": "iglesia",
+   "estilo": "Estupa budista",
+   "epoca": "India medieval",
+   "regiones_sincronia": [
+    "India"
+   ],
+   "texto": {
+    "general": "<p>En el noreste del valle de Katmandú se levanta una de las mayores estupas del mundo, una gran cúpula blanca con una torre dorada en la que están pintados los ojos de Buda mirando a los cuatro puntos cardinales. Las crónicas newar hablan de una estupa aquí ya en el siglo V, pero la actual es probablemente del siglo XIV.</p><p>Tras la revuelta tibetana de 1959, muchos refugiados tibetanos se instalaron a su alrededor y fundaron más de cincuenta monasterios. El terremoto de abril de 2015 agrietó su torre; se reconstruyó con donaciones privadas y volvió a abrirse en noviembre de 2016.</p><p>Es Patrimonio Mundial desde 1979, dentro del conjunto del valle de Katmandú.</p>"
+   },
+   "ver_alli": [
+    "Los fieles dan vueltas a la estupa en el sentido de las agujas del reloj, haciendo girar los molinillos de oración.",
+    "Alrededor de la plaza hay monasterios tibetanos y terrazas desde las que se ve la cúpula."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Boudhanath",
+    "https://www.google.com/maps/place/?q=place_id:ChIJDx-VStob6zkRvcORSCO72j0",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Boudhanath"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "plaza-durbar-de-bhaktapur",
+   "nombre": "Plaza Durbar de Bhaktapur",
+   "provincia": "Nepal",
+   "comarca": "Bhaktapur (valle de Katmandú)",
+   "lat": 27.6721,
+   "lon": 85.4281,
+   "tipo": "monumento",
+   "estilo": "Arquitectura newar de época malla",
+   "epoca": "India medieval",
+   "regiones_sincronia": [
+    "India"
+   ],
+   "texto": {
+    "general": "<p>Bhaktapur fue la residencia de los reyes <b>Malla</b> y, desde el siglo XV, capital de un reino propio en el valle de Katmandú, hasta su conquista en 1769. Su plaza del palacio reúne templos de pagoda, pabellones y patios de ladrillo y madera tallada.</p><p>El rey <b>Bhupatindra Malla</b> mandó rehacer tras el terremoto de 1681 el <b>palacio de las 55 ventanas</b>. Delante está la <b>Puerta Dorada</b>, de cobre dorado, hecha entre 1751 y 1754. Los terremotos de 1833, 1934 y 2015 derribaron muchos edificios: el de 2015 dañó 116 monumentos.</p><p>Es Patrimonio Mundial desde 1979, dentro del conjunto del valle de Katmandú.</p>"
+   },
+   "ver_alli": [
+    "La plaza forma parte del casco antiguo, que se recorre a pie.",
+    "Muy cerca se alza Nyatapola, el templo de pagoda más alto de Nepal."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Bhaktapur_Durbar_Square",
+    "https://www.google.com/maps/place/?q=place_id:ChIJMd8y7K8a6zkR_ZuvMec5o90",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Bhaktapur+Durbar+Square"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "ark-de-bujara",
+   "nombre": "Ark de Bujará",
+   "provincia": "Uzbekistán",
+   "comarca": "Bujará",
+   "lat": 39.7779,
+   "lon": 64.4104,
+   "tipo": "castillo",
+   "estilo": "Ciudadela de adobe",
+   "epoca": "Islámico medieval",
+   "regiones_sincronia": [
+    "Estepa"
+   ],
+   "texto": {
+    "general": "<p>La ciudadela de Bujará es una enorme plataforma amurallada, de entre 16 y 20 metros de altura, que encierra casi 4 hectáreas. Ya estaba habitada hacia el siglo V, y desde entonces fue la residencia de los gobernantes de la ciudad: allí vivían los emires con sus visires, sus generales y sus sirvientes.</p><p>Cuando los soldados de <b>Gengis Kan</b> tomaron Bujará, los habitantes se refugiaron en el Ark, y los conquistadores lo asaltaron y lo saquearon. En 1920 el Ejército Rojo, mandado por <b>Mijaíl Frunze</b>, lo bombardeó durante la toma de la ciudad y dejó buena parte en ruinas.</p><p>Hoy es un museo, con la mezquita de la corte, la sala del trono y colecciones de arqueología e historia.</p>"
+   },
+   "ver_alli": [
+    "Se entra por una rampa que sube a la puerta principal.",
+    "Dentro hay varios museos, la mezquita de la corte y la sala del trono restaurada.",
+    "Está a pocos minutos a pie del minarete Kalon."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Ark_of_Bukhara",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ1-1o96AIUD8R69uMeKE3JV4",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Ark+of+Bukhara"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "fayaz-tepe",
+   "nombre": "Fayaz Tepe (Termez)",
+   "provincia": "Uzbekistán",
+   "comarca": "Termez (Surjandaria)",
+   "lat": 37.2863,
+   "lon": 67.1879,
+   "tipo": "yacimiento",
+   "estilo": "Monasterio budista kushán",
+   "epoca": "Asia central antigua",
+   "regiones_sincronia": [
+    "Estepa"
+   ],
+   "texto": {
+    "general": "<p>Cerca de <b>Termez</b>, junto al Amu Daria, el río que separa Uzbekistán de Afganistán, se excavó este monasterio budista de época <b>kushán</b>. Sus cimientos son del siglo I y vivió su mayor esplendor en los siglos III y IV, antes de decaer hacia el siglo V.</p><p>Se descubrió en 1968, cuando apareció entre las dunas una escultura de Buda. Tiene un templo con patio, celdas para los monjes y una estupa. Su pieza más famosa, un nicho con Buda entre dos monjes, es del siglo III o IV. Muchas pinturas y relieves están en el Museo Estatal de Historia de Uzbekistán, en Taskent.</p><p>Muy cerca está Kara Tepe, otro gran monasterio: prueba de que el budismo llegó al Asia central por la Ruta de la Seda.</p>"
+   },
+   "ver_alli": [
+    "Una cúpula moderna protege la estupa, a la que se puede entrar.",
+    "Junto a la entrada hay un pequeño museo; desde el mismo acceso se llega también a Kara Tepe.",
+    "Está a unos 15 km al oeste de Termez."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Fayaz_Tepe",
+    "https://www.google.com/maps/place/?q=place_id:ChIJqzWFagg6NT8RhN4fXGMMpak",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Fayaz+Tepe"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "inscripciones-de-khoshoo-tsaidam",
+   "nombre": "Inscripciones de Orjón (Khöshöö Tsaidam)",
+   "provincia": "Mongolia",
+   "comarca": "Valle del Orjón (Arjangai)",
+   "lat": 47.5606,
+   "lon": 102.8411,
+   "tipo": "monumento",
+   "estilo": "Estelas con escritura túrquica antigua",
+   "epoca": "Asia central antigua",
+   "regiones_sincronia": [
+    "Estepa"
+   ],
+   "texto": {
+    "general": "<p>En el valle del Orjón, unos 45 km al norte de Kharkhorin, están las estelas funerarias de dos príncipes del <b>kaganato de los turcos celestes</b> (göktürk): <b>Kul Tigin</b>, muerto en 731, y su hermano el kagan <b>Bilge</b>. Están escritas en chino y en turco antiguo, con un alfabeto propio parecido a las runas.</p><p>Las descubrió en 1889 la expedición de Nikolái Yadrintsev, y el filólogo danés <b>Vilhelm Thomsen</b> descifró su escritura en 1893. Junto con las de Tonyukuk, son los textos más antiguos que se conservan en una lengua túrquica.</p><p>Forman parte del Patrimonio Mundial del paisaje cultural del valle del Orjón.</p>"
+   },
+   "ver_alli": [
+    "Las estelas están en un recinto al aire libre, junto a un museo con objetos del yacimiento.",
+    "Se llega por carretera desde Kharkhorin, la antigua Karakorum."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Orkhon_inscriptions",
+    "https://en.wikipedia.org/wiki/Kul_Tigin",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ40an7gZPnF0Rhjd2NT5PG24",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Khöshöö+Tsaidam"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "nisa-partica",
+   "nombre": "Antigua Nisa",
+   "provincia": "Turkmenistán",
+   "comarca": "Bagyr (Asjabad)",
+   "lat": 37.9513,
+   "lon": 58.2113,
+   "tipo": "yacimiento",
+   "estilo": "Fortaleza real parta",
+   "epoca": "Asia central antigua",
+   "regiones_sincronia": [
+    "Estepa"
+   ],
+   "texto": {
+    "general": "<p>A unos 18 km al oeste del centro de Asjabad, están las ruinas de Nisa, una de las primeras residencias reales de los <b>partos</b>, el pueblo que dominó Irán y Mesopotamia y se enfrentó a Roma. La tradición atribuye su fundación a <b>Arsaces I</b>, que reinó hacia 250-211 a. C.; más tarde se llamó Mithradatkert.</p><p>En la fortaleza real se excavaron grandes salas, como la Sala Redonda y la Casa Cuadrada, y aparecieron muchos <b>ritones de marfil</b>, vasos en forma de cuerno. Nisa fue abandonada hacia el 100 a. C. y un terremoto la destruyó en la última década antes de nuestra era.</p><p>Las fortalezas partas de Nisa son Patrimonio Mundial desde 2007.</p>"
+   },
+   "ver_alli": [
+    "Se sube a la plataforma de la fortaleza por una escalera y se recorren las salas excavadas.",
+    "Está a las afueras de Asjabad.",
+    "En Turkmenistán hay que tramitar visado y suele hacerse con agencia."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Nisa,_Turkmenistan",
+    "https://www.google.com/maps/place/?q=place_id:ChIJnwVO2uwHcD8RTbFfUSIQuKc",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Köne+Nusaý"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "mezquita-de-los-sesenta-domos",
+   "nombre": "Mezquita de los Sesenta Domos (Bagerhat)",
+   "provincia": "Bangladés",
+   "comarca": "Bagerhat (Khulna)",
+   "lat": 22.6745,
+   "lon": 89.7418,
+   "tipo": "iglesia",
+   "estilo": "Arquitectura del sultanato de Bengala",
+   "epoca": "India medieval",
+   "anio": 1459,
+   "regiones_sincronia": [
+    "India"
+   ],
+   "texto": {
+    "general": "<p><b>Khan Jahan Ali</b>, gobernador de los Sundarbans, la gran región de manglares del delta del Ganges, fundó allí una ciudad musulmana y levantó entre 1442 y 1459 esta mezquita de ladrillo.</p><p>Su nombre engaña: tiene <b>81 cúpulas</b>, 77 bajas y cuatro en las esquinas, sostenidas por 60 esbeltas columnas de piedra. Por fuera mide unos 45 por 31 metros. Con las otras mezquitas y tumbas de la zona forma la «ciudad-mezquita de Bagerhat», Patrimonio Mundial desde 1985.</p>"
+   },
+   "ver_alli": [
+    "Junto a la mezquita hay un gran estanque.",
+    "Es una mezquita en uso: hay que descalzarse para entrar.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Sixty_Dome_Mosque",
+    "https://www.google.com/maps/place/?q=place_id:ChIJfdEDX1b0_zkRp12dqHdzf2U",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Sixty+Dome+Mosque"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "sigiriya",
+   "nombre": "Sigiriya",
+   "provincia": "Sri Lanka",
+   "comarca": "Matale (Provincia Central)",
+   "lat": 7.9569,
+   "lon": 80.7599,
+   "tipo": "castillo",
+   "estilo": "Palacio-fortaleza sobre roca con jardines",
+   "epoca": "India antigua",
+   "anio": 477,
+   "regiones_sincronia": [
+    "India"
+   ],
+   "texto": {
+    "general": "<p>El rey <b>Kashyapa I</b>, que reinó en Sri Lanka entre 477 y 495, trasladó su capital a esta roca de unos 180 metros que se alza sobre la selva y construyó en la cima su palacio. Se subía por una gran puerta en forma de león, de la que aún quedan las garras.</p><p>Las paredes de la roca estaban cubiertas de <b>pinturas</b> de colores, de las que quedan pocas. Junto a ellas, en el «muro espejo», visitantes de los siglos VIII al X escribieron versos: se han descifrado 685. A la muerte de Kashyapa la capital volvió a Anuradhapura y Sigiriya se convirtió en monasterio budista hasta el siglo XIII o XIV.</p><p>Es Patrimonio Mundial desde 1982.</p>"
+   },
+   "ver_alli": [
+    "Se sube a la cima por escaleras; a media altura están las garras del león y las pinturas.",
+    "Al pie de la roca se extienden los jardines de agua y un museo.",
+    "Conviene subir a primera hora, por el calor."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Sigiriya",
+    "https://www.google.com/maps/place/?q=place_id:ChIJs5pMcluh_DoRUg03WydxF6s",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Sigiriya"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "sri-maha-bodhi-de-anuradhapura",
+   "nombre": "Sri Maha Bodhi (Anuradhapura)",
+   "provincia": "Sri Lanka",
+   "comarca": "Anuradhapura (Provincia Centro-Norte)",
+   "lat": 8.3447,
+   "lon": 80.3972,
+   "tipo": "iglesia",
+   "estilo": "Santuario budista del árbol bodhi",
+   "epoca": "India antigua",
+   "anio": -288,
+   "regiones_sincronia": [
+    "India"
+   ],
+   "texto": {
+    "general": "<p><b>Anuradhapura</b> fue la capital de Sri Lanka desde el siglo IV a. C. hasta 1017. En su centro sagrado crece una higuera que, según las crónicas, se plantó en el 288 a. C., en tiempos del rey <b>Devanampiya Tissa</b>, con un esqueje del árbol de Bodh Gaya bajo el que Buda alcanzó la iluminación. Lo trajo la monja <b>Sanghamitta</b>, hija del emperador Asoka.</p><p>Se considera el árbol plantado por el hombre más antiguo del mundo con fecha conocida. Alrededor se extienden las grandes estupas y monasterios de la ciudad sagrada, Patrimonio Mundial desde 1982.</p>"
+   },
+   "ver_alli": [
+    "Es un lugar de culto muy concurrido: los peregrinos, vestidos de blanco, llevan flores al árbol.",
+    "Hay que descalzarse y cubrir hombros y rodillas.",
+    "Muy cerca está la gran estupa de Ruwanwelisaya."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Jaya_Sri_Maha_Bodhi",
+    "https://en.wikipedia.org/wiki/Anuradhapura",
+    "https://www.google.com/maps/place/?q=place_id:ChIJfbxYZb31_DoRVO6nFKyDpl4",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Jaya+Sri+Maha+Bodhi"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "abrigos-rupestres-de-bhimbetka",
+   "campos": {
+    "estilo": "Arte rupestre prehistórico",
+    "ver_alli": [
+     "Un sendero recorre los abrigos abiertos al público entre rocas y bosque.",
+     "Las pinturas, de color rojo y blanco, se ven al aire libre en las paredes y techos de roca.",
+     "Está en el estado de Madhya Pradesh, al sur de Bhopal."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Bhimbetka_rock_shelters"
+    ]
+   }
+  },
+  {
+   "id": "mohenjo-daro",
+   "campos": {
+    "lat": 27.3253,
+    "lon": 68.1332,
+    "estilo": "Urbanismo harappense de ladrillo cocido",
+    "ver_alli": [
+     "Se recorren la ciudadela con el Gran Baño y la estupa budista posterior, y la ciudad baja con sus calles.",
+     "Junto a las ruinas hay un museo con hallazgos del yacimiento.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ],
+    "texto": {
+     "general": "<p>La mayor ciudad de la civilización del Indo, de hacia el 2500 a. C., con calles en cuadrícula, casas de ladrillo cocido con baños y desagües cubiertos, y el Gran Baño. Aquí aparecieron la estatuilla de la «bailarina» de bronce y el «rey sacerdote». Patrimonio Mundial.</p><p>La ciudad tenía una ciudadela sobre una plataforma de adobe, con el <b>Gran Baño</b> —un estanque de unos 12 por 7 metros impermeabilizado con betún—, y una ciudad baja de calles rectas, casas con pozo y cuarto de baño, y desagües cubiertos de ladrillo. La excavó por primera vez <b>Rakhal Das Banerji</b> en 1922 y John Marshall la dio a conocer en 1924. Su gran peligro hoy es la sal que sube del subsuelo, y las lluvias récord de 2022 dañaron sus muros.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Mohenjo-daro",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ6d5uwGYLNTkREkvvhnGn-OY",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Mohenjo-daro"
+    ]
+   }
+  },
+  {
+   "id": "harappa",
+   "campos": {
+    "estilo": "Urbanismo harappense de ladrillo",
+    "ver_alli": [
+     "Junto a las ruinas hay un pequeño museo con sellos, cerámica y pesas.",
+     "Se visitan los montículos de la ciudad, los graneros y la zona del cementerio.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Harappa"
+    ]
+   }
+  },
+  {
+   "id": "dholavira",
+   "campos": {
+    "estilo": "Ciudad harappense de piedra y ladrillo",
+    "ver_alli": [
+     "Lugar remoto, en la isla de Khadir, en el Rann de Kutch.",
+     "Se recorren la ciudadela, los grandes depósitos de agua y la ciudad baja; hay un pequeño museo junto al yacimiento."
+    ],
+    "texto": {
+     "general": "<p>Ciudad del Indo en una isla del desierto salado de Kutch, con grandes depósitos de agua tallados en la roca, una ciudadela y el letrero con diez signos de escritura. Sus habitantes recogían el agua de dos arroyos estacionales con presas y canales: en un lugar tan seco, era cuestión de vida o muerte.</p><p>A diferencia de Mohenjo-Daro, Dholavira se construyó con piedra además de ladrillo, en recintos amurallados. La excavó el arqueólogo indio R. S. Bisht entre 1990 y 2005. Es Patrimonio Mundial desde 2021, y su gran letrero de diez signos sigue sin poder leerse, como toda la escritura del Indo.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Dholavira"
+    ]
+   }
+  },
+  {
+   "id": "lothal",
+   "campos": {
+    "estilo": "Puerto harappense de ladrillo",
+    "ver_alli": [
+     "Se ve el gran estanque de ladrillo interpretado como dique, la acrópolis y la ciudad baja.",
+     "Junto al yacimiento hay un pequeño museo arqueológico."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Lothal"
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-de-nueva-delhi",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de arqueología y arte",
+    "ver_alli": [
+     "Está en Janpath, junto al eje ceremonial de Nueva Delhi.",
+     "La galería del Indo y la de escultura antigua son las más importantes para la historia universal."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/National_Museum,_New_Delhi"
+    ]
+   }
+  },
+  {
+   "id": "lumbini",
+   "campos": {
+    "estilo": "Santuario budista con columna maurya",
+    "ver_alli": [
+     "El templo de Maya Devi protege los restos excavados y la piedra que marca el lugar del nacimiento.",
+     "Junto al templo están la columna de Asoka y el estanque sagrado.",
+     "Alrededor se extiende la zona de monasterios construidos por distintos países budistas."
+    ],
+    "texto": {
+     "general": "<p>El lugar donde, según la tradición, nació Buda. Tiene el templo de Maya Devi, sobre restos muy antiguos, y una columna de Asoka. Alrededor, monasterios de muchos países. Patrimonio Mundial.</p><p>Según la tradición, aquí dio a luz la reina <b>Maya</b> a Siddhartha Gautama, el futuro Buda. La columna del rey Asoka, de hacia 249 a.C., dice que «aquí nació el Buda» y que el rey rebajó los impuestos del pueblo a una octava parte de la cosecha. En 2013 un equipo dirigido por Robin Coningham publicó, bajo el templo de Maya Devi, restos de una estructura de madera que fechó en el siglo VI a.C. y que interpretó como un primer santuario; otros especialistas piden prudencia.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Lumbini"
+    ]
+   }
+  },
+  {
+   "id": "bodh-gaya-templo-de-mahabodhi",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Templo budista de ladrillo de época gupta",
+    "ver_alli": [
+     "Es un lugar de culto vivo: hay que descalzarse en el recinto.",
+     "Detrás del templo está el árbol bodhi, y alrededor, monasterios de muchos países budistas."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Mahabodhi_Temple"
+    ]
+   }
+  },
+  {
+   "id": "sarnath",
+   "campos": {
+    "estilo": "Estupa y monasterios budistas",
+    "ver_alli": [
+     "El parque arqueológico tiene la estupa de Dhamek, los restos de monasterios y la base de la columna de Asoka.",
+     "El capitel de los leones y el Buda que enseña se ven en el museo arqueológico, al lado."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Sarnath"
+    ]
+   }
+  },
+  {
+   "id": "estupa-de-sanchi",
+   "campos": {
+    "estilo": "Estupa budista con toranas de piedra",
+    "ver_alli": [
+     "La Gran Estupa está en lo alto de una colina, rodeada de otras estupas, templos y monasterios.",
+     "Las cuatro puertas talladas se pueden ver de cerca; el capitel de leones está en el museo arqueológico, al pie de la colina."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Sanchi"
+    ]
+   }
+  },
+  {
+   "id": "edicto-de-asoka-en-dhauli",
+   "campos": {
+    "lat": 20.1896,
+    "lon": 85.8426,
+    "estilo": "Edicto rupestre maurya",
+    "ver_alli": [
+     "La roca con la inscripción y el elefante tallado está al pie de la colina.",
+     "En lo alto se levanta la pagoda blanca de la paz, moderna.",
+     "Está en las afueras de Bhubaneswar, hacia el sur."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Dhauli",
+     "https://www.google.com/maps/place/?q=place_id:ChIJz5RpbCmnGToRtBWD0wsePCY",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Dhauli"
+    ]
+   }
+  },
+  {
+   "id": "taxila",
+   "campos": {
+    "lat": 33.7552,
+    "lon": 72.8294,
+    "estilo": "Ciudades indogriegas y monasterios de Gandhara",
+    "ver_alli": [
+     "El punto marca Sirkap, la ciudad indogriega de calles en cuadrícula; el museo de Taxila está a algo más de 1 km al suroeste.",
+     "Las ruinas están repartidas por el valle: Bhir Mound, Sirkap, Sirsukh y varios monasterios budistas.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Taxila",
+     "https://www.google.com/maps/place/?q=place_id:ChIJD076U4Kl3zgRLqnMYyKyNj4",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Sirkap+Taxila",
+     "https://en.wikipedia.org/wiki/Sirkap"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-mathura",
+   "campos": {
+    "lat": 27.4955,
+    "lon": 77.6794,
+    "tipo": "museo",
+    "estilo": "Museo de escultura de la escuela de Mathura",
+    "ver_alli": [
+     "Es el museo del Gobierno de Uttar Pradesh en Mathura, con salas de escultura kushán y gupta.",
+     "Mathura, ciudad sagrada del hinduismo, está llena de templos y ghats junto al Yamuna."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Government_Museum,_Mathura",
+     "https://www.google.com/maps/place/?q=place_id:ChIJW_jbWRRxczkRoqKu84JPwkM",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Mathura+Museum"
+    ]
+   }
+  },
+  {
+   "id": "cuevas-de-ajanta",
+   "campos": {
+    "estilo": "Santuarios budistas excavados en la roca, con pintura mural",
+    "ver_alli": [
+     "Las cuevas se escalonan en la pared de un barranco en forma de herradura y se recorren por un camino a media altura.",
+     "Dentro la luz es tenue para proteger las pinturas.",
+     "Hay réplicas en un centro de visitantes."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ajanta_Caves"
+    ]
+   }
+  },
+  {
+   "id": "cuevas-de-ellora",
+   "campos": {
+    "estilo": "Arquitectura excavada en la roca",
+    "ver_alli": [
+     "Las cuevas se alinean a lo largo de la pared rocosa: budistas al sur, hindúes en el centro y jainas al norte.",
+     "El templo de Kailasa (cueva 16) se ve también desde arriba, desde el borde de la roca."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ellora_Caves"
+    ]
+   }
+  },
+  {
+   "id": "ruinas-de-nalanda",
+   "campos": {
+    "estilo": "Monasterios y templos budistas de ladrillo",
+    "ver_alli": [
+     "Se recorren filas de monasterios con celdas y templos de ladrillo, como el gran templo 3.",
+     "Enfrente está el museo arqueológico con lo hallado en las excavaciones.",
+     "Rajgir, donde predicó Buda, está muy cerca."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Nalanda_mahavihara",
+     "https://www.google.com/maps/place/?q=place_id:ChIJww2t1DHz8jkRvg3ACV2LKC0"
+    ]
+   }
+  },
+  {
+   "id": "columna-de-hierro-de-delhi",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Columna de hierro gupta",
+    "ver_alli": [
+     "Está en el patio de la mezquita Quwwat-ul-Islam, dentro del recinto del Qutb Minar.",
+     "Una valla la protege, así que hoy no se puede tocar."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Iron_pillar_of_Delhi"
+    ]
+   }
+  },
+  {
+   "id": "mahabalipuram",
+   "campos": {
+    "estilo": "Arquitectura pallava excavada y de sillería",
+    "ver_alli": [
+     "El Templo de la Orilla está junto a la playa; el gran relieve y los templos excavados, en el centro del pueblo.",
+     "Los cinco rathas están a poca distancia, al sur del pueblo."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Group_of_Monuments_at_Mahabalipuram"
+    ]
+   }
+  },
+  {
+   "id": "templo-brihadishvara-de-thanjavur",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Templo dravídico chola",
+    "ver_alli": [
+     "Es un templo vivo: hay que descalzarse para entrar en el recinto.",
+     "El toro Nandi está en un pabellón frente al santuario, y alrededor del patio hay galerías con lingas y pinturas."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Brihadisvara_Temple,_Thanjavur"
+    ]
+   }
+  },
+  {
+   "id": "templos-de-khajuraho",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Templos nagara chandela",
+    "ver_alli": [
+     "La mayoría de los templos están en el grupo occidental, un parque cerrado con el Kandariya Mahadeva, el mayor.",
+     "Hay grupos oriental y meridional a pocos kilómetros, con templos jainas e hindúes."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Khajuraho_Group_of_Monuments"
+    ]
+   }
+  },
+  {
+   "id": "templo-del-sol-de-konark",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Templo kalinga en forma de carro",
+    "ver_alli": [
+     "Se rodea el templo para ver de cerca las ruedas y los caballos de piedra.",
+     "Muchas esculturas originales están en el museo arqueológico, junto al recinto.",
+     "Está cerca de la costa de Odisha, no lejos de Puri."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Konark_Sun_Temple"
+    ]
+   }
+  },
+  {
+   "id": "templo-de-somnath",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Templo neochalukya (Maru-Gurjara)",
+    "ver_alli": [
+     "Es un templo vivo junto al mar Arábigo; la flecha de piedra (Baan Stambh) está en el paseo frente al agua.",
+     "En la entrada se dejan teléfonos y bolsos."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Somnath_temple"
+    ]
+   }
+  },
+  {
+   "id": "hampi",
+   "campos": {
+    "estilo": "Arquitectura de Vijayanagara",
+    "ver_alli": [
+     "Las ruinas se reparten en varios kilómetros entre rocas y arrozales: el centro sagrado, junto al río, y el centro real, más al sur.",
+     "El templo de Virupaksha, en el bazar de Hampi, sigue en culto."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Hampi"
+    ]
+   }
+  },
+  {
+   "id": "qutb-minar",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura indoislámica del sultanato de Delhi",
+    "ver_alli": [
+     "En el recinto están también la mezquita Quwwat-ul-Islam, la columna de hierro, la puerta Alai Darwaza y el minarete inacabado de Alauddin.",
+     "Está en Mehrauli, al sur de Delhi."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Qutb_Minar"
+    ]
+   }
+  },
+  {
+   "id": "tughlaqabad-y-fuerte-de-daulatabad",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Arquitectura militar del sultanato de Delhi",
+    "ver_alli": [
+     "El punto marca Tughlaqabad, en el sur de Delhi; frente a ella está la tumba de Ghiyas ud-Din Tughlaq.",
+     "El fuerte de Daulatabad está en Maharashtra, junto a Aurangabad y cerca de Ellora."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Tughlaqabad_Fort"
+    ]
+   }
+  },
+  {
+   "id": "gol-gumbaz",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura indoislámica del Decán (Adil Shahi)",
+    "ver_alli": [
+     "Se sube a la galería que rodea la base de la cúpula para oír el eco.",
+     "En el recinto hay un pequeño museo arqueológico."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Gol_Gumbaz"
+    ]
+   }
+  },
+  {
+   "id": "tumba-de-humayun",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura mogol",
+    "ver_alli": [
+     "El mausoleo está en el centro de un jardín de cuatro partes con canales.",
+     "Dentro del recinto hay otras tumbas, como la de Isa Khan, y al lado está el barrio de Nizamuddin."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Humayun's_Tomb"
+    ]
+   }
+  },
+  {
+   "id": "fatehpur-sikri",
+   "campos": {
+    "estilo": "Arquitectura mogol de arenisca roja",
+    "ver_alli": [
+     "El recinto de palacios y la gran mezquita con la Buland Darwaza se visitan por separado.",
+     "Está cerca de Agra, en Uttar Pradesh."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Fatehpur_Sikri"
+    ]
+   }
+  },
+  {
+   "id": "fuerte-de-agra",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Arquitectura mogol",
+    "ver_alli": [
+     "Se visitan las salas de audiencias, los palacios de Jahangir y Shah Jahan y el pabellón octogonal desde el que se ve el Taj Mahal.",
+     "Una parte del fuerte sigue siendo militar y no se visita."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Agra_Fort"
+    ]
+   }
+  },
+  {
+   "id": "taj-mahal",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura mogol",
+    "ver_alli": [
+     "Se entra al recinto por las puertas oeste, este o sur; dentro, el gran jardín lleva hasta el mausoleo.",
+     "Al otro lado del río Yamuna, el jardín de Mehtab Bagh ofrece otra vista del monumento."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Taj_Mahal"
+    ]
+   }
+  },
+  {
+   "id": "fuerte-rojo-de-delhi",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Arquitectura mogol",
+    "ver_alli": [
+     "Se entra por la puerta de Lahore y el bazar cubierto, y se recorren las salas de audiencias y los pabellones de mármol.",
+     "Enfrente empieza Chandni Chowk, la calle principal de la vieja Delhi."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Red_Fort"
+    ]
+   }
+  },
+  {
+   "id": "fuerte-y-mezquita-badshahi-de-lahore",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Arquitectura mogol",
+    "ver_alli": [
+     "El fuerte y la mezquita están frente a frente, separados por la explanada de Hazuri Bagh.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Badshahi_Mosque"
+    ]
+   }
+  },
+  {
+   "id": "templo-dorado",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura sij",
+    "ver_alli": [
+     "Hay que cubrirse la cabeza y descalzarse; el recinto está abierto a todos.",
+     "El santuario dorado está en el centro del estanque y se llega por una pasarela.",
+     "La cocina comunitaria, el langar, se puede visitar."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Golden_Temple"
+    ]
+   }
+  },
+  {
+   "id": "fuerte-de-raigad",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Fortaleza de montaña maratha",
+    "ver_alli": [
+     "Se sube por una larga escalera o en teleférico.",
+     "Arriba se recorren las ruinas del palacio, el mercado y el samadhi de Shivaji."
+    ],
+    "texto": {
+     "general": "<p>Fortaleza en lo alto de una montaña donde Shivaji fue coronado en 1674 y murió en 1680. Se sube por unos 1.700 escalones o en teleférico. Se conservan las ruinas del palacio, el mercado y el samadhi de Shivaji. Desde arriba se ven los valles de los montes Ghats.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Raigad_Fort"
+    ]
+   }
+  },
+  {
+   "id": "registan-de-samarcanda",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura islámica centroasiática (timúrida y posterior)",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Registan"
+    ]
+   }
+  },
+  {
+   "id": "gur-e-amir-la-tumba-de-tamerlan",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura timúrida",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Gur-e-Amir"
+    ]
+   }
+  },
+  {
+   "id": "observatorio-de-ulugh-beg",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Observatorio timúrida",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ulugh_Beg_Observatory"
+    ]
+   }
+  },
+  {
+   "id": "necropolis-de-shah-i-zinda",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura timúrida",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Shah-i-Zinda"
+    ]
+   }
+  },
+  {
+   "id": "mausoleo-de-los-samanidas",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura samánida de ladrillo",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Samanid_Mausoleum"
+    ]
+   }
+  },
+  {
+   "id": "minarete-kalon",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura karajánida de ladrillo",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Kalyan_minaret"
+    ]
+   }
+  },
+  {
+   "id": "itchan-kala-de-jiva",
+   "campos": {
+    "lat": 41.3781,
+    "lon": 60.3595,
+    "tipo": "poblacion",
+    "estilo": "Arquitectura islámica de Jiva (siglos XVIII-XIX)",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Itchan_Kala",
+     "https://www.google.com/maps/place/?q=place_id:ChIJcwzlqBGk30ERxrlEP2bUIDk",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Ichan+Qala"
+    ]
+   }
+  },
+  {
+   "id": "antigua-merv",
+   "campos": {
+    "lat": 37.6643,
+    "lon": 62.1637,
+    "estilo": "Arquitectura selyúcida",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Merv",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ5-ht0lV3QT8R8Gt6kZehCdo",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Sultan+Sanjar+Mausoleum"
+    ]
+   }
+  },
+  {
+   "id": "victoria-memorial",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Indosarraceno",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Victoria_Memorial,_Kolkata"
+    ]
+   }
+  },
+  {
+   "id": "estacion-chhatrapati-shivaji",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Neogótico victoriano con elementos indios",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Chhatrapati_Shivaji_Terminus"
+    ]
+   }
+  },
+  {
+   "id": "puerta-de-la-india-y-hotel-taj-mahal-pal",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Indosarraceno",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Gateway_of_India"
+    ]
+   }
+  },
+  {
+   "id": "ashram-de-sabarmati",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arquitectura vernácula",
+    "ver_alli": [
+     "Se visitan la casa de Gandhi, Hriday Kunj, y el museo sobre su vida.",
+     "Está en Ahmedabad, a orillas del río Sabarmati."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Sabarmati_Ashram"
+    ]
+   }
+  },
+  {
+   "id": "raj-ghat-y-gandhi-smriti",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Memorial moderno",
+    "ver_alli": [
+     "Raj Ghat está junto al río Yamuna, detrás del Fuerte Rojo.",
+     "Gandhi Smriti, la casa donde fue asesinado, está a unos 5 km, en el centro de Nueva Delhi."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Raj_Ghat_and_associated_memorials"
+    ]
+   }
+  },
+  {
+   "id": "jallianwala-bagh",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Jardín memorial",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Jallianwala_Bagh"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-particion",
+   "campos": {
+    "lat": 31.6257,
+    "lon": 74.879,
+    "tipo": "museo",
+    "estilo": "Edificio colonial británico",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Partition_Museum",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ20x9m6t8GTkRJAn8D3mZsBE",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Partition+Museum+Amritsar"
+    ]
+   }
+  },
+  {
+   "id": "india-gate-y-el-eje-de-nueva-delhi",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Clasicismo imperial de Lutyens",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/India_Gate"
+    ]
+   }
+  },
+  {
+   "id": "residencia-de-lucknow",
+   "campos": {
+    "lat": 26.8613,
+    "lon": 80.9262,
+    "estilo": "Ruinas de arquitectura colonial británica",
+    "ver_alli": [
+     "Las ruinas se reparten por un parque con el edificio de la residencia, la iglesia en ruinas y el cementerio.",
+     "En el edificio principal hay un pequeño museo sobre el asedio.",
+     "Lucknow es famosa por su gastronomía."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/The_Residency,_Lucknow",
+     "https://www.google.com/maps/place/?q=place_id:ChIJmUns1JX9mzkRytww-8MltFg",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Residency+Lucknow"
+    ]
+   }
+  },
+  {
+   "id": "fuerte-de-jhansi",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Fortaleza bundela",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Jhansi_Fort"
+    ]
+   }
+  },
+  {
+   "id": "srirangapatna",
+   "campos": {
+    "lat": 12.4216,
+    "lon": 76.6905,
+    "tipo": "castillo",
+    "estilo": "Fortaleza fluvial; arquitectura indoislámica de Mysore",
+    "ver_alli": [
+     "El punto marca el fuerte, en el lado oeste de la isla, donde murió Tipu Sultán.",
+     "El palacio de verano, Daria Daulat Bagh, está a menos de 1 km al este, y el mausoleo, el Gumbaz, en el extremo oriental de la isla.",
+     "Está a unos 15 km de Mysore, con su gran palacio."
+    ],
+    "comarca": "Mandya (Karnataka)",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Srirangapatna",
+     "https://www.google.com/maps/place/?q=place_id:ChIJq6rq_v52rzsRfP5uQwyiqII",
+     "https://en.wikipedia.org/wiki/Siege_of_Seringapatam_(1799)"
+    ]
+   }
+  },
+  {
+   "id": "santiniketan",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Arquitectura bengalí del siglo XX",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Santiniketan"
+    ]
+   }
+  },
+  {
+   "id": "belur-math",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Ecléctico (hindú, cristiano e islámico)",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Belur_Math"
+    ]
+   }
+  },
+  {
+   "id": "deekshabhoomi",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Estupa moderna",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Deekshabhoomi"
+    ]
+   }
+  },
+  {
+   "id": "memorial-de-indira-gandhi",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Bungaló colonial convertido en museo",
+    "ver_alli": [
+     "Es la casa donde vivió, en Safdarjung Road, en Nueva Delhi.",
+     "Un camino cubierto de cristal marca el lugar donde fue asesinada."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Indira_Gandhi_Memorial_Museum"
+    ]
+   }
+  },
+  {
+   "id": "kumhrar-pataliputra",
+   "campos": {
+    "estilo": "Sala hipóstila maurya",
+    "fuentes": [
+     "https://tourism.bihar.gov.in/en/destinations/patna/kumrahar-puratav-park",
+     "https://patna.nic.in/tourist-place/kumhrar-park/",
+     "https://www.drishtiias.com/daily-updates/daily-news-analysis/80-pillar-assembly-hall-of-kumhrar-and-mauryan-architecture/print_manually",
+     "https://en.wikipedia.org/wiki/Kumhrar"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-afrasiab-samarcanda",
+   "campos": {
+    "lat": 39.6694,
+    "lon": 66.9934,
+    "estilo": "Museo arqueológico",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Afrasiab_murals",
+     "https://www.orexca.com/uzbekistan/samarkand/history_museum.htm",
+     "https://sogdians.si.edu/afrasiab-mural-paintings/",
+     "https://en.wikipedia.org/wiki/Afrasiyab_(Samarkand)",
+     "https://www.google.com/maps/place/?q=place_id:ChIJw0l0-qEYTT8RwBId8WMqbrU",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Afrasiyab+Museum+Samarkand"
+    ]
+   }
+  },
+  {
+   "id": "somapura-mahavihara",
+   "campos": {
+    "estilo": "Monasterio budista pala de ladrillo",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Somapura_Mahavihara",
+     "https://en.wikipedia.org/wiki/Paharpur_Archaeological_Museum",
+     "https://www.historyhit.com/locations/somapura-mahavihara/"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-karakorum",
+   "campos": {
+    "lat": 47.1952,
+    "lon": 102.8392,
+    "estilo": "Museo arqueológico",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Kharakhorum_Museum",
+     "https://en.wikipedia.org/wiki/Erdene_Zuu_Monastery",
+     "https://en.wikipedia.org/wiki/Karakorum",
+     "https://www.google.com/maps/place/?q=place_id:ChIJb1wNJPftnF0RTKdBxGObDKs",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Kharkhorin+Museum"
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-chinggis-khaan",
+   "campos": {
+    "lat": 47.9227,
+    "lon": 106.9149,
+    "estilo": "Museo moderno",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Chinggis_Khaan_National_Museum",
+     "https://new.chinggismuseum.com/en/about/history",
+     "https://www.google.com/maps/place/?q=place_id:ChIJwxdGx8eTll0Rn3wWNhN9n_Y",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Chinggis+Khaan+Museum+Ulaanbaatar"
+    ]
+   }
+  },
+  {
+   "id": "mezquita-de-bibi-janum-samarcanda",
+   "campos": {
+    "estilo": "Arquitectura timúrida",
+    "fuentes": [
+     "https://www.archnet.org/sites/2464",
+     "https://www.atlasobscura.com/places/bibi-khanym-mosque",
+     "https://britannica.com/place/mosque-of-Bibi-Khanom",
+     "https://en.wikipedia.org/wiki/Bibi-Khanym_Mosque"
+    ]
+   }
+  },
+  {
+   "id": "ak-saray-shahrisabz",
+   "campos": {
+    "estilo": "Arquitectura timúrida",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ak-Saray_Palace",
+     "https://www.atlasobscura.com/places/ak-saray-palace",
+     "https://www.orexca.com/uzbekistan/shakhrisabz.htm"
+    ]
+   }
+  }
+ ]
+}

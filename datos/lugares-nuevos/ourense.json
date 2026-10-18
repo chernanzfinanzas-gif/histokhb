@@ -1,0 +1,519 @@
+{
+ "zona": "Ourense",
+ "nuevos": [
+  {
+   "id": "puente-romano-de-ourense",
+   "nombre": "Puente romano de Ourense (Ponte Vella)",
+   "provincia": "Ourense",
+   "comarca": "Ourense",
+   "lat": 42.3454,
+   "lon": -7.8688,
+   "tipo": "monumento",
+   "estilo": "Romano y medieval",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>El Puente Mayor o «Ponte Vella» cruza el Miño en Ourense desde hace casi dos mil años. Se construyó en el <b>siglo I d. C.</b> en un ramal de la Vía Nova, la calzada que unía Braga con Astorga, y su posición como nudo de caminos ayudó a que creciera la ciudad.</p><p>En el siglo XII el arco principal cedió, y empezó una larga serie de reparaciones y derrumbes que no terminó hasta el <b>siglo XVII</b>, cuando Melchor de Velasco Agüero le dio su aspecto actual, de aire medieval. Los sondeos de los años sesenta confirmaron que dentro de la obra actual siguen embutidos paramentos del puente romano original.</p><p>Su arco central supera los <b>35 metros de luz</b>, uno de los mayores hechos en piedra, y durante siglos fue el de más luz de España. Es peatonal desde 1999.</p>"
+   },
+   "ver_alli": [
+    "El gran arco central, mejor desde la orilla.",
+    "El hueco del pilar central donde, según se cuenta, hubo una estatua.",
+    "La capilla de los Remedios, junto al puente."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Puente_romano_de_Orense",
+    "https://www.google.com/maps/place/?q=place_id:ChIJxYJ4kLP-Lw0Ra4fDeW54CoI",
+    "https://www.openstreetmap.org/search?query=Ponte%20Vella%20Ourense"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "as-burgas",
+   "nombre": "As Burgas",
+   "provincia": "Ourense",
+   "comarca": "Ourense",
+   "lat": 42.3346,
+   "lon": -7.8651,
+   "tipo": "monumento",
+   "estilo": "Fuentes barroca y neoclásica",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>En pleno casco viejo de Ourense brota agua a <b>entre 64 y 68 °C</b>, con un caudal de unos <b>300 litros por minuto</b>. Estas fuentes termales, As Burgas, son el origen de la ciudad: ya a mediados del <b>siglo I d. C.</b> había aquí un santuario-piscina dedicado a un dios indígena prerromano, del que se conserva un ara.</p><p>Hoy el agua sale por dos fuentes monumentales: la <b>Burga de Arriba</b>, la más antigua, del siglo XVII, y la <b>Burga de Abaixo</b>, neoclásica del siglo XIX.</p><p>El conjunto fue declarado conjunto histórico-artístico en 1975.</p>"
+   },
+   "ver_alli": [
+    "El vapor que sale de las fuentes en los días fríos (cuidado: quema).",
+    "Las dos fuentes, la del siglo XVII y la neoclásica.",
+    "El recuerdo del santuario romano, origen de la ciudad."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Las_Burgas",
+    "https://www.google.com/maps/place/?q=place_id:ChIJz9WW18j-Lw0R24sydcVUMu8",
+    "https://www.openstreetmap.org/search?query=As%20Burgas%20Ourense"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-celanova",
+   "nombre": "Monasterio de Celanova y capilla de San Miguel",
+   "provincia": "Ourense",
+   "comarca": "Celanova",
+   "lat": 42.1523,
+   "lon": -7.9569,
+   "tipo": "iglesia",
+   "estilo": "Mozárabe, renacentista y barroco",
+   "epoca": "Prerrománico y Alta Edad Media",
+   "anio": 936,
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>San Rosendo, obispo y uno de los hombres más poderosos de la Galicia del siglo X, fundó aquí en el año <b>936</b> el monasterio de San Salvador, consagrado en 942. Fue ganando tierras y privilegios hasta convertirse en uno de los grandes monasterios de Galicia; se cuenta que Carlos I pensó en retirarse aquí antes de elegir Yuste.</p><p>Casi todo lo que vemos es de los siglos XVII y XVIII: la iglesia, iniciada en 1653 y acabada en 1687, es un ejemplo de transición del renacimiento al barroco. Tras la desamortización pasó a manos públicas; en la guerra civil fue prisión, y hoy alberga el Ayuntamiento y un instituto. Fue declarado monumento nacional en 1931.</p><p>Del monasterio primitivo solo queda, en el jardín, la joya del conjunto: la <b>capilla de San Miguel</b>, un pequeño oratorio <b>mozárabe</b> construido entre <b>937 y 942</b>, único en su estilo en Galicia, con sus <b>arcos de herradura</b> y un ábside de apenas 1,35 metros de diámetro.</p>"
+   },
+   "ver_alli": [
+    "La capilla de San Miguel, en el huerto: sus arcos de herradura y canecillos.",
+    "La gran fachada barroca de la iglesia.",
+    "El gran edificio monástico, hoy sede del Ayuntamiento."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Salvador_(Celanova)",
+    "https://es.wikipedia.org/wiki/Capilla_de_San_Miguel_de_Celanova",
+    "https://www.google.com/maps/place/?q=place_id:ChIJReMZ2nhQJQ0RIGXNw5oAojY",
+    "https://www.openstreetmap.org/search?query=Capela%20de%20San%20Miguel%20Celanova"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-castro-caldelas",
+   "nombre": "Castillo de Castro Caldelas",
+   "provincia": "Ourense",
+   "comarca": "Castro Caldelas",
+   "lat": 42.376,
+   "lon": -7.4159,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1336,
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>En lo alto de la villa de Castro Caldelas, dominando la Ribeira Sacra, se alza la que fue la fortaleza más importante de la comarca. La construyó entre <b>1336 y 1343</b> <b>Pedro Fernández de Castro</b>, fundador de la Casa de Lemos, sobre un lugar que ya ocuparon un castro y un campamento romano que vigilaba la Vía XVIII.</p><p>Durante la <b>revuelta irmandiña</b> los campesinos la tomaron y la destruyeron en parte. El conde de Lemos obligó al pueblo a reconstruirla con una frase célebre: «Vosotros la tirasteis y vosotros la levantaréis». Los vecinos lo denunciaron ante la Audiencia de Valladolid, que les dio la razón. En 1560 terminó la reconstrucción, ya con aire de palacio.</p><p>Tiene planta poligonal, dos líneas de murallas y dos grandes torres, una de ellas la del homenaje. Desde 1992 lo usa el Ayuntamiento como centro cultural, con un museo etnográfico.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje y el paseo por la muralla almenada.",
+    "Los escudos de los Castro sobre la puerta.",
+    "Las vistas sobre la Ribeira Sacra."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Castro_Caldelas",
+    "https://www.google.com/maps/place/?q=place_id:ChIJGb4jFpZ0MA0RwdVy3136xnQ",
+    "https://www.openstreetmap.org/search?query=Castelo%20de%20Castro%20Caldelas"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "colegiata-de-xunqueira-de-ambia",
+   "nombre": "Colegiata de Santa María de Xunqueira de Ambía",
+   "provincia": "Ourense",
+   "comarca": "Xunqueira de Ambía",
+   "lat": 42.2043,
+   "lon": -7.735,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "anio": 1150,
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>Cuenta la tradición que en el siglo IV apareció una imagen de la Virgen en una laguna de juncos —«Juncaria»— y que allí se levantó una capilla. Hacia el año <b>955</b> se fundó un pequeño monasterio, y en <b>1150</b> el rey <b>Alfonso VII</b> lo entregó a los canónigos regulares de San Agustín.</p><p>La iglesia es <b>románica</b>, de la segunda mitad del siglo XII: tres naves con techo de madera sobre arcos apuntados y tres ábsides. En la portada oeste se tallaron un buey y un león, que se suelen interpretar como la servidumbre y el poder de los señores. En 1770 se añadió a la torre un cuerpo de campanas con cúpula.</p><p>Dentro hay un retablo flamenco-renacentista con <b>12 relieves</b> de la vida de la Virgen y un <b>órgano de 1758</b>, aún en uso. El claustro es de principios del siglo XVI. Es monumento nacional desde 1931.</p>"
+   },
+   "ver_alli": [
+    "El buey y el león de la portada oeste.",
+    "El retablo con los doce relieves de la vida de la Virgen.",
+    "El órgano de 1758 y el claustro gótico tardío."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Colegiata_de_Santa_María_(Junquera_de_Ambía)",
+    "https://www.google.com/maps/place/?q=place_id:ChIJBaj0C3usOg0RLowYI5T2Zgs",
+    "https://www.openstreetmap.org/search?query=Santa%20Maria%20de%20Xunqueira%20de%20Ambia"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-montederramo",
+   "nombre": "Monasterio de Santa María de Montederramo",
+   "provincia": "Ourense",
+   "comarca": "Montederramo",
+   "lat": 42.2744,
+   "lon": -7.5022,
+   "tipo": "iglesia",
+   "estilo": "Herreriano",
+   "epoca": "Renacimiento",
+   "anio": 1607,
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>En las tierras altas de la Ribeira Sacra se levanta uno de los monasterios que más poder tuvo en Galicia. Fundado en el <b>siglo X</b>, fue primero benedictino y después pasó al <b>Císter</b>; durante siglos estuvo entre los más ricos del reino, hasta la desamortización de Mendizábal.</p><p>Su iglesia tiene una fachada acabada en <b>1607</b> que es uno de los ejemplos del <b>estilo herreriano</b> en Galicia: sobria, geométrica, al gusto de El Escorial. Dentro, el gran retablo mayor fue obra del escultor Mateo de Prado con los retablistas Bernardo y Juan de Cabrera.</p><p>Es Bien de Interés Cultural desde 1951.</p>"
+   },
+   "ver_alli": [
+    "La fachada herreriana de 1607.",
+    "El retablo mayor de Mateo de Prado.",
+    "El interior de la iglesia, de una sola gran nave."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Santa_María_(Montederramo)",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ1WvHkeegOg0Rfq83il0xnLQ",
+    "https://www.openstreetmap.org/search?query=Mosteiro%20de%20Montederramo"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-cristina-de-ribas-de-sil",
+   "nombre": "Monasterio de Santa Cristina de Ribas de Sil",
+   "provincia": "Ourense",
+   "comarca": "Parada de Sil",
+   "lat": 42.396,
+   "lon": -7.5883,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>Escondido entre castaños, en la ladera de los cañones del Sil, este monasterio es uno de los rincones más bellos de la Ribeira Sacra. Sus primeros testimonios escritos son de finales del <b>siglo X</b> y quizá empezó como lugar de ermitaños; a mediados del siglo XII pasó a los benedictinos.</p><p>Su <b>iglesia</b>, levantada entre los <b>siglos XII y XIII</b>, es uno de los mejores ejemplos del románico rural gallego. En 1508 el monasterio quedó como priorato dependiente de Santo Estevo de Ribas de Sil, y aun así en el siglo XVI se rehízo el claustro y se pintó el ábside.</p><p>Con la desamortización de <b>1835</b> pasó a particulares que lo usaron como granja. Hoy quedan en pie la iglesia, la torre y parte del claustro, mínimamente restaurados y abiertos al público.</p>"
+   },
+   "ver_alli": [
+    "La iglesia románica, una de las mejores del románico rural gallego.",
+    "Las pinturas del ábside, del siglo XVI.",
+    "El paseo por el souto de castaños hasta el monasterio."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Cristina_(Ribas_de_Sil)",
+    "https://www.google.com/maps/place/?q=place_id:ChIJX72DmD8PMA0R9KCCdbfz0eg",
+    "https://www.openstreetmap.org/search?query=Santa%20Cristina%20de%20Ribas%20de%20Sil"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "puente-de-bibei",
+   "nombre": "Puente romano de Bibei",
+   "provincia": "Ourense",
+   "comarca": "A Pobra de Trives",
+   "lat": 42.3337,
+   "lon": -7.2145,
+   "tipo": "monumento",
+   "estilo": "Romano",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>Por este puente sigue pasando el tráfico casi dos mil años después de construido. El puente de Bibei, entre A Pobra de Trives y Larouco, es junto con el de Freixo el <b>puente romano mejor conservado de Galicia</b>. Se hizo para la <b>Vía Nova</b>, la calzada que unía Braga con Astorga, probablemente en tiempos de <b>Trajano</b>.</p><p>Tiene <b>75 metros</b> de largo, 6,5 de ancho y <b>tres arcos</b>, el central de 18,5 metros de luz y a 22,5 metros sobre el lecho del río. Los pilares son de sillería de granito almohadillada colocada sin argamasa, con tajamares triangulares aguas arriba.</p><p>Nunca ha dejado de usarse: hoy por él pasa la carretera OU-636. Es monumento histórico-artístico desde 1931.</p>"
+   },
+   "ver_alli": [
+    "Los tres arcos y la altura del central sobre el río encajonado.",
+    "La sillería almohadillada de los pilares.",
+    "Los tajamares triangulares de los pilares, aguas arriba."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Puente_del_Bibey",
+    "https://www.google.com/maps/place/?q=place_id:ChIJCQDjhoV4MA0R31w0NNjWb3E",
+    "https://www.openstreetmap.org/search?query=Ponte%20Bibei"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-maceda",
+   "nombre": "Castillo de Maceda",
+   "provincia": "Ourense",
+   "comarca": "Maceda",
+   "lat": 42.2705,
+   "lon": -7.659,
+   "tipo": "castillo",
+   "estilo": "Medieval y palaciego",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>Su origen se remonta a los últimos años del <b>siglo XI</b>, cuando se empezó la torre del homenaje. Después pasó como dote al linaje de los <b>Novoa</b> y, durante la revuelta irmandiña, los campesinos al mando de Diego de Lemos lo atacaron y arrasaron.</p><p>En la Edad Moderna se transformó en residencia: se añadieron dependencias, miradores con balaustrada y una solana, y por eso hoy predominan los elementos de palacio sobre los defensivos. La torre del homenaje, de planta cuadrada, sigue siendo lo más antiguo, y en la plaza de armas hay una cisterna excavada en la roca. Los sillares conservan las marcas de los canteros.</p><p>El Ayuntamiento lo compró en 1993 y, restaurado, funciona como hotel. Es Bien de Interés Cultural desde 1994.</p><p class=\"dato\"><span>¿Sabías que…?</span>Según la tradición, aquí se crio el rey Alfonso X el Sabio, y en este castillo aprendió la lengua gallega.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje, la parte más antigua.",
+    "Las marcas de cantero en los sillares de granito.",
+    "La muralla con sus torres cuadrada y circular."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Maceda",
+    "https://www.google.com/maps/place/?q=place_id:ChIJGS1F8bOpOg0RzC4mPfn43GA",
+    "https://www.openstreetmap.org/search?query=Castelo%20de%20Maceda"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "torre-de-sandias",
+   "nombre": "Torre de Sandiás (Torre do Castro)",
+   "provincia": "Ourense",
+   "comarca": "Sandiás",
+   "lat": 42.123,
+   "lon": -7.7438,
+   "tipo": "castillo",
+   "estilo": "Románico",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>Sobre un pequeño cerro de la llanura de A Limia se alza la silueta partida de la <b>Torre do Castro</b>, también llamada de Sandiás. Se construyó en el <b>siglo XII</b> y formaba parte de un grupo de fortalezas que guardaban A Limia y se comunicaban a la vista unas con otras: hoy siguen en pie A Pena, en Xinzo, y A Forxa, en Porqueira.</p><p>En <b>1467</b>, durante la segunda revuelta irmandiña, fue derribada e incendiada. De la antigua fortaleza solo queda parte de la torre del homenaje, de planta cuadrangular y muros muy gruesos, con sótano, tres pisos y terraza.</p><p>La ruina se consolidó en <b>2020</b>, está declarada Bien de Interés Cultural y se puede visitar libremente a pie.</p>"
+   },
+   "ver_alli": [
+    "El corte de la torre, que deja ver el grosor de los muros y sus pisos.",
+    "Lo que queda de la torre del homenaje, de planta cuadrangular.",
+    "Las vistas sobre la llanura de A Limia."
+   ],
+   "fuentes": [
+    "https://fronteiraesquecida.eu/en/fichas/tower-of-sandias-castro-tower/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ8e4L14eyOg0RdbM-JY-aC_w",
+    "https://www.openstreetmap.org/search?query=Torre%20de%20Sandias"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "san-cibrao-las",
+   "campos": {
+    "lat": 42.3601,
+    "lon": -8.0305,
+    "tipo": "yacimiento",
+    "estilo": "Cultura castreña",
+    "texto": {
+     "general": "<p>Sobre un cerro de 473 metros, entre San Amaro y Punxín, se levanta <b>uno de los mayores castros de Galicia</b>: casi 10 hectáreas dentro de murallas, organizadas en <b>dos recintos elípticos</b> casi concéntricos, una acrópolis y un gran anillo exterior con dos murallas, fosos y tres puertas. En los alrededores lo llaman simplemente <b>«A Cidade»</b>, la ciudad.</p><p>Estuvo habitado de forma continuada <b>desde el siglo II a. C. hasta el siglo II d. C.</b> y vivió su mejor momento ya bajo Roma, en el siglo I. Por eso no se parece a los castros más antiguos: abundan las casas de planta rectangular, agrupadas alrededor de patios, y las calles dibujan una trama casi ortogonal.</p><p>Entre los hallazgos hay una <b>fuente-aljibe</b> alimentada por una mina de agua, inscripciones dedicadas a <b>Júpiter</b> —una con la palabra «IOVI», junto a la muralla de la acrópolis— y otra que conserva el que quizá fue su nombre antiguo, <b>Lansbrica</b>. Lo excavaron por primera vez Florentino López Cuevillas y Vicente Risco entre 1922 y 1925.</p><p class=\"dato\"><span>¿Sabías que…?</span>Entre las piezas halladas hay un raro puñal «de antenas», joyas y monedas de bronce y un tesorillo de mediados del siglo IV.</p>"
+    },
+    "ver_alli": [
+     "Empieza por el centro de interpretación del Parque Arqueológico de la Cultura Castreña, que explica el castro y expone piezas halladas en él.",
+     "Recorre las dos murallas y fíjate en la anchura del lienzo oeste, que llega a 6 metros.",
+     "Busca las casas con patio y la fuente-aljibe: muestran cómo se romanizó la vida castreña.",
+     "El poblado se cierra al público fuera del horario del centro: conviene comprobarlo antes de ir."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Castro_of_San_Cibrao_de_Las",
+     "https://es.wikipedia.org/wiki/Castro_de_San_Cibrao_de_Las",
+     "https://www.openstreetmap.org/search?query=Castro%20de%20San%20Cibrao%20de%20Las"
+    ]
+   }
+  },
+  {
+   "id": "aquis-querquennis",
+   "campos": {
+    "lat": 41.9741,
+    "lon": -7.9806,
+    "tipo": "yacimiento",
+    "estilo": "Arquitectura militar romana",
+    "anio": 75,
+    "texto": {
+     "general": "<p>A orillas del embalse de As Conchas, en Bande, están los restos de un <b>campamento romano</b> levantado en el <b>último cuarto del siglo I d. C.</b> (hacia los años 69-79) para vigilar y construir la <b>Vía Nova</b>, la calzada XVIII que unía Braga con Astorga. Lo ocupó probablemente una cohorte de la <b>Legio VII Gemina</b>, la legión con base en León, con unos <b>500-600 soldados</b> de infantería y caballería.</p><p>El recinto, de unas <b>2,4 hectáreas</b>, tiene la clásica forma de naipe —rectángulo con esquinas redondeadas—, murallas de más de 3 metros de grosor, foso y cuatro puertas. Dentro se reconocen el cuartel general (<i>principia</i>), <b>dos graneros</b>, un hospital y cinco barracones. Fuera, junto a la calzada, estaba la <b>mansio</b>, la posada para viajeros oficiales.</p><p>La guarnición se marchó hacia el año 120. En 1949 el agua del embalse cubrió el lugar, que reaparece cuando baja el nivel; las excavaciones empezaron en 1975 con Antonio Rodríguez Colmenero y en 2018 fue declarado <b>Bien de Interés Cultural</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>En agosto de 2022, con el embalse al 49 %, quedó a la vista todo el campamento por primera vez en décadas.</p>"
+    },
+    "ver_alli": [
+     "El campamento está a la orilla del embalse; cuánto se ve depende del nivel del agua (finales de verano suele ser el mejor momento).",
+     "Fíjate en las puertas, la base de la muralla y la planta de los graneros y los barracones.",
+     "El Centro de Interpretación Aquae Querquennae-Vía Nova está a unos 400 m al suroeste del campamento; allí se explica la calzada y el campamento.",
+     "Santa Comba de Bande, iglesia visigoda, queda a unos 2 km."
+    ],
+    "fuentes": [
+     "https://www.hoteles.net/ourense/celanova/aquis-querquennis.html",
+     "https://es.wikipedia.org/wiki/Aquis_Querquennis",
+     "https://en.wikipedia.org/wiki/Aquis_Querquennis",
+     "https://www.openstreetmap.org/search?query=Aquis%20Querquennis"
+    ]
+   }
+  },
+  {
+   "id": "santa-comba-bande",
+   "campos": {
+    "lat": 41.9731,
+    "lon": -8.0021,
+    "tipo": "iglesia",
+    "estilo": "Visigodo",
+    "texto": {
+     "general": "<p>En la aldea de Santa Comba, sobre el embalse de As Conchas, se conserva una de las <b>iglesias más antiguas de Galicia</b>, también llamada de San Torcuato. Es pequeña, de <b>planta de cruz griega</b> con ábside recto y un cimborrio sobre el crucero, todo ello con muros de grandes sillares colocados en seco.</p><p>Dentro llaman la atención los <b>arcos de herradura</b> y las <b>bóvedas de cañón de ladrillo</b>, apoyadas en cuatro columnas de mármol reaprovechadas, según la tradición, de las termas romanas de Bande. Sus capiteles mezclan piezas corintias y otras de talla tosca, «bárbara». La ventana del ábside conserva una celosía de piedra calada en forma de escamas.</p><p>La mayoría de los autores la fecha en el <b>siglo VII</b>, en los últimos años del rey visigodo Recesvinto, por su parecido con San Juan de Baños (Palencia); un documento del siglo IX del monasterio de Celanova ya habla de una iglesia de Santa Columba fundada más de doscientos años antes. Otros investigadores la creen de la repoblación del siglo IX, y estudios recientes (2017) han reabierto el debate.</p>"
+    },
+    "ver_alli": [
+     "Conviene consultar antes las condiciones de visita para ver el interior. Concello de Bande (988 443 001).",
+     "Deja el coche a la entrada de la aldea: la iglesia visigoda está unos 200 m más allá de la parroquial moderna, no la confundas.",
+     "Dentro, mira los capiteles de las cuatro columnas y la celosía de la ventana del ábside.",
+     "Aquis Querquennis, cerca, a unos 2 km."
+    ],
+    "fuentes": [
+     "https://www.spain.info/en/places-of-interest/church-santa-comba-bande/",
+     "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Comba_de_Bande",
+     "https://www.openstreetmap.org/search?query=Igrexa%20de%20Santa%20Comba%20de%20Bande"
+    ]
+   }
+  },
+  {
+   "id": "san-pedro-rocas",
+   "campos": {
+    "lat": 42.342,
+    "lon": -7.7133,
+    "tipo": "iglesia",
+    "estilo": "Eremitorio rupestre altomedieval, con añadidos románicos y góticos",
+    "texto": {
+     "general": "<p>En un bosque de Esgos, a las puertas de la Ribeira Sacra, una comunidad de monjes <b>excavó su iglesia en la roca</b>. La cabecera y las capillas, separadas por arcos, están labradas en la peña; en el siglo XV se les añadió una nave rectangular. Una <b>lápida del año 573</b>, hoy en el Museo Arqueológico Provincial de Ourense, prueba que el lugar ya estaba habitado entonces: menciona a cinco de sus moradores, Eufrasio, Eusanio, Quinedio, Eatio y Flavio.</p><p>Junto a la iglesia hay <b>ocho tumbas antropomorfas</b> talladas en la roca, y otras cinco en el suelo del templo. En la capilla izquierda sobrevive un fresco de finales del siglo XII (hacia 1175-1200) con los apóstoles sobre un <b>mapamundi</b>, considerado la única representación románica conocida de un mapa del mundo en pintura mural.</p><p>Desde 1199 fue el priorato más importante del monasterio de Celanova. Un incendio en 1640 le dio su aspecto actual. Fue declarado Monumento en 1923 y, en 2018, Bien de Interés Cultural como paisaje cultural junto con unas 100 hectáreas de su entorno.</p><p class=\"dato\"><span>¿Sabías que…?</span>La espadaña se apoya sobre un arco natural de roca de 14 metros.</p>"
+    },
+    "ver_alli": [
+     "Mira la cabecera excavada en la roca y busca el fresco del mapamundi en la capilla de la izquierda.",
+     "Fuera, recorre las tumbas antropomorfas talladas en la peña.",
+     "La antigua casa rectoral alberga el centro de interpretación de la Ribeira Sacra, que explica la vida monástica de la comarca."
+    ],
+    "fuentes": [
+     "https://blog.turismo.gal/san-pedro-de-rocas-cradle-of-devotion-and-history-in-the-ribeira-sacra-2/",
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Pedro_de_Rocas",
+     "https://www.openstreetmap.org/search?query=San%20Pedro%20de%20Rocas"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-ourense",
+   "campos": {
+    "lat": 42.3365,
+    "lon": -7.8631,
+    "tipo": "iglesia",
+    "estilo": "Románico de transición al gótico",
+    "texto": {
+     "general": "<p>La catedral de San Martiño se levantó entre los <b>siglos XII y XIII</b>; su altar mayor se consagró en <b>1188</b>. Es uno de los grandes templos del románico de transición en España, macizo por fuera y encajado entre las calles del casco viejo.</p><p>Su joya es el <b>Pórtico do Paraíso</b>, de mediados del siglo XIII, que reproduce de forma simplificada el <b>Pórtico de la Gloria</b> de Santiago. Conserva una vistosa <b>policromía</b>, aunque la que vemos hoy es del <b>siglo XVIII</b>, probablemente pintada sobre la original románica.</p><p>Sobre el crucero se alza el <b>cimborrio gótico</b>, de 28 metros, construido entre 1499 y 1505 y atribuido a Rodrigo de Badajoz. El retablo mayor es obra de Cornelis de Holanda (1516-1520), y en una capilla se venera el <b>Santo Cristo</b>, la talla más famosa del templo, documentada desde el siglo XIV.</p><p class=\"dato\"><span>¿Sabías que…?</span>Fue declarada Monumento histórico-artístico por decreto del 3 de junio de 1931.</p>"
+    },
+    "ver_alli": [
+     "Ve directo al Pórtico do Paraíso, a los pies del templo, y compáralo con el de la Gloria de Santiago.",
+     "Levanta la vista en el crucero para ver el cimborrio gótico.",
+     "No te pierdas la capilla del Santo Cristo y el retablo mayor dorado."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_de_Orense",
+     "https://www.openstreetmap.org/search?query=Catedral%20de%20Ourense"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-oseira",
+   "campos": {
+    "lat": 42.5384,
+    "lon": -7.9509,
+    "tipo": "iglesia",
+    "estilo": "Cisterciense: románico de transición al gótico, con añadidos de la Edad Moderna",
+    "texto": {
+     "general": "<p>Por sus enormes dimensiones lo llaman <b>«el Escorial gallego»</b>. Su existencia consta desde <b>1137</b>, cuando un pequeño grupo de monjes se retiró a este valle abrupto de San Cristovo de Cea; poco después pasó a la orden del <b>Císter</b>, y en 1141 llegó una colonia de monjes franceses enviados por san Bernardo desde Claraval.</p><p>La iglesia, románica de transición al gótico, se construyó aproximadamente entre <b>1200 y 1239</b>. Lo más célebre es la <b>sala capitular</b> de finales del siglo XV, la «sala de las palmeras»: cuatro columnas de fustes retorcidos que se abren en el techo en nervios, como si fueran troncos de palmera.</p><p>Un incendio en 1552 arrasó casi todo salvo la iglesia, y tras la <b>desamortización de 1835</b> los monjes fueron expulsados y el edificio quedó abandonado y expoliado. En <b>1929</b> volvió una comunidad cisterciense, que inició la reconstrucción y sigue viviendo allí.</p><p class=\"dato\"><span>¿Sabías que…?</span>Fue declarado Monumento en 1923 y recibió el Premio Europa Nostra en 1990.</p>"
+    },
+    "ver_alli": [
+     "La visita es guiada; además de la iglesia, busca la escalera de honor, con peldaños decorados en punta de diamante.",
+     "La sala capitular de las palmeras es lo imprescindible: mira cómo los fustes retorcidos se abren en nervios.",
+     "En la iglesia, busca la imagen de la Virgen de la Leche."
+    ],
+    "fuentes": [
+     "https://lospueblosmasbonitosdeespana.org/en/pueblos/oseira/lugares-de-interes",
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_la_Real_de_Oseira",
+     "https://www.eldiario.es/spin/monjes-monasterio-conocido-escorial-gallego-llevan-siglos-colaborando-elaboracion-pan-pueblo-cercano-pm_1_13041905.amp.html",
+     "https://www.openstreetmap.org/search?query=Mosteiro%20de%20Oseira"
+    ]
+   }
+  },
+  {
+   "id": "santo-estevo-de-ribas-de-sil",
+   "campos": {
+    "lat": 42.4173,
+    "lon": -7.6853,
+    "tipo": "iglesia",
+    "estilo": "Románico, gótico y renacentista",
+    "texto": {
+     "general": "<p>Colgado sobre los <b>cañones del Sil</b>, en Nogueira de Ramuín, es el gran monasterio de la Ribeira Sacra. Su origen es eremítico, probablemente del siglo VI; el primer documento es del <b>12 de octubre de 921</b>, cuando el rey Ordoño II autorizó al abad Franquila a reconstruirlo.</p><p>Entre los siglos X y XI se retiraron aquí <b>nueve obispos</b>, y por eso en su escudo aparecen <b>nueve mitras</b>. La iglesia es románica: sus obras empezaron en <b>1183</b>, según una inscripción, y se terminaron en el siglo XV.</p><p>Tiene <b>tres claustros</b>: el de los Obispos, románico en la planta baja (siglo XII) y tardogótico en la alta, rehecho tras el incendio de 1562; el de los Caballeros, renacentista, empezado en el siglo XVI y terminado en el XVIII; y el pequeño del Vivero, de 1595. Abandonado en el siglo XIX tras la desamortización, desde <b>2004</b> es <b>parador de turismo</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>Fue declarado Monumento Nacional en 1923, y en la restauración del relicario reaparecieron cuatro anillos episcopales.</p>"
+    },
+    "ver_alli": [
+     "Al ser parador, se pueden recorrer la iglesia y los claustros sin necesidad de alojarse.",
+     "Fíjate en el claustro de los Obispos: arcos románicos abajo y gótico tardío arriba.",
+     "Busca el escudo con las nueve mitras y el retablo mayor de la iglesia.",
+     "Desde el aparcamiento hay un paseo cuesta abajo (o lanzadera) hasta el monasterio; los miradores del cañón del Sil están cerca."
+    ],
+    "fuentes": [
+     "https://www.turismo.gal/recurso/-/detalle/5216/santo-estevo-de-ribas-de-sil?langId=en_US&tp=8&ctre=33",
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santo_Estevo_de_Ribas_de_Sil",
+     "https://www.openstreetmap.org/search?query=Mosteiro%20de%20Santo%20Estevo%20de%20Ribas%20de%20Sil"
+    ]
+   }
+  },
+  {
+   "id": "ribadavia-y-su-juderia",
+   "campos": {
+    "lat": 42.2878,
+    "lon": -8.1423,
+    "tipo": "poblacion",
+    "estilo": "Casco medieval",
+    "texto": {
+     "general": "<p>Cabeza de la comarca del Ribeiro, Ribadavia fue entre <b>1065 y 1071</b> sede de la corte del rey García, que la convirtió en capital del Reino de Galicia. Su casco viejo, declarado <b>Monumento Histórico-Artístico en 1947</b>, es uno de los conjuntos medievales mejor conservados de Galicia.</p><p>Dentro de él está <b>uno de los barrios judíos mejor conservados de Galicia</b>, con calles estrechas en torno a la Praza da Madalena. La comunidad judía fue importante en la villa hasta la expulsión decretada por los Reyes Católicos a finales del siglo XV. Hoy lo recuerda un pequeño <b>Museo Sefardí</b>.</p><p>Sobre el pueblo se alzan las ruinas del <b>castillo de los Sarmiento</b>: Enrique II nombró en 1375 a Pedro Ruiz Sarmiento señor de Ribadavia, la obra empezó entonces y se terminó en el siglo XV, y en 1476 se creó el condado de Ribadavia para Bernardino Pérez Sarmiento.</p><p class=\"dato\"><span>¿Sabías que…?</span>Cada verano el patio del castillo acoge la Muestra Internacional de Teatro de Ribadavia, uno de los festivales de teatro más importantes de Galicia.</p>"
+    },
+    "ver_alli": [
+     "Pasea por las calles de la judería, en torno a la Praza da Madalena.",
+     "Entra en el castillo de los Sarmiento; la visita va unida a la del Museo Sefardí.",
+     "Acércate también a la iglesia de Santo Domingo y a la Praza Maior."
+    ],
+    "fuentes": [
+     "https://www.turismo.gal/recurso/-/detalle/7126/barrio-xudeu-de-ribadavia?langId=en_US&tp=9&ctre=40000080",
+     "https://es.wikipedia.org/wiki/Ribadavia",
+     "https://es.wikipedia.org/wiki/Castillo_de_Ribadavia",
+     "https://www.openstreetmap.org/search?query=Barrio%20Xudeu%20de%20Ribadavia"
+    ]
+   }
+  },
+  {
+   "id": "allariz",
+   "campos": {
+    "lat": 42.1901,
+    "lon": -7.8018,
+    "tipo": "poblacion",
+    "estilo": "Casco medieval y románico",
+    "texto": {
+     "general": "<p>Villa medieval a orillas del río Arnoia, Allariz fue una plaza fuerte del reino: <b>Alfonso VI</b> mandó levantar su castillo y sus murallas en el siglo XI, y <b>Alfonso VII</b> le dio un célebre fuero en el XII. El futuro <b>Alfonso X el Sabio</b> pasó aquí buena parte de su infancia.</p><p>Su esposa, la reina <b>Violante de Aragón</b>, fundó en <b>1268</b> el <b>convento de Santa Clara</b>, cuyo edificio actual es una reconstrucción del siglo XVIII. Del románico quedan iglesias como <b>Santiago</b> (empezada hacia 1119) y <b>San Esteban</b>, del primer tercio del siglo XII, y el puente de Vilanova sobre el Arnoia. En el siglo XIII los judíos se asentaron fuera de la muralla, en el barrio de Socastelo.</p><p>El casco viejo fue declarado <b>Conjunto Histórico-Artístico en 1971</b>, y su recuperación integral, junto con las orillas del río, recibió el <b>Premio Europeo de Urbanismo en 1994</b>.</p>"
+    },
+    "ver_alli": [
+     "Recorre a pie el casco viejo desde la Praza Maior y baja hasta el puente de Vilanova, sobre el Arnoia.",
+     "Mira las portadas y canecillos románicos de Santiago y San Esteban.",
+     "Santa Clara es un convento de clarisas en clausura: su gran fachada se ve desde fuera."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Allariz",
+     "https://www.eldebate.com/espana/galicia/20251002/este-pueblo-medieval-galicia-donde-alfonso-x-sabio-paso-infancia-visita-obligada-otono_339044_amp.html",
+     "https://www.openstreetmap.org/search?query=Praza%20Maior%20Allariz"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-monterrei",
+   "campos": {
+    "lat": 41.9469,
+    "lon": -7.4494,
+    "tipo": "castillo",
+    "estilo": "Fortaleza medieval (siglos XII-XV), románico de transición y gótico",
+    "texto": {
+     "general": "<p>En lo alto de un cerro que domina el valle de Verín y la frontera portuguesa, Monterrei es un gran recinto amurallado que encierra castillo, palacio, iglesia y hospital. El lugar está documentado en el año 950, y el castillo fue reedificado en el siglo XII por <b>Alfonso Henriques</b>, el primer rey de Portugal.</p><p>Dentro del recinto destacan la <b>torre del homenaje</b>, de 22 metros, levantada en <b>1482</b> por Sancho Sánchez de Ulloa, primer conde de Monterrei, y su esposa Teresa de Zúñiga; la <b>torre de las Damas</b>, de finales del siglo XIII o comienzos del XIV, lo más antiguo del palacio; la iglesia de <b>Santa María de Gracia</b>, de transición del románico al gótico; y un antiguo hospital de peregrinos.</p><p>Aquí se imprimió el <b>3 de febrero de 1494</b> el <b>Missale Auriense</b>, el <b>primer libro impreso en Galicia</b>, que hoy guarda la catedral de Ourense. En la Edad Moderna se le añadieron recintos abaluartados para defender los conventos franciscano y jesuita.</p>"
+    },
+    "ver_alli": [
+     "Sube a ver la torre del homenaje y la torre de las Damas, en el patio del palacio.",
+     "Entra en la iglesia de Santa María de Gracia y fíjate en su portada norte de arquivoltas apuntadas.",
+     "Desde las murallas, las vistas sobre el valle de Verín y hacia Portugal.",
+     "Parte del recinto es hoy parador."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Monterrei",
+     "https://www.openstreetmap.org/search?query=Castelo%20de%20Monterrei"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "zona": "Remates 4",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "murallas-reales-de-ceuta",
+   "campos": {
+    "lat": 35.8888,
+    "lon": -5.3186,
+    "estilo": "Fortificación abaluartada"
+   }
+  }
+ ]
+}
