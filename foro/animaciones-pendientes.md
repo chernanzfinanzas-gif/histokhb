@@ -13,7 +13,6 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 
 ### Edad Antigua
 - [ ] ant1-0 · Sumer y sus ciudades
-- [ ] ant1-1 · Egipto: el Imperio Antiguo y las pirámides
 - [ ] ant1-11 · Caral, la ciudad más antigua de América
 - [ ] ant1-12 · China antes de las dinastías: Longshan y el «gran Yu»
 - [ ] ant1-13 · El Argar, el primer Estado de la península
@@ -386,6 +385,7 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 
 ## Hechos con Gemini
 
+- [x] ant1-1 (Gemini Flash, 18-oct) · Egipto: el Imperio Antiguo y las pirámides
 - [x] paleolitico-13 (Gemini Flash, 18-oct) · El arte de las cavernas
 - [x] des-ishtar (Gemini Flash, 18-oct) · La puerta de Ishtar
 
