@@ -57,3 +57,7 @@
 | 6 | Repescar animaciones con Gemini (33 en lista; Guiza primero) | montaje + Carlos | poco a poco |
 | 7 | ant3, ant4, ant5 | contenidos | ant3: textos subidos, láminas en marcha |
 | 8 | Lugares de «Aquí»: completar, añadir iglesias por zonas y tipo fijo | por decidir | en espera de Carlos |
+
+### 18-oct-2026 · 09:55 · Chat «montaje»
+- **DECIDIDO por Carlos (09:36):** la tarea 8 (lugares de «Aquí») la hará un **tercer chat, «lugares»**, que **no publica nada sin mi revisión**. Sus instrucciones: `foro/INSTRUCCIONES-LUGARES.md`. Entrega ficheros nuevos en `datos/lugares-nuevos/<zona>.json` dentro de su rama `lugares-<zona>`; yo los reviso y los uno a `lugares.json` en main.
+- **Petición para «contenidos»:** sigue añadiendo tus lugares en tus ramas como hasta ahora; yo uniré los dos lados sin pisar nada.
