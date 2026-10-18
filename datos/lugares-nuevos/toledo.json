@@ -1,0 +1,915 @@
+{
+ "zona": "Toledo",
+ "nuevos": [
+  {
+   "id": "puerta-nueva-de-bisagra-toledo",
+   "nombre": "Puerta Nueva de Bisagra",
+   "provincia": "Toledo",
+   "comarca": "Toledo",
+   "lat": 39.8625,
+   "lon": -4.0252,
+   "tipo": "monumento",
+   "estilo": "Renacentista sobre puerta islámica",
+   "epoca": "Renacimiento",
+   "anio": 1540,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Quien llega a Toledo desde el norte entra por la gran puerta de Bisagra, la entrada monumental de la muralla. Se llama «Nueva» para distinguirla de la vecina Puerta Antigua de Bisagra o de Alfonso VI, más pequeña. Su nombre árabe era <b>bab al-Saqra</b>.</p><p>La puerta que vemos se rehízo en el siglo XVI: las obras empezaron hacia <b>1540</b>, participaron Nicolás de Vergara el Viejo, Juan de Benavides, Eugenio Sánchez y, hacia 1547-1548, <b>Alonso de Covarrubias</b>, y terminaron en <b>1576</b>.</p><p>Debajo hay mucho más. Una excavación de 1999 demostró que la obra renacentista se levantó sobre un <b>acceso en codo islámico</b>, anterior a la conquista de la ciudad por Alfonso VI en 1085. De los dos torreones cuadrados con tejado piramidal, el del oeste formaba parte de aquella puerta medieval: es macizo y de grandes sillares colocados a soga y tizón.</p>"
+   },
+   "ver_alli": [
+    "La fachada exterior, con sus dos torreones de tejado piramidal.",
+    "El torreón oeste, de grandes sillares de la puerta islámica.",
+    "El patio interior y, a pocos metros, la Puerta Antigua de Bisagra."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Puerta_Nueva_de_Bisagra",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Puerta+de+Bisagra,+Toledo",
+    "https://www.google.com/maps/place/?q=place_id:ChIJJzML4agLag0RlilEySdej3U"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "puente-de-alcantara-toledo",
+   "nombre": "Puente de Alcántara",
+   "provincia": "Toledo",
+   "comarca": "Toledo",
+   "lat": 39.8604,
+   "lon": -4.0174,
+   "tipo": "monumento",
+   "estilo": "Romano, andalusí y medieval",
+   "epoca": "Andalusí",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Su nombre lo dice todo: <b>al-qantara</b> significa «el puente» en árabe. Es el puente más antiguo de Toledo y salva el Tajo al pie del castillo de San Servando. Hay constancia de un puente aquí desde <b>época romana</b>, cuando se fundó <i>Toletum</i>.</p><p>Muy dañado, se reconstruyó en el <b>siglo X</b>, cuando desapareció su tercer arco, reducido a un portillo con arco de herradura; hoy tiene dos arcos. Volvió a sufrir graves daños en tiempos de <b>Alfonso X</b>, de cuya reconstrucción procede el torreón occidental, decorado después con las armas de los <b>Reyes Católicos</b>. El torreón del lado oriental, en ruinas, se sustituyó en <b>1721</b> por un arco triunfal barroco.</p><p>Durante la Edad Media fue la entrada obligada para los peregrinos que llegaban a la ciudad. Con el resto de murallas, puertas y puentes de Toledo fue declarado Monumento Nacional en 1921.</p><p class=\"dato\"><span>¿Sabías que…?</span>En el escudo de los Reyes Católicos del torreón falta la granada: cuando se labró, Granada aún no había sido conquistada.</p>"
+   },
+   "ver_alli": [
+    "El torreón occidental con el escudo de los Reyes Católicos.",
+    "El arco triunfal barroco de 1721 en el lado de San Servando.",
+    "La vista del Tajo encajonado y del Alcázar desde el centro del puente."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Puente_de_Alc%C3%A1ntara_(Toledo)",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Puente+de+Alc%C3%A1ntara,+Toledo",
+    "https://www.google.com/maps/place/?q=place_id:ChIJWXzsoLoLag0R-M8Cgj5p_T4"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "puente-de-san-martin-toledo",
+   "nombre": "Puente de San Martín",
+   "provincia": "Toledo",
+   "comarca": "Toledo",
+   "lat": 39.8567,
+   "lon": -4.0341,
+   "tipo": "monumento",
+   "estilo": "Mudéjar",
+   "epoca": "Mudéjar",
+   "anio": 1390,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En el oeste de la ciudad, el puente de San Martín cruza el Tajo con una torre fortificada en cada extremo. Se construyó en el <b>siglo XIII</b>, probablemente para sustituir un puente de barcas que la corriente se llevaba a menudo, y tomó el nombre de la parroquia de San Martín.</p><p>Hacia 1355 Pedro I mandó quemar sus puertas y en 1368 volvió a sufrir daños. Lo restauró hacia <b>1390</b> el arzobispo <b>Pedro Tenorio</b>, que hizo construir el gran <b>arco central</b> y los dos torreones almenados. Todo él es de sillería.</p><p>En tiempos de Carlos II se ensancharon sus accesos y un siglo después se pavimentó; de ambas reformas queda una inscripción en el torreón de entrada, con el escudo imperial flanqueado por dos reyes sentados. Fue declarado Monumento Nacional en 1921.</p>"
+   },
+   "ver_alli": [
+    "El gran arco central, el más ancho del puente.",
+    "El torreón de entrada con el escudo imperial y los dos reyes sentados.",
+    "Desde el puente, la vista de San Juan de los Reyes sobre la ladera."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Puente_de_San_Mart%C3%ADn_(Toledo)",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Puente+de+San+Mart%C3%ADn,+Toledo",
+    "https://www.google.com/maps/place/?q=place_id:ChIJS03jLAkLag0RObKiPcHToiw"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-de-santa-cruz-toledo",
+   "nombre": "Museo de Santa Cruz",
+   "provincia": "Toledo",
+   "comarca": "Toledo",
+   "lat": 39.86,
+   "lon": -4.0204,
+   "tipo": "museo",
+   "estilo": "Plateresco (edificio); pintura del Greco",
+   "epoca": "Renacimiento",
+   "anio": 1514,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>El museo ocupa el antiguo <b>Hospital de Santa Cruz</b>, que el cardenal <b>Pedro González de Mendoza</b> dejó encargado en su testamento (1495) para recoger a los niños huérfanos y expósitos de la ciudad. Sus albaceas, entre ellos <b>Isabel la Católica</b> y el cardenal Cisneros, cumplieron el encargo. Lo trazaron Antón y Enrique Egas en <b>planta de cruz griega</b>, inspirada en el Ospedale Maggiore de Milán, y se inauguró en <b>1514</b> sin terminar.</p><p><b>Alonso de Covarrubias</b> hizo después la espléndida <b>portada plateresca</b>, el patio y la escalera. En el tímpano de la portada aparece el cardenal Mendoza arrodillado ante la Santa Cruz.</p><p>Su gran atractivo es una colección de cuadros del <b>Greco</b> que recorre casi toda su etapa toledana, desde <i>La Verónica</i> (h. 1580) hasta <i>La Inmaculada Concepción</i> de la capilla Oballe, pintada poco antes de su muerte en 1614. Hay además arqueología, artes decorativas, un pendón de la batalla de Lepanto y la colección Carranza de cerámica, con unas 480 piezas.</p>"
+   },
+   "ver_alli": [
+    "La portada plateresca de Covarrubias.",
+    "El crucero de dos alturas con sus artesonados.",
+    "Las salas del Greco y la Inmaculada de la capilla Oballe."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Santa_Cruz",
+    "https://es.wikipedia.org/wiki/Hospital_de_Santa_Cruz_(Toledo)",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Museo+de+Santa+Cruz,+Toledo",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ6zVVaaULag0Rog1QA0UmivM"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santo-domingo-el-antiguo-toledo",
+   "nombre": "Monasterio de Santo Domingo el Antiguo",
+   "provincia": "Toledo",
+   "comarca": "Toledo",
+   "lat": 39.8595,
+   "lon": -4.0285,
+   "tipo": "iglesia",
+   "estilo": "Renacentista (herreriano); claustro mudéjar",
+   "epoca": "Renacimiento",
+   "anio": 1577,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Es uno de los conventos más antiguos de Toledo: sus documentos lo remontan a la época de san Ildefonso, y conserva tres piedras visigodas de los siglos VI y VII. Tras conquistar Toledo en 1085, <b>Alfonso VI</b> lo mandó reconstruir cumpliendo una promesa al abad de Silos; en 1159 sus monjas adoptaron la reforma <b>cisterciense</b>.</p><p>La iglesia actual se levantó en la segunda mitad del siglo XVI para enterramiento de <b>María de Silva</b>, una dama portuguesa que vivió 38 años en el monasterio. La empezó Nicolás de Vergara el Mozo y la continuó <b>Juan de Herrera</b>. Su albacea, el deán Diego de Castilla, encargó al <b>Greco</b> el retablo mayor y dos laterales: los contratos se firmaron el <b>8 de agosto de 1577</b>. Solo algunos de los lienzos siguen en su sitio.</p><p>El claustro de los Laureles, todo de ladrillo, es de finales del siglo XV o principios del XVI. La sala capitular y el antiguo coro conservan yeserías mudéjares, alfombras de azulejos y artesonados que mezclan formas renacentistas y estrellas de tradición mudéjar.</p>"
+   },
+   "ver_alli": [
+    "La iglesia sencilla y luminosa, con la cúpula y su linterna.",
+    "Los retablos del Greco y los lienzos que siguen en su lugar.",
+    "Los azulejos y artesonados de la sala capitular y el coro."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Santo_Domingo_el_Antiguo_(Toledo)",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Monasterio+de+Santo+Domingo+el+Antiguo,+Toledo",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ06bl-qcLag0RgnoIRzvmvi4"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-el-salvador-toledo",
+   "nombre": "Iglesia de El Salvador",
+   "provincia": "Toledo",
+   "comarca": "Toledo",
+   "lat": 39.8567,
+   "lon": -4.0268,
+   "tipo": "iglesia",
+   "estilo": "Mezquita con restos visigodos; capilla gótica",
+   "epoca": "Andalusí",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>A dos pasos de Santo Tomé, esta iglesia fue antes una <b>mezquita</b>, que algunos investigadores fechan en 1041 o antes; bajo ella se han hallado restos visigodos e incluso de época romana. Por eso el templo no mira al este sino al <b>sureste, hacia La Meca</b>.</p><p>Para levantar la mezquita se reaprovecharon piezas visigodas, y gracias a ello se conserva una <b>arquería de herradura sobre pilastras visigodas</b>. Una de ellas, la <b>pilastra de El Salvador</b>, está tallada con milagros de Jesús —la curación del ciego, la resurrección de Lázaro, la samaritana—, algo muy raro en restos de este tipo. El antiguo alminar se convirtió en torre, con un campanario de ladrillo añadido.</p><p>Se convirtió al culto cristiano en 1159. Un incendio en el siglo XV obligó a renovarla y otro en 1823 la destruyó de nuevo, salvo la <b>capilla gótica de santa Catalina</b>. Aquí fueron bautizados <b>Juana I de Castilla</b> y el dramaturgo Rojas Zorrilla, y aparece citada en el <i>Lazarillo de Tormes</i>.</p>"
+   },
+   "ver_alli": [
+    "La arquería de herradura y la pilastra visigoda con los milagros de Jesús.",
+    "La torre, antiguo alminar, coronada por el campanario de ladrillo.",
+    "Las excavaciones visibles bajo el suelo y en el patio."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_El_Salvador_(Toledo)",
+    "https://nominatim.openstreetmap.org/reverse?format=json&lat=39.8567&lon=-4.0268&zoom=18",
+    "https://www.google.com/maps/place/?q=place_id:ChIJHa14GacLag0R-loYoAN4vIQ"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "molinos-de-consuegra",
+   "nombre": "Molinos de Consuegra",
+   "provincia": "Toledo",
+   "comarca": "Consuegra",
+   "lat": 39.4492,
+   "lon": -3.607,
+   "tipo": "monumento",
+   "estilo": "Molinos de torre manchegos",
+   "epoca": "Siglo XIX",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En la cresta del <b>cerro Calderico</b>, a ambos lados del castillo, se alinean los molinos de viento que se han convertido en la imagen de La Mancha. La mayoría se construyeron en la <b>primera mitad del siglo XIX</b>: Pascual Madoz contó diez molinos harineros en 1847, aunque en el siglo XVIII ya había al menos dos. Hoy se conservan <b>doce de los trece</b> que llegó a haber.</p><p>Siguen el tipo de <b>molino de torre</b> nacido en Holanda en los siglos XVI-XVII: un cuerpo cilíndrico de mampostería encalada y una cubierta cónica giratoria de madera y cinc con el palo de gobierno y cuatro aspas. Dentro hay tres plantas: abajo el silo, en medio la «camareta» con el cedazo y arriba el «moledero» con la maquinaria y la <b>rueda catalina</b>. Ocho ventanillos permitían al molinero saber de dónde soplaba el viento para orientar las aspas a mano.</p><p>El cerro, con los molinos y el castillo, es Bien de Interés Cultural como sitio histórico desde 2008.</p><p class=\"dato\"><span>¿Sabías que…?</span>El molino Sancho conserva su maquinaria y cada año, el último fin de semana de octubre, vuelve a moler en la fiesta de «La molienda de la paz».</p>"
+   },
+   "ver_alli": [
+    "La fila de molinos blancos recortada sobre la llanura.",
+    "El interior de algún molino abierto: la rueda catalina y las piedras de moler.",
+    "Al atardecer, la vista de los molinos con el castillo al fondo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Molinos_de_Consuegra",
+    "https://nominatim.openstreetmap.org/reverse?format=json&lat=39.4491&lon=-3.6071&zoom=18",
+    "https://www.google.com/maps/place/?q=place_id:ChIJzwhi3WOPaQ0Rnrp7-7-Cm9A"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-oropesa",
+   "nombre": "Castillo de Oropesa",
+   "provincia": "Toledo",
+   "comarca": "Oropesa",
+   "lat": 39.92,
+   "lon": -5.1738,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1402,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En el borde norte de Oropesa, sobre un altozano entre encinas, se alza un conjunto formado por dos edificios unidos: el <b>Castillo Viejo</b>, rectangular y con torres redondas, quizá de origen musulmán y documentado desde el siglo XIII, y el <b>Palacio Nuevo</b> de los <b>Álvarez de Toledo</b>, construido hacia <b>1402</b>.</p><p>La villa y el castillo pasaron en 1355 a García Álvarez de Toledo, y desde 1475 fueron el centro del <b>condado de Oropesa</b>. Lo más llamativo es la <b>torre del homenaje</b>, de 25 metros, coronada por garitones con los escudos del primer conde, Fernando Álvarez de Toledo, y de su esposa Leonor de Zúñiga. Una ancha escalera de piedra sobre arcos sube desde el patio hasta el adarve.</p><p>Desde aquí el conde apoyó a los <b>comuneros</b> frente a Carlos V. Las tropas francesas lo saquearon en 1808; después fue plaza de toros y cuartel de la Guardia Civil. En <b>1930</b> el palacio se convirtió en el <b>primer parador</b> instalado en un edificio histórico.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje y sus garitones con escudos.",
+    "La gran escalera de piedra sobre arcos que sube al adarve.",
+    "Las vistas desde las murallas sobre la Campana de Oropesa."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Oropesa",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Castillo+de+Oropesa",
+    "https://www.google.com/maps/place/?q=place_id:ChIJaTEdzlr8Pw0RmKWPvAXolD8"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-escalona",
+   "nombre": "Castillo-palacio de Escalona",
+   "provincia": "Toledo",
+   "comarca": "Escalona",
+   "lat": 40.1662,
+   "lon": -4.4017,
+   "tipo": "castillo",
+   "estilo": "Andalusí y gótico",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1438,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Sobre un espolón junto al <b>Alberche</b>, el castillo de Escalona fue una de las grandes defensas de la frontera del Tajo. Fortaleza romana y luego musulmana, la tomó <b>Alfonso VI</b> poco antes de conquistar Toledo, y sufrió los ataques almorávides y almohades de 1137 y 1196.</p><p>En 1281 Alfonso X lo dio a su hermano, el infante Manuel, y aquí nació su hijo, el escritor <b>don Juan Manuel</b>. En 1424 Juan II se lo entregó a su valido <b>Álvaro de Luna</b>, que construyó dentro un palacio que el propio rey describió como «la casa mejor que en España se fallaba». Se terminó en <b>1438</b> y ese mismo agosto un <b>rayo</b> cayó en la torre del homenaje y lo incendió.</p><p>Tras la detención de don Álvaro en 1453, su viuda Juana Pimentel se encerró aquí con sus hijos y resistió el asedio del rey. Hoy el castillo está en ruinas, pero parte del palacio se ha restaurado y se hacen visitas guiadas.</p>"
+   },
+   "ver_alli": [
+    "El gran foso y el patio de armas.",
+    "Los restos del palacio de Álvaro de Luna.",
+    "Desde lo alto, la vista del Alberche y del pueblo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo-palacio_de_Escalona",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Castillo+de+Escalona",
+    "https://www.google.com/maps/place/?q=place_id:ChIJG5XzIgA1QA0RwdZm9RcwPQU"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-maqueda",
+   "nombre": "Castillo de la Vela (Maqueda)",
+   "provincia": "Toledo",
+   "comarca": "Maqueda",
+   "lat": 40.0647,
+   "lon": -4.3694,
+   "tipo": "castillo",
+   "estilo": "Andalusí y gótico",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En un extremo del viejo recinto amurallado de Maqueda se levanta el castillo de la Vela. Hacia el año <b>981</b>, por orden de <b>Almanzor</b>, el arquitecto Fatho ben Ibrahim amplió aquí una fortaleza anterior. <b>Alfonso VI</b> la tomó en 1083, y en 1177 Alfonso VIII la dio a la <b>Orden de Calatrava</b>, que probablemente la rodeó de la muralla que también abrazaba la villa.</p><p>Resistió los asedios de 1196-1198 y en 1434 pasó a <b>Álvaro de Luna</b>. Más tarde la compró <b>Gutierre de Cárdenas</b>, contador del reino, que la reconstruyó y amplió en el siglo XV: su escudo y el de su esposa presiden la puerta principal. <b>Isabel la Católica</b> vivió en ella una temporada con su amiga <b>Beatriz de Bobadilla</b>, hija del alcaide.</p><p>Es de planta rectangular, con muros de <b>3,5 metros</b> de espesor, torres circulares y un adarve almenado muy bien conservado. Fue cuartel de la Guardia Civil y en 2025 la compró una cadena hotelera, así que hoy solo se ve por fuera.</p>"
+   },
+   "ver_alli": [
+    "La puerta norte con el escudo de los Cárdenas y su matacán.",
+    "Las almenas del adarve, con saeteras cada dos merlones.",
+    "Restos de la muralla de la villa: torres de la Vela y de las Infantas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_la_Vela",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Castillo+de+Maqueda",
+    "https://www.google.com/maps/place/?q=place_id:ChIJA41ipKDNQQ0RihhpU3iNGXE"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-guadamur",
+   "nombre": "Castillo de Guadamur",
+   "provincia": "Toledo",
+   "comarca": "Guadamur",
+   "lat": 39.8103,
+   "lon": -4.1461,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1470,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Muy cerca de Toledo, sobre el cerro de la Ermita, el castillo de Guadamur se construyó en dos fases, hacia <b>1470</b> y hacia <b>1520</b>, por orden del <b>conde de Fuensalida</b>, de la familia Ayala. Además de defensa, era lugar de descanso y caza y un refugio seguro cerca de Toledo cuando la política se complicaba.</p><p>El núcleo es cuadrado, con torreones redondos en las esquinas y, en el centro de cada muro, un saliente en forma de <b>punta de estrella</b>, una de las primeras soluciones de este tipo y antecedente de la fortificación de siglos posteriores. Luego se añadieron otro cuerpo de palacio, una barrera exterior y un foso.</p><p>En 1887 lo compró el barón de las Cuatro Torres para restaurarlo; Pérez Galdós lo cita en su novela <i>Ángel Guerra</i> como ejemplo de castillo «sacado de la sepultura». Es propiedad privada y ha salido en películas como <i>El caballero negro</i> (1954) o <i>Los Borgia</i> (2006).</p>"
+   },
+   "ver_alli": [
+    "Las puntas de estrella en el centro de cada lienzo.",
+    "El núcleo cuadrado con sus cuatro torreones redondos.",
+    "El foso y la barrera exterior de la segunda fase."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Guadamur",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Castillo+de+Guadamur",
+    "https://www.google.com/maps/place/?q=place_id:ChIJNbWFB-Rzag0RXQR9J2ICgp8"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-almonacid",
+   "nombre": "Castillo de Almonacid",
+   "provincia": "Toledo",
+   "comarca": "Almonacid de Toledo",
+   "lat": 39.7488,
+   "lon": -3.8518,
+   "tipo": "castillo",
+   "estilo": "Andalusí y medieval",
+   "epoca": "Castillos y fortalezas",
+   "anio": 848,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En lo alto de un monte que se ve desde decenas de kilómetros, a unos 20 km de Toledo, están las ruinas del castillo de Almonacid. La primera mención es musulmana, del año <b>848</b>, cuando vigilaba un antiguo camino hacia La Mancha.</p><p>En el siglo XI pasó a <b>Alfonso VI</b> como parte de la dote de su esposa <b>Zaida</b>, y en 1086 el rey lo donó a la catedral de Toledo. En el siglo XIV lo reformó el arzobispo Pedro Tenorio y sirvió de prisión a Alfonso Enríquez, hijo bastardo de Enrique II. En 1809, durante la <b>batalla de Almonacid</b>, sirvió de refugio a las tropas del general Venegas, pero acabó en manos francesas.</p><p>En 1839 el ayuntamiento permitió a los vecinos sacar y vender sus ladrillos, lo que lo dejó muy dañado. Quedan los muros almenados, la barrera exterior y, en el centro, la <b>torre del homenaje</b> de tres plantas abovedadas, además de restos de aljibes y un silo.</p><p class=\"dato\"><span>¿Sabías que…?</span>Entre sus dueños estuvo la condesa de Mora Eugenia de Guzmán, que llegó a ser emperatriz de Francia.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje en el centro del recinto.",
+    "Las troneras triples de los muros.",
+    "Las vistas de la llanura desde la cima."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Almonacid",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Castillo+de+Almonacid+de+Toledo",
+    "https://www.google.com/maps/place/?q=place_id:ChIJB59n7zMbag0RfuXc-GSv1kA"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "basilica-del-prado-talavera",
+   "nombre": "Basílica de Nuestra Señora del Prado",
+   "provincia": "Toledo",
+   "comarca": "Talavera de la Reina",
+   "lat": 39.9614,
+   "lon": -4.8207,
+   "tipo": "iglesia",
+   "estilo": "Renacentista y barroco; cerámica de Talavera",
+   "epoca": "Renacimiento",
+   "anio": 1649,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En los jardines del Prado se levanta el santuario de la patrona de Talavera, a la que Felipe II llamó la «<b>reina de las ermitas</b>». El lugar fue sagrado desde antiguo: según la tradición, a las afueras de la romana <i>Caesarobriga</i> hubo un templo a divinidades del campo, del que vendrían las fiestas de <b>las Mondas</b>.</p><p>La parte más antigua del edificio actual, las tres naves renacentistas sobre columnas toscanas, es del siglo XVI. En <b>1649</b> se añadió la capilla mayor barroca con su gran cúpula, bajo la dirección de <b>fray Lorenzo de San Nicolás</b>. En 1989 fue elevada a basílica menor.</p><p>Su tesoro es la <b>cerámica de Talavera</b>, del siglo XVI al XX. Los zócalos del siglo XVII representan la genealogía de Cristo en un lado y la vida de la Virgen en el otro, y algunos paneles del XVI vienen de la desaparecida iglesia de San Antón. En el lado derecho de la capilla mayor hay un gran retablo de cerámica.</p>"
+   },
+   "ver_alli": [
+    "Los zócalos de azulejos de las naves laterales.",
+    "El retablo de cerámica de la capilla mayor y la cúpula.",
+    "En los jardines, bancos y fuentes con cerámica de Ruiz de Luna."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_del_Prado",
+    "https://nominatim.openstreetmap.org/reverse?format=json&lat=39.9614&lon=-4.8207&zoom=18",
+    "https://www.google.com/maps/place/?q=place_id:ChIJAasS1wccQA0RbE-RwZZrkk0"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "murallas-de-talavera-de-la-reina",
+   "nombre": "Murallas y torres albarranas de Talavera",
+   "provincia": "Toledo",
+   "comarca": "Talavera de la Reina",
+   "lat": 39.9594,
+   "lon": -4.8294,
+   "tipo": "monumento",
+   "estilo": "Fortificación islámica con torres cristianas",
+   "epoca": "Andalusí",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Talavera llegó a tener <b>tres recintos amurallados</b>. El más antiguo y monumental, el de «La Villa», lo mandó construir <b>Abderramán III</b> entre los siglos IX y X, posiblemente sobre una muralla romana o visigoda, para convertir la <i>Talabira</i> musulmana en una plaza fuerte de la frontera.</p><p>Está hecho con sillares, muchos <b>reaprovechados de edificios romanos</b> —hay incluso lápidas de esa época metidas en el muro—, y piedra sin labrar con argamasa. Tiene torres cuadradas y semicirculares; las semicirculares son lo más antiguo, del siglo IX.</p><p>En los siglos XIII-XIV, ya en época cristiana, se le añadieron enormes <b>torres albarranas</b>, separadas del muro y unidas a él por arcos altísimos bajo los que corría el foso. De las 17 que hubo quedan <b>ocho completas</b>, en las calles Carnicerías, Corredera del Cristo y Charcón; en una de ellas se aloja la capilla del Cristo de los Mercaderes.</p><p class=\"dato\"><span>¿Sabías que…?</span>La torre albarrana es el símbolo de la ciudad y aparece en el escudo de Talavera.</p>"
+   },
+   "ver_alli": [
+    "Las torres albarranas de la calle Carnicerías y sus arcos.",
+    "La Puerta de Sevilla, del siglo XVI, en la misma calle.",
+    "Los sillares romanos reaprovechados en los lienzos."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Murallas_de_Talavera_de_la_Reina",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Calle+Carnicer%C3%ADas,+Talavera+de+la+Reina",
+    "https://www.google.com/maps/place/?q=place_id:ChIJPegaDgscQA0Rykx5UakVnY0"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "hospital-de-la-caridad-illescas",
+   "nombre": "Santuario y Hospital de la Caridad",
+   "provincia": "Toledo",
+   "comarca": "Illescas",
+   "lat": 40.1256,
+   "lon": -3.8499,
+   "tipo": "iglesia",
+   "estilo": "Renacentista; pinturas del Greco",
+   "epoca": "Renacimiento",
+   "anio": 1500,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>El <b>cardenal Cisneros</b> fundó en Illescas un hospital con su iglesia, del año <b>1500</b>, según planos de Pedro de Gumiel. En el santuario se colocó la imagen de la <b>Virgen de la Caridad</b>, que le dio nombre y es la patrona de la villa. Felipe II le tenía devoción y vino a rezarle varias novenas.</p><p>Entre 1588 y 1600 Nicolás de Vergara y su hermano Juan reformaron el hospital y la iglesia. Para ella hizo el <b>Greco</b> en <b>1603</b> el retablo mayor y una serie de cuadros de la vida de la Virgen: <i>La Virgen de la Caridad</i>, <i>La Anunciación</i>, <i>La Natividad</i>, <i>La Coronación</i> y <i>Los desposorios</i>. Este último está hoy en el Museo Nacional de Arte de Rumanía, en Bucarest; los demás siguen aquí, junto a un <i>San Ildefonso</i> también del Greco.</p><p>En el santuario cuelga además el gran cuadro <i>Cisneros, fundador del hospital de Illescas</i>, de Alejandro Ferrant, que ganó la primera medalla en la Exposición Nacional de 1892.</p>"
+   },
+   "ver_alli": [
+    "Los lienzos del Greco en su emplazamiento original.",
+    "El San Ildefonso del Greco, que también se guarda aquí.",
+    "El cuadro de Ferrant con Cisneros fundando el hospital."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Santuario_de_Nuestra_Se%C3%B1ora_de_la_Caridad_(Illescas)",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Hospital+de+la+Caridad,+Illescas",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ3x_zhB7xQQ0RG7fW_-c-JZY"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "plaza-mayor-de-tembleque",
+   "nombre": "Plaza Mayor de Tembleque",
+   "provincia": "Toledo",
+   "comarca": "Tembleque",
+   "lat": 39.6983,
+   "lon": -3.5033,
+   "tipo": "monumento",
+   "estilo": "Plaza porticada manchega",
+   "epoca": "Barroco",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Es una de las plazas porticadas más bonitas de Castilla. De planta cuadrada, tiene soportales sobre <b>columnas de granito</b> en tres de sus lados, y encima dos pisos de <b>corredores con pies derechos de madera</b> y fachadas encaladas. Los antepechos de las barandillas llevan la <b>cruz de San Juan</b>.</p><p>Su disposición recuerda a los antiguos <b>corrales de comedias</b>, porque se pensó como escenario de <b>festejos taurinos</b> y fiestas: por eso tiene un torreón desde el que presidían las autoridades. En uno de los lados está el ayuntamiento, barroco del siglo XVII, y un pasadizo la comunica con la vecina plaza de la Orden.</p><p>Fue declarada Bien de Interés Cultural en <b>1973</b>. En 2013 se hundió parte de la fachada oeste, que se rehabilitó en 2016 y 2017.</p>"
+   },
+   "ver_alli": [
+    "Los corredores de madera y las cruces de San Juan en los antepechos.",
+    "El torreón desde el que las autoridades presidían los festejos.",
+    "El pasadizo hacia la plaza de la Orden."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Plaza_Mayor_de_Tembleque",
+    "https://www.spain.info/es/destino/tembleque/",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Plaza+Mayor,+Tembleque",
+    "https://www.google.com/maps/place/?q=place_id:ChIJNz3xZwDvaQ0R5ezwxtppUzc"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-san-servando-toledo",
+   "nombre": "Castillo de San Servando",
+   "provincia": "Toledo",
+   "comarca": "Toledo",
+   "lat": 39.8604,
+   "lon": -4.0156,
+   "tipo": "castillo",
+   "estilo": "Medieval, restaurado",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1088,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En el cerro frente a la ciudad, al otro lado del Tajo, el castillo de San Servando vigilaba el <b>puente de Alcántara</b>. Fue primero una pequeña fortaleza romana que protegía el puente y el acueducto que traía el agua a Toledo, y los musulmanes la ampliaron hasta hacer de ella un alcázar.</p><p>Tras conquistar Toledo, <b>Alfonso VI</b> la convirtió el <b>11 de marzo de 1088</b> en un monasterio dedicado a los santos Servando y Germán, en agradecimiento por la batalla de Sagrajas. Pero al quedar fuera de las murallas sufrió los ataques almorávides: los monjes tuvieron que irse entre 1099 y 1110 y volvió a ser fortaleza, hasta que en 1147 quedó definitivamente en manos cristianas.</p><p>Sin función tras el avance de la frontera al sur, estuvo a punto de ser derribado y en 1874 fue declarado Monumento Nacional. Hoy, restaurado, es albergue y sede de cursos, y tiene una de las mejores vistas de Toledo.</p>"
+   },
+   "ver_alli": [
+    "La silueta almenada sobre el cerro, vista desde el puente de Alcántara.",
+    "La panorámica de Toledo y el Tajo desde sus jardines.",
+    "Bajando, el puente de Alcántara a sus pies."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_San_Servando",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Castillo+de+San+Servando,+Toledo",
+    "https://www.google.com/maps/place/?q=place_id:ChIJQ6J9qMgLag0RHdTYGxzNpv8"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "puerta-del-sol-toledo",
+   "nombre": "Puerta del Sol",
+   "provincia": "Toledo",
+   "comarca": "Toledo",
+   "lat": 39.8611,
+   "lon": -4.024,
+   "tipo": "monumento",
+   "estilo": "Mudéjar",
+   "epoca": "Mudéjar",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Subiendo desde la Puerta de Bisagra hacia el centro aparece la Puerta del Sol, una de las puertas más bellas de la muralla de Toledo. Es <b>mudéjar</b>, del <b>último cuarto del siglo XIV</b>, y tiene mucho de influencia nazarí.</p><p>Es una <b>puerta albarrana</b> de carácter conmemorativo: más que un paso defensivo, una entrada para lucir. El vano es un <b>arco de herradura</b> enmarcado por otro de herradura apuntado, con un friso de <b>arcos lobulados entrelazados</b>. Está hecha de piedra, sillería y mampostería, y sus almenas y el friso son de ladrillo.</p><p>Debe su nombre a un relieve de la cara exterior en el que, entre otras figuras, aparece un <b>sol</b>.</p>"
+   },
+   "ver_alli": [
+    "El doble arco de herradura de la entrada.",
+    "El friso de arcos lobulados entrelazados, en ladrillo.",
+    "El relieve del sol que da nombre a la puerta, en la cara exterior."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Puerta_del_Sol_(Toledo)",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Puerta+del+Sol,+Toledo",
+    "https://www.google.com/maps/place/?q=place_id:ChIJSWRSsKgLag0RVPqtt9UbTZQ"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "carranque",
+   "campos": {
+    "estilo": "Villa y palacio tardorromanos",
+    "texto": {
+     "general": "<p>El 23 de julio de 1983, mientras labraba en el paraje de Suertes de Abajo, el vecino <b>Samuel López Iglesias</b> sacó a la luz, a solo diez centímetros de profundidad, el mosaico de <b>Las Metamorfosis</b>. Era el comienzo de uno de los grandes conjuntos tardorromanos de Hispania, excavado entre 1985 y 2003 y abierto en parte al público desde 2003.</p><p>La <b>villa</b>, del siglo IV, tiene planta cuadrada de unos 40 metros de lado y salas con mosaicos, como el de Océano. El nombre de <b>Materno</b> aparece en una cartela del dormitorio principal, y por eso se ha relacionado con <b>Materno Cinegio</b>, un alto cargo de la corte del emperador Teodosio.</p><p>A su lado se levantó hacia el año 400 un gran <b>edificio palacial</b> con columnas de unos cuatro metros traídas de Turquía y Grecia y <b>39 tipos de mármol</b>, solo uno de la Península: una de las mejores colecciones de mármoles del Occidente romano. Completa el conjunto un pequeño mausoleo familiar.</p><p class=\"dato\"><span>¿Sabías que…?</span>En 1142 Alfonso VII convirtió el edificio palacial en el monasterio de Santa María de Batres.</p>"
+    },
+    "ver_alli": [
+     "Empieza en el centro de interpretación y la sala de proyección.",
+     "Busca la cartela con el nombre de Materno en el mosaico del dormitorio.",
+     "El mosaico de Océano, en el salón hexagonal.",
+     "En el edificio palacial, fíjate en los fragmentos de mármoles de colores."
+    ],
+    "fuentes": [
+     "https://www.eldebate.com/espana/castilla-la-mancha/20260425/agricultor-encontro-toledo-llevaba-1700-anos-esperando-bajo-tierra_410389.html",
+     "https://www.wikidata.org/wiki/Q766555",
+     "https://es.wikipedia.org/wiki/Villa_romana_de_Carranque"
+    ]
+   }
+  },
+  {
+   "id": "el-saucedo",
+   "campos": {
+    "estilo": "Villa romana y basílica paleocristiana",
+    "texto": {
+     "general": "<p>Junto a Talavera la Nueva se excavó una villa romana con una vida larguísima: del <b>siglo I</b> al <b>VIII</b>, cuando un incendio destruyó sus almacenes y el lugar quedó abandonado.</p><p>Conserva una entrada monumental con fuente, grandes estancias con restos de <b>mosaicos</b> y <b>dos complejos termales</b>, con sus salas templada y fría, una sauna octogonal y un sistema de calefacción por agua.</p><p>Lo más singular llegó al final de su historia: parte de las <b>termas se transformó en una basílica cristiana</b>, con altar y una <b>pila bautismal</b> para el bautismo por inmersión. Es Bien de Interés Cultural y en los últimos años se han consolidado sus muros, arcos y suelos.</p>"
+    },
+    "ver_alli": [
+     "La visita es guiada: confírmala antes de ir.",
+     "Busca la sala octogonal de las termas.",
+     "La pila bautismal de inmersión, en lo que fueron los baños.",
+     "Los restos de suelos de mosaico."
+    ]
+   }
+  },
+  {
+   "id": "circo-toledo",
+   "campos": {
+    "lat": 39.8641,
+    "lon": -4.0303,
+    "estilo": "Romano (edificio de espectáculos)",
+    "texto": {
+     "general": "<p>El circo de <i>Toletum</i> se construyó en el <b>siglo I</b>, en tiempos de Augusto o de Tiberio, para las carreras de carros. Medía más de <b>420 metros de largo</b> y unos 112 de ancho, y por comparación con el de Mérida se calcula que cabían en él entre <b>15.000 y 30.000 espectadores</b>.</p><p>Se abandonó en época visigoda y durante buena parte de la Edad Media sirvió de cantera de sillares de granito. En época musulmana se instaló sobre él un cementerio y los comerciantes reaprovecharon su graderío. Más de la mitad sigue sin excavar; entre 2011 y 2012 se consolidaron los restos y se renovó el parque que lo rodea.</p><p class=\"dato\"><span>¿Sabías que…?</span>Junto al circo hubo un teatro, hoy bajo unas instalaciones deportivas, y en el barrio de Covachuelas un anfiteatro que se dinamitó a comienzos del siglo XX.</p>"
+    },
+    "ver_alli": [
+     "Recorre el parque siguiendo la curva de la cabecera del circo.",
+     "Busca los restos consolidados del graderío.",
+     "Imagina la pista: más de 400 metros de carrera de carros."
+    ],
+    "fuentes": [
+     "https://www.eldiario.es/castilla-la-mancha/circo-romano-toledo_1_2127693.html",
+     "https://es.wikipedia.org/wiki/Circo_romano_de_Toledo",
+     "https://www.openstreetmap.org/?mlat=39.8641&mlon=-4.0303#map=18/39.8641/-4.0303"
+    ]
+   }
+  },
+  {
+   "id": "presa-consuegra",
+   "campos": {
+    "estilo": "Ingeniería romana (presa de contrafuertes)",
+    "texto": {
+     "general": "<p>A unos 5 km de Consuegra, en pleno campo, una larga línea de piedra cruza el valle del <b>río Amarguillo</b>: es una <b>presa romana de contrafuertes</b>. Mide más de <b>600 metros</b> —la ficha oficial calcula una longitud original de unos 660— y menos de 5 de alto, y se ha descrito como la presa romana documentada más larga de Europa.</p><p>Se suele fechar en los siglos <b>III-IV</b>, aunque, sin excavaciones, el debate abarca del I al IV. Tenía una doble función: abastecer de agua a la ciudad romana de <b>Consabura</b>, la actual Consuegra, sobre todo en los estiajes, y servir al riego y al ganado. Por detrás, un espaldón de tierra contrarrestaba el empuje del agua.</p><p>Hoy el río pasa por una brecha de unos 40 metros en uno de sus extremos. Es Bien de Interés Cultural desde 1992.</p>"
+    },
+    "ver_alli": [
+     "Camina junto al muro para hacerte idea de su longitud.",
+     "Busca el tramo con contrafuertes, de unos 86 metros.",
+     "Mira la brecha por la que hoy pasa el río.",
+     "Molinos y castillo de Consuegra, en el cerro Calderico."
+    ],
+    "fuentes": [
+     "https://www.eldebate.com/espana/castilla-la-mancha/20260322/pueblo-toledo-esconde-presa-romana-larga-europa-casi-nadie-conoce_396601_amp.html",
+     "https://www.wikidata.org/wiki/Q1128365",
+     "https://en.wikipedia.org/wiki/Consuegra_Dam",
+     "https://cultura.castillalamancha.es/sites/default/files/2020-09/FICHA%20PRESA%20ROMANA%20DE%20CONSUEGRA%20-convertido.pdf"
+    ]
+   }
+  },
+  {
+   "id": "museo-concilios",
+   "campos": {
+    "lat": 39.8584,
+    "lon": -4.0271,
+    "estilo": "Arte visigodo, en una iglesia mudéjar",
+    "texto": {
+     "general": "<p>En la iglesia mudéjar de San Román se exponen piezas de los siglos VI-VIII: los ajuares de la necrópolis de El Carpio de Tajo y réplicas de las coronas de Guarrazar.</p><p>Toledo fue la ciudad del rey, la <i>urbs regia</i>, desde mediados del siglo VI hasta 711. Aquí se reunieron dieciséis <b>concilios de Toledo</b>, del III al XVIII, asambleas de obispos y nobles convocadas por el rey; el primero de ellos fue el III Concilio, de 589, en el que Recaredo y los godos se hicieron católicos. El museo, en la antigua iglesia de San Román, en lo alto de la ciudad, reúne piezas de la Toledo visigoda: relieves de iglesias desaparecidas, broches, joyas y objetos de la vida diaria.</p><p>El museo expone réplicas de las <b>coronas votivas de Guarrazar</b>, que los reyes visigodos y otros donantes regalaban a las iglesias para colgarlas sobre el altar. Los originales, encontrados en 1858 a pocos kilómetros de aquí, en Guadamur, están en el Museo Arqueológico Nacional de Madrid y en el Museo de Cluny de París. Verlas en Toledo, la ciudad cuyos orfebres probablemente las hicieron, ayuda a imaginar las iglesias de la capital del reino en el siglo VII.</p>"
+    },
+    "ver_alli": [
+     "Las réplicas de las coronas votivas de Guarrazar.",
+     "Los ajuares de la necrópolis de El Carpio de Tajo.",
+     "Relieves de iglesias visigodas desaparecidas, broches y joyas.",
+     "La propia iglesia mudéjar de San Román, en lo alto de la ciudad."
+    ],
+    "fuentes": [
+     "https://www.spain.info/es/lugares-interes/museo-concilios-cultura-visigoda/",
+     "https://www.openstreetmap.org/?mlat=39.8584&mlon=-4.0271#map=18/39.8584/-4.0271",
+     "https://www.google.com/maps/place/?q=place_id:ChIJu39ouqcLag0Rw3pLNxj_peg"
+    ]
+   }
+  },
+  {
+   "id": "guarrazar",
+   "campos": {
+    "lat": 39.815,
+    "lon": -4.1188,
+    "estilo": "Visigodo (orfebrería y arquitectura religiosa)",
+    "fuentes": [
+     "https://guias-viajar.com/turismo-espana/visitar-castilla-la-mancha/ruta-visigoda-toledo/",
+     "https://es.hispanopedia.com/wiki/Centro_de_Interpretaci%C3%B3n_del_Tesoro_de_Guarrazar",
+     "https://www.openstreetmap.org/?mlat=39.8152&mlon=-4.1187#map=18/39.8152/-4.1187",
+     "https://www.google.com/maps/place/?q=place_id:ChIJlSnfwppzag0RgGRy1L3YPp8"
+    ]
+   }
+  },
+  {
+   "id": "los-hitos",
+   "campos": {
+    "lat": 39.6134,
+    "lon": -3.9495,
+    "estilo": "Arquitectura visigoda (pabellón áulico y panteón)",
+    "texto": {
+     "general": "<p>Entre viñas, a las afueras de <b>Arisgotas</b> (Orgaz), se conservan los restos de un edificio visigodo del <b>siglo VII</b>, de mampostería y sillarejo con contrafuertes y tres ámbitos, el central más amplio. Su nombre viene de los sillares y piezas labradas que los labradores sacaban con el arado.</p><p>Se interpreta como un <b>pabellón aristocrático</b> que, al perder su función, se convirtió en <b>panteón</b>: bajo un suelo de <i>opus signinum</i> apareció un <b>sarcófago de mármol</b> rodeado de tumbas cubiertas con lajas. Lo excavó Luis Balmaseda entre 1975 y 1982, que lo vio como iglesia; un nuevo equipo de investigación trabaja en él desde 2014. Han salido un centenar de piezas de escultura decorativa: frisos, cimacios, impostas y columnitas.</p><p>Parte de esos relieves se exponen en el <b>Museo Visigodo de Arisgotas</b>, junto con los de San Pedro de la Mata, a unos 3 km; otros siguen empotrados en casas del pueblo.</p>"
+    },
+    "ver_alli": [
+     "Recorre los muros del edificio y localiza el ámbito central, el del panteón.",
+     "Museo Visigodo de Arisgotas, con relieves del yacimiento y una maqueta del conjunto.",
+     "Busca relieves visigodos empotrados en fachadas del pueblo.",
+     "San Pedro de la Mata, cerca de Casalgordo."
+    ],
+    "fuentes": [
+     "https://guias-viajar.com/turismo-espana/visitar-castilla-la-mancha/ruta-visigoda-toledo/",
+     "https://www.villadeorgaz.es/Los%20Hitos%20-%20De%20palacio%20a%20panteon%20visigodo.pdf",
+     "https://www.openstreetmap.org/?mlat=39.6132&mlon=-3.9495#map=18/39.6132/-3.9495",
+     "https://www.google.com/maps/place/?q=place_id:ChIJs4bIpU0Wag0R2kurKmaDmpM"
+    ]
+   }
+  },
+  {
+   "id": "melque",
+   "campos": {
+    "lat": 39.7509,
+    "lon": -4.373,
+    "estilo": "Visigodo con soluciones protomozárabes",
+    "texto": {
+     "general": "<p>En un paraje aislado de San Martín de Montalbán se levanta una de las iglesias más impresionantes de la Alta Edad Media hispana. Era el templo de un <b>monasterio</b> construido sobre una antigua villa romana, con su cerca, viviendas de monjes, terrazas de cultivo y <b>cinco presas</b>, algunas de origen romano.</p><p>La iglesia, de planta de cruz, está hecha con <b>enormes bloques de granito</b> encajados en seco, en muros de más de un metro de espesor; el ábside es de herradura por dentro y cuadrado por fuera. Su fecha se discute: muchos la sitúan hacia el <b>año 700</b>, al final del reino visigodo, y otros ya en la primera mitad del siglo VIII, en época islámica; un análisis de radiocarbono dio un intervalo entre 668 y 729. Se ha propuesto que fuera el mausoleo de un alto personaje visigodo.</p><p>Más tarde se le añadió una torre sobre el crucero y el conjunto se convirtió en una pequeña fortaleza. En 1968 lo compró la Diputación de Toledo, que lo restauró y abrió un <b>centro de interpretación</b> en las antiguas casas de labor.</p>"
+    },
+    "ver_alli": [
+     "Fíjate en los grandes sillares de granito encajados sin argamasa.",
+     "Dentro, mira el arco de herradura del ábside y los restos de estuco de los arcos torales.",
+     "Centro de interpretación de Melque y del periodo visigodo, en las casas de labor.",
+     "Pasea por el recinto para descubrir las presas."
+    ],
+    "fuentes": [
+     "https://guias-viajar.com/turismo-espana/visitar-castilla-la-mancha/toledo-santa-maria-melque-visita/",
+     "https://es.wikipedia.org/wiki/Iglesia_de_Santa_María_de_Melque",
+     "https://www.openstreetmap.org/?mlat=39.7509&mlon=-4.3729#map=18/39.7509/-4.3729"
+    ]
+   }
+  },
+  {
+   "id": "catedral-primada-de-toledo",
+   "campos": {
+    "lat": 39.8571,
+    "lon": -4.0239,
+    "estilo": "Gótico",
+    "texto": {
+     "general": "<p>En el solar de la antigua mezquita mayor, que se había consagrado como catedral tras la conquista de Toledo por Alfonso VI, se empezó en <b>1226</b> la gran catedral gótica, con la presencia de <b>Fernando III</b> y el impulso del arzobispo <b>Rodrigo Jiménez de Rada</b>. El primer arquitecto documentado es el <b>maestro Martín</b>, a quien se atribuyen las capillas de la girola. Las últimas bóvedas, a los pies de la nave central, se cerraron en <b>1493</b>.</p><p>Mide 120 metros de largo y 59 de ancho, con <b>cinco naves</b>, crucero y <b>doble girola</b>. Su torre alcanza 92 metros: la empezó Alvar Martínez en 1425 y la remató Hanequin de Bruselas. La <b>Puerta del Perdón</b>, del siglo XV, solo se abre en grandes ocasiones.</p><p>Dentro se acumulan obras de todas las épocas: el retablo mayor que encargó Cisneros (1497-1504), la sillería del coro de Alonso Berruguete y Felipe Vigarny, el <b>Transparente</b> barroco y la sacristía con quince lienzos del <b>Greco</b>, presidida por <i>El Expolio</i>.</p><p class=\"dato\"><span>¿Sabías que…?</span>La Campana Gorda, de unas 18 toneladas, se estrenó en 1755 y se agrietó por un defecto de fundición.</p>"
+    },
+    "ver_alli": [
+     "La Puerta del Perdón, en la fachada principal.",
+     "El retablo mayor de la capilla mayor.",
+     "La sillería del coro, de Berruguete y Vigarny.",
+     "El Expolio del Greco, en la sacristía."
+    ],
+    "fuentes": [
+     "https://www.catedralprimada.es/visita-cultural/entradas-catedral-toledo/",
+     "https://es.wikipedia.org/wiki/Catedral_de_Toledo",
+     "https://www.openstreetmap.org/?mlat=39.8569&mlon=-4.0243#map=18/39.8569/-4.0243"
+    ]
+   }
+  },
+  {
+   "id": "mezquita-del-cristo-de-la-luz",
+   "campos": {
+    "lat": 39.8606,
+    "lon": -4.0242,
+    "estilo": "Califal (mezquita) y mudéjar (ábside)",
+    "ver_alli": [
+     "Busca en la fachada la inscripción de ladrillo que fecha la obra en 999.",
+     "Dentro, compara las nueve bóvedas de nervios: todas son distintas.",
+     "El ábside mudéjar añadido en el siglo XII.",
+     "Al lado, la puerta de Valmardón de la muralla."
+    ],
+    "fuentes": [
+     "https://lamaletainquieta.com/?p=2355",
+     "https://es.wikipedia.org/wiki/Mezquita_del_Cristo_de_la_Luz",
+     "https://www.openstreetmap.org/?mlat=39.8606&mlon=-4.0242#map=18/39.8606/-4.0242"
+    ]
+   }
+  },
+  {
+   "id": "sinagoga-de-santa-maria-la-blanca",
+   "campos": {
+    "lat": 39.857,
+    "lon": -4.0303,
+    "estilo": "Mudéjar",
+    "ver_alli": [
+     "Recorre las naves de arcos de herradura encalados.",
+     "Fíjate en los capiteles decorados con piñas.",
+     "Compara el exterior, muy sencillo, con la blancura del interior."
+    ],
+    "fuentes": [
+     "https://lamaletainquieta.com/santa-maria-la-blanca/",
+     "https://es.wikipedia.org/wiki/Sinagoga_de_Santa_María_la_Blanca",
+     "https://www.openstreetmap.org/?mlat=39.857&mlon=-4.0303#map=18/39.857/-4.0303"
+    ]
+   }
+  },
+  {
+   "id": "sinagoga-del-transito-museo-sefardi",
+   "campos": {
+    "lat": 39.8557,
+    "lon": -4.0296,
+    "estilo": "Mudéjar",
+    "texto": {
+     "general": "<p>La mandó construir <b>Samuel ha-Leví</b>, consejero y tesorero del rey <b>Pedro I</b>, y según sus inscripciones se levantó entre <b>1355 y 1357</b>, sobre unos antiguos baños. Es una gran sala de 23 metros de largo, 9,5 de ancho y 17 de alto, con una <b>galería para las mujeres</b> en la planta alta, separada por celosías.</p><p>Sus muros están cubiertos de <b>yeserías</b> policromadas con motivos vegetales, geométricos y epigráficos: versículos bíblicos y elogios a Samuel ha-Leví y al rey en <b>hebreo</b>, y textos en <b>árabe</b> sobre la paz y la felicidad. El historiador Cecil Roth las consideraba las más hermosas inscripciones judías de la Edad Media. La cubre un <b>artesonado</b> de madera.</p><p>Tras la expulsión de 1492, los Reyes Católicos la cedieron a la Orden de Calatrava, que la convirtió en iglesia; en el siglo XVII tomó el nombre «del Tránsito» por un cuadro del Tránsito de la Virgen. Monumento nacional desde 1877, desde 1964 se decidió que albergara el <b>Museo Sefardí</b>.</p>"
+    },
+    "ver_alli": [
+     "Levanta la vista al artesonado de madera.",
+     "Busca entre las yeserías las inscripciones en hebreo y en árabe.",
+     "Localiza la galería de las mujeres, en la planta alta.",
+     "Las salas del Museo Sefardí, sobre la vida judía en Sefarad."
+    ],
+    "fuentes": [
+     "https://www.cultura.gob.es/msefardi/en/visita/tarifas.html",
+     "https://es.wikipedia.org/wiki/Sinagoga_del_Tránsito",
+     "https://www.openstreetmap.org/?mlat=39.8557&mlon=-4.0296#map=18/39.8557/-4.0296"
+    ]
+   }
+  },
+  {
+   "id": "san-juan-de-los-reyes",
+   "campos": {
+    "lat": 39.8578,
+    "lon": -4.0317,
+    "estilo": "Gótico isabelino",
+    "texto": {
+     "general": "<p>Isabel la Católica fundó este monasterio para conmemorar la victoria de <b>Toro (1476)</b> y el nacimiento del príncipe Juan (1478). Se pensó como <b>panteón real</b>, pero los Reyes Católicos no llegaron a enterrarse aquí y el edificio quedó para los <b>franciscanos</b>. Su arquitecto principal fue <b>Juan Guas</b>, y la iglesia se terminó en 1495.</p><p>Todo el conjunto exalta a los reyes y la unión de sus reinos: escudos con el águila de san Juan, el yugo y las flechas y el lema «tanto monta». La iglesia, de una sola nave con cimborrio sobre el crucero, luce además las <b>cadenas</b> de los cautivos cristianos liberados tras las conquistas de Málaga y Baeza.</p><p>El <b>claustro</b>, de dos pisos, es una joya del gótico final. Un incendio provocado durante la ocupación francesa, el 19 de diciembre de 1808, arrasó el segundo claustro y dañó el principal. La restauración, dirigida por Arturo Mélida desde 1881, no terminó hasta 1954.</p>"
+    },
+    "ver_alli": [
+     "El claustro bajo, con sus bóvedas de crucería.",
+     "Sube a la galería alta del claustro.",
+     "En la iglesia, los escudos de los Reyes Católicos con el águila de san Juan.",
+     "Busca las cadenas de los cautivos cristianos."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Juan_de_los_Reyes",
+     "https://www.google.com/maps/place/?q=place_id:ChIJI4RrqwkLag0R0KAwh1clmGg"
+    ]
+   }
+  },
+  {
+   "id": "ciudad-de-vascos",
+   "campos": {
+    "estilo": "Andalusí (califal)",
+    "texto": {
+     "general": "<p>En el extremo occidental de la provincia, a unos 5 km de Navalmoralejo y junto al <b>río Huso</b>, se conservan las ruinas de una ciudad andalusí abandonada. Empezó a organizarse en el <b>siglo IX</b>, quizá como un <i>ribat</i>, y en época califal, hacia 930-950, se convirtió en una verdadera <i>madina</i>. Se despobló poco después de que Alfonso VI tomara Toledo en 1085.</p><p>El yacimiento ocupa unas 30 hectáreas, con un núcleo amurallado de 8. La <b>muralla</b> sigue el relieve, con tramos de sillares bien labrados al modo omeya, y tenía <b>dos puertas</b> de arco de herradura. En el lado norte, sobre la confluencia del Huso y el arroyo de la Mora, se alza la <b>alcazaba</b>. Fuera quedan un arrabal, unos <b>baños</b> junto al arroyo y dos cementerios; el mejor conservado es el de Los Lirios.</p><p>Desde 1975 lo excava Ricardo Izquierdo Benito, de la Universidad de Castilla-La Mancha. Se ha propuesto identificarla con la ciudad bereber de Nafza, aunque no hay acuerdo.</p>"
+    },
+    "ver_alli": [
+     "Está en la finca Las Cucañas: consulta antes el acceso.",
+     "Recorre la muralla y busca las puertas de arco de herradura.",
+     "Asómate desde la alcazaba al río Huso.",
+     "Los baños junto al arroyo de la Mora y el cementerio de Los Lirios."
+    ],
+    "fuentes": [
+     "https://www.spain.info/es/lugares-interes/ruinas-ciudad-vascos/",
+     "https://www.wikidata.org/wiki/Q5770832",
+     "https://es.wikipedia.org/wiki/Ciudad_de_Vascos"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-consuegra",
+   "campos": {
+    "lat": 39.4532,
+    "lon": -3.6084,
+    "estilo": "Fortaleza medieval (andalusí y sanjuanista)",
+    "texto": {
+     "general": "<p>En el cerro Calderico, junto a la famosa fila de molinos, se alza el castillo de Consuegra, la antigua <i>Consabura</i> romana. Su primera reconstrucción pudo deberse a Almanzor, en el siglo X. En 1097 pasó a Alfonso VI por un pacto con al-Mutamid de Sevilla, pero ese mismo agosto, en la batalla de Consuegra contra los almorávides, murió <b>Diego Rodríguez</b>, el único hijo varón del Cid.</p><p>En <b>1183</b> el castillo, la villa y su término se entregaron a la <b>Orden de San Juan de Jerusalén</b>, y Consuegra fue la capital de su priorato de La Mancha. Su planta es poco común: un cuerpo cuadrado con una gran <b>torre cilíndrica</b> en cada lado y una torre albarrana circular al sur.</p><p>Los franceses lo ocuparon entre 1809 y 1813 y lo destruyeron al retirarse; tras la desamortización quedó abandonado. En 1962 lo compró el Ayuntamiento, que emprendió su restauración.</p>"
+    },
+    "ver_alli": [
+     "Sube al cerro Calderico y recorre la fila de molinos.",
+     "Fíjate en las torres cilíndricas adosadas al cuerpo cuadrado.",
+     "La torre albarrana del lado sur.",
+     "Desde lo alto, vistas sobre Consuegra y la llanura manchega."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Consuegra",
+     "https://www.openstreetmap.org/?mlat=39.4532&mlon=-3.6084#map=18/39.4532/-3.6084"
+    ]
+   }
+  },
+  {
+   "id": "plaza-mayor-de-ocana",
+   "campos": {
+    "lat": 39.9585,
+    "lon": -3.5008,
+    "estilo": "Barroco tardío (siglo XVIII)",
+    "texto": {
+     "general": "<p>La Plaza Mayor de Ocaña es una gran plaza cerrada y porticada, de planta casi cuadrada (<b>55 × 52,5 metros</b>). Se empezó en <b>1777</b> por orden de <b>Carlos III</b>, aunque la obra propiamente dicha arrancó hacia 1782, empezando por la fachada oeste, la del Ayuntamiento.</p><p>La rodean <b>70 pilares</b> de sillería almohadillada que sostienen arcos de medio punto de ladrillo: 18 en los lados mayores y 17 en los menores. Encima hay dos pisos de balcones y buhardillas. Las fachadas oeste, norte y sur estaban hechas en 1791, pero la plaza quedó incompleta más de siglo y medio: la fachada este no se inauguró hasta <b>1961</b>.</p><p>En la Guerra de la Independencia, las tropas del general Soult la bombardearon y destruyeron buena parte del archivo municipal. Es Bien de Interés Cultural desde 2002 y se restauró en una obra de seis años inaugurada en 2006.</p><p class=\"dato\"><span>¿Sabías que…?</span>La plaza anterior, menos regular, acogía fiestas de toros que Lope de Vega recordó en <i>Peribáñez y el Comendador de Ocaña</i>.</p>"
+    },
+    "ver_alli": [
+     "Cuenta los arcos: 18 en los lados largos y 17 en los cortos.",
+     "La fachada oeste, la del Ayuntamiento, la primera que se levantó.",
+     "Compara la fachada este, terminada en 1961, con las del siglo XVIII.",
+     "En el pueblo, la iglesia de San Juan Bautista y la Fuente Grande, del siglo XVI."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Plaza_Mayor_de_Ocaña",
+     "https://www.spain.info/es/destino/ocana",
+     "https://www.escapadarural.com/que-hacer/ocana_toledo/plaza-mayor",
+     "https://www.openstreetmap.org/?mlat=39.9585&mlon=-3.5007#map=18/39.9585/-3.5007",
+     "https://www.google.com/maps/place/?q=place_id:ChIJnddqG4gJQg0R8cddhd2qgCo"
+    ]
+   }
+  },
+  {
+   "id": "hospital-de-tavera",
+   "campos": {
+    "lat": 39.8657,
+    "lon": -4.0239,
+    "estilo": "Renacimiento",
+    "texto": {
+     "general": "<p>El cardenal <b>Juan Pardo de Tavera</b>, arzobispo de Toledo, mandó levantar este hospital, construido entre <b>1541 y 1603</b> fuera de las murallas; por su lejanía del casco antiguo se le llamó «el hospital de afuera». Lo empezó <b>Alonso de Covarrubias</b> y lo terminó <b>Bartolomé Bustamante</b>, con una fachada almohadillada a la manera de un palacio florentino.</p><p>Dos <b>patios gemelos</b> de dos pisos, unidos por una doble arcada, llevan a la iglesia, de una nave con cúpula. En ella está el <b>sepulcro del cardenal</b>, en mármol blanco, obra de <b>Alonso Berruguete</b>. El retablo lo proyectó el <b>Greco</b> y lo ejecutó su hijo Jorge Manuel, y el museo guarda el <i>Retrato del cardenal Tavera</i> del Greco y su escultura del <i>Cristo resucitado</i>.</p><p>Pertenece a la Casa de Medinaceli y alberga el Museo Fundación Lerma, la antigua farmacia del hospital y el Archivo Histórico de la Nobleza.</p><p class=\"dato\"><span>¿Sabías que…?</span>Aquí se rodaron escenas de <i>Viridiana</i> (1961) y <i>Tristana</i> (1970).</p>"
+    },
+    "ver_alli": [
+     "Los dos patios gemelos y la doble arcada que lleva a la iglesia.",
+     "El sepulcro del cardenal Tavera, de Alonso Berruguete.",
+     "El retrato del cardenal y el Cristo resucitado del Greco.",
+     "La antigua farmacia del hospital."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Hospital_de_Tavera",
+     "https://en.wikipedia.org/wiki/Hospital_de_Tavera",
+     "https://www.openstreetmap.org/?mlat=39.8657&mlon=-4.0239#map=18/39.8657/-4.0239",
+     "https://www.google.com/maps/place/?q=place_id:ChIJQ7WLT6kLag0RHKCIju-LsWA"
+    ]
+   }
+  },
+  {
+   "id": "el-transparente-de-la-catedral-de-toledo",
+   "campos": {
+    "lat": 39.8571,
+    "lon": -4.0239,
+    "estilo": "Barroco",
+    "texto": {
+     "general": "<p>Detrás del altar mayor de la catedral, en la girola, se levanta uno de los grandes alardes del barroco europeo. Lo hizo <b>Narciso Tomé</b>, maestro mayor de la catedral, con ayuda de sus hijos, durante el arzobispado de Diego de Astorga, y se terminó en <b>1732</b>.</p><p>Es un retablo de dos cuerpos en <b>mármoles</b> traídos de Génova, jaspe y bronce. Abajo, la Virgen con el Niño en mármol blanco de Carrara; arriba, la <b>Última Cena</b>, alusión a la Eucaristía. Entre ambos, un <b>óculo en forma de sol</b>, con arcángeles alrededor, atraviesa el muro y da luz al sagrario que hay detrás.</p><p>El efecto depende de la luz: frente al retablo se abrió un gran <b>óculo en lo alto de la girola</b>, por el que el sol entra y cae sobre el conjunto como un rayo del cielo. La obra fue polémica por su exuberancia; Alejo Carpentier la llamó «el auténtico milagro de La Primada».</p>"
+    },
+    "ver_alli": [
+     "Ponte de espaldas al retablo y mira hacia arriba: verás el óculo por donde entra la luz.",
+     "La Virgen de mármol de Carrara, en el cuerpo bajo.",
+     "La Última Cena, en el cuerpo alto.",
+     "A sus pies, la tumba del arzobispo Diego de Astorga."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Transparente_de_la_catedral_de_Toledo",
+     "https://en.wikipedia.org/wiki/El_Transparente",
+     "https://www.openstreetmap.org/?mlat=39.8569&mlon=-4.0243#map=18/39.8569/-4.0243"
+    ]
+   }
+  },
+  {
+   "id": "alcazar-de-toledo-y-museo-del-ejercito",
+   "campos": {
+    "lat": 39.858,
+    "lon": -4.0205,
+    "estilo": "Renacimiento (reconstruido en el siglo XX)",
+    "texto": {
+     "general": "<p>En lo más alto de Toledo hubo ya un palacio romano en el siglo III, y los reyes Alfonso VI, VII y VIII lo restauraron y ampliaron. Su aspecto actual nace con <b>Carlos V</b>, que desde 1535 encargó las obras a <b>Alonso de Covarrubias</b> (fachada norte), Francisco de Villalpando y <b>Juan de Herrera</b> (fachada sur): un edificio compacto con un patio rectangular de dos pisos de arcos.</p><p>Ardió en 1710, en 1810 y en 1887. Desde 1878 era sede de la Academia de Infantería. En julio de 1936 se encerraron en él militares y guardias civiles sublevados, con sus familias, al mando del coronel <b>José Moscardó</b>. Resistieron un asedio de <b>70 días</b>, del 21 de julio al 27 de septiembre, hasta que llegaron las tropas de Franco al mando de Varela. El edificio quedó casi destruido.</p><p>Se reconstruyó entre 1939 y 1957. Desde 1998 acoge la Biblioteca de Castilla-La Mancha y desde julio de 2010 el <b>Museo del Ejército</b>, trasladado desde Madrid.</p><p class=\"dato\"><span>¿Sabías que…?</span>El despacho de Moscardó se conserva tal como estaba el 28 de septiembre de 1936, y en algunas paredes aún hay balas incrustadas.</p>"
+    },
+    "ver_alli": [
+     "El patio, con la estatua de Carlos V, copia de la de Leone Leoni.",
+     "Las salas del Museo del Ejército.",
+     "El despacho de Moscardó, conservado como en 1936.",
+     "Por fuera, compara la fachada norte de Covarrubias con la sur de Herrera."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Alcázar_de_Toledo",
+     "https://www.openstreetmap.org/?mlat=39.858&mlon=-4.0205#map=18/39.858/-4.0205"
+    ]
+   }
+  }
+ ]
+}

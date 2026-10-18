@@ -1,0 +1,751 @@
+{
+ "zona": "Cáceres",
+ "nuevos": [
+  {
+   "id": "murallas-de-plasencia",
+   "nombre": "Murallas de Plasencia",
+   "provincia": "Cáceres",
+   "comarca": "Plasencia",
+   "lat": 40.0272,
+   "lon": -6.0928,
+   "tipo": "monumento",
+   "estilo": "Muralla medieval",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1186,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Plasencia nació como ciudad fortificada. <b>Alfonso VIII de Castilla</b> la fundó en <b>1186</b> para vigilar a la vez la frontera con al-Ándalus y con el reino de León, y tras recuperarla en 1197 cerró el recinto, según la tradición, en un tiempo récord de nueve meses.</p><p>La muralla dibujaba un perímetro de <b>2,44 km</b> que encerraba unas 26 hectáreas. Algunos autores hablan de más de 70 cubos semicirculares; hoy sobreviven <b>26</b>. Tuvo una larga lista de puertas y postigos: del Sol, de Trujillo, de Coria, de Berrozanas, del Clavero, de Talavera… La de Talavera se derribó en 1704 y el alcázar desapareció en 1937.</p><p>La <b>Puerta de Trujillo</b>, que daba entrada desde el sur, es la más curiosa: entre 1721 y 1723 se unió con sus dos cubos para crear encima una capilla dedicada a la <b>Virgen de la Salud</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>La Torre Lucía, uno de los cubos mejor conservados, alberga hoy el Centro de la Fortaleza y Ciudad Medieval.</p>"
+   },
+   "ver_alli": [
+    "La Puerta de Trujillo, con la capilla de la Virgen de la Salud encima del arco.",
+    "La Puerta de Berrozanas, con el escudo de los Reyes Católicos.",
+    "La Torre Lucía y los lienzos que rodean el casco antiguo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Muralla_de_Plasencia",
+    "https://www.openstreetmap.org/?mlat=40.0272&mlon=-6.0928#map=18/40.0272/-6.0928"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "catedral-de-coria",
+   "nombre": "Catedral de Santa María de la Asunción (Coria)",
+   "provincia": "Cáceres",
+   "comarca": "Coria",
+   "lat": 39.9821,
+   "lon": -6.5371,
+   "tipo": "iglesia",
+   "estilo": "Gótico tardío, plateresco y barroco",
+   "epoca": "Gótico",
+   "anio": 1498,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Sobre el borde del cerro que domina la vega del Alagón se levanta la catedral de Coria, empezada en <b>1498</b> sobre una traza de Bartolomé de Pelayos y no terminada hasta mediados del siglo XVIII. Es un gótico de transición, con añadidos platerescos en las portadas y barrocos en la torre.</p><p>Lo que impresiona al entrar es su <b>nave única</b>, de cinco tramos cubiertos con bóvedas de crucería estrellada, un rasgo que en España solo comparten las catedrales de Gerona y Ciudad Real. El coro guarda una <b>sillería mudéjar de nogal</b> de 71 sillas, completada en 1514, y el retablo mayor barroco es de 1747, con tallas de Alejandro Carnicero.</p><p>El terremoto de Lisboa del <b>1 de noviembre de 1755</b> la dañó seriamente. La torre-campanario barroca que hoy se ve es obra de <b>Manuel de Lara Churriguera</b>.</p>"
+   },
+   "ver_alli": [
+    "La nave única con sus bóvedas estrelladas.",
+    "La sillería mudéjar de nogal del coro.",
+    "Las portadas platerescas y la torre de Lara Churriguera."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_de_Coria",
+    "https://www.openstreetmap.org/?mlat=39.9821&mlon=-6.5371#map=18/39.9821/-6.5371"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "barrio-judio-de-hervas",
+   "nombre": "Barrio judío de Hervás",
+   "provincia": "Cáceres",
+   "comarca": "Hervás",
+   "lat": 40.2748,
+   "lon": -5.8569,
+   "tipo": "poblacion",
+   "estilo": "Arquitectura popular",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En la parte baja de Hervás, junto al <b>río Ambroz</b>, se conserva uno de los barrios judíos mejor conservados de España. Desde el <b>siglo XV</b> se instaló aquí una importante comunidad hebrea, hasta el edicto de expulsión de los Reyes Católicos de <b>1492</b>.</p><p>El barrio es un laberinto de <b>callejuelas estrechas</b>, con fuertes cuestas y algún pasadizo, entre casas de adobe y madera que forman grandes manzanas irregulares. Hervás fue declarado conjunto histórico-artístico en <b>1969</b> y forma parte de la Red de Juderías de España.</p><p class=\"dato\"><span>¿Sabías que…?</span>Desde 1997, cada julio, la fiesta de «Los Conversos» recrea un día de mercado en estas calles.</p>"
+   },
+   "ver_alli": [
+    "Las casas de adobe y madera que forman manzanas irregulares.",
+    "Las cuestas y pasadizos que bajan hacia el río Ambroz.",
+    "La ribera del Ambroz, borde natural de la judería."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Hervás",
+    "https://www.openstreetmap.org/?mlat=40.2748&mlon=-5.8569#map=18/40.2748/-5.8569"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "granadilla",
+   "nombre": "Granadilla",
+   "provincia": "Cáceres",
+   "comarca": "Zarza de Granadilla",
+   "lat": 40.2685,
+   "lon": -6.1062,
+   "tipo": "poblacion",
+   "estilo": "Villa amurallada medieval",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1170,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Granadilla es un pueblo que se quedó sin gente. Fundada por los musulmanes en el <b>siglo IX</b>, la conquistó Fernando II de León en 1160 y la hizo villa en <b>1170</b>. Su recinto amurallado y su castillo, levantado entre <b>1473 y 1478</b> por García Álvarez de Toledo, duque de Alba, la convirtieron en una villa señorial.</p><p>En el siglo XX el embalse de Gabriel y Galán la condenó: el Consejo de Ministros decretó la expropiación el <b>24 de junio de 1955</b>, los últimos vecinos se marcharon en <b>1964</b> y el municipio se disolvió en 1965.</p><p>En <b>1980</b> fue declarada conjunto histórico-artístico, y desde <b>1984</b> forma parte del Programa de Recuperación de Pueblos Abandonados.</p>"
+   },
+   "ver_alli": [
+    "El castillo de los duques de Alba (1473-1478).",
+    "El paseo por el adarve de la muralla alrededor del pueblo.",
+    "Las calles y casas del pueblo abandonado en proceso de recuperación."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Granadilla_(Cáceres)",
+    "https://www.openstreetmap.org/?mlat=40.2685&mlon=-6.1062#map=18/40.2685/-6.1062"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-monfrague",
+   "nombre": "Castillo de Monfragüe",
+   "provincia": "Cáceres",
+   "comarca": "Torrejón el Rubio",
+   "lat": 39.828,
+   "lon": -6.0514,
+   "tipo": "castillo",
+   "estilo": "Fortaleza islámica y cristiana",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En lo alto de la sierra que domina el Tajo, en pleno parque de Monfragüe, se alzan los restos de una fortaleza que los árabes llamaron <b>Al-Mofrag</b>, que se suele traducir como «el abismo». El castillo controlaba un paso estratégico del río.</p><p>Pasó por varias manos: entre 1169 y 1180 lo tomó el portugués Geraldo Sempavor, y la reconquista definitiva llegó con <b>Alfonso VIII</b>. Hoy se conserva sobre todo una <b>torre de planta pentagonal</b> del siglo XV, reconstruida y accesible, junto a otra cilíndrica.</p><p>Casi adosada a la torre está la <b>ermita de la Virgen de Monfragüe</b>, que guarda una talla que, según la tradición, trajeron cruzados desde Jerusalén en el siglo XII.</p>"
+   },
+   "ver_alli": [
+    "La torre pentagonal y su mirador sobre el Tajo.",
+    "La ermita de la Virgen de Monfragüe, junto a la torre.",
+    "Las vistas sobre el Tajo y el parque de Monfragüe."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Monfragüe",
+    "https://www.openstreetmap.org/?mlat=39.828&mlon=-6.0514#map=18/39.828/-6.0514"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-belvis-de-monroy",
+   "nombre": "Castillo de Belvís de Monroy",
+   "provincia": "Cáceres",
+   "comarca": "Belvís de Monroy",
+   "lat": 39.8199,
+   "lon": -5.6122,
+   "tipo": "castillo",
+   "estilo": "Gótico, renacentista y barroco",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>El castillo domina desde un cerro el pueblo de Belvís de Monroy. Su origen está en el <b>siglo XIII</b>, cuando Sancho IV donó el cortijo de Belvís a Hernán Pérez del Bote para repoblar la zona; su nieto <b>Alonso Fernández del Bote</b> levantó la casa fuerte en la primera mitad del siglo XIV.</p><p>Sus descendientes lo fueron ampliando en torno a la vieja torre del homenaje: una muralla con torreones semicirculares, el castillo con torres en su perímetro y unas dependencias residenciales del siglo XVI, que tuvieron un <b>patio plateresco</b> hoy desaparecido, parecido al del monasterio de Yuste.</p><p>Tras las guerras de Sucesión y de la Independencia quedó abandonado y sufrió graves daños. Hoy está en proceso de consolidación y restauración.</p>"
+   },
+   "ver_alli": [
+    "La silueta del castillo sobre el cerro, vista desde el pueblo.",
+    "La muralla con sus torreones semicirculares.",
+    "La vieja torre del homenaje, núcleo del conjunto."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Belvís_de_Monroy",
+    "https://www.openstreetmap.org/?mlat=39.8199&mlon=-5.6122#map=18/39.8199/-5.6122"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-montanchez",
+   "nombre": "Castillo de Montánchez",
+   "provincia": "Cáceres",
+   "comarca": "Montánchez",
+   "lat": 39.2251,
+   "lon": -6.155,
+   "tipo": "castillo",
+   "estilo": "Islámico (califal y almohade)",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Encaramado sobre la sierra que da nombre a Montánchez, este castillo tiene su cuerpo principal de <b>época califal</b>; el resto se levantó en el <b>siglo XII</b>, durante la ocupación almohade. Ya en manos cristianas, la <b>Orden de Santiago</b> administró la zona y añadió nuevas murallas.</p><p>De la época musulmana conserva <b>tres aljibes</b>: dos en el recinto interior y el mayor en el exterior. En <b>1620</b> sirvió de prisión a <b>Rodrigo Calderón</b>, traído desde Valladolid.</p><p>Las administraciones han invertido en su consolidación para la visita. En el exterior hay un estanque y una ermita del siglo XVII.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje.",
+    "Los aljibes musulmanes del recinto.",
+    "El estanque y la ermita del siglo XVII junto a la fortaleza."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Montánchez",
+    "https://www.openstreetmap.org/?mlat=39.2251&mlon=-6.155#map=18/39.2251/-6.155"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "conventual-de-san-benito-alcantara",
+   "nombre": "Conventual de San Benito (Alcántara)",
+   "provincia": "Cáceres",
+   "comarca": "Alcántara",
+   "lat": 39.7206,
+   "lon": -6.8846,
+   "tipo": "iglesia",
+   "estilo": "Gótico y renacentista",
+   "epoca": "Renacimiento",
+   "anio": 1494,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Fue la casa principal de la <b>Orden Militar de Alcántara</b>, que tomó su nombre de la villa tras recibirla en 1218. En el capítulo de Plasencia de 1488 se decidió levantar un convento nuevo; las obras empezaron en <b>1494</b>, se reanudaron en 1505 y la iglesia se terminó en <b>1576</b>.</p><p>La iglesia es gótica, de tres naves con triple cabecera y bóvedas de crucería. El claustro, de dos plantas, muestra el paso del gótico al Renacimiento, y la hospedería se abre en la llamada <b>galería de Carlos V</b>: tres pisos de arcos con columnas jónicas y los escudos del emperador y de Felipe II.</p><p>Tras la desamortización de 1835 quedó abandonado y empezó su ruina. <b>Hidroeléctrica Española</b> lo compró en 1961 y lo restauró hasta 1966; desde 1985 lo gestiona la Fundación San Benito de Alcántara.</p>"
+   },
+   "ver_alli": [
+    "La galería de Carlos V, con sus tres pisos de arcos.",
+    "La iglesia gótica de tres naves.",
+    "El claustro, mitad gótico y mitad renacentista."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Conventual_de_San_Benito",
+    "https://www.openstreetmap.org/?mlat=39.7206&mlon=-6.8846#map=18/39.7206/-6.8846"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "galisteo",
+   "nombre": "Galisteo",
+   "provincia": "Cáceres",
+   "comarca": "Galisteo",
+   "lat": 39.9755,
+   "lon": -6.2684,
+   "tipo": "poblacion",
+   "estilo": "Villa amurallada almohade",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Galisteo es uno de los pocos pueblos que conservan entero su cinturón de murallas. El recinto, de <b>origen almohade</b>, rodea todo el casco antiguo y está muy bien conservado.</p><p>Se entra por tres puertas: la del Rey, la de la Villa y la de <b>Santa María</b>, la más monumental, bajo un arco apuntado de ladrillo, levantada en el siglo XIII y reformada después. Dentro destaca <b>La Picota</b>, lo que queda de la torre del homenaje del siglo XIV: octogonal y rematada en pirámide, es el símbolo del pueblo.</p><p>A los pies de la villa, un puente del siglo XVI cruza el <b>río Jerte</b>. Aunque lo llaman «romano», es de tradición medieval.</p>"
+   },
+   "ver_alli": [
+    "La vuelta completa a la muralla por el exterior.",
+    "La Puerta de Santa María, con su arco de ladrillo.",
+    "La Picota, torre octogonal rematada en pirámide.",
+    "El puente sobre el Jerte."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Galisteo",
+    "https://www.openstreetmap.org/?mlat=39.9755&mlon=-6.2684#map=18/39.9755/-6.2684"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-vostell-malpartida",
+   "nombre": "Museo Vostell Malpartida (Los Barruecos)",
+   "provincia": "Cáceres",
+   "comarca": "Malpartida de Cáceres",
+   "lat": 39.422,
+   "lon": -6.5042,
+   "tipo": "museo",
+   "estilo": "Arte contemporáneo en un lavadero de lanas del siglo XVIII",
+   "epoca": "Siglo XX",
+   "anio": 1976,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En medio del paraje granítico de <b>Los Barruecos</b>, entre bolos de piedra y charcas, el artista alemán <b>Wolf Vostell</b> fundó en <b>1976</b>, junto a su mujer, Mercedes Guardado, un museo dentro de un viejo <b>lavadero de lanas del siglo XVIII</b>.</p><p>Se inauguró el 30 de octubre de 1976 con la escultura <b>VOAEX</b>: el propio Opel Admiral negro de Vostell, de 1970, metido en hormigón. Reúne la colección del matrimonio Vostell, la donación Fluxus de Gino Di Maggio y una colección de 60 obras de 48 artistas conceptuales de España, Portugal y Polonia.</p><p>En 2018 recibió la <b>Medalla de Oro al Mérito en las Bellas Artes</b>.</p>"
+   },
+   "ver_alli": [
+    "VOAEX, el coche embutido en hormigón.",
+    "El muerto que tiene sed (1978) y Fiebre de automóvil (1973).",
+    "El edificio del lavadero y los berrocales de Los Barruecos."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_Vostell_Malpartida",
+    "https://www.openstreetmap.org/?mlat=39.422&mlon=-6.5042#map=18/39.422/-6.5042"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "garganta-la-olla",
+   "nombre": "Garganta la Olla",
+   "provincia": "Cáceres",
+   "comarca": "Garganta la Olla",
+   "lat": 40.1112,
+   "lon": -5.7763,
+   "tipo": "poblacion",
+   "estilo": "Arquitectura popular verata",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>A pocos kilómetros del monasterio de Yuste, en la comarca de La Vera, Garganta la Olla conserva un casco de calles empinadas y casas de <b>entramado de madera</b> y ladrillo. Fue declarado conjunto histórico-artístico en <b>1982</b>.</p><p>El ejemplo más fino es la casa de <b>Francisco Díaz</b>, maestro de obras de la iglesia en 1573, con sus dos plantas altas entramadas. La parroquia de <b>San Lorenzo Mártir</b>, del siglo XVI, guarda un órgano barroco restaurado en 1984.</p><p class=\"dato\"><span>¿Sabías que…?</span>La <b>Casa de las Muñecas</b>, pintada de azul, fue según la tradición casa de lenocinio en el siglo XVI, y el color servía para distinguirla.</p>"
+   },
+   "ver_alli": [
+    "La Casa de las Muñecas, pintada de azul.",
+    "Las fachadas de entramado de madera y ladrillo.",
+    "La iglesia de San Lorenzo Mártir."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Garganta_la_Olla",
+    "https://www.openstreetmap.org/?mlat=40.1112&mlon=-5.7763#map=18/40.1112/-5.7763"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "puente-de-alconetar",
+   "nombre": "Puente de Alconétar",
+   "provincia": "Cáceres",
+   "comarca": "Garrovillas de Alconétar",
+   "lat": 39.7543,
+   "lon": -6.4374,
+   "tipo": "monumento",
+   "estilo": "Ingeniería romana",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Este puente romano cruzaba el <b>Tajo</b> cerca de la desembocadura del Almonte, en la calzada de Mérida a Zaragoza que luego se llamó <b>Vía de la Plata</b>. Sus arcos rebajados sugieren que se construyó hacia el <b>siglo II</b>, en tiempos de Trajano o Adriano.</p><p>Es una pieza rara en la ingeniería romana: conserva dos <b>arcos segmentarios</b> originales, de 6,7 y 7,2 m de luz, mucho más planos que el habitual medio punto.</p><p>Hacia 1340 ya estaba inutilizable. Cuando se construyó el embalse de Alcántara, en <b>1970</b>, sus restos se trasladaron a un prado unos seis kilómetros al norte, donde hoy se visitan. Es monumento histórico-artístico desde 1931.</p>"
+   },
+   "ver_alli": [
+    "Los dos arcos rebajados originales.",
+    "Su emplazamiento actual, trasladado en 1970.",
+    "La orilla del embalse, cerca de donde estaba el paso antiguo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Puente_de_Alconétar",
+    "https://www.openstreetmap.org/?mlat=39.7543&mlon=-6.4374#map=18/39.7543/-6.4374"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-trevejo",
+   "nombre": "Castillo de Trevejo",
+   "provincia": "Cáceres",
+   "comarca": "Villamiel",
+   "lat": 40.1724,
+   "lon": -6.7806,
+   "tipo": "castillo",
+   "estilo": "Fortaleza medieval",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Sobre un peñasco de la sierra de Gata, por encima de la aldea de Trevejo, se alzan las ruinas de un castillo levantado sobre una fortaleza musulmana anterior al siglo XII. <b>Alfonso VII de León</b> lo conquistó y lo cedió a los templarios.</p><p>Cambió de manos varias veces entre las órdenes militares: en <b>1184</b> pasó a la de San Juan de Jerusalén por mandato de Fernando II de León, en 1186 a la de Santiago, y también perteneció a la de Alcántara.</p><p>Hoy está en ruina, pero conserva la <b>torre del homenaje</b> y buena parte de la muralla. A sus pies hay <b>tumbas antropomorfas</b> excavadas en la roca.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje sobre el peñasco.",
+    "Las tumbas antropomorfas a los pies del castillo.",
+    "La aldea de Trevejo y las vistas de la sierra de Gata."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Trevejo",
+    "https://www.openstreetmap.org/?mlat=40.1724&mlon=-6.7806#map=18/40.1724/-6.7806"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-jarandilla",
+   "nombre": "Castillo de los Condes de Oropesa (Jarandilla de la Vera)",
+   "provincia": "Cáceres",
+   "comarca": "Jarandilla de la Vera",
+   "lat": 40.1289,
+   "lon": -5.6617,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En 1369 Enrique II entregó este castillo a los <b>Álvarez de Toledo</b>, futuros condes de Oropesa, que lo mejoraron a mediados del siglo XV. Es un edificio <b>gótico</b> de planta cuadrangular, ordenado alrededor de un gran patio central.</p><p>Alterna torres cilíndricas y prismáticas en sus esquinas, y la del homenaje está rematada por matacanes, sin almenas.</p><p>Su huésped más ilustre fue <b>Carlos V</b>: llegó a Jarandilla el <b>11 de noviembre de 1556</b>, ya retirado del trono, y vivió en el castillo mientras terminaban su residencia en el cercano monasterio de Yuste. Hoy es Parador de Turismo.</p>"
+   },
+   "ver_alli": [
+    "El gran patio central.",
+    "Las torres de esquina, unas redondas y otras cuadradas.",
+    "La torre del homenaje con sus matacanes."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Jarandilla_de_la_Vera",
+    "https://es.wikipedia.org/wiki/Jarandilla_de_la_Vera",
+    "https://www.openstreetmap.org/?mlat=40.1289&mlon=-5.6617#map=18/40.1289/-5.6617"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "convento-de-el-palancar",
+   "nombre": "Convento de El Palancar",
+   "provincia": "Cáceres",
+   "comarca": "Pedroso de Acim",
+   "lat": 39.8197,
+   "lon": -6.4008,
+   "tipo": "iglesia",
+   "estilo": "Arquitectura conventual franciscana",
+   "epoca": "Renacimiento",
+   "anio": 1557,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Entre Cáceres y Plasencia, junto a la fuente del Palancar, <b>san Pedro de Alcántara</b> fundó en <b>1557</b> un convento franciscano en una casa donada por Rodrigo de Chaves. Se considera el <b>convento más pequeño del mundo</b>: apenas unos 72 metros cuadrados.</p><p>Al principio solo tenía dos celdas diminutas. Para entrar en la del santo había que hacerlo de costado y agachado, y fray Pedro dormía sentado, con la cabeza apoyada en un madero. En el siglo XVIII se añadieron una iglesia, un claustro y una hospedería.</p><p class=\"dato\"><span>¿Sabías que…?</span>Los vecinos de la comarca lo llaman cariñosamente «el conventino».</p>"
+   },
+   "ver_alli": [
+    "El conventino primitivo y sus celdas diminutas.",
+    "La celda de san Pedro de Alcántara.",
+    "La iglesia y el claustro añadidos en el siglo XVIII."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Convento_de_El_Palancar",
+    "https://www.openstreetmap.org/?mlat=39.8197&mlon=-6.4008#map=18/39.8197/-6.4008"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "maltravieso",
+   "campos": {
+    "lat": 39.4575,
+    "lon": -6.3709,
+    "estilo": "Arte rupestre paleolítico",
+    "ver_alli": [
+     "El centro de interpretación, junto a la entrada de la cueva, explica el hallazgo con paneles, réplicas y una recreación virtual de la cueva.",
+     "La cueva original solo se visita en grupos muy reducidos y con reserva previa.",
+     "Fíjate en las reproducciones de las manos en negativo, el gran tesoro de la cueva.",
+     "La ciudad monumental de Cáceres queda a poca distancia."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Cueva_de_Maltravieso",
+     "https://rupestre.art/es/caves/cueva-de-maltravieso",
+     "https://www.openstreetmap.org/?mlat=39.4575&mlon=-6.3709#map=18/39.4575/-6.3709",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ7QRKb8bfFQ0R8tZLq-SSBg8",
+     "https://es.wikipedia.org/wiki/Cueva_de_Maltravieso"
+    ]
+   }
+  },
+  {
+   "id": "valencia-alcantara",
+   "campos": {
+    "lat": 39.3298,
+    "lon": -7.219,
+    "estilo": "Megalítico",
+    "texto": {
+     "general": "<p>Valencia de Alcántara guarda uno de los <b>mayores conjuntos megalíticos</b> de la Península, y uno de los más importantes de la Europa occidental. En su término se han catalogado <b>55 dólmenes</b> de los milenios IV y III a. C.: 33 levantados con granito, 8 con pizarra y 14 que se han perdido. Entre los más conocidos están El Mellizo o los de Zafra (no confundir con la ciudad de Zafra, en Badajoz).</p><p>Estos sepulcros colectivos han dado ricos ajuares que ayudan a entender cómo vivían las comunidades neolíticas. Destacan las <b>placas grabadas</b> de pizarra de dólmenes como Las Lanchas o El Corchero, que quizá indicaban la pertenencia a un territorio o a un linaje.</p><p>El conjunto es <b>Bien de Interés Cultural</b> desde 1992, como zona arqueológica. Para recorrerlo se han trazado cinco rutas: Tapias, Zafra, Las Lanchas, Huertas de las Monjas y Los Mellizos; esta última, la más conocida, va de La Aceña de la Borrega a Cajirón, y en 2022 se mejoró su señalización con paneles.</p>"
+    },
+    "ver_alli": [
+     "La ruta de Los Mellizos, entre La Aceña de la Borrega y Cajirón, es la más conocida y está señalizada con paneles.",
+     "El dolmen de El Mellizo, el mayor y mejor conservado de esa ruta, tiene aparcamiento al lado; muy cerca están los de Cajirón.",
+     "Hay otras rutas señalizadas, como la de Zafra o la de Las Lanchas.",
+     "El Centro de Interpretación de la Cultura Dolménica está en Santiago de Alcántara."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/D%C3%B3lmenes_de_Valencia_de_Alc%C3%A1ntara",
+     "https://www.openstreetmap.org/?mlat=39.3298&mlon=-7.219#map=18/39.3298/-7.219",
+     "https://www.google.com/maps/place/?q=place_id:ChIJEUj5LCGxFw0RmLprv3TpORg"
+    ]
+   }
+  },
+  {
+   "id": "guadalperal",
+   "campos": {
+    "lat": 39.8317,
+    "lon": -5.4027,
+    "estilo": "Megalítico",
+    "texto": {
+     "general": "<p>Lo llaman el «<b>Stonehenge español</b>», aunque el apodo es poco afortunado: no es un círculo de piedras sino un <b>dolmen</b>, un sepulcro colectivo. Tiene más de 150 losas de granito; 12 o 13 formaban una cámara ovalada de unos cinco metros de diámetro, precedida por un corredor de más de cinco metros. A la entrada de la cámara se alza un <b>menhir</b> de dos metros con grabados. Se fecha entre finales del V y el III milenio a. C., y su construcción se sitúa hacia el 4000 a. C.</p><p>Se descubrió en 1925 y lo excavó entre 1925 y 1927 el arqueólogo alemán <b>Hugo Obermaier</b>, que vació por completo el túmulo de tierra que lo cubría: el anillo de cantos que hoy lo rodea son los restos de esa excavación, no parte del monumento. En los ajuares aparecieron hachas, cerámicas, cuchillos de sílex y un punzón de cobre.</p><p>En 1963 quedó <b>bajo las aguas del embalse de Valdecañas</b>, en el término de El Gordo, y solo asoma cuando baja el nivel del agua; con la sequía de 2019 volvió a verse entero. Es Bien de Interés Cultural desde 2022.</p>"
+    },
+    "ver_alli": [
+     "Solo es visible cuando baja mucho el nivel del embalse; con el agua alta queda sumergido.",
+     "El acceso es por caminos de tierra y una larga caminata por la orilla; conviene informarse antes en la zona.",
+     "Fíjate en el menhir grabado de la entrada de la cámara.",
+     "Navalmoral de la Mata y Peraleda de la Mata quedan cerca."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Dolmen_of_Guadalperal",
+     "https://es.wikipedia.org/wiki/Dolmen_de_Guadalperal",
+     "https://www.openstreetmap.org/?mlat=39.8317&mlon=-5.4027#map=18/39.8317/-5.4027",
+     "https://www.google.com/maps/place/?q=place_id:ChIJf39H2vBhFQ0R1hQgV9rDX-s"
+    ]
+   }
+  },
+  {
+   "id": "caparra",
+   "campos": {
+    "lat": 40.1665,
+    "lon": -6.101,
+    "estilo": "Romano",
+    "texto": {
+     "general": "<p>Cáparra fue una ciudad romana de la <b>Vía de la Plata</b>, entre Guijo de Granadilla y Oliva de Plasencia, en la provincia de Lusitania. Su nombre es prerromano, probablemente vetón, y la ciudad creció tras recibir el rango de municipio de derecho latino en época de los Flavios, a finales del siglo I. Estaba amurallada y ocupaba unas 15 o 16 hectáreas.</p><p>Su símbolo es el <b>arco de cuatro caras</b> (tetrapylum), el único de este tipo en España, levantado en el cruce de las dos calles principales; bajo él pasaba la calzada. Mide 8,60 por 7,35 metros de planta y alcanzaba unos 13 metros de altura. Una inscripción cuenta que lo mandó erigir <b>Marco Fidio Macer</b> cumpliendo el testamento de sus padres, a finales del siglo I.</p><p>Junto al arco se han excavado el <b>foro</b>, las <b>termas</b> públicas, tiendas, una puerta de la muralla y el <b>anfiteatro</b>, recién consolidados. La ciudad se fue despoblando en la Alta Edad Media.</p>"
+    },
+    "ver_alli": [
+     "El arco de cuatro caras, con la calzada de la Vía de la Plata pasando por debajo.",
+     "Busca en un pilar del frente sur la inscripción de Marco Fidio Macer.",
+     "Recorre el foro, las termas y el anfiteatro.",
+     "El centro de visitantes, renovado en 2026, explica la ciudad antes del paseo."
+    ],
+    "fuentes": [
+     "https://www.juntaex.es/w/caparra-culmina-su-transformacion-con-un-nuevo-centro-de-visitantes-mas-accesible",
+     "https://es.wikipedia.org/wiki/C%C3%A1parra",
+     "https://www.openstreetmap.org/?mlat=40.1665&mlon=-6.101#map=18/40.1665/-6.101",
+     "https://www.google.com/maps/place/?q=place_id:ChIJmTyfGN1qPg0RYO6sLIozmgc"
+    ]
+   }
+  },
+  {
+   "id": "puente-alcantara",
+   "campos": {
+    "lat": 39.7224,
+    "lon": -6.8924,
+    "estilo": "Romano",
+    "anio": 104,
+    "texto": {
+     "general": "<p>Este puente sobre el Tajo es una de las obras más altas y espectaculares de la ingeniería romana: mide <b>58,2 metros de altura</b> y 194 de largo, con seis arcos de medio punto sobre cinco pilares. Sus dos arcos centrales, de casi 29 y 27 metros de luz, están entre los mayores conocidos en un puente romano.</p><p>Se construyó en época de <b>Trajano</b>, a comienzos del siglo II d. C.: la inscripción dedicada al emperador sobre el <b>arco de triunfo</b> central lo fecha hacia los años 103-104. Lo costearon doce municipios de la zona. A la entrada hay un pequeño <b>templete</b> romano cuya inscripción da el nombre del arquitecto, <b>Cayo Julio Lácer</b>; algunos investigadores piensan que esa inscripción y otros elementos son retoques de una reforma de finales del siglo XV.</p><p>El puente sufrió roturas y arreglos durante siglos: lo repararon Carlos V, cuyo escudo corona el arco, y en 1858-1860 Alejandro Millán rehízo el arco volado en 1809, durante la Guerra de la Independencia.</p>"
+    },
+    "ver_alli": [
+     "Mira el puente desde la orilla y desde lo alto: solo así se aprecia su enorme altura.",
+     "Cruza bajo el arco de triunfo central y busca la inscripción dedicada a Trajano y los escudos de Carlos V e Isabel II.",
+     "El templete romano de la entrada, con la inscripción que nombra a Lácer.",
+     "Acceso libre a pie."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Alc%C3%A1ntara_Bridge",
+     "https://es.wikipedia.org/wiki/Puente_de_Alc%C3%A1ntara",
+     "https://www.openstreetmap.org/?mlat=39.7224&mlon=-6.8924#map=18/39.7224/-6.8924",
+     "https://www.google.com/maps/place/?q=place_id:ChIJV446T0QmFg0RKad8tPZKKOA"
+    ]
+   }
+  },
+  {
+   "id": "augustobriga",
+   "campos": {
+    "lat": 39.8069,
+    "lon": -5.4822,
+    "estilo": "Romano (corintio)",
+    "texto": {
+     "general": "<p>«Los Mármoles» es el pórtico de un <b>templo romano del siglo II</b> que estuvo en el foro de <b>Augustóbriga</b>, la ciudad que vigilaba el vado de Alarza, uno de los pocos pasos del Tajo. Con los siglos la ciudad pasó a llamarse Talavera la Vieja. Durante mucho tiempo se creyó que era una curia, pero las excavaciones de García y Bellido en 1962 demostraron que era un templo.</p><p>Conserva <b>cuatro columnas frontales y dos laterales</b> de granito, cubiertas en origen con un estuco brillante que imitaba el mármol: de ahí el nombre. Su rasgo más raro es el <b>arco</b> que ocupa el lugar del frontón, de influencia oriental.</p><p>Cuando el embalse de Valdecañas iba a inundar el pueblo, el templo se desmontó en 1963 y se volvió a montar en la orilla; tras un primer traslado, quedó junto a la carretera EX-118, en Bohonal de Ibor. En años de sequía asoman del agua las ruinas del pueblo y otras columnas romanas.</p>"
+    },
+    "ver_alli": [
+     "El arco sobre las columnas, en lugar del frontón, es su rasgo más raro.",
+     "Busca restos de estuco en las acanaladuras de las columnas.",
+     "Baja un poco junto al embalse para ver otras columnas romanas trasladadas.",
+     "Acceso libre junto a la carretera EX-118, con paneles muy deteriorados."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Templo_romano_de_August%C3%B3briga",
+     "https://es.wikipedia.org/wiki/Templo_romano_de_August%C3%B3briga",
+     "https://www.openstreetmap.org/?mlat=39.8069&mlon=-5.4822#map=18/39.8069/-5.4822",
+     "https://www.google.com/maps/place/?q=place_id:ChIJBTozddRjFQ0R9m_O4_VXfr4"
+    ]
+   }
+  },
+  {
+   "id": "trampal",
+   "campos": {
+    "estilo": "Visigodo",
+    "texto": {
+     "general": "<p>Santa Lucía del Trampal, en Alcuéscar, se presenta como la <b>única iglesia visigoda en pie en la mitad sur</b> de la Península. Su fecha se discute: unos autores la llevan a finales del siglo VII y otros a los siglos VIII-IX.</p><p>Su rasgo más raro es la <b>cabecera de tres capillas</b> rectangulares separadas, detrás de un amplio crucero. Las bóvedas de cañón, con sección de herradura, cubren la nave, el crucero y los ábsides; la piedra labrada refuerza las esquinas y el resto es mampostería. Esta división del espacio se ha relacionado con la liturgia del IV Concilio de Toledo (633), que separaba a sacerdotes, clero y fieles.</p><p>Es Bien de Interés Cultural desde 1983.</p>"
+    },
+    "ver_alli": [
+     "La cabecera de tres capillas separadas, vista desde el exterior.",
+     "Las bóvedas con sección de herradura y los cimacios de mármol con volutas.",
+     "El centro de interpretación, al lado, ayuda a entender el templo y sus fases."
+    ],
+    "fuentes": [
+     "https://admin.turismoextremadura.juntaex.es/en/explora/Basilica-of-Santa-Lucia-del-Trampal",
+     "https://www.wikidata.org/wiki/Q1518317",
+     "https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_Santa_Luc%C3%ADa_del_Trampal",
+     "https://www.openstreetmap.org/?mlat=39.1528&mlon=-6.2226#map=18/39.1528/-6.2226"
+    ]
+   }
+  },
+  {
+   "id": "ciudad-monumental-de-caceres",
+   "campos": {
+    "lat": 39.4745,
+    "lon": -6.3704,
+    "estilo": "Almohade, gótico y renacentista",
+    "texto": {
+     "general": "<p>La ciudad monumental es el Cáceres que queda <b>dentro de la muralla</b>. La cerca nació para proteger la colonia romana de Norba Caesarina, pero la mayor parte de lo que se ve es <b>almohade</b>, de finales del siglo XII y principios del XIII, con muros de unos tres metros de grosor. A ella pertenecen la <b>torre de Bujaco</b>, junto al arco de la Estrella, y el <b>aljibe andalusí</b> de la Casa de las Veletas, el más antiguo de la ciudad.</p><p>Dentro se apiña un casco de <b>palacios y torres de los siglos XV-XVI</b>: la concatedral de Santa María, los palacios de los Golfines, el de Carvajal… Isabel la Católica mandó desmochar las torres de los nobles que la desafiaron; solo se libró la de las Cigüeñas.</p><p>Es <b>Patrimonio Mundial</b> desde 1986 y conjunto protegido desde 1949.</p>"
+    },
+    "ver_alli": [
+     "Entra por el arco de la Estrella, desde la Plaza Mayor, con la torre de Bujaco al lado.",
+     "La plaza de Santa María, rodeada de palacios en torno a la concatedral.",
+     "Las torres desmochadas y la de las Cigüeñas, la única que conservó su altura.",
+     "El aljibe andalusí, bajo la Casa de las Veletas (Museo de Cáceres)."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Ciudad_monumental_de_C%C3%A1ceres",
+     "https://www.openstreetmap.org/?mlat=39.4745&mlon=-6.3704#map=18/39.4745/-6.3704",
+     "https://www.google.com/maps/place/?q=place_id:ChIJbSKkKdTfFQ0R1namIweqeTg"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-trujillo",
+   "campos": {
+    "lat": 39.4624,
+    "lon": -5.8824,
+    "estilo": "Andalusí",
+    "texto": {
+     "general": "<p>El castillo corona el cerro de la <b>Cabeza del Zorro</b>, en lo más alto de Trujillo. Es una <b>alcazaba andalusí</b> levantada entre los siglos IX y XII, de sillería de granito y con torres cuadradas; dos de ellas guardan la puerta, de <b>arco de herradura</b>. Lo más antiguo que conserva son dos <b>aljibes</b> árabes.</p><p>Los almohades retuvieron la villa hasta que, tras un asedio iniciado en 1232, tropas de las Órdenes Militares y del obispo de Plasencia la tomaron el <b>25 de enero de 1233</b>; desde entonces quedó en manos cristianas. En el siglo XV se le añadió un segundo recinto amurallado, la albacara.</p><p>Sobre la puerta está la imagen de la <b>Virgen de la Victoria</b>, patrona de Trujillo, ligada a la leyenda de la conquista.</p>"
+    },
+    "ver_alli": [
+     "La puerta de arco de herradura, con la Virgen de la Victoria encima.",
+     "Baja a los aljibes árabes.",
+     "Sube al adarve: las vistas sobre Trujillo y la llanura son lo mejor de la visita.",
+     "Busca inscripciones árabes en algunos sillares."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Trujillo",
+     "https://es.wikipedia.org/wiki/Trujillo_(Espa%C3%B1a)",
+     "https://www.openstreetmap.org/?mlat=39.4624&mlon=-5.8824#map=18/39.4624/-5.8824",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ9223FSGjFQ0RJQrs7Bod3iM"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-guadalupe",
+   "campos": {
+    "lat": 39.4525,
+    "lon": -5.3273,
+    "estilo": "Gótico-mudéjar, renacentista y barroco",
+    "texto": {
+     "general": "<p>Según la tradición, <b>Alfonso XI</b> se encomendó a la Virgen de Guadalupe antes de la batalla del Salado (1340) y, en agradecimiento, mandó levantar una iglesia donde había una modesta ermita. En 1389 el santuario pasó a la <b>Orden de San Jerónimo</b>, que lo convirtió en un gran monasterio y lo gobernó hasta 1835.</p><p>Su joya es el <b>claustro mudéjar</b>, de los siglos XIV-XV, con un <b>templete</b> de 1405 en el centro. La sacristía barroca guarda una serie de pinturas de <b>Zurbarán</b>. Los Reyes Católicos recibieron aquí a Colón, que volvió en 1493 para dar gracias tras su primer viaje.</p><p>Hoy lo cuidan los franciscanos, custodia la imagen de la Virgen de Guadalupe, patrona de Extremadura, y es <b>Patrimonio Mundial</b> desde 1993.</p>"
+    },
+    "ver_alli": [
+     "El templete gótico-mudéjar de 1405, en el centro del claustro.",
+     "Los lienzos de Zurbarán en la sacristía.",
+     "La imagen de la Virgen de Guadalupe, en el camarín.",
+     "El interior solo se recorre en visita guiada."
+    ],
+    "fuentes": [
+     "https://monasterioguadalupe.com/visitas-al-monasterio/",
+     "https://es.wikipedia.org/wiki/Real_Monasterio_de_Santa_Mar%C3%ADa_de_Guadalupe",
+     "https://www.openstreetmap.org/?mlat=39.4525&mlon=-5.3273#map=18/39.4525/-5.3273",
+     "https://www.google.com/maps/place/?q=place_id:ChIJEwq9YKE-FQ0R54zRZCuyDVU"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-yuste",
+   "campos": {
+    "lat": 40.114,
+    "lon": -5.7378,
+    "estilo": "Gótico y renacentista",
+    "texto": {
+     "general": "<p>El monasterio nació en 1402, cuando unos vecinos de La Vera levantaron un cenobio para vivir como ermitaños; luego pasó a la <b>Orden de San Jerónimo</b>. La iglesia y el claustro gótico son del siglo XV; el claustro nuevo, renacentista, del XVI.</p><p>En 1556, tras abdicar, el emperador <b>Carlos V</b> eligió Yuste para retirarse. Se le construyó al lado una casa-palacio sencilla, con su alcoba junto al coro para poder oír misa desde la cama, postrado por la gota. Allí murió el <b>21 de septiembre de 1558</b>; después sus restos se llevaron a El Escorial.</p><p>Las tropas francesas lo incendiaron en 1809 y quedó casi destruido; se reconstruyó desde 1949. Pertenece a Patrimonio Nacional y tiene el sello de Patrimonio Europeo desde 2007.</p>"
+    },
+    "ver_alli": [
+     "La alcoba del emperador, con su ventana abierta a la iglesia.",
+     "La silla construida para Carlos V, que sufría gota.",
+     "Los dos claustros, el gótico y el renacentista.",
+     "Hay visitas guiadas y audioguía: recomendables para entender la historia."
+    ],
+    "fuentes": [
+     "https://tickets.patrimonionacional.es/en/tickets/monasterio-yuste",
+     "https://es.wikipedia.org/wiki/Monasterio_de_Yuste",
+     "https://www.openstreetmap.org/?mlat=40.114&mlon=-5.7378#map=18/40.114/-5.7378",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ3dlkvM80Pg0RVwjXSaRgNAg"
+    ]
+   }
+  },
+  {
+   "id": "plaza-mayor-de-trujillo",
+   "campos": {
+    "lat": 39.4607,
+    "lon": -5.8815,
+    "estilo": "Renacimiento",
+    "texto": {
+     "general": "<p>La Plaza Mayor de Trujillo, rectangular y rodeada en buena parte de soportales, nació fuera de la muralla como lugar de artesanos y comerciantes. Desde el siglo XVI se llenó de <b>palacios</b> levantados con la riqueza que trajeron los indianos que volvieron de <b>América</b>.</p><p>El más famoso es el <b>palacio de la Conquista</b>, empezado en 1562 por Hernando Pizarro y su esposa y sobrina Francisca Pizarro Yupanqui. Su gran balcón de esquina lleva los <b>bustos</b> de Francisco Pizarro, de la princesa inca Inés Yupanqui, de su hija Francisca y de Hernando, bajo un enorme escudo con las armas que Carlos V dio al conquistador.</p><p>En el centro, ante la iglesia de San Martín, está la <b>estatua ecuestre de Francisco Pizarro</b>, del escultor estadounidense Charles Cary Rumsey, inaugurada en 1929.</p>"
+    },
+    "ver_alli": [
+     "El balcón de esquina del palacio de la Conquista, con los bustos de los Pizarro y el gran escudo.",
+     "La estatua ecuestre de Pizarro, frente a la iglesia de San Martín.",
+     "Pasea bajo los soportales y mira los escudos de las fachadas.",
+     "Acceso libre."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Trujillo_(Espa%C3%B1a)",
+     "https://es.wikipedia.org/wiki/Palacio_de_la_Conquista",
+     "https://es.wikipedia.org/wiki/Estatua_ecuestre_de_Francisco_Pizarro",
+     "https://www.openstreetmap.org/?mlat=39.4607&mlon=-5.8815#map=18/39.4607/-5.8815",
+     "https://www.google.com/maps/place/?q=place_id:ChIJQX4vlSCjFQ0RrI_KYjrNkUY"
+    ]
+   }
+  },
+  {
+   "id": "catedral-nueva-de-plasencia",
+   "campos": {
+    "lat": 40.0279,
+    "lon": -6.0909,
+    "estilo": "Gótico tardío y plateresco",
+    "texto": {
+     "general": "<p>La Catedral Nueva se empezó en 1498 pegada a la <b>catedral vieja</b>, románica, con la idea de sustituirla. Las obras se pararon en 1578, se retomaron en el siglo XVIII y nunca se terminaron: por eso hoy se visitan <b>las dos juntas</b>. En ella trabajaron grandes arquitectos como Enrique Egas, Juan de Álava, Francisco de Colonia, Diego de Siloé y Rodrigo Gil de Hontañón.</p><p>Tiene dos <b>portadas platerescas</b>; la principal, de Juan de Álava, es como un retablo de piedra al que le faltan las estatuas. Dentro, las tres naves alcanzan la misma altura, 26 metros. El retablo mayor tiene esculturas de <b>Gregorio Fernández</b>.</p><p>La <b>sillería del coro</b>, de nogal, es de <b>Rodrigo Alemán</b>, con escenas religiosas pero también pícaras, burlescas y hasta obscenas.</p>"
+    },
+    "ver_alli": [
+     "Las tallas de la sillería de Rodrigo Alemán: busca las escenas burlescas.",
+     "La portada principal plateresca, un retablo de piedra sin estatuas.",
+     "Las bóvedas de las naves, cuyos nervios arrancan desde el suelo.",
+     "El retablo mayor de Gregorio Fernández; la visita incluye también la catedral vieja."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_nueva_de_Plasencia",
+     "https://es.wikipedia.org/wiki/Catedral_de_Plasencia",
+     "https://www.openstreetmap.org/?mlat=40.0279&mlon=-6.0909#map=18/40.0279/-6.0909",
+     "https://www.google.com/maps/place/?q=place_id:ChIJI8Fr70oWPg0RRa0abes5lS0"
+    ]
+   }
+  },
+  {
+   "id": "poblado-de-colonizacion-de-vegaviana",
+   "campos": {
+    "lat": 40.0415,
+    "lon": -6.7186,
+    "estilo": "Arquitectura moderna de colonización",
+    "comarca": "Vegaviana",
+    "texto": {
+     "general": "<p>Vegaviana es uno de los cerca de 300 pueblos de colonización que construyó el <b>Instituto Nacional de Colonización</b> para poblar las nuevas tierras de regadío. Nació con el embalse del Borbollón, de 1954: ese mismo año se redactó el proyecto del pueblo, que se construyó entre 1954 y 1959. Los primeros 58 colonos llegaron con sus familias en 1956.</p><p>Lo diseñó el arquitecto <b>José Luis Fernández del Amo</b>, con Genaro Alas, con <b>casas blancas entre encinas</b>: toma el nombre de una de las fincas, una dehesa de encinas y alcornoques. El proyecto se presentó en Moscú en 1958 y en 1961 Fernández del Amo ganó la <b>medalla de oro de la Bienal de São Paulo</b> por Vegaviana y otros tres pueblos.</p><p>Fue entidad local menor de Moraleja y desde 2009 es <b>municipio independiente</b>.</p>"
+    },
+    "ver_alli": [
+     "Pasea entre las casas blancas y por el retazo de dehesa de encinas que se conserva en torno al pueblo.",
+     "La iglesia, encalada y con dos torres, en la plaza de Fernández del Amo.",
+     "Acceso libre."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Vegaviana",
+     "https://www.openstreetmap.org/?mlat=40.0415&mlon=-6.7186#map=18/40.0415/-6.7186",
+     "https://www.google.com/maps/place/?q=place_id:ChIJeVaxL2XrPQ0RmiogjMH0Wq8"
+    ]
+   }
+  },
+  {
+   "id": "geoparque-villuercas-canamero",
+   "campos": {
+    "lat": 39.3799,
+    "lon": -5.3891,
+    "estilo": "Patrimonio geológico (fósiles del Ediacárico)",
+    "fuentes": [
+     "https://geoparquevilluercas.es/information-centres/visitor-reception-centre-canamero",
+     "https://geoparquevilluercas.es/wp-content/uploads/2020/11/Villuercas-Geopark-supplementary-dossier.pdf",
+     "https://old.oiccpress.com/geoconservation-research/article/the-ediacaran-cambrian-radiation-of-animals-within-the-villuercas-ibores-jara-unesco-global-geopark-spain/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJIbPTg149FQ0R8ouSEPjYYjE",
+     "https://www.openstreetmap.org/?mlat=39.3799&mlon=-5.3891#map=18/39.3799/-5.3891"
+    ]
+   }
+  }
+ ]
+}

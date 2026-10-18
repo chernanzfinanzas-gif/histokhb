@@ -143,6 +143,56 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] des-sutton-hoo · Sutton Hoo, el barco enterrado
 - [ ] des-palenque · La tumba de Pakal
 
+### Edad Antigua · capítulo 5
+- [ ] ant5-0 · El Imperio romano
+- [ ] ant5-8 · Augusto y la Pax Romana
+- [ ] ant5-1 · Egipto romano y cristiano
+- [ ] ant5-2 · Judea, Jesús y el nacimiento del cristianismo
+- [ ] ant5-3 · China: Han, Tres Reinos y división
+- [ ] ant5-12 · Hispania en el Imperio: Mérida, Itálica y Las Médulas
+- [ ] ant5-19 · Japón y Corea: Yamato y los Tres Reinos
+- [ ] ant5-15 · Aksum
+- [ ] ant5-9 · Pompeya y Herculano
+- [ ] ant5-11 · El Coliseo y los gladiadores
+- [ ] ant5-10 · Trajano y Adriano, emperadores de Hispania
+- [ ] ant5-14 · Los moche y el Señor de Sipán
+- [ ] ant5-6 · Mesoamérica: Teotihuacan y los mayas
+- [ ] ant5-5 · Persia sasánida
+- [ ] ant5-13 · Constantino y Constantinopla
+- [ ] ant5-4 · India: el Imperio Gupta
+- [ ] ant5-16 · Los visigodos y el fin del Imperio de Occidente
+- [ ] ant5-18 · Hipatia de Alejandría
+- [ ] ant5-7 · Y mientras tanto…
+- [ ] des-coliseo · El Coliseo
+- [ ] des-medulas · Las Médulas
+- [ ] des-pompeya · Pompeya, una ciudad detenida
+- [ ] des-sipan · El Señor de Sipán
+- [ ] des-teotihuacan · Teotihuacan
+
+### Edad Media · capítulo 2
+- [ ] med2-0 · Mahoma y la expansión del islam
+- [ ] med2-2 · Al-Ándalus y el esplendor de Córdoba
+- [ ] med2-3 · Covadonga y el reino de Asturias
+- [ ] med2-15 · China Tang: esplendor y rebelión
+- [ ] med2-18 · El colapso maya y Chichén Itzá
+- [ ] med2-17 · Ghana, el país del oro
+- [ ] med2-4 · Carlomagno y el Imperio carolingio
+- [ ] med2-1 · La Edad de Oro del islam: Bagdad
+- [ ] med2-7 · De Oviedo al Duero: de Alfonso II a Alfonso III
+- [ ] med2-12 · El arte asturiano
+- [ ] med2-16 · Angkor y el imperio jemer
+- [ ] med2-10 · La Casa de la Sabiduría y al-Juarismi
+- [ ] med2-11 · Santiago de Compostela y el nacimiento del Camino
+- [ ] med2-19 · Fátima al-Fihri y la mezquita de al-Qarawiyyin
+- [ ] med2-14 · La Rus de Kiev
+- [ ] med2-8 · El reino de León y la Castilla de Fernán González
+- [ ] med2-9 · Abderramán III y Medina Azahara
+- [ ] med2-6 · Y mientras tanto…
+- [ ] des-mezquita · La Mezquita de Córdoba
+- [ ] des-azahara · Medina Azahara
+- [ ] des-naranco · Santa María del Naranco
+- [ ] des-anse · L'Anse aux Meadows
+
 ## Hechos con Gemini
 
 - [x] ant1-8 (al final con Veo; el de Gemini también salió bien) · Sargón de Acad, el primer imperio
