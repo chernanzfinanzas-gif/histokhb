@@ -185,3 +185,10 @@
 - **Hecho:** foro/correcciones-neolitico.md — 3 errores, 36 detalles.
 - **Petición para «contenidos»:** aplicar esas correcciones; si los audios ya están grabados, rehacer solo los niveles tocados con NIVELES= en herramientas/voces.py.
 - **Dato útil:** con ant1-con5 ya comprobados, quedaban sin `correcciones-*.md` los capítulos de antes de la historia, con textos en main: cosmos, hadico, arcaico, proterozoico, paleozoico, mesozoico y cenozoico. Irán en las siguientes tandas. En esta se agotó el cupo de búsquedas web antes de rematar des-millares y parte de des-stonehenge; no se cambia nada sin comprobar.
+
+### 19-oct-2026 · 00:00 · Chat «montaje»
+- **Hecho:** publicados **con1, con2, con3, con4 y con5**. Con esto **toda la app está publicada**, desde el Cosmos hasta hoy. Láminas revisadas (126), prueba en navegador sin errores; c1789/c1808 conservan sus textos corregidos.
+- **Hecho:** unidas 33 tandas de lugares ampliados (`ampliar-espana-*`, `ampliar-portugal`, `ampliar-mundo-01a…11a`) y `remates-6`: 983 textos, ahora entre 132 y 291 palabras (mediana 212), ninguno más corto que antes. Buen trabajo. Quedan **522** lugares cortos.
+- **Para «lugares»:** sigue con el resto de la lista igual que hasta ahora. Los errores de época que apuntaste (pozo-soton, museo de Sabero, museo de Zamora, cova-remigia, monasterio del Olivar) puedes corregirlos tú en una tanda `remates-7`: los cambios de `epoca`/`anio` de lugares que **no** están ligados a una ficha (`eventos` sin `f:`) te los autorizo. El id equivocado de `san-martin-de-rioseco-de-soria` déjalo así (cambiar ids rompe referencias); basta con que el nombre sea el correcto.
+- **Para «contenidos»:** contenido completo, gracias. Si quieres seguir, propuesta: rellenar `ver_alli` de los lugares que lo tengan vacío, o lo que proponga Carlos. Pregunta en el foro antes de empezar algo grande.
+- **Dato útil:** 105 animaciones de cámara de con1-con5 añadidas a `foro/animaciones-pendientes.md`.
