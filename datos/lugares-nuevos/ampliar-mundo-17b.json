@@ -1,0 +1,441 @@
+{
+ "zona": "Ampliar mundo-17b",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "museo-de-las-civilizaciones-asiaticas",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo de las Civilizaciones Asiáticas</b> está dedicado a las culturas de China, el sudeste asiático, la India y Asia occidental, de donde proceden los antepasados de los distintos pueblos de Singapur. Abrió el <b>22 de abril de 1997</b> en una antigua escuela de Armenian Street, centrado entonces en la civilización china, y el <b>2 de marzo de 2003</b> estrenó su sede principal en el edificio colonial de <b>Empress Place</b>, a orillas del río Singapur.</p><p>El edificio se levantó por fases entre <b>1864 y 1920</b> como oficinas del gobierno colonial británico; la primera parte la construyeron presos entre 1864 y 1867. La plaza de delante recibió en 1907 el nombre de Empress Place en honor de la reina Victoria.</p><p>Su gran tesoro, expuesto en la galería Khoo Teck Puat, es el cargamento del <b>pecio de Belitung</b>: un barco del siglo IX que navegaba hacia Irán e Irak y se hundió en el mar de Java, frente a la isla de Belitung, donde lo encontraron pescadores locales en 1998, a 17 metros de profundidad. Llevaba unas <b>60.000 cerámicas</b> de la dinastía Tang y piezas de oro y plata, entre ellas la mayor copa de oro Tang conocida, una prueba excepcional de la ruta marítima de la seda entre China y el mundo islámico.</p><p class=\"dato\"><span>¿Sabías que…?</span>Un cuenco del cargamento lleva pintada una fecha que equivale al año 826, y el anís estrellado hallado entre los restos, fechado por radiocarbono, lo confirmó.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Asian_Civilisations_Museum",
+     "https://www.google.com/maps/place/?q=place_id:ChIJoZOhmQkZ2jERehLfvKlsoCA",
+     "https://www.openstreetmap.org/?mlat=1.2874&mlon=103.8515#map=17/1.2874/103.8515",
+     "https://en.wikipedia.org/wiki/Belitung_shipwreck",
+     "https://en.wikipedia.org/wiki/Empress_Place_Building"
+    ]
+   }
+  },
+  {
+   "id": "museo-del-campo-de-batalla-de-poltava",
+   "campos": {
+    "texto": {
+     "general": "<p>A las afueras de Poltava se conserva el campo donde el <b>8 de julio de 1709</b> (27 de junio según el calendario juliano que regía en Rusia) el zar <b>Pedro el Grande</b> derrotó al rey <b>Carlos XII de Suecia</b>, la batalla decisiva de la Gran Guerra del Norte. Hoy es la reserva histórica y cultural «Campo de batalla de Poltava», creada en 1981, con un museo de la historia de la batalla que abrió por primera vez en <b>1909</b> y reabrió en 1950.</p><p>Carlos XII había bajado a Ucrania para unirse al atamán cosaco <b>Iván Mazepa</b>, que se había rebelado contra Pedro. Los suecos asaltaron de madrugada la línea de reductos rusos, pero quedaron divididos y fueron derrotados; el resto del ejército se rindió tres días después en Perevolochna, mientras Carlos y Mazepa huían con unos 1.500 hombres a Bender, en territorio otomano. Poltava marcó el final de Suecia como potencia dominante del Báltico, papel que pasó a Rusia.</p><p>En la reserva se ven la <b>tumba común de los soldados rusos</b>, la iglesia de San Sansón (1856), los reductos rusos y el segundo campamento fortificado, el lugar donde Pedro descansó tras la batalla y dos monumentos de 1909 a los suecos caídos: uno levantado por los rusos y otro por los propios suecos.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/124087844",
+     "https://en.wikipedia.org/wiki/Battle_of_Poltava",
+     "https://es.wikipedia.org/wiki/Batalla_de_Poltava",
+     "https://battle-poltava.org.ua/en/reserve/",
+     "https://battle-poltava.org.ua/en/monuments/",
+     "https://en.wikipedia.org/wiki/List_of_historic_reserves_in_Ukraine"
+    ]
+   }
+  },
+  {
+   "id": "puerta-de-oro-de-kiev",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Puerta de Oro</b> fue la entrada principal de la Kiev de <b>Yaroslav el Sabio</b>, una de las tres puertas de la muralla que mandó levantar, al mismo tiempo que la catedral de Santa Sofía. La crónica la menciona en el año <b>1037</b>. Su paso medía unos 12 metros de alto y 6 de ancho, y sobre él se alzaba una pequeña iglesia de la Anunciación, cuyas cúpulas doradas se veían desde fuera de la ciudad. Según la tradición, imitaba la Puerta Dorada de Constantinopla.</p><p>Durante casi medio milenio fue el arco de triunfo de Kiev. En <b>1240</b> la dañaron las tropas de <b>Batu Kan</b>, de la Horda de Oro, y siguió usándose en ceremonias hasta el siglo XVIII, aunque cada vez más arruinada. En 1832 se excavaron sus restos.</p><p>Lo que se ve hoy es una <b>reconstrucción soviética de 1982</b>, hecha para el 1.500 aniversario de la ciudad sin que existieran imágenes de la puerta original; algunos historiadores del arte la discutieron. Dentro se protegen las ruinas auténticas y hay un museo, de la reserva nacional de Santa Sofía, que cuenta la construcción de la puerta y la Kiev antigua; desde su balcón hay una gran vista de la ciudad. Junto a ella se alza desde 1997 un <b>monumento a Yaroslav el Sabio</b>.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/27830130",
+     "https://en.wikipedia.org/wiki/Golden_Gate,_Kyiv",
+     "https://en.wikipedia.org/wiki/Yaroslav_the_Wise"
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-del-holodomor",
+   "campos": {
+    "texto": {
+     "general": "<p>En una ladera sobre el Dniéper, cerca de la Lavra de las Cuevas, se levanta el memorial y <b>Museo Nacional del Holodomor-Genocidio</b>, dedicado a los millones de muertos de la hambruna de <b>1932-1933</b> en Ucrania, causada por la colectivización forzosa de Stalin. Se inauguró en <b>noviembre de 2008</b>, en el 75 aniversario de la tragedia, y en 2009 el gobierno lo convirtió en museo estatal.</p><p>Nació de la ley de 2006 con la que el parlamento ucraniano reconoció el Holodomor como un acto deliberado de genocidio contra el pueblo ucraniano, firmada por el presidente <b>Víktor Yúshchenko</b>. Ucrania y muchos otros países lo consideran un genocidio; Rusia lo niega. El museo recuerda también las hambrunas de 1921-1923 y 1946-1947.</p><p>El centro del conjunto es la <b>Vela de la Memoria</b>, un monumento blanco de 30 metros con cigüeñas de bronce que simbolizan el renacer de la nación. En el paseo de acceso hay 24 piedras de molino en círculo y la estatua <i>Amargo recuerdo de la infancia</i>, una niña que aprieta unas espigas de trigo, dedicada a los niños muertos de hambre. Bajo tierra, la Sala de la Memoria permite encender una vela, tocar una campana y consultar el Libro Nacional de la Memoria con los nombres de las víctimas.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/81065379",
+     "https://en.wikipedia.org/wiki/National_Museum_of_the_Holodomor-Genocide"
+    ]
+   }
+  },
+  {
+   "id": "plaza-de-la-independencia-maidan",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>plaza de la Independencia</b> (<i>Maidán Nezalézhnosti</i>) es la gran plaza central de Kiev, atravesada por la avenida Jreschátyk. Recibió su nombre actual el <b>26 de agosto de 1991</b>, dos días después de la declaración de independencia de Ucrania; antes se había llamado, entre otros nombres, plaza Soviética, plaza Kalinin y plaza de la Revolución de Octubre. Tras la Segunda Guerra Mundial se reconstruyó por completo en estilo estalinista.</p><p>Desde 1990 es el escenario de las grandes protestas del país: la Revolución sobre el Granito de los estudiantes (1990), la campaña «Ucrania sin Kuchma» (2001), la <b>Revolución Naranja de 2004</b>, con cientos de miles de personas acampadas durante semanas en la nieve, y el <b>Euromaidán de 2013-2014</b>, que empezó cuando el presidente Yanukóvich renunció a firmar el acuerdo de asociación con la Unión Europea. En enero y febrero de 2014 murieron <b>108 manifestantes</b> y 13 policías, la mayoría el 20 de febrero, tiroteados por francotiradores.</p><p>Los manifestantes muertos son conocidos como los «Cien Celestiales», y parte de la calle Instytutska, donde cayeron muchos de ellos, se llama desde 2015 <b>Alameda de los Héroes de los Cien Celestiales</b>. En la plaza se alza el monumento a la Independencia, una columna coronada por la diosa protectora Berehynia. Desde la invasión rusa hay además un memorial improvisado a los caídos en la guerra.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/9287875",
+     "https://en.wikipedia.org/wiki/Maidan_Nezalezhnosti",
+     "https://en.wikipedia.org/wiki/Revolution_of_Dignity",
+     "https://en.wikipedia.org/wiki/Heavenly_Hundred"
+    ]
+   }
+  },
+  {
+   "id": "zona-de-exclusion-de-chernobil",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Zona de Exclusión de Chernóbil</b> se creó el <b>2 de mayo de 1986</b>, pocos días después del accidente del reactor 4 de la central nuclear, como un círculo de <b>30 km</b> de radio que se evacuó y quedó bajo control militar. Después se amplió y hoy ocupa unos 2.600 km² en Ucrania, junto a una reserva radioecológica en Bielorrusia. Es una de las zonas más contaminadas de la Tierra y, a la vez, sin presencia humana, se ha convertido en refugio de fauna y bosques espesos.</p><p>Su lugar más conocido es <b>Prípiat</b>, la ciudad de los trabajadores de la central, fundada en 1970, que tenía unos 49.000 habitantes cuando la evacuaron el 27 de abril de 1986, un día después del accidente. Su <b>noria</b>, que iba a inaugurarse cinco días más tarde para las fiestas del Primero de Mayo, nunca llegó a funcionar. Sobre el reactor destruido se colocó en noviembre de 2016 el <b>Nuevo Confinamiento Seguro</b>, un enorme arco que se deslizó sobre raíles hasta cubrir el viejo sarcófago y se dio por terminado en 2019; en febrero de 2025 lo dañó un dron ruso.</p><p>Antes de 2022 se visitaba con guías y controles de radiación. Las tropas rusas ocuparon la zona entre febrero y abril de 2022 y sigue cerrada al turismo. El Museo Nacional de Chernóbil de Kiev quedó casi destruido por un misil ruso el 24 de mayo de 2026.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/23652365",
+     "https://en.wikipedia.org/wiki/Chernobyl_Exclusion_Zone",
+     "https://en.wikipedia.org/wiki/Pripyat",
+     "https://en.wikipedia.org/wiki/Chernobyl_New_Safe_Confinement",
+     "https://en.wikipedia.org/wiki/Chernobyl_Museum"
+    ]
+   }
+  },
+  {
+   "id": "lavra-de-las-cuevas-de-kiev",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Lavra de las Cuevas de Kiev</b> (<i>Kyievo-Pecherska Lavra</i>) es el gran monasterio ortodoxo de la ciudad, a orillas del Dniéper. La crónica da dos fechas para su fundación, <b>1051</b> o 1074, y la atribuye al monje <b>Antonio</b>, que había vivido en el monte Athos, y a su discípulo Teodosio, que empezaron viviendo en cuevas excavadas en la colina.</p><p>Fue el gran centro religioso y cultural de la Rus de Kiev. Allí vivió y fue enterrado, hacia 1114, el monje <b>Néstor</b>, a quien la tradición atribuye la <i>Crónica de Néstor</i> o <i>Relato de los años pasados</i>, la primera crónica de la Rus. Sufrió saqueos de los cumanos (1096) y de los mongoles de Batu, y en la época barroca, con el apoyo de mecenas como el atamán Mazepa, se llenó de iglesias de <b>cúpulas doradas</b>. En 1941 la catedral de la Dormición fue volada; se reconstruyó y reabrió en 2000.</p><p>Bajo tierra, las Cuevas Cercanas y las Cuevas Lejanas son galerías estrechas, de 1 a 1,5 metros de ancho, donde reposan en sus nichos los <b>cuerpos de los monjes santos</b>, cubiertos con telas. Arriba destaca el Gran Campanario, de 96,5 metros, construido entre 1731 y 1745. Es <b>Patrimonio de la Humanidad</b> desde 1990, junto con Santa Sofía. En 2026 sufrió daños por ataques de drones rusos.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/10279664",
+     "https://en.wikipedia.org/wiki/Kyiv_Pechersk_Lavra",
+     "https://en.wikipedia.org/wiki/Nestor_the_Chronicler",
+     "https://es.wikipedia.org/wiki/Monasterio_de_las_Cuevas_de_Kiev"
+    ]
+   }
+  },
+  {
+   "id": "ciudad-blanca-de-tel-aviv",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Ciudad Blanca</b> es el conjunto de edificios blancos de estilo <b>Bauhaus</b> e Internacional que se levantaron en Tel Aviv desde comienzos de los años 30 hasta los 50. Ninguna ciudad del mundo tiene tantos edificios de este estilo, y desde <b>2003</b> es Patrimonio de la Humanidad como ejemplo excepcional del urbanismo y la arquitectura de comienzos del siglo XX.</p><p>Tel Aviv nació en <b>1909</b> como un barrio judío levantado en las dunas junto al antiguo puerto de <b>Jaffa</b>. Su primer alcalde, Meir Dizengoff, encargó el plan de la ciudad al urbanista escocés <b>Patrick Geddes</b>, que lo trazó a partir de 1925. Desde 1933, al subir los nazis al poder, muchos arquitectos judíos formados en la Bauhaus, como Arieh Sharon, huyeron de Alemania a Palestina y aplicaron allí sus ideas, mezcladas con las de Le Corbusier. Las adaptaron al clima: paredes blancas que reflejan el calor, ventanas pequeñas y retranqueadas en vez de grandes cristaleras, balcones largos que dan sombra al de abajo y edificios sobre pilares para que corra la brisa del mar. El plan de conservación protege alrededor de un millar de edificios históricos.</p><p>En 2026 un misil iraní dañó dos edificios Bauhaus del conjunto.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/White_City_(Tel_Aviv)",
+     "https://es.wikipedia.org/wiki/Ciudad_Blanca_(Tel_Aviv)",
+     "https://whc.unesco.org/en/list/1096/",
+     "https://en.wikipedia.org/wiki/Tel_Aviv",
+     "https://en.wikipedia.org/wiki/Bauhaus_Center_Tel_Aviv"
+    ],
+    "ver_alli": [
+     "El Centro Bauhaus, en la calle Dizengoff, organiza recorridos a pie por la Ciudad Blanca, también con audioguía en torno a la plaza Dizengoff.",
+     "Las calles más representativas están en torno a la plaza Dizengoff y el bulevar Rothschild.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "plaza-rabin-y-memorial",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>plaza Rabin</b> es la gran explanada que se abre frente al ayuntamiento de Tel Aviv. Se diseñó junto con el edificio municipal en <b>1964</b> y durante décadas se llamó plaza de los Reyes de Israel. Hasta comienzos de los años 90 se exhibían en ella unidades del ejército el Día de la Independencia, y ha sido escenario de muchas grandes manifestaciones y actos públicos.</p><p>El <b>4 de noviembre de 1995</b>, al terminar una concentración contra la violencia y en apoyo de los acuerdos de paz de Oslo, el primer ministro <b>Isaac Rabin</b> fue asesinado de dos disparos cuando subía a su coche. El asesino, <b>Yigal Amir</b>, era un estudiante de Derecho de extrema derecha que se oponía al proceso de paz. En el bolsillo de Rabin se encontró, manchada de sangre, la letra de la <i>Canción por la paz</i>, que se había cantado en el acto. En los días siguientes miles de israelíes acudieron a la plaza, que ese mismo año pasó a llamarse plaza Rabin.</p><p>Un <b>memorial</b> marca el lugar exacto del asesinato, en la esquina noreste, bajo el ayuntamiento, junto a un pequeño muro dedicado a su legado. En el extremo sur hay una escultura de Igael Tumarkin en recuerdo del Holocausto.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Rabin_Square",
+     "https://en.wikipedia.org/wiki/Assassination_of_Yitzhak_Rabin",
+     "https://es.wikipedia.org/wiki/Asesinato_de_Isaac_Rabin"
+    ]
+   }
+  },
+  {
+   "id": "kibutz-degania",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Degania</b> (hoy Degania Alef) fue fundada en <b>1910</b>, junto al punto donde el río Jordán sale del lago Tiberíades, como la primera comuna agrícola de los pioneros sionistas socialistas en Palestina, entonces otomana; por eso se la llama «la madre de los kibutz». En 1912 sus colonos se trasladaron de sus chozas de barro a un recinto de piedra.</p><p>Por allí pasaron figuras del sionismo como A. D. Gordon y Joseph Trumpeldor. En 1915 nació en Degania <b>Moshé Dayán</b>, el futuro general y ministro, primer niño nacido en el propio kibutz. El <b>20 de mayo de 1948</b>, en una de las primeras batallas de la guerra árabe-israelí, sus vecinos, con unos pocos soldados, frenaron el avance del ejército sirio hacia el valle del Jordán; un <b>tanque sirio</b> capturado entonces sigue en el kibutz como memorial. En 2007 el kibutz inició su privatización.</p><p>Se visitan el viejo patio y sus primeros edificios, un pequeño museo sobre la vida en el primer kibutz, instalado en el antiguo comedor, y Beit Gordon, un pequeño museo de naturaleza. En el cementerio local están enterrados A. D. Gordon y otros dirigentes del movimiento obrero.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/21239400",
+     "https://en.wikipedia.org/wiki/Degania_Alef",
+     "https://en.wikipedia.org/wiki/Moshe_Dayan",
+     "https://www.gemsinisrael.com/the-gems/the-pioneers/the-first-kibbutz-degania-alef/"
+    ]
+   }
+  },
+  {
+   "id": "monte-herzl",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>monte Herzl</b>, una colina del oeste de Jerusalén a 834 metros de altitud, es el cementerio nacional de Israel. Lleva el nombre de <b>Theodor Herzl</b>, fundador del sionismo moderno, muerto en 1904 y enterrado en Viena: en el verano de 1949 sus restos se trasladaron en avión a Israel y se enterraron aquí el 17 de agosto, bajo una sencilla lápida de granito negro con su nombre. En 1950 se celebró en la plaza de su tumba la primera ceremonia del Día de la Independencia, que sigue teniendo lugar en ella.</p><p>En la ladera sur está el cementerio de los grandes dirigentes del país: los presidentes Zalman Shazar, Jaim Herzog y Shimon Peres y los primeros ministros Levi Eshkol, <b>Golda Meir</b>, Isaac Shamir e <b>Isaac Rabin</b>, enterrado junto a su esposa Leah. También descansa allí Zeev Jabotinsky, cuyo entierro en el monte se discutió durante años hasta que Eshkol lo autorizó en 1964. En la ladera norte está el principal cementerio militar, abierto en noviembre de 1949.</p><p>Hay además un museo dedicado a Herzl y memoriales a las víctimas del terrorismo y a inmigrantes judíos muertos en naufragios. Al oeste, en la ladera del monte del Recuerdo, está Yad Vashem.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Mount_Herzl"
+    ]
+   }
+  },
+  {
+   "id": "sala-de-la-independencia",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Sala de la Independencia</b>, en el número 16 del bulevar Rothschild de Tel Aviv, fue la casa de <b>Meir Dizengoff</b>, el primer alcalde de la ciudad, y de su esposa Zina. Se alzó en una de las parcelas que se sortearon en abril de 1909 entre 66 familias para fundar el barrio de Ahuzat Bayit, que al año siguiente tomó el nombre de Tel Aviv. Más tarde el arquitecto Carl Rubin la reformó en estilo Internacional.</p><p>Tras la muerte de su mujer, Dizengoff donó la casa a la ciudad en 1930 para que fuera un museo, y entre 1932 y 1971 albergó el <b>Museo de Arte de Tel Aviv</b>. En su sala principal, a las cuatro de la tarde del <b>14 de mayo de 1948</b>, <b>David Ben Gurión</b> leyó la declaración de independencia del Estado de Israel, que se firmó a continuación. Los invitados habían jurado guardar el secreto, se cubrieron los cuadros con desnudos y se oscurecieron las ventanas por miedo a un bombardeo aéreo.</p><p>En 1978 la sala se restauró para que tuviera el aspecto de aquel día y se abrió al público como museo de la declaración y de la historia de Tel Aviv. En 2024 estaba cerrada por obras de renovación.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Independence_Hall_(Israel)"
+    ]
+   }
+  },
+  {
+   "id": "yad-vashem",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Yad Vashem</b> es el memorial oficial de Israel a las víctimas del <b>Holocausto</b>. Lo creó la Knéset en <b>1953</b> en el monte del Recuerdo, en la ladera oeste del monte Herzl de Jerusalén. Su nombre, «un memorial y un nombre», procede de un versículo de Isaías y expresa su misión: guardar los nombres de los <b>seis millones de judíos asesinados</b>. Es el segundo lugar más visitado de Israel después del Muro de las Lamentaciones.</p><p>El actual Museo de Historia del Holocausto, obra del arquitecto <b>Moshe Safdie</b>, se inauguró el 15 de marzo de 2005: un prisma triangular de hormigón que atraviesa la colina, con diez salas, una por cada capítulo del Holocausto. Termina en la <b>Sala de los Nombres</b>, que guarda los testimonios de millones de víctimas. Safdie diseñó también el <b>Memorial de los Niños</b>, excavado en una caverna, que recuerda a cerca de 1,5 millones de niños judíos asesinados: en la oscuridad, la luz de unas velas se refleja en espejos como un cielo de estrellas mientras se oyen sus nombres, edades y países. El Valle de las Comunidades recuerda a más de 5.000 comunidades judías destruidas.</p><p>El <b>Jardín de los Justos entre las Naciones</b> honra a quienes salvaron judíos, entre ellos el diplomático español <b>Ángel Sanz Briz</b>, que en 1944 salvó en Budapest a unos cinco mil judíos y fue reconocido como Justo en 1989.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Yad_Vashem",
+     "https://es.wikipedia.org/wiki/Yad_Vashem",
+     "https://es.wikipedia.org/wiki/%C3%81ngel_Sanz_Briz"
+    ]
+   }
+  },
+  {
+   "id": "taxila",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Taxila</b> fue una de las grandes ciudades de la antigua <b>Gandhara</b>, en el cruce de los caminos que unían la llanura del Ganges con Asia central. En su valle se suceden varias ciudades: <b>Bhir Mound</b>, del siglo VI a.C.; <b>Sirkap</b>, levantada por los reyes indogriegos en el siglo II a.C. con calles en cuadrícula; y <b>Sirsukh</b>, fundada por el rey kushán Kanishka. Es Patrimonio Mundial desde <b>1980</b>.</p><p>En el año <b>326 a.C.</b> su rey, al que los griegos llamaron Taxiles, se sometió sin lucha a <b>Alejandro Magno</b>, que lo mantuvo como sátrapa; sus historiadores la describieron como rica y bien gobernada. Poco después la tomó Chandragupta Maurya, y según los textos budistas <b>Ashoka</b> fue su gobernador antes de ser rey. Fue además un gran centro de estudio, al que la tradición asocia a <b>Chanakya</b> (Kautilya), el consejero de Chandragupta. Los hunos la arrasaron en el siglo V y el peregrino chino Xuanzang la encontró ya en decadencia en el siglo VII. Sus ruinas las identificó en el siglo XIX Alexander Cunningham y las excavó a fondo John Marshall.</p><p>Además de las ciudades se visitan monumentos budistas como la estupa de Dharmarajika y los monasterios de Jaulian y Mohra Moradu. El <b>Museo de Taxila</b> guarda una de las colecciones más importantes de escultura budista de piedra del arte de Gandhara, de los siglos I al VII.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Taxila",
+     "https://www.google.com/maps/place/?q=place_id:ChIJD076U4Kl3zgRLqnMYyKyNj4",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Sirkap+Taxila",
+     "https://en.wikipedia.org/wiki/Sirkap"
+    ]
+   }
+  },
+  {
+   "id": "fuerte-y-mezquita-badshahi-de-lahore",
+   "campos": {
+    "texto": {
+     "general": "<p>Al norte de la ciudad amurallada de Lahore, frente a frente a ambos lados de la explanada de Hazuri Bagh, se alzan dos obras maestras mogolas. El <b>fuerte de Lahore</b>, de más de 20 hectáreas, tiene su origen en <b>1566</b>, cuando el emperador <b>Akbar</b> lo levantó para vigilar la frontera noroeste; Jahangir añadió el gran <b>Muro de las Pinturas</b>, de 440 metros, cubierto de azulejos y mosaicos, y Shah Jahan sus pabellones de mármol. Allí está el <b>Sheesh Mahal</b> o «palacio de los espejos» (1631-1632), de mármol blanco con incrustaciones de piedras duras y miles de espejitos en techos y paredes. Es Patrimonio Mundial desde <b>1981</b>.</p><p>Enfrente, la <b>mezquita Badshahi</b> la mandó construir el emperador <b>Aurangzeb</b> entre <b>1671 y 1673</b>, junto con la puerta Alamgiri del fuerte, para conmemorar sus campañas en el sur de la India. De arenisca roja con incrustaciones de mármol, fue la mayor mezquita mogola y durante más de tres siglos la mayor del mundo. Su patio, de 25.600 m², puede acoger a <b>100.000 fieles</b>. Tras la caída del imperio, el maharajá sij Ranjit Singh vivió en el fuerte y usó el patio de la mezquita como establo; los británicos la tuvieron como cuartel hasta que en 1852 se empezó a restaurar.</p><p>Junto a la entrada de la mezquita está la tumba del poeta Muhammad Iqbal, considerado padre espiritual de Pakistán.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Badshahi_Mosque",
+     "https://en.wikipedia.org/wiki/Lahore_Fort",
+     "https://en.wikipedia.org/wiki/Sheesh_Mahal_(Lahore_Fort)"
+    ]
+   }
+  },
+  {
+   "id": "takht-i-bahi",
+   "campos": {
+    "texto": {
+     "general": "<p>En lo alto de un cerro de unos 150 metros, a unos 15 km de Mardan, en la antigua región de <b>Gandhara</b>, se conservan las ruinas de un monasterio budista fundado a comienzos del siglo I. Su nombre, de origen incierto, se suele traducir como «trono del manantial», por dos fuentes de la cima. Allí apareció una inscripción con el nombre del rey indoparto <b>Gondofares</b>, que reinó hacia los años 20-46; después la zona pasó a los reyes kushanes.</p><p>El monasterio se amplió en varias fases entre los siglos I y V y siguió en uso hasta el siglo VII. Es uno de los monasterios de Gandhara <b>mejor conservados</b>: tiene un patio de estupas, otro rodeado de celdas para los monjes, salas de reunión y un comedor, un conjunto de templos posterior y unas celdas pequeñas y oscuras que quizá sirvieron para la meditación. Las primeras noticias modernas son de 1836 y las excavaciones empezaron en 1864. Muchas de sus esculturas están hoy en el <b>Museo Británico</b>, como un célebre peldaño con devotos vestidos a la griega.</p><p>Es Patrimonio Mundial desde <b>1980</b>, junto con los restos de la ciudad vecina de Sahr-i-Bahlol.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Takht-i-Bahi",
+     "https://www.google.com/maps/place/?q=place_id:ChIJracqLlJL2TgRxrT55U_zfDg",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Takht-i-Bahi"
+    ]
+   }
+  },
+  {
+   "id": "fuerte-de-rohtas",
+   "campos": {
+    "texto": {
+     "general": "<p>En <b>1541</b> <b>Sher Shah Suri</b>, el afgano que había expulsado de la India al emperador mogol Humayun, mandó levantar esta enorme fortaleza cerca del río Jhelum, entre las montañas de Pothohar y la llanura del Punyab. Debía someter a los gakhar, una tribu de la zona, y cerrar el camino a Humayun si volvía de su exilio en Persia. Dirigió la obra su ministro <b>Todar Mal</b>, que al principio no encontraba trabajadores porque los gakhar se negaban a colaborar, hasta que se subieron mucho los jornales. Su nombre recuerda la toma por Sher Shah de otro fuerte de Rohtas, en Bihar, en 1539.</p><p>Sus murallas miden unos <b>4 km</b> y encierran 70 hectáreas, con bastiones y más de una decena de puertas monumentales de sillería gris; la más cuidada es la <b>puerta de Sohail</b>, de más de 21 metros de altura. Sher Shah murió en 1545 sin verla terminada, y en 1555 el fuerte pasó a Humayun. A los mogoles nunca les gustó, por su estilo militar sobrio y sin jardines, aunque lo usaron hasta 1707.</p><p>Es Patrimonio Mundial desde <b>1997</b>, como ejemplo excepcional de la arquitectura militar musulmana de Asia central y del sur. Dentro se conservan la mezquita Shahi y varios pozos escalonados.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Rohtas_Fort",
+     "https://www.google.com/maps/place/?q=place_id:ChIJI_aeV6eOHzkR5UFSDGl9V8M",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Rohtas+Fort"
+    ]
+   }
+  },
+  {
+   "id": "harappa",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Harappa</b>, junto a un antiguo cauce del río Ravi, a unos 24 km de Sahiwal, es la ciudad que dio nombre a la cultura harappense: fue el primer yacimiento de la civilización del Indo que se excavó, y por eso toda la civilización se llama a veces harappense. En su época de esplendor, hacia <b>2600-1900 a.C.</b>, ocupaba unas <b>150 hectáreas</b> y pudo tener unos 23.500 habitantes, una ciudad enorme para su tiempo, con casas de ladrillo, centros amurallados y un gran granero.</p><p>Sufrió mucho en el siglo XIX: hacia 1857 los ingenieros del ferrocarril Lahore-Multán usaron sus ladrillos como <b>balasto</b> para la vía. Alexander Cunningham la visitó y excavó en 1872-1873 sin conocer su antigüedad. Las excavaciones de <b>Daya Ram Sahni</b>, cuyo primer informe publicó John Marshall en 1921, demostraron que era una gran ciudad de la Edad del Bronce. De allí proceden sellos de esteatita grabados con animales y signos aún sin descifrar, y pesas de un sistema igual en todo el valle del Indo.</p><p>Se visitan los montículos de la ciudad, el granero y la zona de enterramientos. El pequeño museo del yacimiento, fundado en 1926, expone sellos, cerámica, figurillas de terracota, juguetes y objetos de cobre, marfil y concha.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Harappa",
+     "https://en.wikipedia.org/wiki/Daya_Ram_Sahni",
+     "https://es.wikipedia.org/wiki/Harappa",
+     "https://en.wikipedia.org/wiki/Harappa_Museum"
+    ]
+   }
+  },
+  {
+   "id": "freedom-park-de-lagos",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Freedom Park</b> es un parque cultural de la isla de Lagos levantado sobre la antigua <b>cárcel colonial de Broad Street</b>. Lo diseñó el arquitecto <b>Theo Lawson</b>, que concibió el proyecto en 1999, y se inauguró para celebrar el <b>50 aniversario de la independencia</b> de Nigeria, en octubre de 2010.</p><p>La prisión nació después de que Gran Bretaña convirtiera Lagos en colonia en 1861. El primer edificio, de 1882, tenía muros de barro y techo de paja, y los opositores al dominio británico le prendían fuego una y otra vez, así que en 1885 el gobierno colonial la reconstruyó con ladrillos traídos de Inglaterra. Entre sus presos hubo muchos de los nacionalistas que lucharon por la independencia, como <b>Herbert Macaulay</b>, <b>Obafemi Awolowo</b> y Anthony Enahoro. La cárcel se derribó en 1979 y el solar fue un vertedero hasta que en los años 90 se planeó convertirlo en un espacio para la creación.</p><p>Hoy conserva <b>muros originales y una torre de vigilancia</b> de la prisión entre estanques, jardines y un escenario de música. Hay estatuas de Awolowo, Azikiwe y Ahmadu Bello, un busto del músico <b>Fela Kuti</b> y una estatua de un enmascarado <i>eyo</i>. Es uno de los lugares de ocio y cultura más animados de la ciudad.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJaaKZyRmLOxARR-nEcxQBEQ4",
+     "https://www.openstreetmap.org/?mlat=6.4488&mlon=3.3965#map=18/6.4488/3.3965",
+     "https://en.wikipedia.org/wiki/Freedom_Park,_Lagos"
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-de-lagos",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Nacional de Nigeria</b>, en Onikan, en la isla de Lagos, lo fundó en <b>1957</b> el arqueólogo inglés <b>Kenneth Murray</b>. Su colección, de unos 47.000 objetos de madera, marfil, metal y terracota, permite recorrer la historia del arte africano en su propio país. Reabrió en abril de 2026 tras una gran renovación.</p><p>Entre sus piezas arqueológicas destacan las <b>terracotas de Nok</b>, como la cabeza de Jemaa, de entre el 900 y el 200 a.C.; los <b>bronces de Igbo-Ukwu</b> del siglo IX, entre ellos un vaso ceremonial en forma de caracola; los objetos y marfiles del <b>reino de Benín</b>; y los monolitos de piedra de la cultura oron. La sección etnográfica reúne coronas e insignias reales, tambores, tejidos y máscaras, como las ekpo de Calabar, las gẹlẹdẹ yorubas y las que Murray recogió en Cross River.</p><p>Guarda también un recuerdo de la historia reciente: el coche en el que fue asesinado el jefe de Estado <b>Murtala Mohammed</b> el 13 de febrero de 1976, durante un intento de golpe de Estado, siete meses después de llegar al poder.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/National_Museum,_Lagos",
+     "https://en.wikipedia.org/wiki/Murtala_Muhammed"
+    ],
+    "ver_alli": [
+     "Está en Onikan, en la isla de Lagos, cerca del Freedom Park.",
+     "Conviene dedicar tiempo a la sala de arqueología, con las terracotas de Nok y los bronces de Igbo-Ukwu."
+    ]
+   }
+  },
+  {
+   "id": "bosque-sagrado-de-osun-osogbo",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>bosque sagrado de Osun-Osogbo</b>, de unas 75 hectáreas a las afueras de Osogbo, es uno de los últimos bosques sagrados que en otro tiempo rodeaban casi todas las ciudades <b>yorubas</b>, antes de que crecieran. Lo atraviesa el río de la diosa <b>Osun</b>, y está salpicado de santuarios, esculturas y obras de arte. Es <b>Patrimonio de la Humanidad desde 2005</b>.</p><p>En los años 50 el bosque estaba abandonado: los sacerdotes se habían ido y se pescaba, se cazaba y se talaban árboles sin control. La artista austriaca <b>Susanne Wenger</b> (Graz, 1915 – Osogbo, 2009), que se instaló en Nigeria y se entregó a la religión yoruba, ayudó a recuperar las protecciones tradicionales y fundó con artistas locales el movimiento <i>Nuevo Arte Sacro</i>, que llenó el bosque de esculturas que representan a los orishas. Por su entrega recibió el título de <i>Adunni Olorisha</i>.</p><p>Cada <b>agosto</b> se celebra el festival de Osun-Osogbo, al que se atribuyen más de 700 años de historia: dura dos semanas y culmina en una gran procesión hasta el santuario del bosque, en la que una joven, la <i>arugba</i>, lleva la calabaza sagrada con las ofrendas a la diosa.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Osun-Osogbo",
+     "https://en.wikipedia.org/wiki/Susanne_Wenger"
+    ]
+   }
+  },
+  {
+   "id": "murallas-de-kano-y-tintes-de-kofar-mata",
+   "campos": {
+    "texto": {
+     "general": "<p>Kano, gran ciudad hausa del norte de Nigeria y etapa clave del <b>comercio transahariano</b>, estuvo rodeada por unas enormes <b>murallas de barro</b>. Según la Crónica de Kano, las empezó el rey <b>Gijimasu</b> (1095-1134), se terminaron a mediados del siglo XIV y se ampliaron en el XVI. Llegaron a medir de 9 a 15 metros de alto y unos 12 de grosor en la base, con 15 puertas, y encerraban la colina de Dala, donde nació la ciudad, el mercado de Kurmi y el palacio del emir. En 1903 el gobernador británico Frederick Lugard escribió que nunca había visto nada igual en África.</p><p>Junto a la puerta de Kofar Mata están los <b>pozos de tinte</b> de Kofar Mata, uno de los centros de teñido en funcionamiento más antiguos de África occidental, con más de 500 años. Son cubas circulares excavadas en el suelo con índigo natural fermentado, en las que los tintoreros sumergen la tela una y otra vez hasta lograr un azul intenso, con técnicas que pasan de padres a hijos. Las telas teñidas en Kano se vendían por todo el norte de Nigeria y más allá.</p><p>En el palacio del emir, ampliado por Muhammad Rumfa en el siglo XV, se celebra el <b>Durbar</b>, un desfile a caballo del emir y sus jinetes en las fiestas musulmanas que cierran el Ramadán y en la del Sacrificio.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ6yZi5eKArhERe0QXx12GnYQ",
+     "https://www.openstreetmap.org/?mlat=12.0008&mlon=8.5264#map=18/12.0008/8.5264",
+     "https://en.wikipedia.org/wiki/Ancient_Kano_City_Walls",
+     "https://en.wikipedia.org/wiki/Kofar_Mata_Dye_Pits",
+     "https://en.wikipedia.org/wiki/Kano_(city)",
+     "https://en.wikipedia.org/wiki/Durbar_festival"
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-de-ife",
+   "campos": {
+    "texto": {
+     "general": "<p>El museo de Ile-Ife, abierto en <b>1954</b> junto al palacio del <b>ooni</b>, el rey de Ife, en el barrio de Enuwa, ocupa un edificio circular de estilo colonial construido en 1948. Guarda una de las grandes colecciones del arte africano antiguo, procedente de la ciudad que los yorubas consideran su cuna.</p><p>Sus joyas son las <b>cabezas de latón</b> desenterradas por casualidad en <b>1938</b> en el recinto de Wunmonije, durante unas obras: retratos naturalistas, probablemente de reyes, de una perfección que sorprendió a los europeos y que parecen salidos de un mismo taller. La mayoría acabaron en este museo, pero algunas salieron de Nigeria, como la que está en el Museo Británico desde 1939, y eso llevó al gobierno a controlar más la exportación de antigüedades. El museo expone también <b>cabezas de terracota</b> y esculturas de piedra, parte de ellas del siglo XIII, y algunas cabezas con la boca amordazada que, según un etnógrafo, representarían a esclavos sacrificados en los santuarios.</p><p>Conserva además objetos arqueológicos y etnográficos de los yoruba, como máscaras gẹlẹdẹ halladas en 1954 en los alrededores. Tres cabezas de terracota robadas entre 1993 y 1994 aparecieron en Francia y volvieron a Nigeria en 1996.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ife_National_Museum",
+     "https://www.google.com/maps/place/?q=place_id:ChIJTfvY_V43OBARYSIMcqMqj2I",
+     "https://en.wikipedia.org/wiki/Ife_Head"
+    ]
+   }
+  },
+  {
+   "id": "stone-town-de-zanzibar",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Stone Town</b>, la «ciudad de piedra», es el casco antiguo de la ciudad de Zanzíbar y uno de los mejores ejemplos de las ciudades comerciales <b>suajilis</b> de la costa de África oriental, con influencias árabes, persas, indias y europeas. Es <b>Patrimonio de la Humanidad desde 2000</b>.</p><p>Los portugueses fueron los primeros europeos en llegar y empezaron su primer edificio de piedra, el <b>Fuerte Viejo</b>, que terminaron los omaníes en 1699 tras expulsarlos. En 1824 el sultán <b>Said bin Sultán</b> trasladó su capital de Mascate a Zanzíbar, que vivió un rápido desarrollo: las casas de piedra sustituyeron a la vieja aldea de pescadores y se levantaron palacios como la <b>Casa de las Maravillas</b> (1883), el primer edificio de África oriental con ascensor. En 1861 Zanzíbar se separó de Omán. En 1896 se libró aquí la guerra anglo-zanzibareña, la más corta de la historia: el sultán se rindió tras 45 minutos de bombardeo. En 1964 la revolución derrocó al sultán.</p><p>Lo más característico son sus <b>puertas de madera tallada</b>, de estilo indio o árabe omaní. La <b>catedral anglicana</b>, empezada en 1873, año en que se prohibió oficialmente la trata en la región, se levantó sobre el mayor mercado de esclavos de Zanzíbar; el altar ocupa el lugar del poste de los azotes, y junto a ella hay un monumento a los esclavos y un museo de la esclavitud. En Stone Town nació Freddie Mercury.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Stone_Town",
+     "https://en.wikipedia.org/wiki/Christ_Church,_Zanzibar",
+     "https://en.wikipedia.org/wiki/House_of_Wonders",
+     "https://en.wikipedia.org/wiki/Bagamoyo"
+    ],
+    "ver_alli": [
+     "El casco antiguo es Patrimonio de la Humanidad y se recorre a pie por sus callejuelas.",
+     "Junto a la catedral anglicana están el monumento a los esclavos y el museo sobre la esclavitud.",
+     "Fíjate en las puertas talladas: las de remate redondeado son de estilo indio y las rectangulares, omaníes."
+    ]
+   }
+  },
+  {
+   "id": "bagamoyo",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Bagamoyo</b>, en la costa de Tanzania frente a Zanzíbar, fue el gran puerto de llegada de las <b>caravanas</b> del interior. La ciudad se formó a finales del siglo XVIII junto a un asentamiento suajili mucho más antiguo, <b>Kaole</b>, cuyas ruinas conservan dos mezquitas y una treintena de tumbas del siglo XIII. Su nombre significaría en suajili «deja aquí tu corazón».</p><p>En el siglo XIX por aquí pasaban hacia Zanzíbar el <b>marfil</b> y los esclavos traídos desde el lago Tanganica; los historiadores creen que el marfil fue la principal mercancía. En 1868 los misioneros católicos del Espíritu Santo fundaron aquí la primera misión de África oriental. De Bagamoyo partieron exploradores como Burton, Speke y Stanley. Livingstone, en cambio, nunca estuvo en vida: tras su muerte en 1873, sus servidores <b>Chuma y Susi</b> llevaron su cuerpo hasta aquí, y reposó en la torre de la vieja iglesia de la misión, hoy llamada torre de Livingstone, a la espera de la marea para embarcarlo hacia Zanzíbar. Entre 1886 y 1891 fue la primera capital del África Oriental Alemana, hasta que la capital pasó a Dar es Salaam.</p><p>Se visitan la misión católica con la torre de Livingstone y, a unos 5 km al sur, las ruinas de Kaole.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Bagamoyo",
+     "https://en.wikipedia.org/wiki/David_Livingstone"
+    ]
+   }
+  },
+  {
+   "id": "memorial-de-livingstone-en-ujiji",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Ujiji</b>, a orillas del <b>lago Tanganica</b> y a unos 7 km de Kigoma, es una de las poblaciones más antiguas del oeste de Tanzania. Fue un asentamiento suajili y, a mediados del siglo XIX, un puesto árabe del comercio de <b>marfil y esclavos</b>, nominalmente bajo el sultanato de Zanzíbar; cerca del mercado queda una antigua ruta de los esclavos. En 1858 los exploradores Richard Burton y John Speke llegaron aquí por primera vez a la orilla del lago.</p><p>En Ujiji tuvo lugar, el <b>10 de noviembre de 1871</b>, el famoso encuentro en el que el periodista <b>Henry Morton Stanley</b>, enviado por el <i>New York Herald</i>, encontró al misionero y explorador <b>David Livingstone</b>. Según contó Stanley, lo saludó con la frase «¿El doctor Livingstone, supongo?», aunque puede que se la inventara después.</p><p>El <b>Memorial del Doctor Livingstone</b> recuerda el encuentro en el lugar donde, según la tradición, se produjo, y lo acompaña un modesto museo con figuras de tamaño natural de los dos exploradores que cuenta su historia. Hay también un monumento a Burton y Speke. El monumento de Mugere marca en realidad una visita que los dos hombres hicieron quince días después.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJt6RTlrUdvxkRdsEb7swWvU4",
+     "https://www.openstreetmap.org/?mlat=-4.9198&mlon=29.6746#map=18/-4.9198/29.6746",
+     "https://en.wikipedia.org/wiki/Ujiji",
+     "https://en.wikipedia.org/wiki/David_Livingstone",
+     "https://en.wikipedia.org/wiki/Henry_Morton_Stanley",
+     "https://www.thecitizen.co.tz/tanzania/magazines/sound-living/travel-dr-livingstone-comes-to-life-at-museum-2522272"
+    ]
+   }
+  },
+  {
+   "id": "museo-nyerere-de-butiama",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Butiama</b>, en la región de Mara, cerca del lago Victoria, es el pueblo natal de <b>Julius Nyerere</b>, el padre de la independencia de Tanzania, y tierra de los zanaki, el pueblo al que pertenecía: nació el 13 de abril de 1922 en Mwitongo, un barrio de Butiama, hijo de un jefe zanaki.</p><p>Maestro de profesión, por lo que se le llamó <i>Mwalimu</i> («maestro»), Nyerere negoció con los británicos la independencia de Tanganica en 1961 y gobernó el país como primer ministro y presidente, y desde 1964 Tanzania, hasta que dejó el poder en 1985. Defendió un socialismo africano, el <i>ujamaa</i>. Murió en Londres el <b>14 de octubre de 1999</b> y su cuerpo fue llevado a Butiama para enterrarlo; poco antes se había terminado una casa para él en el pueblo, donde solo pudo pasar dos semanas.</p><p>El <b>Museo Mwalimu Julius Kambarage Nyerere</b> lo inauguró el primer ministro Frederick Sumaye el <b>2 de julio de 1999</b>, con el propio Nyerere presente. Expone objetos de la lucha por la independencia, regalos que recibió como presidente, los que recibió al retirarse en 1985 y otros que usó en su granja de Butiama. En el pueblo está también su tumba.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJeegxO5by0hkRPhRBsdYpzIo",
+     "https://www.openstreetmap.org/?mlat=-1.7626&mlon=33.9601#map=18/-1.7626/33.9601",
+     "https://en.wikipedia.org/wiki/Mwalimu_Nyerere_Museum_Centre",
+     "https://en.wikipedia.org/wiki/Julius_Nyerere",
+     "https://en.wikipedia.org/wiki/Butiama"
+    ]
+   }
+  },
+  {
+   "id": "museo-maji-maji",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Memorial Maji Maji</b> de Songea, en el sur de Tanzania, recuerda la gran rebelión de los pueblos del sur del África Oriental Alemana contra el dominio colonial entre <b>1905 y 1907</b>. Está en el lugar donde fueron enterrados los combatientes ejecutados por los alemanes, cuya tumba se conserva.</p><p>La revuelta estalló en julio de 1905 contra la obligación de cultivar <b>algodón</b> para la exportación que el gobernador Gustav Adolf von Götzen había impuesto a las aldeas desde 1902. El médium <b>Kinjikitile Ngwale</b> repartía una «medicina de guerra», agua (<i>maji</i> en suajili) mezclada con aceite de ricino y mijo, que según decía convertiría en agua las balas alemanas; fue ahorcado por traición. La represión, con una política de tierra quemada, provocó una gran hambruna: murieron entre <b>75.000 y 300.000 personas</b>, sobre todo de hambre. En Songea, ciudad que lleva el nombre de un guerrero ngoni muerto en 1906, los jefes ngonis fueron ejecutados tras ofrecerles el bautismo; cada <b>27 de febrero</b> la ciudad recuerda el día en que los alemanes ejecutaron a los líderes de la rebelión.</p><p>El museo expone fotografías históricas, como el retrato del jefe Songea Lwafu Mbano. El presidente alemán Frank-Walter Steinmeier lo visitó y pidió perdón por las atrocidades coloniales.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Maji_Maji_Rebellion",
+     "https://en.wikipedia.org/wiki/Songea",
+     "https://www.theeastafrican.co.ke/tea/magazine/maji-maji-memorial-in-songea-1362374",
+     "https://www.theeastafrican.co.ke/tea/magazine/where-evidence-of-german-colonial-brutality-is-buried-4444114"
+    ]
+   }
+  },
+  {
+   "id": "memorial-de-la-proclamacion-de-la-indepe",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Memorial de la Proclamación de la Independencia</b> ocupa en Malaca un edificio colonial de <b>1912</b> que fue el Malacca Club, el centro de reunión social de los británicos en la Malasia colonial. Está en Bandar Hilir, junto al Padang Pahlawan, la explanada donde <b>Tunku Abdul Rahman</b>, el padre de la independencia malaya, hizo su primer anuncio de independencia el <b>20 de febrero de 1956</b>.</p><p>Pocos días antes, el 8 de febrero de 1956, Tunku había cerrado en Lancaster House, en Londres, al frente de una delegación que unía a malayos, chinos e indios, el acuerdo con los británicos para la independencia de Malaya, que llegó el 31 de agosto de 1957. El propio Tunku Abdul Rahman, ya ex primer ministro, inauguró el memorial el 31 de agosto de 1985, 28 años después de la independencia.</p><p>El museo muestra documentos y fotografías desde la época del sultanato de Malaca hasta la independencia de Malasia y su desarrollo moderno.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJgah8Tx7u0TERsG1uMVUKSMU",
+     "https://www.openstreetmap.org/?mlat=2.1919&mlon=102.2509#map=17/2.1919/102.2509",
+     "https://en.wikipedia.org/wiki/Proclamation_of_Independence_Memorial",
+     "https://en.wikipedia.org/wiki/Malacca_City",
+     "https://en.wikipedia.org/wiki/Independence_of_Malaya"
+    ],
+    "ver_alli": [
+     "Está junto a la puerta de Santiago, el resto de la fortaleza portuguesa A Famosa, y frente al Padang Pahlawan.",
+     "Se puede combinar con la colina de San Pablo y el Stadthuys, a unos pasos."
+    ]
+   }
+  },
+  {
+   "id": "malaca-historica",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Malaca</b> la fundó hacia <b>1396</b> Parameswara, un príncipe de Sumatra, y desde 1400 fue la capital de un sultanato que atrajo a comerciantes de Oriente Medio, la India y China; el almirante chino <b>Zheng He</b> hizo escala en ella. En <b>1511</b> la conquistó la flota portuguesa de <b>Alfonso de Albuquerque</b>; en 1641 pasó a los neerlandeses y, tras el tratado anglo-neerlandés de 1824, a los británicos. En <b>2008</b> fue declarada Patrimonio de la Humanidad junto con George Town, en Penang.</p><p>De la fortaleza portuguesa <b>A Famosa</b>, levantada hacia 1512 y demolida por los británicos en 1807, solo queda la <b>puerta de Santiago</b> y un baluarte reconstruido. En lo alto de la colina están las ruinas de la <b>iglesia de San Pablo</b>, nacida como capilla en 1521, el edificio europeo más antiguo al este de la India; allí tuvo su base <b>san Francisco Javier</b>, cuyo cuerpo reposó en ella en 1553 antes de ser enviado a Goa. Cerca se alza el <b>Stadthuys</b>, pintado de rojo, construido por los neerlandeses en 1650 como sede del gobernador y hoy Museo de Historia y Etnografía, junto a la iglesia de Cristo.</p><p>El <b>palacio del sultán</b> es una reconstrucción de madera, terminada en 1986. En el barrio chino está la animada calle Jonker (<i>Jonker Walk</i>).</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJo6WcDR7u0TERGv9VNkNQRDo",
+     "https://www.openstreetmap.org/?mlat=2.1938&mlon=102.249#map=17/2.1938/102.249",
+     "https://en.wikipedia.org/wiki/Malacca_City",
+     "https://en.wikipedia.org/wiki/A_Famosa",
+     "https://en.wikipedia.org/wiki/St._Paul%27s_Church,_Malacca",
+     "https://en.wikipedia.org/wiki/Stadthuys",
+     "https://en.wikipedia.org/wiki/Malacca_Sultanate_Palace_Museum",
+     "https://en.wikipedia.org/wiki/Melaka_and_George_Town,_Historic_Cities_of_the_Straits_of_Malacca"
+    ],
+    "ver_alli": [
+     "Patrimonio de la Humanidad junto con George Town.",
+     "El casco histórico se recorre a pie: puerta de Santiago, colina de San Pablo, Stadthuys, palacio del sultán y Jonker Walk."
+    ]
+   }
+  }
+ ]
+}
