@@ -1,0 +1,386 @@
+{
+ "zona": "Ampliar mundo-06a",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "palacio-iolani",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>palacio ʻIolani</b>, en el centro de Honolulu, fue la residencia de los últimos reyes de Hawái y es el único palacio real en suelo de Estados Unidos. En el solar ya había una residencia real desde 1845, cuando Kamehameha III trasladó la capital de Lāhainā a Honolulu, pero estaba vieja y comida por las termitas. El rey <b>David Kalākaua</b>, el primer monarca que dio la vuelta al mundo, quiso un palacio a la altura de las cortes europeas que había visitado: la primera piedra se puso el 31 de diciembre de 1879 y el edificio se terminó en <b>noviembre de 1882</b>, con un coste de más de 340.000 dólares de la época. En 1886-1887 se instaló la <b>luz eléctrica</b>, unos cuatro años antes que en la Casa Blanca.</p><p>Tras el derrocamiento de la monarquía en 1893, el palacio fue la sede del gobierno provisional, de la república, del territorio y del estado de Hawái hasta 1969. En 1895, después de una rebelión fallida, la reina <b>Liliʻuokalani</b> fue juzgada en el antiguo salón del trono y estuvo presa nueve meses en una pequeña habitación del piso alto.</p><p>Restaurado, abrió como museo en <b>1978</b>. Se ven el salón del trono, la gran escalera de madera de koa y la llamada habitación de la Colcha, donde se conserva la colcha que la reina cosió durante su encierro.</p><p class=\"dato\"><span>¿Sabías que…?</span>Es uno de los cuatro lugares de Hawái donde la bandera hawaiana puede ondear sola, sin la estadounidense.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/%CA%BBIolani_Palace",
+     "https://ethw.org/Milestones:Electric_Lighting_Of_The_Kingdom_of_Hawaii_1886-1888",
+     "https://en.wikipedia.org/wiki/Pu%CA%BBuhonua_o_H%C5%8Dnaunau_National_Historical_Park"
+    ]
+   }
+  },
+  {
+   "id": "presa-hoover",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>presa Hoover</b> es una presa de hormigón de arco-gravedad de <b>221 metros</b> de altura que cierra el Cañón Negro del río <b>Colorado</b>, en la frontera entre Nevada y Arizona. Se construyó entre <b>1931 y 1936</b>, en plena <b>Gran Depresión</b>, a cargo del consorcio Six Companies: nunca se había levantado una estructura de hormigón tan grande y algunas técnicas no se habían probado. Trabajaron miles de obreros, con un calor sofocante y sin apenas servicios; murieron más de 96. Franklin D. Roosevelt la inauguró el 30 de septiembre de 1935 y se entregó al gobierno el 1 de marzo de 1936, más de dos años antes de lo previsto. Durante unos años se llamó Boulder Dam; el Congreso le devolvió en 1947 el nombre del presidente Herbert Hoover.</p><p>Sirve para controlar las crecidas, regar y dar <b>agua y electricidad</b> a Nevada, Arizona y California. Embalsa el <b>lago Mead</b>, y a su lado nació Boulder City, el pueblo construido para los obreros.</p><p>Su aspecto <i>art déco</i> se debe al arquitecto Gordon Kaufmann, y el escultor Oskar Hansen hizo las dos grandes figuras aladas de la plaza de la dedicación, sobre un suelo de terrazo con un mapa de estrellas. Hay visitas guiadas por dentro de la presa, hasta la central y sus turbinas.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Hoover_Dam"
+    ],
+    "ver_alli": [
+     "Está a unos 48 kilómetros al sureste de Las Vegas, junto a Boulder City.",
+     "Las entradas para las visitas por dentro solo se venden allí mismo; el centro de visitantes tiene un mirador con vista de toda la presa."
+    ]
+   }
+  },
+  {
+   "id": "serpent-mound",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Serpent Mound</b> (montículo de la Serpiente), en el condado de Adams (Ohio), es un montículo de tierra con forma de serpiente de <b>411 metros</b> de largo, de entre 23 centímetros y poco más de 90 de alto y unos 7 metros de ancho. Es la <b>mayor efigie de serpiente conocida del mundo</b>. Ondula sobre un risco junto al arroyo Ohio Brush y acaba en una cola enroscada; la cabeza, con la boca abierta, parece tragarse una figura ovalada que algunos interpretan como un huevo. Está hecho de arcilla amarillenta y ceniza, cubiertas por una capa de piedras y tierra.</p><p>Durante el siglo XX se discutió si lo construyeron los pueblos de la cultura <b>adena</b> o los de la cultura <b>Fort Ancient</b>, y la discusión sigue: en 2014 el radiocarbono lo fechó hacia el <b>300 a. C.</b>, en época adena, con una reparación hacia el año 1100, pero el arqueólogo Brad Lepper defiende que es obra de Fort Ancient, que sí representaba serpientes en su arte. La zona de la cabeza está alineada con la <b>puesta de sol del solsticio de verano</b>, y la cola con la salida del sol del solsticio de invierno.</p><p>Lo describieron por primera vez Squier y Davis en 1848; Frederic Ward Putnam, de Harvard, reunió fondos para comprar los terrenos y salvarlo, y lo excavó desde 1886.</p><p class=\"dato\"><span>¿Sabías que…?</span>Está sobre un antiguo cráter de meteorito de unos 14 kilómetros de diámetro, borrado por la erosión.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Serpent_Mound"
+    ]
+   }
+  },
+  {
+   "id": "fuerte-mchenry",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Fuerte McHenry</b> es un fuerte de planta pentagonal con bastiones, rodeado por un foso seco, que defiende la entrada del puerto de <b>Baltimore</b> (Maryland). Lo diseñó el francés Jean Foncin y se construyó entre 1798 y 1800; lleva el nombre de James McHenry, secretario de Guerra con Washington y Adams.</p><p>Su gran momento llegó en la <b>guerra de 1812</b>: el <b>13 y 14 de septiembre de 1814</b> la flota británica lo bombardeó durante 25 horas sin conseguir entrar en el puerto. Al amanecer del 14, la guarnición del mayor George Armistead izó una enorme bandera de unos 9 por 13 metros, cosida por Mary Pickersgill. El abogado <b>Francis Scott Key</b>, que había ido a negociar la liberación de un prisionero, lo vio todo desde un barco; emocionado al ver que la bandera seguía en su sitio, escribió el poema <i>Defence of Fort M'Henry</i>, que con la música de una canción inglesa se convirtió en <i>The Star-Spangled Banner</i>, el <b>himno de Estados Unidos</b>. Durante la guerra de Secesión el fuerte sirvió de prisión militar.</p><p>Hoy es «monumento nacional y santuario histórico», el único lugar del país con esa doble designación. Sobre él ondea una gran réplica de la bandera de <b>15 estrellas y 15 franjas</b>, y en el fuerte se explica cómo escribió Key su poema desde el barco.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Fort_McHenry"
+    ]
+   }
+  },
+  {
+   "id": "memorial-y-museo-del-11-s",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Memorial y Museo Nacional del 11 de Septiembre</b> ocupa en Nueva York el solar de las <b>Torres Gemelas</b>, destruidas en los atentados de 2001. El diseño, <i>Reflecting Absence</i> («reflejar la ausencia»), del arquitecto Michael Arad y el paisajista Peter Walker, ganó en 2004 un concurso con 5.201 propuestas de 63 países: un bosque de robles y, en medio, dos grandes estanques de unos 4.000 m² cada uno, hundidos en la <b>huella exacta</b> de las torres, con las mayores cascadas artificiales de Estados Unidos.</p><p>En los parapetos de bronce que los rodean están grabados los nombres de <b>2.983 víctimas</b>: las 2.977 del 11-S, incluidas las del Pentágono y el vuelo 93, y las seis del atentado de 1993 contra el World Trade Center. No van por orden alfabético, sino según <b>«proximidades significativas»</b>: dónde estaba cada persona, con quién trabajaba y, a petición de unas 1.200 familias, junto a quién querían que figurase. El memorial se inauguró el 11 de septiembre de 2011, en el décimo aniversario.</p><p>El <b>museo subterráneo</b>, abierto en mayo de 2014, guarda restos de las torres como la llamada Última Columna y el muro de contención original de los cimientos. Fuera, no hay que perderse el <b>Árbol Superviviente</b>, un peral rescatado de los escombros en octubre de 2001 y replantado en la plaza.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/National_September_11_Memorial_%26_Museum"
+    ]
+   }
+  },
+  {
+   "id": "museo-henry-ford",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Henry Ford de la Innovación Americana</b>, en Dearborn (Míchigan), es un gran museo de la historia de Estados Unidos y de su técnica. Lo fundó el fabricante de automóviles <b>Henry Ford</b> con el nombre de Edison Institute, en honor de su amigo <b>Thomas Edison</b>: el presidente Herbert Hoover lo inauguró el <b>21 de octubre de 1929</b>, en el cincuentenario de la primera bombilla incandescente que funcionó, y se abrió al público en 1933.</p><p>Guarda auténticas reliquias de la historia del país: el <b>autobús de Rosa Parks</b>, en el que la detuvieron por negarse a ceder su asiento, lo que desató el boicot a los autobuses de Montgomery; la limusina Lincoln Continental de 1961 en la que fue asesinado <b>John F. Kennedy</b>; la <b>mecedora del teatro Ford</b> en la que estaba sentado Abraham Lincoln cuando le disparó John Wilkes Booth; el primer coche de Ford, el Quadricycle de 1896, y una réplica del avión de los hermanos Wright de 1903.</p><p>Junto al museo, <b>Greenfield Village</b> reúne edificios históricos trasladados desde todo el país, como el <b>laboratorio de Edison en Menlo Park</b>, reconstruido, o la casa y el taller de bicicletas de los hermanos Wright, traídos desde Dayton en 1937. Por sus calles se puede pasear en un <b>Ford Modelo T</b> auténtico.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Henry_Ford_Museum_of_American_Innovation"
+    ]
+   }
+  },
+  {
+   "id": "hagatna-plaza-de-espana-y-piedras-latte",
+   "campos": {
+    "texto": {
+     "general": "<p>En el centro de <b>Hagåtña</b>, la capital de Guam, la <b>Plaza de España</b> guarda los restos del <b>palacio del gobernador español</b>, la Casa Gobierno, levantada en 1736 y sustituida en 1885 por un edificio mayor. Fue la sede del poder español hasta 1898 y después la del gobernador naval estadounidense; desde allí se rindió la isla a los japoneses el 10 de diciembre de 1941, y el bombardeo de julio de 1944 destruyó casi todo el palacio. Se conservan la azotea, la puerta de tres arcos del antiguo almacén de armas y la llamada Casa del Chocolate.</p><p>Al lado está la catedral basílica del <b>Dulce Nombre de María</b>, heredera de la primera iglesia de Guam. La levantó el misionero jesuita <b>San Vitores</b>, llegado en 1668, en unas tierras que le dio el jefe chamorro <b>Quipuha</b> (Kepuha), uno de los primeros conversos, que tiene estatua en un parque con su nombre. La llegada española trajo también las guerras hispano-chamorras y un hundimiento de la población indígena.</p><p>Muy cerca, el <b>parque de las piedras latte</b> muestra los grandes pilares de piedra, rematados por un capitel semiesférico, sobre los que los antiguos chamorros levantaban sus casas y otros edificios. Empezaron a usarse hacia el año 900 y se abandonaron hacia 1700. Hoy son el gran símbolo de la identidad chamorra.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Plaza_de_Espa%C3%B1a_(Hag%C3%A5t%C3%B1a)",
+     "https://en.wikipedia.org/wiki/Latte_stone",
+     "https://en.wikipedia.org/wiki/Hag%C3%A5t%C3%B1a,_Guam"
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-de-los-derechos-civiles",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Nacional de los Derechos Civiles</b>, en Memphis (Tennessee), se levanta en torno al antiguo <b>motel Lorraine</b>, donde el <b>4 de abril de 1968</b> fue asesinado <b>Martin Luther King</b>. King se alojaba en la <b>habitación 306</b> mientras apoyaba la huelga de los basureros de la ciudad, y recibió un disparo cuando estaba en el balcón. Por el crimen fue condenado en 1969 James Earl Ray, que vivía en una pensión al otro lado de la calle.</p><p>El motel lo había comprado en 1945 Walter Bailey, que lo bautizó por su mujer, Loree, y por la canción <i>Sweet Lorraine</i>. Tras el asesinato fue decayendo, y una fundación local lo salvó de la subasta en 1982. El museo, diseñado con ayuda de un conservador de la Smithsonian, abrió al público el <b>28 de septiembre de 1991</b> y se renovó a fondo en 2014.</p><p>Sus salas recorren la lucha por los derechos civiles en Estados Unidos desde el siglo XVII hasta hoy, con piezas como una réplica del autobús de los Viajeros de la Libertad que incendiaron los racistas. La habitación 306 se conserva como estaba. Enfrente, en el edificio de la pensión desde la que disparó el asesino, el museo sigue con la investigación del crimen.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/National_Civil_Rights_Museum"
+    ]
+   }
+  },
+  {
+   "id": "plimoth-patuxet",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Plimoth Patuxet</b>, en Plymouth (Massachusetts), es un conjunto de museos vivos que recrea la colonia fundada en 1620 por los <b>peregrinos del Mayflower</b>, ingleses que querían separarse de la Iglesia de Inglaterra. Lo fundó Henry Hornblower II en 1947 con dos casitas y un fuerte junto al puerto. Se llamó Plimoth Plantation hasta 2020, cuando cambió de nombre en el cuarto centenario de la llegada; <b>Patuxet</b> era el nombre wampanoag del lugar antes de que llegaran los ingleses.</p><p>En el <b>pueblo inglés</b>, que representa el año <b>1627</b>, intérpretes vestidos de época hablan y actúan como colonos de verdad: cocinan, siembran, cuidan los animales y responden a las preguntas desde su punto de vista del siglo XVII. En noviembre el pueblo pasa a 1621, el año del primer Día de Acción de Gracias de la colonia. Al lado, en el <b>hogar wampanoag</b>, indígenas de varias tribus explican y muestran cómo vivían los antepasados de los wampanoag.</p><p>En el puerto, cerca de la <b>roca de Plymouth</b>, está amarrado el <b>Mayflower II</b>, una réplica del barco construida en 1957 que también cuida el museo. Hay además un molino harinero, un establo con razas antiguas de ganado y un taller donde se fabrican los objetos que se usan en el pueblo.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Plimoth_Patuxet"
+    ]
+   }
+  },
+  {
+   "id": "centro-espacial-kennedy",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Centro Espacial Kennedy</b>, en la isla Merritt (Florida), es la base de la NASA desde la que partieron las misiones <b>Apolo</b> hacia la Luna, y su <b>complejo de visitantes</b>, abierto en 1967, es uno de los grandes museos del espacio. Empezó como un simple remolque con unos paneles; en 1969 ya recibía un millón de visitantes al año.</p><p>El autobús de la visita, incluido en la entrada, recorre la base: pasa junto al <b>edificio de ensamblaje de vehículos</b>, el mayor edificio de una sola planta del mundo, de 160 metros de alto y con las puertas más grandes que existen, y junto al complejo de lanzamiento 39, de donde despegó el Apolo 11. Termina en el <b>centro Apolo/Saturno V</b>, levantado en torno a un cohete <b>Saturno V</b> restaurado, con una cápsula Apolo y salas que recrean un lanzamiento y la llegada a la Luna. Detrás está la zona de Banana Creek, desde donde se ven los lanzamientos actuales.</p><p>En el complejo principal se expone desde 2013 el transbordador <b>Atlantis</b>, inclinado y con las compuertas de carga abiertas, como solo se le veía en el espacio; debajo, la exposición <i>Forever Remembered</i> recuerda a los 14 astronautas muertos en los accidentes del Challenger y del Columbia. Están también el Salón de la Fama de los Astronautas y el Espejo del Espacio, un gran muro de granito negro con los nombres de los astronautas muertos en servicio.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Kennedy_Space_Center_Visitor_Complex",
+     "https://www.openstreetmap.org/way/166133965",
+     "https://en.wikipedia.org/wiki/Vehicle_Assembly_Building"
+    ]
+   }
+  },
+  {
+   "id": "independence-hall-y-la-campana-de-la-lib",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Independence Hall</b> de Filadelfia, construido entre 1732 y 1753 como sede del gobierno colonial de Pensilvania (la Pennsylvania State House), es un sobrio edificio georgiano de ladrillo proyectado por Edmund Woolley y Andrew Hamilton. En su <b>Sala de la Asamblea</b> se reunió el Segundo Congreso Continental: allí se creó el Ejército Continental en 1775 y se aprobó la <b>Declaración de Independencia</b> el <b>4 de julio de 1776</b>. Once años después, en la misma sala, se debatió y firmó la <b>Constitución</b> de 1787. Es <b>Patrimonio de la Humanidad</b> desde 1979.</p><p>Enfrente, en su propio pabellón, está la <b>Campana de la Libertad</b>, encargada en 1752 a una fundición de Londres para el edificio. Lleva una inscripción bíblica: «Proclamad la libertad por toda la tierra a todos sus habitantes». Se agrietó la primera vez que se tocó tras llegar a Filadelfia, y dos artesanos locales, Pass y Stow, cuyos apellidos lleva grabados, la refundieron dos veces. La gran grieta que se ve hoy apareció más tarde, entre 1817 y 1846. Fueron los <b>abolicionistas</b> quienes, en la década de 1830, la llamaron «Campana de la Libertad» y la convirtieron en símbolo de la lucha contra la esclavitud; su relación con la Independencia no empezó a contarse hasta 1847.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Independence_Hall",
+     "https://en.wikipedia.org/wiki/Liberty_Bell"
+    ]
+   }
+  },
+  {
+   "id": "mision-san-xavier-del-bac",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Misión San Xavier del Bac</b>, a unos 16 kilómetros al sur de Tucson (Arizona), es la <b>«paloma blanca del desierto»</b>: una iglesia <b>barroca</b> de fachada blanca terminada en <b>1797</b>, el edificio europeo más antiguo de Arizona. La misión la fundó en 1692 el jesuita <b>Eusebio Francisco Kino</b> en un poblado o'odham junto al río Santa Cruz; la primera iglesia, a unos 3 kilómetros, cayó en 1770 por los ataques apaches. Tras la expulsión de los jesuitas, los franciscanos Juan Bautista Velderrain y Juan Bautista Llorenz levantaron el templo actual entre 1783 y 1797, con el arquitecto Ignacio Gaona y la mano de obra de los o'odham.</p><p>Cuando el último fraile se marchó, en 1837, fueron los propios o'odham quienes la cuidaron. Hoy sigue siendo la <b>parroquia</b> de la nación <b>tohono o'odham</b>, en cuya reserva se encuentra, y la atienden de nuevo los franciscanos.</p><p>Tras sus puertas de mezquite tallado, el interior deslumbra con pinturas, retablos y estatuas de colores. Desde 1992 un equipo internacional de conservadores, dirigido por Paul Schwartzbaum, los ha limpiado y restaurado, y ha formado en el oficio a miembros de la comunidad tohono o'odham. Una de sus dos torres quedó sin terminar porque los frailes se quedaron sin dinero.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Mission_San_Xavier_del_Bac",
+     "https://sunset.com/travel/southwest/tucson-landmark-san-xavier-del-bac"
+    ]
+   }
+  },
+  {
+   "id": "moundville",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Moundville</b>, junto al río Black Warrior, cerca de Tuscaloosa (Alabama), fue uno de los grandes centros de la <b>cultura del Misisipi</b>: después de Cahokia, es el mayor yacimiento de esa época en Estados Unidos. Estuvo habitado más o menos entre los años <b>1000 y 1450</b>, y hacia 1150 sus jefes pasaron a dominar toda la región como capital de un <b>cacicazgo</b>.</p><p>En su apogeo ocupaba unas 120 hectáreas protegidas por una empalizada de madera con bastiones y por el barranco del río. Dentro vivían entre 1.000 y 3.000 personas, y unas 10.000 más en el valle. Sus <b>29 montículos</b> de tierra, plataformas para templos y casas de los jefes, rodean una gran plaza rectangular: los mayores, al norte, serían los de los clanes de más rango, y el montículo B, el más alto, mide 18 metros. Desde 1300 fue más centro religioso y político que ciudad, y hacia 1500 estaba casi abandonado.</p><p>Sus habitantes cultivaban maíz y traían de lejos cobre, mica y conchas marinas. El <b>museo Jones</b>, de 1939 y renovado en 2010, expone su excelente cerámica, sus piedras grabadas y su cobre repujado. Algunas de las mejores piezas, como un cuenco de diorita con forma de pato que sacó Clarence B. Moore en 1906, están en la Smithsonian.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Moundville_Archaeological_Site"
+    ]
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-yorktown",
+   "campos": {
+    "texto": {
+     "general": "<p>En <b>Yorktown</b> (Virginia) se decidió la guerra de Independencia de Estados Unidos. Entre el <b>28 de septiembre y el 19 de octubre de 1781</b>, las tropas americanas de <b>George Washington</b> y las francesas de <b>Rochambeau</b> sitiaron al ejército británico de lord <b>Cornwallis</b>, al que la flota francesa cerraba la salida por mar. Las condiciones se negociaron en la <b>casa Moore</b> y la rendición se firmó el 19 de octubre. Cornwallis no acudió a la ceremonia; su segundo intentó entregar la espada a Rochambeau, que le señaló a Washington. Después ya no hubo batallas importantes en el continente.</p><p>El campo de batalla forma parte del Parque Histórico Nacional Colonial. Una ruta en coche lleva a la línea de defensa británica, la gran batería francesa, la segunda línea de asedio aliada, los <b>reductos 9 y 10</b>, la casa Moore y el <b>campo de la Rendición</b>. En el pueblo se conserva la casa de Thomas Nelson, cuartel general de Cornwallis, y se alza el <b>monumento a la Victoria</b>, que el Congreso aprobó cinco días después de la rendición pero no se empezó a construir hasta 1881.</p><p>Al lado, el <b>Museo de la Revolución Americana en Yorktown</b>, del estado de Virginia, tiene un campamento del Ejército Continental y una granja recreados, y guarda una copia impresa de la Declaración de Independencia de julio de 1776.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Siege_of_Yorktown",
+     "https://en.wikipedia.org/wiki/Colonial_National_Historical_Park",
+     "https://www.nps.gov/thingstodo/drive-the-red-route-of-the-yorktown-battlefield-auto-tour.htm"
+    ]
+   }
+  },
+  {
+   "id": "bahia-de-kealakekua",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>bahía de Kealakekua</b>, en la costa de Kona de la isla de Hawái, unos 19 kilómetros al sur de Kailua-Kona, está habitada desde hace más de mil años. Su nombre significa «el camino del dios». En su extremo sur se alza el templo de <b>Hikiau</b>, una gran plataforma de piedra, y en los acantilados se enterraba en secreto a los jefes; en la orilla norte estaba el poblado de Kaʻawaloa.</p><p>El capitán <b>James Cook</b>, el primer europeo documentado en llegar a Hawái, entró en la bahía el 17 de enero de 1779, en plena fiesta del Makahiki, dedicada al dios <b>Lono</b>. Lo recibieron con grandes honores y lo llevaron al templo de Hikiau; le llamaban «Lono», pero los antropólogos discuten si de verdad lo tomaron por un dios. Volvió en febrero con un mástil roto, las relaciones se agriaron por el robo de un bote y, cuando intentaba tomar como rehén al jefe Kalaniʻōpuʻu, murió apuñalado en la orilla el <b>14 de febrero de 1779</b>.</p><p>En la orilla norte se levanta desde 1874 un <b>obelisco blanco</b> en su memoria, rodeado por una cadena sostenida por cuatro cañones. Las aguas tranquilas y el <b>arrecife de coral</b>, hoy reserva marina, son de lo mejor de Hawái para bucear, y por las mañanas suelen entrar delfines.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Kealakekua_Bay",
+     "https://en.wikipedia.org/wiki/Battle_of_Kealakekua_Bay"
+    ],
+    "ver_alli": [
+     "Al monumento a Cook no llega ninguna carretera: se va por mar, en kayak o en barco, o por un sendero empinado de una hora.",
+     "El terreno del monumento pertenece al Reino Unido desde 1877.",
+     "Las aguas junto al monumento son de las mejores de Hawái para hacer snorkel."
+    ]
+   }
+  },
+  {
+   "id": "ganondagan",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Ganondagan</b>, en Victor, cerca de Rochester (Nueva York), es el lugar de la mayor aldea <b>seneca</b> del siglo XVII. Los seneca eran uno de los pueblos de la Liga iroquesa o <b>haudenosaunee</b>, y según su tradición aquí se sitúa también la historia del <b>Pacificador</b>, que unió a los cinco grandes pueblos en una confederación. En la aldea llegó a haber cerca de 150 casas largas, rodeadas de grandes campos de maíz, judías y calabazas, y en la vecina colina de Fort Hill había un granero fortificado: los seneca abastecían de maíz a buena parte de la confederación.</p><p>En julio de 1687 el <b>marqués de Denonville</b> llegó desde Canadá con un ejército de soldados franceses, milicianos canadienses y aliados indios para eliminar a los seneca como competidores en el comercio de pieles. Tras una breve escaramuza, los seneca pusieron a salvo a las mujeres y los niños y <b>quemaron ellos mismos</b> su aldea; los franceses destruyeron entonces sus cerdos y las enormes reservas de maíz, almacenado y en pie, de cuatro poblados.</p><p>Hoy es sitio histórico estatal. Hay una <b>casa larga</b> de corteza reconstruida, senderos con paneles y, desde 2015, el <b>Centro de Arte y Cultura Seneca</b>, que cuenta más de 2.000 años de aportaciones de los seneca y los haudenosaunee al arte, la cultura y la sociedad.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ganondagan_State_Historic_Site",
+     "https://www.wxxinews.org/arts-life/2015-10-24/ganondagan-opens-its-new-seneca-art-culture-center"
+    ],
+    "ver_alli": [
+     "Está a unos 30 kilómetros de Rochester, al suroeste del pueblo de Victor.",
+     "El Centro de Arte y Cultura Seneca abre todo el año; fuera hay una casa larga reconstruida y senderos con paneles."
+    ]
+   }
+  },
+  {
+   "id": "pu-uhonua-o-honaunau",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Puʻuhonua o Hōnaunau</b>, en la costa oeste de la isla de Hawái, es un antiguo <b>lugar de refugio</b>. En el Hawái tradicional, quien rompía un <b>kapu</b>, una de las leyes sagradas, estaba condenado a muerte, salvo si lograba llegar hasta aquí: un sacerdote lo absolvía y quedaba libre para marcharse. En tiempo de guerra también podían salvarse allí los guerreros vencidos y quienes no combatían. Funcionó así hasta comienzos del siglo XIX.</p><p>El refugio lo cierra el <b>Gran Muro</b>, levantado hacia 1550 por orden del jefe Keawenui-a-ʻUmi: casi 300 metros de largo, 3 de alto y 5 de ancho, de piedra seca sin argamasa. Al otro lado vivieron durante generaciones los grandes jefes. Junto al mar se alzaba el templo <b>Hale o Keawe</b>, construido hacia 1650 como tumba del rey Keaweʻīkekahialiʻiokamoku; se creía que el <i>mana</i> de los huesos de los jefes enterrados allí protegía el refugio. Tras la abolición de la antigua religión fue el último templo en pie, hasta que la jefa Kapiʻolani mandó retirar los huesos y derribarlo en 1829.</p><p>Desde 1955 es parque histórico nacional. El Hale o Keawe se reconstruyó en los años sesenta, con sus estatuas protectoras de madera (<i>kiʻi</i>), y se ven además plataformas de templos, estanques reales de peces y casas de paja.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Pu%CA%BBuhonua_o_H%C5%8Dnaunau_National_Historical_Park",
+     "https://www.nps.gov/places/walking-tour-stop-7-the-great-wall.htm"
+    ]
+   }
+  },
+  {
+   "id": "sendero-de-la-libertad",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Sendero de la Libertad</b> (<i>Freedom Trail</i>) es un recorrido de unos <b>4 kilómetros</b>, marcado en las aceras de <b>Boston</b> con una línea de ladrillo rojo, que une <b>16 lugares</b> clave de la historia de Estados Unidos, sobre todo de la revolución. Lo ideó el periodista William Schofield en 1951 y el alcalde John Hynes lo puso en marcha; en 1953 ya lo recorrían 40.000 personas al año.</p><p>Empieza en el parque Boston Common y pasa por el Capitolio de Massachusetts, varios cementerios coloniales, la Old South Meeting House, el Old State House, el lugar de la <b>matanza de Boston</b>, el Faneuil Hall y la <b>casa de Paul Revere</b>. Sigue hasta la <b>Old North Church</b>, en cuyo campanario se encendieron la noche del 18 de abril de 1775 dos faroles para avisar de que las tropas británicas cruzaban en barca el río Charles: era el aviso de la famosa cabalgada nocturna de Revere. Después cruza a Charlestown, donde está amarrada la fragata <b>USS Constitution</b>, y termina en el <b>monumento de Bunker Hill</b>, un obelisco de granito de 67 metros que recuerda la batalla del 17 de junio de 1775.</p><p>El sendero no pasa por el lugar del <b>motín del té</b>, pero muy cerca un museo con barcos lo recrea. En el Faneuil Hall, el Servicio de Parques Nacionales da mapas gratuitos del recorrido.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Freedom_Trail",
+     "https://en.wikipedia.org/wiki/Old_North_Church",
+     "https://en.wikipedia.org/wiki/Bunker_Hill_Monument"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-historia-de-la-computacion",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo de Historia de la Computación</b> (Computer History Museum), en Mountain View, en pleno Silicon Valley, asegura tener la mayor colección del mundo de objetos de informática. Nació de la colección que empezó a reunir el ingeniero Gordon Bell en 1968: tras pasar por Massachusetts y Boston, se trasladó a California, adoptó su nombre actual en 2000 y en 2002 abrió en el antiguo edificio de Silicon Graphics.</p><p>Su gran exposición, <i>Revolution: los primeros 2.000 años de la computación</i>, abierta en 2011, recorre en una veintena de salas la historia que va del <b>ábaco</b> a Internet: calculadoras, tarjetas perforadas, el nacimiento del ordenador con las primeras máquinas militares como el <b>ENIAC</b>, superordenadores como el Cray-1, ordenadores personales como el <b>Apple I</b>, los primeros servidores de Google, la <b>inteligencia artificial y la robótica</b> y el nacimiento de los <b>videojuegos</b>, con el Pong original de Atari. En sus laboratorios de demostración funcionan un PDP-1, en el que se juega al pionero <i>Spacewar!</i>, y dos IBM 1401 restaurados.</p><p>Entre 2008 y 2016 expuso además una <b>máquina diferencial</b> diseñada por Charles Babbage en la década de 1840 y construida por el Museo de la Ciencia de Londres, prestada por su dueño, Nathan Myhrvold.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Computer_History_Museum",
+     "https://computerhistory.org/activities-resources/chm-visitor-map-2/",
+     "https://www.theregister.com/2011/01/21/computer_history_museum_revolution/"
+    ]
+   }
+  },
+  {
+   "id": "appomattox-court-house",
+   "campos": {
+    "texto": {
+     "general": "<p>En la pequeña aldea de <b>Appomattox Court House</b>, en Virginia, terminó en la práctica la <b>guerra de Secesión</b>. A comienzos de abril de 1865 el ejército confederado del general <b>Robert E. Lee</b> huía perseguido por las tropas de la Unión de <b>Ulysses S. Grant</b>. Atrapado aquí, Lee intentó romper el cerco la mañana del <b>9 de abril de 1865</b>, sin éxito, y ese mismo día se reunió con Grant en el salón de la <b>casa McLean</b> para acordar la rendición de su ejército. El 12 de abril los soldados del ejército de Virginia del Norte entregaron las armas y se marcharon a casa. La guerra siguió unas semanas en otros frentes, pero Appomattox quedó como el símbolo de la derrota de la Confederación.</p><p>La aldea, antes llamada Clover Hill, decayó cuando el ferrocarril pasó de largo en 1854, y en 1892 perdió la capitalidad del condado tras el incendio del juzgado. La casa McLean fue desmontada a finales del siglo XIX y lo que se ve hoy es una reconstrucción abierta al público en 1949. El Servicio de Parques Nacionales se hizo cargo del lugar en 1933, y desde 1954 es parque histórico nacional, con la aldea conservada como estaba en aquellos días.</p><p>Además de la casa McLean, se conservan edificios originales como la taberna de Clover Hill, de 1819, y senderos llevan al lugar del cuartel general de Lee y a un parque de artillería con cañones.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Appomattox_Court_House_National_Historical_Park"
+    ]
+   }
+  },
+  {
+   "id": "amnh-nueva-york",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Americano de Historia Natural</b>, fundado en 1869 frente a Central Park, en Nueva York, es uno de los grandes museos de ciencias naturales del mundo. Toda su cuarta planta está dedicada a los fósiles: dinosaurios, primeros vertebrados y mamíferos primitivos y avanzados. Entre sus piezas está el esqueleto de una de las grandes <b>aves gigantes</b> que ocuparon el hueco dejado por los dinosaurios: el que una expedición del museo halló en 1916 en la cuenca del Bighorn, en Wyoming, y que William Diller Matthew y Walter Granger describieron en 1917. Tiene unos 55 millones de años y se conoce como <i>Diatryma</i> o <i>Gastornis gigantea</i>; fue el primer esqueleto casi completo que permitió a los científicos hacerse una idea clara de cómo era el animal.</p><p>Medía más de 1,80 metros —algunos cálculos le dan hasta 2,15— y pesaba quizá más de 150 kilos. No volaba y tenía un pico enorme, muy alto y aplanado por los lados. Durante décadas se dibujó como un cazador de caballitos, pero hoy el propio museo lo presenta como un ave probablemente <b>vegetariana</b>, emparentada con patos y gansos, que partía frutos duros y semillas con el pico. Lo confirman sus huellas, sin garras ganchudas, y los análisis químicos de sus huesos.</p><p class=\"dato\"><span>¿Sabías que…?</span>El género <i>Gastornis</i> lleva el nombre de Gaston Planté, el joven que halló sus primeros fósiles en Meudon, cerca de París.</p>"
+    },
+    "fuentes": [
+     "https://tumblr.amnh.org/tagged/gastronis%20gigantea",
+     "https://en.wikipedia.org/wiki/American_Museum_of_Natural_History",
+     "https://palaeo-electronica.org/content/2024/5393-review-of-gastornithiformes",
+     "https://en.wikipedia.org/wiki/Gastornis"
+    ]
+   }
+  },
+  {
+   "id": "templo-shaolin",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>monasterio de Shaolin</b>, en la falda del monte Song, cerca de Dengfeng (Henán), se fundó en el año <b>495</b>, bajo la dinastía Wei del Norte, para el monje indio <b>Batuo</b>, protegido del emperador Xiaowen, que hizo de él un gran centro de traducción de textos budistas. Según la tradición, hacia 527 llegó otro monje indio, <b>Bodhidharma</b>, que meditó nueve años en una cueva de la montaña e inició aquí el <b>budismo chan</b> (zen en japonés); por eso Shaolin se tiene por su cuna.</p><p>Sus monjes se hicieron famosos por sus <b>artes marciales</b>. A comienzos de la dinastía Tang, trece monjes ayudaron al futuro emperador <b>Taizong</b> (Li Shimin) a vencer a su rival Wang Shichong; en 626 él les escribió una carta de agradecimiento y les dio tierras y un molino, como recuerda una estela que aún se conserva frente al campanario. La leyenda de que fue Bodhidharma quien enseñó el kung-fu a los monjes, en cambio, es una invención de comienzos del siglo XX.</p><p>Desde 2010 el monasterio, su <b>bosque de pagodas</b> y el templo Chuzu son <b>Patrimonio Mundial</b>, dentro de los monumentos históricos de Dengfeng. El bosque de pagodas, a unos 300 metros al oeste del monasterio, reúne <b>240 pagodas funerarias</b> de monjes de las dinastías Tang a Qing.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Shaolin_Monastery"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-guerra-del-opio-en-humen",
+   "campos": {
+    "texto": {
+     "general": "<p>En <b>Humen</b>, junto a la desembocadura del río de las Perlas (Dongguan, provincia de Cantón), el comisionado imperial <b>Lin Zexu</b> destruyó en junio de 1839 el opio confiscado a los comerciantes británicos. Desde el 3 de junio, unos 500 obreros trabajaron 23 días: echaban el opio en <b>grandes pozas</b> abiertas en la orilla y llenas de agua de mar, lo mezclaban con sal y cal viva, que al reaccionar con el agua lo «cocía», y después lo soltaban al mar. Se destruyeron unas <b>mil toneladas</b> de droga.</p><p>El emperador Daoguang había enviado a Lin a Cantón para acabar con el contrabando de opio, que había llenado China de adictos. Lin cercó a los comerciantes extranjeros en sus factorías hasta que entregaron unas 20.000 cajas. Gran Bretaña tomó la destrucción como motivo de guerra: fue el comienzo de la <b>primera guerra del Opio</b> (1839-1842). En febrero de 1841 los británicos atacaron y tomaron los fuertes de la boca del Tigre, en el estrecho de Humen, como el de Weiyuan.</p><p>El museo nació en 1957 como memorial de Lin Zexu y hoy, como <b>Museo de la Guerra del Opio</b>, administra también las ruinas de los fuertes de Shajiao y Weiyuan; en 1999 se le añadió un museo de la batalla naval. Junto a él se conservan las pozas donde se destruyó el opio.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=22.8281&mlon=113.6546#map=17/22.8281/113.6546",
+     "https://www.google.com/maps/place/?q=place_id:ChIJB4F402S7AzQRBHYhThpxvmE",
+     "https://en.wikipedia.org/wiki/Destruction_of_opium_at_Humen",
+     "https://en.wikipedia.org/wiki/Lin_Zexu",
+     "https://en.wikipedia.org/wiki/Battle_of_the_Bogue"
+    ]
+   }
+  },
+  {
+   "id": "monte-tai",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>monte Tai</b> (Taishan), en Shandong, junto a la ciudad de Tai'an, es la montaña sagrada del este y la más venerada de las <b>cinco montañas sagradas</b> de China: una famosa inscripción de la cumbre la proclama «la más venerada de las cinco». Su cima, el pico del Emperador de Jade, alcanza unos 1.545 metros.</p><p>Ya bajo los Zhou, antes del año 1000 a. C., los reyes subían a ofrecer sacrificios, que con el tiempo se convirtieron en los ritos <i>fengshan</i> al Cielo y a la Tierra, los más solemnes del Imperio en época Han. En el <b>219 a. C.</b> <b>Qin Shi Huang</b>, el primer emperador, celebró una ceremonia en la cumbre y proclamó en una inscripción la unidad de su imperio, y el <b>emperador Wu</b> de los Han plantó allí cipreses que aún se ven. Según la tradición, Confucio contempló desde una de sus terrazas su tierra natal, Lu, y dijo: «El mundo es pequeño». Al sacrificio del emperador Gaozong de Tang, en el año 666, acudieron enviados de Japón, la India, Corea, Persia y el califato omeya.</p><p>Desde 1987 es <b>Patrimonio Mundial</b>. Se sube por unos <b>6.660 escalones</b> de piedra, entre templos, puertas, pabellones e inscripciones, desde la puerta roja del pie hasta la Puerta Sur del Cielo; el tramo más duro son las «Dieciocho Curvas». Abajo, en Tai'an, el templo de Dai reproduce el plano de un palacio imperial.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Mount_Tai"
+    ]
+   }
+  },
+  {
+   "id": "fortaleza-de-jiayuguan",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>fortaleza de Jiayuguan</b>, en Gansu, es el primer gran paso fronterizo del extremo occidental de la <b>Gran Muralla de los Ming</b>. Se construyó hacia <b>1372</b>, a comienzos de la dinastía, en el punto más estrecho del corredor del Hexi, entre dos colinas, con los montes Qilian al fondo y junto a un oasis que entonces marcaba el límite occidental de China. Se reforzó por miedo a una invasión de Tamerlán, que murió de viejo cuando ya marchaba hacia China.</p><p>Era una parada clave de la <b>Ruta de la Seda</b>: por aquí entraban los mercaderes y embajadores de Asia Central y Occidental. Para los chinos, salir por su puerta occidental, que daba al desierto de Gobi, era salir del mundo civilizado: por ella partían los desterrados, que casi nunca volvían y llenaron el arco de versos de despedida. Uno de ellos fue <b>Lin Zexu</b>, el comisionado de la guerra del Opio. La viajera Mildred Cable oyó llamarla «puerta de los suspiros».</p><p>La fortaleza, de planta trapezoidal, tiene murallas de 733 metros de perímetro y 11 de alto, dos puertas con sus torres y una torre en cada esquina, y se une a la Gran Muralla por el norte y por el sur. Es el conjunto militar antiguo mejor conservado de la Muralla, y la llaman «el paso más inexpugnable bajo el cielo».</p><p class=\"dato\"><span>¿Sabías que…?</span>Cuenta la leyenda que el constructor calculó tan bien los ladrillos que sobró solo uno, que todavía se ve suelto sobre una de las puertas.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Jiayu_Pass"
+    ]
+   }
+  },
+  {
+   "id": "lago-del-oeste-de-hangzhou",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Lago del Oeste</b> (Xihu) de Hangzhou es un lago poco profundo, de unos 6,4 km², rodeado de colinas, templos, pagodas y jardines; se llama así por estar al oeste de la ciudad. Hangzhou fue la capital de los <b>Song del Sur</b> desde 1132 hasta la conquista mongola de 1276, con el nombre de Lin'an, y se cree que fue la <b>mayor ciudad del mundo</b> entre 1180 y 1315.</p><p>Su paisaje es en buena parte obra humana. El poeta <b>Bai Juyi</b> lo dragó en el año 822, y en 1089 otro gran poeta, <b>Su Shi</b> (Su Dongpo), entonces prefecto de la ciudad, hizo levantar con el limo dragado el <b>dique de Su</b>, con seis puentes, y plantó en él sauces y melocotoneros alternos. Su Shi lo comparó en un poema famoso con Xizi, una de las cuatro bellezas de la antigua China, y por eso también se le llama lago de Xizi. En 1508 el gobernador Yang Mengying añadió un tercer gran dique.</p><p>Los «diez paisajes del Lago del Oeste», como el amanecer de primavera en el dique de Su, la nieve sobre el Puente Roto o la pagoda Leifeng al atardecer, se han pintado y cantado durante siglos, e influyeron en los jardines de China, Japón y Corea. Es <b>Patrimonio Mundial</b> desde 2011. La pagoda Leifeng, que se derrumbó en 1924, se reconstruyó en 2002.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/West_Lake",
+     "https://en.wikipedia.org/wiki/Hangzhou"
+    ]
+   }
+  },
+  {
+   "id": "palacio-imperial-de-manchukuo",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Palacio Imperial de Manchukuo</b>, en Changchun (Jilin), fue la residencia de <b>Puyi</b>, el último emperador de China, cuando los japoneses lo pusieron al frente de <b>Manchukuo</b>, el estado títere que crearon tras ocupar Manchuria en 1931; Changchun, rebautizada Hsinking, era su capital. Puyi vivió aquí de <b>1932 a 1945</b>. Su papel era casi decorativo: lo único que le dejaron decidir fue la construcción de un palacio nuevo, a imagen de la Ciudad Prohibida, que la guerra dejó sin terminar en 1943.</p><p>Por eso vivió en antiguos edificios de oficinas adaptados, como la recaudación de la sal, que le valió el apodo de «palacio de la sal». El conjunto, de unos 43.000 m², tenía un patio exterior para los asuntos de Estado y otro interior para la familia, con jardines, piscina, refugio antiaéreo, pista de tenis y un pequeño campo de golf, todo rodeado de altos muros y nueve fortines de la guardia imperial. En agosto de 1945, con la invasión soviética, Puyi huyó e intentó llegar a Japón en avión, pero los soviéticos lo capturaron.</p><p>Museo desde 1962, se visitan el edificio Jixi, con el dormitorio y la capilla budista de Puyi y las habitaciones de la emperatriz Wanrong y de su concubina Tan Yuling; su despacho en el edificio Qinmin, y la lujosa sala Tongde, que Puyi no quiso usar porque creía que estaba llena de micrófonos. Otras salas cuentan la ocupación japonesa. Aquí rodó Bertolucci <i>El último emperador</i> (1987).</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=43.9033&mlon=125.3419#map=17/43.9033/125.3419",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ6UZjWT1nOF4RCj70hypL_jM",
+     "https://en.wikipedia.org/wiki/Museum_of_the_Imperial_Palace_of_Manchukuo"
+    ]
+   }
+  },
+  {
+   "id": "quanzhou-puerto-de-la-ruta-maritima",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Quanzhou</b>, en la costa de Fujian, fue uno de los mayores puertos del mundo bajo las dinastías <b>Song y Yuan</b>. Los árabes la llamaban <b>Zaitun</b>, y con ese nombre la conocieron <b>Marco Polo</b>, que la describió como «uno de los dos mayores puertos del mundo para el comercio» y embarcó allí en 1292 para volver a Occidente, e <b>Ibn Battuta</b>, que la tuvo sin más por el mayor puerto del mundo. Los emperadores Yuan sacaban enormes ingresos de los derechos que cobraban a su comercio.</p><p>Por su puerto pasaban mercaderes árabes, persas, indios y de medio mundo, y la ciudad fue una de las más cosmopolitas de China, con templos budistas, taoístas e <b>hindúes</b> —los mercaderes tamiles tallaron allí imágenes de Vishnu y Shiva—, mezquitas e iglesias cristianas, tanto nestorianas como católicas.</p><p>De aquella época quedan la <b>mezquita Qingjing</b>, fundada en 1009 y hoy convertida en museo; el templo budista de <b>Kaiyuan</b>, con dos pagodas de piedra de cinco pisos del siglo XIII; los grandes puentes de piedra de Luoyang y de Anping, y, en el monte Qingyuan, una gran <b>estatua de Laozi</b>, el fundador del taoísmo, tallada en la roca en época Song, de 5,63 metros de alto. Desde 2021, con el nombre de «Quanzhou: emporio del mundo en la China Song-Yuan», es <b>Patrimonio Mundial</b>.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=24.9057&mlon=118.5871#map=17/24.9057/118.5871",
+     "https://www.google.com/maps/place/?q=place_id:ChIJDxPWUyXUFDQR1ffmsVb2ZiI",
+     "https://en.wikipedia.org/wiki/Quanzhou",
+     "https://en.wikipedia.org/wiki/Mount_Qingyuan"
+    ]
+   }
+  },
+  {
+   "id": "tumbas-ming",
+   "campos": {
+    "texto": {
+     "general": "<p>Las <b>Tumbas Ming</b> son la gran necrópolis de la dinastía Ming, en un valle al pie de la montaña Tianshou, en el distrito de Changping, a unos 42 kilómetros al norte del centro de Pekín. El lugar lo eligió según los principios del <i>feng shui</i> el emperador <b>Yongle</b>, que tras terminar la Ciudad Prohibida en 1420 empezó aquí su propio mausoleo. Desde él, <b>trece emperadores Ming</b> se enterraron en este valle de unos 40 km², hasta Chongzhen, el último, en 1644.</p><p>Se llega por la <b>Vía Sagrada</b>, un camino de unos 7 kilómetros que empieza en un gran arco de piedra y cruza la Gran Puerta Roja. La flanquean estatuas de piedra más grandes que el natural, cada una tallada en un solo bloque: 18 parejas de animales míticos y figuras de guerreros y funcionarios.</p><p>Solo tres tumbas están abiertas al público. <b>Changling</b>, la de Yongle, es la mayor, con su gran sala Ling'en; en <b>Dingling</b>, la del emperador Wanli, se puede bajar al <b>palacio subterráneo</b>, que ha sido excavado; la tercera es Zhaoling. Desde 2003 forman parte del <b>Patrimonio Mundial</b> de las tumbas imperiales de las dinastías Ming y Qing.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=40.2998&mlon=116.2431#map=17/40.2998/116.2431",
+     "https://www.google.com/maps/place/?q=place_id:ChIJA3p6uOjl8DURK8Wv31Biohk",
+     "https://en.wikipedia.org/wiki/Ming_tombs"
+    ],
+    "ver_alli": [
+     "Se visitan sobre todo Changling, la tumba de Yongle, Dingling, cuyo palacio subterráneo se puede recorrer, y la Vía Sagrada.",
+     "La Vía Sagrada, con estatuas de animales y funcionarios, está unos 4 kilómetros al sur de Changling.",
+     "Están a unos 42 kilómetros al norte-noroeste del centro de Pekín."
+    ]
+   }
+  },
+  {
+   "id": "mausoleo-de-sun-yat-sen",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>mausoleo de Sun Yat-sen</b> está al pie del segundo pico de la <b>Montaña Púrpura</b>, en Nankín. Allí descansa <b>Sun Yat-sen</b> (1866-1925), que luchó contra la dinastía Qing, acabó con la monarquía tras la revolución de 1911 y fundó la República de China; tanto en la China continental como en Taiwán se le venera como el «padre de la China moderna».</p><p>Sun murió de cáncer en Pekín en 1925 y pidió ser enterrado en Nankín. Un concurso con más de 40 propuestas eligió el proyecto del arquitecto <b>Lü Yanzhi</b>, que murió poco después de terminarlo. Las obras empezaron en enero de 1926 y acabaron en la primavera de 1929, y el entierro se celebró el 1 de junio de ese año. El conjunto mezcla la tradición de las tumbas imperiales con la arquitectura moderna, y su planta recuerda una campana.</p><p>Desde el arco de entrada hasta la cámara funeraria hay unos 700 metros y 70 de desnivel: se sube por una escalinata de <b>392 escalones</b> de granito blanco, entre pinos, cipreses y ginkgos. La puerta lleva el lema de Sun, «Lo que hay bajo el cielo es de todos». Arriba, la sala del sacrificio, con <b>tejas vidriadas azules</b>, guarda una estatua sedente de Sun de mármol blanco italiano de 4,6 metros; su cuerpo reposa en un ataúd de bronce, cinco metros bajo el falso sarcófago. Desde arriba se ve todo Nankín.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Sun_Yat-sen_Mausoleum"
+    ]
+   }
+  }
+ ]
+}
