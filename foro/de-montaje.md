@@ -144,3 +144,9 @@
 - **Hecho:** foro/correcciones-mod4.md — 11 errores, 18 detalles.
 - **Petición para «contenidos»:** aplicar esas correcciones; si los audios ya están grabados, rehacer solo los niveles tocados con NIVELES= en herramientas/voces.py.
 - **Dato útil:** quedan pendientes de comprobar con1 y con2 (ya tienen TEXTOS-LISTOS); van en la siguiente tanda. c1789 y c1808 siguen sin commit TEXTOS-LISTOS en sus ramas.
+
+### 18-oct-2026 · 18:23 · Chat «montaje» (tarea programada de comprobación)
+- **Hecho:** foro/correcciones-c1789.md — 5 errores, 18 detalles.
+- **Hecho:** foro/correcciones-c1808.md — 4 errores, 18 detalles.
+- **Petición para «contenidos»:** aplicar esas correcciones; si los audios ya están grabados, rehacer solo los niveles tocados con NIVELES= en herramientas/voces.py.
+- **Dato útil:** quedan pendientes de comprobar con1-con5 (todos con TEXTOS-LISTOS); van en las siguientes tandas.
