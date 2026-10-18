@@ -1,0 +1,415 @@
+{
+ "zona": "Ampliar mundo-18b",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "cuartel-moncada-y-cementerio-de-santa-if",
+   "campos": {
+    "texto": {
+     "general": "<p>En Santiago de Cuba hay dos lugares que cuentan el principio y el final de la Revolución cubana. El <b>cuartel Moncada</b>, que debe su nombre al general Guillermo Moncada, héroe de la independencia, era la segunda guarnición militar del país cuando lo asaltaron sin éxito el <b>26 de julio de 1953</b> unos 136 jóvenes dirigidos por <b>Fidel Castro</b>. Nueve rebeldes murieron en el combate y decenas fueron ejecutados después. Castro, juzgado, preparó en la cárcel el alegato que se publicaría como <i>La historia me absolverá</i>. La fecha dio nombre a su Movimiento 26 de Julio, que derribó a Batista el 1 de enero de 1959.</p><p>En 1960 el cuartel se convirtió en escuela, la <b>Ciudad Escolar 26 de Julio</b>, y en una parte funciona el <b>Museo de Historia 26 de Julio</b>, junto a la Posta n.º 3, donde empezó el ataque. Los soldados de Batista taparon los impactos de bala de la fachada; tras la Revolución se volvieron a abrir para recordar el asalto.</p><p>El <b>cementerio de Santa Ifigenia</b>, inaugurado en 1868, es el gran panteón de Cuba. Allí reposan <b>José Martí</b>, en un mausoleo con guardia de honor permanente, Carlos Manuel de Céspedes, Mariana Grajales, Compay Segundo y la mayoría de los asaltantes del Moncada. Desde el 4 de diciembre de 2016 guarda también las cenizas de Fidel Castro, dentro de una gran <b>roca de granito</b> con una placa que dice solo «Fidel», a pocos pasos de Martí.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/39075813",
+     "https://en.wikipedia.org/wiki/Attack_on_the_Moncada_Barracks",
+     "https://en.wikipedia.org/wiki/Santa_Ifigenia_Cemetery",
+     "https://es.wikipedia.org/wiki/Cuartel_Moncada",
+     "https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Fidel_Castro",
+     "https://www.thedailystar.net/world/fidel-castro-interred-rock-1325428",
+     "https://www.lonelyplanet.fr/poi/cuba-provincedesantiagodecg-cuartel-moncada"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-revolucion",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo de la Revolución</b> ocupa, en La Habana Vieja, el antiguo <b>Palacio Presidencial</b>, un edificio ecléctico proyectado por el cubano Rodolfo Maruri y el belga Paul Belau, decorado por la casa Tiffany de Nueva York e inaugurado en <b>1920</b> por el presidente Mario García Menocal. Fue la sede de todos los presidentes de Cuba hasta Fulgencio Batista.</p><p>El <b>13 de marzo de 1957</b> lo asaltó un comando de 46 hombres del <b>Directorio Revolucionario 13 de Marzo</b>, el grupo de los estudiantes universitarios, junto con militantes del Partido Auténtico. Querían matar al dictador Batista mientras otro grupo tomaba la emisora Radio Reloj para anunciar su muerte. Los dos ataques fracasaron: Batista salió ileso y en la jornada murió el líder estudiantil José Antonio Echeverría. Tras el triunfo de la Revolución, el palacio se convirtió en museo.</p><p>Sus salas cuentan, desde el punto de vista oficial del régimen, sobre todo la guerra revolucionaria de los años cincuenta y la Cuba posterior a 1959, aunque también tratan la guerra de independencia contra España. Detrás, en el <b>Memorial Granma</b>, se guarda desde 1976 en un pabellón de cristal el <b>yate Granma</b>: en él salieron de Tuxpan (México) el 25 de noviembre de 1956 82 expedicionarios, entre ellos Fidel y Raúl Castro, el Che Guevara y Camilo Cienfuegos, que desembarcaron en Cuba el 2 de diciembre.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Museum_of_the_Revolution_(Cuba)",
+     "https://en.wikipedia.org/wiki/Havana_Presidential_Palace_attack_(1957)",
+     "https://en.wikipedia.org/wiki/Granma_(yacht)"
+    ]
+   }
+  },
+  {
+   "id": "trinidad-y-el-valle-de-los-ingenios",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Trinidad</b>, en la provincia de Sancti Spíritus, es una de las ciudades mejor conservadas del Caribe de la época en que el azúcar era la gran riqueza de la región. La fundó <b>Diego Velázquez de Cuéllar</b> el 23 de diciembre de 1514 con el nombre de Villa de la Santísima Trinidad, y aquí reclutó Hernán Cortés hombres para su expedición de 1518, entre ellos Pedro de Alvarado y sus hermanos. Su gran época llegó en los siglos XVIII y XIX con el <b>azúcar</b>.</p><p>Muy cerca se abre el <b>Valle de los Ingenios</b>, en realidad tres valles (San Luis, Santa Rosa y Meyer), donde en el momento de mayor auge funcionaban más de cincuenta ingenios trabajados por más de <b>30.000 esclavos</b> africanos; quedan restos de más de setenta. En la hacienda <b>Manaca Iznaga</b> se conservan la casa del amo, los barracones de los esclavos y una <b>torre de 45 metros</b> levantada hacia 1816 por Alejo María Iznaga, que llegó a ser la construcción más alta de Cuba. Su campana marcaba el principio y el fin de la jornada de los esclavos y daba la alarma si había un incendio o si alguno huía. Trinidad y el valle son Patrimonio de la Humanidad desde 1988.</p><p>En la ciudad hay que pasear por la <b>Plaza Mayor</b>, un pequeño museo al aire libre de arquitectura colonial con calles empedradas, casas de colores pastel con rejas de hierro, la iglesia de la Santísima Trinidad y el convento de San Francisco.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Trinidad,_Cuba",
+     "https://en.wikipedia.org/wiki/Valle_de_los_Ingenios"
+    ]
+   }
+  },
+  {
+   "id": "plaza-durbar-de-bhaktapur",
+   "campos": {
+    "texto": {
+     "general": "<p>Bhaktapur, la Khwopa de los newar, fue residencia de los reyes <b>Malla</b> del valle de Katmandú en los siglos XIV y XV y, desde el siglo XV, capital de un reino propio, hasta que lo conquistaron las tropas de Gorkha en <b>1769</b>. Su plaza del palacio, la mayor y más espléndida de las tres del valle cuando el reino era independiente, reúne templos de pagoda, pabellones y patios de ladrillo y madera tallada. Llegó a tener 99 patios; hoy quedan apenas quince.</p><p>Su gran impulsor fue el rey <b>Bhupatindra Malla</b> (1696-1722), cuya estatua de bronce dorado, sentada en actitud de oración sobre una columna, conserva en una pierna el agujero de una bala de 1769. Tras el terremoto de 1681 mandó levantar el <b>palacio de las 55 ventanas</b>, terminado en 1708, que guarda algunos de los murales mejor conservados de la época Malla. Delante está la <b>Puerta Dorada</b>, hecha entre 1751 y 1754 y considerada una de las obras más importantes del arte nepalí; da paso al santuario de Taleju, la diosa protectora de la dinastía. Los terremotos de 1833, 1934 y 2015 derribaron muchos edificios: el de 2015 dañó 116 monumentos.</p><p>Es Patrimonio Mundial desde 1979, dentro del conjunto del valle de Katmandú. No hay que perderse las estatuas de Ugrachandi y Ugrabhairava, de principios del siglo XVIII, ni el templo de piedra de Siddhi Lakshmi, con su escalinata custodiada por parejas de figuras y animales.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Bhaktapur_Durbar_Square",
+     "https://www.google.com/maps/place/?q=place_id:ChIJMd8y7K8a6zkR_ZuvMec5o90",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Bhaktapur+Durbar+Square"
+    ]
+   }
+  },
+  {
+   "id": "estupa-de-boudhanath",
+   "campos": {
+    "texto": {
+     "general": "<p>En el noreste del valle de Katmandú, sobre la antigua ruta comercial entre el Tíbet y la India, se levanta la <b>estupa de Boudhanath</b>, la mayor estupa esférica de Nepal y una de las mayores del mundo: una gran cúpula blanca con planta de mandala, coronada por una torre dorada en la que están pintados los <b>ojos de Buda</b> mirando a los cuatro puntos cardinales, hasta 36 metros de altura. Las crónicas newar hablan de una estupa aquí ya en el siglo V, en tiempos de los reyes licchavi, pero la actual es probablemente del <b>siglo XIV</b>. Durante siglos los mercaderes tibetanos se detuvieron a rezar a sus pies, y un texto atribuido a Padmasambhava la relaciona con el nacimiento del budismo tibetano.</p><p>Tras la revuelta tibetana de <b>1959</b>, muchos refugiados tibetanos se instalaron a su alrededor y fundaron más de cincuenta monasterios. El terremoto del 25 de abril de 2015 agrietó gravemente su torre; se reconstruyó solo con donaciones privadas de grupos budistas y volvió a abrirse el <b>22 de noviembre de 2016</b>.</p><p>Es Patrimonio Mundial desde 1979, dentro del conjunto del valle de Katmandú. Junto con Swayambhunath es uno de los lugares de peregrinación budista más visitados del valle. En la entrada norte hay un santuario de la diosa protectora Hariti, a la que los newar llaman Ajima.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Boudhanath",
+     "https://www.google.com/maps/place/?q=place_id:ChIJDx-VStob6zkRvcORSCO72j0",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Boudhanath"
+    ]
+   }
+  },
+  {
+   "id": "lumbini",
+   "campos": {
+    "texto": {
+     "general": "<p>Según la tradición budista, en <b>Lumbini</b>, en las llanuras del sur de Nepal, la reina <b>Maya</b> dio a luz a Siddhartha Gautama, el futuro Buda. El lugar se había olvidado hasta que en <b>1896</b> el general nepalí Khadga Shamsher Rana y el arqueólogo Alois Anton Führer, guiados por los relatos de los peregrinos chinos Faxian y Xuanzang, encontraron una gran columna de arenisca pulida.</p><p>Es la <b>columna del rey Asoka</b>, de hacia 249 a.C. Su inscripción dice que el rey, veinte años después de su coronación, vino a rendir culto «porque aquí nació el Buda Shakyamuni», y que eximió de impuestos a la aldea, que solo pagaría una octava parte de la cosecha. En 2013 un equipo dirigido por Robin Coningham publicó, bajo el templo de Maya Devi, restos de una estructura de madera que fechó en el siglo VI a.C. y que interpretó como un primer santuario; otros especialistas piden prudencia y creen que solo demuestra que el lugar es anterior a Buda.</p><p>Es Patrimonio Mundial desde 1997. En el Jardín Sagrado están el <b>templo de Maya Devi</b>, que protege los restos excavados y la piedra que marca el lugar del nacimiento, la columna de Asoka y el estanque sagrado donde, según la tradición, se bañó la reina. Alrededor se extiende una zona monástica donde solo se pueden construir monasterios: los de tradición theravada al este y los mahayana y vajrayana al oeste, levantados por muchos países budistas.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Lumbini",
+     "https://en.wikipedia.org/wiki/Lumbini_pillar_inscription",
+     "https://en.wikipedia.org/wiki/Ashoka"
+    ]
+   }
+  },
+  {
+   "id": "cementerio-de-thiaroye",
+   "campos": {
+    "texto": {
+     "general": "<p>A las afueras de Dakar, frente al campo militar de Thiaroye, está el cementerio de los <b>tiradores senegaleses</b> asesinados por el ejército francés el <b>1 de diciembre de 1944</b>. Eran soldados de África Occidental que habían combatido en la batalla de Francia en 1940 y habían pasado cuatro años en campos de prisioneros alemanes. Tras su liberación llegaron a Dakar el 21 de noviembre de 1944 en el barco británico <i>Circassia</i>; reclamaron las pagas que se les debían, y el general Marcel Dagnan declaró el campo en motín.</p><p>Aquella mañana, tropas coloniales apoyadas por gendarmes y un tanque rodearon el campo y abrieron fuego. La versión oficial habló de una revuelta armada, pero documentos desclasificados indican que la matanza se había previsto y que la mayoría de las víctimas estaban desarmadas. Las cifras van de 35 a 300 muertos. En 2014 el presidente francés François Hollande habló de «represión sangrienta», y en 2024 Emmanuel Macron la reconoció por carta como una «masacre».</p><p>El cementerio, declarado cementerio nacional en 2004, tiene <b>202 tumbas sin nombre</b> y un pequeño museo; todavía se discute dónde están las fosas comunes. En el 80.º aniversario, en 2024, el presidente senegalés Bassirou Diomaye Faye instituyó una jornada anual del Tirailleur. El cineasta Ousmane Sembène contó la historia en la película <i>Camp de Thiaroye</i> (1988).</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJYzy5ReoLwQ4RPFEpjWnvkVU",
+     "https://www.openstreetmap.org/?mlat=14.7457&mlon=-17.3738#map=18/14.7457/-17.3738",
+     "https://en.wikipedia.org/wiki/Thiaroye_massacre",
+     "https://fr.wikipedia.org/wiki/Massacre_de_Thiaroye"
+    ]
+   }
+  },
+  {
+   "id": "isla-de-goree",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Gorée</b> es una isla diminuta, de unos 900 por 350 metros, frente al puerto de Dakar. Casi sin agua potable, no estuvo habitada hasta la llegada de los europeos: los portugueses se instalaron en 1444, los holandeses le dieron su nombre y construyeron los fuertes de Nassau y Orange, y en 1677 la tomaron los franceses, que se la disputaron a los británicos hasta 1815. Sus casas coloniales de colores, en su mayoría de la segunda mitad del siglo XVIII, forman desde 1978 uno de los doce primeros lugares declarados Patrimonio de la Humanidad.</p><p>La <b>Casa de los Esclavos</b>, construida hacia 1776 por Nicolas Pépin, hermano de la rica comerciante (<i>signare</i>) Anne Pépin, perteneció a una familia que traficaba con esclavos. Desde 1962 es museo gracias a su conservador, Boubacar Joseph Ndiaye, que afirmaba que más de un millón de personas cruzaron su «<b>puerta del viaje sin retorno</b>». Los historiadores creen que fueron muchos menos y que Gorée fue un puerto secundario de la trata, frente a Saint-Louis o la desembocadura del Gambia; aun así, se ha convertido en un gran símbolo de la esclavitud. La han visitado Juan Pablo II, Nelson Mandela y Barack Obama.</p><p>En la isla no hay coches. Merece la pena ver también el fuerte de Estrées, que alberga el Museo Histórico de Senegal.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/House_of_Slaves",
+     "https://en.wikipedia.org/wiki/Gor%C3%A9e"
+    ]
+   }
+  },
+  {
+   "id": "monumento-al-renacimiento-africano",
+   "campos": {
+    "texto": {
+     "general": "<p>Sobre una de las dos colinas de Les Mamelles, en el barrio de Ouakam, a las afueras de Dakar y frente al Atlántico, se alza el <b>Monumento al Renacimiento Africano</b>, una estatua de bronce de unos <b>49 metros</b>, la más alta de África y más que la estatua de la Libertad, que mide 46 sin pedestal. Representa a una familia que sale de la montaña: un hombre que lleva en el brazo a su hijo, que señala hacia el mar, y sujeta por la cintura a su mujer. Se presentó el 3 de abril de 2010 ante diecinueve jefes de Estado africanos y se inauguró oficialmente el <b>4 de abril</b>, fiesta nacional, en el cincuentenario de la independencia de Senegal.</p><p>Fue idea del presidente <b>Abdoulaye Wade</b>, que quería un símbolo del «renacimiento africano»; lo diseñó el arquitecto senegalés Pierre Goudiaby Atepa y lo construyó la empresa norcoreana <b>Mansudae Overseas Projects</b>. Fue muy polémico: costó unos 27 millones de dólares, pagados con terrenos, en plena crisis económica; Wade reclamó el 35 % de los beneficios como autor de la idea; el escultor Ousmane Sow criticó que lo hicieran extranjeros, y algunos imanes rechazaron las figuras semidesnudas.</p><p>Un ascensor sube hasta la cabeza del hombre, desde cuyas ventanas, abiertas en su gorro, se domina Dakar.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/African_Renaissance_Monument",
+     "https://es.wikipedia.org/wiki/Monumento_al_Renacimiento_Africano",
+     "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+     "https://roadsandkingdoms.com/2012/a-north-korean-folly-in-the-heart-of-senegal"
+    ]
+   }
+  },
+  {
+   "id": "twyfelfontein",
+   "campos": {
+    "texto": {
+     "general": "<p>En un valle del noroeste de Namibia, junto a un manantial al pie de una mesa de arenisca, está <b>Twyfelfontein</b>, oficialmente ǀUi-ǁAis, uno de los mayores conjuntos de grabados rupestres de África. Se calcula que hay más de 5.000 figuras: <b>jirafas, rinocerontes, elefantes, avestruces</b>, cebras y huellas de animales y de personas. La mayoría las grabaron cazadores-recolectores de la Edad de Piedra, que vivieron aquí desde hace unos 6.000 años; hace entre 2.000 y 2.500 años llegaron los pastores khoikhoi, que dejaron un arte distinto. Muchas figuras parecen ligadas a rituales chamánicos, como el «hombre león», un león con una larguísima cola que acaba en una huella, que representaría la transformación de un hombre en animal. También hay leones marinos y pingüinos, señal de viajes a la costa, a más de 100 km.</p><p>Su nombre, en afrikáans, significa «fuente dudosa». Se lo dio el granjero David Levin, que compró la finca en 1948 y siempre dudaba de que el manantial diera agua suficiente para su familia y su ganado. Ernst Rudolph Scherz empezó a estudiar los grabados en 1950.</p><p>En 2007 se convirtió en el primer Patrimonio de la Humanidad de Namibia. No hay que perderse la «placa del león» ni el «kudu danzante».</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJN9aqO_spiRsRQ37PtuD3B5Q",
+     "https://en.wikipedia.org/wiki/Twyfelfontein"
+    ]
+   }
+  },
+  {
+   "id": "shark-island-y-memorial-de-waterberg",
+   "campos": {
+    "texto": {
+     "general": "<p>Estos dos lugares de Namibia recuerdan el <b>genocidio de los herero y los nama</b> (1904-1908). En enero de 1904 los herero, dirigidos por Samuel Maharero, se rebelaron contra los colonos alemanes que les arrebataban tierras y ganado. El <b>11 de agosto de 1904</b>, en la meseta de <b>Waterberg</b>, el general Lothar von Trotha cercó a los herero, reunidos con sus familias; la mayoría escapó hacia el desierto de Omaheke, y Von Trotha los persiguió negándoles pastos y pozos. Decenas de miles murieron de sed, de hambre o de enfermedad. El campo de batalla está hoy dentro del parque de la meseta de Waterberg, con un cementerio de los soldados alemanes.</p><p>Muchos supervivientes acabaron en campos de concentración. El más terrible fue el de <b>Shark Island</b>, la «isla del Tiburón», una península rocosa frente a Lüderitz, azotada por el viento y el frío. Entre marzo de 1905 y abril de 1907 murieron allí entre 1.032 y 3.000 herero y nama, hombres, mujeres y niños, por hambre, enfermedades y trabajos forzados en el puerto y el ferrocarril; algunos cráneos se enviaron a Alemania para estudios raciales. Allí murió en febrero de 1907 el capitán nama Cornelius Fredericks, que hoy tiene un monumento en la isla.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Shark_Island_concentration_camp",
+     "https://en.wikipedia.org/wiki/Battle_of_Waterberg",
+     "https://en.wikipedia.org/wiki/Cornelius_Fredericks"
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-de-namibia",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Nacional de Namibia</b>, en Windhoek, nació en 1907 como museo del territorio bajo la administración colonial alemana. Pasó a llamarse South West Africa Museum en 1925, ya bajo dominio sudafricano, y tomó su nombre actual en 1994, tras la independencia. Su colección histórica se guarda en la <b>Alte Feste</b>, el viejo fuerte alemán cuya primera piedra se puso en 1890: es el edificio más antiguo de la ciudad, con un patio de altos muros y cuatro torres, y está junto al Museo Memorial de la Independencia.</p><p>Su gran tesoro son las <b>lajas de la cueva Apolo 11</b>, siete piedras de cuarcita halladas en un abrigo rocoso del sur de Namibia y fechadas por radiocarbono hacia hace <b>30.000 años</b>: son las obras de arte figurativo más antiguas de África. La más famosa muestra un ser que mezcla patas humanas, cuerpo y cuernos de antílope y cabeza de felino; otra, el cuello y la cabeza de una cebra. El arqueólogo alemán Wolfgang Erich Wendt bautizó la cueva en honor de la misión Apolo 11, que acababa de volver de la Luna.</p><p>En 2023 la Alte Feste estaba cerrada y necesitaba una restauración urgente; está previsto convertirla en un centro de artes y patrimonio y en un Museo Nacional del Genocidio y de la Historia Colonial. Antes de ir conviene comprobar qué sedes del museo están abiertas.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=-22.5693&mlon=17.0884#map=18/-22.5693/17.0884",
+     "https://www.google.com/maps/place/?q=place_id:ChIJt4JMXSwbCxwRbNGjNcZAcfc",
+     "https://en.wikipedia.org/wiki/National_Museum_of_Namibia",
+     "https://en.wikipedia.org/wiki/Apollo_11_Cave",
+     "https://en.wikipedia.org/wiki/Alte_Feste"
+    ]
+   }
+  },
+  {
+   "id": "taputapuatea",
+   "campos": {
+    "texto": {
+     "general": "<p>En la punta de una península que entra en la laguna de <b>Raiatea</b>, en las islas de Sotavento, está el gran <b>marae de Taputapuātea</b>, considerado en su tiempo el templo y centro religioso principal de la Polinesia oriental. Un marae es un recinto sagrado; el central es aquí un patio rectangular pavimentado de basalto, de 44 por 60 metros, con una plataforma ceremonial (<i>ahu</i>) de basalto y coral en su extremo este. Pudo fundarse hacia el año <b>1000</b> y se amplió al menos dos veces entre los siglos XIV y XVIII.</p><p>Estuvo dedicado primero a Ta'aroa, el dios creador, y después a 'Oro, dios de la vida y la muerte, al que se ofrecían sacrificios humanos. Aquí se reunían sacerdotes y navegantes de todo el Pacífico para compartir sus conocimientos sobre el origen del universo y la navegación de altura, y una alianza unía estas islas con las Cook, las Australes, Hawái y los maoríes de Aotearoa (Nueva Zelanda): los nuevos marae de esas islas se fundaban con una piedra llevada desde Taputapuātea. Hacia 1763 lo saquearon guerreros de Bora Bora, y James Cook llegó a Raiatea en julio de 1769 con Tupaia a bordo. Tras la llegada de los misioneros, a principios del siglo XIX, el marae quedó abandonado.</p><p>Restaurado en 1994, es Patrimonio de la Humanidad desde 2017. Junto a la playa está la piedra blanca sobre la que se investía a los jefes con el cinturón de plumas rojas.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJJ3c2q-livXYR2xGObMK6rFY",
+     "https://en.wikipedia.org/wiki/Taputapuatea_marae",
+     "https://es.wikipedia.org/wiki/Taputapuatea"
+    ]
+   }
+  },
+  {
+   "id": "punta-venus",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Punta Venus</b> es un cabo bordeado de arena negra en la costa norte de Tahití, en el municipio de Mahina, a unos 8 km de Papeete, en el extremo nordeste de la bahía de Matavai. Su nombre recuerda el primer viaje de <b>James Cook</b>: el gran objetivo de la expedición del <i>Endeavour</i> era observar desde el Pacífico Sur el paso de Venus por delante del Sol en <b>1769</b>. Cook fondeó en Matavai el 12 de abril de ese año y levantó aquí un observatorio y un campamento fortificado, el «Fuerte Venus»; el tránsito se observó el 3 de junio.</p><p>La bahía de Matavai recibió también al <i>Bounty</i> en 1788, y en marzo de 1797 desembarcaron en ella, del barco <i>Duff</i>, catorce misioneros de la Sociedad Misionera de Londres con sus familias, los primeros protestantes que se instalaron en Tahití.</p><p>Hoy lo más visible es el <b>faro</b>, construido en 1867 por obreros de Mangareva y encendido por primera vez el 1 de enero de 1868; en 1953 se le añadió un piso y ahora mide 33 metros. Cerca hay un monumento a Cook, una columna blanca rematada por una esfera, con una placa de 1901 renovada en 2011, y otras estelas que recuerdan episodios del pasado, entre ellas un memorial del <i>Bounty</i>.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Point_Venus",
+     "https://en.wikipedia.org/wiki/Duff_(1794_ship)",
+     "https://en.wikipedia.org/wiki/Pointe_V%C3%A9nus_Lighthouse",
+     "https://www.service-public.pf/sdt/st-pointevenus/",
+     "https://www.captaincooksociety.com/remembering-cook/memorials/types-of-cook-memorials/monument-to-cook-at-point-venus-tahiti-french-polynesia"
+    ]
+   }
+  },
+  {
+   "id": "tumba-del-rey-pomare-v",
+   "campos": {
+    "texto": {
+     "general": "<p>En la punta de Outu'ai'ai, en Arue, cerca de Papeete, se alza junto al mar la <b>tumba del rey Pōmare V</b>, una pirámide de base rectangular hecha enteramente de <b>bloques de coral</b> unidos con argamasa y coronada por una urna. Se construyó primero para su madre, la reina <b>Pōmare IV</b>, enterrada aquí en 1877; Pōmare V hizo trasladar sus restos al cementerio de la familia real, junto a Pōmare I, II y III, y reservó el mausoleo para sí.</p><p><b>Pōmare V</b> (1839-1891) fue el último rey de Tahití. Subió al trono a la muerte de su madre, el 17 de septiembre de 1877, y el <b>29 de junio de 1880</b> cedió Tahití y sus dependencias a Francia a cambio de una pensión. Murió en el palacio real de Papeete el 12 de junio de 1891, a causa del alcoholismo. Con él se extinguió el reino de la dinastía Pōmare, que había fundado Pōmare I al unificar los distritos de Tahití hacia 1788-1791 y que reinó durante casi un siglo.</p><p>A su funeral asistió el pintor Paul Gauguin, a quien no le gustó el monumento: escribió que contrastaba con la belleza de la naturaleza.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJT0fksMk5mnYR9Mt_lSRKhc0",
+     "https://www.openstreetmap.org/?mlat=-17.5215&mlon=-149.5262#map=17/-17.5215/-149.5262",
+     "https://en.wikipedia.org/wiki/P%C5%8Dmare_V",
+     "https://en.wikipedia.org/wiki/P%C5%8Dmare_dynasty",
+     "https://www.tahititourisme.com/cultural-heritage/tombeau-du-roi-pomare-v/"
+    ]
+   }
+  },
+  {
+   "id": "mision-jesuitica-de-trinidad",
+   "campos": {
+    "texto": {
+     "general": "<p>La reducción de la <b>Santísima Trinidad de Paraná</b>, en el departamento de Itapúa, cerca de Encarnación, se fundó en junio de <b>1706</b>, cuando las misiones jesuíticas del Paraná llevaban casi un siglo en marcha. Fue una de las últimas, pero también la más ambiciosa: es la mejor conservada y la más extensa de las reducciones guaraníes de Paraguay, y su iglesia es la mayor de todas las misiones jesuíticas. Hacia 1728 vivían en ella unos 3.000 guaraníes.</p><p>Como las demás reducciones, era un pueblo autosuficiente organizado por los jesuitas en torno a una gran plaza, con la iglesia, el colegio, talleres y las casas de los indios. El arquitecto de la iglesia principal, una gran construcción de piedra con cúpula, fue el jesuita Juan Bautista Prímoli. Tras la expulsión de los jesuitas de los dominios españoles, en 1767-1768, el pueblo se abandonó y se fue arruinando.</p><p>En las ruinas destacan el <b>friso de ángeles músicos</b> que tocan el órgano, el arpa, trompetas y otros instrumentos, prueba del gran nivel musical de las reducciones; el <b>púlpito de piedra</b>, de más de mil piezas, con figuras de los evangelistas; un campanario de base cuadrada y las hileras de <b>casas de los indios</b>, con arcos hacia la plaza. Muy cerca está la misión de Jesús de Tavarangüé. Las dos son Patrimonio de la Humanidad desde 1993.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Jesuit_Missions_of_La_Sant%C3%ADsima_Trinidad_de_Paran%C3%A1_and_Jes%C3%BAs_de_Tavarangue",
+     "https://en.wikipedia.org/wiki/La_Sant%C3%ADsima_Trinidad_de_Paran%C3%A1",
+     "https://whc.unesco.org/en/list/648/",
+     "https://es.hispanopedia.com/wiki/Misi%C3%B3n_jesu%C3%ADtica_de_La_Sant%C3%ADsima_Trinidad_de_Paran%C3%A1",
+     "https://www.latercera.com/noticia/revitalizan-atractivos-turisticos-de-ruinas-jesuiticas-en-paraguay/"
+    ],
+    "ver_alli": [
+     "Las ruinas están junto a la ruta 6, a unos 30 km de Encarnación.",
+     "En 2009 se estrenó un espectáculo nocturno de luces y sonido entre las ruinas.",
+     "A pocos kilómetros, por carretera asfaltada, está la misión de Jesús de Tavarangüé."
+    ]
+   }
+  },
+  {
+   "id": "museo-de-las-memorias",
+   "campos": {
+    "texto": {
+     "general": "<p>En la calle Chile de Asunción, el <b>Museo de las Memorias: Dictadura y Derechos Humanos</b> ocupa el edificio de la antigua <b>Dirección Nacional de Asuntos Técnicos</b> (DNAT), la oficina de la policía política de la dictadura de <b>Alfredo Stroessner</b>, que gobernó Paraguay desde agosto de 1954 hasta su caída en febrero de 1989. Durante más de treinta años allí se encarceló y torturó a miles de opositores. En mayo de 1956 instaló en el edificio su despacho el coronel estadounidense Robert K. Thierry, enviado para formar a los policías del régimen en técnicas de contrainsurgencia, en el marco de la llamada Doctrina de Seguridad Nacional.</p><p>El 22 de diciembre de 1992 el abogado Martín Almada, antiguo preso político, y el juez José Agustín Fernández encontraron en una comisaría de Lambaré los <b>Archivos del Terror</b>, miles de documentos de la represión que probaron además la existencia de la <b>Operación Cóndor</b> entre las dictaduras del Cono Sur. Al día siguiente el juez ordenó cerrar la DNAT. Hoy esos archivos se guardan en el Palacio de Justicia de Asunción.</p><p>El museo, impulsado por la Fundación Celestina Pérez de Almada y abierto en 2002, reconstruyó las celdas a partir de testimonios de antiguos presos y de fotografías. Expone documentos, objetos de tortura, fotografías y testimonios de las víctimas.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Museo%20de%20las%20Memorias%2C%20Asunci%C3%B3n",
+     "https://es.wikipedia.org/wiki/Museo_de_las_Memorias",
+     "https://en.wikipedia.org/wiki/Archives_of_Terror"
+    ]
+   }
+  },
+  {
+   "id": "mision-jesuitica-de-jesus-de-tavarangue",
+   "campos": {
+    "texto": {
+     "general": "<p>En el departamento de Itapúa se alzan los muros de piedra rojiza de una gran iglesia que nunca se terminó. La reducción de Jesús se fundó en <b>1685</b> en el actual Alto Paraná, cerca del río Monday, y tras varios traslados llegó a este lugar en <b>1760</b>. Los jesuitas estaban levantando aquí uno de los mayores templos de su tiempo, con una nave central de <b>70 metros de largo y 24 de ancho</b>, cuando la orden fue <b>expulsada</b> de Paraguay en 1767, y las obras se quedaron a medias.</p><p>Las misiones eran pueblos autosuficientes donde los jesuitas reunían a los guaraníes, estudiaban y escribían su lengua y organizaban la vida religiosa, el trabajo y la enseñanza. Los jesuitas fundaron unas treinta en tierras que hoy pertenecen a Paraguay, Argentina, Brasil y Bolivia, y las de Paraguay están entre las mejor conservadas de Sudamérica.</p><p>Hoy se ven los altos muros de la iglesia inacabada, con sus tres impresionantes puertas de entrada, cuyos dinteles están decorados con rosetones tallados en piedra, el púlpito de piedra, los frisos de ángeles y el campanario. Con la cercana misión de <b>Trinidad</b> es Patrimonio de la Humanidad desde 1993.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ruins_of_Jes%C3%BAs_de_Tavarangue",
+     "https://en.wikipedia.org/wiki/Jesuit_Missions_of_La_Sant%C3%ADsima_Trinidad_de_Paran%C3%A1_and_Jes%C3%BAs_de_Tavarangue",
+     "https://www.openstreetmap.org/search?query=Misi%C3%B3n%20Jes%C3%BAs%20de%20Tavarang%C3%BC%C3%A9"
+    ]
+   }
+  },
+  {
+   "id": "memorial-de-chiang-kai-shek",
+   "campos": {
+    "texto": {
+     "general": "<p>En el centro de Taipéi se levanta el <b>Memorial Nacional de Chiang Kai-shek</b>, un gran edificio de hormigón y mármol blanco de 76 metros de altura, con un tejado azul octogonal: el ocho es en la cultura china un número de abundancia y buena suerte. Lo diseñó el arquitecto <b>Yang Cho-cheng</b> inspirándose en el mausoleo de Sun Yat-sen en Nankín. Chiang murió el 5 de abril de 1975; las obras empezaron el 31 de octubre de 1976, en el 90.º aniversario de su nacimiento, y el memorial se inauguró el <b>5 de abril de 1980</b>. Dos escalinatas de 89 escalones, uno por cada año de su vida, suben a la sala principal, donde está su gran estatua; en la planta baja hay una biblioteca y un museo sobre su vida.</p><p>La explanada, hoy llamada <b>plaza de la Libertad</b>, fue el escenario de las protestas que trajeron la democracia a Taiwán, sobre todo el movimiento estudiantil del Lirio Salvaje de 1990. Su figura es hoy polémica por la represión de su dictadura: en 2017 el Ministerio de Cultura propuso convertir el memorial en un centro sobre la memoria y los derechos humanos, y en 2024 retiró a la guardia de honor de la sala de la estatua.</p><p>A los lados de la plaza están el Teatro Nacional y la Sala Nacional de Conciertos.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Chiang_Kai-shek_Memorial_Hall"
+    ],
+    "ver_alli": [
+     "Una gran escalinata sube hasta la sala con la estatua.",
+     "Desde julio de 2024 la exhibición de la guardia de honor se hace en la avenida de la Democracia, delante del edificio, y no dentro de la sala.",
+     "A los lados de la plaza están el Teatro y la Sala de Conciertos nacionales."
+    ]
+   }
+  },
+  {
+   "id": "museo-del-palacio-nacional-de-taipei",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo del Palacio Nacional</b>, en el distrito de Shilin de Taipéi, guarda una de las mayores colecciones de arte chino del mundo: casi <b>700.000 piezas</b>, basadas en las colecciones imperiales de las dinastías Ming y Qing. Nació en 1925 en la Ciudad Prohibida de Pekín. Durante la guerra civil, en 1948-1949, el gobierno nacionalista de Chiang Kai-shek envió a Taiwán 2.972 cajas con lo mejor de sus fondos, solo el 22 % de las que se habían evacuado de Pekín. El museo actual abrió en noviembre de 1965, y en 2015 se inauguró una sede sur en Chiayi. La República Popular China sostiene que las obras salieron ilegalmente, y por eso el museo no expone en China continental.</p><p>Guarda algunas de las obras maestras de la época Song, que se exponen por turnos para protegerlas: el gran rollo vertical «Viajeros entre montañas y arroyos», pintado por <b>Fan Kuan</b> hacia el año 1000, el «Comienzo de la primavera» de <b>Guo Xi</b>, de 1072, y piezas de la <b>cerámica Ru</b>, de un verde azulado pálido, hecha para la corte hacia 1100, de la que se conservan en el mundo menos de cien piezas completas.</p><p>Su obra más famosa es la «<b>col de jade</b>», una escultura de jadeíta con una langosta y un saltamontes escondidos entre las hojas, que perteneció a la consorte Jin del emperador Guangxu.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/National_Palace_Museum",
+     "https://en.wikipedia.org/wiki/Jadeite_Cabbage",
+     "https://en.wikipedia.org/wiki/Fan_Kuan",
+     "https://en.wikipedia.org/wiki/Early_Spring_(painting)",
+     "https://en.wikipedia.org/wiki/Ru_ware"
+    ]
+   }
+  },
+  {
+   "id": "fuerte-zeelandia-anping",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Compañía Holandesa de las Indias Orientales</b> construyó entre 1624 y 1634 este fuerte sobre un banco de arena que dominaba la entrada a la laguna de Tainan, en el suroeste de Taiwán, entonces llamada Formosa. Los ladrillos se trajeron de Java y el mortero se hizo con una mezcla de azúcar, arena, conchas molidas y arroz glutinoso. Tenía un fuerte interior cuadrado de tres pisos, con baluartes con cañones en las esquinas, y un fuerte exterior con viviendas, hospital y mercado. Durante 38 años fue el centro del gobierno y del comercio holandés en la isla.</p><p>El 30 de abril de 1661 llegó <b>Koxinga</b> (Zheng Chenggong), un leal a la dinastía Ming, con unos 400 barcos de guerra y 25.000 hombres. Tras nueve meses de asedio, la muerte de unos 1.600 holandeses y sin refuerzos de Batavia, los holandeses se rindieron el <b>1 de febrero de 1662</b>; el gobernador Frederick Coyett entregó el fuerte y volvió a Batavia con los supervivientes.</p><p>Hoy se llama el <b>Viejo Fuerte de Anping</b>. Quedan restos de las murallas de ladrillo rojo holandesas junto a una torre de vigilancia posterior, y un pequeño museo con un busto de Koxinga.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Fort_Zeelandia_(Taiwan)",
+     "https://www.openstreetmap.org/?mlat=23.0016&mlon=120.1606#map=17/23.0016/120.1606",
+     "https://www.google.com/maps/place/?q=place_id:ChIJZ-TjeHN2bjQR8a3Jat0VHps",
+     "https://en.wikipedia.org/wiki/Siege_of_Fort_Zeelandia"
+    ]
+   }
+  },
+  {
+   "id": "at-turaif-de-diriyah",
+   "campos": {
+    "texto": {
+     "general": "<p>En las afueras del noroeste de Riad, sobre una colina que domina el valle de <b>Wadi Hanifa</b> y sus palmerales, se extienden las ruinas restauradas de adobe de <b>At-Turaif</b>, el barrio fortificado de <b>Diriyah</b>. Fue la cuna de la casa de Saud y la primera capital saudí, de 1727 a 1818. En 1744 el emir Muhammad ibn Saud acogió al predicador <b>Muhammad ibn Abd al-Wahhab</b> y se comprometió a imponer sus ideas religiosas; de aquella alianza nació el primer estado saudí, y Diriyah se convirtió en la mayor ciudad del Nayd.</p><p>La conquista de La Meca y Medina provocó la guerra con el Imperio otomano. En 1818 un ejército egipcio al mando de <b>Ibrahim Pachá</b> sitió y tomó la ciudad, la arrasó y taló sus palmeras. Los saudíes trasladaron después su capital a Riad, y At-Turaif quedó abandonado.</p><p>Desde 2010 es Patrimonio de la Humanidad por su arquitectura de adobe del Nayd. Restaurado como museo al aire libre, se pueden ver el <b>palacio de Salwa</b>, el palacio de Saad bin Saud, la casa de huéspedes, los baños y la mezquita del imán Muhammad bin Saud, entre murallas y torres.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/At-Turaif",
+     "https://en.wikipedia.org/wiki/At-Turaif_District",
+     "https://en.wikipedia.org/wiki/Diriyah"
+    ]
+   }
+  },
+  {
+   "id": "ithra-y-el-pozo-de-la-prosperidad",
+   "campos": {
+    "texto": {
+     "general": "<p>En Dhahran, en el este de Arabia Saudí, el <b>Centro Rey Abdulaziz para la Cultura Mundial</b>, más conocido como <b>Ithra</b> («enriquecimiento»), fue construido por la petrolera estatal <b>Saudi Aramco</b> e inaugurado por el rey Salmán el 1 de diciembre de 2016. Lo diseñó el estudio noruego <b>Snøhetta</b>: su forma, de grandes piedras apiladas y envueltas en tubos plateados como los que se usan para extraer el crudo, se inspira en las rocas que contienen el petróleo, y la piedra superior parece sostenida por las demás. Las plantas siguen un orden temporal: el pasado bajo tierra, el presente a ras de suelo y el futuro en la Torre del Conocimiento. Tiene museo, biblioteca, cine, teatro y salas de exposiciones.</p><p>Se levantó a propósito junto al <b>pozo Dammam n.º 7</b>, el «pozo de la prosperidad». Tras seis pozos fallidos, el geólogo estadounidense Max Steineke, ayudado por el beduino Khamis bin Rimthan, insistió en perforar más hondo, y el <b>3 de marzo de 1938</b> el petróleo brotó a unos 1.440 metros de profundidad. Fue el primer hallazgo comercial de Arabia Saudí y el principio de su transformación en una gran potencia petrolera. El pozo funcionó hasta 1982 y dio más de 32 millones de barriles.</p><p>El pozo se conserva como monumento histórico junto al centro.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/King_Abdulaziz_Center_for_World_Culture",
+     "https://en.wikipedia.org/wiki/Dammam_No._7"
+    ]
+   }
+  },
+  {
+   "id": "fuerte-de-masmak",
+   "campos": {
+    "texto": {
+     "general": "<p>En el centro antiguo de Riad, junto al palacio de Al Hukm, se alza el <b>fuerte de Masmak</b>, un castillo de adobe y barro sobre cimientos de piedra. Lo empezó en 1865 el emir Abdullah bin Faisal Al Saud y lo terminaron en 1895 los Al Rashid, la dinastía rival que se había apoderado de Riad y había mandado al exilio a los Saud. Es uno de los pocos edificios históricos que se conservan en Arabia Saudí.</p><p>En enero de 1902 el joven <b>Abdulaziz ibn Saud</b>, que vivía exiliado en Kuwait, volvió con un pequeño grupo de hombres y tomó el fuerte por sorpresa. En el asalto, su primo Fahad ibn Jalawi lanzó una lanza contra el gobernador Ajlan; falló, y la punta quedó clavada en la puerta, donde todavía se ve. La reconquista de Riad fue el punto de partida de la unificación que culminó en 1932 con la creación del reino de Arabia Saudí. Abdulaziz usó después el fuerte como almacén de armas hasta 1938.</p><p>Restaurado, se abrió como museo en 1995, con fotografías, mapas antiguos de Riad, armas y trajes tradicionales. Tiene una puerta de madera de palmera con un pequeño portillo para una sola persona, una mezquita, un salón de recepciones (<i>majlis</i>), un pozo, un patio y cuatro torres de vigilancia de unos 18 metros en las esquinas.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Masmak_fort",
+     "https://en.wikipedia.org/wiki/Battle_of_Riyadh_(1902)",
+     "https://www.arabnews.com/node/1932516/amp"
+    ]
+   }
+  },
+  {
+   "id": "parlamento-de-papua-nueva-guinea",
+   "campos": {
+    "texto": {
+     "general": "<p>En Waigani, el barrio gubernamental de Port Moresby, se alza la <b>Casa del Parlamento Nacional</b> de Papúa Nueva Guinea, inaugurada por el príncipe Carlos el <b>8 de agosto de 1984</b>. Su entrada imita una <b>haus tambaran</b>, la casa de los espíritus de los antepasados de la región del río Sepik, y su fachada está decorada con un enorme mosaico, de unos 19 metros de alto, que representa la multitud de culturas del país.</p><p>Es un símbolo de la nación surgida de la independencia de <b>1975</b>. Entre 1964 y 1975 la Asamblea de Papúa y Nueva Guinea, todavía bajo administración australiana, se había reunido en un antiguo hospital del centro de Port Moresby; aquel edificio se derribó y en su lugar se proyecta un museo de historia política. En 2025, con motivo del 50.º aniversario de la independencia, Australia ofreció financiar una nueva ala para los ministerios.</p><p>El edificio está junto a la sede del Tribunal Supremo.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJzQDzKU03AmkRY6ny61jPw74",
+     "https://www.openstreetmap.org/?mlat=-9.4278&mlon=147.1919#map=17/-9.4278/147.1919",
+     "https://en.wikipedia.org/wiki/National_Parliament_House,_Port_Moresby",
+     "https://archived.habitusliving.com/design-hunters/architecture-in-papua-new-guinea/amp"
+    ]
+   }
+  },
+  {
+   "id": "sendero-de-kokoda",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>sendero de Kokoda</b> recorre unos <b>96 km</b> a través de la selva y las montañas de la cordillera de Owen Stanley, desde Owers' Corner, a 50 km de Port Moresby, hasta la aldea de Kokoda. Solo se puede hacer a pie, y su punto más alto, el monte Bellamy, supera los 2.400 metros.</p><p>Entre julio y noviembre de <b>1942</b> fue el escenario de una de las campañas más duras de la Segunda Guerra Mundial en el Pacífico. Los japoneses desembarcaron en la costa norte con la intención de llegar por tierra a Port Moresby y aislar Australia de Estados Unidos. Los soldados australianos, al principio unos pocos pelotones del Batallón 39 y del Batallón de Infantería de Papúa, se retiraron combatiendo hasta Imita Ridge; los japoneses llegaron a ver Port Moresby, pero, sin suministros, se retiraron el 26 de septiembre. Unos 16.000 porteadores papúes, a menudo reclutados a la fuerza, llevaron provisiones y bajaron a los heridos: los australianos los llamaban los <b>«ángeles de pelo rizado»</b> (<i>Fuzzy Wuzzy Angels</i>).</p><p>Desde 2001 el número de excursionistas ha crecido mucho. Por el camino se pasa por aldeas como Naoro, Menari, Efogi e Isurava, y en Owers' Corner un monumento recuerda la campaña.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJZZYDad99_WgRGurTEi76pSY",
+     "https://www.openstreetmap.org/?mlat=-8.9863&mlon=147.7353#map=17/-8.9863/147.7353",
+     "https://en.wikipedia.org/wiki/Kokoda_Track",
+     "https://en.wikipedia.org/wiki/Kokoda_Track_campaign",
+     "https://en.wikipedia.org/wiki/Fuzzy_Wuzzy_Angels"
+    ]
+   }
+  },
+  {
+   "id": "yacimiento-agricola-de-kuk",
+   "campos": {
+    "texto": {
+     "general": "<p>En un pantano del valle de Wahgi, a unos <b>1.550 metros de altitud</b>, en las montañas de Nueva Guinea y a unos 12 km de Monte Hagen, los arqueólogos encontraron canales de drenaje que empezaron a excavarse hace <b>unos 9.000 años</b>. Es una de las pruebas más antiguas del mundo de que la <b>agricultura se inventó varias veces</b> y por separado, no solo en Oriente Próximo.</p><p>Los primeros agricultores de Kuk transformaron el pantano en praderas aptas para el cultivo con tres tipos de zanjas: grandes canales de desagüe y zanjas mayores y menores alrededor de las parcelas. Cultivaban <b>taro</b>, una planta local, en el límite de altitud en que podía crecer, y más tarde <b>plátano</b> y <b>caña de azúcar</b>, hace entre 6.900 y 6.400 años. La abundancia de restos microscópicos de plátano en los campos indica que se plantaba a propósito, y Kuk está entre los primeros lugares donde se domesticó. En las excavaciones aparecieron palos de cavar de madera y una piedra de moler. El arqueólogo australiano Jack Golson dirigió los estudios.</p><p>Es <b>Patrimonio de la Humanidad</b> desde 2008. Hoy viven en la zona los kawelka, un pueblo de lengua melpa.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Kuk_Swamp",
+     "https://www.google.com/maps/place/?q=place_id:ChIJYY1Q1-2dWWgRWyn9DK_MUoc",
+     "https://www.openstreetmap.org/?mlat=-5.7848&mlon=144.3371#map=17/-5.7848/144.3371"
+    ]
+   }
+  },
+  {
+   "id": "antigua-guatemala",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Antigua Guatemala</b>, en las tierras altas del centro del país, fue la tercera capital del <b>reino de Guatemala</b>, que abarcaba las actuales Guatemala, Belice, El Salvador, Honduras, Nicaragua, Costa Rica y Chiapas. La primera se había fundado en 1524 en Iximché y la segunda, en el valle de Almolonga, quedó destruida en 1541 por una avalancha de lodo del volcán de Agua. Los españoles fundaron entonces, el 10 de marzo de 1543, esta Santiago de los Caballeros, con calles en cuadrícula alrededor de una plaza central.</p><p>Durante 230 años se llenó de iglesias y conventos barrocos. Aquí trabajó el santo Hermano Pedro de San José de Betancur, llegado de Tenerife en 1650, que fundó la orden de los betlemitas, la primera nacida en América. Los <b>terremotos de Santa Marta de 1773</b> destruyeron gran parte de la ciudad, y en 1776 la Corona ordenó trasladar la capital a un nuevo emplazamiento. La vieja ciudad no se abandonó del todo y pasó a llamarse la Antigua Guatemala.</p><p>Es Patrimonio de la Humanidad desde 1979. Está rodeada por tres volcanes, el de Agua, el Acatenango y el de Fuego, casi siempre activo. Hay que ver la iglesia de La Merced, de barroco guatemalteco, la de San Francisco, con la tumba del Hermano Pedro, y las ruinas de los conventos.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Antigua_Guatemala"
+    ]
+   }
+  },
+  {
+   "id": "quirigua",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Quiriguá</b> es una ciudad maya de tamaño mediano junto al bajo río Motagua, en el departamento de Izabal, en el sureste de Guatemala. Ocupada desde hacia el año 200, vivió su época de esplendor en el siglo VIII y se abandonó hacia el 850. Estaba en un cruce de rutas comerciales, cerca de las fuentes de jade del Motagua.</p><p>Durante mucho tiempo fue vasalla de la cercana <b>Copán</b>, cuyo rey Uaxaclajuun Ub'aah K'awiil, «18 Conejo», puso en el trono en 724 a <b>K'ak' Tiliw Chan Yopaat</b>. Pero en 738 este, probablemente con el apoyo de la gran ciudad de Calakmul, se rebeló, capturó a 18 Conejo y lo sacrificó en la Gran Plaza de Quiriguá. Con el botín de aquella victoria la ciudad levantó sus mejores monumentos, tallados en una arenisca roja muy resistente.</p><p>Su arquitectura es modesta, pero sus esculturas son extraordinarias. La <b>estela E</b>, dedicada en 771, mide 10,6 metros contando la parte enterrada: es el monumento más alto del mundo maya. Hay también grandes rocas talladas con animales fantásticos, los «zoomorfos», como el P, de unas 20 toneladas. En 1910 la United Fruit Company compró la zona para plantar bananos y reservó 30 hectáreas como parque arqueológico. Es Patrimonio de la Humanidad desde 1981.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Quirigu%C3%A1"
+    ]
+   }
+  },
+  {
+   "id": "tumba-de-askia",
+   "campos": {
+    "texto": {
+     "general": "<p>En Gao, a orillas del Níger, se alza la <b>tumba de Askia</b>, una pirámide de barro de <b>17 metros</b> erizada de postes de madera que sobresalen de sus muros y que sirven de andamio permanente. La mandó construir en 1495 <b>Askia Mohammed I</b>, el primer emperador de la dinastía askia, que extendió el Imperio songhai y convirtió a Gao en su capital. Según la tradición, tras su peregrinación a La Meca, de la que volvió en 1497-1498, trajo con una caravana de miles de camellos el barro y la madera para su tumba.</p><p>Por dentro, la pirámide tenía varias salas y pasillos, y se selló cuando murió el emperador, el único enterrado en ella; en el patio reposan otros askias. El conjunto incluye dos mezquitas de techo plano, un cementerio y un lugar de reunión. Es el mayor monumento precolonial de Gao y un gran ejemplo de la arquitectura de barro sudano-saheliana, que se extendió después por la región. Como todas las construcciones de barro, hay que revocarla con regularidad.</p><p>Es Patrimonio de la Humanidad desde 2004 y figura desde 2012 en la lista del patrimonio en peligro. Sigue siendo un lugar de oración.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Tomb_of_Askia",
+     "https://whc.unesco.org/en/list/1139/"
+    ]
+   }
+  }
+ ]
+}
