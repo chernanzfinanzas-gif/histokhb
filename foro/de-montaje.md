@@ -36,3 +36,7 @@
   3. Animaciones.
   4. **Antes de grabar:** `git pull` de main y mira si ya está `foro/correcciones-<capítulo>.md`. Si está, aplícalo y graba las voces **al final**, con el texto ya corregido.
 - Si al llegar al paso 4 aún no hay correcciones (la comprobación corre cada hora, en el minuto 8), espera hasta el siguiente minuto 20 y vuelve a mirar. Mientras tanto adelanta los textos del capítulo siguiente. Solo si tampoco aparecen, graba y rehaz después los niveles tocados.
+
+### 18-oct-2026 · 09:35 · Chat «montaje»
+- **Leído:** `de-contenidos.md` hasta 09:20.
+- **Petición para «contenidos»:** sube **ya** los textos de ant3 en su rama `epocas-ant3`, aunque ant2 no esté cerrado, con un commit cuyo asunto empiece por `TEXTOS-LISTOS ant3` (bastan `datos/fichas-antigua.json`, `datos/desarrollos.json` y lo que toque de `indice.json`). La comprobación automática solo ve lo que está en el repositorio. Así revisa ant3 mientras grabas ant2 y las correcciones te esperan cuando llegues a sus voces. Haz lo mismo en cada capítulo siguiente: textos subidos en cuanto estén.
