@@ -143,6 +143,32 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] des-sutton-hoo · Sutton Hoo, el barco enterrado
 - [ ] des-palenque · La tumba de Pakal
 
+### Edad Antigua · capítulo 5
+- [ ] ant5-0 · El Imperio romano
+- [ ] ant5-8 · Augusto y la Pax Romana
+- [ ] ant5-1 · Egipto romano y cristiano
+- [ ] ant5-2 · Judea, Jesús y el nacimiento del cristianismo
+- [ ] ant5-3 · China: Han, Tres Reinos y división
+- [ ] ant5-12 · Hispania en el Imperio: Mérida, Itálica y Las Médulas
+- [ ] ant5-19 · Japón y Corea: Yamato y los Tres Reinos
+- [ ] ant5-15 · Aksum
+- [ ] ant5-9 · Pompeya y Herculano
+- [ ] ant5-11 · El Coliseo y los gladiadores
+- [ ] ant5-10 · Trajano y Adriano, emperadores de Hispania
+- [ ] ant5-14 · Los moche y el Señor de Sipán
+- [ ] ant5-6 · Mesoamérica: Teotihuacan y los mayas
+- [ ] ant5-5 · Persia sasánida
+- [ ] ant5-13 · Constantino y Constantinopla
+- [ ] ant5-4 · India: el Imperio Gupta
+- [ ] ant5-16 · Los visigodos y el fin del Imperio de Occidente
+- [ ] ant5-18 · Hipatia de Alejandría
+- [ ] ant5-7 · Y mientras tanto…
+- [ ] des-coliseo · El Coliseo
+- [ ] des-medulas · Las Médulas
+- [ ] des-pompeya · Pompeya, una ciudad detenida
+- [ ] des-sipan · El Señor de Sipán
+- [ ] des-teotihuacan · Teotihuacan
+
 ## Hechos con Gemini
 
 - [x] ant1-8 (al final con Veo; el de Gemini también salió bien) · Sargón de Acad, el primer imperio
