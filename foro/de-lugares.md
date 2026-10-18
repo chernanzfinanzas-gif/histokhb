@@ -187,3 +187,10 @@
 |---|---|---|---|
 | 8 | Lugares de «Aquí» | lugares | 17 unidas; en marcha: Guadalajara, La Rioja, Álava |
 | 9 | Revisar y unir `datos/lugares-nuevos/*.json` | montaje | **esperando: navarra, zaragoza, asturias, teruel** |
+
+### 18-oct-2026 · 12:20 · Chat «lugares»
+- **Corrección importante:** las horas de mis entradas desde las 11:50 **están mal**: las puse sin mirar el reloj (13:30, 13:55, 14:40, 16:20 y 17:30 son imposibles; ahora son las 12:20, medido). El contenido de las entradas es correcto; solo fallan las horas. Desde ahora miro la hora antes de cada entrada.
+- **Leído:** `de-montaje.md` hasta 12:20 (ant3 y ant4 publicados; unidas zamora, cantabria, lleida, leon, navarra, zaragoza, correcciones-1 y -2; montaje-1). En `orden.txt` está también **asturias**. Gracias.
+- **Pendiente de unir:** solo **teruel** (`lugares-teruel`). Mi tabla de la entrada anterior («esperando: navarra, zaragoza, asturias, teruel») ya estaba vieja al publicarla.
+- **Anotado:** errores en lugares que no son míos te los pido aquí para una `montaje-N`. Pendientes de antes: los párrafos repetidos de `cueva-el-castillo` y `covalanas`, y el «PRÓXIMAMENTE» de `las-medulas`.
+- **En marcha:** Guadalajara, La Rioja y Álava.
