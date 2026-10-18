@@ -1,0 +1,927 @@
+{
+ "zona": "Illes Balears",
+ "nuevos": [
+  {
+   "id": "santuario-de-lluc",
+   "nombre": "Santuario de Lluc",
+   "provincia": "Illes Balears",
+   "comarca": "Escorca (Mallorca)",
+   "lat": 39.8227,
+   "lon": 2.8846,
+   "tipo": "iglesia",
+   "estilo": "Renacentista y barroco",
+   "epoca": "Barroco",
+   "anio": 1622,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>En un valle de la sierra de Tramuntana, Lluc es el <b>gran santuario mariano de Mallorca</b>. La primera noticia de una iglesia aquí es de <b>1246</b>, y en 1268 ya se dejaban legados para «la obra de Santa María de Lluc». Según la tradición, un pastor y un monje encontraron la imagen de la Virgen entre las rocas de un torrente.</p><p>La imagen, la <b>Moreneta</b>, es una talla de piedra pintada de unos 61 cm, de los siglos XIII-XV, siempre de color oscuro; fue coronada en 1884 ante unas 12.000 personas. La iglesia actual se empezó en <b>1622</b> con proyecto de <b>Jaume Blanquer</b> y se terminó a finales del siglo XVII: planta de cruz latina, una nave con tres capillas por lado y cúpula en el crucero. A comienzos del siglo XX se decoró todo el interior siguiendo un diseño de <b>Antoni Gaudí</b>.</p><p>Carlos de Austria le dio el título de Capilla Real en 1707 y Juan XXIII el de <b>basílica</b> en 1962. Desde hacia 1531 tiene una escolanía, la de los <b>Blauets</b>, y el monasterio guarda un museo y un jardín botánico.</p><p class=\"dato\"><span>¿Sabías que…?</span>Cada verano, la marcha nocturna «des Güell a Lluc a peu» reúne a más de 50.000 personas que caminan unos 48 km desde Palma.</p>"
+   },
+   "ver_alli": [
+    "La capilla de la Mare de Déu, con la Moreneta y los escudos de los 53 pueblos de Mallorca.",
+    "El interior dorado de la basílica, decorado a comienzos del siglo XX.",
+    "Si coincide, escuchar cantar a los Blauets en la basílica."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Santuario_de_Lluc",
+    "https://santuaridelluc.com/en/church/",
+    "https://www.enciclopedia.cat/gran-enciclopedia-catalana/lluc-8",
+    "https://www.google.com/maps/place/?q=place_id:ChIJzfx0JgXblxIR75yyYKsn5_Y",
+    "https://www.openstreetmap.org/?mlat=39.8227&mlon=2.8846#map=18/39.8227/2.8846"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "murallas-de-alcudia",
+   "nombre": "Alcúdia, villa amurallada",
+   "provincia": "Illes Balears",
+   "comarca": "Alcúdia (Mallorca)",
+   "lat": 39.8529,
+   "lon": 3.119,
+   "tipo": "poblacion",
+   "estilo": "Murallas góticas y baluartes renacentistas",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1298,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Muy cerca de las ruinas de Pollentia, el rey <b>Jaime II de Mallorca</b> impulsó en <b>1298</b> una villa nueva en Alcúdia, con iglesia, cementerio, casa del rector y plaza, y empezó a cercarla. La <b>muralla medieval</b> se terminó en <b>1362</b>: un recinto de unos <b>1,5 km</b> de perímetro, de unos seis metros de altura, con <b>26 torres</b> y foso.</p><p>Con Felipe II, en el siglo XVI, se añadió un segundo cinturón de <b>baluartes bajos</b> en estrella, pensado para resistir la artillería; buena parte de esta muralla renacentista se derribó después para ensanchar el pueblo. La iglesia de Sant Jaume llegó a formar parte de la fortificación.</p><p>Se conservan dos puertas, la <b>Porta de Mallorca</b> y la <b>Porta del Moll o de Xara</b>, que comunicaba con el puerto. Desde <b>1974</b> las murallas y Pollentia están protegidas juntas como conjunto histórico-artístico.</p>"
+   },
+   "ver_alli": [
+    "La Porta de Mallorca, la gran puerta del recinto medieval.",
+    "Subir al adarve y pasear sobre la muralla, con vistas a los tejados y a la bahía.",
+    "Las ruinas de Pollentia empiezan a unos 400 m, saliendo por la Porta de Mallorca."
+   ],
+   "fuentes": [
+    "https://www.historyhit.com/locations/alcudia-city-walls/",
+    "https://www.mallorca.com/es/guia/lugares-de-interes/porta-de-mallorca",
+    "https://www.google.com/maps/place/?q=place_id:ChIJqQx3OJ8slhIRoaICYHmLOBQ",
+    "https://www.google.com/maps/place/?q=place_id:ChIJS3AaAJ8slhIRrhgMH5FChrg",
+    "https://www.openstreetmap.org/?mlat=39.8529&mlon=3.119#map=18/39.8529/3.119"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castell-de-capdepera",
+   "nombre": "Castell de Capdepera",
+   "provincia": "Illes Balears",
+   "comarca": "Capdepera (Mallorca)",
+   "lat": 39.7043,
+   "lon": 3.433,
+   "tipo": "castillo",
+   "estilo": "Gótico militar",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1300,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>En lo alto del Puig de Capdepera, a 159 m y a menos de dos kilómetros de la costa este de Mallorca, se levanta este <b>pueblo fortificado</b>. Su elemento más antiguo es la <b>torre de Miquel Nunis</b>, de planta cuadrada, una torre de defensa islámica de los siglos X-XI y lo único que existía cuando los cristianos conquistaron la isla.</p><p>Hacia <b>1300</b>, <b>Jaime II de Mallorca</b> ordenó levantar aquí una villa amurallada para repoblar el levante de la isla. El recinto, casi triangular y de unos 8.000 m², se cerró con una muralla gótica terminada en <b>1386</b>, con torres como las de Sa Boira, ses Dames, d'en Banya y dels Costerans.</p><p>En el punto más alto está la iglesia de <b>Nostra Senyora de l'Esperança</b>, de los siglos XIV y XVI. En el siglo XVIII el castillo fue cuartel; los soldados lo abandonaron en 1854 y desde 1983 es propiedad municipal.</p>"
+   },
+   "ver_alli": [
+    "El paseo de ronda sobre la muralla, con vistas al mar y a la costa de Artà.",
+    "La torre de Miquel Nunis, la parte más antigua.",
+    "La iglesia de Nostra Senyora de l'Esperança, en la cima del recinto."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Capdepera",
+    "https://www.illesbalears.travel/en/mallorca/castle-capdepera",
+    "https://www.google.com/maps/place/?q=place_id:ChIJm9IZHRYWlhIR4_n8x80Grwk",
+    "https://www.openstreetmap.org/?mlat=39.7043&mlon=3.433#map=18/39.7043/3.433"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "son-fornes",
+   "nombre": "Poblado talayótico de Son Fornés",
+   "provincia": "Illes Balears",
+   "comarca": "Montuïri (Mallorca)",
+   "lat": 39.5841,
+   "lon": 2.9673,
+   "tipo": "yacimiento",
+   "estilo": "Talayótico",
+   "epoca": "Edad del Bronce",
+   "anio": -1000,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>En el llano de Mallorca, junto a Montuïri, Son Fornés es uno de los poblados prehistóricos mejor estudiados de las Baleares: un equipo dirigido desde la <b>Universitat Autònoma de Barcelona</b> lo investiga <b>desde 1975</b>, y las excavaciones continúan.</p><p>Su historia tiene tres grandes fases. En la talayótica (siglos <b>X-VI a. C.</b>) se levantaron tres talayots y un barrio de viviendas. Tras una destrucción, en la etapa postalayótica (siglos VI-III a. C.) se conservaron los talayots y se construyeron casas de patio a su alrededor. Ya con influencia púnica y dominio romano (siglo III a. C. – siglo I d. C.) surgió entre dos talayots abandonados un barrio de trabajo con dos santuarios.</p><p>El <b>talayot 1</b>, de <b>17 metros de diámetro</b> y 3,5 m de altura conservada, se considera el mayor documentado en Mallorca: se usaron unas 2.000 toneladas de piedra, con bloques de hasta nueve toneladas.</p>"
+   },
+   "ver_alli": [
+    "El gran talayot 1 y su corredor de entrada de unos cinco metros.",
+    "Las casas postalayóticas de patio alrededor de los talayots.",
+    "El Museu Arqueològic de Son Fornés, en un antiguo molino de Montuïri, está a unos 2 km."
+   ],
+   "fuentes": [
+    "https://www.mallorca.com/en/guide/sights/poblat-talaiotic-de-son-fornes",
+    "https://www.google.com/maps/place/?q=place_id:ChIJp1uapLq3lxIRFXKHofhuc9E",
+    "https://www.google.com/maps/place/?q=place_id:ChIJCQdpBPi2lxIRvuDrVUZqVdE",
+    "https://www.openstreetmap.org/?mlat=39.5841&mlon=2.9673#map=18/39.5841/2.9673"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "necropolis-de-son-real",
+   "nombre": "Necrópolis de Son Real",
+   "provincia": "Illes Balears",
+   "comarca": "Santa Margalida (Mallorca)",
+   "lat": 39.755,
+   "lon": 3.1822,
+   "tipo": "yacimiento",
+   "estilo": "Talayótico y postalayótico",
+   "epoca": "Edad del Hierro",
+   "anio": -650,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>En la punta des Fenicis, al borde mismo del mar, cerca de Can Picafort, se conserva uno de los grandes cementerios prehistóricos de las Baleares. Se usó entre los <b>siglos VII y I a. C.</b> y conserva <b>109 sepulcros</b> en unos 800 m², con restos de unas <b>300 personas</b>.</p><p>Lo singular de Son Real es que muchas tumbas reproducen en pequeño la arquitectura de los poblados talayóticos: hay sepulcros <b>circulares</b>, <b>rectangulares</b> y en forma de <b>pequeña naveta</b>. Las monumentales son de inhumación; una fase posterior, más sencilla, corresponde a cremaciones.</p><p>Lo excavó <b>Miquel Tarradell</b> entre 1957 y 1969, y las campañas siguieron hasta 2020. El mar se ha llevado ya una parte del yacimiento y en 2026 su último director propuso trasladarlo unos cien metros tierra adentro para salvarlo. Está dentro de la finca pública de Son Real.</p>"
+   },
+   "ver_alli": [
+    "Las tumbas en forma de pequeños talayots y navetas, junto a las rocas de la orilla.",
+    "Enfrente, s'Illa des Porros, otra parte de la necrópolis, muy dañada por un temporal en 2001.",
+    "Se llega andando por la costa desde Can Picafort o desde las casas de la finca de Son Real."
+   ],
+   "fuentes": [
+    "https://www.enciclopedia.cat/EC-GEC-0054516",
+    "https://www.masmallorca.es/en/culture/son-real-beach-and-archaeological-ruins.html",
+    "https://www.ultimahora.es/noticias/cultura/2026/08/05/2682587/subida-del-nivel-del-mar-urge-trasladar-necropolis-son-real-tierra-adentro.html",
+    "https://www.google.com/maps/place/?q=place_id:ChIJN0dwzB4xlhIR0XxvBRrjfsk",
+    "https://www.openstreetmap.org/?mlat=39.755&mlon=3.1822#map=18/39.755/3.1822"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "talati-de-dalt",
+   "nombre": "Talatí de Dalt",
+   "provincia": "Illes Balears",
+   "comarca": "Maó (Menorca)",
+   "lat": 39.8932,
+   "lon": 4.2161,
+   "tipo": "yacimiento",
+   "estilo": "Talayótico",
+   "epoca": "Edad del Bronce",
+   "anio": -1000,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>A unos kilómetros de Maó, Talatí de Dalt es uno de los poblados talayóticos más emblemáticos de Menorca por su buen estado. Ya en la segunda mitad del III milenio a. C. vivía aquí una comunidad de pastores y agricultores, y el poblado se construyó a <b>finales del II milenio a. C.</b>; siguió habitado, con altibajos, hasta el siglo XIII.</p><p>Su pieza más famosa es la <b>taula</b>, singular porque tiene una <b>columna apoyada sobre la losa horizontal</b>. Alrededor quedan un talayot principal y dos secundarios, casas talayóticas de planta circular, recintos cubiertos con losas y un muro de piedra seca que rodea el conjunto.</p><p>Desde <b>2023</b> forma parte del Patrimonio Mundial de los sitios prehistóricos de la Menorca talayótica, en la zona sureste de Maó.</p>"
+   },
+   "ver_alli": [
+    "La taula con la columna apoyada en ella.",
+    "Los recintos cubiertos con grandes losas, por los que se puede pasar agachado.",
+    "Desde lo alto del talayot, vistas sobre el campo menorquín."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Talat%C3%AD_de_Dalt",
+    "https://www.descobreixmenorca.com/en/?p=10755",
+    "https://www.menorca.info/menorca/cultura/2023/09/18/2013119/menorca-talayotica-yacimientos-declaracion-patrimonio-mundial.html",
+    "https://www.google.com/maps/place/?q=place_id:ChIJm8qSaheIlRIRmezDDsbNcRY",
+    "https://www.openstreetmap.org/?mlat=39.8932&mlon=4.2161#map=18/39.8932/4.2161"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "ciutadella-casco-antiguo",
+   "nombre": "Ciutadella: catedral y casco antiguo",
+   "provincia": "Illes Balears",
+   "comarca": "Ciutadella (Menorca)",
+   "lat": 40.0017,
+   "lon": 3.8376,
+   "tipo": "poblacion",
+   "estilo": "Gótico catalán y casco histórico",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1300,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Ciutadella, en el extremo oeste de Menorca, fue la capital de la isla hasta la ocupación británica del siglo XVIII. Tras conquistarla en <b>1287</b>, Alfonso III ordenó levantar una iglesia sobre la mezquita, y así nació la <b>catedral de Santa María</b>: las obras empezaron en <b>1300</b> y acabaron en <b>1362</b>, en <b>gótico catalán</b>. En el campanario aún se reconocen arcos del antiguo minarete.</p><p>El 9 de julio de <b>1558</b> una flota turca al mando del almirante Piali asaltó la ciudad; parte de la población fue llevada a Estambul y la iglesia quedó muy dañada. En el <b>Born</b>, la gran plaza sobre el puerto, un obelisco recuerda aquel asalto. La catedral recibió la fachada neoclásica en 1813 y es sede episcopal desde 1795.</p><p>Entre el Born y la catedral se extiende un casco antiguo de calles estrechas, con las arcadas de <b>Ses Voltes</b> entre la plaza Nova y la catedral.</p>"
+   },
+   "ver_alli": [
+    "La catedral: la nave gótica y, en el campanario, los arcos del antiguo minarete.",
+    "La plaza des Born con el obelisco de 1558 y la vista del puerto.",
+    "Pasear bajo los arcos de Ses Voltes."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_de_Menorca",
+    "https://es.wikipedia.org/wiki/Ciudadela_de_Menorca",
+    "https://www.google.com/maps/place/?q=place_id:ChIJPQFOswkEvhIRNpX-ZNfHFbg",
+    "https://www.openstreetmap.org/?mlat=40.0017&mlon=3.8376#map=18/40.0017/3.8376"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "fortaleza-de-la-mola",
+   "nombre": "Fortaleza de La Mola (Isabel II)",
+   "provincia": "Illes Balears",
+   "comarca": "Maó (Menorca)",
+   "lat": 39.8739,
+   "lon": 4.3111,
+   "tipo": "castillo",
+   "estilo": "Fortificación abaluartada del siglo XIX",
+   "epoca": "Siglo XIX",
+   "anio": 1850,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>En la península de La Mola, que cierra por el norte la bocana del puerto de Maó, el ejército español levantó en el siglo XIX una enorme fortaleza abaluartada. Las obras empezaron en <b>1850</b>, tras la demolición del castillo de Sant Felip, se inauguró sin terminar en 1852, la reina <b>Isabel II</b>, que le da nombre, visitó las obras en 1860, y se acabó en <b>1875</b>, cuando la artillería ya la había dejado anticuada.</p><p>Debía defender el puerto y servir de base y refugio al ejército en la isla. Su pieza más impresionante es la <b>galería aspillerada</b>, una larga hilera de <b>48 arcos</b> con sus casamatas. En 1896 se instalaron baterías modernas, y durante la Guerra Civil se montó un <b>cañón Vickers de 38,1 cm</b>, uno de los mayores de España.</p><p>También fue prisión en varias épocas. En la península se conserva además la <b>torre de la Princesa</b>, levantada por los británicos en 1799.</p>"
+   },
+   "ver_alli": [
+    "La galería aspillerada de 48 arcos.",
+    "La batería del gran cañón Vickers.",
+    "El recorrido es largo y al sol: mejor con calzado cómodo y agua."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Fortaleza_de_Isabel_II",
+    "https://www.barcelo.com/guia-turismo/es/espana/menorca/que-ver/la-mola/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJL7MabVuHlRIR-TaFTKyspMc",
+    "https://www.openstreetmap.org/?mlat=39.8739&mlon=4.3111#map=18/39.8739/4.3111"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "son-catlar",
+   "nombre": "Poblado talayótico de Son Catlar",
+   "provincia": "Illes Balears",
+   "comarca": "Ciutadella (Menorca)",
+   "lat": 39.954,
+   "lon": 3.8749,
+   "tipo": "yacimiento",
+   "estilo": "Talayótico",
+   "epoca": "Edad del Bronce",
+   "anio": -1000,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Al sur de Ciutadella, Son Catlar destaca por su <b>muralla</b>: unos <b>870 metros</b> de muralla ciclópea, de más de seis metros de grosor en algunos puntos, con una única puerta de entrada bien conservada y bastiones añadidos más tarde.</p><p>Sus orígenes se remontan al <b>siglo X a. C.</b>, pero alcanzó su mayor desarrollo poco antes de la conquista romana: entre los siglos V y IV a. C. todo el poblado se reforzó con la muralla. Hay indicios de uso hasta época romana.</p><p>Dentro quedan <b>cuatro talayots</b>, salas hipóstilas, viviendas y un <b>recinto de taula</b> con dos entradas, algo poco habitual; la taula está rota y ha perdido la losa superior. Desde 2023 es Patrimonio Mundial dentro de la Menorca talayótica.</p>"
+   },
+   "ver_alli": [
+    "La muralla ciclópea y su puerta de entrada.",
+    "El recinto de taula con sus dos accesos.",
+    "Los talayots repartidos por el interior del recinto."
+   ],
+   "fuentes": [
+    "https://www.enciclopedia.cat/EC-GEC-0016556",
+    "https://web.ua.es/es/modular2/son-catlar.html",
+    "https://www.menorca.info/menorca/cultura/2023/09/18/2013119/menorca-talayotica-yacimientos-declaracion-patrimonio-mundial.html",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ5b3lx_wCvhIRpA9jH640VIA",
+    "https://www.openstreetmap.org/?mlat=39.954&mlon=3.8749#map=18/39.954/3.8749"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "basilica-des-fornas-de-torello",
+   "nombre": "Basílica des Fornàs de Torelló",
+   "provincia": "Illes Balears",
+   "comarca": "Maó (Menorca)",
+   "lat": 39.8832,
+   "lon": 4.2234,
+   "tipo": "yacimiento",
+   "estilo": "Paleocristiano",
+   "epoca": "Antigüedad tardía",
+   "anio": 550,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Junto a un camino rural entre Maó y Sant Climent se conservan los restos de una pequeña <b>basílica paleocristiana</b> de los <b>siglos V-VI</b>, de la época de Justiniano. La descubrió un labrador, Toni Cadona, «es pagès des Fornàs», y la estudió después la arqueóloga María Lluïsa Serra.</p><p>Lo extraordinario es su <b>mosaico</b> del siglo VI, que cubre casi toda la nave en tres tapices: motivos geométricos, <b>aves</b> que evocan el paraíso y <b>dos leones junto a una palmera</b>, símbolo del árbol de la vida.</p><p>Se reconoce bien la planta, quedan restos de la mesa del altar y, al norte, una pila bautismal semiesférica de piedra y mortero. Una malla metálica protege el mosaico.</p>"
+   },
+   "ver_alli": [
+    "El mosaico de los leones y la palmera.",
+    "La pila bautismal semiesférica.",
+    "El poblado de Talatí de Dalt está a poco más de 1 km."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Bas%C3%ADlica_des_Forn%C3%A0s_de_Torell%C3%B3",
+    "https://www.google.com/maps/place/?q=place_id:ChIJl6RCCHqIlRIR5ReKMHyOQ9o",
+    "https://www.openstreetmap.org/?mlat=39.8832&mlon=4.2234#map=18/39.8832/4.2234"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "dalt-vila",
+   "nombre": "Dalt Vila",
+   "provincia": "Illes Balears",
+   "comarca": "Eivissa (Ibiza)",
+   "lat": 38.9067,
+   "lon": 1.4366,
+   "tipo": "poblacion",
+   "estilo": "Fortificación renacentista abaluartada",
+   "epoca": "Renacimiento",
+   "anio": 1555,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Dalt Vila es la ciudad alta de Ibiza. Lo que hoy la define son sus <b>murallas renacentistas</b>: en tiempos de Carlos V y Felipe II se encerró en un heptágono irregular con <b>siete baluartes</b>, uno en cada vértice, para defenderla de la artillería y de los ataques turcos.</p><p>La obra empezó en <b>1555</b> con el ingeniero italiano <b>Giovanni Battista Calvi</b>, que levantó los primeros baluartes, y desde 1575 la continuó <b>Jacobo Paleazzo, «el Fratín»</b>, que cambió la entrada principal. Esa puerta, el <b>Portal de ses Taules</b>, lleva una inscripción de <b>1585</b> y está flanqueada por dos estatuas romanas (copias; los originales están en el museo).</p><p>Dentro, unos 70.000 m² de calles empinadas suben hasta la <b>catedral de Santa María de las Nieves</b> y el baluarte de Santa Tecla, el punto más alto. Desde <b>1999</b> Dalt Vila es Patrimonio Mundial dentro de «Ibiza, biodiversidad y cultura».</p>"
+   },
+   "ver_alli": [
+    "Entrar por el Portal de ses Taules, a unos 180 m de la catedral, con sus estatuas romanas.",
+    "Recorrer el paseo de ronda entre baluartes, con vistas al puerto.",
+    "Subir hasta la plaza de la catedral, en lo más alto."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Dalt_Vila",
+    "https://www.illesbalears.travel/en/ibiza/historical-complex-dalt-vila",
+    "https://www.google.com/maps/place/?q=place_id:ChIJdQ_YCilHmRIR5oGBuvSQXNs",
+    "https://www.google.com/maps/place/?q=place_id:ChIJOfuyqbFGmRIR7TB8N1d_r4E",
+    "https://www.openstreetmap.org/?mlat=38.9067&mlon=1.4366#map=18/38.9067/1.4366"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-puig-de-missa",
+   "nombre": "Iglesia del Puig de Missa",
+   "provincia": "Illes Balears",
+   "comarca": "Santa Eulària des Riu (Ibiza)",
+   "lat": 38.984,
+   "lon": 1.5291,
+   "tipo": "iglesia",
+   "estilo": "Iglesia fortificada",
+   "epoca": "Renacimiento",
+   "anio": 1568,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>En lo alto del Puig de Missa, una colina de 52 metros sobre Santa Eulària des Riu, se alza esta iglesia blanca de aspecto de fortaleza. Se construyó en el <b>siglo XVI</b>, sobre un templo anterior, y se consagró en <b>1568</b>: sus muros encalados y sin adornos aún delatan su carácter defensivo.</p><p>La nave parece ser la original. A finales del siglo XVII y comienzos del XVIII se añadieron las capillas y el gran <b>porche</b> de arcos de la entrada; su amplitud se explica porque era el lugar de reunión de una población rural muy dispersa. Fue parroquia desde 1785.</p><p>Dentro destaca el <b>retablo mayor barroco</b>, de 1674-1678, obra del escultor José Ferreres, traído en el siglo XX desde San Millán (Segovia).</p>"
+   },
+   "ver_alli": [
+    "El porche de arcos de la entrada.",
+    "El retablo barroco traído de Segovia.",
+    "Las vistas sobre Santa Eulària y el mar desde la explanada."
+   ],
+   "fuentes": [
+    "https://www.illesbalears.travel/en/ibiza/church-santa-eularia-puig-de-missa",
+    "https://www.google.com/maps/place/?q=place_id:ChIJV_MlHk4VmRIRSjqXAir577o",
+    "https://www.openstreetmap.org/?mlat=38.984&mlon=1.5291#map=18/38.984/1.5291"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-sant-jordi-ses-salines",
+   "nombre": "Iglesia fortificada de Sant Jordi de ses Salines",
+   "provincia": "Illes Balears",
+   "comarca": "Sant Josep de sa Talaia (Ibiza)",
+   "lat": 38.8911,
+   "lon": 1.396,
+   "tipo": "iglesia",
+   "estilo": "Iglesia fortificada",
+   "epoca": "Gótico",
+   "anio": 1469,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Cerca de las salinas de Ibiza, esta iglesia es una de las <b>cuatro primeras iglesias-fortaleza</b> de la isla y la mejor conservada de todas. Se documenta por primera vez en <b>1469</b>, cuando probablemente aún estaba en obras, y antes del siglo XVI ya tenía una torre defensiva.</p><p>Sus muros en talud y sus <b>almenas</b> le dan un marcado carácter militar. En origen fue una capilla para los trabajadores de las salinas y los vecinos de la zona. Las capillas laterales se añadieron en el siglo XVII y el interior se reformó en el XIX; desde 1785 es parroquia.</p><p>Por dentro tiene una sola nave dividida por dos arcos, una capilla con cúpula, zócalos de azulejo valenciano y una <b>pila bautismal de 1732</b>, tallada en una sola piedra por el escultor mallorquín Joan Coll.</p>"
+   },
+   "ver_alli": [
+    "La fachada encalada con las almenas en lo alto.",
+    "La pila bautismal de una sola pieza.",
+    "Las salinas cercanas, cuyos trabajadores fueron sus primeros fieles."
+   ],
+   "fuentes": [
+    "https://illesbalears.travel/en/ibiza/church-sant-jordi-de-ses-salines",
+    "https://www.google.com/maps/place/?q=place_id:ChIJg9piT9dFmRIRCYdYq36m8k4",
+    "https://www.openstreetmap.org/?mlat=38.8911&mlon=1.396#map=18/38.8911/1.396"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "ca-na-costa",
+   "nombre": "Sepulcro megalítico de Ca na Costa",
+   "provincia": "Illes Balears",
+   "comarca": "Formentera",
+   "lat": 38.7265,
+   "lon": 1.4458,
+   "tipo": "yacimiento",
+   "estilo": "Megalítico",
+   "epoca": "Edad del Bronce",
+   "anio": -2000,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Entre el Estany Pudent y Es Pujols, dentro del parque natural de ses Salines, está el <b>monumento prehistórico más destacado de Formentera</b>, conocido en la isla como «es Rellotge». Es un sepulcro colectivo de la Edad del Bronce, usado probablemente entre el <b>2000 y el 1600 a. C.</b>, y se considera el megalito más antiguo de las Baleares.</p><p>Tiene una <b>cámara funeraria</b> de grandes losas en medio del corredor de entrada, rodeada por <b>tres anillos</b> de piedras con elementos radiales que le dan forma de estrella. Dentro se hallaron los restos de <b>ocho personas</b>, seis hombres y dos mujeres, con botones, cuentas y cerámica.</p><p>Se descubrió y excavó entre <b>1974 y 1977</b>, y cambió la historia de la isla: hasta entonces se creía que Formentera no se había poblado hasta la época púnica.</p>"
+   },
+   "ver_alli": [
+    "La cámara central de grandes losas.",
+    "Los anillos concéntricos que dan al sepulcro su aspecto de reloj.",
+    "El Estany Pudent, la laguna salada junto al yacimiento."
+   ],
+   "fuentes": [
+    "https://www.formentera.es/en/places-of-interest/archeology/sepulcro-megalitico-de-ca-na-costa",
+    "https://www.illesbalears.travel/en/formentera/archaeological-site-sepulcre-megalitic-de-ca-na-costa",
+    "https://www.google.com/maps/place/?q=place_id:ChIJAzHm9KpemRIRyhrj4rAbJR8",
+    "https://www.openstreetmap.org/?mlat=38.7265&mlon=1.4458#map=18/38.7265/1.4458"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castellum-de-can-blai",
+   "nombre": "Castellum romano de Can Blai",
+   "provincia": "Illes Balears",
+   "comarca": "Formentera",
+   "lat": 38.6817,
+   "lon": 1.4974,
+   "tipo": "yacimiento",
+   "estilo": "Fortín romano bajoimperial",
+   "epoca": "Romano",
+   "anio": 300,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>En el punto más alto del istmo que une La Mola con el resto de Formentera, los romanos levantaron un pequeño fuerte <b>entre finales del siglo III y comienzos del IV d. C.</b> Desde allí se dominaban las dos costas de la isla.</p><p>Es un recinto <b>cuadrado de unos 40 metros de lado</b> con <b>cinco torres</b> salientes, cuatro en las esquinas y una quinta en el muro noroeste que, junto con la torre norte, defendía la única entrada. Hoy se conservan los cimientos de muros y torres, de sillares bien cortados unidos con mortero.</p><p>Se excavó en los años setenta y ochenta. Como apenas hay huellas de ocupación y un tramo del muro sureste carece de cimientos, varios investigadores creen que <b>nunca llegó a terminarse</b> ni a usarse, aunque otros lo discuten. Es Bien de Interés Cultural desde 1994.</p>"
+   },
+   "ver_alli": [
+    "La planta completa del fuerte, con las bases de las cinco torres.",
+    "Los sillares de la base, en algunos de los cuales se ven aún las marcas de sierra.",
+    "Las vistas sobre las dos costas de Formentera."
+   ],
+   "fuentes": [
+    "https://www.formentera.es/en/places-of-interest/archeology/castillo-romano-de-can-blai",
+    "https://www.illesbalears.travel/en/formentera/archaeological-site-castellum-can-blai",
+    "https://www.cepam.cnrs.fr/sites/can-blai/?p=16",
+    "https://www.google.com/maps/place/?q=place_id:ChIJf7gEbLRfmRIRaLDOV9M7dWc",
+    "https://www.openstreetmap.org/?mlat=38.6817&mlon=1.4974#map=18/38.6817/1.4974"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "puig-des-molins",
+   "campos": {
+    "lat": 38.9071,
+    "lon": 1.4292,
+    "estilo": "Necrópolis fenicio-púnica de hipogeos",
+    "texto": {
+     "general": "<p>En la ladera del Puig des Molins, a las afueras de la antigua Ibiza, los <b>fenicios</b> empezaron a enterrar a sus muertos en el <b>siglo VII a. C.</b>, y el cementerio siguió en uso con los púnicos y después con los romanos, hasta la Antigüedad tardía. De época púnica se conocen <b>unas 3.000 tumbas</b>, en su mayoría hipogeos: cámaras excavadas en la roca a las que se baja por un pozo vertical.</p><p>Es una de las necrópolis fenicio-púnicas mejor conservadas del Mediterráneo. Desde <b>1999</b> forma parte del Patrimonio Mundial «Ibiza, biodiversidad y cultura», junto con Dalt Vila, el poblado de Sa Caleta y las praderas de posidonia. Hoy el recinto arqueológico ocupa unas 5 hectáreas.</p><p>El <b>Museo Monográfico</b>, junto a la necrópolis, abrió en 1966; cerró en 1995 y reabrió en <b>2012</b> tras una reforma completa. Sus salas recorren los ritos funerarios fenicios, púnicos y romanos, y su pieza estrella es el <b>busto de la diosa Tanit</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>La idea de un museo para la arqueología ibicenca se planteó el 8 de octubre de 1929, durante la visita del rey Alfonso XIII; la necrópolis se protegió como monumento en 1931.</p>"
+    },
+    "ver_alli": [
+     "Bajar a alguno de los hipogeos visitables para ver cómo eran las cámaras funerarias excavadas en la roca.",
+     "En el museo, el busto de Tanit y los ajuares de las tumbas fenicias y púnicas.",
+     "Dalt Vila, la ciudad amurallada, está a unos 650 m subiendo hacia el puerto."
+    ],
+    "fuentes": [
+     "https://whc.unesco.org/en/list/417/",
+     "https://en.wikipedia.org/wiki/Puig_des_Molins",
+     "https://www.google.com/maps/place/?q=place_id:ChIJq1PwZ7tGmRIR2SeKsTFOnAc",
+     "https://www.openstreetmap.org/?mlat=38.9071&mlon=1.4292#map=18/38.9071/1.4292"
+    ]
+   }
+  },
+  {
+   "id": "sa-caleta",
+   "campos": {
+    "lat": 38.8669,
+    "lon": 1.3348,
+    "estilo": "Poblado fenicio arcaico",
+    "texto": {
+     "general": "<p>En la pequeña península de sa Mola de sa Caleta, entre la playa des Codolar y el Puig des Jondal, está el <b>primer asentamiento fenicio conocido de Ibiza</b>. Sus orígenes podrían remontarse al <b>siglo VIII a. C.</b>, y a mediados del siglo VII creció con la llegada de fenicios procedentes de la península ibérica.</p><p>Era un poblado apretado, de calles estrechas y pequeñas plazas irregulares. Se han identificado la plataforma de lo que probablemente fue un <b>horno comunal para el pan</b>, almacenes y posibles <b>hornos metalúrgicos</b>; a su izquierda había un pequeño puerto. Se abandonó de forma pacífica hacia el <b>590 a. C.</b>, cuando sus habitantes se trasladaron a la bahía de Ibiza, donde nació la ciudad fenicia.</p><p>Descubierto en los años ochenta y excavado hasta principios de los noventa, es Patrimonio Mundial desde <b>1999</b>. El Consell d'Eivissa compró el terreno en 2010 y en abril de 2025 se inauguró su musealización.</p>"
+    },
+    "ver_alli": [
+     "El trazado de calles y casas del poblado, conservado tal cual porque no tuvo ocupaciones posteriores.",
+     "Los restos del horno comunal y de las estructuras metalúrgicas.",
+     "La pequeña cala junto al cabo, donde estuvo el puerto fenicio."
+    ],
+    "fuentes": [
+     "https://whc.unesco.org/en/list/417/",
+     "https://illesbalears.travel/en/ibiza/archaeological-site-poblat-fenici-de-sa-caleta",
+     "https://www.periodicodeibiza.es/pitiusas/aldia/2025/04/19/2370037/caleta-mejor-lugar-ibiza-para-entender-somos-donde-venimos.html",
+     "https://www.google.com/maps/place/?q=place_id:ChIJRT2_HRtPmRIRVGd-cUgXXSg",
+     "https://www.openstreetmap.org/?mlat=38.8669&mlon=1.3348#map=18/38.8669/1.3348"
+    ]
+   }
+  },
+  {
+   "id": "pollentia",
+   "campos": {
+    "lat": 39.8497,
+    "lon": 3.1215,
+    "estilo": "Ciudad romana",
+    "texto": {
+     "general": "<p>Pollentia fue la gran ciudad romana de Mallorca. Los autores clásicos atribuyen su fundación al cónsul <b>Quinto Cecilio Metelo</b> tras la conquista de las Baleares en el <b>123 a. C.</b>, aunque las excavaciones sitúan la ciudad que vemos <b>hacia el 80-70 a. C.</b> En su apogeo superó las <b>18 hectáreas</b>, unas tres veces la Alcúdia actual.</p><p>Hoy se visitan tres zonas: el <b>foro</b>, excavado desde 1980; el barrio residencial de <b>Sa Portella</b>, con casas de patio; y, a las afueras, el pequeño <b>teatro</b>, excavado en los años cincuenta, con las gradas talladas en la roca.</p><p>El yacimiento se conoce desde el siglo XVII y las excavaciones sistemáticas empezaron en <b>1923</b>, con Gabriel Llabrés y Rafael Isasi. Se considera un prototipo de ciudad romana de provincias.</p>"
+    },
+    "ver_alli": [
+     "El teatro, al fondo del recorrido: es fácil pasarlo por alto si no se baja hasta el final.",
+     "Las calles y casas de Sa Portella y los restos del foro.",
+     "El Museo Monográfico de Pollentia está a unos 250 m, ya dentro del casco antiguo de Alcúdia."
+    ],
+    "fuentes": [
+     "https://www.seemallorca.com/castles/roman-remains-of-pollentia-alcudia-663806",
+     "https://es.wikipedia.org/wiki/Pollentia",
+     "https://www.google.com/maps/place/?q=place_id:ChIJH7GrHpkslhIRVhmsKdu1Io0",
+     "https://www.openstreetmap.org/?mlat=39.8497&mlon=3.1215#map=18/39.8497/3.1215"
+    ]
+   }
+  },
+  {
+   "id": "sanisera",
+   "campos": {
+    "lat": 40.0696,
+    "lon": 4.0876,
+    "estilo": "Ciudad romana y basílicas paleocristianas",
+    "texto": {
+     "general": "<p>En el puerto natural de <b>Sanitja</b>, junto al cabo de Cavalleria, el ejército romano instaló un enclave militar durante la conquista de las Baleares, en el <b>123 a. C.</b>; el campamento se usó hasta hacia el 45 a. C. A su alrededor creció un núcleo civil que se convirtió en la ciudad de <b>Sanisera</b>, una de las tres de Menorca que cita <b>Plinio el Viejo</b> (con Iamo y Mago).</p><p>La ciudad vivió su mejor época entre los siglos I y III d. C. y se ocupó hasta el siglo VI. Se han hallado <b>dos basílicas paleocristianas</b>: una de finales del siglo IV o comienzos del V, de tres naves y ábside, excavada en 1985-1987, y otra descubierta en 2010, de hacia el siglo VI.</p><p>El puerto es también un yacimiento submarino: desde los años setenta se han recuperado ánforas romanas, y las prospecciones con sónar localizaron trece concentraciones de ánforas y cinco anclas.</p>"
+    },
+    "ver_alli": [
+     "Los restos excavados junto a la orilla del puerto de Sanitja, con muros de edificios romanos.",
+     "La forma cerrada del puerto, que explica por qué los romanos eligieron este lugar.",
+     "Excavación en curso: conviene informarse antes de ir sobre las condiciones de visita."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Sanisera",
+     "https://es.wikipedia.org/wiki/Sanisera",
+     "https://www.google.com/maps/place/?q=place_id:ChIJJfiHcbUivhIR2WC5KA9Jz2c",
+     "https://www.openstreetmap.org/?mlat=40.0696&mlon=4.0876#map=18/40.0696/4.0876"
+    ]
+   }
+  },
+  {
+   "id": "son-bou",
+   "campos": {
+    "lat": 39.8961,
+    "lon": 4.0789,
+    "tipo": "yacimiento",
+    "estilo": "Paleocristiano",
+    "texto": {
+     "general": "<p>Al final de la playa de Son Bou, a pocos pasos del mar, se conservan las ruinas de una <b>basílica paleocristiana de los siglos V-VI</b>. Es un edificio rectangular orientado de este a oeste, de <b>21 por 11 metros</b>, con tres naves separadas por columnas y un pórtico de entrada.</p><p>Su pieza más llamativa es la <b>pila bautismal</b>, en el lado izquierdo de la nave: un monolito que por fuera es un cilindro y por dentro tiene <b>forma de cruz</b>. Fuera del templo hay una necrópolis de tumbas excavadas en la roca.</p><p>Las excavaciones han continuado hasta hace poco: en 2022 aparecieron nuevas tumbas islámicas y una romana de finales del siglo VI o del VII, y se tomaron muestras para datar por carbono 14 el pavimento original.</p>"
+    },
+    "ver_alli": [
+     "La pila bautismal cilíndrica con el interior en cruz.",
+     "La planta de tres naves, bien legible desde el exterior del recinto.",
+     "Las tumbas talladas en la roca alrededor de la basílica."
+    ],
+    "fuentes": [
+     "https://visitmenorca.com/menorca/basilica-paleocristiana-de-son-bou-3/",
+     "https://www.menorca.info/menorca/cultura/2022/11/30/1838029/nou-tombes-moneda-del-rei-sanc-son-bou.html",
+     "https://www.google.com/maps/place/?q=place_id:ChIJay-3kbCKlRIRyyO13KXE4Yo",
+     "https://www.openstreetmap.org/?mlat=39.8961&mlon=4.0789#map=18/39.8961/4.0789"
+    ],
+    "epoca": "Antigüedad tardía"
+   }
+  },
+  {
+   "id": "son-pereto",
+   "campos": {
+    "lat": 39.5965,
+    "lon": 3.2652,
+    "estilo": "Paleocristiano",
+    "texto": {
+     "general": "<p>A unos kilómetros de Manacor, junto a la carretera de Sant Llorenç, se encuentra uno de los grandes conjuntos de la <b>Antigüedad tardía</b> en Mallorca (siglos V-VII): una <b>basílica</b>, viviendas adosadas y una necrópolis.</p><p>La basílica mide <b>21 por 14 metros</b> y tiene tres naves separadas por dos filas de columnas, con un santuario para el altar en la cabecera. Al lado está el <b>baptisterio, con dos pilas bautismales</b>. Su arquitectura, de la segunda mitad del siglo V, muestra influencias sirio-palestinas y norteafricanas.</p><p>Los restos los sacó a la luz desde <b>1912</b> el clérigo Joan Aguiló, y en 1931 se declaró monumento. Sus <b>mosaicos</b> del siglo VI, con aves, palmeras y la lápida de <b>Baleria</b>, se exponen en el Museo de Historia de Manacor.</p>"
+    },
+    "ver_alli": [
+     "La planta de la basílica y la doble pila del baptisterio.",
+     "Los paneles reconstruyen cómo era el conjunto.",
+     "Los mosaicos originales están en el Museo de Historia de Manacor, a unos 6 km."
+    ],
+    "fuentes": [
+     "https://www.mallorca.com/es/guia/lugares-de-interes/son-pereto",
+     "https://es.hispanopedia.com/wiki/Bas%C3%ADlica_de_Son_Peret%C3%B3",
+     "https://visitmanacor.com/en/?p=1184",
+     "https://www.google.com/maps/place/?q=place_id:ChIJkeXttlBHlhIR7B811MKKM60",
+     "https://www.openstreetmap.org/?mlat=39.5965&mlon=3.2652#map=18/39.5965/3.2652"
+    ],
+    "epoca": "Antigüedad tardía"
+   }
+  },
+  {
+   "id": "catedral-de-mallorca",
+   "campos": {
+    "lat": 39.5674,
+    "lon": 2.6482,
+    "estilo": "Gótico levantino",
+    "texto": {
+     "general": "<p>La Seu se levanta junto al mar sobre la antigua mezquita de Madina Mayurqa, que <b>Jaime I</b> mandó sustituir tras la conquista de 1229. Las obras se alargaron siglos: en 1346 se consagró, pero no se dio por terminada hasta <b>1601</b>, cuando Miquel Verger acabó el portal mayor.</p><p>Es una obra maestra del <b>gótico levantino</b>, con una nave central cubierta por bóvedas de unos 44 metros de altura. Su <b>rosetón mayor</b> roza los 14 metros de diámetro (13,8 según algunas mediciones) y llena la nave de luz de colores por la mañana.</p><p>Entre <b>1904 y 1914</b> Antoni <b>Gaudí</b> dirigió una reforma del interior, y entre <b>2001 y 2006</b> Miquel <b>Barceló</b> renovó por completo la capilla de San Pedro.</p>"
+    },
+    "ver_alli": [
+     "El rosetón mayor y las vidrieras, mejor con el sol de la mañana.",
+     "El presbiterio reformado por Gaudí y la capilla de San Pedro de Miquel Barceló.",
+     "Por fuera, los contrafuertes y arbotantes vistos desde el Parc de la Mar."
+    ],
+    "fuentes": [
+     "https://catedraldemallorca.org/en/visits/opening-hours/",
+     "https://es.wikipedia.org/wiki/Catedral_de_Santa_Mar%C3%ADa_de_Palma_de_Mallorca",
+     "https://www.google.com/maps/place/?q=place_id:ChIJVY-vfUWSlxIRqoH9muibDFQ",
+     "https://www.openstreetmap.org/?mlat=39.5674&mlon=2.6482#map=18/39.5674/2.6482"
+    ]
+   }
+  },
+  {
+   "id": "castell-de-bellver",
+   "campos": {
+    "lat": 39.5639,
+    "lon": 2.6191,
+    "estilo": "Gótico",
+    "texto": {
+     "general": "<p>Sobre un monte de 112 metros que domina la bahía de Palma, <b>Jaime II de Mallorca</b> mandó levantar este castillo a principios del siglo XIV. La obra principal la dirigió el arquitecto <b>Pere Salvà</b> entre <b>1300 y 1311</b>.</p><p>Es uno de los pocos castillos de <b>planta circular</b> de Europa: circulares son la muralla, el patio interior y las tres torres adosadas. La <b>torre del homenaje</b>, también redonda, se alza separada del resto, y dos fosos rodean castillo y torre.</p><p>Durante siglos fue prisión. Su preso más ilustre fue <b>Gaspar Melchor de Jovellanos</b>, encerrado entre 1802 y 1808, que escribió la primera descripción del castillo; en 1817 fue fusilado allí el general Lacy. En 1931 pasó al Ayuntamiento de Palma y hoy alberga el <b>Museo de Historia de la Ciudad</b>, inaugurado en 1976.</p>"
+    },
+    "ver_alli": [
+     "El patio circular, el corazón del castillo.",
+     "La torre del homenaje, exenta y rodeada por su propio foso.",
+     "Las vistas de Palma y la bahía desde la terraza superior."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Bellver",
+     "https://www.google.com/maps/place/?q=place_id:ChIJd7Q-FHGSlxIRof_ZMNOu1sg",
+     "https://www.openstreetmap.org/?mlat=39.5639&mlon=2.6191#map=18/39.5639/2.6191"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-la-almudaina",
+   "campos": {
+    "lat": 39.5678,
+    "lon": 2.647,
+    "estilo": "Islámico y gótico",
+    "texto": {
+     "general": "<p>Frente a la catedral, la Almudaina fue la <b>residencia fortificada de los gobernantes islámicos</b> de Madina Mayurqa, la «Zuda». Tras la conquista cristiana de <b>1229</b> pasó a los reyes de Mallorca.</p><p>Desde finales del siglo XIII los reyes la transformaron en <b>palacio gótico</b>: <b>Jaime II</b> la reedificó a partir de 1309, junto a su esposa Esclaramunda de Foix, según el modelo del palacio de Perpiñán, y las obras siguieron hasta 1343. De entonces son los palacios del rey y de la reina, los baños, el gran salón o <b>Tinell</b> y la capilla gótica de <b>Santa Ana</b>, con bóveda de crucería.</p><p>Felipe II destinó el Tinell a sede de la Real Audiencia. Hoy lo gestiona <b>Patrimonio Nacional</b> y sigue siendo residencia oficial del Rey en Mallorca, usada para recepciones y actos oficiales.</p>"
+    },
+    "ver_alli": [
+     "La capilla gótica de Santa Ana.",
+     "El gran salón del Tinell y los tapices flamencos.",
+     "Las vistas del Parc de la Mar y la bahía desde los patios."
+    ],
+    "fuentes": [
+     "https://tickets.patrimonionacional.es/en/tickets/142760?city=PMI",
+     "https://es.wikipedia.org/wiki/Palacio_de_la_Almudaina",
+     "https://www.mallorca.com/es/guia/lugares-de-interes/palau-de-lalmudaina",
+     "https://www.google.com/maps/place/?q=place_id:ChIJM5rz50-SlxIRAKmKCnbiDBk",
+     "https://www.openstreetmap.org/?mlat=39.5678&mlon=2.647#map=18/39.5678/2.647"
+    ]
+   }
+  },
+  {
+   "id": "banos-arabes-de-palma",
+   "campos": {
+    "lat": 39.5667,
+    "lon": 2.651,
+    "estilo": "Islámico",
+    "texto": {
+     "general": "<p>En el barrio antiguo de Palma, junto a la calle de Can Serra, se conservan unos de los pocos restos en pie de la <b>Madina Mayurqa</b> islámica: unos baños que suelen fecharse hacia el <b>siglo XI</b> y que probablemente formaban parte de la casa de una familia acomodada.</p><p>Quedan dos salas. La principal, de planta cuadrada, era la sala caliente (<b>caldarium</b>), con el aire caliente circulando bajo el suelo: <b>doce columnas</b> sostienen una <b>cúpula</b> con pequeñas aberturas para la luz y el vapor. Las columnas no son iguales: fustes y capiteles se reaprovecharon de edificios más antiguos, algunos romanos.</p><p>Los baños se encuentran en el antiguo huerto de la casa señorial de <b>Can Fontirroig</b>, hoy un jardín de palmeras y naranjos.</p>"
+    },
+    "ver_alli": [
+     "La cúpula con sus pequeños lucernarios.",
+     "Las columnas, cada una con un capitel distinto.",
+     "El jardín, un rincón tranquilo en pleno casco antiguo."
+    ],
+    "fuentes": [
+     "https://www.mallorca.com/es/guia/lugares-de-interes/banys-arabs",
+     "https://www.historyhit.com/locations/banys-arabs/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJndGFAk-SlxIRDU-2aR3lAX0",
+     "https://www.openstreetmap.org/?mlat=39.5667&mlon=2.651#map=18/39.5667/2.651"
+    ]
+   }
+  },
+  {
+   "id": "sa-llotja-de-palma",
+   "campos": {
+    "lat": 39.5684,
+    "lon": 2.6443,
+    "estilo": "Gótico civil",
+    "anio": 1426,
+    "texto": {
+     "general": "<p>La Lonja de Palma fue la sede del <b>Colegio de Mercaderes</b>, el lugar donde se cerraban los negocios del puerto. Se construyó entre <b>1426 y 1452</b> según el proyecto de <b>Guillem Sagrera</b>, uno de los grandes arquitectos del gótico mediterráneo.</p><p>Por dentro es una sola sala de <b>cuatro naves de igual altura</b> separadas por <b>seis columnas helicoidales</b>, sin base ni capitel, que se abren en las nervaduras de la bóveda como si fueran palmeras. Sobre la puerta principal, orientada al este, hay un <b>ángel custodio</b> con la leyenda «defenedor de la Mercancía».</p><p>Sagrera dejó la obra tras un pleito con los mercaderes y se marchó a Nápoles en 1447, donde trabajó en el Castel Nuovo. Hoy la Lonja acoge exposiciones temporales.</p>"
+    },
+    "ver_alli": [
+     "Las columnas helicoidales que se abren en la bóveda como palmeras.",
+     "El ángel custodio sobre la puerta principal.",
+     "Las escaleras de caracol de las esquinas, que suben a la terraza."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Lonja_de_Palma_de_Mallorca",
+     "https://www.google.com/maps/place/?q=place_id:ChIJAfqYmkSSlxIRWXTSSNAP8Qg",
+     "https://www.openstreetmap.org/?mlat=39.5684&mlon=2.6443#map=18/39.5684/2.6443"
+    ]
+   }
+  },
+  {
+   "id": "cartuja-de-valldemossa",
+   "campos": {
+    "lat": 39.709,
+    "lon": 2.6221,
+    "estilo": "Neoclásico (iglesia)",
+    "texto": {
+     "general": "<p>A más de 400 metros de altitud en la sierra de Tramuntana, <b>Jaime II de Mallorca</b> eligió este lugar para levantar un palacio para su hijo Sancho. En <b>1399</b> el rey Martín el Humano cedió las posesiones reales de Valldemossa a los <b>cartujos</b>, que vivieron aquí hasta 1835.</p><p>La iglesia actual, de estilo <b>neoclásico</b>, se empezó en <b>1751</b> sobre otra de 1446. El recorrido incluye celdas de los monjes y la antigua <b>farmacia</b> de los cartujos.</p><p>Con la desamortización de 1835 las celdas pasaron a particulares y se alquilaron. En el invierno de <b>1838-1839</b> vivieron en una de ellas <b>Chopin</b> y <b>George Sand</b>: él terminó allí sus Preludios op. 28 y ella escribió <i>Un invierno en Mallorca</i>.</p>"
+    },
+    "ver_alli": [
+     "La antigua farmacia de los cartujos.",
+     "Las celdas con recuerdos de Chopin y George Sand.",
+     "La iglesia neoclásica y las vistas de la sierra de Tramuntana."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Cartuja_de_Valldemosa",
+     "https://www.google.com/maps/place/?q=place_id:ChIJEZNqYQHulxIRrKGEJCErWFo",
+     "https://www.openstreetmap.org/?mlat=39.709&mlon=2.6221#map=18/39.709/2.6221"
+    ]
+   }
+  },
+  {
+   "id": "fuerte-de-marlborough",
+   "campos": {
+    "lat": 39.863,
+    "lon": 4.3015,
+    "estilo": "Fortificación abaluartada del siglo XVIII",
+    "texto": {
+     "general": "<p>En la cala de Sant Esteve, en la orilla sur de la bocana del puerto de Maó, los <b>británicos</b> construyeron este pequeño fuerte <b>entre 1720 y 1726</b>, cuando Menorca era suya. Lleva el nombre de John Churchill, <b>duque de Marlborough</b>, el general británico más famoso de la época. Junto con el castillo de Sant Felip y la torre d'en Penjat protegía la entrada del puerto.</p><p>Su recinto central es un <b>heptágono</b> excavado en un gran foso tallado en la roca. Lo rodea una <b>galería de contraescarpa</b> con aspilleras para disparar contra quien entrara en el foso, y unos túneles llevan a las <b>contraminas</b>: pozos con pólvora que se hacían estallar para hundir las galerías de los sitiadores.</p><p>Los españoles lo destruyeron en parte en <b>1782</b> y los británicos lo rehicieron en su último dominio (1798-1802). Hoy es un museo que explica la Menorca británica con una recreación de un asedio.</p>"
+    },
+    "ver_alli": [
+     "La galería subterránea que rodea el foso, con sus aspilleras.",
+     "Los túneles de las contraminas.",
+     "Las vistas de la bocana del puerto de Maó desde la parte alta."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Fuerte_de_Marlborough",
+     "https://www.descobreixmenorca.com/en/?p=14038",
+     "https://en.arabalears.cat/sports/excursions/cala-sant-esteve-the-achilles-heel-of-the-port-of-mahon_3_5519429.html",
+     "https://www.google.com/maps/place/?q=place_id:ChIJq6qqHyeHlRIRU1khmSBuPP4",
+     "https://www.openstreetmap.org/?mlat=39.863&mlon=4.3015#map=18/39.863/4.3015"
+    ]
+   }
+  },
+  {
+   "id": "ses-paisses",
+   "campos": {
+    "lat": 39.6873,
+    "lon": 3.3546,
+    "estilo": "Talayótico",
+    "texto": {
+     "general": "<p>A las afueras de Artà, Ses Païsses es uno de los <b>poblados talayóticos mejor conservados de Mallorca</b>. Se habitó desde hacia el <b>1100 a. C.</b> hasta el siglo I d. C., ya en época romana, y ocupa una superficie elíptica de unos <b>13.500 m²</b>.</p><p>Lo rodea una <b>muralla de unos 320 metros</b> de perímetro y hasta 3,5 m de altura, levantada entre el 640 y el 540 a. C. con bloques que en algunos casos pesan hasta 8 toneladas. Tenía tres puertas; la del sureste, con su corredor cubierto de losas de unos 4,3 m, es la más monumental.</p><p>En el centro se alza el <b>talayot</b>, de unos 12 metros de diámetro, que probablemente tuvo una función simbólica o ritual. A su alrededor quedan las casas y una sala hipóstila con pilastras y columnas.</p>"
+    },
+    "ver_alli": [
+     "La puerta sureste, con sus grandes bloques y el corredor cubierto.",
+     "El recorrido junto a la muralla ciclópea.",
+     "El talayot central y las casas que lo rodean."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Ses_Pa%C3%AFsses_de_Art%C3%A1",
+     "https://www.google.com/maps/place/?q=place_id:ChIJHTsf3h08lhIRVpYt9rQ23cc",
+     "https://www.openstreetmap.org/?mlat=39.6873&mlon=3.3546#map=18/39.6873/3.3546"
+    ]
+   }
+  },
+  {
+   "id": "capocorb",
+   "campos": {
+    "estilo": "Talayótico",
+    "texto": {
+     "general": "<p>Cerca de la costa de Llucmajor, Capocorb Vell es uno de los <b>grandes poblados talayóticos de Mallorca</b>, de la transición entre el Bronce final y la Edad del Hierro.</p><p>Conserva <b>cinco talayots</b>, dos cuadrados y tres circulares, alineados de nordeste a suroeste; el circular de la entrada mide cerca de <b>siete metros</b> de altura. Entre ellos se alinean <b>28 viviendas</b> rectangulares, y algo apartada hay una estancia mayor que probablemente fue un santuario.</p><p>Las primeras excavaciones científicas las dirigió <b>Josep Colominas</b>, por encargo del Institut d'Estudis Catalans, en la segunda década del siglo XX.</p>"
+    },
+    "ver_alli": [
+     "El talayot circular de la entrada, el más alto.",
+     "La hilera de viviendas entre los talayots.",
+     "La costa de Cap Blanc, a pocos kilómetros."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Poblado_prehist%C3%B3rico_de_Capocorb_Vell",
+     "https://www.wikidata.org/wiki/Q1034758",
+     "https://www.openstreetmap.org/?mlat=39.3976&mlon=2.8245#map=18/39.3976/2.8245"
+    ]
+   }
+  },
+  {
+   "id": "ses-antigors",
+   "campos": {
+    "lat": 39.33,
+    "lon": 3.0557,
+    "estilo": "Talayótico",
+    "texto": {
+     "general": "<p>El sur de Mallorca guarda varios poblados talayóticos. En <b>Els Antigors</b> (Ses Salines) se conservan <b>dos talayots</b>: Sa Talaia Joana, con su entrada y corredor, y otro en el interior del poblado, además de un tramo de unos <b>25 metros de muralla</b> que llega hasta una de las antiguas puertas, con su umbral. Lo excavó Josep Colominas en los años veinte y es Bien de Interés Cultural.</p><p>A unos 9 km, en Santanyí, está <b>ses Talaies de Can Jordi</b>, uno de los mayores poblados talayóticos de la isla, de unos <b>14.000 m²</b>. Habitado desde hacia el 1000 a. C. hasta la conquista romana (123 a. C.), conserva varios talayots y una muralla perimetral con un portal de dos piedras, la mayor de unas 4,8 toneladas.</p><p>Can Jordi se excava desde mediados de la década de 2010 en campañas de verano con voluntarios.</p>"
+    },
+    "ver_alli": [
+     "En Els Antigors, el talayot de Sa Talaia Joana y el tramo de muralla con la puerta.",
+     "En Can Jordi, a unos 9 km, el gran talayot circular y la muralla.",
+     "Los dos están en el campo, con pocos paneles: conviene llevar la ruta preparada."
+    ],
+    "fuentes": [
+     "https://www.mallorca.com/en/guide/sights/poblat-talaiotic-els-antigors",
+     "https://www.ultimahora.es/noticias/part-forana/2018/08/13/1019187/estudian-zonas-habitadas-del-yacimiento-ses-talaies-can-jordi.html",
+     "https://www.google.com/maps/place/?q=place_id:ChIJEVDsNgCrlxIRNSnB0FTydIA",
+     "https://www.google.com/maps/place/?q=place_id:ChIJYb8meHZTlhIRLszx2zgU36M",
+     "https://www.openstreetmap.org/?mlat=39.33&mlon=3.0557#map=18/39.33/3.0557"
+    ]
+   }
+  },
+  {
+   "id": "claper-gegant",
+   "campos": {
+    "lat": 39.6781,
+    "lon": 3.4317,
+    "estilo": "Talayótico",
+    "texto": {
+     "general": "<p>Entre Canyamel y las cuevas de Artà, en el término de Capdepera, se esconde este <b>poblado talayótico fortificado</b>. Su <b>talayot central</b>, atravesado por un corredor con varias estancias a su alrededor, y la <b>muralla</b> que lo rodea parecen de la misma fase de construcción.</p><p>La muralla encerraba unos <b>4.800 m²</b> y tenía varias puertas; se conserva un tramo al suroeste del talayot, con piedras dispuestas en hiladas horizontales. El poblado siguió en uso después de la época talayótica, hasta <b>época romana</b>.</p>"
+    },
+    "ver_alli": [
+     "El talayot central y su corredor.",
+     "El tramo de muralla al suroeste.",
+     "Se llega por un camino de tierra de unos 500 m; está en finca privada y rigen las normas de acceso señalizadas."
+    ],
+    "fuentes": [
+     "https://www.mallorca.com/en/guide/sights/claper-des-gegants",
+     "https://www.google.com/maps/place/?q=place_id:ChIJzwoKQ2kVlhIRQe6NetdNjO0",
+     "https://www.openstreetmap.org/?mlat=39.6781&mlon=3.4317#map=18/39.6781/3.4317"
+    ]
+   }
+  },
+  {
+   "id": "naveta-tudons",
+   "campos": {
+    "lat": 40.0031,
+    "lon": 3.8917,
+    "estilo": "Talayótico (naveta funeraria)",
+    "texto": {
+     "general": "<p>La Naveta des Tudons es el monumento prehistórico más famoso de Menorca: un <b>sepulcro colectivo</b> de grandes piedras sin argamasa con forma de <b>barco invertido</b>. Mide por fuera unos <b>14,5 m de largo, 6,5 de ancho y 4,5 de alto</b>, y en origen alcanzaría unos 6 metros.</p><p>Dentro tiene <b>dos cámaras superpuestas</b>: la inferior guardaba los huesos y la superior, mucho más baja, probablemente servía para el secado de los cadáveres. Se usó como osario entre hacia el <b>1200 y el 750 a. C.</b> Al excavarla en 1959-1960, Lluís Pericot halló restos de <b>al menos cien personas</b> y la restauró.</p><p>Desde <b>2023</b> forma parte del Patrimonio Mundial de los sitios prehistóricos de la Menorca talayótica, dentro de la zona de los Llanos de Ciutadella.</p><p class=\"dato\"><span>¿Sabías que…?</span>Una leyenda cuenta que dos gigantes compitieron por una muchacha: uno construyó la naveta y el otro excavó un pozo. Cuando el segundo dio con el agua, el constructor, celoso, le arrojó al pozo la última piedra que le faltaba a la naveta.</p>"
+    },
+    "ver_alli": [
+     "La fachada con la pequeña puerta de entrada.",
+     "Desde el lateral se aprecia la forma de nave invertida y el aparejo de piedras sin argamasa.",
+     "Torretrencada y Torrellafuda, otros dos poblados talayóticos, están a pocos kilómetros."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Naveta_d%27Es_Tudons",
+     "https://www.menorca.info/menorca/cultura/2023/09/18/2013119/menorca-talayotica-yacimientos-declaracion-patrimonio-mundial.html",
+     "https://whc.unesco.org/en/decisions/8405",
+     "https://www.google.com/maps/place/?q=place_id:ChIJAQAvpqYEvhIR2kw3BKvuU5E",
+     "https://www.openstreetmap.org/?mlat=40.0031&mlon=3.8917#map=18/40.0031/3.8917"
+    ]
+   }
+  },
+  {
+   "id": "torralba-salord",
+   "campos": {
+    "lat": 39.9125,
+    "lon": 4.1636,
+    "estilo": "Talayótico",
+    "texto": {
+     "general": "<p>Junto a la carretera de Alaior a Cala en Porter, Torralba d'en Salort fue un gran poblado talayótico habitado desde hacia el <b>1300 a. C.</b> hasta época romana, con restos que llegan a la Edad Media.</p><p>Su joya es la <b>taula</b>, de unos <b>5 metros de altura</b>, una de las más espectaculares de Menorca, en el centro de un recinto de culto en forma de herradura hecho con piedras muy bien talladas. Al excavarlo, Manuel Fernández-Miranda y William Waldren hallaron un altar con restos de una figura de caballo en bronce y el <b>«Toro de Torralba»</b>, hoy en el Museo de Menorca.</p><p>El poblado conserva también talayots, una <b>sala hipóstila</b> que mantiene la capa de tierra sobre su cubierta de piedra, cuevas funerarias y cisternas. Desde 2023 forma parte del Patrimonio Mundial de la Menorca talayótica.</p>"
+    },
+    "ver_alli": [
+     "La taula en su recinto de herradura.",
+     "La sala hipóstila con su cubierta de losas y tierra.",
+     "Las cuevas funerarias: una linterna ayuda para entrar."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Torralba_den_Salord",
+     "https://www.menorca.info/menorca/cultura/2023/09/18/2013119/menorca-talayotica-yacimientos-declaracion-patrimonio-mundial.html",
+     "https://www.google.com/maps/place/?q=place_id:ChIJORiR0VsnvhIR_C05mh7_Ww0",
+     "https://www.openstreetmap.org/?mlat=39.9125&mlon=4.1636#map=18/39.9125/4.1636"
+    ]
+   }
+  },
+  {
+   "id": "trepuco",
+   "campos": {
+    "lat": 39.8739,
+    "lon": 4.2658,
+    "estilo": "Talayótico",
+    "texto": {
+     "general": "<p>A las afueras de Maó, Trepucó es uno de los poblados talayóticos más conocidos de Menorca. Conserva <b>dos talayots</b> y un <b>recinto de taula</b> de planta casi semicircular, el espacio religioso del poblado.</p><p>La taula se levantó <b>entre el 800 y el 450 a. C.</b> Su losa vertical mide <b>4,20 m de alto y 2,75 de ancho</b>, y la horizontal, 3,65 m de largo. La excavó por primera vez la arqueóloga británica <b>Margaret Murray</b> en 1931, y se consolidó a principios de los años setenta.</p><p>El lugar volvió a usarse en el siglo XVIII, durante la dominación francesa de la isla. Desde 2023 es uno de los nueve componentes del Patrimonio Mundial de la Menorca talayótica.</p>"
+    },
+    "ver_alli": [
+     "La taula, con su losa vertical de más de cuatro metros.",
+     "El gran talayot y los restos de casas a su alrededor.",
+     "Se puede llegar andando desde Maó por caminos rurales."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Trepuc%C3%B3",
+     "https://www.menorca.info/menorca/cultura/2023/09/18/2013119/menorca-talayotica-yacimientos-declaracion-patrimonio-mundial.html",
+     "https://www.google.com/maps/place/?q=place_id:ChIJLX2EhqWHlRIRQwkEyk_lj68",
+     "https://www.openstreetmap.org/?mlat=39.8739&mlon=4.2658#map=18/39.8739/4.2658"
+    ]
+   }
+  },
+  {
+   "id": "ciutadella-talayots",
+   "campos": {
+    "lat": 39.9898,
+    "lon": 3.9259,
+    "estilo": "Talayótico",
+    "texto": {
+     "general": "<p>Entre acebuches, a pocos kilómetros de Ciutadella, se visitan dos poblados talayóticos muy próximos. <b>Torretrencada</b> conserva una <b>taula</b> que ha perdido su recinto pero tiene una <b>columna lateral de apoyo</b> que la distingue de las demás de la isla; hay además un talayot, una sala hipóstila, una cueva funeraria artificial y tumbas antropomorfas talladas en la roca.</p><p><b>Torrellafuda</b>, a un kilómetro, tiene talayot, recinto de taula con restos de viviendas, una muralla con dos puertas y cuevas funerarias; estuvo habitado hasta el final de la época romana.</p><p>Torretrencada forma parte desde 2023 del Patrimonio Mundial de la Menorca talayótica, en la zona de los Llanos de Ciutadella, con la Naveta des Tudons.</p>"
+    },
+    "ver_alli": [
+     "La taula de Torretrencada con su columna de apoyo.",
+     "Las tumbas antropomorfas talladas en la roca.",
+     "Torrellafuda, a 1 km, en un bosque de acebuches."
+    ],
+    "fuentes": [
+     "https://www.descobreixmenorca.com/en/megalithic-menorca/torretrencada/",
+     "https://www.descobreixmenorca.com/en/megalithic-menorca/torrellafuda/",
+     "https://www.menorca.info/menorca/cultura/2023/09/18/2013119/menorca-talayotica-yacimientos-declaracion-patrimonio-mundial.html",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ9-c1F24dvhIR3Fbgz3zfaRs",
+     "https://www.google.com/maps/place/?q=place_id:ChIJdwW8rV8bvhIRvqcjHKRVw3s",
+     "https://www.openstreetmap.org/?mlat=39.9898&mlon=3.9259#map=18/39.9898/3.9259"
+    ]
+   }
+  }
+ ]
+}
