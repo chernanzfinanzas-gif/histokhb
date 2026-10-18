@@ -162,6 +162,31 @@ a{color:inherit}
 @media(min-width:700px){.sh-foot{justify-content:center}.sh-foot button{flex:0 1 210px}}
 .sh-foot .pri{background:var(--era);color:#fff;border-color:var(--era)}
 /* mundo */
+.sg-top{padding:8px 0 4px}
+.sg-bar{display:flex;gap:6px;overflow-x:auto;padding-bottom:5px;scrollbar-width:none}.sg-bar::-webkit-scrollbar{display:none}
+.sg-bar:empty{display:none}
+.sg-bar button{flex:0 0 auto;font-family:'Fredoka';font-weight:600;font-size:13.5px;border:1.5px solid var(--line);background:#fff;color:var(--ink);border-radius:999px;padding:5px 11px;cursor:pointer}
+.sg-bar button.on{background:var(--accent);border-color:var(--accent);color:#fff}.sg-bar button.off{opacity:.45}
+.sg-bar .lbl{font-size:12.5px;color:var(--muted);align-self:center;flex:0 0 auto}
+.sg-hint{font-size:12.5px;color:var(--muted);margin:2px 0 6px}
+.sg-wrap{--yw:60px;overflow:auto;max-height:calc(100dvh - 250px);margin:0 -16px;border-top:1px solid var(--line)}
+table.sg{border-collapse:separate;border-spacing:0;min-width:100%}
+table.sg th,table.sg td{border-right:1px solid var(--line);border-bottom:1px solid var(--line);vertical-align:top;background:var(--bg)}
+table.sg thead th{position:sticky;top:0;z-index:5;background:#f3ead9;font-family:'Fredoka';font-weight:600;font-size:14px;padding:6px 6px 5px;text-align:left;white-space:nowrap}
+table.sg thead tr+tr th{top:var(--sgh1,46px);background:#f8f1e4;font-size:13px}
+table.sg th.g{cursor:pointer}table.sg th .tg{font-size:11px;color:var(--muted);font-weight:500;display:block}
+table.sg th .mv{float:right;margin-left:6px;font-size:13px;color:var(--muted);user-select:none}table.sg th .mv span{padding:0 4px;cursor:pointer}
+table.sg .zx{float:right;margin-left:8px;color:var(--muted);cursor:pointer;padding:0 4px}
+table.sg th.y,table.sg td.y{position:sticky;left:0;z-index:4;width:var(--yw);min-width:var(--yw);background:#f3ead9;font-family:'Fredoka';font-weight:600;font-size:12.5px;padding:6px 4px;text-align:right;color:#7a5a2a;cursor:pointer}
+table.sg thead th.y{z-index:6;cursor:default}
+table.sg td.c{--w:max(230px,calc((100vw - var(--yw) - 24px)/var(--n,1)));width:var(--w);min-width:var(--w);max-width:var(--w);padding:4px 5px}
+table.sg td.c.z{--w:max(140px,calc((100vw - var(--yw) - 24px)/var(--n,1)))}
+@media(min-width:1100px){table.sg td.c,table.sg td.c.z{--w:max(160px,calc((min(100vw,1200px) - var(--yw) - 40px)/var(--n,1)))}}
+.sg .ev{display:block;font-size:13.5px;line-height:1.3;padding:4px 6px;margin:2px 0;border-radius:6px;border-left:5px solid;background:#fff;color:inherit;text-align:left;width:100%;font-family:inherit;border-top:0;border-right:0;border-bottom:0}
+.sg .ev small{display:block;color:var(--muted);font-size:11px;font-family:'Fredoka';font-weight:500}
+.sg .ev.det{box-shadow:inset 0 0 0 1px #e8d9bd;cursor:pointer}.sg .ev.det::after{content:' ›';color:var(--accent);font-weight:700}.sg .ev.bio{font-weight:700}
+.sg .ev.hl{outline:3px solid var(--accent)}
+.sg .empty{height:6px}
 .mtabs{position:sticky;top:var(--top);z-index:12;margin:0 -16px;padding:10px 16px 0;background:var(--bg)}
 .mtabs .seg{margin:0}
 .yearbox{position:sticky;top:calc(var(--top) + 52px);z-index:11;margin:0 -16px;padding:10px 16px 8px;background:var(--bg);border-bottom:1px solid var(--line)}
@@ -316,7 +341,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 
 <!-- EL MUNDO -->
 <section class="scr" id="s-mundo"><div class="wrap">
- <div class="mtabs"><div class="seg" id="mseg"><button data-m="zonas" class="on">🧭 Comparar</button><button data-m="ano">📅 Un año</button><button data-m="info">❔ Ayuda</button></div></div>
+ <div class="mtabs"><div class="seg" id="mseg"><button data-m="zonas" class="on">🧭 Por zonas</button><button data-m="ano">📅 Un año</button><button data-m="info">❔ Ayuda</button></div></div>
  <div id="m-ano">
   <div class="yearbox">
    <div class="yrow"><button class="ystep" id="yl" aria-label="Año anterior con novedades">‹</button><div class="ybig" id="yv"></div><button class="ystep" id="yr" aria-label="Año siguiente con novedades">›</button></div>
@@ -327,6 +352,10 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <div id="zones"></div>
  </div>
  <div id="m-zonas" class="hide">
+  <div class="sg-top"><div class="sg-bar" id="sgEras"></div><div class="sg-bar" id="sgGrs"></div><div class="sg-bar" id="sgZh"></div>
+   <p class="sg-hint">Toca un grupo para desplegarlo en zonas · ✕ oculta una zona · ⤢ solo ese grupo · ◀ ▶ cambia el orden · toca un año para ver el mundo entero.</p></div>
+  <div class="sg-wrap" id="sgWrap"><table class="sg" id="sgT"></table></div>
+  <div id="oldComp" class="hide">
   <p class="mhint">👉 Para ver qué pasó en <b>todo el mundo</b> un año concreto, pulsa <u>ver el mundo</u> junto a ese año: verás todas las fichas de esa fecha.</p>
   <div class="pick">
    <div class="sels" id="sels"></div><div class="zbtns" id="zbtns"></div>
@@ -336,6 +365,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
    <div class="trail hide" id="trail" role="slider" aria-label="Barra de tiempo" tabindex="0"><div class="te" id="tr-a"></div><div class="tt" id="tr-t"><div class="th" id="tr-h"></div></div><div class="te" id="tr-b"></div></div>
   </div>
   <div id="par"></div>
+  </div>
  </div>
  <div id="m-info" class="hide">
   <div class="note" style="margin-top:18px"><b>Un año:</b> elige una fecha (deslizando, con las flechas o con los atajos) y verás cómo estaba cada zona del mundo. Las que cambian ese mismo año salen marcadas. Con <b>＋</b> añades una zona a «Comparar».<br><br><b>Comparar zonas:</b> elige hasta 9 zonas (3 en el móvil) y una época, y baja en el tiempo viéndolas avanzar a la vez. Arrastra la barra de años, debajo de la época, para viajar rápido por ella. Toca un año para ver el mundo entero en esa fecha.<br><br>El color indica la etapa de cada zona: deshabitada, paleolítico, neolítico, Edad del Bronce o civilización con escritura. Las casillas con 📖 o subrayado naranja tienen ficha; las que van en <b>negrita con 📜</b> son biografías ampliadas, contadas con más detalle.</div>
@@ -428,12 +458,18 @@ function route(){
  if(p[0]==='f'&&!IDX.fichas[p[1]]&&ALIAS[p[1]]){location.replace('#/f/'+ALIAS[p[1]]);return;}
  const k=p[0]||'';
  if(k==='f'||k==='s'||k==='l'||k==='d'){ // fichas como hoja encima
-   if(sheetBase===null) sheetBase=lastRoute||'#/';
-   if(!lastScreen){ if(k==='f'&&IDX.fichas[p[1]]) renderEpoca(IDX.fichas[p[1]].sec,null,true); else {renderInicio();} }
+   if(sheetBase===null){ let sb=null; try{sb=sessionStorage.getItem('hk_base');}catch(e){} sheetBase=lastRoute||sb||null; }
+   if(!lastScreen){ // se abrió la ficha sin pantalla debajo (recarga o enlace): pintar la pantalla de procedencia
+     if(sheetBase){ const q=sheetBase.replace(/^#\/?/,'').split('/').map(decodeURIComponent); screen(q); lastRoute=sheetBase; }
+     else if(k==='f'&&IDX.fichas[p[1]]){ renderEpoca(IDX.fichas[p[1]].sec,null,true); sheetBase=lastRoute='#/epoca/'+IDX.fichas[p[1]].sec; }
+     else { renderInicio(); sheetBase=lastRoute='#/'; } }
    openSheet(k,p.slice(1).join('/')); return;
  }
  if($('#sheet').classList.contains('open')&&lastScreen&&(location.hash||'#/')===lastRoute){closeSheetUI();sheetBase=null;return;} // volver a la pantalla de debajo tal como estaba
- closeSheetUI(); sheetBase=null; lastRoute=location.hash||'#/';
+ closeSheetUI(); sheetBase=null; lastRoute=location.hash||'#/'; try{sessionStorage.setItem('hk_base',lastRoute);}catch(e){}
+ screen(p);
+}
+function screen(p){ const k=p[0]||'';
  if(k===''){renderInicio();}
  else if(k==='epoca'){renderEpoca(p[1]||LS.get('hk_era','antigua'),p[2]);}
  else if(k==='mundo'){renderMundo(p[1]||'zonas',p.slice(2));}
@@ -702,7 +738,7 @@ function initMundo(){
 }
 function setMode(m){MODE=m;$('#mseg').querySelectorAll('button').forEach(b=>b.classList.toggle('on',b.dataset.m===m));
  $('#m-ano').classList.toggle('hide',m!=='ano');$('#m-zonas').classList.toggle('hide',m!=='zonas');$('#m-info').classList.toggle('hide',m!=='info');
- if(m==='ano')setYear(YEAR); if(m==='zonas'){const [a]=$('#per').value.split(',').map(Number);renderPar();}}
+ if(m==='ano')setYear(YEAR); if(m==='zonas'){renderSG();}}
 function allYears(){if(!allYears.c){const s=new Set();Object.values(SINC.ev).forEach(a=>a.forEach(e=>{if(e[0]>=-3500)s.add(e[0]);}));allYears.c=[...s].sort((a,b)=>a-b);}return allYears.c;}
 function stepYear(d){const ys=allYears();if(d<0){const c=ys.filter(y=>y<YEAR);setYear(c.length?c[c.length-1]:YEAR);}else{const n=ys.find(y=>y>YEAR);setYear(n!=null?n:YEAR);}}
 function setYear(y,fromSlider){
@@ -769,7 +805,64 @@ function preset(i){const g=PRESETS[i],P=$('#per');let o=[...P.options].find(x=>x
 function setZones(list,full){if(full){const ids=ZIDS();ids.forEach((id,i)=>{document.getElementById(id).value=list[i]||'';});return go('#/mundo/zonas/'+ids.map(i=>encodeURIComponent(document.getElementById(i).value)).join('~'));}const ids=ZIDS();ids.forEach((id,i)=>{document.getElementById(id).value=list[i]||(i<2?document.getElementById(id).value:'');});
  if(!list.length)ids.forEach((id,i)=>{if(i>=2)document.getElementById(id).value='';});
  go('#/mundo/zonas/'+ids.map(i=>encodeURIComponent(document.getElementById(i).value)).join('~'));}
+// ── Sincronía por grupos (sustituye a Comparar) ──
+const SGERAS=[['pre','Prehistoria',-1e7,-3501],['ant','Antigua',-3500,475],['med','Media',476,1491],['mod','Moderna',1492,1788],['con','Contemporánea',1789,2100],['tod','Todo',-1e7,2100]];
+let SG={ord:LS.get('sg_ord',null),hid:new Set(LS.get('sg_hid',[])),open:new Set(LS.get('sg_open',[])),zh:new Set(LS.get('sg_zh',[])),era:LS.get('sg_era','med'),hl:null};
+function sgSave(){LS.set('sg_ord',SG.ord);LS.set('sg_hid',[...SG.hid]);LS.set('sg_open',[...SG.open]);LS.set('sg_zh',[...SG.zh]);LS.set('sg_era',SG.era);}
+function sgGroups(){const R=SINC.regs;
+ const g=[{id:'global',t:'Global',ic:'🌐',zones:R.filter(r=>r[1]==='global').map(r=>r[0]),cont:null},
+  {id:'espana',t:'España',ic:'🇪🇸',zones:ESPS.filter(z=>SINC.ev[z]),cont:'España'},
+  {id:'europa',t:'Europa',ic:'🏰',zones:R.filter(r=>r[1]==='europa'&&!ESPS.includes(r[0])).map(r=>r[0]),cont:'Europa'},
+  {id:'asia',t:'Asia',ic:'🐉',zones:R.filter(r=>r[1]==='asia').map(r=>r[0]),cont:'Asia'},
+  {id:'america',t:'América',ic:'🌽',zones:R.filter(r=>r[1]==='america').map(r=>r[0]),cont:'América'},
+  {id:'africa',t:'África',ic:'🐘',zones:R.filter(r=>r[1]==='africa').map(r=>r[0]),cont:'África'},
+  {id:'oceania',t:'Oceanía',ic:'🌊',zones:R.filter(r=>r[1]==='oceania').map(r=>r[0]),cont:'Oceanía'}];
+ const o=SG.ord&&SG.ord.length===g.length?SG.ord:g.map(x=>x.id); return o.map(id=>g.find(x=>x.id===id)).filter(Boolean);}
+function sgEv(reg,e,showZone){const key=reg+'|'+e[0], det=!!e[3], hl=SG.hl===key?' hl':'';
+ const inner=`${showZone?`<small>${esc(rn(reg))}</small>`:''}${esc(e[1])}`;
+ return det?`<button class="ev det${e[3]===2?' bio':''}${hl}" style="border-color:${e[2]}" data-k="${esc(key)}">${inner}</button>`:`<span class="ev${hl}" style="border-color:${e[2]}">${inner}</span>`;}
+function renderSG(){
+ const [,,y0,y1]=SGERAS.find(e=>e[0]===SG.era)||SGERAS[2];
+ $('#sgEras').innerHTML=SGERAS.map(([id,t])=>`<button class="${id===SG.era?'on':''}" data-e="${id}">${t}</button>`).join('');
+ $('#sgEras').querySelectorAll('button').forEach(b=>b.onclick=()=>{SG.era=b.dataset.e;sgSave();renderSG();$('#sgWrap').scrollTo(0,0);});
+ const G=sgGroups(), inEra=r=>(SINC.ev[r]||[]).some(e=>e[0]>=y0&&e[0]<=y1), has=g=>[...(g.cont?[g.cont]:[]),...g.zones].some(inEra);
+ $('#sgGrs').innerHTML=G.map(g=>`<button class="${SG.hid.has(g.id)?'off':''}" data-g="${g.id}">${g.ic} ${g.t}</button>`).join('');
+ $('#sgGrs').querySelectorAll('button').forEach(b=>b.onclick=()=>{const id=b.dataset.g;SG.hid.has(id)?SG.hid.delete(id):SG.hid.add(id);sgSave();renderSG();});
+ const vis=G.filter(g=>!SG.hid.has(g.id)&&has(g)), cols=[], hidden=[];
+ vis.forEach(g=>{const all=[...(g.cont&&SINC.ev[g.cont]?[g.cont]:[]),...g.zones].filter(inEra);
+  if(SG.open.has(g.id)){const sh=all.filter(z=>!SG.zh.has(z)); all.filter(z=>SG.zh.has(z)).forEach(z=>hidden.push([g,z])); (sh.length?sh:all.slice(0,1)).forEach(z=>cols.push({g,regs:[z],zone:z}));}
+  else cols.push({g,regs:all,zone:null});});
+ $('#sgZh').innerHTML=hidden.length?'<span class="lbl">Ocultas:</span>'+hidden.map(([g,z])=>`<button data-z="${esc(z)}">${esc(z===g.cont?'Todo '+g.t:rn(z))} ↺</button>`).join('')+'<button data-z="*">Mostrar todas</button>':'';
+ $('#sgZh').querySelectorAll('button').forEach(b=>b.onclick=()=>{b.dataset.z==='*'?SG.zh.clear():SG.zh.delete(b.dataset.z);sgSave();renderSG();});
+ const ys=new Set(); cols.forEach(c=>c.regs.forEach(r=>(SINC.ev[r]||[]).forEach(e=>{if(e[0]>=y0&&e[0]<=y1)ys.add(e[0]);})));
+ const Y=[...ys].sort((a,b)=>a-b);
+ let h='<thead><tr><th class="y" rowspan="2">Año</th>';
+ vis.forEach(g=>{const n=cols.filter(c=>c.g===g).length;
+  h+=`<th class="g" colspan="${n}" data-g="${g.id}"><span class="mv"><span data-m="-1">◀</span><span data-m="1">▶</span><span data-solo="1" title="Solo este grupo">⤢</span></span>${g.ic} ${g.t} <span class="tg">${SG.open.has(g.id)?'▾ plegar':'▸ '+g.zones.length+' zonas'}</span></th>`;});
+ h+='</tr><tr>'+cols.map(c=>`<th>${c.zone?`<span class="zx" data-z="${esc(c.zone)}" title="Ocultar">✕</span>`+esc(c.zone===c.g.cont?'Todo '+c.g.t:rn(c.zone)):'Todas sus zonas'}</th>`).join('')+'</tr></thead><tbody>';
+ Y.forEach(y=>{h+=`<tr><td class="y" data-y="${y}">${fy(y)}</td>`;
+  cols.forEach(c=>{const it=[]; c.regs.forEach(r=>(SINC.ev[r]||[]).forEach(e=>{if(e[0]===y)it.push(sgEv(r,e,!c.zone&&r!==c.g.cont));}));
+   h+=`<td class="c${c.zone?' z':''}">${it.join('')||'<div class="empty"></div>'}</td>`;});
+  h+='</tr>';});
+ if(!Y.length)h+=`<tr><td class="y"></td><td class="c">Nada que mostrar con estos grupos en esta época.</td></tr>`;
+ const T=$('#sgT'); T.innerHTML=h+'</tbody>'; T.style.setProperty('--n',cols.length);
+ const r1=T.querySelector('thead tr'); if(r1)T.style.setProperty('--sgh1',r1.offsetHeight+'px');
+ T.querySelectorAll('th.g').forEach(th=>th.onclick=ev=>{const id=th.dataset.g, m=ev.target.dataset.m;
+  if(ev.target.dataset.solo){const solo=vis.length===1; SG.hid=new Set(solo?[]:G.filter(g=>g.id!==id).map(g=>g.id)); if(!solo)SG.open.add(id); sgSave(); renderSG(); return;}
+  if(m){const o=G.map(g=>g.id),i=o.indexOf(id),j=i+(+m); if(j<0||j>=o.length)return; [o[i],o[j]]=[o[j],o[i]]; SG.ord=o; sgSave(); renderSG(); return;}
+  SG.open.has(id)?SG.open.delete(id):SG.open.add(id); sgSave(); renderSG();});
+ T.querySelectorAll('.zx').forEach(x=>x.onclick=()=>{SG.zh.add(x.dataset.z);sgSave();renderSG();});
+ T.querySelectorAll('.ev.det').forEach(b=>b.onclick=()=>go('#/s/'+encodeURIComponent(b.dataset.k)));
+ T.querySelectorAll('td.y[data-y]').forEach(td=>td.onclick=()=>go('#/mundo/ano/'+td.dataset.y));
+ if(SG.hl){const el=T.querySelector('.ev.hl'); if(el){const w=$('#sgWrap'); requestAnimationFrame(()=>{window.scrollTo(0,0); const r=el.getBoundingClientRect(),wr=w.getBoundingClientRect(); w.scrollTop+=r.top-wr.top-w.clientHeight/2+r.height/2; w.scrollLeft+=r.left-wr.left-60;}); SG.hl=null;}}
+}
+// «Seguir esta zona» y ＋: abre su grupo desplegado, con esa zona visible y la época de esa fecha
+function sgFocus(r,y){const g=sgGroups().find(g=>g.zones.includes(r)||g.cont===r); if(!g)return;
+ SG.hid.delete(g.id); SG.open.add(g.id); SG.zh.delete(r); const er=SGERAS.find(e=>e[0]!=='tod'&&y>=e[2]&&y<=e[3]); if(er)SG.era=er[0];
+ const ev=(SINC.ev[r]||[]); let k=null; for(const e of ev){if(e[0]<=y)k=r+'|'+e[0];} SG.hl=k; sgSave(); go('#/mundo/zonas');}
 function addZone(r){
+ sinc().then(()=>{const y=(CUR&&CUR.kind==='s')?+CUR.key.split('|').pop():YEAR; sgFocus(r,y);}); return;
+
  sinc().then(()=>{initMundo();
   const ids=ZIDS(); const vals=ids.map(i=>document.getElementById(i)?.value);
   if(!vals.includes(r)){const free=ids.find(i=>!document.getElementById(i).value);document.getElementById(free||ids[ids.length-1]).value=r;}
