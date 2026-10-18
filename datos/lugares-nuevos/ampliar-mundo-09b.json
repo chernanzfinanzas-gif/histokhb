@@ -1,0 +1,378 @@
+{
+ "zona": "Ampliar mundo-09b",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "mezquita-de-soliman-suleymaniye",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>mezquita de Solimán</b> (<i>Süleymaniye Camii</i>) corona la tercera colina de Estambul, sobre el Cuerno de Oro. La inscripción de la entrada da 1550 como año de fundación y <b>1557</b> como el de su inauguración, aunque las obras del conjunto siguieron unos años más. Es la mayor mezquita otomana de la ciudad y una de las obras maestras del arquitecto imperial <b>Mimar Sinan</b>.</p><p>Solimán el Magnífico, satisfecho con la mezquita que Sinan había hecho en memoria de su hijo Mehmed, le encargó otra para él que superase a todas las de sus antecesores; su planta recuerda a propósito a Santa Sofía. Se levantó sobre el solar del viejo palacio otomano, con mármoles y columnas traídos de otros edificios, algunos del Hipódromo. La enorme cúpula alcanza 53 metros de altura y unos 26 de diámetro, y cuatro alminares ocupan las esquinas del patio. Alrededor se construyó un gran complejo (<i>külliye</i>): cuatro madrasas, una escuela de medicina, un hospital, unos baños, una hospedería y un comedor (<i>imaret</i>) que daba de comer a los pobres.</p><p>Detrás del muro de la qibla, en un cementerio cerrado, están los mausoleos octogonales de <b>Solimán</b> y de su esposa <b>Hürrem</b> (Roxelana); y junto al muro norte del complejo, la tumba del propio Sinan. Dentro no hay que perderse las vidrieras del muro del mihrab.</p><p class=\"dato\"><span>¿Sabías que…?</span>Los cuatro alminares suman diez balcones, y se dice que es porque Solimán fue el décimo sultán otomano.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJMRDAOo25yhQR7c9XIQT1zIo",
+     "https://www.openstreetmap.org/relation/1564032",
+     "https://en.wikipedia.org/wiki/S%C3%BCleymaniye_Mosque"
+    ]
+   }
+  },
+  {
+   "id": "iglesia-de-santa-irene",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Santa Irene</b> (<i>Hagia Eirene</i>, «Santa Paz») es la iglesia más antigua que se conserva en Estambul y una de las dos bizantinas de la ciudad que nunca se convirtieron en mezquita. Está en el primer patio del palacio de Topkapı. Según la tradición, Constantino levantó aquí una primera iglesia en el siglo IV, que fue la sede del patriarca antes de que se terminara Santa Sofía.</p><p>El templo ardió durante la <b>revuelta Niká</b> de 532, y <b>Justiniano</b> lo reconstruyó en 548, con hospicios para pobres y enfermos. Un terremoto lo dañó el 20 de octubre de 740, en plena época <b>iconoclasta</b>, cuando los emperadores habían prohibido las imágenes de Cristo y de los santos. Al reconstruirla por orden de Constantino V, en el ábside se puso un mosaico con una gran cruz perfilada en negro sobre fondo dorado, sin figuras. Es uno de los pocos testimonios que quedan de aquella disputa, que terminó en 843, cuando la emperatriz Teodora devolvió los iconos a las iglesias.</p><p>Tras la conquista otomana de 1453 quedó dentro de los muros de Topkapı y los jenízaros la usaron como <b>arsenal</b> hasta 1826; por eso nunca se transformó. Después fue museo militar, entre 1908 y 1978. Hoy es museo y sala de conciertos por su extraordinaria acústica: desde 1980 acoge cada verano conciertos del Festival Internacional de Música de Estambul.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJjRi6Krm5yhQR4CnePcY1JP8",
+     "https://en.wikipedia.org/wiki/Hagia_Irene",
+     "https://en.wikipedia.org/wiki/Byzantine_Iconoclasm"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-del-pantocrator",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>monasterio del Pantocrátor</b> («Cristo todopoderoso»), hoy mezquita de <b>Zeyrek</b>, se asoma al Cuerno de Oro. Lo fundaron el emperador <b>Juan II Comneno</b> y su esposa Irene de Hungría entre 1118 y 1136: tres templos unidos, la iglesia del Pantocrátor al sur, la de la Virgen Eleúsa al norte y, entre ambas, la capilla de San Miguel, que fue panteón de la dinastía. Tras Santa Sofía, es el mayor edificio religioso bizantino que queda en Estambul y el mejor ejemplo de su arquitectura bizantina media.</p><p>El reglamento (<i>typikon</i>) que el emperador firmó en 1136 describe un <b>hospital</b> de cincuenta camas repartidas en cinco salas, una de ellas de doce camas para mujeres, con dos médicos por sala, una médica y seis farmacéuticos: uno de los hospitales mejor organizados de su tiempo. Tenía también un asilo de ancianos y una leprosería. Aquí se enterraron Juan II e Irene, su hijo <b>Manuel I</b> y la esposa de este, Berta de Sulzbach. Tras el saqueo de 1204 el monasterio pasó a los venecianos, que lo usaron como cuartel general de su poder en la ciudad. Algunos historiadores piensan que parte de los esmaltes de la Pala de Oro de San Marcos de Venecia salieron de aquí.</p><p>Poco después de 1453 se convirtió en mezquita. Por fuera se ven los ábsides de ladrillo de siete lados con ventanas triples; tras una larga restauración ha vuelto a abrirse al culto.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJrUbzwPS5yhQRCHffo4M7pTA",
+     "https://www.openstreetmap.org/way/137519649",
+     "https://en.wikipedia.org/wiki/Zeyrek_Mosque",
+     "https://www.thebyzantinelegacy.com/pantokrator-monastery",
+     "https://acphospitalist.acponline.org/archives/2017/07/free/newman.htm",
+     "https://en.wikipedia.org/wiki/Manuel_I_Komnenos"
+    ]
+   }
+  },
+  {
+   "id": "columna-de-constantino-estambul",
+   "campos": {
+    "texto": {
+     "general": "<p>Esta columna se levantó para la inauguración de <b>Constantinopla</b>, que Constantino dedicó el 11 de mayo de 330, y es el monumento de su época más antiguo que sigue en pie en Estambul. Estaba en el centro del foro de Constantino, una plaza ovalada rodeada de pórticos en la calle principal de la ciudad, la Mese. Se hizo con grandes tambores de <b>pórfido</b>, una piedra roja oscura traída de Egipto, con las juntas ocultas por coronas de laurel de bronce, y en lo alto tenía una estatua de bronce del emperador con una corona de rayos de sol, a la manera de Helios o Apolo. Con la estatua, el conjunto alcanzaba casi 50 metros.</p><p>La leyenda decía que bajo su base se guardaban reliquias, como los cestos del milagro de los panes y los peces. La estatua cayó en una tormenta en 1106, y Manuel I Comneno puso una cruz en su lugar; los cruzados robaron las coronas de bronce en 1204 y los otomanos quitaron la cruz tras 1453. Terremotos e incendios, como el de 1779, que la dejó ennegrecida, la han reducido a unos 35 metros. Los aros metálicos que se le pusieron hacia 1515 le dan su nombre turco, <i>Çemberlitaş</i>, «la piedra con aros».</p><p>Se restauró a comienzos de este siglo. La base original queda unos 2,5 metros por debajo del suelo actual.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Column_of_Constantine",
+     "https://kulturenvanteri.com/en/yer/cemberlitas-sutunu/",
+     "https://istanbul.com/blog/the-column-of-constantine-cemberlitas",
+     "https://www.google.com/maps/place/?q=place_id:ChIJSbPdxJa5yhQRm7PHl1ASRfM"
+    ]
+   }
+  },
+  {
+   "id": "mitla",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Mitla</b>, en el valle de Oaxaca, fue el gran centro religioso de los <b>zapotecos</b>. Su nombre viene del náhuatl <i>Mictlán</i>, «lugar de los muertos»; en zapoteco se llamaba <i>Lyobaa</i>, «lugar de descanso». Hubo gente aquí desde comienzos de nuestra era, pero su apogeo llegó en el Posclásico, cuando Monte Albán ya había perdido el poder y los <b>mixtecos</b> dejaron su huella en el arte de la ciudad.</p><p>Era una ciudad sagrada y de enterramiento. Allí vivía el gran sacerdote zapoteco, el <i>Uija-tao</i>, y en las tumbas en forma de cruz que hay bajo algunos palacios se enterraban sacerdotes y señores. Seguía en uso cuando llegaron los españoles en la década de 1520, que levantaron la <b>iglesia de San Pablo</b> sobre una gran plataforma prehispánica y con piedras de los palacios derribados.</p><p>Lo que hace única a Mitla en toda Mesoamérica son sus <b>grecas</b>: mosaicos de pequeñas piedras cortadas y pulidas, encajadas sin argamasa, que forman dibujos geométricos y cubren frisos y muros enteros; ningún dibujo se repite exactamente. Lo mejor conservado es el Grupo de las Columnas, con el Salón de las Columnas, sus seis grandes columnas monolíticas y el palacio de patios decorados, y el Grupo de la Iglesia, junto a San Pablo. Algunas piedras de columnas y dinteles pesan hasta 18 toneladas.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Mitla",
+     "https://es.wikipedia.org/wiki/Mitla"
+    ]
+   }
+  },
+  {
+   "id": "yaxchilan",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Yaxchilán</b> es una ciudad maya del periodo Clásico en la orilla sur del río <b>Usumacinta</b>, que hace aquí de frontera entre México y Guatemala. El río la rodea con un meandro en forma de herradura que la defendía por casi todos los lados, y todavía hoy solo se llega en lancha. Su nombre antiguo era probablemente <i>Pa' Chan</i>, «cielo partido»; el actual se lo dio el explorador Teoberto Maler.</p><p>Fue una ciudad modesta hasta el reinado de <b>Itzamnaaj B'alam II</b> (Escudo Jaguar), que subió al trono en 681 y reinó más de sesenta años, hasta su muerte en 742; con él y con su hijo Pájaro Jaguar IV se convirtió en capital regional y llenó la ciudad de edificios. Fue rival constante de Piedras Negras, a 40 km río abajo, y vecina de Bonampak, a 21 km.</p><p>Es famosa por sus <b>dinteles tallados</b>, de los mejores relieves del mundo maya. Los del Edificio 23, dedicado a la reina <b>K'ab'al Xook</b>, muestran un ritual de sangre del 28 de octubre de 709 en el que ella se atraviesa la lengua con una cuerda de espinas, y su visión de una <b>serpiente</b> de dos cabezas de la que sale un guerrero. Los dinteles 24 y 25 están en el Museo Británico de Londres y el 26 en el Museo Nacional de Antropología de México. En la ciudad no hay que perderse el Edificio 33, con sus dinteles de Pájaro Jaguar IV.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Yaxchilan"
+    ]
+   }
+  },
+  {
+   "id": "paquime-casas-grandes",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Paquimé</b>, o Casas Grandes, es la mayor ciudad prehispánica del norte de México. Está en un valle fértil del desierto de Chihuahua, junto al río Casas Grandes, y se atribuye a la cultura <b>mogollón</b>, emparentada con los pueblos del suroeste de Estados Unidos. La gente empezó a agruparse aquí hacia 1130; tras un incendio hacia 1340 la ciudad se reconstruyó con grandes casas de <b>adobe</b> de varios pisos, y hacia 1450 quedó abandonada. Es Patrimonio de la Humanidad desde 1998.</p><p>En su apogeo tenía unas 2.000 habitaciones de adobe, con muros que debieron de alcanzar seis o siete pisos, y quizá 2.500 habitantes. Tenía un complejo sistema de agua, con canales, depósitos y desagües, y fue un gran centro de comercio: sus artesanos hacían cascabeles de cobre, cuentas de concha y una cerámica pintada que llegó hasta Nuevo México y Arizona. Criaban <b>guacamayas</b> rojas traídas de Mesoamérica, cuyas plumas eran sagradas: aún se ven los corrales en el centro del sitio.</p><p>Hoy se recorren las ruinas con sus <b>puertas en forma de T</b>, típicas de los pueblos del suroeste, sus juegos de pelota y sus montículos. El Museo de las Culturas del Norte, junto a la zona arqueológica, explica la historia de la ciudad y guarda su cerámica y sus adornos de concha, turquesa y cobre.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Casas_Grandes",
+     "https://lugares.inah.gob.mx/en/museos-inah/416-museo-de-las-culturas-del-norte.html"
+    ]
+   }
+  },
+  {
+   "id": "fuertes-de-loreto-y-guadalupe",
+   "campos": {
+    "texto": {
+     "general": "<p>Los <b>fuertes de Loreto y Guadalupe</b> coronan el cerro que domina Puebla por el nororiente. Empezaron siendo ermitas: la de Loreto, del siglo XVI, y el templo de Guadalupe, construido entre 1804 y 1816. Durante la guerra de Independencia, en 1816, el intendente español Ciriaco del Llano los rodeó de murallas de piedra para convertirlos en posiciones militares. Están separados por 928 metros en línea recta.</p><p>Aquí se libró la <b>batalla del 5 de mayo de 1862</b>, durante la intervención francesa. El ejército mexicano del general <b>Ignacio Zaragoza</b>, en el que luchaba un joven Porfirio Díaz, rechazó una y otra vez el asalto de las tropas francesas del conde de Lorencez, que tuvieron que retirarse a Orizaba. Fue una victoria de un ejército peor armado sobre uno de los más prestigiosos de su tiempo, aunque solo retrasó la invasión: al año siguiente los franceses volvieron con muchas más tropas, sitiaron Puebla durante 62 días y bombardearon los fuertes hasta dejarlos en ruinas. La fecha se celebra también en Estados Unidos, donde el Cinco de Mayo se ha convertido en la fiesta de la herencia mexicana.</p><p>Desde 1930 son propiedad de la nación. En Loreto está el Museo de la No Intervención, y junto a los fuertes un monumento guarda los restos de Zaragoza y de su esposa.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Fuertes_de_Loreto_y_Guadalupe",
+     "https://en.wikipedia.org/wiki/Battle_of_Puebla"
+    ]
+   }
+  },
+  {
+   "id": "uxmal",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Uxmal</b>, a 62 km al sur de Mérida, es una de las grandes ciudades mayas y la más representativa del <b>estilo Puuc</b>, el de las colinas del oeste del Yucatán. Sus grandes edificios se levantaron desde hacia el año 700, en el Clásico tardío y terminal, y quedó abandonada en el siglo XIII. Su nombre parece venir de <i>Oxmal</i>, «tres veces construida». Es Patrimonio de la Humanidad desde 1996.</p><p>El estilo Puuc se reconoce por sus muros bajos y lisos rematados con frisos de mosaico de piedra que imitan las chozas mayas, con celosías, serpientes y máscaras de nariz curvada del dios de la lluvia, <b>Chaac</b>. La <b>pirámide del Adivino</b> es rara por su planta ovalada; la leyenda dice que la levantó en una sola noche un enano mago. El <b>Cuadrángulo de las Monjas</b>, de hacia 900-1000, son cuatro palacios en torno a un patio, con fachadas talladas por dentro y por fuera; los españoles le dieron ese nombre porque les recordaba un convento. El juego de pelota lo dedicó en 901 el señor Chan Chak K'ak'nal Ajaw.</p><p>No hay que perderse el <b>Palacio del Gobernador</b>, sobre una enorme plataforma, con la fachada más larga de la Mesoamérica prehispánica y casi 400 signos de Venus en sus máscaras de Chaac. En 1930 se sacaron moldes de las fachadas de las Monjas para exponer una réplica en la Exposición Universal de Chicago de 1933.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Uxmal"
+    ]
+   }
+  },
+  {
+   "id": "fuerte-de-san-diego",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>fuerte de San Diego</b> es una fortaleza en forma de estrella de cinco puntas que defiende la bahía de Acapulco. Acapulco era el puerto de llegada del <b>Galeón de Manila</b>, que volvía de Filipinas cargado de lujosas mercancías de Asia, y por eso atraía a piratas y corsarios ingleses y holandeses. Es una de las fortalezas costeras más importantes de todo el Pacífico.</p><p>Lo mandó construir el virrey Diego Fernández de Córdoba, marqués de Guadalcázar, y lo terminó en 1617 el ingeniero holandés Adrián Boot, que había trabajado también en San Juan de Ulúa, en Veracruz. Un terremoto lo dañó gravemente en 1776; se derribó y se levantó de nuevo entre 1778 y 1783, ya como un pentágono regular, según el proyecto del ingeniero Ramón Panón. Se rebautizó como fuerte de San Carlos, en honor de Carlos III, pero la gente siguió llamándolo San Diego. En la guerra de Independencia, su guarnición española resistió varios meses hasta que lo tomó José María Morelos el 19 de agosto de 1813.</p><p>Desde 1986 alberga el <b>Museo Histórico de Acapulco</b>, del INAH, que cuenta el comercio con Asia, la piratería y la Independencia, y muestra restos arqueológicos de la cultura mezcala. Desde sus murallas se ve la bahía.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/158418",
+     "https://en.wikipedia.org/wiki/Fort_of_San_Diego",
+     "https://es.wikipedia.org/wiki/Fuerte_de_San_Diego"
+    ]
+   }
+  },
+  {
+   "id": "dolores-hidalgo",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Dolores Hidalgo</b>, en Guanajuato, es oficialmente la «Cuna de la Independencia Nacional». En la madrugada del <b>16 de septiembre de 1810</b>, su párroco, el cura <b>Miguel Hidalgo</b>, tocó la campana y llamó a sus feligreses a levantarse contra las autoridades virreinales desde el atrio de la iglesia, con Allende, Aldama y Abasolo. Es el famoso <b>Grito de Dolores</b>, que dio comienzo a la guerra de Independencia de México. Después el pueblo tomó su nombre.</p><p>Hidalgo se había hecho cargo de la parroquia en 1803. Fomentó la cerámica vidriada al estilo de la <b>talavera</b> poblana, que sigue siendo la gran industria de la ciudad, y también el cultivo de la vid y la elaboración de vino. Cada 16 de septiembre se repite allí el Grito.</p><p>La gran joya es la <b>parroquia de Nuestra Señora de los Dolores</b>, de barroco churrigueresco, construida entre 1712 y 1778. Cerca están la <b>casa de Hidalgo</b>, de 1779, donde vivió de 1804 a 1810, hoy museo con sus muebles y documentos; el Museo de la Independencia Nacional, en la antigua cárcel donde Hidalgo encerró a los españoles del pueblo; y la casa natal de José Alfredo Jiménez.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Dolores_Hidalgo",
+     "https://en.wikipedia.org/wiki/Dolores_Hidalgo",
+     "https://es.wikipedia.org/wiki/Parroquia_de_Nuestra_Se%C3%B1ora_de_los_Dolores_(Dolores_Hidalgo)"
+    ]
+   }
+  },
+  {
+   "id": "gran-piramide-de-cholula",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Gran pirámide de Cholula</b>, llamada en náhuatl <i>Tlachihualtépetl</i>, «monte hecho a mano», es la <b>pirámide de mayor volumen del mundo</b>: unos 4,45 millones de metros cúbicos, frente a los 2,5 millones de la de Keops. Solo mide 25 metros de alto, pero su base, de 300 por 315 metros, es casi el doble que la de Guiza. Se construyó en varias fases, superpuestas unas sobre otras, entre el siglo III a.C. y el IX d.C., y estaba dedicada tradicionalmente a <b>Quetzalcóatl</b>.</p><p>Cholula fue una de las grandes ciudades de Mesoamérica, con quizá 100.000 habitantes en su apogeo. La pirámide se abandonó en el siglo VIII, pero siguió siendo un lugar sagrado. Cuando llegaron los españoles estaba cubierta de vegetación y parecía un cerro. En octubre de 1519, camino de Tenochtitlan, Hernán Cortés hizo una gran <b>matanza</b> en la ciudad. En 1594 los españoles levantaron en la cima el santuario de la <b>Virgen de los Remedios</b>, hoy gran lugar de peregrinación; por eso la pirámide nunca se ha excavado por completo.</p><p>Desde 1931 los arqueólogos abrieron unos 8 km de <b>túneles</b> en su interior, de los que se recorren unos 800 metros. Al sur se ve el patio de los Altares, y el museo del sitio tiene una maqueta de las fases de la pirámide y copias de sus murales, como el de los «Bebedores».</p><p class=\"dato\"><span>¿Sabías que…?</span>La imagen de la iglesia sobre la pirámide con el volcán Popocatépetl detrás es una de las más usadas para promocionar el turismo en México.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Great_Pyramid_of_Cholula",
+     "https://en.wikipedia.org/wiki/Cholula_massacre"
+    ]
+   }
+  },
+  {
+   "id": "cerro-de-las-campanas-y-teatro-de-la-rep",
+   "campos": {
+    "texto": {
+     "general": "<p>En el <b>Cerro de las Campanas</b>, entonces a las afueras de Querétaro, terminó el Segundo Imperio mexicano. Debe su nombre a unas rocas que suenan como campanas al golpearlas. El emperador <b>Maximiliano de Habsburgo</b>, sitiado en la ciudad desde marzo de 1867, se rindió aquí al general Mariano Escobedo el 15 de mayo, y aquí fue fusilado el <b>19 de junio de 1867</b> junto a sus generales Miguel Miramón y Tomás Mejía.</p><p>Maximiliano y sus generales fueron juzgados por un consejo de guerra en el <b>Teatro de la República</b>, inaugurado en 1852 como Teatro Iturbide, donde en 1854 se había estrenado el Himno Nacional Mexicano. En ese mismo teatro se reunió el Congreso Constituyente desde diciembre de 1916, y allí se aprobó la <b>Constitución de 1917</b>, proclamada el 5 de febrero y todavía vigente. En su escenario están escritos en letras de oro los nombres de los diputados constituyentes.</p><p>En el cerro, hoy parque nacional, se levanta la capilla que mandó construir en 1900 el emperador Francisco José de Austria en memoria de su hermano, una gran estatua de Benito Juárez y un pequeño museo. El centro histórico de Querétaro es Patrimonio de la Humanidad desde 1996.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/1264975822",
+     "https://en.wikipedia.org/wiki/Cerro_de_las_Campanas",
+     "https://es.wikipedia.org/wiki/Teatro_de_la_Rep%C3%BAblica",
+     "https://en.wikipedia.org/wiki/Historic_Monuments_Zone_of_Quer%C3%A9taro"
+    ]
+   }
+  },
+  {
+   "id": "plaza-de-las-tres-culturas-tlatelolco",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Plaza de las Tres Culturas</b>, en el norte de Ciudad de México, reúne tres épocas: las ruinas de la ciudad mexica de <b>Tlatelolco</b>, el templo colonial de Santiago y los edificios modernos que la rodean, terminados en la década de 1960. Tlatelolco, la ciudad gemela de Tenochtitlan, la fundaron en 1337 unos mexicas que se separaron de los tenochcas; en 1473 fue vencida por su vecina y quedó sometida a ella.</p><p>Tenía el mayor mercado de México: Hernán Cortés escribió que acudían a él 60.000 personas al día, y Bernal Díaz contó el asombro de los españoles al verlo. En 1521 fue el último refugio de los mexicas durante el sitio; allí se retiró <b>Cuauhtémoc</b>, que fue capturado cuando huía en canoa, y la ciudad se rindió el 13 de agosto. Después, los franciscanos fundaron aquí el <b>Colegio de Santa Cruz de Tlatelolco</b>, la primera escuela de estudios superiores de América, para hijos de la nobleza indígena. En esta plaza, el 2 de octubre de 1968, el ejército disparó contra una concentración de estudiantes: la matanza de Tlatelolco.</p><p>Hoy se recorren las ruinas del Templo Mayor de Tlatelolco, el templo del Calendario y otros edificios, junto al templo de Santiago, del siglo XVII. En el antiguo edificio de Relaciones Exteriores, el Memorial del 68 recuerda a las víctimas.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Plaza_de_las_Tres_Culturas",
+     "https://en.wikipedia.org/wiki/Tlatelolco_(archaeological_site)",
+     "https://en.wikipedia.org/wiki/Tlatelolco_(altepetl)",
+     "https://en.wikipedia.org/wiki/Fall_of_Tenochtitlan",
+     "https://en.wikipedia.org/wiki/Tlatelolco_massacre"
+    ]
+   }
+  },
+  {
+   "id": "hospicio-cabanas",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Hospicio Cabañas</b> de Guadalajara fue uno de los mayores y más antiguos conjuntos de orfanato y hospital de América. Lo promovió el obispo navarro <b>Juan Cruz Ruiz de Cabañas</b>, que llegó a Guadalajara en 1796, para reunir bajo un mismo techo casa de trabajo, hospital, orfanato y asilo: la «Casa de la Misericordia». Lo diseñó el arquitecto valenciano <b>Manuel Tolsá</b>, inspirándose en los Inválidos de París y en El Escorial; las obras empezaron en 1805, abrió sus puertas en 1810 y se terminó en 1829. Es uno de los mejores ejemplos del neoclásico en México.</p><p>El edificio forma un gran rectángulo de 164 por 145 metros con <b>23 patios</b>, todo en una sola planta «para facilitar el paso de enfermos, ancianos y niños»; solo destaca la capilla, con una cúpula de 32,5 metros. Fue hogar de huérfanos hasta 1980, cuando se convirtió en el Instituto Cultural Cabañas. Es Patrimonio de la Humanidad desde 1997.</p><p>Lo que no hay que perderse es la capilla mayor, que <b>José Clemente Orozco</b> pintó entre 1936 y 1939 con 57 murales al fresco sobre el mundo prehispánico, la conquista, la fundación de Guadalajara y la vida moderna. En la cúpula está <i>El hombre de fuego</i>, considerado su obra maestra.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Hospicio_Caba%C3%B1as",
+     "https://es.wikipedia.org/wiki/Hospicio_Caba%C3%B1as"
+    ]
+   }
+  },
+  {
+   "id": "tzintzuntzan",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Tzintzuntzan</b>, «lugar de colibríes» en purépecha, fue la capital del imperio <b>purépecha</b> o tarasco, el segundo más grande de Mesoamérica cuando llegaron los españoles. La ciudad, en la ladera de un cerro sobre el lago de Pátzcuaro, se fundó probablemente hacia 1450 y desde allí se gobernaba un territorio que abarcaba Michoacán y partes de Guanajuato, Guerrero y Jalisco. Los purépechas resistieron los ataques de los mexicas y, cuando llegaron los españoles en la década de 1520, la ciudad tenía entre 25.000 y 30.000 habitantes.</p><p>Para no sufrir la destrucción de Tenochtitlan, su joven rey se sometió a los españoles sin luchar, aunque luego fue quemado vivo por unos administradores españoles. Tzintzuntzan fue la primera capital de la provincia de Michoacán, y los franciscanos levantaron su convento en parte con piedras de las pirámides.</p><p>Lo principal del sitio es una <b>gran plataforma</b> de 450 por 250 metros excavada en el cerro, con cinco <b>yácatas</b> alineadas frente al lago: pirámides escalonadas que unen un cuerpo rectangular y otro redondo, con una planta como una «T». En el pueblo está el antiguo <b>convento de San Francisco</b>, iniciado en 1530, con su atrio de los Olivos, cuyos árboles se atribuyen a Vasco de Quiroga.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/26797083",
+     "https://en.wikipedia.org/wiki/Tzintzuntzan_(Mesoamerican_site)",
+     "https://es.wikipedia.org/wiki/Tzintzuntzan_(sitio_arqueol%C3%B3gico)",
+     "https://en.wikipedia.org/wiki/Tzintzuntzan,_Michoac%C3%A1n"
+    ]
+   }
+  },
+  {
+   "id": "capilla-del-rosario-de-puebla",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Capilla del Rosario</b>, junto al templo de Santo Domingo de Puebla, es la cumbre del <b>barroco novohispano</b> y una de las mayores obras de arte religioso de México. La empezó en 1650 el dominico fray Juan de Cuenca y la terminaron fray Agustín Hernández y fray Diego de Gorozpe, que la consagraron el <b>16 de abril de 1690</b>, el día del aniversario de la fundación de Puebla. Las fiestas duraron ocho días. Gorozpe la llamó en un impreso de ese año «la octava maravilla del mundo»; también se la conocía como «la Casa de Oro».</p><p>Los dominicos querían con ella honrar a la Virgen y enseñar a rezar el rosario. Su planta es de cruz latina, y casi todo el interior, de muros a bóvedas, está cubierto de <b>yesería dorada</b> con láminas de oro de 24 quilates sobre una pasta de harina, clara de huevo y agua, con hojas, animales, ángeles y símbolos religiosos. En los muros hay grandes lienzos de José Rodríguez Carnero sobre la vida de la Virgen, sobre un zócalo de azulejos de <b>talavera poblana</b>.</p><p>En el altar se alza el trono de la Virgen, con un baldaquino tallado por el maestro español Lucas Pinto. Por fuera, la portada es sobria y contrasta con la riqueza del interior. Se restauró por completo entre 1967 y 1971.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Capilla_del_Rosario_(Puebla)"
+    ]
+   }
+  },
+  {
+   "id": "san-cristobal-de-las-casas",
+   "campos": {
+    "texto": {
+     "general": "<p><b>San Cristóbal de las Casas</b>, llamada <i>Jovel</i> en tzotzil, es una ciudad colonial a 2.200 metros de altura en los Altos de Chiapas. La fundó en 1528 Diego de Mazariegos con el nombre de Villa Real de Chiapa; el actual recuerda a san Cristóbal y a fray <b>Bartolomé de las Casas</b>, el defensor de los indios, que fue el primer obispo residente de Chiapas desde 1544. Fue capital del estado hasta 1892.</p><p>El <b>1 de enero de 1994</b>, el día que entraba en vigor el tratado de libre comercio con Estados Unidos y Canadá, el Ejército Zapatista de Liberación Nacional (EZLN) del subcomandante Marcos ocupó San Cristóbal y otras localidades de Chiapas.</p><p>Conserva su trazado colonial, con la catedral y el templo de <b>Santo Domingo</b>, iniciado en 1547 y uno de los más ornamentados de América por su fachada de yesería y sus retablos dorados, con un gran mercado de artesanía al lado. Cerca están pueblos mayas <b>tzotziles</b> como San Juan Chamula, que tiene un estatus autónomo.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+     "https://en.wikipedia.org/wiki/Bartolom%C3%A9_de_las_Casas",
+     "https://en.wikipedia.org/wiki/San_Juan_Chamula"
+    ]
+   }
+  },
+  {
+   "id": "murallas-de-campeche",
+   "campos": {
+    "texto": {
+     "general": "<p><b>San Francisco de Campeche</b> la fundó Francisco de Montejo en 1540 sobre la ciudad maya de Can Pech, en la costa del golfo de México. Durante casi 160 años la atacaron piratas y corsarios holandeses, ingleses y franceses, como Francis Drake, Laurens de Graaf o Henry Morgan, con saqueos terribles en 1633 y 1663. En respuesta, en 1686 se empezó a <b>amurallar</b> la ciudad, y las obras se terminaron en 1704.</p><p>El ingeniero francés Louis Bouchard de Becour unió las defensas en una <b>muralla de 2.560 metros</b> que formaba un hexágono irregular con ocho baluartes en las esquinas y cuatro puertas; las principales son la puerta de Mar y la puerta de Tierra, de 1732. Dentro vivían los españoles, y fuera, en los barrios de San Francisco, Guadalupe y San Román, los mayas. En las colinas de los lados se levantaron los fuertes de San Miguel y San José el Alto. Campeche es, con Quebec, una de las pocas ciudades de Norteamérica que conservan la mayor parte de sus murallas, y es <b>Patrimonio de la Humanidad</b> desde 1999.</p><p>Hoy se pasea por un casco de casas de colores y por los baluartes, que guardan museos y un jardín botánico; el de la Soledad, el mayor, alberga el museo de historia de la ciudad. En el <b>fuerte de San Miguel</b>, a las afueras, hay un museo con una colección de piezas prehispánicas.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Campeche_(city)"
+    ]
+   }
+  },
+  {
+   "id": "casa-azul-de-frida-kahlo",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Casa Azul</b>, en el barrio de Coyoacán, debe su nombre a sus paredes azul cobalto. Se construyó en 1904 y en ella nació en 1907 <b>Frida Kahlo</b>, que creció aquí, vivió en ella con su marido <b>Diego Rivera</b> y murió en una habitación del piso de arriba en 1954. En 1957 Rivera donó la casa y todo lo que contenía para convertirla en museo en su memoria, y desde 1958 está abierta al público. Es uno de los museos más visitados de Ciudad de México.</p><p>Por la casa pasaron artistas y personajes como Serguéi Eisenstein, George Gershwin o María Félix. Gracias a Frida y a Diego, el revolucionario ruso <b>León Trotski</b> obtuvo asilo en México y vivió aquí con su esposa desde enero de 1937; en 1939 se mudaron a otra casa a pocas calles, donde Trotski fue asesinado en agosto de 1940 y que hoy es también museo.</p><p>La casa se conserva casi como estaba a comienzos de los años cincuenta: obras de Frida y de Rivera, arte popular mexicano, piezas prehispánicas y sus vestidos de tehuana. En el piso de arriba están su estudio y su último dormitorio, con el corsé de yeso pintado que tuvo que llevar por su columna dañada, su silla de ruedas frente a un caballete y la urna con sus cenizas. En el patio una inscripción recuerda: «Frida y Diego vivieron en esta casa 1929-1954».</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Frida_Kahlo_Museum",
+     "https://en.wikipedia.org/wiki/Leon_Trotsky_House_Museum"
+    ]
+   }
+  },
+  {
+   "id": "monte-alban",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Monte Albán</b> fue durante casi mil años la capital de los <b>zapotecos</b> y una de las primeras ciudades de Mesoamérica. Se fundó hacia el 500 a.C. sobre una cresta montañosa aplanada a mano, a unos 1.940 metros de altitud y unos 400 metros por encima del valle de Oaxaca, en un lugar fácil de defender. Entre el 100 a.C. y el 200 d.C. llegó a unos 17.000 habitantes y era la capital de un estado que dominaba buena parte de las tierras altas de Oaxaca y se relacionaba con Teotihuacan. Perdió su poder a finales del Clásico y quedó casi abandonada. Su nombre zapoteco antiguo no se conoce.</p><p>El centro es la <b>Gran Plaza</b>, que se niveló artificialmente y cabía toda la población, rodeada de templos, palacios y uno de los dos juegos de pelota de la ciudad. Sus monumentos más antiguos son las losas de los <b>«danzantes»</b>, figuras desnudas en posturas retorcidas que hoy se interpretan como prisioneros sacrificados, no como bailarines. El Edificio J tiene estelas que recuerdan las conquistas de la ciudad.</p><p>El arqueólogo Alfonso Caso excavó el sitio desde 1931 y en la <b>Tumba 7</b>, reutilizada siglos después por los mixtecos, halló el mayor tesoro de orfebrería de oro de Mesoamérica; se expone en el Museo Regional de Oaxaca. Desde 1987 es Patrimonio de la Humanidad junto con el centro histórico de Oaxaca.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Monte_Alb%C3%A1n",
+     "https://es.wikipedia.org/wiki/Monte_Alb%C3%A1n"
+    ]
+   }
+  },
+  {
+   "id": "alhondiga-de-granaditas",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Alhóndiga de Granaditas</b> es un gran almacén de grano neoclásico de la ciudad minera de Guanajuato, construido entre 1798 y 1809 por orden del intendente español Juan Antonio de Riaño. Mide 72 por 68 metros y tiene un aspecto tan macizo que en la ciudad lo llaman «el castillo».</p><p>Cuando las tropas insurgentes del cura <b>Miguel Hidalgo</b> se acercaron a Guanajuato, Riaño se encerró en ella el <b>28 de septiembre de 1810</b> con unos 300 españoles y criollos ricos, frente a unos 20.000 rebeldes. Riaño murió en el ataque. Según la tradición, un minero llamado <b>el Pípila</b> se ató una losa a la espalda para protegerse de los disparos y prendió fuego a la puerta; los insurgentes entraron, mataron a todos los que estaban dentro y saquearon la ciudad. Fue la primera gran batalla de la guerra de Independencia. Cuando poco después Hidalgo, Allende, Aldama y Jiménez fueron fusilados, sus <b>cabezas</b> se colgaron en las esquinas del edificio y allí siguieron diez años, hasta la independencia; hoy reposan bajo el Ángel de la Independencia de Ciudad de México.</p><p>Después fue cárcel durante casi un siglo, y desde 1958 es el Museo Regional de Guanajuato. Dentro se ven los <b>murales</b> que José Chávez Morado pintó entre 1955 y 1966. Su gran escalinata exterior sirve de escenario durante el Festival Internacional Cervantino.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Alh%C3%B3ndiga_de_Granaditas"
+    ]
+   }
+  },
+  {
+   "id": "cuicuilco",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Cuicuilco</b>, en el sur de Ciudad de México, fue quizá la ciudad más antigua del valle de México y su primer gran centro religioso. Empezó como una aldea de agricultores y se convirtió en una ciudad de unos 20.000 habitantes, rival de Teotihuacan. Su gran <b>pirámide circular</b> se levantó hacia el 800-600 a.C.</p><p>La ciudad quedó destruida y abandonada tras la <b>erupción del volcán Xitle</b>, ocurrida entre los años 245 y 315, cuya lava cubrió total o parcialmente sus edificios. Sus habitantes emigraron, y eso ayudó a que Teotihuacan se convirtiera en la gran potencia del valle. Aun así, la gente siguió dejando ofrendas en la pirámide cuando ya estaba en ruinas. El arqueólogo Byron Cummings la exploró entre 1922 y 1925.</p><p>Hoy se sube a lo alto de la pirámide por un sendero y unas escaleras, y junto a su base se ve el <b>corte de la lava</b> del Xitle. Se conservan ocho de sus edificios y restos de un sistema hidráulico. El museo del sitio, obra del arquitecto Luis Macgregor Krieger, explica cómo vivían sus habitantes antes de la erupción. Parte de la antigua ciudad quedó bajo construcciones modernas, como un centro comercial levantado en 1997.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Cuicuilco"
+    ]
+   }
+  },
+  {
+   "id": "museo-casa-de-villa",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Casa de Villa</b>, también llamado Museo Histórico de la Revolución, ocupa en Chihuahua la antigua <b>Quinta Luz</b>, la casa del general <b>Francisco «Pancho» Villa</b> y de su esposa, María Luz Corral. La casa se construyó entre 1905 y 1907, y Villa, siendo gobernador de Chihuahua en 1914, la reformó y amplió y le puso el nombre de su mujer. En 1915 la familia se refugió en Estados Unidos y la casa quedó abandonada; años después volvieron.</p><p>Villa fue asesinado a tiros el <b>20 de julio de 1923</b> en Hidalgo del Parral, en el sur de Chihuahua, junto a sus escoltas. Su viuda siguió viviendo en la casa y, al final de su vida, dejó dicho que se donara para convertirla en museo en honor de Villa. Murió el 6 de julio de 1981, a los 89 años, y tras una restauración del INAH el museo se abrió el 17 de noviembre de 1982.</p><p>Se ven sus armas, sus sillas de montar, su dormitorio y muchas fotografías de la Revolución. En la «sala trágica» está el mapa del recorrido de Villa el día de su muerte y su mascarilla mortuoria. La pieza estrella está en el patio: el automóvil <b>Dodge</b> de 1919 en el que fue asesinado, con los agujeros de las balas.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/node/1656703991",
+     "https://en.wikipedia.org/wiki/Francisco_Villa_Museum",
+     "https://en.wikipedia.org/wiki/Pancho_Villa"
+    ]
+   }
+  },
+  {
+   "id": "texcotzingo-los-banos-de-nezahualcoyotl",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Texcotzingo</b> (o Tetzcotzinco) es un cerro junto a Texcoco, a unos 40 km al noreste de Ciudad de México, que el rey-poeta <b>Nezahualcóyotl</b>, señor de Texcoco entre 1431 y 1472, convirtió en el siglo XV en un jardín real. Se considera uno de los primeros jardines botánicos del mundo, junto con los de Moctezuma en Oaxtepec.</p><p>Nezahualcóyotl fue un gran constructor de obras hidráulicas, y aquí transformó una montaña sin cultivo en terrazas y jardines regados por un sistema de canales, estanques y un acueducto, el llamado Caño Quebrado. Según las crónicas, reunía en él plantas y animales de todo el imperio y cultivaba hierbas medicinales. El conjunto, dedicado al dios de la lluvia, <b>Tláloc</b>, estaba lleno de esculturas y símbolos: un estanque estaba flanqueado por tres ranas que representaban las tres ciudades de la Triple Alianza, Tenochtitlan, Texcoco y Tlacopan. Había también espacios para recitar poesía, cantar y bailar. Las crónicas dicen que su templo se empezó en 1454.</p><p>Hoy se sube a pie por el cerro hasta los <b>baños</b> tallados en la roca viva, como el llamado «Baño del Rey», y se ven restos de escaleras, canales y del acueducto. Desde arriba se domina el valle de México. En 2020 unos campesinos dañaron parte del acueducto al abrir un camino con una excavadora.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Texcotzingo",
+     "https://en.wikipedia.org/wiki/Nezahualcoyotl_(tlatoani)",
+     "https://mexiconewsdaily.com/news/heavy-equipment-damages-archaeological-site-in-texcoco/"
+    ]
+   }
+  },
+  {
+   "id": "mayapan",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Mayapán</b>, a unos 40 km al sureste de Mérida, fue la capital política y cultural de los mayas del Yucatán en el Posclásico tardío, desde la década de 1220 hasta la de 1440, tras la caída de Chichén Itzá. Su nombre significa «estandarte de los mayas». Según las crónicas, la gobernaba un consejo de linajes nobles encabezado por la familia <b>Cocom</b>, y las demás familias y señores debían mandar a algunos de sus miembros a vivir en la ciudad.</p><p>Llegó a tener entre 15.000 y 17.000 habitantes y más de 4.000 edificios, casi todos viviendas, apiñados dentro de una <b>muralla</b> de piedra de 9,1 km con doce puertas, siete de ellas con entradas abovedadas. Comerciaba con Honduras, Belice y Cozumel. En 1441 la poderosa familia <b>Xiu</b> se rebeló: los Cocom fueron asesinados, salvo uno que estaba de viaje en Honduras, y la ciudad fue saqueada, quemada y abandonada. Desde entonces el Yucatán se dividió en pequeños estados enfrentados.</p><p>En el centro ceremonial destaca el <b>templo de Kukulcán</b>, o Castillo, una pirámide de nueve terrazas y cuatro escaleras que imita a la de Chichén Itzá, junto al cenote Ch'en Mul. Hay también templos redondos, raros en el mundo maya, restos de la muralla y <b>murales</b> conservados, como el de la Sala de los Frescos, con discos solares y figuras de dioses.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Mayapan"
+    ]
+   }
+  },
+  {
+   "id": "tulum",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Tulum</b> es una ciudad maya amurallada sobre un acantilado de 12 metros frente al mar Caribe. Fue uno de los últimos lugares construidos y habitados por los mayas: vivió su mejor momento entre los siglos XIII y XV y se abandonó a finales del XVI. Quizá se llamó <i>Zamá</i>, «amanecer», porque mira a la salida del sol; <i>tulum</i> significa «muralla» en maya yucateco. Era un gran puerto de comercio, por tierra y por mar, al servicio de la ciudad de Cobá.</p><p>Fue de las primeras ciudades mayas que vieron los europeos: la menciona Juan Díaz, de la expedición de Juan de Grijalva de 1518. Su <b>muralla</b> de 3 a 5 metros de alto y unos 8 de grosor la protegía por tierra, con cinco puertas estrechas y torres de vigilancia; por el mar la defendían los acantilados, salvo una pequeña cala con playa donde atracaban las canoas. En 1843 John Lloyd Stephens y Frederick Catherwood publicaron su primera descripción detallada.</p><p>Su edificio principal es el <b>Castillo</b>, una pirámide de 7,5 metros; un pequeño santuario parece haber servido de faro para las canoas que entraban por un paso del arrecife. No hay que perderse el <b>templo de los Frescos</b>, con figuras del «dios descendente» en la fachada y restos de pintura mural, ni el templo del Dios Descendente.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Tulum"
+    ]
+   }
+  },
+  {
+   "id": "bonampak",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Bonampak</b> es una pequeña ciudad maya del periodo Clásico en la selva Lacandona de Chiapas, cerca de un afluente del Usumacinta y a unos 30 km de Yaxchilán, de la que dependió. Sus edificios son del Clásico tardío, hacia 580-800. No es grande, pero tiene los <b>murales</b> mejor conservados del mundo maya.</p><p>Los mayas lacandones, que seguían yendo allí a rezar, llevaron hasta las ruinas a unos viajeros estadounidenses en 1946; el fotógrafo Giles Healey fue el primero en ver las pinturas. Están en las tres salas del <b>Templo de las Pinturas</b> (Edificio 1), de finales del siglo VIII, y cuentan la subida al trono de un heredero, hacia el año 790, bajo la tutela del rey de Yaxchilán, que envió a sus artistas a pintarlas. En la primera sala hay una ceremonia con músicos y bailarines; en la segunda, una <b>batalla</b> y la presentación, tortura y muerte de los <b>prisioneros</b>; en la tercera, una danza y un ritual de sangre. En total aparecen unas 281 figuras, muchas con su nombre escrito.</p><p>El edificio estaba pintado por fuera de azul maya, rojo y amarillo, y hasta los suelos de las salas eran negros. Desde 1996 un equipo de la Universidad de Yale ha hecho reproducciones que, gracias a fotografías infrarrojas, muestran detalles que ya no se ven a simple vista.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Bonampak"
+    ]
+   }
+  },
+  {
+   "id": "zacatecas",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Zacatecas</b> es una ciudad minera de la plata en el norte de México, a 2.440 metros de altura. En 1546 la expedición de Juan de Tolosa encontró ricas vetas de plata y plomo en el cerro de la Bufa, y a sus pies nació un campamento minero que pronto fue una de las ciudades más importantes de Nueva España. En 1585 Felipe II le dio el título de ciudad. Es Patrimonio de la Humanidad desde 1993.</p><p>La llaman la ciudad «con rostro de cantera rosa y corazón de plata», por la piedra rosa de sus iglesias y casonas, casi todas del siglo XVIII. En 1914, durante la Revolución, la <b>toma de Zacatecas</b> enfrentó a la División del Norte de <b>Pancho Villa</b> con las tropas de Victoriano Huerta; la victoria de Villa en el cerro de la Bufa se celebra cada año.</p><p>Lo principal es la <b>catedral</b>, construida entre 1730 y 1760, con una fachada barroca en la que se mezclan motivos europeos e indígenas. En la <b>mina El Edén</b>, cerrada en 1960, se entra en un pequeño tren unos 500 metros dentro de la montaña. Un teleférico une la Bufa con el cerro del Grillo.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/746186615",
+     "https://en.wikipedia.org/wiki/Zacatecas_City"
+    ]
+   }
+  },
+  {
+   "id": "zocalo-y-catedral-metropolitana",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Zócalo</b>, oficialmente plaza de la Constitución, es la gran plaza de Ciudad de México: un cuadrado de 240 por 240 metros que ocupa el antiguo espacio abierto del centro de <b>Tenochtitlan</b>, entre los palacios de Moctezuma II y de Axayácatl. Su nombre oficial recuerda la Constitución de Cádiz de 1812, que se juró aquí en 1813. A su alrededor están el Palacio Nacional, levantado sobre el palacio de Moctezuma, y la catedral; en el centro ondea una enorme bandera que se iza y se arría cada día.</p><p>La <b>Catedral Metropolitana</b> se construyó por partes entre <b>1573 y 1813</b>, alrededor de la primera iglesia que se hizo tras la conquista, levantada con piedras del templo de Huitzilopochtli, y acabó sustituyéndola. Mide 128 metros de largo. Como la obra duró casi 250 años, mezcla gótico, barroco, churrigueresco y neoclásico, y en ella trabajaron casi todos los grandes artistas del virreinato, hasta Manuel Tolsá. En 1822 se coronó aquí a Agustín de <b>Iturbide</b>, cuyos restos guarda una urna en una capilla; en su cripta están enterrados muchos arzobispos.</p><p>Dentro destacan el altar de los Reyes y los dos órganos, los mayores del siglo XVIII en América. El suelo blando de la antigua laguna la hace hundirse, y fue restaurada desde los años noventa. Junto a la catedral se ven las ruinas del <b>Templo Mayor</b>. El centro histórico es Patrimonio de la Humanidad desde 1987.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Mexico_City_Metropolitan_Cathedral",
+     "https://en.wikipedia.org/wiki/Z%C3%B3calo",
+     "https://en.wikipedia.org/wiki/Historic_center_of_Mexico_City"
+    ]
+   }
+  }
+ ]
+}
