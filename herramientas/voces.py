@@ -6,7 +6,7 @@
 # Niños: voz Leda (cuentacuentos). General y profundo: 10 voces alternas, la misma en los dos niveles de cada ficha;
 # los desarrollos usan la voz de su ficha. Escribe audio/<codigo>-<n|g|p|d>.mp3 y actualiza datos/audio.json.
 # Si una petición falla por límite (429) reintenta sola; al final lista lo que falte: volver a lanzar solo eso.
-import sys,os,re,html,base64,time,subprocess,json
+import sys,os,re,html,base64,time,subprocess,json,hashlib
 from concurrent.futures import ThreadPoolExecutor
 from comun import REPO,PROJ,TMP,sess,J,fichas_de,seccion_de
 VOCES=["Aoede","Despina","Gacrux","Leda","Vindemiatrix","Achird","Algieba","Iapetus","Rasalgethi","Sadaltager"]
@@ -43,7 +43,7 @@ def genera(cod,nivel,html_,voz,kbps,cabecera=None):
     ps=limpia(html_); ps=([cabecera+'.'] if cabecera else [])+ps
     wavs=[]
     for i,c in enumerate(trozos(ps)):
-        w=os.path.join(TMP,f'{cod}-{nivel}-{i}.wav')
+        w=os.path.join(TMP,f'{cod}-{nivel}-{i}-{hashlib.md5((voz+c).encode()).hexdigest()[:10]}.wav')  # el nombre lleva el hash del texto: un trozo solo se reutiliza si el texto no ha cambiado
         if not os.path.exists(w) and not tts(c,voz,P_NI if nivel=='n' else P_AD,w): return None
         wavs.append(w)
     sil=os.path.join(TMP,'sil.wav')
