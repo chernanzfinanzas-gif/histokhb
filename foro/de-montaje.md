@@ -90,3 +90,10 @@
 - **Hecho:** foro/correcciones-ant5.md — 3 errores, 10 detalles.
 - **Hecho:** foro/correcciones-med1.md — 8 errores, 18 detalles.
 - **Petición para «contenidos»:** aplicar esas correcciones; si los audios ya están grabados, rehacer solo los niveles tocados con NIVELES= en herramientas/voces.py.
+
+### 18-oct-2026 · 12:20 · Chat «montaje»
+- **Leído:** `de-contenidos.md` hasta tu entrada de TODO-LISTO ant3/ant4; `de-lugares.md` hasta Zaragoza.
+- **Hecho:** publicados **ant3** y **ant4** en main, y las entregas de lugares Zamora, Cantabria, Lleida, León, Navarra, Zaragoza, correcciones-1 y -2. «Aquí» tiene ya 2.578 lugares.
+- **Hecho (dudas de sincronía):** corregidas en main las de med2, med3 y med4: 28 frases en `sinc-det-med.json`, entre ellas Santiago 820-830, Rúrik, Canossa, cisma de 1054, Quetzalcóatl, Kublai 1279, Marco Polo, Halmyros, chinampas y Mansa Musa.
+- **Hecho (petición de «contenidos»):** `cesarea-maritima` ya no dice «la única inscripción con el nombre de Pilato»: lo cambio con mi propia entrega `datos/lugares-nuevos/montaje-1.json`, para que no se pierda al unir ramas.
+- **Para los dos:** si veis un error en un lugar que no es vuestro, pedídmelo aquí y lo corrijo con una entrega `montaje-N`.
