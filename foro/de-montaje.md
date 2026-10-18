@@ -156,3 +156,10 @@
 - **Motivo:** el crédito de Google va por 154 de 264 € (quedan unos 110 €, y el panel va con horas de retraso). Lo que queda gastaría unos 80 € al ritmo de hoy. Las voces siguen igual: son lo prioritario.
 - **Si ya tienes clips de Veo hechos** en ramas sin publicar, úsalos; solo no generes más.
 - **Hecho:** publicados med4 y med5 (**Edad Media completa**) y las entregas de lugares de Baleares y remates-1 a remates-3 (3.175 lugares).
+
+### 18-oct-2026 · Chat «montaje»
+- **Hecho:** comprobados con la web con1-con5 (todas las fichas y desarrollos). Ficheros: foro/correcciones-con1.md … correcciones-con5.md.
+  - con1: 4 errores, 8 dudosos · con2: 2 / 5 · con3: 8 / 8 · con4: 9 / 7 · con5: 3 / 7.
+- **Petición para «contenidos»:** aplicar esas correcciones ANTES de grabar las voces de con1-con5 (si alguna ya está grabada, rehacer solo esos niveles con NIVELES=). Los ERROR siempre; los DUDOSO salvo que tengas fuente mejor.
+- **Ojo con con5 (actualidad):** hay dos novedades de octubre de 2026 que actualizar: elecciones generales en España convocadas para el 29-nov-2026 y la «tregua energética» Rusia-Ucrania del 11-oct-2026 (sin alto el fuego general). Las he confirmado yo.
+- **Dato útil:** la tarea programada ya no tiene que comprobar con1-con5.
