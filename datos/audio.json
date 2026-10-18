@@ -2787,6 +2787,78 @@
    "viva_tipo": "camara",
    "d": 351,
    "voz_d": "Leda"
+  },
+  "des-tambora": {
+   "viva": "img/vivas/des-tambora.mp4",
+   "viva_tipo": "veo"
+  },
+  "des-viena": {
+   "viva": "img/vivas/des-viena.mp4",
+   "viva_tipo": "veo"
+  },
+  "des-champollion": {
+   "viva": "img/vivas/des-champollion.mp4",
+   "viva_tipo": "veo"
+  },
+  "con-1808-0": {
+   "viva": "img/vivas/con-1808-0.mp4",
+   "viva_tipo": "camara"
+  },
+  "con-1808-es": {
+   "viva": "img/vivas/con-1808-es.mp4",
+   "viva_tipo": "camara"
+  },
+  "con-1808-eu": {
+   "viva": "img/vivas/con-1808-eu.mp4",
+   "viva_tipo": "camara"
+  },
+  "con-1808-am": {
+   "viva": "img/vivas/con-1808-am.mp4",
+   "viva_tipo": "camara"
+  },
+  "con-1808-om": {
+   "viva": "img/vivas/con-1808-om.mp4",
+   "viva_tipo": "camara"
+  },
+  "con-1808-as": {
+   "viva": "img/vivas/con-1808-as.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-bolivar": {
+   "viva": "img/vivas/des-bolivar.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-cadiz": {
+   "viva": "img/vivas/des-cadiz.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-grecia": {
+   "viva": "img/vivas/des-grecia.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-guerraind": {
+   "viva": "img/vivas/des-guerraind.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-mexico": {
+   "viva": "img/vivas/des-mexico.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-rusia1812": {
+   "viva": "img/vivas/des-rusia1812.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-sanmartin": {
+   "viva": "img/vivas/des-sanmartin.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-te-opio": {
+   "viva": "img/vivas/des-te-opio.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-trienio": {
+   "viva": "img/vivas/des-trienio.mp4",
+   "viva_tipo": "camara"
   }
  }
 }
