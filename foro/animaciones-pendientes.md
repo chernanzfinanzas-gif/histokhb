@@ -36,7 +36,6 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] neolitico-19 · Las megaaldeas de Ucrania
 - [ ] neolitico-6 · Agriculturas de otros mundos
 - [ ] paleolitico-12 · El poblamiento del planeta
-- [ ] paleolitico-13 · El arte de las cavernas
 - [ ] paleolitico-14 · Las Venus paleolíticas
 
 ### Desarrollos
@@ -387,6 +386,7 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 
 ## Hechos con Gemini
 
+- [x] paleolitico-13 (Gemini Flash, 18-oct) · El arte de las cavernas
 - [x] des-ishtar (Gemini Flash, 18-oct) · La puerta de Ishtar
 
 - [x] ant1-8 (al final con Veo; el de Gemini también salió bien) · Sargón de Acad, el primer imperio
