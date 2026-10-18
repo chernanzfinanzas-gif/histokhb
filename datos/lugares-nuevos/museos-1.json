@@ -1,0 +1,745 @@
+{
+ "zona": "Museos provinciales (España)",
+ "nuevos": [
+  {
+   "id": "museo-arqueologico-de-asturias",
+   "nombre": "Museo Arqueológico de Asturias",
+   "provincia": "Asturias",
+   "comarca": "Oviedo",
+   "lat": 43.3627,
+   "lon": -5.8423,
+   "tipo": "museo",
+   "estilo": "Renacimiento (claustro de San Vicente)",
+   "epoca": "Prerrománico y Alta Edad Media",
+   "anio": 1952,
+   "regiones_sincronia": [
+    "Asturias"
+   ],
+   "texto": {
+    "general": "<p>El gran museo de la arqueología asturiana ocupa el antiguo <b>monasterio benedictino de San Vicente</b>, junto a la catedral de Oviedo, un cenobio cuyos orígenes se remontan al siglo VIII, en el nacimiento mismo de la ciudad. El museo se creó en 1944 y abrió al público en 1952; tras una larga reforma, reabrió en 2011 con un recorrido que va desde el Paleolítico hasta la Baja Edad Media.</p><p>El edificio es parte de la visita. Su <b>claustro renacentista</b> se empezó en la década de 1530 con Juan de Badajoz el Mozo y se terminó en la de 1570; fue declarado monumento nacional en 1934. Durante las obras apareció además un <b>bastión de la primitiva muralla de Oviedo</b>, del siglo VIII, de 1,6 metros de alto, sobre cuyos restos descansan hoy las arcadas del claustro.</p><p>Entre sus colecciones destacan el material de los <b>neandertales de El Sidrón</b>, el <b>mosaico romano de Vega del Ciego</b>, las <b>aras de San Miguel de Lillo y de Santa María del Naranco</b> —piezas clave del prerrománico asturiano— y el <b>sarcófago de doña Gontrodo Petri</b>, del siglo XII.</p>"
+   },
+   "ver_alli": [
+    "El tramo de muralla del siglo VIII bajo las arcadas del claustro.",
+    "Las aras de San Miguel de Lillo y Santa María del Naranco, en la sala del prerrománico.",
+    "El sarcófago de doña Gontrodo Petri (siglo XII).",
+    "La sala de los neandertales de El Sidrón."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_Arqueológico_de_Asturias",
+    "https://en.wikipedia.org/wiki/Archaeological_Museum_of_Asturias",
+    "https://www.spain.info/es/lugares-interes/museo-arqueologico-asturias/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJQd2_JO6MNg0RF3ecMaEvq6w"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-de-navarra",
+   "nombre": "Museo de Navarra",
+   "provincia": "Navarra",
+   "comarca": "Pamplona",
+   "lat": 42.8195,
+   "lon": -1.6461,
+   "tipo": "museo",
+   "estilo": "Renacimiento (portada y capilla del antiguo hospital)",
+   "epoca": "Romano",
+   "anio": 1956,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>El museo de la historia y el arte de Navarra lo fundó la Diputación Foral el <b>24 de junio de 1956</b> en el casco antiguo de Pamplona, en la cuesta de Santo Domingo. Ocupa el antiguo <b>Hospital de Nuestra Señora de la Misericordia</b>, del siglo XVI, del que se conservan la fachada y la capilla.</p><p>La <b>portada</b>, fechada en 1556 y obra de Juan de Villarreal y Martín de Azcárate, es la única muestra de arquitectura civil renacentista de Pamplona. La <b>capilla</b>, levantada entre 1547 y 1550, sirve hoy de salón de actos. Todo lo demás es el museo moderno, remodelado en 1986 por Jordi Garcés y Enric Soria.</p><p>Sus colecciones van de la prehistoria al arte actual. Entre las piezas estrella están el <b>mapa de Abauntz</b>, un bloque de piedra grabado en el Paleolítico que podría ser el mapa más antiguo conocido de Europa occidental; los <b>mosaicos romanos</b> de la villa de El Ramalete (siglo IV) y de Andelos; la <b>arqueta de Leyre</b>, obra maestra del arte islámico de hacia el año 1000; las pinturas murales góticas de Juan Oliver y el <b>retrato del marqués de San Adrián</b> de Goya.</p>"
+   },
+   "ver_alli": [
+    "El mapa de Abauntz, del Paleolítico.",
+    "Los mosaicos romanos de El Ramalete y Andelos.",
+    "La arqueta de Leyre, de marfil, de hacia el año 1000.",
+    "El retrato del marqués de San Adrián, de Goya."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Navarra",
+    "https://www.barcelo.com/guia-turismo/es/espana/pamplona/que-ver/museo-de-navarra/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJq1drMfqSUA0R5BFzT7yQBKk"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-de-leon",
+   "nombre": "Museo de León",
+   "provincia": "León",
+   "comarca": "León",
+   "lat": 42.5985,
+   "lon": -5.5715,
+   "tipo": "museo",
+   "estilo": "Edificio contemporáneo (Edificio Pallarés)",
+   "epoca": "Prerrománico y Alta Edad Media",
+   "anio": 1869,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Es el museo más antiguo de la provincia: abrió en <b>1869</b> en el convento de San Marcos, con las piezas que la Comisión Provincial de Monumentos había salvado de la desamortización. Tras décadas sin sede fija, desde 2007 su sede principal es el <b>Edificio Pallarés</b>, en la plaza de Santo Domingo; la iglesia de San Marcos sigue siendo un anexo, y la villa romana de Navatejera, otro.</p><p>Sus colecciones recorren la provincia desde el Paleolítico hasta hoy, pero sus puntos fuertes son la <b>romanización</b> —León nació como campamento de la Legio VII— y la <b>Edad Media</b>.</p><p>Tres piezas resumen ese tesoro: el <b>ídolo de Tabuyo del Monte</b>, de la Edad del Bronce; la <b>cruz votiva de Santiago de Peñalba</b>, joya del arte mozárabe; y el <b>Cristo de Carrizo</b>, pequeño crucificado de marfil románico. Del Renacimiento hay obras de Juan de Juni, vinculadas a la reconstrucción de San Marcos.</p>"
+   },
+   "ver_alli": [
+    "El Cristo de Carrizo, marfil románico.",
+    "La cruz de Santiago de Peñalba, arte mozárabe.",
+    "El ídolo de Tabuyo del Monte, de la Edad del Bronce.",
+    "La sala romana, con la huella de la Legio VII."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_León",
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/museo-leon",
+    "https://en.wikipedia.org/wiki/Carrizo_Christ",
+    "https://www.google.com/maps/place/?q=place_id:ChIJKR2HdpqaNw0RsPAYr4QPuhE"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-arqueologico-de-cordoba",
+   "nombre": "Museo Arqueológico de Córdoba (Palacio de los Páez)",
+   "provincia": "Córdoba",
+   "comarca": "Córdoba",
+   "lat": 37.882,
+   "lon": -4.7781,
+   "tipo": "museo",
+   "estilo": "Renacimiento (palacio) y edificio contemporáneo",
+   "epoca": "Andalusí",
+   "anio": 1868,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Creado como museo autónomo en <b>1868</b>, el Museo Arqueológico de Córdoba ocupa el <b>palacio de los Páez de Castillejo</b>, una casa noble del siglo XVI en pleno casco histórico, cuya portada renacentista se restauró entre 2020 y 2021. Junto a él se levantó un edificio nuevo, inaugurado en 2011.</p><p>En el sótano del edificio nuevo se ven los restos del <b>teatro romano de Colonia Patricia Corduba</b>, aparecidos durante las excavaciones de los solares vecinos: el museo está, literalmente, encima de la ciudad romana.</p><p>La colección va de la prehistoria a la Córdoba andalusí. Entre las piezas imprescindibles están el <b>cervatillo de Medina Azahara</b>, bronce del siglo X; un <b>sarcófago paleocristiano</b> del siglo IV; el <b>capitel visigodo de los Evangelistas</b> (siglos VI-VII) y la <b>lápida hebrea de Yehudah bar Akon</b>, fechada en el año 845.</p>"
+   },
+   "ver_alli": [
+    "El cervatillo de bronce de Medina Azahara (siglo X).",
+    "Los restos del teatro romano, en el sótano.",
+    "El sarcófago paleocristiano y el capitel de los Evangelistas.",
+    "La portada renacentista del palacio de los Páez."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_Arqueológico_y_Etnológico_de_Córdoba",
+    "https://andalucia.org/en/cordoba-cultural-tourism-museo-arqueologico-y-etnologico-de-cordoba",
+    "https://www.google.com/maps/place/?q=place_id:ChIJvw68noIgbQ0R7a31ghVA3sU"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-arqueologico-de-granada",
+   "nombre": "Museo Arqueológico de Granada (Casa de Castril)",
+   "provincia": "Granada",
+   "comarca": "Granada",
+   "lat": 37.1787,
+   "lon": -3.5917,
+   "tipo": "museo",
+   "estilo": "Renacimiento",
+   "epoca": "Edad del Bronce",
+   "anio": 1879,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Fundado en <b>1879</b>, el museo arqueológico de Granada ocupa la <b>Casa de Castril</b>, en la Carrera del Darro, frente a la Alhambra. Es una casa señorial que levantó en <b>1539</b> el nieto de Hernando de Zafra, secretario de los Reyes Católicos, que había recibido el señorío de Castril.</p><p>Su <b>fachada renacentista</b> es una de las más notables de la ciudad: lleva la fecha de 1539 en una cartela del friso, un friso de monstruos y figuras humanas obra de Sebastián de Alcántara, y en la clave un escudo con la <b>Torre de Comares</b>, concedido a Zafra. Dentro, las salas se ordenan alrededor de un patio.</p><p>La colección cubre la provincia desde el Paleolítico hasta 1492. Merecen atención los objetos argáricos del <b>Cerro de la Encina</b> (Monachil), de hacia el 2000 a.C.; los hallazgos fenicios de la <b>necrópolis de Laurita</b> (Almuñécar), que hablan del comercio mediterráneo; y las <b>Venus de la villa romana de Salar</b>.</p>"
+   },
+   "ver_alli": [
+    "La fachada de 1539, con la Torre de Comares en el escudo.",
+    "Las piezas argáricas del Cerro de la Encina.",
+    "Los objetos fenicios de la necrópolis de Laurita.",
+    "La Venus de la villa romana de Salar."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_Arqueológico_y_Etnológico_de_Granada",
+    "https://www.lovegranada.com/museums/archaeological/",
+    "https://turismo.granada.org/en/archaeological-museum",
+    "https://www.google.com/maps/place/?q=place_id:ChIJn8iUALj8cQ0RmSKwjLMOKpU"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "marq-museo-arqueologico-de-alicante",
+   "nombre": "MARQ — Museo Arqueológico de Alicante",
+   "provincia": "Alicante",
+   "comarca": "Alicante",
+   "lat": 38.3535,
+   "lon": -0.4769,
+   "tipo": "museo",
+   "estilo": "Edificio de 1926-1929 rehabilitado",
+   "epoca": "Íberos",
+   "anio": 1932,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>El Museo Arqueológico Provincial de Alicante se inauguró en <b>1932</b> en el palacio de la Diputación, y en 2000 se trasladó al antiguo <b>hospital de San Juan de Dios</b>, un edificio de 1926-1929 del arquitecto Juan Vidal Ramos. Con su nueva museografía, llena de recursos audiovisuales, ganó en <b>2004 el Premio al Museo Europeo del Año</b>.</p><p>Sus salas recorren la prehistoria, los íberos, la Roma de Lucentum y la Edad Media, y es famoso además por sus grandes exposiciones temporales.</p><p>La pieza estrella es la <b>Dama de Cabezo Lucero</b>, un busto ibérico de finales del siglo V o inicios del IV a.C. hallado en 1987 en la necrópolis de Cabezo Lucero (Guardamar del Segura). De la misma necrópolis vienen una <b>crátera griega de columnas</b> (460-450 a.C.) y una <b>falcata</b>; de La Albufereta, la maqueta de una <b>birreme</b> del siglo IV a.C.</p>"
+   },
+   "ver_alli": [
+    "La Dama de Cabezo Lucero, en la sala de los íberos.",
+    "La crátera griega y la falcata de Cabezo Lucero.",
+    "La maqueta de birreme de La Albufereta.",
+    "El tesoro de la Marina Alta (Pic de l'Àguila, Dénia)."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_Arqueológico_Provincial_de_Alicante",
+    "https://en.wikipedia.org/wiki/Archaeological_Museum_of_Alicante",
+    "https://marqalicante.com/en/sala-iberos",
+    "https://marqalicante.com/en/?p=33429",
+    "https://www.google.com/maps/place/?q=place_id:ChIJPcv3ZqY3Yg0RRBfMgwTapwk"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-de-albacete",
+   "nombre": "Museo de Albacete",
+   "provincia": "Albacete",
+   "comarca": "Albacete",
+   "lat": 38.9867,
+   "lon": -1.8555,
+   "tipo": "museo",
+   "estilo": "Arquitectura contemporánea (1978)",
+   "epoca": "Íberos",
+   "anio": 1978,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>El Museo de Albacete tiene su origen en el siglo XIX, en la Comisión Provincial de Monumentos, y el Museo Arqueológico Provincial se creó en 1943. Su edificio actual, en el <b>parque de Abelardo Sánchez</b>, es obra del arquitecto <b>Antonio Escario</b>: el proyecto se aprobó en 1969 y se inauguró en <b>1978</b>.</p><p>Su sección de arqueología es muy rica en <b>escultura ibérica</b>. Destacan la <b>esfinge ibérica de Haches</b> (Bogarra), el torso de caballo de La Losa y la estatuaria del <b>Cerro de los Santos</b>.</p><p>La pieza más tierna son las <b>muñecas de Ontur</b>: muñecas articuladas romanas, de hueso y ámbar, halladas en la necrópolis de Las Eras. También están la cabeza femenina del <b>Tolmo de Minateda</b>, aparecida en 1929, y el tesoro de la <b>Sima de los Infiernos</b> (Liétor), ocultado no antes del siglo XI, con un candil firmado por Al-Rasiq.</p>"
+   },
+   "ver_alli": [
+    "La esfinge ibérica de Haches.",
+    "Las muñecas articuladas romanas de Ontur.",
+    "Las esculturas del Cerro de los Santos.",
+    "El tesoro andalusí de Liétor."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Albacete",
+    "https://www.google.com/maps/place/?q=place_id:ChIJpyTUhsRfZg0R1nrgWQp7YG8"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-de-caceres",
+   "nombre": "Museo de Cáceres (Casa de las Veletas)",
+   "provincia": "Cáceres",
+   "comarca": "Cáceres",
+   "lat": 39.4728,
+   "lon": -6.3701,
+   "tipo": "museo",
+   "estilo": "Aljibe andalusí y palacio de los siglos XVII-XVIII",
+   "epoca": "Edad del Hierro",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>El Museo de Cáceres ocupa dos edificios de la ciudad monumental: el <b>palacio de las Veletas</b> y la <b>Casa de los Caballos</b>, del siglo XVI. El palacio se alza donde estuvo el <b>alcázar almohade</b>, del que solo queda una pieza, pero espectacular: el aljibe.</p><p>El <b>aljibe</b> tiene una planta irregular de unos 15 por 10 metros, con <b>dieciséis arcos de herradura</b> sobre doce columnas —algunas de origen romano— que forman cinco naves abovedadas. Sobre él, el palacio conserva un patio de 1600, y en la fachada las gárgolas, los remates de cerámica vidriada y los grandes escudos de la reforma del siglo XVIII.</p><p>La sección de arqueología repasa la provincia desde el Paleolítico hasta Roma. Lo más llamativo son las <b>estelas de piedra de la Edad del Bronce</b>, los <b>tesoros orientalizantes</b>, los <b>verracos</b> de la Edad del Hierro y los mosaicos romanos.</p>"
+   },
+   "ver_alli": [
+    "El aljibe almohade, con sus arcos de herradura reflejados en el agua.",
+    "Las estelas de guerrero de la Edad del Bronce.",
+    "Los verracos de la Edad del Hierro.",
+    "Las veletas y remates cerámicos de la fachada."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Cáceres",
+    "https://www.spain.info/es/lugares-interes/museo-caceres/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJDcbGQ2_fFQ0RV7o6zbW8GBg"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-de-avila",
+   "nombre": "Museo de Ávila",
+   "provincia": "Ávila",
+   "comarca": "Ávila",
+   "lat": 40.6565,
+   "lon": -4.6956,
+   "tipo": "museo",
+   "estilo": "Casa noble (Casa de los Deanes)",
+   "epoca": "Edad del Hierro",
+   "anio": 1911,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>El Museo de Ávila nació en <b>1911</b> como museo honorífico y se convirtió en museo provincial en 1968. Desde 1969 su sede es la <b>Casa de los Deanes</b>, cerca de la catedral, declarada monumento en 1962.</p><p>Desde 1998 tiene además un anexo singular: la antigua iglesia de <b>Santo Tomé el Viejo</b>, convertida en «almacén visitable», donde se guardan piezas de gran tamaño.</p><p>La colección mezcla arqueología, bellas artes y etnografía. Lo más característico son los <b>verracos</b> vetones, como los de Martiherrero; el <b>mosaico romano de Magazos</b>; y, del Renacimiento, el <b>sepulcro del caballero Serranos de la Torre</b>, obra de Vasco de la Zarza.</p>"
+   },
+   "ver_alli": [
+    "Los verracos de Martiherrero.",
+    "El mosaico romano de Magazos.",
+    "El sepulcro de Serranos de la Torre, de Vasco de la Zarza.",
+    "El almacén visitable de Santo Tomé el Viejo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Ávila",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ-TYoXAPzQA0RmRsxkXPSLEM"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-de-salamanca",
+   "nombre": "Museo de Salamanca",
+   "provincia": "Salamanca",
+   "comarca": "Salamanca",
+   "lat": 40.9617,
+   "lon": -5.6678,
+   "tipo": "museo",
+   "estilo": "Palacio de finales del siglo XV",
+   "epoca": "Renacimiento",
+   "anio": 1835,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>El museo provincial de Salamanca se creó en <b>1835</b>, durante la regencia de María Cristina, con las obras de los conventos y monasterios afectados por la desamortización de Mendizábal. En 1947 se instaló en la <b>Casa de los Abarca</b>, un palacio de finales del siglo XV junto al Patio de Escuelas de la universidad.</p><p>Aunque tiene arqueología, su fuerte son las <b>bellas artes</b>. En la sala I se conserva un <b>artesonado mudéjar</b> del siglo XIV.</p><p>La obra más importante es <b>La Piedad entre San Juan y la Magdalena</b>, de Luis de Morales. Merecen también atención la gran <b>Santa Rosalía</b> de Sebastián Gómez (1699), el San Juan Bautista de Esteban de Rueda y unos relieves de alabastro de finales del siglo XIV con escenas de la vida de San Francisco.</p>"
+   },
+   "ver_alli": [
+    "La Piedad de Luis de Morales.",
+    "El artesonado mudéjar del siglo XIV.",
+    "La Santa Rosalía de Sebastián Gómez (1699).",
+    "Los relieves de alabastro con la vida de San Francisco."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Salamanca",
+    "https://www.google.com/maps/place/?q=place_id:ChIJu4jG7z8mPw0R0W1yhkh0y6Y"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-de-zamora",
+   "nombre": "Museo de Zamora",
+   "provincia": "Zamora",
+   "comarca": "Zamora",
+   "lat": 41.501,
+   "lon": -5.7478,
+   "tipo": "museo",
+   "estilo": "Arquitectura contemporánea (Mansilla y Tuñón)",
+   "epoca": "Edad del Hierro",
+   "anio": 1998,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>El Museo de Zamora reúne el patrimonio de la provincia desde la prehistoria. Alfonso XII lo inauguró simbólicamente en 1877, pero no abrió de verdad hasta 1911. Su sede actual, inaugurada el <b>28 de julio de 1998</b>, combina la fachada y parte del patio del antiguo <b>palacio del Cordón</b> con edificios nuevos de los arquitectos <b>Luis Moreno Mansilla y Emilio Tuñón</b>, construidos entre 1993 y 1996.</p><p>Entre las piezas imprescindibles están los dos <b>tesoros prerromanos de Arrabalde</b>, hallados en el castro de Las Labradas; los mosaicos y pinturas de la <b>villa romana de Requejo</b>; y el <b>tesorillo visigodo de Villafáfila</b>, de mediados del siglo VII, encontrado por casualidad en 1921.</p>"
+   },
+   "ver_alli": [
+    "Los tesoros de oro de Arrabalde.",
+    "Los mosaicos de la villa romana de Requejo.",
+    "El tesorillo visigodo de Villafáfila.",
+    "La fachada del palacio del Cordón."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Zamora",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ16K8XDQeOQ0RoPpXDtXyQRw"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-provincial-de-lugo",
+   "nombre": "Museo Provincial de Lugo",
+   "provincia": "Lugo",
+   "comarca": "Lugo",
+   "lat": 43.0114,
+   "lon": -7.5589,
+   "tipo": "museo",
+   "estilo": "Convento franciscano y ampliaciones del siglo XX",
+   "epoca": "Romano",
+   "anio": 1932,
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>El Museo Provincial de Lugo se creó en <b>1932</b> y en 1957 se instaló en las dependencias del antiguo <b>convento de San Francisco</b>, a pocos pasos de la catedral y de la muralla romana. Se amplió varias veces; la última gran ampliación se inauguró en 1997.</p><p>El convento es parte de la visita: el <b>claustro franciscano</b> guarda una gran colección de <b>epigrafía romana y medieval</b> y relojes de sol, y en el refectorio y la <b>cocina conventual</b> se exponen fondos etnográficos.</p><p>En la planta alta del claustro está la sala de prehistoria y arqueología. No hay que perderse la sala dedicada a los <b>mosaicos romanos de la rúa Armañá</b>, testimonio de la antigua Lucus Augusti, ni la colección de <b>cerámica de Sargadelos</b> del siglo XIX.</p>"
+   },
+   "ver_alli": [
+    "Las inscripciones romanas del claustro.",
+    "La sala de los mosaicos de la rúa Armañá.",
+    "La cocina del antiguo convento.",
+    "La cerámica de Sargadelos."
+   ],
+   "fuentes": [
+    "https://www.inspain.org/es/lugo/lugo/museo-provincial-de-lugo/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJkczcaIXOMQ0RNPYc52oCkMg"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-de-pontevedra",
+   "nombre": "Museo de Pontevedra",
+   "provincia": "Pontevedra",
+   "comarca": "Pontevedra",
+   "lat": 42.4336,
+   "lon": -8.642,
+   "tipo": "museo",
+   "estilo": "Conjunto de edificios históricos y contemporáneos",
+   "epoca": "Edad del Bronce",
+   "anio": 1927,
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>Fundado por la Diputación el <b>30 de diciembre de 1927</b> y abierto en 1929, el Museo de Pontevedra se reparte por varios edificios del casco histórico. El más moderno es el <b>Edificio Castelao</b> (o sexto edificio), de Eduardo Pesquera y Jesús Ulargui, construido entre 2004 y 2008 e inaugurado el 4 de enero de 2013.</p><p>El más antiguo son las <b>ruinas de Santo Domingo</b>, iglesia y convento de los siglos XIV y XV, abandonados tras la desamortización de 1834 y declarados monumento nacional en 1895.</p><p>La joya de la arqueología es el <b>tesoro de Caldas de Reis</b>, de la Edad del Bronce, descubierto enterrado en un viñedo el 20 de diciembre de 1940 y considerado el tesoro de oro más importante de la península. Las colecciones arrancan con herramientas de los primeros pobladores y llegan hasta el arte gallego contemporáneo.</p>"
+   },
+   "ver_alli": [
+    "El tesoro de oro de Caldas de Reis.",
+    "Las ruinas góticas de Santo Domingo.",
+    "La sala de prehistoria del Edificio Castelao."
+   ],
+   "fuentes": [
+    "https://es.hispanopedia.com/wiki/Museo_de_Pontevedra",
+    "https://museo.depo.gal/coleccion",
+    "https://www.google.com/maps/place/?q=place_id:ChIJMUY98sZxLw0RkTqiE-ch6_4"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-arqueologico-castillo-de-san-anton",
+   "nombre": "Museo Arqueológico e Histórico de A Coruña (Castillo de San Antón)",
+   "provincia": "A Coruña",
+   "comarca": "A Coruña",
+   "lat": 43.3657,
+   "lon": -8.3878,
+   "tipo": "museo",
+   "estilo": "Fortaleza del siglo XVI",
+   "epoca": "Edad del Bronce",
+   "anio": 1968,
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>El <b>castillo de San Antón</b> defiende la bahía de A Coruña desde finales del siglo XVI: según la inscripción de su entrada, las obras empezaron en 1587 y terminaron en 1590, justo después del ataque inglés de 1589. Desde el siglo XVIII y hasta 1960 fue <b>prisión</b>, con presos ilustres como Alejandro Malaspina, Melchor de Macanaz o Juan Díaz Porlier.</p><p>En 1960 pasó al ayuntamiento y en <b>1968</b> se inauguró aquí el Museo Arqueológico e Histórico, con hallazgos de la prehistoria y la Antigüedad gallegas, sobre todo de la provincia.</p><p>Lo más brillante es la <b>colección de oro</b> prehistórico y castreño: el <b>casco de Leiro</b>, de la Edad del Bronce; los <b>torques</b> castreños; y el oro calcolítico de <b>Cícere</b>, con un collar de tiras y diademas.</p>"
+   },
+   "ver_alli": [
+    "El casco de oro de Leiro.",
+    "Los torques castreños.",
+    "El oro de Cícere.",
+    "Las vistas de la bahía desde la fortaleza."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_San_Antón_(La_Coruña)",
+    "https://www.spain.info/es/lugares-interes/museo-arqueologico-historico-a-coruna/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ6bCux4F7Lg0RjKdpkvgIO_Q"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-de-teruel",
+   "nombre": "Museo de Teruel",
+   "provincia": "Teruel",
+   "comarca": "Teruel",
+   "lat": 40.3441,
+   "lon": -1.1065,
+   "tipo": "museo",
+   "estilo": "Renacimiento aragonés",
+   "epoca": "Romano",
+   "anio": 1956,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>El Museo de Teruel se creó en <b>1956</b> y desde 1987 ocupa la <b>Casa de la Comunidad</b>, un palacio de estilo renacentista aragonés de la segunda mitad del siglo XVI, junto a la catedral.</p><p>Sus colecciones mezclan arqueología y etnología de la provincia. Una sección muy turolense es la de la <b>cerámica de Teruel</b>, decorada en verde y manganeso entre los siglos XIII y XV, con el azul cobalto añadido desde el siglo XV.</p><p>La «joya» del museo son los <b>mosaicos romanos de Calanda</b>, del siglo IV d.C., hallados en 1964 en el yacimiento del Camino de la Vega de Albalate. También se reproduce una <b>botica del siglo XVIII</b> con sus albarelos de Alcalá de la Selva.</p>"
+   },
+   "ver_alli": [
+    "Los mosaicos romanos de Calanda (siglo IV).",
+    "La cerámica verde y morada de Teruel.",
+    "La botica del siglo XVIII.",
+    "La fachada renacentista de la Casa de la Comunidad."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Teruel",
+    "https://www.google.com/maps/place/?q=place_id:ChIJS-piAwhzXg0R_u1GUz3i4DY"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-de-cuenca",
+   "nombre": "Museo de Cuenca",
+   "provincia": "Cuenca",
+   "comarca": "Cuenca",
+   "lat": 40.0779,
+   "lon": -2.1288,
+   "tipo": "museo",
+   "estilo": "Casa histórica (Casa del Curato)",
+   "epoca": "Romano",
+   "anio": 1974,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Inaugurado en <b>1974</b>, el Museo de Cuenca ocupa la llamada <b>Casa del Curato</b>, en el casco antiguo, a pocos metros de la catedral. El recorrido está ordenado por plantas y por épocas.</p><p>La planta baja está dedicada a la prehistoria: el <b>abrigo de Verdelpino</b>, un yacimiento clave del Neolítico peninsular, y, de la Edad del Bronce, el <b>ídolo de Chillarón</b> y la espada de Carboneras.</p><p>La primera planta es la gran sala romana, con espacios propios para las tres ciudades romanas de la provincia: <b>Segóbriga, Ercávica y Valeria</b>. Destaca la <b>estatua de Lucio César</b>, en mármol.</p>"
+   },
+   "ver_alli": [
+    "La estatua de Lucio César.",
+    "Las salas de Segóbriga, Ercávica y Valeria.",
+    "El ídolo de Chillarón.",
+    "Los materiales neolíticos de Verdelpino."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Cuenca",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ43yDuXNnXQ0RNgiZTWe3xgI"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-de-la-rioja",
+   "nombre": "Museo de La Rioja",
+   "provincia": "La Rioja",
+   "comarca": "Logroño",
+   "lat": 42.4659,
+   "lon": -2.4486,
+   "tipo": "museo",
+   "estilo": "Palacio del siglo XVIII (Palacio de Espartero)",
+   "epoca": "Romano",
+   "anio": 1971,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>El museo provincial de Logroño se creó por decreto en 1963 y abrió en <b>1971</b>. Ocupa el <b>palacio de Espartero</b>, construido en 1752 por orden de Pedro Ruiz de la Porta.</p><p>El recorrido mezcla arqueología y arte para contar la historia de La Rioja desde los <b>bifaces prehistóricos</b> (hacia el 500.000 a.C.) hasta la pintura del siglo XIX.</p><p>Entre sus piezas destacan la <b>Venus de Herramélluri</b>, escultura romana del siglo II d.C.; los <b>capiteles mozárabes</b> (siglos IX-XI); y las <b>Tablas de San Millán</b>, de finales del siglo XIV. Ya en el XIX, cuadros como la <i>Muerte de Baldomero Espartero</i> de José Nin y Tudó (1879).</p>"
+   },
+   "ver_alli": [
+    "La Venus romana de Herramélluri.",
+    "Los capiteles mozárabes.",
+    "Las Tablas de San Millán.",
+    "La pintura del siglo XIX, con la Muerte de Espartero de Nin y Tudó."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_La_Rioja",
+    "https://www.google.com/maps/place/?q=place_id:ChIJPSzWjkerWg0RY2dWeg3HOoE"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "arkeologi-museoa-bilbao",
+   "nombre": "Arkeologi Museoa — Museo Arqueológico de Bizkaia",
+   "provincia": "Bizkaia",
+   "comarca": "Bilbao",
+   "lat": 43.2587,
+   "lon": -2.9216,
+   "tipo": "museo",
+   "estilo": "Antigua estación de ferrocarril",
+   "epoca": "Romano",
+   "anio": 2009,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>El Museo Arqueológico de Bizkaia se inauguró en <b>abril de 2009</b> en la <b>antigua estación de Lezama</b>, en las Calzadas de Mallona del Casco Viejo de Bilbao. Ocupa unos 3.000 metros cuadrados y guarda todos los materiales de las excavaciones hechas en Bizkaia.</p><p>El recorrido va de los cazadores del Paleolítico —con útiles de las cuevas de Axlor y Arlanpe— a los pastores y agricultores, la Edad Media y la época moderna.</p><p>La pieza más espectacular es el <b>barco de Urbieta</b>, una embarcación del siglo XV hallada en 1998 en la ría de Gernika. De época romana destacan las <b>estelas funerarias</b> de los siglos I al IV, como las de San Pedro de Elorriaga, y la escultura de <b>Isis-Fortuna</b> hallada en Forua, en un altar doméstico.</p>"
+   },
+   "ver_alli": [
+    "El barco medieval de Urbieta.",
+    "Las estelas romanas de Elorriaga.",
+    "La Isis-Fortuna de Forua.",
+    "Los útiles paleolíticos de Axlor."
+   ],
+   "fuentes": [
+    "https://www.euskadi.eus/eusko-jaurlaritza/contenidos/informacion/museos_prensa_2009/eu_bib_pren/adjuntos/2009-04-03Deia.pdf",
+    "https://worldcitytrail.com/2025/07/02/arkeologia-museoa-in-bilbao/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJAd25XslPTg0R4UzjAm1ePxA"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "bibat-museo-de-arqueologia-de-alava",
+   "nombre": "BIBAT — Museo de Arqueología de Álava",
+   "provincia": "Álava",
+   "comarca": "Vitoria-Gasteiz",
+   "lat": 42.8493,
+   "lon": -2.6711,
+   "tipo": "museo",
+   "estilo": "Arquitectura contemporánea (Francisco Mangado)",
+   "epoca": "Romano",
+   "anio": 2009,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>BIBAT une dos museos en el casco medieval de Vitoria: el <b>Museo de Arqueología de Álava</b> y el Museo Fournier de Naipes, este en el renacentista <b>palacio de Bendaña</b>. El de arqueología se inauguró el <b>26 de marzo de 2009</b>.</p><p>Su edificio, del navarro <b>Francisco Mangado</b>, está pensado como «un cofre de bronce y vidrio» que guarda el pasado de Álava, en plena calle Cuchillería.</p><p>La colección reúne materiales de los yacimientos alaveses, desde la prehistoria hasta la Edad Media. La pieza más famosa es la <b>Dama de Iruña</b>, una escultura romana de mármol blanco de la ciudad de Iruña-Veleia, hallada por un labrador en 1845; le faltan la cabeza y las manos, y quizá representa a Ceres.</p>"
+   },
+   "ver_alli": [
+    "La Dama de Iruña, de mármol.",
+    "El edificio de Mangado, «cofre» de bronce y vidrio.",
+    "El palacio de Bendaña, con el Museo de Naipes."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Arqueología_de_Álava",
+    "https://www.basquecountry-tourism.com/directory/bibat-archaeology-fournier-cards-museum/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJd6FTzQ7DTw0ROqoJsGg_N00"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-telmo-museoa",
+   "nombre": "San Telmo Museoa",
+   "provincia": "Gipuzkoa",
+   "comarca": "Donostia / San Sebastián",
+   "lat": 43.325,
+   "lon": -1.9848,
+   "tipo": "museo",
+   "estilo": "Convento renacentista y ampliación contemporánea",
+   "epoca": "Siglo XX",
+   "anio": 1902,
+   "regiones_sincronia": [
+    "Navarra / P.Vasco-Rioja"
+   ],
+   "texto": {
+    "general": "<p>San Telmo es el museo de la sociedad vasca. Se fundó en <b>1902</b> y desde 1932 ocupa el antiguo <b>convento dominico de San Telmo</b>, al pie del monte Urgull, cuyas obras se hicieron entre 1544 y 1562.</p><p>En 2011 se reabrió tras una rehabilitación y una ampliación de los arquitectos <b>Nieto y Sobejano</b>.</p><p>Lo más impresionante es la antigua iglesia, decorada con los <b>11 grandes lienzos de Josep Maria Sert</b> (784 m²), pintados en los años 1930 expresamente para ella. El museo guarda también <b>estelas funerarias vascas</b>, obras del círculo de El Greco y piezas de Rubens, Tintoretto, Zuloaga, Chillida y Oteiza.</p>"
+   },
+   "ver_alli": [
+    "Los lienzos de Sert en la antigua iglesia.",
+    "El claustro renacentista del convento.",
+    "Las estelas funerarias vascas.",
+    "La ampliación contemporánea de Nieto y Sobejano."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_San_Telmo",
+    "https://sansebastianturismoa.eus/establecimientos/museo-san-telmo/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJVZOYN0ylUQ0ReHvJLYkPSBc"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museu-de-mallorca",
+   "nombre": "Museu de Mallorca",
+   "provincia": "Illes Balears",
+   "comarca": "Palma",
+   "lat": 39.5672,
+   "lon": 2.6507,
+   "tipo": "museo",
+   "estilo": "Palacio sobre dos casas góticas (Can Aiamans)",
+   "epoca": "Gótico",
+   "anio": 1961,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>El Museu de Mallorca se creó en <b>1961</b> y abrió al público en 1976 en <b>Can Aiamans</b>, conocida popularmente como <b>Ca la Gran Cristiana</b>: un palacio del barrio antiguo de Palma, levantado sobre la base de dos palacios góticos por Miquel Lluís Ballester de Togores, conde de Aiamans.</p><p>Bajo el propio edificio está una de sus piezas más curiosas: en el patio central aparecieron los restos de la que se considera la <b>primera casa musulmana identificada en la isla</b>.</p><p>La colección recorre la historia de Mallorca: una notable colección de cerámica de diferentes épocas, un <b>columbario tardorromano</b>, mosaicos y una sala de <b>pintura y escultura gótica</b>, con pintores como Francesc Comes y Joan Rosat. Cierra con la cerámica modernista de La Roqueta.</p>"
+   },
+   "ver_alli": [
+    "La sala de pintura gótica mallorquina.",
+    "Los restos de la casa islámica del patio.",
+    "El columbario tardorromano.",
+    "La cerámica modernista de La Roqueta."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Mallorca",
+    "https://illesbalears.travel/en/mallorca/museum-mallorca",
+    "https://www.google.com/maps/place/?q=place_id:ChIJWRWcWlGSlxIRDoi8jn_f9sw"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museu-d-arqueologia-de-catalunya",
+   "nombre": "Museu d'Arqueologia de Catalunya (Barcelona)",
+   "provincia": "Barcelona",
+   "comarca": "Barcelona (Montjuïc)",
+   "lat": 41.3698,
+   "lon": 2.1577,
+   "tipo": "museo",
+   "estilo": "Pabellón de la Exposición de 1929",
+   "epoca": "Íberos",
+   "anio": 1932,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>El Museu d'Arqueologia de Catalunya ocupa en Montjuïc el antiguo <b>Palacio de Artes Gráficas</b>, construido para la <b>Exposición Internacional de Barcelona de 1929</b>. La Generalitat creó el museo a partir de 1932, y en 1935 abrió como Museo Arqueológico de Barcelona bajo la dirección de Pere Bosch Gimpera.</p><p>Su colección no se limita a Cataluña: reúne piezas de El Argar (Almería), exvotos fenicios, cerámica griega o el <b>altar de la Salud</b> de Cartagena.</p><p>Entre lo imprescindible están la <b>mandíbula de neandertal de Sitges</b>, de 53.200 años; el <b>tesoro ibérico de Tivissa</b>; y el <b>Príapo romano de Hostafrancs</b>. El original del Asclepio de Empúries estuvo aquí hasta 2008, cuando volvió a Empúries.</p>"
+   },
+   "ver_alli": [
+    "El tesoro ibérico de Tivissa.",
+    "La mandíbula de neandertal de Sitges.",
+    "El Príapo de Hostafrancs.",
+    "Los materiales de El Argar."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Arqueología_de_Cataluña_(Barcelona)",
+    "https://www.google.com/maps/place/?q=place_id:ChIJr-_dbm-ipBIRglWvPSN40mc"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "arqua-museo-nacional-de-arqueologia-subacuatica",
+   "nombre": "ARQUA — Museo Nacional de Arqueología Subacuática",
+   "provincia": "Murcia",
+   "comarca": "Cartagena",
+   "lat": 37.5977,
+   "lon": -0.9803,
+   "tipo": "museo",
+   "estilo": "Arquitectura contemporánea (Vázquez Consuegra)",
+   "epoca": "Fenicios y púnicos",
+   "anio": 2008,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>El Museo Nacional de Arqueología Subacuática nació en Cartagena en <b>1980</b>, heredero de un patronato de excavaciones submarinas de 1970. Su sede actual, junto al puerto, es obra de <b>Guillermo Vázquez Consuegra</b> y se inauguró el 26 de noviembre de 2008.</p><p>Su recorrido cuenta los barcos y el comercio marítimo de la Antigüedad a la Edad Moderna, y también cómo trabajan los arqueólogos bajo el agua.</p><p>Sus piezas estrella son los <b>barcos fenicios de Mazarrón</b>, del siglo VII a.C.; los <b>colmillos de elefante</b> de un cargamento fenicio hallado en aguas del cabo de Palos; y el <b>tesoro de la fragata Nuestra Señora de las Mercedes</b>, unas 17 toneladas de monedas que llegaron al museo el 2 de diciembre de 2012.</p>"
+   },
+   "ver_alli": [
+    "Los barcos fenicios de Mazarrón.",
+    "Los colmillos de elefante del pecio fenicio.",
+    "Las monedas de la fragata Mercedes."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_Nacional_de_Arqueología_Subacuática",
+    "https://www.google.com/maps/place/?q=place_id:ChIJL7jcM4dBYw0RqSfFgDTlY0g"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-de-jaen",
+   "nombre": "Museo de Jaén",
+   "provincia": "Jaén",
+   "comarca": "Jaén",
+   "lat": 37.7742,
+   "lon": -3.7893,
+   "tipo": "museo",
+   "estilo": "Edificio regionalista con portadas renacentistas",
+   "epoca": "Íberos",
+   "anio": 1846,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>El Museo de Jaén se fundó en <b>1846</b> como museo de pintura. Su sede en el paseo de la Estación la proyectó el arquitecto <b>Antonio Flórez Urdapilleta</b>, impulsada desde 1920 por José del Prado y Palacio.</p><p>El edificio reaprovecha dos portadas renacentistas de edificios desaparecidos: en la fachada principal, la del antiguo <b>Pósito de Labradores</b>, obra de Francisco del Castillo el Viejo (1548), y otra de la iglesia de San Miguel atribuida a <b>Andrés de Vandelvira</b>.</p><p>En el sótano del edificio norte se exponen las <b>esculturas ibéricas de Porcuna</b> (Cerrillo Blanco), uno de los grandes conjuntos de escultura ibérica. Otra pieza clave es el <b>sarcófago paleocristiano de Martos</b>. A unos 700 metros está el Museo Íbero, que completa la visita.</p>"
+   },
+   "ver_alli": [
+    "Las esculturas ibéricas de Porcuna.",
+    "El sarcófago paleocristiano de Martos.",
+    "La portada del Pósito (1548) en la fachada."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Jaén",
+    "https://www.google.com/maps/place/?q=place_id:ChIJSRTz9gvXbQ0RmisEcdmbvh4"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "mupac-museo-de-prehistoria-de-cantabria",
+   "nombre": "MUPAC — Museo de Prehistoria y Arqueología de Cantabria",
+   "provincia": "Cantabria",
+   "comarca": "Santander",
+   "lat": 43.4622,
+   "lon": -3.804,
+   "tipo": "museo",
+   "estilo": "Planta baja del Mercado del Este",
+   "epoca": "Paleolítico",
+   "anio": 1926,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>El Museo de Prehistoria y Arqueología de Cantabria lo creó la Diputación Provincial de Santander en <b>1926</b>. Hoy ocupa la planta baja del <b>Mercado del Este</b>, en el centro de Santander, donde expone unas 2.600 piezas, la mayoría del Paleolítico superior a la Edad del Hierro.</p><p>Sus objetos más antiguos vienen de la <b>cueva de El Castillo</b> y tienen más de 100.000 años. Su gran orgullo es el <b>arte mueble paleolítico</b>, una de las colecciones más ricas del mundo.</p><p>De épocas posteriores destacan la <b>estela de Zurita</b>, una de las gigantescas estelas discoideas cántabras, los materiales romanos de Julióbriga y Flavióbriga (Castro Urdiales) y el <b>broche de cinturón de marfil de Santa María de Hito</b>, ya medieval.</p>"
+   },
+   "ver_alli": [
+    "El arte mueble paleolítico de las cuevas cántabras.",
+    "La estela discoidea de Zurita.",
+    "El broche de marfil de Santa María de Hito.",
+    "Los útiles de El Castillo, de más de 100.000 años."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Prehistoria_y_Arqueología_de_Cantabria",
+    "https://www.spain.info/es/lugares-interes/museo-prehistoria-arqueologia-cantabria/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJS-ZKi8dLSQ0RCxo-1mJMOcw"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": []
+}
