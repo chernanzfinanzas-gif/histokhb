@@ -169,6 +169,55 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] des-sipan · El Señor de Sipán
 - [ ] des-teotihuacan · Teotihuacan
 
+### Edad Media · capítulo 2
+- [ ] med2-0 · Mahoma y la expansión del islam
+- [ ] med2-2 · Al-Ándalus y el esplendor de Córdoba
+- [ ] med2-3 · Covadonga y el reino de Asturias
+- [ ] med2-15 · China Tang: esplendor y rebelión
+- [ ] med2-18 · El colapso maya y Chichén Itzá
+- [ ] med2-17 · Ghana, el país del oro
+- [ ] med2-4 · Carlomagno y el Imperio carolingio
+- [ ] med2-1 · La Edad de Oro del islam: Bagdad
+- [ ] med2-7 · De Oviedo al Duero: de Alfonso II a Alfonso III
+- [ ] med2-12 · El arte asturiano
+- [ ] med2-16 · Angkor y el imperio jemer
+- [ ] med2-10 · La Casa de la Sabiduría y al-Juarismi
+- [ ] med2-11 · Santiago de Compostela y el nacimiento del Camino
+- [ ] med2-19 · Fátima al-Fihri y la mezquita de al-Qarawiyyin
+- [ ] med2-14 · La Rus de Kiev
+- [ ] med2-8 · El reino de León y la Castilla de Fernán González
+- [ ] med2-9 · Abderramán III y Medina Azahara
+- [ ] med2-6 · Y mientras tanto…
+- [ ] des-mezquita · La Mezquita de Córdoba
+- [ ] des-azahara · Medina Azahara
+- [ ] des-naranco · Santa María del Naranco
+- [ ] des-anse · L'Anse aux Meadows
+
+### Edad Media · capítulo 3
+- [ ] med3-9 · El Japón de los samuráis
+- [ ] med3-4 · Bizancio: esplendor y la Cuarta Cruzada
+- [ ] med3-8 · China Song y la revolución de los inventos
+- [ ] med3-1 · El Sacro Imperio y el Papado
+- [ ] med3-0 · El feudalismo y el despegue de Europa
+- [ ] med3-13 · El románico: de Jaca y Frómista al Pórtico de la Gloria
+- [ ] med3-20 · Murasaki Shikibu y el Genji
+- [ ] med3-6 · La Reconquista (II): de las taifas a Las Navas de Tolosa
+- [ ] med3-14 · Almorávides y almohades
+- [ ] med3-11 · El Cid, entre la historia y el cantar
+- [ ] med3-17 · Cahokia, la ciudad del Misisipi
+- [ ] med3-2 · Inglaterra y Francia: Hastings y la Carta Magna
+- [ ] med3-3 · Las Cruzadas y el choque con el Islam
+- [ ] med3-15 · Hildegarda de Bingen
+- [ ] med3-16 · Angkor Wat
+- [ ] med3-18 · Averroes y Maimónides
+- [ ] med3-12 · La Escuela de Traductores de Toledo
+- [ ] med3-19 · Leonor de Aquitania
+- [ ] med3-10 · Y mientras tanto…
+- [ ] des-catedral-burgos · La catedral de Burgos
+- [ ] des-giralda · La Giralda
+- [ ] des-portico · El Pórtico de la Gloria
+- [ ] des-angkor-wat · Angkor Wat
+
 ## Hechos con Gemini
 
 - [x] ant1-8 (al final con Veo; el de Gemini también salió bien) · Sargón de Acad, el primer imperio

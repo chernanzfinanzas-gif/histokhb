@@ -1,0 +1,674 @@
+{
+ "zona": "Alicante",
+ "nuevos": [
+  {
+   "id": "castillo-de-santa-barbara-alicante",
+   "nombre": "Castillo de Santa Bárbara",
+   "provincia": "Alicante",
+   "comarca": "Alicante",
+   "lat": 38.349,
+   "lon": -0.4779,
+   "tipo": "castillo",
+   "estilo": "Fortaleza andalusí y abaluartada renacentista",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1562,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Corona el <b>monte Benacantil</b>, una mole de 167 m pegada al mar desde la que se domina toda la bahía. Vista desde la playa, la montaña parece un perfil humano, al que los alicantinos llaman <b>«la cara del moro»</b>. En sus laderas hay restos de la Edad del Bronce, íberos y romanos, pero la fortaleza nace a finales del siglo IX, en época musulmana.</p><p>Debe su nombre al día en que la tomó el infante Alfonso, el futuro Alfonso X el Sabio: el <b>4 de diciembre de 1248</b>, fiesta de Santa Bárbara. En 1296 pasó a la Corona de Aragón con Jaime II. La gran reforma llegó con Felipe II: entre <b>1562 y 1580</b>, con proyectos de Juan Bautista Antonelli y el Fratín, se levantó la mayor parte de lo que vemos hoy.</p><p>Sufrió el bombardeo francés de 1691, estuvo en manos inglesas en la guerra de Sucesión y en 1873 fue cañoneado por la fragata Numancia de los cantonalistas de Cartagena. Fue prisión en la Guerra Civil y campo de concentración franquista hasta finales de 1939. Se abrió al público en 1963, cuando se inauguraron los <b>ascensores</b> que suben por dentro de la montaña.</p>"
+   },
+   "ver_alli": [
+    "La Torreta, el recinto más alto, con la base de la vieja torre del homenaje (siglos XI-XIII).",
+    "El Salón Felipe II, en el recinto intermedio.",
+    "Las marcas y grabados de los presos de la Guerra Civil.",
+    "La subida en ascensor desde la avenida de Jovellanos, frente al Postiguet."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Santa_B%C3%A1rbara"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "basilica-de-santa-maria-alicante",
+   "nombre": "Basílica de Santa María (Alicante)",
+   "provincia": "Alicante",
+   "comarca": "Alicante",
+   "lat": 38.3461,
+   "lon": -0.4793,
+   "tipo": "iglesia",
+   "estilo": "Gótico valenciano con portada barroca",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Es la <b>iglesia más antigua de Alicante</b>. Ocupa el solar de la antigua mezquita mayor de la Villavieja, que Alfonso X el Sabio consagró en 1248 a Santa María de la Asunción. El templo gótico valenciano se levantó entre los siglos XIV y XVI, y la reforma más importante llegó tras un incendio en 1484.</p><p>Tiene una sola nave con capillas entre los contrafuertes. Las dos torres de la fachada parecen iguales, pero no lo son: la de la derecha tiene <b>forma de L y es del siglo XIV</b>, y la de la izquierda es rectangular y se alzó en 1713. La portada es barroca, con esculturas de Juan Bautista Borja.</p><p>Dentro destacan el <b>altar mayor rococó dorado</b> del siglo XVIII, el coro gótico del XV y una pila bautismal de mármol de Carrara del XVI, atribuida a la escuela de Miguel Ángel. Es basílica desde 2007.</p>"
+   },
+   "ver_alli": [
+    "Compara las dos torres de la fachada: una medieval en L, otra de 1713.",
+    "La portada barroca de Juan Bautista Borja.",
+    "El retablo mayor rococó.",
+    "La pila bautismal italiana de mármol de Carrara."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_Santa_Mar%C3%ADa_(Alicante)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "concatedral-de-san-nicolas-alicante",
+   "nombre": "Concatedral de San Nicolás de Bari",
+   "provincia": "Alicante",
+   "comarca": "Alicante",
+   "lat": 38.3455,
+   "lon": -0.4825,
+   "tipo": "iglesia",
+   "estilo": "Renacimiento herreriano; capilla de la Comunión barroca",
+   "epoca": "Renacimiento",
+   "anio": 1616,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>El <b>6 de diciembre de 1244</b>, día de San Nicolás, los musulmanes entregaron Alicante al infante Alfonso de Castilla, que mandó levantar una iglesia al santo y puso la ciudad bajo su protección. Aquel primer templo se amplió varias veces y en el siglo XVII, ya convertido en colegiata, se derribó para construir el actual.</p><p>La iglesia de hoy se hizo entre <b>1616 y 1662</b> con planos de Agustín Bernardino, discípulo de Juan de Herrera. Por fuera es muy sobria. Por dentro sorprende su altura: la <b>cúpula</b> de Miguel del Real, con casetones, llega a 44,79 m en el óculo de la linterna. Junto a ella hay un claustro con trazas del siglo XV.</p><p>En contraste, la <b>capilla de la Comunión</b>, del siglo XVIII, es una explosión decorativa considerada una de las mejores muestras del alto barroco español. Desde 1959 comparte la sede de la diócesis con la catedral de Orihuela.</p>"
+   },
+   "ver_alli": [
+    "La cúpula con casetones vista desde el crucero.",
+    "La capilla de la Comunión, en contraste con la sobriedad del resto.",
+    "El claustro, con restos del templo anterior."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Concatedral_de_San_Nicol%C3%A1s_de_Bari"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palmeral-de-elche",
+   "nombre": "Palmeral de Elche (Huerto del Cura)",
+   "provincia": "Alicante",
+   "comarca": "Elche",
+   "lat": 38.2642,
+   "lon": -0.6912,
+   "tipo": "monumento",
+   "estilo": "Huertos de palmeras con riego tradicional",
+   "epoca": "Andalusí",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Entre 200.000 y 300.000 palmeras repartidas en unas 500 hectáreas dentro de la ciudad: el Palmeral de Elche es el <b>más grande de Europa</b> y es <b>Patrimonio de la Humanidad</b> desde el 30 de noviembre de 2000. La especie es la palmera datilera, y el palmeral se organiza en huertos regados por acequias.</p><p>En los vasos íberos de Elche ya aparecen palmeras dibujadas, pero el palmeral tomó su forma ordenada en época musulmana, cuando se hizo la gran red de acequias atribuida a <b>Abderramán I</b>. Tras la conquista de Jaime I en 1265 se evitó arrasarlo, y desde la Edad Media lo protegen las leyes.</p><p>El <b>Huerto del Cura</b> tiene los ejemplares mejores y más antiguos, algunos de más de 300 años. Su estrella es la <b>Palmera Imperial</b>, con siete brazos en forma de candelabro, bautizada así en honor de la emperatriz Sissi, que visitó el huerto en 1894.</p>"
+   },
+   "ver_alli": [
+    "La Palmera Imperial del Huerto del Cura, con siete brazos.",
+    "La Ruta del Palmeral, de unos 2,6 km, que sale del Museo del Palmeral (Huerto de San Plácido).",
+    "El Parque Municipal y el Huerto del Chocolatero, otros huertos famosos."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Palmeral_de_Elche"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "basilica-de-santa-maria-elche",
+   "nombre": "Basílica de Santa María de Elche",
+   "provincia": "Alicante",
+   "comarca": "Elche",
+   "lat": 38.2672,
+   "lon": -0.6976,
+   "tipo": "iglesia",
+   "estilo": "Barroco, con portadas rococó e interior neoclásico",
+   "epoca": "Barroco",
+   "anio": 1672,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Es el escenario del <b>Misteri d'Elx</b>, el drama cantado en valenciano antiguo sobre la Asunción de la Virgen que se representa aquí cada 14 y 15 de agosto gracias a una bula de Urbano VIII. En este lugar estuvo la mezquita, que Alfonso X consagró a Santa María al conquistar la ciudad en 1265. El templo actual es el tercero.</p><p>Se construyó entre <b>1672 y 1784</b>, con Francisco Verde, Pedro Quintana, Ferrán Fouquet y <b>Jaime Bort</b>, autor de la fachada de la catedral de Murcia. Mezcla estilos: portada principal barroca italianizante, otras portadas y girola rococó, interior neoclásico.</p><p>Sus tres portadas son del escultor <b>Nicolás de Bussy</b>, de 1680-1682. La principal, con la Asunción y Coronación de la Virgen, parece un retablo de piedra. Un incendio provocado en febrero de 1936 destruyó la imagen original de la Virgen, sustituida después por una de José Capuz.</p>"
+   },
+   "ver_alli": [
+    "La portada principal de Nicolás de Bussy, como un retablo en piedra.",
+    "La capilla de la Comunión, diseñada en 1782 por Lorenzo Chápuli.",
+    "El tabernáculo de mármol hecho en Nápoles con diseño de Jaime Bort."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Bas%C3%ADlica_menor_de_Santa_Mar%C3%ADa_(Elche)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-la-atalaya-villena",
+   "nombre": "Castillo de la Atalaya (Villena)",
+   "provincia": "Alicante",
+   "comarca": "Villena (Alto Vinalopó)",
+   "lat": 38.6319,
+   "lon": -0.861,
+   "tipo": "castillo",
+   "estilo": "Almohade y bajomedieval",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Desde una estribación del monte de San Cristóbal, el castillo de Villena vigilaba la vieja frontera entre Castilla y Aragón. Lo construyeron los musulmanes antes del siglo XII (las fuentes árabes ya lo citan en 1172), y era tan fuerte que las tropas de Jaime I tuvieron que asediarlo tres veces hasta tomarlo en 1240.</p><p>Pasó a Castilla y fue de don <b>Juan Manuel</b>, el escritor, que tuvo aquí a su joven esposa, la infanta Constanza de Aragón, hasta que cumplió doce años. Más tarde Juan Pacheco, marqués de Villena, revistió los muros, añadió la segunda muralla y los pisos altos de la torre, y lo convirtió en <b>castillo-palacio</b>.</p><p>La torre del homenaje guarda restos de dos <b>bóvedas almohades</b> que, con las de Biar, están entre las más antiguas de España y del Magreb. Las tropas de Suchet volaron sus cubiertas en la guerra de la Independencia. Tras años de abandono, el arqueólogo José María Soler logró que se restaurara desde 1958.</p>"
+   },
+   "ver_alli": [
+    "Las bóvedas almohades de la torre del homenaje.",
+    "La doble muralla con torres.",
+    "Los revestimientos y la segunda muralla que añadió Juan Pacheco."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_la_Atalaya"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-biar",
+   "nombre": "Castillo de Biar",
+   "provincia": "Alicante",
+   "comarca": "Biar (Alto Vinalopó)",
+   "lat": 38.6313,
+   "lon": -0.7648,
+   "tipo": "castillo",
+   "estilo": "Almohade",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>En lo alto del cerro que domina Biar se alza un castillo del <b>siglo XII</b> que se volvió clave en tiempos de Jaime I, cuando el Tratado de Almizra lo dejó como fortaleza de frontera. Está bien conservado y forma parte de la Ruta de los Castillos del Vinalopó.</p><p>Tiene un recinto con <b>cuatro torres semicirculares</b> en las esquinas y otro con estructuras cúbicas y la torre del homenaje. La torre, de tapial, mide <b>17 metros</b> y tiene tres pisos: el inferior con bóveda de cañón y los otros dos con <b>bóvedas nervadas almohades</b>. Con las de Villena, están entre las más antiguas de España y del Magreb, y son las únicas de un edificio militar en la península.</p><p>En el siglo XV las fuentes describen dentro cuerpo de guardia, palacio del alcaide, cocina, horno, establo e iglesia. Aún se conserva el <b>aljibe</b> excavado en la roca. En la Edad Moderna perdió su función, llegó a usarse como cementerio y se restauró desde finales del siglo XX.</p>"
+   },
+   "ver_alli": [
+    "Las bóvedas nervadas almohades de los pisos altos de la torre.",
+    "Las cuatro torres semicirculares del recinto exterior.",
+    "El aljibe excavado en la roca.",
+    "El patio central, en torno al cual se organizaban las dependencias del alcaide y la guarnición."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Biar"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "guadalest",
+   "nombre": "El Castell de Guadalest",
+   "provincia": "Alicante",
+   "comarca": "Guadalest (Marina Baixa)",
+   "lat": 38.6771,
+   "lon": -0.1972,
+   "tipo": "poblacion",
+   "estilo": "Villa fortificada medieval",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Encaramado sobre una roca en el valle de Guadalest, entre las sierras de Aitana, Xortà y Serrella, este pequeño pueblo de menos de 300 habitantes es famoso por el pintoresco castillo que domina todo el valle. Su casco histórico, la Villa, es <b>conjunto histórico-artístico desde 1974</b>.</p><p>Ya existía en época musulmana: el <b>castillo de San José</b> y el de la Alcozaiba son fortalezas del siglo XI. Conquistado a mediados del siglo XIII, Jaime II lo dio en feudo a Bernardo de Sarriá en 1293. Después pasó a los Cardona, almirantes de Aragón, a quienes Carlos I hizo <b>marqueses de Guadalest</b> en 1543. Hasta la expulsión de 1609 vivía aquí una abundante población morisca.</p><p>El castillo de San José quedó destrozado por los <b>terremotos de 1644 y 1748</b> y por una voladura en la guerra de Sucesión, en 1708. A sus pies están la casa de los Orduña, alcaides del marquesado, del siglo XVII, y la iglesia barroca de la Asunción. Abajo queda el embalse de Guadalest, terminado en 1971.</p>"
+   },
+   "ver_alli": [
+    "Las ruinas del castillo de San José, en lo más alto de la roca.",
+    "La torre solitaria del castillo de la Alcozaiba.",
+    "La Casa Orduña, con mobiliario y cerámica de los siglos XVIII y XIX.",
+    "El embalse de Guadalest, al pie del pueblo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Guadalest"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "altea-casco-antiguo",
+   "nombre": "Altea: casco antiguo",
+   "provincia": "Alicante",
+   "comarca": "Altea (Marina Baixa)",
+   "lat": 38.5989,
+   "lon": -0.0517,
+   "tipo": "poblacion",
+   "estilo": "Villa amurallada renacentista",
+   "epoca": "Renacimiento",
+   "anio": 1604,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>En lo más alto del casco antiguo, rodeada por las viejas murallas, destaca una cúpula de tejas azules y blancas: por eso llaman a Altea <b>«la cúpula del Mediterráneo»</b>. El casco antiguo nació como <b>villa fortificada</b>, con murallas y un castillo terminados en 1604. La carta fundacional de la población se firmó en 1617.</p><p>La primera iglesia se empezó en 1607, junto al castillo, y era una construcción austera y defensiva. En la segunda mitad del siglo XIX se derribaron los baluartes y el castillo. Entre <b>1901 y 1910</b>, los arquitectos Adrián y Julio Vela Gadea levantaron la actual <b>iglesia de Nuestra Señora del Consuelo</b>, entre neoclásica y modernista, con dos campanarios y la famosa cúpula sobre el crucero.</p><p>Aún se reconocen las antiguas murallas, con portales y calles de acceso. Desde 2013 el «Baluard i nucli històric renaixentista d'Altea» es <b>bien de interés cultural</b>.</p>"
+   },
+   "ver_alli": [
+    "La cúpula de tejas azules y blancas de la iglesia del Consuelo.",
+    "Los restos de muralla y los portales de la villa.",
+    "La plaza de la iglesia, ampliada a principios del siglo XX."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Nuestra_Se%C3%B1ora_del_Consuelo_(Altea)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "catedral-de-orihuela",
+   "nombre": "Catedral del Salvador y Santa María de Orihuela",
+   "provincia": "Alicante",
+   "comarca": "Orihuela (Vega Baja)",
+   "lat": 38.0858,
+   "lon": -0.946,
+   "tipo": "iglesia",
+   "estilo": "Gótico valenciano con añadidos renacentistas",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Se empezó a finales del siglo XIII sobre restos visigodos e hispanoárabes. En 1281 Alfonso X la declaró la iglesia mayor de la villa, y su ascenso fue lento: colegiata en 1413 por bula de Benedicto XIII y, tras largos pleitos con Cartagena, <b>sede de obispado propio en 1564</b>, por decisión de Pío IV a petición de Felipe II. Hoy comparte la sede de la diócesis de Orihuela-Alicante con la concatedral de San Nicolás.</p><p>Es pequeña y compacta, con muros lisos de sillar y casi sin ventanas. La <b>torre</b> es lo más antiguo, de finales del XIII y el XIV, y llegó a usarse como prisión: quedan inscripciones de los presos. Tiene tres portadas de tres épocas: la de <b>las Cadenas</b> (siglo XIV, gótica con arco polilobulado de influencia mudéjar), la de <b>Loreto</b> (siglo XV, con ángeles músicos) y la renacentista de la <b>Anunciación</b>, de Juan Inglés.</p><p>El claustro renacentista, hecho hacia 1560 por Hernando Veliz para el convento de la Merced, se trasladó aquí en 1942. A pesar de su tamaño, la catedral es la mayor pinacoteca religiosa de la Comunitat Valenciana, con obras de <b>Velázquez</b>, Ribera, Valdés Leal, Morales o Juan de Juanes.</p>"
+   },
+   "ver_alli": [
+    "La Puerta de las Cadenas, con arco polilobulado.",
+    "Los ángeles músicos de la Puerta de Loreto.",
+    "El claustro renacentista traído del convento de la Merced.",
+    "El Museo Diocesano de Arte Sacro, junto al claustro."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_del_Salvador_y_Santa_Mar%C3%ADa_(Orihuela)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-la-santa-faz",
+   "nombre": "Monasterio de la Santa Faz",
+   "provincia": "Alicante",
+   "comarca": "Alicante (Santa Faz)",
+   "lat": 38.3895,
+   "lon": -0.4427,
+   "tipo": "iglesia",
+   "estilo": "Barroco, con torre del siglo XVI",
+   "epoca": "Barroco",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Guarda la reliquia más venerada de Alicante: un lienzo que, según la tradición, sería uno de los pliegues del paño con que la Verónica limpió el rostro de Cristo. Mosén Pedro Mena, cura de Sant Joan d'Alacant, lo trajo de Roma. Según la leyenda, el <b>17 de marzo de 1489</b>, en una rogativa por la sequía, el lienzo se volvió pesadísimo en la rambla del Juncaret y de él brotó una lágrima.</p><p>En ese lugar se levantó el monasterio, refundado en 1518 por clarisas venidas de Gandia. La iglesia debe su aspecto <b>barroco</b> a la reforma del siglo XVIII. Lo más antiguo que se conserva es la <b>torre del siglo XVI</b>, con matacanes, troneras y garitas en las esquinas.</p><p>En 1936 se quemó el retablo barroco, pero dos vecinos salvaron la reliquia. Dentro están enterrados el compositor <b>Óscar Esplá</b> y el artista <b>Eusebio Sempere</b>, las dos únicas personalidades contemporáneas sepultadas en el monasterio. Alrededor ha crecido una pequeña pedanía que también se llama Santa Faz.</p>"
+   },
+   "ver_alli": [
+    "La torre defensiva del siglo XVI, con matacanes y garitas en las esquinas.",
+    "La fachada barroca y la plaza del monasterio.",
+    "El camarín donde se guarda la reliquia."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_la_Santa_Faz_(Alicante)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-denia",
+   "nombre": "Castillo de Dénia",
+   "provincia": "Alicante",
+   "comarca": "Dénia (Marina Alta)",
+   "lat": 38.8431,
+   "lon": 0.1076,
+   "tipo": "castillo",
+   "estilo": "Andalusí, con baluartes renacentistas",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>En lo más alto de Dénia, el castillo protegió la ciudad en los siglos de la piratería mediterránea. En sus laderas han aparecido casas y defensas de la <b>Dianium romana</b>, pero el diseño de la fortaleza es <b>islámico, de los siglos XI y XII</b>. Después cada época añadió algo: la Torre Roja, la Torre del Consell en el siglo XV y los baluartes renacentistas.</p><p>Su momento de gloria llegó con el <b>duque de Lerma</b>, valido de Felipe III y marqués de Denia, que a principios del siglo XVII transformó el palacio del gobernador para recibir al rey y su séquito, con jardines, salas con vistas al mar y una escalera monumental. Junto a la puerta hizo colocar su propia estatua de mármol, encargada en Génova en 1612 a Giuseppe Carlone, hoy perdida.</p><p>El palacio y la Vila Vella quedaron destruidos en la guerra de Sucesión. Los franceses ocuparon el castillo en 1812 y no lo perdieron hasta un asedio de casi seis meses en 1813. La plaza militar se abandonó en 1859. Hoy, en el palacio del gobernador, está el museo arqueológico.</p>"
+   },
+   "ver_alli": [
+    "El Portal de la Villa, con arcos apuntados almohades.",
+    "La Torre del Consell, donde se reunía el consejo de la ciudad.",
+    "El museo arqueológico en la explanada del Gobernador.",
+    "El Camino Empedrado, con pavimento del siglo XIV."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Denia"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "la-alcudia",
+   "campos": {
+    "lat": 38.2392,
+    "lon": -0.696,
+    "estilo": "Ibérico, romano y visigodo",
+    "ver_alli": [
+     "Empezar por el centro de interpretación, con las piezas principales halladas en el yacimiento.",
+     "Recorrer las ruinas: termas, viviendas, una basílica y estructuras para el agua, con paneles explicativos.",
+     "Buscar el lugar donde apareció la Dama de Elche en 1897 (el original está en el Museo Arqueológico Nacional).",
+     "Completar la visita con el Palmeral de Elche, Patrimonio de la Humanidad, a unos dos kilómetros."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Yacimiento_arqueol%C3%B3gico_de_La_Alcudia",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ01vY6Le2Yw0Rsc6sSwynd8Q"
+    ]
+   }
+  },
+  {
+   "id": "pla-petracos",
+   "campos": {
+    "lat": 38.7604,
+    "lon": -0.1834,
+    "estilo": "Arte macroesquemático",
+    "texto": {
+     "general": "<p>En el margen izquierdo del barranco de Cúmulo, a unos 500 metros de altitud y a unos cuatro kilómetros de Castell de Castells, ocho abrigos guardan el mejor conjunto conocido de <b>arte macroesquemático</b>, un estilo exclusivo de las montañas del norte de Alicante. Cinco de ellos conservan pinturas bien visibles, de hace unos <b>8.000 años</b>, en pleno Neolítico antiguo.</p><p>Son figuras grandes pintadas en rojo con trazo grueso: <b>personajes con los brazos alzados</b> y los dedos extendidos, y largas bandas serpenteantes que suelen relacionarse con la fertilidad y el ciclo agrícola de los primeros campesinos. Junto a ellas hay un pequeño ciervo de estilo levantino, más tardío.</p><p>Las descubrieron en <b>1980</b> miembros del Centre d'Estudis Contestans. Desde 1998 forman parte del arte rupestre del arco mediterráneo, Patrimonio de la Humanidad, y en 2005 la Generalitat las declaró Parque de Interés Cultural.</p>"
+    },
+    "ver_alli": [
+     "Subir por el sendero corto desde el aparcamiento junto a la carretera de la Vall d'Ebo.",
+     "Fijarse en las grandes figuras humanas con los brazos en alto y en las bandas serpenteantes.",
+     "Usar los paneles del lugar para localizar cada motivo; unos prismáticos ayudan mucho.",
+     "Visita libre por el barranco de Cúmulo; el Museo Arqueológico de Alicante (MARQ) organiza visitas."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Pla_de_Petracos",
+     "https://rupestre.art/es/caves/pla-de-petracos",
+     "https://www.google.com/maps/place/?q=place_id:ChIJhXqG3efwYQ0RQ-_6-YEL0tU"
+    ]
+   }
+  },
+  {
+   "id": "la-sarga",
+   "campos": {
+    "lat": 38.6425,
+    "lon": -0.458,
+    "estilo": "Arte macroesquemático, levantino y esquemático",
+    "texto": {
+     "general": "<p>En el barranco de la Cova Foradada, en el término de Alcoi y en el límite del Parque Natural del Carrascal de la Font Roja, tres abrigos reúnen <b>146 motivos</b> pintados. Es el único conjunto conocido que junta los tres estilos del arte prehistórico del Mediterráneo: <b>macroesquemático, levantino y esquemático</b>. Lo descubrió en el verano de <b>1951</b> un grupo de excursionistas alcoyanos.</p><p>Lo más antiguo es lo macroesquemático, de hace unos 7.000 años: figuras humanas, serpentiformes y meandros, con personajes a los que se ha llamado «el brujo», «el orador» y «el arquero». Encima o al lado aparecen arqueros, ciervos y cabras del arte levantino en escenas de caza, y después las figuras esquemáticas: humanos muy simplificados, un caprino y signos.</p><p>Está inscrito como Bien de Interés Cultural desde 1997 y forma parte del arte rupestre del arco mediterráneo, Patrimonio de la Humanidad desde 1998.</p>"
+    },
+    "ver_alli": [
+     "Las visitas son guiadas y con reserva, organizadas por el Museu Arqueològic Camil Visedo de Alcoi.",
+     "En el abrigo II, buscar las figuras macroesquemáticas del «brujo» y del «orador».",
+     "Comparar en la misma pared los tres estilos: grandes figuras macroesquemáticas, arqueros levantinos y signos esquemáticos.",
+     "Llevar calzado de montaña: el acceso es por sendero."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/La_Sarga",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ424lmgUoYg0RBYDZ6u2C6N0"
+    ]
+   }
+  },
+  {
+   "id": "la-serreta",
+   "campos": {
+    "estilo": "Ibérico",
+    "comarca": "Alcoi, Cocentaina y Penàguila",
+    "texto": {
+     "general": "<p>En lo alto de la sierra que separa Alcoi, Cocentaina y Penàguila hay un doble yacimiento: un <b>poblado ibérico</b> de los contestanos, con casas de planta cuadrangular en largas filas, y un <b>santuario</b> en la cima, donde aparecieron numerosos exvotos de terracota. Desde allí se ve la sierra de Aixorta, por donde sale el sol en los equinoccios.</p><p>Lo descubrió en <b>1917</b> Camil Visedo, que lo excavó entonces y de nuevo en los años cincuenta; en los sesenta excavó Miquel Tarradell, y en 1987 apareció la necrópolis, con unas 80 sepulturas, sobre todo del siglo IV a. C., algunas con ajuares muy ricos y una falcata.</p><p>Es famoso por sus <b>diez inscripciones sobre láminas de plomo</b>. La más célebre, hallada el 23 de enero de 1921, está escrita con el alfabeto greco-ibérico en lugar del signario ibérico habitual. Fue declarado Monumento histórico-artístico en 1931.</p>"
+    },
+    "ver_alli": [
+     "Conviene consultar antes las condiciones de visita.",
+     "Desde la cima, mirar hacia la sierra de Aixorta, la referencia de los equinoccios.",
+     "El gran plomo escrito y los exvotos se exponen en el Museu Camil Visedo de Alcoi."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Plomo_de_La_Serreta",
+     "https://www.wikidata.org/wiki/Q6169550",
+     "https://es.wikipedia.org/wiki/La_Serreta"
+    ]
+   }
+  },
+  {
+   "id": "el-oral",
+   "campos": {
+    "lat": 38.1265,
+    "lon": -0.6579,
+    "estilo": "Ibérico antiguo",
+    "anio": -530,
+    "texto": {
+     "general": "<p>Sobre un espolón de la sierra del Molar, a unos 40 metros sobre el mar y junto a la margen izquierda del Segura, los contestanos levantaron de nueva planta, en el <b>último tercio del siglo VI a. C.</b>, un pequeño poblado de poco más de una hectárea. Lo habitaron unos cien años, hasta el último cuarto del siglo V a. C.</p><p>Lo rodeaba una <b>muralla de tapial</b> con dos torreones macizos en el lado norte, el más accesible. Las casas, de dos o tres habitaciones, se adosaban a la muralla y se abrían a calles casi perpendiculares: un urbanismo muy regular para su época. En el basurero, fuera del recinto, han aparecido vértebras de pescado, cáscaras de huevo de avestruz y desde vajilla griega de lujo hasta ollas de cocina.</p><p>Sus habitantes lo <b>abandonaron pacíficamente</b>, quizá para trasladarse al cercano poblado de La Escuera. Lo ha excavado la Universidad de Alicante.</p>"
+    },
+    "ver_alli": [
+     "Conviene consultar antes las condiciones de visita: el recinto está vallado.",
+     "Desde fuera se distinguen parte de los muros y la situación sobre el valle del Segura.",
+     "Los materiales están en el Museo Arqueológico Municipal."
+    ],
+    "fuentes": [
+     "https://www.marqalicante.com/contenido/int_arqueologicas/60%20El%20Oral%20%28San%20Fulgencio%29.pdf",
+     "https://www.google.com/maps/place/?q=place_id:ChIJsWApPn-tYw0RtUhb9MIH6YE"
+    ]
+   }
+  },
+  {
+   "id": "la-fonteta",
+   "campos": {
+    "lat": 38.1014,
+    "lon": -0.6505,
+    "estilo": "Fenicio",
+    "texto": {
+     "general": "<p>Entre las dunas de la desembocadura del Segura, junto a la Rábita Califal de Guardamar, se esconde una <b>ciudad portuaria fenicia</b> ocupada entre los siglos VIII y VI a. C., que pudo alcanzar unas ocho hectáreas. La arena fina que la cubrió la ha conservado tan bien que es una de las ciudades fenicias mejor conservadas del Mediterráneo.</p><p>La protegía una <b>enorme muralla</b> con bastión, algo poco frecuente en los yacimientos fenicios de la península. Dentro y fuera de ella había casas, y es uno de los conjuntos <b>metalúrgicos</b> más completos del mundo fenicio occidental. Han aparecido ánforas, platos y lámparas de barniz rojo, cerámica griega arcaica, huevos de avestruz, marfiles y escarabeos; piezas reutilizadas en la muralla hacen pensar en un templo aún sin localizar.</p><p>Muy cerca está el <b>Cabezo Pequeño del Estaño</b>, un enclave fenicio fortificado, con foso, ocupado hacia el 770-750 a. C. y abandonado hacia el 700 a. C.</p>"
+    },
+    "ver_alli": [
+     "Conviene comprobar antes si está abierto: la web oficial de turismo lo da como cerrado por restauración.",
+     "Fijarse en los restos de la gran muralla con su bastión.",
+     "Museu Arqueològic de Guardamar, con los materiales de ambos yacimientos."
+    ],
+    "fuentes": [
+     "https://www.comunitatvalenciana.com/es/alacant-alicante/guardamar-del-segura/monumentos/espacio-de-proteccion-arqueologica-la-fonteta",
+     "https://es.wikipedia.org/wiki/Ciudad_portuaria_fenicia_La_Fonteta",
+     "https://web.ua.es/es/modular2/cabezo-pequeno-del-estano.html",
+     "https://www.google.com/maps/place/?q=place_id:ChIJL5T98o-tYw0R6R9BdJgTx5E"
+    ]
+   }
+  },
+  {
+   "id": "benimaquia",
+   "campos": {
+    "lat": 38.8168,
+    "lon": 0.0724,
+    "estilo": "Ibérico antiguo",
+    "texto": {
+     "general": "<p>En una estribación del Montgó, sobre Dénia, los íberos levantaron hacia el <b>625 a. C.</b> un poblado fortificado que estuvo activo hasta hacia el 550 a. C. Su muralla, sobre un zócalo de cuatro metros, superaba los siete metros de altura y estaba reforzada por <b>seis torres</b>; hoy conserva unos cuatro.</p><p>Lo que lo hace único son sus <b>lagares</b>, donde se pisaba la uva para hacer mosto y vino. Es uno de los testimonios más antiguos de producción de vino en el Mediterráneo occidental: los íberos aprendieron a elaborarlo de los fenicios, con quienes comerciaban.</p><p>Siglos después, sobre todo en el XIX, muchas de sus piedras se usaron para abancalar las laderas del Montgó, y hoy los restos asoman entre el matorral.</p>"
+    },
+    "ver_alli": [
+     "Visita libre por una senda estrecha y suelta; mejor con calzado de montaña.",
+     "Buscar los restos de muralla y los lagares entre la vegetación.",
+     "Vistas sobre la costa y, en días claros, hasta Ibiza.",
+     "Museo Arqueológico de Dénia, en el castillo."
+    ],
+    "fuentes": [
+     "https://multimedia.comunitatvalenciana.com/9B664BA6EFBD4B0B9318D443FFA61297/doc/67B678A7683C40DEB86D3AEA478F76A8/MAPA_LOS_IBEROS_ES_2025.pdf",
+     "https://alicanteplaza.es/alicanteplaza/benimaquia-la-fortaleza-que-presidio-la-marina-alta-cinco-siglos-antes-que-el-castillo-de-denia",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ705RtFUDnhIRVj_oOl_Gvjk"
+    ]
+   }
+  },
+  {
+   "id": "puig-alcoi",
+   "campos": {
+    "lat": 38.6652,
+    "lon": -0.4574,
+    "estilo": "Ibérico",
+    "texto": {
+     "general": "<p>En la cima de El Puig, o Puig de les Florencies, a <b>888 metros</b> de altura, se asentó gente durante buena parte del primer milenio antes de Cristo. Es un buen ejemplo de <b>poblado ibérico fortificado en altura</b>, entre los siglos VII y IV a. C., de cerca de hectárea y media, donde vivían unas <b>300 personas</b>.</p><p>Lo que se ve hoy corresponde sobre todo a su última etapa, en el siglo IV a. C.: casas cuadrangulares de piedra a lo largo de calles rectas. Las defensas se concentraban en el único camino de acceso, con un torreón de 5 por 12 metros levantado en esa época, durante una gran reforma del poblado. En los espacios abiertos se procesaban los frutos del campo y se trabajaba la lana.</p><p>Conocido desde la década de 1910 y excavado a lo largo de más de un siglo, es, junto con La Serreta, un referente para conocer a los íberos de tierras valencianas. Es Bien de Interés Cultural.</p>"
+    },
+    "ver_alli": [
+     "Visita libre por una senda de 600 m desde el final de la urbanización El Estepar.",
+     "Las plantas de las casas están recreadas y hay paneles explicativos.",
+     "Vistas sobre Alcoi y La Sarga desde la cima.",
+     "La Serreta y el museo de Alcoi."
+    ],
+    "fuentes": [
+     "https://www.valenciabonita.es/2021/11/17/poblado-iberico-el-puig-alcoy/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJBSCgquWHYQ0RCCIDAT0FrjU"
+    ]
+   }
+  },
+  {
+   "id": "lucentum",
+   "campos": {
+    "lat": 38.3654,
+    "lon": -0.438,
+    "estilo": "Ibérico, púnico y romano",
+    "texto": {
+     "general": "<p>En un pequeño cerro junto a la playa de la Albufereta, unos íberos contestanos fundaron en el <b>siglo IV a. C.</b> una ciudad fortificada que recibió fuerte influencia cartaginesa antes y durante la segunda guerra púnica; se cree que es la que los griegos llamaban <b>Akra Leuké</b>. Tras la conquista romana se llamó <b>Lucentum</b>, la antecesora de Alicante.</p><p>Su época de esplendor fue entre el siglo I a. C. y el I d. C., con foro y termas. Después decayó y en los siglos II y III quedó prácticamente abandonada; en los siglos X u XI se instaló encima un cementerio musulmán. El conjunto ocupa unos <b>30.000 m²</b>, con importantes restos de muralla y torres prerromanas.</p><p>Ya en 1780 el conde de Lumiares lo identificó como Lucentum. Declarado monumento histórico-artístico en 1961, se salvó de la especulación inmobiliaria gracias, entre otros, a la arqueóloga sueca Solveig Nordström.</p>"
+    },
+    "ver_alli": [
+     "Yacimiento con entrada, gestionado por el MARQ.",
+     "Recorrer la muralla con sus torres, el foro y las termas.",
+     "Los materiales de la necrópolis están en el MARQ, Museo Arqueológico de Alicante."
+    ],
+    "fuentes": [
+     "https://valencianews.es/cultura/el-marq-y-los-yacimientos-de-lucentum-y-la-illeta-estrenan-horario-de-invierno/",
+     "https://es.wikipedia.org/wiki/Lucentum",
+     "https://www.google.com/maps/place/?q=place_id:ChIJDcb9l845Yg0Rg3euMJAieUk"
+    ]
+   }
+  },
+  {
+   "id": "illeta-banyets",
+   "campos": {
+    "estilo": "Prehistórico, ibérico y romano",
+    "texto": {
+     "general": "<p>Una pequeña península junto al mar de El Campello, que fue isla hasta mediados del siglo XX, guarda más de <b>5.000 años</b> de historia: poblados de la Edad del Cobre y de la Edad del Bronce, del segundo milenio antes de Cristo, y después ocupaciones orientalizante, ibérica y romana.</p><p>El poblado <b>íbero de los siglos IV-II a. C.</b> tenía muchos almacenes y pocas viviendas, señal de una intensa actividad comercial con otros pueblos del Mediterráneo, y dos edificios que parecen <b>templos</b>, algo muy raro en este tipo de poblados.</p><p>De época romana quedan unas pequeñas termas de una villa desaparecida y unas <b>piscinas talladas en la roca</b> y comunicadas con el mar para criar peces, que la tradición llama «els Banyets de la Reina», los baños de una reina mora. La excavaron Francisco Figueras Pacheco entre 1931 y 1935 y Enrique Llobregat en los años setenta.</p>"
+    },
+    "ver_alli": [
+     "Yacimiento con entrada (MARQ), con visitas guiadas.",
+     "Buscar los dos edificios interpretados como templos ibéricos.",
+     "Asomarse a las piscinas romanas talladas en la roca, «els Banyets de la Reina»."
+    ],
+    "fuentes": [
+     "https://www.valenciabonita.es/2024/10/18/parque-arqueologico-illeta-dels-banyets/",
+     "https://www.wikidata.org/wiki/Q1590778"
+    ]
+   }
+  },
+  {
+   "id": "villa-albir",
+   "campos": {
+    "lat": 38.5735,
+    "lon": -0.0663,
+    "estilo": "Romano bajoimperial",
+    "texto": {
+     "general": "<p>Junto a la playa de l'Albir se conservan los restos de una <b>villa romana bajoimperial</b>, clave para conocer el poblamiento rural del norte de la provincia de Alicante a partir del siglo IV. Se descubrió hacia 1983 y las excavaciones se retomaron en 2008, veinticinco años después.</p><p>Sus <b>termas</b> son de las mejor conservadas de la provincia. En la parte agrícola de la villa, al este del patio y de las termas, se ha localizado una <b>almazara</b> con el contrapeso y el área de la prensa de aceite, y fragmentos de grandes tinajas (dolia).</p><p>En abril de <b>2011</b> abrió como el primer Museo al Aire Libre de la Comunidad Valenciana, pionero en recursos 3D, y desde 2022 unas gafas de realidad virtual recrean una recepción en el peristilo, un baño en las termas y un banquete.</p>"
+    },
+    "ver_alli": [
+     "Recorrer las termas, de las mejor conservadas de la provincia.",
+     "Ver la zona de la almazara, con el contrapeso de la prensa de aceite.",
+     "Probar las gafas de realidad virtual que reconstruyen la vida en la villa.",
+     "Sala audiovisual con piezas halladas en la excavación."
+    ],
+    "fuentes": [
+     "https://s.ua.es/en/mubn",
+     "https://alicanteplaza.es/alicanteplaza/lalfas-y-la-ua-crean-una-aplicacion-para-el-museo-villa-romana",
+     "https://www.marqalicante.com/en/?p=45318",
+     "https://www.google.com/maps/place/?q=place_id:ChIJUXZrG1IBYg0RTVT5c7xso4U"
+    ]
+   }
+  },
+  {
+   "id": "torre-sant-josep",
+   "campos": {
+    "estilo": "Romano (mausoleo turriforme)",
+    "texto": {
+     "general": "<p>A unos tres kilómetros al noreste de La Vila Joiosa, mirando al mar, se alza esta <b>torre funeraria romana</b> construida hacia mediados del siglo II d. C. (las fuentes la fechan entre el segundo cuarto del siglo y los años 150-170). Es de las mayores tumbas romanas conservadas en España.</p><p>Tiene planta rectangular sobre un podio escalonado de cinco gradas, unos <b>36 metros de perímetro</b>, pilastras en las esquinas con <b>capiteles corintios</b> y una única sala interior. A diferencia de lo habitual, no se puso junto a un camino sino frente al Mediterráneo, para que la vieran los navegantes. Según la oficina de turismo honraba a Lucio Terencio Marcino.</p><p>Bien de Interés Cultural desde 1990, en 2007 se demolieron el cuerpo superior moderno y una casa adosada, y la restauración posterior le devolvió casi diez metros de altura, con un capitel original, tres réplicas y el arquitrabe.</p>"
+    },
+    "ver_alli": [
+     "Se ve desde fuera, en un jardín funerario con cipreses, hiedra, lavanda y mirto.",
+     "Fijarse en las pilastras de las esquinas y en el capitel corintio original.",
+     "Mirar el podio escalonado de cinco gradas sobre el que se levanta."
+    ],
+    "fuentes": [
+     "https://www.comunitatvalenciana.com/es/alacant-alicante/la-vila-joiosa-villajoyosa/monuments/torre-de-sant-josep",
+     "https://www.wikidata.org/wiki/Q2444564",
+     "https://www.valenciabonita.es/2017/12/13/la-torre-sant-josep-el-mayor-monumento-funerario-de-epoca-romana-de-hispania/",
+     "https://es.wikipedia.org/wiki/Torre_de_Sant_Josep"
+    ]
+   }
+  },
+  {
+   "id": "colegio-de-santo-domingo",
+   "campos": {
+    "lat": 38.0892,
+    "lon": -0.941,
+    "estilo": "Renacimiento y barroco",
+    "texto": {
+     "general": "<p>El cardenal <b>Fernando de Loazes</b>, patriarca de Antioquía, fundó en 1547 este colegio junto al convento dominico de Orihuela. En <b>1569</b> los papas Pío IV y Pío V le dieron rango de universidad pontificia y pública, aunque las clases no empezaron hasta 1610; en 1646 Felipe IV le concedió el título de Real. Fue universidad hasta su cierre definitivo en <b>1835</b>.</p><p>El edificio, de más de 15.000 m², se levantó entre los siglos XVI y XVIII y lo llaman «el Escorial de Levante». Lo proyectó Jerónimo Quijano en 1553 y tiene <b>dos claustros</b>: el mayor, de estilo renacentista desornamentado o herreriano, construido entre 1602 y 1614 por Agustín Bernardino, y el de la Universidad, de columnas, con elementos barrocos.</p><p>La iglesia, de nave única, se reedificó en la segunda mitad del siglo XVII; sus bóvedas tienen <b>pinturas murales</b> de Bartolomé Albert. Hoy es el Colegio Diocesano de Santo Domingo.</p>"
+    },
+    "ver_alli": [
+     "Visitas.",
+     "Comparar el sobrio claustro mayor herreriano con el claustro de la Universidad.",
+     "En la iglesia, levantar la vista a las pinturas murales de las bóvedas.",
+     "Fijarse en las tres grandes portadas del conjunto."
+    ],
+    "fuentes": [
+     "https://www.valenciabonita.es/2024/07/01/convento-de-santo-domingo-orihuela/",
+     "https://en.wikipedia.org/wiki/University_of_Orihuela",
+     "https://es.hispanopedia.com/wiki/Universidad_de_Orihuela",
+     "https://www.google.com/maps/place/?q=place_id:ChIJY-WGBeOYYw0RRj5CS1C1C-w"
+    ]
+   }
+  },
+  {
+   "id": "ayuntamiento-de-alicante",
+   "campos": {
+    "lat": 38.3453,
+    "lon": -0.4811,
+    "estilo": "Barroco",
+    "texto": {
+     "general": "<p>El antiguo consistorio de 1541 quedó destruido en el bombardeo naval francés de 1691. Para sustituirlo, Vicente Soler redactó el proyecto en 1699 y las obras empezaron en <b>1701</b>, pero, al parecer por falta de dinero, no se dieron por terminadas hasta <b>1780</b>.</p><p>Es un palacio barroco de tres plantas con una fachada de 49 metros entre <b>dos torres</b>, rematada por una balaustrada. Lo más barroco son las <b>columnas salomónicas</b> de la puerta principal. Dentro destacan el Salón Azul, que fue cámara real de Isabel II en 1858, y una capilla presidida por una Inmaculada de Lucas Espinós.</p><p>Al pie de la escalera principal está la <b>«cota cero»</b>, el punto desde el que se mide la altitud sobre el nivel del mar en toda España, calculada con mediciones en el puerto de Alicante entre 1870 y 1874. Es monumento histórico-artístico desde 1961.</p>"
+    },
+    "ver_alli": [
+     "Visitas.",
+     "Las columnas salomónicas de la puerta principal.",
+     "La placa de la cota cero, al pie de la escalera principal.",
+     "El Salón Azul y la capilla, si están abiertos a la visita."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Casa_consistorial_de_Alicante",
+     "https://www.alicante.es/es/patrimonio-cultural/ayuntamiento-alicante",
+     "https://alicanteplaza.es/alicanteplaza/conoce-el-origen-y-construccion-del-actual-ayuntamiento",
+     "https://www.google.com/maps/place/?q=place_id:ChIJXekRTbA3Yg0Rz_VQbGC6OX0"
+    ]
+   }
+  },
+  {
+   "id": "mupe-elche",
+   "campos": {
+    "estilo": "Paleontología (fósiles del Mioceno y otros)",
+    "fuentes": [
+     "https://elespanol.com/alicante/cultura/20230804/mupe-elche-expone-dientes-megalodon-tiburon-navego-mediterraneo/784171711_0.html",
+     "https://www.elespanol.com/alacant/elx/20240317/megalodon-reino-elche-dientes-demuestran-existencia-tiburon-gigante/839666350_0.html",
+     "https://www.comunitatvalenciana.com/en/alacant-alicante/elx-elche/museums/museu-paleontologic-d-elx",
+     "https://www.google.com/maps/place/?q=place_id:ChIJjV3ZhvK2Yw0R6RZvgN763CM"
+    ]
+   }
+  },
+  {
+   "id": "cova-de-l-or-beniarres",
+   "campos": {
+    "lat": 38.8447,
+    "lon": -0.3642,
+    "estilo": "Neolítico cardial",
+    "fuentes": [
+     "https://www.marqalicante.com/en/Paginas/es/COVA-DE-LOR-MUSEO-DE-SITIO-P651-M1.html",
+     "https://marqalicante.com/en/?p=16701",
+     "https://www.google.com/maps/place/?q=place_id:ChIJhbB8kCKSYQ0RJVyC2bP0s3g"
+    ]
+   }
+  },
+  {
+   "id": "museu-arqueologic-alcoi",
+   "campos": {
+    "estilo": "Edificio del siglo XVI (antigua Casa de la Vila)",
+    "fuentes": [
+     "https://www.comunitatvalenciana.com/en/alacant-alicante/alcoi-alcoy/museums/museu-arqueologic-municipal-camilo-visedo-monto",
+     "https://raco.cat/index.php/RecerquesMuseuAlcoi/article/download/172366/224714",
+     "https://en.wikipedia.org/wiki/Archaeological_Museum_Camil_Visedo",
+     "https://www.google.com/maps/place/?q=place_id:ChIJD3iyMU2GYQ0RCJ_01zfmlxk"
+    ]
+   }
+  },
+  {
+   "id": "museo-arqueologico-y-de-historia-de-elche",
+   "campos": {
+    "lat": 38.2682,
+    "lon": -0.6977,
+    "estilo": "Castillo-palacio medieval (Palau d'Altamira)",
+    "fuentes": [
+     "https://www.comunitatvalenciana.com/es/alacant-alicante/elx-elche/museos/museu-arqueologic-i-d-historia-d-elx-mahe",
+     "https://alicanteplaza.es/alicanteplaza/LaDamadeMadridcronologadelaprdidadeliconodeElche",
+     "https://www.google.com/maps/place/?q=place_id:ChIJqcYXlPS2Yw0RqKpRcQER2N8"
+    ]
+   }
+  }
+ ]
+}
