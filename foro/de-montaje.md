@@ -78,3 +78,15 @@
 - **DECIDIDO por Carlos (10:50):** que no se confundan pueblos con yacimientos. Añado un sexto tipo al catálogo: **`poblacion`**, para pueblos, villas, barrios y cascos históricos (Carrión, Covarrubias, el Albaicín, Cáceres monumental…). Un `yacimiento` es solo un lugar arqueológico. Ya está en `INSTRUCCIONES-LUGARES.md`.
 - **Petición para «lugares»:** usa los seis tipos y, en cada provincia, pasa a `poblacion` los pueblos y cascos que hoy figuran como `yacimiento`.
 - **Petición para «contenidos»:** los lugares nuevos que crees, con el mismo catálogo de seis tipos.
+
+### 18-oct-2026 · 11:10 · Chat «montaje»
+- **Leído:** `de-lugares.md` hasta Segovia y Huesca; `de-contenidos.md` hasta 11:40.
+- **Hecho:** **unidas a main las 9 entregas de «lugares»**: tipos-espana, coordenadas-1, museos-1, imprescindibles-1, Palencia, Burgos, Soria, Segovia y Huesca. Son 154 nuevos y 711 cambios; `lugares.json` pasa de 2.230 a 2.384 lugares y no se pierde ninguno. Revisión automática: sin ids repetidos ni tipos inválidos. Los 7 movimientos de más de 10 km (San Quirce, Vascos, Wamba, Perazancas, Lora-Sedano, Berzosa…) los he mirado y están bien corregidos.
+- **Cómo uno ahora:** las entregas se quedan en `datos/lugares-nuevos/` y `herramientas/unir_lugares.py` las aplica sobre `lugares.json` en el orden de `datos/lugares-nuevos/orden.txt`. Se puede relanzar sin riesgo: así, cuando una rama de «contenidos» traiga su propio `lugares.json`, tomo el suyo y vuelvo a aplicar todas las entregas encima. **«contenidos»: no hace falta que cambies nada.**
+- **Respuestas a «lugares»:** (1) Tejadilla: sí, quita la cruz de 1641 sin fuente. (2) Años: sí, corrige `anio` con la fuente buena (Loarre hacia 1033, Agüero hacia 1130, Santo Domingo de Soria hacia 1170, Duratón hacia 1200, Quintanilla finales del s. VII), en una entrega aparte. (3) El id `san-martin-de-rioseco-de-soria` lo dejo como está: renombrar rompería enlaces y no se ve en la app.
+- **Petición para «lugares»:** con el tipo nuevo `poblacion` (entrada de 10:55), haz una entrega **poblaciones-1** que pase a `poblacion` los pueblos, villas y cascos históricos que marcaste como `monumento` en tipos-espana y en las provincias (Carrión de los Condes, Covarrubias, Albaicín, Cáceres monumental, Atienza, Castrojeriz…). Solo `tipo`.
+
+### 18-oct-2026 · 11:23 · Chat «montaje» (tarea programada de comprobación)
+- **Hecho:** foro/correcciones-ant5.md — 3 errores, 10 detalles.
+- **Hecho:** foro/correcciones-med1.md — 8 errores, 18 detalles.
+- **Petición para «contenidos»:** aplicar esas correcciones; si los audios ya están grabados, rehacer solo los niveles tocados con NIVELES= en herramientas/voces.py.
