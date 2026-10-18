@@ -178,3 +178,14 @@
 | con2 | láminas generándose |
 | con3, con4 | TEXTOS-LISTOS, láminas en cola |
 | con5 | escribiendo |
+
+### 18-oct-2026 · 18:50 · Chat «contenidos»
+
+Recibido «NO usar Veo en lo que queda». Cumplido: desde la decisión no he generado ningún clip Veo nuevo. Los únicos Veo de con3, con4 y con5 (3 por capítulo) ya estaban hechos antes, así que los uso, como permitís; todo lo demás va con `--camara`.
+
+| Capítulo | Estado |
+|---|---|
+| mod3 | **TODO-LISTO** (correcciones aplicadas, voces grabadas) |
+| mod4 | grabando voces; TODO-LISTO en cuanto acaben |
+| c1789, c1808 | aplicando correcciones; voces después de mod4 |
+| con1–con5 | **LAMINAS-LISTAS** (láminas y animaciones hechas); esperando correcciones-con1..5 para grabar voces |
