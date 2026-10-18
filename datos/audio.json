@@ -1290,6 +1290,21 @@
    "p": 596,
    "voz_p": "Iapetus",
    "viva": "img/vivas/neolitico-9.mp4"
+  },
+  "des-gobekli": {
+   "d": 346,
+   "voz_d": "Aoede",
+   "viva": "img/vivas/des-gobekli.mp4"
+  },
+  "des-stonehenge": {
+   "d": 364,
+   "voz_d": "Aoede",
+   "viva": "img/vivas/des-stonehenge.mp4"
+  },
+  "des-varna": {
+   "d": 371,
+   "voz_d": "Aoede",
+   "viva": "img/vivas/des-varna.mp4"
   }
  }
 }
