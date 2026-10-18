@@ -1,0 +1,83 @@
+{
+ "zona": "Fuentes de Wikidata perdidas al unir",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "abadia-de-san-quirce",
+   "campos": {
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/monasterios/abadia-san-quirce",
+     "https://es.wikipedia.org/wiki/Abad%C3%ADa_de_San_Quirce",
+     "https://www.wikidata.org/wiki/Q43088148"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-riofrio",
+   "campos": {
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_Real_de_Riofr%C3%ADo",
+     "https://www.wikidata.org/wiki/Q1972987"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-de-siones",
+   "campos": {
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Church_of_Santa_Maria_de_Siones,_Burgos",
+     "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_(Siones)",
+     "https://www.wikidata.org/wiki/Q5911712"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-sacramenia",
+   "campos": {
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_la_Real_(Sacramenia)",
+     "https://www.wikidata.org/wiki/Q10911094"
+    ]
+   }
+  },
+  {
+   "id": "ermita-de-san-frutos",
+   "campos": {
+    "fuentes": [
+     "https://www.terranostrum.es/turismo/ermita-de-san-frutos",
+     "https://www.wikidata.org/wiki/Q5836090"
+    ]
+   }
+  },
+  {
+   "id": "ojo-guarena",
+   "campos": {
+    "fuentes": [
+     "https://rupestre.art/es/caves/ojo-guarena",
+     "https://es.wikipedia.org/wiki/Ojo_Guare%C3%B1a",
+     "https://www.wikidata.org/wiki/Q12265047"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-san-pedro-de-arlanza",
+   "campos": {
+    "fuentes": [
+     "https://www.terranostrum.es/turismo/monasterio-san-pedro-de-arlanza",
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Pedro_de_Arlanza",
+     "https://www.wikidata.org/wiki/Q5550569"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-obarra",
+   "campos": {
+    "fuentes": [
+     "https://www.turismodearagon.com/ficha/monasterio-de-santa-maria-de-obarra-calvera-2/",
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_de_Obarra",
+     "https://www.wikidata.org/wiki/Q1584990"
+    ]
+   }
+  }
+ ]
+}
