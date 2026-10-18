@@ -1,0 +1,426 @@
+{
+ "zona": "Ampliar mundo-16a",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "ciudad-perdida",
+   "campos": {
+    "texto": {
+     "general": "<p>En lo alto de la selva de la <b>Sierra Nevada de Santa Marta</b>, junto al río Buritaca, se esconde <b>Ciudad Perdida</b>, a la que los indígenas llaman <b>Teyuna</b> y los arqueólogos Buritaca-200. La fundaron los <b>taironas</b> hacia el año <b>800</b>, unos 650 años antes que Machu Picchu. Se compone de <b>169 terrazas</b> de piedra talladas en la ladera, unidas por caminos enlosados, escaleras y pequeñas plazas circulares; sobre ellas se alzaban construcciones de madera que no se han conservado.</p><p>Fue seguramente el centro político y artesanal de la comarca, y pudo albergar entre 2.000 y 8.000 personas. Los taironas tuvieron que abandonarla en el siglo XVI, tras años de comercio y guerra con los españoles. En <b>1972</b> la «redescubrió» una familia de saqueadores; el oro y la cerámica que empezaron a aparecer en el mercado negro alertaron a los arqueólogos del Instituto Colombiano de Antropología, que llegaron en 1976 y la restauraron hasta 1982. Los <b>kogui</b>, descendientes de los taironas, dicen que nunca dejaron de visitarla.</p><p>Para llegar a la ciudad hay que subir unos <b>1.200 escalones</b> de piedra entre la selva. Hoy los pueblos indígenas de la Sierra participan en las decisiones sobre el lugar, que consideran el corazón de la red de aldeas de sus antepasados.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ciudad_Perdida",
+     "https://www.openstreetmap.org/search?query=Teyuna%2C%20Ciudad%20Perdida"
+    ]
+   }
+  },
+  {
+   "id": "parque-arqueologico-de-san-agustin",
+   "campos": {
+    "texto": {
+     "general": "<p>En la cuenca alta del río <b>Magdalena</b>, al sur de Colombia, un pueblo desaparecido dejó cientos de <b>estatuas de piedra</b> junto a sus tumbas. Es el mayor conjunto de monumentos religiosos y esculturas megalíticas de América Latina, y se considera la mayor necrópolis del mundo. Se cree que las estatuas se tallaron entre los años 5 y 400 de nuestra era, aunque las fechas son inseguras y apenas se sabe nada de quienes las hicieron.</p><p>Las figuras mezclan rasgos humanos y animales —jaguares, murciélagos, cocodrilos— y parecen guardianes funerarios. Estaban pintadas de amarillo, rojo, negro y blanco, y unas pocas conservan restos de color. Las describió por primera vez el fraile <b>Juan de Santa Gertrudis</b>, que pasó por allí en 1756. En 1913 el etnólogo alemán Konrad Theodor Preuss excavó la zona y se llevó 21 esculturas a Berlín, cuya devolución reclama Colombia desde 2022.</p><p>El parque reúne cientos de esculturas en varios grupos, como las <b>Mesitas</b> A, B y C y la fuente de Lavapatas. En el Alto de los Ídolos, otro de los sitios del conjunto, cerca de Isnos, se alza la mayor, de unos <b>7 metros</b>; en el Alto de las Piedras está la famosa «Doble Yo». Es <b>Patrimonio de la Humanidad</b> desde 1995.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/San_Agust%C3%ADn_Archaeological_Park",
+     "https://www.openstreetmap.org/search?query=Parque%20Arqueol%C3%B3gico%20de%20San%20Agust%C3%ADn"
+    ]
+   }
+  },
+  {
+   "id": "baalbek",
+   "campos": {
+    "texto": {
+     "general": "<p>En el valle de la <b>Becá</b>, a unos 67 km de Beirut, Baalbek guarda uno de los mayores santuarios del Imperio romano. Tras conquistarla Alejandro Magno en el 334 a. C. pasó a llamarse <b>Heliópolis</b>, «ciudad del Sol», y los romanos levantaron aquí, a lo largo de unos tres siglos, un enorme recinto sagrado con templos dedicados a <b>Júpiter</b>, Venus y <b>Baco</b>, herederos de los antiguos dioses cananeos del lugar.</p><p>El <b>templo de Júpiter</b> fue el mayor del mundo romano después del de Venus y Roma en la capital. Lo rodeaban 54 columnas de casi <b>20 metros</b>, las más altas de cualquier templo clásico; hoy siguen en pie seis, todavía con su cornisa. Los terremotos lo arruinaron y el emperador Teodosio mandó demolerlo en el 379 para construir una basílica. Bajo su plataforma están los cimientos más asombrosos de la Antigüedad: el «Trilithon», tres bloques de caliza de más de 19 metros de largo y unas <b>800 toneladas</b> cada uno. En la cantera cercana yacen otros aún mayores, como la «Piedra de la Embarazada» y otro de unas 1.650 toneladas descubierto en 2014.</p><p>Junto a él, el <b>templo de Baco</b>, rodeado de 42 columnas, es el mejor conservado del conjunto, con algunos de los relieves más refinados que nos ha dejado la Antigüedad; los viajeros de otros siglos lo tenían por el templo romano mejor conservado del mundo. Tras la visita del káiser Guillermo II en 1898, arqueólogos alemanes excavaron el recinto hasta 1904. Es <b>Patrimonio Mundial</b> desde 1984.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Baalbek",
+     "https://en.wikipedia.org/wiki/Temple_of_Jupiter,_Baalbek"
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-de-beirut",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Nacional de Beirut</b> es el gran museo arqueológico del Líbano. Su colección empezó a reunirse tras la Primera Guerra Mundial; el edificio, de estilo neoegipcio y piedra caliza ocre, se terminó en 1937 junto al hipódromo, y el museo abrió el <b>27 de mayo de 1942</b>. Guarda unos 100.000 objetos, desde la Prehistoria hasta la época otomana.</p><p>Durante la guerra civil (1975-1990) quedó en plena <b>«línea verde»</b>, la línea de frente que dividió Beirut, y llegó a servir de cuartel a los combatientes. Su conservador, el emir Maurice Chehab, y su esposa salvaron la colección: escondieron los objetos pequeños en el sótano y lo tapiaron, <b>cubrieron con hormigón</b> los mosaicos del suelo, protegieron estatuas y sarcófagos con sacos terreros y, en 1982, los encerraron en cajas de madera y hormigón. Al acabar la guerra el edificio estaba casi en ruinas, pero la mayoría de las piezas se habían salvado. Reabrió en 1999, y el sótano, en 2016.</p><p>No hay que perderse el <b>sarcófago de Ahiram</b>, rey de Biblos hacia el año 1000 a. C., con el texto más antiguo escrito en alfabeto fenicio; las figurillas de bronce dorado del templo de los Obeliscos de Biblos; los 31 <b>sarcófagos fenicios</b> de forma humana del sótano, y el sarcófago de Sidón con un barco tallado, del siglo II. En la planta baja se exponen también grandes mosaicos, estatuas y relieves.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/National_Museum_of_Beirut",
+     "https://en.wikipedia.org/wiki/Ahiram_sarcophagus"
+    ]
+   }
+  },
+  {
+   "id": "tiro",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Tiro</b> fue una de las primeras y más poderosas metrópolis fenicias. Nació en una isla a pocos cientos de metros de la costa, con dos puertos, y su nombre viene de la palabra fenicia para «roca». Entre los siglos IX y VI a. C. fundó colonias por todo el Mediterráneo, entre ellas <b>Cartago</b>, que según la leyenda fundó la princesa tiria Dido. También era, según el mito, la patria de Europa y de su hermano Cadmo.</p><p>En el 332 a. C. resistió <b>siete meses</b> el asedio de <b>Alejandro Magno</b>, que para alcanzarla construyó un dique de unos 750 metros desde tierra firme. Tras la conquista murieron miles de tirios y otros miles fueron vendidos como esclavos. La arena se fue acumulando a ambos lados del dique hasta convertir la isla en península, sobre la que se asienta hoy buena parte de la ciudad moderna.</p><p>Quedan sobre todo restos romanos y bizantinos, repartidos en dos zonas: la de al-Mina, junto al mar, y la de <b>al-Bass</b>, con una gran necrópolis a ambos lados de una avenida presidida por un <b>arco de triunfo</b> del siglo II, un acueducto y el <b>hipódromo</b>, también del siglo II, uno de los mayores y mejor conservados del mundo romano. Tiro es <b>Patrimonio Mundial</b> desde 1984.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Tyre,_Lebanon",
+     "https://en.wikipedia.org/wiki/Siege_of_Tyre_(332_BC)",
+     "https://en.wikipedia.org/wiki/Tyre_Hippodrome",
+     "https://en.wikipedia.org/wiki/Tyre_Necropolis"
+    ]
+   }
+  },
+  {
+   "id": "deir-al-qamar-y-palacio-de-beiteddine",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Deir al-Qamar</b>, «monasterio de la luna», es un pueblo de piedra a unos 800 metros de altitud en el Chuf, en el monte Líbano. Entre los siglos XVI y XVIII fue la capital y residencia de los <b>emires</b> del monte Líbano, y conserva la mezquita de Fajr al-Din, del siglo XV, el palacio de Fajr al-Din II, el del emir Yusuf Shihab —hoy ayuntamiento— y una sinagoga del siglo XVII, testigos de una época en que convivían drusos, cristianos y judíos.</p><p>Fue escenario de la <b>matanza de 1860</b>, durante la guerra entre drusos y cristianos: el 20 de junio las milicias drusas asaltaron la casa de gobierno, donde se habían refugiado miles de vecinos, y mataron a los hombres, que estaban desarmados, sin que las tropas otomanas lo impidieran. Gran parte del pueblo ardió, y Napoleón III envió un contingente francés para reconstruirlo.</p><p>Muy cerca está el <b>palacio de Beiteddine</b>, que el emir <b>Bachir II</b> construyó entre 1788 y 1818. Tras su austero patio exterior, de 107 por 45 metros, se abren patios con arcadas, fuentes, salones de madera de cedro tallada y pintada, mármoles y mosaicos, el hamam y la tumba del emir. Desde 1943 es residencia de verano del presidente del Líbano, y cada verano acoge el <b>festival de Beiteddine</b>.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Deir_al-Qamar",
+     "https://en.wikipedia.org/wiki/Beiteddine_Palace",
+     "https://en.wikipedia.org/wiki/1860_civil_conflict_in_Mount_Lebanon_and_Damascus"
+    ]
+   }
+  },
+  {
+   "id": "anjar",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Anjar</b> es una ciudad palaciega que los califas <b>omeyas</b> levantaron a comienzos del siglo VIII, casi toda sobre terreno virgen, en el valle de la Becá, en el cruce de las rutas de Beirut a Damasco y de Homs a Tiberíades. Se atribuye al califa <b>al-Walid I</b> (705-715): un cronista bizantino dice que la empezó su hijo al-Abbás en 709-710, y unas inscripciones siríacas de la cantera dan el año 714.</p><p>Su trazado copia el de las ciudades romanas: un recinto rectangular con murallas de siete metros de alto y unas cuarenta torres, dividido en cuatro barrios por dos grandes avenidas con columnatas y unas 600 tiendas, que se cruzan bajo un <b>tetrapilo</b> levantado con piezas romanas reutilizadas. Tenía un gran palacio, otro pequeño, una mezquita y termas. Nunca llegó a terminarse: tras la derrota del califa Ibrahim, hijo de al-Walid, en el <b>744</b>, quedó abandonada.</p><p>Hoy se recorre siguiendo sus dos avenidas, y del gran palacio se han vuelto a levantar parte de sus arcos y columnas. Para la UNESCO, que la declaró <b>Patrimonio Mundial</b> en 1984, es un testimonio único del urbanismo omeya. El pueblo actual, junto a las ruinas, lo fundaron en 1939 refugiados armenios del Musa Dagh.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/26932279",
+     "https://en.wikipedia.org/wiki/Anjar,_Lebanon",
+     "https://whc.unesco.org/en/list/293"
+    ]
+   }
+  },
+  {
+   "id": "biblos",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Biblos</b> (en árabe, Jbeil) es una de las ciudades más antiguas del mundo: el lugar se pobló entre el 8800 y el 7000 a. C. y está habitado sin interrupción desde hace unos <b>7.000 años</b>. En el III milenio a. C. ya era una ciudad rica, aliada de Egipto durante siglos y proveedora de madera: en las tumbas de la I dinastía egipcia hay maderas de Biblos, y una de las palabras egipcias más antiguas para un barco de altura era «barco de Biblos».</p><p>A cambio compraba <b>papiro</b> egipcio, hasta el punto de que en griego «biblos» llegó a significar papiro, y de ahí viene la palabra <b>«Biblia»</b>. Aquí se encontró en 1923 el <b>sarcófago del rey Ahiram</b>, de hacia el año 1000 a. C., con el texto más antiguo escrito en alfabeto fenicio; hoy está en el Museo Nacional de Beirut.</p><p>El recinto arqueológico reúne restos de muchas épocas: el templo de los Obeliscos, dedicado al dios Resef; el de Baalat Gebal; la necrópolis real; un pequeño teatro romano del siglo III y el <b>castillo</b> que levantaron los cruzados en el siglo XII. Al lado están la iglesia de San Juan Bautista, empezada en 1115, y el zoco antiguo. Es <b>Patrimonio Mundial</b> desde 1984.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Byblos",
+     "https://en.wikipedia.org/wiki/Ahiram_sarcophagus"
+    ]
+   }
+  },
+  {
+   "id": "sidon-castillo-del-mar",
+   "campos": {
+    "texto": {
+     "general": "<p>Sidón (Saida) fue otra gran ciudad fenicia, habitada desde muy antiguo. Su monumento más famoso es el <b>castillo del mar</b>, que los cruzados construyeron en <b>1228</b> sobre un islote donde antes hubo un templo de Melqart, el Hércules fenicio, unido a tierra por un paso de unos 80 metros. Los mamelucos lo destruyeron en parte al tomar la ciudad, pero luego lo reconstruyeron y le añadieron la larga calzada; en el siglo XVII lo restauró el emir Fajr al-Din II.</p><p>Hoy son dos torres unidas por un muro, con columnas romanas encajadas de través en los muros como refuerzo. La torre oeste, la mejor conservada, tiene una gran sala abovedada con capiteles y balas de cañón, y una escalera que sube a la azotea, donde hay una pequeña mezquita otomana con vistas al casco antiguo y al puerto pesquero.</p><p>A 2 km de la ciudad está el templo fenicio de <b>Eshmún</b>, dios de la curación, fundado por el rey Eshmunazar II. En el casco antiguo están el <b>Museo del Jabón</b>, que cuenta cómo se fabricaba, y el caravasar de los francos (Jan al-Franj), del siglo XVI, que alojaba a los mercaderes franceses. Los sarcófagos reales de Sidón, como el llamado «de Alejandro», están en el <b>Museo Arqueológico de Estambul</b>.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Sidon_Sea_Castle",
+     "https://en.wikipedia.org/wiki/Sidon",
+     "https://en.wikipedia.org/wiki/Temple_of_Eshmun"
+    ]
+   }
+  },
+  {
+   "id": "valle-de-qadisha",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>valle de Qadisha</b> —«santo» en arameo— es un profundo cañón del norte del Líbano, excavado por el río del mismo nombre entre Bsharri, el pueblo de Gibran Jalil Gibran, y Tourza. Sus acantilados están llenos de cuevas, usadas como refugio y sepultura desde el Paleolítico. Durante siglos acogieron a <b>ermitaños</b> y monjes, que convirtieron muchas de ellas en celdas, capillas y monasterios: es uno de los lugares de monacato cristiano más antiguos del mundo.</p><p>Allí los monjes <b>maronitas</b> establecieron un centro en <b>Qannubin</b>, y desde el siglo XV hasta el XIX su monasterio fue la sede del patriarca maronita. Las campañas mamelucas de Baibars (1268) y Qalawun (1283) atacaron las cuevas fortificadas y los monasterios del valle. En el monasterio de Qozhaya se instaló en 1585 la primera imprenta de Oriente Medio, que en 1610 imprimió un libro de salmos en siríaco. En una cueva del valle se hallaron ocho momias naturales de aldeanos de hacia 1283.</p><p>Desde 1998 es <b>Patrimonio Mundial</b> junto con el <b>Bosque de los Cedros de Dios</b>, que crece en la montaña, sobre el valle: unos 375 cedros, supervivientes de los bosques que dieron la madera más apreciada de la Antigüedad.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Kadisha_Valley",
+     "https://www.openstreetmap.org/search?query=Qannoubine%20Monastery",
+     "https://en.wikipedia.org/wiki/Qannoubine"
+    ]
+   }
+  },
+  {
+   "id": "medina-de-tetuan",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>medina de Tetuán</b>, la «paloma blanca», fue reconstruida a finales del siglo XV por <b>refugiados granadinos</b>: hacia 1483-1484 llegaron los primeros desde la fortaleza de Píñar, guiados por el capitán granadino al-Mandari, y con ellos la ciudad se reconstruyó y fortificó. Le sucedió en el gobierno su esposa, <b>Sayyida al-Hurra</b>, «la Señora Libre». La ciudad acogió también a judíos sefardíes expulsados de España y, a partir de <b>1609</b>, a los moriscos, que fundaron el barrio de al-Ayun.</p><p>Por eso es la ciudad marroquí con más rasgos andalusíes, y la UNESCO destaca la fuerte huella andalusí de su arte y su arquitectura. Entre 1913 y 1956 fue la capital del Protectorado español, que construyó junto a la medina el Ensanche.</p><p>Dentro de unos 5 km de murallas con siete puertas, la UNESCO la considera la medina más completa de Marruecos, aunque de las más pequeñas. Es <b>Patrimonio de la Humanidad</b> desde 1997.</p>"
+    },
+    "fuentes": [
+     "https://whc.unesco.org/en/list/837",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Médina+de+Tétouan",
+     "https://www.google.com/maps/place/?q=place_id:ChIJW8JOtERCCw0RTQ9lOk04HSs",
+     "https://es.wikipedia.org/wiki/Tetu%C3%A1n"
+    ]
+   }
+  },
+  {
+   "id": "torre-hasan",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Torre Hasán</b> es el alminar sin terminar de una enorme mezquita que mandó levantar el califa almohade <b>Yaqub al-Mansur</b> para su nueva capital, Ribat al-Fath, la actual Rabat. Las obras empezaron en 1191 (algunas fuentes dicen 1195, tras la victoria de Alarcos). La mezquita habría sido la mayor del Occidente islámico, y la torre, el alminar más alto del mundo: estaba previsto que alcanzara unos 80 metros.</p><p>Al-Mansur murió en <b>1199</b> y la obra se paró. El alminar se quedó en <b>44 metros</b> y de la mezquita solo se levantaron el arranque de los muros y 348 columnas; lo que se pudo llevar se reaprovechó en otras obras, y el terremoto de 1755 dañó lo que quedaba. Como la Giralda de Sevilla, se inspiró en el alminar de la Kutubía de Marrakech. Por dentro no tiene escaleras, sino <b>rampas</b>, por las que el almuédano habría podido subir a caballo.</p><p>Su arenisca ha tomado con los siglos un tono ocre rojizo, y sus fachadas lucen paneles de <i>sebka</i>. En el siglo XX se excavó el lugar y se reconstruyó con cuidado lo que quedaba. En la misma explanada está el <b>mausoleo de Mohamed V</b>. Forma parte del Rabat histórico, <b>Patrimonio Mundial</b> desde 2012.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ8QoUlJFrpw0RXGFGkplsNhM",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Tour+Hassan+Rabat",
+     "https://en.wikipedia.org/wiki/Hassan_Tower"
+    ],
+    "ver_alli": [
+     "En el centro de Rabat, frente a Salé.",
+     "Se visita junto con el mausoleo de Mohamed V, en la misma explanada."
+    ]
+   }
+  },
+  {
+   "id": "mezquita-de-tinmel",
+   "campos": {
+    "texto": {
+     "general": "<p>En el pueblo de <b>Tinmel</b>, en el Alto Atlas, junto al puerto de Tizi n'Test, <b>Ibn Tumart</b> reunió a sus seguidores hacia 1124 y fundó el movimiento almohade, que desde aquí atacó a los almorávides. Al morir, en 1130, fue enterrado en el pueblo. Su sucesor, el califa <b>Abd al-Mumin</b>, mandó construir junto a su tumba esta mezquita en 1148, según los documentos de la época (otras fuentes dan 1153).</p><p>Por fuera parece una fortaleza; dentro tiene arcos de herradura apuntados, un patio y tres cúpulas de mocárabes junto al muro de la oración. Su alminar, colocado de forma única sobre el <i>mihrab</i>, quedó achatado. Se parece mucho a la Kutubía de Marrakech, y fue lugar de peregrinación y panteón de los califas almohades, que resistieron aquí hasta su derrota final en 1275.</p><p>Ya no se usa para el culto, por eso es una de las pocas mezquitas de Marruecos que pueden visitar los no musulmanes. Fue restaurada en parte a mediados del siglo XX y en los años 1990, pero el terremoto de septiembre de 2023 la dañó gravemente; el Gobierno marroquí ha anunciado su restauración, así que consulta su estado antes de ir.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJZWw_SgBHsA0Rqs8NO_FGXGk",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Tinmel",
+     "https://en.wikipedia.org/wiki/Tinmel_Mosque"
+    ],
+    "ver_alli": [
+     "En la carretera del puerto de Tizi n'Test, a unas 2 horas de Marrakech.",
+     "Tras el terremoto de 2023 está en restauración: comprueba antes de ir si se puede visitar."
+    ]
+   }
+  },
+  {
+   "id": "mequinez",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Mequinez</b> nació en el siglo XI como campamento almorávide, pero su gran momento llegó en <b>1672</b>, cuando el sultán alauí <b>Mulay Ismail</b> la convirtió en su capital. Durante sus 55 años de reinado levantó al sur de la medina una inmensa ciudad palaciega, cuatro veces mayor que la ciudad vieja, rodeada de murallas y puertas monumentales.</p><p>En las obras trabajaron obreros asalariados y esclavos, sobre todo <b>cautivos cristianos</b>; los relatos de embajadores europeos hablaban de decenas de miles, pero probablemente fueron unos pocos miles. La plaza el-Hedim, «los escombros», debe su nombre a los restos de lo que se derribó para construir.</p><p>Lo imprescindible es <b>Bab Mansour</b>, la gran puerta ceremonial, terminada en 1732 por su hijo, con ladrillo tallado y azulejos de colores; lleva el nombre de su arquitecto, un cristiano renegado. También el <b>mausoleo de Mulay Ismail</b>; el gran estanque del Agdal y, a su lado, la «casa de las diez norias» y los enormes graneros de <b>Heri es-Souani</b>, con 22 hileras de arcos. Es <b>Patrimonio de la Humanidad</b> desde 1996.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ0-4DEp5boA0RBOHOY8uRJHg",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Bab+Mansour+Meknès",
+     "https://en.wikipedia.org/wiki/Meknes"
+    ],
+    "ver_alli": [
+     "Muy cerca están las ruinas romanas de Volubilis.",
+     "Bab Mansour da a la plaza el-Hedim, buen punto de partida para recorrer la ciudad imperial.",
+     "El estanque del Agdal y los graneros de Heri es-Souani quedan al sur, dentro del antiguo recinto de Mulay Ismail."
+    ]
+   }
+  },
+  {
+   "id": "mausoleo-de-mohamed-v",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>mausoleo de Mohamed V</b> se levanta en la esquina sureste de la explanada de la <b>Torre Hasán</b>, sobre las ruinas de la gran mezquita almohada. Mohamed V, el rey de la independencia, murió en 1961, y su hijo Hassan II encargó la obra al arquitecto vietnamita Vo Toan. Se construyó entre 1961 y 1971, año en que se trasladó allí el cuerpo del rey.</p><p>Guarda las tumbas de <b>Mohamed V</b> y de sus dos hijos, el príncipe Abdalá, enterrado en 1983, y el rey <b>Hassan II</b>, en 1999. El edificio es de hormigón revestido de <b>mármol blanco</b>, con arcos lobulados y un tejado piramidal verde. Quiso ser también un homenaje a la artesanía marroquí, que Mohamed V había fomentado como seña de identidad.</p><p>Dentro, la cámara funeraria se cubre con una cúpula de caoba y vidrios de colores, y las paredes con azulejos de <i>zellij</i>; el cenotafio del rey es de ónice blanco. A menudo hay un lector del Corán junto a las tumbas, y en la entrada montan guardia soldados de la guardia real. El conjunto se completa con una mezquita y un pabellón pensado como museo de la dinastía.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJIQ_FAZFrpw0RR2twZGQWwOQ",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Mausolée+Mohammed+V",
+     "https://en.wikipedia.org/wiki/Mausoleum_of_Mohammed_V"
+    ]
+   }
+  },
+  {
+   "id": "chauen-chefchaouen",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Chauen</b> es un pueblo de montaña del Rif, a unos 600 metros de altitud. Lo fundó en <b>1471</b> Ali ibn Rashid al-Alami como una pequeña alcazaba para frenar a los <b>portugueses</b>. Su hija <b>Sayyida al-Hurra</b>, casada con el gobernador de Tetuán, gobernó la ciudad durante una época de rápido crecimiento.</p><p>Tras la caída de Granada llegaron andalusíes, judíos sefardíes y, en 1609, los últimos <b>moriscos</b> expulsados de España, que construyeron barrios al estilo granadino. Fue ocupada por España en 1920 y formó parte de la República del Rif de Abd el-Krim entre 1924 y 1926.</p><p>Sus casas están pintadas de <b>azul</b> y blanco. Hay varias explicaciones del color: que espanta a los mosquitos, que simboliza el cielo, o, según algunos vecinos, que se impuso en los años setenta para atraer turistas. Su medina conserva la <b>alcazaba</b> y la plaza de Uta al-Hammam, muy animada, con la Gran Mezquita y el mayor caravasar de la ciudad.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJyzUAA2gnCw0RvVlSSz-x28w",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Chefchaouen+kasbah",
+     "https://en.wikipedia.org/wiki/Chefchaouen",
+     "https://es.wikipedia.org/wiki/Chauen"
+    ]
+   }
+  },
+  {
+   "id": "mezquita-hassan-ii",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>mezquita Hassan II</b> se levanta en Casablanca sobre un promontorio que se adentra en el Atlántico, de modo que los fieles pueden rezar sobre el mar. La mandó construir el rey <b>Hassan II</b>; la diseñó el arquitecto francés Michel Pinseau y la construyó la empresa Bouygues. Las obras empezaron en 1986 y se inauguró el <b>30 de agosto de 1993</b>, víspera del aniversario del nacimiento del Profeta.</p><p>Es una de las mayores mezquitas del mundo. Su <b>alminar</b>, de <b>210 metros</b>, era el más alto del mundo al terminarse y hoy es el segundo; de noche un láser apunta desde lo alto hacia La Meca. Caben <b>25.000</b> fieles dentro y <b>80.000</b> en la explanada. Su techo, de unas 1.100 toneladas, se abre en cinco minutos para que se pueda rezar bajo el cielo.</p><p>La decoraron artesanos de todo el país con mármol tallado, <i>zellij</i>, yeserías y madera de cedro del Atlas. El conjunto incluye una madrasa, baños, una biblioteca y un museo con piezas de artesanía y elementos sobrantes de la obra. Es una de las pocas mezquitas de Marruecos abiertas a los no musulmanes.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJj9WUeWDSpw0RctCw5xjWoWc",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Mosquée+Hassan+II",
+     "https://en.wikipedia.org/wiki/Hassan_II_Mosque",
+     "https://es.wikipedia.org/wiki/Mezquita_Hassan_II",
+     "https://www.journeybeyondtravel.com/blog/hassan-ii-mosque-casablanca.html"
+    ]
+   }
+  },
+  {
+   "id": "kutubia",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Kutubía</b> es la gran mezquita almohade de Marrakech, con un alminar de <b>77 metros</b>, modelo de la Giralda de Sevilla y de la torre Hasán de Rabat. Junto a ella está la plaza de Yamaa el Fna. Su nombre viene de los vendedores de libros, <i>kutubiyyin</i>, que tenían sus puestos alrededor: llegó a haber un centenar.</p><p>El califa <b>Abd al-Mumin</b> tomó Marrakech a los almorávides en 1147 y mandó levantar una primera mezquita, que hacia 1158 rehízo por completo; esta segunda es la que se ve hoy, y su alminar se terminó quizá en tiempos de su nieto al-Mansur. En la corte almohade de Marrakech el filósofo cordobés <b>Averroes</b> recibió en 1169 el encargo de explicar a Aristóteles, fue médico del califa desde 1182 y murió en la ciudad en 1198.</p><p>En la explanada se ven los cimientos de la primera mezquita. El alminar, de arenisca, se decora con arcos y paneles geométricos distintos en cada cara, y lo remata un mástil con tres bolas de cobre, la mayor de 2 metros. El terremoto de 2023 le causó grietas y la mezquita reabrió restaurada en 2024.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ313XmVzurw0Rwm9umhM4zdg",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Mosquée+Koutoubia+Marrakech",
+     "https://en.wikipedia.org/wiki/Koutoubia_Mosque",
+     "https://en.wikipedia.org/wiki/Averroes"
+    ],
+    "ver_alli": [
+     "Los no musulmanes no pueden entrar; se ve desde los jardines.",
+     "En la explanada se ven los cimientos de la primera mezquita.",
+     "La plaza de Yamaa el Fna está a unos 200 metros."
+    ]
+   }
+  },
+  {
+   "id": "monumento-a-la-independencia-de-phnom-pe",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Monumento a la Independencia</b> de Phnom Penh conmemora el fin del dominio francés sobre Camboya en <b>1953</b>. Se empezó en 1958 y se inauguró en 1962, en una gran rotonda del centro, en el cruce de los bulevares Norodom y Sihanouk.</p><p>Lo diseñó el arquitecto camboyano <b>Vann Molyvann</b>, siguiendo las indicaciones personales del príncipe <b>Norodom Sihanouk</b>, que quería unir lo religioso y lo civil. El resultado es una torre de 37 metros en forma de estupa con <b>flor de loto</b>, de estilo angkoriano, inspirada en templos como el de Banteay Srei.</p><p>En las fiestas nacionales es el centro de las celebraciones: un miembro de la familia real o una alta autoridad enciende una llama en su pedestal interior, y las escaleras se llenan de ofrendas de flores. Muy cerca, detrás del monumento, se levanta desde 2013 el memorial con la estatua del rey Norodom Sihanouk.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ42tqxz1RCTERsG1wcg9Cxeo",
+     "https://www.openstreetmap.org/?mlat=11.5564&mlon=104.9282#map=17/11.5564/104.9282",
+     "https://en.wikipedia.org/wiki/Independence_Monument_(Phnom_Penh)"
+    ]
+   }
+  },
+  {
+   "id": "centro-del-genocidio-de-choeung-ek",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Choeung Ek</b>, un antiguo huerto y cementerio chino a unos 17 km del centro de Phnom Penh, es el más conocido de los cerca de 300 <b>«campos de la muerte»</b> de Camboya. Entre 1977 y 1979 los jemeres rojos trajeron aquí en camiones, de noche, a los presos de la cárcel de <b>Tuol Sleng</b> para ejecutarlos, casi siempre a golpes para ahorrar balas; se calcula que mataron hasta 20.000 personas.</p><p>Tras la caída del régimen, en 1979, los vecinos y luego las autoridades descubrieron las <b>fosas comunes</b>, de las que se exhumaron casi <b>9.000 cuerpos</b>. Junto a una de ellas se conserva el árbol contra el que los verdugos golpeaban a los niños, hoy cubierto de pulseras de colores.</p><p>En 1988 se creó el memorial, y en 1989 se levantó una <b>estupa budista</b> que guarda tras el cristal más de <b>5.000 cráneos</b> de las víctimas. Muchos camboyanos evitan visitarla, porque según su tradición los espíritus de quienes mueren de forma violenta siguen vagando por el lugar. Desde 2025 es <b>Patrimonio Mundial</b>, junto con Tuol Sleng.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJyZ59w2VaCTER07FCdaW0gMc",
+     "https://www.openstreetmap.org/?mlat=11.4844&mlon=104.902#map=17/11.4844/104.902",
+     "https://en.wikipedia.org/wiki/Choeung_Ek"
+    ]
+   }
+  },
+  {
+   "id": "palacio-real-de-phnom-penh",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Palacio Real</b> de Phnom Penh es la residencia de los reyes de Camboya. Se levanta junto al Chaktomuk, la confluencia del Tonlé Sap y el Mekong. Siglos después del abandono de Angkor, el rey <b>Norodom</b> trasladó la capital de Oudong a Phnom Penh en <b>1866</b> y construyó el palacio entre 1866 y 1870.</p><p>Aquel primer palacio se derribó y rehízo casi por completo entre 1912 y 1932. El actual <b>salón del trono</b> se inauguró en 1919, en el mismo lugar que el anterior, y en el recinto destaca también el pabellón de Chan Chhaya. Los reyes lo han ocupado desde su construcción, salvo durante la etapa de los jemeres rojos.</p><p>En el lado sur está la <b>Pagoda de Plata</b>, llamada así porque su suelo está cubierto por 5.329 baldosas de plata. Guarda el pequeño <b>Buda Esmeralda</b> de Camboya, que en realidad es de cristal verde, y un Buda de oro de unos 90 kilos adornado con miles de diamantes, hecho en los talleres del palacio en 1906-1907. Sus muros se pintaron en 1903-1904 con escenas del <i>Reamker</i>, cuya restauración se retomó en 2015.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ42tqxz1RCTER36bOGZOA8fg",
+     "https://www.openstreetmap.org/?mlat=11.5638&mlon=104.9301#map=17/11.5638/104.9301",
+     "https://en.wikipedia.org/wiki/Royal_Palace,_Phnom_Penh",
+     "https://en.wikipedia.org/wiki/Silver_Pagoda"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-las-minas-de-camboya",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo de las Minas de Camboya</b> lo creó <b>Aki Ra</b>, un camboyano nacido hacia 1970 cuyos padres fueron asesinados por los jemeres rojos. Huérfano, de niño fue obligado a ser soldado de los jemeres rojos, y después luchó en el ejército del nuevo gobierno; en esos años colocó minas.</p><p>Desde 1992 dedicó su vida a desactivarlas: afirma haber retirado y destruido hasta 50.000. Empezó a hacerlo con un simple palo y guardaba en su casa los artefactos desactivados; en 1999 comenzó a enseñarlos a los turistas a cambio de un dólar para financiar su trabajo, y así nació el museo. En 2007 el gobierno le obligó a cerrarlo y lo trasladó a su emplazamiento actual, a unos 25 km de Siem Reap, cerca del templo de Banteay Srei. En 2010 la CNN lo eligió como uno de sus «héroes» del año.</p><p>Expone minas antipersona y antitanque, bombas de racimo, proyectiles y herramientas de desminado, y cuenta el drama de las minas en Camboya. Lo que se obtiene con las visitas ayuda a los niños que viven en el museo y a la educación sobre el peligro de las minas.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJDz87pmlAEDERDhi8owqqKaw",
+     "https://www.openstreetmap.org/?mlat=13.5396&mlon=103.9458#map=17/13.5396/103.9458",
+     "https://en.wikipedia.org/wiki/Cambodian_Landmine_Museum",
+     "https://en.wikipedia.org/wiki/Aki_Ra"
+    ]
+   }
+  },
+  {
+   "id": "museo-del-genocidio-de-tuol-sleng",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo del Genocidio de Tuol Sleng</b> ocupa un antiguo instituto de Phnom Penh que los jemeres rojos convirtieron en 1976 en la prisión <b>S-21</b>, uno de los entre 150 y 196 centros de tortura y ejecución del régimen. Rodearon los edificios de alambre de espino electrificado y dividieron las aulas en celdas diminutas.</p><p>Hasta 1979 pasaron por allí unas <b>20.000 personas</b>, aunque la cifra exacta se desconoce. Eran fotografiadas, torturadas para que denunciaran a familiares y amigos, y enviadas a la muerte, muchas al campo de Choeung Ek. Al principio fueron sobre todo funcionarios y soldados del régimen anterior, intelectuales, médicos o monjes; después, los propios militantes del partido. Solo se conocen doce supervivientes. Su director, Kang Kek Iew, «Duch», fue condenado en 2010 por crímenes contra la humanidad.</p><p>Las aulas conservan las celdas, las camas de hierro y miles de fotos de los presos, además de los cuadros del superviviente Vann Nath. Sus archivos están en el registro <b>Memoria del Mundo</b> de la UNESCO, y desde 2025 el lugar es <b>Patrimonio Mundial</b>, junto con Choeung Ek.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJw8jeJSJRCTERp9gvbl8l0hM",
+     "https://www.openstreetmap.org/?mlat=11.5494&mlon=104.9176#map=17/11.5494/104.9176",
+     "https://en.wikipedia.org/wiki/Tuol_Sleng_Genocide_Museum"
+    ]
+   }
+  },
+  {
+   "id": "sambor-prei-kuk",
+   "campos": {
+    "texto": {
+     "general": "<p>Bajo el bosque asoman los templos de ladrillo de <b>Isanapura</b>, la capital del reino de <b>Chenla</b>, en la provincia de Kampong Thom, varios siglos anterior a Angkor. La fundó o engrandeció el rey <b>Isanavarman I</b>, que reinó a comienzos del siglo VII (hacia 616-637); una inscripción de su reinado está fechada en el año 627. Los grupos de templos del norte y del sur son de esa época; el central es más tardío, del siglo IX.</p><p>Se conservan, en su mayoría en ruinas, más de un centenar de templos hindúes dentro de un gran recinto de doble muralla. El principal, Prasat Sambor, estaba dedicado a Shiva, y el grupo central se conoce como «templo de los leones» por sus esculturas. Una decena de torres tienen <b>planta octogonal</b>, ejemplos únicos en el sudeste asiático según la UNESCO, y sus dinteles y frontones de arenisca, de «estilo Sambor Prei Kuk», anuncian el arte de Angkor. Las inscripciones, en sánscrito y jemer antiguo, hablan ya del culto al «rey-dios».</p><p>Es <b>Patrimonio de la Humanidad</b> desde 2017. La zona estuvo minada, así que no hay que salirse de los senderos.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Sambor_Prei_Kuk",
+     "https://www.openstreetmap.org/?mlat=12.8705&mlon=105.043#map=17/12.8705/105.043",
+     "https://www.google.com/maps/place/?q=place_id:ChIJlRpqTCoIDjERIFpC_Mdk9To",
+     "https://whc.unesco.org/en/list/1532"
+    ],
+    "ver_alli": [
+     "Los templos están repartidos por el bosque y se recorren a pie por senderos a la sombra.",
+     "Está a unas horas por carretera tanto de Siem Reap como de Phnom Penh, por lo que se puede visitar de camino entre las dos ciudades.",
+     "La zona estuvo minada: no te salgas de los senderos señalizados."
+    ]
+   }
+  },
+  {
+   "id": "ta-prohm",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Ta Prohm</b>, cuyo nombre original era Rajavihara, «monasterio del rey», fue uno de los primeros templos del gran programa de obras de <b>Jayavarman VII</b>. Su estela fundacional da la fecha de <b>1186</b>. El rey lo consagró a su madre, representada como Prajnaparamita, la diosa budista de la Sabiduría, y fue un monasterio budista y centro de estudios.</p><p>La estela dice que vivían en el templo más de <b>12.500 personas</b>, entre ellas 18 grandes sacerdotes y <b>615 bailarinas</b>, y que unos 80.000 aldeanos de los alrededores trabajaban para abastecerlo; también enumera sus riquezas en oro, perlas y sedas. El mismo rey fundó, según sus inscripciones, <b>102 hospitales</b> y 121 casas de descanso en los caminos del reino.</p><p>Abandonado tras la caída del imperio jemer, cuando empezó la restauración de Angkor, a comienzos del siglo XX, los arqueólogos franceses decidieron dejarlo casi como lo encontraron, como concesión al gusto por lo pintoresco: enormes árboles, ceibas o higueras estranguladoras según las fuentes, cuyas raíces abrazan los muros construidos sin argamasa. Aparece en la película <i>Lara Croft: Tomb Raider</i> (2001). Forma parte de Angkor, <b>Patrimonio Mundial</b> desde 1992.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ36Upst8VEDERHgViL55Fuc8",
+     "https://www.openstreetmap.org/?mlat=13.4349&mlon=103.8896#map=17/13.4349/103.8896",
+     "https://en.wikipedia.org/wiki/Ta_Prohm",
+     "https://en.wikipedia.org/wiki/Jayavarman_VII"
+    ]
+   }
+  },
+  {
+   "id": "banteay-srei",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Banteay Srei</b> es un pequeño templo de arenisca roja dedicado a Shiva y consagrado el 22 de abril de <b>967</b>, con los relieves más finos de todo Angkor, a unos 25 km del grupo principal de templos. Su nombre moderno significa «ciudadela de las mujeres» o «de la belleza»; el original era Tribhuvanamaheshvara, «gran señor del triple mundo».</p><p>Es el único gran templo de Angkor que no construyó un rey, sino dos consejeros de la corte de Rajendravarman II. Uno de ellos, el sabio brahmán <b>Yajnavaraha</b>, nieto de un rey y maestro del futuro <b>Jayavarman V</b>, ayudaba según su estela a enfermos, pobres y víctimas de injusticias. Su arenisca, dura pero que se talla como la madera, permitió una decoración de una finura excepcional en edificios en miniatura.</p><p>Redescubierto en 1914, en <b>1923</b> el escritor francés <b>André Malraux</b> arrancó cuatro figuras de diosas para venderlas y fue detenido; la pena quedó al final en suspenso y las figuras volvieron a su sitio. En los años treinta Henri Marchal lo reconstruyó piedra a piedra, la primera vez que se aplicó la anastilosis en Angkor. No hay que perderse la belleza de sus dinteles y frontones.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ_____z8XEDERODe6EFMp_cA",
+     "https://www.openstreetmap.org/?mlat=13.5992&mlon=103.963#map=17/13.5992/103.963",
+     "https://en.wikipedia.org/wiki/Banteay_Srei",
+     "https://en.wikipedia.org/wiki/Andr%C3%A9_Malraux",
+     "https://en.wikipedia.org/wiki/Henri_Marchal"
+    ]
+   }
+  },
+  {
+   "id": "museo-bogyoke-aung-san",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Bogyoke Aung San</b> ocupa una villa colonial de dos plantas, construida en 1921 en el barrio de Bahan, en Yangón. Fue la última casa del general <b>Aung San</b>, fundador del Myanmar moderno, antes de su asesinato en julio de 1947, y en ella pasó su infancia su hija <b>Aung San Suu Kyi</b>.</p><p>Se abrió como museo en 1962, pero durante muchos años la junta militar solo permitía visitarlo un día al año, el 19 de julio, Día de los Mártires, dentro de su política de borrar la figura de Aung San para restar apoyo a su hija. Reabrió con normalidad el 24 de marzo de 2012 y figura en la lista de patrimonio de la ciudad.</p><p>En la planta baja se ven fotos de su juventud y de su vida política, sus discursos, notas a su esposa Khin Kyi y el <b>coche</b> oficial que usó hasta el día de su muerte. Arriba están los dormitorios de la familia, la <b>biblioteca</b> y una sala de reuniones. En el jardín hay una estatua de bronce del general trabajando la tierra y la piscina donde se ahogó su hijo Aung San Lin.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJkUiUSrvswTARIlVUkiqnhIw",
+     "https://www.openstreetmap.org/?mlat=16.8038&mlon=96.1634#map=17/16.8038/96.1634",
+     "https://en.wikipedia.org/wiki/Bogyoke_Aung_San_Museum"
+    ]
+   }
+  },
+  {
+   "id": "mausoleo-de-los-martires",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Mausoleo de los Mártires</b> está junto a la puerta norte de la <b>pagoda Shwedagon</b>, en Yangón. Recuerda a <b>Aung San</b> y a los demás miembros del gobierno provisional asesinados el <b>19 de julio de 1947</b>, durante una reunión del gabinete en el edificio de la Secretaría, por pistoleros enviados por su rival político U Saw. Birmania se independizó meses después, el 4 de enero de 1948, y el 19 de julio es desde entonces el Día de los Mártires.</p><p>Aquí reposan Aung San y varios de sus ministros. El <b>9 de octubre de 1983</b> una bomba colocada por agentes de Corea del Norte para matar al presidente surcoreano Chun Doo-hwan, que iba a visitarlo, destruyó el mausoleo y mató a 21 personas, entre ellas catorce altos cargos y periodistas surcoreanos. Chun se salvó porque su coche se había retrasado. Se reconstruyó en 1985.</p><p>Tras la revuelta de 1988 la junta militar redujo la ceremonia anual y el mausoleo quedó cerrado al público hasta 2010.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJKbgdTlnrwTARb2qw1hLpTsE",
+     "https://www.openstreetmap.org/?mlat=16.8024&mlon=96.1477#map=17/16.8024/96.1477",
+     "https://en.wikipedia.org/wiki/Martyrs%27_Mausoleum",
+     "https://en.wikipedia.org/wiki/Rangoon_bombing"
+    ]
+   }
+  },
+  {
+   "id": "bagan",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Bagan</b> es una llanura del centro de Myanmar sembrada de templos y estupas de ladrillo. Entre 1044 y 1287 fue la capital del reino de Pagan, el primero que unificó los territorios del actual Myanmar. En esos dos siglos y medio sus reyes y sus súbditos ricos levantaron más de <b>10.000 monumentos</b> budistas en unos 104 km², de los que se conservan restos de más de <b>2.300</b>.</p><p>El reino decayó a finales del siglo XIII, en tiempos de las invasiones mongolas, y la ciudad quedó como lugar de peregrinación centrado en una veintena de templos; los demás se fueron arruinando. Los terremotos de 1975 y 2016 dañaron cientos de ellos, y muchas restauraciones, antiguas y recientes, no han sido fieles al diseño original.</p><p>Entre los imprescindibles están el templo de <b>Ananda</b>, de 1105 y 51 metros de alto, con cuatro grandes budas en su interior; la pagoda dorada de <b>Shwezigon</b>, terminada en 1102; el Thatbyinnyu, el templo más alto, de 66 metros, y el Dhammayangyi. Es <b>Patrimonio de la Humanidad</b> desde 2019.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=21.1708&mlon=94.8595#map=17/21.1708/94.8595",
+     "https://en.wikipedia.org/wiki/Bagan"
+    ]
+   }
+  },
+  {
+   "id": "edificio-de-la-secretaria",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>edificio de la Secretaría</b>, oficialmente Oficina de los Ministros, fue la sede del gobierno colonial británico de Birmania. Es un enorme conjunto victoriano de ladrillo rojo y amarillo en forma de U que ocupa una manzana entera del centro de Yangón, cerca de la pagoda Sule. Lo diseñó el ingeniero Henry Hoyne-Fox; las obras empezaron en 1889, el edificio central se terminó en 1902 y las alas en 1905.</p><p>En su sala del consejo fue asesinado <b>Aung San</b> el 19 de julio de 1947, junto con varios ministros. En el edificio del Parlamento, dentro del recinto, los británicos entregaron la independencia el <b>4 de enero de 1948</b>, y allí se arrió la bandera británica. Siguió siendo sede del gobierno hasta que este se trasladó a la nueva capital, Naypyidaw, y desde entonces estuvo vacío.</p><p>Un terremoto de los años treinta derribó su gran cúpula central y la mitad de sus dieciséis torrecillas. Hoy se restaura en parte y algunas zonas están abiertas al público con visitas guiadas.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJgaABU4jswTARi9s50Q29WtQ",
+     "https://www.openstreetmap.org/?mlat=16.7755&mlon=96.1653#map=17/16.7755/96.1653",
+     "https://en.wikipedia.org/wiki/Ministers%27_Building"
+    ]
+   }
+  }
+ ]
+}
