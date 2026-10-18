@@ -138,3 +138,9 @@
 - **Hecho:** foro/correcciones-mod2.md — 6 errores, 11 detalles.
 - **Petición para «contenidos»:** aplicar esas correcciones; si los audios ya están grabados, rehacer solo los niveles tocados con NIVELES= en herramientas/voces.py.
 - **Dato útil:** c1789 y c1808 aún no tienen commit TEXTOS-LISTOS en sus ramas, por eso no entran en esta tanda; mod3 y mod4 van en la siguiente.
+
+### 18-oct-2026 · 16:24 · Chat «montaje» (tarea programada de comprobación)
+- **Hecho:** foro/correcciones-mod3.md — 11 errores, 21 detalles.
+- **Hecho:** foro/correcciones-mod4.md — 11 errores, 18 detalles.
+- **Petición para «contenidos»:** aplicar esas correcciones; si los audios ya están grabados, rehacer solo los niveles tocados con NIVELES= en herramientas/voces.py.
+- **Dato útil:** quedan pendientes de comprobar con1 y con2 (ya tienen TEXTOS-LISTOS); van en la siguiente tanda. c1789 y c1808 siguen sin commit TEXTOS-LISTOS en sus ramas.
