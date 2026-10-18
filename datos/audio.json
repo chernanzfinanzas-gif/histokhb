@@ -1677,6 +1677,106 @@
    "voz_d": "Algieba",
    "viva": "img/vivas/des-motilla.mp4",
    "viva_tipo": "camara"
+  },
+  "des-olimpia": {
+   "viva": "img/vivas/des-olimpia.mp4",
+   "viva_tipo": "veo"
+  },
+  "ant3-0": {
+   "viva": "img/vivas/ant3-0.mp4",
+   "viva_tipo": "veo"
+  },
+  "ant3-19": {
+   "viva": "img/vivas/ant3-19.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant3-1": {
+   "viva": "img/vivas/ant3-1.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant3-2": {
+   "viva": "img/vivas/ant3-2.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant3-3": {
+   "viva": "img/vivas/ant3-3.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant3-4": {
+   "viva": "img/vivas/ant3-4.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant3-5": {
+   "viva": "img/vivas/ant3-5.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant3-6": {
+   "viva": "img/vivas/ant3-6.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant3-7": {
+   "viva": "img/vivas/ant3-7.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant3-8": {
+   "viva": "img/vivas/ant3-8.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant3-9": {
+   "viva": "img/vivas/ant3-9.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant3-10": {
+   "viva": "img/vivas/ant3-10.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant3-11": {
+   "viva": "img/vivas/ant3-11.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant3-12": {
+   "viva": "img/vivas/ant3-12.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant3-13": {
+   "viva": "img/vivas/ant3-13.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant3-14": {
+   "viva": "img/vivas/ant3-14.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant3-15": {
+   "viva": "img/vivas/ant3-15.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant3-16": {
+   "viva": "img/vivas/ant3-16.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant3-17": {
+   "viva": "img/vivas/ant3-17.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant3-18": {
+   "viva": "img/vivas/ant3-18.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-carambolo": {
+   "viva": "img/vivas/des-carambolo.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-turunuelo": {
+   "viva": "img/vivas/des-turunuelo.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-ninive": {
+   "viva": "img/vivas/des-ninive.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-ishtar": {
+   "viva": "img/vivas/des-ishtar.mp4",
+   "viva_tipo": "camara"
   }
  }
 }
