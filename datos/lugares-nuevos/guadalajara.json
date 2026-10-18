@@ -1,0 +1,809 @@
+{
+ "zona": "Guadalajara",
+ "nuevos": [
+  {
+   "id": "castillo-de-siguenza",
+   "nombre": "Castillo de Sigüenza (Castillo de los Obispos)",
+   "provincia": "Guadalajara",
+   "comarca": "Sigüenza",
+   "lat": 41.0642,
+   "lon": -2.641,
+   "tipo": "castillo",
+   "estilo": "Medieval y renacentista, reconstruido en el siglo XX",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1124,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En lo alto de Sigüenza, dominando la ciudad y la catedral, se alza un castillo que fue durante siglos <b>palacio y fortaleza de los obispos</b>. Sobre una alcazaba andalusí, la plaza fue tomada definitivamente en <b>1124</b> por las mesnadas del arzobispo de Toledo <b>Bernardo de Agén</b>, y desde entonces fue feudo de los prelados seguntinos.</p><p>Por aquí pasaron obispos guerreros y obispos constructores: Simón Girón de Cisneros levantó una nueva puerta a comienzos del siglo XIV, y el <b>cardenal Mendoza</b> añadió la barbacana y convirtió la fortaleza en un palacio. Su episodio más triste fue el encierro de la reina <b>Blanca de Borbón</b>, a la que su marido Pedro I mantuvo presa en una torre entre 1355 y 1359.</p><p>La <b>Guerra Civil</b> lo dejó en ruinas y expoliado. Se decidió reconstruirlo como <b>parador de turismo</b>: las obras del arquitecto José Luis Picardo terminaron en 1976 y la inauguración oficial fue en 1978. Casi todo lo que se ve hoy es obra nueva que busca devolverle su aire medieval, aunque conserva elementos antiguos como la puerta del siglo XIV con matacanes.</p><p class=\"dato\"><span>¿Sabías que…?</span>Blanca de Borbón llegó a Sigüenza con dieciséis años y murió asesinada a los veintidós.</p>"
+   },
+   "ver_alli": [
+    "La puerta del siglo XIV con sus matacanes, en la fachada principal.",
+    "El Patio de Armas, con portadas renacentistas.",
+    "Las vistas sobre Sigüenza y su catedral desde la explanada."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Sigüenza",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJzXzhfxRFQw0Rd1zK-A1Tug4"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-zorita-de-los-canes",
+   "nombre": "Castillo de Zorita de los Canes",
+   "provincia": "Guadalajara",
+   "comarca": "Zorita de los Canes",
+   "lat": 40.332,
+   "lon": -2.8878,
+   "tipo": "castillo",
+   "estilo": "Andalusí, románico y medieval",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1174,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Sobre un cerro que se asoma al <b>Tajo</b>, junto al pueblo de Zorita de los Canes, quedan las ruinas de una de las fortalezas más importantes de la frontera medieval. Fue una <b>alcazaba andalusí</b> levantada en el siglo IX por orden del emir cordobés Mohamed I; de aquella época se conserva todavía el <b>arco de herradura</b> de la entrada.</p><p>Tras pasar por manos cristianas y almorávides —Alfonso VI llegó a nombrar alcaide a <b>Álvar Fáñez</b>—, el rey <b>Alfonso VIII</b> la cedió en <b>1174</b> a la <b>Orden de Calatrava</b>. Dentro del recinto levantaron una <b>iglesia románica</b> del siglo XIII con cripta, y en 1328 se añadió una torre albarrana.</p><p>En 1565 la compró el príncipe de Éboli y desde entonces quedó sin uso, en lenta ruina. Fue declarada monumento histórico-artístico en 1931. A pocos cientos de metros están las ruinas de la ciudad visigoda de <b>Recópolis</b>, lo que hace de la zona una visita doble.</p>"
+   },
+   "ver_alli": [
+    "El arco de herradura de la puerta, de época andalusí.",
+    "La iglesia románica con su cripta, dentro del recinto.",
+    "La vista del Tajo a los pies del cerro."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Zorita_de_los_Canes",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJrXHIKkbsQg0RS7Dk6th-4ZU"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-jadraque",
+   "nombre": "Castillo de Jadraque (Castillo del Cid)",
+   "provincia": "Guadalajara",
+   "comarca": "Jadraque",
+   "lat": 40.9179,
+   "lon": -2.9346,
+   "tipo": "castillo",
+   "estilo": "Gótico final (siglo XV)",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1469,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Su silueta alargada, encaramada sobre un cerro aislado que vigila la <b>vega del Henares</b>, es uno de los perfiles más reconocibles de la provincia. Lo llaman <b>Castillo del Cid</b>, pero no por el héroe del Cantar: el nombre viene de <b>Rodrigo Díaz de Vivar y Mendoza</b>, primer conde del Cid, que vivió aquí a finales del siglo XV.</p><p>El cerro ya fue posición defensiva en época andalusí, pero el castillo que vemos es casi entero del <b>último tercio del siglo XV</b>. En <b>1469</b> el cardenal <b>Pedro González de Mendoza</b>, entonces obispo de Sigüenza, lo obtuvo de su pariente el arzobispo Carrillo a cambio del castillo de Maqueda. La reforma la dirigió el maestro de obras Alberto de Caravajal, y llegó a rebajar el propio cerro para asentar los muros.</p><p>Tiene planta rectangular de unos <b>70 por 18 metros</b>, con cuatro torreones circulares y uno rectangular. Tras la subasta de los bienes de la casa del Infantado-Osuna, el ayuntamiento de Jadraque lo compró en <b>1899 por 305 pesetas</b>, y desde finales del siglo XX se rehabilita poco a poco.</p><p class=\"dato\"><span>¿Sabías que…?</span>Excavaciones recientes han confirmado que tuvo una torre del homenaje, hoy desaparecida.</p>"
+   },
+   "ver_alli": [
+    "El perfil completo del castillo sobre el cerro, mejor desde el pueblo.",
+    "Los torreones circulares, que no sobresalen por encima de los muros.",
+    "Las vistas de la vega del Henares desde arriba."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Jadraque",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJtUvHwxUTQw0RMpbUjjmCX20"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-torija",
+   "nombre": "Castillo de Torija",
+   "provincia": "Guadalajara",
+   "comarca": "Torija",
+   "lat": 40.7431,
+   "lon": -3.0314,
+   "tipo": "castillo",
+   "estilo": "Medieval, restaurado",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Quien viaja por la autovía de Aragón lo ve de pronto, macizo y bien plantado, junto al pueblo de Torija. La tradición atribuye su fundación a los <b>templarios</b> en el siglo XII, aunque es una atribución oral sin documentos que la confirmen.</p><p>En el siglo XV lo conquistaron los navarros y lo recuperó el <b>marqués de Santillana</b>; después quedó en manos de una rama de los <b>Mendoza</b>, los condes de Coruña y vizcondes de Torija. Durante la <b>Guerra de la Independencia</b>, el guerrillero <b>El Empecinado</b> ordenó volarlo para que no lo ocuparan los franceses.</p><p>Restaurado en los años sesenta y de nuevo por la Diputación, hoy tiene una segunda vida: la torre del homenaje alberga el <b>Museo del Viaje a la Alcarria</b>, dedicado al libro de <b>Camilo José Cela</b>, y el patio de armas, el centro de interpretación turística de la provincia.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje, con el museo dedicado a Cela.",
+    "El patio de armas, con información sobre toda la provincia.",
+    "Las torres y la muralla restauradas, desde la plaza."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Torija",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJO3nZQBEGQw0RwdnPZF-BkHo"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-pioz",
+   "nombre": "Castillo de Pioz",
+   "provincia": "Guadalajara",
+   "comarca": "Pioz",
+   "lat": 40.4635,
+   "lon": -3.1727,
+   "tipo": "castillo",
+   "estilo": "Gótico final (siglo XV)",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En las afueras de Pioz, en plena campiña del sur de la provincia, se alza un castillo de <b>finales del siglo XV</b> que conserva intacta su geometría aunque haya perdido almenas e interiores. Lo diseñó el arquitecto <b>Lorenzo Vázquez</b>.</p><p>La idea partió del <b>cardenal Pedro González de Mendoza</b>, hijo del marqués de Santillana, que en 1469 cedió el proyecto a la familia Gómez de Ciudad Real, que lo terminó. Es de <b>planta cuadrada</b>, con tres torres circulares en las esquinas y una <b>torre del homenaje</b> curiosa: redonda por fuera y cuadrada por dentro.</p><p>Una barbacana con su propio <b>foso</b> rodea el conjunto. Hoy es propiedad del ayuntamiento y está semiarruinado: el puente levadizo se tapió y parte del muro exterior se ha venido abajo, pero sigue siendo una lección viva de fortificación de final de la Edad Media.</p>"
+   },
+   "ver_alli": [
+    "El foso que rodea la barbacana.",
+    "La torre del homenaje en el lado oeste.",
+    "Las tres torres circulares de las esquinas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Pioz",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ131E9HpXQg0RMDOuzBOW_z4"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-monsalud",
+   "nombre": "Monasterio de Santa María de Monsalud",
+   "provincia": "Guadalajara",
+   "comarca": "Córcoles (Sacedón)",
+   "lat": 40.4915,
+   "lon": -2.6615,
+   "tipo": "iglesia",
+   "estilo": "Románico de transición y renacentista",
+   "epoca": "Románico",
+   "anio": 1167,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En un valle tranquilo cerca de Córcoles se levanta uno de los monasterios del <b>Císter</b> más importantes de la Castilla medieval, filial de la abadía francesa de Escaladieu. La comunidad se fundó hacia 1138 y se trasladó aquí poco después; el primer documento fiable es de <b>1167</b>, y el rey <b>Alfonso VIII</b> confirmó la donación en 1169.</p><p>La iglesia es un buen ejemplo de <b>arquitectura románica de transición</b>. En la <b>sala capitular</b>, con arco apuntado y bóveda de crucería, se conservan los huecos de enterramiento de dos caballeros de Calatrava. El claustro que vemos es una reedificación sobria del siglo XVI.</p><p>Monsalud fue también un gran santuario: a su Virgen se le atribuía el poder de sanar <b>la rabia, las melancolías, los endemoniados y el mal de ojo</b>, y atraía peregrinos de toda la región. La desamortización de Mendizábal lo cerró en 1835. Declarado monumento en 1931, se restaura por fases desde 2015.</p><p class=\"dato\"><span>¿Sabías que…?</span>Según la tradición, Alfonso VIII se recuperó aquí de sus dolencias tras conquistar Cuenca en 1177, y lo atribuyó a la Virgen.</p>"
+   },
+   "ver_alli": [
+    "La cabecera de la iglesia, románica de transición.",
+    "La sala capitular con los enterramientos de los caballeros de Calatrava.",
+    "El claustro del siglo XVI."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Monsalud",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJiTAEDK3bQg0Rp7zenM_H89Q"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-bonaval",
+   "nombre": "Monasterio de Bonaval",
+   "provincia": "Guadalajara",
+   "comarca": "Retiendas",
+   "lat": 40.9671,
+   "lon": -3.2952,
+   "tipo": "iglesia",
+   "estilo": "Cisterciense",
+   "epoca": "Gótico",
+   "anio": 1164,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Escondido en un valle de la sierra cerca de Retiendas, aparecen las ruinas doradas de un monasterio cisterciense. Se fundó en <b>1164</b>, cuando <b>Alfonso VIII</b> entregó el valle de prestado a monjes venidos de Santa María de Valbuena; en 1175 se lo cedió definitivamente.</p><p>De la iglesia se conservan la <b>cabecera de tres ábsides</b>, el crucero con su brazo sur, una nave y la sacristía. Bóvedas de crucería y arcos apuntados con una decoración <b>elegante y sobria</b>, como mandaban las normas del Císter. Destaca el <b>pórtico sur</b>, con cuatro arquivoltas apuntadas.</p><p>La supresión de las órdenes monacales en <b>1821</b> obligó a los monjes a marcharse a Toledo; el edificio se vendió a particulares que no lo cuidaron, y de ahí la ruina actual. Desde 2017 la Junta acomete obras de consolidación.</p>"
+   },
+   "ver_alli": [
+    "La cabecera con sus tres ábsides.",
+    "La portada sur de cuatro arquivoltas apuntadas.",
+    "El entorno de valle serrano en que se esconden las ruinas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Bonaval",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ8xBSJxyXQw0R0LAxYr5w21w"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-buenafuente-del-sistal",
+   "nombre": "Monasterio de Buenafuente del Sistal",
+   "provincia": "Guadalajara",
+   "comarca": "Olmeda de Cobeta",
+   "lat": 40.8217,
+   "lon": -2.2123,
+   "tipo": "iglesia",
+   "estilo": "Románico-cisterciense",
+   "epoca": "Románico",
+   "anio": 1176,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En un rincón apartado de la serranía, el monasterio de Buenafuente sigue habitado por una pequeña comunidad de <b>monjas cistercienses</b>. Su nombre lo explica todo: dentro de la iglesia, en una hornacina del muro oeste, mana todavía la <b>«buena fuente»</b>, un manantial considerado milagroso y curativo que quizá ya se veneraba antes del cristianismo.</p><p>El primer documento conservado es de <b>1176</b>. Por impulso de Alfonso VIII se instalaron aquí canónigos regulares venidos de Francia, y en <b>1243</b> Sancha Gómez lo adquirió con la condición de que lo ocupase una comunidad de monjas del Císter, que se hizo filial de Santa María de Huerta.</p><p>La iglesia, <b>románica</b> en origen, se transformó en el siglo XIII al gusto cisterciense: nave única con <b>bóveda de cañón apuntado</b> y una portada de medio punto con capiteles vegetales. El retablo mayor, de 1737, procede de Huerta. La comunidad revivió a partir de 1971 y mantiene una hospedería.</p><p class=\"dato\"><span>¿Sabías que…?</span>La iglesia cambió de orientación: al reformarse en el siglo XIII pasó de mirar de norte a sur a orientarse de este a oeste.</p>"
+   },
+   "ver_alli": [
+    "La fuente que brota dentro de la iglesia, en el muro oeste.",
+    "La portada románica de medio punto con capiteles vegetales.",
+    "La bóveda de cañón apuntado de la nave."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Buenafuente_del_Sistal",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJVzRnPpvDXA0R7eRqQIYxGMY"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "real-fabrica-de-panos-de-brihuega",
+   "nombre": "Real Fábrica de Paños de Brihuega",
+   "provincia": "Guadalajara",
+   "comarca": "Brihuega",
+   "lat": 40.7602,
+   "lon": -2.8673,
+   "tipo": "monumento",
+   "estilo": "Arquitectura industrial del siglo XVIII",
+   "epoca": "Ilustración y Neoclásico",
+   "anio": 1750,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En el siglo XVIII los Borbones quisieron que España fabricara sus propios tejidos de lujo, y Brihuega fue uno de los lugares elegidos. La <b>Real Fábrica de Paños</b> se fundó el <b>1 de abril de 1750</b> y Fernando VI la inauguró en octubre de ese mismo año.</p><p>Su pieza más original es la <b>Rotonda</b>, un edificio de <b>planta circular</b> trazado por el arquitecto <b>Juan Manuel de Villegas</b>, donde trabajaban 84 telares. En 1757 la fábrica daba empleo a unas cien personas.</p><p>Cerró en <b>1835</b>, tras 85 años de actividad. Poco después, en 1840, sus antiguos secaderos se transformaron en unos <b>jardines de aire versallesco</b>, con cipreses, parterres, fuentes y miradores sobre el valle, que son hoy uno de los rincones más fotografiados de la Alcarria.</p>"
+   },
+   "ver_alli": [
+    "La Rotonda circular, corazón de la antigua fábrica.",
+    "Los jardines de 1840, con sus miradores sobre el valle.",
+    "La fachada principal, sobria e ilustrada."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Real_Fábrica_de_Paños_de_Brihuega",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ888V3gcaQw0RdJHJu_Z6y6M"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-maria-de-la-pena-brihuega",
+   "nombre": "Iglesia de Santa María de la Peña",
+   "provincia": "Guadalajara",
+   "comarca": "Brihuega",
+   "lat": 40.7573,
+   "lon": -2.8702,
+   "tipo": "iglesia",
+   "estilo": "Cisterciense, de transición al gótico",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En el borde de la peña sobre la que se asienta Brihuega, pegada a las murallas del castillo de Peña Bermeja, está la iglesia de la <b>patrona</b> de la villa, la Virgen de la Peña. Brihuega perteneció desde 1085 al <b>arzobispado de Toledo</b>, y sus arzobispos usaban el castillo como residencia.</p><p>Fue uno de ellos, <b>Rodrigo Jiménez de Rada</b>, quien mandó levantar la iglesia a <b>comienzos del siglo XIII</b>. Es de estilo <b>cisterciense</b>, con ese gótico de transición sobrio y luminoso que se extendió por Castilla con la orden del Císter.</p><p>Iglesia y castillo comparten muralla, de modo que la visita a uno lleva naturalmente al otro: la entrada al castillo está junto a la iglesia.</p>"
+   },
+   "ver_alli": [
+    "El interior gótico de transición, de líneas limpias.",
+    "La relación con el castillo de Peña Bermeja, con el que comparte muralla.",
+    "Las vistas sobre el valle desde el prado de Santa María."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santa_María_de_la_Peña_(Brihuega)",
+    "https://lamaletainquieta.com/castillo-brihuega/",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJiSI69ggaQw0RA-c7euj70L0"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "panteon-de-la-duquesa-de-sevillano",
+   "nombre": "Panteón de la Duquesa de Sevillano",
+   "provincia": "Guadalajara",
+   "comarca": "Guadalajara",
+   "lat": 40.6277,
+   "lon": -3.156,
+   "tipo": "monumento",
+   "estilo": "Ecléctico historicista (neorrománico lombardo y bizantino)",
+   "epoca": "Siglo XIX",
+   "anio": 1882,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Su cúpula de <b>escamas cerámicas</b> que cambian de color con la luz es uno de los iconos de la ciudad de Guadalajara. El panteón lo encargó <b>María Diega Desmaissières y Sevillano</b>, condesa de la Vega del Pozo y duquesa de Sevillano, en honor de su padre y otros familiares, y se construyó entre <b>1882 y 1916</b>.</p><p>El arquitecto fue <b>Ricardo Velázquez Bosco</b>, el mismo del Palacio de Cristal del Retiro. Mezcló sin complejos estilos del pasado: fachadas <b>neorrománicas lombardas</b>, <b>mosaicos bizantinos</b> en el interior y capiteles de decoración mudéjar, en una planta de cruz griega de unos 40 metros de altura. Las tejas de reflejos metálicos de la cúpula son obra del ceramista <b>Daniel Zuloaga</b>, que trabajó en ellas de 1893 a 1906.</p><p>La planta alta es el espacio de culto; la baja, una falsa cripta donde el escultor modernista <b>Ángel García Díaz</b> labró el gran sepulcro de la duquesa. Forma parte del conjunto de la Fundación de San Diego de Alcalá.</p>"
+   },
+   "ver_alli": [
+    "La cúpula de tejas con reflejos metálicos de Daniel Zuloaga.",
+    "Los mosaicos de inspiración bizantina del interior.",
+    "El sepulcro de la duquesa en la falsa cripta."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Panteón_de_la_duquesa_de_Sevillano",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJeRayDAyrQw0Rz-QAHzOI-qk"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "hita",
+   "nombre": "Hita",
+   "provincia": "Guadalajara",
+   "comarca": "Hita",
+   "lat": 40.8248,
+   "lon": -3.0497,
+   "tipo": "poblacion",
+   "estilo": "Villa medieval amurallada",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1441,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Hita es nombre de poeta: aquí fue arcipreste <b>Juan Ruiz</b>, el <b>Arcipreste de Hita</b>, autor del <i>Libro de buen amor</i>, una de las grandes obras de la literatura medieval castellana. La villa trepa por la ladera de un cerro cónico en cuya cima hubo un castillo, ya derruido en tiempos de Madoz.</p><p>Se entra por la <b>Puerta de Santa María</b>, de arco apuntado, que forma parte de la muralla que mandó construir el <b>marqués de Santillana</b> en <b>1441</b>; la preside el escudo de los Mendoza, señores de Hita. La Guerra Civil la dejó parcialmente destruida y se reconstruyó en 1965.</p><p>La iglesia de <b>San Juan Bautista</b>, mudéjar de los siglos XIII y XIV, conserva artesonados del siglo XVI. Y la <b>plaza del Arcipreste</b> es, desde <b>1961</b>, escenario del <b>Festival Medieval</b> que impulsó Manuel Criado de Val, con representaciones teatrales en torno al <i>Libro de buen amor</i>.</p><p class=\"dato\"><span>¿Sabías que…?</span>La primera obra representada en el festival, en 1961, fue <i>Doña Endrina</i>, una versión escénica del <i>Libro de buen amor</i>.</p>"
+   },
+   "ver_alli": [
+    "La Puerta de Santa María, con el escudo de los Mendoza.",
+    "La plaza del Arcipreste, escenario del festival.",
+    "La iglesia mudéjar de San Juan Bautista."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Hita",
+    "https://es.wikipedia.org/wiki/Festival_Medieval_de_Hita",
+    "https://es.wikipedia.org/wiki/Juan_Ruiz",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ51faluEJQw0RfuK7KZhfQ_o"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palazuelos",
+   "nombre": "Palazuelos",
+   "provincia": "Guadalajara",
+   "comarca": "Sigüenza",
+   "lat": 41.0913,
+   "lon": -2.6908,
+   "tipo": "poblacion",
+   "estilo": "Villa amurallada del siglo XV",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Pocos pueblos de España conservan su muralla completa como Palazuelos, una pequeña aldea de Sigüenza. La cerca de piedra rodea toda la villa a lo largo de <b>algo más de un kilómetro</b>, reforzada por cubos y abierta por cuatro accesos: la Puerta del Cercao, la del Monte, la de la Villa y el Arco del Lavadero.</p><p>En una esquina del recinto se levanta el <b>castillo</b>, que empezó a construir a mediados del siglo XV <b>Íñigo López de Mendoza</b>, marqués de Santillana, y terminó su hijo Pedro Hurtado de Mendoza. Su estilo recuerda al de Manzanares el Real y se atribuye a <b>Juan Guas</b>.</p><p>Dentro de las murallas está la iglesia de San Juan Bautista, reconstruida en el siglo XVI, con retablo barroco y artesonado de madera. El conjunto fue declarado <b>Conjunto Histórico en 2002</b>.</p>"
+   },
+   "ver_alli": [
+    "Las puertas dobles de la muralla, reforzadas por cubos.",
+    "El castillo de los Mendoza (privado, se ve desde fuera).",
+    "El paseo por la ronda exterior de la muralla."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Palazuelos",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ9Wi4olNbQw0Rd-You12yM6U"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-del-salvador-de-cifuentes",
+   "nombre": "Iglesia del Salvador de Cifuentes",
+   "provincia": "Guadalajara",
+   "comarca": "Cifuentes",
+   "lat": 40.7857,
+   "lon": -2.6227,
+   "tipo": "iglesia",
+   "estilo": "Románico y gótico, con añadidos renacentistas y barrocos",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>La gran iglesia de Cifuentes resume varios siglos en un solo edificio. Su origen es del <b>siglo XIII</b>; las naves y el ábside son de los siglos XIV y XV, y las capillas, de los XVI y XVII.</p><p>La joya es la <b>portada de Santiago</b>, en el lado oeste: concebida en estilo románico pero con una decoración ya gótica, sus arquivoltas están llenas de tallas, entre ellas la del <b>obispo Andrés</b> de Sigüenza (1262-1268), y sus jambas muestran figuras que parecen jeroglíficos. Sobre ella se abre un <b>rosetón gótico</b> cuyos radios forman columnas y arcos.</p><p>Dentro, merece la pena el <b>púlpito gótico</b> del siglo XV, que procede del antiguo convento dominico de San Blas de Cifuentes.</p>"
+   },
+   "ver_alli": [
+    "La portada de Santiago y sus tallas misteriosas.",
+    "El rosetón gótico sobre la portada.",
+    "El púlpito gótico del siglo XV."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_del_Salvador_(Cifuentes)",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJA6BjlqE6Qw0R6AocPRchFAI"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-cifuentes",
+   "nombre": "Castillo de Don Juan Manuel (Cifuentes)",
+   "provincia": "Guadalajara",
+   "comarca": "Cifuentes",
+   "lat": 40.7836,
+   "lon": -2.619,
+   "tipo": "castillo",
+   "estilo": "Gótico (siglo XIV)",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1324,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Sobre el cerro que domina Cifuentes, el castillo lleva la firma de uno de los personajes más brillantes de la Edad Media castellana: el <b>infante don Juan Manuel</b>. Lo mandó levantar en <b>1324</b>, sobre una fortaleza árabe anterior.</p><p>Es pequeño y de <b>planta cuadrada</b>, con cuatro torres en las esquinas: dos prismáticas, una cilíndrica y la del homenaje, de <b>planta pentagonal</b>. Tiene un único acceso, una puerta de arco apuntado con el <b>escudo del infante</b>, y estuvo rodeado de camino de ronda y foso.</p><p>Tras su compra por el ayuntamiento de Cifuentes ha comenzado un proceso de restauración.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje de planta pentagonal.",
+    "La puerta de arco apuntado con el escudo de don Juan Manuel.",
+    "Las vistas sobre Cifuentes."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Cifuentes",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJsYj0oKA6Qw0R3TVAuuxpJV0"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castro-de-los-rodiles",
+   "nombre": "Castro celtibérico de Los Rodiles",
+   "provincia": "Guadalajara",
+   "comarca": "Cubillejo de la Sierra (Molina de Aragón)",
+   "lat": 40.897,
+   "lon": -1.7825,
+   "tipo": "yacimiento",
+   "estilo": "Castro celtibérico",
+   "epoca": "Edad del Hierro",
+   "anio": -200,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En el extremo occidental de la <b>Loma Gorda</b>, una meseta alargada al norte de Cubillejo de la Sierra, en tierras de Molina, se esconde un poblado <b>celtibérico</b> de época avanzada, de entre los <b>siglos III y I a. C.</b></p><p>Lo más llamativo son sus <b>tres recintos amurallados</b> concéntricos, de unas 5, 2,5 y 1,5 hectáreas, todos construidos con la técnica de <b>muros de cajones</b> de hasta dos metros de anchura. En la esquina sureste del recinto interior asoma una gran <b>torre circular</b> de unos 11 metros de anchura, aún por excavar.</p><p>Las excavaciones sistemáticas comenzaron en <b>2008</b>, dirigidas por María Luisa Cerdeño y Teresa y Marta Sagardoy, y han encontrado edificios rectangulares dentro de las murallas. El acceso es libre, aunque el yacimiento no está señalizado.</p>"
+   },
+   "ver_alli": [
+    "Los tres anillos de muralla, de fuera hacia dentro.",
+    "El montículo de la torre circular del recinto interior.",
+    "El panorama de la sierra de Molina desde la Loma Gorda."
+   ],
+   "fuentes": [
+    "https://celtiberiahistorica.es/en/exposicion-viva/los-rodiles-cubillejo-de-la-sierra",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJc6QtGvZfXA0R73zXc5PLtG4"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-san-pedro-de-villacadima",
+   "nombre": "Iglesia de San Pedro de Villacadima",
+   "provincia": "Guadalajara",
+   "comarca": "Cantalojas",
+   "lat": 41.2816,
+   "lon": -3.2145,
+   "tipo": "iglesia",
+   "estilo": "Románico con reformas renacentistas",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En la sierra de Pela, en el norte de la provincia, la aldea de Villacadima guarda una de las mejores iglesias del <b>románico rural</b> de Guadalajara, levantada en los <b>siglos XII y XIII</b>.</p><p>Su gran tesoro es la <b>portada</b> de la fachada sur: un arco de medio punto con tres arquivoltas abocinadas decoradas con motivos vegetales, la interior <b>polilobulada</b>. El historiador Antonio Herrera Casado la atribuye a un taller de raíz mudéjar, el mismo que trabajó en la cercana <b>San Bartolomé de Campisábalos</b>. Curiosamente, la portada no está en su sitio original: se trasladó a la fachada sur en las reformas de los siglos XV y XVI.</p><p>Aquellas reformas añadieron dos naves laterales y una cabecera plana; en el siglo XVII llegó un artesonado mudéjar. Dentro se conserva una pila bautismal románica, y en sus piedras se han contado <b>332 marcas de cantero</b>. Fue declarada monumento histórico-artístico en 1965.</p>"
+   },
+   "ver_alli": [
+    "La portada sur con su arquivolta polilobulada.",
+    "Los canecillos, con un rostro humano y un escudo de llaves cruzadas.",
+    "La pila bautismal románica y las marcas de cantero."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Pedro_Apóstol_(Villacadima)",
+    "https://es.wikipedia.org/wiki/Villacadima",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJPXeDyQZ5RA0RCEN91cIS1rI"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "campillo-de-ranas",
+   "nombre": "Campillo de Ranas",
+   "provincia": "Guadalajara",
+   "comarca": "Campillo de Ranas",
+   "lat": 41.0855,
+   "lon": -3.3148,
+   "tipo": "poblacion",
+   "estilo": "Arquitectura negra (pizarra)",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>A los pies del <b>pico Ocejón</b>, uno de los más altos de la provincia, Campillo de Ranas es uno de los mejores ejemplos de la <b>arquitectura negra</b> de la Sierra Norte de Guadalajara. El nombre viene del color oscuro de la <b>pizarra</b> con la que se levantan muros y tejados.</p><p>Las casas tradicionales tienen tejados a dos aguas de losas de pizarra, con su chimenea, y muchas tienen dos plantas: la de abajo para la vida familiar y la de arriba para guardar la paja. En la plaza está la iglesia de <b>Santa María Magdalena</b>, sencilla, de pizarra mezclada con caliza, y junto a ella una torre con un reloj de sol que es símbolo del pueblo.</p><p>El municipio, dentro del <b>parque natural de la Sierra Norte</b>, incluye pequeñas aldeas igual de negras, como Campillejo, El Espinar, Roblelacasa o Robleluengo. A mediados del siglo XIX, según Madoz, vivía de la ganadería lanar, la pesca de truchas, un batán y dos molinos harineros.</p>"
+   },
+   "ver_alli": [
+    "La plaza con la iglesia de Santa María Magdalena y la torre del reloj de sol.",
+    "Los tejados de losas de pizarra con sus chimeneas.",
+    "El mirador de la Fuente de las Ranas, con el Ocejón al fondo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Campillo_de_Ranas",
+    "https://www.fascinatingspain.com/articulo/what-to-see-in-castile-mancha/campillo-de-ranas-black-architecture/20201026114457066961.html",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJobJvTjmPQw0RHmZzNjeAa8Q"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "los-casares",
+   "campos": {
+    "lat": 40.9397,
+    "lon": -2.2923,
+    "estilo": "Arte rupestre paleolítico (grabados)",
+    "texto": {
+     "general": "<p>A orillas del río Linares, en el <b>Parque Natural del Alto Tajo</b>, se abre una de las grandes cuevas con arte paleolítico del interior de la Península. En sus paredes hay unos <b>200 grabados</b> y algunas pinturas muy deterioradas: caballos, ciervos, toros y cabras monteses, e incluso animales raros en el arte prehistórico, como un <b>glotón</b> o un rinoceronte lanudo, además de figuras humanas.</p><p>Los grabados los dieron a conocer en <b>1933</b> los hermanos Rufo y Claudio Ramírez, y los estudiaron Juan Cabré y su hija <b>Encarnación Cabré</b>, que hizo los calcos y fue pionera de la arqueología profesional femenina en España. La cueva fue declarada Monumento Nacional en 1934. Cabré situó los grabados hace unos 27.000-32.000 años; las investigaciones de la Universidad de Alcalá desde 2014 amplían ese arco a buena parte del Paleolítico Superior, hace entre 35.000 y 13.000 años.</p><p>La cueva ya era frecuentada mucho antes: allí apareció un hueso de la mano de un <b>neandertal</b> junto a herramientas musterienses, y los investigadores han datado un hábitat de hace 50.000-60.000 años.</p><p class=\"dato\"><span>¿Sabías que…?</span>Algunas escenas humanas de Los Casares se han interpretado como una de las pocas representaciones de una cópula conocidas en el arte paleolítico.</p>"
+    },
+    "ver_alli": [
+     "El interior solo se visita con guía y reserva previa; los grupos son muy pequeños.",
+     "Fíjate en los trazos finos de los grabados: hace falta la luz rasante del guía para distinguir caballos y figuras humanas.",
+     "La subida hasta la boca es empinada y dentro hay humedad y algún paso bajo: lleva calzado de montaña y abrigo.",
+     "El valle del Linares y el Alto Tajo merecen un paseo antes o después."
+    ],
+    "fuentes": [
+     "https://rupestre.art/es/caves/cueva-de-los-casares",
+     "https://es.wikipedia.org/wiki/Cueva_de_los_Casares",
+     "https://www.eldiario.es/castilla-la-mancha/de-ciencia/nueva-campana-prehistorica-cueva-casares-hoy-cronologia-atribuyo-no_132_11746943.html",
+     "https://www.castillalamancha.es/print/389714"
+    ]
+   }
+  },
+  {
+   "id": "castilviejo-guijosa",
+   "campos": {
+    "lat": 41.0985,
+    "lon": -2.5532,
+    "estilo": "Castro celtíbero",
+    "texto": {
+     "general": "<p>En lo alto de un cerro calizo entre Guijosa y Cubillas del Pinar, cerca de Sigüenza, se conserva un castro con un sistema defensivo excepcionalmente completo. El lugar se ocupó en tres momentos sin continuidad: a finales de la Edad del Bronce (siglos XII-X a. C.), como <b>poblado celtíbero en el siglo III a. C.</b>, la fase que dejó las defensas visibles, y como atalaya islámica en los siglos X-XI.</p><p>El recinto, de forma triangular y unos 3.000 m², está protegido por acantilados en dos lados. El tercero lo cierra una <b>muralla en zigzag</b> de unos 90 metros y 2 de grosor, dividida en cinco tramos y rematada al sur por una torre de unos 13 × 6 metros. Delante hay un pequeño foso y dos grandes <b>campos de piedras hincadas</b>, separados por un único pasillo de unos 4 metros: una barrera para frenar a jinetes y carros.</p><p>Las primeras excavaciones se hicieron en 1977, y dentro del recinto se reconocen los cimientos de casas cuadradas o rectangulares apoyadas en la roca.</p>"
+    },
+    "ver_alli": [
+     "Aparca al pie del cerro y sube por la senda de la ladera este; es corta pero empinada.",
+     "Lo mejor está fuera de la muralla: recorre los campos de piedras hincadas y busca el pasillo que los cruza.",
+     "Mira cómo la muralla quiebra en zigzag y cómo la torre sur vigila el vallejo.",
+     "Sigüenza queda muy cerca para completar el día."
+    ],
+    "fuentes": [
+     "https://celtiberiahistorica.es/en/exposicion-viva/castilviejo-guijosa",
+     "https://es.wikipedia.org/wiki/Castilviejo_de_Guijosa"
+    ]
+   }
+  },
+  {
+   "id": "el-ceremeno",
+   "campos": {
+    "estilo": "Castro celtíbero",
+    "texto": {
+     "general": "<p>Sobre un pequeño cerro junto al arroyo Viejo, afluente del Gallo, se levantó este poblado celtíbero de apenas 2.000 m². Lo descubrieron por casualidad vecinos de Herrería en los años 80 y lo excavó la profesora <b>María Luisa Cerdeño</b>, de la Universidad Complutense.</p><p>Hubo dos poblados sucesivos. El primero, del <b>siglo VI a. C.</b>, tenía nueve casas rectangulares a lo largo de una calle y acabó destruido por un incendio. Sobre sus restos se construyó un segundo poblado, abandonado hacia el <b>siglo IV a. C.</b>, con <b>28 casas adosadas a la muralla</b>, casi idénticas, de unos 17-19 m²: un vestíbulo, una sala central con el hogar y un almacén al fondo. Un muro dividía el pueblo en dos barrios.</p><p>La muralla de caliza, de 2 a 2,5 metros de ancho, se reforzó en la segunda fase con una torre rectangular junto a la entrada. Al otro lado del río apareció en 1997 la necrópolis, con tumbas de incineración señaladas con círculos de piedra o túmulos.</p>"
+    },
+    "ver_alli": [
+     "Desde el pueblo, un camino señalizado de unos 200 m lleva al cerro del castro.",
+     "Busca la planta repetida de las casas pegadas a la muralla y la torre junto a la entrada.",
+     "En el ayuntamiento hay un pequeño museo con una maqueta del poblado y tumbas reconstruidas; la visita se concierta.",
+     "Molina de Aragón y su castillo están a pocos kilómetros."
+    ]
+   }
+  },
+  {
+   "id": "recopolis",
+   "campos": {
+    "lat": 40.321,
+    "lon": -2.8941,
+    "estilo": "Visigodo",
+    "ver_alli": [
+     "Empieza por el centro de interpretación para entender la ciudad antes de recorrerla.",
+     "Busca el gran edificio del palacio, la iglesia y la calle de tiendas y talleres.",
+     "Sobre la iglesia visigoda verás restos de la iglesia románica de los repobladores y de la ermita de la Virgen de la Oliva.",
+     "A pocos kilómetros está Zorita de los Canes, que se construyó en parte con piedras sacadas de Recópolis."
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-siguenza",
+   "campos": {
+    "lat": 41.0686,
+    "lon": -2.641,
+    "estilo": "Románico y gótico",
+    "texto": {
+     "general": "<p>Tras la conquista cristiana de Sigüenza en <b>1124</b>, el obispo <b>Bernardo de Agén</b> puso en marcha la iglesia mayor de la ciudad; las obras de la nueva catedral avanzaron con su sucesor, Pedro de Leucate, y el templo quedó abierto al culto el 19 de junio de 1169. Por fuera parece una fortaleza, con dos torres de unos 40 metros y un rosetón románico del siglo XIII en la fachada.</p><p>El interior es sobre todo <b>gótico</b>, y a lo largo de los siglos se le añadieron joyas renacentistas. La más famosa es el sepulcro del <b>Doncel</b>, Martín Vázquez de Arce, muerto en 1486, cuyo sepulcro se terminó entre 1486 y 1504. Otra es la <b>sacristía de las Cabezas</b>, trazada por Alonso de Covarrubias en 1532, cuya bóveda está cubierta por más de 300 cabezas esculpidas. La girola se construyó a finales del siglo XVI.</p><p>La catedral sufrió graves destrozos en 1936, durante la Guerra Civil, y en la reconstrucción posterior se levantó el gran cimborrio sobre el crucero.</p>"
+    },
+    "ver_alli": [
+     "Busca el sepulcro del Doncel, la escultura funeraria más famosa del templo.",
+     "Levanta la vista en la sacristía de las Cabezas: su bóveda está cubierta de cabezas esculpidas.",
+     "Por fuera, compara la fachada románica y fortificada, con su rosetón, con el interior gótico.",
+     "Reserva tiempo: la visita incluye una audioguía y muchas capillas."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_de_Santa_Mar%C3%ADa_de_Sig%C3%BCenza"
+    ]
+   }
+  },
+  {
+   "id": "atienza",
+   "campos": {
+    "lat": 41.1993,
+    "lon": -2.8708,
+    "estilo": "Villa medieval con iglesias románicas",
+    "texto": {
+     "general": "<p>Atienza se recoge al pie de un espolón de roca coronado por su <b>castillo</b>, levantado entre los siglos XI y XII y conquistado definitivamente por Alfonso VI en 1085. Era tan difícil de tomar que el Cid, según el Cantar, prefirió no atacarlo y lo llamó «peña muy fuerte». Hoy se conservan la torre del homenaje y el patio de armas, con dos aljibes, y fue declarado Monumento Nacional en 1931.</p><p>La villa llegó a tener unas catorce parroquias; hoy quedan siete iglesias y tres ermitas, con restos <b>románicos</b> como el ábside de San Gil. El corazón del pueblo es la <b>plaza del Trigo</b>, con soportales y presidida por la iglesia de San Juan, que se une a la plaza de España por el arco de Arrebatacapas.</p><p>Cada domingo de Pentecostés se celebra la <b>Caballada</b>, Fiesta de Interés Turístico Nacional, que recuerda la galopada de los arrieros de Atienza en <b>1162</b>, cuando sacaron a escondidas al niño rey Alfonso VIII. La organiza la cofradía de la Santísima Trinidad.</p>"
+    },
+    "ver_alli": [
+     "Sube al castillo por la senda del cerro: desde la torre se domina toda la comarca.",
+     "Pasea la plaza del Trigo, con sus soportales, y cruza el arco de Arrebatacapas.",
+     "Busca los ábsides románicos de las iglesias de la villa.",
+     "Si coincides con Pentecostés, verás la Caballada recorrer el pueblo."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Atienza",
+     "https://es.wikipedia.org/wiki/Castillo_de_Atienza",
+     "https://www.spain.info/es/agenda/caballada/"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-molina-de-aragon",
+   "campos": {
+    "lat": 40.846,
+    "lon": -1.8865,
+    "estilo": "Fortaleza andalusí reconstruida en época románica",
+    "texto": {
+     "general": "<p>Es uno de los mayores recintos castrales de España. Los andalusíes levantaron aquí un alcázar entre los siglos X y XI, sobre un antiguo castro celtíbero. En <b>1129</b> lo conquistó <b>Alfonso I de Aragón</b>, que lo mandó reconstruir y le dio su aspecto actual de castillo románico.</p><p>Hacia <b>1139</b> Manrique de Lara se hizo con estas tierras y se convirtió en el primer señor de Molina, un <b>señorío independiente</b> con fuero propio que los Lara gobernaron hasta finales del siglo XIII; después pasó a la Corona de Castilla por matrimonio con el rey Sancho IV.</p><p>Tiene dos recintos: uno exterior, la albacara, defendido por torres almenadas, y otro interior con el castillo, que llegó a tener ocho torres. En el siglo XIX sirvió de cuartel y en 1875 lo asaltaron tropas carlistas. Fue declarado Monumento Nacional en 1931.</p>"
+    },
+    "ver_alli": [
+     "Recorre el adarve y las torres almenadas del recinto exterior para hacerte una idea de su tamaño.",
+     "Fíjate en el arco de medio punto de la entrada principal.",
+     "Desde arriba se domina todo Molina de Aragón.",
+     "El acceso al interior puede requerir reserva; conviene informarse antes de ir."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Molina_de_Arag%C3%B3n",
+     "https://es.wikipedia.org/wiki/Molina_de_Arag%C3%B3n"
+    ]
+   }
+  },
+  {
+   "id": "el-salvador-de-carabias",
+   "campos": {
+    "lat": 41.0901,
+    "lon": -2.7175,
+    "estilo": "Románico rural",
+    "texto": {
+     "general": "<p>En la diminuta aldea de Carabias, cerca de Sigüenza, se alza una de las iglesias porticadas más vistosas del románico rural de Guadalajara, levantada en el <b>siglo XIII</b>.</p><p>Su gran atractivo es la <b>galería porticada</b>, que no ocupa dos sino casi tres lados del templo: cubre por completo los costados sur y oeste y se extiende en parte por el norte. En el lado sur hay dos tramos de <b>siete arcos de medio punto</b> cada uno, sobre <b>columnas pareadas</b> con capiteles de hojas de acanto; el lado oeste tiene otros cinco arcos y uno mayor frente a la portada.</p><p>El templo se reformó en el siglo XVII, cuando se elevó la nave, y se restauró en el siglo XX.</p>"
+    },
+    "ver_alli": [
+     "Rodea la iglesia para ver cómo la galería envuelve el templo por el sur, el oeste y parte del norte.",
+     "Mira de cerca las columnas dobles y los capiteles vegetales de la galería sur.",
+     "Compara la sencilla portada oeste con la del lado sur."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Carabias,_Guadalajara",
+     "https://es.wikipedia.org/wiki/Iglesia_del_Salvador_(Carabias)"
+    ]
+   }
+  },
+  {
+   "id": "san-bartolome-de-campisabalos",
+   "campos": {
+    "lat": 41.2674,
+    "lon": -3.1459,
+    "estilo": "Románico",
+    "texto": {
+     "general": "<p>San Bartolomé es una iglesia del <b>románico rural del siglo XIII</b>, con una portada abocinada de cinco arquivoltas en el muro sur y un ábside semicircular reforzado con semicolumnas, cuyos canecillos se relacionan con los talleres de Caracena, Tiermes y Atienza.</p><p>Adosada a la fachada sur está la <b>capilla de San Galindo</b>, también llamada del Caballero Galindo. En su muro exterior se conserva un <b>mensario</b>: un friso en relieve con el calendario de los trabajos del campo a lo largo del año, uno de los pocos de este tipo que se conservan esculpidos.</p><p>La iglesia se reformó en los siglos XVI y XVII, cuando se le añadió la sacristía.</p>"
+    },
+    "ver_alli": [
+     "Busca en el muro de la capilla de San Galindo el friso del mensario y trata de reconocer las tareas de cada mes.",
+     "Fíjate en la portada de cinco arquivoltas y compárala con la de la capilla.",
+     "Rodea el ábside para ver sus canecillos."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Church_of_San_Bartolom%C3%A9_(Campis%C3%A1balos)",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Bartolom%C3%A9_(Campis%C3%A1balos)"
+    ]
+   }
+  },
+  {
+   "id": "ermita-de-santa-coloma-de-albendiego",
+   "campos": {
+    "lat": 41.2245,
+    "lon": -3.0469,
+    "estilo": "Románico, con celosías de raíz mudéjar",
+    "texto": {
+     "general": "<p>A las afueras de Albendiego se alza esta ermita románica construida en el <b>siglo XII</b> y ampliada en el XV. Tiene planta de cruz latina y una espadaña gótica a los pies.</p><p>Lo que la hace única es su <b>ábside</b>. Se divide en tres tramos separados por columnas triples, y cada uno tiene una ventana de medio punto cerrada con <b>celosías de piedra caladas</b>, de raíz mudéjar: tres celosías en dos de las ventanas y cuatro en la tercera, algo excepcional en el románico.</p><p>Fue declarada Bien de Interés Cultural en 1965.</p>"
+    },
+    "ver_alli": [
+     "Ve directamente a la cabecera: las ventanas del ábside con sus celosías de piedra son lo mejor.",
+     "Cuenta las celosías de cada ventana y busca la que tiene cuatro.",
+     "Rodea la ermita para ver la espadaña gótica a los pies del templo."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Hermitage_of_Santa_Coloma_de_Albendiego",
+     "https://es.wikipedia.org/wiki/Ermita_de_Santa_Coloma_(Albendiego)"
+    ]
+   }
+  },
+  {
+   "id": "san-miguel-de-belena-de-sorbe",
+   "campos": {
+    "lat": 40.926,
+    "lon": -3.1892,
+    "estilo": "Románico, reformado en el siglo XVI",
+    "texto": {
+     "general": "<p>La iglesia de San Miguel es un templo románico del <b>siglo XII</b>: el primer documento que la menciona es una bula papal de 1127. Se reformó en los siglos XVI y XVII, cuando se le añadieron la sacristía y la prolongación de la nave.</p><p>Su joya es la portada sur, de sillería caliza. En su arquivolta está labrado un <b>mensario</b>, un calendario agrícola con los trabajos propios de cada mes del año. La portada se abre a una galería porticada que, como en otros templos de la zona, debió de recorrer las fachadas sur y oeste; en sus piedras se han contado 35 marcas de cantero.</p><p>Fue declarada Bien de Interés Cultural en 1991.</p>"
+    },
+    "ver_alli": [
+     "Ponte frente a la portada sur y recorre la arquivolta para ver los trabajos de cada mes.",
+     "Busca en los sillares de la galería las marcas que dejaron los canteros.",
+     "Fíjate en la sillería caliza de la portada, lo más antiguo y mejor conservado del templo."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Bele%C3%B1a_de_Sorbe",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Miguel_(Bele%C3%B1a_de_Sorbe)"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-de-pinilla-de-jadraque",
+   "campos": {
+    "lat": 41.0204,
+    "lon": -2.942,
+    "estilo": "Románico",
+    "texto": {
+     "general": "<p>La iglesia parroquial de Pinilla de Jadraque, dedicada a la Asunción de Nuestra Señora, es un templo románico de sillería del <b>siglo XIII</b>, alzado sobre una plataforma y rodeado por una <b>galería porticada</b> en sus lados sur y oeste.</p><p>Sus capiteles mezclan motivos <b>vegetales</b> con escenas <b>figuradas</b>: Cristo en majestad dentro de la mandorla rodeado del Tetramorfos (los símbolos de los evangelistas), la Crucifixión o la Resurrección. Sobre el muro oeste se levanta una gran espadaña de cuatro vanos.</p><p>En el siglo XVII se sustituyó el ábside original y el crucero se cubrió con una cúpula. Tras sufrir un incendio, se restauró en los años 80. Es Bien de Interés Cultural desde 1965.</p>"
+    },
+    "ver_alli": [
+     "Recorre la galería y busca entre los capiteles el de Cristo en la mandorla con los evangelistas.",
+     "Mira la espadaña de cuatro vanos, poco habitual en la zona.",
+     "Compara la galería románica con la cabecera, rehecha en el siglo XVII."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Church_of_Nuestra_Se%C3%B1ora_de_la_Asunci%C3%B3n_(Pinilla_de_Jadraque)",
+     "https://caminodelcid.org/en/servicios/church-of-the-assumption-in-pinilla-de-jadraque-1910024"
+    ]
+   }
+  },
+  {
+   "id": "palacio-del-infantado",
+   "campos": {
+    "lat": 40.6358,
+    "lon": -3.1687,
+    "estilo": "Gótico isabelino y mudéjar, con reforma renacentista",
+    "texto": {
+     "general": "<p>El palacio lo mandó construir hacia <b>1480</b> Íñigo López de Mendoza, segundo duque del Infantado, con trazas atribuidas a <b>Juan Guas</b>. Su fachada, terminada en 1483, está cubierta de <b>puntas de diamante</b> y rematada por una galería de balcones y garitones; dentro, el <b>patio de los Leones</b> tiene parejas de leones, emblema de los Mendoza, y grifos alados en la galería alta.</p><p>Desde 1569 el quinto duque transformó el interior al gusto del Renacimiento, con obras dirigidas por Acacio de Orejón y frescos de <b>Rómulo Cincinato</b> pintados entre 1578 y 1580. En 1560 se celebró aquí la boda de Felipe II con Isabel de Valois. El palacio fue bombardeado y destruido en 1936, y después se reconstruyó.</p><p>Hoy alberga el <b>Museo de Guadalajara</b>, el museo provincial más antiguo de España: se abrió en 1838 con obras de los conventos desamortizados y ocupa el palacio desde 1973. Su exposición permanente, «Tránsitos», recorre la vida, la muerte y la religiosidad desde el Paleolítico hasta el siglo XX, con piezas como el sepulcro de Aldonza de Mendoza, una Virgen de Alonso Cano o terracotas de Luisa Roldán.</p>"
+    },
+    "ver_alli": [
+     "Párate frente a la fachada para ver las puntas de diamante y la galería de garitones del remate.",
+     "En el patio, busca los leones abajo y los grifos en la galería alta.",
+     "Dentro, las salas con frescos de Rómulo Cincinato y el Museo de Guadalajara, con su exposición «Tránsitos»."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_del_Infantado",
+     "https://es.wikipedia.org/wiki/Museo_de_Guadalajara"
+    ]
+   }
+  },
+  {
+   "id": "palacio-ducal-de-pastrana",
+   "campos": {
+    "lat": 40.4182,
+    "lon": -2.9227,
+    "estilo": "Renacimiento",
+    "texto": {
+     "general": "<p>El palacio lo proyectó en <b>1541</b> Ana de la Cerda, abuela de la princesa de Éboli, al comprar la villa de Pastrana, con trazas de <b>Alonso de Covarrubias</b>. Es un edificio renacentista de fachada italianizante, con artesonados platerescos y zócalos de azulejería toledana.</p><p>Su vecina más famosa fue <b>Ana de Mendoza, la princesa de Éboli</b>. Caída en desgracia ante Felipe II, fue encerrada en este palacio desde <b>1581</b> hasta su muerte en 1592, atendida por su hija menor y tres criadas. Según la tradición, solo podía asomarse una hora al día al balcón enrejado que da a la plaza, que por eso se llama <b>plaza de la Hora</b>.</p><p>En 1997 lo compró la Universidad de Alcalá, que lo restauró y completó con un patio central proyectado por Antonio Fernández Alba. Fue declarado Monumento Nacional en 1941.</p>"
+    },
+    "ver_alli": [
+     "Empieza en la plaza de la Hora y busca el balcón enrejado de la princesa.",
+     "Dentro, fíjate en los artesonados y en los zócalos de azulejos toledanos.",
+     "La visita se hace con guía; consulta antes cómo apuntarte.",
+     "Completa el paseo por el casco histórico de Pastrana."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_Ducal_de_Pastrana"
+    ]
+   }
+  },
+  {
+   "id": "salinas-de-imon",
+   "campos": {
+    "estilo": "Arquitectura industrial (salinas de interior)"
+   }
+  }
+ ]
+}
