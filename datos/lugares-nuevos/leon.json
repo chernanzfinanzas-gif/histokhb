@@ -1,0 +1,1097 @@
+{
+ "zona": "León",
+ "nuevos": [
+  {
+   "id": "catedral-de-astorga",
+   "nombre": "Catedral de Astorga",
+   "provincia": "León",
+   "comarca": "Astorga",
+   "lat": 42.458,
+   "lon": -6.0569,
+   "tipo": "iglesia",
+   "estilo": "Gótico, renacentista y barroco",
+   "epoca": "Gótico",
+   "anio": 1471,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>La <b>catedral de Santa María</b> de Astorga es un edificio de tres épocas superpuestas. Antes hubo un templo prerrománico y otro románico, consagrado el <b>20 de diciembre de 1069</b>. La catedral actual se empezó por la cabecera en <b>1471</b>, en estilo gótico, y se fue completando durante siglos: renacentistas son la portada sur y dos capillas, y <b>barroca</b> la fachada principal, del siglo XVIII.</p><p>En la obra gótica se ha relacionado a <b>Juan y Simón de Colonia</b>, y el trabajo del siglo XVI se atribuye a <b>Rodrigo Gil de Hontañón</b>. Dentro, los pilares no tienen capiteles: suben y se funden directamente con los nervios de las bóvedas. El gran tesoro es el <b>retablo mayor de Gaspar Becerra</b>, obra cumbre del romanismo en España.</p><p>El edificio sufrió el <b>terremoto de Lisboa de 1755</b> y, en el siglo siguiente, los destrozos de las tropas napoleónicas, sobre todo en el claustro y las vidrieras.</p><p class=\"dato\"><span>¿Sabías que…?</span>La catedral no mira al este, como es lo habitual, sino al noreste.</p>"
+   },
+   "ver_alli": [
+    "La fachada barroca entre dos torres de más de 60 m con chapiteles de pizarra.",
+    "El retablo mayor de Gaspar Becerra.",
+    "La sillería del coro, de nogal, con la silla renacentista de Santo Toribio.",
+    "Al lado, el Palacio de Gaudí: dos épocas en una misma plaza."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_de_Astorga",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "villa-romana-de-navatejera",
+   "nombre": "Villa romana de Navatejera",
+   "provincia": "León",
+   "comarca": "Villaquilambre",
+   "lat": 42.6318,
+   "lon": -5.5609,
+   "tipo": "yacimiento",
+   "estilo": "Romano bajoimperial",
+   "epoca": "Romano",
+   "anio": 150,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>A las puertas de León, en Navatejera, están los restos de una <b>villa romana</b> habitada desde <b>mediados del siglo II hasta el siglo V</b>. Era una gran casa de campo con su explotación agrícola: se han hallado grandes vasijas para el grano, pesas de telar y molinos de mano.</p><p>El dueño tenía sus propias <b>termas privadas</b>, con sala fría, templada y caliente, y en el siglo IV hizo decorar las estancias con <b>mosaicos</b> de motivos geométricos y vegetales. Del siglo V es un edificio que se interpreta como <b>iglesia privada</b> y panteón de la familia.</p><p>La mayor parte de las excavaciones se hicieron entre finales del siglo XIX y el primer tercio del XX, y entonces se levantó un edificio de ladrillo y teja para proteger los mosaicos, considerado el <b>primer ejemplo de villa romana musealizada en España</b>. Tras décadas de abandono, en septiembre de 2026 el Ministerio de Cultura anunció nuevos estudios y excavaciones como paso previo a un plan director.</p>"
+   },
+   "ver_alli": [
+    "El pabellón histórico que protege los mosaicos.",
+    "Comprobar antes el estado de visita: tras décadas de abandono, el yacimiento está en estudio."
+   ],
+   "fuentes": [
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/ruinas-romanas-navatejera",
+    "https://www.diariodeleon.es/cultura/260910/2096926/villa-romana-sale-catacumbas.html"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-de-los-guzmanes",
+   "nombre": "Palacio de los Guzmanes",
+   "provincia": "León",
+   "comarca": "León",
+   "lat": 42.5984,
+   "lon": -5.57,
+   "tipo": "monumento",
+   "estilo": "Renacentista",
+   "epoca": "Renacimiento",
+   "anio": 1559,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>En la plaza de San Marcelo, junto a la Casa Botines, se alza el <b>palacio de los Guzmanes</b>, el gran palacio renacentista de León. Lo mandó construir <b>Ramiro Núñez de Guzmán</b>, antiguo líder comunero, sobre las casas de su linaje, uno de los más antiguos de la ciudad.</p><p>La traza es de <b>Rodrigo Gil de Hontañón</b> y la ejecución de <b>Juan de Ribero Rada</b>. Las obras empezaron en <b>1559</b>, después de que el concejo autorizara derribar un tramo de la vieja muralla que estorbaba. En 1566 ya estaba en pie la fachada a la plaza, pero a finales del siglo XVI la obra se paró con solo dos de las cuatro alas y el patio.</p><p>Aun inacabado era la mejor residencia de León, y en <b>1602</b> hospedó a Felipe III y Margarita de Austria. En <b>1881</b> lo compró la <b>Diputación Provincial</b>, que lo terminó y sigue teniendo allí su sede.</p>"
+   },
+   "ver_alli": [
+    "La fachada renacentista a la plaza de San Marcelo.",
+    "El patio central de dos pisos.",
+    "Las tres joyas de la plaza juntas: Guzmanes, Botines y el antiguo Ayuntamiento."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Palacio_de_los_Guzmanes",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-santa-maria-de-sandoval",
+   "nombre": "Monasterio de Santa María de Sandoval",
+   "provincia": "León",
+   "comarca": "Mansilla Mayor (Villaverde de Sandoval)",
+   "lat": 42.4994,
+   "lon": -5.4593,
+   "tipo": "iglesia",
+   "estilo": "Románico cisterciense y gótico tardío",
+   "epoca": "Románico",
+   "anio": 1171,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Cerca de la confluencia del Porma y el Esla, en Villaverde de Sandoval, quedan la iglesia y parte del claustro de un <b>monasterio cisterciense</b> del siglo XII. Las tierras las donó Alfonso VII en 1142 a su mayordomo, el conde <b>Ponce de Minerva</b>, quien con su esposa Estefanía Ramírez las entregó en 1167 a los monjes de la Santa Espina. La vida monástica empezó en <b>1171</b> con un abad y doce monjes.</p><p>La iglesia muestra dos etapas: la cabecera, el crucero y el primer tramo son de finales del XII, un <b>románico de transición</b> que ya usa bóvedas de ojivas; los dos tramos de los pies son del <b>gótico tardío</b> del siglo XV, obra del abad Pedro de la Vega. Los monjes se fueron en 1835 con la desamortización; la iglesia sigue siendo parroquia y el conjunto está en restauración.</p><p class=\"dato\"><span>¿Sabías que…?</span>La viuda del conde, Estefanía Ramírez, fundó después el monasterio de Carrizo, también en León.</p>"
+   },
+   "ver_alli": [
+    "La cabecera románica con sus capiteles.",
+    "Las bóvedas de ojivas sobre soportes todavía románicos.",
+    "Los restos de la panda oriental del claustro."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_de_Sandoval_(Mansilla_Mayor)",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-san-pedro-de-las-duenas",
+   "nombre": "Monasterio de San Pedro de las Dueñas",
+   "provincia": "León",
+   "comarca": "Sahagún (San Pedro de las Dueñas)",
+   "lat": 42.3313,
+   "lon": -5.0498,
+   "tipo": "iglesia",
+   "estilo": "Románico-mudéjar",
+   "epoca": "Mudéjar",
+   "anio": 1109,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>A unos kilómetros de Sahagún, en la vega del Cea, viven todavía monjas benedictinas en un monasterio cuyo origen se remonta al año <b>973</b>. El edificio monástico es del siglo XVIII, pero lo valioso es su <b>iglesia del siglo XII</b>, una de las mejores muestras del <b>románico-mudéjar</b>.</p><p>Se empezó hacia <b>1109</b> en piedra, siguiendo el modelo de San Isidoro de León, con tres ábsides. A finales del siglo se cambió de plan y se siguió en <b>ladrillo</b>, al modo de San Tirso de Sahagún. Por eso los muros cuentan su historia: abajo sillería, arriba ladrillo. Sobre la nave central se alza una torre de ladrillo de tres cuerpos con ventanas de herradura.</p><p>Dentro, los <b>capiteles</b> son de primera calidad, de la misma escuela que los primeros de San Isidoro; el más famoso es el llamado «de las siete monjas». También hay un Cristo crucificado atribuido a <b>Gregorio Fernández</b>.</p>"
+   },
+   "ver_alli": [
+    "El paso de la piedra al ladrillo en los muros.",
+    "La torre mudéjar sobre la nave.",
+    "El capitel «de las siete monjas»."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Pedro_de_las_Due%C3%B1as",
+    "https://www.google.com/maps/place/?q=place_id:ChIJydwITIX4Rw0RqeosFFI3zlY"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santuario-de-la-peregrina-sahagun",
+   "nombre": "Santuario de la Peregrina",
+   "provincia": "León",
+   "comarca": "Sahagún",
+   "lat": 42.3678,
+   "lon": -5.0324,
+   "tipo": "iglesia",
+   "estilo": "Románico-mudéjar y gótico-mudéjar",
+   "epoca": "Mudéjar",
+   "anio": 1257,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>En la colina más alta de Sahagún, a 845 metros, se levanta el antiguo <b>convento franciscano</b> fundado hacia <b>1257</b>, hoy conocido como santuario de la Peregrina por la imagen de la Virgen del siglo XVII que acogió. Desde allí se domina la llanura hasta la cordillera Cantábrica.</p><p>Como las demás iglesias de la villa está hecha en <b>ladrillo</b>. Lo más llamativo son los paramentos exteriores del siglo XIV, con <b>arquerías ciegas</b> de arcos polilobulados de influencia toledana. Dentro, la capilla de don Diego Gómez de Sandoval, muerto en 1455, guarda paños de <b>yesería mudéjar</b> con lazos, granadas y tramas de rombos.</p><p>El convento se abandonó en 1835 con la desamortización. Tras una restauración terminada hacia 2011 es la sede del <b>Centro de Documentación del Camino de Santiago</b>.</p>"
+   },
+   "ver_alli": [
+    "Las arquerías ciegas polilobuladas de ladrillo en el exterior.",
+    "Las yeserías mudéjares de la capilla de los Sandoval.",
+    "La vista sobre la llanura de Sahagún."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_la_Peregrina_(Sahag%C3%BAn)",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-san-miguel-de-las-duenas",
+   "nombre": "Monasterio de San Miguel de las Dueñas",
+   "provincia": "León",
+   "comarca": "Congosto (El Bierzo)",
+   "lat": 42.5831,
+   "lon": -6.5233,
+   "tipo": "iglesia",
+   "estilo": "Barroco clasicista",
+   "epoca": "Barroco",
+   "anio": 1695,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Este monasterio de <b>monjas cistercienses</b> nació entre los años 970 y 980 como cenobio masculino, fundado por el conde <b>Gonzalo Bermúdez</b>, tenente del castillo de Luna. Tras su rebelión, Bermudo II le confiscó los bienes y entregó el monasterio a Sampiro, futuro obispo de Astorga. En <b>1152</b> la infanta <b>Sancha Raimúndez</b> lo restauró y lo dio a una comunidad de monjas, que con el tiempo siguió la regla del Císter.</p><p>De la obra románica no queda casi nada: lo que se ve es un sobrio <b>barroco conventual</b> de los siglos XVII y XVIII, de mampostería con sillería en esquinas y ventanas y tejados de pizarra, muy berciano. La iglesia, terminada en <b>1695</b>, tiene una sola nave y una reja de hierro de finales del XVII que separa el coro de las monjas de la zona de los fieles.</p>"
+   },
+   "ver_alli": [
+    "La portada barroca con San Miguel en la hornacina.",
+    "La reja de hierro forjado y blasonada que parte la nave.",
+    "La bóveda con la fecha de 1695 grabada."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Miguel_de_las_Due%C3%B1as",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-valencia-de-don-juan",
+   "nombre": "Castillo de Valencia de Don Juan (Coyanza)",
+   "provincia": "León",
+   "comarca": "Valencia de Don Juan",
+   "lat": 42.2903,
+   "lon": -5.5224,
+   "tipo": "castillo",
+   "estilo": "Gótico militar",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1387,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Sobre un antiguo castro de las edades del Bronce y del Hierro y de época romana se alza este castillo, referente de la arquitectura gótico-militar. Lo empezó a finales del siglo XIV <b>Juan de Portugal</b>, hijo bastardo de Pedro I de Portugal, que recibió el título de duque de Valencia de Campos en <b>1387</b>. Lo continuaron su hija María y su yerno Martín Vázquez de Acuña, y el edificio actual se debe sobre todo a <b>Juan de Acuña y Portugal</b> y su mujer Teresa Enríquez.</p><p>En <b>1475</b>, durante la guerra de sucesión castellana, fue asediado, y en ese asedio murió Juan de Acuña al caer desde una ventana. A mediados del siglo XVI quedó abandonado. Es de piedra, ladrillo y tapial, con torre del homenaje y torres en la muralla donde se ven los escudos de los Acuña y los Quiñones.</p><p>Está en ruina parcialmente restaurada: la torre del homenaje se rehízo en parte en 1950-1955 y en 2004-2005, y desde 2008 alberga el <b>Museo del Castillo</b>.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje.",
+    "Los escudos de los Acuña y los Quiñones en las torres de la muralla.",
+    "El Museo del Castillo, en su interior."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Valencia_de_Don_Juan",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-cornatel",
+   "nombre": "Castillo de Cornatel",
+   "provincia": "León",
+   "comarca": "Priaranza del Bierzo (Villavieja)",
+   "lat": 42.4877,
+   "lon": -6.6932,
+   "tipo": "castillo",
+   "estilo": "Medieval",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1378,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Encaramado sobre un espolón rocoso, con un barranco de más de <b>180 metros</b> por dos lados, Cornatel vigila el valle del arroyo de Rioferreiros. Se identifica con el <b>castillo de Ulver</b> de los documentos altomedievales, ya citado como fortaleza del reino de León a finales del siglo X. En 1228 lo tenían los <b>templarios</b>, que lo conservaron hasta la disolución de la orden en 1312.</p><p>El nombre de Cornatel aparece por primera vez en <b>1378</b>. Pasó a los Osorio, condes de Lemos; en <b>1467</b> los irmandiños lo tomaron y casi lo destruyeron, y en 1469 el conde Pedro Álvarez Osorio lo mandó reconstruir. Él mismo murió en Cornatel en 1483, y su herencia provocó un asedio de dos años.</p><p>Por los lados más accesibles lo cierra una sola muralla con paseo de ronda almenado. Las excavaciones apuntan a que bajo el edificio oeste puede haber restos de un templo romano.</p>"
+   },
+   "ver_alli": [
+    "La silueta del castillo sobre la roca, vista desde el sendero de acceso.",
+    "El paseo de ronda almenado.",
+    "La vista sobre el valle del arroyo de Rioferreiros."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Cornatel",
+    "https://www.google.com/maps/place/?q=place_id:ChIJd96l4BCjMA0Rzpp6X00lT0k"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-grajal-de-campos",
+   "nombre": "Castillo de Grajal de Campos",
+   "provincia": "León",
+   "comarca": "Grajal de Campos",
+   "lat": 42.322,
+   "lon": -5.0209,
+   "tipo": "castillo",
+   "estilo": "Gótico tardío, artillero",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1517,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>El castillo de Grajal está considerado el <b>primer castillo artillero de España</b>. Hubo uno anterior, citado ya en el año 967, donde murió en 1107 <b>Raimundo de Borgoña</b>. El actual lo mandó construir <b>Hernando de Vega</b>, comendador mayor de Castilla, entre <b>1517 y 1521</b>, con proyecto de Lorenzo de Aldonza.</p><p>Hernando temía la revuelta de las Comunidades contra Carlos V y no esperó al permiso real: cuando llegó, en 1521, el castillo ya estaba acabado. Es un cuadrado de <b>73 metros de lado</b> con cuatro torreones para los cañones de mayor calibre, levantado sobre un fuerte talud. Lo rodeaba un foso con puente levadizo, hoy enterrado.</p><p>Los condes dejaron de vivir en Grajal a comienzos del siglo XVIII y empezó el declive; entre 1833 y 1900 incluso hubo un cementerio junto a la muralla norte.</p>"
+   },
+   "ver_alli": [
+    "Los cuatro torreones artilleros y el talud.",
+    "Los torreones donde se emplazaban los cañones de mayor calibre.",
+    "Muy cerca, el palacio de los condes de Grajal."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Grajal_de_Campos",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-palacio-marqueses-de-villafranca",
+   "nombre": "Castillo-palacio de los Marqueses de Villafranca",
+   "provincia": "León",
+   "comarca": "Villafranca del Bierzo",
+   "lat": 42.6041,
+   "lon": -6.8102,
+   "tipo": "castillo",
+   "estilo": "Renacentista con reformas italianizantes",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1515,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>El castillo-palacio de los marqueses de Villafranca del Bierzo se levanta sobre una fortaleza anterior, la «fuerza», destruida en <b>1507</b>. En <b>1515</b> la reina Juana I autorizó su reconstrucción a <b>Pedro Álvarez de Toledo</b>, marido de la II marquesa de Villafranca, como residencia del marquesado.</p><p>Desde 1600 el V marqués lo convirtió de fortaleza feudal en un palacio de gusto <b>italiano</b>, con fuentes, pérgolas y esculturas. En la Guerra de la Independencia fue saqueado por las tropas inglesas en 1809 y saqueado e incendiado por los franceses en 1815 y 1819.</p><p>Tiene planta cuadrada con <b>cuatro torreones circulares</b> y tejados de pizarra. Sobre la puerta, de ladrillo, está el escudo del III marqués, Fadrique Álvarez de Toledo. Hoy es propiedad privada de los herederos de la pianista María Manuela Caro, esposa del compositor <b>Cristóbal Halffter</b>.</p>"
+   },
+   "ver_alli": [
+    "Los torreones circulares con cubierta de pizarra.",
+    "El escudo de los Álvarez de Toledo sobre la puerta.",
+    "Es privado: se ve desde fuera."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo-Palacio_de_los_Marqueses_de_Villafranca",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-santa-maria-de-vizbayo",
+   "nombre": "Iglesia de Santa María de Vizbayo",
+   "provincia": "León",
+   "comarca": "Ponferrada (Otero)",
+   "lat": 42.5374,
+   "lon": -6.5944,
+   "tipo": "iglesia",
+   "estilo": "Románico con influencias mozárabes",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>En la falda del monte Pajariel, en Otero —hoy casi un barrio de Ponferrada—, está esta pequeña iglesia del siglo XI. Es uno de los edificios del Camino de Santiago donde mejor se ve el paso del <b>arte mozárabe al románico</b>.</p><p>Tiene una sola nave con bóveda de cañón y cabecera semicircular. Lo más bello es la <b>ventana geminada</b> del testero, con arcos de herradura y una columna corta de basa sogueada, rasgo mozárabe. Está hecha de pizarra y granito. La espadaña es de finales del siglo XVII y el pórtico y la sacristía del XVIII.</p><p class=\"dato\"><span>¿Sabías que…?</span>En 1576, durante una epidemia de peste, el ayuntamiento de Ponferrada se reunía en esta iglesia, alejada del núcleo de la villa.</p>"
+   },
+   "ver_alli": [
+    "La ventana geminada de herradura del ábside.",
+    "Los arcos de herradura.",
+    "La vista de Ponferrada desde el Pajariel."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_de_Vizbayo",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-santo-tomas-de-las-ollas",
+   "nombre": "Iglesia de Santo Tomás de las Ollas",
+   "provincia": "León",
+   "comarca": "Ponferrada (Santo Tomás de las Ollas)",
+   "lat": 42.5547,
+   "lon": -6.5794,
+   "tipo": "iglesia",
+   "estilo": "Mozárabe",
+   "epoca": "Prerrománico y Alta Edad Media",
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>A las afueras de Ponferrada, en un pueblo que debe su nombre a los alfareros, se esconde una iglesia <b>mozárabe del siglo X</b>. Por fuera parece una sencilla iglesia de pizarra, pero su cabecera guarda una sorpresa.</p><p>El ábside, rectangular por fuera, es por dentro de planta <b>ultracircular</b> y se abre a la nave con un doble <b>arco de herradura</b>. Lo recorre una arquería de <b>nueve arcos de herradura</b> que sostiene una bóveda de once paños, algo singular dentro del arte mozárabe leonés. La nave se reformó en época románica, cuando se abrió la portada sur.</p><p>Su relación con San Genadio es solo una conjetura. Perteneció al dominio del monasterio de San Pedro de Montes, documentado en 1202.</p>"
+   },
+   "ver_alli": [
+    "La arquería de nueve arcos de herradura del ábside.",
+    "El arco triunfal doble de herradura.",
+    "La portada románica del muro sur."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santo_Tom%C3%A1s_(Santo_Tom%C3%A1s_de_las_Ollas)",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-san-pedro-de-montes",
+   "nombre": "Monasterio de San Pedro de Montes",
+   "provincia": "León",
+   "comarca": "Ponferrada (Montes de Valdueza)",
+   "lat": 42.446,
+   "lon": -6.5705,
+   "tipo": "iglesia",
+   "estilo": "Visigodo, prerrománico y barroco",
+   "epoca": "Prerrománico y Alta Edad Media",
+   "anio": 919,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>En lo más agreste de los montes Aquilianos, en el corazón de la <b>Tebaida leonesa</b>, está uno de los monasterios más antiguos de España. Lo fundó hacia el año <b>635</b> <b>San Fructuoso</b>, y en él vivió después San Valerio.</p><p>Arrasado en las razias musulmanas de 714, hacia el 890 llegó <b>San Genadio</b> con doce discípulos y lo restauró; se le dio la <b>regla de San Benito</b>, según la tradición la primera vez en España. La iglesia reedificada se consagró el <b>24 de octubre de 919</b> ante cuatro obispos, como recuerda una lápida junto a la antigua entrada del claustro. Llegó a ser, con Carracedo, uno de los monasterios bercianos con más dominios.</p><p>Tras la desamortización de 1835 un incendio lo dejó en ruina. Restauraciones desde 2003, sobre todo la de 2017, han recuperado su estructura.</p>"
+   },
+   "ver_alli": [
+    "La lápida de la consagración del año 919.",
+    "La iglesia y los muros del claustro restaurados.",
+    "El paisaje de la Tebaida y, cerca, Peñalba de Santiago."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Pedro_de_Montes",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castro-ventosa",
+   "nombre": "Castro Ventosa (Bergidum)",
+   "provincia": "León",
+   "comarca": "Villafranca del Bierzo y Cacabelos",
+   "lat": 42.5993,
+   "lon": -6.7543,
+   "tipo": "yacimiento",
+   "estilo": "Castro astur y ciudad romana",
+   "epoca": "Romano",
+   "anio": -25,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>En lo alto de un cerro en el centro de la hoya berciana estuvo <b>Bergidum</b>, la ciudad que dio nombre a El Bierzo. Fue primero un gran castro astur, probablemente el centro de poder de la comarca, y los romanos lo conquistaron hacia el <b>25-23 a.C.</b>, en las guerras astur-cántabras.</p><p>En época romana fue un cruce de calzadas: el <b>Itinerario de Antonino</b> sitúa en Bergido el punto donde se unían las vías hacia Braga, Astorga y Lugo. La ciudad siguió viva con suevos y visigodos —hubo ceca que acuñó moneda con el nombre de Bergio— y San Valerio la cita como capital del territorio.</p><p>Tras la invasión musulmana fue fortaleza del reino astur, y en el siglo X empezó a despoblarse en favor de Villafranca y Cacabelos. Muchas de sus piezas se guardan en el museo arqueológico de Cacabelos.</p>"
+   },
+   "ver_alli": [
+    "Los restos de muralla en la cima.",
+    "La vista de toda la hoya de El Bierzo.",
+    "Completar con el museo arqueológico de Cacabelos."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castro_Ventosa",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "basilica-de-la-encina",
+   "nombre": "Basílica de Nuestra Señora de la Encina",
+   "provincia": "León",
+   "comarca": "Ponferrada",
+   "lat": 42.5444,
+   "lon": -6.5919,
+   "tipo": "iglesia",
+   "estilo": "Renacentista",
+   "epoca": "Renacimiento",
+   "anio": 1573,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>En el casco antiguo de Ponferrada, a pocos pasos del castillo, está la basílica de la <b>Virgen de la Encina</b>. Según la tradición, los <b>templarios</b> encontraron la imagen en el tronco de una encina mientras levantaban la fortaleza, y de ahí viene su nombre.</p><p>Sustituyó a una iglesia de Santa María de finales del siglo XII. El obispado autorizó el nuevo templo en 1567 y las obras empezaron oficialmente en <b>1573</b> con trazas de <b>Juan de Alvear</b>; se alargaron casi cien años. La torre se empezó en <b>1614</b>. Es un templo <b>renacentista</b> de cruz latina.</p><p>Dentro destacan el <b>retablo mayor</b>, de la escuela de <b>Gregorio Fernández</b> (1630-1640), y el <b>Cristo de la Fortaleza</b>, del siglo XIII, que se cree procedente del castillo templario.</p>"
+   },
+   "ver_alli": [
+    "La torre, empezada en 1614.",
+    "El retablo mayor de la escuela de Gregorio Fernández.",
+    "El Cristo de la Fortaleza."
+   ],
+   "fuentes": [
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/basilica-senora-encina",
+    "https://www.diariodeleon.es/bierzo/260730/2092713/cuatro-siglos-mirada-morenica.html",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-santa-maria-de-carrizo",
+   "nombre": "Monasterio de Santa María de Carrizo",
+   "provincia": "León",
+   "comarca": "Carrizo de la Ribera",
+   "lat": 42.5837,
+   "lon": -5.8309,
+   "tipo": "iglesia",
+   "estilo": "Románico con reformas de los siglos XVI-XVII",
+   "epoca": "Románico",
+   "anio": 1176,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>El monasterio de Carrizo lo fundó el <b>10 de septiembre de 1176</b> la condesa <b>Estefanía Ramírez</b>, viuda del conde Ponce de Minerva, que lo dotó con sus tierras y se retiró a él sin llegar a ser abadesa. Su hija fue la primera. Desde entonces lo habitan <b>monjas cistercienses</b>, y el pueblo de Carrizo creció a su alrededor.</p><p>En más de 800 años solo una vez quedó vacío: entre la Revolución de 1868 y 1871 las monjas fueron exclaustradas y se refugiaron en Villoria. En 1955 la comunidad adoptó la Estricta Observancia (trapenses).</p><p>Las reformas de los siglos XVI-XVII y un gran incendio en <b>1947</b> dejaron poco de lo románico, pero se conservan los <b>ábsides semicirculares</b> y una portada norte de arco apuntado con cuatro arquivoltas.</p>"
+   },
+   "ver_alli": [
+    "Los tres ábsides románicos por fuera.",
+    "La portada norte de arco apuntado.",
+    "El arco de entrada al recinto monástico."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_(Carrizo_de_la_Ribera)",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castrillo-de-los-polvazares",
+   "nombre": "Castrillo de los Polvazares",
+   "provincia": "León",
+   "comarca": "Astorga (Maragatería)",
+   "lat": 42.4648,
+   "lon": -6.1282,
+   "tipo": "poblacion",
+   "estilo": "Arquitectura popular maragata",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Castrillo de los Polvazares es el pueblo más conocido de la <b>Maragatería</b>. Sus vecinos fueron <b>arrieros maragatos</b>, que entre los siglos XVI y XIX llevaban salazones de pescado de la costa gallega al interior y volvían con embutidos y productos de secano. Su declive empezó con la llegada del <b>ferrocarril a Astorga en 1866</b>.</p><p>Las casas arrieras están pensadas para ese oficio: grandes portones para los carros, patios interiores alrededor de los que se organiza todo, cuadras y bodegas. Fachadas de piedra, calles empedradas, portadas adinteladas o de medio punto, algunas con escudo. El pueblo se reconstruyó en el siglo XVI en su sitio actual tras unas riadas.</p><p>Fue municipio propio hasta 1975 y en <b>1980</b> se declaró conjunto histórico-artístico. Hoy vive del turismo y del <b>cocido maragato</b>.</p>"
+   },
+   "ver_alli": [
+    "Las calles empedradas y los portones de las casas arrieras.",
+    "La iglesia parroquial, toda de piedra.",
+    "Los patios interiores de las casas rehabilitadas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castrillo_de_los_Polvazares",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "molinaseca",
+   "nombre": "Molinaseca",
+   "provincia": "León",
+   "comarca": "Molinaseca (El Bierzo)",
+   "lat": 42.5374,
+   "lon": -6.52,
+   "tipo": "poblacion",
+   "estilo": "Villa del Camino de Santiago",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Molinaseca es una villa del <b>Camino de Santiago</b> a la entrada de El Bierzo. Su origen está ligado al <b>puente de los Peregrinos</b>, de planta románica, sobre el río Meruelo: allí empieza el pueblo, y su parte histórica termina al pie del viejo crucero de piedra.</p><p>En época romana ya hubo aquí un núcleo minero. En el siglo XI formó parte de un señorío vinculado a Alfonso VI, y de entonces datan sus primeras ermitas y hospitales. En 1809, en plena Guerra de la Independencia, fue sede de la Junta Superior de León.</p><p>Es conjunto histórico-artístico desde <b>1975</b> y BIC como Villa de Molinaseca desde <b>2021</b>, año en que entró en «Los Pueblos Más Bonitos de España».</p>"
+   },
+   "ver_alli": [
+    "El puente de los Peregrinos sobre el Meruelo.",
+    "El viejo crucero de piedra donde termina el casco histórico.",
+    "El santuario barroco de las Angustias, junto al Camino."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Molinaseca",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-sarracin",
+   "nombre": "Castillo de Sarracín",
+   "provincia": "León",
+   "comarca": "Vega de Valcarce",
+   "lat": 42.6617,
+   "lon": -6.9537,
+   "tipo": "castillo",
+   "estilo": "Medieval",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Sobre un picacho en la falda del monte de la Vilela, en el valle del Valcarce, quedan las ruinas del <b>castillo de Sarracín</b>, en tierras del Camino de Santiago. El monte ya aparece citado en el <b>Codex Calixtinus</b>.</p><p>Según la tradición, el primer castillo fue arrasado por Muza en 714 y se reconstruyó a finales del siglo IX. Resistió muchos asedios y arrastra varias leyendas, como la de las cinco estacas.</p><p>El recinto es un rectángulo irregular dividido en dependencias, con dos torres —una con saetera abocinada— y una puerta de arco de medio punto. En las obras de urgencia de <b>2014</b> aparecieron <b>12 saeteras</b>, cerámica y restos metálicos.</p>"
+   },
+   "ver_alli": [
+    "Las dos torres y la puerta de medio punto.",
+    "La vista del valle del Valcarce y del Camino."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Sarrac%C3%ADn",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "herreria-de-compludo",
+   "nombre": "Herrería de Compludo",
+   "provincia": "León",
+   "comarca": "Ponferrada (Compludo)",
+   "lat": 42.4866,
+   "lon": -6.4592,
+   "tipo": "monumento",
+   "estilo": "Arquitectura preindustrial",
+   "epoca": "Siglo XIX",
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>En un rincón angosto de los montes Aquilianos, donde se juntan dos arroyos, funciona todavía una <b>fragua hidráulica</b>. Su origen se asocia al monasterio de Compludo, fundado por San Fructuoso, aunque lo que hoy se conserva es del <b>siglo XIX</b>.</p><p>El agua mueve una rueda que hace golpear el gran <b>mazo</b>, y la fragua recibe aire de una <b>trompa catalana</b>, que funciona por el principio de Venturi, sin fuelles. Varias generaciones de herreros la han mantenido en marcha.</p><p>Es <b>Monumento Nacional desde 1968</b>, lo que evitó su desaparición, y en 2022 la compró el Ayuntamiento de Ponferrada.</p>"
+   },
+   "ver_alli": [
+    "El mazo movido por la rueda hidráulica.",
+    "La trompa catalana que sopla la fragua.",
+    "El paseo por el valle desde Compludo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Herrer%C3%ADa_de_Compludo",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "muralla-de-mansilla-de-las-mulas",
+   "nombre": "Muralla de Mansilla de las Mulas",
+   "provincia": "León",
+   "comarca": "Mansilla de las Mulas",
+   "lat": 42.4989,
+   "lon": -5.4185,
+   "tipo": "monumento",
+   "estilo": "Medieval",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Mansilla de las Mulas, villa del Camino de Santiago, conserva buena parte de su <b>muralla del siglo XII</b>, de la época en que Fernando II repobló la villa. La web de turismo de la Junta la define como la mejor obra de fortificación medieval de la provincia de León.</p><p>Es de cal y canto y tapial, rematada con almenas. Cada cuarenta metros tenía torres que se comunicaban con un muro exterior hoy desaparecido. De sus cuatro puertas queda una, la de <b>Santa María</b>.</p>"
+   },
+   "ver_alli": [
+    "Los lienzos de tapial con torreones almenados.",
+    "La puerta de Santa María."
+   ],
+   "fuentes": [
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/murallas-puertas/recinto-amurallado-mansilla"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "lancia",
+   "campos": {
+    "estilo": "Castro astur y ciudad romana",
+    "anio": -25,
+    "lat": 42.5302,
+    "lon": -5.4312,
+    "texto": {
+     "general": "<p><b>Lancia</b> fue, según los autores antiguos, la ciudad más importante de los astures. Se alza en una meseta entre los ríos <b>Porma y Esla</b>, a unos 14 km de León, y en ella se han encontrado restos de muchas épocas, aunque lo principal es un poblado de la <b>Segunda Edad del Hierro</b> (siglos II-I a. C.).</p><p>Roma la tomó hacia el <b>25 a. C.</b>, durante las guerras astur-cántabras, a manos del legado <b>Publio Carisio</b>. Floro la llamó «validissima civitas» y Dion Casio, «la ciudad más importante de los astures». Cuentan que Carisio impidió que la quemaran para que quedara como monumento de la victoria.</p><p>A lo largo del siglo I d. C. renació como <b>ciudad romana</b>, con termas, calles empedradas y un <b>mercado (macellum)</b> de seis tiendas del siglo II. Se fue abandonando hasta el siglo IV. Es zona arqueológica protegida desde 1994 y se sigue excavando cada año.</p><p class=\"dato\"><span>¿Sabías que…?</span>No todos los investigadores aceptan que este sea el lugar de la Lancia de los textos antiguos: algunos la sitúan en el castro de Las Labradas, en Arrabalde (Zamora).</p>"
+    },
+    "ver_alli": [
+     "Termas y macellum romanos excavados, con paneles explicativos; se ven también desde fuera del vallado.",
+     "Hay visitas guiadas con arqueólogo algunos días; conviene informarse antes de ir.",
+     "PRÓXIMAMENTE: hay un proyecto con centro de interpretación y pabellones; aún sin fecha de apertura."
+    ],
+    "fuentes": [
+     "https://www.diariodeleon.es/cultura/261001/2098851/lancia-redisena-futuro-yacimientos-arqueologicos.html",
+     "https://es.wikipedia.org/wiki/Lancia_(ciudad)",
+     "https://www.openstreetmap.org/way/73550549",
+     "https://www.google.com/maps/place/?q=place_id:ChIJMWgEWPeMNw0RgUGefEfAUeA",
+     "https://www.wikidata.org/wiki/Q13077238"
+    ]
+   }
+  },
+  {
+   "id": "chano",
+   "campos": {
+    "estilo": "Castro astur",
+    "lat": 42.8897,
+    "lon": -6.6794,
+    "texto": {
+     "general": "<p>El <b>castro de Chano</b>, en el valle de <b>Fornela</b> (Peranzanes, El Bierzo), es uno de los poblados castreños mejor conservados del noroeste. Lo habitaron los <b>astures</b> entre el siglo I a. C. y la primera mitad del siglo I d. C., en plena llegada de Roma.</p><p>Se han localizado cerca de <b>veinte cabañas</b> redondas u ovaladas de pizarra, de hasta <b>5,5 metros de diámetro</b> y muros de unos 60 cm de grosor. Tenían una sola abertura, la puerta, elevada sobre el suelo, y un <b>hogar central</b> sobre una gran losa de pizarra. Algunas conservan muros de hasta 4 metros de alto, algo excepcional.</p><p>Su final es un misterio: no hay huellas de incendio ni de ataque, pero dentro de las casas aparecieron monedas y joyas, como si sus habitantes se hubieran marchado deprisa.</p>"
+    },
+    "ver_alli": [
+     "Cabañas circulares de pizarra con su puerta elevada y el hogar central: fíjate en el grosor de los muros.",
+     "Junto al acceso hay cabañas reconstruidas con techo de paja (teitos) que recrean una cocina y un almacén astures.",
+     "El centro de interpretación del castro está en el mismo término de Peranzanes; la subida al castro es empinada pero tiene buenas vistas del valle."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/yacimientos-arqueologicos/castro-chano-centro-interpretacion",
+     "https://es.wikipedia.org/wiki/Castro_de_Chano",
+     "https://www.openstreetmap.org/node/685985698",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ3zZCcRHcMA0REeAD3WT6DZk",
+     "https://www.wikidata.org/wiki/Q43177477"
+    ]
+   }
+  },
+  {
+   "id": "castros-laciana",
+   "campos": {
+    "estilo": "Castro astur-romano",
+    "lat": 42.9336,
+    "lon": -6.3017,
+    "texto": {
+     "general": "<p>El <b>castro de La Muela</b> se asoma al valle de <b>Laciana</b>, junto a Villablino y Rioscuro. Es uno de los poblados de la <b>Edad del Hierro</b> que se han excavado, consolidado y señalizado en el proyecto de los castros de Laciana, junto con el de La Zamora.</p><p>Sus orígenes se sitúan en la Edad del Hierro (siglos VIII-I a. C.), y el poblado <b>siguió habitado en época romana</b> (siglos I-III d. C.), ligado a la explotación del <b>oro</b> que Roma organizó en estas montañas. Las estructuras excavadas se han consolidado y señalizado para la visita.</p><p>Desde el castro hay un mirador sobre todo el valle, y en Rioscuro un <b>centro de interpretación</b> explica, con maquetas, el contexto histórico y los hallazgos.</p>"
+    },
+    "ver_alli": [
+     "Estructuras del castro consolidadas, con paneles explicativos, y el mirador sobre el valle de Laciana.",
+     "El acceso es por una pista y un sendero señalizados desde la carretera; conviene llevar calzado de monte.",
+     "Centro de interpretación de los castros de Laciana en Rioscuro, con maqueta del valle; organiza visitas guiadas al castro."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/yacimientos-arqueologicos/centro-interpretacion-castros",
+     "https://www.openstreetmap.org/node/11685191766",
+     "https://www.google.com/maps/place/?q=place_id:ChIJa13z_UcpNw0RiDEnfvFUbcs",
+     "https://www.google.com/maps/place/?q=place_id:ChIJPVH6vwYpNw0RYsaSwmQA6vM"
+    ]
+   }
+  },
+  {
+   "id": "las-medulas",
+   "campos": {
+    "estilo": "Minería romana",
+    "lat": 42.4606,
+    "lon": -6.7681,
+    "texto": {
+     "general": "<p><b>Las Médulas</b> está considerada <b>la mayor mina de oro a cielo abierto del Imperio romano</b>. Los romanos empezaron a explotarla en tiempos de <b>Augusto</b>, tras las guerras contra astures y cántabros (26-19 a. C.), y la abandonaron hacia el siglo III.</p><p>Para sacar el oro usaban la <b>ruina montium</b>, que describió Plinio el Viejo: traían agua por una red de canales de cientos de kilómetros, la almacenaban y la soltaban de golpe en galerías excavadas, hasta derrumbar montañas enteras. Los barros se lavaban después para separar el oro.</p><p>El resultado es el paisaje de picachos de <b>arenas rojizas</b> entre castaños que hoy vemos; los escombros llegaron a formar el <b>lago de Carucedo</b>. La <b>UNESCO</b> lo declaró Patrimonio Mundial en <b>1997</b>.</p>"
+    },
+    "ver_alli": [
+     "Paisaje de acceso libre, con sendas señalizadas entre los picachos rojos y los castaños.",
+     "El Aula Arqueológica, en el pueblo de Las Médulas, ardió en el incendio de 2025 y se está rehabilitando: PRÓXIMAMENTE.",
+     "Mirador de Orellán (en recuperación), con la mejor vista de conjunto y una galería romana de unos 100 m junto a él."
+    ],
+    "fuentes": [
+     "https://www.elespanol.com/castilla-y-leon/region/leon/20260418/nueva-aula-arqueologica-medulas-lista-verano-despues-incendios-inversion-eur/1003744212362_0.html",
+     "https://es.wikipedia.org/wiki/Las_M%C3%A9dulas",
+     "https://www.openstreetmap.org/way/448673212",
+     "https://www.openstreetmap.org/node/256200179",
+     "https://www.wikidata.org/wiki/Q42301711"
+    ]
+   }
+  },
+  {
+   "id": "astorga",
+   "campos": {
+    "estilo": "Romano",
+    "lat": 42.4542,
+    "lon": -6.0525,
+    "texto": {
+     "general": "<p><b>Asturica Augusta</b>, la actual Astorga, nació hacia el <b>14 a. C.</b> como campamento de la <b>Legio X Gemina</b> y se convirtió en la capital del <b>Convento Asturicense</b>, el distrito que administraba el rico territorio minero del noroeste.</p><p>Casi toda la ciudad romana duerme bajo la actual, pero se ven restos de las <b>Termas Mayores y Menores</b>, de casas como la <b>domus del Mosaico del Oso y los Pájaros</b>, de las <b>cloacas</b> (algunos tramos aún sirven al alcantarillado) y de la muralla, en la que se identificó la única puerta romana conocida, la <b>Puerta de Hierro</b>.</p><p>La <b>Ergástula</b> es una galería abovedada de unos 50 metros, de época julio-claudia, que formaba parte del foro. Rehabilitada por el ayuntamiento, hoy aloja el <b>Museo Romano</b>, con objetos de la vida cotidiana de la ciudad.</p>"
+    },
+    "ver_alli": [
+     "Museo Romano en la Ergástula, la galería abovedada del foro, y Ruta Romana guiada con reserva.",
+     "En la Ruta Romana: termas, mosaicos de las domus y tramos de cloaca conservados in situ.",
+     "Palacio de Gaudí y catedral."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/museo-romano-astorga-ergastula",
+     "https://es.wikipedia.org/wiki/Asturica_Augusta",
+     "https://es.wikipedia.org/wiki/Erg%C3%A1stula_romana_de_Astorga",
+     "https://www.openstreetmap.org/way/112519063",
+     "https://www.wikidata.org/wiki/Q5835617"
+    ]
+   }
+  },
+  {
+   "id": "leon-romano",
+   "campos": {
+    "estilo": "Romano (campamento legionario)",
+    "lat": 42.5993,
+    "lon": -5.566,
+    "texto": {
+     "general": "<p>León nació como <b>campamento militar romano</b>. Primero lo ocupó la <b>Legio VI Victrix</b>, en época de Augusto, y en el año <b>74</b> llegó la <b>Legio VII Gemina</b>, la legión que Galba había creado en Hispania (en Clunia) en el año 68. Del latín <i>Legio</i> viene el nombre de la ciudad.</p><p>El campamento era un rectángulo de unos 570 por 350 metros, con una puerta en cada lado. La legión lo rodeó de una <b>muralla de piedra</b>, y a finales del siglo III o comienzos del IV se reforzó con una nueva cerca de torres semicirculares, cuyos lienzos aún se recorren en buena parte del casco antiguo.</p><p>Bajo la plaza de Puerta Obispo, junto a la catedral, se visitan los restos de la <b>puerta este</b> del campamento con las <b>letrinas</b> públicas que había junto a ella.</p>"
+    },
+    "ver_alli": [
+     "Ruta de las murallas: los cubos semicirculares de la cerca tardorromana siguen en pie en buena parte del casco.",
+     "Criptas de Puerta Obispo (puerta este y letrinas, junto a la catedral) y de Cascalería."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/ruta-romana-leon",
+     "https://es.wikipedia.org/wiki/Legio_VII_Gemina",
+     "https://es.wikipedia.org/wiki/Murallas_de_Le%C3%B3n",
+     "https://www.openstreetmap.org/relation/9848252",
+     "https://www.google.com/maps/place/?q=place_id:ChIJt7DWNVybNw0R6a04Tz8beWg"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-leon",
+   "campos": {
+    "estilo": "Gótico",
+    "lat": 42.5995,
+    "lon": -5.5667,
+    "texto": {
+     "general": "<p>La <b>catedral de León</b>, la «<b>Pulchra Leonina</b>» (la Bella Leonesa), es uno de los grandes templos góticos de España. Su planta es casi una réplica, algo menor, de la de la <b>catedral de Reims</b>. Las obras se retomaron en <b>1255</b>, con el obispo Martín Fernández y el apoyo de Alfonso X, bajo la dirección del <b>maestro Enrique</b>, al que sucedió Juan Pérez.</p><p>Se levanta sobre una larga historia: aquí estuvieron las <b>termas de la legión romana</b>, sobre ellas el palacio de los reyes de León, y desde el año 916 las catedrales anteriores.</p><p>Su gran tesoro son unos <b>1.800 metros cuadrados de vidrieras</b> medievales y posteriores, de las colecciones más importantes de Europa, repartidas en más de un centenar de ventanales y tres grandes rosetones. En el siglo XIX estuvo a punto de hundirse y fue salvada por una larga restauración.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "Las vidrieras: mejor en un día soleado, y fíjate en cómo cambia la luz del interior según la hora.",
+     "Portada central de la Virgen Blanca o del Juicio Final; la imagen original de la Virgen Blanca está dentro.",
+     "El claustro, con pinturas murales de Nicolás Francés."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_de_Le%C3%B3n",
+     "https://www.openstreetmap.org/way/46344508",
+     "https://www.wikidata.org/wiki/Q175874"
+    ]
+   }
+  },
+  {
+   "id": "real-colegiata-de-san-isidoro",
+   "campos": {
+    "estilo": "Románico",
+    "lat": 42.6008,
+    "lon": -5.5708,
+    "texto": {
+     "general": "<p>La <b>Real Colegiata de San Isidoro</b>, adosada a la muralla romana, es uno de los conjuntos románicos más importantes de España. Los reyes <b>Fernando I y Sancha</b> trajeron aquí desde Sevilla los restos de san Isidoro y consagraron la nueva iglesia el <b>21 de diciembre de 1063</b>. La iglesia actual se terminó en el siglo XII y se consagró en 1149.</p><p>A sus pies está el <b>Panteón de los Reyes</b>, donde reposan 23 reyes y reinas, 12 infantes y 9 condes. Sus bóvedas están cubiertas de <b>pinturas románicas del siglo XII</b> tan bien conservadas que se le llama «<b>la Capilla Sixtina del románico</b>».</p><p>Su tesoro guarda piezas excepcionales, como el <b>cáliz de doña Urraca</b>, y en su claustro se celebró la <b>Curia de 1188</b> convocada por Alfonso IX, cuyos «Decreta» reconoce la UNESCO como Memoria del Mundo.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "Panteón de los Reyes: las pinturas románicas de las bóvedas y los capiteles originales.",
+     "Puertas del Cordero y del Perdón en la fachada sur, de las primeras obras románicas del reino de León.",
+     "En el museo, el cáliz de doña Urraca."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/real-colegiata-san-isidoro",
+     "https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_San_Isidoro_de_Le%C3%B3n",
+     "https://www.openstreetmap.org/way/679784520",
+     "https://www.wikidata.org/wiki/Q383659"
+    ]
+   }
+  },
+  {
+   "id": "santiago-de-penalba",
+   "campos": {
+    "estilo": "Mozárabe (prerrománico)",
+    "texto": {
+     "general": "<p>La iglesia de <b>Santiago de Peñalba</b> es una joya del arte <b>mozárabe</b> escondida en la <b>Tebaida leonesa</b>, en los Montes Aquilianos. Es lo que queda de un monasterio fundado por <b>san Genadio</b>, obispo de Astorga, y la terminó su discípulo el <b>abad Salomón</b> en el año <b>937</b>, en tiempos de Ramiro II.</p><p>Por fuera llama la atención su <b>puerta de doble arco de herradura</b> sobre columnas de mármol. Dentro, arcos de herradura muy cerrados y una planta con <b>dos ábsides enfrentados</b>, uno en la cabecera y otro a los pies, este último pensado como espacio funerario.</p><p>Bajo la cal aparecieron <b>pinturas murales del siglo X</b>, con zócalo rojo y ladrillo fingido. Es Monumento Nacional desde 1931, y el pueblo de Peñalba, de piedra y pizarra, es Conjunto Histórico desde 1976.</p><p class=\"dato\"><span>¿Sabías que…?</span>A la entrada del Valle del Silencio está la cueva donde se retiraba san Genadio; la leyenda dice que mandó callar al río para poder rezar.</p>"
+    },
+    "ver_alli": [
+     "Con entrada (Turismo Ponferrada).",
+     "La puerta de doble arco de herradura con sus columnas de mármol.",
+     "Dentro, los dos ábsides enfrentados y los restos de pintura del siglo X.",
+     "Paseo por el pueblo y, si hay tiempo, a la cueva de San Genadio en el Valle del Silencio."
+    ],
+    "fuentes": [
+     "https://www.ponferrada.org/turismo/en/servicios/qr-info.files/128663-folleto%20pe%C3%B1alba-iglesia.pdf",
+     "https://www.wikidata.org/wiki/Q1548845",
+     "https://es.wikipedia.org/wiki/Iglesia_de_Santiago_de_Pe%C3%B1alba",
+     "https://www.terranostrum.es/turismo/leon/el-bierzo-y-los-ancares/penalba-de-santiago/un-paseo-por-penalba-de-santiago"
+    ]
+   }
+  },
+  {
+   "id": "san-miguel-de-escalada",
+   "campos": {
+    "estilo": "Mozárabe (prerrománico)",
+    "texto": {
+     "general": "<p><b>San Miguel de Escalada</b> es el monumento <b>mozárabe</b> más importante de León. En el año 912 llegó aquí un grupo de monjes cristianos venidos de <b>Córdoba</b>, con el abad Alfonso, y levantó la iglesia sobre unas ruinas. La consagró el obispo <b>Genadio de Astorga</b> en el <b>913</b> (la inscripción fundacional, hoy perdida, parece indicar el 914).</p><p>Es una basílica de <b>tres naves</b> separadas por arcos de herradura, con un <b>iconostasio</b> (cancel) que separaba el espacio de los monjes. Muchas columnas y capiteles son <b>romanos y visigodos reaprovechados</b>.</p><p>Al sur se abre su famoso <b>pórtico de arcos de herradura</b>, construido en dos fases en el siglo X. La torre y la capilla llamada Panteón de los Abades se añadieron en el siglo XI, ya en románico. Es Monumento Nacional desde 1886.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "El pórtico de arcos de herradura: compara los capiteles de los dos tramos.",
+     "Dentro, los arcos de herradura de las naves y los canceles del iconostasio."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/monasterio-san-miguel-escalada",
+     "https://www.wikidata.org/wiki/Q203741",
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Miguel_de_Escalada"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-los-templarios",
+   "campos": {
+    "estilo": "Fortaleza medieval (siglos XII-XV)",
+    "lat": 42.5441,
+    "lon": -6.5935,
+    "texto": {
+     "general": "<p>El <b>castillo de Ponferrada</b>, llamado de los Templarios, domina el paso del río Sil por el antiguo <i>Pons Ferrata</i>, en pleno Camino de Santiago. Hacia <b>1178</b> el rey <b>Fernando II de León</b> permitió a la Orden del Temple establecerse aquí para proteger el camino, y los templarios estuvieron en Ponferrada más de un siglo, hasta la disolución de la orden a comienzos del XIV.</p><p>Lo que vemos hoy, un recinto de <b>más de 8.000 m²</b>, es sobre todo obra posterior: el castillo viejo del siglo XIV y las grandes obras del siglo XV del <b>primer conde de Lemos</b>, Pedro Álvarez Osorio, que levantó la entrada principal, las torres de la muralla y el Palacio Nuevo.</p><p>Fue declarado Monumento Nacional en 1924. En el Palacio Nuevo están <b>Templum Libri</b>, con facsímiles de grandes códices, y una <b>biblioteca templaria</b>.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "La entrada principal y las torres de la muralla del primer conde de Lemos; el castillo viejo, del siglo XIV.",
+     "Templum Libri y la biblioteca templaria en el Palacio Nuevo."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Ponferrada",
+     "https://www.ponferrada.org/turismo/en/servicios/qr-info.files/128661-poliptico%20castillo-ESP.pdf",
+     "https://www.openstreetmap.org/way/47131623",
+     "https://www.wikidata.org/wiki/Q1049270"
+    ]
+   }
+  },
+  {
+   "id": "puente-del-paso-honroso",
+   "campos": {
+    "estilo": "Medieval (siglo XIII)",
+    "lat": 42.464,
+    "lon": -5.8789,
+    "texto": {
+     "general": "<p>El puente de <b>Hospital de Órbigo</b> es uno de los más largos del Camino de Santiago: de origen medieval (siglo XIII), tiene <b>19 vanos</b> y ha sido restaurado muchas veces. Está sobre la antigua calzada romana que unía León y Astorga.</p><p>Su fama viene del <b>Paso Honroso</b>: en el Año Santo de <b>1434</b>, del 10 de julio al 9 de agosto, el caballero leonés <b>Suero de Quiñones</b>, con permiso de Juan II, defendió el paso del puente contra todo caballero que quisiera cruzar. Había prometido llevar cada jueves una argolla de hierro al cuello por amor a su dama, y para librarse de ella debía romper <b>300 lanzas</b>.</p><p>Terminado el torneo, peregrinó a Santiago y dejó en la catedral una gargantilla de oro, que aún se conserva en el relicario. Desde 1997 el pueblo revive el torneo cada primer fin de semana de junio.</p>"
+    },
+    "ver_alli": [
+     "Acceso libre.",
+     "Cruza el puente entero a pie y cuenta sus arcos: es un tramo del Camino Francés."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Paso_honroso",
+     "https://www.openstreetmap.org/way/39196400",
+     "https://www.wikidata.org/wiki/Q2055623"
+    ]
+   }
+  },
+  {
+   "id": "iglesias-mudejares-de-sahagun",
+   "campos": {
+    "estilo": "Románico-mudéjar (románico de ladrillo)",
+    "lat": 42.3709,
+    "lon": -5.0325,
+    "texto": {
+     "general": "<p><b>San Tirso</b> y <b>San Lorenzo</b> son la cuna del <b>románico de ladrillo</b> (llamado también mudéjar), nacido en Sahagún junto a la gran abadía cluniacense de San Benito. San Tirso, del siglo XII y terminada hacia 1180-1190, sirvió de prototipo para muchas iglesias de León, Zamora, Valladolid, Ávila y Segovia.</p><p>San Tirso arranca en <b>piedra</b> hasta unos tres metros y sigue en <b>ladrillo</b>, con tres ábsides decorados con arquerías ciegas y una torre sobre el presbiterio. La torre se hundió en 1948 y se reconstruyó fielmente. Hoy, sin culto, es un pequeño museo de arte sacro.</p><p><b>San Lorenzo</b>, a pocos pasos, está hecha enteramente de ladrillo y tiene una magnífica <b>torre de cuatro cuerpos</b> sobre el centro de la cabecera, con ventanas de arcos de herradura, de medio punto y apuntados.</p>"
+    },
+    "ver_alli": [
+     "San Tirso es museo.",
+     "Rodea las cabeceras de las dos iglesias: arcos ciegos de ladrillo en varios pisos.",
+     "La torre de San Lorenzo, a unos 300 m de San Tirso."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Tirso_(Sahag%C3%BAn)",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Lorenzo_(Sahag%C3%BAn)",
+     "https://www.openstreetmap.org/way/68698151",
+     "https://www.openstreetmap.org/way/74196327",
+     "https://www.wikidata.org/wiki/Q5911373"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-carracedo",
+   "campos": {
+    "estilo": "Románico y cisterciense protogótico",
+    "lat": 42.5708,
+    "lon": -6.7313,
+    "texto": {
+     "general": "<p>El <b>monasterio de Carracedo</b> lo fundó hacia el año <b>990</b> el rey <b>Bermudo II</b> de León para acoger a monjes que huían de Almanzor, pero el propio Almanzor lo arrasó en el 997. Pasó más de un siglo casi abandonado.</p><p>En <b>1138</b> la infanta <b>Sancha Raimúndez</b>, hermana de Alfonso VII, lo restauró y vivió en él largas temporadas, convirtiéndolo en palacio real. En <b>1203</b> sus monjes adoptaron la regla del <b>Císter</b>, y llegó a gobernar una decena de monasterios.</p><p>Desamortizado en 1835 y arruinado durante siglo y medio, se restauró desde 1988 y hoy alberga el <b>Museo del Císter y del Monacato berciano</b>. Lo más bello es el llamado <b>Palacio real</b>, del siglo XIII, con la <b>«Cocina de la Reina»</b>.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "La «Cocina de la Reina», con sus ventanas de tracería y columnas.",
+     "La puerta con el tímpano de la Virgen muerta rodeada de los apóstoles y ángeles músicos.",
+     "La sala capitular, con portada románica."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/monasterio-santa-maria-carracedo",
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_de_Carracedo",
+     "https://www.openstreetmap.org/relation/9485417",
+     "https://www.wikidata.org/wiki/Q1552535"
+    ]
+   }
+  },
+  {
+   "id": "santiago-de-villafranca-del-bierzo",
+   "campos": {
+    "estilo": "Románico",
+    "lat": 42.604,
+    "lon": -6.8077,
+    "texto": {
+     "general": "<p>La iglesia de <b>Santiago</b> de Villafranca del Bierzo se levantó en <b>1186</b>, por iniciativa de don Fernando, obispo de Astorga. Es un templo <b>románico</b> de una sola nave, construido en sillería, con presbiterio y ábside semicircular.</p><p>Su gran joya es la <b>Puerta del Perdón</b>, en el muro norte, con cuatro arquivoltas y capiteles que cuentan la historia de los <b>Reyes Magos</b> —a caballo, dormidos, avisados por el ángel y adorando al Niño— y el Calvario, con un Cristo en Majestad en la clave.</p><p>Por esta puerta, los <b>peregrinos enfermos</b> que no podían seguir hasta Compostela podían ganar el <b>jubileo</b> como si hubieran llegado a Santiago.</p>"
+    },
+    "ver_alli": [
+     "Abre en horario de visita.",
+     "Los capiteles de la izquierda de la Puerta del Perdón: la historia de los Reyes Magos.",
+     "Por fuera, el ábside con sus columnas y capiteles de animales y monstruos."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-santiago",
+     "https://www.terranostrum.es/turismo/leon/el-bierzo-y-los-ancares/villafranca-del-bierzo/iglesia-de-santiago-villafranca-del-bierzo",
+     "https://www.openstreetmap.org/way/43891780",
+     "https://www.wikidata.org/wiki/Q18122850"
+    ]
+   }
+  },
+  {
+   "id": "san-miguel-de-corullon",
+   "campos": {
+    "estilo": "Románico",
+    "lat": 42.5841,
+    "lon": -6.8168,
+    "texto": {
+     "general": "<p>La iglesia de <b>San Miguel de Corullón</b> es un <b>románico temprano</b> del Bierzo, de principios del siglo XII. Tiene una sola nave de tres tramos, ábside semicircular y una torre posterior a los pies, que quedó sin terminar.</p><p>La portada, en el lado sur, tiene un capitel prerrománico reaprovechado y, encima, una <b>arquería ciega</b> con figuras de animales, humanos y formas diabólicas que Gómez-Moreno relacionó con San Isidoro de León.</p><p>Lo más expresivo son sus <b>canecillos</b>, con temas figurativos labrados por el mismo taller que los de la vecina iglesia de San Esteban. Es Bien de Interés Cultural desde 1997.</p>"
+    },
+    "ver_alli": [
+     "Exterior libre.",
+     "Los canecillos bajo el alero: rodea la iglesia mirando hacia arriba.",
+     "La arquería ciega sobre la portada sur."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Miguel_(Corull%C3%B3n)",
+     "https://www.terranostrum.es/turismo/leon/el-bierzo-y-los-ancares/corullon/iglesia-de-san-miguel-corullon",
+     "https://www.openstreetmap.org/way/674933052",
+     "https://www.wikidata.org/wiki/Q18913265"
+    ]
+   }
+  },
+  {
+   "id": "colegiata-de-arbas",
+   "campos": {
+    "estilo": "Tardorrománico",
+    "anio": 1216,
+    "texto": {
+     "general": "<p>La <b>colegiata de Santa María de Arbas</b> está en Arbas del Puerto, en la vertiente leonesa del <b>puerto de Pajares</b>, a un kilómetro del alto. Nació como <b>hospital de peregrinos</b> que iban a Oviedo: hacia 1116 el conde <b>Fruela Díaz</b> y su esposa Estefanía lo fundaron y lo confiaron a canónigos de san Agustín.</p><p><b>Alfonso IX</b>, que se alojaba aquí en sus viajes a Asturias, ordenó en <b>1216</b> construir la nueva iglesia junto al albergue. Es de estilo <b>tardorrománico</b>, de arenisca parda, con cabecera triple y torre a los pies, y su decoración está más cerca del románico asturiano que del leonés.</p><p>La abadía fue desamortizada en 1866 y el hospital desapareció; desde 1968 depende de San Isidoro de León.</p>"
+    },
+    "ver_alli": [
+     "Exterior libre; interior concertado o en horario de culto.",
+     "Las dos portadas románicas y la triple cabecera."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-santa-maria-arbas",
+     "https://www.wikidata.org/wiki/Q5776830",
+     "https://es.wikipedia.org/wiki/Colegiata_de_Santa_Mar%C3%ADa_de_Arbas"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-gradefes",
+   "campos": {
+    "estilo": "Románico cisterciense",
+    "lat": 42.6252,
+    "lon": -5.2258,
+    "texto": {
+     "general": "<p>El <b>monasterio de Santa María de Gradefes</b>, en la vega del Esla, es de <b>monjas cistercienses</b> desde su fundación. Lo fundó hacia 1164-1168 la noble <b>Teresa Petri</b>, al quedar viuda, y ella misma fue su primera abadesa hasta su muerte en 1187.</p><p>La primera piedra de la iglesia se puso el <b>1 de marzo de 1177</b>. Su cabecera, de gran originalidad, tiene <b>girola</b> con cinco ábsides, algo poco habitual en un monasterio femenino. Es de los edificios donde mejor se aprecia el orden y la sencillez de la arquitectura del Císter.</p><p>En 1959 se abrió el sepulcro de la fundadora y se recuperaron unos <b>chapines</b> (calzado) medievales muy bien conservados.</p>"
+    },
+    "ver_alli": [
+     "Con horario o concertada.",
+     "La cabecera con girola, vista por fuera desde el pueblo.",
+     "La portada occidental con el friso en zigzag."
+    ],
+    "fuentes": [
+     "https://www.terranostrum.es/turismo/leon/monasterio-de-santa-maria-de-gradefes",
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_de_Gradefes",
+     "https://www.openstreetmap.org/relation/12521891",
+     "https://www.wikidata.org/wiki/Q20745775"
+    ]
+   }
+  },
+  {
+   "id": "san-marcos-de-leon",
+   "campos": {
+    "estilo": "Plateresco (Renacimiento)",
+    "anio": 1514,
+    "lat": 42.6018,
+    "lon": -5.5822,
+    "texto": {
+     "general": "<p><b>San Marcos</b> nació en 1152, cuando la infanta Sancha Raimúndez donó fondos para un hospital de peregrinos junto al Bernesga. Pronto pasó a la <b>Orden de Santiago</b>, que hizo de él su casa principal en el reino de León.</p><p>Gracias a una donación de <b>Fernando el Católico</b> en <b>1514</b> se reconstruyó por completo. Su larga <b>fachada plateresca</b>, obra de Martín de Villarreal, está llena de <b>medallones con personajes</b> de la historia y la Antigüedad, de Hércules y Julio César a Isabel la Católica y el Cid.</p><p><b>Quevedo</b> estuvo preso aquí entre 1639 y 1643. Más tarde fue cárcel, cuartel y, desde 1936, campo de concentración. Desde <b>1964</b> es <b>Parador</b>, y la iglesia y el claustro forman parte del Museo de León.</p>"
+    },
+    "ver_alli": [
+     "Parador; museo con entrada.",
+     "Los medallones del zócalo de la fachada: busca a Isabel la Católica y al Cid.",
+     "La iglesia y el claustro, con la sacristía de Juan de Badajoz."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Convento_de_San_Marcos_(Le%C3%B3n)",
+     "https://www.terranostrum.es/turismo/leon/convento-de-san-marcos-leon",
+     "https://www.openstreetmap.org/node/8289130500",
+     "https://www.wikidata.org/wiki/Q744455"
+    ]
+   }
+  },
+  {
+   "id": "casa-botines",
+   "campos": {
+    "estilo": "Modernismo neogótico (Gaudí)",
+    "lat": 42.5985,
+    "lon": -5.5707,
+    "texto": {
+     "general": "<p>La <b>Casa Botines</b> es una de las tres únicas obras de <b>Antoni Gaudí</b> fuera de Cataluña. La construyó en <b>1891-1892</b> como almacén y vivienda para <b>Simón Fernández y Mariano Andrés</b>, comerciantes de tejidos; el nombre viene de Juan Homs y Botines, fundador del negocio.</p><p>Pertenece a la etapa <b>neogótica</b> de Gaudí: un gran bloque de piedra con torres en las esquinas y aire de castillo, en el que el arquitecto ensayó soluciones para prescindir de contrafuertes. El encargo llegó por recomendación de Eusebi Güell, su gran mecenas.</p><p>Restaurada en 1996, desde 2017 alberga el <b>Museo Casa Botines Gaudí</b>.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "Sobre la puerta, la escultura de san Jorge y el dragón, colocada en 1893.",
+     "Las torres de las esquinas y el foso que rodea el edificio."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Casa_Botines",
+     "https://www.openstreetmap.org/way/45522253",
+     "https://www.wikidata.org/wiki/Q2547508"
+    ]
+   }
+  },
+  {
+   "id": "palacio-episcopal-de-astorga",
+   "campos": {
+    "estilo": "Modernismo neogótico (Gaudí)",
+    "lat": 42.4578,
+    "lon": -6.0559,
+    "texto": {
+     "general": "<p>El antiguo palacio de los obispos de Astorga ardió en 1886, y el obispo <b>Juan Bautista Grau</b>, de Reus como él, encargó el nuevo a su amigo <b>Antoni Gaudí</b>, que lo proyectó en <b>1889</b>. Es una de sus tres obras fuera de Cataluña.</p><p>Gaudí lo diseñó sin ir a Astorga, a partir de fotos y dibujos, buscando que armonizara con la catedral vecina. Tras la muerte de Grau, Gaudí abandonó la obra («yo no me fui, me echaron», diría después), y la terminó en <b>1915</b> el arquitecto Ricardo García Guereta. Está construido en <b>granito blanco</b> del Bierzo. Con sus torres cilíndricas y su foso, parece un <b>castillo de cuento</b> neogótico.</p><p>Nunca llegó a ser residencia episcopal estable; desde 1962 alberga el <b>Museo de los Caminos</b>, dedicado al Camino de Santiago.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "La capilla, con sus vidrieras policromadas, y los salones de la planta noble.",
+     "La escalinata sobre el foso y la fachada de granito, junto a la catedral."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_Episcopal_de_Astorga",
+     "https://www.openstreetmap.org/way/51139525",
+     "https://www.wikidata.org/wiki/Q507390"
+    ]
+   }
+  },
+  {
+   "id": "museo-siderurgia-mineria-sabero",
+   "campos": {
+    "estilo": "Arquitectura industrial del siglo XIX",
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/museo-siderurgia-mineria-castilla-leon",
+     "https://www.diariodeleon.es/ocio/destinos/260803/2093132/sabero-ferreria-san-blas-museo-industrial-leon.html",
+     "https://www.wikidata.org/wiki/Q5860662",
+     "https://www.openstreetmap.org/way/392239821"
+    ]
+   }
+  },
+  {
+   "id": "fabrica-de-luz-museo-energia-ponferrada",
+   "campos": {
+    "estilo": "Arquitectura industrial del siglo XX",
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/fabrica-luz-museo-energia",
+     "https://www.diariodeleon.es/monograficos/251114/2065998/legado-carbon-bierzo-resiste-cultura.html",
+     "https://www.openstreetmap.org/way/122359134"
+    ]
+   }
+  }
+ ]
+}
