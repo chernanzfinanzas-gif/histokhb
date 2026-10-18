@@ -218,6 +218,27 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] des-portico · El Pórtico de la Gloria
 - [ ] des-angkor-wat · Angkor Wat
 
+### Edad Media · capítulo 4
+- [ ] med4-0 · Gengis Kan y el Imperio Mongol
+- [ ] med4-2 · África: Malí y Mansa Musa
+- [ ] med4-8 · La Alhambra y el reino nazarí de Granada
+- [ ] med4-3 · Los reinos del África negra
+- [ ] med4-1 · El Islam después de los mongoles
+- [ ] med4-10 · Gran Zimbabue
+- [ ] med4-5 · Alfonso X el Sabio
+- [ ] med4-9 · La Corona de Aragón en el Mediterráneo
+- [ ] med4-12 · Dante, Giotto y el Trecento
+- [ ] med4-7 · Kublai Kan y la China Yuan
+- [ ] med4-6 · Marco Polo y el Libro de las maravillas
+- [ ] med4-11 · Las invasiones mongolas de Japón
+- [ ] med4-13 · El final de los templarios
+- [ ] med4-15 · Los mexicas y la fundación de Tenochtitlan
+- [ ] med4-14 · Ibn Battuta, el viajero de Tánger
+- [ ] des-cantigas · Las Cantigas de Santa María
+- [ ] des-scrovegni · La Capilla de los Scrovegni
+- [ ] des-tenochtitlan · Tenochtitlan, la ciudad en el lago
+- [ ] des-zimbabue · Gran Zimbabue
+
 ## Hechos con Gemini
 
 - [x] ant1-8 (al final con Veo; el de Gemini también salió bien) · Sargón de Acad, el primer imperio
