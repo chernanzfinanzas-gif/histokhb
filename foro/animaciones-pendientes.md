@@ -72,6 +72,31 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] des-akrotiri · Akrotiri, la Pompeya del Egeo
 - [ ] des-motilla · La Motilla del Azuer
 
+### Edad Antigua · capítulo 3
+- [ ] ant3-1 · Egipto: decadencia y faraones extranjeros
+- [ ] ant3-2 · Israel, Fenicia y el alfabeto
+- [ ] ant3-3 · Asiria, Babilonia y el Imperio persa
+- [ ] ant3-4 · Grecia: nace la polis
+- [ ] ant3-5 · América: olmecas y Chavín
+- [ ] ant3-6 · La Era Axial: Buda, Confucio y Lao-Tsé
+- [ ] ant3-7 · China: los Zhou
+- [ ] ant3-8 · La Iberia prerromana: Tartessos, iberos y celtíberos
+- [ ] ant3-9 · Y mientras tanto…
+- [ ] ant3-10 · El tesoro del Carambolo
+- [ ] ant3-11 · Cancho Roano y Casas del Turuñuelo
+- [ ] ant3-12 · Gadir y los fenicios en el Mediterráneo occidental
+- [ ] ant3-13 · Asurbanipal y la biblioteca de Nínive
+- [ ] ant3-14 · Nabucodonosor II y la Babilonia de la Puerta de Ishtar
+- [ ] ant3-15 · Ciro el Grande
+- [ ] ant3-16 · Homero y los primeros Juegos Olímpicos
+- [ ] ant3-17 · Kush: los faraones negros
+- [ ] ant3-18 · Los etruscos y la fundación de Roma
+- [ ] ant3-19 · Los escitas, jinetes de las estepas
+- [ ] des-carambolo · El tesoro del Carambolo
+- [ ] des-turunuelo · Casas del Turuñuelo, el edificio enterrado
+- [ ] des-ninive · La biblioteca de Asurbanipal
+- [ ] des-ishtar · La Puerta de Ishtar
+
 ## Hechos con Gemini
 
 - [x] ant1-8 (al final con Veo; el de Gemini también salió bien) · Sargón de Acad, el primer imperio
