@@ -165,7 +165,7 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] ant5-7 · Y mientras tanto…
 - [ ] des-coliseo · El Coliseo
 - [ ] des-medulas · Las Médulas
-- [ ] des-pompeya · Pompeya, una ciudad detenida
+- [x] des-pompeya (Gemini, 18-oct) · Pompeya, una ciudad detenida
 - [ ] des-sipan · El Señor de Sipán
 - [ ] des-teotihuacan · Teotihuacan
 
