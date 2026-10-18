@@ -239,6 +239,28 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] des-tenochtitlan · Tenochtitlan, la ciudad en el lago
 - [ ] des-zimbabue · Gran Zimbabue
 
+### Edad Media · capítulo 5
+- [ ] med5-2 · La caída de Constantinopla y los otomanos
+- [ ] med5-1 · La Guerra de los Cien Años
+- [ ] med5-0 · La Peste Negra y la crisis del siglo XIV
+- [ ] med5-16 · Christine de Pizan
+- [ ] med5-15 · Los Ming y la Ciudad Prohibida
+- [ ] med5-8 · Tamerlán, Samarcanda y la embajada de Clavijo
+- [ ] med5-14 · El reino del Kongo
+- [ ] med5-7 · Sefarad: de 1391 a la expulsión de 1492
+- [ ] med5-4 · El Renacimiento y la imprenta
+- [ ] med5-17 · Caspe y la Corona de Aragón en Nápoles
+- [ ] med5-9 · Juana de Arco
+- [ ] med5-12 · Los portugueses en la costa de África
+- [ ] med5-11 · Brunelleschi y la cúpula de Florencia
+- [ ] med5-5 · Los imperios de América: aztecas e incas
+- [ ] med5-13 · Pachacútec y Machu Picchu
+- [ ] med5-3 · El fin de la Reconquista: los Reyes Católicos
+- [ ] med5-6 · Y mientras tanto…
+- [ ] des-ciudad-prohibida · La Ciudad Prohibida
+- [ ] des-gutenberg · La Biblia de Gutenberg
+- [ ] des-transito · La sinagoga del Tránsito
+
 ## Hechos con Gemini
 
 - [x] ant1-8 (al final con Veo; el de Gemini también salió bien) · Sargón de Acad, el primer imperio
