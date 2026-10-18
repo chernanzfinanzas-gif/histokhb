@@ -1,0 +1,434 @@
+{
+ "zona": "Ampliar mundo-12b",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "carcel-de-seodaemun",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>cárcel de Seodaemun</b> es una antigua prisión de Seúl que el Japón imperial, dueño entonces de Corea, empezó a construir en 1907 y abrió el 21 de octubre de 1908 con el nombre de Gyeongseong Gamok; desde 1923 se llamó prisión de Seodaemun. Al principio podía albergar a unos 500 presos y tenía un pabellón aparte para mujeres y niñas.</p><p>Durante la ocupación japonesa se encarceló, torturó y ejecutó allí a miles de patriotas coreanos. Tras el <b>movimiento del 1 de marzo de 1919</b> llegó a haber unos 3.000 activistas presos, entre ellos la joven <b>Yu Gwan-sun</b>, que murió allí el 28 de septiembre de 1920, con solo 17 años, a consecuencia de las torturas. También pasó por sus celdas Kim Ku, que luego dirigiría el gobierno coreano en el exilio. Después de 1945 siguió funcionando como cárcel del Gobierno surcoreano, con presos políticos como Kim Dae-jung, futuro presidente, hasta que cerró en 1987.</p><p>Desde el 5 de noviembre de 1998 es el <b>Museo de Historia de la Prisión de Seodaemun</b>, un museo de la independencia dentro del parque de la Independencia. Se conservan 11 de sus 98 edificios originales, con las galerías de celdas, el pabellón de mujeres y el patíbulo.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Seodaemun_Prison",
+     "https://en.wikipedia.org/wiki/Yu_Gwan-sun",
+     "https://en.wikipedia.org/wiki/Independence_Gate"
+    ],
+    "ver_alli": [
+     "Está junto a la estación de Dongnimmun, en el parque de la Independencia.",
+     "Junto a ella está la Puerta de la Independencia, levantada entre 1896 y 1898 e inspirada en el Arco de Triunfo de París."
+    ]
+   }
+  },
+  {
+   "id": "santuario-de-los-martires-de-jeoldusan",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>santuario de los mártires de Jeoldusan</b> es un santuario católico levantado en 1967 sobre un promontorio rocoso que domina el <b>río Han</b>, en el distrito de Mapo, en Seúl. Su nombre significa «colina de las cabezas cortadas».</p><p>En este lugar, junto a un antiguo embarcadero, el regente <b>Daewongun</b> mandó ejecutar a miles de católicos coreanos durante la persecución que empezó en 1866 y duró hasta 1873. En la Corea de los Joseon la nueva fe se veía como una amenaza para el orden establecido, y a lo largo del siglo XIX murieron entre 8.000 y 10.000 cristianos. El memorial se construyó para el centenario de aquella persecución y recuerda unas 8.000 ejecuciones en este sitio. El papa <b>Juan Pablo II</b> lo visitó en 1984, el año en que canonizó en Seúl a 103 mártires coreanos, y la Madre Teresa de Calcuta, al año siguiente.</p><p>Hoy tiene una capilla y un museo de la Iglesia coreana, que guarda unas 3.000 reliquias y documentos de los mártires, y una estatua de san Andrés Kim Taegon, el primer sacerdote católico coreano, ejecutado en 1846.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Jeoldu-san",
+     "https://en.wikipedia.org/wiki/Korean_Martyrs"
+    ]
+   }
+  },
+  {
+   "id": "zona-desmilitarizada-y-panmunjom",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Zona Desmilitarizada</b> (DMZ) es la franja que separa las dos Coreas desde el <b>armisticio del 27 de julio de 1953</b>, que puso fin a los combates de la guerra de Corea. Cada bando retiró sus tropas 2 km de la línea del frente, de modo que la zona tiene unos 4 km de ancho y unos 250 km de largo, de costa a costa. Dentro no hay armas, pero sus dos bordes están entre las fronteras más militarizadas del mundo.</p><p>En <b>Panmunjom</b>, el Área de Seguridad Conjunta, soldados de los dos países se vigilan frente a frente ante unas barracas azules, y la frontera es un simple bordillo de hormigón. Allí se canjearon los prisioneros al acabar la guerra, por el «puente sin retorno», y allí ocurrió en 1976 el «incidente del hacha», cuando guardias norcoreanos atacaron a una cuadrilla de la ONU que podaba un árbol. El 27 de abril de 2018 el líder norcoreano <b>Kim Jong-un</b> cruzó la línea para reunirse con el presidente surcoreano Moon Jae-in, y el 30 de junio de 2019 Donald Trump pisó brevemente suelo norcoreano.</p><p>Desde 1974 se han descubierto cuatro túneles excavados por Corea del Norte bajo la zona, quizá como vías de invasión; el segundo, el tercero y el cuarto se visitan, igual que los miradores hacia el norte.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Korean_Demilitarized_Zone",
+     "https://en.wikipedia.org/wiki/Joint_Security_Area",
+     "https://es.wikipedia.org/wiki/Zona_desmilitarizada_de_Corea"
+    ]
+   }
+  },
+  {
+   "id": "memorial-de-la-guerra-de-corea",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Memorial de la Guerra de Corea</b> es un gran museo militar de Seúl, abierto el 10 de junio de 1994 en el solar del antiguo cuartel general del ejército, en Yongsan. Recorre la historia militar de Corea y, sobre todo, la guerra de 1950-1953, que empezó el 25 de junio de 1950 y terminó con el armisticio del 27 de julio de 1953. Tiene también salas sobre la guerra de Vietnam y las demás misiones de las tropas surcoreanas en el extranjero.</p><p>Se creó para que las lecciones de aquella guerra ayuden a evitar otras y con la esperanza de una reunificación pacífica. En las galerías que flanquean la fachada, filas de lápidas de mármol negro llevan los nombres de los caídos de Corea y de los países de la ONU en la guerra de Corea, de los muertos en Vietnam y en los choques posteriores con Corea del Norte, y de los policías caídos de servicio.</p><p>Expone unas 6.300 piezas en siete salas y en una gran explanada exterior con aviones, tanques y barcos. Dentro hay una réplica a tamaño real de un <i>barco tortuga</i> y el Cadillac que usaba el presidente Syngman Rhee. En el centro de la plaza se alza la <b>estatua de los Hermanos</b>: el mayor, soldado surcoreano, y el menor, soldado norcoreano, símbolo de la división del país.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/War_Memorial_of_Korea"
+    ]
+   }
+  },
+  {
+   "id": "memorial-de-ahn-jung-geun",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Memorial de Ahn Jung-geun</b> es un museo dedicado a uno de los grandes héroes de la independencia coreana. El primer memorial se levantó en 1970; el actual, un edificio moderno del estudio D Lim Architects, se inauguró en 2010, en el centenario de su muerte, en la ladera del monte <b>Namsan</b>, junto a los restos de un antiguo santuario japonés.</p><p><b>Ahn Jung-geun</b> (1879-1910) mató a tiros a <b>Ito Hirobumi</b>, antiguo primer ministro de Japón y residente general japonés en Corea, en la estación de Harbin, en China, en octubre de 1909. Fue encarcelado y ejecutado el 26 de marzo de 1910 en la prisión de Lüshun, y su tumba nunca se ha encontrado. Lo honran como mártir las dos Coreas y China, mientras que el Gobierno japonés lo considera un terrorista.</p><p>El edificio está formado por doce grandes bloques translúcidos, uno por cada miembro de su sociedad secreta, la Dongeui Danjihoe. Dentro se cuentan su vida y su historia, con la reconstrucción de su celda. Se ven copias de sus caligrafías, firmadas con la huella de su mano izquierda, a la que faltaba la última falange del anular: se la cortó en 1909, junto con sus compañeros, como juramento de matar a Ito.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ahn_Jung-geun",
+     "https://www.dezeen.com/2015/03/10/ahn-jung-geun-memorial-hall-south-korea-seoul-d-lim-architects/amp/"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-prehistoria-de-jeongok",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo de la Prehistoria de Jeongok</b>, en Yeoncheon, se inauguró el 25 de abril de 2011 junto al yacimiento paleolítico de <b>Jeongok-ri</b>, a orillas del río Hantan, donde se hallaron hachas de mano achelenses. Su edificio, obra del estudio francés X-TU (Anouk Legendre y Nicolas Desmazières), es una larga forma sinuosa de 101 metros, forrada de placas de acero inoxidable, que une dos colinas.</p><p>En 1978 Greg Bowen, un soldado estadounidense destinado en Corea, encontró junto al río una piedra tallada y se la llevó al profesor Kim Won-ryong, de la Universidad Nacional de Seúl, que la identificó como un <b>hacha de mano achelense</b>. Las excavaciones empezaron en 1979 y han sacado a la luz unas 6.000 herramientas más. Las hachas encontradas en Jeongok-ri cambiaron la idea, defendida por el arqueólogo Hallam Movius, de que el este de Asia había quedado atrasado en la Edad de Piedra y nunca llegó a fabricarlas.</p><p>Dentro hay reconstrucciones de humanos de la Edad de Piedra y de antepasados mucho más antiguos, como Toumaï, réplicas de pinturas de Lascaux y Altamira y la maqueta de una cabaña hecha con huesos de mamut. Cada mayo se celebra un festival prehistórico.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJzbZGqmcnfTURFt0uTu8KzaA",
+     "https://www.openstreetmap.org/way/1273850353",
+     "https://en.wikipedia.org/wiki/Jeongok_Prehistory_Museum",
+     "https://english.gg.go.kr/?p=3344",
+     "https://www.koreatimes.co.kr/opinion/20170901/prehistoric-site-in-jeongok",
+     "https://en.wikipedia.org/wiki/Movius_Line"
+    ]
+   }
+  },
+  {
+   "id": "isla-de-hansan",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>isla de Hansan</b> (Hansando), frente a Tongyeong, en la costa sur de Corea, fue el cuartel naval del almirante <b>Yi Sun-sin</b> durante la guerra de Imjin (1592-1598), cuando el Japón de Toyotomi Hideyoshi invadió Corea.</p><p>En las aguas al sureste de la isla, el 15 de agosto de 1592, Yi atrajo fuera del estrecho de Gyeonnaeryang a la flota japonesa de Wakizaka Yasuharu y la envolvió con sus barcos dispuestos en forma de «ala de grulla», con barcos tortuga en el centro. Entre la <b>batalla de Hansan</b> y el combate de Angolpo destruyó unos 100 barcos japoneses y frenó las operaciones navales enemigas en la costa sur. Después Yi trasladó aquí su base desde Yeosu, para vigilar el estrecho que llevaba a la base japonesa de Busan, y en 1593 fue nombrado comandante de las armadas de las tres provincias del sur. Cuando fue destituido, en 1597, su sucesor Won Gyun perdió casi toda la flota y los japoneses quemaron la base.</p><p>En la isla está el santuario de <b>Jeseungdang</b>, el antiguo cuartel de Yi Sun-sin, centro de mando de la armada hasta 1597, con un pabellón desde donde vigilaba el mar; cerca hay un santuario dedicado al almirante, un pabellón de tiro con arco y un faro con forma de barco tortuga. En Tongyeong hay réplicas de barcos tortuga.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ-_V9MxC4bjURoE96gApX1LQ",
+     "https://www.openstreetmap.org/way/860298048",
+     "https://en.wikipedia.org/wiki/Battle_of_Hansan_Island",
+     "https://en.wikipedia.org/wiki/Hansando",
+     "https://en.wikipedia.org/wiki/Yi_Sun-sin",
+     "https://www.busannavi.net/en/?p=12161",
+     "https://www.frommers.com/destinations/tongyeong/attractions/hansan-do/"
+    ]
+   }
+  },
+  {
+   "id": "bulguksa-y-seokguram",
+   "campos": {
+    "texto": {
+     "general": "<p>El templo de <b>Bulguksa</b> y la gruta de <b>Seokguram</b>, en el monte Toham, cerca de Gyeongju, son la obra maestra de la edad de oro del arte budista del reino de <b>Silla</b>. Son Patrimonio Mundial desde 1995.</p><p>Según el <i>Samguk Yusa</i>, el ministro Kim Daeseong empezó las dos obras en el 751, bajo el rey Gyeongdeok, en memoria de sus padres, y la corte de Silla las terminó en el 774, tras su muerte. Bulguksa significa «templo de la tierra de Buda». Sus edificios de madera ardieron durante las invasiones japonesas de 1592-1598 y su aspecto actual procede de la gran restauración de 1969-1973; las obras de piedra, en cambio, son las originales de Silla: las escaleras-puente de Cheongungyo y Baegungyo, con 34 peldaños, y las dos pagodas, la sobria <b>Seokgatap</b>, de 8,2 m, y la recargada <b>Dabotap</b>, de 10,4 m, que aparece en la moneda de 10 wones. En el templo apareció en 1966 uno de los impresos xilográficos más antiguos del mundo, un sutra de entre 704 y 751.</p><p>Seokguram, a unos 3 km y a 750 m de altitud, es una gruta artificial cuya cúpula se hizo con más de 360 losas de piedra; dentro, un gran Buda de granito de 3,5 m mira al amanecer sobre el mar del Este. El camino entre los dos, por el monte Toham, es una bonita caminata de una hora. Desde Seokguram se ve el amanecer sobre el mar.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Bulguksa",
+     "https://en.wikipedia.org/wiki/Seokguram"
+    ]
+   }
+  },
+  {
+   "id": "dolmenes-de-gochang",
+   "campos": {
+    "texto": {
+     "general": "<p>Corea reúne cerca del 40% de los dólmenes del mundo, más de 35.000 en toda la península, y los de <b>Gochang</b>, en Jeolla del Norte, forman el grupo más grande y variado. Son de la <b>Edad del Bronce</b>: se cree que se levantaron hacia el siglo VII a. C., y en Corea la costumbre duró hasta el siglo III a. C. Desde el año 2000 son Patrimonio Mundial junto a los de Hwasun y la isla de Ganghwa.</p><p>Los dólmenes servían de tumbas y de señales funerarias, y quizá también de altares para ritos. En Gochang, los llamados dólmenes de Jungnim-ri, en torno a la aldea de Maesan, se alinean de este a oeste al pie de unas colinas, entre 15 y 50 metros de altitud, en una ladera. Hay más de 400 documentados, 442 en total, de muchas formas: de tipo «mesa», propio del norte, con cuatro losas que forman una caja bajo la piedra de cubierta, y de tipo «tablero de go», propio del sur. Sus losas de cubierta miden de 1 a 5,8 metros, y algunas piedras pesan más de 100 toneladas.</p><p>En Hwasun, en los valles del río Jiseok, se ven las canteras de donde se sacaron las piedras, y allí está el mayor dolmen de Corea, de unas 280 toneladas.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/567037257",
+     "https://www.google.com/maps/place/?q=place_id:ChIJsd8Nip6fcTUR1nT1h2wNymE",
+     "https://en.wikipedia.org/wiki/Gochang,_Hwasun_and_Ganghwa_Dolmen_Sites"
+    ]
+   }
+  },
+  {
+   "id": "haeinsa-y-la-tripitaka-koreana",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Haeinsa</b> es un gran monasterio budista en la montaña Gaya, dentro del parque nacional de Gayasan, en Gyeongsang del Sur. Fundado en el 802, es uno de los templos principales de la orden Jogye del budismo seon (zen) coreano y uno de los «tres templos joya» de Corea: representa el <i>dharma</i>, la enseñanza de Buda, porque guarda desde 1398 la <b>Tripitaka Koreana</b>.</p><p>Es el canon budista completo tallado en 81.350 tablas de madera para imprimir, las llamadas «81.000 tablas», con más de 52 millones de caracteres. Una primera versión, empezada en 1011, ardió en 1232 durante las invasiones mongolas. El rey Gojong, con la corte refugiada en la isla de Ganghwa, mandó rehacerla para pedir la protección de Buda frente a los mongoles, y la talla se hizo en doce años a partir de 1237. Es Memoria del Mundo de la UNESCO desde 2007.</p><p>Las tablas se guardan en el <b>Janggyeong Panjeon</b>, Patrimonio Mundial desde 1995, cuatro edificios ventilados de forma natural: tienen ventanas de distinto tamaño en las paredes norte y sur y suelos de arcilla rellenos de carbón, sal, cal y arena que absorben la humedad. Han resistido incendios y guerras: se salvaron de las invasiones japonesas de 1592-1598, del incendio que arrasó casi todo el monasterio a principios del siglo XIX y de un bombardeo que estuvo a punto de producirse en la guerra de Corea.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Haeinsa",
+     "https://en.wikipedia.org/wiki/Tripitaka_Koreana"
+    ]
+   }
+  },
+  {
+   "id": "fortaleza-de-namhansanseong",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Namhansanseong</b> es una ciudad fortificada en lo alto del monte Namhan, al sureste de Seúl, que sirvió de capital de emergencia a los reyes de la dinastía <b>Joseon</b>. Su muralla de 12 km recorre la cresta de la montaña. Es Patrimonio Mundial desde 2014.</p><p>El rey <b>Injo</b> mandó construirla tras la rebelión de Yi Gwal, de 1624, y la invasión manchú de 1627, con monjes soldado budistas reclutados en las ocho provincias. Tenía un palacio provisional para el rey, edificios militares y casas, con sitio para unas 4.000 personas. En diciembre de 1636, durante la segunda invasión manchú, Injo se refugió aquí con 13.800 soldados y pocas provisiones, mientras el ejército de Hong Taiji, fundador de la dinastía Qing, la sitiaba con 70.000 hombres. Resistió 47 días a los manchúes, pero cuando estos tomaron la isla de Ganghwa y capturaron a parte de la familia real, el rey se rindió, en 1637. Tras la rendición, el rey Injo tuvo que inclinarse nueve veces ante el emperador manchú en Samjeondo, una humillación que los coreanos no olvidaron; Corea pasó a ser tributaria de los Qing.</p><p>Hoy se recorre a pie la muralla, con sus puertas, y en el centro está el palacio provisional del rey. La novela <i>Namhansanseong</i>, de Kim Hoon, cuenta aquel asedio.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Namhansanseong",
+     "https://en.wikipedia.org/wiki/Qing_invasion_of_Joseon",
+     "https://en.wikipedia.org/wiki/Injo_of_Joseon",
+     "https://en.wikipedia.org/wiki/Samjeondo_Monument"
+    ]
+   }
+  },
+  {
+   "id": "petroglifos-de-bangudae",
+   "campos": {
+    "texto": {
+     "general": "<p>Los <b>petroglifos de Bangudae</b>, en Daegok-ri, al oeste de Ulsan, son grabados prehistóricos tallados en una pared de roca de unos 8 m de ancho y 5 de alto, junto al río Daegok, afluente del Taehwa. Se descubrieron en 1971 y desde 2025 son Patrimonio Mundial, con los de Cheonjeon-ri, bajo el nombre de «petroglifos del arroyo Bangucheon».</p><p>Se han contado 312 figuras, grabadas durante milenios a partir de hacia el 5000 a. C.: ballenas, ciervos, tigres, leopardos, lobos, tortugas, focas y cazadores en barcas. Las ballenas son las más numerosas y están tan bien dibujadas que se distinguen las especies: ballena gris, yubarta, ballena franca o cachalote. Una escena muestra a varios hombres en una barca curva, unida por un cabo al arpón clavado en una ballena: una representación de la caza de ballenas sin igual en el arte rupestre del mundo.</p><p>A unos 2 km están los petroglifos de Cheonjeon-ri, descubiertos en 1970, con figuras geométricas e inscripciones de Silla, una de ellas sobre la visita en el año 525 de un hermano del rey Beopheung; forman con Bangudae el mismo conjunto. La presa de Sayeon, construida en 1962-1965 para dar agua a Ulsan, sumerge los grabados unos ocho meses al año. Se ven desde un mirador al otro lado del agua; al lado está el Museo de Petroglifos de Ulsan, abierto en 2008.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/node/5923867887",
+     "https://www.google.com/maps/place/?q=place_id:ChIJHfLA-0EwZjURT184gHiJrjA",
+     "https://en.wikipedia.org/wiki/Bangudae_Petroglyphs",
+     "https://en.wikipedia.org/wiki/Petroglyphs_of_Cheonjeon-ri,_Ulju"
+    ]
+   }
+  },
+  {
+   "id": "cementerio-nacional-del-18-de-mayo",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Cementerio Nacional del 18 de Mayo</b>, en las afueras del norte de Gwangju, guarda las tumbas de las víctimas y participantes del <b>levantamiento de Gwangju</b> de mayo de 1980. Lo construyó el Gobierno surcoreano entre 1994 y 1997, y cada mayo, en el aniversario, es costumbre visitarlo para honrar a los muertos.</p><p>En mayo de 1980, los estudiantes de Gwangju se manifestaron contra el golpe del general <b>Chun Doo-hwan</b>, que había impuesto la ley marcial, cerrado las universidades y detenido a los líderes de la oposición. El ejército disparó contra ellos, la ciudad se alzó y los ciudadanos llegaron a controlar gran parte de ella, hasta que las tropas la recuperaron a sangre y fuego. El Gobierno reconoció 165 muertos, pero hoy se calcula que murieron entre 600 y 2.300 personas. <b>Kim Dae-jung</b>, acusado de instigar la revuelta y condenado a muerte tras la matanza, salvó la vida gracias a la presión de Estados Unidos y fue después presidente de Corea, elegido en 1997. La novelista <b>Han Kang</b>, Nobel en 2024, escribió sobre la masacre en <i>Actos humanos</i>.</p><p>Los muertos se enterraron primero en el cementerio de Mangwol-dong, algunos llevados allí en camiones de basura, y en 1997 se trasladaron al nuevo. Hoy tiene un monumento de dos pilares de 40 metros y una sala de exposición sobre el levantamiento, con los retratos de los enterrados.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJX5A8V8SScTURMFA8iLTgCLw",
+     "https://www.openstreetmap.org/way/765152327",
+     "https://en.wikipedia.org/wiki/May_18th_National_Cemetery",
+     "https://en.wikipedia.org/wiki/Gwangju_Uprising",
+     "https://en.wikipedia.org/wiki/Han_Kang"
+    ]
+   }
+  },
+  {
+   "id": "museo-hamel",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Hamel</b> está en Byeongyeong, en el municipio de Gangjin (Jeolla del Sur), el pueblo donde el marino holandés <b>Hendrick Hamel</b> y sus compañeros pasaron siete años de su cautiverio en la Corea de los Joseon. Cuenta su naufragio, su vida en Corea y su huida, con objetos holandeses.</p><p>Hamel, nacido en Gorinchem en 1630, era contable de la Compañía Holandesa de las Indias Orientales. El 17 de agosto de 1653, cuando navegaba hacia Japón en el <i>De Sperwer</i> («el Gavilán»), naufragó con otros 35 supervivientes en la costa de la isla de Jeju. Como Corea vivía entonces cerrada al exterior, no les dejaron marcharse: los llevaron a la capital y en 1657 el rey Hyojong los desterró a la guarnición militar de la provincia de Jeolla, junto a cuyas murallas está hoy el museo. Allí tuvieron casas y huertos, pero también pasaron hambre y llegaron a mendigar. El 4 de septiembre de 1666, ocho de ellos huyeron en una barca de pesca hasta Dejima, el enclave holandés de Nagasaki, donde Hamel escribió su diario, publicado en 1668: el primer relato de un occidental sobre Corea.</p><p>En el municipio hay una estatua de Hamel parecida a la de Gorinchem, su ciudad natal en los Países Bajos, que abrió en 2015 su propio museo Hamel.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJOyI9v3hGcjURSpv40IwKCMM",
+     "https://www.openstreetmap.org/node/4627948815",
+     "https://en.wikipedia.org/wiki/Hendrick_Hamel",
+     "https://www.ktriptips.com/kor/course/1856920"
+    ]
+   }
+  },
+  {
+   "id": "zonas-historicas-de-baekje",
+   "campos": {
+    "texto": {
+     "general": "<p>Las <b>Zonas históricas de Baekje</b> reúnen ocho monumentos de Gongju, Buyeo e Iksan ligados a la última etapa del reino de <b>Baekje</b> (18 a. C.-660 d. C.), entre los años 475 y 660: las capitales, sus fortalezas, sus templos y sus tumbas reales. Son Patrimonio Mundial desde el 8 de julio de 2015.</p><p>Gongju, la antigua Ungjin, fue capital de Baekje desde 475, cuando Goguryeo tomó su primera capital junto al río Han; allí se levantó la fortaleza de <b>Gongsanseong</b>. En 538 el rey Seong trasladó la capital a Sabi, la actual Buyeo, e Iksan fue una segunda capital administrativa. En Gongju se halló intacta en 1971 la tumba del rey <b>Muryeong</b>, que reinó del 501 al 523: nunca la habían saqueado y dio 2.906 objetos, entre ellos coronas de oro, las lápidas del rey y de la reina y un ataúd de pino traído de Japón, prueba de la estrecha relación entre Baekje y Yamato. Sus tesoros están en el Museo Nacional de Gongju.</p><p>En Buyeo están la fortaleza de <b>Busosanseong</b>, en una colina junto al río, el templo de Jeongnimsa, con su pagoda de piedra de cinco pisos, las tumbas reales de Neungsan-ri y la roca de <b>Nakhwaam</b>, «la roca de las flores que caen», desde donde según la leyenda se arrojaron las damas de la corte en el 660, cuando Baekje cayó ante Silla y la China de los Tang. En Iksan está el gran templo de Mireuksa.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJJ5tjA3-3ejUR-AmQcead1_A",
+     "https://www.openstreetmap.org/way/157482752",
+     "https://en.wikipedia.org/wiki/Baekje_Historic_Areas",
+     "https://en.wikipedia.org/wiki/Tomb_of_King_Muryeong"
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-de-corea",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Nacional de Corea</b> es el gran museo de historia y arte del país, con más de 310.000 piezas. Nació en 1945, al recuperar Corea la independencia, a partir de las colecciones del Museo de la Casa Imperial, fundado en 1909, y del museo del gobierno colonial japonés. Durante la guerra de Corea sus 20.000 piezas se pusieron a salvo en Busan, y desde el 28 de octubre de 2005 ocupa un enorme edificio en el barrio de Yongsan, en terrenos de la antigua guarnición estadounidense.</p><p>Guarda puñales de bronce, coronas de oro de Silla, el <b>bodhisattva pensativo</b>, celadones de Goryeo y la pagoda de mármol de <b>Gyeongcheonsa</b>, de 13,5 metros, levantada en 1348, llevada a Japón en 1907 y devuelta en 1918. Tiene también una sala de meditación, «el espacio de la contemplación», con dos bodhisattvas pensativos del siglo VII, considerados tesoros nacionales.</p><p>Sus salas de historia antigua recorren la época de los <b>Tres Reinos</b>: Goguryeo, con reproducciones de sus tumbas pintadas; Baekje, con su orfebrería y su cerámica; <b>Silla</b>, con coronas y joyas de oro de los grandes túmulos de Gyeongju, y la confederación de <b>Gaya</b>, con armaduras de hierro y cerámica gris cocida a alta temperatura, la misma técnica que pasó después a Japón.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/National_Museum_of_Korea",
+     "https://en.wikipedia.org/wiki/Gyeongcheonsa_Pagoda"
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-de-filipinas",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Nacional de Filipinas</b> es la gran institución museística del país. Nació el 29 de octubre de 1901, bajo el gobierno estadounidense, como Museo Insular de Etnología, Historia Natural y Comercio, y perdió buena parte de sus colecciones en la batalla de Manila de 1945, cuando quedó destruido el Antiguo Edificio Legislativo. Hoy ocupa un complejo junto al parque Rizal con tres museos: Antropología (abierto en 1998), Bellas Artes (2000) e Historia Natural (2018).</p><p>Guarda objetos prehistóricos, como la jarra funeraria de Manunggul y las herramientas de piedra de las cuevas de Tabon, y los tesoros de un galeón hundido, el <b>San Diego</b> (1600): un barco mercante que Antonio de Morga convirtió a toda prisa en buque de guerra y que se hundió el 14 de diciembre de 1600, frente a la isla Fortuna, luchando contra el holandés Olivier van Noort. El arqueólogo Franck Goddio encontró sus restos en 1992 y se recuperaron más de 34.000 objetos.</p><p>El arte filipino tiene su gran pieza en el <b>«Spoliarium» de Juan Luna</b>, pintado en Roma y premiado con una de las medallas de oro de la Exposición Nacional de Bellas Artes de Madrid en 1884. Es un enorme lienzo de 4,22 por 7,68 metros, el mayor cuadro de Filipinas, que muestra a gladiadores muertos despojados en un circo romano. José Rizal celebró aquel triunfo como un orgullo para su pueblo.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJa5tW0CPKlzMRKuDqk7sMx88",
+     "https://www.openstreetmap.org/?mlat=14.5869&mlon=120.9813#map=17/14.5869/120.9813",
+     "https://en.wikipedia.org/wiki/National_Museum_of_the_Philippines",
+     "https://en.wikipedia.org/wiki/Spoliarium",
+     "https://en.wikipedia.org/wiki/San_Diego_(ship)"
+    ]
+   }
+  },
+  {
+   "id": "monumento-a-bonifacio",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Monumento a Bonifacio</b>, en Caloocan, al norte de Manila, honra a <b>Andrés Bonifacio</b>, fundador y «Supremo» del Katipunan, la sociedad secreta que inició la revolución filipina contra España. Es un gran monumento de granito y bronce, obra del escultor Guillermo Tolentino, luego nombrado Artista Nacional. Aurora Quezon, esposa del futuro presidente Manuel Quezon, puso la primera piedra el 30 de noviembre de 1929, aniversario del nacimiento de Bonifacio, y se inauguró exactamente cuatro años después, el 30 de noviembre de 1933, en tiempos del gobernador general estadounidense Frank Murphy.</p><p>Recuerda el llamado «grito de Pugad Lawin», del 23 de agosto de 1896, cuando Bonifacio llamó a los suyos a alzarse en armas. Un obelisco de 13,7 metros, dividido en cinco partes que evocan el nombre completo del Katipunan, está coronado por una figura alada que representa el triunfo. A sus pies, Andrés Bonifacio está en el centro, rodeado por una veintena de figuras de bronce que cuentan la lucha contra España, sobre un pedestal octogonal que recuerda las ocho provincias que se alzaron en 1896. Alrededor hay estanques.</p><p>Está en una gran rotonda donde se cruzan cuatro grandes vías, entre ellas la avenida EDSA y la antigua carretera a Manila; por eso el lugar se llama simplemente «Monumento».</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJj3shYym0lzMR5qim7y4z4RM",
+     "https://www.openstreetmap.org/?mlat=14.6586&mlon=120.9844#map=17/14.6586/120.9844",
+     "https://en.wikipedia.org/wiki/Bonifacio_Monument"
+    ]
+   }
+  },
+  {
+   "id": "santuario-de-lapu-lapu",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>santuario de Lapu-Lapu</b>, también llamado santuario de Mactán o de la Libertad, es un parque conmemorativo en Punta Engaño, en la isla de Mactán, frente a Cebú, en el lugar de la <b>batalla de Mactán</b>. Fue declarado santuario nacional en 1969.</p><p>Allí, en la madrugada del 27 de abril de 1521, los guerreros de <b>Lapu-Lapu</b>, jefe de la isla, derrotaron a <b>Fernando de Magallanes</b>, el navegante portugués al servicio de España que mandaba la expedición. Magallanes, que había llegado con aliados de Humabon, rajá de Cebú, murió en el combate. Su expedición siguió sin él y acabó dando la primera vuelta al mundo. Para los filipinos, Lapu-Lapu es un héroe nacional, el jefe que plantó cara a los europeos.</p><p>El parque tiene una gran estatua de bronce de Lapu-Lapu, de unos 6 metros, y, muy cerca, un obelisco de 1866 dedicado a Magallanes, levantado por los españoles. Cada abril, en torno al 27, se representa la batalla en la playa, en la fiesta de «Kadaugan sa Mactan».</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ3xcIQNCXqTMR5QCimnAfri4",
+     "https://www.openstreetmap.org/?mlat=10.3097&mlon=124.0146#map=17/10.3097/124.0146",
+     "https://en.wikipedia.org/wiki/Mactan_Shrine",
+     "https://en.wikipedia.org/wiki/Battle_of_Mactan"
+    ]
+   }
+  },
+  {
+   "id": "intramuros-y-fuerte-santiago",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Intramuros</b> es la ciudad amurallada que los españoles levantaron en Manila. Miguel López de Legazpi fundó allí la ciudad en 1571, sobre el antiguo poblado de Maynila, y fue la capital de la Capitanía General de Filipinas: sede de los gobernadores hasta 1865 y de la Real Audiencia hasta 1898.</p><p>En 1574 la flota del pirata chino <b>Limahong</b> atacó y arrasó la ciudad, y aquellos ataques llevaron a amurallarla: el gobernador Gómez Pérez Dasmariñas trajo de España la orden de Felipe II de cercarla de piedra, y las murallas se empezaron en 1590 y se fueron completando hasta 1872. En la desembocadura del río Pásig se alza el <b>Fuerte Santiago</b>, de 1571, con un relieve de Santiago Matamoros en la puerta. Allí estuvo preso <b>José Rizal</b> antes de ser fusilado en 1896; unas huellas de bronce en el suelo marcan su último camino desde la celda, y un pequeño museo, el santuario de Rizal, guarda recuerdos suyos. En la Segunda Guerra Mundial los japoneses usaron sus mazmorras como prisión, y allí murieron cientos de presos.</p><p>Dentro de las murallas están la catedral, la iglesia de San Agustín, de 1607, y calles con casas de estilo colonial. Fue muy destruida en 1945, durante la batalla de Manila, y se ha reconstruido en parte; es Monumento Histórico Nacional desde 1951.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJvZ4MeBbKlzMRQ7CLeMYOQ80",
+     "https://www.openstreetmap.org/?mlat=14.5945&mlon=120.9701#map=17/14.5945/120.9701",
+     "https://en.wikipedia.org/wiki/Intramuros",
+     "https://en.wikipedia.org/wiki/Fort_Santiago",
+     "https://es.wikipedia.org/wiki/Intramuros"
+    ],
+    "ver_alli": [
+     "Se recorre a pie o en calesa.",
+     "En el Fuerte Santiago conviene seguir las huellas de bronce de Rizal hasta el lugar desde donde salió hacia su ejecución.",
+     "La iglesia de San Agustín y la catedral están a pocos minutos a pie del fuerte."
+    ]
+   }
+  },
+  {
+   "id": "quezon-memorial-circle",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Quezon Memorial Circle</b> es el gran parque de Ciudad Quezón, que fue capital oficial de Filipinas entre 1948 y 1976. Ocupa 27 hectáreas dentro de una enorme rotonda elíptica, en el solar donde en 1940 se puso la primera piedra de un Capitolio Nacional que la Segunda Guerra Mundial dejó en los cimientos.</p><p>Al acabar la guerra, en 1945, el presidente Sergio Osmeña creó un comité para levantar un memorial a su predecesor, <b>Manuel Quezon</b>, primer presidente de la Commonwealth filipina, muerto en 1944. El arquitecto Federico Ilustre ganó el concurso de 1951, y el monumento, de estilo art déco, se construyó en los años cincuenta: una torre de 66 metros formada por tres pilares, con tres figuras de ángeles en lo alto, obra del italiano Francesco Monti, que sostienen coronas de sampaguita, la flor nacional. Abajo descansan los restos de Manuel Quezon y de su esposa, Aurora, en un sepulcro inspirado en el de Napoleón en los Inválidos de París.</p><p>Tiene un museo sobre su vida y sobre la Commonwealth filipina, y arriba un mirador al que se sube por una escalera de caracol. En el parque se han instalado también la casa de la familia Quezon, trasladada desde New Manila, y un museo de coches presidenciales, abierto en 2018.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ6csDPg63lzMR6I3qWXvgpVY",
+     "https://www.openstreetmap.org/?mlat=14.6514&mlon=121.0493#map=17/14.6514/121.0493",
+     "https://en.wikipedia.org/wiki/Quezon_Memorial_Circle"
+    ]
+   }
+  },
+  {
+   "id": "cruz-de-magallanes-y-basilica-del-santo-",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Cruz de Magallanes</b> se guarda en un pequeño templete octogonal de piedra de coral, construido hacia 1834, en la plaza Sugbo de Cebú. Dentro hay una cruz de madera de tíndalo que, según la tradición, contiene la que plantaron los hombres de <b>Magallanes</b> al llegar a Cebú en 1521. En el techo, una pintura moderna muestra el bautismo del rajá Humabon y su familia y la colocación de la cruz.</p><p>Junto a ella se alza la <b>basílica del Santo Niño</b>, la iglesia más antigua de Filipinas, fundada por los agustinos Andrés de Urdaneta y Diego de Herrera en el lugar donde apareció la imagen del Santo Niño, encontrada por los hombres de Legazpi en 1565. Era la talla del Niño Jesús que Magallanes había regalado en 1521 a la esposa principal de Humabon el día de su bautismo; un soldado de Legazpi, Juan de Camuz, la halló el 28 de abril de 1565 en una choza medio quemada, tras el incendio de un poblado. El templo actual, de piedra, se terminó en 1740, con una mezcla de barroco de los terremotos y estilos románico, musulmán y neoclásico, y el papa Pablo VI lo elevó a basílica menor en 1965.</p><p>Cada enero, el tercer domingo, se celebra la gran fiesta del Sinulog en honor al Santo Niño, y el 28 de abril se recuerda el hallazgo de la imagen.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJQVwA2-ObqTMR--ZXFjrCXiQ",
+     "https://www.openstreetmap.org/?mlat=10.2943&mlon=123.9021#map=17/10.2943/123.9021",
+     "https://en.wikipedia.org/wiki/Magellan%27s_Cross",
+     "https://en.wikipedia.org/wiki/Basilica_del_Santo_Ni%C3%B1o"
+    ]
+   }
+  },
+  {
+   "id": "iglesia-de-barasoain",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>iglesia de Barasoain</b>, dedicada a Nuestra Señora del Carmen, está en Malolos (Bulacán), a unos 42 km de Manila. Su parroquia nació en 1859; tras arder en 1884 la capilla provisional, se levantó entre 1885 y 1888 el templo actual, de piedra y ladrillo, obra del contratista Miguel Magpayo, en estilo barroco y neorrenacentista.</p><p>Su fama le viene de la revolución. Allí se reunió desde el 15 de septiembre de 1898 el Congreso revolucionario, el <b>Congreso de Malolos</b>, que redactó la Constitución de Malolos, aprobada el 21 de enero de 1899. Dos días después, el 23 de enero de 1899, se proclamó la <b>primera República de Filipinas</b>, con <b>Emilio Aguinaldo</b> como presidente. La guerra con Estados Unidos, que estalló el 4 de febrero, obligó al gobierno a huir, y los estadounidenses tomaron Malolos el 31 de marzo de 1899. Por eso se la llama «cuna de la democracia en Oriente». En 1998, en el centenario de la república, el presidente Joseph Estrada juró allí su cargo.</p><p>Es santuario nacional desde 1973 y tiene un museo sobre la república en el antiguo convento. Su imagen ha aparecido en varios billetes filipinos.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJn2L6tNNTljMRvGphuqj1FcI",
+     "https://www.openstreetmap.org/?mlat=14.8464&mlon=120.8123#map=17/14.8464/120.8123",
+     "https://en.wikipedia.org/wiki/Barasoain_Church"
+    ],
+    "ver_alli": [
+     "Está en Malolos (Bulacán), a unos 42 km de Manila.",
+     "El museo sobre la primera república ocupa el antiguo convento, junto a la iglesia.",
+     "Aparece en los billetes de diez pesos antiguos y, desde 2010, en los de 200 pesos."
+    ]
+   }
+  },
+  {
+   "id": "iglesia-de-paoay",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>iglesia de San Agustín de Paoay</b>, en Ilocos Norte, la empezó en 1694 el agustino Antonio Estavillo y se terminó en 1710. Es el gran ejemplo del llamado <b>«barroco de los terremotos»</b>: el barroco europeo adaptado a un país sacudido por seísmos, que habían destruido muchas iglesias anteriores. Desde 1993 es Patrimonio de la Humanidad dentro del conjunto de las iglesias barrocas de Filipinas.</p><p>Lo que más impresiona son sus 24 enormes contrafuertes de ladrillo y coral, de unos 1,67 m de grosor, a los lados y en la parte trasera, construidos para resistir los terremotos; los de los lados son escalonados, quizá para subir al tejado. Los muros son de grandes bloques de coral abajo y de ladrillo arriba, unidos con una argamasa de arena y cal mezclada con jugo de caña de azúcar, y recuerdan la arquitectura de Java, como Borobudur. La fachada, que se alza como un gran frontón, mezcla elementos góticos, chinos y orientales.</p><p>Su campanario de coral, de tres pisos y con aire de pagoda, empezado en 1793, está separado del edificio, también para protegerla de los terremotos, y se usaba como torre de vigilancia: desde él vigilaron los revolucionarios filipinos a los españoles en 1898 y los guerrilleros a los japoneses en la Segunda Guerra Mundial.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJqXu1RfO_jjMRMq3HwIqiy_o",
+     "https://www.openstreetmap.org/?mlat=18.0616&mlon=120.5216#map=17/18.0616/120.5216",
+     "https://en.wikipedia.org/wiki/Paoay_Church"
+    ],
+    "ver_alli": [
+     "Patrimonio de la Humanidad.",
+     "Conviene rodear el edificio para ver los contrafuertes de los lados y de la parte trasera.",
+     "El campanario está a unos pasos de la fachada, separado de la iglesia."
+    ]
+   }
+  },
+  {
+   "id": "museo-marcos-de-batac",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Marcos de Batac</b>, oficialmente Centro Presidencial Ferdinand E. Marcos, es la casa familiar y museo de <b>Ferdinand Marcos</b>, presidente y dictador de Filipinas, en su provincia de Ilocos Norte. Muestra recuerdos de su vida, desde su paso por el ejército hasta la presidencia, y ofrece una visión favorable del expresidente, muy popular en esta región.</p><p>Marcos huyó del país en 1986 ante la revolución pacífica del «Poder Popular» y murió en el exilio, en Hawái, el 28 de septiembre de 1989. El gobierno de Corazón Aquino no permitió el regreso de sus restos, que quedaron en un mausoleo refrigerado en un templo budista japonés de la isla de Oahu. En septiembre de 1993, el presidente Fidel Ramos, primo segundo del difunto, dejó que su viuda, Imelda Marcos, lo trajera a casa, pero le negó el entierro de héroe que pedía.</p><p>Desde 1993 hasta 2016 se expuso aquí su cuerpo embalsamado en una urna de cristal, dentro de un gran cenotafio. El 18 de noviembre de 2016, con el permiso del presidente Rodrigo Duterte, fue enterrado en el Cementerio de los Héroes (Libingan ng mga Bayani), en Taguig, en el área metropolitana de Manila. En la urna se sigue mostrando una figura de cera de Marcos.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJWz0c5jfAjjMRjZu9LrSybwc",
+     "https://en.wikipedia.org/wiki/Marcos_Museum_and_Mausoleum"
+    ]
+   }
+  },
+  {
+   "id": "parque-del-desembarco-de-macarthur",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Parque del Desembarco de MacArthur</b>, en Palo, unos 5 km al sur de Tacloban (Leyte), recuerda el desembarco del general <b>Douglas MacArthur</b> en el golfo de Leyte el 20 de octubre de 1944, al comienzo de la campaña para liberar Filipinas de la ocupación japonesa. Fue declarado parque nacional el 12 de julio de 1977 por el presidente Ferdinand Marcos y al principio se llamó Parque Imelda, por su esposa, nacida en Leyte.</p><p>Aquel desembarco desencadenó la batalla del golfo de Leyte, la mayor batalla naval de la Segunda Guerra Mundial, y con él MacArthur cumplía su famosa promesa: «Volveré». El monumento, del escultor Anastacio Caedo, inaugurado en 1981, es un grupo de siete estatuas de bronce, del doble del tamaño natural, que muestran al general MacArthur y su séquito, con el presidente Osmeña, desembarcando con el agua por las rodillas, como en la famosa fotografía de Gaetano Faillace. Con ellos van, entre otros, el general filipino Carlos P. Romulo y el corresponsal de radio William J. Dunn. Las figuras se alzan en un estanque artificial.</p><p>En 2013 el tifón Haiyan (Yolanda) derribó la estatua de Romulo, que se volvió a poner en pie. Junto al monumento hay un museo y placas que explican la escena.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJww0jbsN3CDMRh3OueI82SFg",
+     "https://www.openstreetmap.org/?mlat=11.172&mlon=125.0117#map=17/11.172/125.0117",
+     "https://en.wikipedia.org/wiki/MacArthur_Landing_Memorial_National_Park"
+    ]
+   }
+  },
+  {
+   "id": "bantayog-ng-mga-bayani",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Bantayog ng mga Bayani</b> («monumento de los héroes»), en Ciudad Quezón, es un memorial, museo y centro de investigación que honra a los mártires y héroes de la lucha contra la dictadura de <b>Ferdinand Marcos</b> y la ley marcial que impuso en 1972.</p><p>La idea nació justo después de la revolución del «Poder Popular» de 1986, que expulsó a Marcos, a propuesta de un médico filipino-estadounidense, Ruben Mallari, y una fundación comprueba a quién honrar, sin importar su ideología. El centro es el <b>Muro del Recuerdo</b>, que lleva los nombres de cientos de personas que se opusieron a la dictadura, muchas de ellas muertas o desaparecidas en esa lucha: los primeros 65 se grabaron en 1992, entre ellos el editor Chino Roces, el líder tribal Macli-ing Dulag y el alcalde de Zamboanga Cesar Climaco, y en 2023 eran ya 332.</p><p>Junto a la avenida se alza el monumento a la <b>Inang Bayan</b>, la madre patria, de unos 11 metros, obra de Eduardo Castrillo: una mujer que tiende los brazos al cielo mientras sostiene el cuerpo de un joven caído. Tiene un pequeño museo, abierto a mediados de los años 2000, con la reproducción de la celda de un preso político.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ2yEQTQe3lzMRbfDgt60K770",
+     "https://www.openstreetmap.org/?mlat=14.6443&mlon=121.0394#map=17/14.6443/121.0394",
+     "https://en.wikipedia.org/wiki/Bantayog_ng_mga_Bayani"
+    ],
+    "ver_alli": [
+     "Cada año se añaden nombres nuevos al muro.",
+     "El museo está en el segundo piso del edificio que hay detrás del Muro del Recuerdo."
+    ]
+   }
+  },
+  {
+   "id": "iglesia-de-san-agustin-de-manila",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>iglesia de San Agustín</b>, dentro de las murallas de Intramuros, es la iglesia de piedra más antigua de Filipinas. Es la tercera que los agustinos levantaron en el lugar, pues las dos anteriores se destruyeron en 1574 y 1583. La actual, trazada por Juan Macías, se empezó en 1586 y se terminó el 19 de enero de 1607, con el nombre de iglesia de San Pablo de Manila. Desde 1993 es Patrimonio de la Humanidad dentro de las iglesias barrocas de Filipinas.</p><p>Ha resistido terremotos y la guerra. Sobrevivió a los grandes seísmos de 1645, 1754, 1863 y 1880, entre otros; en el de 1863 fue el único edificio público de Manila que quedó sin daños. En ella preparó el gobernador Fermín Jáudenes, en agosto de 1898, la rendición de Manila a Estados Unidos, y en 1945 fue la única de las siete iglesias de Intramuros que sobrevivió a la batalla de Manila, aunque el convento quedó destruido. Allí está enterrado Legazpi, el fundador de Manila, y también el pintor Juan Luna.</p><p>Sus techos están pintados en trampantojo, con falsas cúpulas y relieves, por artistas italianos del siglo XIX, y tiene un púlpito barroco con la piña, fruta del país, como motivo. El antiguo convento, reconstruido en los años setenta por el arquitecto Ángel Nakpil, es hoy un museo con arte religioso.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJY1NEIz3KlzMRamMm7IEXLWw",
+     "https://www.openstreetmap.org/?mlat=14.5892&mlon=120.9752#map=17/14.5892/120.9752",
+     "https://en.wikipedia.org/wiki/San_Agustin_Church_(Manila)",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Agust%C3%ADn_(Manila)"
+    ],
+    "ver_alli": [
+     "Patrimonio de la Humanidad dentro de las iglesias barrocas de Filipinas.",
+     "El museo ocupa el antiguo convento, junto a la iglesia.",
+     "Está en Intramuros, a pocos minutos a pie del Fuerte Santiago y de la catedral."
+    ]
+   }
+  },
+  {
+   "id": "ciudad-historica-de-vigan",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Vigan</b>, capital de Ilocos Sur, en la costa occidental de Luzón, es la ciudad colonial española mejor conservada de Asia, según la UNESCO, que la declaró Patrimonio de la Humanidad en 1999. Antes de los españoles era un puerto frecuentado por comerciantes chinos y japoneses, entre otros. El conquistador Juan de Salcedo la fundó en 1572 con el nombre de Villa Fernandina, en honor de un hijo de Felipe II, y en el siglo XVIII recibió el título de ciudad y pasó a ser sede del obispado de Nueva Segovia.</p><p>Sus calles empedradas están flanqueadas por casas de piedra y madera de los siglos XVIII y XIX, las <i>bahay na bato</i>, que mezclan estilos filipino, chino y europeo, en un trazado en cuadrícula de influencia europea y mexicana. Fue un activo puerto comercial, y su calle Crisólogo es la más fotografiada. Tiene una catedral del «barroco de los terremotos» y el palacio arzobispal más antiguo del país. En 1945 se libró de la destrucción porque los japoneses se retiraron sin quemarla. Allí nació el presidente Elpidio Quirino.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=17.5747&mlon=120.3889#map=17/17.5747/120.3889",
+     "https://en.wikipedia.org/wiki/Vigan",
+     "https://es.wikipedia.org/wiki/Vigan"
+    ]
+   }
+  },
+  {
+   "id": "isla-de-corregidor",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Corregidor</b> es una isla en forma de renacuajo, de unos 6,5 km de largo, a la entrada de la bahía de Manila, 48 km al oeste de la capital. Por su posición se fortificó desde tiempos españoles —su faro se encendió por primera vez en 1853— y, sobre todo, bajo el dominio estadounidense, que la convirtió desde 1902 en una base militar, Fort Mills, la mayor de las islas que defendían la bahía.</p><p>En la Segunda Guerra Mundial, tras la caída de Bataan en abril de 1942, fue el último reducto de las tropas estadounidenses y filipinas en la zona. En el <b>túnel de Malinta</b>, que sirvió de cuartel general y hospital, juraron su segundo mandato el presidente Manuel Quezon y el vicepresidente Sergio Osmeña, y allí tuvo su cuartel general el general MacArthur hasta el 11 de marzo de 1942. Bajo el mando del general Jonathan Wainwright, la isla resistió a los japoneses hasta el 6 de mayo de 1942, cuando tuvo que rendirse. Los estadounidenses la reconquistaron entre el 16 y el 26 de febrero de 1945.</p><p>Se visitan las ruinas de los cuarteles, que se dejaron tal como quedaron tras la guerra en memoria de los soldados muertos, las baterías de cañones, el túnel de Malinta y, en lo más alto, el Memorial de la Guerra del Pacífico, levantado por Estados Unidos.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Corregidor"
+    ]
+   }
+  }
+ ]
+}

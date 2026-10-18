@@ -1,0 +1,421 @@
+{
+ "zona": "Ampliar mundo-14a",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "terrenos-del-tratado-de-waitangi",
+   "campos": {
+    "texto": {
+     "general": "<p>En los <b>Terrenos del Tratado de Waitangi</b>, junto a la bahía de las Islas, se firmaron dos documentos clave de la historia neozelandesa: la <b>Declaración de Independencia</b> (<i>He Whakaputanga</i>), el 28 de octubre de 1835, y el <b>Tratado de Waitangi</b>, el <b>6 de febrero de 1840</b>. «Waitangi» significa en maorí «aguas ruidosas» o «aguas que lloran».</p><p>El 5 de febrero de 1840, ante la casa de <b>James Busby</b>, residente británico desde 1832, el gobernador William Hobson leyó el tratado a unas 300 personas, maoríes y europeas. Al día siguiente lo firmaron en una gran carpa los primeros jefes (<i>rangatira</i>); después se recogieron otras 500 firmas por el país. Las versiones inglesa y maorí no dicen lo mismo: la maorí cede la «gobernación» (<i>kawanatanga</i>), no la soberanía, y garantiza a los jefes su autoridad sobre tierras y tesoros, una diferencia que aún pesa en la política neozelandesa.</p><p>Hoy se visitan la <b>Casa del Tratado</b>, la de Busby, restaurada en los años treinta; <b>Te Whare Rūnanga</b>, casa de reunión maorí tallada, inaugurada el 6 de febrero de 1940, y la <b>Ngātokimatawhaorua</b>, canoa de guerra de 35,7 metros construida para el centenario: es la mayor canoa de un solo tronco del país y lleva unos 80 remeros. Hay dos museos: Te Kōngahu (2016), sobre el tratado, y Te Rau Aroha (2020), dedicado al «precio de la ciudadanía».</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Waitangi,_Northland",
+     "https://en.wikipedia.org/wiki/Treaty_of_Waitangi",
+     "https://en.wikipedia.org/wiki/Ng%C4%81_Toki_Matawhaorua"
+    ]
+   }
+  },
+  {
+   "id": "parlamento-de-nueva-zelanda-beehive",
+   "campos": {
+    "texto": {
+     "general": "<p>En el centro de Wellington se levanta el conjunto del <b>Parlamento de Nueva Zelanda</b>. El edificio clásico, la <b>Parliament House</b>, se construyó entre 1914 y 1922 para sustituir al que ardió en 1907. Lo diseñó el arquitecto del gobierno <b>John Campbell</b> y se revistió de mármol de Tākaka y granito de Coromandel, materiales del país. Solo se levantó la primera fase: la segunda nunca se construyó.</p><p>A su lado está la <b>Colmena</b> (<i>Beehive</i>), el ala ejecutiva, donde tienen sus despachos los ministros. Su forma redonda y escalonada la ideó en 1964 el arquitecto escocés <b>Basil Spence</b>; según la leyenda, la dibujó en una servilleta durante una cena con el primer ministro Holyoake. Las obras empezaron en 1969, la reina Isabel II la dedicó en febrero de 1977, el gobierno se instaló en 1979 y el anexo se terminó en 1981. Mide 72 metros, con diez plantas sobre el suelo y cuatro bajo tierra.</p><p>Entre 1991 y 1995 la Parliament House se reforzó contra los terremotos y se restauró, en la mayor obra de conservación patrimonial del país. Aquí se decide la política de una nación que en <b>1893</b> fue la <b>primera del mundo en dar el voto a las mujeres</b>.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Beehive_(building)",
+     "https://en.wikipedia.org/wiki/Parliament_House,_Wellington",
+     "https://en.wikipedia.org/wiki/Kate_Sheppard"
+    ]
+   }
+  },
+  {
+   "id": "mision-de-kerikeri-y-stone-store",
+   "campos": {
+    "texto": {
+     "general": "<p>En la cuenca del río Kerikeri, en el norte de Nueva Zelanda, se conservan los dos edificios europeos más antiguos del país. La <b>misión de Kerikeri</b> la fundó en 1819 la Sociedad Misionera de la Iglesia, anglicana, bajo la protección del poderoso jefe <b>Hongi Hika</b>, que en 1814 había cedido la tierra a Samuel Marsden a cambio de 48 hachas.</p><p>La <b>Casa de la Misión</b> o <i>Kemp House</i>, de <b>1821-1822</b>, es el <b>edificio más antiguo de Nueva Zelanda</b>: una casa georgiana de madera de dos plantas, levantada con madera aserrada por maoríes para el reverendo John Butler. Desde 1832 vivió en ella la familia del misionero James Kemp, que la conservó hasta donarla en 1974. Al lado está el <b>Stone Store</b>, almacén construido entre <b>1832 y 1836</b> con basalto local y arenisca traída de Sídney: el edificio de piedra más antiguo del país que sigue intacto. Fue almacén de la misión, polvorín durante la guerra del Mástil, oficina de correos, escuela y tienda.</p><p>Frente a la casa se ven los restos del <b>pā de Kororipo</b>, la fortaleza desde la que Hongi Hika lanzaba sus incursiones en los años veinte. Junto al Stone Store crece un peral considerado el árbol frutal más antiguo de Nueva Zelanda, que todavía da fruto.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJz6WzXb23C20RXyz6SF-7k7o",
+     "https://www.openstreetmap.org/?mlat=-35.2178&mlon=173.9627#map=17/-35.2178/173.9627",
+     "https://en.wikipedia.org/wiki/Kemp_House",
+     "https://en.wikipedia.org/wiki/Stone_Store",
+     "https://en.wikipedia.org/wiki/Kerikeri"
+    ]
+   }
+  },
+  {
+   "id": "memorial-del-sufragio-kate-sheppard",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Memorial Nacional Kate Sheppard</b>, junto al río Avon en Christchurch, es el primer monumento de Nueva Zelanda dedicado a la lucha por el voto femenino. Se inauguró el <b>19 de septiembre de 1993</b>, en el centenario del sufragio, de manos de la gobernadora general Catherine Tizard. Es obra de la artista neozelandesa de origen neerlandés <b>Margriet Windhausen</b>.</p><p>Es un muro de unos 5 metros de ancho y 2 de alto con un <b>relieve de bronce a tamaño natural</b>: seis sufragistas llevan en un carro de madera la petición al Parlamento. Junto a Sheppard aparecen Meri Mangakāhia, que pidió el voto femenino al parlamento maorí, Amey Daldy, Ada Wells, Harriet Morison y Helen Nicol. Los paneles laterales muestran la vida cotidiana de las mujeres a finales del siglo XIX, y dentro se guardó una cápsula del tiempo con noticias de 1993.</p><p><b>Kate Sheppard</b> (1848-1934), nacida en Liverpool y llegada a Nueva Zelanda en 1868, vivía en Christchurch. Desde la Unión Cristiana de Mujeres por la Templanza organizó la petición de 1893, con unas 30.000 firmas, que hizo de Nueva Zelanda el <b>primer país en dar el voto a las mujeres</b>. Desde 1991 su retrato aparece en el billete de diez dólares.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Kate_Sheppard_National_Memorial",
+     "https://en.wikipedia.org/wiki/Kate_Sheppard"
+    ]
+   }
+  },
+  {
+   "id": "pa-de-ruapekapeka",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>pā de Ruapekapeka</b>, a unos 20 km al sureste de Kawakawa, fue una de las fortificaciones maoríes más grandes y complejas de Nueva Zelanda, levantada en 1845 para resistir los cañones británicos. Lo construyeron el jefe <b>Te Ruki Kawiti</b> y sus aliados, con <b>Hōne Heke</b>, como desafío al dominio británico durante la guerra del Mástil, también llamada guerra del Norte.</p><p>Tenía empalizadas de troncos de pūriri de 3 metros, trincheras delante y detrás, pasadizos para que los guerreros salieran a disparar y volvieran a recargar, y refugios subterráneos donde cabían de 15 a 20 personas. Desde el 27 de diciembre de 1845 lo bombardearon unos 1.100 soldados y marinos británicos, apoyados por 450 guerreros maoríes aliados, al mando del teniente coronel Despard. Los defensores aguantaron a salvo en sus refugios. El domingo <b>11 de enero de 1846</b> los británicos entraron en el pā casi vacío: se dijo que muchos defensores, cristianos, estaban fuera rezando, aunque hoy se duda de esa explicación. Fue el último combate de la guerra.</p><p>Hoy se recorren los restos de las trincheras, los túneles y los refugios, con un sendero y paneles que explican la batalla.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJg9ivBliYC20R20Ve-2fOEYw",
+     "https://www.openstreetmap.org/?mlat=-35.4532&mlon=174.1416#map=17/-35.4532/174.1416",
+     "https://en.wikipedia.org/wiki/Battle_of_Ruapekapeka",
+     "https://en.wikipedia.org/wiki/Flagstaff_War"
+    ]
+   }
+  },
+  {
+   "id": "estatua-de-edmund-hillary-en-aoraki",
+   "campos": {
+    "texto": {
+     "general": "<p>Frente al <b>Aoraki / monte Cook</b>, la montaña más alta de Nueva Zelanda (3.724 metros), se alza una <b>estatua de bronce de Edmund Hillary</b> junto al hotel Hermitage, en la aldea de Mount Cook. La descubrió el propio Hillary en julio de 2003. Al principio se resistió, porque pensaba que el homenaje debía ser para su compañero de cordada Harry Ayres, pero acabó aceptando. La figura se basa en una foto tomada en 1970, tras su travesía de los tres picos del Aoraki por su 50 cumpleaños.</p><p>Hillary (Auckland, 1919-2008) se formó como alpinista en estos Alpes del Sur: en 1939 hizo su primera gran ascensión, al monte Ollivier, cerca del Aoraki, y en 1948 subió con otros la cresta sur del propio Aoraki. El <b>29 de mayo de 1953</b>, con el sherpa <b>Tenzing Norgay</b>, fue el primero en llegar a la cumbre del Everest. Desde 1960 dedicó gran parte de su vida a ayudar a los sherpas de Nepal con el Himalayan Trust, que construyó escuelas y hospitales.</p><p>Dentro del hotel está el <b>Sir Edmund Hillary Alpine Centre</b>, un museo con cine sobre Hillary, la escalada y la historia de la región.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ3arCDlJLKm0R_1dy5pbfBhA",
+     "https://www.openstreetmap.org/?mlat=-43.7332&mlon=170.0937#map=17/-43.7332/170.0937",
+     "https://en.wikipedia.org/wiki/Edmund_Hillary",
+     "https://en.wikipedia.org/wiki/Aoraki_/_Mount_Cook",
+     "https://en.wikipedia.org/wiki/Mount_Cook_Village",
+     "https://www.odt.co.nz/node/3316",
+     "https://www.hermitage.co.nz/experience/the-sir-edmund-hillary-alpine-centre/"
+    ]
+   }
+  },
+  {
+   "id": "te-papa-tongarewa",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Te Papa Tongarewa</b> es el museo nacional de Nueva Zelanda. Abrió el <b>14 de febrero de 1998</b> en el paseo marítimo de Wellington, tras la unión del Museo Nacional y la Galería Nacional de Arte. Su nombre maorí significa «el recipiente de los tesoros» o, en su forma completa, «el recipiente de las cosas y personas valiosas que brotan de la madre Tierra aquí, en Nueva Zelanda».</p><p>El edificio, de 36.000 m², se diseñó siguiendo los principios biculturales del Tratado de Waitangi y descansa sobre aisladores sísmicos que se pueden ver en una zona subterránea. Recibe entre uno y 1,3 millones de visitas al año. Su espacio cultural central es el <b>marae Rongomaraeroa</b>, con la casa de reunión <i>Te Hono ki Hawaiki</i>, de tallas muy poco habituales. Sus salas cuentan la historia del Tratado de Waitangi y del país, con tallas, canoas y objetos maoríes y del Pacífico.</p><p>No hay que perderse el <b>calamar colosal</b> de 495 kilos, el mayor ejemplar de su especie del mundo, ni la exposición <i>Te Taiao</i>, sobre la naturaleza neozelandesa, con una casa que simula un terremoto. La muestra <i>Gallipoli: la escala de nuestra guerra</i>, hecha con Weta Workshop, ha recibido casi cuatro millones de visitantes desde 2015.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Museum_of_New_Zealand_Te_Papa_Tongarewa"
+    ],
+    "ver_alli": [
+     "Está en el paseo marítimo de Wellington, a poca distancia a pie del centro.",
+     "No te pierdas el calamar colosal y la casa que simula un terremoto.",
+     "Sube al marae Rongomaraeroa para ver la casa de reunión tallada."
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-carton-de-christchurch",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>catedral de cartón</b> (<i>Transitional Cathedral</i>) sustituye desde 2013 a la catedral anglicana de Christchurch, muy dañada por el <b>terremoto del 22 de febrero de 2011</b>, de magnitud 6,2, que causó 185 muertos. La diseñó el arquitecto japonés <b>Shigeru Ban</b> con el estudio Warren and Mahoney. Abrió al público el 6 de agosto de 2013 y fue el primer gran edificio de la reconstrucción de la ciudad.</p><p>Está junto a la plaza Latimer, en el solar de la iglesia de San Juan Bautista, derribada tras el seísmo. Es un gran triángulo en forma de A, de 21 metros sobre el altar, hecho con <b>más de 90 tubos de cartón</b> de 60 centímetros de diámetro, reforzados con vigas de madera laminada y tratados contra el agua y el fuego, sobre ocho contenedores de barco que forman las paredes. Entre los tubos se dejaron rendijas para que pase la luz, y en lugar del antiguo rosetón la fachada luce <b>triángulos de vidrio de colores</b>. Tiene unas 700 plazas y se proyectó para durar 50 años.</p><p>Cerca están <b>Quake City</b>, exposición del Canterbury Museum sobre los terremotos, y el <b>Memorial Nacional del Terremoto</b>, inaugurado en 2017 a orillas del río Avon en recuerdo de las 185 víctimas.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJTfWAeyGKMW0RPleuecV8uAk",
+     "https://www.openstreetmap.org/?mlat=-43.5323&mlon=172.6431#map=17/-43.5323/172.6431",
+     "https://en.wikipedia.org/wiki/Transitional_Cathedral",
+     "https://en.wikipedia.org/wiki/2011_Christchurch_earthquake",
+     "https://en.wikipedia.org/wiki/Canterbury_Earthquake_National_Memorial",
+     "https://www.christchurchnz.com/visit/things-to-do/listing/quake-city-4328762"
+    ]
+   }
+  },
+  {
+   "id": "memorial-del-rainbow-warrior",
+   "campos": {
+    "texto": {
+     "general": "<p>En lo alto de una colina sobre la <b>bahía de Matauri</b>, en el norte de Nueva Zelanda, se levanta el <b>memorial del Rainbow Warrior</b>, obra del escultor neozelandés <b>Chris Booth</b>, construida entre 1988 y 1990 por encargo de la tribu Ngāti Kura. Recuerda al buque insignia de <b>Greenpeace</b>, hundido en el puerto de Auckland la noche del <b>10 de julio de 1985</b>.</p><p>El barco iba a encabezar una flotilla de protesta contra las pruebas nucleares francesas en el atolón de Mururoa. Buceadores de los servicios secretos franceses (DGSE) le colocaron minas lapa, y el fotógrafo portugués-neerlandés <b>Fernando Pereira</b>, que había vuelto a bajar a por su cámara, murió ahogado. La policía detuvo a dos agentes, Dominique Prieur y Alain Mafart, condenados a diez años por homicidio. El escándalo obligó a dimitir al ministro de Defensa francés, Charles Hernu, y en 2005 <i>Le Monde</i> publicó que el presidente <b>François Mitterrand</b> había aprobado la operación.</p><p>El casco, irreparable, se hundió a propósito el 12 de diciembre de 1987 junto a las <b>islas Cavalli</b>, frente a la bahía, para servir de arrecife y santuario de peces. Hoy es un pecio cubierto de vida marina, muy visitado por los buceadores.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJY3LSNnI1Cm0RzdiOSYqzL48",
+     "https://www.openstreetmap.org/?mlat=-35.0269&mlon=173.9175#map=17/-35.0269/173.9175",
+     "https://en.wikipedia.org/wiki/Sinking_of_the_Rainbow_Warrior",
+     "https://en.wikipedia.org/wiki/Matauri_Bay",
+     "https://en.wikipedia.org/wiki/Rainbow_Warrior_(1955)"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-auckland",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Memorial de Guerra de Auckland</b> (<i>Tāmaki Paenga Hira</i>) es uno de los museos y memoriales de guerra más importantes de Nueva Zelanda. Fundado en 1852, se trasladó en 1929 a su edificio actual, un gran templo neoclásico del estudio Grierson, Aimer y Draffin, levantado en el parque del Auckland Domain sobre Observatory Hill, un volcán dormido con vistas al puerto de Waitematā.</p><p>El edificio se costeó en homenaje a los caídos de la Primera Guerra Mundial y se amplió a finales de los años cincuenta en recuerdo de la Segunda. Ante la fachada, que lleva grabada una frase de la oración fúnebre de Pericles, se alza el Cenotafio. Dentro, los dos <b>Salones de la Memoria</b> recogen en sus muros los nombres de los soldados de la región de Auckland muertos en las guerras del siglo XX, y la exposición <i>Scars on the Heart</i> recorre desde las guerras neozelandesas del siglo XIX hasta las misiones de paz.</p><p>Su colección de <b>arte maorí y del Pacífico</b> es comparable a la de Te Papa. No hay que perderse <b>Hotunui</b>, una gran casa de reunión tallada en 1878 en Thames, ni <b>Te Toki-a-Tapiri</b>, canoa de guerra de 1830 tallada por Te Waaka Perohuka y Raharuhi Rukupō. La sección de historia natural es muy rica en kiwis y <b>moas</b>.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Auckland_War_Memorial_Museum"
+    ]
+   }
+  },
+  {
+   "id": "russell-kororareka-y-la-colina-del-masti",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Kororāreka</b>, hoy Russell, fue en la década de 1830 un bullicioso puerto de balleneros y foqueros, con fama de «agujero infernal del Pacífico»; Darwin, que llegó en 1835 con el <i>Beagle</i>, la llamó «fortaleza del vicio». Por esa reputación, en 1840 el gobernador Hobson fundó la capital en Okiato, 5 km al sur, con el nombre de Russell; duró poco, y el nombre pasó a Kororāreka.</p><p>Aquí está la <b>iglesia de Cristo</b> (1835), la más antigua que se conserva en Nueva Zelanda, pagada en parte por Darwin y el capitán FitzRoy, con agujeros de bala de la batalla de 1845. En la <b>colina del Mástil</b> (Maiki), el asta británica fue derribada cuatro veces en 1844-1845, la primera por el jefe Te Haratua y las demás por <b>Hōne Heke</b>. El 11 de marzo de 1845 el pueblo fue atacado y evacuado: empezaba la guerra del Mástil. El mástil actual, el quinto, lo levantaron en 1858 los propios ngāpuhi, por iniciativa del hijo de Kawiti.</p><p>No hay que perderse la <b>misión Pompallier</b> (1841-1842), imprenta católica que es el edificio industrial más antiguo del país.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJh8PoMmilC20RNH-UJ-mqL7A",
+     "https://www.openstreetmap.org/?mlat=-35.2632&mlon=174.1236#map=17/-35.2632/174.1236",
+     "https://www.google.com/maps/place/?q=place_id:ChIJRwsBtF2lC20RIXcI0cRHYZ8",
+     "https://en.wikipedia.org/wiki/Russell,_New_Zealand",
+     "https://en.wikipedia.org/wiki/Christ_Church,_Russell",
+     "https://en.wikipedia.org/wiki/Flagstaff_War"
+    ]
+   }
+  },
+  {
+   "id": "pa-de-rangiriri",
+   "campos": {
+    "texto": {
+     "general": "<p>En <b>Rangiriri</b>, junto al río Waikato, se libró el <b>20 y 21 de noviembre de 1863</b> la batalla decisiva de la invasión del Waikato. Los guerreros del movimiento del Rey maorí (<i>Kīngitanga</i>), dirigidos por el jefe Te Wharepu, habían cavado una línea de 500 metros de trincheras dobles entre el río y el lago Kopuera, con un reducto central de tierra, sin empalizada y muy difícil de ver desde el río.</p><p>El general <b>Duncan Cameron</b> atacó con más de 1.400 hombres y dos cañoneras. Los asaltos contra el reducto fracasaron una y otra vez, y fue el combate que más vidas costó a ambos bandos en las guerras neozelandesas: murieron unos 47 británicos y varias decenas de maoríes, entre ellos seis mujeres y niños. Al amanecer los defensores <b>izaron una bandera blanca</b> para negociar, pero Cameron exigió la entrega de las armas y tomó unos 180 prisioneros. Los llevaron a la isla de Kawau, de donde escaparon en 1864 remando con palas. Tras la derrota, el gobierno confiscó 1,3 millones de hectáreas.</p><p>El pā, restaurado al desviar la carretera y devuelto a la tribu Waikato-Tainui en 2016, se ve junto a la autopista. Frente al centro de interpretación está el cementerio de los soldados británicos, con una puerta conmemorativa de 1927.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ2V1kY75FbW0RxpQfNLlLpxo",
+     "https://www.openstreetmap.org/?mlat=-37.4274&mlon=175.1296#map=17/-37.4274/175.1296",
+     "https://en.wikipedia.org/wiki/Battle_of_Rangiriri",
+     "https://nzhistory.govt.nz/memorial/rangiriri-nz-wars-cemetery-arch"
+    ]
+   }
+  },
+  {
+   "id": "parihaka",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Parihaka</b>, en Taranaki, lo fundaron hacia <b>1866</b> los jefes <b>Te Whiti o Rongomai</b> y <b>Tohu Kākahi</b> en tierras confiscadas por el gobierno tras las guerras. Llegó a tener más de 2.000 habitantes y pasaba por ser el mayor pueblo maorí del país.</p><p>Desde allí sus líderes dirigieron una campaña de <b>resistencia pacífica</b>: desde 1879 sus hombres araron las tierras ocupadas por los colonos y levantaron cercas en los caminos, y cuando la policía los arrestaba no oponían resistencia. Cada mes se celebraban grandes reuniones a las que acudían maoríes de todo el país. El <b>5 de noviembre de 1881</b>, 1.600 soldados al mando del ministro John Bryce entraron al amanecer; los recibieron cientos de niños cantando y ofreciendo comida. Te Whiti y Tohu pasaron 16 meses en prisión y 1.600 vecinos fueron expulsados.</p><p>El pueblo sigue habitado. Desde 2006 acoge cada año el Festival Internacional por la Paz, y en 2017 la Corona pidió perdón formalmente a la comunidad. En el pueblo hay monumentos a Te Whiti y a Tohu.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJs94Y3C7PFW0RpcQKMPmMFqQ",
+     "https://www.openstreetmap.org/?mlat=-39.2888&mlon=173.8395#map=17/-39.2888/173.8395",
+     "https://en.wikipedia.org/wiki/Parihaka"
+    ]
+   }
+  },
+  {
+   "id": "wairau-bar-te-pokohiwi",
+   "campos": {
+    "texto": {
+     "general": "<p>En este banco de grava, donde el río Wairau desemboca en la bahía Cloudy, se asentaron hacia <b>1280</b> algunos de los <b>primeros polinesios que llegaron a Nueva Zelanda</b>. Las dataciones modernas sitúan la ocupación entre 1288 y 1300. Lo descubrió en 1939 un escolar, <b>Jim Eyles</b>, y después lo excavó con el arqueólogo Roger Duff.</p><p>Aparecieron 44 esqueletos y unos 2.000 objetos: azuelas de piedra, anzuelos, collares de hueso de <b>moa</b> y huevos enteros de moa usados como recipientes de agua, enterrados con los muertos. Una herramienta de concha tropical lo une a la Polinesia oriental, y el ADN de los restos se parece mucho al de las islas Marquesas de la misma época. Aquellos pobladores cazaban moas, focas y aves hoy extinguidas, como el águila de Haast, y fabricaron aquí unas 12.000 azuelas. Desde 2012 es <b>wāhi tapu</b>, lugar sagrado, y el pueblo rangitāne volvió a enterrar allí a unos 60 antepasados.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Wairau_Bar",
+     "https://www.heritage.org.nz/list-details/9561/Wairau",
+     "https://marlboroughnz.com/explore-marlborough/see-do/heritage-culture-arts/te-pokohiwiwairau-bar-heritage/",
+     "https://www.openstreetmap.org/?mlat=-41.5093&mlon=174.0638#map=17/-41.5093/174.0638",
+     "https://www.google.com/maps/place/?q=place_id:ChIJnbngTuIWOW0RVdLK-ZlSfCA"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-inquisicion-y-del-congreso",
+   "campos": {
+    "texto": {
+     "general": "<p>En la plaza Bolívar de Lima se conserva el edificio donde funcionó el <b>Tribunal del Santo Oficio de la Inquisición</b> de Lima. Creado por orden de Felipe II en 1569, se instaló en enero de 1570, bajo el virrey Francisco de Toledo, y actuó hasta 1820. No juzgaba a los indígenas, excluidos de su jurisdicción, sino sobre todo a españoles, criollos y extranjeros: judaizantes, protestantes, bígamos o blasfemos. En esos dos siglos y medio procesó a casi 1.500 personas y condenó a muerte a 32.</p><p>Tras la independencia, el local acogió el primer Congreso Constituyente del Perú y luego el Senado, hasta 1939. Desde el 26 de julio de 1968 es el <b>Museo del Congreso y de la Inquisición</b>, que llegó a recibir unos 200.000 visitantes al año.</p><p>Lo más notable es la <b>Sala de Audiencias</b>, con un <b>artesonado mudéjar</b> de madera tallada y figuras que representan al acusado, el fiscal, el inquisidor y el calificador; en ella estaba la «puerta del secreto», con un orificio por el que declaraban los acusadores sin ser vistos. Se ven también las celdas, la cámara del secreto, donde se guardaban los procesos, y los instrumentos de tortura, como el potro. Desde 2016 está cerrado por obras de restauración: conviene comprobar si ha reabierto.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Museo%20del%20Congreso%20y%20de%20la%20Inquisici%C3%B3n%2C%20Lima",
+     "https://es.wikipedia.org/wiki/Museo_del_Congreso_y_de_la_Inquisici%C3%B3n",
+     "https://es.wikipedia.org/wiki/Inquisici%C3%B3n_peruana"
+    ],
+    "ver_alli": [
+     "Está en la plaza Bolívar, junto al Congreso.",
+     "Cerró en 2016 por obras de restauración: comprueba antes si ha reabierto.",
+     "Lo mejor es el artesonado mudéjar de la Sala de Audiencias."
+    ]
+   }
+  },
+  {
+   "id": "cuzco-coricancha-y-sacsayhuaman",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Cuzco</b>, a unos 3.400 metros de altitud, fue la capital del Imperio inca. En el siglo XV el inca <b>Pachacútec</b> la rediseñó, según la tradición, con forma de puma, y la llenó de muros de piedras perfectamente encajadas sin argamasa. Francisco Pizarro entró en ella el 15 de noviembre de 1533 y la refundó como ciudad española el 23 de marzo de 1534, levantando casas e iglesias sobre los cimientos incas. Ciudad y Sacsayhuamán son Patrimonio de la Humanidad desde 1983.</p><p>El <b>Coricancha</b> («recinto de oro»), principal templo del Inti, el Sol, tenía las paredes cubiertas de láminas de oro, y en su patio había plantas y animales de oro y plata a tamaño natural; casi todo se fundió para pagar el rescate de Atahualpa. Sobre sus muros los dominicos construyeron el <b>convento de Santo Domingo</b>: el terremoto de 1650 dañó gravemente el convento y dejó intacta la obra inca, y el de 1950 volvió a castigar la iglesia.</p><p>A dos kilómetros al norte, sobre la ciudad, está <b>Sacsayhuamán</b>, comenzado bajo Pachacútec y terminado por Huayna Cápac, con <b>tres grandes murallas escalonadas</b> de bloques de caliza; se calcula que el mayor pesa entre 128 y casi 200 toneladas. En 1536 fue escenario de los combates del levantamiento de <b>Manco Inca</b>, y después los españoles lo desmontaron para aprovechar sus piedras: hoy queda en torno al 20 %. Cada 24 de junio acoge la fiesta del Inti Raymi.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Cusco",
+     "https://es.wikipedia.org/wiki/Coricancha",
+     "https://es.wikipedia.org/wiki/Sacsayhuam%C3%A1n",
+     "https://en.wikipedia.org/wiki/Sacsayhuam%C3%A1n",
+     "https://es.wikipedia.org/wiki/Convento_de_Santo_Domingo_(Cusco)"
+    ]
+   }
+  },
+  {
+   "id": "lugar-de-la-memoria-lum",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Lugar de la Memoria, la Tolerancia y la Inclusión Social (LUM)</b>, en el distrito limeño de Miraflores, se inauguró en diciembre de 2015. Está dedicado a la violencia que vivió el Perú entre <b>1980 y 2000</b>, desencadenada por el grupo terrorista <b>Sendero Luminoso</b>, al que se sumó el MRTA, y por la represión del Estado. La Comisión de la Verdad y Reconciliación calculó unas <b>69.000 víctimas</b> entre muertos y desaparecidos; tres de cada cuatro tenían el quechua u otra lengua indígena como lengua materna.</p><p>El museo nació de una donación del gobierno alemán, anunciada en 2008 y aceptada en 2009, con aportes de Suecia y la Unión Europea. La comisión que lo impulsó la presidió primero el escritor <b>Mario Vargas Llosa</b>, que dimitió en 2010 en protesta por un decreto que favorecía a militares acusados de violar los derechos humanos, y después el pintor Fernando de Szyszlo. El edificio es obra de los arquitectos <b>Sandra Barclay y Jean Pierre Crousse</b>.</p><p>La exposición recoge los <b>testimonios de víctimas de todos los bandos</b>, y el centro publica relatos de quienes vivieron aquellos años. Ha sido objeto de polémicas políticas, y su contenido sigue generando debate en el Perú.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Lugar%20de%20la%20Memoria%2C%20Miraflores%2C%20Lima",
+     "https://es.wikipedia.org/wiki/Lugar_de_la_Memoria,_la_Tolerancia_y_la_Inclusi%C3%B3n_Social",
+     "https://es.wikipedia.org/wiki/Conflicto_armado_interno_de_Per%C3%BA",
+     "https://en.wikipedia.org/wiki/Internal_conflict_in_Peru"
+    ]
+   }
+  },
+  {
+   "id": "machu-picchu",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Machu Picchu</b> es la ciudad inca más famosa. Se alza a 2.438 metros sobre el mar, en la cresta entre las montañas Machu Picchu y Huayna Picchu, 450 metros por encima del cañón del Urubamba y a 80 km del Cuzco. Hacia <b>1450</b> el inca <b>Pachacútec</b>, que había conquistado la zona hacia 1430, mandó construir aquí un complejo de lujosos edificios civiles y religiosos, probablemente residencia de descanso y santuario. Vivían en él entre 300 y 1.000 personas de la élite y su servicio.</p><p>Tras la conquista quedó dentro de haciendas y casi olvidado. Cuzqueños como <b>Agustín Lizárraga</b>, que en 1902 dejó su firma en el templo de las Tres Ventanas, conocían las ruinas, pero fue el profesor estadounidense <b>Hiram Bingham</b>, guiado por los lugareños, quien las dio a conocer al mundo tras su visita de <b>1911</b>; entre 1912 y 1915 dirigió excavaciones con la Universidad de Yale y la National Geographic.</p><p>El núcleo, de unos 530 por 200 metros, reúne 172 edificios en torno a una gran plaza, con terrazas de cultivo en las laderas. No hay que perderse el <b>Intihuatana</b>, en lo alto de una colina, el <b>templo del Sol</b>, sobre una roca labrada que da paso al llamado Mausoleo Real, y el <b>templo de las Tres Ventanas</b>. Es Patrimonio de la Humanidad desde 1983 y en 2007 fue elegida una de las <b>nuevas siete maravillas del mundo</b>. Las piezas que Bingham se llevó a Yale volvieron entre 2011 y 2012 y se exponen en el <b>Museo Machu Picchu - Casa Concha</b>, en Cuzco.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Machu_Picchu",
+     "https://en.wikipedia.org/wiki/Machu_Picchu"
+    ]
+   }
+  },
+  {
+   "id": "centro-historico-de-lima",
+   "campos": {
+    "texto": {
+     "general": "<p>Francisco Pizarro fundó la <b>Ciudad de los Reyes</b> el <b>18 de enero de 1535</b>, y Lima fue durante casi tres siglos la capital del virreinato del Perú. Su centro histórico es Patrimonio de la Humanidad (el convento de San Francisco desde 1988 y todo el conjunto desde 1991) y reúne más de 600 monumentos pese a los graves daños de los terremotos.</p><p>En la <b>plaza Mayor</b> están la <b>catedral</b>, iniciada por el propio Pizarro en 1535 y acabada en 1797, donde un mausoleo guarda los restos auténticos del conquistador, identificados en 1977; el palacio arzobispal y el palacio de Gobierno. Por todo el centro se ven los famosos <b>balcones de madera</b> virreinales y republicanos.</p><p>No hay que perderse el <b>convento de San Francisco</b>, con su biblioteca de unos 20.000 volúmenes antiguos y sus <b>catacumbas</b>, antiguo cementerio colonial lleno de huesos. Al otro lado del río Rímac, unido por el Puente de Piedra, siguen el barrio virreinal, la Alameda de los Descalzos y la plaza de toros de Acho.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Centro_hist%C3%B3rico_de_Lima",
+     "https://en.wikipedia.org/wiki/Lima_Cathedral",
+     "https://es.wikipedia.org/wiki/Bas%C3%ADlica_y_convento_de_San_Francisco_(Lima)"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-santa-catalina-ib",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>monasterio de Santa Catalina de Siena</b> es una pequeña ciudad dentro de Arequipa: ocupa 20.426 m² rodeados de altos muros de sillar. Se fundó el <b>10 de septiembre de 1579</b>, con licencia del virrey Francisco de Toledo, y su primera priora fue la viuda <b>María de Guzmán</b>; las primeras monjas tomaron el hábito el 2 de octubre de 1580.</p><p>Las religiosas eran criollas y mestizas de familias ricas, que pagaban una dote elevada; las «monjas pobres» recibían ayuda de los vecinos. Como era un monasterio «privado», cada monja podía comprar un trozo de terreno y construirse su celda, por lo que no hay dos iguales; a mediados del siglo XVIII vivían allí más de 300 mujeres entre monjas y criadas. Así se formó, a lo largo de casi tres siglos, un laberinto de calles, plazas, claustros y celdas, muestrario de la arquitectura colonial arequipeña en <b>sillar</b>, la piedra volcánica blanca del Chachani y rosada del Misti. Permaneció cerrado al mundo hasta <b>1970</b>, cuando abrió gran parte al público; en el sector oeste aún viven monjas.</p><p>Hay que ver sus callejas de muros pintados de colores vivos y llenas de flores, el patio del Silencio, la capilla con un altar barroco dorado y pinturas de la escuela cusqueña, y el altar de la beata <b>sor Ana de los Ángeles Monteagudo</b>. El centro histórico de Arequipa es Patrimonio de la Humanidad desde 2000.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Catalina_(Arequipa)",
+     "https://en.wikipedia.org/wiki/Santa_Catalina_Monastery",
+     "https://es.wikipedia.org/wiki/Centro_hist%C3%B3rico_de_Arequipa"
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-sican",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Nacional Sicán</b>, a la salida de Ferreñafe y a unos 20 km de Chiclayo, se inauguró el 20 de marzo de 2001 con ayuda económica y científica del gobierno de Japón. Está dedicado a la <b>cultura sicán o lambayeque</b>, heredera de los moche, que floreció en la costa norte del Perú entre los años 700 y 1300 aproximadamente, hasta caer bajo el dominio chimú.</p><p>Su gran tesoro es la <b>tumba del Señor de Sicán</b>, que el arqueólogo japonés <b>Izumi Shimada</b> desenterró intacta entre 1991 y 1992 en la Huaca del Oro (o Loro) de Batán Grande. En un pozo de 12,5 metros de profundidad yacía un hombre de 40 a 45 años, de los siglos XI-XII, cubierto de cinabrio y colocado <b>cabeza abajo</b>, con las piernas hacia arriba, junto a dos mujeres jóvenes y dos niñas. Llevaba una <b>máscara funeraria de oro</b>, orejeras y aretes; el ajuar pesaba unos 1.200 kilos, tres cuartas partes en objetos de metal.</p><p>El museo reproduce la tumba y explica la metalurgia sicán: la fundición a gran escala del <b>cobre arsenical</b>, más dúctil y resistente que el cobre puro, y el trabajo del oro en láminas para máscaras y cuchillos ceremoniales (<i>tumis</i>). Muy cerca, en el bosque de Pómac, se alzan las pirámides de adobe de Batán Grande.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Museo%20Nacional%20Sic%C3%A1n%2C%20Ferre%C3%B1afe",
+     "https://es.wikipedia.org/wiki/Museo_Nacional_Sic%C3%A1n",
+     "https://es.wikipedia.org/wiki/Se%C3%B1or_de_Sic%C3%A1n",
+     "https://en.wikipedia.org/wiki/Sican_culture"
+    ]
+   }
+  },
+  {
+   "id": "pampa-de-ayacucho",
+   "campos": {
+    "texto": {
+     "general": "<p>En la <b>pampa de Quinua</b>, a 3.400 metros de altitud y a 37 km de la ciudad de Ayacucho, se libró el <b>9 de diciembre de 1824</b> la <b>batalla de Ayacucho</b>. El Ejército Unido Libertador, de peruanos y grancolombianos al mando de <b>Antonio José de Sucre</b>, venció al ejército realista; a la una de la tarde el virrey <b>José de la Serna</b> ya había caído herido y prisionero. Los independentistas eran entre 5.780 y 8.500 soldados con una o dos piezas de artillería; los realistas, entre 6.900 y 9.300, con once a catorce cañones.</p><p>Tras la batalla, los jefes realistas firmaron la <b>capitulación de Ayacucho</b>, que selló la independencia del Perú y puso fin al último gran ejército español en Sudamérica, aunque la fortaleza del Callao resistió hasta 1826. Desde 1980 el campo es el <b>Santuario Histórico de la Pampa de Ayacucho</b>, de 300 hectáreas.</p><p>En el centro se levanta un <b>obelisco de mármol de 44 metros</b>, obra del artista español Aurelio Bernandino Arias, elegido en un concurso de 1968 para el 150 aniversario de la batalla. A sus pies, estatuas de bronce de 3 metros representan a los generales Sucre, Gamarra, La Mar, Córdova, Lara y Miller. El lugar forma parte del circuito turístico Ayacucho-Wari-Quinua.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Obelisco%2C%20Quinua%2C%20Ayacucho",
+     "https://es.wikipedia.org/wiki/Santuario_hist%C3%B3rico_de_la_Pampa_de_Ayacucho",
+     "https://es.wikipedia.org/wiki/Batalla_de_Ayacucho"
+    ]
+   }
+  },
+  {
+   "id": "cajamarca-el-cuarto-del-rescate",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Cuarto del Rescate</b>, a solo 50 metros de la plaza de Armas de Cajamarca, es el <b>único resto inca que queda en la ciudad</b>. La tradición lo identifica con el recinto donde estuvo preso el inca <b>Atahualpa</b> entre el 16 de noviembre de 1532 y el 26 de julio de 1533, aunque se discute si fue exactamente la habitación del rescate.</p><p>Pizarro llegó a Cajamarca el 15 de noviembre de 1532 con 168 hombres y 62 caballos; el ejército de Atahualpa, de unos 30.000 hombres, acampaba en Pultumarca, los actuales <b>Baños del Inca</b>, de aguas termales. Al día siguiente, en la plaza, los españoles capturaron al inca en medio de una matanza. Preso, Atahualpa ofreció llenar una habitación de oro «hasta donde alcanzara su mano», y dos veces de plata. Se reunió oro de todo el imperio, gran parte del Coricancha de Cuzco, y en 1533 se fundieron unos 6.100 kilos de oro y 11.700 de plata. Aun así, los españoles lo condenaron a muerte y lo ejecutaron el 26 de julio de 1533.</p><p>Del edificio, de piedra volcánica, se conservan los cuatro muros; el techo es moderno. En una pared, una <b>marca roja</b> señala la altura hasta la que se supone que llegó la mano del inca, y unas placas reproducen los relatos de los cronistas Francisco de Xerez y Cristóbal de Mena.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Cuarto_del_Rescate",
+     "https://es.wikipedia.org/wiki/Batalla_de_Cajamarca"
+    ],
+    "ver_alli": [
+     "Está en el centro de la ciudad, a 50 metros de la plaza de Armas.",
+     "Combínalo con los Baños del Inca, a pocos kilómetros, donde acampaba el ejército de Atahualpa."
+    ]
+   }
+  },
+  {
+   "id": "kuelap",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Kuélap</b> es la gran ciudadela de la cultura <b>chachapoyas</b>, en lo alto del cerro Barreta, a 3.000 metros de altitud, sobre el valle del Utcubamba, en el norte del Perú. Su construcción empezó hacia el siglo XI y estuvo ocupada hasta mediados del XVI. Permaneció casi ignorada hasta el 31 de enero de 1843, cuando el juez de Chachapoyas Juan Crisóstomo Nieto la visitó guiado por los lugareños.</p><p>Es una enorme plataforma artificial de casi 600 metros de largo rodeada por una <b>muralla que alcanza 19 metros de altura</b>. Dentro hay <b>421 construcciones</b>, todas circulares salvo cinco: casas, templos y espacios ceremoniales. Algunos muros llevan <b>frisos de rombos y zigzag</b> protegidos por cornisas, y en muros y casas se han hallado numerosos enterramientos. Destacan el <b>Templo Mayor</b>, un cono truncado invertido de 13,5 metros de diámetro en lo alto, usado como osario, y el Torreón, en el extremo norte, sobre el abismo.</p><p>Desde el 2 de marzo de 2017 se llega en el <b>teleférico</b> que sale de Nuevo Tingo, el primero del Perú: 4 km en unos 20 minutos, cruzando el río Tingo. También se puede subir a pie desde El Tingo. Desde lo alto se ven las montañas y los bosques nubosos. En abril de 2022 se derrumbó un tramo de la muralla, y el Ministerio de Cultura trabaja para evitar nuevos desplomes.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Ku%C3%A9lap",
+     "https://en.wikipedia.org/wiki/Ku%C3%A9lap",
+     "https://es.wikipedia.org/wiki/Telef%C3%A9rico_de_Ku%C3%A9lap"
+    ]
+   }
+  },
+  {
+   "id": "ollantaytambo",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Ollantaytambo</b>, a 2.792 metros en el Valle Sagrado de los Incas, fue desde mediados del siglo XV una finca real del inca <b>Pachacútec</b>, que arrasó el pueblo anterior y lo reconstruyó con lujosos edificios, terrazas y canales de riego. Su trazado inca, con cuatro calles longitudinales cruzadas por siete paralelas en torno a una gran plaza, sigue en uso, y algunas de sus casas están entre las viviendas habitadas sin interrupción más antiguas de Sudamérica.</p><p>Durante la conquista fue la capital provisional de <b>Manco Inca</b>, jefe de la resistencia. En <b>1537</b>, en la llanura de Mascabamba, derrotó aquí a una expedición española desde lo alto de las terrazas e inundando la llanura. Aun así, al año siguiente se retiró a Vilcabamba.</p><p>Sobre el pueblo, la colina del Templo, llamada erróneamente «la fortaleza», tiene las monumentales terrazas de Pumatallis y el inacabado <b>templo del Sol</b>, con el <b>muro de los seis monolitos</b> de riolita rosada, traída de las canteras de Kachiqhata, a 5 km, al otro lado del Urubamba. En la ladera de enfrente, en Pinkuylluna, están los <b>almacenes</b> incas (<i>qollqas</i>), construidos en altura, donde el viento y el frío conservaban mejor el grano, y con un sistema de ventilación.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ollantaytambo",
+     "https://es.wikipedia.org/wiki/Ollantaytambo"
+    ]
+   }
+  },
+  {
+   "id": "sillustani",
+   "campos": {
+    "texto": {
+     "general": "<p>En una península de la <b>laguna Umayo</b>, en el distrito de Atuncolla, a algo más de 30 km de Puno, se alzan las <b>chullpas</b>: torres funerarias de piedra en forma de cono invertido donde los señores del altiplano enterraban a sus muertos. Es el ejemplo mejor conservado de este tipo de tumbas en todo el altiplano. La más famosa, la <b>chullpa del Lagarto</b>, mide unos <b>12 metros</b> y debe su nombre al relieve de un lagarto en uno de sus bloques.</p><p>El conjunto lo levantó sobre todo el pueblo <b>colla</b>, entre 1200 y 1450, antes de que los incas conquistaran la región en el siglo XV. Las torres más cuidadas, de bloques labrados encajados sin argamasa y con una cornisa en lo alto, son de época incaica; algunas tienen relieves de lagartos y serpientes. Sus únicas aberturas miran al este, por donde se creía que el Sol renacía cada día. Muchas fueron dinamitadas por saqueadores y otras quedaron sin terminar: junto a una se conserva la rampa por la que subían las piedras.</p><p>En 1971 apareció junto a la chullpa del Lagarto el <b>Tesoro de Sillustani</b>, con 501 piezas de oro, que se expone en el Museo Municipal Carlos Dreyer de Puno.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Sillustani",
+     "https://en.wikipedia.org/wiki/Sillustani",
+     "https://www.openstreetmap.org/search?query=Sillustani"
+    ]
+   }
+  },
+  {
+   "id": "caral",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Caral</b>, en el valle de Supe, a unos 182 km al norte de Lima y a 23 km del mar, fue la principal ciudad de la <b>civilización caral</b>, la más antigua de América, que se desarrolló entre el 3000 y el 1800 a. C., unos 1.500 años antes que los olmecas. Sus pirámides se levantaron hacia el <b>2600 a. C.</b>, al mismo tiempo que las de Egipto. Es Patrimonio de la Humanidad desde 2009 como «Ciudad Sagrada de Caral-Supe».</p><p>La arqueóloga <b>Ruth Shady</b> reidentificó el sitio en 1994 y empezó a excavarlo en 1996; en 2001 una serie de dataciones por radiocarbono, publicada en la revista <i>Science</i>, confirmó su enorme antigüedad. En sus 66 hectáreas hay seis grandes conjuntos con pirámide, plaza y viviendas. La <b>Pirámide Mayor</b> mide 150 por 110 metros y 28 de altura, y el <b>Templo del Anfiteatro</b> tiene la mayor <b>plaza circular hundida</b> de la ciudad, de 29 metros de diámetro. Aparecieron 32 flautas de hueso de pelícano y de cóndor y decenas de cornetas de hueso de ciervo y camélido. No se han hallado murallas ni armas: su dominio regional parece haber sido pacífico.</p><p>La ciudad se fue abandonando hacia el 1800 a. C., quizá por terremotos y por el fenómeno de El Niño, y sus edificios se enterraron. Hoy sufre invasiones de terrenos en su zona protegida.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Caral",
+     "https://en.wikipedia.org/wiki/Caral"
+    ]
+   }
+  },
+  {
+   "id": "hazor",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Tel Hazor</b>, en la Alta Galilea, es el mayor yacimiento arqueológico del norte de Israel: una acrópolis de 12 hectáreas y una ciudad baja de más de 70. Desde la Edad del Bronce Medio, hacia 1750 a. C., hasta el siglo IX a. C. fue la mayor ciudad fortificada de la región. El libro de Josué la llama «cabeza de todos aquellos reinos», y aparece en las <b>cartas de Amarna</b>, donde su rey Abdi-Tirshi jura lealtad al faraón hacia 1350 a. C.</p><p>La gran ciudad cananea, con templos y palacios de tradición siria, fue <b>destruida e incendiada</b> a finales de la Edad del Bronce, en el siglo XIII a. C.; la Biblia lo atribuye a Josué, y otros estudiosos a luchas internas o al colapso general del Mediterráneo. Los reyes de Israel la reconstruyeron: de mediados del siglo X a. C. es una <b>puerta de seis cámaras</b> que muchos atribuyen a Salomón, y del IX el gran <b>sistema de agua</b>, con un pozo excavado en la roca y un túnel hasta la capa freática. El asirio Tiglatpileser III la destruyó en el siglo VIII a. C.</p><p>La excavaron Yigael Yadin (1955-1958) y, desde 1990, Amnon Ben-Tor con la Universidad Complutense de Madrid. Lo más llamativo es bajar al pozo de agua por su escalera. Desde 2005 es Patrimonio de la Humanidad, junto con Megido y Beerseba. Los hallazgos están en el museo del kibutz Ayelet HaShahar y en el Museo de Israel.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Tel_Hazor",
+     "https://es.wikipedia.org/wiki/Tel_Hazor"
+    ]
+   }
+  },
+  {
+   "id": "basilica-de-la-natividad",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>basílica de la Natividad</b>, en Belén, se levanta sobre la gruta donde la tradición sitúa el nacimiento de Jesús, el lugar de culto cristiano en uso continuo más antiguo; es además la iglesia mayor más antigua de Tierra Santa. La mandó construir el emperador <b>Constantino</b> tras la visita de su madre, Helena, en 325-326: ya estaba en uso en 333 y se consagró el 31 de mayo de 339.</p><p>Aquel templo ardió en una revuelta samaritana, en 529 o 556, y el emperador <b>Justiniano</b> lo reconstruyó en el siglo VI con la forma que conserva: una nave central con cuatro laterales y una cabecera de tres ábsides. Según la leyenda, los persas que tomaron la región en 614 la respetaron al ver en la fachada a los Reyes Magos vestidos como sacerdotes persas. Los cruzados la decoraron con mosaicos, en parte conservados, y en época mameluca se tapió la entrada hasta dejar la baja <b>puerta de la Humildad</b>. Desde 1852 la comparten católicos, ortodoxos griegos y armenios según el llamado <i>Statu quo</i>.</p><p>En la gruta, una estrella de plata marca el lugar del nacimiento, y unas galerías la unen con la iglesia católica de <b>Santa Catalina</b> y la cueva de <b>San Jerónimo</b>. En 2012 fue el primer lugar de Palestina inscrito como Patrimonio de la Humanidad, y entre 2013 y 2019 se restauró a fondo.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Church_of_the_Nativity",
+     "https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_la_Natividad"
+    ]
+   }
+  },
+  {
+   "id": "ciudad-de-david-y-tunel-de-ezequias",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Ciudad de David</b> es el núcleo original de Jerusalén en la Edad del Bronce y del Hierro: una estrecha loma al sur del monte del Templo, entre los valles del Cedrón y del Tiropeón. Su nombre viene del relato bíblico en el que el rey David conquista la ciudad, entonces Jebús, a los jebuseos. Junto al <b>manantial de Guijón</b> se han hallado defensas de la Edad del Bronce Medio, y de la Edad del Hierro dos estructuras monumentales: la Gran Estructura de Piedra y la Estructura de Piedra Escalonada.</p><p>Lo más famoso es el <b>túnel de Siloé</b> o <b>de Ezequías</b>, de 533 metros, excavado en la roca para llevar el agua del Guijón al estanque de Siloé con un desnivel de solo 30 centímetros. Se atribuye al rey <b>Ezequías</b> de Judá, que según la Biblia desvió las aguas para negárselas a los asirios de <b>Senaquerib</b>, que sitiaron la ciudad en el 701 a. C. Lo abrieron dos equipos, uno desde cada extremo, hasta encontrarse en medio, como cuenta la <b>inscripción de Siloé</b>, hallada en 1880 y hoy en el Museo Arqueológico de Estambul.</p><p>Hoy es un parque arqueológico gestionado por la fundación Ir David en el barrio palestino de Silwan, entrelazado con un asentamiento israelí, lo que lo hace polémico. Se puede recorrer el túnel con agua por las rodillas.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/City_of_David_(archaeological_site)",
+     "https://en.wikipedia.org/wiki/Siloam_tunnel",
+     "https://en.wikipedia.org/wiki/Siloam_inscription"
+    ]
+   }
+  }
+ ]
+}
