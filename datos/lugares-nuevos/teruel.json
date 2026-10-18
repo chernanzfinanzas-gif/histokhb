@@ -1,0 +1,827 @@
+{
+ "zona": "Teruel",
+ "nuevos": [
+  {
+   "id": "iglesia-de-san-pedro-teruel",
+   "nombre": "Iglesia de San Pedro y Mausoleo de los Amantes (Teruel)",
+   "provincia": "Teruel",
+   "comarca": "Teruel",
+   "lat": 40.3426,
+   "lon": -1.1061,
+   "tipo": "iglesia",
+   "estilo": "Mudéjar y gótico-mudéjar",
+   "epoca": "Mudéjar",
+   "anio": 1392,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>La <b>torre de San Pedro</b>, levantada en el último tercio del siglo XIII, es el ejemplo más antiguo del mudéjar turolense. La iglesia actual se empezó en <b>1392</b>, por orden del arzobispo García Fernández de Heredia: una sola nave de cinco tramos con bóvedas de crucería, en ladrillo, a la que se suma un <b>claustro gótico-mudéjar</b> de la segunda mitad del siglo XIV.</p><p>Entre 1896 y 1902, Pablo Monguió y Salvador Gisbert la vistieron por dentro con una decoración <b>modernista neomudéjar</b>, que es la que hoy sorprende al entrar. Desde <b>1986</b> forma parte del mudéjar de Teruel, Patrimonio de la Humanidad.</p><p>En el siglo XVI aparecieron bajo el suelo de una capilla lateral dos momias que la tradición identificó con <b>Isabel de Segura y Diego de Marcilla</b>, los Amantes de Teruel. En 1955 se trasladaron a dos sepulcros de alabastro esculpidos por <b>Juan de Ávalos</b>, y desde 2005 se visitan en el Mausoleo, un espacio museístico anexo a la iglesia.</p><p class=\"dato\"><span>¿Sabías que…?</span>Bajo el patio del Mausoleo pasa una galería subterránea de la traída de aguas del siglo XVI, la misma de los Arcos.</p>"
+   },
+   "ver_alli": [
+    "La torre mudéjar, la más antigua de Teruel.",
+    "Los sepulcros de alabastro de los Amantes, de Juan de Ávalos.",
+    "El interior neomudéjar de 1896-1902 y el claustro."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Pedro_(Teruel)",
+    "https://es.wikipedia.org/wiki/Amantes_de_Teruel"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "torre-de-el-salvador-teruel",
+   "nombre": "Torre de El Salvador (Teruel)",
+   "provincia": "Teruel",
+   "comarca": "Teruel",
+   "lat": 40.342,
+   "lon": -1.108,
+   "tipo": "monumento",
+   "estilo": "Mudéjar",
+   "epoca": "Mudéjar",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Levantada en el <b>siglo XIV</b>, la torre de El Salvador es una de las joyas del mudéjar turolense. Imita la estructura de los alminares almohades: en realidad son <b>dos torres cuadradas, una dentro de otra</b>, con la escalera entre ambas. La interior guarda tres pisos superpuestos con bóveda de crucería, y arriba está el campanario.</p><p>Por fuera se decora con ladrillo y <b>cerámica vidriada en verde y blanco</b>, arcos mixtilíneos y paños de sebka (una red de rombos). En las paredes enyesadas del interior se conservan <b>grafitos de la época en que se construyó</b>.</p><p>Restaurada entre 1991 y 1993, fue la primera torre mudéjar visitable de Teruel y alberga el Centro de Interpretación de la Arquitectura Mudéjar Turolense. Forma parte del mudéjar de Teruel, Patrimonio de la Humanidad desde <b>1986</b>.</p>"
+   },
+   "ver_alli": [
+    "Subir los 122 escalones entre las dos torres hasta el campanario.",
+    "Los paños de sebka y la cerámica verde y blanca.",
+    "Los grafitos medievales de las paredes interiores."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Torre_del_Salvador",
+    "https://www.spain.info/es/lugares-interes/iglesia-torre-salvador/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "torre-de-san-martin-teruel",
+   "nombre": "Torre de San Martín (Teruel)",
+   "provincia": "Teruel",
+   "comarca": "Teruel",
+   "lat": 40.3442,
+   "lon": -1.1092,
+   "tipo": "monumento",
+   "estilo": "Mudéjar",
+   "epoca": "Mudéjar",
+   "anio": 1315,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Gemela en traza y decoración de la de El Salvador, la torre de San Martín se construyó entre <b>1315 y 1316</b>. Sigue el esquema de los alminares almohades, con dos torres cuadradas concéntricas y la escalera entre ellas, y es además una <b>torre-puerta</b>: la calle pasa por debajo, a través de un arco apuntado.</p><p>Se reviste de ladrillo y cerámica vidriada. Hacia <b>1550</b> hubo que rehacer su parte baja, carcomida por la humedad; de esa obra se encargó el arquitecto francés Pierres Vedel, que luego levantaría el acueducto de los Arcos.</p><p>Toma el nombre de la iglesia de San Martín, de época barroca, a la que está unida. Desde <b>1986</b> es parte del mudéjar de Teruel, Patrimonio de la Humanidad.</p>"
+   },
+   "ver_alli": [
+    "El arco apuntado por el que pasa la calle.",
+    "La decoración de cerámica vidriada en la parte alta.",
+    "Compararla con la torre de El Salvador, su gemela."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Torre_de_San_Mart%C3%ADn",
+    "https://es.wikipedia.org/wiki/Acueducto_de_los_Arcos",
+    "https://www.spain.info/es/lugares-interes/iglesia-torre-salvador/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "acueducto-de-los-arcos-teruel",
+   "nombre": "Acueducto de los Arcos (Teruel)",
+   "provincia": "Teruel",
+   "comarca": "Teruel",
+   "lat": 40.3457,
+   "lon": -1.1062,
+   "tipo": "monumento",
+   "estilo": "Renacimiento",
+   "epoca": "Renacimiento",
+   "anio": 1554,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Teruel tardó en traer agua corriente: las obras empezaron en 1537 y se abandonaron por su coste. En <b>1551</b> el Concejo se las encargó al arquitecto francés <b>Pierres Vedel</b>, que en <b>1554</b> concluyó Los Arcos, y en 1558 el agua llegaba por fin a la fuente de la plaza Mayor.</p><p>Los Arcos son la pieza más vistosa de una conducción de varios kilómetros, con miles de arcaduces de cerámica, arquetas y minas. Tienen <b>dos niveles</b>, seis arcos arriba y dos abajo, y una <b>doble función</b>: por arriba corría el agua y por abajo pasaba la gente, salvando el barranco del noreste de la ciudad. Su aire de obra clásica, inspirada en los acueductos romanos, es puro Renacimiento.</p><p>En la Guerra Civil se hundieron algunos arcos, restaurados después. Es Bien de Interés Cultural desde 2007.</p><p class=\"dato\"><span>¿Sabías que…?</span>La red llegó a tener 14 puntos de agua en la ciudad.</p>"
+   },
+   "ver_alli": [
+    "Cruzar el paso peatonal del nivel bajo.",
+    "Los dos pisos de arcos vistos desde la ronda."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Acueducto_de_los_Arcos"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-peracense",
+   "nombre": "Castillo de Peracense",
+   "provincia": "Teruel",
+   "comarca": "Jiloca",
+   "lat": 40.6368,
+   "lon": -1.4801,
+   "tipo": "castillo",
+   "estilo": "Medieval",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1284,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Encaramado a un peñasco de <b>rodeno</b>, la arenisca roja del lugar, el castillo de Peracense parece brotar de la roca, de la que toma su color. El cerro ya se ocupó en la Edad del Bronce y en época andalusí, pero la fortaleza que vemos es sobre todo del <b>siglo XIV</b>.</p><p>Era una plaza clave en la <b>frontera entre Aragón y Castilla</b>. Hacia 1170 el rey Lobo lo cedió a Pedro Ruiz de Azagra, y Aragón la tomó en 1284. Tras la guerra de los Dos Pedros perdió importancia y acabó como prisión.</p><p>Tiene <b>tres recintos</b>: uno exterior con muralla almenada, uno intermedio con los antiguos cuarteles y uno interior en tres terrazas sobre el pico más alto, al que se subía por una escalera móvil que se retiraba en caso de ataque. La DGA lo restauró desde 1987.</p><p class=\"dato\"><span>¿Sabías que…?</span>En las excavaciones apareció una cantera de rodeno de la que se sacaban piedras de molino.</p>"
+   },
+   "ver_alli": [
+    "La muralla roja fundida con la roca.",
+    "Las réplicas de máquinas de asedio en los patios.",
+    "Las vistas sobre el valle del Jiloca."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Peracense"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-mora-de-rubielos",
+   "nombre": "Castillo de Mora de Rubielos",
+   "provincia": "Teruel",
+   "comarca": "Gúdar-Javalambre",
+   "lat": 40.2531,
+   "lon": -0.7527,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1198,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Sobre una antigua fortaleza musulmana, en la sierra de Gúdar, se alza uno de los mayores castillos de Aragón. Se cita en <b>1198</b>, cuando Pedro II lo entregó a Pedro Ladrón, y en el <b>siglo XIV</b> la familia <b>Fernández de Heredia</b> lo transformó de fortaleza militar en palacio señorial.</p><p>Por fuera es severo, de sillería y con <b>cuatro torres</b> y cuatro fachadas distintas entre sí; por dentro se organiza en torno a un <b>patio porticado con arcos apuntados</b>, uno de los mejores ejemplos del gótico mediterráneo aragonés. Tiene capilla, mazmorras y bodegas.</p><p>Después fue convento franciscano, cárcel y cuartel. Monumento histórico-artístico desde 1931, se restaura desde 1972.</p>"
+   },
+   "ver_alli": [
+    "El patio gótico porticado.",
+    "La capilla, en una de las torres.",
+    "Los escudos de los Fernández de Heredia."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Mora_de_Rubielos",
+    "https://www.elespanol.com/aragon/vivir/20260729/castillo-palacio-medieval-grande-aragon-construccion-majestuosa-m2-grandes-torres-trt/1003744336240_0.html",
+    "https://www.spain.info/es/lugares-interes/castillo-mora-rubielos/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "rubielos-de-mora",
+   "nombre": "Rubielos de Mora",
+   "provincia": "Teruel",
+   "comarca": "Gúdar-Javalambre",
+   "lat": 40.1902,
+   "lon": -0.6531,
+   "tipo": "poblacion",
+   "estilo": "Gótico, renacentista y barroco",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Villa de piedra al pie de la sierra de Gúdar, citada ya en el siglo XII y crecida con la repoblación del XIII. Su casco es <b>conjunto histórico-artístico desde 1980</b> y en <b>1983</b> recibió el premio <b>Europa Nostra</b>.</p><p>De las siete puertas de la muralla quedan dos: el <b>portal de San Antonio</b> y el <b>portal del Carmen</b>, con capilla barroca. En el centro, la casa consistorial renacentista del siglo XVI, que fue lonja; la iglesia barroca de Santa María la Mayor, con una campana de 1476; y el convento de Carmelitas Descalzas, fundado en 1608.</p><p>Las calles están llenas de casonas con escudo, como la de los Condes de Florida, con galería de doce arcos, o la de los Condes de Creixell, que fue cuartel del general Cabrera en las guerras carlistas.</p><p class=\"dato\"><span>¿Sabías que…?</span>Muchos dinteles llevan símbolos tallados, entre ellos una tau templaria.</p>"
+   },
+   "ver_alli": [
+    "Los portales de San Antonio y del Carmen.",
+    "El ayuntamiento renacentista y su patio.",
+    "Los símbolos tallados en los dinteles de las casas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Rubielos_de_Mora"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-valderrobres",
+   "nombre": "Castillo de Valderrobres",
+   "provincia": "Teruel",
+   "comarca": "Matarraña",
+   "lat": 40.876,
+   "lon": 0.155,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1382,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Más palacio que fortaleza, el castillo de Valderrobres corona la villa del Matarraña. Su origen se remonta probablemente a finales del siglo XII, cuando el lugar pasó al <b>arzobispado de Zaragoza</b>, que lo tuvo hasta principios del XIX.</p><p>Su gran obra se hizo con dos arzobispos: <b>García Fernández de Heredia</b> (1382-1411), que empezó a convertirlo en palacio episcopal y llenó sus muros de escudos, y <b>Dalmau de Mur</b> (1431-1456), que rehízo la segunda planta y la parte alta. Tiene puerta de arco ojival, ventanas ajimezadas y salones de arcos de medio punto.</p><p>Declarado Monumento Nacional en <b>1931</b>, su restauración empezó en 1977 y culminó en 2021. Hoy acoge exposiciones, congresos y conciertos.</p><p class=\"dato\"><span>¿Sabías que…?</span>Se construyó alrededor de una roca natural que todavía asoma en la segunda planta.</p>"
+   },
+   "ver_alli": [
+    "La roca natural dentro de la segunda planta.",
+    "Los escudos del arzobispo Fernández de Heredia.",
+    "La vista de la villa y el río desde lo alto."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Valderrobres"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-los-calatravos-alcaniz",
+   "nombre": "Castillo de los Calatravos (Alcañiz)",
+   "provincia": "Teruel",
+   "comarca": "Bajo Aragón",
+   "lat": 41.0483,
+   "lon": -0.1326,
+   "tipo": "castillo",
+   "estilo": "Medieval y barroco",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1179,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>En <b>1179</b> el rey Alfonso II cedió el castillo de Alcañiz a la <b>Orden de Calatrava</b>, que hizo de él la sede de su encomienda mayor en la Corona de Aragón. Desde lo alto del cerro de Pui Pinos domina la ciudad.</p><p>De la parte medieval quedan la <b>torre del homenaje</b>, el claustro y la iglesia. La torre guarda un conjunto de <b>pinturas murales góticas</b> de carácter histórico-caballeresco, con escenas alegóricas religiosas y profanas. En el castillo está también el sepulcro de alabastro del comendador Juan de Lanuza, labrado por <b>Damián Forment</b> en 1537.</p><p>En el lado sur se levantó en el siglo XVIII el barroco <b>Palacio de los Comendadores</b>, que hoy es Parador de Turismo. El conjunto es monumento protegido desde 1925.</p>"
+   },
+   "ver_alli": [
+    "Las pinturas murales góticas de la torre del homenaje.",
+    "El sepulcro de Juan de Lanuza, de Damián Forment.",
+    "Las vistas sobre Alcañiz."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Alca%C3%B1iz",
+    "https://tourspain.es/export/sites/tourspain/.content/pdf/paradores/es/alcaniz-prtr.pdf",
+    "https://www.spain.info/es/lugares-interes/castillo-calatravos/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "colegiata-de-santa-maria-la-mayor-alcaniz",
+   "nombre": "Colegiata de Santa María la Mayor (Alcañiz)",
+   "provincia": "Teruel",
+   "comarca": "Bajo Aragón",
+   "lat": 41.0513,
+   "lon": -0.1325,
+   "tipo": "iglesia",
+   "estilo": "Barroco",
+   "epoca": "Barroco",
+   "anio": 1779,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Alcañiz tuvo en el siglo XIII una iglesia gótica, que el papa Luna, <b>Benedicto XIII</b>, elevó a colegiata en <b>1407</b>. De ella solo queda la gran <b>torre campanario gótica</b>. Allí se reunieron varias veces las Cortes de Aragón y el Parlamento de Alcañiz previo al Compromiso de Caspe de 1412.</p><p>En el siglo XVIII, con la vieja iglesia en mal estado, se derribó y se levantó un templo <b>barroco</b> inspirado en el Pilar de Zaragoza. Su fachada, terminada en <b>1779</b> según diseño de <b>Domingo de Yarza</b>, tiene dos torres y una portada con santos y arcángeles en torno a una gran imagen de la Virgen.</p><p>Dentro destacan la cúpula central de ladrillo, un políptico gótico atribuido al taller de Domingo Ram y el retablo mayor de mármol de Tomás Llovet (1818).</p>"
+   },
+   "ver_alli": [
+    "La portada de 1779 con la Virgen y los arcángeles.",
+    "La torre gótica, lo que queda de la iglesia medieval.",
+    "El retablo mayor de mármol."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_la_Mayor_(Alca%C3%B1iz)",
+    "https://es.wikipedia.org/wiki/Alca%C3%B1iz"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "cantavieja",
+   "nombre": "Cantavieja",
+   "provincia": "Teruel",
+   "comarca": "Maestrazgo",
+   "lat": 40.528,
+   "lon": -0.4053,
+   "tipo": "poblacion",
+   "estilo": "Medieval y barroco",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1225,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Sobre una muela del Maestrazgo, Cantavieja fue cedida a los <b>templarios en 1212</b>, que le dieron carta puebla en 1225, y en 1317 pasó a la Orden de San Juan. Su casco medieval es conjunto histórico-artístico desde 1981.</p><p>El corazón es la <b>plaza porticada de Cristo Rey</b>, con el ayuntamiento del siglo XVI y la gran iglesia barroca de la Asunción, ampliada entre 1730 y 1745 sobre un templo medieval del que conserva la torre y una portada.</p><p>En el siglo XIX fue un bastión carlista: en 1836 el general <b>Cabrera</b> la hizo capital de su comandancia del Maestrazgo, y en la tercera guerra carlista resistió hasta el 6 de julio de 1875. Lo cuenta el Museo de las Guerras Carlistas.</p>"
+   },
+   "ver_alli": [
+    "La plaza porticada de Cristo Rey.",
+    "La iglesia barroca de la Asunción.",
+    "El Museo de las Guerras Carlistas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Cantavieja"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "mirambel",
+   "nombre": "Mirambel",
+   "provincia": "Teruel",
+   "comarca": "Maestrazgo",
+   "lat": 40.5869,
+   "lon": -0.3425,
+   "tipo": "poblacion",
+   "estilo": "Medieval y renacentista",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1243,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Mirambel conserva casi intacto su recinto amurallado. Fue de la <b>Orden del Temple</b>, que le dio carta puebla en 1243, y después de la de San Juan. En <b>1980</b> se declaró Bien de Interés Cultural todo su casco y en <b>1981</b> recibió la Medalla de Oro de <b>Europa Nostra</b> por su restauración.</p><p>La muralla rodea toda la villa. Su puerta más famosa es el <b>Portal de las Monjas</b>, con sus celosías de yeso. Dentro hay casonas renacentistas, como la Casa de Aliaga y la Casa Castellot, y la casa consistorial, terminada en 1615.</p><p>La iglesia de Santa Margarita ya aparece en la carta puebla; un incendio la arrasó en 1837 y se rehízo en estilo barroco aprovechando sus muros y su torre.</p>"
+   },
+   "ver_alli": [
+    "El Portal de las Monjas y sus celosías.",
+    "La plaza de la Iglesia con el ayuntamiento.",
+    "Pasear la muralla y sus torres."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Mirambel"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-del-olivar-estercuel",
+   "nombre": "Monasterio de Nuestra Señora del Olivar (Estercuel)",
+   "provincia": "Teruel",
+   "comarca": "Andorra-Sierra de Arcos",
+   "lat": 40.886,
+   "lon": -0.6228,
+   "tipo": "iglesia",
+   "estilo": "Medieval, reformado en los siglos XVI-XVII",
+   "epoca": "Barroco",
+   "anio": 1258,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Según la tradición, un pastor halló aquí una imagen de la Virgen, y en <b>1258</b> llegaron los primeros <b>mercedarios</b>, a los que el señor del lugar, Gil de Atrosillo, cedió la ermita y unas tierras. El monasterio se reconstruyó en los siglos XVI y XVII.</p><p>Se recuperó como monasterio en 1878 y en 1881 pasó a noviciado, cuando se restauraron la iglesia y el claustro. Sufrió daños en la Guerra Civil y se volvió a restaurar.</p><p>Sigue en manos de la Orden de la Merced y hoy una parte funciona como casa de huéspedes.</p>"
+   },
+   "ver_alli": [
+    "La iglesia y el claustro.",
+    "La sala capitular y el refectorio.",
+    "El armario de la sacristía con San Pedro Nolasco."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Nuestra_Se%C3%B1ora_del_Olivar",
+    "https://monestirs.cat/monst/annex/espa/arago/Terol/eEl-Olivar.htm"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "puertomingalvo",
+   "nombre": "Puertomingalvo",
+   "provincia": "Teruel",
+   "comarca": "Gúdar-Javalambre",
+   "lat": 40.2648,
+   "lon": -0.4595,
+   "tipo": "poblacion",
+   "estilo": "Gótico y barroco",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1202,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Encaramado en lo alto de un cerro de Gúdar, Puertomingalvo es uno de los <b>Pueblos más bonitos de España</b> desde 2013. Su acta fundacional es de <b>1202</b>, y ese mismo año se cita su castillo con el nombre árabe de Avingalbón.</p><p>El <b>castillo</b>, sobre un espolón rocoso, es de las fortificaciones mejor conservadas del Maestrazgo. En el casco destacan la casa del Ayuntamiento, de los siglos XIV y XV, las casas de gótico levantino como la Casa Lloveros y la Casa Alta, y la iglesia barroca de la Asunción y San Blas, del siglo XVIII, cuyo campanario sirvió también de fortaleza.</p>"
+   },
+   "ver_alli": [
+    "El castillo sobre la roca.",
+    "El ayuntamiento gótico y sus ventanas.",
+    "Las casas de gótico levantino de la calle Mayor."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Puertomingalvo"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "la-iglesuela-del-cid",
+   "nombre": "La Iglesuela del Cid",
+   "provincia": "Teruel",
+   "comarca": "Maestrazgo",
+   "lat": 40.4818,
+   "lon": -0.3189,
+   "tipo": "poblacion",
+   "estilo": "Gótico, renacentista y barroco",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>En el siglo XII La Iglesuela pasó a los <b>templarios</b>, dentro de la bailía de Cantavieja, y tras su disolución a la Orden de San Juan. De su castillo queda el <b>Torreón de los Nublos</b>, del siglo XIV, hoy oficinas municipales. Su casco es Bien de Interés Cultural desde 1982.</p><p>Vivió una edad de oro en los siglos XVI y XVII. De entonces son el ayuntamiento, de finales del XV o principios del XVI; la <b>iglesia de la Purificación</b>, del XVII, con portada plateresca; y palacios como el de Aliaga o la <b>Casa Matutano-Daudén</b>, con su doble escalera monumental del XVIII, hoy Hospedería de Aragón.</p><p>El apellido «del Cid» viene de la tradición de que el Campeador mandó fortificar el lugar. A las afueras, la ermita de la Virgen del Cid, de 1546, reaprovecha en sus muros lápidas romanas.</p>"
+   },
+   "ver_alli": [
+    "La plaza con el ayuntamiento, la iglesia y el Torreón de los Nublos.",
+    "La escalera de la Casa Matutano-Daudén.",
+    "La ermita del Cid, con lápidas romanas en los muros."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/La_Iglesuela_del_Cid"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "calaceite",
+   "nombre": "Calaceite",
+   "provincia": "Teruel",
+   "comarca": "Matarraña",
+   "lat": 41.0165,
+   "lon": 0.1885,
+   "tipo": "poblacion",
+   "estilo": "Renacentista y barroco",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Calaceite es una de las villas de piedra más bonitas del Matarraña. Su plaza de España la preside el <b>ayuntamiento de 1609</b>, con la lonja y la antigua cárcel en la planta baja, y muy cerca se alza la <b>iglesia barroca de la Asunción</b>, de 1695, con tres naves.</p><p>La villa conserva varias <b>capillas-portal</b> levantadas sobre las antiguas puertas de la muralla, como la de San Antonio o la de la Virgen del Pilar, donde se cruzan ocho calles, además de la capilla renacentista de San Roque (1613).</p><p>Aquí nació el arqueólogo <b>Juan Cabré</b>, cuyo museo enseña su colección, y aquí vivió entre 1971 y 1975 el novelista chileno <b>José Donoso</b>. A un kilómetro está el poblado ibérico de San Antonio.</p>"
+   },
+   "ver_alli": [
+    "La plaza de España y el ayuntamiento.",
+    "El portal-capilla de la Virgen del Pilar.",
+    "El Museo Juan Cabré."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Calaceite"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "val-del-charco-del-agua-amarga",
+   "nombre": "Abrigo de Val del Charco del Agua Amarga (Alcañiz)",
+   "provincia": "Teruel",
+   "comarca": "Bajo Aragón",
+   "lat": 41.0666,
+   "lon": -0.019,
+   "tipo": "yacimiento",
+   "estilo": "Arte levantino",
+   "epoca": "Arte levantino y esquemático",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>En el curso bajo del Guadalope, a unos 14 km de Alcañiz, este abrigo guarda uno de los conjuntos clave del <b>arte levantino</b>. Las pinturas se descubrieron en <b>1913</b> y Juan Cabré las publicó en 1915.</p><p>Tras su limpieza y restauración se pasó de 73 a <b>109 figuras</b>: arqueros, un toro, ciervos y una mujer. Destaca un <b>arquero de gran tamaño</b>, de unos 130 cm de altura estimada, excepcional dentro de este estilo.</p><p>Forma parte del Arte rupestre del arco mediterráneo de la península Ibérica, Patrimonio de la Humanidad.</p>"
+   },
+   "ver_alli": [
+    "El abrigo está protegido por una reja; para verlo de cerca hay visitas guiadas concertadas.",
+    "Buscar el gran arquero, de más de un metro."
+   ],
+   "fuentes": [
+    "https://tp.revistas.csic.es/index.php/tp/article/download/643/665/718",
+    "https://zaguan.unizar.es/record/63260?ln=fr",
+    "https://www.spain.info/fr/curiosites/ravin-val-charco-agua-amarga/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-alcala-de-la-selva",
+   "nombre": "Castillo de Alcalá de la Selva",
+   "provincia": "Teruel",
+   "comarca": "Gúdar-Javalambre",
+   "lat": 40.3718,
+   "lon": -0.7214,
+   "tipo": "castillo",
+   "estilo": "Medieval",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1375,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>De origen musulmán, se cita en <b>1118</b> y Alfonso II lo recuperó en 1174. Pasó después a la abadía francesa de la Gran Selva Mayor, que dio a la villa su nombre actual, y en <b>1375</b> los monjes lo vendieron a los <b>Fernández de Heredia</b>, señores de Mora, que lo usaron como residencia ocasional.</p><p>Tiene planta poligonal de <b>37 por 15 metros</b> en torno a un gran patio, muros de piedra menuda con sillares en las esquinas y una <b>torre del homenaje</b> irregular dividida en tres salas, la central con bóveda de cañón apuntado.</p><p>En 1834 lo ocuparon los carlistas y el general O'Donnell lo atacó y lo dejó muy destruido.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje y su sala abovedada.",
+    "El patio rectangular.",
+    "Las vistas sobre la villa desde el cerro."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Alcal%C3%A1_de_la_Selva"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "poblado-iberico-el-cabo-andorra",
+   "nombre": "Poblado ibérico de El Cabo (Andorra)",
+   "provincia": "Teruel",
+   "comarca": "Andorra-Sierra de Arcos",
+   "lat": 40.9706,
+   "lon": -0.444,
+   "tipo": "yacimiento",
+   "estilo": "Ibérico",
+   "epoca": "Íberos",
+   "anio": -450,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Un pequeño poblado ibérico del <b>siglo V a. C.</b>, con unas <b>cincuenta casas</b> a lo largo de una calle central. Las mayores estaban en lo alto, protegidas por una muralla gruesa, escalonada por el sur y con un gran torreón rectangular en la esquina suroeste.</p><p>Se excavó en <b>1999</b>, cuando los movimientos de tierra de una mina cercana lo pusieron en peligro, y se <b>trasladó completo</b> a su emplazamiento actual. Lo que se visita es una réplica a tamaño natural levantada sobre los cimientos originales, que ayuda a imaginar cómo vivían los íberos.</p>"
+   },
+   "ver_alli": [
+    "Las casas reconstruidas a tamaño natural.",
+    "La muralla y el torreón suroeste.",
+    "La ermita de San Macario, al lado, con vistas sobre Andorra."
+   ],
+   "fuentes": [
+    "https://castillosenaragon.es/wp-content/uploads/2022/05/ASA.-1.-FICHA-ANDORRA-El-Cabo.pdf"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "rio-martin",
+   "campos": {
+    "lat": 41.0271,
+    "lon": -0.589,
+    "estilo": "Arte levantino y esquemático",
+    "texto": {
+     "general": "<p>El río Martín atraviesa el nordeste de la provincia de Teruel por gargantas y estrechos excavados en la caliza. A lo largo de su curso medio se reparten <b>unos veinte conjuntos de arte rupestre</b>, levantino y esquemático, entre Alacón, Ariño y otros pueblos; abrigos como la Covacha Ahumada, el de los Trepadores o el de los Borriquitos, en Alacón. Desde <b>1998</b> son Patrimonio de la Humanidad dentro del arte rupestre del arco mediterráneo.</p><p>Ese arte fue el germen del <b>Parque Cultural del Río Martín</b>: la asociación de municipios se constituyó en Montalbán en 1995 y hoy agrupa a Montalbán, Peñarroyas, Torre de las Arcas, Obón, Alcaine, Alacón, Oliete, Ariño y Albalate del Arzobispo, en unos 160 km².</p><p>El parque guarda mucho más: fósiles marinos del Jurásico, huellas de dinosaurio en Ariño, el poblamiento más antiguo de la zona en la cueva de Eudoviges (Alacón), del Paleolítico Medio, y el poblado ibérico del Cabezo de San Pedro, en Oliete.</p><p class=\"dato\"><span>¿Sabías que…?</span>El centro de interpretación de Ariño ocupa un antiguo colegio para hijos de mineros y lleva el nombre del prehistoriador Antonio Beltrán.</p>"
+    },
+    "ver_alli": [
+     "Empezar por el Centro de Arte Rupestre «Antonio Beltrán» de Ariño: copias a tamaño real de las pinturas y una maqueta que sitúa los abrigos.",
+     "Abrigos de Alacón, como la Covacha Ahumada o el de los Trepadores, con visitas concertadas a través del parque cultural.",
+     "Los barrancos y estrechos del río Martín, con colonias de buitres leonados."
+    ],
+    "fuentes": [
+     "https://www.prehistour.eu/portfolio-item/abrigos-rupestres-del-parque-cultural-del-rio-martin/",
+     "https://es.wikipedia.org/wiki/Parque_cultural_del_R%C3%ADo_Mart%C3%ADn",
+     "https://prehistour.eu/?p=5117",
+     "https://masterturismo.unizar.es/wp-content/uploads/2023/10/SALIDA-DE-CAMPO-PARQUE-CULTURAL-RIO-MARTIN.pdf",
+     "https://lamagiadeviajar.com/wp-content/uploads/old/articulos/pdf/LMV119-2.pdf",
+     "https://www.google.com/maps/place/?q=place_id:ChIJwZcEkJchXw0RbhdVFrKGSO8",
+     "https://www.openstreetmap.org/?mlat=41.0271&mlon=-0.589#map=18/41.0271/-0.589"
+    ]
+   }
+  },
+  {
+   "id": "albarracin-rodeno",
+   "campos": {
+    "lat": 40.3932,
+    "lon": -1.4015,
+    "estilo": "Arte levantino",
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/La_Cocinilla_del_Obispo",
+     "https://rupestre.art/es/caves/albarracin-rock-art",
+     "https://www.google.com/maps/place/?q=place_id:ChIJi4D4k4jEXQ0Rrubmn4IevWg",
+     "https://www.openstreetmap.org/?mlat=40.3932&mlon=-1.4015#map=18/40.3932/-1.4015"
+    ]
+   }
+  },
+  {
+   "id": "tormon",
+   "campos": {
+    "lat": 40.2223,
+    "lon": -1.3345,
+    "estilo": "Arte levantino",
+    "texto": {
+     "general": "<p>En el monte de «El Rodeno» de Tormón, entre pinos y areniscas rojas, se conocen casi <b>veinte abrigos con pinturas rupestres</b> del Neolítico, de hace unos 7.000 a 5.000 años. Los primeros, la Cerrada del Tío Jorge y la Ceja de Piezarrodilla, los estudiaron <b>Henri Breuil y Hugo Obermaier</b> en 1926, avisados por el párroco del pueblo.</p><p>El más famoso es el de las <b>Cabras Blancas</b>, descubierto en 1981: una escena de caza con cinco figuras humanas, algunas con arco, y siete cabras, varias atravesadas por flechas, pintadas en blanco sobre la roca oscura. Cerca está la <b>Paridera de Tormón</b>, hallada en 1996 por el guarda del parque cultural, con una cabra negra y una figura femenina en blanco.</p><p>Los abrigos forman parte del Parque Cultural de Albarracín y, con el resto del arte rupestre del arco mediterráneo, son <b>Patrimonio de la Humanidad desde 1998</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>En 1926 Breuil y Obermaier se alojaron en la casa del guarda forestal, a unas cuatro horas de camino de herradura desde Libros, donde paraba el autobús de Teruel.</p>"
+    },
+    "ver_alli": [
+     "Los cuatro abrigos del Prado de Tormón, junto a la Casa Forestal, vallados y con paneles: Cabras Blancas, Paridera, Cerrada del Tío Jorge y Ceja de Piezarrodilla.",
+     "El Sendero por el Arte Rupestre de Tormón, hacia el sur, con seis abrigos más señalizados, como los de la Hoya de los Navarejos.",
+     "Calzado de montaña: algún abrigo tiene escalones y subida empinada."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Abrigos_rupestres_de_Torm%C3%B3n",
+     "https://www.google.com/maps/place/?q=place_id:ChIJTwigOgDnXQ0R3MCSyf4s858",
+     "https://www.openstreetmap.org/?mlat=40.2224&mlon=-1.334#map=18/40.2224/-1.334"
+    ]
+   }
+  },
+  {
+   "id": "san-antonio-calaceite",
+   "campos": {
+    "lat": 41.0047,
+    "lon": 0.1854,
+    "estilo": "Ibérico",
+    "texto": {
+     "general": "<p>En la cima sur del cerro de San Cristóbal, a un kilómetro de Calaceite, se levanta uno de los poblados ibéricos mejor conocidos de Aragón. Fue de los <b>íberos ilercavones</b> y estuvo habitado del <b>siglo V al 200 a. C.</b></p><p>Lo excavaron entre <b>1903 y 1919</b> el arqueólogo calaceitano <b>Juan Cabré</b> y Pedro Bosch Gimpera, y buena parte de lo hallado está hoy en el Museo Arqueológico de Barcelona. Se conocen dos fases: una primera de los siglos V y IV a. C. en lo alto del cerro, y otra del siglo III a. C., cuando el poblado bajó por la ladera en terrazas y se rodeó de muralla y torreones.</p><p>Una calle central articula casas rectangulares de hasta dos alturas, unidas por calles empedradas. Junto a la entrada, al norte, destaca una <b>torre combinada con un foso-cisterna</b> que recogía el agua de lluvia.</p>"
+    },
+    "ver_alli": [
+     "La entrada norte, con la torre y el foso-cisterna.",
+     "La calle central y las casas escalonadas en terrazas sobre la ladera.",
+     "Las vistas sobre el Matarraña desde lo alto; el camino final es de tierra."
+    ],
+    "fuentes": [
+     "https://castillosenaragon.es/wp-content/uploads/2019/06/M.-37.-FICHA-CALACEITE-San-Antonio.pdf",
+     "https://es.wikipedia.org/wiki/Poblado_ib%C3%A9rico_de_San_Antonio",
+     "https://www.google.com/maps/place/?q=place_id:ChIJvzuVjfi8oBIRAOjLmlbk3vc",
+     "https://www.openstreetmap.org/?mlat=41.0047&mlon=0.1855#map=18/41.0047/0.1855"
+    ]
+   }
+  },
+  {
+   "id": "el-palao",
+   "campos": {
+    "lat": 41.0254,
+    "lon": -0.184,
+    "estilo": "Ibérico y romano",
+    "texto": {
+     "general": "<p>A unos 5 km al suroeste de Alcañiz, sobre una colina tabular cerca del Guadalope, está la que fue la <b>mayor ciudad ibero-romana del Bajo Aragón</b>. Se ha propuesto identificarla con <b>Osicerda</b>, la ciudad que cita Plinio y que acuñó monedas con la leyenda ibérica <i>usekerte</i>.</p><p>El cerro se habitó ya en los siglos VII-VI a. C.; tuvo un poblado fortificado ibérico y, sobre todo, una ciudad de época romana republicana e imperial, abandonada hacia el año 80 d. C. De entonces son una gran <b>cisterna</b> de al menos 320 m³ y un camino de acceso tallado en la roca.</p><p>Las campañas recientes han sacado a la luz una <b>casa de planta itálica</b> de unos 250 m², con patio central, y numerosas estructuras para prensar, casi seguro <b>aceite de oliva</b>, del siglo I a. C., una producción más antigua de lo que se creía.</p><p class=\"dato\"><span>¿Sabías que…?</span>Ya se excavó en 1928, impulsado por el hispanista francés Pierre Paris.</p>"
+    },
+    "ver_alli": [
+     "La gran cisterna, en uno de los cerros, con panel explicativo.",
+     "Las zonas excavadas de la ciudad en la colina vecina; solo se ha excavado una pequeña parte.",
+     "Visitas guiadas en jornadas puntuales con el equipo de arqueólogos."
+    ],
+    "fuentes": [
+     "https://www.lacomarca.net/palao-se-abre-publico-domingo-visita-guiada/",
+     "https://www.lacomarca.net/se-confirma-existencia-gran-casa-planta-italica-palao-alcaniz/",
+     "https://papiro.unizar.es/ojs/index.php/salduie/article/download/6497/5563/22767",
+     "https://www.geocaching.com/geocache/GC94BWK",
+     "https://www.google.com/maps/place/?q=place_id:ChIJQZNe83ZDXw0RP2HBhNUJAkE",
+     "https://www.openstreetmap.org/?mlat=41.0254&mlon=-0.1836#map=18/41.0254/-0.1836"
+    ]
+   }
+  },
+  {
+   "id": "azaila",
+   "campos": {
+    "estilo": "Ibérico y romano republicano",
+    "anio": -75,
+    "texto": {
+     "general": "<p>Sobre un cabezo junto al río Aguasvivas, cerca de Azaila, se conservan las ruinas de un <b>poblado ibérico e ibero-romano</b>. Antes hubo allí un asentamiento de los Campos de Urnas; luego los íberos levantaron una ciudad de unos 3.000 habitantes que se fue romanizando: calles empedradas con aceras, un aljibe de 660.000 litros, un pequeño templo y unas de las <b>termas más antiguas de la península</b>.</p><p>La ciudad fue destruida en las <b>guerras sertorianas</b>, una guerra civil romana del siglo I a. C. Tomó partido por Sertorio, y las tropas de Pompeyo la sitiaron hacia el 76-75 a. C. y entraron por una rampa de asalto. No volvió a reconstruirse.</p><p>En los alrededores se han detectado <b>más de 600 piezas metálicas del combate</b>: balas de honda de plomo, puntas de proyectil de escorpión (una pequeña catapulta), restos de lanzas y monedas, además de trincheras y un centro de mando de los sitiadores. Es uno de los pocos campos de batalla antiguos estudiados en España.</p><p class=\"dato\"><span>¿Sabías que…?</span>Del templo salieron dos cabezas de bronce, hoy en el Museo Arqueológico Nacional; una imita los retratos de Pompeyo.</p>"
+    },
+    "ver_alli": [
+     "La acrópolis, con su calle central, las casas y el gran aljibe.",
+     "Las termas extramuros, entre las más antiguas de la península.",
+     "La única tumba ibérica conservada, junto a los restos de la rampa de asalto romana.",
+     "Visitas guiadas en días señalados."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Azaila",
+     "https://www.wikidata.org/wiki/Q2932315",
+     "https://es.wikipedia.org/wiki/Cabezo_de_Alcal%C3%A1",
+     "https://www.lacomarca.net/cabezo-alcala-campo-batalla-unico-peninsula/"
+    ]
+   }
+  },
+  {
+   "id": "la-caridad",
+   "campos": {
+    "lat": 40.8435,
+    "lon": -1.3386,
+    "estilo": "Celtibérico y romano republicano",
+    "texto": {
+     "general": "<p>A las afueras de Caminreal, sobre una plataforma junto al río Jiloca, se extiende una ciudad de <b>trazado romano y gente celtíbera</b>, fundada a finales del siglo II a. C. Ocupaba 12,5 hectáreas, mucho más de lo habitual en la comarca. Quizá fuera la <b>Leonica</b> de las fuentes antiguas, en la calzada entre Sagunto y Bílbilis.</p><p>Fue <b>destruida en las guerras de Sertorio</b>, en el siglo I a. C. La localizó el Museo de Teruel en 1977 y se excava desde 1984. Sus casas, de planta cuadrada, se organizan en torno a un patio central con pórtico.</p><p>La joya es el suelo de la casa de un tal <b>Likine</b>: un pavimento romano con una <b>inscripción en lengua ibérica</b> hecha con teselas blancas, «Likine, de Usecerde, lo hizo», conservada en su sitio.</p>"
+    },
+    "ver_alli": [
+     "La casa de Likine y su pavimento con letrero ibérico, conservado en su lugar.",
+     "Las casas con patio porticado y las calles de trazado regular.",
+     "El centro de interpretación de la cultura romana (CICAR), en la antigua estación de ferrocarril de Caminreal."
+    ],
+    "fuentes": [
+     "https://celtiberiahistorica.es/en/exposicion-viva/la-caridad-caminreal",
+     "https://es.wikipedia.org/wiki/La_Caridad_(yacimiento_arqueol%C3%B3gico)",
+     "https://www.google.com/maps/place/?q=place_id:ChIJL86TQe4kXA0RkrH8F94kbBw",
+     "https://www.openstreetmap.org/?mlat=40.8435&mlon=-1.3384#map=18/40.8435/-1.3384"
+    ],
+    "anio": -120
+   }
+  },
+  {
+   "id": "alto-chacon",
+   "campos": {
+    "lat": 40.3446,
+    "lon": -1.1531,
+    "estilo": "Ibérico",
+    "texto": {
+     "general": "<p>A unos 4 km de Teruel y a casi 1.000 metros de altitud, este poblado ocupaba un cerro amesetado en una <b>frontera entre íberos y celtíberos</b>. Hubo gente aquí desde el siglo V a. C., pero el poblado amurallado es de los <b>siglos III-I a. C.</b>, con su mejor momento en los siglos III y II a. C.</p><p>Por el lado sur, el más accesible, lo protegían una muralla de grandes sillares y un <b>foso de 25 metros</b> de ancho, cuya piedra sirvió para la propia muralla. Dentro se ven calles estrechas empedradas y casas rectangulares en hilera; en una de ellas, un horno para trabajar el hierro. Aquí aparecieron <b>tres inscripciones ibéricas</b>.</p><p>Lo excavó entre 1969 y 1972 Purificación Atrián, directora del Museo de Teruel; en 2005-2006 se acondicionó para la visita y en 2022 se reanudaron las excavaciones, que hallaron una torre de la muralla y hornos adosados.</p>"
+    },
+    "ver_alli": [
+     "Las calles empedradas y las casas en hilera del sector excavado.",
+     "El foso y la muralla del lado sur.",
+     "Visita libre señalizada; visitas guiadas para grupos a través del Museo de Teruel."
+    ],
+    "fuentes": [
+     "https://celtiberiahistorica.es/en/exposicion-viva/alto-chacon-teruel",
+     "https://icac.cat/es/actualitat/noticies/2022/altochaconteruel2022",
+     "https://www.google.com/maps/place/?q=place_id:ChIJWyROO2B0Xg0R7DUQfmkCTqo",
+     "https://www.openstreetmap.org/?mlat=40.3446&mlon=-1.1531#map=18/40.3446/-1.1531"
+    ]
+   }
+  },
+  {
+   "id": "albarracin-cella",
+   "campos": {
+    "lat": 40.4115,
+    "lon": -1.3395,
+    "estilo": "Ingeniería romana",
+    "texto": {
+     "general": "<p>Los romanos tomaron agua del río <b>Guadalaviar</b>, cerca de Albarracín, y la llevaron hasta la ciudad que había donde hoy está Cella. El canal mide <b>casi 25 kilómetros</b>, y unos <b>9 van en galerías excavadas en la roca</b>.</p><p>Para abrir esos túneles se perforaron casi un centenar de pozos, que servían para sacar la roca y ventilar; en la zona de Gea la galería llega a ir a unos 60 metros bajo tierra. Se calcula que se arrancaron unos 50.000 m³ de roca. Para qué se necesitaba tanta agua sigue siendo una incógnita.</p><p>Hoy el propio canal es un sendero: se camina por su interior, unas veces al aire libre y otras bajo tierra, y en Gea de Albarracín hay un centro de visitantes abierto en 2015.</p>"
+    },
+    "ver_alli": [
+     "El Centro de Visitantes de Gea, con piezas y paneles para entender la obra.",
+     "Recorrer a pie el tramo del canal entre Gea y Cella, con galerías excavadas en la roca.",
+     "Fijarse en cómo el canal va tallado en la roca y en los tramos que pasan en túnel."
+    ],
+    "fuentes": [
+     "https://www.showcaves.com/english/es/subterranea/AlbarracinCella.html",
+     "https://caminodelcid.org/en/servicios/roman-aqueduct-albarracin---cella-1915324",
+     "https://www.google.com/maps/place/?q=place_id:ChIJlQXzPMbFXQ0RtBpUPH0AyWU",
+     "https://www.openstreetmap.org/?mlat=40.4115&mlon=-1.3395#map=18/40.4115/-1.3395"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-teruel",
+   "campos": {
+    "lat": 40.3438,
+    "lon": -1.1074,
+    "estilo": "Mudéjar",
+    "texto": {
+     "general": "<p>La catedral de Santa María de Mediavilla nació como una iglesia románica empezada en <b>1171</b>, el año en que Alfonso II fundó Teruel. En <b>1257</b> se alzó su torre mudéjar, una de las más antiguas de España, de ladrillo y cerámica vidriada, con un paso abovedado para la calle. Es una de las dos únicas catedrales españolas mudéjares, con la de Tarazona.</p><p>Su gran tesoro es la <b>techumbre pintada</b> de la nave central, de finales del siglo XIII (la madera se cortó hacia 1265): 32 metros llenos de oficios, caballeros, escenas de caza, santos y seres fantásticos. La llaman la <b>«Capilla Sixtina del mudéjar»</b>, y se salvó porque en el siglo XVIII la tapó un falso techo.</p><p>En 1538 se levantó el cimborrio, que ilumina el retablo mayor renacentista de Gabriel Yoly (1536). La torre, la techumbre y el cimborrio son <b>Patrimonio Mundial desde 1986</b>, junto con las torres de El Salvador y San Martín, que completan el mudéjar de Teruel.</p>"
+    },
+    "ver_alli": [
+     "La techumbre mudéjar, mejor aún desde las galerías altas en la visita guiada.",
+     "La torre de 1257, decorada con azulejos y cerámica vidriada.",
+     "El cimborrio y el retablo mayor de Gabriel Yoly."
+    ],
+    "fuentes": [
+     "https://www.turismodearagon.com/ficha/catedral-de-santa-maria-de-mediavilla-teruel/",
+     "https://es.wikipedia.org/wiki/Catedral_de_Teruel",
+     "https://www.google.com/maps/place/?q=place_id:ChIJZ0H8GQhzXg0RJP2Cm_m3vZY",
+     "https://www.openstreetmap.org/?mlat=40.3438&mlon=-1.1073#map=18/40.3438/-1.1073"
+    ]
+   }
+  },
+  {
+   "id": "albarracin",
+   "campos": {
+    "lat": 40.4076,
+    "lon": -1.4434,
+    "estilo": "Medieval andalusí y cristiano",
+    "texto": {
+     "general": "<p>Albarracín se asoma a un meandro del río Guadalaviar, con <b>murallas que trepan por el cerro</b>. En el siglo XI fue capital de una taifa del clan bereber de los <b>Banu Razin</b>, que le dio nombre; de entonces son la torre del Andador y el alcázar.</p><p>Desde <b>1170</b> fue un <b>señorío independiente</b> de Castilla y Aragón, primero de los Azagra y después de los Lara, con obispado propio, hasta que <b>Pedro III de Aragón la conquistó en 1284</b>; se incorporó definitivamente a Aragón en 1300.</p><p>Su casco es Monumento Nacional desde 1961. Junto al castillo, la catedral del Salvador, del siglo XVI, guarda tapices flamencos con la historia de Gedeón.</p>"
+    },
+    "ver_alli": [
+     "Subir por la muralla hasta la torre del Andador, con vistas sobre el pueblo.",
+     "La catedral del Salvador y el alcázar andalusí, restaurado para la visita.",
+     "Perderse por las calles del casco y la Plaza Mayor, con el ayuntamiento del siglo XVI asomado al río."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Albarrac%C3%ADn",
+     "https://en.wikipedia.org/wiki/Albarrac%C3%ADn",
+     "https://www.google.com/maps/place/?q=place_id:ChIJW2eHVyfEXQ0RA7uCDu6a4DI",
+     "https://www.openstreetmap.org/?mlat=40.4073&mlon=-1.4443#map=18/40.4073/-1.4443"
+    ]
+   }
+  },
+  {
+   "id": "escalinata-del-ovalo-de-teruel",
+   "campos": {
+    "lat": 40.3413,
+    "lon": -1.1085,
+    "estilo": "Neomudéjar",
+    "texto": {
+     "general": "<p>Quien llegaba en tren a Teruel tenía que subir una cuesta empinada hasta la ciudad. Para resolverlo, el ingeniero turolense <b>José Torán de la Rad</b> proyectó en 1920 una escalera monumental que salva los <b>26 metros</b> de desnivel entre la estación y el paseo del Óvalo. Se abrió al público el <b>5 de junio de 1921</b>.</p><p>Es una obra clave del <b>neomudéjar</b>: ladrillo, piedra tallada y cerámica verde y blanca, dos torreones en lo alto y farolas de forja de aire modernista. En la plaza central, entre el escudo de la ciudad y una fuente, el escultor <b>Aniceto Marinas</b> talló en relieve la leyenda de los <b>Amantes de Teruel</b>.</p><p>Es Bien de Interés Cultural desde 2008. Entre 2001 y 2003 el arquitecto David Chipperfield remodeló el paseo del Óvalo y añadió ascensores.</p>"
+    },
+    "ver_alli": [
+     "El relieve de los Amantes de Aniceto Marinas, en la plaza-mirador.",
+     "Los torreones y la cerámica neomudéjar del tramo alto.",
+     "Subir desde la estación para verla como la veían los viajeros; hay ascensor."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Escalinata_de_Teruel",
+     "https://www.google.com/maps/place/?q=place_id:ChIJzRwh-whzXg0RraYtoxbGX10",
+     "https://www.openstreetmap.org/?mlat=40.3414&mlon=-1.1084#map=18/40.3414/-1.1084"
+    ]
+   }
+  },
+  {
+   "id": "titania-riodeva",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Paleontología del Jurásico",
+    "fuentes": [
+     "https://ninos.kiddle.co/Titania_(Riodeva)",
+     "https://www.turismodearagon.com/ficha/territorio-dinopolis/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJuzHpfHIGXg0R14ynchwlV-g",
+     "https://www.openstreetmap.org/?mlat=40.1163&mlon=-1.1442#map=18/40.1163/-1.1442"
+    ]
+   }
+  },
+  {
+   "id": "dinopolis",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Paleontología del Jurásico y Cretácico",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Din%C3%B3polis",
+     "https://www.turismodearagon.com/ficha/territorio-dinopolis/",
+     "https://www.pa-community.com/articulos/dinopolis-expone-el-craneo-del-turiasaurus-riodevensis",
+     "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVaUSXg0RLMR1YpZ_d2U",
+     "https://www.openstreetmap.org/?mlat=40.3335&mlon=-1.0809#map=18/40.3335/-1.0809"
+    ]
+   }
+  },
+  {
+   "id": "galve-legendark",
+   "campos": {
+    "lat": 40.6528,
+    "lon": -0.8784,
+    "estilo": "Paleontología del Jurásico y Cretácico",
+    "fuentes": [
+     "https://www.fundaciondinopolis.org/pdf/paleoguia02_galve_es.pdf",
+     "https://www.goaragon.eu/news-aragon-spain-legendark-reopens-galve-exposition/",
+     "https://en.wikipedia.org/wiki/Aragosaurus",
+     "https://www.google.com/maps/place/?q=place_id:ChIJSZ0bGRP1Xg0RP7FoELF1bn4",
+     "https://www.openstreetmap.org/?mlat=40.6528&mlon=-0.8784#map=18/40.6528/-0.8784"
+    ]
+   }
+  }
+ ]
+}
