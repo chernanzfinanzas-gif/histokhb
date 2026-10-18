@@ -3027,6 +3027,90 @@
    "voz_g": "Achird",
    "p": 834,
    "voz_p": "Achird"
+  },
+  "con1-12": {
+   "viva": "img/vivas/con1-12.mp4",
+   "viva_tipo": "veo"
+  },
+  "des-barcelona-mataro": {
+   "viva": "img/vivas/des-barcelona-mataro.mp4",
+   "viva_tipo": "veo"
+  },
+  "des-crystal-palace": {
+   "viva": "img/vivas/des-crystal-palace.mp4",
+   "viva_tipo": "veo"
+  },
+  "con1-10": {
+   "viva": "img/vivas/con1-10.mp4",
+   "viva_tipo": "camara"
+  },
+  "con1-11": {
+   "viva": "img/vivas/con1-11.mp4",
+   "viva_tipo": "camara"
+  },
+  "con1-13": {
+   "viva": "img/vivas/con1-13.mp4",
+   "viva_tipo": "camara"
+  },
+  "con1-14": {
+   "viva": "img/vivas/con1-14.mp4",
+   "viva_tipo": "camara"
+  },
+  "con1-15": {
+   "viva": "img/vivas/con1-15.mp4",
+   "viva_tipo": "camara"
+  },
+  "con1-16": {
+   "viva": "img/vivas/con1-16.mp4",
+   "viva_tipo": "camara"
+  },
+  "con1-17": {
+   "viva": "img/vivas/con1-17.mp4",
+   "viva_tipo": "camara"
+  },
+  "con1-18": {
+   "viva": "img/vivas/con1-18.mp4",
+   "viva_tipo": "camara"
+  },
+  "con1-19": {
+   "viva": "img/vivas/con1-19.mp4",
+   "viva_tipo": "camara"
+  },
+  "con1-20": {
+   "viva": "img/vivas/con1-20.mp4",
+   "viva_tipo": "camara"
+  },
+  "con1-21": {
+   "viva": "img/vivas/con1-21.mp4",
+   "viva_tipo": "camara"
+  },
+  "con1-4": {
+   "viva": "img/vivas/con1-4.mp4",
+   "viva_tipo": "camara"
+  },
+  "con1-7": {
+   "viva": "img/vivas/con1-7.mp4",
+   "viva_tipo": "camara"
+  },
+  "con1-8": {
+   "viva": "img/vivas/con1-8.mp4",
+   "viva_tipo": "camara"
+  },
+  "con1-9": {
+   "viva": "img/vivas/con1-9.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-cruz-roja": {
+   "viva": "img/vivas/des-cruz-roja.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-galapagos": {
+   "viva": "img/vivas/des-galapagos.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-suez": {
+   "viva": "img/vivas/des-suez.mp4",
+   "viva_tipo": "camara"
   }
  }
 }
