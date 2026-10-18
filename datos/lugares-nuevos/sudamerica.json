@@ -1,0 +1,1232 @@
+{
+ "zona": "Sudamérica",
+ "nuevos": [
+  {
+   "id": "pachacamac",
+   "nombre": "Santuario de Pachacámac",
+   "provincia": "Perú",
+   "comarca": "Lurín (Lima)",
+   "lat": -12.2624,
+   "lon": -76.9017,
+   "tipo": "yacimiento",
+   "estilo": "Arquitectura de adobe costeña e inca",
+   "epoca": "Andes prehispánicos",
+   "anio": 200,
+   "regiones_sincronia": [
+    "Andes"
+   ],
+   "texto": {
+    "general": "<p>En el valle de Lurín, al sur de Lima, se levanta uno de los grandes santuarios de los Andes: unas <b>600 hectáreas</b> de pirámides, plazas y templos de adobe frente al Pacífico. El lugar se habitó desde hacia el <b>200 d. C.</b> y fue centro de peregrinación durante unos 1.300 años, hasta la llegada de los españoles.</p><p>Por él pasaron los pueblos <b>lima</b>, <b>wari</b> e <b>ychsma</b>, que veneraban a Pachacámac como dios creador; su oráculo era tan prestigioso que los incas no lo destruyeron, sino que lo incorporaron a su culto y construyeron en lo alto el <b>Templo del Sol</b>, una pirámide escalonada de unos 30.000 m². Junto a él se conservan el Templo Pintado y el Templo Viejo.</p><p>El 5 de enero de 1533, con Atahualpa preso en Cajamarca, <b>Hernando Pizarro</b> salió de allí para recoger el oro del santuario; volvió el 14 de abril tras profanar el templo.</p>"
+   },
+   "ver_alli": [
+    "Desde el Templo del Sol, la parte más alta, se ven el valle de Lurín y el océano.",
+    "El santuario es enorme: conviene ir con guía y llevar protección contra el sol."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Pachacamac",
+    "https://www.openstreetmap.org/search?query=Complejo%20Santuario%20Arqueol%C3%B3gico%20Pachacamac%2C%20Lur%C3%ADn"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "catedral-del-cuzco",
+   "nombre": "Catedral del Cuzco",
+   "provincia": "Perú",
+   "comarca": "Cuzco",
+   "lat": -13.5162,
+   "lon": -71.9779,
+   "tipo": "iglesia",
+   "estilo": "Renacentista y barroco",
+   "epoca": "Virreinatos y Brasil colonial",
+   "anio": 1559,
+   "regiones_sincronia": [
+    "Andes"
+   ],
+   "texto": {
+    "general": "<p>Preside la plaza de Armas del Cuzco, sobre el solar del <b>Kiswarkancha</b>, el palacio del inca Viracocha, y del <b>Suntur Wasi</b>. Las obras empezaron en <b>1559</b> y se alargaron casi un siglo, con varios maestros sucesivos; la misa de estreno se celebró el 15 de agosto de <b>1654</b>.</p><p>La fachada es renacentista y el interior mezcla bóvedas de crucería góticas con altares barrocos de madera tallada y orfebrería colonial. Guarda una gran colección de la <b>Escuela cuzqueña</b> de pintura y la imagen del <b>Señor de los Temblores</b>, ligada al terremoto de 1650.</p><p>Forma un conjunto con dos templos vecinos: la iglesia del <b>Triunfo</b>, de 1538-1539, considerada la primera catedral, y la de la <b>Sagrada Familia</b>, acabada en 1735.</p>"
+   },
+   "ver_alli": [
+    "Está en la plaza de Armas, flanqueada por los templos del Triunfo y de la Sagrada Familia.",
+    "El Cuzco está a unos 3.400 metros: hay que ir despacio los primeros días."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_del_Cuzco",
+    "https://en.wikipedia.org/wiki/Cusco_Cathedral",
+    "https://www.openstreetmap.org/search?query=Catedral%20del%20Cusco"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "sillustani",
+   "nombre": "Chullpas de Sillustani",
+   "provincia": "Perú",
+   "comarca": "Atuncolla (Puno)",
+   "lat": -15.7214,
+   "lon": -70.159,
+   "tipo": "yacimiento",
+   "estilo": "Chullpas colla e incas",
+   "epoca": "Andes prehispánicos",
+   "anio": 1200,
+   "regiones_sincronia": [
+    "Andes"
+   ],
+   "texto": {
+    "general": "<p>En una península de la <b>laguna Umayo</b>, a 33 km de Puno, se alzan las <b>chullpas</b>: torres funerarias de piedra en forma de cono invertido donde los señores del altiplano enterraban a sus muertos. La más alta mide unos <b>12 metros</b>.</p><p>El conjunto lo levantó sobre todo el pueblo <b>colla</b>, entre 1200 y 1450, antes de que los incas conquistaran la región en el siglo XV. Las torres más cuidadas, de bloques labrados encajados sin argamasa y con una cornisa en lo alto, son de época incaica; algunas tienen relieves de lagartos y serpientes.</p>"
+   },
+   "ver_alli": [
+    "Está a unos 33 km de Puno, en la localidad de Hatuncolla.",
+    "Desde lo alto de la península se ve toda la laguna Umayo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Sillustani",
+    "https://en.wikipedia.org/wiki/Sillustani",
+    "https://www.openstreetmap.org/search?query=Sillustani"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museu-paulista-ipiranga",
+   "nombre": "Museo Paulista (Museo do Ipiranga)",
+   "provincia": "Brasil",
+   "comarca": "São Paulo",
+   "lat": -23.5856,
+   "lon": -46.6097,
+   "tipo": "museo",
+   "estilo": "Ecléctico",
+   "epoca": "Independencias y repúblicas",
+   "anio": 1885,
+   "regiones_sincronia": [
+    "Brasil"
+   ],
+   "texto": {
+    "general": "<p>Un gran edificio ecléctico inspirado en los palacios del Renacimiento, que recuerda al de Versalles, levantado junto al arroyo <b>Ipiranga</b>, donde según la tradición el príncipe Pedro proclamó la independencia de Brasil el 7 de septiembre de 1822. Lo proyectó el italiano <b>Tommaso Gaudenzio Bezzi</b>: las obras empezaron en 1885 y terminaron en 1890.</p><p>Abrió como museo el 7 de septiembre de <b>1895</b> y hoy pertenece a la Universidad de São Paulo. Su pieza más famosa es el enorme cuadro <b>Independência ou Morte</b> (1888) de Pedro Américo, que fijó la imagen del «grito del Ipiranga». Cerró en 2013 para una larga restauración y reabrió en septiembre de <b>2022</b>, en el bicentenario de la independencia.</p>"
+   },
+   "ver_alli": [
+    "Está en el barrio de Ipiranga, en la calle dos Patriotas, rodeado de jardines.",
+    "Conviene dedicarle al menos un par de horas."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Museu_Paulista",
+    "https://pt.wikipedia.org/wiki/Museu_Paulista",
+    "https://www.openstreetmap.org/search?query=Museu%20Paulista%2C%20S%C3%A3o%20Paulo"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "catedral-de-brasilia",
+   "nombre": "Catedral de Brasilia",
+   "provincia": "Brasil",
+   "comarca": "Brasilia (Distrito Federal)",
+   "lat": -15.7983,
+   "lon": -47.8755,
+   "tipo": "iglesia",
+   "estilo": "Arquitectura moderna (Niemeyer)",
+   "epoca": "Iberoamérica contemporánea",
+   "anio": 1958,
+   "regiones_sincronia": [
+    "Brasil"
+   ],
+   "texto": {
+    "general": "<p>Dieciséis columnas de hormigón curvadas, iguales, que se juntan arriba como unas manos abiertas al cielo: es la catedral que <b>Oscar Niemeyer</b> diseñó para la nueva capital, con cálculos del ingeniero <b>Joaquim Cardozo</b>. La primera piedra se puso en <b>1958</b> y se terminó el 31 de mayo de <b>1970</b>; caben hasta 4.000 personas.</p><p>Fuera esperan los <b>cuatro evangelistas</b> de bronce de Alfredo Ceschiatti y Dante Croce (1968), y dentro, entre las columnas, la gran vidriera de unos 2.000 m² de <b>Marianne Peretti</b> (1990). El campanario, de 20 metros, está aparte.</p>"
+   },
+   "ver_alli": [
+    "Está en la Explanada de los Ministerios, a poco más de un kilómetro de la plaza de los Tres Poderes.",
+    "Conviene ir fuera de las horas de misa para recorrerla con calma."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Cathedral_of_Bras%C3%ADlia",
+    "https://www.openstreetmap.org/search?query=Catedral%20Metropolitana%20Nossa%20Senhora%20Aparecida%2C%20Bras%C3%ADlia"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-y-convento-de-san-francisco-salvador",
+   "nombre": "Iglesia y convento de São Francisco de Salvador",
+   "provincia": "Brasil",
+   "comarca": "Salvador de Bahía",
+   "lat": -12.9747,
+   "lon": -38.509,
+   "tipo": "iglesia",
+   "estilo": "Barroco (talla dorada)",
+   "epoca": "Virreinatos y Brasil colonial",
+   "anio": 1686,
+   "regiones_sincronia": [
+    "Brasil"
+   ],
+   "texto": {
+    "general": "<p>Por fuera, una fachada de arenisca; por dentro, una de las cumbres del <b>barroco</b> brasileño: paredes, columnas, techo y capillas cubiertos por completo de <b>talla dorada</b>. El convento se fundó en 1585, y la iglesia actual se empezó en 1686; el cuerpo y la fachada se acabaron en <b>1720</b>, fecha grabada en el frontispicio.</p><p>El claustro está forrado de <b>azulejos portugueses</b> azules y blancos, 37 paneles regalados por el rey Juan V; los de la vida de san Francisco los pintó el lisboeta Bartolomeu Antunes de Jesus en 1737. El techo de la nave tiene pinturas del ciclo de la Virgen de 1733-1737.</p>"
+   },
+   "ver_alli": [
+    "Está en el Largo do Cruzeiro de São Francisco, junto al Terreiro de Jesus, a pocos minutos a pie del Largo do Pelourinho.",
+    "Además de la iglesia se visitan el claustro de azulejos y otras dependencias del convento."
+   ],
+   "fuentes": [
+    "https://pt.wikipedia.org/wiki/Igreja_e_Convento_de_S%C3%A3o_Francisco_(Salvador)",
+    "https://www.openstreetmap.org/search?query=Igreja%20de%20S%C3%A3o%20Francisco%2C%20Salvador"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "manzana-jesuitica-de-cordoba",
+   "nombre": "Manzana Jesuítica de Córdoba",
+   "provincia": "Argentina",
+   "comarca": "Córdoba",
+   "lat": -31.418,
+   "lon": -64.1866,
+   "tipo": "monumento",
+   "estilo": "Arquitectura jesuítica colonial",
+   "epoca": "Virreinatos y Brasil colonial",
+   "anio": 1613,
+   "regiones_sincronia": [
+    "Río de la Plata"
+   ],
+   "texto": {
+    "general": "<p>En una sola manzana del centro de Córdoba los jesuitas reunieron su iglesia de la Compañía, su colegio y la <b>universidad</b>, fundada en <b>1613</b>.</p><p>Para sostenerla explotaban seis <b>estancias</b>, fundadas entre 1616 (Caroya) y 1683 (La Candelaria); se conservan cinco. En 1854 la universidad y el Colegio de Monserrat fueron nacionalizados. El conjunto es Patrimonio de la Humanidad desde el año <b>2000</b>.</p>"
+   },
+   "ver_alli": [
+    "La iglesia de la Compañía está en la calle Caseros, en el centro de Córdoba.",
+    "Las estancias conservadas (Caroya, Jesús María, Santa Catalina, Alta Gracia y La Candelaria) están fuera de la ciudad."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Jesuit_Block_and_Estancias_of_C%C3%B3rdoba",
+    "https://www.openstreetmap.org/search?query=Iglesia%20de%20la%20Compa%C3%B1%C3%ADa%20de%20Jes%C3%BAs%2C%20C%C3%B3rdoba%2C%20Argentina"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "pucara-de-tilcara",
+   "nombre": "Pucará de Tilcara",
+   "provincia": "Argentina",
+   "comarca": "Tilcara (Jujuy)",
+   "lat": -23.5862,
+   "lon": -65.403,
+   "tipo": "yacimiento",
+   "estilo": "Poblado fortificado andino",
+   "epoca": "Andes prehispánicos",
+   "regiones_sincronia": [
+    "Andes"
+   ],
+   "texto": {
+    "general": "<p>Sobre un cerro de la <b>quebrada de Humahuaca</b> se extienden las casas de piedra de un poblado fortificado (pucará) de los <b>omaguacas</b>, que se asentaron aquí hacia el siglo XII. A finales del siglo XV lo conquistaron los incas de <b>Túpac Yupanqui</b>, que lo usaron como puesto militar y para asegurarse el cobre y la plata de la zona durante medio siglo.</p><p>Lo redescubrieron en <b>1908</b> Juan Bautista Ambrosetti y Salvador Debenedetti, que catalogaron más de 3.000 piezas; desde 1911 se despejaron unos 2.000 m² y se reconstruyeron algunas estructuras. Lo gestiona la Universidad de Buenos Aires; en 1966 se abrió su museo arqueológico.</p>"
+   },
+   "ver_alli": [
+    "Está a unos quince minutos a pie del pueblo de Tilcara.",
+    "El museo arqueológico expone más de 5.000 piezas en diez salas.",
+    "Hace mucho sol y el terreno es de piedra: conviene llevar gorra y agua."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Pucar%C3%A1_de_Tilcara",
+    "https://www.openstreetmap.org/search?query=Pucar%C3%A1%20de%20Tilcara"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "teatro-colon",
+   "nombre": "Teatro Colón",
+   "provincia": "Argentina",
+   "comarca": "Buenos Aires",
+   "lat": -34.6011,
+   "lon": -58.3833,
+   "tipo": "monumento",
+   "estilo": "Ecléctico",
+   "epoca": "Independencias y repúblicas",
+   "anio": 1889,
+   "regiones_sincronia": [
+    "Río de la Plata"
+   ],
+   "texto": {
+    "general": "<p>El gran teatro de ópera de Buenos Aires, símbolo de la ciudad rica de la <b>belle époque</b>. La primera piedra se puso en <b>1889</b>, pero las obras pasaron por tres arquitectos: Francesco Tamburini, su discípulo Vittorio Meano y Julio Dormal, que lo terminó. Se inauguró el 25 de mayo de <b>1908</b> con <i>Aida</i> de Verdi.</p><p>Su sala en herradura, de unas 2.500 localidades, tiene fama de tener una de las mejores <b>acústicas</b> del mundo para la ópera. Cerró en 2006 para una gran restauración y reabrió el 24 de mayo de <b>2010</b>, en el bicentenario de la Revolución de Mayo.</p>"
+   },
+   "ver_alli": [
+    "Está en la calle Cerrito, junto a la avenida 9 de Julio.",
+    "Hay visitas guiadas en varios idiomas que recorren el foyer y la sala."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Teatro_Col%C3%B3n",
+    "https://www.openstreetmap.org/search?query=Teatro%20Col%C3%B3n%2C%20Buenos%20Aires"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "parque-arqueologico-de-san-agustin",
+   "nombre": "Parque Arqueológico de San Agustín",
+   "provincia": "Colombia",
+   "comarca": "San Agustín (Huila)",
+   "lat": 1.8857,
+   "lon": -76.2943,
+   "tipo": "yacimiento",
+   "estilo": "Escultura megalítica agustiniana",
+   "epoca": "Andes prehispánicos",
+   "regiones_sincronia": [
+    "Andes"
+   ],
+   "texto": {
+    "general": "<p>En la cuenca alta del río <b>Magdalena</b>, un pueblo desaparecido dejó cientos de <b>estatuas de piedra</b> junto a sus tumbas. Se cree que se tallaron entre los años 5 y 400 de nuestra era, aunque las fechas son inseguras.</p><p>El parque reúne cientos de esculturas en varios grupos, como las <b>Mesitas</b> A, B y C. En el Alto de los Ídolos, otro de los sitios del conjunto, se alza la mayor, de unos <b>7 metros</b>. Es Patrimonio de la Humanidad desde 1995.</p>"
+   },
+   "ver_alli": [
+    "La visita al parque principal lleva varias horas; conviene ir con uno de los guías locales.",
+    "El Alto de los Ídolos y el Alto de las Piedras son sitios aparte que se visitan en otra excursión."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/San_Agust%C3%ADn_Archaeological_Park",
+    "https://www.openstreetmap.org/search?query=Parque%20Arqueol%C3%B3gico%20de%20San%20Agust%C3%ADn"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "ciudad-perdida",
+   "nombre": "Ciudad Perdida (Teyuna)",
+   "provincia": "Colombia",
+   "comarca": "Sierra Nevada de Santa Marta (Magdalena)",
+   "lat": 11.0381,
+   "lon": -73.9252,
+   "tipo": "yacimiento",
+   "estilo": "Terrazas tairona",
+   "epoca": "Andes prehispánicos",
+   "anio": 800,
+   "regiones_sincronia": [
+    "Andes"
+   ],
+   "texto": {
+    "general": "<p>En lo alto de la selva de la <b>Sierra Nevada de Santa Marta</b>, una ciudad de los <b>taironas</b> fundada hacia el año <b>800</b>, unos seis siglos antes que Machu Picchu. Se compone de <b>169 terrazas</b> de piedra talladas en la ladera, unidas por caminos y escaleras, </p><p>Quedó abandonada y fue «redescubierta» en <b>1972</b>, aunque los <b>kogui</b> dicen que nunca dejaron de visitarla. Para llegar a la ciudad hay que subir 1.200 escalones de piedra entre la selva.</p>"
+   },
+   "ver_alli": [
+    "Solo se llega a pie, con guía, en una caminata de varios días por la selva desde la zona de Santa Marta.",
+    "El último tramo son unos 1.200 escalones de piedra; hace calor y humedad, y hay que vadear ríos."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Ciudad_Perdida",
+    "https://www.openstreetmap.org/search?query=Teyuna%2C%20Ciudad%20Perdida"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "catedral-de-sal-de-zipaquira",
+   "nombre": "Catedral de Sal de Zipaquirá",
+   "provincia": "Colombia",
+   "comarca": "Zipaquirá (Cundinamarca)",
+   "lat": 5.0187,
+   "lon": -74.0101,
+   "tipo": "iglesia",
+   "estilo": "Templo excavado en roca de sal",
+   "epoca": "Iberoamérica contemporánea",
+   "anio": 1991,
+   "regiones_sincronia": [
+    "Andes"
+   ],
+   "texto": {
+    "general": "<p>Una iglesia excavada a unos <b>200 metros</b> bajo tierra, en las minas de sal que los <b>muiscas</b> ya explotaban desde el siglo V a. C. Una primera catedral se inauguró en <b>1954</b>; la actual se empezó en 1991 según el proyecto de <b>Roswell Garavito Pearl</b> e inaugurada el 16 de diciembre de <b>1995</b>.</p><p>Se baja por un túnel con las <b>14 estaciones del vía crucis</b>, pequeñas capillas talladas en la sal, hasta llegar a la catedral.</p>"
+   },
+   "ver_alli": [
+    "Está en el Parque de la Sal, en Zipaquirá (Cundinamarca).",
+    "La visita es guiada y recorre el vía crucis hasta la catedral."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Salt_Cathedral_of_Zipaquir%C3%A1",
+    "https://www.openstreetmap.org/search?query=Catedral%20de%20Sal%2C%20Zipaquir%C3%A1"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "salitrera-humberstone",
+   "nombre": "Oficina salitrera Humberstone",
+   "provincia": "Chile",
+   "comarca": "Pozo Almonte (Tarapacá)",
+   "lat": -20.2085,
+   "lon": -69.7956,
+   "tipo": "monumento",
+   "estilo": "Arquitectura industrial salitrera",
+   "epoca": "Independencias y repúblicas",
+   "anio": 1872,
+   "regiones_sincronia": [
+    "Andes"
+   ],
+   "texto": {
+    "general": "<p>Un pueblo fantasma en pleno desierto del norte de Chile: calles, edificios y las instalaciones donde se procesaba el <b>salitre</b>. Se fundó en <b>1872</b> con el nombre de La Palma, y tras su compra en 1934 pasó a llamarse Santiago Humberstone, por el ingeniero británico James Thomas Humberstone.</p><p>En su apogeo vivían en ella más de 3.700 personas. Se abandonó en <b>1960</b>, junto con la vecina oficina de <b>Santa Laura</b>. Son Patrimonio de la Humanidad desde 2005 y estuvieron en la lista del patrimonio en peligro hasta 2019.</p>"
+   },
+   "ver_alli": [
+    "Está a unos 48 km al este de Iquique, junto a la oficina de Santa Laura.",
+    "Es muy extensa y se recorre a pie a pleno sol: conviene llevar agua, gorra y dedicarle dos o tres horas."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Humberstone_and_Santa_Laura_Saltpeter_Works",
+    "https://www.openstreetmap.org/search?query=Humberstone%2C%20Pozo%20Almonte"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "fuerte-de-samaipata",
+   "nombre": "Fuerte de Samaipata",
+   "provincia": "Bolivia",
+   "comarca": "Samaipata (Santa Cruz)",
+   "lat": -18.1784,
+   "lon": -63.8192,
+   "tipo": "yacimiento",
+   "estilo": "Roca tallada chané e inca",
+   "epoca": "Andes prehispánicos",
+   "anio": 300,
+   "regiones_sincronia": [
+    "Andes"
+   ],
+   "texto": {
+    "general": "<p>Pese a su nombre, no es un fuerte: es una enorme <b>roca de arenisca tallada</b>, de unos 220 por 60 metros, cubierta de tallas, en lo alto de un cerro a unos 1.900 metros. Sus primeras tallas se atribuyen a los <b>chané</b> del periodo Mojocoya, hacia el año <b>300</b>.</p><p>A finales del siglo XV y comienzos del XVI lo ocuparon los <b>incas</b>. Los españoles quizá lo usaron como fortaleza desde la década de 1570, y en 1618 fundaron el pueblo de Samaipata. Es Patrimonio de la Humanidad desde 1998.</p>"
+   },
+   "ver_alli": [
+    "Está en lo alto de un cerro, a pocos kilómetros del pueblo de Samaipata.",
+    "La roca no se pisa: se rodea por senderos y pasarelas con escalones, con buenas vistas del valle."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/El_Fuerte_de_Samaipata",
+    "https://www.openstreetmap.org/search?query=Fuerte%20de%20Samaipata"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "coro",
+   "nombre": "Coro",
+   "provincia": "Venezuela",
+   "comarca": "Falcón (Venezuela)",
+   "lat": 11.4074,
+   "lon": -69.6778,
+   "tipo": "poblacion",
+   "estilo": "Arquitectura colonial de tierra",
+   "epoca": "Virreinatos y Brasil colonial",
+   "anio": 1527,
+   "regiones_sincronia": [
+    "Caribe"
+   ],
+   "texto": {
+    "general": "<p>Juan de Ampíes fundó Santa Ana de Coro el 26 de julio de <b>1527</b>, y en 1531 recibió el <b>primer obispado de Sudamérica</b>. Entre 1528 y 1546 fue, con el nombre de Neu-Augsburg, la capital de la primera colonia alemana de América, gobernada por la familia <b>Welser</b>, y después la primera capital de la provincia de Venezuela.</p><p>Su casco histórico conserva casas coloniales de <b>adobe y bahareque</b>, barro reforzado con cañas, como la casa de las Ventanas de Hierro (siglo XVII), con rejas traídas de Andalucía, o el balcón de los Arcaya. La catedral es de 1583. Coro y su puerto, La Vela, son Patrimonio de la Humanidad desde 1993, y desde 2005 están en la lista del patrimonio en peligro porque las lluvias dañan sus muros de tierra.</p>"
+   },
+   "ver_alli": [
+    "El casco histórico se recorre a pie desde la catedral, en el paseo Talavera.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Coro,_Venezuela",
+    "https://www.openstreetmap.org/search?query=Catedral%20de%20Coro"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "mision-jesuitica-de-jesus-de-tavarangue",
+   "nombre": "Misión jesuítica de Jesús de Tavarangüé",
+   "provincia": "Paraguay",
+   "comarca": "Itapúa (Paraguay)",
+   "lat": -27.0562,
+   "lon": -55.7529,
+   "tipo": "yacimiento",
+   "estilo": "Barroco jesuítico-guaraní",
+   "epoca": "Virreinatos y Brasil colonial",
+   "anio": 1760,
+   "regiones_sincronia": [
+    "Río de la Plata"
+   ],
+   "texto": {
+    "general": "<p>Una gran iglesia de piedra rojiza que nunca se terminó. La reducción de Jesús se fundó en <b>1685</b> en el actual Alto Paraná y llegó a este lugar en <b>1760</b>; los jesuitas estaban levantando su ambicioso templo cuando la orden fue <b>expulsada</b> de Paraguay en 1767, y las obras se quedaron a medias.</p><p>Hoy se ven los altos muros de la iglesia inacabada. Con la cercana misión de <b>Trinidad</b> es Patrimonio de la Humanidad desde 1993.</p>"
+   },
+   "ver_alli": [
+    "Está a unos 11 km de la misión de Trinidad, por una carretera asfaltada que sale junto a su entrada.",
+    "Algunas noches hay recorridos con luces entre las ruinas."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Ruins_of_Jes%C3%BAs_de_Tavarangue",
+    "https://en.wikipedia.org/wiki/Jesuit_Missions_of_La_Sant%C3%ADsima_Trinidad_de_Paran%C3%A1_and_Jes%C3%BAs_de_Tavarangue",
+    "https://www.openstreetmap.org/search?query=Misi%C3%B3n%20Jes%C3%BAs%20de%20Tavarang%C3%BC%C3%A9"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "caral",
+   "campos": {
+    "estilo": "Arquitectura monumental del Arcaico andino",
+    "ver_alli": [
+     "Las visitas se hacen con guías de la Zona Arqueológica Caral, que también organiza las de Áspero.",
+     "Está a unas tres o cuatro horas en coche al norte de Lima; conviene llevar agua y protección contra el sol."
+    ]
+   }
+  },
+  {
+   "id": "cueva-de-las-manos",
+   "campos": {
+    "lat": -47.1554,
+    "lon": -70.6555,
+    "estilo": "Arte rupestre patagónico",
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Cueva%20de%20las%20Manos%2C%20Santa%20Cruz%2C%20Argentina"
+    ]
+   }
+  },
+  {
+   "id": "serra-da-capivara",
+   "campos": {
+    "estilo": "Arte rupestre prehistórico"
+   }
+  },
+  {
+   "id": "machu-picchu",
+   "campos": {
+    "estilo": "Arquitectura inca",
+    "ver_alli": [
+     "Las entradas son limitadas: hay que comprarlas con mucha antelación.",
+     "Se llega en tren hasta Aguas Calientes o a pie por el Camino Inca, y desde allí en autobús o andando hasta la ciudadela."
+    ]
+   }
+  },
+  {
+   "id": "cuzco-coricancha-y-sacsayhuaman",
+   "campos": {
+    "estilo": "Arquitectura inca de sillería"
+   }
+  },
+  {
+   "id": "ollantaytambo",
+   "campos": {
+    "estilo": "Arquitectura inca"
+   }
+  },
+  {
+   "id": "chan-chan",
+   "campos": {
+    "estilo": "Arquitectura chimú de adobe"
+   }
+  },
+  {
+   "id": "huacas-del-sol-y-de-la-luna",
+   "campos": {
+    "estilo": "Arquitectura moche de adobe"
+   }
+  },
+  {
+   "id": "museo-tumbas-reales-de-sipan",
+   "campos": {
+    "lat": -6.7051,
+    "lon": -79.8995,
+    "tipo": "museo",
+    "estilo": "Museo arqueológico (cultura moche)",
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Museo%20Tumbas%20Reales%20de%20Sip%C3%A1n%2C%20Lambayeque"
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-sican",
+   "campos": {
+    "lat": -6.624,
+    "lon": -79.7861,
+    "tipo": "museo",
+    "estilo": "Museo arqueológico (cultura sicán)",
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Museo%20Nacional%20Sic%C3%A1n%2C%20Ferre%C3%B1afe"
+    ]
+   }
+  },
+  {
+   "id": "chavin-de-huantar",
+   "campos": {
+    "estilo": "Arquitectura ceremonial chavín"
+   }
+  },
+  {
+   "id": "lineas-de-nazca",
+   "campos": {
+    "lat": -14.6921,
+    "lon": -75.1489,
+    "estilo": "Geoglifos nazca",
+    "ver_alli": [
+     "Hay avionetas desde Nazca: es la única forma de ver bien las grandes figuras como el colibrí.",
+     "Junto a la Panamericana, unos 4 km al este del colibrí, hay una torre mirador desde la que se ven el Árbol y las Manos."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Colibr%C3%AD%2C%20Nazca",
+     "https://en.wikipedia.org/wiki/Nazca_lines"
+    ]
+   }
+  },
+  {
+   "id": "kuelap",
+   "campos": {
+    "estilo": "Arquitectura chachapoya"
+   }
+  },
+  {
+   "id": "museo-larco",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo arqueológico precolombino",
+    "ver_alli": [
+     "Ocupa una antigua casa hacienda en Pueblo Libre, con jardines llenos de buganvillas.",
+     "Tiene una sala de reserva con miles de cerámicas a la vista y una sala aparte de cerámica erótica."
+    ]
+   }
+  },
+  {
+   "id": "cajamarca-el-cuarto-del-rescate",
+   "campos": {
+    "estilo": "Arquitectura inca"
+   }
+  },
+  {
+   "id": "tiwanaku",
+   "campos": {
+    "estilo": "Arquitectura lítica tiahuanaco"
+   }
+  },
+  {
+   "id": "isla-del-sol",
+   "campos": {
+    "estilo": "Arquitectura inca"
+   }
+  },
+  {
+   "id": "ingapirca",
+   "campos": {
+    "lat": -2.5397,
+    "lon": -78.8748,
+    "estilo": "Arquitectura inca y cañari",
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Templo%20del%20Sol%2C%20Ingapirca"
+    ]
+   }
+  },
+  {
+   "id": "pumapungo",
+   "campos": {
+    "lat": -2.9061,
+    "lon": -78.9968,
+    "estilo": "Arquitectura inca",
+    "ver_alli": [
+     "Está en el centro de Cuenca: detrás del museo se recorren las ruinas incas, las terrazas y un jardín botánico.",
+     "El museo tiene salas de etnografía de los pueblos de Ecuador."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Museo%20Pumapungo%2C%20Cuenca"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-arqueologia-de-alta-montana",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo arqueológico (santuarios incas de altura)"
+   }
+  },
+  {
+   "id": "museo-de-san-miguel-de-azapa",
+   "campos": {
+    "lat": -18.5165,
+    "lon": -70.1811,
+    "tipo": "museo",
+    "estilo": "Museo arqueológico (cultura chinchorro)",
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Museo%20Arqueol%C3%B3gico%20San%20Miguel%20de%20Azapa",
+     "https://es.wikipedia.org/wiki/Museo_Arqueol%C3%B3gico_San_Miguel_de_Azapa"
+    ]
+   }
+  },
+  {
+   "id": "museo-del-oro",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Orfebrería precolombina",
+    "ver_alli": [
+     "Está junto al parque Santander, en el centro de Bogotá, a pocos pasos de la carrera Séptima.",
+     "Reparte su colección en varias plantas; la sala de la ofrenda, a oscuras, es la más impactante."
+    ]
+   }
+  },
+  {
+   "id": "lagoa-santa-gruta-de-lapinha",
+   "campos": {
+    "estilo": "Yacimiento prehistórico en cueva"
+   }
+  },
+  {
+   "id": "parque-estadual-de-monte-alegre",
+   "campos": {
+    "lat": -2.0581,
+    "lon": -54.1657,
+    "estilo": "Arte rupestre amazónico",
+    "ver_alli": [
+     "Hay que ir con guía local; se llega en barco por el Amazonas hasta Monte Alegre y luego en todoterreno a la sierra.",
+     "El sendero a las pinturas tiene piedras sueltas: conviene llevar buen calzado y protección solar."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Caverna%20da%20Pedra%20Pintada%2C%20Monte%20Alegre"
+    ]
+   }
+  },
+  {
+   "id": "museu-paraense-emilio-goeldi",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de ciencias y parque zoobotánico"
+   }
+  },
+  {
+   "id": "rano-raraku-la-cantera-de-los-moais",
+   "campos": {
+    "estilo": "Escultura monolítica rapanui"
+   }
+  },
+  {
+   "id": "ahu-tongariki",
+   "campos": {
+    "estilo": "Ahu y moais rapanui"
+   }
+  },
+  {
+   "id": "orongo",
+   "campos": {
+    "lat": -27.1891,
+    "lon": -109.4429,
+    "estilo": "Aldea ceremonial rapanui",
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Orongo%2C%20Rapa%20Nui"
+    ]
+   }
+  },
+  {
+   "id": "playa-de-anakena",
+   "campos": {
+    "estilo": "Ahu y moais rapanui"
+   }
+  },
+  {
+   "id": "murallas-y-castillo-de-san-felipe-de-car",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Fortificación abaluartada"
+   }
+  },
+  {
+   "id": "quinta-de-san-pedro-alejandrino",
+   "campos": {
+    "lat": 11.2282,
+    "lon": -74.1775,
+    "tipo": "monumento",
+    "estilo": "Hacienda colonial",
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Quinta%20de%20San%20Pedro%20Alejandrino%2C%20Santa%20Marta",
+     "https://es.wikipedia.org/wiki/Quinta_de_San_Pedro_Alejandrino"
+    ]
+   }
+  },
+  {
+   "id": "puente-de-boyaca",
+   "campos": {
+    "lat": 5.4505,
+    "lon": -73.4303,
+    "tipo": "monumento",
+    "estilo": "Puente colonial y conjunto conmemorativo",
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Puente%20de%20Boyac%C3%A1",
+     "https://es.wikipedia.org/wiki/Puente_de_Boyac%C3%A1"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-independencia-casa-del-flore",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Casa colonial"
+   }
+  },
+  {
+   "id": "casa-museo-gabriel-garcia-marquez",
+   "campos": {
+    "lat": 10.5923,
+    "lon": -74.1928,
+    "tipo": "museo",
+    "estilo": "Casa caribeña reconstruida",
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Casa%20Museo%20Gabriel%20Garc%C3%ADa%20M%C3%A1rquez%2C%20Aracataca"
+    ]
+   }
+  },
+  {
+   "id": "panteon-nacional-de-venezuela",
+   "campos": {
+    "lat": 10.5131,
+    "lon": -66.9126,
+    "tipo": "monumento",
+    "estilo": "Neogótico",
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Pante%C3%B3n%20Nacional%2C%20Caracas",
+     "https://es.wikipedia.org/wiki/Pante%C3%B3n_Nacional_de_Venezuela"
+    ]
+   }
+  },
+  {
+   "id": "campo-de-carabobo",
+   "campos": {
+    "lat": 10.0043,
+    "lon": -68.1658,
+    "tipo": "monumento",
+    "estilo": "Conjunto conmemorativo",
+    "ver_alli": [
+     "Está a unos 30 km de Valencia, junto a Tocuyito; el paseo monumental lleva desde el arco de triunfo hasta el Altar de la Patria.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Battle_of_Carabobo",
+     "https://es.wikipedia.org/wiki/Campo_de_Carabobo"
+    ]
+   }
+  },
+  {
+   "id": "centro-historico-de-quito",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Barroco colonial quiteño"
+   }
+  },
+  {
+   "id": "islas-galapagos",
+   "campos": {
+    "lat": -0.7424,
+    "lon": -90.3042,
+    "estilo": "Paisaje volcánico natural",
+    "ver_alli": [
+     "Las visitas a las islas están muy reguladas y siempre con guía.",
+     "En Puerto Ayora, en la isla de Santa Cruz, la Estación Científica Charles Darwin cría tortugas gigantes y expone el cuerpo del Solitario George."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Estaci%C3%B3n%20Cient%C3%ADfica%20Charles%20Darwin"
+    ]
+   }
+  },
+  {
+   "id": "centro-historico-de-lima",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Arquitectura virreinal",
+    "ver_alli": [
+     "La plaza Mayor, con la catedral y el palacio de Gobierno, es el punto de partida; el cambio de guardia ante el palacio atrae a mucha gente.",
+     "El convento de San Francisco, con sus catacumbas, está a pocas calles."
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-inquisicion-y-del-congreso",
+   "campos": {
+    "lat": -12.0481,
+    "lon": -77.0264,
+    "tipo": "museo",
+    "estilo": "Arquitectura virreinal",
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Museo%20del%20Congreso%20y%20de%20la%20Inquisici%C3%B3n%2C%20Lima",
+     "https://es.wikipedia.org/wiki/Museo_del_Congreso_y_de_la_Inquisici%C3%B3n"
+    ]
+   }
+  },
+  {
+   "id": "lugar-de-la-memoria-lum",
+   "campos": {
+    "lat": -12.1101,
+    "lon": -77.0539,
+    "tipo": "museo",
+    "estilo": "Arquitectura contemporánea",
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Lugar%20de%20la%20Memoria%2C%20Miraflores%2C%20Lima"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-santa-catalina-ib",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura virreinal en sillar"
+   }
+  },
+  {
+   "id": "pampa-de-ayacucho",
+   "campos": {
+    "lat": -13.0425,
+    "lon": -74.1314,
+    "tipo": "monumento",
+    "estilo": "Obelisco conmemorativo",
+    "ver_alli": [
+     "El obelisco está en la pampa, a la salida del pueblo de Quinua, a unos 37 km de Ayacucho.",
+     "Ayacucho tiene más de 30 iglesias coloniales."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Obelisco%2C%20Quinua%2C%20Ayacucho",
+     "https://es.wikipedia.org/wiki/Santuario_hist%C3%B3rico_de_la_Pampa_de_Ayacucho"
+    ]
+   }
+  },
+  {
+   "id": "casa-de-la-moneda-y-cerro-rico-de-potosi",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura virreinal"
+   }
+  },
+  {
+   "id": "casa-de-la-libertad",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura colonial jesuita"
+   }
+  },
+  {
+   "id": "palacio-de-la-moneda",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Neoclásico",
+    "ver_alli": [
+     "El cambio de guardia, con banda y caballería, se hace en la plaza de la Constitución.",
+     "Bajo la plaza de la Ciudadanía, al otro lado del palacio, está el Centro Cultural La Moneda."
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-memoria-y-los-derechos-human",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arquitectura contemporánea",
+    "ver_alli": [
+     "Está frente a la estación de metro Quinta Normal, en Santiago.",
+     "Hay audioguías en varios idiomas; la visita completa lleva un par de horas."
+    ]
+   }
+  },
+  {
+   "id": "casa-de-neruda-en-isla-negra",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Casa-museo"
+   }
+  },
+  {
+   "id": "museo-gabriela-mistral",
+   "campos": {
+    "lat": -30.0339,
+    "lon": -70.7067,
+    "tipo": "museo",
+    "estilo": "Casa-museo",
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Museo%20Gabriela%20Mistral%2C%20Vicu%C3%B1a"
+    ]
+   }
+  },
+  {
+   "id": "pelourinho-de-salvador-de-bahia",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Barroco colonial portugués",
+    "ver_alli": [
+     "El Largo do Pelourinho, en cuesta y rodeado de casas de colores, es el corazón del barrio.",
+     "A pocos pasos está la iglesia de São Francisco, con su interior cubierto de talla dorada."
+    ]
+   }
+  },
+  {
+   "id": "ouro-preto",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Barroco minero"
+   }
+  },
+  {
+   "id": "santuario-del-buen-jesus-de-congonhas",
+   "campos": {
+    "lat": -20.5074,
+    "lon": -43.8606,
+    "tipo": "iglesia",
+    "estilo": "Barroco y rococó minero",
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Santu%C3%A1rio%20do%20Bom%20Jesus%20de%20Matosinhos%2C%20Congonhas"
+    ]
+   }
+  },
+  {
+   "id": "olinda",
+   "campos": {
+    "lat": -8.0137,
+    "lon": -34.85,
+    "tipo": "poblacion",
+    "estilo": "Barroco colonial portugués",
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Alto%20da%20S%C3%A9%2C%20Olinda"
+    ]
+   }
+  },
+  {
+   "id": "paraty",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Arquitectura colonial portuguesa"
+   }
+  },
+  {
+   "id": "parque-memorial-quilombo-dos-palmares",
+   "campos": {
+    "lat": -9.1699,
+    "lon": -36.0879,
+    "tipo": "monumento",
+    "estilo": "Parque memorial",
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Serra%20da%20Barriga%2C%20Uni%C3%A3o%20dos%20Palmares"
+    ]
+   }
+  },
+  {
+   "id": "museo-imperial-de-petropolis",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Neoclásico"
+   }
+  },
+  {
+   "id": "cristo-redentor-del-corcovado",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Art déco"
+   }
+  },
+  {
+   "id": "palacio-del-catete",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Neoclásico"
+   }
+  },
+  {
+   "id": "estadio-de-maracana",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura moderna"
+   }
+  },
+  {
+   "id": "teatro-amazonas",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Ecléctico y neoclásico"
+   }
+  },
+  {
+   "id": "brasilia",
+   "campos": {
+    "lat": -15.8007,
+    "lon": -47.8613,
+    "tipo": "poblacion",
+    "estilo": "Arquitectura moderna",
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Pra%C3%A7a%20dos%20Tr%C3%AAs%20Poderes%2C%20Bras%C3%ADlia"
+    ]
+   }
+  },
+  {
+   "id": "ruinas-de-sao-miguel-das-missoes",
+   "campos": {
+    "lat": -28.5478,
+    "lon": -54.5556,
+    "estilo": "Barroco jesuítico-guaraní",
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Ru%C3%ADnas%20Jesu%C3%ADtas%20de%20S%C3%A3o%20Miguel%20das%20Miss%C3%B5es"
+    ]
+   }
+  },
+  {
+   "id": "museo-pele",
+   "campos": {
+    "lat": -23.9312,
+    "lon": -46.333,
+    "tipo": "museo",
+    "estilo": "Edificio portuario del siglo XIX",
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Museu%20Pel%C3%A9%2C%20Santos"
+    ]
+   }
+  },
+  {
+   "id": "plaza-de-mayo-cabildo-y-casa-rosada",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Colonial y ecléctico"
+   }
+  },
+  {
+   "id": "casa-historica-de-la-independencia",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Casa colonial"
+   }
+  },
+  {
+   "id": "monumento-a-la-bandera",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Monumentalismo moderno"
+   }
+  },
+  {
+   "id": "museo-evita",
+   "campos": {
+    "lat": -34.5806,
+    "lon": -58.4147,
+    "tipo": "museo",
+    "estilo": "Neocolonial",
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Museo%20Evita%2C%20Buenos%20Aires"
+    ]
+   }
+  },
+  {
+   "id": "museo-sitio-de-memoria-esma",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Sitio de memoria",
+    "ver_alli": [
+     "Está en el antiguo Casino de Oficiales de la ESMA, dentro del Espacio Memoria y Derechos Humanos, en la avenida del Libertador.",
+     "Los textos están en varios idiomas; no es una visita recomendable para niños pequeños."
+    ]
+   }
+  },
+  {
+   "id": "cementerio-de-la-recoleta",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura funeraria ecléctica"
+   }
+  },
+  {
+   "id": "la-boca-caminito-y-museo-casa-carlos-gar",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Casas de chapa de conventillo"
+   }
+  },
+  {
+   "id": "san-ignacio-mini",
+   "campos": {
+    "estilo": "Barroco jesuítico-guaraní"
+   }
+  },
+  {
+   "id": "cataratas-del-iguazu",
+   "campos": {
+    "estilo": "Paisaje natural"
+   }
+  },
+  {
+   "id": "colonia-del-sacramento",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Arquitectura colonial portuguesa y española"
+   }
+  },
+  {
+   "id": "estadio-centenario-y-museo-del-futbol",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura moderna"
+   }
+  },
+  {
+   "id": "mision-jesuitica-de-trinidad",
+   "campos": {
+    "estilo": "Barroco jesuítico-guaraní"
+   }
+  },
+  {
+   "id": "museo-de-las-memorias",
+   "campos": {
+    "lat": -25.2886,
+    "lon": -57.6398,
+    "tipo": "museo",
+    "estilo": "Sitio de memoria",
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Museo%20de%20las%20Memorias%2C%20Asunci%C3%B3n"
+    ]
+   }
+  },
+  {
+   "id": "ischigualasto-valle-de-la-luna",
+   "campos": {
+    "estilo": "Yacimiento paleontológico triásico",
+    "ver_alli": [
+     "Centro de visitantes con el Museo de Sitio Dr. William Sill, que expone réplicas y fósiles del parque.",
+     "Circuito tradicional de unos 40 km en vehículo propio con guía obligatorio, de unas tres horas, con paradas como la Cancha de Bochas y El Submarino."
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-plata",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Neoclásico"
+   }
+  },
+  {
+   "id": "aspero",
+   "campos": {
+    "estilo": "Arquitectura monumental del Arcaico andino"
+   }
+  },
+  {
+   "id": "museo-de-sitio-julio-c-tello",
+   "campos": {
+    "lat": -13.8679,
+    "lon": -76.2731,
+    "estilo": "Arquitectura contemporánea",
+    "fuentes": [
+     "https://museos.cultura.pe/museos/museo-de-sitio-julio-c-tello-de-paracas",
+     "https://es.wikipedia.org/wiki/Museo_de_Sitio_Julio_C._Tello",
+     "https://www.radionacional.gob.pe/informa/cultural/cultura-paracas-m-s-de-120-piezas-se-exhiben-en-museo-julio-c-tello",
+     "https://www.openstreetmap.org/search?query=Museo%20de%20Sitio%20de%20la%20Cultura%20Paracas"
+    ]
+   }
+  },
+  {
+   "id": "cahuachi",
+   "campos": {
+    "estilo": "Arquitectura ceremonial nazca de adobe"
+   }
+  },
+  {
+   "id": "huaca-rajada-sipan",
+   "campos": {
+    "lat": -6.8015,
+    "lon": -79.602,
+    "estilo": "Arquitectura moche de adobe",
+    "fuentes": [
+     "https://museos.cultura.pe/museos/museo-de-sitio-huaca-rajada-sip%C3%A1n",
+     "https://es.wikipedia.org/wiki/Museo_de_Sitio_Huaca_Rajada-Sip%C3%A1n",
+     "https://andina.pe/agencia/noticia-senor-sipan-hallazgo-arqueologico-peruano-mas-notable-del-siglo-xx-cumple-35-anos-902297.aspx",
+     "https://www.openstreetmap.org/search?query=Huaca%20Rajada%2C%20Sip%C3%A1n",
+     "https://en.wikipedia.org/wiki/Huaca_Rajada"
+    ]
+   }
+  },
+  {
+   "id": "complejo-arqueologico-el-brujo",
+   "campos": {
+    "estilo": "Arquitectura moche de adobe"
+   }
+  },
+  {
+   "id": "huaca-pucllana",
+   "campos": {
+    "estilo": "Arquitectura lima de adobe"
+   }
+  },
+  {
+   "id": "museo-machu-picchu-casa-concha",
+   "campos": {
+    "estilo": "Casona colonial sobre muros incas"
+   }
+  },
+  {
+   "id": "parque-arqueologico-de-pisac",
+   "campos": {
+    "estilo": "Arquitectura inca"
+   }
+  }
+ ]
+}
