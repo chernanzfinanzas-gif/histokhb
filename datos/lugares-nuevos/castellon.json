@@ -1,0 +1,450 @@
+{
+ "zona": "Castellón",
+ "nuevos": [
+  {
+   "id": "catedral-de-segorbe",
+   "nombre": "Catedral de Segorbe",
+   "provincia": "Castellón",
+   "comarca": "Segorbe (Alto Palancia)",
+   "lat": 39.8522,
+   "lon": -0.4883,
+   "tipo": "iglesia",
+   "estilo": "Gótico valenciano revestido de neoclásico",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Por fuera parece un templo clasicista, pero debajo hay una catedral gótica. Se empezó en el <b>siglo XIII</b> en estilo gótico valenciano: una sola nave, sin crucero ni cúpula, con capillas entre los contrafuertes y cabecera ochavada. En el siglo XV trabajó en ella un maestro llamado Juan de Burgos, y la obra medieval se consagró en <b>1534</b>.</p><p>Entre 1791 y 1795, Francisco Marzo y Mariano Llisterri, con diseño de Vicente Gascó, la revistieron por completo: derribaron la bóveda, ampliaron el presbiterio y ocultaron casi toda la obra gótica. Fue destructivo para lo medieval, pero el resultado es una de las mejores <b>arquitecturas clasicistas</b> de tierras valencianas.</p><p>El <b>claustro</b>, de dos pisos y planta trapezoidal, se adapta a la irregularidad de la muralla. El piso bajo es de los siglos XIV y XV y conserva una magnífica colección de <b>rejas medievales</b>. Desde 1949, en el claustro alto está el Museo Catedralicio, con una valiosa colección de pintura religiosa de los siglos XIV al XVI.</p>"
+   },
+   "ver_alli": [
+    "El interior neoclásico de la nave única.",
+    "El claustro trapezoidal y sus rejas medievales.",
+    "Las tablas góticas y renacentistas del Museo Catedralicio."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_de_Segorbe"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-onda",
+   "nombre": "Castillo de Onda",
+   "provincia": "Castellón",
+   "comarca": "Onda (Plana Baixa)",
+   "lat": 39.9623,
+   "lon": -0.2597,
+   "tipo": "castillo",
+   "estilo": "Andalusí, con reformas cristianas",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Lo llaman el <b>«castillo de las 300 torres»</b>, una exageración popular («tantas torres como días tiene el año») para expresar su enorme tamaño. En el cerro hubo poblados desde la prehistoria, con restos íberos y romanos, y en el <b>siglo X</b>, en época califal, los musulmanes levantaron una fortaleza que con los siglos creció hasta ser una auténtica ciudad-fortaleza.</p><p>En <b>1238</b>, el año en que Zayyan, último rey musulmán de Valencia, se rindió a Jaime I, Onda pasó a manos cristianas. En 1319 la villa pasó a la Orden de Montesa. El recorrido sube por recintos sucesivos: el albacar, al que se entra por una puerta entre dos torres cilíndricas, y luego la puerta de la alcazaba, protegida por la tercera línea de muralla.</p><p>Hoy alberga un <b>museo</b> cuya pieza estrella son unas <b>yeserías musulmanas</b> de principios del siglo XIII, procedentes de una casa palaciega. El conjunto fue declarado conjunto histórico-artístico en 1967.</p>"
+   },
+   "ver_alli": [
+    "Las yeserías andalusíes del museo del castillo.",
+    "La puerta del albacar, entre dos torres cilíndricas.",
+    "La puerta de la alcazaba, tras la tercera línea de muralla."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Onda"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-xivert",
+   "nombre": "Castillo de Xivert",
+   "provincia": "Castellón",
+   "comarca": "Alcalà de Xivert (Baix Maestrat)",
+   "lat": 40.3082,
+   "lon": 0.255,
+   "tipo": "castillo",
+   "estilo": "Andalusí y templario",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1234,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>En la sierra de Irta, sobre la llanura de Alcalà de Xivert, se alzan las ruinas de una <b>fortificación islámica de los siglos X y XI</b>, con una fuerte alcazaba y una villa amurallada en la ladera. En <b>1234</b> sus pobladores la entregaron pacíficamente a la <b>Orden del Temple</b>, que tomó posesión el 28 de abril.</p><p>Los templarios la reformaron a fondo en el siglo XIII: añadieron <b>dos grandes torres circulares</b> en el muro oriental de la alcazaba y una iglesia junto a la torre sur. Al desaparecer el Temple, en 1319 el castillo y su aljama musulmana pasaron a la <b>Orden de Montesa</b>.</p><p>La población musulmana siguió viviendo aquí hasta la expulsión de los moriscos en 1609. Después llegó el abandono: en 1677 todo estaba en ruinas. Las excavaciones y restauraciones del siglo XXI han recuperado la torre sur y el resto del conjunto.</p>"
+   },
+   "ver_alli": [
+    "Las dos torres circulares templarias de la alcazaba.",
+    "La planta de la iglesia junto a la torre sur.",
+    "El aljibe y la muralla del albacar.",
+    "Los restos del poblado morisco en la ladera oeste."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Chivert"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santuario-de-la-balma",
+   "nombre": "Santuario de la Mare de Déu de la Balma",
+   "provincia": "Castellón",
+   "comarca": "Zorita del Maestrazgo (Els Ports)",
+   "lat": 40.7451,
+   "lon": -0.1769,
+   "tipo": "iglesia",
+   "estilo": "Arquitectura popular en abrigo rocoso",
+   "epoca": "Barroco",
+   "anio": 1667,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>A unos 3 km de Zorita, junto al río Bergantes, el santuario se mete literalmente dentro de la roca: ocupa una <b>«balma»</b>, un abrigo natural en la pared del cortado. Venera una imagen de la Virgen que, según la tradición, encontró un pastor en el siglo XV.</p><p>El conjunto se construyó entre los siglos XVI y XVIII. Una larga escalinata lleva a la hospedería, del siglo XVI. El campanario es del XVII, y la <b>ermita-cueva</b> se construyó en <b>1667</b>. Es monumento histórico-artístico desde 1979.</p><p>En el siglo XVIII se hizo famoso como lugar de peregrinación contra <b>«els malignes»</b>, los endemoniados: venían gentes de Castellón, Teruel y Aragón buscando curación para males que entonces se atribuían a posesiones demoníacas.</p>"
+   },
+   "ver_alli": [
+    "La ermita excavada bajo el abrigo rocoso.",
+    "La escalinata y la hospedería del siglo XVI.",
+    "El campanario del siglo XVII, pegado a la pared de roca.",
+    "Los frescos de 1860 de la cruz cubierta."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Santuario_de_la_Virgen_de_la_Balma"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "culla",
+   "nombre": "Culla",
+   "provincia": "Castellón",
+   "comarca": "Culla (Alt Maestrat)",
+   "lat": 40.3377,
+   "lon": -0.1666,
+   "tipo": "poblacion",
+   "estilo": "Villa medieval",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1244,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Encaramada en lo alto de un cerro del Alt Maestrat, Culla conserva su <b>trazado medieval</b>. Fue musulmana hasta principios del siglo XIII, y en 1233 la conquistó Blasco de Alagón. En 1244 recibió su <b>carta de población</b>, y en 1303 sus señores la vendieron a la <b>Orden del Temple</b>. Después la Orden de Montesa la tuvo hasta el siglo XIX.</p><p>En el siglo XIV se formó la <b>Setena de Culla</b>, una comunidad de pueblos que compró a Montesa los derechos de explotación de pastos y bosques. El castillo, en lo más alto, fue arrasado en la primera guerra carlista, en el siglo XIX.</p><p>Por el pueblo se ven la <b>torre de Frare Pere</b>, junto a la puerta de la Barbacana, con escudos de Montesa; la <b>Presó</b>, antiguo granero del comendador que fue cárcel en las guerras carlistas; la iglesia del Salvador, de principios del XVIII, y el antiguo hospital del XVII.</p>"
+   },
+   "ver_alli": [
+    "La torre de Frare Pere y la puerta de la Barbacana.",
+    "La Presó, antiguo granero del comendador.",
+    "Las ruinas del castillo, en lo más alto."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Culla"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "cova-remigia",
+   "nombre": "Cova Remigia",
+   "provincia": "Castellón",
+   "comarca": "Ares del Maestrat (Alt Maestrat)",
+   "lat": 40.4187,
+   "lon": -0.1231,
+   "tipo": "yacimiento",
+   "estilo": "Arte rupestre levantino",
+   "epoca": "Neolítico",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Sobre el <b>barranco de la Gasulla</b>, en el término de Ares del Maestrat, no lejos de la Valltorta, un abrigo rocoso guarda uno de los conjuntos más impresionantes de <b>arte levantino</b>. Se descubrió en <b>1934</b>. Es un solo abrigo con <b>seis concavidades</b> pintadas.</p><p>Las figuras, en tonos rojizos, son sobre todo <b>escenas de caza</b>: arqueros persiguiendo cabras, toros, ciervos y jabalíes. Pero hay también escenas mucho más inquietantes: <b>ejecuciones de personas</b>, con y sin pelotón de arqueros.</p><p>Como el resto del arte rupestre del arco mediterráneo, es <b>Patrimonio de la Humanidad desde 1998</b>.</p>"
+   },
+   "ver_alli": [
+    "Las escenas de caza con arqueros en movimiento.",
+    "Las escenas de ejecución de personas.",
+    "Las pinturas, en tonos rojizos, se reparten por seis concavidades del abrigo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Cova_Remigia"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "vilafames",
+   "nombre": "Vilafamés",
+   "provincia": "Castellón",
+   "comarca": "Vilafamés (Plana Alta)",
+   "lat": 40.1122,
+   "lon": -0.0552,
+   "tipo": "poblacion",
+   "estilo": "Villa medieval",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1241,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Las casas de piedra escalan la ladera hasta un castillo en lo alto. El propio nombre (Beni-Hamez en los documentos antiguos) delata su origen musulmán. Tras la caída de Borriana en 1233, Jaime I conquistó el territorio, y el <b>30 de agosto de 1241</b> encargó a Guillem Ramon de Viella poblar el castillo con carta de población a fuero de Zaragoza.</p><p>El <b>castillo</b> sufrió en las guerras carlistas. Su torre central circular se añadió en el siglo XIX para adaptarlo a las nuevas armas. La <b>iglesia de la Asunción</b> se empezó en 1594 y conserva un retablo mayor de principios del XVII.</p><p>La joya civil es el <b>Palacio del Batlle</b>, gótico valenciano de los siglos XIV-XV, que desde 1971 alberga el <b>Museo de Arte Contemporáneo Vicente Aguilera Cerni</b>. El casco histórico es bien de interés cultural desde 2005.</p>"
+   },
+   "ver_alli": [
+    "El Palacio del Batlle y su museo de arte contemporáneo.",
+    "La subida al castillo y su torre circular del siglo XIX.",
+    "El retablo mayor de la iglesia de la Asunción."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Villafam%C3%A9s"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "sant-mateu",
+   "nombre": "Sant Mateu",
+   "provincia": "Castellón",
+   "comarca": "Sant Mateu (Baix Maestrat)",
+   "lat": 40.4653,
+   "lon": 0.1809,
+   "tipo": "poblacion",
+   "estilo": "Villa medieval gótica",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Fue la <b>capital del Maestrazgo</b>: tras fundarse la Orden de Montesa en 1317, Sant Mateu se convirtió en residencia de sus maestres. Jaime I la conquistó y la entregó a los hospitalarios, que le dieron carta de población en 1237. Sus murallas tuvieron ocho portales, y la plaza Mayor porticada nació a finales del siglo XIV.</p><p>Aquí pasaron cosas de alcance europeo. En 1414 el papa Luna clausuró en Sant Mateu la Disputa de Tortosa, el debate entre rabinos y teólogos cristianos. El <b>15 de agosto de 1429</b>, en la iglesia arciprestal, el antipapa renunció al papado ante el legado de Martín V: fue el <b>fin del Cisma de Occidente</b>.</p><p>La <b>iglesia arciprestal</b> es una pieza clave del gótico valenciano. Conserva una portada románica del siglo XIII y una nave gótica, con torre del siglo XV. Alrededor quedan palacios góticos como el de Borrull o el del Marqués de Villores, y la Cort Nova. La villa medieval es bien de interés cultural desde 2002.</p>"
+   },
+   "ver_alli": [
+    "La portada románica del siglo XIII de la iglesia arciprestal.",
+    "La plaza Mayor porticada.",
+    "Los palacios Borrull y del Marqués de Villores."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/San_Mateo_(Castell%C3%B3n)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "concatedral-santa-maria-castellon",
+   "nombre": "Concatedral de Santa María y El Fadrí",
+   "provincia": "Castellón",
+   "comarca": "Castellón de la Plana",
+   "lat": 39.986,
+   "lon": -0.0369,
+   "tipo": "iglesia",
+   "estilo": "Gótico valenciano (reconstruido en el siglo XX)",
+   "epoca": "Gótico",
+   "anio": 1409,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>En la plaza Mayor de Castellón, junto al Ayuntamiento, se levanta la iglesia mayor de la ciudad, que ha tenido que renacer varias veces. Ya había un templo en 1272. Tras un incendio en 1340, la reconstrucción gótica empezó el 26 de diciembre de 1409, con piedra traída de Mallorca, y el templo se consagró en <b>1549</b>.</p><p>Su historia más dramática es reciente: declarada monumento nacional en 1931, fue <b>incendiada el 24 de julio de 1936</b> y derribada meses después por acuerdo municipal. La reconstrucción empezó en 1939 con un proyecto de Vicente Traver basado en las trazas del templo perdido, y no terminó hasta <b>1999</b>. Del edificio medieval solo se salvaron las <b>tres portadas</b> y algunas claves.</p><p>Al lado, exento, se alza su campanario: <b>El Fadrí</b>, «el soltero» en valenciano, porque no está unido a la iglesia. Es una torre octogonal de gótico valenciano de unos <b>58 metros</b>, empezada en 1440 y terminada a partir de 1593.</p>"
+   },
+   "ver_alli": [
+    "Las tres portadas góticas, lo único que sobrevivió de la iglesia medieval.",
+    "El Fadrí, el campanario octogonal exento.",
+    "Las bóvedas estrelladas del crucero y la cabecera."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Concatedral_de_Santa_Mar%C3%ADa_(Castell%C3%B3n)",
+    "https://es.wikipedia.org/wiki/El_Fadr%C3%AD"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "desierto-de-las-palmas-convento",
+   "nombre": "Convento carmelita del Desert de les Palmes",
+   "provincia": "Castellón",
+   "comarca": "Benicàssim (Plana Alta)",
+   "lat": 40.0747,
+   "lon": 0.0279,
+   "tipo": "iglesia",
+   "estilo": "Arquitectura conventual carmelita (siglo XVIII)",
+   "epoca": "Ilustración y Neoclásico",
+   "anio": 1784,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Los carmelitas descalzos buscaban «desiertos»: lugares apartados donde combinar la vida en comunidad con largos retiros de ermitaño. La provincia de Aragón-Valencia se había quedado sin uno, y en 1691 la orden compró aquí la masía de Gavarrell. Tomó posesión en 1694, tras pleitos con el barón de Benicàssim y con los franciscanos de Castellón.</p><p>El primer convento se empezó en 1698 y la iglesia se terminó en 1733. Alrededor se llegaron a construir <b>trece ermitas</b> para el retiro de los monjes, y en 1724-1730 se cerró el recinto con una muralla. Pero las lluvias torrenciales de 1783 abrieron grietas y simas en un terreno mal asentado. Por eso se levantó el <b>convento nuevo</b> desde 1784, dirigido por fray Joaquín del Niño Jesús, con proyecto aprobado por la Academia de San Carlos. Del viejo quedan ruinas.</p><p>El convento se libró de la exclaustración de 1835 porque Benicàssim, agradecido por la ayuda de los monjes en una epidemia de cólera, pidió que no se aplicara. Para salir adelante, los frailes empezaron a destilar con hierbas del monte el <b>licor Carmelitano</b>. En 1936 fueron asesinados 16 monjes de la comunidad.</p>"
+   },
+   "ver_alli": [
+    "El convento nuevo, de finales del siglo XVIII.",
+    "Las ruinas del convento viejo.",
+    "Las ermitas repartidas por el monte.",
+    "Las vistas sobre la Plana de Castellón."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Convento_Carmelita_del_Desierto_de_las_Palmas",
+    "https://es.wikipedia.org/wiki/Desierto_de_las_Palmas"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "poblado-iberico-de-sant-josep",
+   "nombre": "Poblado ibérico y Coves de Sant Josep",
+   "provincia": "Castellón",
+   "comarca": "La Vall d'Uixó (Plana Baixa)",
+   "lat": 39.824,
+   "lon": -0.2518,
+   "tipo": "yacimiento",
+   "estilo": "Poblado ibérico y romano",
+   "epoca": "Edad del Hierro",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>En la Vall d'Uixó, la vida ha girado siempre alrededor de la fuente de Sant Josep, de donde sale un río subterráneo. En la cueva y sus alrededores están los vestigios más antiguos: cazadores del <b>Paleolítico superior</b>, hacia el 16.000 a.C. según el carbono 14, que dejaron dos paneles con <b>pinturas rupestres</b>.</p><p>En lo alto de la colina que hay encima de la gruta, junto a la ermita de la Sagrada Familia, se excavó el <b>poblado de Sant Josep</b>, un buen ejemplo de urbanismo antiguo. Es pequeño, pero conserva su muralla, dos torres, calles y casas de época <b>ibérica y romana</b>. Su momento de esplendor fue la época ibérica.</p><p>Bajo el poblado corre el río subterráneo de Sant Josep: una gruta de unos <b>2.750 metros</b> conocidos que se convirtió en atracción turística: a finales de los años sesenta ya recibía más de 200.000 visitantes al año.</p>"
+   },
+   "ver_alli": [
+    "La muralla, las torres y las bases de las casas del poblado.",
+    "Las calles del poblado, junto a la ermita de la Sagrada Familia.",
+    "Abajo, el río subterráneo de las Coves de Sant Josep."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Vall_de_Ux%C3%B3"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-benifassa",
+   "nombre": "Monasterio de Santa María de Benifassà",
+   "provincia": "Castellón",
+   "comarca": "La Pobla de Benifassà (Els Ports)",
+   "lat": 40.6766,
+   "lon": 0.1985,
+   "tipo": "iglesia",
+   "estilo": "Gótico cisterciense con elementos románicos",
+   "epoca": "Gótico",
+   "anio": 1233,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>En La Pobla de Benifassà, en la comarca de Els Ports, está la <b>primera fundación cisterciense del Reino de Valencia</b>. En 1233 Jaime I confirmó la donación de tierras de Guillem de Cervera y ordenó levantar un monasterio dedicado a Santa María. Lo pobló una comunidad de <b>doce monjes llegados de Poblet</b>, y se construyó siguiendo el modelo de aquel gran monasterio, aunque es menos monumental.</p><p>Las fortificaciones son de 1250 y casi todos los edificios se levantaron entre 1264 y 1276. La iglesia se empezó en 1264, pero su nave no se terminó hasta 1460: en ella se nota el paso del <b>románico tardío al gótico</b>. El palacio del abad y el claustro, con columnas pareadas que alternan con pilares bajo arcos apuntados, se construyeron entre 1316 y 1347.</p><p>La ocupación napoleónica lo dañó, y tras la desamortización de 1835 se arruinó pasando de mano en mano. Desde 1967 lo habitan <b>monjas cartujas</b>, así que es un lugar de clausura. Es monumento histórico-artístico desde 1931.</p>"
+   },
+   "ver_alli": [
+    "La iglesia, con su mezcla de románico tardío y gótico.",
+    "Desde fuera, el conjunto amurallado en su valle de montaña.",
+    "Es clausura de monjas cartujas: conviene informarse antes sobre qué se puede visitar."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Monastery_of_Santa_Mar%C3%ADa_de_Benifass%C3%A0",
+    "https://turismodecastellon.com/en/que-hacer/cultura/monumentos/show/103207"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "valltorta",
+   "campos": {
+    "lat": 40.3972,
+    "lon": 0.0674,
+    "estilo": "Arte levantino",
+    "ver_alli": [
+     "Empezar por el Museo de la Valltorta, en Tírig, que organiza visitas guiadas a los abrigos.",
+     "En la Cova dels Cavalls, buscar a los arqueros que esperan a la manada de ciervos.",
+     "Los abrigos están cerrados con reja: solo se ven con la visita guiada.",
+     "Cova Remigia, en el barranco de la Gasulla (Ares del Maestrat)."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Barranco_de_la_Valltorta",
+     "https://www.google.com/maps/place/?q=place_id:ChIJw8DgCa92oBIRQs-Fr_8dbgk",
+     "https://www.google.com/maps/place/?q=place_id:ChIJW0o9rLZ2oBIR0LzoXbReov0"
+    ]
+   }
+  },
+  {
+   "id": "puig-nau",
+   "campos": {
+    "lat": 40.4754,
+    "lon": 0.4158,
+    "estilo": "Ibérico",
+    "texto": {
+     "general": "<p>En la montaña más alta del término de Benicarló hubo gente durante unos <b>300 años</b>, en seis fases: primero cabañas redondas u ovaladas, antes del siglo VII a. C.; entre el 650 y el 575-550 a. C., casas rectangulares más sólidas, y después sucesivas reformas.</p><p>A <b>mediados del siglo V a. C.</b> el poblado se rehízo por completo como <i>oppidum</i>, un lugar alto y fortificado: primero se trazó la muralla y luego las calles, estrechas y empinadas, lo que indica una planificación previa. Sus murallas y torres aún superan los dos metros y medio. Muchas casas, de mampostería, tenían dos alturas comunicadas por escaleras.</p><p>Hacia el 400 a. C. se abandonó de forma pacífica. Entre sus hallazgos destacan dos copas griegas de lujo: una del <b>pintor de Pentesilea</b>, con dos jóvenes conversando en la palestra, y otra del pintor de Hermónax, con el mito de Bóreas.</p>"
+    },
+    "ver_alli": [
+     "Visita guiada con reserva, que sale del Museu de la Ciutat de Benicarló (Mucbe).",
+     "Recorrer las calles empinadas y las casas de dos alturas.",
+     "Llevar calzado cómodo, gorra y agua: el terreno es irregular y no apto para movilidad reducida."
+    ],
+    "fuentes": [
+     "https://multimedia.comunitatvalenciana.com/9B664BA6EFBD4B0B9318D443FFA61297/doc/67B678A7683C40DEB86D3AEA478F76A8/MAPA_LOS_IBEROS_ES_2025.pdf",
+     "https://www.ajuntamentdebenicarlo.org/r2h/files/15117.pdf",
+     "https://www.comunitatvalenciana.com/es/castello-castellon/benicarlo/monumentos/puig-de-la-nao",
+     "https://www.google.com/maps/place/?q=place_id:ChIJPzqJ9tNaoBIR7NjMeNelAaw"
+    ]
+   }
+  },
+  {
+   "id": "arco-cabanes",
+   "campos": {
+    "estilo": "Romano",
+    "texto": {
+     "general": "<p>Junto al trazado de la antigua <b>Vía Augusta</b>, la gran calzada que recorría el litoral de norte a sur, se levanta desde el <b>siglo II</b> este arco de un solo vano, de líneas simples y proporcionadas. Hoy queda en una rotonda de la carretera CV-157, entre Cabanes y Benlloc.</p><p>Mide <b>5,8 metros</b> de alto y 6,92 de largo; le falta la parte superior y se calcula que tuvo unos 7-8 metros. Más que un gran arco triunfal, parece un monumento <b>funerario y privado</b>, quizá en honor del dueño de una villa cercana.</p><p>Años al aire libre y sin protección han hecho que se roben algunas de sus piezas: hay sillares del arco reutilizados en Cabanes como abrevadero. En una pilastra hay un escudo de Vilafamés documentado desde el siglo XVIII.</p>"
+    },
+    "ver_alli": [
+     "Acceso libre; está en una rotonda, así que conviene acercarse con precaución.",
+     "Buscar el escudo de Vilafamés en una de las pilastras.",
+     "Imaginar el trazado de la Vía Augusta, que pasaba junto al arco."
+    ],
+    "fuentes": [
+     "https://www.comunitatvalenciana.com/es/castello-castellon/cabanes/monumentos/arco-romano",
+     "https://www.wikidata.org/wiki/Q930753"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-peniscola",
+   "campos": {
+    "lat": 40.3588,
+    "lon": 0.4078,
+    "estilo": "Gótico templario",
+    "ver_alli": [
+     "Con entrada.",
+     "En la planta baja: cuerpo de guardia, caballerizas, mazmorras y aljibe.",
+     "En la planta alta, las estancias papales de Benedicto XIII, el papa Luna.",
+     "Pasear por los jardines del parque de artillería y asomarse a las vistas sobre las dos bahías."
+    ],
+    "fuentes": [
+     "https://castillodepeniscola.dipcas.es/es/precios-y-horarios.html",
+     "https://www.comunitatvalenciana.com/en/castello-castellon/peniscola-peniscola/monuments/castillo-de-peniscola",
+     "https://www.google.com/maps/place/?q=place_id:ChIJH9cwsPBGoBIRT0Zu_r98qYA"
+    ]
+   }
+  },
+  {
+   "id": "morella",
+   "campos": {
+    "lat": 40.6194,
+    "lon": -0.0992,
+    "estilo": "Gótico (villa amurallada medieval)",
+    "texto": {
+     "general": "<p>A <b>985 metros</b> de altitud, Morella se encarama a un cerro coronado por su castillo, declarado monumento histórico-artístico en 1931. Casi dos kilómetros de murallas rodean la villa; se empezaron hacia 1324-1330, sobre las defensas musulmanas del siglo XI, y gran parte se hizo ya en el siglo XV, con más de una decena de torres y varios portales.</p><p>El más vistoso es el <b>portal de Sant Miquel</b>, con dos torres gemelas del siglo XIV. Dentro, la iglesia arciprestal de <b>Santa María</b>, gótica, construida entre los siglos XIII y XVI, conserva rosetones con vidrieras de la escuela valenciana del siglo XIV y un órgano barroco del XVIII de unos 3.000 tubos. Fuera, el <b>acueducto de Santa Llúcia</b>, gótico del siglo XIV, llevaba el agua a la villa.</p><p>Toda la ciudad es conjunto histórico-artístico desde 1965.</p><p class=\"dato\"><span>¿Sabías que…?</span>Cada seis años, en agosto, Morella celebra el Sexenni en honor de la Virgen de Vallivana.</p>"
+    },
+    "ver_alli": [
+     "Villa libre; castillo con entrada.",
+     "Entrar por el portal de Sant Miquel, entre sus dos torres gemelas.",
+     "Dentro de Santa María, fijarse en los rosetones y en el órgano barroco.",
+     "Subir al castillo para ver la muralla entera desde arriba."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Morella",
+     "https://www.hosteltur.com/177278_el-pueblo-amurallado-donde-todavia-parece-que-vive-la-edad-media.html",
+     "https://www.boe.es/boe/dias/1965/11/16/pdfs/A15519-15520.pdf",
+     "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlWiCXw0R-0IhWYFQ6Rw"
+    ]
+   }
+  },
+  {
+   "id": "morella-temps-de-dinosaures",
+   "campos": {
+    "estilo": "Paleontología (Cretácico inferior)",
+    "ver_alli": [
+     "Museo con fósiles de la comarca y una réplica de Iguanodon a tamaño real.",
+     "Buscar la historia de Morelladon beltrani, el iguanodonte con espinas altas en el lomo descubierto en Morella.",
+     "Está junto al portal de Sant Miquel, dentro de la muralla; se combina con el casco medieval de Morella."
+    ],
+    "fuentes": [
+     "https://www.actividades.comunitatvalenciana.com/en/recursos/temps-de-dinosaures-museum-morella",
+     "https://en.wikipedia.org/wiki/Morelladon",
+     "https://www.thelocal.es/20151217/archaeologists-camel-like-dinosaur-spain/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJmQw9jW6CXw0R4HIBySsqa-8"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,733 @@
+{
+ "zona": "Tarragona",
+ "nuevos": [
+  {
+   "id": "pont-del-diable-tarragona",
+   "nombre": "Acueducto de les Ferreres (Pont del Diable)",
+   "provincia": "Tarragona",
+   "comarca": "Tarragona (Tarragonès)",
+   "lat": 41.146,
+   "lon": 1.244,
+   "tipo": "monumento",
+   "estilo": "Romano",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>A 4 km al norte de Tarragona está el gran acueducto que abastecía a la ciudad romana. Se construyó en el <b>siglo I a. C.</b>, en tiempos de Augusto, para llevar a <b>Tarraco</b> agua del río <b>Francolí</b>, captada a unos 25 km.</p><p>Mide <b>217 metros de largo</b> y hasta <b>27 metros de alto</b>, con dos pisos de arcos superpuestos hechos de sillares encajados en seco, sin argamasa. Por arriba corría el canal, con una ligerísima pendiente de 40 centímetros de norte a sur para que el agua fluyera sola.</p><p>Siguió en uso hasta bien entrado el siglo XVII. Fue declarado monumento nacional en 1905 y forma parte del conjunto arqueológico de Tarraco. En la zona se le conoce como <b>Pont del Diable</b>, «puente del diablo».</p>"
+   },
+   "ver_alli": [
+    "Los dos pisos de arcos, vistos desde abajo en el valle.",
+    "El canal superior, por el que se puede caminar.",
+    "Los sillares unidos sin argamasa."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Acueducto_de_las_Ferreras",
+    "https://www.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "torre-dels-escipions",
+   "nombre": "Torre dels Escipions",
+   "provincia": "Tarragona",
+   "comarca": "Tarragona (Tarragonès)",
+   "lat": 41.132,
+   "lon": 1.3189,
+   "tipo": "monumento",
+   "estilo": "Romano",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Junto a la antigua <b>Vía Augusta</b>, a unos seis kilómetros de Tarraco, se levanta esta <b>torre funeraria</b> de mediados del siglo I. Es un monumento en forma de torre, con <b>tres cuerpos</b> que van menguando hacia arriba, y en su interior había una cámara para el difunto y su ajuar.</p><p>Su nombre es un error: durante mucho tiempo se creyó que las dos figuras en relieve de la fachada representaban a los hermanos <b>Escipión</b>, generales romanos de la conquista de Hispania. En realidad son dos imágenes de <b>Atis</b>, un dios frigio de la muerte y la resurrección.</p><p>Es una de las tres torres funerarias romanas mejor conservadas de la península, junto a la Torre Ciega de Cartagena y la de Hércules en Villajoyosa, y forma parte del conjunto de Tarraco, Patrimonio de la Humanidad.</p>"
+   },
+   "ver_alli": [
+    "Los dos relieves de Atis, mal llamados «Escipiones».",
+    "Los tres cuerpos superpuestos de la torre.",
+    "El trazado de la Vía Augusta junto al monumento."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Torre_de_los_Escipiones",
+    "https://www.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "pedrera-del-medol",
+   "nombre": "Cantera romana de El Mèdol",
+   "provincia": "Tarragona",
+   "comarca": "Tarragona (Tarragonès)",
+   "lat": 41.1386,
+   "lon": 1.3388,
+   "tipo": "yacimiento",
+   "estilo": "Cantera romana",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>De esta cantera salió buena parte de la piedra de <b>Tarraco</b>. Se explotó durante la República y el Imperio romanos, y se calcula que se extrajeron unos <b>50.000 metros cúbicos</b> de una caliza dorada llamada «soldó».</p><p>El resultado es un gran tajo de más de 200 metros de largo, con paredes casi verticales de hasta 12 metros. En el centro, los romanos dejaron sin cortar una <b>aguja de unos 16 metros</b> de altura como testigo para medir la piedra extraída.</p><p>La Vía Augusta pasaba muy cerca y por ella se llevaban los bloques a la ciudad, a unos 6 km. Forma parte del conjunto arqueológico de Tarraco, Patrimonio de la Humanidad desde <b>2000</b>.</p>"
+   },
+   "ver_alli": [
+    "La aguja testigo de unos 16 m en el centro del tajo.",
+    "Las paredes cortadas a pico, con huellas de extracción.",
+    "Los miradores del sendero que rodea la cantera."
+   ],
+   "fuentes": [
+    "https://www.ancient-history-sites.com/sites/el-medol/",
+    "https://www.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "cartoixa-d-escaladei",
+   "nombre": "Cartoixa d'Escaladei",
+   "provincia": "Tarragona",
+   "comarca": "La Morera de Montsant (Priorat)",
+   "lat": 41.2563,
+   "lon": 0.8105,
+   "tipo": "iglesia",
+   "estilo": "Románico, gótico y barroco (en ruinas)",
+   "epoca": "Románico",
+   "anio": 1194,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Al pie de la sierra del Montsant, en 1194 el rey <b>Alfonso II de Aragón</b> donó tierras a los cartujos para fundar el que se considera el <b>primer monasterio de la orden de San Bruno</b> en la península ibérica. La comarca entera, el <b>Priorat</b>, debe su nombre a esta cartuja.</p><p>Cuenta la leyenda que un pastor soñó con <b>ángeles que subían al cielo por una escalera</b> apoyada en un pino; los monjes lo tomaron como señal y construyeron allí su claustro. De ahí el nombre: Escaladei, «escalera de Dios». Llegó a tener tres claustros y unas 30 celdas.</p><p>Los cartujos fueron también clave en el origen del cultivo de la <b>vid</b> en la actual DOCa Priorat. Tras la desamortización de 1835 la comunidad se fue y el conjunto se arruinó. En 1990 sus propietarios lo donaron a la Generalitat y se visita desde 1993.</p>"
+   },
+   "ver_alli": [
+    "El portal barroco de la Mare de Déu.",
+    "La celda de monje reconstruida.",
+    "Las ruinas de la iglesia y los claustros bajo el Montsant."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Cartuja_de_Scala_Dei",
+    "https://www.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "siurana",
+   "nombre": "Siurana",
+   "provincia": "Tarragona",
+   "comarca": "Cornudella de Montsant (Priorat)",
+   "lat": 41.2582,
+   "lon": 0.9324,
+   "tipo": "poblacion",
+   "estilo": "Aldea medieval con iglesia románica",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1153,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Encaramada sobre un risco a 737 metros, en el extremo de la sierra de Prades, Siurana fue el <b>último territorio musulmán de Cataluña</b> en caer en manos cristianas. Su conquista se fecha en <b>1153</b> o poco después; en septiembre de 1154 ya la tenía Bertran de Castellet. Desde su castillo se controlaba buena parte del Priorat, el Camp y la Conca de Barberà.</p><p>Del castillo andalusí quedan restos. La joya del pueblo es la iglesia de <b>Santa María</b>, un pequeño templo románico de una sola nave del siglo XII con una notable portada lateral.</p><p>Una leyenda recogida por Joan Amades cuenta que la <b>reina mora Abd-el-Azia</b>, al ver entrar a los cristianos, huyó a caballo y se lanzó al precipicio. La huella de herradura que se enseña en la roca es el <b>Salt de la Reina Mora</b>. Hoy viven aquí apenas unas decenas de personas.</p><p class=\"dato\"><span>¿Sabías que…?</span>Un asteroide de unos 2 km, el 209540, lleva el nombre de Siurana.</p>"
+   },
+   "ver_alli": [
+    "La iglesia románica de Santa María y su portada.",
+    "Los restos del castillo sobre el cortado.",
+    "El Salt de la Reina Mora, al borde del precipicio."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Siurana_(Tarragona)",
+    "https://www.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "catedral-de-tortosa",
+   "nombre": "Catedral de Tortosa",
+   "provincia": "Tarragona",
+   "comarca": "Tortosa (Baix Ebre)",
+   "lat": 40.814,
+   "lon": 0.5222,
+   "tipo": "iglesia",
+   "estilo": "Gótico, con fachada barroca",
+   "epoca": "Gótico",
+   "anio": 1347,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Sobre la antigua mezquita de Tortosa se levantó una catedral románica, consagrada en 1178. La actual, <b>gótica</b>, se empezó en <b>mayo de 1347</b> con la colocación solemne de la primera piedra; el maestro cantero <b>Bernat Dalguaire</b> había firmado el contrato el año anterior. Las obras avanzaron muy despacio y se prolongaron durante siglos.</p><p>Su rasgo más original es la cabecera con <b>doble girola</b>, única de este tipo en Cataluña. La <b>fachada barroca</b> se construyó entre 1728 y 1757 y quedó inacabada: solo se levantaron dos de los cinco niveles previstos, y las dos torres de 61 metros nunca se hicieron.</p><p>Dentro destaca la capilla barroca de la <b>Virgen de la Cinta</b>, empezada en 1672, con frescos desde 1718 y una urna de plata de 1727 para la reliquia. El claustro es del siglo XIII.</p><p class=\"dato\"><span>¿Sabías que…?</span>Bajo el claustro se construyó en 1937-1938 un refugio antiaéreo.</p>"
+   },
+   "ver_alli": [
+    "La doble girola de la cabecera.",
+    "La fachada barroca inacabada, abierta al Ebro desde 2015.",
+    "La capilla de la Cinta y sus frescos.",
+    "El claustro del siglo XIII."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_de_Tortosa",
+    "https://www.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castell-de-la-suda-tortosa",
+   "nombre": "Castell de la Suda",
+   "provincia": "Tarragona",
+   "comarca": "Tortosa (Baix Ebre)",
+   "lat": 40.8153,
+   "lon": 0.5243,
+   "tipo": "castillo",
+   "estilo": "Fortaleza andalusí y medieval",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>En lo alto de Tortosa, sobre una antigua acrópolis romana, el califato de <b>Abderramán III</b> construyó en el siglo X una gran fortaleza, la Suda. Tras la conquista de Tortosa por <b>Ramón Berenguer IV</b> en <b>1148</b>, el castillo fue prisión y pasó por manos de los Montcada y de los templarios.</p><p>Más tarde fue una de las residencias favoritas del rey <b>Jaime I</b>, palacio real y tribunal de justicia, y se reformó en los siglos XV y XVII por razones defensivas. De época islámica conserva cimientos de murallas, un pozo, galerías subterráneas y la única <b>necrópolis islámica al aire libre</b> de Cataluña.</p><p>Hoy alberga un Parador de Turismo, y desde su recinto se domina toda la ciudad.</p>"
+   },
+   "ver_alli": [
+    "La necrópolis islámica dentro del recinto.",
+    "La Punta del Diamant o torre de Túbal, mirador sobre Tortosa.",
+    "Las murallas y el patio de armas."
+   ],
+   "fuentes": [
+    "https://patrimoni.gencat.cat/en/node/10876",
+    "https://www.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "reials-collegis-de-tortosa",
+   "nombre": "Reials Col·legis de Tortosa",
+   "provincia": "Tarragona",
+   "comarca": "Tortosa (Baix Ebre)",
+   "lat": 40.8148,
+   "lon": 0.5248,
+   "tipo": "monumento",
+   "estilo": "Renacimiento",
+   "epoca": "Renacimiento",
+   "anio": 1564,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Los Reales Colegios son el gran conjunto del <b>Renacimiento civil</b> en Cataluña. El Colegio de <b>Sant Jaume i Sant Maties</b>, cuyas obras empezaron en <b>1564</b>, se creó para educar a jóvenes <b>moriscos</b> conversos; tras la expulsión de los moriscos en 1610 pasó a acoger a jóvenes sin recursos. En la portada luce el escudo imperial de Carlos I.</p><p>Su patio es una maravilla: un <b>friso con 19 parejas reales</b> de la Corona de Aragón y de los Austrias, desde Ramón Berenguer IV y Petronila hasta Felipe III, y dieciséis cabezas esculpidas sobre los capiteles del primer piso, que quizá retratan a los alumnos. La escultura se atribuye hoy al tallista castellano Francisco de Montehermoso.</p><p>Del Colegio de Sant Jordi i Sant Domènec (1578), antiguo convento dominico arrasado en los bombardeos de 1937-1939, solo queda la portada con la inscripción <i>DOMUS SAPIENTIAE</i>. El conjunto es monumento nacional desde 1974.</p>"
+   },
+   "ver_alli": [
+    "El friso del patio con los bustos y escudos de 19 parejas reales.",
+    "Las 16 cabezas sobre los capiteles del primer piso.",
+    "La portada de Sant Domènec con «DOMUS SAPIENTIAE»."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Reales_Colegios_de_Tortosa",
+    "https://www.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "horta-de-sant-joan",
+   "nombre": "Horta de Sant Joan",
+   "provincia": "Tarragona",
+   "comarca": "Horta de Sant Joan (Terra Alta)",
+   "lat": 40.9539,
+   "lon": 0.3169,
+   "tipo": "poblacion",
+   "estilo": "Casco antiguo medieval",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Horta de Sant Joan ocupa una colina con un manantial cerca de la cima, lo que la hizo habitable y defendible durante siglos, frente a las montañas de <b>Els Ports</b>. Su casco antiguo, con la casa consistorial y la iglesia de <b>Sant Joan Baptista</b>, fue declarado <b>bien cultural de interés nacional</b> en 1997.</p><p>El pueblo debe su fama a <b>Pablo Picasso</b>, que pasó aquí dos temporadas invitado por su amigo <b>Manuel Pallarès</b>, natural de Horta: la primera siendo un adolescente, a finales de la década de 1890, y la segunda en <b>1909</b>, cuando pintó paisajes del pueblo camino del cubismo. Suya es la frase «<b>Todo lo que sé lo aprendí en Horta</b>».</p><p>En el antiguo hospital está el <b>Centre Picasso</b>, que recuerda esas estancias con exposiciones y publicaciones sobre el artista.</p>"
+   },
+   "ver_alli": [
+    "La plaza de la Iglesia, con el ayuntamiento y Sant Joan Baptista.",
+    "El Centre Picasso, en el antiguo hospital.",
+    "Las calles del casco antiguo protegido."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Horta_de_San_Juan",
+    "https://www.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castell-de-miravet",
+   "nombre": "Castell de Miravet",
+   "provincia": "Tarragona",
+   "comarca": "Miravet (Ribera d'Ebre)",
+   "lat": 41.0355,
+   "lon": 0.594,
+   "tipo": "castillo",
+   "estilo": "Andalusí y templario (románico)",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1153,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Sobre un cerro que domina el Ebro, Miravet fue primero una fortaleza andalusí, con un recinto amurallado en tres niveles levantado entre los siglos IX y XI. En <b>1153</b> la conquistó <b>Ramón Berenguer IV</b>, y el <b>23 de agosto</b> de ese año la entregó a la <b>Orden del Temple</b>.</p><p>Los templarios la convirtieron en una de sus casas más importantes: el recinto superior, del siglo XII, tiene cinco torres en torno a un patio, con dependencias distribuidas como en un monasterio cisterciense. En la Torre del Tesoro guardaban el archivo y el tesoro de la orden.</p><p>Cuando el rey ordenó detener a los templarios, Miravet resistió un <b>asedio de diez meses</b>, hasta que el <b>12 de diciembre de 1308</b> se rindieron los 22 hombres que quedaban dentro. En 1314 pasó a los Hospitalarios. Volvió a la guerra en las carlistadas y en la batalla del Ebro de 1938.</p>"
+   },
+   "ver_alli": [
+    "El patio del recinto templario y sus cinco torres.",
+    "La Torre del Tesoro.",
+    "La vista del Ebro y del pueblo de Miravet desde las almenas."
+   ],
+   "fuentes": [
+    "https://patrimoni.gencat.cat/en/monuments/monuments/miravet-castle/cronologia",
+    "https://es.wikipedia.org/wiki/Castillo_de_Miravet",
+    "https://www.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "abrics-de-l-ermita-ulldecona",
+   "nombre": "Abrics de l'Ermita (Ulldecona)",
+   "provincia": "Tarragona",
+   "comarca": "Ulldecona (Montsià)",
+   "lat": 40.6331,
+   "lon": 0.4702,
+   "tipo": "yacimiento",
+   "estilo": "Arte rupestre levantino",
+   "epoca": "Neolítico",
+   "anio": -6000,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>En la sierra de Godall, junto a la ermita de la Pietat de Ulldecona, se encuentra el conjunto de <b>arte rupestre levantino</b> más importante de Cataluña. Las primeras pinturas se descubrieron en <b>1975</b>, y hoy se conocen <b>trece o catorce abrigos</b> decorados.</p><p>Fueron pintados hace unos <b>8.000 años</b>. Muestran animales de la zona, <b>arqueros</b> y figuras que se interpretan como divinidades o especialistas rituales; parecen contar creencias o relatos míticos ligados a la caza, y quizá señalaban lugares de reunión y celebración.</p><p>Forman parte del Arte Rupestre del Arco Mediterráneo, <b>Patrimonio de la Humanidad desde 1998</b>. Junto a los abrigos, un centro de interpretación del Museu d'Arqueologia de Catalunya muestra réplicas de las pinturas.</p>"
+   },
+   "ver_alli": [
+    "Las escenas de arqueros y animales en los abrigos (visita guiada).",
+    "Las réplicas del centro de interpretación.",
+    "La ermita de la Pietat, al pie de la sierra."
+   ],
+   "fuentes": [
+    "https://patrimoni.gencat.cat/en/collection/abrics-de-lermita",
+    "https://www.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "escornalbou",
+   "nombre": "Castell-Monestir d'Escornalbou",
+   "provincia": "Tarragona",
+   "comarca": "Riudecanyes (Baix Camp)",
+   "lat": 41.1272,
+   "lon": 0.916,
+   "tipo": "iglesia",
+   "estilo": "Románico, restaurado a principios del siglo XX",
+   "epoca": "Románico",
+   "anio": 1170,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>En la montaña de Escornalbou, a 649 metros, el rey <b>Alfonso I</b> donó en <b>1170</b> el lugar a un canónigo de Tarragona para que construyera una fortaleza, una iglesia dedicada a San Miguel y una canónica de <b>agustinos</b>. La iglesia se consagró en 1240.</p><p>Los canónigos se fueron en 1574 y en 1580 llegaron los <b>franciscanos</b>, que en 1686 abrieron aquí un seminario para las misiones de América. Tras la exclaustración de 1835 el conjunto se arruinó, hasta que en 1908 lo compró el diplomático reusense <b>Eduard Toda</b>, que lo restauró con criterios muy personales y le dio su aire de castillo de cuento.</p><p>La iglesia de <b>Sant Miquel</b> es románica, de una sola nave con bóveda apuntada y cripta de tres naves. En 1983 la Generalitat y la Diputación de Tarragona adquirieron el conjunto.</p>"
+   },
+   "ver_alli": [
+    "La iglesia románica de Sant Miquel y su portada con dos rostros de piedra.",
+    "Las tumbas excavadas en la roca ante la entrada.",
+    "El jardín-mirador del antiguo claustro, hecho con piezas reaprovechadas."
+   ],
+   "fuentes": [
+    "https://www.enciclopedia.cat/gran-enciclopedia-catalana/castell-monestir-descornalbou",
+    "https://www.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "altafulla",
+   "nombre": "Altafulla (Vila Closa)",
+   "provincia": "Tarragona",
+   "comarca": "Altafulla (Tarragonès)",
+   "lat": 41.1427,
+   "lon": 1.3758,
+   "tipo": "poblacion",
+   "estilo": "Villa medieval amurallada",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1059,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Altafulla tiene dos caras: la <b>Vila Closa</b>, el viejo núcleo amurallado en lo alto, y les <b>Botigues de Mar</b>, junto a la playa. El castillo de Altafulla aparece en los documentos en <b>1059</b>, y alrededor de él creció la villa. Los Montserrat, y después los Suelves, tuvieron su señorío hasta el fin de los señoríos.</p><p>El <b>castillo</b>, muy bien conservado, se reconstruyó a partir de planos del siglo XV y mantiene una galería renacentista. A su lado, la iglesia de <b>Sant Martí</b> se levantó entre 1701 y 1705 y guarda un retablo barroco de 1745. Las calles empinadas de la Vila Closa conservan casas señoriales en parte del siglo XVIII.</p><p>El casco antiguo fue declarado conjunto histórico en 1994 y bien cultural de interés nacional en 1998. En su término está la villa romana de Els Munts, Patrimonio de la Humanidad.</p>"
+   },
+   "ver_alli": [
+    "El castillo de los Montserrat y su galería renacentista.",
+    "La iglesia de Sant Martí junto al castillo.",
+    "Las calles empinadas y el pasaje de Santa Teresa en la Vila Closa."
+   ],
+   "fuentes": [
+    "https://visitaltafulla.cat/en/plan-your-trip-to-altafulla/histoire-daltafulla/",
+    "https://es.wikipedia.org/wiki/Altafulla",
+    "https://www.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "celler-cooperatiu-pinell-de-brai",
+   "nombre": "Celler Cooperatiu del Pinell de Brai",
+   "provincia": "Tarragona",
+   "comarca": "El Pinell de Brai (Terra Alta)",
+   "lat": 41.0166,
+   "lon": 0.5126,
+   "tipo": "monumento",
+   "estilo": "Modernismo agrario (arcos parabólicos)",
+   "epoca": "Siglo XX",
+   "anio": 1918,
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>La bodega cooperativa del Pinell de Brai, conocida como la <b>«catedral del vino»</b>, la levantó el arquitecto <b>Cèsar Martinell</b> entre <b>1918 y 1922</b> por encargo del sindicato agrícola del pueblo. Es a la vez bodega y molino de aceite.</p><p>Dentro, las naves principales son de planta basilical, con <b>arcos parabólicos de ladrillo</b> que sostienen la cubierta y ventanas pensadas para ventilar. Bajo el suelo, los depósitos cilíndricos de fermentación están separados por cámaras de aire aisladas: arquitectura al servicio del vino.</p><p>La fachada se organiza en tres niveles: zócalo de piedra, paramento liso y coronamiento. En el segundo luce el famoso <b>friso cerámico de Xavier Nogués</b>. Es monumento histórico desde 2002.</p>"
+   },
+   "ver_alli": [
+    "El friso cerámico de Xavier Nogués en la fachada.",
+    "Las naves con arcos parabólicos de ladrillo.",
+    "La caseta del transformador, con zócalo de piedra y ladrillo visto."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Bodega_Cooperativa_de_Pinell_de_Bray",
+    "https://www.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castell-de-tamarit",
+   "nombre": "Castell de Tamarit",
+   "provincia": "Tarragona",
+   "comarca": "Tarragona (Tarragonès)",
+   "lat": 41.1301,
+   "lon": 1.3611,
+   "tipo": "castillo",
+   "estilo": "Medieval, restaurado en estilo romántico",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Cataluña"
+   ],
+   "texto": {
+    "general": "<p>Sobre un promontorio a orillas del Mediterráneo, el castillo de Tamarit se construyó en el <b>siglo XI</b>, en el condado de Barcelona, para defender la costa de piratas. Fue de los Claramunt hasta el siglo XIII y después del arzobispado de Tarragona; en 1681 Carlos II concedió a Francisco de Montserrat el título de marqués de Tamarit.</p><p>En <b>1916</b> lo compró el estadounidense <b>Charles Deering</b>, que encargó una restauración de gusto romántico al pintor <b>Ramon Casas</b> y a Joan Ruiz. Aun así conserva elementos románicos y góticos, y una iglesia con un espléndido retablo barroco.</p><p>Es bien de interés cultural desde 1988. Hoy es de propiedad privada y no se visita: se usa para bodas y conciertos, pero su silueta sobre el mar se contempla desde fuera.</p>"
+   },
+   "ver_alli": [
+    "La silueta del castillo y su recinto sobre el promontorio.",
+    "Su posición defensiva sobre la costa, frente al mar."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Tamarit",
+    "https://www.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "coco-gralla",
+   "campos": {
+    "lat": 40.7222,
+    "lon": 0.3305,
+    "estilo": "Arte rupestre levantino",
+    "comarca": "Mas de Barberans (Montsià)",
+    "texto": {
+     "general": "<p>En el término de <b>Mas de Barberans</b>, en el barranco de Montpou, dentro del macizo de Els Ports, un abrigo rocoso guarda <b>69 figuras</b> pintadas en estilo levantino hace unos <b>8.000 años</b>, entre el final del Paleolítico y los inicios del Neolítico. El Departamento de Cultura y el Parque Natural dels Ports lo protegieron en secreto durante año y medio antes de presentarlo al público en 2017, y fue declarado Bien Cultural de Interés Nacional.</p><p>Lo más llamativo son sus <b>27 arqueros</b>, adornados con plumas y dispuestos en dos filas que miran a izquierda y derecha, quizá en una cacería. Entre ellos destaca una figura de gran cabeza ovalada que parece un ser sobrenatural. Hay también cabras, un jabalí, un saco y arcos con flechas, y en el techo otra escena de caza con una cabra herida por una flecha.</p>"
+    },
+    "ver_alli": [
+     "Los arqueros con plumas, alineados en dos filas.",
+     "En el techo, la cabra atravesada por una flecha.",
+     "Solo se visita con guía e inscripción previa; a veces hay visitas nocturnas.",
+     "Un sendero señalizado sube hasta el abrigo, en el Parque Natural dels Ports."
+    ],
+    "fuentes": [
+     "https://surtdecasa.cat/ebre/agenda/2026/visita-guiada-les-pintures-rupestres-del-coco-de-la-gralla/259561",
+     "https://www.diaridetarragona.com/ebre/101368/caadors-de-fa-8000-anys-al-montsi-20171208-0014-nmdt201712080014.html"
+    ]
+   }
+  },
+  {
+   "id": "calafell",
+   "campos": {
+    "lat": 41.1903,
+    "lon": 1.5812,
+    "estilo": "Poblado ibérico (reconstrucción experimental)",
+    "texto": {
+     "general": "<p>Junto a la costa, entre Calafell y Segur de Calafell, se levantó en el <b>siglo VI a. C.</b> un poblado fortificado de los íberos <b>cosetanos</b>, conocido también como Alorda Park o Les Toixoneres. Estuvo habitado hasta la época de la <b>Segunda Guerra Púnica</b>, a finales del siglo III a. C.</p><p>Tras más de treinta años de excavaciones, proyectos de la Universidad de Barcelona lo han <b>reconstruido a tamaño real</b> con arqueología experimental: casas con réplicas de objetos íberos, murallas y torres a las que se puede subir y la reproducción de un asalto romano con torre de asedio. Funciona como museo didáctico.</p><p>Forma parte de la Ruta de los Íberos que coordina el Museu d'Arqueologia de Catalunya.</p>"
+    },
+    "ver_alli": [
+     "Entrar en las casas reconstruidas, con réplicas de su ajuar.",
+     "Subir a las torres de defensa.",
+     "Cada julio se celebra un festival de recreación íbera."
+    ],
+    "fuentes": [
+     "https://www.penedesturisme.cat/en/what-to-do/iberian-citadel-calafell"
+    ]
+   }
+  },
+  {
+   "id": "moleta-remei",
+   "campos": {
+    "lat": 40.5583,
+    "lon": 0.4818,
+    "estilo": "Poblado ibérico",
+    "texto": {
+     "general": "<p>En uno de los últimos contrafuertes de la sierra del <b>Montsià</b>, sobre Alcanar, hubo primero un poblado de cabañas, de finales del siglo VII a. C. Encima creció, desde finales del siglo V hasta finales del II a. C., un poblado <b>ibérico ilercavón</b> de unos 4.000 metros cuadrados y unos 500 habitantes.</p><p>Tiene planta ovalada, con <b>dos calles concéntricas</b> que separan los barrios, muralla y torres, y construcciones que se interpretan como graneros. Los arqueólogos creen que allí vivían jefes de la tribu que controlaban los excedentes de cereal para intercambiarlos con griegos y fenicios por productos de lujo.</p><p>Lo excavaron Francesc Gracia, Glòria Munilla y Ramon Pallarés, y entre 2007 y 2008 se acondicionó para la visita.</p>"
+    },
+    "ver_alli": [
+     "Recorrer las dos calles concéntricas y la muralla.",
+     "Una casa ibérica reproducida con técnicas de la época.",
+     "Visitas guiadas; el centro de interpretación está en Alcanar (Casa O'Connor).",
+     "El camino desde el aparcamiento pasa entre olivos milenarios."
+    ],
+    "fuentes": [
+     "https://www.escapadaambnens.com/activitat/330/poblat-iberic-de-la-moleta-del-remei",
+     "https://www.enciclopedia.cat/EC-GEC-0247859",
+     "https://surtdecasa.cat/ebre/entorn/quatre-poblats-ilercavons-descobrir"
+    ]
+   }
+  },
+  {
+   "id": "castellet-banyoles",
+   "campos": {
+    "lat": 41.062,
+    "lon": 0.6652,
+    "estilo": "Poblado ibérico",
+    "texto": {
+     "general": "<p>Sobre un cerro que domina el <b>Ebro</b>, en Tivissa, se extiende una ciudad de los íberos <b>ilercavones</b> de unas 4,5 hectáreas, buena parte aún por excavar. En 2020 apareció un plomo con una marca monetaria que, según los arqueólogos, indica que su nombre ibérico era <b>Kum</b>.</p><p>Se conocen la muralla con su puerta y dos torres pentagonales, barrios de casas y cuatro grandes casas con patio del siglo III a. C., destruidas en los últimos años de ese siglo. El lugar quedó vacío hasta mediados del siglo II a. C., cuando se volvió a habitar durante casi otro siglo.</p><p>Entre 1912 y 1927 aparecieron por azar los lotes del <b>tesoro de Tivissa</b>: vasos y platos de plata, joyas y monedas, hoy en el Museu d'Arqueologia de Catalunya. En el cerro quedan también restos medievales y trincheras de la Guerra Civil.</p>"
+    },
+    "ver_alli": [
+     "Las dos torres pentagonales de la entrada.",
+     "La zona más excavada, al fondo del recinto, con las casas.",
+     "Las vistas sobre el Ebro.",
+     "Recinto abierto con paneles explicativos; se sube a pie desde un aparcamiento junto a la carretera."
+    ],
+    "fuentes": [
+     "https://museu.gramenet.cat/fileadmin/museu_torre_balldovina/Imatges_activitats/ProgramaCSI2020_Ruta_dels_Ibers.pdf",
+     "https://www.enciclopedia.cat/EC-GEC-0016069",
+     "https://surtdecasa.cat/ebre/entorn/quatre-poblats-ilercavons-descobrir"
+    ]
+   }
+  },
+  {
+   "id": "tarraco",
+   "campos": {
+    "lat": 41.1161,
+    "lon": 1.257,
+    "estilo": "Romano",
+    "ver_alli": [
+     "Anfiteatro, circo, pretorio, foro provincial y muralla se recorren a pie por la Part Alta.",
+     "El Pont del Diable, el acueducto, está a las afueras de la ciudad.",
+     "Torre de los Escipiones y cantera del Mèdol.",
+     "MNAT: reapertura prevista hacia Navidad de 2026."
+    ],
+    "fuentes": [
+     "https://rutes-content.tarragona.cat/en/amfiteatre-roma",
+     "https://www.mnat.cat/en/theatre-of-tarraco/"
+    ]
+   }
+  },
+  {
+   "id": "arco-bera",
+   "campos": {
+    "lat": 41.1733,
+    "lon": 1.4692,
+    "estilo": "Romano",
+    "anio": -15,
+    "texto": {
+     "general": "<p>A finales del siglo I a. C. se levantó sobre la <b>Vía Augusta</b> este arco de un solo vano, pagado por voluntad testamentaria de <b>Lucio Licinio Sura</b> —que no hay que confundir con el senador del mismo nombre que vivió en Tarraco en el siglo I d. C.— y dedicado, probablemente, a <b>Augusto</b>.</p><p>Mide 12,28 metros de alto y 12 de ancho, con pilastras corintias que sostienen el entablamento. No tiene relieves: su belleza está en las proporciones. Una hipótesis dice que marcaba el límite norte del territorio de los cosetanos.</p><p>Se restauró en 1788 y en 1840 —esta segunda intervención dañó el entablamento y la inscripción—, un atentado casi lo derribó en 1936 y entre 1994 y 1998 se le devolvió el aspecto anterior a 1840.</p>"
+    },
+    "ver_alli": [
+     "La dedicatoria, en el friso sobre el arco.",
+     "Las pilastras corintias de los lados.",
+     "Está en medio de la carretera N-340: cuidado al cruzar."
+    ],
+    "fuentes": [
+     "https://www.mnat.cat/en/arch-of-bera/",
+     "https://www.enciclopedia.cat/gran-enciclopedia-catalana/arc-de-bera",
+     "https://es.wikipedia.org/wiki/Arco_de_Bar%C3%A1"
+    ]
+   }
+  },
+  {
+   "id": "els-munts",
+   "campos": {
+    "lat": 41.1358,
+    "lon": 1.3858,
+    "estilo": "Romano",
+    "texto": {
+     "general": "<p>Junto a la playa de <b>Altafulla</b>, cerca de Tarraco, se levantó en el siglo I d. C. una lujosa villa que estuvo habitada hasta el siglo V y se abandonó entre los siglos VI y VII. Se relaciona con <b>Caius Valerius Avitus</b>, magistrado de Tarraco, y su mujer <b>Faustina</b>.</p><p>Los mármoles, las esculturas y las pinturas murales hallados muestran el lujo en que vivían sus dueños, con <b>termas</b> y jardines junto al mar. El Museo Nacional Arqueológico de Tarragona la excava desde 1967 y guarda sus mejores piezas; forma parte del conjunto arqueológico de Tarraco, Patrimonio Mundial desde 2000.</p>"
+    },
+    "ver_alli": [
+     "Las termas, de lo mejor conservado de la villa.",
+     "Bajo cubierta, suelos de mosaico y paredes pintadas.",
+     "El paseo hasta el mar entre grandes árboles.",
+     "En verano hay visitas teatralizadas."
+    ],
+    "fuentes": [
+     "https://www.mnat.cat/en/the-roman-villa-of-els-munts/",
+     "https://www.spain.info/es/lugares-interes/villa-romana-munts/",
+     "https://costadaurada.info/en/node/2450"
+    ]
+   }
+  },
+  {
+   "id": "centcelles",
+   "campos": {
+    "lat": 41.1558,
+    "lon": 1.2261,
+    "estilo": "Romano tardío",
+    "ver_alli": [
+     "Dentro, la cúpula de mosaico con la cacería, escenas de la Biblia y las estaciones.",
+     "Bajo la gran sala, la cripta.",
+     "Una audioguía explica el conjunto."
+    ],
+    "fuentes": [
+     "https://www.mnat.cat/en/roman-complex-of-centcelles/"
+    ]
+   }
+  },
+  {
+   "id": "monestir-de-poblet",
+   "campos": {
+    "lat": 41.381,
+    "lon": 1.0828,
+    "estilo": "Románico y gótico (cisterciense)",
+    "ver_alli": [
+     "La Puerta Real, una entrada fortificada del siglo XIV.",
+     "El claustro, la sala capitular y la iglesia con los sepulcros reales.",
+     "El retablo mayor de alabastro de Damià Forment (1527-1529).",
+     "Sigue habitado por monjes: algunas zonas son de clausura."
+    ],
+    "fuentes": [
+     "https://www.poblet.cat/ca/visita-turistica/",
+     "https://es.wikipedia.org/wiki/Monasterio_de_Poblet"
+    ]
+   }
+  },
+  {
+   "id": "monestir-de-santes-creus",
+   "campos": {
+    "lat": 41.3462,
+    "lon": 1.364,
+    "estilo": "Románico y gótico (cisterciense)",
+    "ver_alli": [
+     "El claustro gótico del siglo XIV, el primero de este estilo en la Corona de Aragón, con sus capiteles.",
+     "En la iglesia, los sepulcros de Pedro el Grande y de Jaime II con Blanca de Anjou.",
+     "El audiovisual «El món del Cister» explica la vida de los monjes."
+    ],
+    "fuentes": [
+     "https://patrimoni.gencat.cat/ca/monuments/monuments/reial-monestir-de-santes-creus"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-tarragona",
+   "campos": {
+    "lat": 41.1192,
+    "lon": 1.258,
+    "estilo": "Románico y gótico",
+    "texto": {
+     "general": "<p>En lo más alto de Tarragona, la catedral de Santa Tecla se levanta sobre el <b>recinto de culto imperial romano</b>, donde hubo probablemente un templo dedicado a Augusto; después ocuparon el lugar una catedral visigoda y una mezquita.</p><p>Las obras empezaron después de 1171 y se consagró en 1331, por eso es un edificio de <b>transición del románico al gótico</b>: un proyecto románico rematado con bóvedas góticas. La fachada tiene tres puertas, un gran <b>rosetón</b> y una portada gótica atribuida al maestro Bartomeu, con los apóstoles.</p><p>En el claustro, un capitel cuenta la fábula del <b>gato y las ratas</b>. El retablo mayor, de alabastro, lo talló Pere Johan entre 1426 y 1434 con la vida de santa Tecla. El campanario mide unos 70 metros y el Museo Diocesano guarda una gran colección, con tapices.</p>"
+    },
+    "ver_alli": [
+     "La portada gótica con los apóstoles y el rosetón.",
+     "En el claustro, el capitel del gato y las ratas.",
+     "El retablo de alabastro de Pere Johan.",
+     "El Museo Diocesano, al final de la visita."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_de_Tarragona"
+    ]
+   }
+  },
+  {
+   "id": "murallas-de-montblanc",
+   "campos": {
+    "lat": 41.3749,
+    "lon": 1.1623,
+    "estilo": "Gótico (arquitectura militar)",
+    "texto": {
+     "general": "<p>Montblanc, fundada en 1163, se rodeó en el siglo XIV de una gran <b>muralla</b>: las obras se encargaron hacia 1366, en el reinado de Pedro el Ceremonioso, y la última intervención documentada es de 1396. Mide unos 1.700 metros; la tradición habla de 34 torres, y hoy se ven 25.</p><p>Se conservan portales como el de <b>Sant Jordi</b> y el del Bover. La tradición sitúa aquí, junto al Portal de Sant Jordi, la <b>leyenda de Sant Jordi y el dragón</b>. El recinto es conjunto monumental desde 1947.</p>"
+    },
+    "ver_alli": [
+     "El Portal de Sant Jordi, donde la tradición sitúa la lucha con el dragón.",
+     "Algunos tramos de muralla y torres se pueden recorrer por arriba.",
+     "Dentro del recinto, el casco antiguo se recorre bien a pie."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Muralla_de_Montblanc"
+    ]
+   }
+  },
+  {
+   "id": "casa-navas-y-el-modernismo-de-reus",
+   "campos": {
+    "lat": 41.1548,
+    "lon": 1.1085,
+    "estilo": "Modernismo",
+    "texto": {
+     "general": "<p><b>Reus</b>, ciudad natal de Gaudí (algunas fuentes lo hacen nacer en la vecina Riudoms), era a principios del siglo XX la segunda ciudad de Cataluña y se llenó de edificios modernistas de <b>Lluís Domènech i Montaner</b>, Pere Caselles y otros arquitectos, que hoy forman una ruta modernista.</p><p>La joya es la <b>Casa Navàs</b> (1901-1907), en la plaza del Mercadal, frente al ayuntamiento, encargada por los comerciantes de tejidos Joaquim Navàs y Josepa Blasco. Conserva casi intacto el interior original: lámparas, mobiliario, tapicerías y más de 200 metros de vitrales. Un bombardeo del 26 de marzo de 1938 destruyó la torre de la esquina.</p><p>Domènech hizo también en Reus la Casa Rull, la Casa Gasull y el <b>Institut Pere Mata</b>, un hospital psiquiátrico de pabellones empezado en 1897, anterior al de Sant Pau y todavía en funcionamiento; uno de sus pabellones se puede visitar.</p>"
+    },
+    "ver_alli": [
+     "La fachada de la Casa Navàs, en la plaza del Mercadal, frente al ayuntamiento.",
+     "Dentro, vitrales y mobiliario originales; se visita con guía y conviene reservar.",
+     "En el Institut Pere Mata se visita un pabellón que ya no tiene uso médico."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Casa_Navàs",
+     "https://www.reus.cat/sites/reus/files/domenech_i_montaner_-_reus.pdf",
+     "https://en.wikipedia.org/wiki/Institut_Pere_Mata",
+     "https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD"
+    ]
+   }
+  },
+  {
+   "id": "poble-vell-de-corbera-d-ebre",
+   "campos": {
+    "lat": 41.0796,
+    "lon": 0.4746,
+    "estilo": "Arquitectura popular en ruinas",
+    "texto": {
+     "general": "<p>El viejo pueblo de Corbera d'Ebre, en lo alto del cerro de la Muntera, quedó en primera línea del frente republicano durante la <b>batalla del Ebro</b> (julio-noviembre de 1938), la más larga y sangrienta de la guerra. A partir de septiembre de 1938 quedó destruido casi por completo.</p><p>El régimen franquista decidió no reconstruirlo y los vecinos levantaron sus casas en la parte baja. Las <b>ruinas</b> se conservan como memorial y monumento a la paz: Lugar Histórico desde 1992 y Bien Cultural de Interés Nacional desde 1993.</p><p>La vieja iglesia de <b>Sant Pere</b>, bombardeada, es el símbolo del lugar y hoy acoge exposiciones y conciertos. Desde 1995, 28 obras de arte, el <b>Abecedari de la Llibertat</b>, salpican sus calles.</p>"
+    },
+    "ver_alli": [
+     "Recorrer las calles y casas en ruinas.",
+     "La vieja iglesia de Sant Pere, con exposiciones y fotografías del pueblo antes de la destrucción.",
+     "Buscar las 28 piezas del Abecedari de la Llibertat."
+    ],
+    "fuentes": [
+     "https://surtdecasa.cat/ebre/llocs-interes/corbera-debre/poble-vell-de-corbera-debre"
+    ]
+   }
+  },
+  {
+   "id": "museu-alcover",
+   "campos": {
+    "lat": 41.2616,
+    "lon": 1.1695,
+    "estilo": "Museo de paleontología",
+    "ver_alli": [
+     "Exposición de fósiles marinos del Triásico de Alcover y Mont-ral.",
+     "Actividad familiar «Triàsic en família», con reserva previa.",
+     "La visita se puede combinar con la casa noble de Ca Batistó."
+    ],
+    "fuentes": [
+     "https://www.diaridetarragona.com/cultura/169876/quien-era-el-peix-pedra-que-vivia-en-las-montanas-de-prades-di13283808.html",
+     "https://ibl.kb.nl/article/0000000120416//1/41",
+     "https://visitmuseum.gencat.cat/en/museum/museu-d-alcover"
+    ]
+   }
+  },
+  {
+   "id": "anfiteatro-de-tarragona",
+   "campos": {
+    "estilo": "Romano",
+    "ver_alli": [
+     "Gradas, arena, fosos y restos de la basílica visigoda y de la iglesia románica en el centro.",
+     "Forma parte del conjunto arqueológico de Tarraco, Patrimonio Mundial, gestionado por el Museu d'Història de Tarragona.",
+     "Desde las gradas superiores se ve el mar y el Balcó del Mediterrani."
+    ],
+    "fuentes": [
+     "https://www.tarragona.cat/patrimoni/museu-historia/fitxers/altres/flyers/amfiteatre/mh-desplegable-amfiteatre-es.pdf",
+     "https://icac.cat/es/recerca/projectes-de-recerca/projecte/estudi-de-la-basilica-paleocristiana-de-lamfiteatre-de-tarragona/"
+    ]
+   }
+  }
+ ]
+}
