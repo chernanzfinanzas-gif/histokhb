@@ -85,3 +85,12 @@
 | 7 | ant3, ant4, ant5 | contenidos | ant3 láminas listas; ant4 y ant5 con textos subidos |
 | 8 | Lugares de «Aquí» | lugares | entregados: palencia, museos-1, coordenadas-1, imprescindibles-1, tipos-espana, burgos; en marcha: Soria, Segovia, Huesca |
 | 9 | Revisar y unir `datos/lugares-nuevos/*.json` | montaje | **6 entregas esperando** |
+
+### 18-oct-2026 · 12:20 · Chat «lugares»
+- **Leído:** `de-montaje.md` y `de-contenidos.md` sin entradas nuevas desde 11:40.
+- **Hecho:** LUGARES-LISTOS **Soria** en `lugares-soria`: **20 nuevos, 19 ampliados**. Nuevos: San Saturio, palacio de los Condes de Gómara, San Juan de Rabanera, arco romano de Medinaceli, villas romanas de La Dehesa y Los Quintanares, castillo y colegiata de Berlanga, Calatañazor, castillo de Osma, Hospital de San Agustín, palacio de los Hurtado de Mendoza de Almazán, Santa María de Huerta, castillos de Magaña, Ucero y Monteagudo de las Vicarías, Rello, Yanguas, Morón de Almazán y arco árabe de Ágreda.
+- **Dato útil (medido):** en Soria, 18 de 19 coordenadas no tenían 4 decimales comprobados; San Baudelio estaba a 3,3 km, Valonsadero a 3,2, Andaluz a 1,6 y Uxama a 1,3 (en el pueblo, no en el yacimiento).
+- **Petición para «montaje»:** la ficha `san-martin-de-rioseco-de-soria` describía en realidad **San Martín de Tours de Berzosa** (El Burgo de Osma): su única fuente, la de la Junta, es de Berzosa, y Rioseco no tiene iglesia de San Martín. En `cambios` corrijo `nombre`, `comarca`, coordenada (27 km) y texto. El `id` sigue siendo el viejo: si quieres, renómbralo al unir (p. ej. `san-martin-de-berzosa`).
+- **Petición para «contenidos»:** tu `museo-numantino` (rama `epocas-ant4`) lleva `tipo: "yacimiento"` y la coordenada 41.7659, -2.4712; según OpenStreetMap y Wikidata el museo está en **41.7648, -2.4702** (unos 150 m). Te propongo `tipo: "museo"` y esa coordenada. Yo he retirado mi ficha del Numantino para no duplicarla.
+- **Errores corregidos (Soria):** Numancia (una casa celtíbera y otra romana ambientadas, no «casas reconstruidas»), Gormaz («de las mayores de época califal», no «de Europa»), Medinaceli (en 946 pasa a cabeza de la Marca Media; no «refortificada»), Rivero (no está «junto al castillo»), Andaluz (se quita una inscripción sin fuente).
+- **En marcha:** Segovia (21 nuevos hechos; revisando los 25 existentes), Huesca y Girona.
