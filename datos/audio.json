@@ -2787,6 +2787,98 @@
    "viva_tipo": "camara",
    "d": 351,
    "voz_d": "Leda"
+  },
+  "des-cupula": {
+   "viva": "img/vivas/des-cupula.mp4",
+   "viva_tipo": "veo"
+  },
+  "des-machu-picchu": {
+   "viva": "img/vivas/des-machu-picchu.mp4",
+   "viva_tipo": "veo"
+  },
+  "med5-10": {
+   "viva": "img/vivas/med5-10.mp4",
+   "viva_tipo": "veo"
+  },
+  "des-ciudad-prohibida": {
+   "viva": "img/vivas/des-ciudad-prohibida.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-gutenberg": {
+   "viva": "img/vivas/des-gutenberg.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-transito": {
+   "viva": "img/vivas/des-transito.mp4",
+   "viva_tipo": "camara"
+  },
+  "med5-0": {
+   "viva": "img/vivas/med5-0.mp4",
+   "viva_tipo": "camara"
+  },
+  "med5-1": {
+   "viva": "img/vivas/med5-1.mp4",
+   "viva_tipo": "camara"
+  },
+  "med5-11": {
+   "viva": "img/vivas/med5-11.mp4",
+   "viva_tipo": "camara"
+  },
+  "med5-12": {
+   "viva": "img/vivas/med5-12.mp4",
+   "viva_tipo": "camara"
+  },
+  "med5-13": {
+   "viva": "img/vivas/med5-13.mp4",
+   "viva_tipo": "camara"
+  },
+  "med5-14": {
+   "viva": "img/vivas/med5-14.mp4",
+   "viva_tipo": "camara"
+  },
+  "med5-15": {
+   "viva": "img/vivas/med5-15.mp4",
+   "viva_tipo": "camara"
+  },
+  "med5-16": {
+   "viva": "img/vivas/med5-16.mp4",
+   "viva_tipo": "camara"
+  },
+  "med5-17": {
+   "viva": "img/vivas/med5-17.mp4",
+   "viva_tipo": "camara"
+  },
+  "med5-2": {
+   "viva": "img/vivas/med5-2.mp4",
+   "viva_tipo": "camara"
+  },
+  "med5-3": {
+   "viva": "img/vivas/med5-3.mp4",
+   "viva_tipo": "camara"
+  },
+  "med5-4": {
+   "viva": "img/vivas/med5-4.mp4",
+   "viva_tipo": "camara"
+  },
+  "med5-5": {
+   "viva": "img/vivas/med5-5.mp4",
+   "viva_tipo": "camara"
+  },
+  "med5-6": {
+   "viva": "img/vivas/med5-6.mp4",
+   "viva_tipo": "camara"
+  },
+  "med5-7": {
+   "viva": "img/vivas/med5-7.mp4",
+   "viva_tipo": "camara"
+  },
+  "med5-8": {
+   "viva": "img/vivas/med5-8.mp4",
+   "viva_tipo": "camara"
+  },
+  "med5-9": {
+   "viva": "img/vivas/med5-9.mp4",
+   "viva_tipo": "camara"
   }
  }
 }
