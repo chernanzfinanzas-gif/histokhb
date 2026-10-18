@@ -1,0 +1,452 @@
+{
+ "zona": "Ampliar mundo-05a",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "casa-natal-de-shakespeare",
+   "campos": {
+    "texto": {
+     "general": "<p>En esta casa de entramado de madera de <b>Henley Street</b>, en Stratford-upon-Avon, nació <b>William Shakespeare</b> en 1564: fue bautizado el 26 de abril en la iglesia de la Santísima Trinidad. Se levantó a mediados del siglo XVI y su padre, <b>John Shakespeare</b>, guantero y comerciante de lana, la dividió en dos para vivir en una parte y tener en la otra su negocio; la habitación del fondo fue probablemente su taller de guantes.</p><p>En 1846 la casa salió a la venta y el empresario de circo P. T. Barnum quiso desmontarla y llevársela a Estados Unidos. Para impedirlo se reunieron 3.000 libras, con donantes como Charles Dickens, y en 1847 se compró: así nació lo que hoy es el <b>Shakespeare Birthplace Trust</b>, que la cuida.</p><p>Hoy se recorren las habitaciones amuebladas como en tiempos del poeta, el taller del guantero y un jardín con flores y hierbas que él conoció. Visitantes como Walter Scott, Dickens o Thomas Carlyle firmaron en sus muros y ventanas, y aún se conserva un cristal lleno de firmas rayadas. En el pueblo están también la casa de su mujer, <b>Anne Hathaway</b>, en Shottery; la iglesia de la Santísima Trinidad, donde está enterrado junto a ella; y el teatro de la <b>Royal Shakespeare Company</b>, a orillas del Avon.</p><p class=\"dato\"><span>¿Sabías que…?</span>Sobre su tumba una inscripción maldice a quien mueva sus huesos.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Shakespeare%27s_Birthplace",
+     "https://en.wikipedia.org/wiki/Holy_Trinity_Church,_Stratford-upon-Avon",
+     "https://en.wikipedia.org/wiki/Anne_Hathaway%27s_Cottage",
+     "https://en.wikipedia.org/wiki/Royal_Shakespeare_Theatre"
+    ],
+    "ver_alli": [
+     "En el jardín, actores recitan escenas a petición.",
+     "La casa de Anne Hathaway está en Shottery, a 1,6 km del centro; se puede ir andando.",
+     "La torre del Royal Shakespeare Theatre tiene un mirador sobre el pueblo y el río Avon."
+    ]
+   }
+  },
+  {
+   "id": "museo-del-laboratorio-de-fleming",
+   "campos": {
+    "texto": {
+     "general": "<p>Este pequeño museo conserva, restaurado, el laboratorio del <b>Hospital St Mary</b> de Paddington, en Londres, donde <b>Alexander Fleming</b> descubrió la <b>penicilina</b> en 1928. Está reconstruido tal como estaba, con sus placas y aparatos, y se completa con un museo sobre su vida, su trabajo y los antibióticos.</p><p>El 3 de septiembre de 1928, al volver de unas vacaciones en familia, Fleming encontró que una placa con cultivos de estafilococos se había contaminado con un moho, <i>Penicillium</i>, y que alrededor de él las bacterias habían muerto. Llamó penicilina a la sustancia y publicó el hallazgo en 1929, pero apenas se le hizo caso, porque era muy difícil producirla en cantidad. Fueron <b>Howard Florey</b> y <b>Ernst Chain</b>, en Oxford, quienes la purificaron y encontraron cómo fabricarla. Durante la Segunda Guerra Mundial se fabricó en masa en Gran Bretaña y en Estados Unidos, y para el Desembarco de Normandía, en 1944, había ya suficiente para tratar a los heridos aliados. Los tres compartieron el <b>Nobel de Medicina de 1945</b>.</p><p>El museo cuenta todo este camino, desde la placa contaminada hasta la producción en masa en la guerra.</p><p class=\"dato\"><span>¿Sabías que…?</span>Fleming llamaba «el mito de Fleming» a su fama, y atribuía a Florey y Chain el mérito de convertir su hallazgo en un medicamento.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Alexander_Fleming_Laboratory_Museum",
+     "https://en.wikipedia.org/wiki/Alexander_Fleming",
+     "https://en.wikipedia.org/wiki/St_Mary%27s_Hospital,_London"
+    ]
+   }
+  },
+  {
+   "id": "museo-internacional-de-la-esclavitud",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Internacional de la Esclavitud</b> está en el <b>Albert Dock</b> de Liverpool, el gran puerto de la trata de esclavos británica, y forma parte del Museo Marítimo de Merseyside. Abrió el <b>23 de agosto de 2007</b>, fecha elegida con intención: es el Día Internacional del Recuerdo de la Trata de Esclavos y de su Abolición, que conmemora el inicio de la sublevación de esclavos de Santo Domingo, y 2007 era además el bicentenario de la ley de 1807 que abolió la trata, aunque no la esclavitud, en el Imperio británico.</p><p>El tema ya se trataba en el Museo Marítimo, que en 1994 abrió una galería sobre la esclavitud transatlántica; activistas como Dorothy Kuya reclamaban desde 1992 un museo propio. Sus tres grandes salas cuentan la vida en <b>África occidental</b>, la captura y el viaje en los barcos negreros, la esclavitud en América y la larga lucha por la libertad, y llegan hasta la esclavitud actual, el racismo y la discriminación. Entre sus piezas está el cuadro <i>Am Not I A Man and a Brother</i>, de hacia 1800, basado en el emblema del comité abolicionista.</p><p><b>Atención:</b> el museo cerró a comienzos de 2025 por una gran reforma que lo ampliará al antiguo edificio de la Oficina del Tráfico del Muelle, unido por una pasarela de hierro y cristal; su reapertura está prevista para 2029.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/International_Slavery_Museum"
+    ],
+    "ver_alli": [
+     "El museo está cerrado por reforma hasta 2029: conviene comprobar antes si ha reabierto.",
+     "Está en el mismo edificio que el Museo Marítimo de Merseyside, en el frente portuario de Liverpool.",
+     "A pocos pasos, en el muelle Royal Albert, está The Beatles Story."
+    ]
+   }
+  },
+  {
+   "id": "skara-brae",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Skara Brae</b> es una aldea de piedra del Neolítico en la bahía de Skaill, en la costa oeste de Mainland, la isla mayor de las <b>Orcadas</b>. Estuvo habitada unos seiscientos años, aproximadamente entre el <b>3180 y el 2500 a. C.</b>: es contemporánea de las primeras tumbas de Egipto, las mastabas, y de las primeras ciudades de la cultura de Harappa.</p><p>Durante milenios la cubrió la arena, hasta que una fuerte tormenta en el invierno de <b>1850</b> arrancó la tierra de un montículo y dejó a la vista casas sin techo. El señor de la vecina Skaill House, William Watt, excavó cuatro casas hasta 1868. Tras otra tormenta en 1924, el arqueólogo <b>V. Gordon Childe</b> la estudió a partir de 1927; él la creyó de hacia el 500 a. C., hasta que el carbono 14 de 1972-73 reveló su verdadera antigüedad.</p><p>Hoy se ven diez estructuras unidas por pasadizos. Las casas tienen el mismo mobiliario de losas de piedra: un <b>hogar central</b>, camas a cada lado y una <b>estantería</b> frente a la entrada; incluso tenían desagües bajo el suelo. Aparecieron también misteriosas bolas de piedra talladas. Desde 1999 es Patrimonio Mundial dentro del «Corazón neolítico de las Orcadas», con el anillo de Brodgar, las piedras de Stenness y Maeshowe.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Skara_Brae"
+    ]
+   }
+  },
+  {
+   "id": "king-s-college-de-cambridge",
+   "campos": {
+    "texto": {
+     "general": "<p>La joya del <b>King's College</b> de Cambridge es su capilla, una de las mejores obras del gótico perpendicular inglés. La fundó <b>Enrique VI</b>, que puso la primera piedra el 25 de julio de 1446, y se terminó en 1515 bajo Enrique VIII, tras casi setenta años y varios reyes.</p><p>Su gran bóveda de abanico, la <b>más grande del mundo</b>, la levantó entre 1512 y 1515 el maestro cantero John Wastell. A cada lado se abren doce grandes ventanales con <b>vidrieras</b> hechas por artistas flamencos entre 1515 y 1531, salvo la del oeste, de 1879. El cancel de madera que separa la nave del coro lo mandó hacer Enrique VIII entre 1532 y 1536 para celebrar su boda con Ana Bolena, y sobre el altar cuelga <i>La adoración de los Magos</i>, que Rubens pintó en 1634. Desde 1918 el coro canta en Nochebuena el <b>Festival de Nueve Lecciones y Villancicos</b>, que la BBC retransmite casi cada año desde 1928.</p><p>Junto a él está el <b>Trinity College</b>, fundado por Enrique VIII en 1546, donde estudió Newton: ante su puerta principal crece un manzano genéticamente idéntico al de su casa natal. También se puede pasear en barca por el río Cam.</p><p class=\"dato\"><span>¿Sabías que…?</span>El niño que canta solo la primera estrofa del villancico de apertura no sabe que le toca hasta justo antes de empezar.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/King%27s_College_Chapel,_Cambridge",
+     "https://en.wikipedia.org/wiki/A_Festival_of_Nine_Lessons_and_Carols",
+     "https://en.wikipedia.org/wiki/Trinity_College,_Cambridge",
+     "https://en.wikipedia.org/wiki/Isaac_Newton%27s_apple_tree"
+    ],
+    "ver_alli": [
+     "En Navidad su coro canta en directo para todo el mundo.",
+     "El paseo en barca por el Cam (punting) permite ver por detrás la capilla y los colegios.",
+     "Ante la puerta del Trinity College está el manzano descendiente del de Newton."
+    ]
+   }
+  },
+  {
+   "id": "museo-del-mary-rose",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Mary Rose</b> fue uno de los grandes barcos de guerra de <b>Enrique VIII</b> y su preferido. Se empezó a construir en Portsmouth en enero de 1510, se botó en 1511 y sirvió más de treinta años, hasta que el <b>19 de julio de 1545</b> se hundió en el estrecho de Solent, frente a Portsmouth, mientras combatía contra las galeras francesas. De una tripulación de al menos 400 hombres se salvaron menos de 35. La explicación más aceptada es que se escoró con una racha de viento y entró el agua por las portas de los cañones abiertas.</p><p>El lodo del fondo conservó medio casco y su contenido durante más de cuatro siglos. Tras años de excavación submarina dirigida por la arqueóloga <b>Margaret Rule</b>, el casco se sacó a la superficie el <b>11 de octubre de 1982</b>. Se recuperaron más de 26.000 objetos y piezas de madera: de los 250 arcos largos que llevaba se han encontrado 172, además de peines, instrumentos musicales y utensilios de los marineros.</p><p>El museo actual, de 2013, se construyó encima del dique seco donde reposa el casco, que tras años de rociado con productos conservantes y de secado se ve hoy sin cristales de por medio. A su lado se exponen los objetos y el esqueleto de <b>Hatch</b>, el perro del barco, emparentado con los actuales jack russell.</p><p class=\"dato\"><span>¿Sabías que…?</span>Al perro lo llamaron Hatch («escotilla») por la puerta corredera junto a la que apareció.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Mary_Rose",
+     "https://en.wikipedia.org/wiki/Mary_Rose_Museum",
+     "https://maryrose.org/blog/collections/the-collections-team/seabed-to-showcase-hatch-the-dog/"
+    ],
+    "ver_alli": [
+     "Está en el arsenal histórico de Portsmouth, junto al HMS Victory.",
+     "Desde las galerías se ve el casco a distintas alturas, enfrente de los objetos que ocupaban cada cubierta."
+    ]
+   }
+  },
+  {
+   "id": "museo-imperial-de-la-guerra",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Imperial War Museum</b> es el gran museo británico de las guerras del siglo XX y de los conflictos hasta hoy. Se creó en 1917, en plena Primera Guerra Mundial, y el rey Jorge V lo inauguró el 9 de junio de 1920 en el Crystal Palace. En 1936 se trasladó a su sede actual, en Lambeth.</p><p>El edificio fue antes el <b>Hospital Real de Bethlem</b>, el famoso manicomio conocido como «Bedlam», terminado en 1814 sobre planos de James Lewis; su cúpula de cobre, que albergaba la capilla, la añadió Sydney Smirke en 1844-1846. Cuando lord Rothermere compró el solar derribó las dos alas, y el espacio libre se convirtió en el parque Geraldine Mary Harmsworth, con el nombre de su madre.</p><p>Tras una reforma de Foster and Partners, en 2014 se abrieron nuevas <b>galerías de la Primera Guerra Mundial</b> y un gran atrio central donde cuelgan aviones y se exponen vehículos militares; entre sus piezas hay un Spitfire que voló en la batalla de Inglaterra. La exposición del <b>Holocausto</b>, abierta en 2000, se renovó en 2021 con nuevas galerías sobre el Holocausto y la Segunda Guerra Mundial. Ante la fachada esperan dos enormes cañones navales de 15 pulgadas, de los acorazados HMS Ramillies y HMS Resolution, que dispararon en la Segunda Guerra Mundial.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Imperial_War_Museum_London"
+    ]
+   }
+  },
+  {
+   "id": "garganta-de-ironbridge",
+   "campos": {
+    "texto": {
+     "general": "<p>La garganta del río <b>Severn</b>, en Shropshire, es uno de los lugares donde nació la Revolución Industrial. Allí había carbón, mineral de hierro, caliza y arcilla casi a flor de tierra, y en 1709, en Coalbrookdale, <b>Abraham Darby I</b> logró por primera vez fundir el hierro con <b>coque</b>, hecho con el carbón del lugar, en lugar de con carbón vegetal.</p><p>Su nieto, <b>Abraham Darby III</b>, fundió las piezas del <b>Iron Bridge</b>, el primer gran puente de hierro del mundo, que había propuesto el arquitecto Thomas Farnolls Pritchard. Se construyó entre 1777 y 1779 con unas 385 toneladas de hierro, salva el río con un solo arco de 30,6 metros y se abrió al tráfico el 1 de enero de 1781. Curiosamente, sus piezas se unieron con ensambles de carpintería, como colas de milano. Desde 1934 solo se cruza a pie y en 2017-2018 se restauró a fondo. El puente dio nombre a la garganta, antes llamada del Severn.</p><p>Desde 1986 es <b>Patrimonio de la Humanidad</b>. Un patronato creado en 1968 gestiona diez museos por el valle: altos hornos, fábricas de cerámica y azulejos y un pueblo victoriano recreado, Blists Hill.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ironbridge_Gorge",
+     "https://en.wikipedia.org/wiki/The_Iron_Bridge",
+     "https://en.wikipedia.org/wiki/Ironbridge_Gorge_Museum_Trust"
+    ],
+    "ver_alli": [
+     "Se necesita al menos un día para ver el puente y varios museos.",
+     "El puente se cruza a pie y la mejor vista es desde la orilla, aguas abajo."
+    ]
+   }
+  },
+  {
+   "id": "museo-britanico-arte-de-benin-e-ife",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Británico</b> de Londres guarda la mayor colección del mundo de los <b>bronces de Benín</b>: unos 900 objetos. Son placas, cabezas y esculturas de latón y bronce que decoraban el palacio real del reino de Benín, en el actual estado de Edo (Nigeria), hechas con la técnica de la cera perdida por un gremio de fundidores al servicio del rey u <i>oba</i>. La mayoría son de los siglos XV y XVI.</p><p>Las tropas británicas los saquearon en <b>1897</b>, en la expedición de castigo que arrasó la ciudad de Benín. Nigeria reclama su devolución desde su independencia, en 1960: Alemania aceptó en 2022 devolver más de mil y ese año el Museo Horniman fue el primero británico en hacerlo, pero el Museo Británico no puede, porque una ley del Parlamento protege su colección. Las placas cuentan la historia del reino, y algunas muestran a <b>comerciantes portugueses</b>, con quienes Benín comerció desde finales del siglo XV, así como las armas y las <i>manillas</i> de latón que traían.</p><p>Junto a ellas destaca la <b>cabeza de Ife</b>, de los siglos XIV-XV, hallada por casualidad en 1938 en esa ciudad yoruba y llegada al museo en 1939. Su naturalismo sorprendió a Occidente; probablemente representa a un <i>ooni</i>, rey de Ife, y según la tradición los artistas de Ife enseñaron a fundir a los de Benín.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Benin_Bronzes",
+     "https://en.wikipedia.org/wiki/Ife_Head",
+     "https://en.wikipedia.org/wiki/Kingdom_of_Benin",
+     "https://es.wikipedia.org/wiki/Bronces_de_Ben%C3%ADn"
+    ]
+   }
+  },
+  {
+   "id": "museo-victoria-y-alberto",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Victoria and Albert Museum</b> es el gran museo de artes decorativas y diseño del mundo, con unos 2,8 millones de objetos. Nació en <b>1852</b> como Museo de Manufacturas, al calor de la <b>Gran Exposición de 1851</b>: su primer director, <b>Henry Cole</b>, compró piezas de aquella exposición con una subvención del Parlamento. En 1857 se trasladó a South Kensington y en 1899, al poner la primera piedra de su gran edificio, de Aston Webb, la reina Victoria lo bautizó con su nombre y el de su difunto marido, el príncipe Alberto. El edificio lo inauguró Eduardo VII en 1909.</p><p>Guarda desde vestidos y joyas hasta esculturas, tapices y muebles. En la sala oeste se exponen los <b>cartones de Rafael</b>, que durante la Segunda Guerra Mundial se protegieron tapiados en un sótano. Las <b>salas de vaciados</b>, de 1870-73, reúnen cientos de copias en yeso de grandes obras, entre ellas una réplica a tamaño real de la columna de Trajano.</p><p>Fue el primer museo del mundo que ofreció comida a sus visitantes, y sus antiguos comedores, las salas Morris, Gamble y Poynter, de 1865-1881, siguen siendo cafés. En 2017 se abrió un nuevo patio de porcelana hacia Exhibition Road, y el jardín central, rediseñado en 2005, lleva el nombre de John Madejski.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Victoria_and_Albert_Museum"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-buckingham",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>palacio de Buckingham</b> es la residencia oficial de los reyes británicos en Londres. Empezó siendo Buckingham House, una mansión construida en 1703 para el duque de Buckingham, que <b>Jorge III</b> compró en 1761 como residencia privada para la reina Carlota. Jorge IV encargó a <b>John Nash</b> ampliarla a partir de 1826, pero los costes se dispararon y lo destituyeron en 1829; terminó la obra Edward Blore, que añadió el ala este en 1847-1849.</p><p>La reina <b>Victoria</b> fue la primera soberana que vivió en él, desde su llegada al trono en 1837. La fachada este, la que todos conocen, la rehízo <b>Aston Webb</b> en piedra de Portland en 1913, como fondo del monumento a la reina Victoria. Desde su balcón saluda la familia real en las grandes ocasiones; el Día de la Victoria de 1945 se asomaron allí el rey, la reina y las princesas.</p><p>Tiene 775 habitaciones y el mayor jardín privado de Londres, de 16 hectáreas. Desde 1993 se visitan sus <b>salones de gala</b> en verano y algunos días del año. En el patio delantero se celebra el famoso <b>cambio de guardia</b>. Cuando el rey está en el palacio, ondea en lo alto su estandarte real.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Buckingham_Palace"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-hampton-court",
+   "campos": {
+    "texto": {
+     "general": "<p>A orillas del Támesis, al suroeste de Londres, <b>Hampton Court</b> reúne dos palacios en uno: uno Tudor y otro barroco. Lo empezó a construir en 1515 el cardenal <b>Thomas Wolsey</b>, que trabajó en él unos siete años y en 1529, caído en desgracia, se lo regaló a <b>Enrique VIII</b> con la esperanza de salvar la vida. Fue el palacio preferido del rey, que levantó el <b>gran salón</b> y la pista de tenis real y cuadruplicó las enormes <b>cocinas Tudor</b>. Aquí nació en 1537 su hijo Eduardo VI, y aquí murió dos semanas después su madre, Juana Seymour.</p><p>En 1689 <b>Guillermo III y María II</b> encargaron a Christopher Wren una gran reforma barroca, que se detuvo en 1694. Sobre la puerta de entrada se conserva el reloj astronómico de 1540, que marca incluso la pleamar en el puente de Londres. Abrió al público en 1838, en tiempos de la reina Victoria.</p><p>En sus jardines está el <b>laberinto de setos</b> más antiguo que se conserva en Gran Bretaña, plantado entre 1689 y 1695 para Guillermo III, que aparece en la novela <i>Tres hombres en una barca</i>. Según la leyenda, el fantasma de <b>Catalina Howard</b>, quinta esposa de Enrique VIII, recorre corriendo la «galería encantada».</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Hampton_Court_Palace",
+     "https://en.wikipedia.org/wiki/Hampton_Court_Maze"
+    ],
+    "ver_alli": [
+     "Se llega en tren o en barco por el Támesis.",
+     "Las cocinas Tudor y el laberinto de setos son lo más popular: conviene ir temprano.",
+     "Los jardines junto al río merecen un paseo sin prisa."
+    ]
+   }
+  },
+  {
+   "id": "titanic-belfast",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Titanic Belfast</b> es un museo inaugurado el <b>31 de marzo de 2012</b>, cien años después del viaje del Titanic, en el antiguo astillero de <b>Harland & Wolff</b>, donde se construyó el barco. Su edificio, de formas angulosas que recuerdan proas de barco, mide 38,5 metros, la altura del casco del Titanic, y está revestido con unas 3.000 piezas de aluminio plateado. Su proa principal apunta, entre las gradas donde se construyeron el Titanic y su gemelo el Olympic, hacia el río Lagan. Costó 101 millones de libras.</p><p>Sus nueve galerías recorren la Belfast industrial de comienzos del siglo XX, la construcción y botadura del barco, su único viaje, el <b>hundimiento</b> de abril de 1912 y el hallazgo de sus restos en el fondo del Atlántico. En 2016 fue elegido mejor atracción turística del mundo en los World Travel Awards.</p><p>En el barrio, llamado Titanic Quarter, se conservan otros restos del astillero: el <b>dique seco y la casa de bombas del Titanic</b>, las oficinas de dibujo de Harland & Wolff y el <b>SS Nomadic</b>, el pequeño barco que llevaba a los pasajeros hasta el Titanic.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Titanic_Belfast"
+    ],
+    "ver_alli": [
+     "Se combina con los murales políticos de la ciudad.",
+     "Junto al museo se pueden visitar el SS Nomadic y el dique seco del Titanic."
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-salisbury-y-la-carta-magna",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>catedral de Salisbury</b> es una obra maestra del gótico primitivo inglés, construida casi de un tirón: la nave, el crucero y el coro se levantaron en solo 38 años, entre <b>1220 y 1258</b>. Sustituyó a la antigua catedral de Old Sarum, a 3 km al norte; el traslado lo logró el obispo Richard Poore, que puso las primeras piedras el 28 de abril de 1220. Por eso el edificio tiene una unidad de estilo poco común.</p><p>La torre y su <b>aguja</b>, terminadas hacia 1330, alcanzan los <b>123 metros</b>: es la más alta de Inglaterra. En su sala capitular se guarda la mejor conservada de las cuatro copias originales que quedan de la <b>Carta Magna</b> de 1215, el documento que limitó por primera vez el poder del rey inglés. Tiene también un reloj medieval de hacia 1386, considerado el reloj en funcionamiento más antiguo del mundo. Su recinto catedralicio es el mayor de Gran Bretaña, y los claustros se añadieron en 1240.</p><p>El pintor <b>John Constable</b> la pintó, e incluyó en el cuadro al obispo que se lo encargó, John Fisher, y a su esposa.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Salisbury_Cathedral"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-caernarfon",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>castillo de Caernarfon</b>, en el norte de Gales, es la gran fortaleza que <b>Eduardo I</b> de Inglaterra empezó en 1283, tras conquistar Gales, para dominar el país. Su maestro de obras fue probablemente Jaime de Saint-George. Entre 1284 y 1330 se gastaron entre 20.000 y 25.000 libras en el castillo y las murallas de la ciudad, una fortuna. Sus torres poligonales y sus franjas de piedra de colores lo distinguen de los demás castillos eduardianos: el historiador Arnold Taylor lo relacionó con las murallas de Constantinopla. La torre del Águila era la más grandiosa.</p><p>Según la tradición, aquí nació en 1284 el hijo del rey, el futuro Eduardo II, que en 1301 se convirtió en el primer <b>príncipe de Gales</b> inglés. En 1294 los rebeldes de Madog ap Llywelyn tomaron e incendiaron el castillo, que los ingleses recuperaron al año siguiente; luego resistió el asedio de Owain Glyndŵr. Aquí fueron investidos príncipes de Gales el futuro Eduardo VIII en 1911 y el entonces príncipe Carlos, hoy <b>Carlos III</b>, en 1969.</p><p>Nunca se terminó: de los edificios interiores solo quedan los cimientos. Alberga el museo de los Royal Welch Fusiliers y desde 1986 es <b>Patrimonio de la Humanidad</b> con los demás castillos y murallas de Eduardo I en Gwynedd.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Caernarfon_Castle"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-stirling-y-monumento-a-walla",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>castillo de Stirling</b>, uno de los más grandes e importantes de Escocia, corona un peñasco rocoso, Castle Hill, sobre la ciudad. Casi todos sus edificios principales son de 1490-1600: el gran salón de <b>Jacobo IV</b>, de hacia 1503; el <b>palacio real renacentista</b> que empezó Jacobo V en la década de 1530; y la capilla real que Jacobo VI levantó en un año para el bautizo de su hijo en 1594. En la capilla anterior fue coronada <b>María Estuardo</b> en 1543. Sufrió al menos ocho asedios, el último en 1746, cuando Carlos Eduardo Estuardo no logró tomarlo.</p><p>A sus pies se libraron dos batallas decisivas: la del <b>puente de Stirling</b> (1297), donde Andrew Moray y William Wallace derrotaron a los ingleses, y la de <b>Bannockburn</b> (1314), donde Roberto I Bruce venció a la vista del castillo; junto al campo de batalla hay hoy un centro de visitantes con su estatua. En 2011 se reabrió el palacio restaurado como era en la década de 1540, con copias de los medallones de roble tallados, las «cabezas de Stirling», y de los tapices de <i>La caza del unicornio</i>.</p><p>Frente al castillo, en la colina de Abbey Craig, desde donde se dice que Wallace vio llegar al ejército inglés, se alza el <b>monumento a Wallace</b>, una torre neogótica de 67 metros construida entre 1861 y 1869. Tras subir sus 246 escalones se llega a la sala con la espada de 1,63 metros atribuida a Wallace.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Stirling_Castle",
+     "https://en.wikipedia.org/wiki/Wallace_Monument",
+     "https://en.wikipedia.org/wiki/Battle_of_Bannockburn"
+    ]
+   }
+  },
+  {
+   "id": "termas-romanas-de-bath",
+   "campos": {
+    "texto": {
+     "general": "<p>Las <b>termas romanas de Bath</b> se construyeron sobre unos manantiales que, según la mayoría de definiciones, son los únicos de agua termal caliente del Reino Unido: cada día brotan unos 1,17 millones de litros a <b>46 °C</b>. Hacia el año 60 los romanos fundaron aquí <i>Aquae Sulis</i>, «las aguas de Sulis», una diosa local que identificaron con Minerva, y entre los años 60 y 70 levantaron su templo junto a los baños.</p><p>La <b>gran piscina</b>, revestida de plomo de las colinas de Mendip, sigue llena de agua humeante. Del templo de <b>Sulis Minerva</b> se conserva el frontón con una gran cabeza de Gorgona de barba de serpientes, y en el museo destaca la cabeza de bronce dorado de la diosa, hallada en 1727. En el manantial sagrado aparecieron en 1979-80 unas 130 <b>tablillas de maldición</b>: muchas piden castigo para quienes robaron la ropa de un bañista.</p><p>Sobre los restos romanos se alzan la Pump Room georgiana, de 1789-1799, que aún funciona como salón, y ampliaciones victorianas. La ciudad entera es <b>Patrimonio de la Humanidad</b> desde 1987, y desde 2021 también como una de las grandes ciudades balneario de Europa.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Roman_Baths_(Bath)",
+     "https://en.wikipedia.org/wiki/Bath,_Somerset"
+    ],
+    "ver_alli": [
+     "Junto a ellas, unas termas modernas permiten bañarse en el agua caliente.",
+     "En la Pump Room, sobre las termas, se puede probar el agua del manantial."
+    ]
+   }
+  },
+  {
+   "id": "cuarteles-de-guerra-de-churchill",
+   "campos": {
+    "texto": {
+     "general": "<p>Los <b>Cabinet War Rooms</b> son el búnker bajo el edificio del Tesoro, en Whitehall, desde donde <b>Winston Churchill</b> y su gobierno dirigieron la Segunda Guerra Mundial. Se empezaron en 1938, ante el temor a los bombardeos sobre Londres, entraron en servicio el <b>27 de agosto de 1939</b>, días antes de estallar la guerra, y se abandonaron en agosto de 1945, al rendirse Japón: al día siguiente se apagaron las luces.</p><p>Allí se celebraron 115 consejos de ministros, el último el 28 de marzo de 1945, y desde allí Churchill hizo cuatro de sus discursos radiofónicos de guerra. Tenía también su despacho-dormitorio, aunque rara vez durmió en él. La <b>sala de mapas</b> se conserva tal como quedó en 1945. Se ve el pequeño cuarto del <b>teléfono transatlántico</b>, disfrazado de retrete privado, por el que desde 1943 hablaba de forma segura con Roosevelt, mediante una línea cifrada conectada con el Pentágono.</p><p>Abrió al público el 4 de abril de 1984 y lo gestiona el Museo Imperial de la Guerra. En 2005 se añadió un museo dedicado a la vida de Churchill, y desde 2010 el conjunto se llama <b>Churchill War Rooms</b>.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Churchill_War_Rooms",
+     "https://es.wikipedia.org/wiki/Cabinet_War_Rooms"
+    ],
+    "ver_alli": [
+     "Conviene reservar.",
+     "La visita sigue los pasillos originales, con audioguía, y termina en el museo Churchill.",
+     "Está en King Charles Street, a pocos pasos de Downing Street y del Parlamento."
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-san-pablo",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>catedral de San Pablo</b> es la gran obra de <b>Christopher Wren</b> y del barroco inglés. El <b>gran incendio de 1666</b> arrasó la vieja catedral gótica, que acabó demolida a comienzos de la década de 1670. Wren recibió el encargo en 1669; la primera piedra se puso en junio de 1675, se consagró en 1697 y el Parlamento la declaró terminada el 25 de diciembre de 1711.</p><p>Su enorme <b>cúpula</b> alcanza 111 metros con la cruz, y entre 1710 y 1963 fue el edificio más alto de Londres. A 30 metros sobre el suelo, tras 259 escalones, está la <b>galería de los susurros</b>, donde un susurro junto a la pared se oye al otro lado; más arriba se abren las galerías de Piedra y Dorada. En la cripta, el primero en ser enterrado fue el propio Wren, en 1723, bajo una inscripción latina que dice: «Si buscas su monumento, mira a tu alrededor». También reposan en ella <b>Nelson</b> y <b>Wellington</b>.</p><p>Sobrevivió a los bombardeos alemanes, y la foto de Herbert Mason del 29 de diciembre de 1940, con la cúpula entre el humo, se convirtió en símbolo de la resistencia de Londres. Aquí se celebraron el funeral de Estado de Churchill, en 1965, y la boda del príncipe Carlos y Diana Spencer, en 1981.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/St_Paul%27s_Cathedral",
+     "https://es.wikipedia.org/wiki/Catedral_de_San_Pablo_(Londres)"
+    ]
+   }
+  },
+  {
+   "id": "down-house-casa-de-darwin",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Down House</b> fue la casa de campo de <b>Charles Darwin</b> durante cuarenta años: se instaló en ella el 14 de septiembre de 1842 y murió aquí el 19 de abril de 1882. Está en el pueblo de Downe, entonces en Kent y hoy dentro del municipio londinense de Bromley, a unos 23 km del centro de Londres. Aquí crió a sus diez hijos.</p><p>En su estudio escribió <b><i>El origen de las especies</i></b>. Cada día daba varias vueltas por el «camino de arena», un sendero de grava que trazó junto a un bosque plantado por él, para pensar mientras caminaba. En el jardín y en el invernadero, construido en 1863 por su interés en las orquídeas, hizo experimentos con plantas carnívoras como las droseras, que dieron lugar a su libro <i>Plantas insectívoras</i>.</p><p>Desde 1996 es de <b>English Heritage</b>, que la restauró y la abrió en 1998. El estudio, recreado a partir de fotografías de la época, conserva casi todos sus muebles: la mesa con el microscopio, los frascos para semillas e insectos, el casillero donde archivaba sus notas y su <b>sillón con ruedas</b>, elevado sobre patas de hierro para su gran estatura, con el que se movía de una mesa a otra.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Down_House",
+     "https://es.wikipedia.org/wiki/Down_House",
+     "https://www.english-heritage.org.uk/visit/inspire-me/blog/blog-posts/interior-design-inspiration-charles-darwins-study/"
+    ],
+    "ver_alli": [
+     "Está a unos 23 km del centro de Londres.",
+     "Se puede recorrer el «camino de arena» por el que paseaba Darwin.",
+     "Los jardines y el invernadero muestran plantas de sus experimentos."
+    ]
+   }
+  },
+  {
+   "id": "catedral-y-ciudad-de-winchester",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Winchester</b> nació de la ciudad romana de <i>Venta Belgarum</i> y fue la principal ciudad del reino anglosajón de <b>Wessex</b>, el de <b>Alfredo el Grande</b>, cuya estatua de bronce, obra de Hamo Thornycroft, preside la calle de The Broadway. Alfredo fue enterrado en el New Minster de la ciudad. Aunque a menudo se dice, Winchester nunca fue propiamente «capital» de Inglaterra: la corte de entonces era itinerante.</p><p>Su <b>catedral</b> la empezó el obispo normando Walkelin en 1079 y su cabecera se consagró en 1093. Entre 1346 y hacia 1420 el obispo William of Wykeham rehízo la nave en gótico perpendicular. Con 170 metros es la catedral medieval más larga del mundo, y su nave la más larga de su tipo en Europa. Allí está la tumba de <b>Jane Austen</b>, que murió en la ciudad en 1817. Guarda los cofres con los restos de reyes sajones, como Canuto y la reina Emma, y la <b>Biblia de Winchester</b>, del siglo XII.</p><p>En el <b>Gran Salón</b>, reconstruido en 1222-1235 y casi lo único que queda del castillo, cuelga una <b>mesa redonda del rey Arturo</b> de 5,5 metros y 1,2 toneladas, hecha entre 1250 y 1280 y pintada después por orden de Enrique VIII con los nombres de los caballeros.</p><p class=\"dato\"><span>¿Sabías que…?</span>Entre 1906 y 1911 el buzo William Walker salvó la catedral trabajando a oscuras en zanjas inundadas para reforzar sus cimientos.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Winchester_Cathedral",
+     "https://en.wikipedia.org/wiki/Winchester",
+     "https://en.wikipedia.org/wiki/Winchester_Round_Table"
+    ],
+    "ver_alli": [
+     "Se recorre a pie en un día.",
+     "En la catedral se puede ver la Biblia de Winchester en la exposición «Kings and Scribes».",
+     "La mesa redonda está en el Gran Salón, lo que queda del castillo."
+    ]
+   }
+  },
+  {
+   "id": "torre-de-londres",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Torre de Londres</b> es el castillo que <b>Guillermo el Conquistador</b> fundó a finales de 1066, tras la conquista normanda, a orillas del Támesis. Su núcleo es la gran <b>Torre Blanca</b>, empezada hacia 1078. Ricardo I, Enrique III y Eduardo I la ampliaron con nuevos recintos de murallas hasta darle, en 1285, su forma actual.</p><p>Fue palacio, arsenal, casa de la moneda, zoológico real y, sobre todo, <b>prisión</b>: de ahí la expresión inglesa «enviar a la Torre». Aquí desaparecieron en 1483 los dos «príncipes de la Torre», hijos de Eduardo IV. Dentro del recinto, en Tower Green, fueron ejecutadas siete personas antes del siglo XX, entre ellas <b>Ana Bolena</b>, en 1536, y Juana Grey, en 1554; en la vecina colina de Tower Hill hubo 112 ejecuciones en cuatro siglos, como la de <b>Tomás Moro</b>, que estuvo preso en la Torre. En 1554 María I encerró aquí a su hermana, la futura <b>Isabel I</b>.</p><p>Guarda las <b>joyas de la Corona</b>, expuestas al público desde 1669 y hoy en la Jewel House. Sus alabarderos, los <i>beefeaters</i>, guardias reales desde al menos 1509, enseñan el castillo y cuidan de los <b>cuervos</b>: según la leyenda, si se marchan caerá el reino. Es <b>Patrimonio de la Humanidad</b> desde 1988.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Tower_Hill",
+     "https://en.wikipedia.org/wiki/Tower_of_London",
+     "https://en.wikipedia.org/wiki/Westminster_Hall"
+    ],
+    "ver_alli": [
+     "Las visitas de los alabarderos, los «beefeaters», son muy amenas.",
+     "Conviene empezar por las joyas de la Corona a primera hora, antes de que se formen colas."
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-edimburgo",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>castillo de Edimburgo</b> domina la ciudad desde <b>Castle Rock</b>, el resto de una antigua chimenea volcánica. Ya en el siglo XI, con Malcolm III, había aquí un castillo real, y David I lo convirtió en un centro de la monarquía escocesa. Un estudio de 2014 contó 26 asedios en su historia, lo que lo convierte en candidato a ser el lugar más asediado de Gran Bretaña.</p><p>Su edificio más antiguo, y el de toda la ciudad, es la <b>capilla de Santa Margarita</b>, de comienzos del siglo XII. El gran salón se atribuye a Jacobo IV, de principios del XVI. En la sala de la Corona se guardan los <b>Honores de Escocia</b>: la corona, el cetro y la espada de Estado. La <b>Piedra del Destino</b> o de Scone, sobre la que se coronaban los reyes, volvió a Escocia en 1996 y estuvo aquí hasta que, en 2024, pasó al nuevo Museo de Perth. En una terraza ante la capilla se expone el enorme cañón de asedio <i>Mons Meg</i>, del siglo XV, y en un antiguo cuartel está desde 1927 el memorial nacional escocés de la guerra.</p><p>Desde 1861, cada día a la una se dispara el <b>cañón de la una</b>, salvo los domingos, el Viernes Santo y el día de Navidad. Cada agosto, en su explanada, se celebra el desfile militar del <i>Tattoo</i>.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Edinburgh_Castle",
+     "https://en.wikipedia.org/wiki/Stone_of_Scone"
+    ],
+    "ver_alli": [
+     "Desde él baja la Milla Real hasta el palacio de Holyrood y el Parlamento escocés.",
+     "El cañón de la una se dispara a diario salvo domingos, Viernes Santo y Navidad."
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-westminster",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>palacio de Westminster</b> es la sede del Parlamento británico, con la Cámara de los Comunes y la de los Lores. El viejo palacio medieval ardió casi entero el <b>16 de octubre de 1834</b>, y <b>Charles Barry</b> lo reconstruyó en estilo neogótico, con los detalles de <b>Augustus Pugin</b>; las obras empezaron en 1840 y duraron unos treinta años. Tiene más de 1.100 salas. Su torre más famosa, la del reloj, mide 96 metros y desde 2012 se llama Torre Isabel; <b>Big Ben</b> es en realidad el apodo de su campana mayor.</p><p>Del incendio se salvó el <b>Westminster Hall</b>, levantado en 1097 por Guillermo II y quizá entonces el mayor salón de Europa, con una gran techumbre de madera de 1393. Allí fueron juzgados William Wallace (1305), Tomás Moro (1535), Guy Fawkes (1606), que con la Conspiración de la Pólvora quiso volar los Lores en 1605, y el rey <b>Carlos I</b> (1649). En él fueron velados Churchill y la reina Isabel II.</p><p>Desde la tribuna pública se pueden ver los debates. Es <b>Patrimonio de la Humanidad</b> desde 1987, con la abadía de Westminster. Junto a él están las estatuas de <b>Boudica</b> con sus hijas, de 1902, al pie del puente de Westminster, y de la sufragista <b>Emmeline Pankhurst</b>, de 1930, en los jardines de la Torre Victoria.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Palace_of_Westminster",
+     "https://en.wikipedia.org/wiki/Westminster_Hall",
+     "https://en.wikipedia.org/wiki/Boadicea_and_Her_Daughters",
+     "https://en.wikipedia.org/wiki/Emmeline_and_Christabel_Pankhurst_Memorial"
+    ]
+   }
+  },
+  {
+   "id": "vindolanda",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Vindolanda</b> fue un fuerte romano de tropas auxiliares, en Northumberland, que vigilaba la calzada del Stanegate, justo al sur del <b>Muro de Adriano</b>. Estuvo ocupado aproximadamente del año 85 al 370, y los arqueólogos distinguen nueve fases, cada una construida sobre la anterior: las cinco primeras, de madera y tepe, y las siguientes, de piedra.</p><p>Su fama se debe a las <b>tablillas de Vindolanda</b>, finas láminas de madera escritas con tinta, la mayoría hacia los años 95-105. Las identificó el arqueólogo Robin Birley en marzo de 1973 y ya se han hallado más de 1.700. Están entre los documentos escritos a mano más antiguos de Gran Bretaña (solo las tablillas Bloomberg de Londres, de los años 50-80, son anteriores). Entre ellas está la <b>invitación de cumpleaños</b> que, hacia el año 100, Claudia Severa envió a Sulpicia Lepidina, esposa del comandante: uno de los textos en latín escritos por una mujer más antiguos que se conocen. Otra carta habla de calcetines, sandalias y calzoncillos. Casi todas están en el Museo Británico; en 2003 fueron votadas el mayor tesoro del país en un programa de la BBC.</p><p>El suelo sin oxígeno conservó también peines, una tienda militar y la mayor colección conocida de <b>zapatos romanos</b>, que exhibe su museo junto a dos guantes de boxeo de hacia el año 120.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Bloomberg_tablets",
+     "https://en.wikipedia.org/wiki/Vindolanda",
+     "https://en.wikipedia.org/wiki/Vindolanda_tablets"
+    ],
+    "ver_alli": [
+     "En verano se puede ver excavar a los arqueólogos.",
+     "Su museo expone zapatos, peines y algunas tablillas prestadas por el Museo Británico.",
+     "El patronato de Vindolanda gestiona también el Museo del Ejército Romano, en Carvoran."
+    ]
+   }
+  },
+  {
+   "id": "avebury",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Avebury</b>, en Wiltshire, es el <b>mayor círculo de piedras megalítico del mundo</b>: rodea parte de un pueblo. Se levantó a lo largo de varios siglos del III milenio a. C., más o menos entre el 2870 y el 2200 a. C. Un gran foso y un terraplén de unos 347 metros de diámetro, excavados en la creta con astas de ciervo, encierran el círculo exterior, de 331 metros, que tuvo unas 98 grandes piedras de arenisca (<i>sarsens</i>), y dentro de él otros dos círculos menores.</p><p>Desde el siglo XIV los vecinos derribaron y enterraron muchas piedras, y en los siglos XVII y XVIII rompieron otras para construir. William Stukeley lo estudió entre 1719 y 1724, y el arqueólogo <b>Alexander Keiller</b>, que compró gran parte del lugar, lo excavó en los años treinta, volvió a levantar piedras caídas y marcó con pilares de hormigón las desaparecidas: el Avebury actual es en gran parte obra suya. En el pueblo, el <b>museo Alexander Keiller</b> expone los hallazgos.</p><p>A unos 27 kilómetros al norte de Stonehenge y de la misma época, forma con él un único sitio del <b>Patrimonio Mundial</b> desde 1986. Cerca están <b>Silbury Hill</b>, de hacia el 2400 a. C. y casi 40 metros, el montículo artificial prehistórico más alto de Europa, y el túmulo de <b>West Kennet</b>, de hacia el 3650 a. C. Muy cerca, en West Woods, está la zona de donde, según un estudio de 2020, procede la mayoría de los grandes <i>sarsens</i> de Stonehenge.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Avebury",
+     "https://en.wikipedia.org/wiki/Silbury_Hill",
+     "https://en.wikipedia.org/wiki/West_Kennet_Long_Barrow",
+     "https://en.wikipedia.org/wiki/Stonehenge"
+    ]
+   }
+  },
+  {
+   "id": "garganta-de-cheddar-y-el-hombre-de-chedd",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>garganta de Cheddar</b>, en el borde sur de las colinas de Mendip (Somerset), es un cañón de roca caliza de hasta 137 metros de profundidad que el agua del deshielo de las glaciaciones empezó a excavar hace más de un millón de años. En sus paredes se abren cuevas como la de <b>Gough</b>, que el capitán retirado Richard Cox Gough exploró y abrió entre 1892 y 1898: hoy se visitan sus primeros 820 metros.</p><p>En 1903, unos obreros que cavaban una zanja encontraron en ella el <b>«hombre de Cheddar»</b>, el esqueleto casi completo más antiguo de Gran Bretaña, de hace unos 10.000 años. Su ADN, estudiado en 2018, indicó que probablemente tenía la piel oscura y los ojos claros, como otros cazadores-recolectores de Europa occidental. Mucho antes, hace unos 14.700 años, la cueva ya la ocupaban grupos magdalenienses, que trabajaron cráneos humanos como copas.</p><p>También apareció en la cueva, en los años veinte del siglo pasado, una mandíbula de <b>perro</b> de unos 14.300 años, durante mucho tiempo tomada por la de un lobo. En 2026, un estudio publicado en <i>Nature</i> leyó su genoma: es uno de los dos perros más antiguos identificados con su ADN, junto a otro de Pınarbaşı, en Turquía. Algunas mandíbulas de perro de la cueva están perforadas, quizá para colgarlas. Tanto esa mandíbula como el hombre de Cheddar se conservan en el Museo de Historia Natural de Londres.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Cheddar_Gorge",
+     "https://en.wikipedia.org/wiki/Cheddar_Man",
+     "https://en.wikipedia.org/wiki/Gough%27s_Cave",
+     "https://www.ox.ac.uk/news/2026-03-25-oldest-genetic-evidence-domestic-dogs-identified-europe-and-t-rkiye",
+     "https://www.ucl.ac.uk/social-historical-sciences/news/2026/mar/humans-kept-dogs-5000-years-earlier-thought",
+     "https://cheddargorge.co.uk/latest-news/palaeolithic-dogs"
+    ],
+    "ver_alli": [
+     "La cueva de Gough se recorre por dentro, a pie y con audioguía.",
+     "La garganta caliza de Cheddar se puede recorrer también por arriba, por un sendero con vistas.",
+     "En las laderas pastan cabras y un pequeño rebaño de ovejas Soay."
+    ]
+   }
+  },
+  {
+   "id": "national-gallery-londres",
+   "campos": {
+    "texto": {
+     "general": "<p>La gran pinacoteca de Londres nació en <b>1824</b>, cuando el Gobierno británico compró 38 cuadros de la colección del banquero John Julius Angerstein. El edificio de William Wilkins, que preside Trafalgar Square, abrió al público en 1838. Hoy guarda más de 2.300 pinturas europeas, desde mediados del siglo XIII hasta 1900, y la entrada a la colección permanente es gratuita.</p><p>Entre sus obras maestras están el <b><i>Matrimonio Arnolfini</i></b> de Jan van Eyck, <i>Los embajadores</i> de Holbein, <i>La Virgen de las rocas</i> de Leonardo, el <i>Bautismo de Cristo</i> de Piero della Francesca, la <b><i>Venus del espejo</i></b> de Velázquez, <i>El carro de heno</i> de Constable, <i>Los girasoles</i> de Van Gogh y <i>El Temerario</i> de Turner. En 1991 se añadió el ala Sainsbury, de Robert Venturi y Denise Scott Brown, un ejemplo destacado de arquitectura posmoderna, que acoge la pintura del Renacimiento.</p><p>Durante la Segunda Guerra Mundial los cuadros se escondieron en una cantera de pizarra de Manod, en el norte de Gales, y en las salas vacías la pianista <b>Myra Hess</b> y otros músicos dieron conciertos diarios a la hora del almuerzo. En 2024 celebró su bicentenario.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/National_Gallery",
+     "https://www.google.com/maps/place/?q=place_id:ChIJeclqF84EdkgRtKAjTmWFr0I"
+    ]
+   }
+  },
+  {
+   "id": "monumento-al-gran-incendio-de-londres",
+   "campos": {
+    "texto": {
+     "general": "<p>Esta columna dórica de piedra de Portland, de 61 metros —la distancia que la separa del lugar donde empezó el fuego—, recuerda el <b>gran incendio de 1666</b>. La diseñó <b>Robert Hooke</b>, que trabajaba para <b>Christopher Wren</b>, y se levantó entre 1671 y 1677 cerca del extremo norte del puente de Londres. La remata una urna dorada con llamas.</p><p>El incendio prendió poco después de la medianoche del 2 de septiembre de 1666 en la panadería de Thomas Farriner, en <b>Pudding Lane</b>, a pocos metros de aquí, y en cuatro días destruyó unas 13.200 casas, 87 iglesias parroquiales y la vieja catedral de San Pablo. En el relieve de la base, obra de Caius Gabriel Cibber, Carlos II dirige la reconstrucción de la ciudad. En 1681 se añadió una inscripción que culpaba falsamente a los católicos; se borró en 1830.</p><p>Hooke, que también era científico, pensó la columna hueca para usarla como telescopio cenital y para experimentos con péndulos, unida a un laboratorio subterráneo, pero el tráfico de la calle la hacía vibrar demasiado. A mediados del siglo XIX se cerró el mirador con una jaula de malla, después de que seis personas se quitaran la vida saltando desde él.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Monument_to_the_Great_Fire_of_London",
+     "https://en.wikipedia.org/wiki/Great_Fire_of_London"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-historia-natural-de-londres",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo de Historia Natural</b> de Londres abrió el 18 de abril de 1881 en un gran edificio neorrománico de <b>Alfred Waterhouse</b>, decorado con terracota llena de plantas y animales: los vivos en el ala oeste y los extinguidos en el ala este. Sus colecciones nacieron con la de Hans Sloane en el Museo Británico y hoy suman unos 80 millones de piezas. En el gran salón central, el Hintze Hall, cuelga desde 2017 el esqueleto de una <b>ballena azul</b> de 25 metros, que sustituyó a la réplica del diplodocus «Dippy». En la escalera central está la estatua de mármol de <b>Darwin</b>, de Edgar Boehm, de 1885, y el museo conserva especímenes recogidos por él.</p><p>El museo guarda algunos de los fósiles que cambiaron la paleontología. En la galería de reptiles marinos se exponen <i>ictiosaurios</i> y <i>plesiosaurios</i> de Lyme Regis, donde <b>Mary Anning</b> halló el primer esqueleto completo de ictiosaurio (1811-1812, con su hermano Joseph) y el primer plesiosaurio completo (1823); aquí está el cráneo de aquel primer ictiosaurio. Y aquí se conserva el <b><i>Archaeopteryx</i> de Londres</b>, el primer esqueleto de este animal mitad ave mitad reptil: salió en 1861 de las canteras cercanas a Solnhofen, el Museo Británico lo compró por 700 libras y Richard Owen lo describió en 1863.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Natural_History_Museum,_London",
+     "https://en.wikipedia.org/wiki/Archaeopteryx",
+     "https://en.wikipedia.org/wiki/Mary_Anning",
+     "https://es.wikipedia.org/wiki/Museo_de_Historia_Natural_de_Londres",
+     "https://darwinproject.ac.uk/about-darwin/portraits-charles-darwin-catalogue/213-edgar-boehm-statue-nhm"
+    ]
+   }
+  }
+ ]
+}
