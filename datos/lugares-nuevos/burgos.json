@@ -1,0 +1,1485 @@
+{
+ "zona": "Burgos",
+ "nuevos": [
+  {
+   "id": "cartuja-de-miraflores",
+   "nombre": "Cartuja de Santa María de Miraflores",
+   "provincia": "Burgos",
+   "comarca": "Burgos",
+   "lat": 42.338,
+   "lon": -3.657,
+   "tipo": "iglesia",
+   "estilo": "Gótico final (isabelino)",
+   "epoca": "Gótico",
+   "anio": 1442,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En las afueras de Burgos se levanta un monasterio que sigue habitado por <b>monjes cartujos</b>. Lo fundó en <b>1442</b> el rey <b>Juan II de Castilla</b> sobre un palacio que había mandado levantar su padre, Enrique III, pero quien lo terminó y lo llenó de arte fue su hija, <b>Isabel la Católica</b>, que lo convirtió en el panteón de sus padres.</p><p>Las obras empezaron en 1454 con <b>Juan de Colonia</b> y las remató su hijo <b>Simón de Colonia</b> hacia 1488. El resultado es una iglesia sobria por fuera y deslumbrante por dentro, con la nave cubierta por una bóveda estrellada: una joya del <b>gótico final</b>.</p><p>Su tesoro son las obras de <b>Gil de Siloé</b>: el sepulcro de <b>Juan II e Isabel de Portugal</b>, en alabastro y con forma de estrella de ocho puntas; el del <b>infante Alfonso de Castilla</b>, en un arco del muro; y el gran <b>retablo mayor</b> (1496-1499), dorado y policromado por Diego de la Cruz.</p><p class=\"dato\"><span>¿Sabías que…?</span>Según la tradición recogida por los historiadores del monasterio, el oro del retablo mayor procede de los primeros envíos llegados de América.</p>"
+   },
+   "ver_alli": [
+    "El sepulcro real en estrella de ocho puntas, delante del altar: rodéalo para ver la cantidad de figuras talladas en alabastro.",
+    "El sepulcro del infante Alfonso, en un arcosolio del muro.",
+    "El retablo mayor de Gil de Siloé, dorado por Diego de la Cruz.",
+    "La portada occidental de 1486, con los escudos reales."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Cartuja_de_Miraflores",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-san-nicolas-de-bari-burgos",
+   "nombre": "Iglesia de San Nicolás de Bari",
+   "provincia": "Burgos",
+   "comarca": "Burgos",
+   "lat": 42.3407,
+   "lon": -3.7055,
+   "tipo": "iglesia",
+   "estilo": "Gótico",
+   "epoca": "Gótico",
+   "anio": 1408,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>A pocos pasos de la catedral y en pleno <b>Camino de Santiago</b>, está esta iglesia, discreta por fuera. Se construyó en <b>1408</b> sobre un templo románico anterior, y por dentro guarda una de las sorpresas más grandes de Burgos.</p><p>Esa sorpresa es su <b>retablo mayor</b>, considerado uno de los más monumentales de Castilla. Lo hicieron <b>Simón de Colonia</b> y su hijo <b>Francisco de Colonia</b> en el siglo XV, pagado por el rico mercader burgalés <b>Gonzalo López de Polanco</b>.</p><p>La familia Polanco convirtió la iglesia en su capilla: a ambos lados del retablo están los sepulcros de Gonzalo López de Polanco y Leonor de Miranda, y de Alfonso de Polanco y Constanza de Maluenda. Es monumento nacional desde 1917.</p>"
+   },
+   "ver_alli": [
+    "El retablo mayor de los Colonia: tómate tiempo para recorrer sus escenas.",
+    "Los sepulcros de la familia Polanco, a ambos lados del retablo.",
+    "Las tablas pintadas del llamado maestro de San Nicolás."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Nicol%C3%A1s_de_Bari_(Burgos)",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-de-burgos",
+   "nombre": "Museo de Burgos (Casa de Miranda)",
+   "provincia": "Burgos",
+   "comarca": "Burgos",
+   "lat": 42.3385,
+   "lon": -3.7,
+   "tipo": "museo",
+   "estilo": "Palacio renacentista; colecciones de arqueología y bellas artes",
+   "epoca": "Romano",
+   "anio": 1846,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>El museo provincial nació en <b>1846</b> para recoger las obras de arte que quedaron sin dueño tras la desamortización de los monasterios. Hoy ocupa dos palacios renacentistas: la <b>Casa de Miranda</b>, levantada en <b>1545</b> para el canónigo Francisco de Miranda y atribuida a <b>Juan de Vallejo</b>, con un elegante patio de doble galería, y la vecina <b>Casa de Íñigo Angulo</b>.</p><p>La sección de <b>Arqueología</b> recorre la provincia desde el Paleolítico hasta los visigodos. Destacan las piezas de la ciudad romana de <b>Clunia</b> —una estatua de Isis, un busto de Julia Augusta—, las estelas romanas y el mosaico de Atalanta y Meleagro de Cardeñajimeno.</p><p>La de <b>Bellas Artes</b> guarda tesoros medievales: el <b>frontal de Santo Domingo de Silos</b>, de cobre dorado y esmaltes del siglo XII; una <b>arqueta de marfil</b> andalusí del siglo XI firmada por Muhammad ibn Zayan; y el sepulcro de <b>Juan de Padilla</b>, obra de Gil de Siloé.</p><p class=\"dato\"><span>¿Sabías que…?</span>Aquí se expone la <b>Tizona</b>, la espada que la tradición atribuye al Cid, comprada por las instituciones públicas en 2007.</p>"
+   },
+   "ver_alli": [
+    "El patio renacentista de la Casa de Miranda, con su doble galería.",
+    "Las piezas romanas de Clunia y las estelas funerarias.",
+    "El frontal esmaltado de Silos y la arqueta de marfil.",
+    "La Tizona y el sepulcro de Juan de Padilla."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Burgos",
+    "https://es.wikipedia.org/wiki/Casa_de_Miranda",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-burgos",
+   "nombre": "Castillo de Burgos",
+   "provincia": "Burgos",
+   "comarca": "Burgos",
+   "lat": 42.3428,
+   "lon": -3.7073,
+   "tipo": "castillo",
+   "estilo": "Fortaleza medieval (restos)",
+   "epoca": "Castillos y fortalezas",
+   "anio": 884,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En lo alto del cerro que domina la ciudad, unos <b>75 metros</b> por encima de la ciudad, empezó la historia de Burgos. Según la tradición, el conde <b>Diego Porcelos</b> levantó aquí la primera torre en el año <b>884</b>, en plena repoblación cristiana, y a sus pies fue creciendo la ciudad.</p><p>Durante siglos fue fortaleza y <b>cárcel de Estado</b>. En 1277 fue ejecutado en él el infante Fadrique por orden de su hermano Alfonso X, y en la guerra por el trono de 1475-1476 los partidarios de Juana la Beltraneja resistieron aquí el asedio de <b>Fernando el Católico</b>.</p><p>Su final llegó con la Guerra de la Independencia: en 1812 resistió el asedio de las tropas de <b>Wellington</b>, y el <b>13 de junio de 1813</b> los franceses, al retirarse, lo volaron. La explosión mató a más de 200 soldados franceses. Hoy quedan restos del patio de armas y de la torre del homenaje, y un pequeño museo abierto en 2003.</p><p class=\"dato\"><span>¿Sabías que…?</span>Bajo el castillo hay un <b>pozo de 62,5 metros</b> de profundidad, de los siglos XII-XIII, al que se baja por galerías; se le conoce como la Cueva del Moro.</p>"
+   },
+   "ver_alli": [
+    "Las vistas sobre la catedral y los tejados de Burgos.",
+    "Los restos de la torre del homenaje y del patio de armas.",
+    "El gran pozo medieval y sus galerías (se recorre con guía)."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Burgos",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-san-esteban-burgos",
+   "nombre": "Iglesia de San Esteban (Museo del Retablo)",
+   "provincia": "Burgos",
+   "comarca": "Burgos",
+   "lat": 42.3419,
+   "lon": -3.7051,
+   "tipo": "iglesia",
+   "estilo": "Gótico",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Subiendo hacia el castillo aparece una de las iglesias góticas más bellas de Burgos. Se empezó en el último cuarto del <b>siglo XIII</b>, en tiempos de Alfonso X, y se terminó en las primeras décadas del XIV, sustituyendo a un templo románico anterior. Por su cercanía al castillo sufrió en cada asedio: en 1475-1476 y de nuevo con la voladura de 1813.</p><p>Su <b>portada</b> es una lección de escultura gótica: en el tímpano, <b>Cristo juez</b> entre la Virgen y san Juan y, debajo, el <b>martirio de san Esteban</b>, apedreado; alrededor, tres arquivoltas con santos y ángeles, y seis estatuas en las jambas.</p><p>Hoy es el <b>Museo del Retablo</b>, que reúne retablos de los siglos XVI al XVIII traídos de pueblos de la diócesis. Conserva además un claustro con sala capitular y un <b>coro alto</b> de <b>Simón de Colonia</b> (hacia 1503), en gótico isabelino.</p><p class=\"dato\"><span>¿Sabías que…?</span>Es la única parroquia de Burgos con claustro y sala capitular propios.</p>"
+   },
+   "ver_alli": [
+    "La portada: busca a san Esteban apedreado en el registro inferior del tímpano.",
+    "Los retablos del museo, de pueblos de toda la diócesis.",
+    "El coro alto de Simón de Colonia y el púlpito plateresco de Nicolás de Vergara."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Esteban_(Burgos)",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "hospital-del-rey-burgos",
+   "nombre": "Hospital del Rey",
+   "provincia": "Burgos",
+   "comarca": "Burgos",
+   "lat": 42.3401,
+   "lon": -3.7279,
+   "tipo": "monumento",
+   "estilo": "Cisterciense con reformas platerescas (s. XVI)",
+   "epoca": "Gótico",
+   "anio": 1195,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Junto al Camino de Santiago, cerca del monasterio de las Huelgas, el rey <b>Alfonso VIII</b> fundó en <b>1195</b> un gran hospital para acoger a los <b>peregrinos</b> y a los enfermos. Dependía de la abadesa de las Huelgas, y junto a su entrada había un cementerio para los caminantes que morían en el viaje.</p><p>Del primer edificio, de estilo cisterciense, queda poco: en el siglo XVI se reformó por deseo de Carlos I, y de esa época son la <b>Puerta de Romeros</b>, de estilo plateresco, y el patio que da acceso a la iglesia.</p><p>Recuperado en los años ochenta del siglo XX, hoy es la sede de la <b>Facultad de Derecho</b> y del <b>Rectorado de la Universidad de Burgos</b>: estudiantes donde antes descansaban los romeros.</p><p class=\"dato\"><span>¿Sabías que…?</span>Las puertas de madera de la iglesia, del siglo XVI, están talladas con peregrinos; entre ellos, una mujer que amamanta a su hijo mientras camina.</p>"
+   },
+   "ver_alli": [
+    "La Puerta de Romeros, plateresca, por donde se entra al recinto.",
+    "Las puertas de madera de la iglesia con los relieves de peregrinos.",
+    "La vecina ermita de San Amaro, junto a la antigua entrada."
+   ],
+   "fuentes": [
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/edificios/hospital-rey",
+    "https://www.spain.info/es/lugares-interes/hospital-rey-burgos/",
+    "https://es.wikipedia.org/wiki/Hospital_del_Rey_(Burgos)",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-san-pedro-de-cardena",
+   "nombre": "Monasterio de San Pedro de Cardeña",
+   "provincia": "Burgos",
+   "comarca": "Castrillo del Val",
+   "lat": 42.3043,
+   "lon": -3.6074,
+   "tipo": "iglesia",
+   "estilo": "Románico (claustro y torre) y gótico",
+   "epoca": "Románico",
+   "anio": 902,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Al sureste de Burgos se encuentra uno de los monasterios más antiguos de Castilla: ya existía en <b>902</b>, año de la primera donación documentada. Pero su fama le viene de un personaje: <b>el Cid</b>.</p><p>Según el <i>Cantar de mio Cid</i>, aquí dejó Rodrigo Díaz a <b>doña Jimena</b> y a sus hijas al marchar al destierro, aunque el dato no está probado. Lo que sí es histórico es que, tras su muerte en Valencia en 1099, Jimena trajo su cuerpo a Cardeña en <b>1102</b>, y ella misma fue enterrada a sus pies. Sus restos acabaron siglos después en la catedral de Burgos.</p><p>Del monasterio medieval quedan el <b>claustro románico</b> del siglo XII, con arcos que alternan piedra blanca y roja, y la robusta <b>torre</b>. La iglesia se reconstruyó en el siglo XVI. Desde 1942 lo habitan <b>monjes trapenses</b>, que elaboran vino en una bodega histórica.</p><p class=\"dato\"><span>¿Sabías que…?</span>La leyenda dice que <b>Babieca</b>, el caballo del Cid, fue enterrado ante la puerta del monasterio. En 1948 se excavó el lugar y no apareció nada.</p>"
+   },
+   "ver_alli": [
+    "El claustro románico, con sus arcos bicolores.",
+    "La torre románica, la parte más antigua que se conserva de la iglesia.",
+    "La iglesia reconstruida en el siglo XVI, con su fachada barroca."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Pedro_de_Carde%C3%B1a",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "ermita-de-santa-cecilia-barriosuso",
+   "nombre": "Ermita de Santa Cecilia",
+   "provincia": "Burgos",
+   "comarca": "Santibáñez del Val (Barriosuso)",
+   "lat": 41.9663,
+   "lon": -3.4741,
+   "tipo": "iglesia",
+   "estilo": "Mozárabe y románico",
+   "epoca": "Prerrománico y Alta Edad Media",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Sobre un altozano que domina el río Mataviejas, muy cerca de Santo Domingo de Silos, se alza una pequeña ermita con dos edades. La <b>nave</b> es <b>mozárabe</b> y se data en el <b>siglo X</b>; el <b>pórtico</b> que la abraza por el sur es <b>románico</b>, del siglo XII.</p><p>La nave termina en un <b>ábside cuadrado</b> cubierto con una cúpula original sobre pechinas, y sobre la cabecera se alza una torre en forma de tronco de pirámide. El arco que une nave y pórtico fue en su origen de <b>herradura</b>, el sello de los constructores mozárabes, aunque hoy está picado.</p><p>El pórtico románico tiene cinco arcos de medio punto, el central más grande, y una cornisa sobre canecillos sencillos. Es Bien de Interés Cultural desde 1992.</p><p class=\"dato\"><span>¿Sabías que…?</span>En la cabecera hay una lucera tallada en un solo sillar: una cruz con cinco anillos unidos por ranuras.</p>"
+   },
+   "ver_alli": [
+    "El pórtico románico de cinco arcos.",
+    "La lucera cruciforme de cinco anillos tallada en un sillar.",
+    "El arranque del antiguo arco de herradura entre nave y pórtico."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Ermita_de_Santa_Cecilia_(Barriosuso)",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-penaranda-de-duero",
+   "nombre": "Castillo de Peñaranda de Duero",
+   "provincia": "Burgos",
+   "comarca": "Peñaranda de Duero",
+   "lat": 41.69,
+   "lon": -3.4815,
+   "tipo": "castillo",
+   "estilo": "Fortaleza medieval",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Sobre una colina que vigila el valle del Duero se estira el castillo de Peñaranda. Su primera construcción es del <b>siglo XI</b>, en tiempos de la Reconquista, cuando estas tierras eran frontera, y su silueta recuerda a la del vecino castillo de <b>Peñafiel</b>.</p><p>En el centro se levanta la <b>torre del homenaje</b>, de planta cuadrada y cuatro pisos que se apoyaban en vigas de madera. Una muralla de gran grosor, de la que quedan pocos lienzos, protegía el castillo y el caserío que crecía a sus pies.</p><p>Fue declarado monumento en <b>1931</b> junto con el palacio de los Avellaneda y la propia villa.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje en el centro del recinto.",
+    "Los restos de la muralla que bajaba hacia la villa.",
+    "Las vistas sobre la villa, el palacio y el valle del Duero."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Pe%C3%B1aranda_de_Duero",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-condes-de-miranda-penaranda",
+   "nombre": "Palacio de los Condes de Miranda (Palacio de Avellaneda)",
+   "provincia": "Burgos",
+   "comarca": "Peñaranda de Duero",
+   "lat": 41.688,
+   "lon": -3.4803,
+   "tipo": "monumento",
+   "estilo": "Renacentista con tradición gótica y artesonados mudéjares",
+   "epoca": "Renacimiento",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En la villa de Peñaranda se levanta uno de los grandes palacios renacentistas de Castilla. Lo mandó construir en el primer tercio del <b>siglo XVI</b> <b>Francisco de Zúñiga y Velasco</b>, tercer conde de Miranda; su autor no se sabe con seguridad y se atribuye a <b>Francisco de Colonia</b> o a <b>Nicolás de Vergara</b>.</p><p>La fachada tiene una portada descentrada con jambas de jaspe y grutescos, coronada por los escudos de los Zúñiga y Avellaneda y un busto de <b>Hércules</b>. Dentro, el <b>patio</b> mezcla dos mundos: el piso bajo aún es tardogótico y el alto, plenamente renacentista.</p><p>Lo más espectacular está arriba: yeserías y <b>artesonados mudéjares</b>, sobre todo en el Salón de Embajadores, con su chimenea francesa. Tras siglos de abandono —se usó como pajar, granero y taller de carretas— se restauró en los años cincuenta. Es monumento nacional desde 1923.</p>"
+   },
+   "ver_alli": [
+    "La portada con el busto de Hércules y los escudos.",
+    "El patio de dos pisos, gótico abajo y renacentista arriba.",
+    "El artesonado mudéjar del Salón de Embajadores y las yeserías de la escalera."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Palacio_de_los_Condes_de_Miranda",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-santa-maria-de-la-vid",
+   "nombre": "Monasterio de Santa María de La Vid",
+   "provincia": "Burgos",
+   "comarca": "La Vid y Barrios",
+   "lat": 41.6289,
+   "lon": -3.4881,
+   "tipo": "iglesia",
+   "estilo": "Renacentista y barroco",
+   "epoca": "Renacimiento",
+   "anio": 1152,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Junto al Duero, entre Aranda y Peñaranda, se levanta un enorme monasterio de origen medieval. Lo fundaron en el siglo XII los <b>premonstratenses</b>, y en <b>1152</b> el rey <b>Alfonso VII</b> les donó la finca de La Vid, adonde se trasladó la comunidad. Su primer abad, Domingo, gobernó 55 años.</p><p>El aspecto actual llega del siglo XVI: entre <b>1522 y 1572</b> el abad Íñigo López de Mendoza y Zúñiga y su hermano, el conde de Miranda, levantaron una gran cabecera de planta octogonal con cúpula, con arquitectos como <b>Pedro de Rasines</b> y <b>Juan de Vallejo</b>. La alta <b>espadaña barroca</b> de la fachada se terminó en 1738.</p><p>Desde 1865 lo ocupan los <b>agustinos</b>. En el templo se venera la Virgen de la Vid, una imagen románica de piedra policromada de un tamaño poco común para su época.</p>"
+   },
+   "ver_alli": [
+    "La espadaña barroca de la fachada, visible desde lejos.",
+    "La cabecera octogonal y su cúpula del siglo XVI.",
+    "La imagen románica de la Virgen de la Vid."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_(La_Vid)",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-maria-la-real-de-sasamon",
+   "nombre": "Iglesia de Santa María la Real de Sasamón",
+   "provincia": "Burgos",
+   "comarca": "Sasamón",
+   "lat": 42.4183,
+   "lon": -4.0439,
+   "tipo": "iglesia",
+   "estilo": "Gótico (con restos románicos)",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En la llanura al oeste de Burgos, Sasamón esconde una iglesia de tamaño catedralicio. El templo primitivo se sustituyó a mediados del <b>siglo XIII</b> por el actual, de estilo <b>gótico</b>, y se siguió ampliando hasta el XVII; aún conserva elementos románicos en la portada occidental y en la nave de la epístola.</p><p>Su <b>portada sur</b> se parece mucho a la <b>Puerta del Sarmental</b> de la catedral de Burgos. Hacia 1504 se añadieron la nave sur y la portada de San Miguel.</p><p>El <b>claustro</b>, del siglo XV y atribuido a <b>Juan de Colonia</b>, tiene capiteles muy cuidados. Dentro destacan el retablo plateresco de Santiago, de principios del XVI, y una pila bautismal de gótico florido de finales del XV.</p>"
+   },
+   "ver_alli": [
+    "La portada sur: compárala con la del Sarmental de la catedral de Burgos.",
+    "El claustro y sus capiteles.",
+    "La pila bautismal gótica de la capilla de San Bartolomé y el retablo de Santiago."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_La_Real_(Sasam%C3%B3n)",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "convento-de-san-anton-castrojeriz",
+   "nombre": "Ruinas del Convento de San Antón",
+   "provincia": "Burgos",
+   "comarca": "Castrojeriz",
+   "lat": 42.2925,
+   "lon": -4.099,
+   "tipo": "iglesia",
+   "estilo": "Gótico",
+   "epoca": "Gótico",
+   "anio": 1146,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Poco antes de llegar a Castrojeriz, el Camino de Santiago y la carretera pasan literalmente <b>por debajo de una iglesia</b>: son los arcos del antiguo convento de San Antón. Lo fundó el rey <b>Alfonso VII</b> en <b>1146</b> como hospital real para peregrinos, a cargo de la orden de los <b>antonianos</b>.</p><p>Los antonianos se dedicaban a curar el <b>«fuego de San Antón»</b>, una enfermedad temida, llamada también «fuego sagrado». Bendecían la <b>cruz en forma de tau</b>, símbolo de la orden, que se creía que protegía de la peste, y marcaban con ella el pan que repartían. Este convento fue sede de la encomienda general de la orden, con más de veinte casas dependientes.</p><p>Las ruinas que vemos son del <b>siglo XIV</b>: los muros de la iglesia y el gran arco que cobija el camino, con escudos reales en la portada. Algunos sillares llevan grabada la letra tau.</p>"
+   },
+   "ver_alli": [
+    "El arco bajo el que pasan peregrinos y coches.",
+    "La portada gótica de la iglesia con los escudos reales.",
+    "Las marcas en forma de tau en los sillares."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Ant%C3%B3n_(Castrojeriz)",
+    "https://turismoburgos.org/documentos-accesibles/pdfs/Castrojeriz/CASTROJERIZ.pdf",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "colegiata-del-manzano-castrojeriz",
+   "nombre": "Colegiata de Santa María del Manzano",
+   "provincia": "Burgos",
+   "comarca": "Castrojeriz",
+   "lat": 42.2927,
+   "lon": -4.1278,
+   "tipo": "iglesia",
+   "estilo": "Gótico (torre románica, portada sur renacentista)",
+   "epoca": "Gótico",
+   "anio": 1214,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Es lo primero que ve el peregrino al entrar en Castrojeriz, a la sombra del cerro del castillo. La iglesia actual se empezó en <b>1214</b> por deseo de la reina <b>Berenguela de Castilla</b>: un templo gótico de tres naves con la base de la torre aún románica.</p><p>Su gran <b>rosetón</b>, añadido en los siglos XV-XVI, muestra a Dios bendiciendo rodeado de apóstoles. En la portada principal, dos esculturas del siglo XIII de la Virgen y el arcángel Gabriel flanquean la entrada.</p><p>La imagen de piedra de la <b>Virgen del Manzano</b> fue famosa en la Edad Media: le dedican cuatro de las <b>Cantigas de Santa María</b>. El retablo mayor, rococó, es de <b>1760</b>, y su tabla central, una Anunciación, es del pintor de cámara de Carlos III, <b>Anton Rafael Mengs</b>. Hoy alberga un museo de arte sacro.</p>"
+   },
+   "ver_alli": [
+    "El rosetón de la fachada.",
+    "La Virgen y el ángel de la portada, del siglo XIII.",
+    "La Anunciación de Mengs en el retablo mayor y la Virgen del Manzano en su capilla."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Nuestra_Se%C3%B1ora_del_Manzano_(Castrojeriz)",
+    "https://turismoburgos.org/documentos-accesibles/pdfs/Castrojeriz/CASTROJERIZ.pdf"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-maria-la-real-aranda-de-duero",
+   "nombre": "Iglesia de Santa María la Real",
+   "provincia": "Burgos",
+   "comarca": "Aranda de Duero",
+   "lat": 41.6713,
+   "lon": -3.6891,
+   "tipo": "iglesia",
+   "estilo": "Gótico flamígero, portada gótico-isabelina",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En el centro de Aranda de Duero se levanta esta iglesia gótica, construida entre los siglos XV y XVI sobre otra anterior de la que solo queda la <b>torre románica</b> del siglo XII. Un plano de 1503 ya la muestra terminada.</p><p>Su gran orgullo es la <b>portada</b>, un retablo de piedra en <b>gótico isabelino</b> empezado antes de 1500 y acabado hacia 1515 por un taller con <b>Simón de Colonia</b> a la cabeza. En el centro, un <b>Calvario</b> a tamaño natural; en el tímpano, el Nacimiento, el anuncio a los pastores y los Reyes Magos; y en la arquivolta, 28 santos y santas.</p><p>Por toda la fachada aparecen los escudos reales con el <b>yugo y las flechas</b>, emblema de la unión de Castilla y Aragón. Dentro destacan el retablo mayor romanista (1609-1624) y un púlpito de nogal del siglo XVI.</p>"
+   },
+   "ver_alli": [
+    "La portada: el Calvario central y los Reyes Magos del tímpano.",
+    "El yugo y las flechas entre los escudos reales.",
+    "El púlpito hexagonal de nogal y el retablo mayor."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_(Aranda_de_Duero)",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-san-lesmes-burgos",
+   "nombre": "Iglesia de San Lesmes Abad",
+   "provincia": "Burgos",
+   "comarca": "Burgos",
+   "lat": 42.3431,
+   "lon": -3.6962,
+   "tipo": "iglesia",
+   "estilo": "Gótico",
+   "epoca": "Gótico",
+   "anio": 1383,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En la plaza de San Juan de Burgos se alza la iglesia del <b>patrón de la ciudad</b>. San Lesmes —Adelelmo— era un monje francés, nacido en Loudun y abad de La Chaise-Dieu, a quien la reina Constanza y <b>Alfonso VI</b> llamaron a Burgos, donde en 1079 fundaron un monasterio al que él añadió un <b>hospital</b> y una iglesia.</p><p>El templo actual es <b>gótico</b>, del siglo XIV: se levantó después de que Juan I ordenara en <b>1383</b> derribar la vieja ermita de San Juan, junto a la muralla, donde se guardaba su sepulcro.</p><p>Por fuera es sobrio, con su portada, su rosetón y el campanario. Dentro, en el centro, cerca del altar, está el <b>sepulcro de alabastro</b> del santo, con su figura tallada en la tapa, rodeado de otros sepulcros en los laterales.</p>"
+   },
+   "ver_alli": [
+    "El sepulcro de alabastro de san Lesmes, cerca del altar.",
+    "La portada y el rosetón de la fachada.",
+    "Las ruinas vecinas del monasterio de San Juan, junto a la iglesia."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Lesmes_Abad_(Burgos)",
+    "https://en.wikipedia.org/wiki/Adelelmus_of_Burgos",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-san-salvador-de-ona",
+   "nombre": "Monasterio de San Salvador de Oña",
+   "provincia": "Burgos",
+   "comarca": "Oña (La Bureba)",
+   "lat": 42.7338,
+   "lon": -3.4127,
+   "tipo": "iglesia",
+   "estilo": "Románico, gótico y barroco",
+   "epoca": "Románico",
+   "anio": 1011,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En 1011 el conde de Castilla <b>Sancho García</b> fundó en Oña un monasterio para su hija Tigridia. Pocos años después, en 1033, pasó a manos de monjes de la reforma de Cluny, y con el tiempo se convirtió en uno de los grandes monasterios de Castilla.</p><p>Su iglesia es un <b>panteón condal y real</b>: allí reposan el propio Sancho García, el rey <b>Sancho III el Mayor</b> de Pamplona y <b>Sancho II</b>, el primer rey de Castilla, entre otros. Los sepulcros son arcas de nogal bajo baldaquinos, con sargas pintadas de estilo hispano-flamenco que la tradición sitúa en tiempos del abad Juan Manso, hacia 1495.</p><p>El edificio es un libro de estilos: restos <b>románicos</b> en la portada, crucero del siglo XIII, capilla mayor gótica, una gran <b>sillería de coro</b> de nogal tallada en el siglo XV por fray Pedro de Valladolid, claustro atribuido a <b>Simón de Colonia</b> y fachada del siglo XVII. La nave mide unos 83 metros de largo.</p><p class=\"dato\"><span>¿Sabías que…?</span>En este monasterio el monje <b>Pedro Ponce de León</b> enseñó en el siglo XVI a hablar y escribir a niños sordos, lo que se considera la primera escuela para sordos del mundo.</p>"
+   },
+   "ver_alli": [
+    "Los sepulcros de madera de condes y reyes a ambos lados de la capilla mayor.",
+    "La sillería gótica del coro, de nogal.",
+    "El claustro de Simón de Colonia y la pintura mural gótica de santa María Egipciaca."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Salvador_(O%C3%B1a)",
+    "https://www.openstreetmap.org/search?query=Monasterio%20de%20San%20Salvador%20de%20O%C3%B1a"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-santa-maria-de-rioseco",
+   "nombre": "Monasterio de Santa María de Rioseco",
+   "provincia": "Burgos",
+   "comarca": "Valle de Manzanedo (Las Merindades)",
+   "lat": 42.8938,
+   "lon": -3.6322,
+   "tipo": "iglesia",
+   "estilo": "Cisterciense (gótico), con añadidos renacentistas y barrocos",
+   "epoca": "Gótico",
+   "anio": 1236,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Los monjes blancos del <b>Císter</b> que acabaron en Rioseco tuvieron una historia nómada: empezaron en Quintanajuar, pasaron por San Cipriano de Montes de Oca, llegaron a Rioseco en 1204 y en <b>1236</b> se instalaron definitivamente aquí, a orillas del <b>Ebro</b>, en tierras compradas a los Velasco.</p><p>La iglesia de los siglos XIII y XIV es de una sola nave con cabecera recta y bóvedas de crucería, con la sobriedad propia del Císter; después llegaron añadidos renacentistas y barrocos. La comunidad llegó a reunir un centenar de personas y unas 2.000 ovejas.</p><p>La <b>desamortización</b> de 1835 vació el monasterio, que cayó en el abandono y el expolio. Desde hace unos años la asociación de voluntarios <b>«Salvemos Rioseco»</b> lo consolida y lo ha sacado del olvido: salió de la Lista Roja del patrimonio en 2018 y fue declarado Bien de Interés Cultural en 2019.</p>"
+   },
+   "ver_alli": [
+    "Las ruinas de la iglesia, con su cabecera recta y los arranques de las bóvedas.",
+    "Las huellas de las reformas renacentistas y barrocas.",
+    "El paisaje del Ebro alrededor del cenobio."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_de_Rioseco",
+    "https://www.openstreetmap.org/search?query=Monasterio%20de%20Santa%20Mar%C3%ADa%20de%20Rioseco"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-lorenzo-de-vallejo-de-mena",
+   "nombre": "Iglesia de San Lorenzo de Vallejo de Mena",
+   "provincia": "Burgos",
+   "comarca": "Valle de Mena (Las Merindades)",
+   "lat": 43.0848,
+   "lon": -3.3013,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Considerada la <b>joya del románico del Valle de Mena</b>, esta iglesia de sillería se levantó a finales del siglo XII o principios del XIII. Según la inscripción de una tumba de su interior, doña <b>Endrequina de Mena</b> la donó a la Orden de San Juan de Jerusalén.</p><p>Por fuera llama la atención el <b>ábside</b>, dividido en paños por pilares y decorado con arquerías de tipo lombardo, y los grandes haces de columnas que debían sostener una <b>torre que nunca llegó a construirse</b>. Tiene tres portadas; la occidental es la más rica, con arquivoltas donde aparecen peregrinos, Adán y Eva, caballeros y escenas de caza.</p><p>El pueblo estaba en un ramal del Camino de Santiago, lo que ayuda a entender tanta riqueza en un valle tan apartado.</p>"
+   },
+   "ver_alli": [
+    "La portada oeste y sus arquivoltas historiadas.",
+    "El ábside con arquerías lombardas y siete ventanas.",
+    "Los pilares de la torre inacabada junto a la cabecera."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Lorenzo_(Vallejo_de_Mena)",
+    "https://www.openstreetmap.org/search?query=Iglesia%20de%20San%20Lorenzo%20Vallejo%20de%20Mena"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "colegiata-de-santa-maria-de-valpuesta",
+   "nombre": "Colegiata de Santa María de Valpuesta",
+   "provincia": "Burgos",
+   "comarca": "Berberana",
+   "lat": 42.8658,
+   "lon": -3.1246,
+   "tipo": "iglesia",
+   "estilo": "Gótico, con pórtico barroco y torre neoclásica",
+   "epoca": "Prerrománico y Alta Edad Media",
+   "anio": 804,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En este rincón entre Burgos y Álava hubo, entre <b>804 y 1087</b>, una sede episcopal, la segunda del reino de Asturias después de Oviedo. Del templo primitivo no queda nada a la vista: lo más antiguo que se conserva es la <b>nave y el claustro góticos de 1342</b>; el pórtico es del siglo XVIII y la torre, neoclásica, del XIX.</p><p>La fama de Valpuesta viene de sus <b>Cartularios</b>: 187 documentos copiados en latín por 34 escribas del monasterio. Un estudio paleográfico dirigido por José Manuel Ruiz Asencio y avalado por la Real Academia Española los considera <b>la expresión escrita más antigua del castellano</b>, del siglo IX, porque entre el latín asoman palabras de la lengua que ya se hablaba.</p><p>Dentro destaca el retablo mayor, con doce apóstoles del siglo XVI de estilo renacentista que se han atribuido a Felipe Bigarny o a su taller. Es Bien de Interés Cultural desde 1992.</p>"
+   },
+   "ver_alli": [
+    "La nave gótica y el claustro de 1342.",
+    "Los doce apóstoles del retablo mayor.",
+    "La torre de los Velasco del siglo XV, junto a la colegiata."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Valpuesta",
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/colegiata-santa-maria-valpuesta",
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/camino-lengua/valpuesta"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "ermita-de-santa-centola-y-santa-elena",
+   "nombre": "Ermita de las Santas Centola y Elena (Siero)",
+   "provincia": "Burgos",
+   "comarca": "Valdelateja (Valle de Sedano)",
+   "lat": 42.7716,
+   "lon": -3.7664,
+   "tipo": "iglesia",
+   "estilo": "Altomedieval (visigodo o mozárabe, discutido)",
+   "epoca": "Prerrománico y Alta Edad Media",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Sobre un espolón rocoso llamado <b>el Castro</b>, junto al río Rudrón y muy cerca de su unión con el Ebro, se alza esta pequeña ermita de una nave y <b>cabecera cuadrada</b>. El lugar estuvo habitado y fortificado desde muy antiguo: en los bancales del entorno aparece cerámica prerromana y romana.</p><p>Su fecha se discute: la Junta la presenta como de época <b>visigoda</b>, mientras que el historiador Luciano Huidobro la relacionó con el arte de la Reconquista de influencia asturiana. En su interior apareció una piedra con una <b>cruz con alfa y omega</b> y los nombres <b>«Frelemandus et Gutina»</b>, que por el tipo de letra se fecha entre los siglos VIII y X.</p><p>Está dedicada a dos mártires de la tradición burgalesa, santa Centola y santa Elena. Según Huidobro, sus restos se llevaron desde el monasterio que hubo al pie del castillo de Siero a la <b>catedral de Burgos</b> en 1317, donde se veneran bajo el retablo mayor.</p>"
+   },
+   "ver_alli": [
+    "La cabecera cuadrada, la parte más antigua.",
+    "El emplazamiento sobre el cañón del Rudrón y el Ebro.",
+    "Los restos del despoblado de Siero en la subida."
+   ],
+   "fuentes": [
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/ermita-santas-centola-elena-siero",
+    "https://riubu.ubu.es/bitstream/handle/10259.4/415/1133-9276_n026_p394-404.pdf?sequence=1",
+    "https://en.wikipedia.org/wiki/Centola_and_Helen",
+    "https://www.openstreetmap.org/search?query=Ermita%20de%20Santa%20C%C3%A9ntola%20y%20Elena%20Valdelateja"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-los-rojas-poza-de-la-sal",
+   "nombre": "Castillo de los Rojas (Poza de la Sal)",
+   "provincia": "Burgos",
+   "comarca": "Poza de la Sal (La Bureba)",
+   "lat": 42.6668,
+   "lon": -3.5053,
+   "tipo": "castillo",
+   "estilo": "Gótico militar",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Encaramado en un peñón sobre la villa, este castillo vigilaba uno de los grandes tesoros de la Castilla medieval: la <b>sal</b>. El primer castillo lo levantó a finales del siglo IX el conde <b>Diego Rodríguez Porcelos</b> al repoblar la zona.</p><p>En 1298 Fernando IV entregó la villa a <b>Juan Rodríguez de Rojas</b>, y fueron los Rojas quienes construyeron el castillo actual junto con las murallas que cerraban el pueblo (unas fuentes lo sitúan en el siglo XIV y otras en el XV). En 1808 lo ocuparon tropas francesas, que lo rehabilitaron, y sufrió ataques hasta el final de la guerra.</p><p>A sus pies se extienden las <b>salinas de Poza</b>, en un enorme <b>diapiro</b> de casi 3 km de diámetro: durante siglos se disolvía la roca salina con agua dulce y la salmuera se evaporaba al sol en eras.</p>"
+   },
+   "ver_alli": [
+    "La vista sobre el diapiro y las antiguas eras de las salinas.",
+    "Los restos de la fortaleza sobre el peñón.",
+    "Los restos de las murallas de la villa."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_los_Rojas_(Poza_de_la_Sal)",
+    "https://es.wikipedia.org/wiki/Salinas_de_Poza_de_la_Sal",
+    "https://www.openstreetmap.org/search?query=Castillo%20de%20los%20Rojas%20Poza%20de%20la%20Sal"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-santa-clara-de-briviesca",
+   "nombre": "Monasterio de Santa Clara (Briviesca)",
+   "provincia": "Burgos",
+   "comarca": "Briviesca (La Bureba)",
+   "lat": 42.5493,
+   "lon": -3.3222,
+   "tipo": "iglesia",
+   "estilo": "Gótico isabelino y renacentista",
+   "epoca": "Renacimiento",
+   "anio": 1511,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Lo mandó construir en <b>1511</b> doña <b>Mencía de Velasco</b>, hija de los Condestables de Castilla, aunque las obras de verdad empezaron hacia 1524, tras su muerte. Trazado según planes de <b>Juan Gil de Hontañón</b> y construido por <b>Pedro de Rasines</b>, mezcla el último gótico con el Renacimiento.</p><p>Su gran tesoro es el <b>retablo mayor</b>: unos <b>24 metros</b> de nogal sin policromar, empezado en 1551 por Diego de Guillén y realizado sobre todo por <b>Pedro López de Gámiz</b>, que lo terminó hacia 1569. Es una obra de estilo manierista romanista.</p><p>La iglesia es monumento nacional desde 1931. Las clarisas dejaron el convento en 2005.</p><p class=\"dato\"><span>¿Sabías que…?</span>Pese a ser su fundadora, Mencía de Velasco no está enterrada aquí, sino en el monasterio de Medina de Pomar.</p>"
+   },
+   "ver_alli": [
+    "El retablo mayor de nogal en su color natural.",
+    "La cabecera y las bóvedas góticas.",
+    "La arquitectura de la iglesia, entre el gótico isabelino y el Renacimiento."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Clara_(Briviesca)",
+    "https://www.openstreetmap.org/search?query=Monasterio%20de%20Santa%20Clara%20Briviesca"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-saturnino-de-san-zadornil",
+   "nombre": "Iglesia de San Saturnino (San Zadornil)",
+   "provincia": "Burgos",
+   "comarca": "Jurisdicción de San Zadornil",
+   "lat": 42.8416,
+   "lon": -3.1568,
+   "tipo": "iglesia",
+   "estilo": "Románico rural",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Esta iglesia de la segunda mitad del siglo XII es un buen ejemplo de <b>románico rural</b> que ha llegado casi entero hasta hoy: solo perdió su ábside original. Tiene una nave de tres tramos cubierta con bóveda de cañón apuntado sobre arcos fajones.</p><p>Su elemento más llamativo es la <b>torre</b>, en el lado sur junto a la cabecera: maciza abajo, con aspilleras en el primer cuerpo y <b>ventanas geminadas</b> en el segundo. La portada, sobria, tiene arquivoltas con puntas de diamante y capiteles con hojas esquemáticas, rostros humanos y gallináceas.</p><p>Fue declarada Bien de Interés Cultural en 1992.</p><p class=\"dato\"><span>¿Sabías que…?</span>Entre los canecillos de la portada y de la torre hay uno con una <b>cuba</b>, un motivo poco habitual.</p>"
+   },
+   "ver_alli": [
+    "La torre románica con ventanas geminadas.",
+    "La portada con puntas de diamante.",
+    "Los canecillos, entre ellos el de la cuba."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Saturnino_(San_Zadornil)",
+    "https://www.openstreetmap.org/search?query=Iglesia%20de%20San%20Saturnino%20San%20Zadornil"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-pancorbo",
+   "nombre": "Castillo de Pancorbo (Santa Marta)",
+   "provincia": "Burgos",
+   "comarca": "Pancorbo",
+   "lat": 42.6358,
+   "lon": -3.1123,
+   "tipo": "castillo",
+   "estilo": "Restos de fortaleza medieval",
+   "epoca": "Castillos y fortalezas",
+   "anio": 882,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>El desfiladero de Pancorbo era una de las puertas naturales de Castilla, y el conde <b>Diego Porcelos</b> lo fortificó poco antes del año 882. Ese mismo año resistió un asedio de tres días de las tropas cordobesas, y al año siguiente volvió a resistir.</p><p>Durante siglos cambió de manos: Sancho III de Pamplona entregó su tenencia a la familia navarra de los Fortuniones, en 1380 pasó al concejo de Burgos y a mediados del siglo XV lo usurpó el conde de Salinas. En 1679 un viajero francés lo describió como <b>«inexpugnable»</b>, con escalones tallados en la roca. Se restauró a finales del siglo XVIII y ardió el 10 de agosto de 1835, en la Primera Guerra Carlista.</p><p>Hoy solo quedan restos de muros sobre las peñas, pero las vistas sobre el desfiladero explican por qué aquí había un castillo.</p>"
+   },
+   "ver_alli": [
+    "Los agujeros tallados en la roca para anclar escaleras.",
+    "El puente entre dos peñas.",
+    "La vista del desfiladero desde lo alto."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Pancorbo",
+    "https://www.openstreetmap.org/search?query=Castillo%20de%20Santa%20Marta%20Pancorbo"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "torre-de-los-velasco-de-valdenoceda",
+   "nombre": "Torre de los Fernández Velasco (Valdenoceda)",
+   "provincia": "Burgos",
+   "comarca": "Merindad de Valdivielso (Las Merindades)",
+   "lat": 42.849,
+   "lon": -3.6028,
+   "tipo": "castillo",
+   "estilo": "Gótico militar",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En el valle de Valdivielso se levanta esta torre de los siglos XII y XIII ligada a los <b>Velasco</b>, uno de los linajes más poderosos de Castilla, cuyos escudos aún se conservan en sus muros.</p><p>Es una torre de planta rectangular de unos <b>veinte metros de altura</b>, con muros gruesos y almenas, y conserva elementos góticos como <b>ajimeces</b> y saeteras. Estaba en ruinas desde el siglo XVI y se transformó en el siglo XX. Es Bien de Interés Cultural desde 1985.</p><p>No es la única: el valle de Valdivielso conserva varias torres protegidas, como la de Loja o la del Almiñé.</p>"
+   },
+   "ver_alli": [
+    "Los escudos de los Velasco.",
+    "Los ajimeces y saeteras góticos.",
+    "El remate almenado."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Torre_de_los_Fern%C3%A1ndez_Velasco",
+    "https://www.openstreetmap.org/search?query=Torre%20de%20los%20Velasco%20Valdenoceda"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-del-espiritu-santo-miranda-de-ebro",
+   "nombre": "Iglesia del Espíritu Santo (Miranda de Ebro)",
+   "provincia": "Burgos",
+   "comarca": "Miranda de Ebro",
+   "lat": 42.6842,
+   "lon": -2.9503,
+   "tipo": "iglesia",
+   "estilo": "Románico con rasgos del gótico primitivo",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Esta iglesia del <b>siglo XIII</b> se levantó donde el fuero de 1099 ya cita una iglesia dedicada a San Nicolás. Esa fue su advocación hasta la Guerra Civil; tras un incendio en <b>1936</b> estuvo cerrada 36 años y reabrió en 1972 como iglesia del Espíritu Santo.</p><p>La <b>portada sur</b> tiene tres arquivoltas apuntadas y seis capiteles: dos de hojas y cuatro con figuras sobre el pecado. En ellos aparecen un <b>castillo y un león</b> que algunos expertos relacionan con la unión de Castilla y León en 1230. El <b>ábside</b> pentagonal tiene ventanas con doble arquivolta.</p><p class=\"dato\"><span>¿Sabías que…?</span>Fue <b>iglesia juradera</b>: aquí los vecinos de las dos orillas del Ebro resolvían sus pleitos jurando según el fuero.</p>"
+   },
+   "ver_alli": [
+    "Los capiteles de la portada, con el castillo y el león.",
+    "El ábside pentagonal con sus ventanas.",
+    "Los canecillos de la portada, con un búho."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_del_Esp%C3%ADritu_Santo_(Miranda_de_Ebro)",
+    "https://www.openstreetmap.org/search?query=Iglesia%20del%20Esp%C3%ADritu%20Santo%20Miranda%20de%20Ebro"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "nuestra-senora-de-septiembre-de-butrera",
+   "nombre": "Iglesia de Nuestra Señora de Septiembre (Butrera)",
+   "provincia": "Burgos",
+   "comarca": "Merindad de Sotoscueva (Las Merindades)",
+   "lat": 43.0022,
+   "lon": -3.5856,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En el pequeño pueblo de Butrera, junto al río Trema, se levanta una magnífica iglesia románica, también llamada de <b>Nuestra Señora la Antigua</b>. Se construyó en varias fases, entre mediados del siglo XII y comienzos del XIII.</p><p>Su planta es casi de <b>cruz griega</b>, con un crucero muy marcado, y la cabecera se cierra con un <b>ábside semicircular</b> cuya escultura merece mirarse con calma. Una gran <b>espadaña</b> domina su silueta compacta. Es monumento histórico-artístico desde 1983.</p>"
+   },
+   "ver_alli": [
+    "La escultura del ábside semicircular.",
+    "El crucero muy marcado de la planta.",
+    "La gran espadaña."
+   ],
+   "fuentes": [
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-senora-septiembre",
+    "https://es.wikipedia.org/wiki/Iglesia_de_Nuestra_Se%C3%B1ora_de_Septiembre_(Butrera)",
+    "https://www.terranostrum.es/turismo/ruta-de-espinosa-de-los-monteros-sotoscueva-y-montija"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-santa-maria-de-bujedo",
+   "nombre": "Monasterio de Santa María de Bujedo",
+   "provincia": "Burgos",
+   "comarca": "Bugedo (Miranda de Ebro)",
+   "lat": 42.646,
+   "lon": -3.0242,
+   "tipo": "iglesia",
+   "estilo": "Románico tardío y protogótico; claustro del siglo XVI",
+   "epoca": "Románico",
+   "anio": 1168,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Lo fundó doña <b>Sancha Díaz de Frías</b> con la protección de Alfonso VIII: el acta de fundación se firmó el 8 de agosto de <b>1168</b>. Fue un monasterio de la orden <b>premonstratense</b>, inspirada por san Norberto, dependiente de San Cristóbal de Ibeas.</p><p>Su iglesia, de la segunda mitad del siglo XII, tiene planta de cruz latina con <b>tres ábsides</b>, el central más alto. Por dentro anuncia ya el gótico, con arcos apuntados y nervios. El <b>claustro</b>, de cinco arcos por lado, se trazó en 1583 por los maestros Baltasar y Matías de Castañeda.</p><p>Los frailes salieron en 1835 con la desamortización. Desde 1891 lo cuidan los <b>Hermanos de La Salle</b>, y en su iglesia están enterrados desde 1934 los <b>mártires de Turón</b>, canonizados en 1999.</p>"
+   },
+   "ver_alli": [
+    "La cabecera con tres ábsides románicos.",
+    "Los arcos apuntados del interior.",
+    "El claustro del siglo XVI."
+   ],
+   "fuentes": [
+    "https://uvadoc.uva.es/bitstream/handle/10324/11114/BSAA-1992-58-MonasterioPremostratenseBujedoBurgos.pdf?sequence=1",
+    "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_(Bujedo)",
+    "https://www.openstreetmap.org/search?query=Monasterio%20de%20Santa%20Mar%C3%ADa%20de%20Bujedo"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-andres-de-soto-de-bureba",
+   "nombre": "Iglesia de San Andrés (Soto de Bureba)",
+   "provincia": "Burgos",
+   "comarca": "Quintanaélez (La Bureba)",
+   "lat": 42.6759,
+   "lon": -3.2951,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En la pequeña aldea de Soto de Bureba se conserva uno de los <b>exponentes más importantes del románico burgalés</b>. La iglesia, de sillería de arenisca y caliza, tiene dos naves; la principal, la más antigua, termina en un ábside semicircular con bóveda de horno.</p><p>Su rareza está en el crucero, cubierto con una <b>bóveda esquifada</b>, un caso único en el románico de la comarca. La <b>portada</b>, abocinada, tiene triple arquivolta ligeramente apuntada sobre columnas.</p><p>Es monumento histórico-artístico desde 1982, aunque perdió buena parte de sus bienes muebles, vendidos a anticuarios.</p>"
+   },
+   "ver_alli": [
+    "La portada de triple arquivolta.",
+    "La bóveda esquifada del crucero.",
+    "El ábside semicircular."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Andr%C3%A9s_(Soto_de_Bureba)"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "atapuerca",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Yacimiento paleolítico",
+    "lat": 42.3488,
+    "lon": -3.5195,
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Sitio_arqueol%C3%B3gico_de_Atapuerca"
+    ]
+   }
+  },
+  {
+   "id": "ojo-guarena",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Complejo kárstico con arte rupestre",
+    "texto": {
+     "general": "<p>En el norte de Burgos, en la Merindad de Sotoscueva, los ríos Guareña y Trema llevan millones de años horadando la caliza. El resultado es <b>Ojo Guareña</b>, uno de los mayores complejos de cuevas de la Península: <b>más de 110 kilómetros de galerías</b> repartidas en seis pisos y unas 400 cavidades. Hasta 2009 se consideraba el mayor sistema kárstico de la península ibérica, y desde 1996 es <b>Monumento Natural</b>.</p><p>Las cuevas fueron frecuentadas por el ser humano desde el Paleolítico medio hasta la Edad Media. En la cueva de Prado Vargas apareció industria lítica musteriense de hace unos 70.000 años; en la cueva Palomera hay pinturas de hace unos 10.000 años, y en su <b>Sala de las Huellas</b> se conservan pisadas de pies descalzos que van y vuelven: dos restos de antorcha dieron fechas de 15.600 y 3.600 años, señal de que la galería se recorrió durante milenios. En la cueva de Kaite hay pinturas de ciervos y figuras humanas, animales y signos geométricos del final del Neolítico y el comienzo de la Edad del Bronce.</p><p>En su entrada está la <b>ermita de San Bernabé</b>, metida en la roca de la cueva. Y dentro sigue habiendo vida: se han documentado 187 especies de invertebrados, algunas nuevas para la ciencia, además de varias especies de murciélagos.</p>"
+    },
+    "ver_alli": [
+     "Visita a la cueva-ermita de San Bernabé y a la Palomera.",
+     "Monumento natural de Ojo Guareña.",
+     "Centro de interpretación del Monumento Natural en Quintanilla del Rebollar, a unos 6 km de la cueva."
+    ],
+    "fuentes": [
+     "https://rupestre.art/es/caves/ojo-guarena",
+     "https://es.wikipedia.org/wiki/Ojo_Guare%C3%B1a"
+    ]
+   }
+  },
+  {
+   "id": "lora-sedano",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Megalitismo (sepulcros de corredor)",
+    "lat": 42.716,
+    "lon": -3.6793,
+    "texto": {
+     "general": "<p>En los páramos del norte de Burgos, entre las Loras y el valle de Sedano, se levantaron <b>decenas de dólmenes hace unos 5.000 años</b>, en el Neolítico; la comarca presume de uno de los mayores conjuntos dolménicos de Europa. Son <b>sepulcros de corredor</b>: una cámara circular o poligonal hecha con grandes lajas de piedra, un pasillo de acceso y, encima, un túmulo de tierra y piedras. Los arqueólogos han comprobado que se siguieron usando durante más de mil años.</p><p>El más vistoso es <b>Las Arnillas</b>, en Moradillo de Sedano, restaurado y señalizado; desde la iglesia románica de San Esteban de Moradillo sale un camino que sube hasta sus inmediaciones. En la zona hay otros, como El Moreco (Huidobro), La Cotorrita (Porquera de Butrón) o Valdemuriel (Tubilla del Agua).</p><p><b>La Cabaña</b>, en Sargentes de la Lora, es uno de los mejor conservados de los más de 30 dólmenes de su entorno: siete lajas de caliza de más de dos metros forman una cámara de más de tres metros de diámetro, con un corredor de cinco metros. Aunque fue saqueado ya desde época romana, conservaba restos de <b>catorce personas</b> (diez adultos, un joven y dos niños en la cámara, y otra más en el corredor), con microlitos, una punta de flecha y cuentas verdes; se fecha en la segunda mitad del IV milenio a. C.</p>"
+    },
+    "ver_alli": [
+     "Ruta de los dólmenes del Valle de Sedano.",
+     "Las Arnillas: a pie por el valle de la Granja, cerca de Gredilla de Sedano, o por pista siguiendo las señales.",
+     "La Cabaña: a pie desde Sargentes de la Lora, siguiendo el arroyo Navazal.",
+     "Cañones del Ebro y Orbaneja del Castillo."
+    ],
+    "fuentes": [
+     "https://www.terranostrum.es/turismo/ruta-de-los-dolmenes-en-el-valle-de-sedano",
+     "https://es.wikipedia.org/wiki/Dolmen_de_La_Caba%C3%B1a",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Esteban_(Moradillo_de_Sedano)"
+    ]
+   }
+  },
+  {
+   "id": "el-pendon",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Megalitismo (sepulcro de corredor)",
+    "lat": 42.5072,
+    "lon": -3.3789,
+    "texto": {
+     "general": "<p>Junto a Reinoso, en La Bureba, el <b>dolmen de El Pendón</b> es un gran <b>sepulcro de corredor</b>: una cámara de más de tres metros de diámetro, con ortostatos de hasta dos metros de alto, y un pasillo de seis a siete metros. Se excavó de forma sistemática entre 2016 y 2022, y antes del dolmen ya hubo allí un asentamiento de finales del VI y comienzos del V milenio a. C.</p><p>Se construyó en la primera mitad del <b>IV milenio a. C.</b> y tuvo su uso más intenso hacia el 3200-3000 a. C. En la cámara se depositaron, en distintos momentos, los cuerpos de <b>alrededor de cien personas</b>. Sus constructores <b>reordenaban los huesos</b> una vez descompuestos los cuerpos: hay acumulaciones de huesos largos y, en un nivel posterior, una especie de osario con «nidos» de cráneos y agrupaciones de cráneo y pelvis.</p><p>A finales del IV milenio a. C. el monumento se transformó: el corredor se desmanteló y se <b>cerró a propósito</b> rellenándolo de bloques de caliza entre los que se dejaron ofrendas, y el lugar pasó a ser un centro ceremonial y de reunión. Entre los ajuares hay láminas de sílex, microlitos, cuentas de collar de hueso, pizarra y lignito y, de la fase de cierre, puntas de flecha.</p>"
+    },
+    "ver_alli": [
+     "Pueblo de Reinoso y comarca de La Bureba.",
+     "En el pueblo, el pequeño «Museo del Pasado» está dedicado al dolmen."
+    ],
+    "fuentes": [
+     "https://www.incipit.csic.es/en/research_outcomes/participation/talk/the-dolmen-of-el-pendon-reinoso-burgos-development-and-methodology-of-a-research-project",
+     "https://portaldelaciencia.uva.es/documentos/69a5e5a3ad1f0e5093304cc7?lang=en",
+     "https://uvadoc.uva.es/bitstream/handle/10324/71926/TFG_F_2024_243.pdf?sequence=1"
+    ]
+   }
+  },
+  {
+   "id": "la-ulana",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Castro de la Edad del Hierro",
+    "lat": 42.6492,
+    "lon": -4.0561,
+    "texto": {
+     "general": "<p><b>Peña Ulaña</b> es una enorme mesa caliza de unas 586 hectáreas en la comarca de Páramos, en el término de Humada: cinco kilómetros de largo, hasta casi uno de ancho y cortados de roca por todos sus lados, entre 1.150 y 1.230 metros de altitud. Arriba se levantó uno de los mayores poblados fortificados de la Edad del Hierro de la península.</p><p>El yacimiento muestra un <b>castro de la Primera y la Segunda Edad del Hierro</b>, en altura y con carácter defensivo y de control del territorio, y encima un poblado de época altomedieval. Aunque se sabe poco de él, se han identificado <b>267 estructuras</b>: muros, murallas, muros de mampostería y túmulos, además de algunos caminos de acceso.</p><p>Se conocen dos murallas, la Norte y la Transversal, hechas igual: dos paramentos de grandes piedras calizas sacadas del propio páramo, asentados sobre la roca y rellenos de piedra menuda y arcilla. Es pariente de otros castros cercanos como Peña Amaya, y es Bien de Interés Cultural como zona arqueológica desde 2006.</p>"
+    },
+    "ver_alli": [
+     "Las murallas se recorren a pie sobre el páramo; conviene llevar calzado de monte.",
+     "Conviene consultar antes las condiciones de visita. Ayuntamiento de Humada.",
+     "Desde lo alto se ve Peña Amaya, el otro gran castro de la zona."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/yacimiento-ulana",
+     "https://es.wikipedia.org/wiki/La_Ula%C3%B1a"
+    ]
+   }
+  },
+  {
+   "id": "pena-amaya",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Castro y despoblado medieval",
+    "lat": 42.649,
+    "lon": -4.172,
+    "texto": {
+     "general": "<p><b>Peña Amaya</b> es una mesa rocosa de 1.377 metros junto al pueblo de Amaya (Sotresgudo), una atalaya entre la Meseta y la cordillera Cantábrica. Fue <b>castro</b> en la Edad del Hierro, asentamiento <b>romano</b> y <b>plaza fuerte</b> en la Alta Edad Media; su nombre, de raíz indoeuropea, vendría a significar «ciudad madre».</p><p>Hubo gente desde el Bronce Final, y estuvo ocupada en la época cántabra. Tras las Guerras Cántabras (29-16 a. C.) los romanos pusieron aquí un destacamento militar, probablemente dependiente de la Legio IV Macedonica de Herrera de Pisuerga, y la peña siguió habitada en los siglos I y II, de los que son las estelas funerarias halladas en 1891.</p><p>En época visigoda Amaya fue la gran plaza de la Cantabria: el rey <b>Leovigildo</b> la tomó en su campaña contra los cántabros iniciada en el 574 y fue probablemente capital del ducado de Cantabria. Los musulmanes la conquistaron en el 712, y en el <b>860</b> el conde Rodrigo, el primer conde de Castilla, la repobló oficialmente; desde aquí empezó la expansión castellana hacia el llano que llevó a fundar Burgos en el 884. La aldea de la peña siguió habitada hasta mediados del siglo XIV.</p>"
+    },
+    "ver_alli": [
+     "Acceso libre por sendero desde el pueblo de Amaya; el último tramo hasta la cima es empinado.",
+     "Arriba se ven las ruinas del poblado medieval y de las defensas del castillo.",
+     "Vistas sobre la Tierra de Campos y hacia La Ulaña."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/despoblado-pena-amaya",
+     "https://es.wikipedia.org/wiki/Amaya_(ciudad)"
+    ]
+   }
+  },
+  {
+   "id": "clunia",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Romano",
+    "lat": 41.7811,
+    "lon": -3.3711,
+    "texto": {
+     "general": "<p>Sobre el Alto de Castro, un cerro de más de mil metros entre Coruña del Conde y Peñalba de Castro, se alzó <b>Clunia Sulpicia</b>, una de las grandes ciudades de la Meseta y <b>capital de un convento jurídico</b> de la Hispania Tarraconense. El nombre viene de un poblado arévaco cercano, donde Sertorio se hizo fuerte frente a Pompeyo; la ciudad romana se fundó de nueva planta bajo Tiberio.</p><p>Aquí fue proclamado emperador <b>Galba</b> en el 68 d. C., y de ahí le vino a la ciudad el rango de colonia y el apellido Sulpicia. Vivió su esplendor en los siglos I y II, con una extensión de unas 120 hectáreas; decayó a partir del siglo III y mantuvo actividad hasta el siglo V.</p><p>Lo más impresionante es su <b>teatro</b>, con buena parte de las gradas talladas en la roca y capacidad para unos 10.000 espectadores. Las <b>termas de Los Arcos</b>, dos edificios del siglo I, pasan de 7.000 metros cuadrados. Hay además un gran foro de 160 por 115 metros, casas con mosaicos y calefacción por hipocausto y, bajo el suelo, aljibes aprovechados en cuevas naturales.</p>"
+    },
+    "ver_alli": [
+     "El teatro, con las gradas excavadas en la roca.",
+     "Los mosaicos de las termas de Los Arcos y de las casas junto al foro (en invierno pueden estar cubiertos).",
+     "Con entrada; consultar días de apertura."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/clunia",
+     "https://es.wikipedia.org/wiki/Clunia"
+    ]
+   }
+  },
+  {
+   "id": "santa-cruz-banos",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Romano bajoimperial",
+    "lat": 41.7669,
+    "lon": -3.5636,
+    "texto": {
+     "general": "<p>A unos 300 metros de Baños de Valdearados, en la Ribera del Duero, una excavadora que nivelaba tierras en el paraje de Santa Cruz sacó a la luz restos de mosaicos y cerámica. Las excavaciones de 1973, 1974 y 1978 descubrieron una gran <b>villa tardorromana</b> de finales del siglo IV y comienzos del V, en el territorio de la cercana Clunia.</p><p>Se ha excavado algo más de 1.000 metros cuadrados, con diez habitaciones y cuatro pasillos, una red de pozos y galerías para el agua y estancias con calefacción por hipocausto. Debajo había un edificio anterior de los siglos I y II, y encima se excavó después una necrópolis altomedieval.</p><p>Lo mejor son sus <b>tres mosaicos</b>. El del salón principal, de <b>66 metros cuadrados</b>, muestra el <b>triunfo de Baco</b> al volver de la India: el dios ebrio con Ampelos y Ariadna y, debajo, montado en un carro tirado por panteras. Lo rodea una cenefa con escenas de animales y los nombres de los dioses de los vientos. Otro mosaico, de estrella de ocho puntas, representa a Ceres y Fortuna.</p>"
+    },
+    "ver_alli": [
+     "El gran mosaico del triunfo de Baco, en el salón principal.",
+     "El mosaico octogonal de Ceres y Fortuna.",
+     "Visita concertada por teléfono."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/villa-romana-santa-cruz",
+     "https://es.wikipedia.org/wiki/Villa_romana_de_Ba%C3%B1os_de_Valdearados"
+    ]
+   }
+  },
+  {
+   "id": "quintanilla-vinas",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Visigodo",
+    "lat": 42.1245,
+    "lon": -3.473,
+    "texto": {
+     "general": "<p>En el antiguo alfoz de Lara, en Quintanilla de las Viñas, queda la <b>cabecera de una iglesia</b> de grandes sillares: la capilla mayor, de ábside rectangular, y el crucero. Las naves desaparecieron. Suele fecharse a finales del siglo VII, aunque algunos autores la creen del siglo X.</p><p>Por fuera la recorren <b>frisos</b> horizontales labrados con roleos, <b>racimos</b>, zarcillos, <b>aves y animales</b> encerrados en círculos, una decoración poco común. Dentro, el <b>arco triunfal</b>, de herradura, apoya en dos bloques con relieves del <b>Sol y la Luna</b>, bustos dentro de círculos sostenidos por ángeles, y sobre él una inscripción menciona a una tal Flammola y su humilde ofrenda.</p><p>La ermita apenas era conocida hasta que el cronista Luciano Huidobro la dio a conocer en 1927; fue declarada <b>Monumento Nacional</b> el 25 de noviembre de 1929 y restaurada. Dos sillares con relieves robados se recuperaron más tarde.</p>"
+    },
+    "ver_alli": [
+     "Los frisos de racimos y animales de los muros exteriores.",
+     "Los relieves del Sol y la Luna en el arco triunfal.",
+     "Peña de Lara y Covarrubias."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/ermita-senora-vinas",
+     "https://es.wikipedia.org/wiki/Ermita_de_Santa_Mar%C3%ADa_(Quintanilla_de_las_Vi%C3%B1as)"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-burgos",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Gótico",
+    "lat": 42.3407,
+    "lon": -3.7045,
+    "texto": {
+     "general": "<p>La primera piedra se puso el <b>20 de julio de 1221</b>, con el rey Fernando III y el obispo Mauricio, sobre el solar de una catedral románica. Sus maestros siguieron el gótico francés de París, Reims y Bourges. Es <b>Patrimonio Mundial desde 1984</b>, la única catedral española que lo es por sí sola, sin el casco histórico que la rodea.</p><p>Su silueta se debe al gótico flamígero de los siglos XV y XVI: las <b>agujas caladas</b> de la fachada, obra de Juan de Colonia; la <b>capilla del Condestable</b>, en la que trabajaron los Colonia, Diego de Siloé y Felipe Vigarny, y el <b>cimborrio</b> del crucero, que se hundió en 1539 y rehízo Juan de Vallejo. Dentro hay obras de Gil de Siloé, la Escalera Dorada de Diego de Siloé y relieves de Vigarny en la girola.</p><p>Bajo el cimborrio, desde 1921, están enterrados <b>el Cid y doña Jimena</b>, traídos de San Pedro de Cardeña; la catedral guarda también su carta de arras y el llamado cofre del Cid. Y a los pies de la nave, el <b>Papamoscas</b>, un autómata del siglo XVIII, abre la boca al dar las horas.</p>"
+    },
+    "ver_alli": [
+     "La tumba del Cid y doña Jimena, bajo el cimborrio.",
+     "El Papamoscas, a las horas en punto, en lo alto de la nave mayor.",
+     "La capilla del Condestable y la Escalera Dorada.",
+     "Con entrada."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_de_Burgos"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-las-huelgas",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico, gótico y mudéjar",
+    "lat": 42.3363,
+    "lon": -3.72,
+    "texto": {
+     "general": "<p>Lo fundaron en <b>1187</b> el rey <b>Alfonso VIII</b> y su esposa Leonor de Plantagenet, a las afueras de Burgos, como monasterio de monjas cistercienses y <b>panteón real</b>. La abadesa llegó a tener un poder enorme: dependía directamente del papa y era señora de decenas de villas, con jurisdicción propia, privilegios que duraron hasta el siglo XIX.</p><p>Aquí se armaba caballeros y se coronaba a reyes. Fueron armados Fernando III, Eduardo I de Inglaterra o Alfonso XI, y en la torre nació Pedro I. En las naves de la iglesia están los sepulcros de los fundadores y de infantes y reyes, como Enrique I, muerto en 1217 a los trece años.</p><p>Lo más antiguo es el claustro románico de <b>las Claustrillas</b>; después vinieron la iglesia y el claustro gótico de San Fernando, con yeserías mudéjares. El sepulcro de Fernando de la Cerda, hijo de Alfonso X, apareció intacto, y de él y de otras tumbas salen las piezas del <b>Museo de Ricas Telas Medievales</b>, que conserva los tejidos de las tumbas reales. Se guarda además el llamado Pendón de las Navas, en realidad un trofeo tomado a los almohades.</p>"
+    },
+    "ver_alli": [
+     "El Museo de Ricas Telas Medievales, con los tejidos de las tumbas reales.",
+     "Las Claustrillas, el claustro románico.",
+     "Los sepulcros reales de la iglesia.",
+     "Visita guiada (Patrimonio Nacional)."
+    ],
+    "fuentes": [
+     "https://www.terranostrum.es/turismo/burgos-monasterio-de-las-huelgas",
+     "https://es.wikipedia.org/wiki/Monasterio_de_las_Huelgas_(Burgos)"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-santo-domingo-de-silos",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 41.9619,
+    "lon": -3.4191,
+    "texto": {
+     "general": "<p>El monasterio aparece en un documento del año 954 con el nombre de San Sebastián de Silos. Arruinado tras las razias de Almanzor, en 1041 el rey Fernando I confió su restauración al monje riojano <b>Domingo</b>, que levantó iglesia, claustro y dependencias. Murió el 20 de diciembre de <b>1073</b>, fue canonizado en 1076 y el monasterio tomó su nombre.</p><p>Su <b>claustro románico de dos pisos</b> es una de las obras maestras del románico español. El inferior, empezado poco después de 1080, tiene 64 capiteles con animales fantásticos, escenas bíblicas y vegetales, y en sus ángulos grandes relieves de la Pasión, entre ellos el famoso de la <b>Duda de Santo Tomás</b>. En el patio crece un ciprés de más de 130 años y 30 metros que es el emblema de la casa.</p><p>La iglesia románica fue sustituida en el siglo XVIII por otra de Ventura Rodríguez; de la antigua queda la Puerta de las Vírgenes. La comunidad benedictina sigue viva y los monjes cantan <b>gregoriano</b> en los oficios.</p>"
+    },
+    "ver_alli": [
+     "El relieve de la Duda de Santo Tomás, en el ángulo noroeste del claustro.",
+     "Los capiteles del claustro bajo y el ciprés del patio.",
+     "El canto gregoriano en los oficios de la iglesia.",
+     "Claustro con entrada."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santo_Domingo_de_Silos"
+    ]
+   }
+  },
+  {
+   "id": "san-juan-de-ortega",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico y gótico",
+    "lat": 42.3758,
+    "lon": -3.4368,
+    "texto": {
+     "general": "<p>En los Montes de Oca, en pleno <b>Camino de Santiago</b>, Juan de Quintanaortuño, nacido en 1080, levantó una capilla, un pequeño monasterio y un albergue para los peregrinos, a los que dedicó su vida construyendo calzadas y puentes. Hacia 1138 nació aquí el monasterio de San Nicolás, que acabó tomando el nombre de su fundador, <b>San Juan de Ortega</b>, muerto en 1163.</p><p>La iglesia es románica y gótica. En su capitel de la <b>Anunciación</b> se produce el llamado <b>«milagro de la luz»</b>: en los equinoccios, hacia las cinco de la tarde, hora solar, un rayo de sol ilumina la escena.</p><p>En la iglesia están los sepulcros románicos del santo y un baldaquino gótico del siglo XV con relieves de su vida, erigido por deseo de Isabel la Católica. Desde 1431 lo habitaron monjes jerónimos hasta la desamortización de 1835; hoy el conjunto está restaurado y sigue acogiendo peregrinos.</p>"
+    },
+    "ver_alli": [
+     "El capitel de la Anunciación y, en los equinoccios, el «milagro de la luz».",
+     "El baldaquino gótico con la vida del santo.",
+     "Iglesia con acceso libre."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Juan_(San_Juan_de_Ortega)"
+    ]
+   }
+  },
+  {
+   "id": "castrojeriz",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Villa medieval del Camino de Santiago",
+    "lat": 42.2877,
+    "lon": -4.1387,
+    "texto": {
+     "general": "<p>Castrojeriz es una villa del <b>Camino de Santiago</b> alargada bajo un cerro coronado por un <b>castillo</b>: el Camino la recorre a lo largo de más de 1.500 metros, la travesía urbana más larga de toda la ruta jacobea. En el año 974 el conde García Fernández le dio un fuero, considerado el primero de Castilla, que equiparaba a los campesinos con caballo a los infanzones.</p><p>Al pie del cerro está la antigua <b>colegiata de Santa María del Manzano</b>, empezada en 1214 por voluntad de la reina Berenguela, con un gran rosetón en la portada. En la calle-camino se suceden las iglesias de Santo Domingo y San Juan y varias casas nobles. En el castillo fue asesinada en 1359 la reina Leonor de Castilla por orden de su sobrino Pedro I.</p><p>A la entrada de la villa, el Camino pasa bajo los arcos de las ruinas del convento de <b>San Antón</b>, fundado por Alfonso VII en 1146. Allí los antonianos atendían a los peregrinos enfermos del «fuego de San Antón», y su símbolo, la cruz en forma de T, aún se ve en un crucero de la villa.</p>"
+    },
+    "ver_alli": [
+     "El arco de San Antón, por donde pasa el Camino.",
+     "El rosetón de la colegiata del Manzano.",
+     "Subir al castillo para ver la villa y la llanura.",
+     "Acceso libre."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castrojeriz",
+     "https://es.wikipedia.org/wiki/Iglesia_de_Nuestra_Se%C3%B1ora_del_Manzano_(Castrojeriz)"
+    ]
+   }
+  },
+  {
+   "id": "covarrubias",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Villa medieval",
+    "lat": 42.059,
+    "lon": -3.5207,
+    "texto": {
+     "general": "<p>En el valle del Arlanza, Covarrubias es la <b>«cuna de Castilla»</b>. El conde García Fernández, hijo de Fernán González, fundó aquí en 978 el Infantado de Covarrubias, un gran señorío con jurisdicción propia que gobernó su hija Urraca. Toda la villa, de trama urbana medieval muy bien conservada, es conjunto histórico desde 1965.</p><p>Su símbolo es el <b>torreón de Fernán González</b> o de doña Urraca, de 22 metros de alto y muros de tres de grosor, con la puerta a media altura en arco de herradura; se la considera la única fortaleza castellana anterior al siglo XI que se conserva. Cuenta la leyenda que el conde encerró allí a su hija Urraca.</p><p>La <b>colegiata de San Cosme y San Damián</b>, tardogótica y empezada en 1474, guarda los sepulcros de Fernán González y su esposa Sancha, traídos de Arlanza en 1841, y un órgano del siglo XVII. En su claustro está el sepulcro gótico de la princesa <b>Cristina de Noruega</b>, hija del rey Haakon IV, que se casó con el infante Felipe, hermano de Alfonso X, y murió en 1262. Cerca de la villa se alza desde 2011 una capilla moderna a San Olav en su recuerdo.</p>"
+    },
+    "ver_alli": [
+     "El torreón de Fernán González junto al río.",
+     "La colegiata, con la tumba de Cristina de Noruega en el claustro.",
+     "El Archivo del Adelantamiento de Castilla, del siglo XVI.",
+     "Acceso libre; colegiata con entrada."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Covarrubias",
+     "https://es.wikipedia.org/wiki/Colegiata_de_San_Cosme_y_San_Dami%C3%A1n_(Covarrubias)",
+     "https://es.wikipedia.org/wiki/Torre_de_Covarrubias"
+    ]
+   }
+  },
+  {
+   "id": "frias",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Conjunto medieval",
+    "lat": 42.7619,
+    "lon": -3.294,
+    "texto": {
+     "general": "<p>Frías se aprieta sobre un risco junto al Ebro, en Las Merindades. Arriba, el <b>castillo de los Velasco</b> y la iglesia de San Vicente; abajo, calles que trepan por la roca con <b>casas colgadas</b> de toba y entramado de madera que se asoman al vacío. Presume de ser la ciudad más pequeña de España: Juan II le dio el título de ciudad en 1435.</p><p>El lugar se cita ya en el año 867, y en 1202 Alfonso VIII le dio fuero. El castillo, sobre el peñasco de La Muela, es uno de los castillos roqueros más espectaculares de Castilla: la fábrica actual es de finales del siglo XII y principios del XIII, con la torre del homenaje separada sobre una roca y un foso excavado en la peña.</p><p>A sus pies cruza el Ebro un <b>puente medieval</b> de 143 metros y nueve arcos, de origen románico, con una <b>torre de portazgo</b> del siglo XIV donde se cobraba por pasar. En 1492 los Reyes Católicos crearon el ducado de Frías para los Velasco.</p>"
+    },
+    "ver_alli": [
+     "El puente medieval con su torre de portazgo.",
+     "Subir al castillo y asomarse desde la torre del homenaje.",
+     "Las casas colgadas sobre el risco.",
+     "Acceso libre; castillo con entrada."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Fr%C3%ADas_(Burgos)",
+     "https://es.wikipedia.org/wiki/Castillo_de_Fr%C3%ADas",
+     "https://www.spain.info/es/top/sabinosa-frias-redes-conoce-poblaciones-mas-pequenas-espana/"
+    ]
+   }
+  },
+  {
+   "id": "alcazar-de-los-condestables",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Palacio fortificado con decoración mudéjar",
+    "lat": 42.9276,
+    "lon": -3.4881,
+    "texto": {
+     "general": "<p>En Medina de Pomar, en Las Merindades, el linaje de los <b>Velasco</b> levantó en la segunda mitad del <b>siglo XIV</b> este palacio fortificado. Lo promovió Pedro Fernández de Velasco, camarero mayor de Enrique II, que le había cedido el señorío de la villa.</p><p>Son <b>dos grandes torres</b> cuadradas y almenadas, unidas por un cuerpo más bajo que servía de salón principal. Por dentro fue muy lujoso, y aún conserva restos de <b>decoración de inspiración mudéjar</b>. Es monumento histórico-artístico desde 1931.</p><p>Hoy alberga el <b>Museo Histórico de las Merindades</b>, con piezas como estelas de los siglos XII y XIII, una clave de bóveda con un castillo heráldico de finales del XIII y una cruz de finales del XIV o principios del XV.</p>"
+    },
+    "ver_alli": [
+     "La silueta de las dos torres desde la plaza del Alcázar.",
+     "Los restos de decoración mudéjar del interior.",
+     "Museo Histórico de las Merindades, con entrada."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Alc%C3%A1zar_de_los_Condestables_de_Castilla",
+     "https://www.spain.info/es/lugares-interes/alcazar-los-condestables-castilla/",
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/museo-historico-merindades"
+    ]
+   }
+  },
+  {
+   "id": "necropolis-de-revenga",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Necrópolis rupestre altomedieval",
+    "lat": 41.9601,
+    "lon": -3.0108,
+    "texto": {
+     "general": "<p>En el Comunero de Revenga, un paraje de la sierra de la Demanda compartido por Canicosa, Quintanar y Regumiel de la Sierra, un gran afloramiento de roca guarda una de las necrópolis más representativas del Alto Arlanza. Se excavó entre 1967 y 1970 bajo la dirección de Alberto del Castillo.</p><p>Alrededor de una pequeña iglesia, de la que solo quedan las huellas talladas en la piedra, hay <b>al menos 145 tumbas excavadas en la roca</b>: el 60 % con <b>forma humana</b>, con la cabecera redondeada o en herradura, y el resto en forma de «bañera». Abundan las de mujeres y niños, y todas miran a levante. Se fechan entre los <b>siglos IX y XI</b>.</p><p>Lo más original son sus <b>insculturas</b>: grabados en la roca del antiguo pórtico, como un jinete con los brazos en cruz, manos, herraduras y un tablero de alquerque, un juego medieval parecido a las damas. En las explanadas de alrededor estaba la aldea, abandonada a mediados del siglo XIII.</p>"
+    },
+    "ver_alli": [
+     "Las tumbas con forma humana talladas en la roca.",
+     "Los grabados del pórtico: el jinete y el tablero de alquerque.",
+     "Acceso libre; se llega por una pista desde la ermita de Revenga."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/necropolis-altomedieval-revenga",
+     "https://es.wikipedia.org/wiki/Yacimiento_de_Revenga"
+    ],
+    "comarca": "Comunero de Revenga (Canicosa, Quintanar y Regumiel)"
+   }
+  },
+  {
+   "id": "necropolis-de-cuyacabras",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Necrópolis rupestre altomedieval",
+    "lat": 41.9913,
+    "lon": -2.9962,
+    "texto": {
+     "general": "<p>Cerca de Quintanar de la Sierra, en la sierra de la Demanda, Cuyacabras es la <b>mayor necrópolis rupestre del Alto Arlanza</b>, junto a los restos de una iglesia. La excavó Alberto del Castillo entre 1969 y 1971, y es Bien de Interés Cultural desde 2011.</p><p>Se han documentado <b>unas 183 sepulturas</b> excavadas en la roca alrededor del templo, fechadas entre el siglo IX y la primera mitad del XI: algo más de la mitad en forma de «bañera», más de un tercio con <b>forma humana</b> y algunas en nicho lateral. Las de los niños se agrupan cerca de la iglesia, y casi todas miran a poniente, para que el difunto despertara mirando a oriente el día de la resurrección.</p><p>De la iglesia, semirrupestre, solo queda su planta rectangular marcada en la roca y una <b>escalinata de ocho peldaños</b> tallada para llegar a ella. La aldea que la rodeaba vivía de la ganadería y del bosque.</p>"
+    },
+    "ver_alli": [
+     "La escalinata tallada que sube a la iglesia.",
+     "Las tumbas infantiles junto al templo.",
+     "Acceso libre."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/necropolis-altomedieval-cuyacabras",
+     "https://es.wikipedia.org/wiki/Yacimiento_arqueol%C3%B3gico_de_Cuyacabras"
+    ]
+   }
+  },
+  {
+   "id": "san-esteban-de-moradillo-de-sedano",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.7037,
+    "lon": -3.6999,
+    "texto": {
+     "general": "<p>En lo alto del monte El Castro, en el valle de Sedano, esta iglesia es uno de los mejores ejemplos del románico burgalés. En un capitel de una ventana se lee <b>«IN ERA MCCXXVI»</b>, el año <b>1188</b>, seguramente el final de la obra. Es de filiación <b>silense</b>, heredera del último gran escultor del claustro de Silos.</p><p>Su <b>portada</b> es de las mejores del románico burgalés. En el tímpano, un <b>Pantocrátor</b> juez rodeado del Tetramorfos, con San Pedro y San Pablo; en la primera arquivolta, los <b>24 Ancianos del Apocalipsis</b> tocando instrumentos medievales —violas, arpa, rabel, pandereta— y en la segunda, escenas como el sacrificio de Isaac, Sansón y el león, la Anunciación o la Matanza de los Inocentes. En un capitel, la Última Cena.</p><p>Un incendio destruyó en el siglo XVII el ábside, que es de esa época. El muro sur conserva arcos ciegos con capiteles de quimeras y arpías. Desde la iglesia sale un camino hacia el dolmen de Las Arnillas.</p>"
+    },
+    "ver_alli": [
+     "El tímpano del Pantocrátor y los Ancianos músicos de la arquivolta.",
+     "La inscripción de 1188 en la ventana del muro sur.",
+     "Exterior libre."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-san-esteban",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Esteban_(Moradillo_de_Sedano)"
+    ]
+   }
+  },
+  {
+   "id": "san-martin-de-vizcainos",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.1008,
+    "lon": -3.2665,
+    "texto": {
+     "general": "<p>En Vizcaínos, un pequeño pueblo de las estribaciones de la sierra de la Demanda, la iglesia de <b>San Martín</b> es un templo románico de finales del siglo XII. Tiene una sola nave con bóveda de cañón, ábside semicircular y una esbelta torre a los pies, con dos cuerpos de ventanas.</p><p>Delante de la puerta se abre una <b>galería porticada serrana</b>, muy sencilla: un arco a cada lado de la portada, sobre columnas pareadas gruesas y bajas, casi a ras de suelo, de modo que funcionan como puertas. Encima de la portada, bajo el alero, hay <b>canecillos</b> esculpidos, y también se labraron los capiteles de las ventanas del ábside, la torre y la galería.</p><p>Dentro conserva una pila bautismal y retablos renacentista y barroco. Es Bien de Interés Cultural desde 1983.</p>"
+    },
+    "ver_alli": [
+     "La galería porticada y los canecillos de la portada.",
+     "Los capiteles de las ventanas del ábside.",
+     "Exterior libre."
+    ],
+    "fuentes": [
+     "https://www.terranostrum.es/turismo/iglesia-de-san-martin-vizcainos",
+     "https://es.wikipedia.org/wiki/Vizca%C3%ADnos"
+    ]
+   }
+  },
+  {
+   "id": "asuncion-de-jaramillo-de-la-fuente",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.116,
+    "lon": -3.3134,
+    "texto": {
+     "general": "<p>La iglesia de la Asunción de Jaramillo de la Fuente es un conjunto románico muy completo, con portada, ábside, <b>galería porticada</b> y <b>torre</b>: de lo mejor del románico de la sierra burgalesa, la llamada Escuela de la Sierra. Es Bien de Interés Cultural desde 1991.</p><p>La galería, en la fachada sur, tiene seis arcos y el de la puerta, sobre columnas pareadas con capiteles de <b>centauros, arpías, sirenas y grifos</b>, aves y figuras humanas. Bajo ella, la portada tiene cinco arquivoltas. La torre, a los pies, abre dos pisos de ventanales geminados en sus cuatro caras.</p><p>La nave se cubrió con nervaduras en el siglo XVI. Dentro hay un retablo mayor barroco de hacia 1760, un Calvario gótico de finales del siglo XIII o comienzos del XIV y una cruz parroquial renacentista del platero Bernardino de Nápoles.</p>"
+    },
+    "ver_alli": [
+     "Los capiteles de la galería porticada: centauros, arpías y sirenas.",
+     "La torre de ventanales geminados.",
+     "Exterior libre."
+    ],
+    "fuentes": [
+     "https://www.terranostrum.es/turismo/iglesia-de-jaramillo-de-la-fuente",
+     "https://es.wikipedia.org/wiki/Iglesia_de_la_Asunci%C3%B3n_de_Nuestra_Se%C3%B1ora_(Jaramillo_de_la_Fuente)"
+    ]
+   }
+  },
+  {
+   "id": "ermita-de-san-pantaleon-de-losa",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.9346,
+    "lon": -3.2908,
+    "texto": {
+     "general": "<p>Encaramada sobre una peña con <b>forma de proa de barco</b>, lejos del pueblo, esta pequeña ermita del valle de Losa es una de las obras más originales del románico burgalés. Se consagró en <b>1207</b> y guardaba una reliquia de san Pantaleón, su sangre, que se licuaba el día de su fiesta y atraía peregrinos. Algunos la asocian a la leyenda del <b>Grial</b>.</p><p>Su <b>portada</b> es insólita: los arcos se apoyan a un lado en un gigante, un <b>atlante</b>, y al otro en una columna en zigzag. Los capiteles muestran un reptil devorando a un hombre, Jonás y la ballena, y una arquivolta encierra rostros y piernas humanas. Los investigadores han identificado en su escultura los martirios de san Pantaleón.</p><p>Dentro, una cúpula sobre arcos apuntados cubre la nave, y en las excavaciones de la restauración aparecieron tumbas de los siglos XIII al XVII y restos de una basílica paleocristiana.</p>"
+    },
+    "ver_alli": [
+     "La portada con el atlante y la columna en zigzag.",
+     "La silueta de la peña desde el pueblo.",
+     "Exterior libre; interior con los Amigos de San Pantaleón (648 863 352)."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/ermita-san-pantaleon",
+     "https://es.wikipedia.org/wiki/Ermita_de_San_Pantale%C3%B3n_de_Losa"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-de-siones",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "texto": {
+     "general": "<p>En el valle de Mena, en el extremo nororiental de Burgos, la iglesia de Santa María de Siones es una de las obras más importantes del románico burgalés. Se cita ya en 1001, aunque el templo actual es de finales del siglo XII; algunos autores lo atribuyen a los templarios. Es Monumento Nacional desde 1931.</p><p>Tiene una <b>cabecera monumental</b>: ábside semicircular con tres ventanas de arcos adornados, columnas con capiteles y canecillos, y una torre sobre el crucero. La nave tiene dos portadas; la occidental, con cinco arquivoltas sobre cuatro pares de columnas con capiteles decorados.</p><p>El interior es más rico que el exterior. El ábside se adorna con una doble arquería de siete arcos con capiteles de David y Goliat, Adán y Eva, la vendimia y monstruos. En las capillas laterales hay un combate de caballeros y un relieve de santa Juliana tirando del pelo a un demonio. Las restauraciones del siglo XIX cambiaron parte de su escultura.</p>"
+    },
+    "ver_alli": [
+     "La cabecera y su torre sobre el crucero.",
+     "Los capiteles de la arquería del ábside: David y Goliat, Adán y Eva.",
+     "Exterior libre; interior concertado o en horario de culto."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Church_of_Santa_Maria_de_Siones,_Burgos",
+     "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_(Siones)"
+    ]
+   }
+  },
+  {
+   "id": "san-pedro-de-tejada",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.8425,
+    "lon": -3.5723,
+    "texto": {
+     "general": "<p>Junto a Puente-Arenas, en el valle de Valdivielso y al pie de la sierra de la Tesla, queda esta ermita de un monasterio fundado en el año 850 que en el siglo XI pasó a depender de Oña. Es un templo románico completo y muy puro, de sillería de gran calidad, considerado una de las obras más importantes del románico burgalés.</p><p>Tiene planta de cruz y una <b>torre sobre el crucero</b> de dos cuerpos, con ventanas partidas por columnas. Bajo los aleros asoman <b>canecillos</b> de animales, bustos, músicos y acróbatas. La portada occidental, de piedra rojiza, lleva encima un friso con <b>Cristo y los apóstoles</b>, canecillos con los evangelistas y, a los lados, un león atacando a un hombre y la Última Cena.</p><p>Dentro, la nave con bóveda de cañón da sensación de altura y el crucero se cubre con una cúpula. Su retablo, de hacia 1503-1506, está hoy en el Museo de Burgos.</p>"
+    },
+    "ver_alli": [
+     "La torre sobre el crucero y los canecillos.",
+     "El friso de Cristo y los apóstoles sobre la portada.",
+     "Está en finca privada: la visita se concierta con los propietarios."
+    ],
+    "fuentes": [
+     "https://www.terranostrum.es/turismo/burgos/ermita-de-san-pedro-de-tejada",
+     "https://es.wikipedia.org/wiki/Ermita_de_San_Pedro_de_Tejada"
+    ]
+   }
+  },
+  {
+   "id": "abadia-de-san-quirce",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "texto": {
+     "general": "<p>En el término de Los Ausines queda la iglesia de la antigua abadía de San Quirce, una obra románica bien conservada. Fue <b>consagrada en 1147</b> por el obispo de Palencia, a instancias del obispo de Burgos don Víctor. En ella descansan los alcaides del castillo de Lara.</p><p>Tiene una sola nave y un crucero que apenas sobresale. Sobre él, bajo una torre del siglo XVII, se alza una <b>cúpula semiesférica sobre trompas</b>, de influencia hispanomusulmana, y en el ábside hay arquería ciega con capiteles.</p><p>La portada de poniente, románica, tiene arcos de medio punto con arquivolta ajedrezada y un tejaroz de canecillos y metopas. En una puerta del lado norte se empotraron quince piedras esculpidas con el Salvador, la Visitación, santos, signos del zodiaco y un ballestero cargando su arma. Es monumento histórico-artístico desde 1931.</p>"
+    },
+    "ver_alli": [
+     "La portada de poniente con su tejaroz de canecillos.",
+     "Las piedras esculpidas de la puerta norte.",
+     "Exterior libre; interior concertado o en horario de culto."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/monasterios/abadia-san-quirce",
+     "https://es.wikipedia.org/wiki/Abad%C3%ADa_de_San_Quirce"
+    ],
+    "comarca": "Los Ausines"
+   }
+  },
+  {
+   "id": "monasterio-de-san-pedro-de-arlanza",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico y gótico",
+    "texto": {
+     "general": "<p>A orillas del Arlanza, cerca de Hortigüela, están las ruinas de uno de los monasterios más importantes del condado y reino de Castilla, ligado a <b>Fernán González</b> y a los orígenes de Castilla. Su origen fue un eremitorio, la ermita de San Pelayo, hacia el año 912, cuyas ruinas se ven en lo alto del valle.</p><p>La iglesia, empezada en <b>1080</b>, tuvo tres naves y tres ábsides semicirculares, que aún se conservan, y fue reformada en época gótica. Queda también la torre de finales del siglo XII, parte del claustro, la sala capitular y un gran óculo en la fachada. El monasterio funcionó hasta la desamortización de 1835.</p><p>Casi todo lo valioso se lo llevaron: la portada está en el Museo Arqueológico Nacional desde 1895; sus <b>pinturas murales</b> están en el MNAC de Barcelona y en The Cloisters (Museo Metropolitano de Nueva York); y los sepulcros de Fernán González y su esposa Sancha se trasladaron en 1841 a la colegiata de Covarrubias.</p>"
+    },
+    "ver_alli": [
+     "Los tres ábsides y la torre de la iglesia en ruinas.",
+     "Las ruinas de la ermita de San Pelayo, en lo alto del valle.",
+     "Con entrada."
+    ],
+    "fuentes": [
+     "https://www.terranostrum.es/turismo/monasterio-san-pedro-de-arlanza",
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Pedro_de_Arlanza"
+    ]
+   }
+  },
+  {
+   "id": "san-julian-santa-basilisa-rebolledo",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-san-julian-santa-basilisa",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Juli%C3%A1n_y_Santa_Basilisa_(Rebolledo_de_la_Torre)"
+    ]
+   }
+  },
+  {
+   "id": "san-pedro-albacastro",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.6812,
+    "lon": -4.1906
+   }
+  },
+  {
+   "id": "villa-ducal-de-lerma",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Herreriano y barroco temprano",
+    "lat": 42.026,
+    "lon": -3.7551,
+    "texto": {
+     "general": "<p>El <b>duque de Lerma</b>, Francisco Gómez de Sandoval, valido de Felipe III, convirtió su villa en una pequeña corte. En <b>1601</b> empezó su enorme <b>palacio herreriano</b>, de Francisco de Mora, que ocupa todo un lado de la plaza mayor; la corte se desplazaba aquí como a un lugar de recreo, y hoy es Parador.</p><p>El palacio tiene <b>cuatro torres</b> en las esquinas, un privilegio reservado a los palacios reales. La <b>plaza mayor</b>, de unos 7.000 metros cuadrados, es una de las más grandes de España y sirvió de mercado, coso taurino y escenario.</p><p>Alrededor se levantaron <b>conventos</b> y la colegiata de San Pedro, consagrada en 1617, casi todos con trazas de fray Alberto de la Madre de Dios. Un <b>pasadizo</b> unía el palacio con la colegiata y otro, volado sobre arcos, con el convento de San Blas, para ir de uno a otro sin pisar la calle; aún se puede recorrer una parte desde la oficina de turismo. El casco es conjunto histórico desde 1965.</p>"
+    },
+    "ver_alli": [
+     "La plaza mayor y la fachada del palacio ducal.",
+     "El tramo del pasadizo del duque, desde la oficina de turismo.",
+     "El mirador de los Arcos sobre la vega del Arlanza.",
+     "Acceso libre; visitas guiadas."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Lerma_(Espa%C3%B1a)",
+     "https://es.wikipedia.org/wiki/Palacio_Ducal_de_Lerma"
+    ]
+   }
+  },
+  {
+   "id": "arco-de-santa-maria",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Renacimiento",
+    "lat": 42.3398,
+    "lon": -3.7039,
+    "texto": {
+     "general": "<p>Era una de las doce puertas de la <b>muralla de Burgos</b>, la que comunica el puente de Santa María con la plaza de la catedral. Ya existía con este nombre en el siglo XIV y sustituyó a otra del siglo XI más sencilla, la que se cita en el Cantar de mio Cid.</p><p>Tras la guerra de las Comunidades, la ciudad la convirtió en <b>arco triunfal</b> en honor de <b>Carlos V</b>, para congraciarse con él: Francisco de Colonia levantó la nueva puerta en 1536 y Juan de Vallejo corrigió el diseño. La fachada es como un retablo de piedra con remate almenado, flanqueado por dos torres.</p><p>En sus hornacinas están las estatuas de personajes de la historia de la ciudad y de Castilla, obra de Ochoa de Arteaga: los jueces Nuño Rasura y Laín Calvo, los condes Diego Porcelos y <b>Fernán González</b>, <b>el Cid</b> y el propio Carlos V, con la Virgen arriba. Dentro, la sala de Poridad, donde se reunía el concejo hasta 1780, tiene un artesonado mudéjar.</p>"
+    },
+    "ver_alli": [
+     "La fachada hacia el puente, con las estatuas de los héroes de Castilla.",
+     "La sala de Poridad y su artesonado mudéjar.",
+     "Exterior libre; sala interior con exposiciones."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Arco_de_Santa_Mar%C3%ADa"
+    ]
+   }
+  },
+  {
+   "id": "salas-museo-dinosaurios",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo paleontológico y arqueológico",
+    "ver_alli": [
+     "Museo con fósiles originales de dinosaurios de la Sierra de la Demanda y una sala arqueológica.",
+     "Yacimientos de huellas en la comarca."
+    ]
+   }
+  },
+  {
+   "id": "museo-evolucion-humana-burgos",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arquitectura contemporánea (Juan Navarro Baldeweg)"
+   }
+  }
+ ]
+}

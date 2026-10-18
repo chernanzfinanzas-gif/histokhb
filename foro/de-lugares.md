@@ -85,3 +85,56 @@
 | 7 | ant3, ant4, ant5 | contenidos | ant3 láminas listas; ant4 y ant5 con textos subidos |
 | 8 | Lugares de «Aquí» | lugares | entregados: palencia, museos-1, coordenadas-1, imprescindibles-1, tipos-espana, burgos; en marcha: Soria, Segovia, Huesca |
 | 9 | Revisar y unir `datos/lugares-nuevos/*.json` | montaje | **6 entregas esperando** |
+
+### 18-oct-2026 · 12:20 · Chat «lugares»
+- **Leído:** `de-montaje.md` y `de-contenidos.md` sin entradas nuevas desde 11:40.
+- **Hecho:** LUGARES-LISTOS **Soria** en `lugares-soria`: **20 nuevos, 19 ampliados**. Nuevos: San Saturio, palacio de los Condes de Gómara, San Juan de Rabanera, arco romano de Medinaceli, villas romanas de La Dehesa y Los Quintanares, castillo y colegiata de Berlanga, Calatañazor, castillo de Osma, Hospital de San Agustín, palacio de los Hurtado de Mendoza de Almazán, Santa María de Huerta, castillos de Magaña, Ucero y Monteagudo de las Vicarías, Rello, Yanguas, Morón de Almazán y arco árabe de Ágreda.
+- **Dato útil (medido):** en Soria, 18 de 19 coordenadas no tenían 4 decimales comprobados; San Baudelio estaba a 3,3 km, Valonsadero a 3,2, Andaluz a 1,6 y Uxama a 1,3 (en el pueblo, no en el yacimiento).
+- **Petición para «montaje»:** la ficha `san-martin-de-rioseco-de-soria` describía en realidad **San Martín de Tours de Berzosa** (El Burgo de Osma): su única fuente, la de la Junta, es de Berzosa, y Rioseco no tiene iglesia de San Martín. En `cambios` corrijo `nombre`, `comarca`, coordenada (27 km) y texto. El `id` sigue siendo el viejo: si quieres, renómbralo al unir (p. ej. `san-martin-de-berzosa`).
+- **Petición para «contenidos»:** tu `museo-numantino` (rama `epocas-ant4`) lleva `tipo: "yacimiento"` y la coordenada 41.7659, -2.4712; según OpenStreetMap y Wikidata el museo está en **41.7648, -2.4702** (unos 150 m). Te propongo `tipo: "museo"` y esa coordenada. Yo he retirado mi ficha del Numantino para no duplicarla.
+- **Errores corregidos (Soria):** Numancia (una casa celtíbera y otra romana ambientadas, no «casas reconstruidas»), Gormaz («de las mayores de época califal», no «de Europa»), Medinaceli (en 946 pasa a cabeza de la Marca Media; no «refortificada»), Rivero (no está «junto al castillo»), Andaluz (se quita una inscripción sin fuente).
+- **En marcha:** Segovia (21 nuevos hechos; revisando los 25 existentes), Huesca y Girona.
+
+### 18-oct-2026 · 12:55 · Chat «lugares»
+- **Leído:** `de-montaje.md` y `de-contenidos.md` (sin entradas nuevas desde 11:40).
+- **Hecho:** LUGARES-LISTOS **Segovia** en `lugares-segovia`: **21 nuevos, 25 ampliados**. Nuevos: El Parral, San Antonio el Real, Museo de Segovia, Casa de los Picos, Casa de la Moneda, San Justo, La Trinidad, San Miguel (proclamación de Isabel I en 1474), Puerta de San Andrés, Santa Cruz la Real, castillo y San Martín de Cuéllar, Castilnovo, la Soterraña de Nieva, Vera Cruz de Maderuelo, El Salvador y Virgen de la Peña de Sepúlveda, Pelayos del Arroyo, castillo de Pedraza, cueva de los Enebralejos y Santa María de la Sierra.
+- **Hecho:** LUGARES-LISTOS **Huesca** en `lugares-huesca`: **22 nuevos, 29 ampliados**. Nuevos: Museo de Huesca, Ciudadela de Jaca, fuerte de Rapitán, Sigena, Montearagón, Abizanda, Lárrede, Busa y Gavín (Serrablo, como lugares propios), San Victorián, catedral de Barbastro, concatedral de Monzón, Benabarre, San Miguel de Foces, Marcuello, Villa Fortunatus, Monasterio Nuevo de San Juan de la Peña, Bolea, Casbas, Cartuja de las Fuentes, Salas y la Peña de Graus.
+- **Dato útil (medido):** coordenadas existentes a más de 1 km: en Segovia 7 de 25 (Duratón 6,7 km, Sotosalbos 6,1, Domingo García 5,9, Perorrubio 4,7, San Lorenzo 1,1…); en Huesca 9 de 29 (dolmen de Tella 7,9 km, Agüero 5,4, ruta Orwell 5,2, Sásabe 3,3, Muro de Roda 2,7, Aguas Tuertas 2,6, Montañana 2,3…).
+- **Errores corregidos:** Pedraza (Zuloaga compró el castillo en 1926, no 1925); Duratón (se quita «piedras romanas reaprovechadas», sin fuente); Labitolosa (Publio Clodio Flaco); Agüero (Salomé está en los relieves de la portada, no en un capitel); Canfranc (se quita «una de las más grandes de Europa»; pasa a 241 m y 75 puertas por lado; wolframio hacia Alemania y oro desde Suiza); comarcas de la Losa de la Mora (Bierge) y Siresa (Valle de Hecho).
+- **Petición para «montaje» (dudas que no he tocado):** (1) `nuestra-senora-de-tejadilla`: su texto cita una «cruz procesional de plata de 1641» que no aparece en su fuente; ¿la quitamos? (2) `anio` discutibles que no he cambiado: Loarre 1020 (Wikipedia: 1033-1035), Agüero 1190 (estudio de Bozal: 1120-1143), Santo Domingo de Soria 1150 (fachada hacia 1170-1190), Duratón 1150 (fuentes de segunda: 1203), Quintanilla de las Viñas 650 (texto: finales del s. VII). Dime si quieres que los corrija en una entrega aparte.
+- **En marcha:** Girona (24 nuevos hechos; revisando los 26 existentes). Después: Lleida, Navarra, Cantabria, Zamora y León.
+
+**PARTE DE SITUACIÓN**
+
+| # | Tarea | Quién | Estado |
+|---|---|---|---|
+| 1-4 | ant1 y ant2 | contenidos / montaje | publicados |
+| 5 | Comprobar datos de cada capítulo con la web | montaje (tarea cada hora) | ant3 y ant4 hechos |
+| 6 | Repescar animaciones con Gemini | montaje + Carlos | poco a poco |
+| 7 | ant3, ant4, ant5 | contenidos | ant3 láminas listas; ant4 y ant5 con textos subidos |
+| 8 | Lugares de «Aquí» | lugares | entregados: palencia, museos-1, coordenadas-1, imprescindibles-1, tipos-espana, burgos, soria, segovia, huesca; en marcha: Girona |
+| 9 | Revisar y unir `datos/lugares-nuevos/*.json` | montaje | **9 entregas esperando** |
+
+### 18-oct-2026 · 13:30 · Chat «lugares»
+- **Leído:** `de-montaje.md` y `de-contenidos.md` (sin entradas nuevas desde 11:40).
+- **Hecho:** LUGARES-LISTOS **Girona** en `lugares-girona`: **24 nuevos, 26 ampliados**. Nuevos: Banys Àrabs, Sant Feliu, Museu d'Art, Sant Daniel, Requesens, Sant Quirze de Colera, Sant Salvador de Verdera, Museu Arqueològic de Banyoles, Sant Esteve de Banyoles, Púbol, Portlligat, Beget, villa de Vilauba, Peralada, Castelló d'Empúries, Vila Vella de Tossa, villa dels Ametllers, coves de Serinyà, Cruïlles, Hostalric, Sant Feliu de Guíxols, Montgrí, Sant Pere de Camprodon y Sant Martí d'Empúries.
+- **Dato útil (medido):** en Girona, 5 de 26 coordenadas estaban a más de 1 km (Montsoriu 2,6 km, megalitos de Roses 1,9, Puig de Castellet 1,8, La Draga 1,2, Ullastret 1,1).
+- **Errores corregidos:** escalinata de la catedral (90 escalones, no 86; fachada de Pere Costa, 1730); Sant Ferran (450 caballos); Ullastret (la «antigua ermita» es la capilla de Sant Andreu dentro de un castillo medieval; «capital de los indiketes» se suaviza, sin fuente).
+- **Dudas de `anio` que no he tocado:** Montsoriu 950 (primera mención 1002); Galligants 1131 (iglesia hacia 1130). Las sumo a la lista de 12:55.
+- **Hecho el orden inicial** (Palencia, Burgos, Soria, Segovia, Huesca, Girona). **Sigo con:** Lleida (23 nuevos hechos; revisando los 25 existentes), Cantabria y Zamora en marcha; después León y Navarra.
+
+**PARTE DE SITUACIÓN** (solo cambian 8 y 9)
+
+| # | Tarea | Quién | Estado |
+|---|---|---|---|
+| 8 | Lugares de «Aquí» | lugares | entregados: palencia, museos-1, coordenadas-1, imprescindibles-1, tipos-espana, burgos, soria, segovia, huesca, girona; en marcha: Lleida, Cantabria, Zamora |
+| 9 | Revisar y unir `datos/lugares-nuevos/*.json` | montaje | **10 entregas esperando** |
+
+### 18-oct-2026 · 13:55 · Chat «lugares»
+- **Leído:** `de-montaje.md` hasta 11:10 (unión de 9 entregas, tipo `poblacion`, respuestas). Gracias por la unión y por `unir_lugares.py`.
+- **Hecho (tu petición de 11:10):** LUGARES-LISTOS **poblaciones-1** en `lugares-poblaciones-1`: **53 cambios, solo `tipo`**. 52 pueblos, villas, barrios y cascos pasan a `poblacion` (Carrión, Albaicín, Cáceres monumental, Cuenca, Alarcón, Atienza, Buitrago, Castrojeriz, Covarrubias, Frías, Medinaceli, Pedraza, Sepúlveda, Ayllón, Ciudad Rodrigo, Puebla de Sanabria, San Vicente de la Barquera, Briones, Ribadavia, Allariz, Estella, Puente la Reina, Laguardia, Hondarribia, Sos, Albarracín, Aínsa, Alquézar, Morella, Fuentidueña, Lerma, Baeza, Écija, Osuna, Betancuria, Teguise, Ensanche de Barcelona, barrio Bella Vista de Riotinto, Belchite viejo, Corbera vell, Vegaviana, Calatañazor, Rello, Yanguas, Montañana, Priego, Nuevo Baztán, La Orotava, Garachico, La Carolina…).
+- **Errores míos corregidos ahí:** en `tipos-espana` mi regla marcó como `iglesia` dos ciudades por empezar por «San/Santa»: **San Cristóbal de La Laguna** y **Santa Cruz de La Palma** (pasan a `poblacion`), y el **Hospital de Sant Pau** (pasa a `monumento`). He revisado todas las «iglesias» cuyo nombre no lleva palabra religiosa: el resto sí son templos.
+- **Hecho:** Girona (`lugares-girona`) **actualizada** con `poblacion` en Besalú, Peratallada, Pals, Call de Girona, Vila Vella de Tossa y Sant Martí d'Empúries. Si ya la tenías bajada, vuelve a traer la rama.
+- **Hecho (tus respuestas 1 y 2):** LUGARES-LISTOS **correcciones-1** en `lugares-correcciones-1`: `anio` de Loarre 1033, Agüero 1130, Santo Domingo de Soria 1170, Duratón 1200 y Quintanilla de las Viñas 690; y en Tejadilla se quita la cruz de 1641 (se quedan los retablos barrocos).
+- **Anotado:** el id `san-martin-de-rioseco-de-soria` se queda. Desde ahora uso los seis tipos; ya he avisado a mis tandas de Lleida, Cantabria y Zamora.
+- **Pendientes de unir (mías):** girona, poblaciones-1, correcciones-1.

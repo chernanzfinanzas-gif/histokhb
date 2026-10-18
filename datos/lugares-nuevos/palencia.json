@@ -1,0 +1,1280 @@
+{
+ "zona": "Palencia",
+ "nuevos": [
+  {
+   "id": "catedral-de-palencia",
+   "nombre": "Catedral de San Antolín de Palencia",
+   "provincia": "Palencia",
+   "comarca": "Palencia (capital)",
+   "lat": 42.0111,
+   "lon": -4.5369,
+   "tipo": "iglesia",
+   "estilo": "Gótico, con cripta visigoda",
+   "epoca": "Gótico",
+   "anio": 1321,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Los palentinos la llaman <b>«la Bella Desconocida»</b>, y el apodo es justo: es una de las grandes catedrales de España y pocos fuera de Castilla la conocen. Mide unos <b>130 metros</b> de largo y 50 en el crucero, su ábside roza los 42 metros de altura y se cuenta como la <b>tercera catedral más grande de España por superficie</b>. La primera piedra del templo gótico se puso el <b>1 de junio de 1321</b>, y las obras se alargaron casi dos siglos, hasta 1516.</p><p>Bajo el suelo de la nave central está su corazón más antiguo: la <b>cripta de San Antolín</b>. Su parte del fondo es lo que queda de un edificio <b>visigodo de mediados del siglo VII</b>, levantado con y sobre restos romanos; la tradición lo une al rey Wamba y a las reliquias del santo, traídas desde Narbona en el 672. En <b>1035</b>, ante el rey <b>Sancho el Mayor</b>, se consagró la ampliación que dio a la cripta el aspecto que hoy vemos, de época protorrománica. Encima hubo después una catedral románica, consagrada en 1219, que la gótica acabó sustituyendo.</p><p>Dentro guarda una colección asombrosa: el <b>retablo mayor</b> con escultura de <b>Felipe Bigarny</b> y tablas de <b>Juan de Flandes</b>, el trascoro con el políptico de los Siete Dolores de Jan Joest, rejas de Cristóbal de Andino y más de veinte capillas. En su museo, junto al claustro, cuelga el <b>Martirio de san Sebastián de El Greco</b>, y también una custodia de Juan de Benavente (1585) y un curioso retrato de Carlos I en anamorfosis.</p><p class=\"dato\"><span>¿Sabías que…?</span>Fue declarada Monumento Nacional el 3 de noviembre de 1929, el primer monumento de la ciudad de Palencia en recibir esa distinción.</p>"
+   },
+   "ver_alli": [
+    "Baja a la cripta por la escalera del trascoro: es el espacio más antiguo de la ciudad.",
+    "Mira el retablo mayor y busca las tablas de Juan de Flandes.",
+    "Fuera, compara la Puerta del Obispo, la más rica, con la sencilla Puerta de los Novios.",
+    "En el museo catedralicio, no te pierdas el San Sebastián de El Greco y el retrato en anamorfosis de Carlos I."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_de_Palencia",
+    "https://www.turismocastillayleon.com/en/art-culture-heritage/museums/cathedral-museum-palencia",
+    "https://gcatholic.org/churches/spain/1739"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-san-miguel-palencia",
+   "nombre": "Iglesia de San Miguel (Palencia)",
+   "provincia": "Palencia",
+   "comarca": "Palencia (capital)",
+   "lat": 42.0078,
+   "lon": -4.5342,
+   "tipo": "iglesia",
+   "estilo": "Románico tardío y primer gótico",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Su silueta es la más reconocible de Palencia: una <b>torre cuadrada con almenas</b> que parece más de castillo que de iglesia. Se pensó más alta, pero en tiempos revueltos los arranques de las ventanas se aprovecharon como almenas para hacer guardia, y así se quedó, con su aire de fortaleza. Tras el <b>terremoto de Lisboa de 1755</b> hubo que reforzarla.</p><p>El templo es un buen ejemplo del paso del <b>románico al gótico</b>: semicolumnas y apoyos todavía románicos sostienen arcos apuntados y bóvedas de crucería del primer gótico, de influencia cisterciense, propias de principios del siglo XIII. La decoración es sobria, con capiteles lisos o de hojas. Tiene tres naves, un Cristo del siglo XIV en el presbiterio y varios retablos renacentistas y barrocos.</p><p>Una tradición muy querida en la ciudad dice que aquí se casaron <b>el Cid y doña Jimena</b>. No hay ninguna prueba histórica, pero la leyenda sigue viva. Fue declarada monumento histórico-artístico en <b>1931</b>.</p>"
+   },
+   "ver_alli": [
+    "Mira la torre desde la plaza: las almenas eran ventanas que nunca se terminaron.",
+    "Entra por la portada de la base de la torre, con sus arquivoltas gastadas.",
+    "Dentro, fíjate en cómo los apoyos románicos sostienen bóvedas ya góticas.",
+    "Busca el Cristo del siglo XIV en el presbiterio."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Miguel_(Palencia)",
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-san-miguel-6650"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-de-palencia",
+   "nombre": "Museo de Palencia (Casa del Cordón)",
+   "provincia": "Palencia",
+   "comarca": "Palencia (capital)",
+   "lat": 42.0095,
+   "lon": -4.5355,
+   "tipo": "museo",
+   "estilo": "Arqueología, de la Prehistoria a la Edad Media",
+   "epoca": "Romano",
+   "anio": 1921,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>El museo arqueológico de la provincia ocupa la <b>Casa del Cordón</b>, un edificio renacentista de la primera mitad del <b>siglo XVI</b> cuya portada de sillería está rodeada por un <b>cordón franciscano</b> tallado en piedra, que le da nombre. De la antigua casa se conserva sobre todo esa fachada con sus escudos.</p><p>El museo nació de la unión de dos colecciones arqueológicas reunidas en la segunda mitad del siglo XIX. Abrió por primera vez el <b>9 de julio de 1921</b> en el palacio de la Diputación, y en su sede actual se inauguró el <b>27 de octubre de 1997</b>, después de que la Diputación comprara el edificio en 1981.</p><p>El recorrido va subiendo en el tiempo planta a planta: la <b>Prehistoria</b> y los pueblos prerromanos abajo; la <b>romanización</b> en la primera planta, con monedas, joyas y dos <b>bustos de mármol</b> hallados en Becerril de Campos; y en la segunda, los <b>visigodos</b> y la Edad Media, con ajuares de las necrópolis de Herrera de Pisuerga, maquetas de San Juan de Baños y San Martín de Frómista y sepulcros de la escuela de Carrión. Destaca también la exposición del <b>Tesoro romano de Valsadornín</b>.</p>"
+   },
+   "ver_alli": [
+    "Antes de entrar, mira la portada con el cordón franciscano y los escudos.",
+    "Busca el mosaico romano en el centro de la rotonda.",
+    "En la planta romana, los dos bustos de mármol de Becerril de Campos.",
+    "Las maquetas de San Juan de Baños y Frómista ayudan a preparar la visita a esos templos."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Palencia",
+    "https://www.turismocastillayleon.com/en/art-culture-heritage/museums/museum-palencia",
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/casas-nobles/casa-cordon"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-diocesano-de-palencia",
+   "nombre": "Museo Diocesano de Palencia (Palacio Episcopal)",
+   "provincia": "Palencia",
+   "comarca": "Palencia (capital)",
+   "lat": 42.0129,
+   "lon": -4.5395,
+   "tipo": "museo",
+   "estilo": "Arte sacro, del románico al barroco",
+   "epoca": "Renacimiento",
+   "anio": 1973,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En el <b>Palacio Episcopal</b>, un edificio del siglo XVIII en la calle Mayor Antigua, se reúne el arte sacro que durante siglos llenó las iglesias y ermitas de la provincia. El museo se creó en <b>1973</b> precisamente para recoger y proteger esas obras.</p><p>Tiene más de <b>16 salas</b> con piezas que van del siglo VII al XXI: calvarios, pilas bautismales románicas y tallas de los siglos XII al XIV, y después los grandes nombres del final de la Edad Media y el Renacimiento castellano: <b>Alejo de Vahía</b>, <b>Berruguete</b>, <b>Diego de Siloé</b>, <b>Juan de Flandes</b>, y también <b>Zurbarán</b>.</p><p>Una de sus secciones más vistosas es la de <b>orfebrería</b>, sobre todo las cruces procesionales medievales y renacentistas. Completan la visita relojes, ornamentos litúrgicos y libros corales.</p>"
+   },
+   "ver_alli": [
+    "Empieza por las tallas románicas y góticas para ver la evolución de la escultura.",
+    "Busca las tablas de Juan de Flandes y Berruguete.",
+    "No te pierdas la sala de cruces procesionales."
+   ],
+   "fuentes": [
+    "https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/museos/museo-diocesano-arte",
+    "https://turismo.aytopalencia.es/en/node/episcopal-palace-and-diocesan-museum",
+    "https://www.spain.info/es/lugares-interes/museo-arte-sacro-palencia/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "cristo-del-otero",
+   "nombre": "Cristo del Otero",
+   "provincia": "Palencia",
+   "comarca": "Palencia (capital)",
+   "lat": 42.0283,
+   "lon": -4.5294,
+   "tipo": "monumento",
+   "estilo": "Art déco",
+   "epoca": "Siglo XX",
+   "anio": 1930,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Desde casi cualquier punto de Palencia se ve, en lo alto de un cerro al norte de la ciudad, una enorme figura de Cristo con los brazos abiertos. Es el <b>Cristo del Otero</b>, obra del escultor palentino <b>Victorio Macho</b> (1887-1966), construida en <b>1930</b>. Mide <b>más de 20 metros</b>, y se presenta como una de las mayores imágenes del Sagrado Corazón del mundo.</p><p>Su estilo es <b>art déco</b>, con ecos cubistas y una postura rígida y solemne que recuerda a las estatuas del <b>antiguo Egipto</b>. El proyecto original era aún más ambicioso: la figura iba a ir recubierta de azulejos con brillo metálico, con cabeza, brazos y pies de bronce y ojos de marfil y mármol azul.</p><p>A sus pies, excavadas en el cerro, están la ermita de <b>Santa María del Otero</b> y un pequeño museo dedicado al escultor. Victorio Macho quiso ser enterrado aquí, y su tumba, bajo una lápida de mármol blanco, está a los pies de su obra.</p><p class=\"dato\"><span>¿Sabías que…?</span>Según la tradición, en este mismo otero buscó refugio santo Toribio en el siglo VI.</p>"
+   },
+   "ver_alli": [
+    "Sube al cerro al atardecer: es el mejor mirador sobre Palencia y la Tierra de Campos.",
+    "Rodea la estatua para ver su perfil geométrico, muy art déco.",
+    "Entra en la ermita excavada y busca la tumba del escultor."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Cristo_del_Otero",
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/esculturas/cristo-otero"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-ampudia",
+   "nombre": "Castillo de Ampudia",
+   "provincia": "Palencia",
+   "comarca": "Ampudia (Tierra de Campos)",
+   "lat": 41.9129,
+   "lon": -4.7835,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1461,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>El castillo de Ampudia es una de las fortalezas mejor conservadas de Tierra de Campos. Lo construyó entre <b>1461 y 1488</b> García López de Ayala, hijo de <b>Pedro García de Herrera</b>, mariscal de Castilla y primer titular del mayorazgo de Ampudia. Tiene planta trapezoidal, torres en las esquinas y la torre del homenaje en el ángulo suroeste.</p><p>Su historia está ligada a la guerra de las <b>Comunidades</b>: su señor, Pedro de Ayala, se unió a los comuneros, y tras su derrota el emperador Carlos confiscó el castillo, que solo devolvió a cambio de <b>20.000 ducados</b>. En 1597 el señorío pasó al <b>duque de Lerma</b>, el poderoso valido de Felipe III.</p><p>En <b>1960</b> lo compró el empresario palentino <b>Eugenio Fontaneda</b>, que lo restauró y lo llenó con su colección, repartida en seis salas: arqueología, arte sacro, juguetes, armas e instrumentos musicales, farmacia y etnografía. Fue declarado monumento en 1931.</p>"
+   },
+   "ver_alli": [
+    "Rodea el castillo para ver sus cuatro torres y la del homenaje.",
+    "Si está abierto, la colección Fontaneda tiene desde piezas arqueológicas hasta juguetes antiguos.",
+    "Aprovecha para pasear por la villa de Ampudia."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Ampudia",
+    "https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/castillos/castillo-ampudia"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "colegiata-de-san-miguel-de-ampudia",
+   "nombre": "Colegiata de San Miguel de Ampudia",
+   "provincia": "Palencia",
+   "comarca": "Ampudia (Tierra de Campos)",
+   "lat": 41.9163,
+   "lon": -4.7807,
+   "tipo": "iglesia",
+   "estilo": "Gótico-renacentista",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Su torre, de <b>62 metros</b> y siete cuerpos rematados por una linterna, se ve desde muy lejos en la llanura, y por eso la llaman <b>«la Novia de Campos»</b>, «la Giralda de Campos» o «la Bella de Campos». En su remate trabajó Juan de Escalante.</p><p>La iglesia comenzó en el siglo XII como algo mucho más modesto y se rehízo en estilo <b>gótico-renacentista</b> a finales del XV y principios del XVI, con tres naves y bóvedas de crucería estrellada. En <b>1607</b> el <b>duque de Lerma</b>, señor de Ampudia, consiguió de Felipe III trasladar aquí la antigua colegiata de <b>Husillos</b>, y desde entonces es colegiata.</p><p>Dentro destacan la capilla de <b>Santa Ana</b>, con un grupo de alabastro de Santa Ana, la Virgen y el Niño en el que intervino <b>Vasco de la Zarza</b>; la de <b>San Ildefonso</b>, con retablo plateresco y los sepulcros de los fundadores; y un púlpito de nogal de <b>Alejo de Vahía</b>, de finales del siglo XV. En 1954 se derrumbó en parte y se restauró durante cuatro años. Es Bien de Interés Cultural desde 2010.</p>"
+   },
+   "ver_alli": [
+    "Mira la torre desde las afueras de la villa: entenderás lo de «Novia de Campos».",
+    "Dentro, busca el grupo de alabastro de la capilla de Santa Ana.",
+    "No te pierdas el púlpito de nogal de Alejo de Vahía."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Colegiata_de_San_Miguel_(Ampudia)",
+    "https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/monumentos/iglesias-ermitas/iglesia-colegiata-san-miguel"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-fuentes-de-valdepero",
+   "nombre": "Castillo de Fuentes de Valdepero (de los Sarmiento)",
+   "provincia": "Palencia",
+   "comarca": "Fuentes de Valdepero (Tierra de Campos)",
+   "lat": 42.0736,
+   "lon": -4.5016,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1442,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>A pocos kilómetros de Palencia se alza el castillo de los <b>Sarmiento</b>. Las excavaciones sitúan su construcción entre <b>1442 y 1465</b>, por orden de Diego Pérez Sarmiento, conde de Santa Marta y adelantado mayor de Galicia; sus escudos se ven aún en el cubo sudeste. Es un recinto casi cuadrado de unos <b>60 por 37 metros</b>, con cubos en las esquinas y una gran <b>torre del homenaje</b> de 25 metros, cuyos muros llegan a tener unos <b>11 metros de grosor</b> en algunos puntos.</p><p>En enero de <b>1521</b>, durante la guerra de las Comunidades, los comuneros del obispo <b>Acuña</b> lo asediaron. Tras pactar la rendición, el obispo traicionó lo acordado, apresó a la familia del señor, Andrés de Ribera, y saqueó el castillo, que los comuneros mantuvieron hasta después de la batalla de Villalar.</p><p>La Diputación de Palencia lo compró en <b>1995</b> y lo rehabilitó. Hoy guarda en su patio de armas el <b>Archivo de la Diputación</b> y se puede visitar por dentro, incluidos los adarves y la torre del homenaje.</p>"
+   },
+   "ver_alli": [
+    "Sube a la torre del homenaje: las vistas sobre la Tierra de Campos son enormes.",
+    "Busca los escudos de los Sarmiento en el cubo sudeste.",
+    "Fíjate en el grosor de los muros de la torre al pasar por sus vanos."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Fuentes_de_Valdepero",
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/castillo-sarmiento",
+    "https://www.terranostrum.es/turismo/palencia/tierra-de-campos/fuentes-de-valdepero/visita-castillo-de-los-sarmiento-fuentes-de-valdepero"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-monzon-de-campos",
+   "nombre": "Castillo de Monzón de Campos",
+   "provincia": "Palencia",
+   "comarca": "Monzón de Campos (Tierra de Campos)",
+   "lat": 42.1116,
+   "lon": -4.4942,
+   "tipo": "castillo",
+   "estilo": "Medieval",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Pocos castillos castellanos han visto tanta historia. En <b>939</b>, tras la batalla de Simancas, el rey Ramiro II encargó a <b>Ansur Fernández</b> repoblar y fortificar esta zona, y nació el <b>condado de Monzón</b>. En <b>1109</b> se celebró aquí la boda de <b>doña Urraca</b> con <b>Alfonso el Batallador</b>, con Pedro Ansúrez como padrino, y en 1299 lo conquistó la reina María de Molina.</p><p>El edificio actual, con su vieja torre del homenaje de entrada elevada, se fecha a <b>mediados del siglo XIV</b> por el escudo de los <b>Rojas</b> sobre la puerta: esta familia recibió la villa en 1352 y llegó a ser marquesa de Poza.</p><p>En el siglo XX tuvo una segunda vida: fue <b>Parador Nacional</b> entre 1975 y 1988, y aquí se constituyó el <b>22 de julio de 1978</b> el Consejo General de Castilla y León. Hoy pertenece a la Diputación, que lo ha rehabilitado para usos culturales.</p><p class=\"dato\"><span>¿Sabías que…?</span>La portada románica de la torre no es del castillo: procede de la iglesia de Cenera de Zalima, un pueblo que quedó bajo las aguas del pantano de Aguilar.</p>"
+   },
+   "ver_alli": [
+    "Observa la torre del homenaje, la parte más antigua.",
+    "Busca el escudo de los Rojas sobre el arco apuntado de la puerta principal.",
+    "Fíjate en la portada románica trasladada desde un pueblo anegado."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Monz%C3%B3n_de_Campos",
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/castillo-monzon-campos"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-maria-de-husillos",
+   "nombre": "Abadía de Santa María de Husillos",
+   "provincia": "Palencia",
+   "comarca": "Husillos (Tierra de Campos)",
+   "lat": 42.0907,
+   "lon": -4.5267,
+   "tipo": "iglesia",
+   "estilo": "Protogótico",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Hoy Husillos es un pueblo pequeño, pero en la Edad Media su abadía fue una de las más importantes de Castilla. Ya en 906 un presbítero llamado Gatón reconstruyó aquí una iglesia de Santa María, y una lápida de <b>1039</b> recuerda la refundación del monasterio por el abad Munio. A finales del siglo XI y en el XII se celebraron aquí <b>dos concilios</b>.</p><p>La iglesia que vemos es un edificio de transición del <b>románico al gótico</b>, lo que los especialistas llaman «protogótico»: fachada, torre y ábside son de principios del siglo XIII. Quedan restos de la abadía y del claustro en el lado sur.</p><p>A principios del siglo XVII el <b>duque de Lerma</b> se llevó la colegiata a Ampudia, y Husillos perdió su rango. Es Monumento Nacional desde 1931.</p><p class=\"dato\"><span>¿Sabías que…?</span>Aquí estuvo hasta 1870 el famoso <b>sarcófago romano de la Orestíada</b>, de mármol blanco y de mediados del siglo II, que hoy se expone en el Museo Arqueológico Nacional de Madrid.</p>"
+   },
+   "ver_alli": [
+    "Mira la fachada y la torre, de principios del siglo XIII.",
+    "Rodea el edificio por el sur para ver los restos del claustro.",
+    "Dentro, compara los apoyos aún románicos con las bóvedas ya góticas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Husillos",
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/abadia-santa-maria"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-maria-la-mayor-de-villamuriel",
+   "nombre": "Iglesia de Santa María la Mayor de Villamuriel de Cerrato",
+   "provincia": "Palencia",
+   "comarca": "Villamuriel de Cerrato (Cerrato)",
+   "lat": 41.9479,
+   "lon": -4.5152,
+   "tipo": "iglesia",
+   "estilo": "Protogótico",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Junto a la vega del Carrión, a las puertas de Palencia, se levanta una de las iglesias más elegantes del primer gótico castellano. Se construyó a finales del siglo XII o principios del XIII, en tiempos del obispo <b>Arderico</b> (1184-1207), en sillería y con tres naves cortadas por un crucero.</p><p>Su joya es el <b>cimborrio octogonal</b> del crucero, con dos cuerpos de arquillos de medio punto y, por dentro, una bóveda de ocho nervios. En la cabecera asoman unas garitas en las esquinas que le dan un curioso aire militar. La torre combina una parte baja tardorrománica con un campanario herreriano de finales del siglo XVI.</p><p>Dentro hay un coro alto renacentista de 1571 y un <b>retablo mayor terminado en 1700 por Tomás de Sierra</b>. Fue declarada monumento histórico-artístico en <b>1931</b>.</p>"
+   },
+   "ver_alli": [
+    "Mira el cimborrio octogonal desde fuera y luego su bóveda desde el crucero.",
+    "Busca las garitas de las esquinas de la cabecera.",
+    "Fíjate en la torre: abajo románica, arriba herreriana."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_la_Mayor_(Villamuriel_de_Cerrato)",
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-santa-maria-mayor"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-san-isidro-de-duenas",
+   "nombre": "Monasterio de San Isidro de Dueñas (La Trapa)",
+   "provincia": "Palencia",
+   "comarca": "Dueñas (Cerrato)",
+   "lat": 41.899,
+   "lon": -4.5161,
+   "tipo": "iglesia",
+   "estilo": "Románico y barroco",
+   "epoca": "Románico",
+   "anio": 911,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Es uno de los monasterios más antiguos de Castilla. El primer documento que lo cita es de <b>911</b>, un privilegio del rey García I, aunque fue su padre, <b>Alfonso III el Magno</b>, quien hacia 883 lo restauró con monjes mozárabes llegados de Córdoba. En <b>1073</b> Alfonso VI lo donó a <b>Cluny</b>, y se convirtió en el primer priorato cluniacense de la Península.</p><p>Tras ser cuartel francés en la guerra de la Independencia, quedó abandonado con la desamortización de 1835. En <b>1890</b> lo compraron los monjes cistercienses trapenses, que volvieron a habitarlo en 1891 y aún viven en él; de ahí su nombre popular, <b>«La Trapa»</b>.</p><p>La mayor parte del edificio es del siglo XVIII, pero la iglesia conserva su <b>portada</b>, la torre y capiteles románicos de finales del XI o principios del XII, que recuerdan a Frómista y Silos. Aquí está enterrado <b>san Rafael Arnáiz</b>, monje del primer tercio del siglo XX, canonizado por Benedicto XVI en 2009, que tiene una capilla dedicada.</p>"
+   },
+   "ver_alli": [
+    "Fíjate en la portada románica de la iglesia.",
+    "Busca los capiteles románicos del interior.",
+    "Visita la capilla de san Rafael Arnáiz.",
+    "Si coincides con los oficios, se canta en gregoriano."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Isidro_de_Due%C3%B1as",
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/monasterio-san-isidro-duenas"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-maria-de-duenas",
+   "nombre": "Iglesia de Santa María de Dueñas",
+   "provincia": "Palencia",
+   "comarca": "Dueñas (Cerrato)",
+   "lat": 41.8779,
+   "lon": -4.545,
+   "tipo": "iglesia",
+   "estilo": "Gótico",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>La parroquia de Santa María de la Asunción es el gran templo de la villa de Dueñas. Es una iglesia <b>gótica del siglo XIII</b>, de sillería, con tres naves separadas por pilares, reformada entre los siglos XVI y XVIII. Su portada principal es de la época de los <b>Reyes Católicos</b>.</p><p>Dentro se conservan los <b>sepulcros con figuras orantes de la familia Acuña</b>, señores de la villa, en arcos abiertos en el muro. Guarda además un crucifijo del siglo XIII, un retablo con pinturas del siglo XV, una sillería de nogal y una escultura de <b>San Isidro Labrador</b> de <b>Gregorio Fernández</b>, el gran escultor del barroco castellano.</p>"
+   },
+   "ver_alli": [
+    "Mira la portada principal, de tiempos de los Reyes Católicos.",
+    "Busca los orantes de los Acuña en sus arcosolios.",
+    "Localiza el San Isidro de Gregorio Fernández y el crucifijo del siglo XIII."
+   ],
+   "fuentes": [
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-parroquial-santa-maria-65eb"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-maria-de-becerril-de-campos",
+   "nombre": "Iglesia-museo de Santa María de Becerril de Campos",
+   "provincia": "Palencia",
+   "comarca": "Becerril de Campos (Tierra de Campos)",
+   "lat": 42.1102,
+   "lon": -4.6423,
+   "tipo": "museo",
+   "estilo": "Gótico tardío y Renacimiento",
+   "epoca": "Renacimiento",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Becerril de Campos llegó a tener siete iglesias y ocho ermitas, prueba de la riqueza de esta tierra de cereal. Una de las más antiguas, <b>Santa María</b>, del siglo XV, es hoy una iglesia-museo de arte sacro que reúne pintura, escultura y orfebrería, en parte llegadas de otras iglesias del pueblo. Forma parte del <b>Museo Territorial Campos del Renacimiento</b>, que tiene sedes en varios pueblos de la zona.</p><p>Entre sus piezas hay <b>tablas de Pedro Berruguete</b>; esculturas de <b>Alejo de Vahía</b> y obras de Juan de Juni y Valmaseda, y un tríptico de la Virgen con el Niño de <b>Juan de Flandes</b>. El propio edificio aporta su retablo, su coro, su púlpito y su artesonado.</p>"
+   },
+   "ver_alli": [
+    "Busca las tablas de Pedro Berruguete.",
+    "Mira el artesonado y el coro del propio templo.",
+    "Pasea luego por el pueblo: la iglesia de Santa Eugenia guarda más tablas de Berruguete."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Becerril_de_Campos",
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/museo-iglesia-santa-maria"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-facundo-y-san-primitivo-de-cisneros",
+   "nombre": "Iglesia de San Facundo y San Primitivo de Cisneros",
+   "provincia": "Palencia",
+   "comarca": "Cisneros (Tierra de Campos)",
+   "lat": 42.2206,
+   "lon": -4.8566,
+   "tipo": "iglesia",
+   "estilo": "Mudéjar y gótico",
+   "epoca": "Mudéjar",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Por fuera es una iglesia de <b>ladrillo</b> de comienzos del siglo XVI, como tantas de Tierra de Campos; por dentro guarda uno de los conjuntos de techos más bellos de la comarca. Sus tres naves están cubiertas por <b>artesonados mudéjares</b> de lacería, obra de «carpintería de lo blanco», que se atribuyen a la influencia del <b>cardenal Cisneros</b>, cuyo abuelo vivió en el pueblo.</p><p>El retablo mayor es de ensamblaje gótico, y en el presbiterio hay un sepulcro del siglo XV. La sacristía guarda una cruz relicario gótica donada por García de Cisneros en 1501. Es monumento desde 1945 y hoy forma parte del <b>Museo Territorial Campos del Renacimiento</b>.</p><p>En el mismo pueblo, la iglesia de <b>San Pedro</b>, también del siglo XVI, perdió sus artesonados en una reforma del XIX, pero conserva un <b>retablo de Francisco Giralte</b>, su obra más notable, y el sepulcro del abuelo del cardenal.</p><p class=\"dato\"><span>¿Sabías que…?</span>Durante mucho tiempo se dijo que el cardenal Cisneros había nacido aquí, pero en realidad nació en Torrelaguna (Madrid); de Cisneros era su familia.</p>"
+   },
+   "ver_alli": [
+    "Levanta la vista: los artesonados de lacería son el motivo de la visita.",
+    "Mira el retablo mayor de ensamblaje gótico.",
+    "Acércate también a San Pedro para ver el retablo de Giralte."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Cisneros_(Palencia)",
+    "https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/museos/museo-iglesia-san-facundo-san-primitivo",
+    "https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/museos/museo-iglesia-san-pedro"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-clara-de-astudillo",
+   "nombre": "Monasterio de Santa Clara y Palacio de Pedro I (Astudillo)",
+   "provincia": "Palencia",
+   "comarca": "Astudillo (Cerrato)",
+   "lat": 42.1918,
+   "lon": -4.2981,
+   "tipo": "iglesia",
+   "estilo": "Gótico-mudéjar",
+   "epoca": "Mudéjar",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En Astudillo, en pleno Cerrato, se conserva un rincón de amor y poder del siglo XIV. A mediados de ese siglo <b>María de Padilla</b>, la amante del rey <b>Pedro I de Castilla</b>, fundó aquí el Real Monasterio de <b>Santa Clara</b>, y junto a la iglesia el rey y ella levantaron un <b>palacio</b>.</p><p>Todo el conjunto mezcla lo <b>gótico y lo mudéjar</b>. La iglesia tiene artesonado y yeserías en el coro, y el palacio luce una fachada de formas islámicas con ventanas de arcos polilobulados y salas con alfarjes y yeserías. Hoy alberga un museo de arte mudéjar y sacro; el resto del monasterio sigue siendo clausura.</p>"
+   },
+   "ver_alli": [
+    "Mira la fachada del palacio y sus ventanas de arcos polilobulados.",
+    "Dentro, fíjate en los alfarjes y las yeserías.",
+    "Pasea por el casco de Astudillo, conjunto histórico desde 1995, y sus restos de muralla."
+   ],
+   "fuentes": [
+    "https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/monasterios/monasterio-santa-clara-palacio-pedro-i",
+    "https://es.wikipedia.org/wiki/Astudillo"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "asuncion-de-perazancas-de-ojeda",
+   "nombre": "Iglesia de Nuestra Señora de la Asunción de Perazancas de Ojeda",
+   "provincia": "Palencia",
+   "comarca": "Perazancas de Ojeda (Cervera de Pisuerga)",
+   "lat": 42.785,
+   "lon": -4.4214,
+   "tipo": "iglesia",
+   "estilo": "Románico y gótico",
+   "epoca": "Románico",
+   "anio": 1190,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>La iglesia parroquial de Perazancas es un edificio que ha ido creciendo durante siglos sobre una ladera, por eso se reparte en varios niveles. Su núcleo es <b>románico de finales del siglo XII</b>; en el siglo XV se ampliaron las naves y en el XVII se añadieron la sacristía y la torre de mampostería. Al reconstruirla se llegó a <b>cambiar la orientación</b> del templo, y el antiguo ábside románico quedó convertido en baptisterio.</p><p>Lo mejor es su <b>portada románica</b>, que acabó trasladada al interior. En su arquivolta central desfilan pequeñas figuras en actitudes muy variadas: <b>músicos</b>, luchadores, animales y hasta una pareja abrazada. Los capiteles muestran caballeros contra dragones y la Huida a Egipto. Se ha relacionado con la portada de <b>Santiago de Carrión</b> y con el taller de San Andrés de Arroyo.</p><p>No hay que confundirla con la <b>ermita de San Pelayo</b>, en el mismo pueblo, famosa por sus pinturas murales. El historiador García Guinea vinculó esta iglesia con el antiguo monasterio de San Pelayo, dependiente de Sahagún.</p><p class=\"dato\"><span>¿Sabías que…?</span>El antiguo ábside, hoy baptisterio, conserva una arquería polilobulada poco habitual en el románico de la zona.</p>"
+   },
+   "ver_alli": [
+    "La portada románica, hoy dentro del templo: busca los músicos de la arquivolta.",
+    "Los capiteles historiados con caballeros y dragones.",
+    "El antiguo ábside con su arquería de arcos lobulados y la pila bautismal románica.",
+    "El Crucificado gótico de los siglos XIII-XIV."
+   ],
+   "fuentes": [
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-parroquial-senora-asuncion",
+    "https://www.terranostrum.es/turismo/palencia/montana-palentina/perazancas-de-ojeda/iglesia-de-nuestra-senora-de-la-asuncion-perazancas-de-ojeda",
+    "https://es.wikipedia.org/wiki/Perazancas_de_Ojeda"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "canal-de-castilla-esclusas-de-fromista",
+   "nombre": "Canal de Castilla: esclusa cuádruple de Frómista",
+   "provincia": "Palencia",
+   "comarca": "Frómista (Tierra de Campos)",
+   "lat": 42.2635,
+   "lon": -4.3994,
+   "tipo": "monumento",
+   "estilo": "Ingeniería hidráulica de la Ilustración",
+   "epoca": "Ilustración y Neoclásico",
+   "anio": 1753,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>El <b>Canal de Castilla</b> fue el gran sueño ilustrado para sacar el trigo de la meseta hacia los puertos del norte. Lo impulsó el <b>marqués de la Ensenada</b> bajo Fernando VI, con proyecto de <b>Antonio de Ulloa</b> inspirado en el ingeniero francés <b>Carlos Lemaur</b>. Las obras empezaron el <b>16 de julio de 1753</b> y no se dieron por acabadas hasta 1849: en total, unos <b>207 km</b> repartidos en tres ramales.</p><p>Frómista guarda el conjunto más espectacular: la <b>esclusa cuádruple</b>, cuatro vasos seguidos (las esclusas 17 a 20) que forman el mayor grupo de esclusas de todo el canal y salvan el mayor desnivel del recorrido, <b>algo más de 14 metros</b>. Las barcas subían o bajaban como por una escalera de agua.</p><p>La navegación alcanzó su apogeo entre 1850 y 1860, con más de 350 barcas, pero el ferrocarril la hizo menos rentable y se abandonó en 1959. Hoy el canal sirve sobre todo para regar y es <b>Bien de Interés Cultural desde 1991</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>La casa del esclusero de Frómista es hoy la oficina de turismo, y desde aquí sale un barco turístico por el canal.</p>"
+   },
+   "ver_alli": [
+    "Los cuatro vasos de piedra encadenados: mejor desde el camino de sirga, arriba.",
+    "El puente sobre la esclusa y la antigua casa del esclusero.",
+    "Cerca, el acueducto del río Ucieza, de tres arcos de sillería."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Canal_de_Castilla",
+    "https://www.palenciaturismo.es/visitar/lugares-interes/canal-castilla-fromista",
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/canal-castilla/fromista",
+    "https://fromistaturismo.com/index.php/canal-de-castilla/",
+    "https://www.openstreetmap.org/search?query=Esclusas%20del%20Canal%20de%20Castilla%20Fr%C3%B3mista"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-monografico-la-olmeda-saldana",
+   "nombre": "Museo Monográfico de La Olmeda (iglesia de San Pedro, Saldaña)",
+   "provincia": "Palencia",
+   "comarca": "Saldaña (Vega-Valdavia)",
+   "lat": 42.5242,
+   "lon": -4.7355,
+   "tipo": "museo",
+   "estilo": "Museo arqueológico en iglesia",
+   "epoca": "Romano",
+   "anio": 2018,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>La villa romana de <b>La Olmeda</b>, en Pedrosa de la Vega, enseña sus mosaicos en el sitio. Pero los objetos que aparecieron al excavarla, desde su descubrimiento en <b>1968</b>, se guardan a unos kilómetros, en Saldaña, dentro de la antigua <b>iglesia de San Pedro</b>, cedida por el Obispado a la Diputación de Palencia.</p><p>La instalación actual se inauguró el <b>4 de julio de 2018</b>, tras remodelar la iglesia y su plaza. Reúne unos <b>305 objetos</b> de la villa y de su necrópolis: cerámica fina (<i>terra sigillata</i>), adornos personales, herramientas, armas de caza, vidrios, piezas de juego y <b>monedas del Bajo Imperio</b>, además de objetos ligados a ritos religiosos y funerarios.</p><p>Maquetas y reconstrucciones virtuales ayudan a imaginar la vida diaria en una gran villa tardorromana. Es el complemento perfecto de la visita a La Olmeda: allí se ve la casa; aquí, lo que usaban quienes vivían en ella.</p><p class=\"dato\"><span>¿Sabías que…?</span>Una sala aparte guarda la patena mozárabe de Valcabado y un facsímil del Beato de Valcabado.</p>"
+   },
+   "ver_alli": [
+    "Las vitrinas de vidrio romano y adornos personales.",
+    "Las monedas del Bajo Imperio y los objetos funerarios de la necrópolis.",
+    "La sala de la patena mozárabe de Valcabado."
+   ],
+   "fuentes": [
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/museo-monografico-villa-romana-olmeda",
+    "https://www.villaromanalaolmeda.com/villa/museo/presentacion",
+    "https://www.spain.info/es/lugares-interes/museo-monografico-villa-olmeda/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-aguilar-de-campoo",
+   "nombre": "Castillo de Aguilar de Campoo",
+   "provincia": "Palencia",
+   "comarca": "Aguilar de Campoo (Montaña Palentina)",
+   "lat": 42.7962,
+   "lon": -4.2635,
+   "tipo": "castillo",
+   "estilo": "Medieval",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1039,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Encaramado sobre un peñasco que domina la villa y el Pisuerga, el castillo de Aguilar se levantó sobre un antiguo <b>castro</b>. Nació como torre defensiva de la Reconquista y sus primeras noticias escritas son de <b>1039</b>. En el siglo XII ya era una fortaleza importante, y se reformó varias veces entre los siglos XII y XIV.</p><p>El señorío de Aguilar fue de <b>Tello de Castilla</b> y pasó después a los <b>Manrique de Lara</b>, futuros marqueses de Aguilar; la muralla que hoy se ve es en buena parte del siglo XV. A mediados del XIV sirvió también de prisión: aquí estuvo encerrado el cardenal <b>Pedro Gómez Barroso</b> por orden de Pedro I.</p><p>Hoy es una ruina de planta trapezoidal que conserva gran parte del recinto exterior, con muros y torres. La entrada oriental, con medio arco apuntado, aún muestra restos de escudos.</p><p class=\"dato\"><span>¿Sabías que…?</span>El castillo aprovecha la forma del cerro: el recinto se adapta a la roca en lugar de nivelarla.</p>"
+   },
+   "ver_alli": [
+    "La puerta del este, con su arco apuntado y restos de escudos.",
+    "Los lienzos de muralla y las torres del recinto exterior.",
+    "Las vistas sobre Aguilar, el Pisuerga y Santa María la Real."
+   ],
+   "fuentes": [
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/castillo-aguilar-campoo",
+    "https://es.wikipedia.org/wiki/Castillo_de_Aguilar_de_Campoo"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-santa-cruz-de-la-zarza",
+   "nombre": "Monasterio de Santa Cruz de la Zarza",
+   "provincia": "Palencia",
+   "comarca": "Ribas de Campos (Tierra de Campos)",
+   "lat": 42.1432,
+   "lon": -4.5005,
+   "tipo": "iglesia",
+   "estilo": "Románico tardío, cisterciense y gótico",
+   "epoca": "Gótico",
+   "anio": 1176,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En la vega baja del Carrión, entre Ribas y Monzón de Campos, quedan la iglesia y algunas salas de un monasterio de <b>canónigos premonstratenses</b>. La tradición lo hace remontar al conde Fernán Ansúrez en el año 922. En <b>1171</b> Alfonso VIII le regaló una reliquia de la Santa Cruz y lo puso bajo protección real, y en <b>1176</b> pasó a la orden premonstratense.</p><p>La iglesia es una obra <b>cisterciense de comienzos del siglo XIII</b>, en piedra caliza, con planta muy parecida a la de San Andrés de Arroyo: tres ábsides, crucero y naves con bóvedas que se rehicieron en el siglo XV con terceletes. Junto al crucero se conservan la sacristía vieja y la <b>sala capitular</b>, con cuatro columnas centrales y nueve tramos de bóveda.</p><p>Con la Desamortización de 1835 quedó abandonado y en ruinas. A finales del XIX se restauró la iglesia, hoy dedicada a San Cristóbal. Es <b>Bien de Interés Cultural desde 1931</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>Un fuste de la sala capitular lleva una inscripción que menciona a un «hermano Francisco».</p>"
+   },
+   "ver_alli": [
+    "La cabecera de tres ábsides, el central poligonal con contrafuertes.",
+    "Los capiteles de la sala capitular: arpías, leones, grifos, caballeros y el Buen Pastor.",
+    "La portada occidental de arcos apuntados.",
+    "La visita se concierta por teléfono con antelación."
+   ],
+   "fuentes": [
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/monasterio-santa-cruz-zarza",
+    "https://www.terranostrum.es/turismo/palencia/tierra-de-campos/ribas-de-campos/monasterio-de-santa-cruz-de-la-zarza-ribas-de-campos"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-salvador-de-nogal-de-las-huertas",
+   "nombre": "Monasterio de San Salvador de Nogal de las Huertas",
+   "provincia": "Palencia",
+   "comarca": "Nogal de las Huertas (Vega-Valdavia)",
+   "lat": 42.3925,
+   "lon": -4.6453,
+   "tipo": "iglesia",
+   "estilo": "Románico y gótico",
+   "epoca": "Románico",
+   "anio": 1063,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>A pocos kilómetros al norte de Carrión, junto a un arroyo, están las ruinas de lo que quizá fue el <b>primer edificio monástico románico</b> de la región. Según una inscripción hoy perdida, lo fundó en <b>1063</b> la condesa <b>Elvira Sánchez</b>, de la familia de los Banu Gómez; ya en 1059 se documenta aquí una comunidad doble de monjes y monjas.</p><p>Alfonso VI lo dio como dote a su esposa <b>Constanza de Borgoña</b> y, al morir ella en 1093, lo entregó al monasterio de Sahagún. La iglesia primitiva tenía una sola nave y un ábside cuadrado; sus capiteles se parecen a los de <b>San Martín de Frómista</b>, y aparece el ajedrezado de tipo jaqués. En el siglo XIII se añadieron dos naves laterales con arcos apuntados.</p><p>Tras la Desamortización acabó como granja y vivienda, y sufrió el expolio de capiteles. Declarado monumento en 1931, en 2018 pasó a manos del Ayuntamiento, que en 2019 lo consolidó para frenar su ruina.</p><p class=\"dato\"><span>¿Sabías que…?</span>Entre las inscripciones que quedan hay una que recuerda la muerte de Alfonso VI.</p>"
+   },
+   "ver_alli": [
+    "La cabecera del siglo XI, con su ábside cuadrado y el arco triunfal.",
+    "Los capiteles vegetales y con figura humana, primos de los de Frómista.",
+    "Las naves góticas de pilares octogonales y arcos apuntados.",
+    "Las inscripciones en los muros de la capilla central."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Salvador_de_Nogal_de_las_Huertas",
+    "https://ninos.kiddle.co/Monasterio_de_San_Salvador_de_Nogal_de_las_Huertas",
+    "https://www.terranostrum.es/turismo/palencia/tierra-de-campos/nogal-de-las-huertas/monasterio-de-san-salvador-nogal-de-las-huertas",
+    "https://www.spain.info/es/lugares-interes/monasterio-san-salvador-nogal-huertas/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monte-cilda",
+   "nombre": "Monte Cildá",
+   "provincia": "Palencia",
+   "comarca": "Olleros de Pisuerga (Aguilar de Campoo)",
+   "lat": 42.7504,
+   "lon": -4.2754,
+   "tipo": "yacimiento",
+   "estilo": "Castro cántabro y ciudad romana",
+   "epoca": "Romano",
+   "anio": -50,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Sobre un cerro de casi 980 metros, junto al Pisuerga y frente al cañón de La Horadada, se alzó un <b>poblado cántabro</b> que los romanos ocuparon tras las Guerras Cántabras. Las excavaciones lo fechan en la <b>segunda mitad del siglo I a.C.</b>; hacia mediados del siglo I d.C. quedó abandonado, y se volvió a habitar en época tardorromana, probablemente desde el siglo IV.</p><p>De esa última etapa es su <b>muralla</b>, levantada en tiempos inseguros. En ella se reutilizaron como simples piedras unos <b>setenta fragmentos de estelas funerarias</b> romanas traídas de necrópolis cercanas: una auténtica biblioteca de nombres de quienes vivieron aquí. Excavaron el sitio Romualdo Moro (1891) y, sobre todo, <b>Miguel Ángel García Guinea entre 1963 y 1969</b>.</p><p>Durante años se identificó con <b>Vellica</b>, ciudad citada en las Guerras Cántabras; investigaciones recientes proponen en cambio que fue la ciudad de los <b>Maggavienses</b>, un pueblo cántabro conocido por un pacto de hospitalidad del año 14 d.C.</p><p class=\"dato\"><span>¿Sabías que…?</span>Desde el cerro se ven las formaciones rocosas de Las Tuerces; el lugar forma parte del Geoparque Mundial UNESCO Las Loras.</p>"
+   },
+   "ver_alli": [
+    "Los restos de la muralla tardorromana.",
+    "Las vistas sobre el cañón de La Horadada y Las Tuerces.",
+    "La senda sale de Olleros de Pisuerga: conviene preguntar el camino en el pueblo."
+   ],
+   "fuentes": [
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/castro-monte-cilda",
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/monte-cilda",
+    "https://www.ucm.es/data/cont/docs/106-2016-05-03-15.GómezMartín.pdf",
+    "https://portaldelaciencia.uva.es/documentos/65833b88139b4768e521b5fe",
+    "https://es.wikipedia.org/wiki/Monte_Cildá"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-cornelio-y-san-cipriano-de-revilla-de-santullan",
+   "nombre": "Iglesia de San Cornelio y San Cipriano de Revilla de Santullán",
+   "provincia": "Palencia",
+   "comarca": "Revilla de Santullán (Barruelo de Santullán)",
+   "lat": 42.8903,
+   "lon": -4.2931,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "anio": 1190,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Por fuera es una sencilla iglesia rural de <b>finales del siglo XII</b>: una nave, ábside semicircular y espadaña a los pies. Pero al cruzar el pequeño pórtico del siglo XVI aparece una de las <b>portadas más refinadas del románico palentino</b>, en perfecto estado.</p><p>Sus seis arquivoltas y sus capiteles están llenos de vida: grifos, centauros contra leones, guerreros contra dragones, <b>Sansón</b> y las <b>Tres Marías ante el sepulcro</b>. Una arquivolta entera narra la <b>Última Cena</b>. Y en un extremo, el escultor se retrató a sí mismo trabajando, con la firma <b>«MICAELIS ME FECIT»</b>. La obra se relaciona con el taller de San Andrés de Arroyo.</p><p>Dentro, el ábside conservaba pinturas murales de hacia 1500 atribuidas al llamado <b>Maestro de San Felices</b>; parte de ellas fueron arrancadas y vendidas en los años veinte del siglo pasado y acabaron en Inglaterra. Es <b>Bien de Interés Cultural desde 1993</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>El autorretrato firmado de Micael se considera uno de los más antiguos del arte medieval europeo.</p>"
+   },
+   "ver_alli": [
+    "El autorretrato del escultor Micael en la arquivolta de la Última Cena.",
+    "Los capiteles de la portada: Sansón, el centauro y las Tres Marías.",
+    "Los canecillos del alero con músicos, acróbatas y lectores.",
+    "Dentro, los capiteles del arco triunfal con Daniel entre leones."
+   ],
+   "fuentes": [
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-san-cornelio-san-cipriano",
+    "https://www.terranostrum.es/turismo/palencia/montana-palentina/revilla-de-santullan/iglesia-de-san-cornelio-y-san-cipriano-revilla-de-santullan",
+    "https://www.spain.info/es/lugares-interes/iglesia-san-cornelio-san-cipriano-barruelo-santullan/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-eufemia-de-cozuelos",
+   "nombre": "Iglesia del Monasterio de Santa Eufemia de Cozuelos",
+   "provincia": "Palencia",
+   "comarca": "Olmos de Ojeda (La Ojeda)",
+   "lat": 42.73,
+   "lon": -4.4236,
+   "tipo": "iglesia",
+   "estilo": "Románico y protogótico",
+   "epoca": "Románico",
+   "anio": 1186,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En la vega del río Burejo, a un kilómetro de Olmos de Ojeda, queda la iglesia de un monasterio que ya existía en el siglo XI. En <b>1186</b> Alfonso VIII lo entregó a las <b>Comendadoras de Santiago</b>, monjas de la orden militar, que vivieron aquí hasta 1502. Después pasó a manos privadas.</p><p>Solo se conserva la iglesia, en buena sillería arenisca y con planta de cruz latina. La <b>cabecera de tres ábsides</b> y el crucero son románicos; sobre el crucero se alza una <b>cúpula sobre trompas</b> con el Tetramorfos. La nave, ya de finales del XII o inicios del XIII, se cubre con bóvedas de crucería protogóticas. Unos pasadizos laterales comunicaban la nave con el crucero, quizá para la comunidad de monjas.</p><p>En el crucero hay <b>sepulcros góticos</b>, entre ellos el de doña Sancha Alfonso, hermana de Fernando III. Es <b>Bien de Interés Cultural desde 1931</b> y hoy se usa como finca para conciertos y actos.</p><p class=\"dato\"><span>¿Sabías que…?</span>Alfonso VIII consiguió este monasterio del obispado de Burgos a cambio del de San Pedro de Cervatos.</p>"
+   },
+   "ver_alli": [
+    "El ábside central por fuera, dividido en tres paños con ventanales ajedrezados.",
+    "La cúpula del crucero sobre trompas.",
+    "Los capiteles con águilas y leones afrontados.",
+    "Los sepulcros góticos del crucero."
+   ],
+   "fuentes": [
+    "https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/monumentos/iglesias-ermitas/iglesia-santa-eufemia-cozollos",
+    "https://santamarialareal.org/wp-content/uploads/2020/06/ficha_xiii_santa_eufemia_de_cozuelos_0-919.pdf",
+    "https://www.terranostrum.es/turismo/palencia/paramos-valles/olmos-de-ojeda/iglesia-de-santa-eufemia-de-cozuelos-olmos-de-ojeda",
+    "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Eufemia_de_Cozuelos",
+    "https://www.spain.info/es/lugares-interes/monasterio-santa-eufemia-cozuelos/"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "carrion-de-los-condes",
+   "campos": {
+    "tipo": "monumento",
+    "epoca": "Villas y cascos medievales",
+    "estilo": "Románico, gótico y renacentista",
+    "lat": 42.3385,
+    "lon": -4.6017
+   }
+  },
+  {
+   "id": "monte-bernorio",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Castro de la Edad del Hierro",
+    "lat": 42.7939,
+    "lon": -4.1928,
+    "texto": {
+     "general": "<p>En lo alto del <b>Monte Bernorio</b> (unos 1.170 m), cerca de Villarén de Valdivia y a unos 7 km de Aguilar de Campoo, se levantó una de las ciudades fortificadas más importantes de los <b>cántabros</b>, en concreto de la comunidad de los <b>vellicos</b>. La cima, plana, ocupa unas 28 hectáreas, y el conjunto fortificado supera las 120: es uno de los yacimientos de la Edad del Hierro más extensos de la Península y de Europa.</p><p>Hay huellas humanas desde el Calcolítico (3000-2000 a. C.), pero la gran ocupación es continua desde los <b>siglos IX-VIII a. C.</b> hasta el siglo I a. C. Sus habitantes eran campesinos y guerreros, con una economía agrícola y ganadera adaptada a la montaña. El poblado tiene un complejo sistema de <b>murallas</b> y defensas, varios espacios de culto y una necrópolis. Algunos autores lo identifican con la ciudad cántabra de <b>Bergida</b>.</p><p>Su final llegó con la conquista romana, en las <b>guerras cántabras</b>. A unos 2 km, en El Castillejo, hay un campamento romano de más de 18 hectáreas relacionado con el asedio, quizá de la Legio IV Macedonica; después los romanos convirtieron la acrópolis en un pequeño fuerte (<i>castellum</i>). Las primeras excavaciones se hicieron en 1890, por encargo del marqués de Comillas, y es <b>Bien de Interés Cultural</b> como zona arqueológica desde 1992.</p>"
+    },
+    "ver_alli": [
+     "Visita libre y autoguiada con carteles: sube a la meseta de la cima para entender el tamaño del poblado.",
+     "Fíjate en las murallas y defensas que rodean la parte alta.",
+     "Los objetos hallados se exponen en el Museo de Palencia."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/yacimientos-arqueologicos/monte-bernorio",
+     "https://en.wikipedia.org/wiki/Monte_Bernorio",
+     "https://datos-geodesia.ign.es/Red_Geodesica/Hoja0133/013397.pdf"
+    ]
+   }
+  },
+  {
+   "id": "la-olmeda",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Romano tardío (Bajo Imperio)",
+    "lat": 42.4817,
+    "lon": -4.7364,
+    "texto": {
+     "general": "<p>A orillas del río Carrión, junto a Pedrosa de la Vega, se conserva una de las grandes <b>villas romanas</b> de Hispania: la residencia de un rico propietario del <b>siglo IV d. C.</b>, en pleno Bajo Imperio. Ocupa unos <b>4.400 m²</b> y se organiza alrededor de un patio con cuatro galerías; tenía cuatro torres (dos cuadradas y dos octogonales), un gran pórtico de entrada y, al lado, unas termas.</p><p>De sus <b>35 estancias</b>, 26 conservan <b>mosaicos</b> polícromos: en total, unos <b>1.450 m²</b> que siguen en su sitio original, y doce habitaciones tenían calefacción bajo el suelo (hipocausto). La joya es el salón principal u <i>oecus</i>: allí <b>Aquiles</b> es descubierto por Ulises en la isla de Esciros entre las hijas del rey, con figuras de más de dos metros, y hay una gran escena de <b>caza</b>.</p><p>La villa apareció en 1968 en las tierras de <b>Javier Cortes Álvarez de Miranda</b>, que costeó las excavaciones durante años y en 1984 la donó a la <b>Diputación de Palencia</b>. Es Bien de Interés Cultural desde 1996 y hoy está protegida bajo una cubierta moderna. Alrededor se han localizado tres necrópolis (dos excavadas) con ajuares romanos.</p>"
+    },
+    "ver_alli": [
+     "El salón principal (oecus), con Aquiles descubierto en Esciros y la gran escena de caza.",
+     "Los hipocaustos y los mosaicos de las galerías que rodean el patio.",
+     "Con entrada (reserva en la web de la Diputación de Palencia).",
+     "Completa la visita en el Museo de La Olmeda, en la iglesia de San Pedro de Saldaña."
+    ],
+    "fuentes": [
+     "https://www.spain.info/es/lugares-interes/villa-romana-olmeda/",
+     "https://www.villaromanalaolmeda.com/",
+     "https://en.wikipedia.org/wiki/La_Olmeda",
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/villa-romana-olmeda"
+    ]
+   }
+  },
+  {
+   "id": "la-tejada",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Romano",
+    "lat": 42.3031,
+    "lon": -4.8078,
+    "texto": {
+     "general": "<p>En Quintanilla de la Cueza (Cervatos de la Cueza), junto al Camino de Santiago, se descubrió en <b>1970</b> esta villa romana, que toma su nombre del antiguo pago de La Tejada. Fue una gran explotación agrícola en uso al menos desde el <b>siglo II</b> (algunas fuentes hablan del I); vivió su mejor momento a mediados del siglo III, siguió próspera en el IV y decayó en el V.</p><p>Hoy se pueden recorrer <b>más de 30 estancias</b>, casi todas con mosaico: hojas de cuatro pétalos, octógonos y óvalos, nudos de Salomón, esvásticas, peces, <b>Neptuno</b>, Leda y unos bustos de las <b>Cuatro Estaciones</b>. Un edificio moderno cubre toda la zona excavada.</p><p>Lo más llamativo es la <b>calefacción bajo el suelo (hipocausto)</b>, que se ve en su sitio: el aire caliente circulaba bajo los pavimentos, un antepasado de las «glorias» de las casas castellanas. Las excavaciones, promovidas por la Diputación de Palencia, dieron vajilla fina, terra sigillata y monedas de los siglos I al IV; parte se expone en el Museo de Palencia. Aún no se conoce el tamaño total de la villa.</p>"
+    },
+    "ver_alli": [
+     "CERRADA hasta nuevo aviso por obras de adecuación.",
+     "Cuando reabra: el hipocausto a la vista y el mosaico de las Cuatro Estaciones.",
+     "Mientras tanto, la Villa de La Olmeda, en la misma provincia, y piezas de La Tejada en el Museo de Palencia."
+    ],
+    "fuentes": [
+     "https://www.terranostrum.es/turismo/palencia/villa-romana-de-tejada",
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/villa-romana-tejada"
+    ]
+   }
+  },
+  {
+   "id": "san-juan-banos",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Visigodo",
+    "lat": 41.9208,
+    "lon": -4.4723,
+    "texto": {
+     "general": "<p>En Baños de Cerrato, junto a Venta de Baños, se levanta el monumento más representativo del <b>arte visigodo</b> hispano. Según la tradición, el rey <b>Recesvinto</b> recuperó la salud con las aguas del manantial cercano y mandó levantar aquí una basílica dedicada a San Juan Bautista. Una <b>lápida de consagración</b> sobre el arco triunfal recuerda la fundación, fechada en el año <b>661</b> (algunas lecturas proponen el 652).</p><p>Los muros son de grandes sillares colocados <b>a hueso</b>, sin argamasa. Dentro, los arcos de <b>herradura</b> de trazado visigodo separan las naves y abren el pórtico y la cabecera; descansan en cuatro columnas de mármol reaprovechadas de edificios romanos, con <b>ocho capiteles corintios</b>. La decoración es sobria y de tradición clásica.</p><p>Tras la conquista musulmana quedó en desuso, pero no se destruyó. Más tarde pasó a la reina Urraca, que la donó al monasterio de San Isidro de Dueñas, y fue parroquia hasta el siglo XVII. Ha tenido reformas: la parte alta del muro de la espadaña es de 1865. Muy cerca sigue manando la <b>Fuente de Recesvinto</b>, con dos arcos de herradura; en la zona apareció también un ara romana dedicada a las ninfas del manantial, hoy en el Museo Arqueológico Nacional.</p>"
+    },
+    "ver_alli": [
+     "La lápida de consagración de Recesvinto, sobre el arco triunfal.",
+     "Los arcos de herradura y los capiteles corintios de las columnas de mármol.",
+     "La Fuente de Recesvinto, en la hondonada junto a la iglesia.",
+     "Con entrada (cierra los lunes)."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-san-juan-bautista-san-juan-banos",
+     "https://www.terranostrum.es/turismo/iglesia-de-san-juan-de-banos"
+    ]
+   }
+  },
+  {
+   "id": "san-vicente-cervera",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Rupestre altomedieval",
+    "lat": 42.8577,
+    "lon": -4.4918,
+    "texto": {
+     "general": "<p>Cerca de la confluencia del río Rivera con el Pisuerga, en término de Cervera de Pisuerga, unos ermitaños de la Alta Edad Media tallaron en la roca su refugio y su capilla. El <b>eremitorio rupestre de San Vicente</b> forma parte del conjunto eremítico del Alto Pisuerga, uno de los grandes grupos de este tipo en España.</p><p>Lo principal es una gran <b>sala rectangular</b> con varias entradas y vanos toscos. Al este se excavó una <b>capilla</b>, separada de la sala por un escalón, que quizá se cerraba con un ábside de mampostería. Alrededor hay una <b>necrópolis</b> con unas <b>veinte tumbas</b> talladas en la roca, casi todas antropomorfas, con la forma del cuerpo y la cabeza.</p><p>Se ha relacionado con época visigoda, aunque la necrópolis se ha fechado entre los <b>siglos VIII y XI</b>.</p>"
+    },
+    "ver_alli": [
+     "La gran sala rectangular y, al este, la capilla separada por un escalón.",
+     "Las tumbas antropomorfas talladas en la roca alrededor.",
+     "Al aire libre. Conviene consultar antes las condiciones de visita."
+    ]
+   }
+  },
+  {
+   "id": "san-martin-de-fromista",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico pleno",
+    "lat": 42.2668,
+    "lon": -4.4069,
+    "texto": {
+     "general": "<p>En pleno Camino de Santiago, en Frómista, se alza el edificio que muchos consideran el románico más puro de la provincia de Palencia. Era la iglesia de un <b>monasterio benedictino</b> fundado en <b>1066</b> por <b>doña Mayor</b>, condesa de Castilla y viuda del rey Sancho el Mayor de Navarra. En 1118 la reina Urraca la entregó al monasterio cluniacense de San Zoilo de Carrión. Del monasterio no queda nada; la iglesia, en cambio, ha llegado completa.</p><p>Tiene <b>tres naves</b> de cinco tramos cubiertas con bóveda de cañón, crucero con un <b>cimborrio octogonal</b> —algo raro en Palencia, donde suelen ser cuadrados— y tres ábsides. A los pies, dos <b>torrecillas cilíndricas</b> flanquean la fachada. Se relaciona con las corrientes románicas de <b>Jaca</b>, y el ajedrezado (taqueado jaqués) recorre el edificio a varias alturas.</p><p>Es un catálogo del románico pleno: más de 300 <b>canecillos</b> esculpidos con motivos geométricos, vegetales, animales y humanos, y capiteles con escenas como Adán y Eva o la Adoración de los Magos. Entre <b>1895 y 1901</b> el arquitecto <b>Manuel Aníbal Álvarez</b> la reconstruyó a fondo, en una restauración muy discutida: el cimborrio actual, por ejemplo, no es original. Dentro destaca un crucifijo gótico del siglo XIII.</p>"
+    },
+    "ver_alli": [
+     "Rodea el edificio mirando los canecillos del alero: figuras humanas, animales y motivos vegetales.",
+     "Las dos torres cilíndricas de la fachada y el cimborrio octogonal.",
+     "Dentro, los capiteles (Adán y Eva, la Adoración de los Magos) y el crucifijo gótico del siglo XIII.",
+     "Con entrada."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-san-martin-fromista",
+     "https://www.terranostrum.es/turismo/un-paseo-por-fromista",
+     "https://en.wikipedia.org/wiki/Monastery_of_San_Zoilo"
+    ]
+   }
+  },
+  {
+   "id": "ermita-de-santa-eulalia",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.8103,
+    "lon": -4.3755,
+    "texto": {
+     "general": "<p>En la ladera de un cerro de <b>Barrio de Santa María</b>, pedanía de Aguilar de Campoo, esta pequeña ermita fue la parroquia de un pueblo hoy desaparecido, el Barrio de Santa Olalla, que estaba justo debajo. Es un edificio románico del <b>siglo XII</b>, de buena sillería, considerado uno de los ejemplos más puros y mejor conservados del románico del norte.</p><p>Tiene una sola nave de cuatro tramos con bóveda de cañón apuntado y un ábside semicircular abierto por tres ventanas. La portada, en el muro sur, tiene cuatro arquivoltas apuntadas y conserva sus <b>puertas originales con herrajes románicos</b>. Entre los capiteles hay escenas bíblicas, como la <b>tentación de Adán y Eva</b>. La espadaña de los pies, con remates de bolas, es barroca.</p><p>Su gran tesoro está dentro: unas <b>pinturas murales</b> de hacia 1300 (finales del siglo XIII) dedicadas al <b>Juicio Final</b>, uno de los pocos conjuntos de este tipo conservados en Palencia. En el ábside preside Cristo en Majestad rodeado del Tetramorfos; debajo, los apóstoles sentados y, más abajo, el Paraíso de los justos frente a los castigos del infierno. Se restauraron en 1989, y la ermita es Bien de Interés Cultural desde 1966.</p>"
+    },
+    "ver_alli": [
+     "Las pinturas del ábside: Cristo en Majestad, los apóstoles y, abajo, el Paraíso frente al Infierno.",
+     "La portada sur, con sus puertas y herrajes románicos originales.",
+     "El capitel de Adán y Eva tentados por la serpiente.",
+     "Con entrada; cerrada en invierno."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/ermita-santa-eulalia-u-olalla",
+     "https://www.terranostrum.es/turismo/palencia/ermita-de-santa-eulalia-barrio-de-santa-maria",
+     "https://www.escapadarural.com/que-hacer/barrio-de-santa-maria"
+    ]
+   }
+  },
+  {
+   "id": "san-salvador-de-cantamuda",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico tardío",
+    "lat": 42.9667,
+    "lon": -4.4954,
+    "texto": {
+     "general": "<p>En San Salvador de Cantamuda, en La Pernía, la iglesia es más antigua que el propio pueblo, que creció a su alrededor. Su origen es un monasterio fundado por la condesa <b>María Elvira</b>, sobrina del rey Fernando I, que está enterrada aquí. Fue de patronato real hasta <b>1123</b>, cuando Alfonso VII la entregó a los obispos de Palencia; Alfonso VIII ratificó la donación en 1181. Por eso se la conoce como <b>colegiata</b>.</p><p>El edificio actual es de finales del siglo XII y comienzos del XIII. Tiene planta de cruz latina, con una nave, un crucero cubierto con bóveda de crucería y un cimborrio cuadrado, y <b>tres ábsides</b> comunicados entre sí; el central, decorado con gallones, es de lo más original del románico palentino. Bajo los aleros hay canecillos con figuras humanas sentadas, animales, bolas y volutas, y dentro se conservan excelentes <b>aras de altar</b> románicas sobre columnas.</p><p>Su emblema, y uno de los del románico de la Montaña Palentina, es la monumental <b>espadaña</b> de los pies, de tres cuerpos con troneras dobles, a la que se sube por una torrecilla cilíndrica con escalera de caracol reformada en 1607. La portada sur queda protegida por un pórtico del siglo XVI. Es Bien de Interés Cultural desde 1993.</p>"
+    },
+    "ver_alli": [
+     "La espadaña de tres cuerpos y la torrecilla cilíndrica de la escalera.",
+     "La cabecera de tres ábsides, con el central decorado con gallones, y los canecillos del alero.",
+     "Dentro, las aras de altar románicas sobre columnas.",
+     "Con entrada (cerrada de diciembre a enero)."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-parroquial-san-salvador",
+     "https://www.terranostrum.es/turismo/palencia/montana-palentina/iglesia-de-san-salvador-de-cantamuda",
+     "https://es.hispanopedia.com/wiki/San_Salvador_de_Cantamuda"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-la-real-de-aguilar-de-campoo",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico de transición al gótico",
+    "lat": 42.7962,
+    "lon": -4.2722,
+    "texto": {
+     "general": "<p>A la salida de Aguilar de Campoo hacia Cervera está uno de los grandes monasterios del románico. Una leyenda sitúa allí, a principios del siglo IX, una ermita del abad Opila y sus monjes, a los que el conde Osorio habría dado bienes en <b>822</b>; el monasterio ya aparece documentado en el siglo XI. En <b>1169</b> Alfonso VIII lo entregó a los canónigos <b>premonstratenses</b>.</p><p>Con ellos llegó la gran obra: el claustro y las dependencias hacia 1185, la sala capitular en 1209 y la iglesia hacia 1213; el obispo Mauricio de Burgos consagró el conjunto en <b>1222</b>. La iglesia tiene tres naves con bóvedas de crucería y presbiterio heptagonal; sus partes más antiguas, los brazos del crucero, son de la segunda mitad del siglo XII. Es arte de <b>transición del románico al gótico</b>.</p><p>Con la Desamortización de 1835 empezó un largo abandono. En <b>1871</b> el Estado arrancó varios capiteles del claustro y de la iglesia para el <b>Museo Arqueológico Nacional</b>, y en 1932 uno acabó en el Fogg Art Museum de Harvard. Desde 1978 se emprendió su recuperación, con la primera escuela-taller de España (1985) y un proyecto del arquitecto José María Pérez, «Peridis»; en 1988 recibió el Premio Europa Nostra. Hoy alberga un instituto, la <b>Fundación Santa María la Real</b> y el museo <b>ROM</b> (Románico y Territorio), con réplicas de los capiteles que están en Madrid. Es Bien de Interés Cultural desde 1914.</p>"
+    },
+    "ver_alli": [
+     "El claustro y la sala capitular, sostenida por dos columnas.",
+     "En la iglesia, el museo ROM, con réplicas de los capiteles que se llevaron al Museo Arqueológico Nacional.",
+     "Los tres sepulcros góticos de la iglesia.",
+     "Con entrada."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/aguilar-campoo",
+     "https://www.terranostrum.es/turismo/monasterio-de-santa-maria-la-real-aguilar-de-campoo",
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/monasterio-santa-maria-real"
+    ]
+   }
+  },
+  {
+   "id": "ermita-de-santa-cecilia-aguilar",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.7961,
+    "lon": -4.2623,
+    "texto": {
+     "general": "<p>En la ladera sureste del cerro coronado por el castillo de Aguilar de Campoo, dominando la villa, está esta iglesia románica que en la Edad Media fue una de las <b>tres parroquias</b> de Aguilar, probablemente la primera. Del barrio que tuvo a sus pies no queda nada.</p><p>Se levantó por fases: de <b>finales del siglo XII</b> quedan la <b>torre</b> y el presbiterio; a comienzos del XIII la primitiva iglesia de una nave se amplió a las <b>tres naves</b> actuales, y entre los siglos XVI y XVIII se rehízo la capilla mayor, que pasó de semicircular a cuadrada. La torre, esbelta y prismática, tiene tres cuerpos, con ventanas de arquivoltas sobre columnas y, en lo alto, ventanas dobles.</p><p>Dentro guarda capiteles vegetales y, sobre todo, historiados, con escenas a menudo agrupadas de tres en tres: el sacrificio de Isaac, la venta de José o luchas de guerreros. El más célebre es el de la <b>Matanza de los Inocentes</b>, considerado una de las piezas más bellas del románico del norte.</p>"
+    },
+    "ver_alli": [
+     "El capitel de la Matanza de los Inocentes, en el interior.",
+     "La torre de tres cuerpos, junto a la cabecera.",
+     "Las vistas sobre Aguilar desde la ladera del castillo.",
+     "Suele abrir en temporada."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-ermita-santa-cecilia",
+     "https://tienda.santamarialareal.org/en/productos/detalles/santa-cecilia-de-aguilar-de-campoo-palencia/158"
+    ]
+   }
+  },
+  {
+   "id": "santa-cecilia-de-vallespinoso",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico tardío",
+    "lat": 42.7744,
+    "lon": -4.3676,
+    "texto": {
+     "general": "<p>A las afueras de <b>Vallespinoso de Aguilar</b>, a unos 10 km de Aguilar de Campoo y junto a un viejo camino, esta ermita se encarama sobre un estrecho <b>peñasco</b> que domina el valle. Es una de las estampas más fotografiadas del románico palentino y uno de los monumentos más conocidos del románico del norte. Es obra de <b>finales del siglo XII o comienzos del XIII</b>; la primera noticia escrita es de 1345, en una estadística de la diócesis de Palencia, y pasó a ser ermita cuando se construyó la parroquia del pueblo.</p><p>Es pequeña (unos <b>19 × 9 m</b>) y está hecha con una sillería de arenisca muy cuidada: una nave, presbiterio recto y ábside semicircular con tres ventanas, la central decorada con columnas y capiteles de grifos y arpías. Lo que la hace única es su aire de <b>fortaleza</b>: pegada al muro sur se alza una torre, cuadrada abajo y cilíndrica arriba, con una escalera de caracol y entrada elevada, que quizá tuvo función defensiva. Antes de la ermita ya hubo allí una torre para vigilar el camino, y sus restos se ven junto al ábside.</p><p>La <b>portada sur</b>, apuntada y con varias arquivoltas, tiene los capiteles corridos en friso con escenas bíblicas y del bestiario: centauros luchando, un avaro con su bolsa y un demonio, un moribundo atendido por un sacerdote, <b>San Miguel pesando las almas</b> y las tres Marías ante el sepulcro de Cristo. Dentro, el arco triunfal muestra a <b>Sansón desquijarando al león</b> y grifos enfrentados, y los canecillos del alero tienen motivos geométricos, vegetales, animales y humanos, algunos eróticos.</p><p class=\"dato\"><span>¿Sabías que…?</span>Fue declarada monumento en 1951. En 1958, tras hundirse parte de la bóveda y de los muros norte y oeste, se restauró reutilizando las piedras originales; la cúpula de la torre es de esa obra.</p>"
+    },
+    "ver_alli": [
+     "La silueta sobre el peñasco y la torre de la escalera de caracol, mejor desde el camino.",
+     "La portada sur: busca a San Miguel pesando las almas y a las tres Marías ante el sepulcro.",
+     "Los canecillos del alero y la ventana central del ábside, con grifos y arpías.",
+     "Por fuera, libre; dentro, con entrada en temporada o visita concertada (cerrada en invierno)."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/ermita-santa-cecilia",
+     "https://www.terranostrum.es/turismo/palencia/ermita-de-santa-cecilia-vallespinoso-de-aguilar",
+     "https://www.spain.info/es/lugares-interes/ermita-santa-cecilia/",
+     "https://es.wikipedia.org/wiki/Ermita_de_Santa_Cecilia_(Vallespinoso_de_Aguilar)"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-san-andres-de-arroyo",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico cisterciense",
+    "lat": 42.7005,
+    "lon": -4.3818,
+    "texto": {
+     "general": "<p>En un valle apartado de Santibáñez de Ecla vive todavía una comunidad de <b>monjas cistercienses</b> (bernardas) en el monasterio que fundó en <b>1190</b> doña <b>Mencía de Lara</b>, en tiempos de Alfonso VIII. Es uno de los conjuntos monásticos más bellos del románico palentino.</p><p>La iglesia tiene una sola nave con crucero y tres ábsides, el central poligonal; sus ventanas recuerdan a las de Santa María la Real de Aguilar. Junto al coro, en el muro norte, hay una sala que quizá fue refectorio, con cuatro esbeltas ventanas entre columnillas, y otra estancia con arcos apuntados y capiteles de hojas caladas y entrelazadas.</p><p>La joya es el <b>claustro del siglo XIII</b>, de arcos apuntados sobre columnas pareadas. Una de sus columnas de esquina se considera una de las piezas más importantes del arte románico de Palencia, y la finura de su escultura sirvió de modelo a muchos edificios de la comarca.</p>"
+    },
+    "ver_alli": [
+     "El claustro: busca la columna de esquina, una de las grandes piezas del románico palentino.",
+     "Los capiteles de hojas caladas y entrelazadas.",
+     "La cabecera de la iglesia, con su ábside central poligonal.",
+     "Visita guiada con reserva (de abril a diciembre)."
+    ]
+   }
+  },
+  {
+   "id": "san-juan-de-moarves-de-ojeda",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.7044,
+    "lon": -4.4118,
+    "texto": {
+     "general": "<p>En Moarves de Ojeda, municipio de Olmos de Ojeda, esta iglesia del <b>siglo XII</b> es una de las más conocidas y visitadas del románico del norte de Palencia, y todo se debe a su fachada sur.</p><p>Sobre la portada corre un <b>friso</b> con el <b>Pantocrátor</b> —Cristo en Majestad— en el centro y los <b>apóstoles</b> a los lados, separados por pequeñas arquerías como si cada uno estuviera en su capillita. Es de lo mejor de la escultura románica palentina.</p><p>La portada tiene cinco arquivoltas y un arco de entrada ligeramente rebajado. Sus capiteles son difíciles de interpretar; se han identificado escenas de <b>Sansón</b>, <b>Hércules</b> y la danza ante Herodes.</p>"
+    },
+    "ver_alli": [
+     "El friso del Pantocrátor y los apóstoles sobre la portada.",
+     "Los capiteles de la portada: Sansón, Hércules y la danza ante Herodes.",
+     "Portada libre; interior concertado (en invierno, a través de la Fundación Nartex)."
+    ]
+   }
+  },
+  {
+   "id": "ermita-de-san-pelayo-de-perazancas",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico lombardo (primer románico)",
+    "lat": 42.7757,
+    "lon": -4.4195,
+    "texto": {
+     "general": "<p>A algo más de un kilómetro al sur de <b>Perazancas de Ojeda</b> (Cervera de Pisuerga), donde hubo un poblado hoy desaparecido, se alza una pequeña ermita que es uno de los templos románicos más antiguos de Palencia. Una <b>lápida de consagración</b>, tallada en el dintel de la puerta norte (hoy tapiada), la fecha en la «era MCXIIII», es decir, el año <b>1076</b>, y nombra a San Pelayo y a un rey Alfonso (<i>Ildefonsus</i>) en León.</p><p>Es diminuta, de unos <b>14,4 × 7 m</b>: una nave con techumbre de madera, en parte de mampostería, y un <b>ábside semicircular</b> de fina sillería con bóveda de horno. Por fuera, cuatro medias columnas dividen el ábside en cinco paños, y la cornisa combina el <b>ajedrezado jaqués</b> con <b>arquillos ciegos de tipo lombardo</b>, como en las iglesias del Pirineo oriental: por eso se la tiene por un modelo del románico lombardo. La puerta de los pies se apoya en dos columnas con <b>capiteles prerrománicos</b> reaprovechados, de tradición mozárabe o visigoda.</p><p>Dentro guarda <b>pinturas murales románicas de finales del siglo XII</b>, muy deterioradas y retocadas al temple, cuya calidad se ha comparado con las de San Isidoro de León o Tahull. En el ábside se ven la Majestad del Señor, los apóstoles, la visión de Ezequiel y figuras que representan los meses del año, como un hombre recogiendo bellotas y otro vendimiando; en el arco triunfal, quizá Caín y Abel, un obispo, santos, ángeles y profetas.</p><p class=\"dato\"><span>¿Sabías que…?</span>Es Bien de Interés Cultural desde 1931. En 1958 se restauró, sobre todo para salvar las pinturas, y en 1985 se rehízo una de las columnas del ábside.</p>"
+    },
+    "ver_alli": [
+     "El ábside por fuera: ajedrezado jaqués y arquillos ciegos lombardos bajo el alero.",
+     "Los capiteles prerrománicos reaprovechados en la puerta de los pies.",
+     "La lápida de consagración de 1076, en el dintel de la puerta norte tapiada.",
+     "Dentro, las pinturas del ábside y del arco triunfal (visita concertada)."
+    ],
+    "fuentes": [
+     "https://www.terranostrum.es/turismo/ermita-de-san-pelayo-perazancas-de-ojeda",
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/ermita-san-pelayo-perazancas",
+     "https://www.spain.info/es/lugares-interes/ermita-san-pelayo"
+    ]
+   }
+  },
+  {
+   "id": "san-andres-de-revilla-de-collazos",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico (restos) y obra del siglo XVII",
+    "lat": 42.6303,
+    "lon": -4.5034,
+    "texto": {
+     "general": "<p>Revilla de Collazos, municipio de la comarca de Boedo-Ojeda, tuvo a mediados del <b>siglo XII</b> una iglesia románica de una sola nave, bien orientada y bien construida. En el <b>siglo XVII</b> se transformó casi por completo: se le añadieron capillas laterales, una torre a los pies y un atrio en el lado sur.</p><p>Aquel atrio destruyó buena parte de la <b>portada románica</b>: de ella solo se ven el perfil del lado izquierdo y un pequeño tramo de la imposta decorada. Del ábside quedan las ventanas central y norte, tapiadas, y hay capiteles decorados por dentro y por fuera que se relacionan con el taller escultórico de <b>Aguilar de Campoo</b>.</p><p>La sorpresa llegó a finales del siglo XX, al retirar el altar: apareció una <b>columna-estatua</b>, probablemente de la ventana central del ábside, con un hombre barbado tallado en altorrelieve que toca una <b>vihuela de cinco órdenes</b>, de un detalle finísimo.</p>"
+    },
+    "ver_alli": [
+     "Los restos de la portada románica junto al atrio y la imposta decorada.",
+     "Los capiteles románicos del exterior y del interior.",
+     "Pregunta por la columna-estatua del músico con vihuela hallada bajo el altar.",
+     "Visita concertada."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Revilla_de_Collazos"
+    ],
+    "comarca": "Revilla de Collazos (Boedo-Ojeda)"
+   }
+  },
+  {
+   "id": "san-lorenzo-de-zorita-del-paramo",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico tardío",
+    "lat": 42.6037,
+    "lon": -4.3594,
+    "texto": {
+     "general": "<p>En el centro de Zorita del Páramo, en el Páramo de Boedo, esta iglesia de <b>románico tardío</b> se empezó a finales del siglo XII, se siguió en el XIII y se reformó en los siglos XV y XVI. La torre de los pies, de mampostería con esquinas de sillar, es barroca, de <b>1642</b>.</p><p>Tiene planta de cruz latina, con una nave de cuatro tramos, crucero y ábside. Sobre el crucero se levanta una <b>linterna octogonal</b> con cúpula sobre trompas. El ábside conserva arquerías ciegas de tres lóbulos y <b>pinturas murales</b> de finales del siglo XV con la Virgen sedente y el Tetramorfos.</p><p>Tiene dos portadas muy distintas. La <b>occidental</b>, de comienzos del siglo XIII, tiene ocho arquivoltas y capiteles con plantas, grifos y arpías, con una austeridad de influencia cisterciense. La <b>sur</b>, bajo un pórtico del XVI, es renacentista, con grutescos y un tímpano del Descendimiento. En el alero, los canecillos muestran un guerrero luchando con un dragón, un acróbata y diversos animales. Dentro hay capiteles y una pila bautismal románicos. Es Bien de Interés Cultural desde 1966.</p>"
+    },
+    "ver_alli": [
+     "La portada occidental de ocho arquivoltas, con grifos y arpías.",
+     "Los canecillos: el guerrero contra el dragón y el acróbata.",
+     "Dentro, la linterna del crucero, las pinturas del ábside y la pila bautismal románica.",
+     "Visita concertada."
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-la-blanca-de-villalcazar-de-",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Gótico",
+    "lat": 42.3168,
+    "lon": -4.5425,
+    "texto": {
+     "general": "<p>En Villalcázar de Sirga, en pleno Camino de Santiago, se levanta una iglesia que parece una catedral. El lugar perteneció a las órdenes del <b>Temple</b> y de Santiago, y la obra se empezó a finales del siglo XII y siguió hasta el XIV, con un proyecto tan ambicioso que nunca llegó a terminarse. En 1888 se hundió la parte de los pies, con la fachada, el pórtico y el coro, y en 1890 se cerró con un muro.</p><p>Tiene tres naves —la central, el doble de ancha—, doble crucero y una cabecera con cinco capillas. Se entra por la <b>portada sur</b>, bajo un alto pórtico: arquivoltas con apóstoles y santos bajo doseletes y, encima, un doble <b>friso del siglo XIII</b> con el Pantocrátor y el Tetramorfos, la Adoración de los Magos y los apóstoles.</p><p>En la capilla de Santiago, con bóvedas del XVI y un gran rosetón, están los <b>sepulcros</b> del <b>infante don Felipe</b>, hijo de Fernando III y hermano de Alfonso X, y de su esposa <b>doña Leonor Ruiz de Castro</b> (hacia 1274, atribuidos a Antón Pérez de Carrión), con restos de policromía, escudos y trajes de la época: cumbres de la escultura gótica castellana. Junto a ellos yace un caballero de Santiago, don Juan Pérez. La <b>Virgen Blanca</b>, una imagen sedente del siglo XIII, protagoniza muchas de las <b>Cantigas</b> de Alfonso X el Sabio. Es Bien de Interés Cultural desde 1997.</p>"
+    },
+    "ver_alli": [
+     "El doble friso de la portada sur: Pantocrátor, Epifanía y apóstoles.",
+     "Los sepulcros policromados del infante don Felipe y doña Leonor, en la capilla de Santiago.",
+     "La Virgen Blanca de las Cantigas.",
+     "Con entrada."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-santa-maria-blanca",
+     "https://www.terranostrum.es/turismo/iglesia-santa-maria-la-blanca-villalcazar-de-sirga"
+    ]
+   }
+  },
+  {
+   "id": "santiago-de-carrion-de-los-condes",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.3383,
+    "lon": -4.6034,
+    "texto": {
+     "general": "<p>En Carrión de los Condes, la iglesia de Santiago es casi solo una fachada, pero qué fachada. Es obra de hacia <b>1170-1180</b>, relacionada con escultores de finales del siglo XII —quizá un maestro francés o el maestro Fruchel— y con el románico de Vézelay, Provenza y Borgoña. El templo sufrió un gran incendio durante la Guerra de la Independencia y se reconstruyó en 1849, salvo la fachada de los pies.</p><p>Arriba corre un <b>friso</b> de arquillos con los doce <b>apóstoles</b> en altorrelieve a ambos lados de un <b>Pantocrátor</b> en mandorla rodeado del Tetramorfos. Las figuras, de ropas muy plegadas y caras expresivas, parecen moverse, algo poco habitual en el románico.</p><p>La arquivolta de la portada lleva <b>24 figurillas</b> de profetas, guerreros y <b>oficios medievales</b>: un barbero, un zapatero, un alfarero… Los capiteles muestran escenas de Gloria e Infierno. Desde 1993 la iglesia alberga un <b>Museo de Arte Sacro</b>, y es Bien de Interés Cultural desde 2000.</p>"
+    },
+    "ver_alli": [
+     "El friso del Pantocrátor y los apóstoles: fíjate en los pliegues y las caras.",
+     "La arquivolta de los oficios: busca al barbero, al zapatero y al alfarero.",
+     "Dentro, el Museo de Arte Sacro (con entrada)."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-santiago-62fb",
+     "https://www.terranostrum.es/turismo/iglesia-de-santiago-carrion-de-los-condes"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-san-zoilo",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico y renacentista",
+    "lat": 42.3403,
+    "lon": -4.6111,
+    "texto": {
+     "general": "<p>A las afueras de Carrión de los Condes, el conde <b>Gómez Díaz</b> y su esposa <b>Teresa Peláez</b> fundaron un monasterio dedicado primero a San Juan Bautista. En <b>1047</b> recibió las reliquias de <b>San Zoilo</b> y tomó su nombre. En <b>1076</b> la condesa, ya viuda, lo donó a la abadía francesa de <b>Cluny</b>, y se convirtió en la casa cluniacense más importante de Castilla; en 1118 la reina Urraca le entregó además la iglesia de San Martín de Frómista.</p><p>La iglesia es el <b>panteón de los Banu Gómez</b>, los condes de Carrión que lo fundaron. En 1993 apareció, emparedada en un muro, una portada del románico temprano.</p><p>Lo más espectacular es el <b>claustro renacentista</b>, empezado en 1537 por Juan de Badajoz el Mozo y terminado en 1604, con bustos tallados en las claves de las bóvedas. En el siglo XIX, tras la desamortización, lo compraron los jesuitas, que lo convirtieron en colegio; hoy es también un <b>hotel</b>.</p>"
+    },
+    "ver_alli": [
+     "El claustro renacentista: mira los bustos de las claves de las bóvedas.",
+     "Las tumbas de los condes Banu Gómez, en la iglesia.",
+     "La portada románica aparecida en 1993.",
+     "Con entrada."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Monastery_of_San_Zoilo"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-del-camino",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico (cabecera barroca)",
+    "lat": 42.3374,
+    "lon": -4.6015,
+    "texto": {
+     "general": "<p>Santa María del Camino, o de la Victoria, es el templo más antiguo de Carrión de los Condes, de comienzos del siglo XII (hacia 1130). De sillería, tiene tres naves, crucero y tres ábsides, y su estilo se emparienta con Santiago de Compostela, San Isidoro de León y Saint-Sernin de Toulouse: ecos del Camino de Santiago, que pasa por su puerta.</p><p>La <b>portada sur</b>, con cuatro arquivoltas, es la primera de Palencia con dovelas que muestran figuras humanas y de oficios, y toda ella alude a la leyenda del <b>tributo de las cien doncellas</b>: unos toros salvaron a las jóvenes de Carrión de ser entregadas a los reyes moros. Encima, un friso con la <b>Adoración de los Magos</b>, la llegada ante Herodes y el camino de Belén, flanqueado por Sansón con el león y un jinete que podría ser Santiago.</p><p>En <b>1685</b> se derribó el ábside central y Felipe Berrojo levantó una cabecera barroca, capilla funeraria del obispo fray Juan del Molino Navarrete. Dentro hay una Virgen del siglo XIII y un Cristo del XIV. Es Bien de Interés Cultural desde 2000.</p>"
+    },
+    "ver_alli": [
+     "La portada sur y su alusión al tributo de las cien doncellas.",
+     "El friso de la Epifanía, con Sansón y el jinete a los lados.",
+     "Dentro, la Virgen del siglo XIII y la cabecera barroca de 1685.",
+     "En horario de culto."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-santa-maria-victoria-camino",
+     "https://www.terranostrum.es/turismo/iglesia-de-santa-maria-del-camino-carrion-de-los-condes",
+     "https://es.hispanopedia.com/wiki/Carri%C3%B3n_de_los_Condes"
+    ]
+   }
+  },
+  {
+   "id": "san-miguel-de-rebolledo-de-la-inera",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.7637,
+    "lon": -4.1998,
+    "texto": {
+     "general": "<p>En Rebolledo de la Inera, en el valle de Valdivia (Pomar de Valdivia), esta iglesia parroquial románica comparte un rasgo poco común con Santa Cecilia de Aguilar: su <b>ábside es rectangular</b>, no semicircular.</p><p>Lo mejor está en el <b>arco triunfal</b>, apuntado, que descansa sobre columnas con capiteles de <b>cabezas humanas</b>. En el lado de la Epístola, de sus bocas salen guirnaldas y hojas; en el del Evangelio aparecen bolas, piñas y rostros. Las columnas se apoyan en sencillos plintos circulares.</p>"
+    },
+    "ver_alli": [
+     "El arco triunfal y sus capiteles de cabezas que echan hojas por la boca.",
+     "El ábside rectangular, como el de Santa Cecilia de Aguilar.",
+     "Verano con horario; el resto, concertada."
+    ]
+   }
+  },
+  {
+   "id": "templo-rupestre-de-olleros-de-pisuerga",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Rupestre altomedieval",
+    "lat": 42.7457,
+    "lon": -4.2855,
+    "ver_alli": [
+     "Las dos naves y los dos ábsides tallados en la roca.",
+     "La tumba antropomorfa de la capilla funeraria.",
+     "Por fuera, la espadaña que asoma sobre la peña.",
+     "Abre en temporada (cerrado de diciembre a febrero); reservas a través de la Fundación Nartex (artepalencia.es)."
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-santa-maria-de-mave",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico tardío (borgoñón)",
+    "lat": 42.7232,
+    "lon": -4.274,
+    "texto": {
+     "general": "<p>En Santa María de Mave, junto al Pisuerga y al sur de Aguilar de Campoo, hubo un priorato desde la segunda mitad del siglo IX, fundado por Alfonso III. En <b>1011</b> el conde Sancho García lo unió a San Salvador de <b>Oña</b>, cuyos prioratos adoptaron poco después la regla cluniacense.</p><p>La iglesia actual la construyó doña Sancha Jiménez entre <b>1200 y 1206</b>, como recuerdan un documento y una inscripción interior («ANNIS MILLENIS COMPLETIS ATQVE DVCENTIS»). Es obra de canteros de escuela borgoñona, en sillería de arenisca: <b>tres naves</b> de tres tramos, un crucero muy marcado en altura con <b>cimborrio</b> cuadrado por fuera y linterna octogonal por dentro, y tres ábsides semicirculares. La portada, a los pies, tiene arquivoltas apuntadas con dientes de sierra sobre ocho columnas por lado, y encima una espadaña.</p><p>El priorato duró hasta la Desamortización de 1835, cuando la iglesia pasó a ser parroquia. Las dependencias monásticas son sobre todo del siglo XVIII, con un claustro neoclásico de hacia 1786-1790, y hoy el conjunto, de propiedad privada, se dedica a la hostelería. La iglesia es Bien de Interés Cultural desde 1931.</p>"
+    },
+    "ver_alli": [
+     "El cimborrio sobre el crucero y, dentro, su linterna octogonal.",
+     "La portada de los pies, con dientes de sierra y la espadaña encima.",
+     "La inscripción de la construcción, en el interior.",
+     "Consultar el acceso: el conjunto es de propiedad privada."
+    ],
+    "fuentes": [
+     "https://www.terranostrum.es/turismo/iglesia-de-santa-maria-de-mave"
+    ]
+   }
+  },
+  {
+   "id": "san-pedro-de-becerril-del-carpio",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.7161,
+    "lon": -4.3055,
+    "texto": {
+     "general": "<p>En Becerril del Carpio, pueblo del municipio de Alar del Rey, la antigua parroquia de <b>San Pedro</b> se levanta en mitad del barrio del mismo nombre, al pie del cerro donde hubo un castillo o torre. A su lado se conserva el <b>rollo jurisdiccional</b>, la columna que señalaba la jurisdicción del lugar.</p><p>Es una iglesia románica de construcción modesta. Su típica <b>espadaña</b> se alza sobre la antigua portada románica, hoy tapiada, de la que todavía asoma en parte uno de los capiteles que la flanqueaban.</p>"
+    },
+    "ver_alli": [
+     "La espadaña sobre la portada románica tapiada.",
+     "El capitel que todavía asoma junto a la antigua puerta.",
+     "El rollo jurisdiccional, junto a la iglesia.",
+     "Visita concertada."
+    ]
+   }
+  },
+  {
+   "id": "santa-eulalia-de-paredes-de-nava",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico (torre), gótico y renacentista",
+    "lat": 42.1529,
+    "lon": -4.6939,
+    "texto": {
+     "general": "<p>En Paredes de Nava, la villa natal de Berruguete, la iglesia de Santa Eulalia tiene origen románico —restos de los siglos XII y XIII— pero se rehízo en el primer cuarto del <b>siglo XVI</b>, con tres naves cubiertas por bóvedas de terceletes. Su <b>torre</b>, de origen románico y rehecha en los siglos XVII y XVIII, tiene seis cuerpos y remata en un chapitel de cerámica vidriada.</p><p>El <b>retablo mayor</b> lo tallaron entre 1556 y 1563 <b>Inocencio Berruguete</b> y <b>Esteban Jordán</b>, y reaprovecha tablas de <b>Pedro Berruguete</b> de un retablo anterior (1478-1482), con reyes del Antiguo Testamento y escenas de la vida de la Virgen. En las naves hay un púlpito mudéjar de yeso del siglo XV y una Inmaculada atribuida a Gregorio Fernández.</p><p>Varias salas forman el <b>museo parroquial</b>, integrado en el Museo Territorial <b>Campos del Renacimiento</b>: tablas de Pedro Berruguete procedentes de la iglesia de San Juan, una Virgen con el Niño de Alonso Berruguete, esculturas de Alejo de Vahía y Esteban Jordán, pinturas de Juan de Villoldo y del Maestro de Paredes, y platería. Es Bien de Interés Cultural desde 1931.</p>"
+    },
+    "ver_alli": [
+     "El retablo mayor, con las tablas de Pedro Berruguete.",
+     "La torre de seis cuerpos y su chapitel de cerámica vidriada.",
+     "En el museo, la Virgen con el Niño de Alonso Berruguete y las tablas de Pedro Berruguete.",
+     "Con entrada."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/museo-iglesia-santa-eulalia",
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-santa-eulalia",
+     "https://www.terranostrum.es/turismo/museo-parroquial-de-santa-eulalia-paredes-de-nava"
+    ]
+   }
+  },
+  {
+   "id": "san-hipolito-de-tamara-de-campos",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Gótico tardío",
+    "lat": 42.2033,
+    "lon": -4.393,
+    "texto": {
+     "general": "<p>En Támara de Campos, villa declarada conjunto histórico en 1998, se levanta una iglesia enorme para un pueblo tan pequeño: <b>San Hipólito el Real</b>. Se empezó a finales del <b>siglo XIV</b> y se terminó a comienzos del XVI, entre el gótico final y el Renacimiento. No se sabe bien por qué se construyó tan grande, aunque muchos reyes de Castilla le concedieron privilegios y rentas.</p><p>Es de sillería, con tres naves y tres ábsides, y tres puertas a los pies, una por nave. La torre primitiva se hundió en el siglo XVI; la actual, esbelta, del <b>XVII</b>, tiene cuatro cuerpos de influencia herreriana, lleva en el segundo los escudos de los Reyes Católicos y remata en balaustrada y pináculos con bolas.</p><p>Dentro destacan el <b>coro alto</b> del siglo XV, atribuido a Simón de Colonia, con sillería renacentista; un <b>órgano barroco</b> sostenido por una sola columna; cuatro relieves de finales del XV con la vida de San Hipólito; el retablo mayor barroco, de finales del XVII; una pila bautismal del XV y una Virgen con el Niño del XII. Declarada monumento nacional en 1931, llegó a estar casi en ruinas y se restauró en los años ochenta.</p>"
+    },
+    "ver_alli": [
+     "La torre de cuatro cuerpos con los escudos de los Reyes Católicos.",
+     "El coro alto atribuido a Simón de Colonia y el órgano barroco sobre una sola columna.",
+     "Los relieves de la vida de San Hipólito y el retablo mayor.",
+     "Consultar la visita antes de ir."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-san-hipolito",
+     "https://www.terranostrum.es/turismo/un-paseo-por-tamara-de-campos"
+    ]
+   }
+  }
+ ]
+}

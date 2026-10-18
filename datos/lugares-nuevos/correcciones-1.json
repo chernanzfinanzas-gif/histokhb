@@ -1,0 +1,44 @@
+{
+ "zona": "Correcciones de año y texto aprobadas por montaje",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "castillo-de-loarre",
+   "campos": {
+    "anio": 1033
+   }
+  },
+  {
+   "id": "santiago-de-aguero",
+   "campos": {
+    "anio": 1130
+   }
+  },
+  {
+   "id": "santo-domingo-de-soria",
+   "campos": {
+    "anio": 1170
+   }
+  },
+  {
+   "id": "asuncion-de-duraton",
+   "campos": {
+    "anio": 1200
+   }
+  },
+  {
+   "id": "quintanilla-vinas",
+   "campos": {
+    "anio": 690
+   }
+  },
+  {
+   "id": "nuestra-senora-de-tejadilla",
+   "campos": {
+    "texto": {
+     "general": "<p>Iglesia románica tardía del siglo XIII. Bajo el alero del ábside tiene un buen repertorio de canecillos de gusto popular: clérigos, oficios, animales y seres fantásticos. Dentro, los dos capiteles del arco triunfal enfrentan la virtud y el pecado: uno muestra la Adoración de los Reyes Magos y el otro, sin disimulo, escenas de lujuria. Conserva retablos barrocos.</p>"
+    }
+   }
+  }
+ ]
+}

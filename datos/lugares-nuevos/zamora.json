@@ -1,0 +1,986 @@
+{
+ "zona": "Zamora",
+ "nuevos": [
+  {
+   "id": "castillo-de-zamora",
+   "nombre": "Castillo de Zamora",
+   "provincia": "Zamora",
+   "comarca": "Zamora",
+   "lat": 41.4998,
+   "lon": -5.7564,
+   "tipo": "castillo",
+   "estilo": "Románico y fortificación moderna",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1050,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>En el extremo occidental de la ciudad, junto a la catedral, se alza el <b>castillo de Zamora</b>, la fortaleza que guardaba la «bien cercada». Las crónicas lo atribuyen a Alfonso II, pero los historiadores sitúan su obra más probable en tiempos de <b>Fernando I de León</b>, a mediados del siglo XI; de aquella época quedan muy pocos restos, y la <b>puerta de Santa Columba</b> es ya del siglo XII.</p><p>Tiene <b>planta en forma de rombo</b>, muros de más de dos metros de grosor y un <b>foso</b> profundo que se cruza por un puente que antes era levadizo hasta una puerta de arco apuntado junto a la torre del homenaje. Bajo <b>Felipe V</b> se adaptó a la artillería con terraplenes y nuevos elementos.</p><p>Tras siglos de usos militares y docentes —fue Escuela de Arte y, hasta 2007, Escuela Oficial de Idiomas—, una restauración de cuatro años lo abrió al público en <b>2009</b> con sus jardines renovados. Hoy acoge el espacio dedicado al escultor <b>Baltasar Lobo</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>En sus piedras se han contado unas 600 marcas de cantero de 142 tipos solo en el recinto medio.</p>"
+   },
+   "ver_alli": [
+    "Cruza el foso por el puente hasta la puerta junto a la torre del homenaje.",
+    "Recorre el adarve: hay vistas sobre el Duero y la catedral.",
+    "Busca las marcas de cantero en los sillares.",
+    "Las esculturas de Baltasar Lobo en el interior y los jardines."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Zamora",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Castillo%20de%20Zamora"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-pedro-y-san-ildefonso-zamora",
+   "nombre": "Iglesia de San Pedro y San Ildefonso",
+   "provincia": "Zamora",
+   "comarca": "Zamora",
+   "lat": 41.5004,
+   "lon": -5.751,
+   "tipo": "iglesia",
+   "estilo": "Románico con reformas del siglo XV y barrocas",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Tras la catedral, es la iglesia más grande e importante de Zamora, y arciprestal desde 1500. Se empezó en el <b>siglo XI por orden de Fernando I</b> sobre la antigua iglesia de Santa Leocadia, pero en el <b>siglo XV</b> se transformó por completo: sus tres naves se convirtieron en una sola, amplia, con <b>bóvedas de crucería</b> sostenidas por los arbotantes que se ven desde la calle de San Pedro.</p><p>Del románico quedan el muro sur, parte del norte, el ábside y la portada norte original, escondida tras la neoclásica de finales del XVIII. Entre 1719 y 1723 <b>Joaquín Benito Churriguera</b> reformó la torre y levantó la portada occidental barroca.</p><p>Su gran tesoro son las reliquias: los restos de <b>san Ildefonso de Toledo</b>, hallados aquí en 1260 durante unas obras, y el cuerpo de <b>san Atilano</b>, primer obispo y patrón de Zamora. Desde 1496 los de san Ildefonso descansan en lo alto de la capilla mayor.</p><p class=\"dato\"><span>¿Sabías que…?</span>Toledo reclamó durante siglos las reliquias de san Ildefonso, e incluso hubo intentos de robarlas; en el siglo XV se fundó una cofradía de caballeros, de hábito verde, para custodiarlas.</p>"
+   },
+   "ver_alli": [
+    "La amplia nave única con bóvedas de crucería.",
+    "Los arbotantes exteriores en la calle de San Pedro.",
+    "La portada barroca de Churriguera hacia la calle del Arcipreste.",
+    "Lo alto de la capilla mayor, donde reposan las reliquias de san Ildefonso."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Pedro_y_San_Ildefonso",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%20de%20San%20Ildefonso%2C%20Zamora"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santiago-del-burgo-zamora",
+   "nombre": "Iglesia de Santiago del Burgo",
+   "provincia": "Zamora",
+   "comarca": "Zamora",
+   "lat": 41.5051,
+   "lon": -5.7443,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "anio": 1176,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Levantada en el barrio del <b>Burgo</b>, el primer ensanche de Zamora fuera de las murallas, esta iglesia aparece ya citada en <b>1176</b>. Se empezó en la segunda mitad del siglo XII y se terminó en el XIII, y es, junto a la catedral, la única de la ciudad que conserva sus <b>tres naves con cabecera triple</b>, al modo del románico hispano.</p><p>Su planta basilical mide unos 12 metros de ancho por 26 de largo, con bóveda de cañón en la nave central y de arista en las laterales. Por fuera destaca la <b>portada sur</b>, la única abierta, con tres arquivoltas y tímpano liso, coronada por un original <b>rosetón de seis hexágonos</b> en torno a un círculo; en el hastial oeste hay otro de «rueda de carro».</p><p>Dentro, entre capiteles vegetales, aparecen escenas historiadas: <b>David con la honda</b>, <b>Sansón y el león</b>, caballeros y aves picoteando racimos.</p><p class=\"dato\"><span>¿Sabías que…?</span>Hasta 1888 estuvo adscrita a la diócesis de Santiago de Compostela, y fue Monumento Nacional en 1915.</p>"
+   },
+   "ver_alli": [
+    "El rosetón de hexágonos sobre la portada sur.",
+    "Las tres naves y la cabecera triple.",
+    "Los capiteles de David y de Sansón con el león.",
+    "El rosetón de rueda de carro del hastial oeste."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santiago_del_Burgo_(Zamora)",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%20de%20Santiago%2C%20Calle%20de%20Santa%20Clara%2C%20Zamora"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-juan-de-puerta-nueva-zamora",
+   "nombre": "Iglesia de San Juan de Puerta Nueva",
+   "provincia": "Zamora",
+   "comarca": "Zamora",
+   "lat": 41.5034,
+   "lon": -5.747,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "anio": 1150,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Cierra el costado occidental de la <b>plaza Mayor</b> y debe su apodo a la cercana <b>Porta Nova</b>, abierta en 1171 en el primer recinto amurallado. Es una iglesia románica de mediados del siglo XII, de <b>tres naves y cabecera recta</b>, construida en sillería arenisca, y con portadas al oeste y al sur, donde luce un gran rosetón.</p><p>En 1559 se hundieron la torre y gran parte de las cubiertas; la reforma se encargó a <b>Rodrigo Gil de Hontañón</b> y la torre se rehizo en 1579. A finales del siglo XIX el Ayuntamiento quiso derribarla para ensanchar la plaza, pero la protesta del obispo la salvó.</p><p>En la torre gira una réplica del <b>Peromato</b>, la veleta con figura de guerrero medieval cuyo original guarda el Museo de Zamora; y junto a la iglesia, desde 1996, la estatua del <b>Merlú</b>, el personaje de la Semana Santa, de Antonio Pedrero.</p><p class=\"dato\"><span>¿Sabías que…?</span>En Zamora se dice «ya está vuelto el Peromato» de quien ha cambiado de parecer.</p>"
+   },
+   "ver_alli": [
+    "La portada sur con su rosetón.",
+    "La veleta del Peromato en lo alto de la torre.",
+    "La escultura del Merlú en la plaza Mayor."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Juan_Bautista_(Zamora)",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%20de%20San%20Juan%2C%20Plaza%20Mayor%2C%20Zamora"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-maria-la-nueva-zamora",
+   "nombre": "Iglesia de Santa María la Nueva",
+   "provincia": "Zamora",
+   "comarca": "Zamora",
+   "lat": 41.5033,
+   "lon": -5.7493,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "anio": 1158,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Su nombre guarda la memoria de una revuelta. A comienzos del siglo XII se levantó aquí la iglesia de <b>San Román</b>, y en <b>1158</b>, durante el <b>Motín de la Trucha</b>, el pueblo la incendió con los nobles reunidos dentro. Según documentos del siglo XV, todo empezó porque un despensero noble quiso arrebatar una trucha a Benito Pellitero, hijo de un zapatero.</p><p>Reconstruida por orden real, cambió su nombre por el de <b>Santa María la Nueva</b>. Del templo primitivo se conservan la cabecera, de románico pleno, y la fachada sur. Por dentro, el <b>ábside</b> se decora con siete arcos sobre columnas finas y tres ventanales.</p><p>Guarda una pila bautismal del siglo XIII con el bautismo de Cristo y apóstoles, y el <b>Jesús Yacente</b> tallado hacia 1636 por Francisco Fermín. Desde 1380 albergó el Archivo de Hijosdalgo.</p><p class=\"dato\"><span>¿Sabías que…?</span>En el muro norte, tras una rejilla gótica, hay una hendidura por la que, según la tradición, salieron las Sagradas Formas durante el incendio.</p>"
+   },
+   "ver_alli": [
+    "El ábside interior con sus siete arcos.",
+    "La pila bautismal del siglo XIII.",
+    "La hendidura enrejada del muro norte.",
+    "La estatua del barandales frente al ábside."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_la_Nueva_(Zamora)",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%20de%20Santa%20Mar%C3%ADa%20la%20Nueva%2C%20Zamora"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-cipriano-zamora",
+   "nombre": "Iglesia de San Cipriano",
+   "provincia": "Zamora",
+   "comarca": "Zamora",
+   "lat": 41.5014,
+   "lon": -5.7482,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "anio": 1093,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Pertenece al <b>grupo primitivo</b> del románico zamorano, anterior a la catedral, junto a Santo Tomé, Santiago de los Caballeros, San Claudio de Olivares y Santa María la Nueva. Una inscripción demuestra que ya existía una iglesia a finales del siglo XI (1093), y en el siglo XII se rehízo el lado sur y se levantó la torre.</p><p>Originalmente tenía tres naves, hoy reducidas a una, y conserva su <b>cabecera de triple capilla recta</b> con bóvedas de cañón. La <b>portada sur</b>, de tres arquivoltas, es la única original. En distintos puntos del edificio hay <b>relieves empotrados</b> de procedencia desconocida.</p><p>La torre, en la esquina suroeste, pudo servir de atalaya sobre la antigua muralla. Hoy está retirada del culto y acoge conciertos del festival <b>Pórtico de Zamora</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>Las rejas de las ventanas de la cabecera se consideran de los primeros trabajos de forja conservados en España.</p>"
+   },
+   "ver_alli": [
+    "Las rejas de forja de las ventanas de la cabecera.",
+    "Los relieves antiguos empotrados en los muros.",
+    "La portada sur, la única original."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Cipriano_(Zamora)",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%20de%20San%20Cipriano%2C%20Zamora"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santiago-de-los-caballeros-zamora",
+   "nombre": "Iglesia de Santiago de los Caballeros",
+   "provincia": "Zamora",
+   "comarca": "Zamora",
+   "lat": 41.4996,
+   "lon": -5.7583,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "anio": 1168,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Fuera de las murallas, frente al castillo y cerca del barrio de Olivares, se esconde la que quizá sea la <b>más pequeña de las iglesias románicas de Zamora</b>. También se la llama Santiago el Viejo o de las Eras, y la primera referencia documental es de <b>1168</b>.</p><p>Es un templo de <b>una sola nave y ábside semicircular</b>, de arenisca local, con una sencilla portada al sur. Su encanto está en su sencillez y en el entorno, junto a la ribera del Duero.</p><p>Su nombre viene de una tradición que recoge el Romancero: aquí habría velado armas el <b>Cid Campeador</b> antes de ser armado caballero por el rey <b>Fernando I</b>. Es una leyenda, no un hecho documentado, pero ha dado fama al lugar.</p><p class=\"dato\"><span>¿Sabías que…?</span>Cada 25 de julio, fiesta de Santiago, el templo se abría con una pequeña romería.</p>"
+   },
+   "ver_alli": [
+    "Su tamaño diminuto y el ábside semicircular.",
+    "La sencilla portada sur.",
+    "La vista del castillo desde la explanada."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santiago_El_Viejo",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%20de%20Santiago%20de%20los%20Caballeros%2C%20Zamora"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santo-tome-zamora",
+   "nombre": "Iglesia de Santo Tomé (Museo Diocesano)",
+   "provincia": "Zamora",
+   "comarca": "Zamora",
+   "lat": 41.5014,
+   "lon": -5.7427,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "anio": 1150,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Esta iglesia románica del <b>siglo XII</b>, en el barrio de la Horta, pertenece al grupo más antiguo de templos zamoranos. Conserva su <b>cabecera de tres ábsides rectangulares</b> —el central mucho mayor y casi cuadrado— y buena parte del muro norte original.</p><p>Debió tener tres naves, pero se reconstruyó con una sola. Por fuera destacan los contrafuertes de la cabecera y la espadaña de la fachada oeste; la decoración de la cabecera, dentro y fuera, es lo más notable del edificio.</p><p>Tras una restauración integral entre 2009 y 2010, desde el <b>13 de julio de 2012</b> alberga el <b>Museo Diocesano de Zamora</b>, con piezas de arte sacro de la diócesis.</p>"
+   },
+   "ver_alli": [
+    "La cabecera de tres ábsides rectangulares.",
+    "La decoración de la capilla mayor.",
+    "Las piezas de arte sacro del Museo Diocesano."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santo_Tom%C3%A9_(Zamora)",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%20de%20Santo%20Tom%C3%A9%2C%20Zamora"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-claudio-de-olivares-zamora",
+   "nombre": "Iglesia de San Claudio de Olivares",
+   "provincia": "Zamora",
+   "comarca": "Zamora",
+   "lat": 41.4976,
+   "lon": -5.7551,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "anio": 1176,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Pegada al <b>Duero</b>, en el barrio de Olivares, es una iglesia románica pequeña, de nave irregular y <b>ábside ultrasemicircular</b>. Algunos autores sitúan su construcción a comienzos del siglo XII, y la primera mención documental es de <b>1176</b>.</p><p>Su cercanía al río le ha costado cara: las crecidas derribaron varias veces el muro sur, que se rehízo y en una de esas reconstrucciones perdió su portada. En 1910 se reparó y, medio siglo después de ser declarada monumento en 1931, se restauró por completo devolviendo al muro norte su altura original.</p><p>Aquí se venera el <b>Cristo del Amparo</b>, que la Hermandad de la Penitencia saca en procesión la noche del Miércoles Santo.</p>"
+   },
+   "ver_alli": [
+    "El ábside en forma de herradura.",
+    "El muro sur, rehecho tras las riadas del Duero.",
+    "El paseo junto al río y las aceñas de Olivares."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Claudio_de_Olivares",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%20de%20San%20Claudio%20de%20Olivares%2C%20Zamora"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "puente-de-piedra-zamora",
+   "nombre": "Puente de Piedra de Zamora",
+   "provincia": "Zamora",
+   "comarca": "Zamora",
+   "lat": 41.4991,
+   "lon": -5.7481,
+   "tipo": "monumento",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "anio": 1167,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Durante siglos fue la gran entrada a Zamora desde el sur. Un documento del <b>28 de abril de 1167</b> ya habla del «puente nuevo», y la obra románica se terminaría seguramente en el siglo XIII. Formaba parte de la <b>Vía de la Plata</b>.</p><p>En la Edad Media tenía <b>22 arcos apuntados</b>; hoy conserva <b>quince</b>. Sus tajamares, espolones y <b>óculos de alivio</b> ayudaban a resistir las riadas del Duero, que en 1556 y 1597 causaron graves daños. En cada extremo se alzaba una <b>torre de tres pisos</b> para vigilar y cobrar el portazgo.</p><p>La gran reforma de <b>1905-1907</b>, dirigida por Luis de Justo, eliminó las torres, las almenas y siete vanos; Gómez Moreno la llamó un «atentado artístico». Desde 2013, con el Puente de los Poetas, es <b>peatonal</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>La veleta de una de sus torres desaparecidas, la de La Gobierna, se conserva en el Museo de Zamora.</p>"
+   },
+   "ver_alli": [
+    "Los arcos apuntados y los óculos de alivio.",
+    "La vista de la catedral y el caserío desde el centro del puente.",
+    "Los tajamares que cortan la corriente."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Puente_de_Piedra_(Zamora)",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Puente%20de%20Piedra%2C%20Zamora"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "puerta-de-dona-urraca-zamora",
+   "nombre": "Puerta de Doña Urraca",
+   "provincia": "Zamora",
+   "comarca": "Zamora",
+   "lat": 41.5045,
+   "lon": -5.7487,
+   "tipo": "monumento",
+   "estilo": "Románico",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Es una de las aberturas del <b>primer cinturón de murallas</b> de Zamora, la ciudad que el romancero llamó «la bien cercada». Un arco de medio punto, flanqueado por <b>dos grandes torreones</b>, da paso a una calle estrecha del interior.</p><p>Su nombre popular evoca a <b>Urraca</b>, hija de Fernando I y señora de Zamora durante el cerco de 1072, cuando su hermano Sancho II quiso arrebatarle la ciudad. El romancero sitúa aquí su entrevista con el Cid; un relieve muy gastado muestra a la reina asomada a la ventana de su palacio.</p><p>También se ha llamado puerta de Zambranos, de San Bartolomé o de la Reina. Fue declarada monumento nacional el <b>4 de agosto de 1874</b>, junto con la puerta de San Torcuato y el lienzo de muralla vecino.</p>"
+   },
+   "ver_alli": [
+    "Los dos torreones que flanquean el arco.",
+    "El relieve de la reina en su ventana.",
+    "El lienzo de muralla adyacente."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Puerta_de_Do%C3%B1a_Urraca",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Puerta%20de%20Do%C3%B1a%20Urraca%2C%20Zamora"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-maria-de-la-horta-zamora",
+   "nombre": "Iglesia de Santa María de la Horta",
+   "provincia": "Zamora",
+   "comarca": "Zamora",
+   "lat": 41.5014,
+   "lon": -5.7445,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "anio": 1190,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>En el barrio bajo de la Horta, junto al Duero, se levanta este templo románico de finales del siglo XII, de <b>sillería caliza</b>, nave única de tres tramos y cabecera semicircular. Durante siglos fue la <b>casa matriz de la rama castellana de la Orden de San Juan de Jerusalén</b>, y residencia del gran prior de Castilla hasta el siglo XVI.</p><p>Su <b>torre</b>, a los pies, conserva tres cuerpos originales; los dos superiores, abovedados, guardaban el archivo de la Orden, que a principios del siglo XX se repartió entre la Biblioteca Nacional y Simancas. Entre 1534 y 1537 los caballeros fueron sustituidos por monjas.</p><p>Tras la desamortización, el convento fue fábrica de electricidad (1896) y de alcohol; en su solar hay hoy un hotel. Dentro destaca la <b>capilla funeraria con bóveda estrellada</b> de 1495.</p><p class=\"dato\"><span>¿Sabías que…?</span>Es una de las iglesias con más marcas de cantero de Zamora: 866 signos de 244 tipos.</p>"
+   },
+   "ver_alli": [
+    "La torre que guardó el archivo sanjuanista.",
+    "El nártex de la portada oeste.",
+    "La bóveda estrellada de la capilla funeraria.",
+    "La chimenea de la antigua fábrica de electricidad."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_de_la_Horta",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%20de%20Santa%20Mar%C3%ADa%20de%20la%20Horta%2C%20Zamora"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-isidoro-zamora",
+   "nombre": "Iglesia de San Isidoro",
+   "provincia": "Zamora",
+   "comarca": "Zamora",
+   "lat": 41.5003,
+   "lon": -5.754,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "anio": 1178,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>En lo alto del primer recinto amurallado, cerca de la catedral, esta pequeña iglesia románica se fecha hacia <b>1178</b>. La tradición la relaciona con el paso por Zamora de las <b>reliquias de san Isidoro</b> en 1066, camino de León, aunque el edificio es un siglo posterior.</p><p>Tiene <b>una sola nave de tres tramos</b>, contrafuertes por todo el exterior y portadas de arcos concéntricos con jambas lisas, poco habituales. Su interior se conserva prácticamente como era. Lo más antiguo es el arco triunfal apuntado y el hastial con rosetón; la espadaña es del siglo XIX.</p><p>Sobre la puerta hay un pequeño busto que suele interpretarse como un ángel.</p>"
+   },
+   "ver_alli": [
+    "El busto sobre la puerta de entrada.",
+    "El hastial con rosetón.",
+    "El interior casi intacto de nave única."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Isidoro_(Zamora)",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%20de%20San%20Isidoro%2C%20Zamora"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-lorenzo-el-real-toro",
+   "nombre": "Iglesia de San Lorenzo el Real",
+   "provincia": "Zamora",
+   "comarca": "Toro",
+   "lat": 41.5211,
+   "lon": -5.3925,
+   "tipo": "iglesia",
+   "estilo": "Mudéjar",
+   "epoca": "Mudéjar",
+   "anio": 1190,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Considerada la <b>iglesia más antigua de Toro</b> y la mejor conservada de su estilo, se levantó a finales del siglo XII. Su <b>portada sur</b>, de ladrillo dispuesto en esquinillas, tendidos y a sardinel formando frisos, es uno de los mejores ejemplos del <b>mudéjar castellano-leonés</b>.</p><p>Por dentro, las bóvedas originales de la capilla mayor quedaron ocultas a finales del siglo XV bajo la crucería actual. De esa época es el <b>retablo gótico pintado por Fernando Gallego</b>, el gran maestro hispanoflamenco.</p><p>El apellido «el Real» le viene de los enterramientos de la familia Castilla-Fonseca, descendientes de Pedro I el Cruel: el <b>sepulcro gótico flamenco</b> de Pedro de Castilla y Beatriz de Fonseca preside el templo.</p>"
+   },
+   "ver_alli": [
+    "La portada sur de ladrillo con frisos de esquinillas.",
+    "El retablo de Fernando Gallego.",
+    "El sepulcro de Pedro de Castilla y Beatriz de Fonseca."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Lorenzo_el_Real_(Toro)",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%20de%20San%20Lorenzo%20el%20Real%2C%20Toro"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "alcazar-de-toro",
+   "nombre": "Alcázar de Toro",
+   "provincia": "Zamora",
+   "comarca": "Toro",
+   "lat": 41.5192,
+   "lon": -5.3917,
+   "tipo": "castillo",
+   "estilo": "Medieval",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>En un alto sobre la vega, a unos 110 metros del Duero, el <b>alcázar de Toro</b> defendía la ciudad. Su origen se remonta al siglo X, aunque las numerosas reconstrucciones lo han hecho más reciente. Es de <b>planta cuadrada</b>, con murallas flanqueadas por <b>siete torreones</b>.</p><p>Fue residencia de <b>Juan II</b> cuando acudía a las Cortes y de los <b>Reyes Católicos</b>. Aquí ocurrió, el <b>16 de enero de 1356</b>, una de las matanzas más crueles de su tiempo: Pedro I mandó matar a varios nobles que acompañaban a su madre, María de Portugal; la crónica de López de Ayala cuenta que la reina cayó al suelo como muerta.</p><p>Tuvo protagonismo en la guerra de Sucesión castellana, con la <b>batalla de Toro</b> del 1 de marzo de 1476. Desde el siglo XVI inició un lento declive, y en 1936 sirvió de cárcel para más de doscientos presos.</p>"
+   },
+   "ver_alli": [
+    "Los siete torreones de la muralla.",
+    "Las vistas sobre la vega del Duero.",
+    "Su posición en la acrópolis de la ciudad, cerca de la colegiata."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Alc%C3%A1zar_de_Toro",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Alc%C3%A1zar%2C%20Toro"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "torre-del-caracol-benavente",
+   "nombre": "Torre del Caracol (castillo de Benavente)",
+   "provincia": "Zamora",
+   "comarca": "Benavente",
+   "lat": 41.9981,
+   "lon": -5.6814,
+   "tipo": "castillo",
+   "estilo": "Gótico y renacentista",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1510,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Es uno de los pocos restos en pie del <b>castillo-palacio de los Pimentel</b>, condes de Benavente, que en su apogeo fue uno de los alcázares más suntuosos de España. Sus jardines ocupaban buena parte del valle del Órbigo.</p><p>La torre, levantada a <b>principios del siglo XVI</b> por el IV y V conde, mezcla el <b>gótico y el renacimiento</b>, y en su fachada se ven aún los escudos de los Pimentel. Las tropas francesas destruyeron la mayor parte del castillo durante la Guerra de la Independencia.</p><p>Restaurada, hoy forma parte del <b>Parador de Benavente</b>. En su planta principal hay un <b>artesonado mudéjar</b> traído del desaparecido convento de San Román del Valle.</p>"
+   },
+   "ver_alli": [
+    "Los escudos de los Pimentel en la fachada.",
+    "El artesonado mudéjar del salón principal.",
+    "Las vistas sobre la vega del Órbigo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Torre_del_Caracol",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Torre%20del%20Caracol%2C%20Benavente"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-juan-del-mercado-benavente",
+   "nombre": "Iglesia de San Juan del Mercado",
+   "provincia": "Zamora",
+   "comarca": "Benavente",
+   "lat": 42.0038,
+   "lon": -5.6777,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "anio": 1181,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>En 1181 doña Aldonza, hija de los condes Osorio Martínez y Teresa Fernández, construía en Benavente con los Hospitalarios una iglesia «de sillares de piedra cuadrados»: es el origen de este templo románico, de <b>tres naves con cubierta de madera</b> y <b>triple ábside semicircular</b>.</p><p>Su joya es la <b>portada sur</b>: el tímpano muestra la <b>Epifanía</b>, con la Virgen y el Niño en el centro, los Reyes Magos ofreciendo sus dones y san José dormitando apoyado en un bastón. Seis profetas, entre ellos Moisés y David, se adosan a las columnas, y se ha comparado con el Pórtico de la Gloria.</p><p>Dentro guarda un retablo hispanoflamenco atribuido a un discípulo de Juan de Borgoña y esculturas de iglesias desaparecidas de la villa.</p><p class=\"dato\"><span>¿Sabías que…?</span>Se han contado unas 2830 marcas de cantero de 533 tipos distintos.</p>"
+   },
+   "ver_alli": [
+    "El tímpano de la Epifanía con san José dormido.",
+    "Los profetas de la portada sur.",
+    "El triple ábside por fuera.",
+    "El retablo hispanoflamenco del muro norte."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Juan_del_Mercado_(Benavente)",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%20de%20San%20Juan%20del%20Mercado%2C%20Benavente"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castrotorafe",
+   "nombre": "Castrotorafe",
+   "provincia": "Zamora",
+   "comarca": "San Cebrián de Castro",
+   "lat": 41.7236,
+   "lon": -5.7969,
+   "tipo": "castillo",
+   "estilo": "Medieval",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1129,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Sobre un escarpe junto al <b>Esla</b>, hoy embalse de Ricobayo, quedan las ruinas de una villa medieval abandonada. Documentada en <b>1129</b>, cuando recibió el fuero de Zamora, pasó en 1176 a la <b>Orden de Santiago</b>. Sus orígenes podrían estar en la mansión romana de Vico Aquario, en la Vía de la Plata.</p><p>La cerca rodeaba toda la villa con más de un kilómetro de perímetro. En su esquina noroeste se alza el <b>castillo</b>, probablemente anterior a 1319, con dos recintos: el exterior de mampostería con cubos en las esquinas y la puerta de la Coraja, y el interior, de sillarejo, hoy completamente arruinado.</p><p>La despoblación empezó en el siglo XV con el derrumbe del puente; en 1688 la villa estaba «arrasada y sin habitación alguna» salvo la iglesia. En 2010 se hundió uno de los cubos, y figura en la Lista Roja del Patrimonio de Hispania Nostra.</p>"
+   },
+   "ver_alli": [
+    "Los cubos del castillo en la esquina noroeste.",
+    "Los restos de la cerca de la villa.",
+    "La vista sobre el embalse del Esla."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castrotorafe",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Castillo%20de%20Castrotorafe"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-maria-de-tabara",
+   "nombre": "Iglesia de Santa María de Tábara",
+   "provincia": "Zamora",
+   "comarca": "Tábara",
+   "lat": 41.8268,
+   "lon": -5.9581,
+   "tipo": "iglesia",
+   "estilo": "Mozárabe, románico y moderno",
+   "epoca": "Prerrománico y Alta Edad Media",
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Su <b>torre</b>, junto a la carretera, es el emblema de Tábara y el resto del monasterio fundado por <b>Froila</b> en tiempos de Alfonso III. En su base se conserva la única estancia del monasterio original, abierta a la iglesia por un <b>arco de herradura sobre columnas</b> de claro sabor mozárabe.</p><p>En ese monasterio los monjes <b>Magio y Emeterio</b> copiaron e iluminaron el <b>Beato de Tábara</b>, el comentario del Apocalipsis fechado en <b>970</b>, uno de los grandes manuscritos de la Alta Edad Media hispana.</p><p>La iglesia actual se empezó en época románica —de entonces son las puertas norte y sur— y se terminó en 1761, con tres naves y crucero con bóveda esférica. La torre remata en dos cuerpos de campanas.</p>"
+   },
+   "ver_alli": [
+    "La torre con sus dos cuerpos de campanas.",
+    "El arco de herradura en la estancia de la base de la torre.",
+    "Las portadas románicas norte y sur."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_(T%C3%A1bara)",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%20de%20Santa%20Mar%C3%ADa%2C%20T%C3%A1bara"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-villalonso",
+   "nombre": "Castillo de Villalonso",
+   "provincia": "Zamora",
+   "comarca": "Villalonso",
+   "lat": 41.6007,
+   "lon": -5.2969,
+   "tipo": "castillo",
+   "estilo": "Gótico (escuela de Valladolid)",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1470,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>En la Tierra del Vino, este es uno de los <b>castillos-palacio del siglo XV</b> mejor conservados de la provincia, de la llamada escuela de Valladolid. Se asienta sobre una obra anterior de la <b>Orden de Alcántara</b>, y lo levantó el linaje de los <b>Ulloa</b>: Juan de Ulloa obtuvo el señorío de la villa en 1470 y murió en 1476 defendiendo el castillo de Toro.</p><p>Muros de sillería con cubos en las esquinas, matacanes, garitones y una <b>torre del homenaje</b> almenada en el lienzo norte; sobre la puerta figuran los escudos de los Ulloa y de María Sarmiento. El foso del lado este, ampliado a principios del siglo XVI, llega a cuatro metros de profundidad.</p><p>Fue restaurado entre <b>2006 y 2011</b>, y las excavaciones hallaron vajillas de los siglos XV y XVI y silos de la época de la Orden de Alcántara.</p><p class=\"dato\"><span>¿Sabías que…?</span>En los años setenta se rodó aquí «Robin y Marian», con Sean Connery y Audrey Hepburn.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje con sus matacanes.",
+    "Los escudos sobre la puerta.",
+    "El foso revestido de sillares del lado este."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Villalonso",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Castillo%20de%20Villalonso"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-maria-la-real-la-hiniesta",
+   "nombre": "Iglesia de Santa María la Real de La Hiniesta",
+   "provincia": "Zamora",
+   "comarca": "La Hiniesta",
+   "lat": 41.5524,
+   "lon": -5.799,
+   "tipo": "iglesia",
+   "estilo": "Gótico",
+   "epoca": "Gótico",
+   "anio": 1290,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Cuenta la leyenda que el rey <b>Sancho IV</b>, cazando, siguió a su halcón hasta una perdiz y encontró entre la retama —la <b>hiniesta</b>— una pequeña imagen de la Virgen. Mandó construir aquí un templo y fundar una población; el documento que lo narra es de <b>1290</b>.</p><p>Es una de las escasas pero importantes muestras del <b>gótico</b> en la provincia, dirigida por el maestro cantero Pedro Vázquez: una nave de cinco tramos y cabecera rectangular, con un gran portal de época de los Reyes Católicos que cubre el atrio sur.</p><p>Su <b>portada</b> es lo más destacado: abajo, la infancia de Cristo con los Reyes Magos ante Herodes y la Adoración; arriba, <b>Cristo Juez</b> con la Virgen, san Juan y dos ángeles. Dentro hay pinturas murales tras el retablo mayor y una <b>Virgen embarazada</b> de piedra.</p>"
+   },
+   "ver_alli": [
+    "El tímpano con la Adoración y Cristo Juez.",
+    "Las estatuas de piedra de la Virgen embarazada y san Gabriel.",
+    "Las pinturas murales tras el retablo mayor."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_la_Real_(La_Hiniesta)",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%20de%20Santa%20Mar%C3%ADa%20la%20Real%2C%20La%20Hiniesta"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-alba-aliste",
+   "nombre": "Castillo de Alba",
+   "provincia": "Zamora",
+   "comarca": "Losacino (Aliste)",
+   "lat": 41.6582,
+   "lon": -6.0675,
+   "tipo": "castillo",
+   "estilo": "Medieval",
+   "epoca": "Castillos y fortalezas",
+   "anio": 960,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>Sobre un cerro que domina el <b>río Aliste</b> y el arroyo de Retael, en lo que fue un castro prerromano, se alzan las ruinas del castillo de Alba, citado ya como «Alba Castello» en un diploma de <b>960</b>. Controlaba el camino entre Castrotorafe y Portugal.</p><p>Fue moneda de cambio entre los reinos: en 1196 lo tomó Alfonso VIII de Castilla, sirvió de garantía en los matrimonios de Alfonso IX y en 1220 pasó a los <b>templarios</b>, que lo tuvieron unos noventa años; tras su extinción fue de la Orden de San Juan. En 1459 dio nombre al <b>condado de Alba de Aliste</b>, y en 1640 lo tomaron los portugueses.</p><p>Hoy quedan algunos muros y el <b>torreón</b> cuadrado con saeteras, en estado ruinoso. El paisaje, transformado por el embalse de Ricobayo, merece el paseo.</p>"
+   },
+   "ver_alli": [
+    "El torreón cuadrado con saeteras.",
+    "Las vistas sobre el valle del Aliste.",
+    "Los restos de muros del recinto."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Alba_de_Aliste",
+    "https://www.google.com/maps/search/?api=1&query=Castillo%20templario%20de%20Alba%20de%20Aliste"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "cisternas-romanas-molacillos",
+   "nombre": "Cisternas romanas del Teso de la Mora",
+   "provincia": "Zamora",
+   "comarca": "Molacillos",
+   "lat": 41.6092,
+   "lon": -5.6659,
+   "tipo": "yacimiento",
+   "estilo": "Romano",
+   "epoca": "Romano",
+   "anio": -10,
+   "regiones_sincronia": [
+    "León"
+   ],
+   "texto": {
+    "general": "<p>En lo alto del <b>Teso de la Mora</b>, una elevación que domina el valle del Valderaduey, se conservan dos <b>cisternas romanas</b> fechadas entre finales del siglo I a. C. y comienzos del I d. C. Son de planta rectangular, de siete por once metros, cubiertas con <b>bóveda de cañón</b>, y apenas tienen paralelos en la península.</p><p>Las excavaciones de 2006 y 2007 mostraron que el cerro ya estaba ocupado en la <b>Primera Edad del Hierro</b>, y que las cisternas se construyeron al final de las guerras cántabras, quizá para un asentamiento militar ligado a una vía romana. El lugar se abandonó a partir del siglo I.</p><p>En 2010 se inauguró una cubierta transparente y un vallado, con una escalera para bajar a ellas y paneles informativos.</p>"
+   },
+   "ver_alli": [
+    "Las bóvedas de cañón de las dos cisternas.",
+    "La vista del valle del Valderaduey desde el teso."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Cisternas_romanas_de_Molacillos",
+    "https://www.google.com/maps/search/?api=1&query=Cisternas%20romanas%20Teso%20de%20la%20Mora%20Molacillos"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "sierra-culebra",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Pintura rupestre esquemática",
+    "lat": 41.9242,
+    "lon": -6.4812,
+    "texto": {
+     "general": "<p>En lo alto de la <b>Sierra de la Culebra</b>, junto al collado de El Portillón y cerca de Peña Mira, el pico más alto de la sierra, se abre una pequeña cueva de cuarcita: la <b>Covacha del Portillón</b>, en el término de Manzanal de Arriba. Es alargada y más alta en el centro que en los lados, y en su pared occidental interior guarda el único conjunto de <b>arte rupestre esquemático</b> de Zamora.</p><p>La descubrió en <b>1977</b> el investigador Grande del Brío. Sus pinturas, en tonos <b>rojizos y anaranjados</b>, son figuras muy simplificadas: <b>antropomorfos</b> (siluetas humanas), ancoriformes, cruciformes, barras, bastones y puntos. Se fechan en el <b>Calcolítico o la Edad del Bronce</b>, hace unos cuatro o cinco mil años.</p><p>Por desgracia, las hogueras que se encendieron en la cueva durante siglos han dejado una capa de ceniza que cubre casi toda la superficie de las paredes, así que las figuras se distinguen con dificultad.</p>"
+    },
+    "ver_alli": [
+     "Acceso libre siguiendo indicaciones: desde el mirador de El Portillón sale una senda corta que sube a los peñascos.",
+     "Busca las figuras en la pared occidental del interior; los trazos rojizos son pequeños y están muy ennegrecidos.",
+     "Reserva de la Sierra de la Culebra, tierra de lobos."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/covacha-portillon",
+     "https://www.openstreetmap.org/?mlat=41.9252&mlon=-6.4878#map=17/41.9248/-6.4840"
+    ]
+   }
+  },
+  {
+   "id": "dolmenes-zamora",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Megalitismo",
+    "lat": 42.0541,
+    "lon": -5.9196,
+    "comarca": "Granucillo (Valles de Benavente)",
+    "texto": {
+     "general": "<p>En los valles del norte de Zamora —Vidriales, Órbigo y Eria— se reparte un grupo de <b>dólmenes</b> levantados entre <b>finales del IV milenio y comienzos del III milenio a. C.</b>: <b>San Adrián</b> y <b>Las Peñezuelas</b>, en Granucillo; <b>El Casetón de los Moros</b>, en Arrabalde, y <b>El Tesoro</b>, en Morales del Rey. Fueron sepulturas colectivas de las primeras comunidades campesinas y siguieron siendo lugar de referencia funeraria durante las Edades del Cobre y del Bronce.</p><p>Los dos de Granucillo se excavaron en los años treinta y de nuevo en <b>1984</b>, y en ambos apareció ajuar funerario. <b>San Adrián</b> conservaba ocho losas; al restaurarlo se devolvieron a su sitio y se completó el círculo de la cámara, que queda casi cubierta por un <b>túmulo</b> de tierra y piedras con un anillo de piedras en la base. <b>Las Peñezuelas</b>, declarado Bien de Interés Cultural, conservaba cuatro losas en pie y dos caídas; la excavación encontró las huellas de otros ortostatos y los hoyos que cerraban la cámara.</p><p>La coordenada señala el dolmen de San Adrián; Las Peñezuelas está a un kilómetro, junto a Grijalba de Vidriales.</p>"
+    },
+    "ver_alli": [
+     "Dolmen de San Adrián: libre, y visitas guiadas con cita.",
+     "Fíjate en el túmulo de San Adrián, que deja ver cómo quedaba enterrada la cámara, y en la recreación de un dolmen completo con cámara, corredor y túmulo.",
+     "Castro de Las Labradas y yacimiento de Arrabalde."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/dolmenes-valles-zamora",
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/dolmen-san-adrian-dolmen-penezuelas",
+     "https://www.openstreetmap.org/?mlat=42.0541&mlon=-5.9197#map=17/42.0541/-5.9197"
+    ]
+   }
+  },
+  {
+   "id": "las-labradas",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Castro astur",
+    "lat": 42.1001,
+    "lon": -5.903,
+    "texto": {
+     "general": "<p>En lo más alto de la <b>sierra de Carpurias</b>, entre Arrabalde y Villaferrueña, se extiende el <b>Castro de Las Labradas</b>, el mayor poblado fortificado de los <b>astures</b> en Zamora: <b>23 hectáreas</b> rodeadas por varias líneas de muralla de unos <b>2.500 metros</b> de perímetro, con puertas de acceso; una de ellas se ha reconstruido.</p><p>El cerro estuvo habitado desde la Edad del Bronce, pero su gran momento llegó al <b>final de la Edad del Hierro</b> y durante la conquista romana. Aquí se refugiaron los astures frente a las legiones, que vigilaban sus movimientos desde el cercano campamento de <b>Petavonium</b>. Ya en época imperial el castro se abandonó.</p><p>De aquí salieron dos <b>tesoros de joyas de oro</b> de la Edad del Hierro, probablemente de los más ricos hallados en la Península, que hoy se exponen en el <b>Museo de Zamora</b>.</p>"
+    },
+    "ver_alli": [
+     "Visita libre y gratuita; aula arqueológica en las antiguas escuelas.",
+     "Recorre el trazado de la muralla y la puerta reconstruida; desde arriba se domina el valle donde estaba Petavonium.",
+     "Los caminos del castro están poco señalizados: conviene ver antes los paneles del aula."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/yacimientos-arqueologicos/castro-labradas",
+     "https://www.wikidata.org/wiki/Q5757998"
+    ]
+   }
+  },
+  {
+   "id": "petavonium",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Campamento militar romano",
+    "lat": 42.0887,
+    "lon": -5.9976,
+    "comarca": "Santibáñez de Vidriales (Rosinos de Vidriales)",
+    "texto": {
+     "general": "<p>En el valle de Vidriales, entre Rosinos y Santibáñez de Vidriales, estuvo <b>Petavonium</b>, uno de los grandes campamentos romanos del noroeste. Lo levantó la <b>Legio X Gemina</b>, unos cinco mil legionarios llegados para las guerras contra astures y cántabros, que permanecieron aquí hasta su salida de Hispania en el año <b>63</b>. El recinto militar ocupaba <b>unas 17 hectáreas</b> según la Junta (unas 20 según otros estudios), y a su alrededor creció una población civil.</p><p>Tras la marcha de la legión, el viejo cuartel lo ocupó, probablemente desde Domiciano, el <b>Ala II Flavia Hispanorum civium Romanorum</b>, una unidad de caballería auxiliar, en un fuerte de algo menos de dos hectáreas; y en el Bajo Imperio, la Cohors II Flavia Pacatiana, que aún figura a finales del siglo IV. Petavonium aparece como <b>mansio</b> en el Itinerario de Antonino, en la vía de Astorga a Braga.</p><p>Las excavaciones han sacado a la luz la <b>puerta principal</b> de doble vano, el cuartel general (<i>principia</i>) y el hospital (<i>valetudinarium</i>), además de monedas, armas, cerámica y ladrillos sellados con la marca de la legión.</p>"
+    },
+    "ver_alli": [
+     "Rutas guiadas con reserva.",
+     "Empieza por el centro de interpretación, junto al Ayuntamiento de Santibáñez de Vidriales, que recrea las instalaciones del campamento.",
+     "En el yacimiento, busca la puerta principal de doble vano y el trazado del recinto."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/centro-interpretacion-campamentos-romanos-petavonium",
+     "https://es.wikipedia.org/wiki/Petavonium",
+     "https://www.wikidata.org/wiki/Q6073313"
+    ]
+   }
+  },
+  {
+   "id": "camarzana",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Villa tardorromana con mosaicos",
+    "lat": 41.9952,
+    "lon": -6.029,
+    "texto": {
+     "general": "<p>En pleno casco de Camarzana de Tera, la <b>villa romana Orpheus</b> fue una casa señorial de los <b>siglos II al IV</b>, descubierta en la segunda mitad del siglo XIX. Los trabajos arqueológicos terminaron en 2018 y han dejado a la vista unas <b>15 habitaciones</b> en torno a un <b>peristilo</b> o patio porticado, además de canalizaciones y desagües. Lo visitable es solo un tercio del edificio.</p><p>Su joya son los <b>mosaicos</b>. En el probable comedor (<i>triclinium</i>) aparece <b>Orfeo rodeado de animales</b>, con su nombre escrito con teselas, y alrededor ocho cartelas con caballos, cuyos nombres también están escritos, y escenas de caza. En la sala de recepción (<i>oecus</i>), un gran emblema del <b>rapto de Europa</b> con una cenefa de personajes marinos. Estos textos en mosaico son una rareza en la Meseta.</p><p>No se han hallado cerámicas ni monedas del final: la villa se fue abandonando poco a poco, sin que se sepa por qué. Parte de sus materiales, con restos de mosaico, está en el <b>Museo de Zamora</b>.</p>"
+    },
+    "ver_alli": [
+     "CERRADA por obras contra las humedades, sin fecha.",
+     "Cuando reabra: el mosaico de Orfeo con su nombre en teselas y las cartelas de caballos, y el del rapto de Europa."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/villa-romana-orpheus",
+     "https://www.wikidata.org/wiki/Q9093969"
+    ]
+   }
+  },
+  {
+   "id": "san-pedro-nave",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Visigodo",
+    "lat": 41.5832,
+    "lon": -5.9641,
+    "texto": {
+     "general": "<p><b>San Pedro de la Nave</b> es una de las grandes iglesias visigodas de España, construida a <b>finales del siglo VII</b> o comienzos del VIII (probablemente entre 680 y 711), poco antes de la conquista musulmana. Su planta, de unos 17 por 11 metros, mezcla una <b>cruz griega</b> con naves laterales añadidas, y separa espacios distintos para el sacerdote, el clero y los fieles.</p><p>Lo más famoso son sus <b>capiteles historiados</b>, que cuentan la historia de <b>Daniel en el foso de los leones</b> y el <b>sacrificio de Isaac</b>, con cimacios de roleos poblados de animales y figuras. En las basas aparecen los símbolos de los evangelistas, y junto al arco triunfal se conserva un reloj de sol tallado en un sillar.</p><p>Estaba a orillas del Esla y el <b>embalse de Ricobayo</b> iba a sumergirla. A instancias de <b>Manuel Gómez-Moreno</b>, entre <b>1930 y 1932</b> se trasladó piedra a piedra a El Campillo, bajo la dirección del arquitecto Alejandro Ferrant. Es Monumento Nacional desde <b>1912</b>.</p>"
+    },
+    "ver_alli": [
+     "Gratis, con horario (en invierno, viernes a domingo).",
+     "Mira de cerca los capiteles del crucero: Daniel entre leones y el sacrificio de Isaac.",
+     "Busca en los muros exteriores las marcas de cantero y, dentro, el reloj de sol junto al arco triunfal.",
+     "Junto a la iglesia hay un centro de interpretación."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-san-pedro-nave",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Pedro_de_la_Nave"
+    ],
+    "anio": 690
+   }
+  },
+  {
+   "id": "castillon-tabara",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Poblado fortificado tardoantiguo",
+    "lat": 41.8382,
+    "lon": -5.7919,
+    "comarca": "Moreruela de Tábara (Santa Eulalia de Tábara)",
+    "texto": {
+     "general": "<p>Sobre un cerro de la margen derecha del <b>río Esla</b>, junto a Santa Eulalia de Tábara, se alza <b>El Castillón</b>, una pequeña ciudad fortificada de unas <b>4 hectáreas</b> habitada entre <b>finales del siglo V y el siglo VII</b>, en plena Antigüedad tardía. Una <b>muralla</b> de grandes bloques de cuarcita, de unos 600 metros, la cierra en forma de U, y el lado oriental lo defiende el propio farallón sobre el río.</p><p>Lo más llamativo son sus <b>hornos para fundir hierro</b>: se conocen tres, de planta ovalada, con zócalo de piedra y cubierta de adobe, que contenían más de 50 kilos de escorias. El mineral llegaría probablemente de la sierra de la Culebra.</p><p>Se excavó en ocho campañas entre <b>2007 y 2015</b>, y aparecieron cerámicas tardorromanas, cuentas de vidrio, una fíbula y un anillo de bronce o una punta de flecha de hierro, entre otros objetos.</p>"
+    },
+    "ver_alli": [
+     "Al aire libre. Conviene consultar antes las condiciones de visita.",
+     "Hay una senda a pie desde Puente Quintos; desde arriba, gran vista sobre el Esla.",
+     "Museo de Zamora."
+    ],
+    "fuentes": [
+     "https://rutadelaplata.com/wp-content/uploads/2024/07/ElCastillon.pdf",
+     "https://es.wikipedia.org/wiki/Castro_de_El_Castill%C3%B3n"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-zamora",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 41.499,
+    "lon": -5.7546,
+    "texto": {
+     "general": "<p>La <b>Catedral de Zamora</b> se levantó, según la tradición, entre <b>1151 y 1174</b>, con el apoyo de Alfonso VII y de su hermana la infanta Sancha; estudios recientes de los documentos apuntan a que las obras ya habían empezado en 1139. La consagró en <b>1174</b> el obispo Esteban, a quien se atribuye la construcción.</p><p>Su símbolo es el <b>cimborrio</b>: un tambor con <b>16 ventanas</b> que sostiene una cúpula gallonada cubierta de <b>escamas de piedra</b>, de influencia bizantina. De sus tres portadas originales solo se conserva completa la <b>Puerta del Obispo</b>, la otra gran pieza románica del edificio. La torre, de unos 45 metros, es del siglo XIII.</p><p>Dentro destaca la <b>sillería del coro</b>, tallada a comienzos del siglo XVI por el taller de Juan de Bruselas, y el museo catedralicio guarda una importante colección de tapices. Zamora conserva más de veinte templos románicos.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "Rodea el edificio para ver de cerca el cimborrio de escamas y la Puerta del Obispo.",
+     "Dentro, la sillería del coro; el museo, con los tapices, se visita desde el claustro."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_de_Zamora",
+     "https://www.wikidata.org/wiki/Q2942864"
+    ]
+   }
+  },
+  {
+   "id": "puebla-de-sanabria",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Villa medieval",
+    "lat": 42.0545,
+    "lon": -6.6342,
+    "texto": {
+     "general": "<p><b>Puebla de Sanabria</b> se alza sobre un cerro en el corazón de la comarca de Sanabria. El rey <b>Alfonso IX de León</b> le dio carta puebla el <b>1 de septiembre de 1220</b>, inspirada en el Fuero de Benavente, y Alfonso X la confirmó en 1273. Todo el casco es <b>Conjunto Histórico</b> desde 1994.</p><p>En lo alto domina el <b>castillo de los condes de Benavente</b>, levantado en la segunda mitad del siglo XV por Rodrigo Alonso Pimentel, IV conde de Benavente; su torre del homenaje se conoce como <b>el Macho</b>. A su lado, en la plaza Mayor, están la iglesia de <b>Nuestra Señora del Azogue</b>, románica del siglo XII y reformada después, y la casa consistorial. Las <b>murallas</b> medievales, reforzadas a partir del siglo XVII, siguen marcando el contorno de la villa.</p>"
+    },
+    "ver_alli": [
+     "Acceso libre; castillo con entrada.",
+     "Sube por las calles empedradas hasta la plaza Mayor: castillo, iglesia del Azogue y casa consistorial juntos.",
+     "Recorre el perímetro de la muralla, que todavía dibuja el contorno de la villa."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Puebla_de_Sanabria",
+     "https://www.wikidata.org/wiki/Q43170598"
+    ]
+   }
+  },
+  {
+   "id": "colegiata-de-toro",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico y gótico",
+    "lat": 41.52,
+    "lon": -5.3948,
+    "texto": {
+     "general": "<p>La <b>Colegiata de Santa María la Mayor</b> de Toro se empezó hacia <b>1170</b>, en el reinado de Fernando II de León, y se terminó a mediados del siglo XIII. Trabajaron en ella dos maestros: el primero, con piedra caliza clara; el segundo, que la cerró y abovedó, con arenisca rojiza. Tiene tres naves y un <b>cimborrio</b> de dieciséis lados sobre el crucero, hermano del de la Catedral de Zamora.</p><p>La portada norte, la entrada habitual, muestra a Cristo juez rodeado de los ancianos del Apocalipsis. Pero la gran joya es el <b>Pórtico de la Majestad</b>, una portada gótica tallada y policromada en el último cuarto del siglo XIII que es de las pocas que <b>conservan su color original</b>; sus ancianos tocan un rico repertorio de instrumentos musicales.</p><p>En la sacristía, convertida en museo, se guarda la <b>Virgen de la Mosca</b>, una tabla flamenca del siglo XVI del círculo de Jan Gossaert.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "Pórtico de la Majestad: fíjate en los colores y en los instrumentos que tocan los ancianos.",
+     "En la sacristía, busca la mosca pintada en la Virgen de la Mosca.",
+     "Desde la plaza, compara el cimborrio con el de Zamora."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/colegiata-santa-maria-mayor-toro",
+     "https://es.wikipedia.org/wiki/Colegiata_de_Santa_Mar%C3%ADa_la_Mayor_(Toro)"
+    ],
+    "anio": 1170
+   }
+  },
+  {
+   "id": "santa-maria-del-azogue-de-benavente",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico y gótico",
+    "lat": 42.0018,
+    "lon": -5.6804,
+    "texto": {
+     "general": "<p><b>Santa María del Azogue</b> se empezó hacia <b>1180</b>, cuando Fernando II de León repobló Benavente, y quedó inconclusa mucho tiempo: se retomó con Sancho IV a finales del siglo XIII y sus bóvedas góticas de la nave central se costearon en el siglo XVI.</p><p>Lo mejor es su <b>cabecera de cinco ábsides escalonados</b>, el central más grande, de clara influencia cisterciense. El crucero tiene portadas variadas; en la sur aparecen los evangelistas y el Agnus Dei. La portada de los pies es de 1735 y sustituye a otra del siglo XII.</p><p>Dentro se conserva una <b>Anunciación</b> de piedra policromada, probablemente del siglo XIII, y una Virgen con el Niño románica.</p>"
+    },
+    "ver_alli": [
+     "Libre en horario.",
+     "Rodea la iglesia por detrás para ver los cinco ábsides escalonados.",
+     "Dentro, la Anunciación de piedra policromada."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-santa-maria-azogue",
+     "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_del_Azogue_(Benavente)",
+     "https://www.wikidata.org/wiki/Q5911781"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-moreruela",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Cisterciense (románico y protogótico)",
+    "lat": 41.8124,
+    "lon": -5.777,
+    "texto": {
+     "general": "<p>En un paraje aislado, a unos tres kilómetros del pueblo de Granja de Moreruela, están las ruinas de <b>Santa María de Moreruela</b>, uno de los primeros monasterios del <b>Císter</b> en la Península: la tradición lo tenía por el primero, aunque hoy Fitero le disputa ese puesto. En <b>1143</b> Alfonso VII entregó el lugar a <b>Ponce Giraldo de Cabrera</b>, y la comunidad pasó a la orden cisterciense entre 1158 y 1163.</p><p>La iglesia se empezó en <b>1162</b>, en un románico con elementos del primer gótico, y su gran cabecera es una de las más impresionantes de su tiempo: una capilla mayor sobre ocho columnas, con <b>girola</b> y una corona de <b>siete capillas</b> semicirculares. También se conservan la sala capitular y la sala de los monjes.</p><p>Los monjes fueron expulsados con la desamortización de <b>1835</b> y el monasterio se arruinó. Es Monumento Histórico-Artístico desde 1931.</p>"
+    },
+    "ver_alli": [
+     "Acceso libre; centro de interpretación.",
+     "Rodea la cabecera por fuera para ver la corona de siete capillas, y entra en la girola.",
+     "El Centro de Interpretación del Císter está en el pueblo de Granja de Moreruela, a unos tres kilómetros de las ruinas."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/santa-maria-moreruela",
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_de_Moreruela",
+     "https://www.wikidata.org/wiki/Q1301979"
+    ]
+   }
+  },
+  {
+   "id": "san-martin-de-castaneda",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.1352,
+    "lon": -6.7202,
+    "texto": {
+     "general": "<p>Sobre la ladera que se asoma al <b>Lago de Sanabria</b>, el monasterio de <b>San Martín de Castañeda</b> ocupa un lugar donde ya hubo una fundación visigoda. En el siglo X lo restauró el abad Martino con monjes mozárabes venidos de San Cebrián de Mazote, y en <b>921</b> el abad Juan, llegado de <b>Córdoba</b>, levantó con sus monjes un templo mozárabe.</p><p>La iglesia actual es <b>románica</b>: Alfonso VII donó el lugar en 1150 y el templo se construyó siendo abad Martín IV, hacia 1156, en granito y pizarra. La comunidad entró en el Císter en <b>1245</b>. Es el único monasterio cisterciense zamorano fundado en la montaña y la única iglesia del Císter de la provincia que se conserva completa.</p><p>Se suprimió con la exclaustración de 1835. Parte de los edificios restaurados alberga hoy un centro de interpretación del Parque Natural.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "En la fachada occidental hay una inscripción sobre la fundación primitiva.",
+     "Desde la explanada se ve el lago; dentro, la iglesia románica y las exposiciones."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/monasterio-san-martin-castaneda",
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Mart%C3%ADn_de_Casta%C3%B1eda",
+     "https://www.wikidata.org/wiki/Q1305084"
+    ]
+   }
+  },
+  {
+   "id": "santa-marta-de-tera",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 41.9944,
+    "lon": -5.9713,
+    "texto": {
+     "general": "<p>La iglesia de <b>Santa Marta de Tera</b> es lo que queda de un antiguo monasterio: un templo <b>románico</b> de planta de cruz latina, con una sola nave de tres tramos, crucero y cabecera, de puertas asimétricas.</p><p>En el exterior, junto a la portada sur, hay dos estatuas del siglo XII, San Pedro y <b>Santiago</b>. La de Santiago es probablemente la <b>imagen más antigua conocida de Santiago peregrino</b>, y sirvió de modelo para las monedas de cinco pesetas de 1993.</p><p>Sus capiteles, sobre todo los del presbiterio, forman su conjunto más rico. En los <b>equinoccios</b>, hacia el 20 de marzo y el 20 de septiembre, la luz entra por el óculo de la cabecera e ilumina el capitel del <b>«alma salvada»</b>; lo redescubrió en 1996 el párroco Julián Acedo.</p>"
+    },
+    "ver_alli": [
+     "Libre en horario.",
+     "En el muro sur, la estatua de Santiago peregrino junto a la de San Pedro.",
+     "Dentro, los capiteles del presbiterio; junto a la iglesia, el Museo del Camino."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-santa-marta-tera",
+     "https://www.eldebate.com/espana/castilla-y-leon/20250920/milenaria-iglesia-romanica-zamorana-experimenta-dos-veces-ano-asombroso-milagro-luminico_336283_amp.html"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-magdalena-de-zamora",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 41.5013,
+    "lon": -5.7503,
+    "texto": {
+     "general": "<p>En la Rúa de los Francos, la iglesia de <b>Santa María Magdalena</b> es uno de los templos románicos más elegantes de Zamora. Se construyó entre comienzos del siglo XII y comienzos del XIII, y fue de la <b>Orden de San Juan de Jerusalén</b>, que tenía aquí un hospital, hasta el siglo XIX. Es una sola nave alta de tres tramos con ábside semicircular, y es Monumento Nacional desde 1910.</p><p>Su <b>portada sur</b> es la más antigua y la más rica: un arco polilobulado y cuatro arquivoltas con exuberante decoración vegetal que evoca el paraíso.</p><p>Dentro, sin retablos, destaca un <b>sepulcro románico cubierto por un baldaquino</b>, con una dama yacente rodeada de animales y seres fantásticos de aire oriental. La tradición lo atribuye a un caballero templario, pero el autor es desconocido.</p>"
+    },
+    "ver_alli": [
+     "Con horario; a veces cierra por restauración, conviene comprobarlo antes.",
+     "Portada sur: las arquivoltas vegetales y el arco polilobulado.",
+     "Dentro, el sepulcro de la dama bajo su baldaquino."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_Magdalena_(Zamora)",
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-santa-maria-magdalena-642f",
+     "https://www.wikidata.org/wiki/Q3896975"
+    ]
+   }
+  },
+  {
+   "id": "lago-de-sanabria-glaciar",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Paisaje glaciar"
+   }
+  }
+ ]
+}
