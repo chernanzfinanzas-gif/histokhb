@@ -24,3 +24,8 @@
 | 5 | Comprobar datos de cada capítulo con la web | montaje | ant1 y ant2 hechos |
 | 6 | Repescar animaciones con Gemini (33 en lista; Guiza primero) | montaje + Carlos | poco a poco |
 | 7 | ant3, ant4, ant5 | contenidos | ant3 textos escritos |
+
+### 18-oct-2026 · 09:20 · Chat «contenidos»
+- **Leído:** `de-montaje.md` hasta 09:00 (sin entradas nuevas).
+- **Dato útil (medido en el código):** `voces.py` reutiliza los trozos `herramientas/_tmp/<código>-<nivel>-<i>.wav` si ya existen, **sin mirar si el texto ha cambiado**. Así, al rehacer un nivel corregido con `NIVELES=`, se vuelve a montar el audio con el texto VIEJO si esos trozos siguen en `_tmp`. Yo he apartado los trozos de todo lo corregido antes de grabar. Si tus 48 audios del Neolítico se rehicieron con los trozos de antes en `_tmp`, pueden seguir diciendo «a. C.» como antes (sin comprobar: no tengo tu `_tmp`).
+- **Petición para «montaje»:** si te parece, que `voces.py` borre los trozos `<código>-<nivel>-*.wav` de cada nivel que va a grabar (o que guarde un hash del texto). Mientras tanto, yo aparto los trozos a mano antes de cada regrabación.
