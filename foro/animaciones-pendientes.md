@@ -261,6 +261,78 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] des-gutenberg · La Biblia de Gutenberg
 - [ ] des-transito · La sinagoga del Tránsito
 
+### Edad Moderna · capítulo 1
+- [ ] mod1-0 · Colón, los taínos y La Española
+- [ ] mod1-11 · Las epidemias y el gran desplome de América
+- [ ] mod1-2 · Portugal y el imperio de las especias
+- [ ] mod1-8 · Leonardo, Miguel Ángel y Rafael
+- [ ] mod1-12 · Los humanistas: Erasmo, Moro, Nebrija y Alcalá
+- [ ] mod1-14 · Songhai y Tombuctú
+- [ ] mod1-15 · Sevilla, la Casa de Contratación y la Carrera de Indias
+- [ ] mod1-3 · El Imperio de Carlos V y Felipe II
+- [ ] mod1-13 · Comuneros y Germanías
+- [ ] mod1-1 · La primera vuelta al mundo
+- [ ] mod1-7 · Montesinos, Las Casas y las Leyes Nuevas
+- [ ] mod1-9 · Solimán el Magnífico y Hürrem
+- [ ] mod1-6 · Cajamarca y el fin del Tahuantinsuyo
+- [ ] mod1-16 · Japón en guerra y los primeros europeos
+- [ ] mod1-10 · Potosí y la plata
+- [ ] mod1-4 · Y mientras tanto…
+- [ ] des-potosi · El Cerro Rico de Potosí
+- [ ] des-sevilla-indias · Sevilla, puerto de Indias
+- [ ] des-suleymaniye · La mezquita de Solimán
+
+### Edad Moderna · capítulo 2
+- [ ] mod2-0 · Lutero y la Reforma protestante
+- [ ] mod2-1 · La Contrarreforma católica
+- [ ] mod2-7 · Felipe II: Lepanto, Portugal y la Armada
+- [ ] mod2-17 · Los moriscos: de las Alpujarras a la expulsión
+- [ ] mod2-8 · Teresa de Jesús y Juan de la Cruz
+- [ ] mod2-20 · La rebelión de los Países Bajos
+- [ ] mod2-11 · Isabel I de Inglaterra y Shakespeare
+- [ ] mod2-3 · Los imperios de la pólvora: otomanos y safávidas
+- [ ] mod2-12 · Akbar, Nur Jahan y el Taj Mahal
+- [ ] mod2-14 · Manila y el Galeón
+- [ ] mod2-16 · Guamán Poma y el Inca Garcilaso
+- [ ] mod2-18 · Matteo Ricci y el final de los Ming
+- [ ] mod2-13 · Los Tokugawa y la embajada de Hasekura
+- [ ] mod2-9 · Cervantes y el Quijote
+- [ ] mod2-19 · La caza de brujas
+- [ ] mod2-5 · El nacimiento de la ciencia moderna
+- [ ] mod2-15 · Galileo
+- [ ] mod2-2 · La Guerra de los Treinta Años
+- [ ] mod2-4 · La decadencia de los Austrias
+- [ ] mod2-10 · Velázquez y la pintura del Siglo de Oro
+- [ ] mod2-21 · Njinga de Ndongo y Matamba
+- [ ] mod2-6 · Y mientras tanto…
+- [ ] des-escorial · El Escorial
+- [ ] des-globe · El teatro del Globo
+- [ ] des-isfahan · La plaza de Isfahán
+- [ ] des-taj-mahal · El Taj Mahal
+
+### Edad Moderna · capítulo 3
+- [ ] mod3-0 · Luis XIV y el absolutismo
+- [ ] mod3-1 · Inglaterra: parlamento y revolución
+- [ ] mod3-2 · La República Holandesa y su Siglo de Oro
+- [ ] mod3-8 · Sor Juana Inés de la Cruz
+- [ ] mod3-13 · El Japón de Edo
+- [ ] mod3-12 · Kangxi y la China de los Qing
+- [ ] mod3-10 · Pedro el Grande
+- [ ] mod3-11 · Viena, 1683
+- [ ] mod3-9 · Las misiones de los guaraníes
+- [ ] mod3-14 · Piratas, corsarios y Cartagena de Indias
+- [ ] mod3-5 · El comercio atlántico y la esclavitud
+- [ ] mod3-17 · Nueva Francia y los pueblos de los Grandes Lagos
+- [ ] mod3-18 · Maria Sibylla Merian, la pintora de las orugas
+- [ ] mod3-7 · Carlos II y la Guerra de Sucesión
+- [ ] mod3-15 · Bach, Händel y la música barroca
+- [ ] mod3-4 · La América colonial: virreinatos y plata
+- [ ] mod3-3 · Los grandes imperios de Asia: mogoles y safávidas
+- [ ] mod3-6 · Y mientras tanto…
+- [ ] des-cartagena-indias · Las murallas de Cartagena de Indias
+- [ ] des-misiones-guaranies · Las ruinas de San Ignacio Miní
+- [ ] des-ronda-noche · La ronda de noche
+
 ## Hechos con Gemini
 
 - [x] ant1-8 (al final con Veo; el de Gemini también salió bien) · Sargón de Acad, el primer imperio
