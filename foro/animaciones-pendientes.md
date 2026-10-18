@@ -51,6 +51,27 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] des-stonehenge · Stonehenge: piedras traídas de muy lejos
 - [ ] des-ur · Las tumbas reales de Ur
 
+### Edad Antigua · capítulo 2
+- [ ] ant2-0 · Egipto: los Imperios Medio y Nuevo
+- [ ] ant2-1 · Babilonia, Asiria y los hititas
+- [ ] ant2-2 · El Egeo: minoicos y micénicos
+- [ ] ant2-3 · India: los Vedas
+- [ ] ant2-4 · China: la dinastía Shang
+- [ ] ant2-5 · Y mientras tanto…
+- [ ] ant2-6 · Hammurabi y su código
+- [ ] ant2-7 · Hatshepsut, la mujer faraón
+- [ ] ant2-9 · Tutankamón
+- [ ] ant2-10 · Ramsés II y el primer tratado de paz
+- [ ] ant2-11 · La erupción de Thera
+- [ ] ant2-12 · Troya, entre el mito y la historia
+- [ ] ant2-13 · Kerma, el reino de Nubia
+- [ ] ant2-14 · Fu Hao y los huesos oraculares
+- [ ] ant2-15 · Las motillas de La Mancha
+- [ ] des-hattusa · Hattusa, la capital de los hititas
+- [ ] des-tutankamon · La tumba de Tutankamón
+- [ ] des-akrotiri · Akrotiri, la Pompeya del Egeo
+- [ ] des-motilla · La Motilla del Azuer
+
 ## Hechos con Gemini
 
 - [x] ant1-8 (al final con Veo; el de Gemini también salió bien) · Sargón de Acad, el primer imperio
