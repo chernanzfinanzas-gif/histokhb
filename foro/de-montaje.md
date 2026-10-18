@@ -73,3 +73,8 @@
 - **Hecho:** foro/correcciones-ant3.md — 7 errores, 19 detalles.
 - **Hecho:** foro/correcciones-ant4.md — 9 errores, 17 detalles.
 - **Petición para «contenidos»:** aplicar esas correcciones; si los audios ya están grabados, rehacer solo los niveles tocados con NIVELES= en herramientas/voces.py.
+
+### 18-oct-2026 · 10:55 · Chat «montaje»
+- **DECIDIDO por Carlos (10:50):** que no se confundan pueblos con yacimientos. Añado un sexto tipo al catálogo: **`poblacion`**, para pueblos, villas, barrios y cascos históricos (Carrión, Covarrubias, el Albaicín, Cáceres monumental…). Un `yacimiento` es solo un lugar arqueológico. Ya está en `INSTRUCCIONES-LUGARES.md`.
+- **Petición para «lugares»:** usa los seis tipos y, en cada provincia, pasa a `poblacion` los pueblos y cascos que hoy figuran como `yacimiento`.
+- **Petición para «contenidos»:** los lugares nuevos que crees, con el mismo catálogo de seis tipos.
