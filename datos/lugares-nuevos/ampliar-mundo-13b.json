@@ -1,0 +1,477 @@
+{
+ "zona": "Ampliar mundo-13b",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "cataratas-del-iguazu",
+   "campos": {
+    "texto": {
+     "general": "<p>Las <b>cataratas del Iguazú</b> son el mayor sistema de cascadas del mundo: unas <b>275 caídas</b> del río Iguazú en la frontera entre la provincia argentina de Misiones y el estado brasileño de Paraná. Su nombre viene del guaraní y significa «agua grande». El agua se precipita en dos escalones formados por capas de basalto, y el salto más alto llega a unos 82 metros.</p><p>El primer europeo que dejó constancia de ellas fue el adelantado español <b>Álvar Núñez Cabeza de Vaca</b>, en <b>1541</b>, durante su travesía desde el Atlántico hasta Asunción; las bautizó «saltos de Santa María», pero con el tiempo se impuso de nuevo el nombre guaraní. La región la habitaban entonces los mbyá-guaraníes, que desde 1609 vivieron la evangelización de los jesuitas.</p><p>Casi la mitad del caudal cae en la <b>Garganta del Diablo</b>, un cañón estrecho de 70 a 80 metros de profundidad por el que pasa la frontera entre los dos países. Las cataratas están protegidas por dos parques nacionales, el argentino y el brasileño, que la UNESCO declaró <b>Patrimonio de la Humanidad</b> en 1984 y 1986.</p><p class=\"dato\"><span>¿Sabías que…?</span>Se cuenta que Eleanor Roosevelt, al verlas, exclamó: «¡Pobre Niágara!».</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Iguazu_Falls",
+     "https://es.wikipedia.org/wiki/Cataratas_del_Iguaz%C3%BA"
+    ],
+    "ver_alli": [
+     "Conviene ver los dos lados: el argentino de cerca y el brasileño en panorámica.",
+     "En el lado argentino, un tren lleva hasta la estación Garganta del Diablo, desde donde una pasarela de 1.100 metros entre islas llega al borde del salto.",
+     "Preparad ropa que pueda mojarse: cerca de los saltos la bruma empapa."
+    ]
+   }
+  },
+  {
+   "id": "museo-evita",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Evita</b>, en el barrio de Palermo de Buenos Aires, cuenta la vida de <b>Eva Duarte de Perón</b> y la obra social de la <b>Fundación Eva Perón</b>, y aloja también un instituto que investiga su figura y el peronismo. Se inauguró el <b>26 de julio de 2002</b>, cuando se cumplían cincuenta años de su muerte.</p><p>El edificio es la <b>Casa Carabassa</b>, una residencia de estilo colonial español que el arquitecto Estanislao Pirovano reformó en 1923 para una familia de banqueros, con herrería, azulejos y vitrales de navegantes como Colón o Magallanes. La Fundación Eva Perón la compró en 1948 y la convirtió en un <b>hogar de tránsito</b> para mujeres sin recursos que llegaban del interior del país para ser atendidas en Buenos Aires. Lo cerró la llamada Revolución Libertadora en 1955 y después tuvo varios usos, entre ellos un hogar para personas ciegas. En 2007 fue declarado Monumento Histórico Nacional.</p><p>El vestíbulo recrea cómo era el hogar. La colección reúne <b>vestidos</b> y accesorios que Evita llevó como primera dama y en el cine, algunos de <b>Christian Dior</b>, junto a fotografías, discursos y objetos de la obra de la fundación. Tiene salas de exposiciones temporales y un restaurante en uno de sus patios.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Museo%20Evita%2C%20Buenos%20Aires",
+     "https://es.wikipedia.org/wiki/Museo_Evita"
+    ],
+    "ver_alli": [
+     "Está en la calle Lafinur, en el barrio de Palermo.",
+     "Su tumba está en el cementerio de la Recoleta.",
+     "El restaurante del patio permite hacer una pausa en la propia casa."
+    ]
+   }
+  },
+  {
+   "id": "monumento-a-la-bandera",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Monumento Histórico Nacional a la Bandera</b>, en Rosario, se levanta a orillas del <b>río Paraná</b> en el lugar donde el general <b>Manuel Belgrano</b> izó por primera vez la bandera argentina, el <b>27 de febrero de 1812</b>. Belgrano vigilaba entonces la ribera frente a posibles ataques realistas y había instalado allí baterías de cañones.</p><p>La idea de un monumento era antigua: en 1910, en el centenario de la Revolución de Mayo, se encargó uno a la escultora <b>Lola Mora</b>, pero sus desnudos escandalizaron y el proyecto se abandonó. Tras un concurso fallado en 1940, lo diseñaron los arquitectos <b>Ángel Guido y Alejandro Bustillo</b>, en un clasicismo despojado de hormigón revestido de travertino, con esculturas de <b>José Fioravanti</b> y <b>Alfredo Bigatti</b>, entre otros. Se construyó entre 1943 y 1955 y se inauguró el <b>20 de junio de 1957</b>.</p><p>El conjunto reúne una <b>torre de 70 metros</b> con mirador en la cima, el Patio Cívico, la <b>cripta</b> en homenaje a Belgrano, el Propileo con la llama votiva al Soldado Desconocido del combate de San Lorenzo y, en su subsuelo, la Sala de Honor de las Banderas de América. En 1997 las estatuas de Lola Mora, que habían ido de un lado a otro de la ciudad, se colocaron en el vecino Pasaje Juramento.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monumento_Nacional_a_la_Bandera"
+    ],
+    "ver_alli": [
+     "El 20 de junio se celebra allí el Día de la Bandera.",
+     "Subid al mirador de la torre: se ve el río Paraná, sus islas y la ciudad.",
+     "Las estatuas de Lola Mora están junto al espejo de agua del Pasaje Juramento."
+    ]
+   }
+  },
+  {
+   "id": "la-boca-caminito-y-museo-casa-carlos-gar",
+   "campos": {
+    "texto": {
+     "general": "<p><b>La Boca</b> es el viejo barrio portuario de Buenos Aires, junto al Riachuelo. En el siglo XIX y comienzos del XX se llenó de inmigrantes, sobre todo genoveses y otros ligures, que vivían en <b>conventillos</b> de madera y chapa ondulada, a veces sobre pilotes por las inundaciones, y pintados con colores vivos. Fue un lugar importante en los primeros tiempos del tango, y hoy es sobre todo la casa de <b>Boca Juniors</b> y de su estadio, La Bombonera.</p><p><b>Caminito</b> es un callejón curvo de unos 150 metros que sigue el trazado de una antigua vía de tren. Su nombre viene del tango <i>Caminito</i> (1926), con música de <b>Juan de Dios Filiberto</b>; la letra de Gabino Coria Peñaloza, en cambio, se inspira en un sendero de La Rioja. En 1959, a iniciativa del pintor <b>Benito Quinquela Martín</b>, el municipio lo convirtió en una «calle museo» peatonal, con casas de colores y esculturas.</p><p>En el barrio del Abasto está el <b>Museo Casa Carlos Gardel</b>, la casa que el cantante compró en 1927 y donde vivió con su madre, Berthe Gardes. Abrió como museo el 4 de marzo de 2003 y expone objetos y documentos de Gardel y del tango de su época.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Caminito",
+     "https://en.wikipedia.org/wiki/La_Boca",
+     "https://es.wikipedia.org/wiki/Museo_Casa_Carlos_Gardel"
+    ],
+    "ver_alli": [
+     "La Boca conviene visitarla de día y por la zona turística.",
+     "La casa de Gardel está en la calle Jean Jaurès, en el Abasto, lejos de La Boca: son dos visitas distintas."
+    ]
+   }
+  },
+  {
+   "id": "museo-de-arqueologia-de-alta-montana",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo de Arqueología de Alta Montaña</b> (MAAM) de Salta se inauguró el <b>19 de noviembre de 2004</b> para guardar, estudiar y mostrar a los <b>niños de Llullaillaco</b>, tres momias incas extraordinariamente conservadas. Ocupa un edificio de mediados del siglo XIX frente a la plaza 9 de Julio, la plaza principal de la ciudad.</p><p>Los niños los hallaron el <b>16 de marzo de 1999</b> el arqueólogo <b>Johan Reinhard</b>, <b>María Constanza Ceruti</b> y su equipo, cerca de la cumbre del volcán <b>Llullaillaco</b> (6.739 m), en la frontera con Chile: uno de los yacimientos arqueológicos más altos del mundo. Murieron hace unos 500 años en una <b>capacocha</b>, el sacrificio ritual con que los incas ofrecían niños escogidos a las montañas sagradas para asegurar salud, buenas cosechas y buen tiempo. Son <b>la Doncella</b>, una muchacha de unos trece a quince años; <b>el Niño</b>, de unos siete, y <b>la Niña del Rayo</b>, de unos seis, a la que un rayo dañó parte de la cara después de enterrada. Junto a ellos había un ajuar de figurillas, tejidos, tocados de plumas, utensilios y comida.</p><p>Por conservación se muestran <b>de uno en uno, por turnos</b>, en cápsulas refrigeradas a unos -20 °C y con poco oxígeno, que imitan el frío de la cumbre; la Doncella fue la primera, en 2007. El museo explica también los santuarios incas de altura, como el del nevado de Chuscha. Su exhibición la critican algunos pueblos indígenas.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Museo_de_Arqueolog%C3%ADa_de_Alta_Monta%C3%B1a",
+     "https://en.wikipedia.org/wiki/Museum_of_High_Altitude_Archaeology",
+     "https://en.wikipedia.org/wiki/Children_of_Llullaillaco",
+     "https://es.wikipedia.org/wiki/Ni%C3%B1os_de_Llullaillaco",
+     "https://maam.gob.ar/?p=7"
+    ],
+    "ver_alli": [
+     "En la plaza principal de Salta (plaza 9 de Julio).",
+     "Solo se expone uno de los tres niños cada vez; si os interesa uno en concreto, consultad cuál está expuesto."
+    ]
+   }
+  },
+  {
+   "id": "museo-sitio-de-memoria-esma",
+   "campos": {
+    "texto": {
+     "general": "<p>En el Casino de Oficiales de la antigua <b>Escuela de Mecánica de la Armada</b> (ESMA), en Buenos Aires, funcionó entre <b>1976 y 1983</b>, durante la última dictadura, uno de los mayores <b>centros clandestinos de detención, tortura y exterminio</b> de Argentina. Por él pasaron unas <b>5.000 personas</b> secuestradas; la mayoría fueron asesinadas. A muchas las adormecían con una inyección y las arrojaban vivas desde aviones al Río de la Plata o al mar, en los llamados <b>vuelos de la muerte</b>. Allí dieron a luz presas embarazadas a las que luego separaban de sus bebés.</p><p>La Armada entregó el edificio en 2004 y el <b>19 de mayo de 2015</b> se abrió como museo de sitio. El edificio es también prueba judicial en los juicios por crímenes de lesa humanidad, así que no se ha modificado: todas las instalaciones están apoyadas y pueden retirarse. Se basa en los testimonios de los supervivientes, en documentos de la CONADEP y del Juicio a las Juntas y en las fotos que el superviviente Víctor Basterra logró sacar a escondidas.</p><p>El recorrido pasa por los tres pisos, el <b>sótano</b> donde se torturaba y los altillos llamados <b>Capucha</b> y <b>Capuchita</b>, donde estaban recluidos los presos. En septiembre de <b>2023</b> la UNESCO lo declaró <b>Patrimonio Mundial</b>.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Museo_Sitio_de_Memoria_ESMA",
+     "https://es.wikipedia.org/wiki/Escuela_de_Mec%C3%A1nica_de_la_Armada_(centro_clandestino_de_detenci%C3%B3n)"
+    ]
+   }
+  },
+  {
+   "id": "plaza-de-mayo-cabildo-y-casa-rosada",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Plaza de Mayo</b> es el corazón histórico de Buenos Aires: ocupa el lugar donde <b>Juan de Garay</b> refundó la ciudad en <b>1580</b>, y recibió su nombre actual en 1884, al unirse las antiguas plazas de la Victoria y del Fuerte. En el centro está la <b>Pirámide de Mayo</b>, levantada en 1811 para conmemorar la revolución.</p><p>En el <b>Cabildo</b>, construido desde 1725, el cabildo abierto del 22 de mayo de <b>1810</b> abrió el camino a la <b>Revolución de Mayo</b>, que derrocó al virrey Cisneros y formó la Primera Junta. Para abrir la avenida de Mayo (1889) y la diagonal Julio A. Roca (1931) se le derribaron tres arcos de cada lado; su aspecto actual es de 1940 y hoy es museo de la Revolución. Enfrente, la <b>Casa Rosada</b>, sede de la presidencia, unió entre 1886 y 1898 la Casa de Correos y la Casa de Gobierno. Desde su balcón hablaban <b>Perón y Evita</b> a las multitudes, como la del 17 de octubre de 1945. En la plaza, el 16 de junio de 1955 un bombardeo de la aviación naval mató a más de 300 personas.</p><p>En la <b>catedral</b> está desde 1880 el mausoleo del general <b>San Martín</b>, obra del escultor francés Carrier-Belleuse. Y desde el 30 de abril de 1977 las <b>Madres de Plaza de Mayo</b> marchan cada jueves alrededor de la Pirámide por sus hijos desaparecidos.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Plaza_de_Mayo",
+     "https://es.wikipedia.org/wiki/Cabildo_de_Buenos_Aires",
+     "https://es.wikipedia.org/wiki/Casa_Rosada",
+     "https://es.wikipedia.org/wiki/Catedral_metropolitana_de_Buenos_Aires"
+    ],
+    "ver_alli": [
+     "Los pañuelos blancos pintados en el suelo alrededor de la Pirámide marcan el recorrido de las Madres.",
+     "El mausoleo de San Martín se visita desde la nave lateral derecha de la catedral.",
+     "La Casa Rosada tiene un museo con objetos de los presidentes del país."
+    ]
+   }
+  },
+  {
+   "id": "cueva-de-las-manos",
+   "campos": {
+    "texto": {
+     "general": "<p>En un paraje aislado de la Patagonia, al pie de un acantilado del <b>cañón del río Pinturas</b> (Santa Cruz), la <b>Cueva de las Manos</b> reúne más de <b>2.000 manos</b> pintadas, casi todas en negativo: los artistas apoyaban la mano en la roca y soplaban pintura alrededor con tubos de hueso. Las pinturas se hicieron en varias oleadas entre hacia el <b>7300 a. C.</b> y el 700 d. C., así que las más antiguas tienen unos 9.300 años.</p><p>La pintaron grupos de <b>cazadores-recolectores</b> que vivían de los rebaños de <b>guanacos</b>, y sus últimos habitantes quizá fueron antepasados de los tehuelches. Además de manos hay escenas de caza de guanacos, figuras humanas y formas como círculos o estrellas. De las manos contadas, 829 son izquierdas y solo 31 derechas: seguramente sujetaban el tubo con la derecha. A algunas les faltan dedos, quizá por amputaciones o quizá como señal. Restos de esos tubos de hueso, el carbono 14 y la estratigrafía permitieron fechar las pinturas.</p><p>El misionero italiano Alberto María de Agostini fue el primero en escribir sobre la cueva, en 1941, y el arqueólogo <b>Carlos J. Gradin</b> la estudió durante treinta años desde 1964. Es <b>Patrimonio de la Humanidad</b> desde 1999.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Cueva%20de%20las%20Manos%2C%20Santa%20Cruz%2C%20Argentina",
+     "https://en.wikipedia.org/wiki/Cueva_de_las_Manos",
+     "https://es.wikipedia.org/wiki/Cueva_de_las_Manos"
+    ],
+    "ver_alli": [
+     "Visita guiada.",
+     "Está unos 165 km al sur de la localidad de Perito Moreno; los últimos kilómetros se hacen por pista y un sendero a pie.",
+     "En Perito Moreno, el Museo de Arqueología «Carlos J. Gradin» completa la visita."
+    ]
+   }
+  },
+  {
+   "id": "manzana-jesuitica-de-cordoba",
+   "campos": {
+    "texto": {
+     "general": "<p>En una sola manzana del centro de Córdoba los jesuitas reunieron su iglesia de la Compañía, su residencia, su colegio y la <b>universidad</b>. Habían llegado a la ciudad en 1599, y en 1610 crearon el Colegio Máximo, donde en <b>1613</b>, con el apoyo del obispo <b>Hernando de Trejo y Sanabria</b>, empezaron los estudios superiores; en 1621-1622 el papa y el rey le dieron permiso para otorgar títulos. Es la universidad más antigua de Argentina, y durante más de dos siglos fue la única del país: por eso a Córdoba la llaman «la Docta». En 1687 se fundó además el Colegio de Monserrat.</p><p>Para sostenerla explotaban seis <b>estancias</b> con ganado, frutales y cultivos, fundadas entre 1616 (Caroya) y 1683 (La Candelaria); se conservan cinco. Cuando Carlos III expulsó a los jesuitas en 1767, las administraron los franciscanos. En 1854 la universidad y el Colegio de Monserrat fueron nacionalizados, y en 1918 la universidad fue escenario de la <b>Reforma Universitaria</b>, que se extendió por toda América Latina.</p><p>La manzana y las cinco estancias son <b>Patrimonio de la Humanidad</b> desde el año <b>2000</b>.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Jesuit_Block_and_Estancias_of_C%C3%B3rdoba",
+     "https://www.openstreetmap.org/search?query=Iglesia%20de%20la%20Compa%C3%B1%C3%ADa%20de%20Jes%C3%BAs%2C%20C%C3%B3rdoba%2C%20Argentina",
+     "https://es.wikipedia.org/wiki/Universidad_Nacional_de_C%C3%B3rdoba",
+     "https://es.wikipedia.org/wiki/Colegio_Nacional_de_Monserrat"
+    ]
+   }
+  },
+  {
+   "id": "teatro-colon",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Teatro Colón</b> es el gran teatro de ópera de Buenos Aires y símbolo de la ciudad rica de la <b>belle époque</b>. Sustituyó a un primer Colón inaugurado en 1857. La primera piedra del actual se puso en <b>1889</b>, pero las obras se alargaron casi veinte años por problemas de dinero, disputas sobre el solar y la desaparición de sus arquitectos: <b>Francesco Tamburini</b> murió en 1891 y su discípulo <b>Vittorio Meano</b> fue asesinado en 1904. Lo terminó el belga <b>Julio Dormal</b>, y se inauguró el 25 de mayo de <b>1908</b> con <i>Aida</i> de Verdi.</p><p>Por su escenario pasaron Toscanini, Caruso, Stravinski, Richard Strauss, Nijinski, Anna Pavlova o María Callas. Su sala en herradura, de unas 2.500 localidades y lugar para un millar de espectadores de pie, tiene fama de tener una de las mejores <b>acústicas</b> del mundo para la ópera: así lo votaron los directores consultados por el experto Leo Beranek. La cúpula la pintó en 1966 <b>Raúl Soldi</b>, que no cobró por ello, y de ella cuelga una gran araña de 700 bombillas.</p><p>Cerró en 2006 para una gran restauración y reabrió el 24 de mayo de <b>2010</b>, en el bicentenario de la Revolución de Mayo. Merece la pena también el <b>Salón Dorado</b>, inspirado en el foyer de la Ópera de París.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Teatro_Col%C3%B3n",
+     "https://www.openstreetmap.org/search?query=Teatro%20Col%C3%B3n%2C%20Buenos%20Aires",
+     "https://es.wikipedia.org/wiki/Teatro_Col%C3%B3n"
+    ]
+   }
+  },
+  {
+   "id": "pucara-de-tilcara",
+   "campos": {
+    "texto": {
+     "general": "<p>Sobre un cerro de la <b>quebrada de Humahuaca</b>, a las afueras del pueblo de Tilcara (Jujuy), se extienden las casas de piedra de un poblado fortificado (<i>pucará</i>) de los <b>omaguacas</b>, que se asentaron aquí hacia el siglo XII. El lugar se eligió porque era fácil de defender y dominaba un largo tramo del valle. En su apogeo ocupó unas 6 hectáreas y vivían en él más de 2.000 personas, en casitas cuadradas de piedra con puertas bajas y sin ventanas, junto a corrales, lugares de culto y enterramientos.</p><p>A finales del siglo XV lo conquistaron los incas de <b>Túpac Yupanqui</b>, que lo usaron como puesto militar y para asegurarse los metales de la zona, como el cobre y la plata, durante medio siglo, hasta la llegada de los españoles en 1536.</p><p>Lo redescubrieron en <b>1908</b> Juan Bautista Ambrosetti y su discípulo Salvador Debenedetti, que catalogaron más de 3.000 piezas; desde 1911 se despejaron unos 2.000 m² y se reconstruyeron algunas estructuras, no siempre con fidelidad: la pirámide truncada del sitio no tiene nada que ver con la arquitectura de la región. Lo gestiona la Universidad de Buenos Aires, que abrió su museo arqueológico en los años sesenta. Es Monumento Nacional desde 2000.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Pucar%C3%A1_de_Tilcara",
+     "https://www.openstreetmap.org/search?query=Pucar%C3%A1%20de%20Tilcara",
+     "https://es.wikipedia.org/wiki/Pucar%C3%A1_de_Tilcara"
+    ],
+    "ver_alli": [
+     "Está a unos quince minutos a pie del pueblo de Tilcara.",
+     "El museo arqueológico, en el pueblo, expone más de 5.000 piezas en diez salas.",
+     "Junto al pucará hay un pequeño jardín botánico de cactus de la zona.",
+     "Hace mucho sol y el terreno es de piedra: conviene llevar gorra y agua."
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-plata",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo de La Plata</b>, museo de historia natural, se inauguró el 19 de noviembre de <b>1888</b>, sexto aniversario de la fundación de la ciudad, en el Paseo del Bosque. Nació de las colecciones de fósiles, huesos y objetos que el explorador <b>Francisco P. Moreno</b> reunía desde niño y en sus viajes por la Patagonia, y Moreno fue su primer director. También trabajó en él <b>Florentino Ameghino</b>, el gran estudioso de los fósiles argentinos, hasta que Moreno lo despidió ese mismo año. Hoy pertenece a la Universidad Nacional de La Plata y guarda unos tres millones de piezas.</p><p>El edificio, neoclásico y de 135 metros de largo, tiene una planta ovalada pensada como un recorrido por la evolución, con decoración de motivos americanos; dos tigres dientes de sable de piedra guardan la entrada. Su fama se debe sobre todo a los grandes <b>mamíferos fósiles</b> de la región pampeana: en la sala de paleontología se reúnen el <b>megaterio</b>, <b>gliptodontes</b>, <i>Toxodon</i> y <i>Macrauchenia</i>, que evolucionaron aislados en el continente-isla, junto a los llegados del norte tras el <b>Gran Intercambio</b>, como <i>Smilodon</i> y los caballos fósiles.</p><p>Tiene también salas de arqueología americana y una reconstrucción del templo egipcio de Aksha.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/La_Plata_Museum",
+     "https://mainlymuseums.com/post/779/the-museo-de-la-plata/",
+     "https://es.wikipedia.org/wiki/Museo_de_La_Plata"
+    ]
+   }
+  },
+  {
+   "id": "ischigualasto-valle-de-la-luna",
+   "campos": {
+    "texto": {
+     "general": "<p>En este desierto del noreste de San Juan, también llamado <b>Valle de la Luna</b>, afloran las capas de la <b>Formación Ischigualasto</b>, del <b>Triásico superior</b>, de hace unos 231-226 millones de años. Eran entonces llanuras con ríos y bosques, sacudidas por erupciones cuyas cenizas permiten fecharlas con precisión. Aquí están algunos de los <b>dinosaurios más antiguos</b> conocidos, con representantes tempranos de sus dos grandes linajes.</p><p>Los fósiles se estudiaron a fondo desde 1958, cuando Alfred Romer, de Harvard, y Guillermo del Corro hallaron yacimientos que Romer describió como el sueño de todo paleontólogo. <i>Herrerasaurus</i>, un carnívoro bípedo y el dinosaurio más abundante del lugar, lleva el nombre de Victorino Herrera, el lugareño que guió a los paleontólogos. En 1991 Ricardo Martínez halló <i>Eoraptor</i>, un dinosaurio pequeño y ligero que se describió en 1993. Junto a ellos vivían rincosaurios, cinodontes parientes de los mamíferos y grandes reptiles parecidos a cocodrilos: los dinosaurios eran todavía pocos. Hay también troncos fósiles de árboles emparentados con las araucarias.</p><p>El parque provincial se creó en 1971 y es <b>Patrimonio de la Humanidad</b> desde 2000, junto con Talampaya. La erosión ha esculpido formas como el Hongo, el Submarino o la Cancha de Bochas.</p>"
+    },
+    "fuentes": [
+     "https://www.ischigualasto.gob.ar/?page_id=1675",
+     "https://es.wikipedia.org/wiki/Valle_de_la_Luna_(Argentina)",
+     "https://en.wikipedia.org/wiki/Ischigualasto_Provincial_Park"
+    ]
+   }
+  },
+  {
+   "id": "constitution-hill",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Constitution Hill</b>, en el barrio de Braamfontein de Johannesburgo, reúne una antigua prisión y la sede del <b>Tribunal Constitucional</b> de Sudáfrica. Todo empezó con una cárcel para presos blancos de 1892, alrededor de la cual el presidente bóer <b>Paul Kruger</b> levantó entre 1896 y 1899 el <b>Old Fort</b>, para defender la república del Transvaal de una invasión británica.</p><p>Luego se amplió con secciones para presos negros, la célebre <b>Number Four</b>, y en 1907 con una cárcel de mujeres. Por ella pasaron los jefes bóeres presos de los británicos, mineros blancos en huelga y miles de africanos detenidos por no llevar el pase. <b>Gandhi</b> estuvo preso aquí en 1906, y también <b>Nelson Mandela</b>, Joe Slovo, Albert Lutuli o Robert Sobukwe; en la cárcel de mujeres, Winnie Mandela y Albertina Sisulu. Por eso la llamaban «la Robben Island de Johannesburgo». Cerró en 1983.</p><p>El nuevo tribunal se construyó con <b>ladrillos</b> del pabellón de presos preventivos derribado, y conserva sus escaleras como recuerdo; celebró su primera sesión en febrero de 2004, año en que el conjunto abrió como museo. Se visitan Number Four, la cárcel de mujeres y el Old Fort, y en el tribunal, una colección de más de 200 obras de arte sudafricano. Desde 2024 forma parte del Patrimonio Mundial de los lugares del legado de Mandela.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Constitution_Hill%2C_Johannesburg"
+    ],
+    "ver_alli": [
+     "Hay visitas guiadas por la antigua prisión.",
+     "Ante la puerta del tribunal arde la Llama de la Democracia, encendida en 2011.",
+     "El edificio del tribunal está abierto al público: se puede asistir a las vistas o ver la galería de arte del vestíbulo."
+    ]
+   }
+  },
+  {
+   "id": "robben-island",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Robben Island</b> es una isla llana de unos 5 km² en la bahía de la Tabla, frente a Ciudad del Cabo. Su nombre viene de la palabra neerlandesa antigua para las focas (<i>robben</i>). Desde el siglo XVII se usó sobre todo como <b>prisión</b>: los colonos neerlandeses encerraron allí a jefes locales como Autshumato, y en 1819 los británicos al líder xhosa Makhanda Nxele, que se ahogó al escapar. También fue leprosería desde 1845.</p><p>Durante el <b>apartheid</b> se convirtió en la cárcel de los presos políticos. <b>Nelson Mandela</b> pasó aquí 18 de sus 27 años de prisión, y otros dos presos de la isla, Kgalema Motlanthe y Jacob Zuma, llegaron también a presidentes. La prisión de máxima seguridad cerró en 1991 y la de presos comunes en 1996; en 1997 se convirtió en museo y en 1999 fue declarada <b>Patrimonio de la Humanidad</b>.</p><p>La visita, de unas tres horas y media con el barco, recorre el cementerio, la cantera de cal donde trabajaban los presos, la casa del dirigente Robert Sobukwe y la prisión de máxima seguridad, con la <b>celda de Mandela</b>. Muchos de los guías son antiguos presos.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJGR-WxnmKzB0R4V512q9-nRE",
+     "https://www.openstreetmap.org/?mlat=-33.8002&mlon=18.3713#map=18/-33.8002/18.3713",
+     "https://en.wikipedia.org/wiki/Robben_Island"
+    ],
+    "ver_alli": [
+     "El barco sale del muelle de Nelson Mandela Gateway, en el Victoria & Alfred Waterfront; conviene reservar.",
+     "El punto marca la antigua prisión de máxima seguridad.",
+     "Si hace mal tiempo en el mar, los barcos pueden suspenderse."
+    ]
+   }
+  },
+  {
+   "id": "big-hole-de-kimberley",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Big Hole</b> («gran agujero») de Kimberley es la antigua mina de diamantes de Kimberley, considerada uno de los mayores agujeros excavados a mano del mundo. En 1871 se hallaron diamantes en una pequeña colina de la granja de los hermanos De Beers, y la avalancha de buscadores hizo desaparecer la colina: en 1872 el campamento ya tenía unos 50.000 mineros.</p><p>Entre 1871 y <b>1914</b> se excavó con picos y palas un cráter de 17 hectáreas y 463 metros de ancho, que llegó a <b>240 metros</b> de profundidad; luego se rellenó en parte hasta unos 215 metros, y hoy el agua ocupa el fondo y quedan unos 175 metros a la vista. Se sacaron unos <b>2.720 kilos de diamantes</b>. Cuando trabajar en superficie se volvió demasiado peligroso, la compañía <b>De Beers</b> de <b>Cecil Rhodes</b>, que unificó las explotaciones y se hizo rico en Kimberley, siguió excavando bajo tierra hasta 1.097 metros.</p><p>Al cerrar la mina el agujero se convirtió en atracción. Desde los años sesenta se reunieron edificios y objetos de los primeros tiempos en un museo al aire libre que reconstruye el pueblo minero, inaugurado oficialmente en 1971, el año del centenario de la ciudad.</p><p class=\"dato\"><span>¿Sabías que…?</span>Un cartel junto al agujero explica que todos los diamantes sacados de la mina cabrían en tres vagonetas.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Big_Hole",
+     "https://es.wikipedia.org/wiki/Big_Hole",
+     "https://en.wikipedia.org/wiki/Kimberley,_Northern_Cape"
+    ],
+    "ver_alli": [
+     "Se ve desde una plataforma sobre el vacío.",
+     "El museo reconstruye calles del Kimberley minero, con exposiciones de técnica minera y transporte."
+    ]
+   }
+  },
+  {
+   "id": "museo-del-apartheid",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo del Apartheid</b> de Johannesburgo, abierto en <b>noviembre de 2001</b>, cuenta la historia del apartheid y de la Sudáfrica del siglo XX. Está en el complejo de Gold Reef City, al sur de la ciudad, y lo creó una organización sin ánimo de lucro como contrapartida a la construcción del casino vecino.</p><p>La experiencia empieza en la puerta: a cada visitante se le asigna al azar una entrada de «blanco» o de «no blanco», y según cuál le toque entra por una puerta distinta y ve objetos diferentes, como los documentos de identidad que fijaban la raza de cada persona. En el patio, los <b>Pilares de la Constitución</b> representan sus siete valores: democracia, igualdad, reconciliación, diversidad, responsabilidad, respeto y libertad. Después, la exposición <i>Viajes</i> muestra a los descendientes de quienes llegaron a Johannesburgo tras el descubrimiento del oro en 1886.</p><p>En sus veintidós áreas el museo recorre la segregación que impuso la Unión Sudafricana desde 1910, el apartheid, la lucha de liberación y la transición a la democracia, y tiene una exposición dedicada a <b>Nelson Mandela</b>.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Apartheid_Museum",
+     "https://www.historyhit.com/locations/apartheid-museum/"
+    ],
+    "ver_alli": [
+     "Se necesitan al menos dos o tres horas.",
+     "Está en el complejo de Gold Reef City, al sur de Johannesburgo."
+    ]
+   }
+  },
+  {
+   "id": "arte-rupestre-del-drakensberg",
+   "campos": {
+    "texto": {
+     "general": "<p>Los abrigos y cuevas de las montañas del <b>Drakensberg</b>, en la frontera de KwaZulu-Natal con Lesoto, guardan la mayor concentración de pinturas rupestres del África subsahariana: entre <b>35.000 y 40.000</b> figuras pintadas por los <b>san</b> (bosquimanos), unas 20.000 de ellas registradas en unos 500 abrigos.</p><p>Los san vivieron en la zona durante unos 4.000 años. Las pinturas más antiguas conservadas en las paredes tienen unos 2.400 años, pero como los pigmentos se deterioran, la mayoría son del último milenio. El animal más pintado es el <b>eland</b>, un gran antílope, a menudo con varios colores y sombreados. Las más recientes ya muestran hombres <b>a caballo</b>, de la época en que llegaron los colonos; a finales del siglo XIX los san habían desaparecido de estas montañas, empujados por los granjeros.</p><p>El abrigo de <b>Game Pass</b>, en Kamberg, es uno de los mejor conservados de la región; se dio a conocer en 1915. Su friso muestra una gran manada de elands y, sobre todo, un eland moribundo cuya cola sujeta una figura con patas de antílope: un chamán en trance. Esa escena ayudó a descifrar el simbolismo religioso del arte san, y por eso lo llaman la «piedra Rosetta» del arte rupestre del sur de África. El parque es Patrimonio de la Humanidad desde 2000.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ89Ul67-P8x4RjXKn99YVkqw",
+     "https://www.openstreetmap.org/?mlat=-29.3949&mlon=29.6463#map=18/-29.3949/29.6463",
+     "https://en.wikipedia.org/wiki/Drakensberg",
+     "https://en.wikipedia.org/wiki/Maloti-Drakensberg_Park",
+     "https://www.metmuseum.org/essays/african-rock-art-game-pass",
+     "https://cyark.org/projects/drakensberg-rock-art",
+     "https://www.pbs.org/wnet/nature/drakensberg-barrier-of-spears-san-rock-art-of-the-drakensberg/4634",
+     "https://drakensberghikes.com/drakensberg/history-and-culture"
+    ]
+   }
+  },
+  {
+   "id": "liliesleaf",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Liliesleaf</b> es una granja de Rivonia, hoy un barrio residencial del norte de Johannesburgo, que en 1961 compraron Arthur Goldreich y Harold Wolpe con dinero del clandestino Partido Comunista para esconder a militantes perseguidos. Como eran blancos en una zona reservada a blancos, no levantaban sospechas, y la granja se convirtió en el cuartel general de <b>Umkhonto we Sizwe</b>, el brazo armado del ANC.</p><p><b>Nelson Mandela</b> vivió allí haciéndose pasar por un peón de la granja llamado <b>David Motsamayi</b>, hasta que lo detuvieron en agosto de 1962 en otro lugar. Allí se reunían Walter Sisulu, Govan Mbeki, Ahmed Kathrada, Denis Goldberg o Joe Slovo. El <b>11 de julio de 1963</b> la policía asaltó la granja durante la que iba a ser su última reunión y detuvo a diecinueve militantes. Los documentos hallados también incriminaban a Mandela, que fue juzgado con los demás en el <b>juicio de Rivonia</b> (1963-1964): él y siete compañeros fueron condenados a cadena perpetua.</p><p>Tras una reunión de los antiguos acusados en 2001 se creó un museo, cuya restauración empezó en 2008. Explica la lucha armada contra el apartheid y el juicio, y guarda una copia original de la Carta de la Libertad, la orden de detención de Mandela y una pistola camuflada en una pluma de Oliver Tambo. Es patrimonio nacional desde 2016.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ9ZAT4MdzlR4R3ViOY4CiAB8",
+     "https://www.openstreetmap.org/?mlat=-26.0437&mlon=28.0537#map=18/-26.0437/28.0537",
+     "https://en.wikipedia.org/wiki/Liliesleaf_Farm"
+    ],
+    "ver_alli": [
+     "Está en un barrio residencial del norte de Johannesburgo, en la zona de Sandton.",
+     "Cerró en 2021 y se anunció su reapertura: conviene comprobar antes si está abierto.",
+     "Las reuniones se celebraban en la habitación con techo de paja, donde los sorprendió la redada."
+    ]
+   }
+  },
+  {
+   "id": "memorial-de-rhodes",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Memorial de Rhodes</b> es un gran monumento con forma de templo griego en la ladera del <b>pico del Diablo</b>, junto a la montaña de la Mesa, en Ciudad del Cabo. Honra a <b>Cecil Rhodes</b>, el magnate de los diamantes y primer ministro de la colonia del Cabo, y se levantó en su lugar favorito de su antigua finca: Rhodes legó a la nación gran parte de sus tierras de la ladera, donde hoy están la Universidad de Ciudad del Cabo y el jardín botánico de Kirstenbosch.</p><p>Lo proyectó el arquitecto <b>Herbert Baker</b> y se inauguró en <b>1912</b>. Es de granito de la montaña de la Mesa. Una escalinata de <b>49 escalones</b>, uno por cada año de vida de Rhodes, flanqueada por <b>ocho leones de bronce</b> de John Macallan Swan, sube hasta una columnata con el busto de Rhodes y unos versos de Rudyard Kipling; al pie está la estatua ecuestre <i>Energía física</i>, de George Frederic Watts.</p><p>Hoy es un monumento polémico. En 2015, tras las protestas del movimiento <b>Rhodes Must Fall</b>, la universidad vecina retiró otra estatua suya, y ese mismo año le cortaron la nariz al busto del memorial; en 2020 le cortaron la cabeza, que se recuperó y se volvió a colocar.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJbUMgPRZdzB0RWKEeB36jNpk",
+     "https://en.wikipedia.org/wiki/Rhodes_Memorial"
+    ],
+    "ver_alli": [
+     "Las vistas sobre la ciudad son espectaculares.",
+     "Bajo el memorial se conserva el banco de madera de Rhodes.",
+     "Por seguridad, la zona se cierra de la puesta a la salida del sol."
+    ]
+   }
+  },
+  {
+   "id": "museo-del-distrito-seis",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Distrito Seis</b> era un barrio popular junto al centro de Ciudad del Cabo donde convivían gentes de todos los orígenes, sobre todo mestizos (<i>coloured</i>), pero también negros, blancos e indios; creció tras la abolición de la esclavitud en 1833. En <b>1966</b> el gobierno del apartheid lo declaró zona «solo para blancos» y empezaron los derribos. En los años siguientes más de <b>60.000 personas</b> fueron desalojadas por la fuerza y trasladadas a los suburbios de los Cape Flats, a unos 25 kilómetros. Las casas se arrasaron con excavadoras y solo quedaron en pie las iglesias, mezquitas y algunas escuelas; el barrio se rebautizó como Zonnebloem.</p><p>El <b>museo</b> se fundó en <b>1994</b>, cinco años después de la fundación que lo impulsó, como memoria de aquellas expulsiones. Ocupa una antigua <b>iglesia metodista</b> del barrio. Su suelo está cubierto por un gran <b>mapa del distrito</b> en el que los antiguos vecinos escribieron a mano dónde estaban sus casas; entre ellos vivió el músico de jazz Abdullah Ibrahim. Expone también viejas señales de tráfico, recuerdos de las familias y documentos sobre los derribos. Recibió el premio Príncipe Claus en 2003.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJXdpUhHtnzB0RI8TYhHL5028",
+     "https://www.openstreetmap.org/?mlat=-33.9278&mlon=18.4238#map=18/-33.9278/18.4238",
+     "https://en.wikipedia.org/wiki/District_Six_Museum",
+     "https://en.wikipedia.org/wiki/District_Six"
+    ]
+   }
+  },
+  {
+   "id": "memorial-de-sharpeville",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>21 de marzo de 1960</b> unas 5.000 personas se concentraron ante la comisaría del barrio negro de <b>Sharpeville</b>, al sur de Johannesburgo, respondiendo a la llamada del Congreso Panafricanista: dejaron en casa sus <b>pases</b>, el documento que el apartheid obligaba a llevar, y pidieron que los detuvieran. La policía abrió fuego y disparó más de 1.300 balas contra la multitud; muchos murieron con heridas en la espalda, mientras huían. El recuento policial dio <b>69 muertos</b> y 180 heridos, pero investigaciones recientes elevan la cifra a <b>al menos 91 muertos</b> y 238 heridos.</p><p>La matanza provocó protestas en todo el país; el gobierno declaró el estado de excepción y detuvo a más de 18.000 personas. Desde 1994, el 21 de marzo es en Sudáfrica el <b>Día de los Derechos Humanos</b>, y la ONU lo celebra como Día Internacional de la Eliminación de la Discriminación Racial. Nelson Mandela eligió Sharpeville para firmar la nueva <b>Constitución</b> el 10 de diciembre de 1996.</p><p>El memorial, que inauguró el propio Mandela, tiene a la entrada un muro con los nombres de los muertos y un jardín con 69 pilares atravesado por un arroyo. Desde 2024 forma parte del Patrimonio Mundial de los lugares del legado de Mandela.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ3Yc-d8lZlB4Rer8-EmxdRgA",
+     "https://en.wikipedia.org/wiki/Sharpeville_massacre",
+     "https://www.southafrica.net/na/en/travel/article/in-memory-of-those-who-sacrificed-everything-sharpeville-human-rights-precinct-gauteng"
+    ]
+   }
+  },
+  {
+   "id": "museo-bartolomeu-dias-y-cabo-de-buena-es",
+   "campos": {
+    "texto": {
+     "general": "<p>El navegante portugués <b>Bartolomeu Dias</b>, enviado por Juan II de Portugal a buscar la ruta marítima a la India, dobló el extremo sur de África sin darse cuenta y el <b>3 de febrero de 1488</b> desembarcó en <b>Mossel Bay</b>: fueron los primeros europeos en pisar tierra sudafricana. Allí encontró un manantial para hacer aguada, pero los habitantes khoi lo echaron a pedradas. En el viaje de regreso, ese mismo año, avistó el cabo que llamó «de las Tormentas» y que el rey rebautizó como <b>cabo de Buena Esperanza</b>.</p><p>En 1501 otro navegante portugués, Pedro de Ataíde, dejó el relato de un naufragio metido en un zapato colgado de un árbol junto al manantial; lo encontró João da Nova, y el árbol sirvió durante décadas de buzón para los marinos: es el <b>árbol del correo</b>. El <b>Complejo Museístico Bartolomeu Dias</b> nació para celebrar el desembarco y proteger el árbol. Su museo marítimo guarda una <b>réplica de la carabela</b> de Dias, construida en Portugal, que en 1988 repitió el viaje para llegar a Mossel Bay en el quinto centenario.</p><p>El cabo de Buena Esperanza está en el parque nacional de la Montaña de la Mesa, al sur de Ciudad del Cabo. No es el extremo sur de África: este es el cabo Agulhas, unos 150 kilómetros al este.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Mossel_Bay",
+     "https://en.wikipedia.org/wiki/Cape_of_Good_Hope",
+     "https://diasmuseum.co.za/maritime-museum/"
+    ],
+    "ver_alli": [
+     "Se pueden combinar en la ruta del Garden Route.",
+     "Bajo el árbol del correo hay un buzón con forma de bota; las cartas se franquean con un matasellos conmemorativo."
+    ]
+   }
+  },
+  {
+   "id": "monumento-voortrekker",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Monumento Voortrekker</b> es un enorme bloque de granito de 40 metros de lado y 40 de alto sobre una colina al sur de Pretoria. Honra a los <b>voortrekkers</b>, los colonos bóeres que entre 1835 y 1854 abandonaron la colonia británica del Cabo hacia el interior en el llamado <b>Gran Trek</b>. Lo diseñó el arquitecto <b>Gerard Moerdijk</b>; la primera piedra se puso en 1938 y lo inauguró el primer ministro D. F. Malan el <b>16 de diciembre de 1949</b>, aniversario de la batalla del río Sangre (1838), poco después de que el Partido Nacional llegara al poder. Se convirtió en la gran pieza simbólica del <b>nacionalismo afrikáner</b>.</p><p>La gran Sala de los Héroes tiene un <b>friso de mármol</b> de 27 relieves, considerado el mayor del mundo, que cuenta el Gran Trek desde 1835 hasta 1852, con la matanza de la delegación de Piet Retief en el centro. Por una abertura del suelo se ve, en la sala inferior, el <b>cenotafio</b>, la tumba simbólica de Retief y los suyos: cada 16 de diciembre a mediodía un rayo de sol entra por la cúpula e ilumina la inscripción «Nosotros por ti, Sudáfrica».</p><p>Rodea el monumento un círculo de 64 carretas de granito, como el campamento del río Sangre, y a sus pies una escultura de Anton van Wouw honra a las mujeres voortrekker. Es Patrimonio Nacional desde 2011.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Voortrekker_Monument"
+    ],
+    "ver_alli": [
+     "Cerca está el Freedom Park, memorial de la lucha contra el apartheid.",
+     "Desde la cúpula se ve buena parte del interior del monumento."
+    ]
+   }
+  },
+  {
+   "id": "calle-vilakazi-y-memorial-hector-pieters",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>calle Vilakazi</b>, en Orlando West (Soweto), es famosa porque en ella vivieron dos premios Nobel: <b>Nelson Mandela</b> y el arzobispo <b>Desmond Tutu</b>. Lleva el nombre del poeta zulú Benedict Vilakazi, que también vivió en ella.</p><p>Mandela vivió en el número 8115, una casita de ladrillo rojo construida en 1945, desde 1946 hasta 1962. Volvió a ella al salir de la cárcel en 1990, aunque solo se quedó once días: «Fue entonces cuando supe en mi corazón que había salido de la cárcel», escribió. En 1997 la donó para que fuese museo, la <b>Casa Mandela</b>. Conserva agujeros de bala en las paredes y marcas de cócteles molotov, muebles originales, fotografías y el cinturón de campeón que le regaló el boxeador Sugar Ray Leonard.</p><p>A dos manzanas de donde cayó, el <b>Museo Hector Pieterson</b>, abierto el 16 de junio de 2002, recuerda el <b>levantamiento de Soweto</b> de 1976, cuando los escolares protestaban contra la imposición del afrikáans en la enseñanza y la policía disparó contra ellos: murieron más de 170. <b>Hector Pieterson</b>, de 12 años, fue una de las primeras víctimas. La foto de <b>Sam Nzima</b> en que otro joven lo lleva en brazos, moribundo, con su hermana corriendo al lado, dio la vuelta al mundo. El 16 de junio es en Sudáfrica el Día de la Juventud.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Hector_Pieterson_Museum",
+     "https://en.wikipedia.org/wiki/Vilakazi_Street",
+     "https://en.wikipedia.org/wiki/Mandela_House",
+     "https://en.wikipedia.org/wiki/Hector_Pieterson"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-buena-esperanza",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Castillo de Buena Esperanza</b>, en Ciudad del Cabo, es una fortaleza abaluartada en forma de <b>pentágono</b> que construyó la <b>Compañía Neerlandesa de las Indias Orientales</b> entre <b>1666 y 1679</b>, en parte con trabajo de esclavos. Es el <b>edificio más antiguo</b> que se conserva en Sudáfrica. Sustituyó al fuerte de barro y madera que Jan van Riebeeck levantó al fundar la colonia en 1652, y se construyó en piedra ante el temor a una guerra con Inglaterra. Estaba a orillas de la bahía de la Tabla, pero los rellenos del puerto lo han dejado tierra adentro.</p><p>Sus cinco bastiones llevan los títulos de Guillermo III de Orange: Leerdam, Buuren, Katzenellenbogen, Nassau y Oranje. Dentro había iglesia, panadería, talleres, viviendas, tiendas y celdas; sus muros se pintaron de amarillo para atenuar el calor del sol. En el patio, el balcón <b>De Kat</b>, rehecho en 1786-1790 con esculturas de Anton Anreith, servía para leer los anuncios a soldados, esclavos y ciudadanos. La campana de la torre, fundida en Ámsterdam en 1697, es la más antigua del país. En la guerra anglo-bóer parte del castillo fue prisión, y aún se conservan las celdas.</p><p>Hoy alberga el Museo Militar del Castillo y la <b>Colección William Fehr</b> de pinturas y muebles antiguos.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Castle_of_Good_Hope"
+    ],
+    "ver_alli": [
+     "En el centro de Ciudad del Cabo.",
+     "Junto al balcón De Kat empieza la visita a la Colección William Fehr."
+    ]
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-isandlwana",
+   "campos": {
+    "texto": {
+     "general": "<p>Al pie del monte <b>Isandlwana</b>, en KwaZulu-Natal, el ejército zulú derrotó a los británicos el <b>22 de enero de 1879</b>, al comienzo de la guerra anglo-zulú. Lord Chelmsford había invadido el reino zulú del rey Cetshwayo y había dejado parte de sus tropas acampadas aquí mientras salía con el resto en busca del enemigo.</p><p>Unos 20.000 guerreros zulúes al mando de Ntshingwayo kaMahole cayeron por sorpresa sobre el campamento con su formación tradicional de «cuernos y pecho de búfalo». Murieron más de 1.300 hombres del lado británico, entre ellos el coronel Durnford y el teniente coronel Pulleine; los zulúes perdieron entre 1.000 y 3.000. Fue la peor derrota del ejército británico frente a un enemigo con armas muy inferiores. Ese día hubo además un eclipse de sol. Después, la reserva zulú cruzó el río y atacó la misión fortificada de <b>Rorke's Drift</b>, donde solo 150 soldados británicos rechazaron el asalto.</p><p>Hoy la ladera está sembrada de montones de piedras blancas que marcan los lugares donde se enterró a los soldados británicos, a menudo en grupos que hicieron una última resistencia. Un monumento de bronce recuerda a los zulúes muertos: reproduce el <i>iziqu</i>, el collar con que se premiaba el valor en combate.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJvc5rFqe78R4RFzcNplc03qc",
+     "https://en.wikipedia.org/wiki/Battle_of_Isandlwana"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-guerra-anglo-boer",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo de la Guerra Anglo-Bóer</b> de Bloemfontein, oficialmente Museo de la Guerra de las Repúblicas Bóeres, se abrió el 30 de septiembre de <b>1931</b> y explica la guerra de <b>1899-1902</b> entre el Imperio británico y las repúblicas bóeres, con obras de arte, dioramas y objetos donados por particulares.</p><p>Nació junto al <b>Monumento Nacional de las Mujeres</b>, inaugurado en diciembre de 1913 por iniciativa del expresidente del Estado Libre de Orange Martinus Steyn. Recuerda a las unas <b>27.000 mujeres y niños bóeres</b> muertos en los <b>campos de concentración</b> británicos. Es un obelisco de unos 35 metros, obra del arquitecto Frans Soff y del escultor Anton van Wouw; el grupo de bronce, dos mujeres y un niño moribundo, se basa en lo que vio la activista inglesa <b>Emily Hobhouse</b> en el campo de Springfontein en 1901. Las cenizas de Hobhouse están al pie del monumento, junto a las tumbas de Steyn y del general Christiaan de Wet. Los historiadores recuerdan que en otros campos murieron también al menos 14.000 africanos negros, unos 20.000 según las estimaciones.</p><p>En la misma ciudad se fundó el 8 de enero de 1912 el Congreso Nacional Nativo Sudafricano, el futuro <b>ANC</b>.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJy5gEe3XFjx4RybBOd86bqWU",
+     "https://www.openstreetmap.org/?mlat=-29.1403&mlon=26.2086#map=18/-29.1403/26.2086",
+     "https://en.wikipedia.org/wiki/Anglo-Boer_War_Museum",
+     "https://en.wikipedia.org/wiki/National_Women%27s_Monument",
+     "https://en.wikipedia.org/wiki/Second_Boer_War_concentration_camps",
+     "https://en.wikipedia.org/wiki/Bloemfontein"
+    ]
+   }
+  },
+  {
+   "id": "union-buildings",
+   "campos": {
+    "texto": {
+     "general": "<p>Los <b>Union Buildings</b> son la sede del gobierno de Sudáfrica, en la colina de Meintjieskop, sobre Pretoria. Los proyectó el arquitecto <b>Herbert Baker</b> y se construyeron entre <b>1910 y 1913</b>, poco después de la creación de la Unión Sudafricana, en arenisca clara, con un estilo neoclásico inspirado en el Renacimiento italiano y detalles del estilo holandés del Cabo.</p><p>El edificio, de 285 metros de largo, tiene forma de semicírculo con dos alas, que simbolizan la unión de un pueblo antes dividido; sus dos torres con cúpula representan las dos lenguas de entonces, el inglés y el afrikáans. Su reloj da las mismas campanadas que el Big Ben. El 9 de agosto de 1956, <b>20.000 mujeres</b> marcharon hasta sus puertas contra las leyes de pases, un hecho que hoy recuerda el Día Nacional de la Mujer.</p><p>Allí, en el anfiteatro, tomó posesión el <b>10 de mayo de 1994 Nelson Mandela</b>, el primer presidente elegido democráticamente del país, tras el fin del apartheid; en 2013 el anfiteatro recibió su nombre. Desde el 16 de diciembre de 2013, una <b>estatua de bronce de Mandela de 9 metros</b>, con los brazos abiertos, preside los jardines. Desde 2024 forman parte del Patrimonio Mundial de los lugares del legado de Mandela.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Union_Buildings",
+     "https://www.google.com/maps/place/?q=place_id:ChIJNzcbVPdhlR4RBSMlGXMavBU",
+     "https://www.openstreetmap.org/?mlat=-25.7406&mlon=28.2125#map=18/-25.7406/28.2125"
+    ]
+   }
+  },
+  {
+   "id": "te-tokanganui-a-noho",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Te Tokanganui-a-Noho</b> es una gran casa de reunión maorí (<i>wharenui</i>) ricamente tallada, en Te Kūiti, en la región conocida como King Country. Se construyó en <b>1873</b> bajo la dirección de <b>Te Kooti Arikirangi Te Tūruki</b>, el profeta y guerrillero fundador de la religión ringatū, y fue una de las mayores de su tiempo.</p><p>Te Kooti, perseguido tras escapar en 1868 del destierro en las islas Chatham y encabezar una guerra contra el gobierno colonial, se refugió en el territorio protegido por el <b>Rey Maorí</b> Tāwhiao y por los jefes de los <b>ngāti maniapoto</b>. En agradecimiento por su hospitalidad les regaló la casa en 1883, el año en que recibió el indulto. Se ha trasladado tres veces, la última para dejar paso al ferrocarril principal de la Isla Norte. Restaurada en 2018, reabrió en enero de 2019.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=-38.3381&mlon=175.168#map=17/-38.3381/175.168",
+     "https://waikatotainui.com/marae/te-kuuiti-paa/",
+     "https://teaonews.co.nz/2019/01/23/whats-in-a-name-a-history-of-te-tokanganui-a-noho",
+     "https://en.wikipedia.org/wiki/Te_Kooti",
+     "https://en.wikipedia.org/wiki/Te_K%C5%ABiti"
+    ]
+   }
+  }
+ ]
+}
