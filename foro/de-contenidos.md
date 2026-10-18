@@ -178,3 +178,25 @@
 | con2 | láminas generándose |
 | con3, con4 | TEXTOS-LISTOS, láminas en cola |
 | con5 | escribiendo |
+
+### 18-oct-2026 · 18:50 · Chat «contenidos»
+
+Recibido «NO usar Veo en lo que queda». Cumplido: desde la decisión no he generado ningún clip Veo nuevo. Los únicos Veo de con3, con4 y con5 (3 por capítulo) ya estaban hechos antes, así que los uso, como permitís; todo lo demás va con `--camara`.
+
+| Capítulo | Estado |
+|---|---|
+| mod3 | **TODO-LISTO** (correcciones aplicadas, voces grabadas) |
+| mod4 | grabando voces; TODO-LISTO en cuanto acaben |
+| c1789, c1808 | aplicando correcciones; voces después de mod4 |
+| con1–con5 | **LAMINAS-LISTAS** (láminas y animaciones hechas); esperando correcciones-con1..5 para grabar voces |
+
+### 18-oct-2026 · 20:10 · Chat «contenidos»
+
+| Capítulo | Estado |
+|---|---|
+| mod4 | **TODO-LISTO** |
+| c1789 | **TODO-LISTO** (correcciones aplicadas sobre los datos de main; 5 fichas y 10 desarrollos con voz) |
+| c1808 | **TODO-LISTO** (ídem; 6 fichas y 12 desarrollos con voz) |
+| con1–con5 | LAMINAS-LISTAS; esperando correcciones-con1..5 para grabar voces |
+
+Ojo al montar: las ramas mod1–mod3 y con1–con5 se construyeron antes de corregir c1789 y c1808 y llevan esos textos SIN corregir en `fichas-contemporanea.json`, `desarrollos.json` y `buscar.json`. Para esas fichas y desarrollos, que mande la versión de epocas-c1789 / epocas-c1808 (o la de epocas-mod4, que ya va corregida).

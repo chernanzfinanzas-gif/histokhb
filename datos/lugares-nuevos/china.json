@@ -1,0 +1,1224 @@
+{
+ "zona": "China y Taiwán",
+ "nuevos": [
+  {
+   "id": "ciudad-antigua-de-pingyao",
+   "nombre": "Ciudad antigua de Pingyao",
+   "provincia": "China",
+   "comarca": "Pingyao (Shanxi)",
+   "lat": 37.2044,
+   "lon": 112.1771,
+   "tipo": "poblacion",
+   "estilo": "Arquitectura Ming y Qing",
+   "epoca": "China imperial",
+   "anio": 1370,
+   "regiones_sincronia": [
+    "China"
+   ],
+   "texto": {
+    "general": "<p>Pingyao es la ciudad amurallada mejor conservada de China. Sus murallas, levantadas en <b>1370</b>, en el tercer año del primer emperador Ming, miden más de seis kilómetros de perímetro y unos doce metros de alto, con seis puertas con barbacana, cuatro torres de esquina y 72 torres de vigilancia. Dentro se conserva el trazado Ming y Qing, con cerca de cuatro mil tiendas y casas de los siglos XVII al XIX alrededor de patios.</p><p>En el siglo XIX Pingyao fue la capital financiera del imperio. Aquí nació la <b>Rishengchang</b>, la primera y mayor de las casas de giro que permitían enviar dinero de una ciudad a otra sin mover la plata; a finales de los Qing controlaba casi la mitad del comercio de plata de China. Quebró en 1914, tras la caída de la dinastía. Es Patrimonio Mundial desde 1997.</p>"
+   },
+   "ver_alli": [
+    "Se puede recorrer a pie lo alto de la muralla y las calles del centro, con la torre del Mercado en medio.",
+    "La antigua sede de la Rishengchang es hoy un museo de la banca tradicional.",
+    "Muchas casas con patio funcionan como hoteles tradicionales."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Pingyao",
+    "https://www.openstreetmap.org/?mlat=37.2044&mlon=112.177#map=17/37.2044/112.177",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ7QXZpVwKdTYRe05IbUetjwc"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "jardin-del-administrador-humilde-suzhou",
+   "nombre": "Jardín del Administrador Humilde",
+   "provincia": "China",
+   "comarca": "Suzhou (Jiangsu)",
+   "lat": 31.3265,
+   "lon": 120.6253,
+   "tipo": "monumento",
+   "estilo": "Jardín clásico chino",
+   "epoca": "China imperial",
+   "anio": 1513,
+   "regiones_sincronia": [
+    "China"
+   ],
+   "texto": {
+    "general": "<p>El mayor de los jardines clásicos de Suzhou lo creó en <b>1513</b> Wang Xianchen, un enviado imperial Ming retirado, sobre las ruinas de un templo; las obras duraron hasta 1526. Su nombre sale de un verso del poeta Pan Yue sobre la vida tranquila de quien deja la política para cultivar su huerto. El pintor <b>Wen Zhengming</b>, amigo de Wang, siguió el diseño de cerca y en 1533 le dedicó un álbum de 31 pinturas con poemas.</p><p>El jardín, de unas cinco hectáreas, se ordena alrededor de un gran estanque con islas, pabellones, puentes y rocas, en tres partes: este, centro y oeste. El hijo de Wang lo perdió jugando y pasó por muchas manos; en 1860 fue residencia de un príncipe del Reino Celestial Taiping. Se reunificó en 1949 y forma parte de los Jardines Clásicos de Suzhou, Patrimonio Mundial desde 1997.</p>"
+   },
+   "ver_alli": [
+    "Conviene seguir el recorrido de las tres partes alrededor del estanque central.",
+    "En verano florecen los lotos del estanque.",
+    "Muy cerca está el Museo de Suzhou."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Humble_Administrator%27s_Garden",
+    "https://www.openstreetmap.org/?mlat=31.3264&mlon=120.6247#map=17/31.3264/120.6247",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ95Kf4M-mszUREZWApzl39cg"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "mausoleo-de-qianling",
+   "nombre": "Mausoleo de Qianling",
+   "provincia": "China",
+   "comarca": "Qianxian (Xianyang, Shaanxi)",
+   "lat": 34.5744,
+   "lon": 108.2142,
+   "tipo": "monumento",
+   "estilo": "Necrópolis imperial Tang",
+   "epoca": "China imperial",
+   "anio": 684,
+   "regiones_sincronia": [
+    "China"
+   ],
+   "texto": {
+    "general": "<p>En el monte Liang, a unos 85 kilómetros al noroeste de Xi'an, está la tumba compartida del emperador <b>Gaozong</b> de los Tang y de su esposa <b>Wu Zetian</b>, la única mujer que gobernó China como emperador por derecho propio. El conjunto se terminó en 684, un año después de la muerte de Gaozong, y Wu Zetian fue enterrada con él en 706. Las cámaras están dentro de la montaña, a las que lleva un túnel de 61 metros, y nunca se han excavado.</p><p>A la tumba se llega por una larga Vía Sagrada con caballos alados, avestruces, leones y funcionarios de piedra. Al final están dos estelas: la de Gaozong, con una larga inscripción sobre sus hazañas, y la de Wu Zetian, la famosa <b>Estela sin palabras</b>. Junto a ellas se alinean 61 estatuas de embajadores extranjeros que asistieron al funeral, hoy todas sin cabeza. Alrededor se excavaron tumbas de la familia, como las de la princesa Yongtai y los príncipes Zhanghuai y Yide, con pinturas murales de la corte Tang.</p>"
+   },
+   "ver_alli": [
+    "Se recorre a pie la Vía Sagrada hasta las estelas y las estatuas de embajadores; el túmulo, en la cumbre norte, está a menos de un kilómetro.",
+    "Las tumbas de la princesa Yongtai y de los príncipes se visitan aparte, a pocos kilómetros, y conservan copias y algunos originales de sus pinturas.",
+    "Está a unos 85 kilómetros al noroeste de Xi'an."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Qianling_Mausoleum",
+    "https://www.google.com/maps/place/?q=place_id:ChIJC4elejcGZDYRVGQz9mqx94E"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "ruinas-de-jiaohe",
+   "nombre": "Ruinas de Jiaohe",
+   "provincia": "China",
+   "comarca": "Turpán (Xinjiang)",
+   "lat": 42.9521,
+   "lon": 89.0626,
+   "tipo": "yacimiento",
+   "estilo": "Ciudad excavada en el loess",
+   "epoca": "China antigua",
+   "anio": -108,
+   "regiones_sincronia": [
+    "China"
+   ],
+   "texto": {
+    "general": "<p>Sobre una isla alargada de tierra entre dos ríos, de unos 1.650 metros de largo y 300 de ancho, con acantilados de más de 30 metros, se alzan las ruinas de Jiaohe, a unos 10 kilómetros de Turpán. La ciudad no tenía murallas: la defendían los cortes del terreno. Sus casas, templos y calles no se construyeron, sino que se <b>excavaron</b> en el loess, de modo que la ciudad es casi una enorme escultura de tierra.</p><p>Desde el 108 a.C. fue la capital del reino de Jushi, de habla tocaria, un oasis clave de la <b>Ruta de la Seda</b>. Los Tang la convirtieron en el año 640 en cabeza de distrito y, hasta 658, en sede del Protectorado de las Regiones Occidentales. Fue destruida en el siglo XIII durante las invasiones mongolas y nunca se repobló. Desde 2014 forma parte del Patrimonio Mundial de las Rutas de la Seda.</p>"
+   },
+   "ver_alli": [
+    "Un centro de visitantes con fotos y vídeos explica la historia antes de entrar en las ruinas.",
+    "Un camino recorre la calle principal entre casas y templos budistas excavados en la tierra.",
+    "Conviene ir temprano o al atardecer: en verano Turpán es uno de los lugares más calurosos de China."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Jiaohe_Ruins",
+    "https://www.openstreetmap.org/?mlat=42.9526&mlon=89.062#map=17/42.9526/89.062",
+    "https://www.google.com/maps/place/?q=place_id:ChIJJcwmD5JsAzgRYWv8zE48mNQ"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "bosque-de-estelas-xian",
+   "nombre": "Bosque de Estelas de Xi'an",
+   "provincia": "China",
+   "comarca": "Xi'an",
+   "lat": 34.2552,
+   "lon": 108.9483,
+   "tipo": "museo",
+   "estilo": "Antiguo templo de Confucio",
+   "epoca": "China imperial",
+   "anio": 1087,
+   "regiones_sincronia": [
+    "China"
+   ],
+   "texto": {
+    "general": "<p>En un antiguo templo de Confucio, junto a la muralla sur de Xi'an, se reúnen desde 1087 casi tres mil estelas de piedra repartidas en siete salas: es el gran museo de la <b>caligrafía</b> china. Entre ellas están los clásicos confucianos grabados en piedra en época Tang, que se exponían en el templo de Confucio y en la Academia Imperial de Chang'an para que los estudiantes copiaran un texto fiel.</p><p>Su pieza más famosa fuera de China es la <b>Estela nestoriana</b>, de 781, de casi tres metros de alto, escrita en chino y en siríaco. Cuenta la llegada en 635 del misionero Alopen y la difusión del cristianismo de la Iglesia del Oriente en la China Tang. Hallada hacia 1625, se trasladó aquí en 1907, cuando el aventurero danés Frits Holm intentaba sacarla del país.</p>"
+   },
+   "ver_alli": [
+    "Las siete salas de estelas ocupan los patios del antiguo templo de Confucio.",
+    "Entre las piezas más buscadas están la Estela nestoriana y las estelas de los clásicos Tang.",
+    "Está dentro de la muralla, a unos 600 metros al este de la puerta sur."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Stele_Forest",
+    "https://en.wikipedia.org/wiki/Xi%27an_Stele",
+    "https://www.openstreetmap.org/?mlat=34.255&mlon=108.9481#map=17/34.255/108.9481",
+    "https://www.google.com/maps/place/?q=place_id:ChIJjZxGVoh6YzYRmh-stEJc5ss"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "fuerte-de-santo-domingo-tamsui",
+   "nombre": "Fuerte de Santo Domingo",
+   "provincia": "Taiwán",
+   "comarca": "Tamsui (Nueva Taipéi)",
+   "lat": 25.1754,
+   "lon": 121.4331,
+   "tipo": "castillo",
+   "estilo": "Fuerte de ladrillo y piedra, con consulado victoriano",
+   "epoca": "China imperial",
+   "anio": 1628,
+   "regiones_sincronia": [
+    "China"
+   ],
+   "texto": {
+    "general": "<p>En una colina sobre la desembocadura del río Tamsui, los <b>españoles</b> llegados desde Manila, que se habían instalado en el norte de la isla en 1626, levantaron en 1628 un fuerte de madera al que llamaron Santo Domingo; hacia 1637 lo rehicieron en piedra. La colonia debía proteger el comercio de Manila frente a los holandeses, asentados en el sur de la isla.</p><p>Los holandeses expulsaron a los españoles en 1642 y en 1644 reconstruyeron el fuerte en el mismo lugar con el nombre de Fort Antonio, en honor del gobernador Antonio van Diemen. Los chinos lo llamaron «el fuerte de los pelirrojos». Desde 1868 hasta 1972 fue consulado británico, y junto a él se conserva la residencia del cónsul, de ladrillo rojo de estilo victoriano. Hoy es monumento histórico nacional y museo.</p>"
+   },
+   "ver_alli": [
+    "Se visitan el fuerte y la residencia del cónsul británico.",
+    "Desde el jardín se ve la desembocadura del río Tamsui.",
+    "Está en Tamsui, al final de la línea roja del metro de Taipéi."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Fort_Santo_Domingo",
+    "https://en.wikipedia.org/wiki/Spanish_Formosa",
+    "https://www.openstreetmap.org/?mlat=25.1754&mlon=121.4329#map=17/25.1754/121.4329",
+    "https://www.google.com/maps/place/?q=place_id:ChIJqZ4mwE-lQjQR3d6CJEWh2O8"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "fuerte-zeelandia-anping",
+   "nombre": "Fuerte Zeelandia (Anping)",
+   "provincia": "Taiwán",
+   "comarca": "Tainan",
+   "lat": 23.0016,
+   "lon": 120.1607,
+   "tipo": "castillo",
+   "estilo": "Fuerte holandés de ladrillo",
+   "epoca": "China imperial",
+   "anio": 1624,
+   "regiones_sincronia": [
+    "China"
+   ],
+   "texto": {
+    "general": "<p>La Compañía Holandesa de las Indias Orientales construyó entre 1624 y 1634 este fuerte sobre un banco de arena que dominaba la entrada a la laguna de Tainan, con ladrillos traídos de Java y un mortero de azúcar, arena, conchas molidas y arroz glutinoso. Durante 38 años fue el centro del gobierno y del comercio holandés en Formosa.</p><p>En 1661 llegó <b>Koxinga</b> (Zheng Chenggong) con unos 400 barcos y 25.000 hombres. Tras nueve meses de asedio y sin refuerzos de Batavia, los holandeses se rindieron el 1 de febrero de 1662 y abandonaron la isla. Hoy se llama el Viejo Fuerte de Anping: quedan restos de las murallas de ladrillo holandesas junto a una torre de vigilancia posterior.</p>"
+   },
+   "ver_alli": [
+    "Los restos de la muralla sur, de ladrillo rojo, son lo más antiguo del recinto.",
+    "Desde la torre de vigilancia blanca se ve Anping y la costa.",
+    "Alrededor está el barrio viejo de Anping, con calles de comida tradicional."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Fort_Zeelandia_(Taiwan)",
+    "https://www.openstreetmap.org/?mlat=23.0016&mlon=120.1606#map=17/23.0016/120.1606",
+    "https://www.google.com/maps/place/?q=place_id:ChIJZ-TjeHN2bjQR8a3Jat0VHps"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "zhoukoudian-el-hombre-de-pekin",
+   "campos": {
+    "estilo": "Yacimiento paleolítico en cueva",
+    "ver_alli": [
+     "El museo del yacimiento explica el descubrimiento y expone réplicas de los fósiles perdidos.",
+     "La cueva principal, la Localidad 1, está a unos 500 metros al oeste del museo, en la ladera de la colina.",
+     "Está a unos 42 kilómetros al suroeste de Pekín."
+    ]
+   }
+  },
+  {
+   "id": "aldea-neolitica-de-banpo",
+   "campos": {
+    "lat": 34.274,
+    "lon": 109.048,
+    "estilo": "Aldea neolítica de la cultura Yangshao",
+    "ver_alli": [
+     "Una gran nave cubre parte de la aldea excavada, con las bases de las casas y las tumbas.",
+     "Otra sala expone la cerámica pintada, entre ella la vasija con cara humana y peces.",
+     "Está en el este de Xi'an, junto a una estación de metro."
+    ],
+    "texto": {
+     "general": "<p>Aldea de la cultura Yangshao, de hace unos 6.000 años, con casas redondas semienterradas, hornos de cerámica y un cementerio. Un museo cubre parte del poblado excavado. Sus vasijas pintadas con caras y peces llevan signos que algunos ven como antecedentes de la escritura.</p><p>Banpo se descubrió en 1953 y su museo, abierto en 1958, fue el primero de China construido sobre un yacimiento prehistórico. La aldea, de la cultura yangshao, vivía hacia el 4.800-4.300 aC del cultivo del <b>mijo</b>, uno de los dos cereales que se domesticaron en el norte de China, y de la cría de cerdos y perros. Se conservan silos para el grano y hornos donde se cocía su cerámica pintada, como la famosa vasija con una cara humana y peces.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=34.274&mlon=109.048#map=17/34.274/109.048",
+     "https://www.google.com/maps/place/?q=place_id:ChIJqQs9q1ZkYzYR01-DeP3bp6c"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-cueva-de-xianrendong",
+   "campos": {
+    "lat": 28.7362,
+    "lon": 117.1735,
+    "estilo": "Cueva con ocupación paleolítica",
+    "ver_alli": [
+     "Se visita la boca de la cueva, en un valle rural del condado de Wannian.",
+     "Hay paneles sobre la cerámica antigua y el arroz silvestre hallados aquí.",
+     "Conviene ir en coche desde Wannian o Shangrao."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=28.7363&mlon=117.1733#map=17/28.7363/117.1733",
+     "https://en.wikipedia.org/wiki/Xianren_Cave",
+     "https://www.google.com/maps/place/?q=place_id:ChIJyeR-BkxVNzQRp8qC8fFCuOU"
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-de-china",
+   "campos": {
+    "lat": 39.9037,
+    "lon": 116.3954,
+    "tipo": "museo",
+    "estilo": "Edificio monumental de 1959",
+    "ver_alli": [
+     "Está en el lado este de la plaza de Tiananmen.",
+     "La exposición permanente «La China antigua» ocupa varias plantas; para verla bien hace falta medio día.",
+     "Hay que reservar con antelación y llevar el pasaporte."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=39.9037&mlon=116.3954#map=17/39.9037/116.3954",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ5xGxSrlS8DURCcbo8EFiRwI"
+    ]
+   }
+  },
+  {
+   "id": "ruinas-de-liangzhu",
+   "campos": {
+    "estilo": "Ciudad neolítica de tierra apisonada",
+    "ver_alli": [
+     "El parque arqueológico permite recorrer en buggy o bici la plataforma del palacio, las murallas y los fosos.",
+     "El Museo de Liangzhu, a unos 4 kilómetros al este, expone los jades.",
+     "Está en el distrito de Yuhang, al noroeste de Hangzhou."
+    ]
+   }
+  },
+  {
+   "id": "erlitou",
+   "campos": {
+    "lat": 34.6931,
+    "lon": 112.6889,
+    "estilo": "Ciudad de la Edad del Bronce, tierra apisonada",
+    "ver_alli": [
+     "La zona de los palacios está marcada en el campo, entre las aldeas de Erlitou.",
+     "El Museo de la Capital Xia de Erlitou, a algo más de 1 kilómetro al sur, expone el dragón de turquesa y los primeros bronces.",
+     "Está a unos 20 kilómetros al este de Luoyang."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Erlitou_culture",
+     "https://www.openstreetmap.org/?mlat=34.6833&mlon=112.6887#map=17/34.6833/112.6887"
+    ]
+   }
+  },
+  {
+   "id": "yinxu-la-capital-shang-de-anyang",
+   "campos": {
+    "lat": 36.1226,
+    "lon": 114.3183,
+    "estilo": "Capital Shang, tierra apisonada",
+    "ver_alli": [
+     "En el recinto de los palacios se ven los cimientos reconstruidos, la tumba de Fu Hao y las fosas de carros.",
+     "El cementerio real está unos 2 kilómetros al noroeste, al otro lado del río Huan.",
+     "El nuevo Museo de Yinxu, abierto en 2024, está a unos 600 metros al este."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=36.1226&mlon=114.3183#map=17/36.1226/114.3183",
+     "https://en.wikipedia.org/wiki/Yinxu",
+     "https://www.google.com/maps/place/?q=place_id:ChIJieu0U9IH3DURNdmxnhS6vdY"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-sanxingdui",
+   "campos": {
+    "lat": 31.0038,
+    "lon": 104.2185,
+    "tipo": "museo",
+    "estilo": "Museo moderno",
+    "ver_alli": [
+     "El museo tiene un edificio nuevo para los hallazgos de las fosas recientes y salas antiguas en el mismo parque.",
+     "Las fosas del yacimiento están a unos 2 kilómetros al suroeste.",
+     "Está en Guanghan, a unos 40 kilómetros al norte de Chengdu."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=31.0037&mlon=104.2166#map=17/31.0037/104.2166",
+     "https://www.google.com/maps/place/?q=place_id:ChIJk3swW5Et8DYR8PU2qCpJ2cE"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-shanghai",
+   "campos": {
+    "lat": 31.2302,
+    "lon": 121.471,
+    "tipo": "museo",
+    "estilo": "Edificio en forma de caldero ding",
+    "ver_alli": [
+     "Está en la plaza del Pueblo, en el centro de Shanghái.",
+     "Sus salas de bronces, cerámica y jade son de las mejores del país.",
+     "Parte de las colecciones se exponen también en su nueva sede del este, en Pudong."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=31.2302&mlon=121.471#map=17/31.2302/121.471",
+     "https://www.google.com/maps/place/?q=place_id:ChIJPWUSbWlwsjURbNvIw3tOTE0"
+    ]
+   }
+  },
+  {
+   "id": "templo-mansion-y-cementerio-de-confucio",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura palaciega Ming y Qing",
+    "ver_alli": [
+     "El templo, la mansión de los Kong y el bosque con la tumba de Confucio forman tres visitas distintas.",
+     "El templo y la mansión están juntos dentro de la ciudad amurallada de Qufu; el bosque, a unos 3 kilómetros al norte.",
+     "Cada septiembre se celebra el aniversario del nacimiento de Confucio."
+    ]
+   }
+  },
+  {
+   "id": "monte-tai",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Montaña sagrada con templos y caminos de peregrinación",
+    "ver_alli": [
+     "El camino tradicional de subida empieza en el templo de Dai, en la ciudad de Tai'an.",
+     "Arriba están el templo de la Princesa de las Nubes Azules y la cumbre del Emperador de Jade, a 1.545 metros.",
+     "Muchos suben de noche para ver amanecer desde la cumbre; también hay teleféricos."
+    ]
+   }
+  },
+  {
+   "id": "ejercito-de-terracota-y-mausoleo-de-qin-",
+   "campos": {
+    "estilo": "Necrópolis imperial Qin",
+    "ver_alli": [
+     "La fosa 1, la mayor, está cubierta por una gran nave; las fosas 2 y 3 y el museo están al lado.",
+     "El túmulo del Primer Emperador, sin excavar, está a menos de 2 kilómetros al oeste y forma parte del mismo recinto.",
+     "Está en Lintong, a unos 35 kilómetros al este de Xi'an; conviene llegar temprano."
+    ]
+   }
+  },
+  {
+   "id": "museo-de-historia-de-shaanxi",
+   "campos": {
+    "lat": 34.2255,
+    "lon": 108.9505,
+    "tipo": "museo",
+    "estilo": "Edificio de estilo Tang (1991)",
+    "ver_alli": [
+     "Está en el sur de Xi'an, a poca distancia de la Pagoda de la Gran Oca Salvaje.",
+     "La sala de pinturas murales Tang se visita aparte.",
+     "Hay que reservar con antelación y llevar el pasaporte."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=34.2259&mlon=108.9503#map=17/34.2259/108.9503",
+     "https://www.google.com/maps/place/?q=place_id:ChIJd1pQT2FwYzYR-Bcdx8lqHg0"
+    ]
+   }
+  },
+  {
+   "id": "mausoleo-han-yangling",
+   "campos": {
+    "estilo": "Necrópolis imperial Han",
+    "ver_alli": [
+     "El museo subterráneo, con suelos de cristal sobre las fosas, está junto al túmulo del emperador.",
+     "Otro museo, a la entrada del recinto, expone las figuras y objetos hallados.",
+     "Está al norte de Xi'an, cerca del aeropuerto."
+    ]
+   }
+  },
+  {
+   "id": "gran-muralla-de-mutianyu",
+   "campos": {
+    "lat": 40.4344,
+    "lon": 116.5635,
+    "tipo": "monumento",
+    "estilo": "Muralla Ming de ladrillo y piedra",
+    "ver_alli": [
+     "Desde la zona de aparcamiento y taquillas se sube a la muralla a pie, en telesilla o en teleférico.",
+     "El tramo restaurado sigue la cresta entre las torres, con buenas vistas del bosque.",
+     "Está a unos 70 kilómetros al noreste de Pekín."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=40.4344&mlon=116.5635#map=17/40.4344/116.5635",
+     "https://www.google.com/maps/place/?q=place_id:ChIJzyx_aNch8TUR3yIFlZslQNA"
+    ]
+   }
+  },
+  {
+   "id": "fortaleza-de-jiayuguan",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Fortaleza Ming de tierra y ladrillo",
+    "ver_alli": [
+     "Se recorren las murallas, las puertas y las torres de la fortaleza.",
+     "Cerca está la muralla colgante, un tramo que sube por la montaña.",
+     "Está a unos 6 kilómetros al suroeste de la ciudad de Jiayuguan."
+    ]
+   }
+  },
+  {
+   "id": "grutas-de-mogao-dunhuang",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arte rupestre budista",
+    "ver_alli": [
+     "La visita empieza en el centro de visitantes, con dos películas, y sigue en autobús hasta las grutas.",
+     "Se ven solo unas pocas cuevas por grupo, con guía y sin fotos dentro.",
+     "Hay que reservar con mucha antelación; las plazas son limitadas."
+    ]
+   }
+  },
+  {
+   "id": "grutas-de-yungang",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Escultura rupestre budista Wei del Norte",
+    "ver_alli": [
+     "Las cuevas se suceden a lo largo de un acantilado de un kilómetro; las cinco de Tanyao, con los budas gigantes, están en la parte central.",
+     "Desde la entrada hay un buen paseo hasta las primeras grutas.",
+     "Está a unos 16 kilómetros al oeste de Datong."
+    ]
+   }
+  },
+  {
+   "id": "grutas-de-longmen",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Escultura rupestre budista Wei y Tang",
+    "ver_alli": [
+     "Las grutas se reparten por las dos orillas del río Yi; la gruta de Fengxian, con el gran Buda, está en la orilla oeste.",
+     "Desde la orilla este se tiene la mejor vista del conjunto.",
+     "Está a unos 12 kilómetros al sur del centro de Luoyang."
+    ]
+   }
+  },
+  {
+   "id": "templo-del-caballo-blanco",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Templo budista Ming y Qing",
+    "ver_alli": [
+     "Delante de la puerta están los dos caballos de piedra.",
+     "Dentro del recinto se conservan la pagoda Qiyun y las salas de época Ming y Qing.",
+     "Al oeste se han construido templos de estilo indio, tailandés y birmano."
+    ]
+   }
+  },
+  {
+   "id": "pagoda-de-la-gran-oca-salvaje",
+   "campos": {
+    "lat": 34.2198,
+    "lon": 108.9594,
+    "tipo": "iglesia",
+    "estilo": "Pagoda Tang de ladrillo",
+    "ver_alli": [
+     "La pagoda está dentro del templo de Da Ci'en, todavía en uso; se puede subir por dentro.",
+     "La plaza norte tiene una gran fuente con espectáculos nocturnos.",
+     "Está en el sur de Xi'an, cerca del Museo de Historia de Shaanxi."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=34.2198&mlon=108.9594#map=17/34.2198/108.9594",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ2Z1H3-c24BQRane6QKG7BEg"
+    ]
+   }
+  },
+  {
+   "id": "muralla-de-xi-an",
+   "campos": {
+    "lat": 34.2528,
+    "lon": 108.9423,
+    "tipo": "monumento",
+    "estilo": "Muralla Ming",
+    "ver_alli": [
+     "Se puede subir por varias puertas; la puerta sur, Yongning, es la más conocida.",
+     "Arriba se alquilan bicicletas para dar la vuelta completa, unos 14 kilómetros.",
+     "Al anochecer se iluminan las puertas y las torres."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=34.2531&mlon=108.9423#map=17/34.2531/108.9423",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ1S8C4Xx6YzYRmNxCD4i8ebQ"
+    ]
+   }
+  },
+  {
+   "id": "buda-gigante-de-leshan",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Escultura rupestre Tang",
+    "ver_alli": [
+     "Un camino estrecho baja junto al Buda desde la cabeza hasta los pies.",
+     "Desde los barcos que salen de Leshan se ve entero desde el río.",
+     "Está frente a la confluencia de los ríos Min, Dadu y Qingyi."
+    ]
+   }
+  },
+  {
+   "id": "templo-shaolin",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Monasterio budista chan",
+    "ver_alli": [
+     "El recinto incluye el monasterio, el bosque de pagodas funerarias y escuelas de artes marciales.",
+     "En el recinto se hacen demostraciones de kung-fu.",
+     "Está en la falda del monte Song, a unos 13 kilómetros al noroeste de Dengfeng."
+    ]
+   }
+  },
+  {
+   "id": "puente-de-zhaozhou",
+   "campos": {
+    "lat": 37.7205,
+    "lon": 114.7633,
+    "tipo": "monumento",
+    "estilo": "Puente Sui de arco rebajado",
+    "ver_alli": [
+     "El puente está en un parque junto al río Xiao, al sur de la ciudad de Zhaoxian.",
+     "Se puede cruzar a pie y ver el arco desde la orilla.",
+     "El puente fue restaurado a fondo en los años cincuenta."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=37.7202&mlon=114.7633#map=17/37.7202/114.7633",
+     "https://www.google.com/maps/place/?q=place_id:ChIJBwK9bPwO5zURZO04Q5d6AL8"
+    ]
+   }
+  },
+  {
+   "id": "gran-canal-en-yangzhou",
+   "campos": {
+    "lat": 32.3998,
+    "lon": 119.4477,
+    "tipo": "monumento",
+    "estilo": "Obra hidráulica imperial",
+    "ver_alli": [
+     "El antiguo embarcadero de Dongguan da a la calle Dongguan, con casas tradicionales.",
+     "El jardín Geyuan, de un mercader de sal, está a poca distancia, en la misma calle.",
+     "Por el canal hay paseos en barco."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=32.3999&mlon=119.4477#map=17/32.3999/119.4477",
+     "https://www.google.com/maps/place/?q=place_id:ChIJZXU4otCHtjUR6O7js_zcaVY"
+    ]
+   }
+  },
+  {
+   "id": "lago-del-oeste-de-hangzhou",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Paisaje cultural con diques, pagodas y jardines",
+    "ver_alli": [
+     "Se puede rodear a pie o en bicicleta y cruzar por los diques de Su y de Bai.",
+     "En barca se llega a la isla de los Tres Estanques que Reflejan la Luna.",
+     "La pagoda Leifeng, en la orilla sur, ofrece buenas vistas."
+    ]
+   }
+  },
+  {
+   "id": "kaifeng-pagoda-de-hierro",
+   "campos": {
+    "lat": 34.817,
+    "lon": 114.3655,
+    "tipo": "monumento",
+    "estilo": "Pagoda Song de ladrillo vidriado",
+    "ver_alli": [
+     "La pagoda está en un parque en el noreste de la ciudad vieja.",
+     "Se ven de cerca los ladrillos vidriados con figuras de budas, músicos y animales.",
+     "En Kaifeng está también el parque Qingming Shanghe, que recrea la ciudad Song."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=34.8166&mlon=114.3649#map=17/34.8166/114.3649",
+     "https://www.google.com/maps/place/?q=place_id:ChIJn9hfft0I2jURnswTwKPxLxM"
+    ]
+   }
+  },
+  {
+   "id": "pagoda-de-madera-de-yingxian",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Pagoda Liao de madera",
+    "ver_alli": [
+     "La pagoda está dentro del templo Fogong, en el centro de la villa de Yingxian.",
+     "Solo se visita la planta baja, con una gran estatua de Buda.",
+     "Está a unos 70 kilómetros al sur de Datong."
+    ]
+   }
+  },
+  {
+   "id": "quanzhou-puerto-de-la-ruta-maritima",
+   "campos": {
+    "lat": 24.9057,
+    "lon": 118.5868,
+    "tipo": "poblacion",
+    "estilo": "Ciudad portuaria Song y Yuan",
+    "ver_alli": [
+     "En el casco antiguo están la mezquita Qingjing, el templo de Kaiyuan y el templo de Confucio.",
+     "Fuera del centro se conservan el puente de Luoyang y la estatua de Laozi del monte Qingyuan.",
+     "El Museo Marítimo de Quanzhou explica el comercio con Arabia, Persia y la India."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=24.9057&mlon=118.5871#map=17/24.9057/118.5871",
+     "https://www.google.com/maps/place/?q=place_id:ChIJDxPWUyXUFDQR1ffmsVb2ZiI"
+    ]
+   }
+  },
+  {
+   "id": "ruinas-de-xanadu-shangdu",
+   "campos": {
+    "estilo": "Capital mongola Yuan",
+    "ver_alli": [
+     "Del yacimiento quedan los terraplenes de las murallas y las bases del palacio, en plena pradera.",
+     "Un autobús lleva desde la entrada hasta las puertas de la ciudad.",
+     "El Museo de Shangdu está en el pueblo de Shangdu, a unos 20 kilómetros al suroeste."
+    ]
+   }
+  },
+  {
+   "id": "palacio-del-potala-y-templo-de-jokhang",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura tibetana",
+    "ver_alli": [
+     "El Potala se visita por una ruta fija y con un tiempo limitado dentro.",
+     "El Jokhang está a unos 1,4 kilómetros al este, en el centro del barrio del Barkhor, donde los peregrinos dan vueltas al templo.",
+     "Lhasa está a más de 3.600 metros de altura: conviene aclimatarse antes de subir escaleras."
+    ]
+   }
+  },
+  {
+   "id": "ciudad-prohibida",
+   "campos": {
+    "lat": 39.9159,
+    "lon": 116.3908,
+    "tipo": "monumento",
+    "estilo": "Arquitectura palaciega Ming y Qing",
+    "ver_alli": [
+     "Se entra por el sur, por la puerta Meridiana, y se sale por el norte.",
+     "Las salas laterales tienen colecciones de relojes, porcelana y tesoros imperiales.",
+     "Hay que reservar con antelación y llevar el pasaporte."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=39.9159&mlon=116.3908#map=17/39.9159/116.3908",
+     "https://www.google.com/maps/place/?q=place_id:ChIJq4HNm91S8DURZGAQm-3qQ94"
+    ]
+   }
+  },
+  {
+   "id": "templo-del-cielo",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura ritual Ming",
+    "ver_alli": [
+     "La sala de Oración por las Buenas Cosechas, el Muro del Eco y el Altar Circular están en un eje norte-sur.",
+     "El parque que los rodea se llena por la mañana de gente que hace taichí, baila o juega a las cartas.",
+     "Está al sur del centro de Pekín."
+    ]
+   }
+  },
+  {
+   "id": "tumbas-ming",
+   "campos": {
+    "lat": 40.2995,
+    "lon": 116.2431,
+    "tipo": "monumento",
+    "estilo": "Necrópolis imperial Ming",
+    "ver_alli": [
+     "Se visitan sobre todo Changling, la tumba de Yongle, Dingling, cuyo palacio subterráneo se puede recorrer, y la Vía Sagrada.",
+     "La Vía Sagrada, con estatuas de animales y funcionarios, está unos 4 kilómetros al sur de Changling.",
+     "Están a unos 50 kilómetros al norte de Pekín."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=40.2998&mlon=116.2431#map=17/40.2998/116.2431",
+     "https://www.google.com/maps/place/?q=place_id:ChIJA3p6uOjl8DURK8Wv31Biohk"
+    ]
+   }
+  },
+  {
+   "id": "murallas-y-mausoleo-xiaoling-de-nankin",
+   "campos": {
+    "lat": 32.0623,
+    "lon": 118.8347,
+    "tipo": "monumento",
+    "estilo": "Arquitectura funeraria y militar Ming",
+    "ver_alli": [
+     "El mausoleo Xiaoling está en la falda sur de la Montaña Púrpura, con un camino de estatuas de animales.",
+     "Se puede pasear por lo alto de la muralla en varios tramos, como la puerta Zhonghua o junto al templo de Jiming.",
+     "Muy cerca está el mausoleo de Sun Yat-sen."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=32.0623&mlon=118.8347#map=17/32.0623/118.8347",
+     "https://www.google.com/maps/place/?q=place_id:ChIJC0WmIACMtTURoHl_UDb52iU"
+    ]
+   }
+  },
+  {
+   "id": "tumba-de-matteo-ricci",
+   "campos": {
+    "lat": 39.93,
+    "lon": 116.3415,
+    "tipo": "monumento",
+    "estilo": "Cementerio con lápidas sino-latinas",
+    "ver_alli": [
+     "El cementerio está dentro del recinto de la Escuela de Administración de Pekín.",
+     "Las visitas necesitan permiso previo.",
+     "Está en el oeste del centro de Pekín, cerca de la calle Chegongzhuang."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=39.9293&mlon=116.3418#map=17/39.9293/116.3418",
+     "https://www.google.com/maps/place/?q=place_id:ChIJE18H8jdS8DURCwd7NOd5HQY"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-verano",
+   "campos": {
+    "lat": 39.9978,
+    "lon": 116.268,
+    "tipo": "monumento",
+    "estilo": "Jardín imperial Qing",
+    "ver_alli": [
+     "El Pabellón de la Fragancia de Buda corona la colina de la Longevidad, sobre el lago Kunming.",
+     "El Largo Corredor pintado recorre la orilla norte del lago.",
+     "En invierno se patina sobre el lago helado."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=39.9978&mlon=116.268#map=17/39.9978/116.268",
+     "https://www.google.com/maps/place/?q=place_id:ChIJJ_a8ECtX8DURDwq4vJziVXw"
+    ]
+   }
+  },
+  {
+   "id": "ruinas-del-yuanmingyuan",
+   "campos": {
+    "lat": 40.0121,
+    "lon": 116.3066,
+    "estilo": "Ruinas de jardín imperial Qing con palacios de estilo europeo",
+    "ver_alli": [
+     "Las ruinas de los palacios europeos, como la gran fuente Dashuifa, están en el extremo noreste del parque.",
+     "El resto es un enorme parque de lagos y canales.",
+     "Las cabezas de bronce de su fuente del zodiaco se buscan aún por todo el mundo."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=40.0121&mlon=116.3066#map=17/40.0121/116.3066",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ09grWqdW8DURTB0kM62Vn_A"
+    ]
+   }
+  },
+  {
+   "id": "residencia-de-montana-de-chengde",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Palacio y jardín imperial Qing",
+    "ver_alli": [
+     "El palacio, sencillo y de madera sin pintar, está junto a la puerta sur; detrás se extienden lagos, llanura y montes.",
+     "Los Ocho Templos Exteriores, entre ellos el que imita el Potala, están al norte y al este del parque.",
+     "Está a unos 180 kilómetros en línea recta al noreste de Pekín."
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-guerra-del-opio-en-humen",
+   "campos": {
+    "lat": 22.8281,
+    "lon": 113.6546,
+    "tipo": "museo",
+    "estilo": "Museo histórico",
+    "ver_alli": [
+     "Junto al museo se conservan los estanques donde se destruyó el opio.",
+     "Los fuertes de Weiyuan están a unos 5 kilómetros al suroeste, junto a la desembocadura del río.",
+     "Hay que registrarse con el pasaporte a la entrada."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=22.8281&mlon=113.6546#map=17/22.8281/113.6546",
+     "https://www.google.com/maps/place/?q=place_id:ChIJB4F402S7AzQRBHYhThpxvmE"
+    ]
+   }
+  },
+  {
+   "id": "ruinas-de-san-pablo-y-centro-historico-d",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Fachada manierista y barroca",
+    "ver_alli": [
+     "Detrás de la fachada hay un pequeño museo de arte sacro y la cripta.",
+     "Al lado está la fortaleza del Monte, con el Museo de Macao.",
+     "Las calles tienen nombres en chino y portugués."
+    ]
+   }
+  },
+  {
+   "id": "museo-de-historia-de-hong-kong",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo histórico",
+    "ver_alli": [
+     "La exposición permanente «La historia de Hong Kong» incluye calles antiguas reconstruidas a tamaño real.",
+     "Está en Tsim Sha Tsui, junto al Museo de la Ciencia.",
+     "Desde el paseo de Tsim Sha Tsui se ve el famoso perfil de rascacielos."
+    ]
+   }
+  },
+  {
+   "id": "el-bund-de-shanghai",
+   "campos": {
+    "lat": 31.2386,
+    "lon": 121.4856,
+    "tipo": "poblacion",
+    "estilo": "Arquitectura historicista y art déco",
+    "ver_alli": [
+     "La Aduana, con su torre del reloj, y el antiguo Banco de Hong Kong y Shanghái están en el centro del paseo.",
+     "Por la noche se iluminan los edificios de las dos orillas.",
+     "Al norte, el puente Waibaidu cruza el arroyo Suzhou."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=31.2386&mlon=121.4856#map=17/31.2386/121.4856",
+     "https://www.google.com/maps/place/?q=place_id:ChIJURKIuVlwsjURlgVJrrVhwhA"
+    ]
+   }
+  },
+  {
+   "id": "sede-del-primer-congreso-del-partido-com",
+   "campos": {
+    "lat": 31.2221,
+    "lon": 121.4708,
+    "tipo": "museo",
+    "estilo": "Casa shikumen",
+    "ver_alli": [
+     "La casa original y un museo moderno están frente a frente.",
+     "Está en el barrio de Xintiandi, con muchos cafés.",
+     "Hay que llevar el pasaporte para entrar."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=31.2221&mlon=121.4707#map=17/31.2221/121.4707",
+     "https://www.google.com/maps/place/?q=place_id:ChIJGd_06nFwsjURGkunaspI9RA"
+    ]
+   }
+  },
+  {
+   "id": "mausoleo-de-sun-yat-sen",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura neotradicional china",
+    "ver_alli": [
+     "Desde la puerta se sube por una larga escalinata hasta la sala con la estatua sedente de Sun Yat-sen.",
+     "Desde arriba se ve todo Nankín.",
+     "Cerca está el mausoleo Xiaoling, del primer emperador Ming."
+    ]
+   }
+  },
+  {
+   "id": "memorial-de-la-masacre-de-nankin",
+   "campos": {
+    "lat": 32.0376,
+    "lon": 118.7375,
+    "tipo": "monumento",
+    "estilo": "Memorial contemporáneo",
+    "ver_alli": [
+     "El recorrido incluye una fosa con restos de las víctimas, salas de documentos y un jardín de la paz.",
+     "La visita es dura.",
+     "Está en el oeste de Nankín, junto a la estación de metro de Yunjinlu."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=32.0377&mlon=118.7369#map=17/32.0377/118.7369",
+     "https://www.google.com/maps/place/?q=place_id:ChIJQVG7g5iLtTURaY-mopzXiqw"
+    ]
+   }
+  },
+  {
+   "id": "plaza-de-tiananmen-y-mausoleo-de-mao",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Urbanismo monumental socialista",
+    "ver_alli": [
+     "La puerta de Tiananmen, con el retrato de Mao, cierra la plaza por el norte; el mausoleo está en la parte sur.",
+     "Al este está el Museo Nacional de China y al oeste el Gran Palacio del Pueblo.",
+     "Hay fuertes controles de seguridad para entrar."
+    ]
+   }
+  },
+  {
+   "id": "palacio-imperial-de-manchukuo",
+   "campos": {
+    "lat": 43.903,
+    "lon": 125.342,
+    "tipo": "monumento",
+    "estilo": "Arquitectura ecléctica de los años veinte y treinta",
+    "ver_alli": [
+     "Se visitan los edificios donde vivió y trabajó Puyi y las salas de sus esposas.",
+     "Varias salas cuentan la ocupación japonesa del noreste de China.",
+     "Changchun fue la capital de Manchukuo."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=43.9033&mlon=125.3419#map=17/43.9033/125.3419",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ6UZjWT1nOF4RCj70hypL_jM"
+    ]
+   }
+  },
+  {
+   "id": "yan-an-la-base-revolucionaria",
+   "campos": {
+    "lat": 36.6188,
+    "lon": 109.4623,
+    "tipo": "monumento",
+    "estilo": "Viviendas en cueva (yaodong)",
+    "ver_alli": [
+     "En Yangjialing se ven las cuevas donde vivieron Mao y otros dirigentes y la sala donde se celebró el VII Congreso del partido.",
+     "El Museo de la Revolución de Yan'an y el recinto de Wangjiaping están a unos 2 kilómetros al sureste.",
+     "Muchos visitantes se visten con el uniforme del Ejército Rojo para hacerse fotos."
+    ],
+    "texto": {
+     "general": "<p>La ciudad que, al final de la Larga Marcha, se convirtió en sede de los dirigentes comunistas, con las cuevas excavadas en el loess donde vivieron Mao y los demás dirigentes comunistas entre 1937 y 1947, y un gran museo de la revolución. Es un destino del «turismo rojo».</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=36.6192&mlon=109.4627#map=17/36.6192/109.4627",
+     "https://www.google.com/maps/place/?q=place_id:ChIJvRZaceQjbjYRxJSyVGiojuY",
+     "https://en.wikipedia.org/wiki/Yan%27an_Soviet"
+    ]
+   }
+  },
+  {
+   "id": "casa-natal-de-mao-en-shaoshan",
+   "campos": {
+    "lat": 27.912,
+    "lon": 112.4893,
+    "tipo": "monumento",
+    "estilo": "Casa rural de Hunan",
+    "ver_alli": [
+     "La casa conserva los muebles de la familia y la habitación donde nació.",
+     "La gran estatua de bronce de Mao y el museo están a poca distancia.",
+     "Recibe millones de visitantes chinos al año."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=27.9116&mlon=112.4895#map=17/27.9116/112.4895",
+     "https://www.google.com/maps/place/?q=place_id:ChIJgzIT2OUYnjYROS5t7mVX038"
+    ]
+   }
+  },
+  {
+   "id": "museo-lu-xun-de-shanghai",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo literario",
+    "ver_alli": [
+     "El museo y la tumba de Lu Xun están dentro del parque de Lu Xun, antes de Hongkou.",
+     "Su última casa, en la calle Shanyin, está a unos 400 metros al sur.",
+     "En su ciudad natal, Shaoxing, hay otra casa museo."
+    ]
+   }
+  },
+  {
+   "id": "estadio-nacional-nido-de-pajaro",
+   "campos": {
+    "lat": 39.9914,
+    "lon": 116.3903,
+    "tipo": "monumento",
+    "estilo": "Arquitectura contemporánea",
+    "ver_alli": [
+     "Está en el Parque Olímpico, al norte del centro de Pekín.",
+     "Se puede visitar por dentro cuando no hay acontecimientos.",
+     "De noche se iluminan el estadio y el cercano Cubo de Agua."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=39.9914&mlon=116.3903#map=17/39.9914/116.3903",
+     "https://www.google.com/maps/place/?q=place_id:ChIJh4wAB8RU8DURtofj9dfJNe4"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-los-examenes-imperiales",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo histórico",
+    "ver_alli": [
+     "El museo moderno es en gran parte subterráneo; se conservan también algunas filas de celdas y el edificio Mingyuan.",
+     "Está junto al templo de Confucio y el río Qinhuai.",
+     "La zona se llena de gente por la noche, con los barcos iluminados del río."
+    ]
+   }
+  },
+  {
+   "id": "memorial-de-chiang-kai-shek",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura neotradicional china",
+    "ver_alli": [
+     "Una gran escalinata sube hasta la sala con la estatua de bronce.",
+     "El cambio de guardia es cada hora.",
+     "A los lados de la plaza están el Teatro y la Sala de Conciertos nacionales."
+    ]
+   }
+  },
+  {
+   "id": "museo-del-palacio-nacional-de-taipei",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Edificio neotradicional chino",
+    "ver_alli": [
+     "Las piezas más famosas, como la col de jade, se exponen por turnos y a veces están en la sede del sur.",
+     "Junto al museo está el jardín Zhishan, de estilo clásico chino.",
+     "Conviene ir temprano para ver las piezas más famosas."
+    ]
+   }
+  },
+  {
+   "id": "yacimiento-fosil-de-chengjiang",
+   "campos": {
+    "estilo": "Yacimiento paleontológico",
+    "ver_alli": [
+     "El Museo de Historia Natural del Yacimiento de Chengjiang, abierto en 2020 entre la zona protegida y el lago Fuxian, expone miles de fósiles.",
+     "En Maotianshan hay un pequeño museo sobre el lugar del primer hallazgo; su apertura ha sido irregular."
+    ]
+   }
+  },
+  {
+   "id": "museo-yacimiento-hemudu",
+   "campos": {
+    "estilo": "Aldea neolítica palafítica",
+    "ver_alli": [
+     "Museo con los hallazgos de las excavaciones de los años setenta.",
+     "Reconstrucción al aire libre de casas sobre postes y del paisaje de la aldea.",
+     "Conviene ir en coche o taxi desde Yuyao o Ningbo."
+    ]
+   }
+  },
+  {
+   "id": "yacimiento-de-shimao",
+   "campos": {
+    "estilo": "Ciudad neolítica de piedra"
+   }
+  },
+  {
+   "id": "museo-del-yacimiento-de-taosi",
+   "campos": {
+    "estilo": "Ciudad neolítica de tierra apisonada"
+   }
+  },
+  {
+   "id": "museo-de-henan",
+   "campos": {
+    "estilo": "Edificio de inspiración piramidal (1998)"
+   }
+  },
+  {
+   "id": "museo-de-hunan",
+   "campos": {
+    "lat": 28.2154,
+    "lon": 112.988,
+    "estilo": "Museo moderno",
+    "ver_alli": [
+     "Exposición permanente de las tumbas Han de Mawangdui, con el cuerpo de Xin Zhui.",
+     "Avenida Dongfeng, en el distrito de Kaifu de Changsha.",
+     "Conviene reservar la entrada con antelación."
+    ],
+    "fuentes": [
+     "https://www.hnmuseum.com/en/content/changsha-mawangdui-han-dynasty-tombs-exhibition",
+     "https://en.wikipedia.org/wiki/Hunan_Museum",
+     "https://en.wikipedia.org/wiki/Xin_Zhui",
+     "https://www.openstreetmap.org/?mlat=28.2154&mlon=112.9883#map=17/28.2154/112.9883",
+     "https://www.google.com/maps/place/?q=place_id:ChIJVwBQRAxKJzQRsXcIov5fQ2Y"
+    ]
+   }
+  },
+  {
+   "id": "dujiangyan",
+   "campos": {
+    "lat": 31.0092,
+    "lon": 103.6044,
+    "estilo": "Obra hidráulica Qin",
+    "ver_alli": [
+     "Recinto visitable con el espigón de la Boca de Pez, el corte de la colina y el puente colgante de Anlan.",
+     "Templo de los Dos Reyes, dedicado a Li Bing y a su hijo.",
+     "Está a unos 60 kilómetros de Chengdu."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Dujiangyan",
+     "https://www.chinahighlights.com/chengdu/attraction/dujiangyan-irrigation-project.htm",
+     "https://www.openstreetmap.org/?mlat=31.0092&mlon=103.6043#map=17/31.0092/103.6043",
+     "https://www.google.com/maps/place/?q=place_id:ChIJB3Da8MUG8DYRYtu_Tw4By2E"
+    ]
+   }
+  },
+  {
+   "id": "canal-lingqu",
+   "campos": {
+    "lat": 25.6062,
+    "lon": 110.6802,
+    "estilo": "Obra hidráulica Qin",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Lingqu",
+     "https://whc.unesco.org/en/tentativelists/5814",
+     "https://www.chinahighlights.com/guilin/attraction/the-ling-canal.htm",
+     "https://www.openstreetmap.org/?mlat=25.6067&mlon=110.6803#map=17/25.6067/110.6803",
+     "https://www.google.com/maps/place/?q=place_id:ChIJgQFZzeZ0pDYRhWCeO6GDdNI"
+    ]
+   }
+  },
+  {
+   "id": "templo-de-wuhou-chengdu",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Templo conmemorativo Qing"
+   }
+  },
+  {
+   "id": "jian-capital-y-tumbas-de-goguryeo",
+   "campos": {
+    "estilo": "Tumbas de piedra de Goguryeo"
+   }
+  },
+  {
+   "id": "palacio-de-huaqing",
+   "campos": {
+    "lat": 34.3655,
+    "lon": 109.207,
+    "estilo": "Jardín palaciego con baños termales Tang",
+    "fuentes": [
+     "https://en.shaanxi.gov.cn/tourism/ms/201707/t20170703_1594853.html",
+     "https://www.openstreetmap.org/?mlat=34.3649&mlon=109.2075#map=17/34.3649/109.2075",
+     "https://www.google.com/maps/place/?q=place_id:ChIJYfq0V_NfYzYRqjMo_OnG68Y"
+    ]
+   }
+  },
+  {
+   "id": "cabana-de-paja-de-du-fu",
+   "campos": {
+    "lat": 30.6625,
+    "lon": 104.0255,
+    "estilo": "Jardín conmemorativo",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Du_Fu_Thatched_Cottage",
+     "https://www.chinatravel.com/chengdu/attraction/thatched-cottage-of-dufu",
+     "https://www.openstreetmap.org/?mlat=30.6629&mlon=104.0262#map=17/30.6629/104.0262",
+     "https://www.google.com/maps/place/?q=place_id:ChIJB-sN9r7E7zYRpO3Fn32G9dk"
+    ]
+   }
+  },
+  {
+   "id": "templo-de-miaoying",
+   "campos": {
+    "estilo": "Estupa tibetana Yuan"
+   }
+  },
+  {
+   "id": "astillero-de-los-barcos-del-tesoro-nankin",
+   "campos": {
+    "lat": 32.0632,
+    "lon": 118.7287,
+    "estilo": "Astillero Ming",
+    "fuentes": [
+     "https://www.aljazeera.com/news/2005/11/6/park-honours-famed-chinese-admiral",
+     "https://thenanjinger.com/uncategorised/ancient-shipyard-used-by-zheng-he-may-lie-beneath-construction-site-2/",
+     "https://www.openstreetmap.org/?mlat=32.0633&mlon=118.7285#map=17/32.0633/118.7285",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ48blKxeLtTURuXQtWEuqRbc"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-los-hornos-imperiales-de-jingdezhen",
+   "campos": {
+    "lat": 29.2992,
+    "lon": 117.2018,
+    "estilo": "Bóvedas de ladrillo contemporáneas",
+    "fuentes": [
+     "http://www.studiozhupei.com/en/show/?id=425",
+     "https://www.designboom.com/architecture/studio-pei-zhu-imperial-kiln-museum-jingdezhen-china-brick-vaults-09-28-2020/",
+     "https://www.trip.com/travel-guide/attraction/jingdezhen/jingdezhen-imperial-kiln-museum-79437145/",
+     "https://www.openstreetmap.org/?mlat=29.2992&mlon=117.2018#map=17/29.2992/117.2018",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ3x44kZIsNzQRgDUDLEhCEIs"
+    ]
+   }
+  }
+ ]
+}

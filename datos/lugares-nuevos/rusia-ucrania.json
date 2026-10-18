@@ -1,0 +1,707 @@
+{
+ "zona": "Rusia, Ucrania y Kazajistán",
+ "nuevos": [
+  {
+   "id": "pogost-de-kizhi",
+   "nombre": "Pogost de Kizhi",
+   "provincia": "Rusia",
+   "comarca": "Isla de Kizhi, lago Onega (Carelia)",
+   "lat": 62.0677,
+   "lon": 35.2235,
+   "tipo": "iglesia",
+   "estilo": "Arquitectura rusa de madera",
+   "epoca": "Rusia imperial",
+   "anio": 1714,
+   "regiones_sincronia": [
+    "Rusia"
+   ],
+   "texto": {
+    "general": "<p>En una isla del <b>lago Onega</b>, en Carelia, se alza el conjunto de madera más famoso de Rusia: un recinto parroquial (<i>pogost</i>) con dos iglesias y un campanario. La mayor, la <b>iglesia de la Transfiguración</b>, empezó a levantarse en 1714: mide 37 metros y se corona con <b>22 cúpulas</b> escalonadas, cubiertas de tejas de madera. A su lado, la iglesia de la Intercesión, de 9 cúpulas, tomó su forma actual en 1764. El campanario es del siglo XIX.</p><p>Cuenta la leyenda que todo se construyó <b>sin un solo clavo</b>; en realidad la estructura va ensamblada con troncos, pero para las tejas de las cúpulas se usaron unos 180.000 clavos. Alrededor, la isla es un museo al aire libre de arquitectura de madera. Es Patrimonio de la Humanidad desde 1990.</p>"
+   },
+   "ver_alli": [
+    "Se llega en barco desde Petrozavodsk, solo en la temporada sin hielo.",
+    "La isla es llana y casi sin sombra; además del pogost se recorre el resto del museo al aire libre.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Kizhi_Pogost",
+    "https://www.openstreetmap.org/relation/18816986"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "ciudadela-de-derbent",
+   "nombre": "Ciudadela de Naryn-Kala y murallas de Derbent",
+   "provincia": "Rusia",
+   "comarca": "Derbent (Daguestán)",
+   "lat": 42.0528,
+   "lon": 48.2742,
+   "tipo": "castillo",
+   "estilo": "Fortificación sasánida",
+   "epoca": "Partos y sasánidas",
+   "regiones_sincronia": [
+    "Rusia"
+   ],
+   "texto": {
+    "general": "<p>Entre el Cáucaso y el mar Caspio queda un estrecho paso de llanura: las <b>Puertas Caspias</b>, por donde los pueblos de la estepa podían bajar hacia Persia. Para cerrarlo, los reyes <b>sasánidas</b> levantaron aquí en el siglo VI, en tiempos de <b>Cosroes I</b>, una ciudadela en lo alto de la colina, Naryn-Kala, y murallas de unos 20 metros de alto que bajaban hasta el mar, con una treintena de torres mirando al norte.</p><p>En el año <b>643</b> la conquistaron los árabes, que la llamaron <b>Bab al-Abwab</b>, «la Puerta de las Puertas», la convirtieron en centro administrativo e introdujeron el islam. La ciudadela ocupa unas 4,5 hectáreas, y la ciudad vieja se extiende ladera abajo hacia el mar. Es Patrimonio de la Humanidad desde 2003.</p>"
+   },
+   "ver_alli": [
+    "La ciudadela está en lo alto de la ciudad; desde sus muros se ve la ciudad bajando hacia el Caspio.",
+    "Merece la pena bajar luego a pie por la ciudad vieja.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Citadel,_Ancient_City_and_Fortress_Buildings_of_Derbent",
+    "https://www.openstreetmap.org/relation/19337633"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "bolgar",
+   "nombre": "Bolgar, la ciudad de los búlgaros del Volga",
+   "provincia": "Rusia",
+   "comarca": "Bolgar (Tartaristán)",
+   "lat": 54.9856,
+   "lon": 49.056,
+   "tipo": "yacimiento",
+   "estilo": "Ciudad islámica medieval",
+   "epoca": "Islámico medieval",
+   "anio": 922,
+   "regiones_sincronia": [
+    "Rusia"
+   ],
+   "texto": {
+    "general": "<p>A orillas del Volga, al sur de Kazán, están las ruinas de Bolgar, la capital de la <b>Bulgaria del Volga</b>, una gran ciudad comercial. En <b>922</b> su rey adoptó el <b>islam</b> como religión del Estado; para instruirle llegó una embajada del califa de Bagdad, en la que viajaba como secretario <b>Ibn Fadlán</b>.</p><p>Los mongoles arrasaron el país en 1236 y Bolgar pasó a la <b>Horda de Oro</b>; fue saqueada de nuevo en 1361. Quedan la gran mezquita con su minarete, mausoleos, y las cámaras Negra y Blanca. Pedro el Grande ordenó por decreto proteger las ruinas, y en época soviética se convirtió en meta del «pequeño hach» de los musulmanes de Rusia. Es Patrimonio de la Humanidad desde 2014.</p>"
+   },
+   "ver_alli": [
+    "El recinto arqueológico es amplio, junto al Volga; el punto señala la gran mezquita y su minarete.",
+    "Desde Kazán se puede llegar por carretera o, en temporada, en barco por el Volga.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Bolghar",
+    "https://en.wikipedia.org/wiki/Volga_Bulgaria",
+    "https://www.openstreetmap.org/way/308422429"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "kostionki",
+   "nombre": "Kostionki, yacimientos paleolíticos del Don",
+   "provincia": "Rusia",
+   "comarca": "Kostionki (región de Vorónezh)",
+   "lat": 51.3856,
+   "lon": 39.0516,
+   "tipo": "yacimiento",
+   "estilo": "Paleolítico superior",
+   "epoca": "Paleolítico",
+   "regiones_sincronia": [
+    "Rusia"
+   ],
+   "texto": {
+    "general": "<p>En la orilla occidental del <b>Don</b>, junto al pueblo de Kostionki, se conocen <b>26 yacimientos</b> del Paleolítico superior. Son de los más antiguos de Europa con restos del <b>ser humano moderno</b>: algunos hallazgos quedan por debajo de una capa de ceniza de una gran erupción volcánica de la Campania, en Italia, de hace unos 45.000 años, de modo que hubo gente aquí antes de esa fecha.</p><p>De Kostionki 14 procede el esqueleto de un hombre que vivió hace entre 38.700 y 36.200 años, cuyo <b>genoma</b> mostró que los linajes europeos y asiáticos ya se habían separado y que llevaba una pequeña parte de herencia neandertal. El museo-reserva se construyó sobre un gran <b>círculo de huesos de mamut</b>, Kostionki 11, que se ve tal como se excavó: lo levantaron hace más de 20.000 años, en lo más frío de la glaciación, con los restos de más de sesenta mamuts.</p>"
+   },
+   "ver_alli": [
+    "El museo-reserva está en el propio pueblo de Kostionki, a orillas del Don, al sur de Vorónezh.",
+    "La gran sala cubre la excavación del círculo de huesos de mamut, que se ve desde pasarelas.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Kostyonki%E2%80%93Borshchyovo",
+    "https://www.sciencedaily.com/releases/2020/03/200316204633.htm",
+    "https://www.openstreetmap.org/node/766879502"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-la-ascension-de-kolomenskoye",
+   "nombre": "Iglesia de la Ascensión de Kolómenskoye",
+   "provincia": "Rusia",
+   "comarca": "Moscú",
+   "lat": 55.6673,
+   "lon": 37.6708,
+   "tipo": "iglesia",
+   "estilo": "Iglesia de tejado en tienda (shatior)",
+   "epoca": "Rus de Kiev y Moscovia",
+   "anio": 1532,
+   "regiones_sincronia": [
+    "Rusia"
+   ],
+   "texto": {
+    "general": "<p>En un alto sobre el río Moscova, en Kolómenskoye, se levantó en <b>1532</b> esta iglesia blanca para celebrar el nacimiento tan esperado de un heredero al trono: el futuro <b>Iván el Terrible</b>.</p><p>Fue la primera iglesia de piedra con <b>tejado en forma de tienda</b>, una aguja altísima que rompía con la tradición bizantina de las cúpulas y que, según se cree, imitaba las iglesias de madera del norte de Rusia. Es Patrimonio de la Humanidad desde 1994. En el parque se ha reconstruido el gran palacio de madera del zar Alejo, a un kilómetro de su lugar original.</p>"
+   },
+   "ver_alli": [
+    "Está en el gran parque de Kolómenskoye, en el sur de Moscú, sobre el río Moscova.",
+    "El parque se recorre a pie; el palacio de madera reconstruido está en otra zona del recinto.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Church_of_the_Ascension,_Kolomenskoye",
+    "https://en.wikipedia.org/wiki/Kolomenskoye",
+    "https://www.openstreetmap.org/way/74203156"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "quersoneso-taurico",
+   "nombre": "Quersoneso Táurico",
+   "provincia": "Ucrania",
+   "comarca": "Sebastopol (Crimea)",
+   "lat": 44.6108,
+   "lon": 33.4904,
+   "tipo": "yacimiento",
+   "estilo": "Ciudad griega y bizantina",
+   "epoca": "Griegos",
+   "regiones_sincronia": [
+    "Rusia"
+   ],
+   "texto": {
+    "general": "<p>En la costa suroeste de <b>Crimea</b>, colonos griegos de <b>Heraclea Póntica</b> fundaron Quersoneso en el siglo V a. C. (algunas fuentes dicen el VI). La ciudad controlaba una amplia campiña, la <b>cora</b>, dividida en parcelas con lagares y torres de defensa, que se conserva como pocas del mundo griego. Se ven las calles, un anfiteatro romano, un templo griego y varias basílicas cristianas, como la descubierta en 1935, probablemente del siglo VI.</p><p>Según la tradición, aquí se bautizó en <b>988</b> el príncipe <b>Vladimiro de Kiev</b>, como condición para casarse con la princesa bizantina Ana, aunque los historiadores dudan de parte del relato. Es Patrimonio de la Humanidad desde 2013. Tras la anexión de Crimea por Rusia en 2014, la UNESCO sigue considerándolo ucraniano, y en julio de 2026 lo incluyó en la Lista del Patrimonio en Peligro por las obras y excavaciones de las autoridades rusas.</p>"
+   },
+   "ver_alli": [
+    "Está en el borde oeste de Sebastopol, junto al mar.",
+    "Crimea está ocupada por Rusia desde 2014 y en zona de guerra. Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Chersonesus",
+    "https://www.openstreetmap.org/way/355526973"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "casco-historico-de-leopolis",
+   "nombre": "Casco histórico de Leópolis (Lviv)",
+   "provincia": "Ucrania",
+   "comarca": "Leópolis (Lviv)",
+   "lat": 49.8416,
+   "lon": 24.0316,
+   "tipo": "poblacion",
+   "estilo": "Casco histórico centroeuropeo",
+   "epoca": "Rus de Kiev y Moscovia",
+   "anio": 1256,
+   "regiones_sincronia": [
+    "Rusia"
+   ],
+   "texto": {
+    "general": "<p>La fundó a mediados del siglo XIII el rey <b>Daniel de Galitzia</b>, que le dio el nombre de su hijo <b>Lev</b> («león»); hacia 1270 Lev la hizo capital del reino de Galitzia-Volinia, uno de los herederos de la Rus de Kiev. En el siglo XIV pasó a Polonia, y en 1356 el rey Casimiro III le concedió el <b>derecho de Magdeburgo</b>, que dejaba el gobierno de la ciudad en manos de un consejo de ciudadanos. Ese mismo año se fundó la diócesis armenia.</p><p>Fue una ciudad de muchos pueblos: polacos, ucranianos, armenios y <b>judíos</b>, que en 1910 eran más de una cuarta parte de la población. Desde 1772 perteneció a Austria con el nombre de Lemberg, capital de Galitzia. En el centro está la <b>plaza del Mercado (Rynok)</b> con el ayuntamiento, y a pocos pasos la catedral latina con la capilla Boim, la catedral armenia y la iglesia de la Dormición. Es Patrimonio de la Humanidad desde 1998.</p>"
+   },
+   "ver_alli": [
+    "Todo el casco histórico se recorre a pie desde la plaza Rynok.",
+    "Además de las grandes iglesias, merece la pena entrar en los patios de las casas de la plaza.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Lviv",
+    "https://en.wikipedia.org/wiki/Old_Town_(Lviv)",
+    "https://www.openstreetmap.org/relation/2166192"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "mausoleo-de-joya-ahmed-yasaui",
+   "nombre": "Mausoleo de Joya Ahmed Yasaui",
+   "provincia": "Kazajistán",
+   "comarca": "Turkestán",
+   "lat": 43.2977,
+   "lon": 68.2709,
+   "tipo": "monumento",
+   "estilo": "Arquitectura timúrida",
+   "epoca": "Timúridas y safávidas",
+   "anio": 1389,
+   "regiones_sincronia": [
+    "Estepa"
+   ],
+   "texto": {
+    "general": "<p><b>Ahmed Yasaui</b> fue un poeta y místico sufí turco del siglo XII, nacido en 1093 en Sayram y muerto en 1166 en Yasi, la actual Turkestán, donde fundó una escuela sufí muy influyente entre los pueblos de la estepa. Sobre su tumba, <b>Tamerlán</b> mandó levantar en 1389 un enorme mausoleo, que quedó sin terminar cuando él murió en 1405.</p><p>La sala central, de 18,2 metros de diámetro, tiene la <b>mayor cúpula de ladrillo conservada de Asia central</b> y guarda un gran caldero de bronce para usos religiosos. Sus bóvedas, cúpulas y azulejos vidriados sirvieron de modelo al <b>estilo timúrida</b>, que se extendió por todo el imperio e influyó en la arquitectura mogola de la India. Es Patrimonio de la Humanidad desde 2003.</p>"
+   },
+   "ver_alli": [
+    "Está en el centro de Turkestán, dentro de un gran recinto con parque y otros edificios históricos.",
+    "Es lugar de peregrinación: conviene ir con ropa discreta."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Mausoleum_of_Khoja_Ahmed_Yasawi",
+    "https://www.openstreetmap.org/way/117854803"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "santa-sofia-de-kiev",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Bizantino de la Rus de Kiev, con fachada barroca ucraniana",
+    "texto": {
+     "general": "<p>La gran catedral de la Rus de Kiev, de hacia 1037, con mosaicos y frescos bizantinos originales, como la Virgen Orante del ábside. A unos 4 km está el Monasterio de las Cuevas. En sus paredes se han encontrado cientos de grafitis medievales, entre ellos uno que menciona la muerte del príncipe Yaroslav el Sabio. En la plaza que hay delante se alza la estatua ecuestre del atamán Bogdán Jmelnitski.</p><p>La catedral la levantó Yaroslav el Sabio, hijo de <b>Vladimiro</b>, el príncipe que en 988 se bautizó y mandó bautizar a los habitantes de Kiev en el Dniéper. Muy cerca, en lo alto de la vieja ciudad, se ven los cimientos de la primera iglesia de piedra de la Rus, la de los Diezmos, construida por Vladimiro entre 989 y 996 y destruida por los mongoles en 1240. En la plaza de San Miguel, a pocos pasos, un monumento recuerda a la princesa <b>Olga</b>, abuela de Vladimiro, que se había bautizado antes que él.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/27830282"
+    ]
+   }
+  },
+  {
+   "id": "lavra-de-las-cuevas-de-kiev",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Barroco ucraniano",
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/10279664"
+    ]
+   }
+  },
+  {
+   "id": "puerta-de-oro-de-kiev",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Fortificación de la Rus de Kiev (reconstrucción de 1982)",
+    "fuentes": [
+     "https://www.openstreetmap.org/way/27830130"
+    ]
+   }
+  },
+  {
+   "id": "plaza-de-la-independencia-maidan",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Plaza urbana del siglo XX",
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/9287875"
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-del-holodomor",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Memorial contemporáneo",
+    "lat": 50.4382,
+    "lon": 30.5541,
+    "fuentes": [
+     "https://www.openstreetmap.org/way/81065379"
+    ]
+   }
+  },
+  {
+   "id": "museo-del-campo-de-batalla-de-poltava",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Campo de batalla y museo",
+    "lat": 49.6304,
+    "lon": 34.5532,
+    "texto": {
+     "general": "<p>El campo donde Pedro el Grande derrotó a Carlos XII de Suecia en 1709, con un museo, las fortificaciones reconstruidas, la tumba común de los soldados rusos y un monumento sueco.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/124087844"
+    ]
+   }
+  },
+  {
+   "id": "zona-de-exclusion-de-chernobil",
+   "campos": {
+    "estilo": "Ciudad y central soviéticas abandonadas",
+    "fuentes": [
+     "https://www.openstreetmap.org/way/23652365"
+    ]
+   }
+  },
+  {
+   "id": "kremlin-de-moscu",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Fortificación renacentista italiana y arquitectura rusa",
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/1360641"
+    ]
+   }
+  },
+  {
+   "id": "plaza-roja-y-catedral-de-san-basilio",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura rusa del siglo XVI",
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/3030568"
+    ]
+   }
+  },
+  {
+   "id": "mausoleo-de-lenin",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Constructivismo",
+    "ver_alli": [
+     "Se entra en silencio y sin hacer fotos.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/3272726"
+    ]
+   }
+  },
+  {
+   "id": "galeria-tretiakov",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Fachada neorrusa",
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/1907261"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-la-trinidad-y-san-sergio",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura moscovita medieval y barroca",
+    "fuentes": [
+     "https://www.openstreetmap.org/way/219706573"
+    ]
+   }
+  },
+  {
+   "id": "kremlin-de-novgorod",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Arquitectura medieval de Nóvgorod",
+    "fuentes": [
+     "https://www.openstreetmap.org/way/26333895"
+    ]
+   }
+  },
+  {
+   "id": "vladimir-y-suzdal",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Arquitectura de piedra blanca de Vladímir-Súzdal"
+   }
+  },
+  {
+   "id": "kremlin-de-kazan",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Arquitectura rusa y tártara",
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/14454789"
+    ]
+   }
+  },
+  {
+   "id": "campo-de-kulikovo",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Campo de batalla y memorial",
+    "lat": 53.6092,
+    "lon": 38.6726,
+    "ver_alli": [
+     "El punto señala el memorial del Monte Rojo (Krasni Jolm), con la columna de Dmitri Donskói y la iglesia de San Sergio, desde el que se domina el campo.",
+     "El moderno Museo de la Batalla de Kulikovo está en Mojovoye, a unos 1,5 km al norte del memorial.",
+     "Cada septiembre se celebra una recreación. Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/way/76843092"
+    ]
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-borodino",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Campo de batalla y memoriales",
+    "lat": 55.5192,
+    "lon": 35.8272,
+    "ver_alli": [
+     "El punto señala la batería de Raievski, con el monumento principal a los soldados rusos y la tumba de Bagratión; el museo del campo de batalla está a unos 300 m.",
+     "Cada septiembre se recrea la batalla con miles de participantes. Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/way/263655741"
+    ]
+   }
+  },
+  {
+   "id": "teatro-bolshoi",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Neoclasicismo",
+    "fuentes": [
+     "https://www.openstreetmap.org/node/6061084593"
+    ]
+   }
+  },
+  {
+   "id": "convento-y-cementerio-de-novodevichi",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Barroco moscovita",
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/1543094"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-cosmonautica",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Monumento soviético de la era espacial",
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/18440666"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-historia-del-gulag",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de historia",
+    "lat": 55.7771,
+    "lon": 37.6137,
+    "ver_alli": [
+     "Desde 2015 está en el primer callejón Samotiochni, al norte del centro de Moscú.",
+     "En 2024 las autoridades lo cerraron alegando problemas de seguridad; conviene comprobar si está abierto. Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/way/79561160"
+    ]
+   }
+  },
+  {
+   "id": "fortaleza-de-san-pedro-y-san-pablo",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Barroco petrino",
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/227969"
+    ]
+   }
+  },
+  {
+   "id": "museo-del-hermitage-y-palacio-de-inviern",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Barroco isabelino",
+    "texto": {
+     "general": "<p>El palacio de los zares a orillas del Nevá, con el museo que fundó Catalina la Grande, uno de los mayores del mundo: Rembrandt, Leonardo, los impresionistas y tesoros escitas. En octubre de 1917 los bolcheviques asaltaron el palacio, sede del gobierno provisional.</p><p>El Hermitage guarda la <b>colección siberiana</b> que el zar Pedro I reunió a comienzos del siglo XVIII con oro de los kurganes, y joyas escitas famosas como el <b>ciervo de Kostromskaya</b>, una placa de oro de los siglos VII-VI a.C. con la cornamenta a lo largo del lomo, y el peine de oro de Solokha. Allí están también los hallazgos de los túmulos helados de <b>Pazyryk</b>, en el Altái, de hacia el 300 a.C., entre ellos la alfombra de nudos más antigua conocida.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/69424"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-peterhof",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Barroco",
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/7483660"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-catalina-en-tsarskoye-selo",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Barroco isabelino",
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/17546726"
+    ]
+   }
+  },
+  {
+   "id": "iglesia-del-salvador-sobre-la-sangre-der",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Neorruso"
+   }
+  },
+  {
+   "id": "museo-apartamento-de-pushkin",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Casa museo",
+    "fuentes": [
+     "https://www.openstreetmap.org/way/100549426"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-dostoievski",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Casa museo",
+    "fuentes": [
+     "https://www.openstreetmap.org/node/507091461"
+    ]
+   }
+  },
+  {
+   "id": "palacio-yusupov",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Neoclasicismo",
+    "texto": {
+     "general": "<p>El lujoso palacio de los príncipes Yusúpov, donde fue asesinado Rasputín en 1916. En el sótano se recrea la escena con figuras de cera. Su teatro privado, de estilo rococó, sigue acogiendo conciertos.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/123243367"
+    ]
+   }
+  },
+  {
+   "id": "crucero-aurora",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Barco museo",
+    "texto": {
+     "general": "<p>El crucero que luchó en Tsushima en 1905 y cuyo cañonazo de fogueo, según la tradición, dio la señal del asalto al Palacio de Invierno en octubre de 1917. Es hoy un barco museo. Dentro hay un museo naval con la historia del barco y de sus tripulantes.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/3272566",
+     "https://en.wikipedia.org/wiki/Russian_cruiser_Aurora"
+    ]
+   }
+  },
+  {
+   "id": "cementerio-memorial-de-piskariovskoye",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Memorial soviético",
+    "fuentes": [
+     "https://www.openstreetmap.org/way/9890438"
+    ]
+   }
+  },
+  {
+   "id": "kronstadt",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Ciudad fortaleza naval",
+    "lat": 59.9917,
+    "lon": 29.7778,
+    "ver_alli": [
+     "El punto señala la catedral Naval de San Nicolás, en la plaza del Ancla, en el centro de la isla.",
+     "Se llega por carretera, por el dique de protección contra las inundaciones. Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/way/672484672"
+    ]
+   }
+  },
+  {
+   "id": "islas-solovetski",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Monasterio fortificado",
+    "fuentes": [
+     "https://www.openstreetmap.org/way/38704042"
+    ]
+   }
+  },
+  {
+   "id": "iglesia-sobre-la-sangre-de-ekaterimburgo",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Neobizantino ruso",
+    "fuentes": [
+     "https://www.openstreetmap.org/way/46993203"
+    ]
+   }
+  },
+  {
+   "id": "mamayev-kurgan",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Realismo socialista",
+    "fuentes": [
+     "https://www.openstreetmap.org/way/1027346638"
+    ]
+   }
+  },
+  {
+   "id": "yasnaya-poliana",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Finca museo",
+    "fuentes": [
+     "https://www.openstreetmap.org/node/471809697"
+    ]
+   }
+  },
+  {
+   "id": "casa-museo-de-chaikovski",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Casa museo",
+    "lat": 56.3289,
+    "lon": 36.7475,
+    "fuentes": [
+     "https://www.openstreetmap.org/way/69732171"
+    ]
+   }
+  },
+  {
+   "id": "kremlin-de-tobolsk",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Barroco siberiano",
+    "fuentes": [
+     "https://www.openstreetmap.org/node/1419266194"
+    ]
+   }
+  },
+  {
+   "id": "estacion-de-vladivostok",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Neorruso",
+    "fuentes": [
+     "https://www.openstreetmap.org/node/3965162817"
+    ]
+   }
+  },
+  {
+   "id": "cosmodromo-de-baikonur",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Base espacial soviética",
+    "lat": 45.9203,
+    "lon": 63.3422,
+    "ver_alli": [
+     "El punto señala la plataforma de Gagarin (Gagarinski Start), dentro del recinto del cosmódromo, a unos 30 km al norte de la ciudad de Baikonur.",
+     "Las visitas se organizan con agencias, a veces para ver un lanzamiento."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/way/172571408",
+     "https://en.wikipedia.org/wiki/Gagarin%27s_Start"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-los-tesoros-historicos-de-ucrania",
+   "campos": {
+    "estilo": "Orfebrería escita y griega",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Tovsta_Mohyla",
+     "https://bukvy.org/en/53-years-ago-archeologists-found-the-gold-pectoral-from-tovsta-mohyla/",
+     "https://ukrainianweek.com/History/47326",
+     "https://www.openstreetmap.org/node/2021360710"
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-de-tuva",
+   "campos": {
+    "estilo": "Oro escita de Arzhan",
+    "lat": 51.719,
+    "lon": 94.4293,
+    "fuentes": [
+     "https://ar.culture.ru/en/museum/nacionalnyy-muzey-imeni-aldan-maadyr-respubliki-tyva",
+     "https://www.altaist.org/?p=9820",
+     "https://en.wikipedia.org/wiki/Arzhan_culture",
+     "https://www.openstreetmap.org/way/342680853"
+    ]
+   }
+  }
+ ]
+}

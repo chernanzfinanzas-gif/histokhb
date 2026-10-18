@@ -1,0 +1,1035 @@
+{
+ "zona": "Francia, Bélgica y Suiza",
+ "nuevos": [
+  {
+   "id": "catedral-de-amiens",
+   "nombre": "Catedral de Amiens",
+   "provincia": "Francia",
+   "comarca": "Amiens (Picardía)",
+   "lat": 49.8946,
+   "lon": 2.302,
+   "tipo": "iglesia",
+   "estilo": "Gótico clásico y radiante",
+   "epoca": "Gótico",
+   "anio": 1220,
+   "regiones_sincronia": [
+    "Francia"
+   ],
+   "texto": {
+    "general": "<p>La catedral de Notre-Dame de Amiens es la iglesia gótica <b>más grande de Francia por volumen</b>: unos 200.000 metros cúbicos, más del doble que Notre-Dame de París. Se levantó casi entera entre <b>1220 y hacia 1270</b>, muy deprisa para la época, y por eso tiene una unidad de estilo rara entre las grandes catedrales. Mide 145 metros de largo y su nave alcanza 42 metros de altura.</p><p>Se construyó para acoger una reliquia famosa: la que se tenía por la <b>cabeza de san Juan Bautista</b>, instalada el 17 de diciembre de 1206, que atrajo a multitud de peregrinos. En el suelo de la nave hay un <b>laberinto</b> de 240 metros de recorrido, trazado originalmente en 1288 y copiado exactamente en el siglo XIX. En los años noventa una limpieza con láser descubrió restos de la <b>pintura original</b> de colores de la fachada oeste. Es Patrimonio de la Humanidad desde 1981.</p>"
+   },
+   "ver_alli": [
+    "Desde la plaza se ve la gran fachada oeste, con sus tres portadas llenas de esculturas.",
+    "El laberinto está en el suelo de la nave; en la girola hay escenas esculpidas y pintadas de la vida de san Fermín y de san Juan Bautista."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Amiens_Cathedral",
+    "https://www.google.com/maps/place/?q=place_id:ChIJH1iNbLMh-kcRRCx-YHUbORU",
+    "https://www.openstreetmap.org/?mlat=49.8946&mlon=2.302#map=18/49.8946/2.302"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "catedral-de-estrasburgo",
+   "nombre": "Catedral de Estrasburgo",
+   "provincia": "Francia",
+   "comarca": "Estrasburgo (Alsacia)",
+   "lat": 48.5819,
+   "lon": 7.7511,
+   "tipo": "iglesia",
+   "estilo": "Románico y gótico radiante",
+   "epoca": "Gótico",
+   "anio": 1439,
+   "regiones_sincronia": [
+    "Francia"
+   ],
+   "texto": {
+    "general": "<p>La catedral de Notre-Dame de Estrasburgo se empezó en <b>1015</b>, se relanzó en 1190 y se terminó en <b>1439</b>. Su fachada oeste, levantada entre 1275 y 1399, es una de las obras maestras del <b>gótico radiante</b>, con un encaje de piedra que parece una red tendida delante del muro.</p><p>Su única aguja, de <b>142 metros</b>, la convirtió en el <b>edificio más alto del mundo entre 1647 y 1874</b>, durante 227 años, hasta que la superó una iglesia de Hamburgo. Dentro está el famoso <b>reloj astronómico</b>, construido por Jean-Baptiste Schwilgué entre 1837 y 1842 en el lugar de otros relojes medievales. La catedral y el casco histórico de la Grande Île son Patrimonio de la Humanidad desde 1988.</p>"
+   },
+   "ver_alli": [
+    "La catedral está en el centro de la Grande Île, el casco histórico rodeado por el río Ill.",
+    "Se puede subir a la plataforma de la torre, con vistas sobre los tejados de la ciudad."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Strasbourg_Cathedral",
+    "https://www.google.com/maps/place/?q=place_id:ChIJQ4g5U1LIlkcROCde9XcnFec",
+    "https://www.openstreetmap.org/?mlat=48.5819&mlon=7.7511#map=18/48.5819/7.7511"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "basilica-de-vezelay",
+   "nombre": "Basílica de la Magdalena de Vézelay",
+   "provincia": "Francia",
+   "comarca": "Vézelay (Borgoña)",
+   "lat": 47.4664,
+   "lon": 3.7486,
+   "tipo": "iglesia",
+   "estilo": "Románico borgoñón",
+   "epoca": "Románico",
+   "anio": 1146,
+   "regiones_sincronia": [
+    "Francia"
+   ],
+   "texto": {
+    "general": "<p>En lo alto de una colina de Borgoña, la abadía de Vézelay se hizo famosa porque decía guardar las <b>reliquias de María Magdalena</b>, lo que atrajo a peregrinos de toda Europa. Su iglesia románica, con un nártex inaugurado en 1132 y un <b>tímpano</b> esculpido terminado hacia 1130, es una de las cumbres del románico. La nave se rehízo en su forma actual tras un incendio de 1165.</p><p>Vézelay fue escenario de grandes momentos de las cruzadas: en la <b>Pascua de 1146</b> san Bernardo de Claraval predicó aquí la Segunda Cruzada delante del rey Luis VII, y en 1190 <b>Ricardo Corazón de León y Felipe Augusto</b> pasaron tres meses en la abadía antes de partir a la Tercera. Era además el punto de salida de una de las cuatro grandes rutas francesas hacia Santiago de Compostela. Es Patrimonio de la Humanidad desde 1979.</p>"
+   },
+   "ver_alli": [
+    "La basílica corona el pueblo, al final de una calle empinada.",
+    "Desde los jardines tras la basílica hay una amplia vista sobre el campo de Borgoña."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/V%C3%A9zelay_Abbey",
+    "https://www.google.com/maps/place/?q=place_id:ChIJR2GWMk0f7kcREZ0S9cyWhRU",
+    "https://www.openstreetmap.org/?mlat=47.4663&mlon=3.7485#map=18/47.4663/3.7485"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-chenonceau",
+   "nombre": "Castillo de Chenonceau",
+   "provincia": "Francia",
+   "comarca": "Chenonceaux (Valle del Loira)",
+   "lat": 47.3248,
+   "lon": 1.0703,
+   "tipo": "castillo",
+   "estilo": "Renacimiento francés",
+   "epoca": "Renacimiento",
+   "anio": 1514,
+   "regiones_sincronia": [
+    "Francia"
+   ],
+   "texto": {
+    "general": "<p>El castillo de Chenonceau se levanta sobre el río Cher. Lo construyó entre <b>1514 y 1522</b>, sobre los cimientos de un antiguo molino, el financiero Thomas Bohier. Más tarde fue de <b>Diana de Poitiers</b>, la favorita del rey Enrique II, que en 1555 encargó a Philibert de l'Orme un puente de arcos para cruzar el río. Después, la reina <b>Catalina de Médici</b> mandó construir encima del puente la gran galería (1570-1576), diseñada por Jean Bullant, que cruza todo el río.</p><p>En el siglo XVIII su dueña, <b>Louise Dupin</b>, reunió aquí a Voltaire, Montesquieu y Rousseau, que fue secretario suyo, y salvó el castillo durante la Revolución alegando que era el único puente sobre el río en muchas leguas. En la Primera Guerra Mundial la galería fue sala de hospital, y en la Segunda el castillo sirvió para escapar de la zona ocupada por los nazis a la zona «libre» de la otra orilla del Cher.</p>"
+   },
+   "ver_alli": [
+    "La gran galería sobre el Cher es lo más famoso; la mejor vista del castillo es desde los jardines, junto al río.",
+    "El castillo está rodeado de jardines y de un gran parque junto al río."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chenonceau",
+    "https://www.google.com/maps/place/?q=place_id:ChIJoaig2dWw_EcRARD_ye9ZEiY",
+    "https://www.openstreetmap.org/?mlat=47.3246&mlon=1.0704#map=18/47.3246/1.0704"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "villa-savoye",
+   "nombre": "Villa Savoye",
+   "provincia": "Francia",
+   "comarca": "Poissy (Isla de Francia)",
+   "lat": 48.9244,
+   "lon": 2.0283,
+   "tipo": "monumento",
+   "estilo": "Movimiento moderno (Le Corbusier)",
+   "epoca": "Siglo XX",
+   "anio": 1931,
+   "regiones_sincronia": [
+    "Francia"
+   ],
+   "texto": {
+    "general": "<p>Esta casa de campo de hormigón armado, construida entre <b>1928 y 1931</b> para Pierre y Eugénie Savoye, es el manifiesto construido de <b>Le Corbusier</b> y su primo Pierre Jeanneret. En ella aplicaron sus <b>«cinco puntos» de la arquitectura moderna</b>: pilotes que levantan la casa del suelo, una azotea convertida en jardín, una planta libre sin muros de carga, ventanas alargadas en horizontal y fachadas libres, como una piel.</p><p>Los Savoye vivieron aquí hasta 1940. Durante la guerra la ocuparon los alemanes, que la usaron como almacén de heno, y después los estadounidenses, y quedó muy dañada. En <b>1965</b> fue declarada monumento histórico, la primera vez que se protegía así una obra moderna con su arquitecto aún vivo. Restaurada entre 1985 y 1997, desde 2016 es Patrimonio de la Humanidad junto con otras 16 obras de Le Corbusier en siete países.</p>"
+   },
+   "ver_alli": [
+    "Se visita por dentro, incluida la azotea-jardín.",
+    "Está en Poissy, al oeste de París, rodeada de un prado."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Villa_Savoye",
+    "https://www.google.com/maps/place/?q=place_id:ChIJp3H-E0eJ5kcRFm5pvcwjfMo",
+    "https://www.openstreetmap.org/?mlat=48.9244&mlon=2.0283#map=18/48.9244/2.0283"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "salina-real-de-arc-et-senans",
+   "nombre": "Salina Real de Arc-et-Senans",
+   "provincia": "Francia",
+   "comarca": "Arc-et-Senans (Franco Condado)",
+   "lat": 47.0333,
+   "lon": 5.7775,
+   "tipo": "monumento",
+   "estilo": "Neoclásico (Claude-Nicolas Ledoux)",
+   "epoca": "Ilustración y Neoclásico",
+   "anio": 1775,
+   "regiones_sincronia": [
+    "Francia"
+   ],
+   "texto": {
+    "general": "<p>Una fábrica de sal convertida en arquitectura ideal. La diseñó el arquitecto <b>Claude-Nicolas Ledoux</b> y se empezó a construir en <b>1775</b>, junto al bosque de Chaux, que daba la leña para hervir la salmuera. El agua salada llegaba desde las salinas de Salins-les-Bains por una <b>conducción de 21 kilómetros</b>.</p><p>Ledoux la ordenó en semicírculo, como primer paso de una <b>ciudad ideal circular</b> que nunca se llegó a construir. La producción terminó en 1895. Es Patrimonio de la Humanidad desde 1982, ampliado en 2009 con las salinas de Salins-les-Bains: uno de los grandes ejemplos de la arquitectura industrial de la Ilustración.</p>"
+   },
+   "ver_alli": [
+    "Los edificios de la sal se alinean en un gran semicírculo.",
+    "Dentro hay un museo con maquetas de los proyectos de Ledoux, y alrededor, jardines."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Royal_Saltworks_at_Arc-et-Senans",
+    "https://www.google.com/maps/place/?q=place_id:ChIJe-vISqxBjUcRCz29zphtYgg",
+    "https://www.openstreetmap.org/?mlat=47.0335&mlon=5.7774#map=18/47.0335/5.7774"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "cairn-de-barnenez",
+   "nombre": "Cairn de Barnenez",
+   "provincia": "Francia",
+   "comarca": "Plouezoc'h (Bretaña)",
+   "lat": 48.6676,
+   "lon": -3.8585,
+   "tipo": "yacimiento",
+   "estilo": "Megalitismo: dolmen de corredor",
+   "epoca": "Neolítico",
+   "anio": -4850,
+   "regiones_sincronia": [
+    "Francia"
+   ],
+   "texto": {
+    "general": "<p>Sobre la bahía de Morlaix se alza uno de los <b>monumentos más antiguos de Europa</b>: un gran túmulo de piedra seca de <b>72 metros de largo</b>, hasta 25 de ancho y más de 8 de alto, hecho con 13.000 a 14.000 toneladas de piedra. Las dataciones por radiocarbono sitúan su primera fase entre el <b>4850 y el 4250 a. C.</b>, y la segunda entre el 4450 y el 4000 a. C.: es más antiguo que las pirámides de Egipto.</p><p>Dentro guarda <b>11 cámaras funerarias</b>, cada una con su propio corredor de entrada. En la década de 1950 un propietario lo usaba como cantera para sacar piedra de pavimento, hasta que la aparición de varias cámaras detuvo la destrucción. Entre 1954 y 1968 se excavó y restauró.</p>"
+   },
+   "ver_alli": [
+    "El túmulo está en lo alto de la península de Kernéléhen, con vistas a la bahía de Morlaix.",
+    "A lo largo de la fachada del túmulo se ven las entradas de los corredores."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Cairn_of_Barnenez",
+    "https://www.google.com/maps/place/?q=place_id:ChIJLVEtsZvfE0gRQ8BFiToGRbY",
+    "https://www.openstreetmap.org/?mlat=48.6676&mlon=-3.8585#map=18/48.6676/-3.8585"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "grand-place-de-bruselas",
+   "nombre": "Grand-Place de Bruselas",
+   "provincia": "Bélgica",
+   "comarca": "Bruselas",
+   "lat": 50.8467,
+   "lon": 4.3522,
+   "tipo": "monumento",
+   "estilo": "Gótico brabanzón y barroco flamenco",
+   "epoca": "Barroco",
+   "anio": 1695,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>La gran plaza de Bruselas está presidida por el <b>Ayuntamiento</b>, de gótico brabanzón, levantado por etapas entre 1401 y 1455 con una alta torre rematada por una estatua. Enfrente, la <b>Casa del Rey</b> (Broodhuis, «casa del pan»), reconstruida en estilo neogótico entre 1874 y 1896, alberga el Museo de la Ciudad.</p><p>El <b>13 de agosto de 1695</b> un ejército francés de 70.000 hombres al mando del mariscal de Villeroy bombardeó Bruselas y arrasó la plaza: solo quedaron en pie la carcasa de piedra del Ayuntamiento y algunos fragmentos. Los <b>gremios</b> la reconstruyeron en apenas cuatro años, y sus casas, numeradas del 1 al 39, llevan nombres como El Rey de España (panaderos), La Loba (arqueros) o El Árbol de Oro (cerveceros). Es Patrimonio de la Humanidad desde 1998.</p>"
+   },
+   "ver_alli": [
+    "Las fachadas de las casas gremiales se ven mejor iluminadas al anochecer.",
+    "La Casa del Rey, frente al Ayuntamiento, alberga el Museo de la Ciudad de Bruselas."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Grand-Place",
+    "https://www.google.com/maps/place/?q=place_id:ChIJLYPQqXvEw0cRRp9aYtjBH4A",
+    "https://www.openstreetmap.org/?mlat=50.8467&mlon=4.3525#map=18/50.8467/4.3525"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "colina-del-leon-de-waterloo",
+   "nombre": "Colina del León de Waterloo",
+   "provincia": "Bélgica",
+   "comarca": "Braine-l'Alleud (Brabante Valón)",
+   "lat": 50.6784,
+   "lon": 4.4048,
+   "tipo": "monumento",
+   "estilo": "Túmulo conmemorativo",
+   "epoca": "Siglo XIX",
+   "anio": 1815,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>El <b>18 de junio de 1815</b>, en estos campos al sur de Bruselas, el ejército aliado de Wellington y el prusiano de Blücher derrotaron a <b>Napoleón</b> en la batalla de Waterloo, que puso fin a su regreso al poder.</p><p>Para recordarla, el rey <b>Guillermo I de los Países Bajos</b> mandó levantar en 1820 este gran túmulo de tierra de <b>43 metros de altura</b>, terminado en 1826, en el lugar donde una bala hirió en el hombro a su hijo, el príncipe de Orange. En la cima, a la que se sube por <b>226 escalones</b>, se alza un león de hierro de 28 toneladas. Desde arriba se domina todo el campo de batalla.</p>"
+   },
+   "ver_alli": [
+    "La subida a la cima es por una escalera de 226 escalones.",
+    "Al pie hay un gran museo sobre la batalla."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Lion%27s_Mound",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ45osxB_Sw0cRxC1e_JX-8-M",
+    "https://www.openstreetmap.org/?mlat=50.6784&mlon=4.4048#map=18/50.6784/4.4048"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "catedral-de-san-bavon-gante",
+   "nombre": "Catedral de San Bavón y el retablo de Gante",
+   "provincia": "Bélgica",
+   "comarca": "Gante (Flandes)",
+   "lat": 51.0531,
+   "lon": 3.7268,
+   "tipo": "iglesia",
+   "estilo": "Gótico brabanzón",
+   "epoca": "Gótico",
+   "anio": 1432,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>La catedral de San Bavón guarda una de las obras más importantes de la pintura europea: el <b>retablo de la Adoración del Cordero Místico</b>, de los hermanos <b>Hubert y Jan van Eyck</b>. Lo encargaron el mercader Joos Vijd y su esposa Lysbette Borluut, y se inauguró el <b>6 de mayo de 1432</b>. Con su detalle minucioso y el uso magistral de la pintura al óleo, abrió el camino de los grandes primitivos flamencos.</p><p>Es también la obra de arte más robada de la historia: ha sufrido unos trece delitos, entre ellos siete robos. En <b>1934</b> desapareció el panel de los <b>Jueces Justos</b>, que nunca se ha recuperado. En la Segunda Guerra Mundial los nazis se lo llevaron y lo escondieron en las minas de sal de Altaussee, en Austria, de donde lo rescataron los «Monuments Men» en 1945. Desde 2012 se restaura por etapas.</p>"
+   },
+   "ver_alli": [
+    "El retablo se ve en una sala propia dentro de la catedral, con visita aparte.",
+    "En la cripta, una visita de realidad virtual cuenta la historia del retablo."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Ghent_Altarpiece",
+    "https://www.google.com/maps/place/?q=place_id:ChIJG-d0G0Zxw0cRUkUh5bmZs5Q",
+    "https://www.openstreetmap.org/?mlat=51.053&mlon=3.7272#map=18/51.053/3.7272"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "abadia-de-san-galo",
+   "nombre": "Abadía y biblioteca de San Galo",
+   "provincia": "Suiza",
+   "comarca": "San Galo",
+   "lat": 47.4231,
+   "lon": 9.377,
+   "tipo": "iglesia",
+   "estilo": "Barroco tardío (catedral y biblioteca)",
+   "epoca": "Prerrománico y Alta Edad Media",
+   "anio": 719,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>Hacia el año <b>612</b> el monje irlandés <b>Galo</b> se retiró a vivir como ermitaño en este valle, y en <b>719</b> san Otmar fundó aquí una abadía benedictina que se convirtió en uno de los grandes centros de cultura de la Europa altomedieval. Aquí se conserva el <b>Plano de San Galo</b>, dibujado hacia 820-830, el plano de un monasterio ideal que nunca se llegó a construir.</p><p>La <b>biblioteca abacial</b> guarda más de 160.000 libros, de ellos unos 2.100 manuscritos, y unos 400 tienen más de mil años. La catedral y la sala de la biblioteca actuales son del <b>barroco tardío</b>; la iglesia se construyó entre 1755 y 1768 con proyecto de Peter Thumb. La abadía se disolvió a comienzos del siglo XIX. Es Patrimonio de la Humanidad desde 1983.</p>"
+   },
+   "ver_alli": [
+    "La catedral barroca y la sala de la biblioteca forman parte del recinto abacial.",
+    "En la biblioteca se ven libros y manuscritos antiguos en vitrinas."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Abbey_of_Saint_Gall",
+    "https://www.google.com/maps/place/?q=place_id:ChIJZc9oP0wem0cRy1etggzrIa0"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-chillon",
+   "nombre": "Castillo de Chillon",
+   "provincia": "Suiza",
+   "comarca": "Veytaux (Vaud)",
+   "lat": 46.4142,
+   "lon": 6.9275,
+   "tipo": "castillo",
+   "estilo": "Castillo medieval",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1150,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>Sobre una pequeña roca a orillas del <b>lago Lemán</b>, se alza el castillo de Chillon. Un documento de <b>1150</b> muestra que ya pertenecía a los condes de Saboya, que lo usaban como residencia de verano y tenían aquí su flota del lago. El conde Pedro II lo amplió mucho en 1248 y 1266-1267.</p><p>En sus sótanos estuvo preso seis años, desde 1530, el ginebrino <b>François Bonivard</b>, hasta que en <b>1536</b> los berneses conquistaron el castillo y liberaron a los prisioneros. Su historia inspiró a <b>lord Byron</b> el poema <i>El prisionero de Chillon</i> (1816); según la tradición, el poeta grabó su nombre en una columna de la mazmorra. Berna lo conservó hasta 1798.</p>"
+   },
+   "ver_alli": [
+    "Se recorren cuatro grandes salas, tres patios y la mazmorra de Bonivard.",
+    "Desde la orilla del lago, junto al castillo, hay una de las mejores vistas, con los Alpes al fondo."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Chillon_Castle",
+    "https://www.google.com/maps/place/?q=place_id:ChIJw2XdrluajkcRB4NcFVlCmSI",
+    "https://www.openstreetmap.org/?mlat=46.4142&mlon=6.9276#map=18/46.4142/6.9276"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-de-las-naciones-ginebra",
+   "nombre": "Palacio de las Naciones",
+   "provincia": "Suiza",
+   "comarca": "Ginebra",
+   "lat": 46.2266,
+   "lon": 6.1405,
+   "tipo": "monumento",
+   "estilo": "Clasicismo monumental de entreguerras",
+   "epoca": "Siglo XX",
+   "anio": 1929,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>Construido para la <b>Sociedad de Naciones</b>, el primer intento de una organización mundial para mantener la paz tras la Primera Guerra Mundial. Las obras empezaron el <b>7 de septiembre de 1929</b>, con un proyecto de cinco arquitectos elegidos entre 377 propuestas, y la Asamblea se trasladó a su gran sala en 1937. Está en el parque Ariana, legado a Ginebra en 1890 con la condición de que siguiera siendo público.</p><p>La Sociedad de Naciones no pudo evitar la Segunda Guerra Mundial, y el edificio pasó a las <b>Naciones Unidas</b>, que tienen aquí una de sus grandes sedes. El conjunto mide 600 metros de largo, con 2.800 despachos y 34 salas de conferencias: uno de los grandes centros de la diplomacia mundial.</p>"
+   },
+   "ver_alli": [
+    "Se visita con visita guiada, tras pasar un control de seguridad.",
+    "El edificio está dentro del parque Ariana, en el barrio internacional de Ginebra."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Palace_of_Nations",
+    "https://www.google.com/maps/place/?q=place_id:ChIJPy7LqvxkjEcRc9ScYZfvq7o",
+    "https://www.openstreetmap.org/?mlat=46.2257&mlon=6.1408#map=18/46.2257/6.1408"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "lascaux-iv",
+   "campos": {
+    "lat": 45.0581,
+    "lon": 1.1696,
+    "tipo": "museo",
+    "estilo": "Arte rupestre paleolítico (réplica)",
+    "ver_alli": [
+     "Lascaux IV está en la ladera de la colina de Lascaux, junto a Montignac.",
+     "La cueva original está cerrada desde 1963; la visita a la réplica se hace en grupo con guía."
+    ],
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJiWqvK2VU_0cR2-rmEz-UcO4",
+     "https://www.openstreetmap.org/?mlat=45.0579&mlon=1.1695#map=18/45.0579/1.1695"
+    ]
+   }
+  },
+  {
+   "id": "chauvet-2",
+   "campos": {
+    "lat": 44.4062,
+    "lon": 4.4301,
+    "tipo": "museo",
+    "estilo": "Arte rupestre auriñaciense (réplica)",
+    "ver_alli": [
+     "Chauvet 2 es una réplica a tamaño real, abierta en 2015.",
+     "La cueva original, a unos 2,5 km, está cerrada desde 1994 para proteger las pinturas."
+    ],
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJOy57VPQBtRIRi-qOeCg2U00",
+     "https://www.openstreetmap.org/?mlat=44.4061&mlon=4.429#map=18/44.4061/4.429",
+     "https://en.wikipedia.org/wiki/Chauvet_Cave"
+    ]
+   }
+  },
+  {
+   "id": "museo-real-de-africa-central",
+   "campos": {
+    "lat": 50.8309,
+    "lon": 4.5187,
+    "tipo": "museo",
+    "estilo": "Edificio neoclásico de principios del siglo XX",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJadag-k_Zw0cRKmWj8huKk50",
+     "https://www.openstreetmap.org/?mlat=50.8309&mlon=4.5192#map=18/50.8309/4.5192"
+    ]
+   }
+  },
+  {
+   "id": "museoparc-alesia",
+   "campos": {
+    "lat": 47.5357,
+    "lon": 4.4691,
+    "tipo": "museo",
+    "estilo": "Arquitectura contemporánea",
+    "ver_alli": [
+     "Se combina con el sitio arqueológico de la ciudad galorromana en la cima.",
+     "La estatua de Vercingétorix está en lo alto del monte Auxois, a menos de 2 km del museo."
+    ],
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ_9nc77aS7UcR5tA8BUGYijo",
+     "https://www.openstreetmap.org/?mlat=47.5357&mlon=4.4692#map=18/47.5357/4.4692",
+     "https://www.openstreetmap.org/?mlat=47.5387&mlon=4.4916#map=18/47.5387/4.4916"
+    ]
+   }
+  },
+  {
+   "id": "esclusas-de-fonserannes-canal-du-midi",
+   "campos": {
+    "lat": 43.3306,
+    "lon": 3.1997,
+    "tipo": "monumento",
+    "estilo": "Ingeniería hidráulica del siglo XVII",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJQzBRxYoOsRIR3K_yuTQYyWc",
+     "https://www.openstreetmap.org/?mlat=43.3305&mlon=3.1995#map=18/43.3305/3.1995"
+    ]
+   }
+  },
+  {
+   "id": "playas-del-desembarco-y-cementerio-ameri",
+   "campos": {
+    "lat": 49.3589,
+    "lon": -0.8551,
+    "tipo": "monumento",
+    "estilo": "Cementerio y memorial militar",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ26VqJyCoC0gRBQkjfwSb9YU",
+     "https://www.openstreetmap.org/?mlat=49.3586&mlon=-0.8547#map=18/49.3586/-0.8547"
+    ]
+   }
+  },
+  {
+   "id": "oradour-sur-glane",
+   "campos": {
+    "lat": 45.929,
+    "lon": 1.0404,
+    "tipo": "monumento",
+    "estilo": "Pueblo en ruinas conservado como memorial",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJVVjqOS25_kcRvqDqMril54M",
+     "https://www.openstreetmap.org/?mlat=45.9293&mlon=1.0401#map=18/45.9293/1.0401"
+    ]
+   }
+  },
+  {
+   "id": "memorial-del-campo-de-rivesaltes-y-mater",
+   "campos": {
+    "lat": 42.8092,
+    "lon": 2.8923,
+    "tipo": "monumento",
+    "estilo": "Memorial contemporáneo",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJSy4UR7ZpsBIRFspG3woHGRs",
+     "https://www.openstreetmap.org/?mlat=42.8094&mlon=2.8928#map=18/42.8094/2.8928"
+    ]
+   }
+  },
+  {
+   "id": "memorial-charles-de-gaulle",
+   "campos": {
+    "lat": 48.2234,
+    "lon": 4.8796,
+    "tipo": "monumento",
+    "estilo": "Museo contemporáneo",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJoxlKzdZe7EcRx-SKfixWz0Q",
+     "https://www.openstreetmap.org/?mlat=48.2234&mlon=4.8793#map=18/48.2234/4.8793"
+    ]
+   }
+  },
+  {
+   "id": "memorial-nacional-australiano-de-villers",
+   "campos": {
+    "lat": 49.887,
+    "lon": 2.513,
+    "tipo": "monumento",
+    "estilo": "Memorial de entreguerras",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ-QzPjvKM50cRmp1SVU9vPYk",
+     "https://www.openstreetmap.org/?mlat=49.887&mlon=2.513#map=18/49.887/2.513"
+    ]
+   }
+  },
+  {
+   "id": "latenium",
+   "campos": {
+    "lat": 47.0073,
+    "lon": 6.9711,
+    "estilo": "Arquitectura contemporánea",
+    "ver_alli": [
+     "Museo y parque arqueológico al aire libre junto al lago, en Hauterive.",
+     "Sala dedicada a La Tène y a los celtas, con espadas, escudos y joyas."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/La_T%C3%A8ne_(archaeological_site)",
+     "https://hls-dhs-dss.ch/fr/articles/012555",
+     "https://www.world-archaeology.com/features/la-tene/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ-RKdrH4JjkcR_Dn0uWg_VQw",
+     "https://www.openstreetmap.org/?mlat=47.0073&mlon=6.9712#map=18/47.0073/6.9712"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-los-duques-de-aquitania-poitiers",
+   "campos": {
+    "lat": 46.5829,
+    "lon": 0.3425,
+    "estilo": "Románico y gótico",
+    "ver_alli": [
+     "El gran salón, con su enorme chimenea triple del siglo XIV.",
+     "La torre Maubergeon, junto al salón, rehecha en el siglo XIV.",
+     "La catedral de San Pedro, con la vidriera de la Crucifixión del siglo XII."
+    ],
+    "fuentes": [
+     "https://www.banquedesterritoires.fr/experience/poitiers-ouvre-grand-les-portes-du-palais-des-ducs-daquitaine-86",
+     "https://ryo.co/fr/destinations/france/lieux/palais-des-comtes-de-poitiers/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJm2VyPOq__UcRsQ-9dh-cJ8M",
+     "https://www.openstreetmap.org/?mlat=46.5828&mlon=0.3427#map=18/46.5828/0.3427"
+    ]
+   }
+  },
+  {
+   "id": "cosquer-mediterranee",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arte rupestre paleolítico (réplica)",
+    "ver_alli": [
+     "La réplica está en la Villa Méditerranée, junto al puerto de Marsella.",
+     "La cueva original está en la calanque de Morgiou y su entrada queda a 37 metros bajo el mar: solo se llega buceando."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Cosquer_Cave"
+    ]
+   }
+  },
+  {
+   "id": "museo-del-louvre-antiguedades-de-mesopot",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arte mesopotámico",
+    "ver_alli": [
+     "Las piezas de Mesopotamia forman parte del departamento de Antigüedades Orientales.",
+     "El museo es enorme: conviene ir directamente a estas salas y combinarlas con las de Irán y el Levante."
+    ]
+   }
+  },
+  {
+   "id": "museo-del-quai-branly",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arquitectura contemporánea (Jean Nouvel)"
+   }
+  },
+  {
+   "id": "hueso-de-ishango-ciencias-naturales-de-b",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Hueso grabado paleolítico"
+   }
+  },
+  {
+   "id": "museo-guimet",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arte asiático"
+   }
+  },
+  {
+   "id": "pont-du-gard",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Acueducto romano"
+   }
+  },
+  {
+   "id": "arena-y-maison-carree-de-nimes",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Anfiteatro y templo corintio romanos",
+    "ver_alli": [
+     "Con la Torre Magna, en lo alto de la ciudad, son los tres grandes monumentos romanos de Nimes."
+    ]
+   }
+  },
+  {
+   "id": "teatro-antiguo-de-orange",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Teatro romano"
+   }
+  },
+  {
+   "id": "arles-romana",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura romana y románica"
+   }
+  },
+  {
+   "id": "abadia-de-cluny",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico cluniacense"
+   }
+  },
+  {
+   "id": "abadia-de-fontevraud",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico"
+   }
+  },
+  {
+   "id": "basilica-de-saint-denis",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Gótico primitivo"
+   }
+  },
+  {
+   "id": "catedral-de-chartres",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Gótico clásico"
+   }
+  },
+  {
+   "id": "catedral-de-notre-dame-de-paris",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Gótico",
+    "ver_alli": [
+     "Reabrió en diciembre de 2024, tras el incendio de 2019.",
+     "La subida a las torres se visita aparte; desde arriba se ven de cerca las gárgolas."
+    ]
+   }
+  },
+  {
+   "id": "sainte-chapelle",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Gótico radiante"
+   }
+  },
+  {
+   "id": "catedral-de-reims",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Gótico clásico"
+   }
+  },
+  {
+   "id": "mont-saint-michel",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico y gótico"
+   }
+  },
+  {
+   "id": "ciudad-de-carcasona",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Arquitectura militar medieval"
+   }
+  },
+  {
+   "id": "castillo-de-montsegur",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Castillo medieval en ruinas"
+   }
+  },
+  {
+   "id": "palacio-de-los-papas-de-avinon",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Gótico"
+   }
+  },
+  {
+   "id": "plaza-del-viejo-mercado-y-catedral-de-ru",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Gótico"
+   }
+  },
+  {
+   "id": "fortaleza-real-de-chinon",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Fortaleza medieval"
+   }
+  },
+  {
+   "id": "castillo-de-chambord",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Renacimiento francés"
+   }
+  },
+  {
+   "id": "castillo-del-clos-luce-y-castillo-de-amb",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Gótico tardío y Renacimiento"
+   }
+  },
+  {
+   "id": "palacio-de-fontainebleau",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Renacimiento (Escuela de Fontainebleau)"
+   }
+  },
+  {
+   "id": "palacio-de-versalles",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Barroco clasicista"
+   }
+  },
+  {
+   "id": "museo-del-louvre",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Renacimiento y clasicismo francés"
+   }
+  },
+  {
+   "id": "panteon-de-paris",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Neoclásico"
+   }
+  },
+  {
+   "id": "conciergerie",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Gótico"
+   }
+  },
+  {
+   "id": "museo-carnavalet",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Palacetes renacentistas y clásicos del Marais",
+    "ver_alli": [
+     "Está en el Marais, en la calle de Sévigné.",
+     "Ocupa dos palacetes con patios y jardines; la sala de la Revolución es una de las más ricas."
+    ]
+   }
+  },
+  {
+   "id": "los-invalidos-y-la-tumba-de-napoleon",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Barroco clasicista"
+   }
+  },
+  {
+   "id": "arco-de-triunfo",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Neoclásico"
+   }
+  },
+  {
+   "id": "torre-eiffel",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura del hierro"
+   }
+  },
+  {
+   "id": "museo-de-orsay",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Beaux-Arts (antigua estación)"
+   }
+  },
+  {
+   "id": "casa-y-jardines-de-monet",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Casa y jardín del impresionismo",
+    "ver_alli": [
+     "Está en Giverny, junto al Sena, en Normandía.",
+     "Mejor en primavera, con el jardín en flor; en el pueblo están también el Museo de los Impresionismos y la tumba del pintor."
+    ]
+   }
+  },
+  {
+   "id": "instituto-lumiere",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Villa de la Belle Époque"
+   }
+  },
+  {
+   "id": "museo-pasteur",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arquitectura del siglo XIX",
+    "ver_alli": [
+     "El museo está cerrado por obras de restauración hasta noviembre de 2028, según el Instituto Pasteur.",
+     "Mientras tanto se puede recorrer en línea en Google Arts & Culture."
+    ],
+    "fuentes": [
+     "https://www.pasteur.fr/fr/institut-pasteur/musee-pasteur"
+    ]
+   }
+  },
+  {
+   "id": "museo-curie",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Laboratorio de principios del siglo XX",
+    "ver_alli": [
+     "Está cerca del Panteón, donde está enterrada Marie Curie.",
+     "Se conservan su despacho y su laboratorio de química."
+    ]
+   }
+  },
+  {
+   "id": "osario-de-douaumont-y-campo-de-verdun",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Art déco"
+   }
+  },
+  {
+   "id": "memorial-de-la-shoah",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Memorial contemporáneo",
+    "ver_alli": [
+     "Está en el Marais, en la calle Geoffroy-l'Asnier.",
+     "Junto al memorial, el Muro de los Justos recuerda a unas 3.300 personas que salvaron a judíos en Francia."
+    ],
+    "texto": {
+     "general": "<p>El museo y memorial de los judíos deportados desde Francia, con un muro con los nombres de los 76.000 deportados, entre ellos 11.000 niños; solo unos 2.500 volvieron. Cuenta también la redada del Velódromo de Invierno de 1942.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/M%C3%A9morial_de_la_Shoah"
+    ]
+   }
+  },
+  {
+   "id": "tapiz-de-bayeux",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Bordado románico"
+   }
+  },
+  {
+   "id": "casa-de-einstein",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Casa burguesa del casco antiguo de Berna"
+   }
+  },
+  {
+   "id": "museo-arqueologia-nacional-saint-germain",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Castillo renacentista"
+   }
+  },
+  {
+   "id": "les-eyzies-cro-magnon-y-font-de-gaume",
+   "campos": {
+    "estilo": "Arte rupestre magdaleniense",
+    "ver_alli": [
+     "El Museo Nacional de Prehistoria está en el pueblo, al pie del acantilado.",
+     "La cueva de Font-de-Gaume, una de las pocas con pinturas originales que se visitan, está a 1 km al este; los grupos son pequeños y con cupo diario, así que conviene reservar."
+    ]
+   }
+  },
+  {
+   "id": "alineamientos-de-carnac",
+   "campos": {
+    "estilo": "Megalitismo: alineamientos de menhires",
+    "ver_alli": [
+     "Los alineamientos de Le Ménec, Kermario y Kerlescan están vallados desde 1991 para proteger la vegetación, y buena parte de la visita se hace con guía.",
+     "En el pueblo, el Museo de Prehistoria James Miln-Zacharie Le Rouzic guarda los objetos hallados en los megalitos."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Carnac_stones"
+    ]
+   }
+  },
+  {
+   "id": "bibracte-monte-beuvray",
+   "campos": {
+    "estilo": "Oppidum celta"
+   }
+  },
+  {
+   "id": "phosphatieres-cloup-daural",
+   "campos": {
+    "estilo": "Fosfatera kárstica",
+    "ver_alli": [
+     "Visita guiada de una hora al fondo de una antigua mina de fosfatos, a unos 20 metros de profundidad.",
+     "Sendero señalizado de unos 9 km por antiguas explotaciones y formas kársticas.",
+     "Forma parte del Geoparque Mundial de la UNESCO Causses du Quercy (2017)."
+    ]
+   }
+  },
+  {
+   "id": "musee-saint-raymond-toulouse",
+   "campos": {
+    "estilo": "Edificio renacentista",
+    "ver_alli": [
+     "Museo de arqueología junto a la basílica de Saint-Sernin.",
+     "Colecciones de la Tolosa romana y de la Antigüedad tardía, con sarcófagos."
+    ]
+   }
+  },
+  {
+   "id": "museo-de-cluny",
+   "campos": {
+    "estilo": "Gótico flamígero",
+    "ver_alli": [
+     "Entrada por la calle Du Sommerard, en el Barrio Latino.",
+     "Reabierto en 2022 tras una larga reforma.",
+     "Se ven también las termas romanas y los tapices de La dama y el unicornio."
+    ]
+   }
+  },
+  {
+   "id": "basilica-de-saint-sernin-de-toulouse",
+   "campos": {
+    "estilo": "Románico de peregrinación",
+    "ver_alli": [
+     "La iglesia se visita libremente fuera de los oficios.",
+     "La girola y la cripta, con relicarios, se visitan aparte.",
+     "Forma parte del bien Patrimonio Mundial «Caminos de Santiago de Compostela en Francia»."
+    ]
+   }
+  },
+  {
+   "id": "abadia-de-sainte-foy-de-conques",
+   "campos": {
+    "estilo": "Románico de peregrinación",
+    "ver_alli": [
+     "El tímpano del Juicio Final se ve desde la plaza.",
+     "El tesoro, con la Majestad de santa Fe, se visita aparte.",
+     "Las vidrieras actuales son del pintor Pierre Soulages, de 1994."
+    ]
+   }
+  },
+  {
+   "id": "bnf-richelieu-paris",
+   "campos": {
+    "estilo": "Clasicismo y arquitectura del siglo XIX",
+    "ver_alli": [
+     "El museo de la BnF, en la galería Mazarin, expone por turnos manuscritos, mapas y objetos de las colecciones; las piezas más frágiles solo se muestran en ocasiones.",
+     "La sala oval y el jardín se visitan libremente."
+    ]
+   }
+  },
+  {
+   "id": "palacio-reyes-de-mallorca-perpinan",
+   "campos": {
+    "estilo": "Gótico",
+    "ver_alli": [
+     "El patio de honor, la gran sala y la capilla de dos pisos.",
+     "Las murallas de la ciudadela que rodean el palacio, con vistas sobre la ciudad y el Canigó.",
+     "Lo gestiona el departamento de los Pirineos Orientales."
+    ]
+   }
+  },
+  {
+   "id": "maison-de-jeanne-d-arc-orleans",
+   "campos": {
+    "estilo": "Casa de entramado reconstruida",
+    "ver_alli": [
+     "Casa reconstruida con exposición sobre el asedio de 1428-1429, en la plaza del General de Gaulle, junto a la plaza del Martroi.",
+     "A pocos minutos, la catedral de la Santa Cruz y la estatua ecuestre de Juana en la plaza del Martroi."
+    ]
+   }
+  },
+  {
+   "id": "casa-natal-de-juana-de-arco-domremy",
+   "campos": {
+    "estilo": "Casa rural de piedra",
+    "ver_alli": [
+     "Casa natal y centro de interpretación «Visages de Jehanne».",
+     "Iglesia de Saint-Rémy, junto a la casa.",
+     "Basílica del Bois-Chenu, a unos dos kilómetros, en la colina."
+    ]
+   }
+  },
+  {
+   "id": "centre-azincourt-1415",
+   "campos": {
+    "estilo": "Centro de interpretación",
+    "ver_alli": [
+     "Centro de interpretación en el pueblo de Azincourt, con exposición sobre la batalla.",
+     "Circuito por el campo de batalla con paneles, entre Azincourt y Tramecourt."
+    ]
+   }
+  }
+ ]
+}

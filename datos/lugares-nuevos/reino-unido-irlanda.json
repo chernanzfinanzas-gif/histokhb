@@ -1,0 +1,799 @@
+{
+ "zona": "Reino Unido e Irlanda",
+ "nuevos": [
+  {
+   "id": "national-gallery-londres",
+   "nombre": "National Gallery",
+   "provincia": "Reino Unido",
+   "comarca": "Londres",
+   "lat": 51.5089,
+   "lon": -0.1283,
+   "tipo": "museo",
+   "estilo": "Neoclásico (William Wilkins)",
+   "epoca": "Siglo XIX",
+   "anio": 1824,
+   "regiones_sincronia": [
+    "Islas Británicas"
+   ],
+   "texto": {
+    "general": "<p>La gran pinacoteca de Londres nació en <b>1824</b>, cuando el Gobierno británico compró 38 cuadros de la colección del banquero John Julius Angerstein. El edificio de William Wilkins, que preside Trafalgar Square, abrió al público en 1838. Hoy guarda más de 2.300 pinturas europeas, desde mediados del siglo XIII hasta 1900.</p><p>Entre sus obras maestras están el <b>Matrimonio Arnolfini</b> de Jan van Eyck, la <b>Venus del espejo</b> de Velázquez, Los girasoles de Van Gogh y El Temerario de Turner. En 1991 se añadió el ala Sainsbury, de Robert Venturi y Denise Scott Brown, un ejemplo destacado de arquitectura posmoderna, que acoge la pintura del Renacimiento.</p>"
+   },
+   "ver_alli": [
+    "Preside Trafalgar Square, junto a la columna de Nelson.",
+    "La colección permanente es tan amplia que conviene elegir unas pocas salas.",
+    "Al lado está la National Portrait Gallery."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/National_Gallery",
+    "https://www.google.com/maps/place/?q=place_id:ChIJeclqF84EdkgRtKAjTmWFr0I"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "catedral-de-york",
+   "nombre": "Catedral de York (York Minster)",
+   "provincia": "Reino Unido",
+   "comarca": "York",
+   "lat": 53.9623,
+   "lon": -1.0819,
+   "tipo": "iglesia",
+   "estilo": "Gótico",
+   "epoca": "Gótico",
+   "anio": 1472,
+   "regiones_sincronia": [
+    "Islas Británicas"
+   ],
+   "texto": {
+    "general": "<p>Sede del arzobispo de York, es una de las mayores catedrales góticas del norte de Europa. Su historia empieza en <b>627</b>, cuando se levantó a toda prisa una iglesia de madera para bautizar a Edwin, rey de Northumbria. El templo actual se empezó hacia 1220-1230 y se terminó en <b>1472</b>: sus cruceros son del gótico primitivo inglés, la nave y la sala capitular del gótico decorado y la cabecera y la torre central del perpendicular.</p><p>Su gran tesoro son las vidrieras medievales. La <b>Gran Ventana del Este</b>, encargada en 1405 al vidriero John Thornton, mide unos 23 metros de alto por casi 10 de ancho y cuenta en más de 300 paneles el Apocalipsis: es una de las mayores vidrieras medievales del mundo.</p>"
+   },
+   "ver_alli": [
+    "Se puede subir a la torre central por una estrecha escalera de caracol, con vistas sobre la ciudad.",
+    "No hay que perderse la sala capitular ni la cripta.",
+    "Desde ella se recorren a pie las murallas y las calles medievales de York, como The Shambles."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/York_Minster",
+    "https://www.google.com/maps/place/?q=place_id:ChIJsUGD1aUxeUgRNQ2A91LK2pc"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "abadia-de-fountains",
+   "nombre": "Abadía de Fountains y parque de Studley Royal",
+   "provincia": "Reino Unido",
+   "comarca": "Ripon (North Yorkshire)",
+   "lat": 54.1095,
+   "lon": -1.5814,
+   "tipo": "yacimiento",
+   "estilo": "Abadía cisterciense en ruinas",
+   "epoca": "Románico",
+   "anio": 1132,
+   "regiones_sincronia": [
+    "Islas Británicas"
+   ],
+   "texto": {
+    "general": "<p>En <b>1132</b>, trece monjes expulsados de la abadía de Santa María de York tras una disputa recibieron del arzobispo Thurstan unas tierras en el valle del río Skell. Allí fundaron un monasterio que en 1135 se unió a la orden del <b>Císter</b> y que llegó a ser el más rico de los cistercienses de Inglaterra.</p><p>Enrique VIII lo suprimió en 1539, y sus ruinas, con una iglesia de unos 90 metros de largo y la torre de unos 49 metros que añadió el abad Marmaduke Huby hacia 1500, son de las más impresionantes del país. En el siglo XVIII quedaron integradas en el jardín paisajista de <b>Studley Royal</b>, con estanques y templetes. El conjunto es Patrimonio de la Humanidad desde 1986.</p>"
+   },
+   "ver_alli": [
+    "Se recorren a pie las ruinas de la abadía y, siguiendo el río, los jardines acuáticos de Studley Royal.",
+    "El centro de visitantes está junto al aparcamiento, a un paseo de las ruinas.",
+    "Conviene dedicarle medio día o más."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Fountains_Abbey",
+    "https://www.google.com/maps/place/?q=place_id:ChIJg74Df3erfkgRJzEtOETnDUg"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "maeshowe",
+   "nombre": "Maeshowe",
+   "provincia": "Reino Unido",
+   "comarca": "Orcadas",
+   "lat": 58.9965,
+   "lon": -3.1881,
+   "tipo": "yacimiento",
+   "estilo": "Tumba de cámara neolítica",
+   "epoca": "Neolítico",
+   "anio": -2800,
+   "regiones_sincronia": [
+    "Islas Británicas"
+   ],
+   "texto": {
+    "general": "<p>Levantado probablemente hacia el <b>2800 a. C.</b>, es el gran túmulo de cámara de las Orcadas: un montículo de unos 35 metros de diámetro y 7 de alto, bajo el que un pasillo de unos 11 metros, tan bajo que hay que entrar agachado, lleva a una cámara cuadrada de grandes losas. En los días del <b>solsticio de invierno</b>, la luz del atardecer entra por el pasillo e ilumina la pared del fondo.</p><p>En el siglo XII, unos visitantes nórdicos entraron por el techo y grabaron en sus paredes más de treinta <b>inscripciones rúnicas</b>, una de las mayores colecciones del mundo. Con Skara Brae, el anillo de Brodgar y las piedras de Stenness, forma el «Corazón neolítico de las Orcadas», Patrimonio de la Humanidad desde 1999.</p>"
+   },
+   "ver_alli": [
+    "Solo se visita con guía, en un autobús que sale del centro de visitantes, que está a cierta distancia del túmulo.",
+    "Conviene reservar con antelación.",
+    "El pasillo de entrada es largo y muy bajo."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Maeshowe",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ_zyIIqP5mkgRXY0AwPsub2g"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "skellig-michael",
+   "nombre": "Skellig Michael",
+   "provincia": "Irlanda",
+   "comarca": "Condado de Kerry",
+   "lat": 51.7721,
+   "lon": -10.5388,
+   "tipo": "yacimiento",
+   "estilo": "Monasterio altomedieval irlandés",
+   "epoca": "Prerrománico y Alta Edad Media",
+   "regiones_sincronia": [
+    "Islas Británicas"
+   ],
+   "texto": {
+    "general": "<p>Un peñasco que se alza 218 metros sobre el Atlántico, a casi 12 kilómetros de la costa de Kerry. Entre los siglos VI y VIII unos monjes fundaron cerca de su cima un pequeño <b>monasterio</b>, con seis celdas de piedra en forma de colmena, una de ellas derrumbada, construidas sin argamasa. A él se sube por una escalera de unos 600 peldaños tallados en la roca.</p><p>Los vikingos lo saquearon en 823, pero los monjes siguieron allí hasta finales del siglo XII o comienzos del XIII. Es uno de los ejemplos más extremos del <b>monacato irlandés</b>, que buscaba el aislamiento. Es Patrimonio de la Humanidad desde 1996, y en él se rodaron escenas de las últimas películas de La guerra de las galaxias.</p>"
+   },
+   "ver_alli": [
+    "Solo se llega en barco desde la costa de Kerry, en temporada, y el mal tiempo impide a menudo desembarcar.",
+    "La subida a la cima es empinada y sin barandillas en muchos tramos.",
+    "El número de visitantes diarios está limitado: hay que reservar el barco con mucha antelación."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Skellig_Michael",
+    "https://www.google.com/maps/place/?q=place_id:ChIJV2FNt0K8T0gRsFHIshhSxNs",
+    "https://www.openstreetmap.org/node/9439759406"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "roca-de-cashel",
+   "nombre": "Roca de Cashel",
+   "provincia": "Irlanda",
+   "comarca": "Cashel (Tipperary)",
+   "lat": 52.5201,
+   "lon": -7.8905,
+   "tipo": "monumento",
+   "estilo": "Románico y gótico irlandés",
+   "epoca": "Románico",
+   "anio": 1134,
+   "regiones_sincronia": [
+    "Islas Británicas"
+   ],
+   "texto": {
+    "general": "<p>Sobre esta colina rocosa tuvieron su sede los <b>reyes de Munster</b> desde muy antiguo, y la tradición cuenta que aquí san Patricio convirtió al rey en el siglo V. En 1101 el rey Muirchertach Ua Briain regaló su fortaleza a la Iglesia, y la roca se llenó de edificios religiosos.</p><p>La joya es la <b>capilla de Cormac</b>, empezada en 1127 y consagrada en 1134, obra maestra del románico irlandés, con los únicos frescos románicos que se conservan en Irlanda. La acompañan una torre redonda de unos 28 metros, de hacia 1100, y la catedral gótica, levantada entre 1235 y 1270. En 1647 las tropas parlamentarias de lord Inchiquin la saquearon durante las guerras confederadas.</p>"
+   },
+   "ver_alli": [
+    "Se visita el recinto amurallado de la cima; la capilla de Cormac se ve en visita guiada.",
+    "Desde lo alto se ven las ruinas de la abadía de Hore, al pie de la roca.",
+    "Arriba suele hacer viento: conviene llevar abrigo."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Rock_of_Cashel",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ9UGKcN7LXEgR3YC2sSpHPsw"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-glendalough",
+   "nombre": "Monasterio de Glendalough",
+   "provincia": "Irlanda",
+   "comarca": "Condado de Wicklow",
+   "lat": 53.0106,
+   "lon": -6.3271,
+   "tipo": "yacimiento",
+   "estilo": "Monasterio altomedieval irlandés",
+   "epoca": "Prerrománico y Alta Edad Media",
+   "regiones_sincronia": [
+    "Islas Británicas"
+   ],
+   "texto": {
+    "general": "<p>En un valle de las montañas de Wicklow, «el valle de los dos lagos», el ermitaño <b>san Kevin</b> fundó en el siglo VI un monasterio que llegó a ser uno de los grandes centros religiosos de Irlanda. Kevin murió hacia 618, y su tumba atrajo peregrinos durante siglos.</p><p>Se conservan una <b>torre redonda</b> de unos 30 metros, con la puerta a 3,5 metros del suelo, la catedral, la iglesia de San Kevin, apodada «la cocina» por su campanario en forma de chimenea, cruces y lápidas. La mayoría de los edificios son de los siglos X al XII. El monasterio sufrió saqueos durante seis siglos y decayó cuando su diócesis se unió a la de Dublín.</p>"
+   },
+   "ver_alli": [
+    "Se entra al recinto monástico por su antigua puerta de piedra, con dos arcos.",
+    "Senderos del parque nacional de las montañas de Wicklow siguen el valle hasta el lago Superior.",
+    "Hay un centro de visitantes cerca del recinto."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Glendalough",
+    "https://www.google.com/maps/place/?q=place_id:ChIJFxLcsMuXZ0gRV-Gogyek8T0"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "museo-britanico-asiria-y-ur",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arte asirio y sumerio",
+    "ver_alli": [
+     "Las salas de Asiria y Mesopotamia forman parte de la colección permanente del Museo Británico, en Great Russell Street.",
+     "El museo es inmenso: conviene ir directamente a estas salas.",
+     "Algunas piezas pueden estar prestadas o retiradas temporalmente."
+    ]
+   }
+  },
+  {
+   "id": "museo-britanico-arte-de-benin-e-ife",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Bronces de Benín e Ife",
+    "ver_alli": [
+     "Las obras de Benín e Ife se exponen en las salas de África del Museo Británico.",
+     "Esas salas cierran a veces por obras: conviene comprobarlo antes de ir."
+    ]
+   }
+  },
+  {
+   "id": "museo-britanico",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Neoclásico (Greek Revival)",
+    "ver_alli": [
+     "Es imposible verlo todo en un día: conviene elegir salas.",
+     "El gran patio cubierto, el Great Court, es el corazón del museo.",
+     "Las bolsas se revisan a la entrada: mejor ir ligero."
+    ],
+    "texto": {
+     "general": "<p>Uno de los mayores museos del mundo, fundado en 1753, con el tesoro de Sutton Hoo, la piedra de Rosetta y los mármoles del Partenón. Varios países reclaman objetos de sus colecciones, llevados en la época del imperio.</p><p>En la sala 18 se exponen las esculturas del Partenón que Lord Elgin hizo retirar entre 1801 y 1805: unos 75 metros del friso, 15 metopas y 17 figuras de los frontones. El Parlamento británico las compró en 1816. Aquí está también una de las seis cariátides del Erecteion; las otras cinco están en el Museo de la Acrópolis. Grecia reclama su devolución desde hace décadas, y el museo alega que una ley de 1963 le impide desprenderse de sus colecciones; ha habido conversaciones, pero hasta ahora no se ha anunciado ningún acuerdo.</p><p>El tesoro del barco de Sutton Hoo, regalado en 1939 por Edith Pretty, se expone en la sala 41, dedicada a la Europa de los años 300 a 1100 y abierta en 2014. Allí están el casco de hierro con máscara, reconstruido pieza a pieza por Nigel Williams en 1970-1971, la gran hebilla de oro, los broches de hombro con granates, la tapa de la bolsa, las monedas francas y el plato de plata con los sellos del emperador bizantino Anastasio.</p>"
+    }
+   }
+  },
+  {
+   "id": "abadia-de-iona",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Abadía medieval restaurada"
+   }
+  },
+  {
+   "id": "libro-de-kells-trinity-college",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Manuscrito insular; biblioteca georgiana"
+   }
+  },
+  {
+   "id": "centro-vikingo-jorvik",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo arqueológico vikingo"
+   }
+  },
+  {
+   "id": "catedral-y-ciudad-de-winchester",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico normando y gótico perpendicular"
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-hastings-y-battle-ab",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Abadía benedictina en ruinas"
+   }
+  },
+  {
+   "id": "torre-de-londres",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Castillo normando",
+    "texto": {
+     "general": "<p>El castillo que Guillermo el Conquistador empezó junto al Támesis, con la gran Torre Blanca. Fue palacio, prisión y lugar de ejecución: allí fue decapitada Ana Bolena, estuvo preso Tomás Moro, ejecutado en la vecina Tower Hill, y estuvo presa Isabel I. Guarda las joyas de la Corona. Es Patrimonio de la Humanidad.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Tower_Hill"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-canterbury",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico y gótico"
+   }
+  },
+  {
+   "id": "catedral-de-salisbury-y-la-carta-magna",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Gótico primitivo inglés"
+   }
+  },
+  {
+   "id": "abadia-de-westminster",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Gótico"
+   }
+  },
+  {
+   "id": "palacio-de-westminster",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Neogótico",
+    "ver_alli": [
+     "Hay visitas guiadas y con audioguía; conviene reservar.",
+     "Desde las tribunas públicas se pueden seguir los debates.",
+     "Enfrente está la abadía de Westminster."
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-caernarfon",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Castillo eduardiano"
+   }
+  },
+  {
+   "id": "castillo-de-stirling-y-monumento-a-walla",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Castillo con palacio renacentista"
+   }
+  },
+  {
+   "id": "castillo-de-edimburgo",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Fortaleza medieval"
+   }
+  },
+  {
+   "id": "colegios-de-oxford-y-biblioteca-bodleian",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Gótico perpendicular"
+   }
+  },
+  {
+   "id": "king-s-college-de-cambridge",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Gótico perpendicular"
+   }
+  },
+  {
+   "id": "palacio-de-hampton-court",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Tudor y barroco"
+   }
+  },
+  {
+   "id": "museo-del-mary-rose",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Navío de guerra Tudor"
+   }
+  },
+  {
+   "id": "globo-de-shakespeare",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Teatro isabelino reconstruido",
+    "texto": {
+     "general": "<p>Una reconstrucción fiel del teatro del Globo de 1599, de madera y con techo de paja, cerca del lugar original. Se representan obras de Shakespeare, y el público de pie, ante el escenario, revive el ambiente del teatro isabelino.</p>"
+    }
+   }
+  },
+  {
+   "id": "casa-natal-de-shakespeare",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Casa Tudor de entramado de madera"
+   }
+  },
+  {
+   "id": "palacio-de-hatfield",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Jacobeo",
+    "ver_alli": [
+     "En el parque se visita el antiguo palacio Tudor, además de la casa jacobea.",
+     "Los jardines y el bosque se recorren en la misma visita.",
+     "La finca está frente a la estación de tren de Hatfield."
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-san-pablo",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Barroco inglés"
+   }
+  },
+  {
+   "id": "casa-de-woolsthorpe",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Casa solariega del siglo XVII",
+    "ver_alli": [
+     "La casa es pequeña y tiene escaleras empinadas.",
+     "En el huerto sigue en pie el manzano de Newton.",
+     "Un centro de ciencia propone experimentos sencillos sobre la luz y la gravedad."
+    ]
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-culloden",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Campo de batalla"
+   }
+  },
+  {
+   "id": "garganta-de-ironbridge",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Puente de hierro fundido"
+   }
+  },
+  {
+   "id": "arsenal-historico-de-portsmouth-hms-vict",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Navío de línea del siglo XVIII"
+   }
+  },
+  {
+   "id": "museo-nacional-del-ferrocarril",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo del ferrocarril",
+    "ver_alli": [
+     "Está a unos 15 minutos a pie de la estación de York.",
+     "Dos grandes naves reúnen locomotoras y vagones de todas las épocas.",
+     "Conviene reservar plaza en línea en temporada alta."
+    ],
+    "texto": {
+     "general": "<p>El mayor museo del ferrocarril del mundo, con la Rocket original de Stephenson (1829), expuesta aquí desde 2019, los vagones reales de la reina Victoria, la locomotora de vapor más rápida del mundo, la Mallard, y un tren bala japonés.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Stephenson%27s_Rocket"
+    ]
+   }
+  },
+  {
+   "id": "museo-internacional-de-la-esclavitud",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de historia",
+    "ver_alli": [
+     "Está en el mismo edificio que el Museo Marítimo de Merseyside, en el frente portuario de Liverpool.",
+     "A pocos pasos, en el muelle Royal Albert, está The Beatles Story."
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-buckingham",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Neoclásico",
+    "ver_alli": [
+     "El cambio de guardia se celebra ante la fachada algunos días: conviene consultar el calendario.",
+     "Los salones de gala solo se visitan una parte del año.",
+     "Lo rodean St James's Park y Green Park."
+    ]
+   }
+  },
+  {
+   "id": "museo-victoria-y-alberto",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Victoriano y eduardiano",
+    "ver_alli": [
+     "El edificio y su patio ajardinado merecen la visita por sí solos.",
+     "Está en Cromwell Road, junto al Museo de Historia Natural.",
+     "Sus cafés ocupan salones victorianos decorados."
+    ]
+   }
+  },
+  {
+   "id": "museo-de-historia-natural-de-londres",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Neorrománico victoriano",
+    "ver_alli": [
+     "Recibe al visitante el gran salón central con el esqueleto de ballena azul.",
+     "Está en Cromwell Road, junto al Victoria y Alberto.",
+     "Conviene reservar plaza en línea para evitar colas."
+    ]
+   }
+  },
+  {
+   "id": "down-house-casa-de-darwin",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Casa georgiana"
+   }
+  },
+  {
+   "id": "museo-de-la-hambruna-strokestown",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Casa palladiana",
+    "lat": 53.7765,
+    "lon": -8.0978,
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJYbaSW3ooXEgRKNZnv7wkju0",
+     "https://www.openstreetmap.org/search?query=Strokestown%20House"
+    ]
+   }
+  },
+  {
+   "id": "carcel-de-kilmainham",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Cárcel georgiana y victoriana"
+   }
+  },
+  {
+   "id": "titanic-belfast",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arquitectura contemporánea"
+   }
+  },
+  {
+   "id": "murales-y-muros-de-la-paz-de-belfast",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Muralismo político",
+    "lat": 54.601,
+    "lon": -5.9564,
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJocs3r2YIYUgRni0qXnEacAc",
+     "https://www.openstreetmap.org/search?query=Cupar%20Way%20Belfast"
+    ]
+   }
+  },
+  {
+   "id": "museo-imperial-de-la-guerra",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Neoclásico",
+    "ver_alli": [
+     "Ocupa varias plantas: conviene dedicarle al menos medio día.",
+     "En el gran atrio cuelgan aviones y se exponen vehículos militares."
+    ]
+   }
+  },
+  {
+   "id": "cuarteles-de-guerra-de-churchill",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Búnker de la Segunda Guerra Mundial"
+   }
+  },
+  {
+   "id": "bletchley-park",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Mansión victoriana y barracones"
+   }
+  },
+  {
+   "id": "palacio-de-blenheim",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Barroco inglés"
+   }
+  },
+  {
+   "id": "museo-del-laboratorio-de-fleming",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Laboratorio de época",
+    "ver_alli": [
+     "Está dentro del hospital St Mary, en Praed Street, cerca de la estación de Paddington.",
+     "Es pequeño y se sube por escaleras; conviene comprobar antes cuándo abre."
+    ]
+   }
+  },
+  {
+   "id": "the-beatles-story-y-the-cavern",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de música"
+   }
+  },
+  {
+   "id": "parlamento-escoces",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura contemporánea (Enric Miralles)",
+    "ver_alli": [
+     "Se visitan el vestíbulo, una exposición y la cámara de debates; hay visitas guiadas que conviene reservar.",
+     "Enfrente está el palacio de Holyrood, al final de la Milla Real."
+    ]
+   }
+  },
+  {
+   "id": "museo-de-lyme-regis-mary-anning",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de paleontología"
+   }
+  },
+  {
+   "id": "centro-costa-patrimonial-de-charmouth",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Centro de interpretación de fósiles",
+    "ver_alli": [
+     "Centro de interpretación en la antigua fábrica de cemento, junto a la playa, con fósiles locales.",
+     "Sus guardas organizan paseos de búsqueda de fósiles por la playa; se recoge lo que suelta el mar, nunca se pica en el acantilado.",
+     "Hay que mirar la tabla de mareas: con marea alta la playa queda cortada."
+    ]
+   }
+  },
+  {
+   "id": "salisbury-museum",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de arqueología",
+    "texto": {
+     "general": "<p>Frente a la fachada oeste de la catedral de Salisbury, en la King's House, este museo fundado en 1860 guarda una de las mejores colecciones sobre <b>Stonehenge</b> y su paisaje. Su Wessex Gallery, abierta en 2014, recorre la prehistoria de la llanura de Salisbury con hallazgos de las excavaciones del monumento y de sus alrededores.</p><p>Su pieza más célebre es el ajuar del <b>arquero de Amesbury</b>, un hombre enterrado hacia 2.300 aC a unos cinco kilómetros de Stonehenge, cuya tumba se halló en 2002; los análisis de sus dientes indican que se crió en la región de los Alpes. Llegó con la gente del <b>vaso campaniforme</b>, cuyos descendientes sustituyeron en pocos siglos la mayor parte de la ascendencia de los agricultores neolíticos que habían levantado el monumento. Con él se enterraron vasos campaniformes, puntas de flecha de sílex, cuchillos de cobre y adornos de oro, entre los más antiguos de Gran Bretaña.</p>"
+    }
+   }
+  },
+  {
+   "id": "garganta-de-cheddar-y-el-hombre-de-chedd",
+   "campos": {
+    "estilo": "Cueva caliza con restos prehistóricos",
+    "ver_alli": [
+     "La cueva de Gough se recorre por dentro, a pie y con audioguía.",
+     "La garganta caliza de Cheddar se puede recorrer también por arriba, por un sendero con vistas."
+    ]
+   }
+  },
+  {
+   "id": "stonehenge",
+   "campos": {
+    "estilo": "Crómlech megalítico",
+    "ver_alli": [
+     "Se llega desde un centro de visitantes situado a algo más de 2 km de las piedras; el trayecto se hace en lanzadera o a pie, por el campo.",
+     "El centro tiene una exposición con hallazgos de la zona.",
+     "A unos 3 km al noreste están Durrington Walls y Woodhenge."
+    ],
+    "texto": {
+     "general": "<p>Se empezó hacia el 3000 a. C. como un foso circular, y hacia el 2500 a. C. se levantaron las grandes piedras: algunas, las «piedras azules», se trajeron desde Gales, a más de 200 kilómetros. Está orientado a la salida del sol en el solsticio de verano. Con Avebury, es Patrimonio Mundial.</p><p>Las grandes piedras de arenisca, los <i>sarsens</i>, llegaron de unos 25 kilómetros al norte; las «piedras azules», de las colinas de Preseli, en Gales, y en 2024 se comprobó que la gran Piedra del Altar procede del noreste de Escocia, a más de 700 kilómetros. Cerca está Durrington Walls, un gran recinto donde se celebraban banquetes de invierno. El arqueólogo Mike Parker Pearson cree que Stonehenge era un lugar dedicado a los antepasados.</p><p>Stonehenge se rehízo durante más de mil años. En su primera fase, hacia el 3000 a. C., la zanja circular tenía 56 hoyos, los agujeros de Aubrey, donde se enterraron restos incinerados de decenas de personas. Su eje mira al sol de los solsticios de verano y de invierno.</p><p>Hacia el 2500 a.C., mientras en Egipto se levantaban las pirámides de Guiza, Stonehenge vivía su gran época, con los sarsens y sus dinteles ya en su sitio. Poco después llegaron a Gran Bretaña los <b>vasos campaniformes</b> y, con ellos, nuevos pobladores procedentes del continente que, según los estudios de ADN, sustituyeron en pocos siglos a gran parte de la población anterior. Uno de ellos fue el <b>arquero de Amesbury</b>, enterrado hacia el 2300 a.C. a unos cinco kilómetros de aquí.</p>"
+    }
+   }
+  },
+  {
+   "id": "avebury",
+   "campos": {
+    "estilo": "Henge y crómlech megalítico",
+    "ver_alli": [
+     "Se pasea libremente entre las piedras, que rodean parte del pueblo.",
+     "En el pueblo, el museo Alexander Keiller expone los hallazgos de las excavaciones.",
+     "Cerca se ven Silbury Hill y el túmulo de West Kennet."
+    ]
+   }
+  },
+  {
+   "id": "newgrange-bru-na-boinne",
+   "campos": {
+    "estilo": "Tumba de corredor megalítica"
+   }
+  },
+  {
+   "id": "skara-brae",
+   "campos": {
+    "estilo": "Aldea neolítica de piedra",
+    "ver_alli": [
+     "Antes de la aldea, el centro de visitantes tiene una casa neolítica reconstruida por dentro.",
+     "Un sendero rodea las casas desde arriba, sin entrar en ellas.",
+     "Se combina con el anillo de Brodgar, las piedras de Stenness y Maeshowe."
+    ]
+   }
+  },
+  {
+   "id": "anillo-de-brodgar",
+   "campos": {
+    "estilo": "Henge y crómlech neolítico",
+    "ver_alli": [
+     "Se pasea libremente alrededor del círculo; el aparcamiento está al otro lado de la carretera.",
+     "Muy cerca están las piedras de Stenness y la excavación de Ness of Brodgar."
+    ]
+   }
+  },
+  {
+   "id": "muro-de-adriano-fuerte-de-housesteads",
+   "campos": {
+    "estilo": "Fuerte romano"
+   }
+  },
+  {
+   "id": "vindolanda",
+   "campos": {
+    "estilo": "Fuerte romano",
+    "texto": {
+     "general": "<p>Un fuerte romano junto al Muro de Adriano donde se encontraron las tablillas de Vindolanda, entre los documentos escritos a mano más antiguos de Gran Bretaña (solo las tablillas Bloomberg de Londres, de los años 50-80, son anteriores), entre ellas una invitación de cumpleaños de una mujer a otra. Su museo guarda también cientos de zapatos romanos.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Bloomberg_tablets"
+    ]
+   }
+  },
+  {
+   "id": "termas-romanas-de-bath",
+   "campos": {
+    "estilo": "Termas romanas"
+   }
+  },
+  {
+   "id": "sutton-hoo",
+   "campos": {
+    "estilo": "Necrópolis anglosajona de túmulos"
+   }
+  },
+  {
+   "id": "isla-sagrada-de-lindisfarne",
+   "campos": {
+    "estilo": "Priorato románico en ruinas"
+   }
+  },
+  {
+   "id": "complejo-cuevas-gorham-gibraltar",
+   "campos": {
+    "estilo": "Cuevas con ocupación neandertal"
+   }
+  },
+  {
+   "id": "durrington-walls-y-woodhenge",
+   "campos": {
+    "estilo": "Henge y círculo de postes neolíticos",
+    "ver_alli": [
+     "Se visita al aire libre, en pleno campo.",
+     "En Woodhenge, postes de hormigón marcan dónde estaban los de madera.",
+     "Los terraplenes de Durrington Walls se recorren a pie, cruzando la carretera desde Woodhenge."
+    ]
+   }
+  },
+  {
+   "id": "iglesia-de-san-pablo-de-jarrow",
+   "campos": {
+    "estilo": "Anglosajón (prerrománico)"
+   }
+  },
+  {
+   "id": "catedral-de-durham",
+   "campos": {
+    "estilo": "Románico normando"
+   }
+  },
+  {
+   "id": "aldea-anglosajona-de-west-stow",
+   "campos": {
+    "estilo": "Aldea anglosajona reconstruida",
+    "lat": 52.3109,
+    "lon": 0.6365,
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/West_Stow_Anglo-Saxon_Village",
+     "https://heritage.suffolk.gov.uk/west-stow",
+     "https://www.google.com/maps/place/?q=place_id:ChIJeWzfe2pJ2EcRzXxNLHTm5oQ",
+     "https://www.openstreetmap.org/search?query=West%20Stow%20Anglo%20Saxon%20Village"
+    ]
+   }
+  },
+  {
+   "id": "biblioteca-britanica",
+   "campos": {
+    "estilo": "Arquitectura moderna",
+    "ver_alli": [
+     "Está en Euston Road, junto a la estación de St Pancras; las salas de exposición permanente están abiertas al público.",
+     "El Sutra del Diamante se muestra solo en ocasiones por su fragilidad: conviene consultar antes.",
+     "El Proyecto Internacional Dunhuang (IDP) permite verlo en línea."
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-lincoln",
+   "campos": {
+    "estilo": "Castillo normando"
+   }
+  }
+ ]
+}
