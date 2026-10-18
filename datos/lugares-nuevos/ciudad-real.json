@@ -1,0 +1,480 @@
+{
+ "zona": "Ciudad Real",
+ "nuevos": [
+  {
+   "id": "plaza-mayor-de-almagro",
+   "nombre": "Plaza Mayor de Almagro",
+   "provincia": "Ciudad Real",
+   "comarca": "Almagro (Campo de Calatrava)",
+   "lat": 38.8887,
+   "lon": -3.7118,
+   "tipo": "monumento",
+   "estilo": "Plaza porticada renacentista",
+   "epoca": "Renacimiento",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Almagro fue la capital de la <b>Orden de Calatrava</b>, y su Plaza Mayor es el gran escenario de la villa. Tiene planta rectangular irregular, de unos <b>104 por 37 metros</b>, y sus lados mayores descansan sobre <b>85 columnas de piedra de orden toscano</b> que forman soportales.</p><p>Su transformación en el <b>siglo XVI</b> coincide con la llegada de los <b>Fúcares</b> (los Fugger), banqueros de Carlos V que tenían arrendadas las minas de azogue de Almadén. Sobre los soportales corren dos pisos de <b>galerías acristaladas</b>; sus ventanas y balcones se pintaron de <b>verde</b> en 1788, con motivo de la proclamación de Carlos IV, cuando antes eran de almagre rojo.</p><p>En el lado este está el Ayuntamiento, reformado en 1865. La plaza se restauró en los años sesenta bajo la dirección de Francisco Pons-Sorolla, y muy cerca está el famoso Corral de Comedias.</p>"
+   },
+   "ver_alli": [
+    "Cuenta (o intenta contar) las columnas toscanas de los soportales.",
+    "Levanta la vista hacia las galerías acristaladas pintadas de verde.",
+    "Mira el Ayuntamiento, que ocupa el lado este de la plaza."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Plaza_Mayor_de_Almagro"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-san-andres-villanueva-de-los-infantes",
+   "nombre": "Iglesia de San Andrés (Villanueva de los Infantes)",
+   "provincia": "Ciudad Real",
+   "comarca": "Villanueva de los Infantes (Campo de Montiel)",
+   "lat": 38.7371,
+   "lon": -3.0144,
+   "tipo": "iglesia",
+   "estilo": "Del gótico al clasicismo",
+   "epoca": "Renacimiento",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>La iglesia de San Andrés preside la Plaza Mayor de Villanueva de los Infantes, una villa declarada <b>Conjunto Histórico-Artístico en 1974</b>. Su construcción abarca varios estilos, <b>del gótico al clasicismo del siglo XVII</b>: la fachada principal, con arco de medio punto y columnas dóricas, se abre a la plaza y se atribuye a Francisco Cano. Por dentro tiene <b>una sola nave con bóvedas de crucería</b>.</p><p>Su nombre va unido al de <b>Francisco de Quevedo</b>, que murió en la villa el <b>8 de septiembre de 1645</b>. Quería ser enterrado en Madrid, pero lo sepultaron en la capilla de los Bustos de esta iglesia. A finales del siglo XVIII sus huesos pasaron a una cripta común, y en 1869 se envió por error a Madrid otro esqueleto.</p><p>En <b>2006</b> un equipo de medicina forense de la Universidad Complutense identificó en la cripta una decena de huesos compatibles con el escritor. Desde <b>2007</b> reposan en una <b>urna de hierro</b> visible en la cripta.</p>"
+   },
+   "ver_alli": [
+    "Mira la fachada clasicista que da a la Plaza Mayor.",
+    "Baja a ver la urna con los restos de Quevedo.",
+    "Fíjate en la torre, que las Relaciones de Felipe II describen con chapitel de pizarra."
+   ],
+   "fuentes": [
+    "https://www.eldiario.es/spin/quevedo-enterrado-iglesia-plaza-mayor-soportalada-balconadas-madera-pm_1_13429906.amp.html",
+    "https://es.wikipedia.org/wiki/Villanueva_de_los_Infantes_(Ciudad_Real)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "molinos-de-campo-de-criptana",
+   "nombre": "Molinos de Campo de Criptana",
+   "provincia": "Ciudad Real",
+   "comarca": "Campo de Criptana",
+   "lat": 39.4096,
+   "lon": -3.1228,
+   "tipo": "monumento",
+   "estilo": "Arquitectura popular manchega",
+   "epoca": "Renacimiento",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Sobre el cerro que domina Campo de Criptana se alinea un conjunto de <b>diez molinos de viento</b>, la estampa más quijotesca de La Mancha. <b>Tres de ellos datan del siglo XVI</b>, y el conjunto fue declarado <b>Bien de Interés Cultural en 1978</b>.</p><p>Los molinos fueron durante siglos parte de la economía del pueblo: el Catastro de Ensenada (1752) contó <b>34 molinos de viento</b> y Madoz, en 1846, 27 molinos harineros. Molían grano, harina de almortas y piensos. Su declive empezó hacia 1870 con la llegada de cereal extranjero, aunque algunos siguieron funcionando hasta los años cincuenta del siglo XX.</p><p>Algunos estudiosos creen que Cervantes pudo inspirarse en estos molinos para el famoso capítulo VIII de la primera parte del <i>Quijote</i>, el de la aventura de los gigantes.</p>"
+   },
+   "ver_alli": [
+    "Recorre a pie la hilera de molinos sobre el cerro.",
+    "Entra en alguno de los molinos abiertos para ver su interior.",
+    "Al atardecer, mira la llanura manchega desde lo alto."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Molinos_de_Campo_de_Criptana"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-penarroya",
+   "nombre": "Castillo de Peñarroya",
+   "provincia": "Ciudad Real",
+   "comarca": "Argamasilla de Alba",
+   "lat": 39.0613,
+   "lon": -3.0069,
+   "tipo": "castillo",
+   "estilo": "Fortaleza medieval con santuario barroco",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1198,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Encaramado en un acantilado a 12 km de Argamasilla de Alba, el castillo de Peñarroya fue conquistado en <b>1198</b> por las órdenes de Santiago y de San Juan, y quedó adscrito definitivamente a la <b>Orden de San Juan</b> en <b>1215</b>. En el siglo XIV era la encomienda más rica de la Orden.</p><p>Dentro del recinto se encuentra el <b>santuario de Nuestra Señora de Peñarroya</b>, patrona de Argamasilla de Alba y de La Solana. Su ermita, del <b>siglo XVII</b>, de un barroco tardío, guarda pinturas a ambos lados del altar mayor, un retablo churrigueresco y un camarín. En el exterior se ha hallado una necrópolis de rito islámico.</p><p>Hoy el castillo se asoma a la presa del <b>embalse de Peñarroya</b>, construida sobre el mismo acantilado.</p>"
+   },
+   "ver_alli": [
+    "Entra en el santuario y fíjate en el retablo churrigueresco y el camarín.",
+    "Sube a las murallas para ver el embalse a sus pies.",
+    "Observa cómo la presa aprovecha el mismo acantilado que el castillo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Argamasilla_de_Alba"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "oreto-y-zuqueca",
+   "nombre": "Yacimiento de Oreto y Zuqueca",
+   "provincia": "Ciudad Real",
+   "comarca": "Granátula de Calatrava",
+   "lat": 38.7594,
+   "lon": -3.7176,
+   "tipo": "yacimiento",
+   "estilo": "Ibérico, romano, visigodo e islámico",
+   "epoca": "Visigodo",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Junto a la ermita de la Virgen de Oreto y Zuqueca, en el término de Granátula de Calatrava, se superponen <b>más de diecisiete siglos de historia</b>: hay restos ibéricos, niveles iberorromanos, una villa tardorromana, una necrópolis visigoda y construcciones islámicas.</p><p>El yacimiento se descubrió en <b>1996</b>, durante unas obras en la ermita, que sacaron a la luz restos romanos, una <b>pila bautismal paleocristiana del siglo IV</b> y una <b>necrópolis visigoda</b>. En 2000 aparecieron los primeros hallazgos musulmanes y en 2001 unos <b>baños árabes</b>.</p><p>Tras varias campañas de excavación y consolidación, el yacimiento se abrió al público en el verano de <b>2006</b>.</p>"
+   },
+   "ver_alli": [
+    "Busca la pila bautismal paleocristiana, uno de los hallazgos clave.",
+    "Recorre la necrópolis visigoda junto a la ermita.",
+    "Localiza los restos de los baños árabes."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Oreto"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "sisapo",
+   "nombre": "Sisapo (La Bienvenida)",
+   "provincia": "Ciudad Real",
+   "comarca": "Almodóvar del Campo (Valle de Alcudia)",
+   "lat": 38.6461,
+   "lon": -4.5176,
+   "tipo": "yacimiento",
+   "estilo": "Oretano y romano",
+   "epoca": "Romano",
+   "anio": -700,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En la aldea de La Bienvenida, en el valle de Alcudia, están los restos de <b>Sisapo</b>, una ciudad fundada hacia <b>finales del siglo VIII o inicios del VII a. C.</b> en la antigua Oretania y convertida después en <b>municipio romano</b>. Su riqueza era el <b>cinabrio</b>, del que se obtenía el minio, un pigmento rojo muy apreciado.</p><p><b>Plinio el Viejo</b> habla del minio de Sisapo como el más conocido, extraído de una mina propiedad del pueblo romano y vendido a un precio fijo de 70 sestercios la libra. Sus murallas encierran unas <b>10 hectáreas</b> y miden cerca de 1 km.</p><p>Lo más visible es la <b>Casa de las Columnas Rojas</b>, una gran vivienda romana con mosaicos y pinturas murales de la que se han excavado unos 400 m². En sus muros se reutilizó una estela de guerrero de la Edad del Bronce.</p>"
+   },
+   "ver_alli": [
+    "Recorre la Casa de las Columnas Rojas y busca restos de pintura mural.",
+    "Sigue el trazado de la muralla que rodeaba la ciudad.",
+    "Mira el paisaje del valle de Alcudia, rico en minas desde la Antigüedad."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Sisapo"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "puerta-de-toledo-ciudad-real",
+   "nombre": "Puerta de Toledo (Ciudad Real)",
+   "provincia": "Ciudad Real",
+   "comarca": "Ciudad Real",
+   "lat": 38.9957,
+   "lon": -3.9278,
+   "tipo": "monumento",
+   "estilo": "Gótico, con arcos de herradura y ojivales",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>La Puerta de Toledo es la gran reliquia de las <b>murallas medievales de Ciudad Real</b>. Se habría construido en tiempos de <b>Alfonso X</b>, aunque otros autores retrasan su terminación al reinado de Alfonso XI.</p><p>Su rasgo más característico es que en cada fachada combina una pareja de <b>arco de herradura</b> y <b>arco ojival</b>. Hoy queda rodeada por la ciudad moderna.</p><p>Fue declarada <b>monumento nacional el 4 de febrero de 1915</b> por Alfonso XIII y hoy es Bien de Interés Cultural.</p>"
+   },
+   "ver_alli": [
+    "Compara los arcos de herradura con los ojivales en cada fachada.",
+    "Rodéala para ver sus dos caras.",
+    "Imagina la muralla que partía de aquí rodeando la villa medieval."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Puerta_de_Toledo_(Ciudad_Real)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "catedral-de-ciudad-real",
+   "nombre": "Catedral de Santa María del Prado (Ciudad Real)",
+   "provincia": "Ciudad Real",
+   "comarca": "Ciudad Real",
+   "lat": 38.9864,
+   "lon": -3.931,
+   "tipo": "iglesia",
+   "estilo": "Gótico, con añadidos renacentistas y barrocos",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>La catedral de Ciudad Real es un templo <b>gótico</b> iniciado a principios del <b>siglo XV</b>, con elementos de un románico tardío heredados de la iglesia anterior. Su rasgo más llamativo es su <b>nave única</b>, de 34 metros de alto, 53 de largo y <b>18 de ancho</b>: es la segunda catedral de nave única más ancha de España, tras la de Gerona. Las bóvedas se cerraron a mediados del siglo XVI, obra de Antonio de Écija.</p><p>El <b>retablo mayor</b>, de <b>Giraldo de Merlo</b>, se hizo entre 1612 y 1616 sobre trazas de Andrés de la Concha. La torre, de 62 metros, se terminó entre 1827 y 1835.</p><p>En <b>1875</b> Pío IX la convirtió en Iglesia Prioral de las Órdenes Militares y en <b>1980</b> obtuvo el rango de catedral. Está dedicada a la <b>Virgen del Prado</b>, patrona de la ciudad.</p>"
+   },
+   "ver_alli": [
+    "Al entrar, déjate impresionar por la anchura de su nave única.",
+    "Contempla el retablo mayor de Giraldo de Merlo.",
+    "Busca la imagen de la Virgen del Prado, patrona de Ciudad Real."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_de_Ciudad_Real"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-montizon",
+   "nombre": "Castillo de Montizón",
+   "provincia": "Ciudad Real",
+   "comarca": "Villamanrique (Campo de Montiel)",
+   "lat": 38.5228,
+   "lon": -3.0691,
+   "tipo": "castillo",
+   "estilo": "Fortaleza cristiana medieval",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En el extremo sur del Campo de Montiel, en término de Villamanrique, se alza el castillo de Montizón. Su estructura apunta a una <b>construcción cristiana</b>: en época musulmana, el paso de la Vía Augusta por el puerto del Dañador lo guardaba otro castillo, el de Ibn Xoray.</p><p>Como toda la comarca, perteneció a la <b>Orden de Santiago</b>, y entre sus comendadores figuró el poeta <b>Jorge Manrique</b>, autor de las <i>Coplas por la muerte de su padre</i>.</p><p>Fue declarado <b>monumento histórico-artístico en 1983</b>. Es de <b>propiedad privada</b> y se conserva razonablemente bien.</p>"
+   },
+   "ver_alli": [
+    "Contémplalo desde el exterior: es de propiedad privada.",
+    "Recuerda que cerca pasaba la antigua Vía Augusta, por el puerto del Dañador.",
+    "Recuerda a Jorge Manrique, que fue comendador de este castillo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Montiz%C3%B3n"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-la-estrella-montiel",
+   "nombre": "Castillo de la Estrella (Montiel)",
+   "provincia": "Ciudad Real",
+   "comarca": "Montiel (Campo de Montiel)",
+   "lat": 38.6992,
+   "lon": -2.8614,
+   "tipo": "castillo",
+   "estilo": "Andalusí y santiaguista",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Sobre un cerro junto a Montiel se alzan los restos del castillo de la Estrella. Lo construyeron los árabes en el <b>siglo IX</b>, cuando se llamaba <b>Munt-Yil</b>, y fue conquistado por los cristianos el <b>1 de noviembre de 1228</b>, tras dos años de asedio. Pasó a la <b>Orden de Santiago</b>, que levantó un nuevo recinto a finales del XIII o inicios del XIV.</p><p>Aquí se vivió uno de los episodios más dramáticos de la historia de Castilla: en <b>1369</b>, tras la batalla de Montiel y un asedio de diez días, el rey <b>Pedro I</b> murió en su enfrentamiento con su hermanastro Enrique de Trastámara, que reinaría como Enrique II.</p><p>Desde 2012 se excavan sus restos —en 2019 se descubrió la iglesia de Nuestra Señora de la Estrella— y fue declarado <b>Bien de Interés Cultural en 2015</b>.</p>"
+   },
+   "ver_alli": [
+    "Sube al cerro y recorre los restos del recinto santiaguista.",
+    "Busca la iglesia de Nuestra Señora de la Estrella, excavada en 2019.",
+    "Desde arriba, imagina el cerco de 1369 en la llanura."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_la_Estrella"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-san-pedro-ciudad-real",
+   "nombre": "Iglesia de San Pedro (Ciudad Real)",
+   "provincia": "Ciudad Real",
+   "comarca": "Ciudad Real",
+   "lat": 38.9848,
+   "lon": -3.9266,
+   "tipo": "iglesia",
+   "estilo": "Gótico",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>San Pedro es la iglesia gótica más completa de Ciudad Real. Se empezó en la <b>segunda mitad del siglo XIV</b> y se terminó en el XV. Tiene planta basilical de <b>tres naves</b> separadas por pilares fasciculados, con la central algo más alta y ancha.</p><p>Se entra por tres puertas: la <b>del Perdón</b>, a los pies, con rosetón de ascendencia mudéjar y arco decorado con puntas de diamante; la <b>de la Umbría</b>, al norte, con arco polilobulado; y la <b>del Sol</b>, la más sencilla y probablemente la más antigua.</p><p>En la <b>capilla de los Coca</b> está el sepulcro de alabastro de Fernando de Coca, confesor de Isabel la Católica, obra hispanoflamenca del siglo XV. Fue declarada <b>monumento histórico-artístico en 1974</b>.</p>"
+   },
+   "ver_alli": [
+    "Compara las tres portadas: del Perdón, de la Umbría y del Sol.",
+    "Busca el sepulcro yacente de Fernando de Coca en su capilla.",
+    "Dentro, fíjate en los pilares fasciculados que separan las tres naves."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Pedro_(Ciudad_Real)"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "motilla-azuer",
+   "campos": {
+    "estilo": "Motilla (fortificación de la Edad del Bronce)",
+    "ver_alli": [
+     "Las visitas son guiadas y se organizan desde Daimiel; conviene reservar en la oficina de turismo.",
+     "Fíjate en la torre central y en el pozo del patio, que bajaba hasta el agua subterránea.",
+     "El Parque Nacional de las Tablas de Daimiel está muy cerca."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Motilla_del_Azuer",
+     "https://www.wikidata.org/wiki/Q15813894"
+    ]
+   }
+  },
+  {
+   "id": "alarcos",
+   "campos": {
+    "lat": 38.9555,
+    "lon": -4.0148,
+    "estilo": "Oppidum ibérico y castillo medieval",
+    "ver_alli": [
+     "El centro de interpretación está a unos 400 m del castillo, en la ladera; hay recreación virtual del lugar.",
+     "Desde el castillo se domina el valle del Guadiana donde se libró la batalla de 1195.",
+     "La ermita de Nuestra Señora de Alarcos, junto al yacimiento, se puede ver al bajar."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Alarcos",
+     "https://www.openstreetmap.org/?mlat=38.9555&mlon=-4.0148#map=18/38.9555/-4.0148",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ50tDAcbBaw0RyssWdUSEtpo",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ22D8n6bBaw0RWmaOHI7hw7M"
+    ],
+    "texto": {
+     "general": "<p>Un cerro con un oppidum ibérico y, encima, el castillo donde en 1195 los almohades derrotaron a Alfonso VIII.</p><p>Alfonso VIII estaba levantando aquí una villa fortificada para vigilar la frontera del Guadiana cuando, el <b>19 de julio de 1195</b>, el califa almohade <b>Abu Yusuf Yaqub</b> derrotó por completo a su ejército a los pies del cerro. Tras la victoria tomó el título de <b>al-Mansur</b>, «el Victorioso», y para celebrarla mandó colocar cuatro esferas doradas en lo alto del alminar de Sevilla, la futura Giralda.</p><p>Las fortalezas de la orden de Calatrava cayeron y Toledo quedó amenazada. Los almohades las conservaron hasta que Castilla, diecisiete años después, se tomó la revancha en Las Navas de Tolosa (1212). En 1255 Alfonso X fundó en el llano cercano Villa Real, la actual Ciudad Real.</p>"
+    }
+   }
+  },
+  {
+   "id": "cerro-cabezas",
+   "campos": {
+    "lat": 38.709,
+    "lon": -3.4199,
+    "estilo": "Oppidum ibérico",
+    "texto": {
+     "general": "<p>A unos 8 km al sur de Valdepeñas, junto a la autovía A-4, se extiende una de las mayores ciudades de los íberos <b>oretanos</b>: unas <b>120 hectáreas</b>, en el paso natural entre Andalucía y la Meseta.</p><p>Se ocupó primero en el Bronce Final, en los siglos VIII-VII a. C., vivió su apogeo en el <b>siglo IV a. C.</b> y decayó a finales del III a. C.; pudo abandonarse hacia el 206 a. C.</p><p>La rodeaba una muralla de unos <b>1.600 metros</b>, con bastiones cada 35-40 metros y tres puertas; la norte tenía un pasillo en embudo de 25 metros. Dentro, calles de 3 a 5 metros, algunas empedradas, separaban manzanas de casas de dos o tres habitaciones, y junto a la puerta sur había un gran <b>almacén</b> elevado para proteger el grano de la humedad.</p><p class=\"dato\"><span>¿Sabías que…?</span>Cerca de la puerta norte apareció un pequeño santuario de planta pentagonal con tres piedras sagradas, o betilos, de unos 55-60 cm.</p>"
+    },
+    "ver_alli": [
+     "El centro de interpretación está a unos 250 m del yacimiento (salida 208 de la A-4), con una casa y un horno íberos reconstruidos y una réplica del almacén de la puerta sur.",
+     "En el yacimiento, busca la puerta norte y los tramos de muralla con bastiones.",
+     "Las bodegas de Valdepeñas quedan a pocos minutos."
+    ],
+    "fuentes": [
+     "https://cultura.castillalamancha.es/sites/default/files/2022-10/FICHA%20CERRO%20DE%20LAS%20CABEZAS%20%282%29.pdf",
+     "https://www.openstreetmap.org/?mlat=38.7089&mlon=-3.42#map=18/38.7089/-3.42",
+     "https://www.google.com/maps/place/?q=place_id:ChIJS0XveQBJaQ0RZ6FthuSj_Ww",
+     "https://www.google.com/maps/place/?q=place_id:ChIJderbBciibQ0RJgpVxYU5JBc"
+    ]
+   }
+  },
+  {
+   "id": "calatrava-la-vieja",
+   "campos": {
+    "estilo": "Fortaleza andalusí",
+    "texto": {
+     "general": "<p>Junto al Guadiana se levantó <b>Qal'at Rabah</b>, «la fortaleza de la rábida», de origen omeya: su primera mención documental es del <b>785</b>. Fue la principal ciudad andalusí del valle medio del Guadiana; destruida en el 853, el poder cordobés la refundó enseguida.</p><p>Alfonso VII la conquistó en <b>1147</b> y la convirtió en la plaza cristiana más avanzada. Los templarios no pudieron sostenerla y en <b>1158</b> Sancho III se la entregó al abad <b>Raimundo de Fitero</b>: así nació la <b>Orden de Calatrava</b>. Los almohades la recuperaron tras su victoria en Alarcos (1195), y Castilla volvió a tomarla en 1212; en 1217 la Orden se trasladó a Calatrava la Nueva.</p><p>Se conservan un <b>foso</b> de más de 750 metros, excavado en gran parte en la roca y alimentado por el río, dos <b>torres albarranas</b> (la mayor, de hacia el 854) y cuatro <b>corachas</b>; la de la medina avanzaba unos 80 metros hacia el río para subir agua con norias.</p>"
+    },
+    "ver_alli": [
+     "Recorre el foso tallado en la roca y fíjate en las torres albarranas.",
+     "Busca la coracha que baja hacia el Guadiana y el ábside inacabado de época templaria.",
+     "Forma parte del Parque Arqueológico Alarcos-Calatrava; la visita es con reserva."
+    ],
+    "fuentes": [
+     "https://www.spain.info/es/lugares-interes/parque-arqueologico-calatrava-vieja/",
+     "https://www.wikidata.org/wiki/Q371063",
+     "https://es.wikipedia.org/wiki/Castillo_de_Calatrava_la_Vieja",
+     "https://www.openstreetmap.org/?mlat=39.0742&mlon=-3.8332#map=18/39.0742/-3.8332"
+    ]
+   }
+  },
+  {
+   "id": "calatrava-la-nueva",
+   "campos": {
+    "estilo": "Cisterciense (castillo-convento)",
+    "texto": {
+     "general": "<p>En la cima del cerro <b>Alacranejo</b>, a 936 metros de altitud y frente al castillo de Salvatierra, se alza el castillo-convento que fue sede de la <b>Orden de Calatrava</b>. Se levantó entre <b>1213 y 1217</b>, tras la batalla de Las Navas de Tolosa, sobre el antiguo castillo de Dueñas, y en 1217 los caballeros trasladaron aquí su sede desde Calatrava la Vieja.</p><p>Era un <b>Sacro Convento</b> fortificado, con iglesia, convento, hospedería, puebla y recinto exterior. La <b>iglesia</b>, de estilo cisterciense, tiene tres naves con bóvedas de ladrillo, tres ábsides y un gran <b>rosetón</b> en la fachada, de tiempos de los Reyes Católicos.</p><p>Se abandonó en el siglo XIX, tras las desamortizaciones de Mendizábal. Es monumento histórico-artístico desde 1931.</p>"
+    },
+    "ver_alli": [
+     "El rosetón de la iglesia, visto desde dentro.",
+     "Sube a los adarves: enfrente se ve el castillo de Salvatierra.",
+     "El camino de acceso al cerro tiene el firme muy irregular: conviene subir despacio."
+    ],
+    "fuentes": [
+     "https://www.elespanol.com/eldigitalcastillalamancha/vivir/turismo/20260511/castillo-convento-espectacular-espana-joya-siglo-xiii-perfecto-escapada-trt/1003744240719_0.html",
+     "https://www.wikidata.org/wiki/Q2933633",
+     "https://es.wikipedia.org/wiki/Castillo_de_Calatrava_la_Nueva",
+     "https://www.openstreetmap.org/?mlat=38.6659&mlon=-3.8453#map=18/38.6659/-3.8453",
+     "https://www.google.com/maps/place/?q=place_id:ChIJzW22aEP5aw0R0mIs5xLnqxw"
+    ]
+   }
+  },
+  {
+   "id": "corral-de-comedias-de-almagro",
+   "campos": {
+    "lat": 38.8884,
+    "lon": -3.7119,
+    "estilo": "Arquitectura teatral del Siglo de Oro",
+    "texto": {
+     "general": "<p>Es el único corral de comedias del Siglo de Oro que se conserva <b>íntegro</b>. Lo abrió en <b>1628</b> el clérigo <b>Leonardo de Oviedo</b>, ampliando el antiguo Mesón del Toro, en la Plaza Mayor de Almagro; la primera función documentada es de 1629.</p><p>El público se repartía como en el teatro de la época: un patio rodeado por 54 pies derechos de madera sobre basas de piedra, dos pisos de galerías con aposentos, la <b>cazuela</b> para las mujeres frente al escenario y palcos con celosías a los lados. Caben unas 300 personas.</p><p>Hacia 1950, durante unas obras, apareció casi intacto, junto con una baraja pintada a mano. Se restauró y reabrió en <b>1952</b>, y en 1955 fue declarado Monumento Nacional. De aquella recuperación nació el <b>Festival de Teatro Clásico de Almagro</b>, que lo sigue usando cada julio.</p>"
+    },
+    "ver_alli": [
+     "Fíjate en los pies derechos de madera, los ganchos del toldo y la cazuela frente al escenario.",
+     "En el zaguán de entrada, empedrado, está la cruz de Calatrava.",
+     "Si coincides con el Festival de Teatro Clásico, ver una función aquí es la mejor visita."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Corral_de_comedias_de_Almagro",
+     "https://www.openstreetmap.org/?mlat=38.8883&mlon=-3.7119#map=18/38.8883/-3.7119",
+     "https://www.google.com/maps/place/?q=place_id:ChIJuRxuaKhfaQ0RjgNNtf-lPpA"
+    ]
+   }
+  },
+  {
+   "id": "palacio-del-viso-del-marques",
+   "campos": {
+    "lat": 38.5231,
+    "lon": -3.5633,
+    "estilo": "Renacimiento italiano y pintura manierista",
+    "texto": {
+     "general": "<p>Lo mandó levantar <b>Álvaro de Bazán</b>, primer marqués de Santa Cruz y almirante de Felipe II, entre <b>1564</b> y la década de 1580, a medio camino entre la corte y los puertos de Cádiz, Cartagena y Lisboa. El proyecto se atribuye al italiano Giovanni Battista Castello, «el Bergamasco», y gira en torno a un <b>patio porticado</b> renacentista.</p><p>Sus dos plantas están cubiertas por unos <b>8.000 m² de frescos manieristas</b> de pintores italianos como Giovanni Battista y Esteban Peroli: mitología, batallas navales, puertos y ciudades de Italia, fortificaciones y retratos de la familia del marqués.</p><p>El terremoto de Lisboa de 1755 hundió el techo del salón de honor, con su gran fresco de la batalla de Lepanto. Desde <b>1948</b> el palacio alberga el <b>Archivo General de la Marina «Don Álvaro de Bazán»</b>, y es monumento histórico-artístico desde 1931.</p>"
+    },
+    "ver_alli": [
+     "Pasa tiempo mirando los techos: las vistas de puertos y ciudades italianas y las batallas navales.",
+     "El patio porticado, con la escalera monumental.",
+     "Para entender los frescos ayuda la visita guiada o la audioguía."
+    ],
+    "fuentes": [
+     "https://www.ancient-history-sites.com/sites/palacio-del-marques-de-santa-cruz/",
+     "https://www.inspain.org/es/ciudad-real/visodelmarques/palaciodelmarquesdesantacruz/",
+     "https://www.openstreetmap.org/?mlat=38.5232&mlon=-3.5633#map=18/38.5232/-3.5633",
+     "https://www.google.com/maps/place/?q=place_id:ChIJeRYBzq-zbg0RU1Wqk9GDGQ0"
+    ]
+   }
+  },
+  {
+   "id": "plaza-mayor-de-villanueva-de-los-infante",
+   "campos": {
+    "lat": 38.7368,
+    "lon": -3.0143,
+    "estilo": "Plaza porticada manchega (siglos XV-XVII)",
+    "texto": {
+     "general": "<p>Villanueva de los Infantes, capital del <b>Campo de Montiel</b> desde 1573, tiene una de las plazas mayores más bellas de La Mancha: <b>soportales</b> de piedra y largas <b>balconadas de madera</b>, con el ayuntamiento y la iglesia de <b>San Andrés</b> asomados a ella. El pueblo entero, lleno de casas nobles con blasones, es Conjunto Histórico-Artístico desde 1974.</p><p>San Andrés mezcla gótico, manierismo y barroco, con una portada clasicista diseñada por Francisco Cano. En su cripta descansan desde 2007 los restos identificados de <b>Francisco de Quevedo</b>.</p><p>Quevedo llegó en abril de 1645 desde su finca de Torre de Juan Abad buscando atención médica y murió el <b>8 de septiembre de 1645</b> en el convento de Santo Domingo de la villa, no en la propia plaza. Fue enterrado en San Andrés; sus huesos se perdieron después en un osario y no se identificaron hasta 2006.</p><p class=\"dato\"><span>¿Sabías que…?</span>En 2004 un equipo de la Universidad Complutense propuso que Villanueva de los Infantes sería el «lugar de la Mancha» de Don Quijote.</p>"
+    },
+    "ver_alli": [
+     "Recorre los soportales y mira las balconadas de madera desde el centro de la plaza.",
+     "Entra en San Andrés para ver la cripta con la urna de Quevedo.",
+     "A pocos pasos están el convento de Santo Domingo, donde murió, y casas nobles como la del Caballero del Verde Gabán."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Villanueva_de_los_Infantes_(Ciudad_Real)",
+     "https://www.eldiario.es/spin/quevedo-enterrado-iglesia-plaza-mayor-soportalada-balconadas-madera-pm_1_13429906.html",
+     "https://lospueblosmasbonitosdeespana.org/pueblos/villanueva-de-los-infantes/lugares-de-interes?lang=en",
+     "https://www.openstreetmap.org/?mlat=38.7368&mlon=-3.0142#map=18/38.7368/-3.0142",
+     "https://www.google.com/maps/place/?q=place_id:ChIJNd1ysCvRaA0RhtAlMdaTXhI"
+    ]
+   }
+  },
+  {
+   "id": "parque-minero-almaden",
+   "campos": {
+    "estilo": "Patrimonio minero e industrial",
+    "ver_alli": [
+     "Bajada en jaula a la mina, a unos 50 metros, y recorrido por galerías de los siglos XVI y XVII; salida en tren minero.",
+     "Centro de interpretación, Museo del Mercurio, hornos de aludeles y Puerta de Carlos IV.",
+     "Hospital de Mineros de San Rafael (1752), en visita aparte."
+    ],
+    "fuentes": [
+     "https://iugs-geoheritage.org/geoheritage_sites/the-giant-mercury-deposit-of-the-almaden-syncline/",
+     "https://showcaves.com/english/es/mines/Almaden.html",
+     "https://www.erih.net/i-want-to-go-there/almaden-mining-park-world-heritage-site",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ5whbmU9Eaw0RjURChgBqdpI",
+     "https://www.openstreetmap.org/?mlat=38.7754&mlon=-4.8479#map=18/38.7754/-4.8479"
+    ]
+   }
+  }
+ ]
+}

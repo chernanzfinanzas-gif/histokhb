@@ -119,3 +119,33 @@
 | med5 | láminas en cola; esperando correcciones |
 | mod1 | TEXTOS-LISTOS; láminas en cola |
 | mod2-mod4 | siguiente |
+
+### 18-oct-2026 · 13:55 · Chat «contenidos»
+- **Leído:** `de-montaje.md` hasta 13:40, `correcciones-med4.md` y `correcciones-med5.md`.
+- **Hecho:** **TODO-LISTO med2** en `epocas-med2`, con las correcciones aplicadas antes de grabar las voces. Desarrollos: des-mezquita, des-azahara, des-naranco, des-anse y des-angkor.
+- **Hecho:** **TEXTOS-LISTOS mod2, mod3 y mod4**, cada uno en su rama `epocas-modN`, con las DUDAS en el commit.
+  - mod2: 22 fichas. Desarrollos: des-escorial, des-globe, des-isfahan, des-taj-mahal y des-galeon-manila.
+  - mod3: 19 fichas. Desarrollos: des-versalles, des-ronda-noche, des-misiones-guaranies, des-cartagena-indias y des-san-petersburgo.
+  - mod4: 19 fichas. Desarrollos: des-edificio-prado, des-mision-carmelo, des-baixa-lisboa, des-sanssouci y des-ironbridge.
+- **Aviso:** en mod3 y sobre todo en mod4, los agentes agotaron el cupo de búsquedas web del turno. Esos textos salen de su conocimiento sin contrastar y conviene repasarlos con más cuidado; las coordenadas de los lugares nuevos están puestas de memoria.
+- **Hecho:** **LAMINAS-LISTAS med3 y med4**. Las láminas de med5 están integradas y animándose.
+- **En marcha:** voces de med3; correcciones de med4 y med5 aplicándose. Después grabaré sus voces.
+- **Petición (lugares que no son míos):**
+  - `cuevas-de-zugarramurdi`: el auto de fe fue el 7 y 8 de noviembre de 1610, no «7 de diciembre», y los presos murieron probablemente de epidemia, no «bajo tortura».
+  - `palacio-de-sanssouci`: Cecilienhof no está «en el mismo parque», sino en el Neuer Garten.
+
+| Capítulo | Estado |
+|---|---|
+| ant5, med2 | TODO-LISTO |
+| med3 | grabando voces |
+| med4 | láminas listas; aplicando correcciones, luego voces |
+| med5 | animando; aplicando correcciones, luego voces |
+| mod1-mod4 | TEXTOS-LISTOS; láminas en cola (mod1 generándose) |
+| c1789 en adelante | siguiente |
+
+### 18-oct-2026 · 14:20 · Chat «contenidos»
+- **Hecho:** aplicadas las correcciones de med4 y med5. En med4 todo cae en el nivel profundo o en `bib`, así que no hay que regrabar nada; sus voces van ahora, después de las de med3. En med5 tocan el `g` de med5-8 y de med5-4, que todavía no estaban grabados.
+- **Hecho (Contemporánea):** abiertas `epocas-c1789` y `epocas-c1808` desde main. Sus fichas y desarrollos ya están en main sin cambios, pero les faltaban animaciones y voces. Las estoy animando: Veo en des-rev1789 y des-malaspina, y en des-tambora, des-champollion y des-viena; el resto, cámara.
+- **Petición:** ¿puedes pasar la comprobación con la web a **c1789** (5 fichas y 10 desarrollos) y a **c1808** (6 fichas y 12 desarrollos), en `correcciones-c1789.md` y `correcciones-c1808.md`? No las he grabado todavía: lo haré cuando estén las correcciones. Desarrollos de c1789: des-rev1789, des-terror, des-napoleon, des-egipto, des-trafalgar, des-haiti, des-luisiana, des-humboldt, des-malaspina, des-balmis. Desarrollos de c1808: des-cadiz, des-trienio, des-viena, des-rusia1812, des-bolivar, des-sanmartin, des-mexico, des-guerraind, des-grecia, des-champollion, des-te-opio, des-tambora.
+- **DUDA para Carlos (formato de con1-con5):** c1789 y c1808 tienen el formato «por zonas» del piloto aprobado («España entre 1808 y 1830», «Europa entre…»). Los capítulos de la Antigua, la Media y la Moderna, en cambio, usan el formato «por temas» (15-22 fichas por capítulo). Además, con1 (1799-1848) se solapa con c1808 y le quedan solo 3 fichas. Mientras no se diga otra cosa, **sigo con con1-con5 por temas**, como la Moderna, y empiezo con1 en 1830 para no repetir 1789-1830. Si preferís zonas, decídmelo aquí y lo rehago.
+- **Aviso:** el disco se llenó a media tarde. Lo he resuelto vaciando los temporales de ant1, ant3 y ant4 y dejando sus copias de trabajo solo con el foro, sin tocar ramas ni commits. No se perdió nada subido; se repitieron las animaciones de cámara de med5 que fallaron.
