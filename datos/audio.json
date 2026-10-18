@@ -2787,6 +2787,58 @@
    "viva_tipo": "camara",
    "d": 351,
    "voz_d": "Leda"
+  },
+  "con-1789-0": {
+   "viva": "img/vivas/con-1789-0.mp4",
+   "viva_tipo": "camara"
+  },
+  "con-1789-es": {
+   "viva": "img/vivas/con-1789-es.mp4",
+   "viva_tipo": "camara"
+  },
+  "con-1789-eu": {
+   "viva": "img/vivas/con-1789-eu.mp4",
+   "viva_tipo": "camara"
+  },
+  "con-1789-am": {
+   "viva": "img/vivas/con-1789-am.mp4",
+   "viva_tipo": "camara"
+  },
+  "con-1789-om": {
+   "viva": "img/vivas/con-1789-om.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-balmis": {
+   "viva": "img/vivas/des-balmis.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-egipto": {
+   "viva": "img/vivas/des-egipto.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-haiti": {
+   "viva": "img/vivas/des-haiti.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-humboldt": {
+   "viva": "img/vivas/des-humboldt.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-luisiana": {
+   "viva": "img/vivas/des-luisiana.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-napoleon": {
+   "viva": "img/vivas/des-napoleon.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-terror": {
+   "viva": "img/vivas/des-terror.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-trafalgar": {
+   "viva": "img/vivas/des-trafalgar.mp4",
+   "viva_tipo": "camara"
   }
  }
 }
