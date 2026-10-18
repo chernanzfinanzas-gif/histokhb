@@ -20,6 +20,7 @@ def zonas():
 def main(revisar):
     P=os.path.join(R,'datos','lugares.json'); D=json.load(open(P,encoding='utf-8')); L=D['lugares']; ix={l['id']:l for l in L}
     global COMUNES; from collections import Counter; cc=Counter(w for x in L for w in toks(x.get('nombre',''))); COMUNES={w for w,n in cc.items() if n>=4}
+    BORR={b.get('id') for z in zonas() for b in json.load(open(os.path.join(R,'datos','lugares-nuevos',z+'.json'),encoding='utf-8')).get('borrar',[])}
     graves=[]; avisos=[]; nN=nC=nB=0
     for z in zonas():
         E=json.load(open(os.path.join(R,'datos','lugares-nuevos',z+'.json'),encoding='utf-8'))
@@ -39,7 +40,9 @@ def main(revisar):
             n=dict(l); L.append(n); ix[i]=n; nN+=1
         for c in E.get('cambios',[]):
             i=c.get('id'); f=c.get('campos',{})
-            if i not in ix: graves.append(f'{z}: cambio a {i}, que no existe'); continue
+            if i not in ix:
+                if i not in BORR: graves.append(f'{z}: cambio a {i}, que no existe')
+                continue
             raros=set(f)-CAMPOS
             if raros: avisos.append(f'{z}: {i} campos desconocidos {sorted(raros)} (se aplican igual)')
             if 'tipo' in f and f['tipo'] not in TIPOS: graves.append(f'{z}: {i} tipo «{f["tipo"]}» no válido'); continue
