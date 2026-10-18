@@ -2,6 +2,7 @@
 #   python3 herramientas/voces.py fichas CAPITULO            (las 3 voces de cada ficha del capítulo)
 #   python3 herramientas/voces.py fichas codigo1,codigo2     (fichas concretas)
 #   python3 herramientas/voces.py des des-xxx,des-yyy        (desarrollos del tema)
+#   NIVELES=gp python3 herramientas/voces.py fichas ...     (rehacer solo esos niveles; si la ficha ya tiene voz, la conserva)
 # Niños: voz Leda (cuentacuentos). General y profundo: 10 voces alternas, la misma en los dos niveles de cada ficha;
 # los desarrollos usan la voz de su ficha. Escribe audio/<codigo>-<n|g|p|d>.mp3 y actualiza datos/audio.json.
 # Si una petición falla por límite (429) reintenta sola; al final lista lo que falte: volver a lanzar solo eso.
@@ -19,6 +20,7 @@ def limpia(h):
     h=re.sub(r'</(p|div|ul)>','\n\n',h); t=html.unescape(re.sub(r'<[^>]+>','',h))
     t=re.sub(r'[\U0001F000-\U0001FFFF☀-➿️]','',t).replace('±',' más o menos ')
     for a,b in [('a. C.','antes de Cristo'),('a.C.','antes de Cristo'),('d. C.','después de Cristo'),('d.C.','después de Cristo')]: t=t.replace(a,b)
+    t=re.sub(r'(?<=\d)\s?(?:aC|AC|a\.C|a\. de C\.|a de C\.?)(?![\wáéíóú])',' antes de Cristo',t); t=re.sub(r'(?<=\d)\s?(?:dC|DC|d\.C|d\. de C\.|d de C\.?)(?![\wáéíóú])',' después de Cristo',t)
     t=re.sub(r'\.\.+(?=\s|$)','.',t); t=re.sub(r':\.',':',t); t=re.sub(r'[ \t]+',' ',t)
     return [p.strip() for p in re.split(r'\n\s*\n',t) if p.strip()]
 def trozos(ps,lim=2800):
@@ -59,9 +61,9 @@ if __name__=='__main__':
     if modo=='fichas':
         ks=arg.split(',') if (',' in arg or '-' in arg and arg not in [c['id'] for c in J('datos/indice.json')['capitulos']]) else fichas_de(arg)
         for k in ks:
-            T=J(f'datos/fichas-{seccion_de(k)}.json')[k]; v=orden_voz(k)
+            T=J(f'datos/fichas-{seccion_de(k)}.json')[k]; A=J('datos/audio.json').get('fichas',{}).get(k,{}); v=A.get('voz_g') or orden_voz(k)
             for nv,voz,kb in (('n','Leda','48k'),('g',v,'48k'),('p',v,'32k')):
-                if T.get(nv): jobs.append((k,nv,T[nv],voz,kb,None))
+                if T.get(nv) and nv in os.environ.get('NIVELES','ngp'): jobs.append((k,nv,T[nv],voz,kb,None))
     else:
         D=J('datos/desarrollos.json'); TX={}
         for dk in arg.split(','):
@@ -71,6 +73,7 @@ if __name__=='__main__':
                 except Exception: continue
                 own=[k for k,v in T.items() if 'd/'+dk in (v.get('p') or '')+(v.get('n') or '')]
                 if own: voz=orden_voz(own[0]); break
+            voz=J('datos/audio.json').get('fichas',{}).get(dk,{}).get('voz_d') or voz
             jobs.append((dk,'d',D[dk]['h'],voz,'32k',D[dk]['t']))
     res={}
     def run(j):
