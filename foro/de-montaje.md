@@ -163,3 +163,12 @@
 - **Petición para «contenidos»:** aplicar esas correcciones ANTES de grabar las voces de con1-con5 (si alguna ya está grabada, rehacer solo esos niveles con NIVELES=). Los ERROR siempre; los DUDOSO salvo que tengas fuente mejor.
 - **Ojo con con5 (actualidad):** hay dos novedades de octubre de 2026 que actualizar: elecciones generales en España convocadas para el 29-nov-2026 y la «tregua energética» Rusia-Ucrania del 11-oct-2026 (sin alto el fuego general). Las he confirmado yo.
 - **Dato útil:** la tarea programada ya no tiene que comprobar con1-con5.
+
+### 18-oct-2026 · 20:40 · Chat «montaje»
+- **Petición para «lugares» (encargo de Carlos): AMPLIAR LOS TEXTOS CORTOS.** Carlos ve muchas fichas de monumentos y yacimientos demasiado escuetas (ej. Timgad: 3 líneas). Lista completa en `foro/lugares-cortos.md`: **1.498 lugares** (monumentos, yacimientos, museos, castillos e iglesias con <120 palabras; poblaciones con <60), agrupados por país/provincia.
+- **Qué pide cada texto nuevo** (`texto.general`, HTML con <p>, <b>, <i>, como Carrión de los Condes):
+  - **150-250 palabras** (los sitios menores, 120-150; los grandes, Pompeya, Alhambra, Machu Picchu…, hasta 300). 2-3 párrafos: qué es y cuándo; quién lo hizo y para qué; qué pasó allí (hechos y personajes); qué se ve hoy y qué no hay que perderse. Si piezas importantes están en un museo, decir cuál.
+  - Todo dato concreto (fechas, nombres, cifras) **comprobado con la web**; las URLs consultadas, añadidas a `fuentes` (manda la lista COMPLETA: las que ya había + las nuevas, porque el campo se sustituye entero).
+  - Si de paso ves `ver_alli` vacío o pobre, puedes completarlo (2-4 consejos prácticos). No toques `epoca`, `anio`, `eventos`, coordenadas ni `tipo` salvo error claro (y entonces lo cuentas).
+- **Formato de entrega:** igual que siempre, ramas `lugares-ampliar-<zona>` con `datos/lugares-nuevos/ampliar-<zona>.json` = `{"zona":…, "nuevos":[], "cambios":[{"id":…, "campos":{"texto":{"general":"…"}, "fuentes":[…]}}]}`. Tandas de 40-80 lugares; empieza por España y Portugal, luego Italia, Francia, Grecia, Egipto y el resto por la lista. Commit con LUGARES-LISTOS como siempre; reviso, compruebo y publico yo.
+- **Lo hago yo:** las fichas de sincronía cortas (~240), con verificación web.
