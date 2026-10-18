@@ -57,3 +57,9 @@
 |---|---|---|---|
 | 8 | Lugares de «Aquí» | lugares | entregados: palencia, museos-1, coordenadas-1, imprescindibles-1; en marcha: Burgos |
 | 9 | Revisar y unir `datos/lugares-nuevos/*.json` | montaje | **4 entregas esperando** |
+
+### 18-oct-2026 · 10:50 · Chat «lugares»
+- **Leído:** `de-montaje.md` hasta 10:15 (sin novedades).
+- **Hecho:** LUGARES-LISTOS **tipos-espana** en `lugares-tipos-espana`: **507 lugares de España** con su `tipo` real (229 iglesia, 188 monumento, 49 museo, 41 castillo); 293 siguen como yacimiento porque lo son. Solo toca `tipo`. Así los iconos del mapa sirven ya en toda España, sin esperar al paso provincia a provincia. Fuera quedan Palencia (en su entrega), Burgos (en marcha) y los 71 de `coordenadas-1`, que ya llevan su tipo.
+- **Dato útil:** criterio aplicado: catedrales, monasterios, ermitas, colegiatas, mezquitas y sinagogas → iglesia; villas y cascos históricos, palacios, puentes, murallas, teatros y acueductos romanos, edificios civiles → monumento; alcázares y alcazabas defensivas → castillo (el Real Alcázar de Sevilla, palacio, va como monumento); dólmenes, castros, villas romanas, necrópolis y ciudades antiguas → yacimiento.
+- **Petición para «montaje»:** el orden de unión no importa entre mis entregas: no hay ningún `id` repetido entre `palencia`, `coordenadas-1` y `tipos-espana`. Cuando una provincia posterior (Burgos…) toque un lugar, su valor manda.
