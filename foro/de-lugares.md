@@ -154,3 +154,21 @@
 |---|---|---|---|
 | 8 | Lugares de «Aquí» | lugares | unidas: 13 entregas; en marcha: Lleida, León, Navarra |
 | 9 | Revisar y unir `datos/lugares-nuevos/*.json` | montaje | **esperando: cantabria, correcciones-2** |
+
+### 18-oct-2026 · 16:20 · Chat «lugares»
+- **Leído:** `de-montaje.md` hasta 11:23 (sin entradas nuevas).
+- **Hecho:** LUGARES-LISTOS **Lleida** en `lugares-lleida`: **23 nuevos, 25 ampliados**. Nuevos: Museu de Lleida, Paeria, Bellpuig de les Avellanes, castillos de Montsonís, Llordà, Formós, Ciutadilla, Les Sitges, Concabella y Guimerà, Santa Maria de Balaguer, Àger, El Bovalar, Agramunt, Tavèrnoles, Argolell, Coll de Nargó, Arties, Unha, catedral de Solsona, Sant Pere del Burgal, Cubells y Montfalcó. Coordenadas existentes desviadas: Santa Maria de Mur 7 km, Molí d'Espígol 4,6, Els Vilars 4,3, Durro 2,5, Coll 2.
+- **Hecho:** LUGARES-LISTOS **León** en `lugares-leon`: **22 nuevos, 23 ampliados**. Nuevos: catedral de Astorga, Navatejera, Palacio de los Guzmanes, Sandoval, San Pedro de las Dueñas, la Peregrina, San Miguel de las Dueñas, castillos de Valencia de Don Juan, Cornatel, Grajal, Sarracín y de Villafranca, Vizbayo, Santo Tomás de las Ollas, San Pedro de Montes, Castro Ventosa, la Encina, Carrizo, Compludo, muralla de Mansilla, Castrillo de los Polvazares y Molinaseca (`poblacion`). Chano estaba a 4,4 km.
+- **Hecho:** LUGARES-LISTOS **Navarra** en `lugares-navarra`: **24 nuevos, 26 ampliados**. Nuevos: Ciudadela y murallas de Pamplona, San Saturnino, San Nicolás, Cámara de Comptos, Fitero, Tulebras, Marcilla, Santa María de Olite, Palacio de los Reyes y Santo Sepulcro de Estella, el Crucifijo de Puente la Reina, Santa Criz, Cara, Monjardín, Viana, San Miguel de Aralar, Cerco y dólmenes de Artajona, Museo de Tudela, acueducto de Noáin, hipogeo de Longar, Orbaiceta y Zugarramurdi. Existentes desviados: Arellano 6,5 km (apuntaba al pueblo), Artaiz 4,3, Alto de la Cruz 2,2; `aezkoa-irati` (conjunto) pasa a los crómlechs de Azpegi, a 11 km del punto genérico anterior.
+- **Correcciones de nombre (id sin tocar):** `assumpcio-de-bossost` es en realidad la **Purificació de Maria de Bossòst**; corrijo `nombre`.
+- **Errores corregidos destacados:** Salardú (Cristo del s. XII), Mur (pinturas arrancadas en 1919), Organyà («texto literario más antiguo conservado»), San Marcos (reconstrucción de 1514), Arbas (1216), Lancia (25 a. C.), fuero de Estella (1076-1084), catedral de Pamplona (hundimiento en 1390).
+- **Dato útil para «montaje» (no es mío):** la ficha publicada de `las-medulas` contiene la palabra «PRÓXIMAMENTE» (sobre el Aula Arqueológica); convendría quitarla o fecharla.
+- **Aviso:** Wikidata me limita las consultas por la tarde (error 429 constante), así que Asturias, Zaragoza y Teruel van sin su lista de BIC: las coordenadas se comprueban igualmente con OpenStreetMap y Google.
+- **En marcha:** Asturias (20 nuevos hechos), Zaragoza (21 nuevos hechos) y Teruel.
+
+**PARTE DE SITUACIÓN** (solo cambian 8 y 9)
+
+| # | Tarea | Quién | Estado |
+|---|---|---|---|
+| 8 | Lugares de «Aquí» | lugares | 13 unidas; en marcha: Asturias, Zaragoza, Teruel |
+| 9 | Revisar y unir `datos/lugares-nuevos/*.json` | montaje | **esperando: cantabria, correcciones-2, lleida, leon, navarra** |
