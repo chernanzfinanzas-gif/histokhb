@@ -1,0 +1,658 @@
+{
+ "zona": "Granada",
+ "nuevos": [
+  {
+   "id": "monasterio-de-san-jeronimo-granada",
+   "nombre": "Monasterio de San Jerónimo",
+   "provincia": "Granada",
+   "comarca": "Granada",
+   "lat": 37.1792,
+   "lon": -3.6043,
+   "tipo": "iglesia",
+   "estilo": "Renacimiento",
+   "epoca": "Renacimiento",
+   "anio": 1504,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Los <b>Reyes Católicos</b> fundaron este monasterio jerónimo en Santa Fe, durante el asedio de Granada, y poco después lo trasladaron a la ciudad, donde las obras del edificio actual empezaron en <b>1504</b>. Trabajaron en él el florentino Jacopo Torni y, a su muerte en 1526, <b>Diego de Siloé</b>, que dejó aquí una de sus obras maestras renacentistas.</p><p>La iglesia, de cruz latina, se pensó como gran panteón: en el crucero reposan <b>Gonzalo Fernández de Córdoba, el Gran Capitán</b>, y su esposa María Manrique. El retablo mayor, manierista y obra principal de Pablo de Rojas, se considera punto de partida de la escultura andaluza.</p><p>Durante la guerra de la Independencia los franceses expulsaron a los monjes y dejaron el edificio casi en ruinas; derribaron la esbelta torre y usaron sus piedras para el Puente Verde. La torre no se volvió a levantar hasta los años ochenta del siglo XX.</p><p class=\"dato\"><span>¿Sabías que…?</span>En su segundo claustro se alojó la emperatriz Isabel de Portugal durante su viaje de bodas con Carlos V.</p>"
+   },
+   "ver_alli": [
+    "El crucero con la tumba del Gran Capitán.",
+    "El gran retablo mayor manierista.",
+    "El claustro antiguo, con siete arcosolios clásicos pensados como espacio funerario."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Monasterio_de_San_Jer%C3%B3nimo,_Granada",
+    "https://andalucia.org/en/granada-cultural-tourism-monasterio-de-san-jeronimo",
+    "https://www.openstreetmap.org/?mlat=37.1792&mlon=-3.6043#map=18/37.1792/-3.6043"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "corral-del-carbon",
+   "nombre": "Corral del Carbón",
+   "provincia": "Granada",
+   "comarca": "Granada",
+   "lat": 37.175,
+   "lon": -3.598,
+   "tipo": "monumento",
+   "estilo": "Nazarí",
+   "epoca": "Andalusí",
+   "anio": 1336,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Es la <b>única alhóndiga nazarí conservada íntegra</b> en la península. Se levantó en el siglo XIV, antes de 1336, con el nombre de <b>al-Funduq al-Yadida</b>, «la Alhóndiga Nueva»: posada para mercaderes de paso, almacén y mercado al por mayor, junto a la Alcaicería y la Mezquita Mayor.</p><p>Tras la conquista cambió muchas veces de uso. En 1531 se subastó y acogió a los carboneros, de ahí su nombre actual; fue <b>corral de comedias</b> hasta 1593 y luego casa de vecinos. El Estado lo compró en 1933 y encargó su restauración a Leopoldo Torres Balbás.</p><p>Hoy es sede de la Orquesta Ciudad de Granada y del Festival Internacional de Música y Danza, y su patio acoge a veces teatro y flamenco.</p><p class=\"dato\"><span>¿Sabías que…?</span>Su portada tiene paralelos en la Puerta de la Justicia de la Alhambra y en una mezquita de El Cairo.</p>"
+   },
+   "ver_alli": [
+    "La portada de yeserías con arco túmido, alfiz e inscripciones cúficas.",
+    "La bóveda de mocárabes del zaguán, con restos de color.",
+    "El patio de tres pisos con su pila central de dos caños."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Corral_del_Carbón",
+    "https://www.openstreetmap.org/?mlat=37.175&mlon=-3.598#map=18/37.175/-3.598"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "madraza-de-granada",
+   "nombre": "Palacio de la Madraza",
+   "provincia": "Granada",
+   "comarca": "Granada",
+   "lat": 37.1761,
+   "lon": -3.5982,
+   "tipo": "monumento",
+   "estilo": "Nazarí y barroco",
+   "epoca": "Andalusí",
+   "anio": 1349,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>El sultán nazarí <b>Yusuf I</b> inauguró en <b>1349</b> la madraza de Granada, considerada la primera universidad pública de al-Ándalus. Se enseñaba derecho, medicina o matemáticas, y entre sus profesores figuró <b>Ibn al-Jatib</b>.</p><p>En 1500 Fernando el Católico la cedió al Cabildo, que la convirtió en ayuntamiento y le añadió la Sala de los Caballeros XXIV, con armadura mudéjar. Entre 1722 y 1729 José de Bada la reconstruyó casi entera y le dio su fachada barroca. El ayuntamiento se marchó en 1858.</p><p>Del edificio nazarí se conserva el <b>oratorio del siglo XIV</b>. Hoy pertenece a la Universidad de Granada y es sede de su Centro de Cultura Contemporánea.</p><p class=\"dato\"><span>¿Sabías que…?</span>La portada original de mármol blanco no está aquí: se guarda en el Museo Arqueológico de Granada.</p>"
+   },
+   "ver_alli": [
+    "El oratorio nazarí del siglo XIV.",
+    "La armadura mudéjar de la Sala de los Caballeros XXIV.",
+    "La fachada barroca frente a la Capilla Real."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Madraza_de_Granada",
+    "https://www.openstreetmap.org/?mlat=37.1761&mlon=-3.5982#map=18/37.1761/-3.5982"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "hospital-real-de-granada",
+   "nombre": "Hospital Real",
+   "provincia": "Granada",
+   "comarca": "Granada",
+   "lat": 37.1849,
+   "lon": -3.6009,
+   "tipo": "monumento",
+   "estilo": "Gótico, renacentista y mudéjar",
+   "epoca": "Renacimiento",
+   "anio": 1504,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Los <b>Reyes Católicos</b> lo fundaron por una carta firmada en Medina del Campo el 15 de septiembre de <b>1504</b>. Las obras se pararon a la muerte de Fernando y se reanudaron con Carlos V; abrió en 1526, aún sin terminar. El proyecto se atribuye a <b>Enrique Egas</b>, y también intervinieron Pedro Machuca y Diego de Siloé.</p><p>Egas tomó como modelo el Hospital Mayor de Milán: una <b>cruz griega inscrita en un cuadrado</b>, con cuatro patios simétricos y un cimborrio en el crucero. Mezcla gótico, renacimiento y mudéjar. Atendió primero a enfermos de sífilis y, desde 1536, también a enfermos mentales.</p><p>Tras la desamortización pasó a la Diputación; el Estado lo compró en 1961 y en 1971 lo recibió la <b>Universidad de Granada</b>, que tiene aquí su Rectorado y su Biblioteca.</p>"
+   },
+   "ver_alli": [
+    "La fachada y los patios del edificio.",
+    "El crucero partido en dos alturas: bóveda de nervios abajo y cúpula de madera arriba."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Hospital_Real_de_Granada",
+    "https://www.openstreetmap.org/?mlat=37.1849&mlon=-3.6009#map=18/37.1849/-3.6009"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "basilica-de-san-juan-de-dios-granada",
+   "nombre": "Basílica de San Juan de Dios",
+   "provincia": "Granada",
+   "comarca": "Granada",
+   "lat": 37.1806,
+   "lon": -3.603,
+   "tipo": "iglesia",
+   "estilo": "Barroco",
+   "epoca": "Barroco",
+   "anio": 1737,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>La Orden Hospitalaria de San Juan de Dios levantó este templo entre <b>1737 y 1759</b>, con José de Bada como responsable de la obra. Se inauguró el 27 de octubre de 1759.</p><p>Por fuera, piedra y ladrillo, una portada entre dos torres con chapiteles de pizarra. Por dentro, una nave amplia con capillas laterales y una cúpula sobre el crucero, cargada de esculturas, pinturas y frescos: es uno de los interiores <b>barrocos</b> más deslumbrantes de Granada.</p><p>Tras el altar mayor se guarda una <b>urna de plata maciza</b> con las reliquias de San Juan de Dios, el fundador de la orden.</p>"
+   },
+   "ver_alli": [
+    "La portada entre las dos torres.",
+    "La cúpula del crucero y los frescos.",
+    "La urna de plata con las reliquias del santo, tras el altar mayor."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Basílica_de_San_Juan_de_Dios",
+    "https://www.openstreetmap.org/?mlat=37.1806&mlon=-3.603#map=18/37.1806/-3.603"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "sacromonte",
+   "nombre": "Sacromonte",
+   "provincia": "Granada",
+   "comarca": "Granada",
+   "lat": 37.1831,
+   "lon": -3.5843,
+   "tipo": "poblacion",
+   "estilo": "Casas cueva",
+   "epoca": "Renacimiento",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Frente a la Alhambra, en las laderas del valle del Darro, el Sacromonte es el barrio de las <b>casas cueva</b>. Empezaron a excavarse a partir del siglo XVI; cada una tiene una fachada blanca con puerta en arco de medio punto, y ninguna es igual a otra.</p><p>Es la cuna del <b>flamenco granadino</b>, con zambras en las propias cuevas, y Lorca retrató a sus vecinos en el Romancero gitano. Hacia 1950 vivían en las cuevas unas 4.000 personas, pero las lluvias de febrero de 1963 obligaron a desalojar a más de 4.000 vecinos.</p><p>En lo alto está la <b>Abadía del Sacromonte</b>, nacida en el siglo XVII tras el hallazgo de los famosos libros plúmbeos, tenidos por falsificaciones desde muy pronto. El Museo Cuevas del Sacromonte, abierto en 2002, recupera once cuevas tal como eran.</p>"
+   },
+   "ver_alli": [
+    "Las cuevas encaladas del Camino del Sacromonte.",
+    "El Museo Cuevas del Sacromonte: vivienda, cuadra y oficios.",
+    "La vista de la Alhambra desde la ladera."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Sacromonte",
+    "https://www.openstreetmap.org/?mlat=37.1831&mlon=-3.5843#map=18/37.1831/-3.5843"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "catedral-de-guadix",
+   "nombre": "Catedral de Guadix",
+   "provincia": "Granada",
+   "comarca": "Guadix",
+   "lat": 37.3012,
+   "lon": -3.1362,
+   "tipo": "iglesia",
+   "estilo": "Gótico, renacentista y barroco",
+   "epoca": "Barroco",
+   "anio": 1713,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Se levanta sobre la antigua <b>mezquita aljama</b> y tardó casi tres siglos en terminarse. Pedro de Morales hizo el coro gótico hacia 1510-1520; <b>Diego de Siloé</b> trazó en 1549 el proyecto renacentista de la cabecera; y desde 1713 la obra se reanudó en clave <b>barroca</b>, con Vicente Acero y sobre todo Gaspar Cayón, autor de bóvedas y cúpula.</p><p>La gran fachada de la Encarnación, de 1754 a 1799, ondula con muros cóncavos y convexos; sus estatuas de los varones apostólicos se rehicieron en 1992 porque las originales se destruyeron en la Guerra Civil. La torre empieza en piedra, trazada por Siloé en 1556, y sigue en ladrillo.</p><p>El retablo mayor, de 1736, muestra a <b>san Torcuato</b>, fundador de la diócesis, rodeado de los demás varones apostólicos.</p>"
+   },
+   "ver_alli": [
+    "La fachada barroca de la Encarnación.",
+    "La cabecera renacentista de Siloé.",
+    "El retablo mayor con san Torcuato."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_de_Guadix",
+    "https://www.openstreetmap.org/?mlat=37.3012&mlon=-3.1362#map=18/37.3012/-3.1362"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-la-calahorra",
+   "nombre": "Castillo de La Calahorra",
+   "provincia": "Granada",
+   "comarca": "La Calahorra",
+   "lat": 37.1834,
+   "lon": -3.0656,
+   "tipo": "castillo",
+   "estilo": "Renacimiento italiano",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1509,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Por fuera, una fortaleza cuadrada con cuatro torres redondas en las esquinas, en un cerro a 1.250 m al pie de Sierra Nevada. Por dentro, una sorpresa: uno de los <b>primeros patios renacentistas</b> de España. Lo mandó hacer <b>Rodrigo de Mendoza</b>, primer marqués del Cenete, a la vuelta de su viaje a Italia; la decoración se completó entre <b>1509 y 1512</b>.</p><p>Empezó las obras el segoviano Lorenzo Vázquez y las terminó el genovés <b>Michele Carlone</b>, con artistas de Lombardía, Génova y Carrara. El patio, de 20 por 20 m, tiene dos pisos de galerías; la balaustrada alta es de <b>mármol de Carrara</b>.</p><p>Sirvió de refugio en la rebelión de las Alpujarras y luego quedó abandonado siglos; a comienzos del XX estuvo a punto de venderse y trasladarse a Estados Unidos.</p><p class=\"dato\"><span>¿Sabías que…?</span>Se usó como escenario en algunos capítulos de la serie La casa del dragón.</p>"
+   },
+   "ver_alli": [
+    "La silueta del castillo sobre el cerro, con sus cuatro torres.",
+    "El patio renacentista de dos pisos.",
+    "La puerta de acceso, con su madera y herrajes originales."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_La_Calahorra",
+    "https://www.openstreetmap.org/?mlat=37.1834&mlon=-3.0656#map=18/37.1834/-3.0656"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "pena-de-los-gitanos",
+   "nombre": "Peña de los Gitanos",
+   "provincia": "Granada",
+   "comarca": "Montefrío",
+   "lat": 37.3392,
+   "lon": -3.9607,
+   "tipo": "yacimiento",
+   "estilo": "Megalitismo",
+   "epoca": "Neolítico",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>En un paraje de rocas y prados cerca de Montefrío se reúne un yacimiento extraordinario: desde el <b>Neolítico</b> hasta la Edad Media, la gente volvió una y otra vez a este lugar. Lo más llamativo es su <b>necrópolis megalítica</b>, un numeroso conjunto de dólmenes de cámara, algunos con pasillo.</p><p>Hay además cuevas con niveles de habitación prehistóricos, el poblado de <b>Los Castillejos</b>, ocupado hasta la Edad del Bronce y clave para entender la prehistoria andaluza, un asentamiento ibérico y romano con restos de muralla, y una necrópolis visigoda en el cerro del Castellón, habitado hasta los siglos X-XI.</p><p>Los dólmenes están en una finca privada: la visita se concierta con antelación.</p>"
+   },
+   "ver_alli": [
+    "Los dólmenes de cámara de piedra repartidos por el paraje.",
+    "El cerro del Castellón y sus restos de muralla.",
+    "El paisaje de peñas que eligieron los primeros constructores."
+   ],
+   "fuentes": [
+    "https://www.urbipedia.org/hoja/Pe%C3%B1as_de_los_Gitanos",
+    "https://www.ugr.es/~masterarqueologia/hISTORICO/Actividades%202/Montefrio.htm",
+    "https://www.openstreetmap.org/?mlat=37.3392&mlon=-3.9607#map=18/37.3392/-3.9607"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "alhama-de-granada",
+   "nombre": "Alhama de Granada",
+   "provincia": "Granada",
+   "comarca": "Alhama de Granada",
+   "lat": 37.0037,
+   "lon": -3.9863,
+   "tipo": "poblacion",
+   "estilo": "Casco histórico",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1482,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Su nombre viene de los baños termales: <b>al-Hamma</b>, «el baño». Desde finales del siglo IX el pueblo se asienta sobre los <b>tajos</b> del río, un balcón natural que lo hacía casi inexpugnable.</p><p>El <b>28 de febrero de 1482</b> lo tomaron por sorpresa las tropas castellanas: fue el arranque de la guerra de Granada, y su pérdida se lloró en el famoso romance «¡Ay de mi Alhama!». Ya cristiana, la plaza resistió varios asedios.</p><p>La <b>Iglesia Mayor de la Encarnación</b>, que los Reyes Católicos ordenaron en 1505 sobre la antigua mezquita, fue la primera iglesia consagrada en el antiguo reino de Granada. Muy cerca están el Hospital de la Reina y la fuente renacentista del Caño Wamba (1533). Todo el casco antiguo es conjunto histórico-artístico.</p>"
+   },
+   "ver_alli": [
+    "La Iglesia Mayor de la Encarnación.",
+    "Los tajos sobre el río, desde los miradores.",
+    "El Caño Wamba, fuente de 1533."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Alhama_de_Granada",
+    "https://www.openstreetmap.org/?mlat=37.0037&mlon=-3.9863#map=18/37.0037/-3.9863"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "banos-arabes-de-baza",
+   "nombre": "Baños árabes de Baza",
+   "provincia": "Granada",
+   "comarca": "Baza",
+   "lat": 37.49,
+   "lon": -2.7701,
+   "tipo": "monumento",
+   "estilo": "Almohade",
+   "epoca": "Andalusí",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Estos baños públicos se construyeron en el siglo XIII, en época <b>almohade</b>, en el arrabal de la Marzuela, hoy barrio de Santiago. Estaban ligados a la mezquita del barrio, que es la actual iglesia de Santiago.</p><p>Los dio a conocer a finales del siglo XIX el historiador <b>Manuel Gómez-Moreno</b>. Conservan sus <b>cubiertas originales</b> y el recorrido completo de un baño andalusí: vestíbulo, sala fría, sala templada y sala caliente, además del horno y la leñera.</p>"
+   },
+   "ver_alli": [
+    "Las tres salas en orden: fría, templada y caliente.",
+    "Las cubiertas originales.",
+    "El horno que calentaba el agua y el suelo."
+   ],
+   "fuentes": [
+    "https://www.juntadeandalucia.es/aaiicc/enclaves/enclave-monumental-banos-arabes-de-baza",
+    "https://www.openstreetmap.org/?mlat=37.49&mlon=-2.7701#map=18/37.49/-2.7701"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-moclin",
+   "nombre": "Castillo de Moclín",
+   "provincia": "Granada",
+   "comarca": "Moclín",
+   "lat": 37.3423,
+   "lon": -3.7864,
+   "tipo": "castillo",
+   "estilo": "Nazarí",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Los nazaríes lo llamaban <b>Hisn al-Muqlin</b>, «la fortaleza de las dos pupilas», por su papel de vigía permanente. Se construyó a mediados del siglo XIV y, tras la caída de Alcaudete y Alcalá la Real en 1340-1341, pasó a primera línea de la frontera entre Granada y Castilla.</p><p>Tiene dos recintos: abajo, la villa amurallada con su gran torre-puerta y la iglesia de la Encarnación; arriba, a 1.100 m, la alcazaba, con doble muralla, la torre del homenaje y dos aljibes. A su alrededor conserva cinco torres de señales.</p><p>Los <b>Reyes Católicos</b> lo conquistaron en <b>1486</b>. Sufrió bombardeos en la Guerra Civil.</p>"
+   },
+   "ver_alli": [
+    "La gran torre-puerta de la villa.",
+    "La alcazaba y la torre del homenaje en lo alto.",
+    "Las vistas hacia Alcalá la Real, la antigua tierra enemiga."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Moclín",
+    "https://www.openstreetmap.org/?mlat=37.3423&mlon=-3.7864#map=18/37.3423/-3.7864"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "orce",
+   "campos": {
+    "lat": 37.7213,
+    "lon": -2.4794,
+    "estilo": "Yacimientos paleontológicos y del Paleolítico inferior",
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Yacimientos_de_la_regi%C3%B3n_de_Orce",
+     "https://www.openstreetmap.org/?mlat=37.7213&mlon=-2.4794#map=18/37.7213/-2.4794",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ38ShCcSJbw0Rx7PpCA6jH6g"
+    ]
+   }
+  },
+  {
+   "id": "gorafe",
+   "campos": {
+    "lat": 37.479,
+    "lon": -3.0448,
+    "estilo": "Megalitismo (dólmenes)",
+    "texto": {
+     "general": "<p>En los barrancos del valle del río Gor, alrededor de <b>Gorafe</b>, se concentra uno de los mejores conjuntos megalíticos del sur de la península: <b>242 dólmenes inventariados</b>, de los que hoy se conservan unos 125, repartidos en 11 necrópolis a lo largo de unos 20 km del río. El parque megalítico se creó en 1998 para frenar los expolios y las destrucciones, y el Paisaje Megalítico del río Gor es Zona Arqueológica y Bien de Interés Cultural desde 2018.</p><p>Los más antiguos se levantaron hacia el <b>2800 a. C.</b> y se siguieron usando hasta la Edad del Bronce, ya en tiempos de El Argar. Por la forma de su cámara los hay trapezoidales —los más grandes y escasos—, rectangulares, cuadrangulares y, sobre todo, pentagonales, que son más de la mitad.</p><p>En ellos se han estudiado 224 individuos en 198 sepulcros, muchos con huellas de cremación incompleta. Los acompañaban puntas de flecha, cuchillos y hachas de sílex, punzones de hueso, cuentas de collar, conchas marinas perforadas y, más raramente, anillos y puñales de metal. Alrededor se extiende un paisaje casi lunar de cárcavas de arcilla, el llamado desierto de Gorafe.</p><p class=\"dato\"><span>¿Sabías que…?</span>El dolmen 84, en Las Majadillas, guardaba 22 individuos, el enterramiento más numeroso de la zona; y en el dolmen 77 está el único grabado conocido del conjunto, una figura humana.</p>"
+    },
+    "ver_alli": [
+     "Empezar por el Centro de Interpretación del Megalitismo, en el pueblo: un edificio circular con material de las excavaciones y un documental en 3D.",
+     "Recorrer alguna de las tres rutas señalizadas —Hoyas del Coquín, Llano de Olivares o Las Majadillas—, de entre 1,2 y 3,6 km, con paneles junto a los dólmenes.",
+     "Fijarse en la planta de las cámaras y en las grandes losas de cubierta que aún siguen en su sitio.",
+     "Asomarse al paisaje de cárcavas del desierto de Gorafe desde los bordes de la meseta."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Parque_megal%C3%ADtico_de_Gorafe",
+     "https://es.wikipedia.org/wiki/Acequia_del_Toril",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ6U51-k7Mbw0Rd4tAw-6pj5w",
+     "https://www.openstreetmap.org/?mlat=37.479&mlon=-3.0448#map=18/37.479/-3.0448"
+    ]
+   }
+  },
+  {
+   "id": "alicun-torres",
+   "campos": {
+    "lat": 37.5089,
+    "lon": -3.1075,
+    "estilo": "Megalitismo (dólmenes)",
+    "texto": {
+     "general": "<p>Junto al balneario de Alicún de las Torres, en Villanueva de las Torres, el paisaje megalítico del río Gor se cruza con una rareza geológica: la <b>Acequia del Toril</b>, un acueducto natural levantado por las propias aguas termales. En realidad son tres muros de travertino casi paralelos, de unos <b>1,6 km de longitud en total</b>; solo uno lleva todavía agua, y los otros dos están secos y medio derruidos.</p><p>El agua brota a más de 35 grados cargada de carbonato cálcico. Bacterias y algas forman tapetes que, al morir, dejan capas de travertino: así el muro crece unos tres milímetros al año. Tiene unos tres metros de grosor en la base y 70 centímetros arriba, y en algunos tramos se alza más de quince metros sobre el suelo. Los travertinos más antiguos tienen unos 205.000 años y los más modernos unos 35.000.</p><p>Sobre ese terreno se levantaron los <b>dólmenes de Alicún</b>, parte del mismo fenómeno megalítico que el vecino parque de Gorafe. El Paisaje Megalítico del río Gor es Zona Arqueológica y Bien de Interés Cultural desde 2018, y todo el conjunto pertenece al Geoparque Mundial de la Unesco de Granada.</p><p class=\"dato\"><span>¿Sabías que…?</span>A unos 400 metros del inicio de la acequia activa, el agua cae en una pequeña cascada que va formando travertino a la vista.</p>"
+    },
+    "ver_alli": [
+     "Ruta señalizada de unos 2 km desde el balneario (Geoparque de Granada), que sigue la acequia y pasa junto a los dólmenes.",
+     "En los tramos rotos de los muros secos, mirar las capas finas del travertino: cada lámina es un crecimiento del muro.",
+     "La pequeña cascada, a unos 400 m del inicio de la acequia que aún lleva agua."
+    ],
+    "fuentes": [
+     "https://geoparquedegranada.com/en/locations/acequia-del-toril-and-dolmenes-de-alicun-route",
+     "https://es.wikipedia.org/wiki/Acequia_del_Toril",
+     "https://www.google.com/maps/place/?q=place_id:ChIJNf4ZZFczbg0RjXyaXz-CIVc",
+     "https://www.google.com/maps/place/?q=place_id:ChIJV-EneAAzbg0Rm4CjZWucEIs",
+     "https://www.openstreetmap.org/?mlat=37.5089&mlon=-3.1075#map=18/37.5089/-3.1075"
+    ]
+   }
+  },
+  {
+   "id": "castellon-alto",
+   "campos": {
+    "estilo": "Cultura argárica (Edad del Bronce)",
+    "texto": {
+     "general": "<p>A un kilómetro de Galera, sobre un cerro de la Hoya de Baza, se levanta un poblado de la <b>cultura de El Argar</b> habitado entre hacia el 1900 y el 1600 a. C. En la cima hay tres terrazas naturales —la superior hacía de acrópolis, con las casas más grandes— y en la ladera vecina las cabañas se escalonan en cuatro terrazas artificiales.</p><p>Los argáricos enterraban a sus muertos dentro del poblado. En noviembre de 2002 apareció intacta la <b>sepultura 121</b>, una covacha junto a una vivienda: un varón de entre 27 y 29 años y 1,60 m, en posición fetal, y un niño de unos 4 años trasladado allí desde otra tumba. El hombre conserva restos de partes blandas en la cabeza y en una pierna, e incluso <b>cabello</b>: se presentaron como los restos semimomificados más antiguos de la península.</p><p>El ajuar era rico: cuatro vasijas (una de ellas, copa), brazaletes de cobre, anillos de plata, un puñal de cobre con restos de su funda de cuero y un hacha de cobre con mango de encina; el niño llevaba un brazalete de bronce en cada antebrazo y tres cuentas de collar, y junto a ellos se depositó un cordero muy joven. La excavaron Fernando Molina (Universidad de Granada) y Oliva Rodríguez (Universidad de Jaén), y la tumba se conserva en una vitrina hermética de gas inerte en el Museo de Galera.</p>"
+    },
+    "ver_alli": [
+     "Visita guiada al poblado: las terrazas de la ladera y la acrópolis en lo alto del cerro.",
+     "Casa argárica reconstruida, para ver cómo eran por dentro.",
+     "En el Museo de Galera, la sepultura 121 con el hombre semimomificado y el niño.",
+     "La necrópolis ibérica de Tútugi, en el mismo pueblo, completa la visita."
+    ],
+    "fuentes": [
+     "https://cdn.juntadeandalucia.es/sites/default/files/2021-02/Folleto_CastellonAlto_es.pdf",
+     "https://www.wikidata.org/wiki/Q5821278",
+     "https://www.juntadeandalucia.es/sites/default/files/2021-02/FOLLETO_CASTELLON_ALTO_WEB_ING.pdf",
+     "https://www.iaph.es/revistaph/index.php/revistaph/article/view/1812/1812"
+    ]
+   }
+  },
+  {
+   "id": "cerro-encina",
+   "campos": {
+    "lat": 37.1367,
+    "lon": -3.5483,
+    "estilo": "Cultura argárica y Bronce final",
+    "texto": {
+     "general": "<p>En una colina escarpada de 780 metros, sobre la margen derecha del río Monachil y a las puertas de Sierra Nevada, está el principal poblado argárico de la vega de Granada. Se ocupó entre hacia el 2000 y el 900 a. C., desde la transición del Cobre a El Argar hasta el Bronce final, y ha dado secuencias clave para fechar el final de la cultura argárica.</p><p>El poblado se protegía con una <b>muralla con bastiones</b> de piedra, y sus casas tenían muros de tapial o adobe. En las tumbas argáricas, de las que se han estudiado 19 esqueletos, aparecieron copas, aretes y brazaletes de plata y cobre, cuchillos-puñales y algún punzón; curiosamente, las ofrendas más ricas acompañaban a individuos con menos huellas de trabajo físico.</p><p>Entre los animales domésticos destaca el <b>caballo</b>: su proporción es la más alta conocida en toda la Europa prehistórica. En el Bronce final las casas eran redondas u ovaladas, de unos 40 m², y el poblado comerciaba con la zona tartésica, con Levante y con las factorías fenicias de la costa.</p>"
+    },
+    "ver_alli": [
+     "Acceso libre (conviene confirmarlo); se llega a pie desde el pueblo de Monachil.",
+     "Restos de la muralla y sus bastiones de piedra.",
+     "Vistas sobre el valle del río Monachil y la vega de Granada; llevar calzado cómodo, el cerro es empinado."
+    ],
+    "fuentes": [
+     "https://www.inspain.org/es/granada/monachil/yacimiento-arqueologico-cerro-de-la-encina/",
+     "https://es.wikipedia.org/wiki/Cerro_de_la_Encina",
+     "https://www.google.com/maps/place/?q=place_id:ChIJraEvKPPkcQ0RuUrXtpfjfAE",
+     "https://www.openstreetmap.org/?mlat=37.1367&mlon=-3.5483#map=18/37.1367/-3.5483"
+    ]
+   }
+  },
+  {
+   "id": "sexi",
+   "campos": {
+    "lat": 36.7328,
+    "lon": -3.6916,
+    "estilo": "Bóvedas romanas; colecciones fenicias",
+    "texto": {
+     "general": "<p>Almuñécar fue la colonia fenicia de <b>Sexi</b>, una de las factorías que los navegantes llegados de Oriente establecieron en la costa andaluza. Su museo arqueológico ocupa un lugar singular: la <b>Cueva de Siete Palacios</b>, el sótano abovedado de una construcción romana en lo alto del casco antiguo.</p><p>Allí se guarda lo hallado en las necrópolis fenicias de <b>Puente de Noy</b> y <b>Laurita</b> y en la factoría de salazón de El Majuelo. La pieza estrella es un <b>vaso egipcio</b> de cuarzo con inscripciones jeroglíficas, del siglo XVII a. C., con el nombre del faraón Apofis I: era ya una antigüedad de casi mil años cuando acabó en una tumba fenicia de Sexi.</p>"
+    },
+    "ver_alli": [
+     "Las bóvedas de la Cueva de Siete Palacios, la construcción romana que alberga el museo.",
+     "El vaso egipcio con el nombre de Apofis I y los ajuares de las necrópolis fenicias.",
+     "Castillo de San Miguel y acueducto romano de Almuñécar."
+    ],
+    "fuentes": [
+     "https://www.spain.info/es/lugares-interes/cueva-siete-palacios-museo-arqueologico",
+     "https://es.wikipedia.org/wiki/Sexi",
+     "https://www.google.com/maps/place/?q=place_id:ChIJmYeGH5uIcQ0RB74KKT-diFE",
+     "https://www.openstreetmap.org/?mlat=36.7328&mlon=-3.6916#map=18/36.7328/-3.6916"
+    ]
+   }
+  },
+  {
+   "id": "tutugi",
+   "campos": {
+    "estilo": "Ibérico (necrópolis de túmulos)",
+    "texto": {
+     "general": "<p>Esta necrópolis de la ciudad ibérica de <b>Tútugi</b>, en Galera, empezó a usarse en el siglo V a. C. Reúne túmulos con cámara de varios tipos —de aljibe, cuadrangulares o circulares con pasillo, con nichos— y tumbas sencillas: hoyos en el suelo y cistas con urnas de cerámica o de piedra.</p><p>Las primeras excavaciones, entre 1916 y 1918, las hicieron Federico de Motos, con el patrocinio del Marqués de Cerralbo, y Juan Cabré, para frenar los expolios. La tumba más famosa es la <b>número 20</b>: su pasillo está orientado a los equinoccios, de modo que durante dos periodos de 21 días al año el sol ilumina el fondo de la cámara. Allí apareció la «Diosa de Galera», hoy en el Museo Arqueológico Nacional.</p><p>Los guerreros se enterraban con sus armas inutilizadas —falcatas melladas, espadas dobladas, cascos aplastados—, y las urnas con las cenizas iban acompañadas de adornos personales y vasijas con alimentos. Tras nuevas campañas entre 2000 y 2006 y la restauración de varios túmulos, la necrópolis se abrió al público en 2007.</p>"
+    },
+    "ver_alli": [
+     "La tumba 20, con su pasillo orientado al sol de los equinoccios.",
+     "Los túmulos restaurados de distintos tipos: de cámara con pasillo, circulares o con nichos.",
+     "Castellón Alto y el Museo de Galera, en el mismo pueblo."
+    ],
+    "fuentes": [
+     "https://cdn.juntadeandalucia.es/sites/default/files/2021-02/FOLLETO_TUTUGI_WEB_ESP.pdf",
+     "https://www.wikidata.org/wiki/Q30901592",
+     "https://es.hispanopedia.com/wiki/Necr%C3%B3polis_Ib%C3%A9rica_de_T%C3%BAtugi"
+    ]
+   }
+  },
+  {
+   "id": "basti",
+   "campos": {
+    "lat": 37.5109,
+    "lon": -2.7379,
+    "estilo": "Ibérico",
+    "fuentes": [
+     "https://ayuntamientodebaza.es/wp-content/uploads/2023/09/DamaTriptico_A4_fin_rev28-09-2023.pdf",
+     "https://www.google.com/maps/place/?q=place_id:ChIJSf8B_3fpbw0R2jE4cmGBfvg",
+     "https://www.openstreetmap.org/?mlat=37.5109&mlon=-2.7379#map=18/37.5109/-2.7379"
+    ]
+   }
+  },
+  {
+   "id": "alhambra-y-generalife",
+   "campos": {
+    "lat": 37.1761,
+    "lon": -3.5881,
+    "estilo": "Nazarí (arte andalusí)",
+    "fuentes": [
+     "https://www.alhambra-patronato.es/visitar/horarios-y-tarifas",
+     "https://www.google.com/maps/place/?q=place_id:ChIJO7l_l7f8cQ0Rf6IhEu_RjYA",
+     "https://www.openstreetmap.org/?mlat=37.1761&mlon=-3.5881#map=18/37.1761/-3.5881"
+    ]
+   }
+  },
+  {
+   "id": "el-banuelo",
+   "campos": {
+    "lat": 37.1784,
+    "lon": -3.5929,
+    "estilo": "Andalusí (zirí)",
+    "texto": {
+     "general": "<p>En la Carrera del Darro, al pie de la Alhambra, se conserva uno de los baños públicos mejor conservados de al-Ándalus: el <b>hammam al-Yawza</b>, el «baño del Nogal». Tradicionalmente se fecha en el siglo XI, en la Granada de los reyes ziríes, aunque un estudio reciente lo lleva al siglo XII.</p><p>Sigue el esquema de las termas romanas: vestuario, sala de recepción con una alberca cuadrada y arcos de herradura, y después las salas fría, templada y caliente. La templada, la mayor, tiene una cúpula central rodeada de otras tres más pequeñas. Todas las bóvedas están perforadas por <b>lucernarios octogonales o en forma de estrella</b> de ocho puntas, que daban luz y dejaban salir el vapor.</p><p>Los arcos descansan en <b>capiteles reaprovechados</b> de edificios romanos, visigodos y califales. Protegido desde 1918 —hoy es Bien de Interés Cultural—, lo restauró Leopoldo Torres Balbás en 1927-1928.</p>"
+    },
+    "ver_alli": [
+     "Con entrada (incluida en la entrada «Monumentos andalusíes»).",
+     "Mirar hacia arriba en cada sala: los lucernarios en forma de estrella.",
+     "Los capiteles de las arquerías, cada uno distinto porque vienen de edificios más antiguos."
+    ],
+    "fuentes": [
+     "https://www.alhambra-patronato.es/descubrir/monumentos-andalusies/el-banuelo",
+     "https://es.hispanopedia.com/wiki/El_Ba%C3%B1uelo",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ3Qt_c7j8cQ0R8aYWnhRTfxE",
+     "https://www.openstreetmap.org/?mlat=37.1784&mlon=-3.5929#map=18/37.1784/-3.5929"
+    ]
+   }
+  },
+  {
+   "id": "albaicin",
+   "campos": {
+    "lat": 37.181,
+    "lon": -3.5927,
+    "estilo": "Andalusí y morisco",
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=37.181&mlon=-3.5927#map=18/37.181/-3.5927",
+     "https://www.google.com/maps/place/?q=place_id:ChIJlc_oycf8cQ0RmGSbIT5svlk"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-carlos-v",
+   "campos": {
+    "lat": 37.1768,
+    "lon": -3.5901,
+    "estilo": "Renacimiento clasicista",
+    "texto": {
+     "general": "<p>Tras casarse con Isabel de Portugal en Sevilla en 1526, Carlos V pasó unos meses en Granada y decidió levantar, junto a los palacios nazaríes, una residencia imperial al gusto de Roma. Las obras empezaron en 1527 con trazas de <b>Pedro Machuca</b>.</p><p>Es un <b>cuadrado de 63 metros de lado</b> con un gran <b>patio circular</b> dentro, rodeado por dos pisos de columnas: dóricas abajo, de piedra pudinga, y jónicas, más ligeras, arriba. Las dos fachadas principales tienen portadas de piedra de Sierra Elvira, y el friso dórico se adorna con triglifos y metopas con guirnaldas y bucráneos.</p><p>Las obras se interrumpieron definitivamente en 1637, con muros y bóvedas terminados pero sin tejado, y el palacio no se completó hasta el siglo XX. Hoy alberga el Museo de Bellas Artes de Granada, desde 1958, y el Museo de la Alhambra, desde 1994.</p>"
+    },
+    "ver_alli": [
+     "Con la entrada de la Alhambra (el palacio es libre).",
+     "El patio circular: ponerse en el centro y mirar las dos galerías de columnas.",
+     "Las portadas de piedra de Sierra Elvira de las fachadas principales.",
+     "Museo de la Alhambra y Museo de Bellas Artes, dentro del propio palacio."
+    ],
+    "fuentes": [
+     "https://www.alhambra-patronato.es",
+     "https://es.wikipedia.org/wiki/Palacio_de_Carlos_V",
+     "https://www.google.com/maps/place/?q=place_id:ChIJO7l_l7f8cQ0RLH23wRgnqec",
+     "https://www.openstreetmap.org/?mlat=37.1768&mlon=-3.5901#map=18/37.1768/-3.5901"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-granada",
+   "campos": {
+    "lat": 37.1765,
+    "lon": -3.5992,
+    "estilo": "Renacimiento (fachada barroca)",
+    "texto": {
+     "general": "<p>La catedral se empezó el 25 de marzo de 1523 como un templo gótico dirigido por Enrique Egas, sobre la antigua mezquita mayor de la ciudad. En 1528 <b>Diego de Siloé</b> tomó las riendas y lo cambió por un proyecto renacentista, de inspiración clásica.</p><p>Tiene cinco naves y mide unos 115 metros de largo por 65 de ancho. Su gran novedad es la <b>capilla mayor</b>, una rotonda de unos 22 metros de diámetro y 45 de altura, inaugurada en 1560, con 24 vidrieras: las altas, diseñadas por Siloé, y las bajas, de Teodoro de Holanda.</p><p>La fachada la proyectó <b>Alonso Cano</b>, que dirigió la obra en 1667, el año de su muerte; antes había pintado siete grandes cuadros de la vida de la Virgen (1652-1664). Los dos órganos, uno frente a otro, se terminaron en 1744 y 1749, y la torre sigue inacabada.</p>"
+    },
+    "ver_alli": [
+     "La capilla mayor: la rotonda blanca y dorada, con los cuadros de Alonso Cano y las vidrieras.",
+     "La fachada de Alonso Cano, desde la plaza de las Pasiegas.",
+     "Los dos órganos barrocos enfrentados."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_de_Granada",
+     "https://www.google.com/maps/place/?q=place_id:ChIJqWuDsb_8cQ0RwlE55Uv7_nA",
+     "https://www.openstreetmap.org/?mlat=37.1765&mlon=-3.5992#map=18/37.1765/-3.5992"
+    ]
+   }
+  },
+  {
+   "id": "capilla-real-de-granada",
+   "campos": {
+    "lat": 37.1763,
+    "lon": -3.5986,
+    "estilo": "Gótico final",
+    "texto": {
+     "general": "<p>Los Reyes Católicos fundaron esta capilla por real cédula del 13 de septiembre de 1504 para ser enterrados en la ciudad que habían conquistado en 1492. La levantó <b>Enrique Egas</b> entre 1505 y 1517, en un gótico final con toques flamencos y renacentistas.</p><p>Ante el altar están los sepulcros de mármol de Isabel y Fernando, del italiano <b>Domenico Fancelli</b>, y junto a ellos los de su hija <b>Juana</b> y Felipe el Hermoso, de Bartolomé Ordóñez. Son cenotafios: los restos reales descansan en la cripta, en cinco ataúdes de plomo, junto al del infante Miguel de la Paz. Cierra el presbiterio una gran reja del maestro Bartolomé, y detrás se alza el retablo mayor de Felipe Bigarny.</p><p>La sacristía, convertida en museo en 1913, guarda la <b>corona y el cetro</b> de los Reyes Católicos, tejidos y libros de la reina y una colección de pintura con obras de Rogier van der Weyden, Hans Memling, Botticelli, Dierick Bouts, Bartolomé Bermejo y Pedro Berruguete.</p>"
+    },
+    "ver_alli": [
+     "Los sepulcros de mármol de los Reyes Católicos y de Juana y Felipe, con sus figuras yacentes.",
+     "Bajar a la cripta para ver los ataúdes de plomo.",
+     "La reja dorada y el retablo de Felipe Bigarny.",
+     "En la sacristía-museo, la corona y el cetro y las tablas flamencas."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Capilla_Real_de_Granada",
+     "https://www.google.com/maps/place/?q=place_id:ChIJJT_b_778cQ0RmwUjKxl7yWM",
+     "https://www.openstreetmap.org/?mlat=37.1763&mlon=-3.5986#map=18/37.1763/-3.5986"
+    ]
+   }
+  },
+  {
+   "id": "cartuja-de-granada",
+   "campos": {
+    "lat": 37.192,
+    "lon": -3.5993,
+    "estilo": "Gótico final, renacimiento y barroco",
+    "texto": {
+     "general": "<p>Los cartujos de El Paular decidieron fundar este monasterio en 1458, y las obras empezaron en 1506 en terrenos cedidos por el Gran Capitán, aunque al final se levantó en otro emplazamiento. Se reanudaron en 1516 y siguieron durante tres siglos sin que el proyecto llegara a completarse.</p><p>La iglesia se terminó en 1602. Juan Sánchez Cotán pintó para el refectorio y otras salas, y Vicente Carducho para la capilla de legos y la sala capitular. Tras el altar, el <b>sagrario</b> o sancta sanctórum, de Francisco Hurtado Izquierdo, con cúpula pintada por Antonio Palomino, deslumbra por sus mármoles y dorados.</p><p>La joya es la <b>sacristía</b>, levantada entre 1727 y 1764 por un autor desconocido: yeserías blancas que parecen encaje, mármoles de colores y una cúpula pintada por Tomás Ferrer en 1735. Con la exclaustración de 1835 se perdió buena parte del conjunto: el claustro y las celdas se derribaron en 1842.</p>"
+    },
+    "ver_alli": [
+     "La sacristía: detenerse en las yeserías y en los mármoles de colores.",
+     "El sagrario de Hurtado Izquierdo, detrás del altar mayor, con la cúpula de Palomino.",
+     "Las pinturas de Sánchez Cotán en el refectorio.",
+     "La portada plateresca del siglo XVI."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monasterio_de_la_Cartuja_(Granada)",
+     "https://www.google.com/maps/place/?q=place_id:ChIJO5izqd38cQ0R7mK9hk7jOdg",
+     "https://www.openstreetmap.org/?mlat=37.192&mlon=-3.5993#map=18/37.192/-3.5993"
+    ]
+   }
+  },
+  {
+   "id": "sierra-nevada-el-dornajo",
+   "campos": {
+    "estilo": "Geología alpina y glaciar",
+    "fuentes": [
+     "https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/toursvirtuales/webElDornajo/accessible.php",
+     "https://treksierranevada.com/information-centres",
+     "https://www.google.com/maps/place/?q=place_id:ChIJx1NlLmzncQ0Rd_WWSKJ3bBo",
+     "https://www.openstreetmap.org/?mlat=37.1329&mlon=-3.4352#map=18/37.1329/-3.4352"
+    ]
+   }
+  },
+  {
+   "id": "humedal-de-padul-mamut",
+   "campos": {
+    "lat": 37.0157,
+    "lon": -3.6025,
+    "estilo": "Turbera del Pleistoceno",
+    "fuentes": [
+     "https://andalucia.org/en/padul-routes-ruta-del-mamut",
+     "https://cdn.agenciasinc.es/print/35875",
+     "https://www.solardaily.com/reports/Steppe_change_Mammoths_roamed_southern_Spain_999.html",
+     "https://www.google.com/maps/place/?q=place_id:ChIJiwUdZrjxcQ0RQK9gzXsPots",
+     "https://www.openstreetmap.org/?mlat=37.0146&mlon=-3.6035#map=18/37.0146/-3.6035"
+    ]
+   }
+  }
+ ]
+}

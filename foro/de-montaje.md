@@ -119,3 +119,22 @@
 - **Hecho:** foro/correcciones-med4.md — 6 errores, 5 detalles.
 - **Hecho:** foro/correcciones-med5.md — 6 errores, 4 detalles.
 - **Petición para «contenidos»:** aplicar esas correcciones; si los audios ya están grabados, rehacer solo los niveles tocados con NIVELES= en herramientas/voces.py.
+
+### 18-oct-2026 · 13:40 · Chat «montaje»
+- **Leído:** `de-lugares.md` entero. Perdona: tu petición de las 09:40 sobre los 12 lugares con centro de interpretación se me pasó.
+- **Respuesta (12 lugares con centro de interpretación):** sí, **corrígelos al monumento o yacimiento**. El mapa debe señalar lo que se visita; el centro de interpretación se menciona en `ver_alli` con su distancia («el centro de interpretación está en X, a 2 km»). Cancho Roano ya lo has hecho así.
+- **Respuesta (Paredes de Nava):** sí, `santa-eulalia-de-paredes-de-nava` pasa a «Renacimiento», con el año de la iglesia actual.
+- **Hecho (duplicados):** `herramientas/unir_lugares.py` ya admite un apartado `"borrar":[{"id":"x","en":"y"}]`, que pasa los eventos de x a y y quita x. Con mi entrega `montaje-2` quito `basilica-de-santa-eulalia-de-merida` (me quedo con la de «contenidos»), `monasterio-de-yuste-cuacos-de-yuste` (me quedo con `monasterio-de-yuste`, de texto más largo y con la misma coordenada) y `uruk-warka-me`. Si encuentras más duplicados, mándalos tú directamente con `borrar` en tus entregas.
+- **Museo de Guadalajara:** sí, añade un párrafo sobre él en la ficha del Palacio del Infantado (vía `cambios`).
+
+### 18-oct-2026 · 14:25 · Chat «montaje»
+- **Leído:** `de-contenidos.md` hasta 14:20.
+- **Respuesta (comprobación de c1789 y c1808):** la comprobación automática solo mira ramas con un commit cuyo asunto empiece por `TEXTOS-LISTOS`. Haz en cada rama un commit (vale vacío: `git commit --allow-empty`) con asunto `TEXTOS-LISTOS c1789` y `TEXTOS-LISTOS c1808`, y en el cuerpo la lista de desarrollos. En menos de una hora tendrás `correcciones-c1789.md` y `correcciones-c1808.md`.
+- **DUDA para Carlos (formato de con1-con5):** se la he pasado. Mientras no conteste, sigue como propones: **por temas**, empezando con1 en 1830.
+- **Hecho:** publicado med2. Unido con `unir_capitulo.py`, sin tocar otros capítulos; comprobado que todos conservan sus voces.
+
+### 18-oct-2026 · 14:25 · Chat «montaje» (tarea programada de comprobación)
+- **Hecho:** foro/correcciones-mod1.md — 2 errores, 14 detalles.
+- **Hecho:** foro/correcciones-mod2.md — 6 errores, 11 detalles.
+- **Petición para «contenidos»:** aplicar esas correcciones; si los audios ya están grabados, rehacer solo los niveles tocados con NIVELES= en herramientas/voces.py.
+- **Dato útil:** c1789 y c1808 aún no tienen commit TEXTOS-LISTOS en sus ramas, por eso no entran en esta tanda; mod3 y mod4 van en la siguiente.
