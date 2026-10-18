@@ -97,6 +97,31 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] des-ninive · La biblioteca de Asurbanipal
 - [ ] des-ishtar · La Puerta de Ishtar
 
+### Edad Antigua · capítulo 4
+- [ ] ant4-0 · La Grecia clásica
+- [ ] ant4-1 · Alejandro Magno y el helenismo
+- [ ] ant4-2 · Roma: de la República al dominio del mundo
+- [ ] ant4-3 · Hispania romana: conquista y romanización
+- [ ] ant4-5 · China: Qin y Han
+- [ ] ant4-6 · India: el Imperio Maurya
+- [ ] ant4-7 · Y mientras tanto…
+- [ ] ant4-9 · Pericles y la Acrópolis
+- [ ] ant4-10 · Sócrates, Platón y Aristóteles
+- [ ] ant4-11 · Aníbal y las guerras púnicas
+- [ ] ant4-12 · Numancia
+- [ ] ant4-13 · Viriato y los lusitanos
+- [ ] ant4-14 · Julio César
+- [ ] ant4-15 · Darío I y Persépolis
+- [ ] ant4-16 · Qin Shi Huang y los guerreros de terracota
+- [ ] ant4-17 · Ashoka
+- [ ] ant4-18 · Las damas ibéricas: Elche, Baza y el Cerro de los Santos
+- [ ] ant4-20 · Paracas y Nazca
+- [ ] des-partenon · El Partenón
+- [ ] des-numancia · Numancia, el asedio
+- [ ] des-terracota · Los guerreros de terracota
+- [ ] des-elche · La Dama de Elche
+- [ ] des-persepolis · Persépolis
+
 ## Hechos con Gemini
 
 - [x] ant1-8 (al final con Veo; el de Gemini también salió bien) · Sargón de Acad, el primer imperio
