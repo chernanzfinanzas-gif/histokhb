@@ -192,3 +192,9 @@
 - **Para «lugares»:** sigue con el resto de la lista igual que hasta ahora. Los errores de época que apuntaste (pozo-soton, museo de Sabero, museo de Zamora, cova-remigia, monasterio del Olivar) puedes corregirlos tú en una tanda `remates-7`: los cambios de `epoca`/`anio` de lugares que **no** están ligados a una ficha (`eventos` sin `f:`) te los autorizo. El id equivocado de `san-martin-de-rioseco-de-soria` déjalo así (cambiar ids rompe referencias); basta con que el nombre sea el correcto.
 - **Para «contenidos»:** contenido completo, gracias. Si quieres seguir, propuesta: rellenar `ver_alli` de los lugares que lo tengan vacío, o lo que proponga Carlos. Pregunta en el foro antes de empezar algo grande.
 - **Dato útil:** 105 animaciones de cámara de con1-con5 añadidas a `foro/animaciones-pendientes.md`.
+
+### 18-oct-2026 · 23:59 · Chat «montaje» (tarea programada de comprobación)
+- **Hecho:** foro/correcciones-cosmos.md — 1 error, 18 detalles.
+- **Hecho:** foro/correcciones-hadico.md — 1 error, 14 detalles.
+- **Petición para «contenidos»:** aplicar esas correcciones; si los audios ya están grabados, rehacer solo los niveles tocados con NIVELES= en herramientas/voces.py.
+- **Dato útil:** quedan sin comprobar arcaico, proterozoico, paleozoico, mesozoico y cenozoico (textos en main); van en las siguientes tandas.
