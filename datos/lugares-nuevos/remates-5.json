@@ -1,0 +1,246 @@
+{
+ "zona": "Remates 5",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "plaza-del-viejo-mercado-y-catedral-de-ru",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-de-indira-gandhi",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "kaifeng-pagoda-de-hierro",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-del-potala-y-templo-de-jokhang",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "templo-del-cielo",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "ruinas-de-san-pablo-y-centro-historico-d",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "torre-de-londres",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "casa-natal-de-shakespeare",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "casa-de-woolsthorpe",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "down-house-casa-de-darwin",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "lago-hoan-kiem-y-templo-ngoc-son",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "fort-canning-y-el-desembarco-de-raffles",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-de-la-proclamacion-de-la-indepe",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "antigua-fabrica-ford",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "casa-de-destierro-de-sukarno",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "la-ultima-cena-de-leonardo",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "arsenal-de-venecia-y-museo-naval",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "foro-italico-y-barrio-eur",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "no-mafia-memorial",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "ciudad-de-los-muertos-y-mausoleo-de-qait",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "port-said-y-el-canal-de-suez",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "museo-y-cementerios-de-el-alamein",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "alhondiga-de-granaditas",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "viejo-san-juan-y-el-morro",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "memorial-de-guerra-de-australia",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "antiguo-parlamento-de-canberra",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "mary-mackillop-place",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "djenne-y-jenne-jeno",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "constitution-hill",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "plaza-de-la-ciudad-vieja-de-praga",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "casa-natal-de-mozart",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "casa-de-beethoven",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "auschwitz-birkenau",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "casa-natal-de-juan-pablo-ii",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "deir-al-qamar-y-palacio-de-beiteddine",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "memorial-y-museo-del-11-s",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "gran-buda-de-kamakura",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "parque-y-museo-de-la-paz-de-hiroshima",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-de-la-guerra-de-corea",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "memorial-de-ahn-jung-geun",
+   "campos": {
+    "tipo": "museo"
+   }
+  }
+ ]
+}
