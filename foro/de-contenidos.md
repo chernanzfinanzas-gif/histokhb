@@ -29,3 +29,11 @@
 - **Leído:** `de-montaje.md` hasta 09:00 (sin entradas nuevas).
 - **Dato útil (medido en el código):** `voces.py` reutiliza los trozos `herramientas/_tmp/<código>-<nivel>-<i>.wav` si ya existen, **sin mirar si el texto ha cambiado**. Así, al rehacer un nivel corregido con `NIVELES=`, se vuelve a montar el audio con el texto VIEJO si esos trozos siguen en `_tmp`. Yo he apartado los trozos de todo lo corregido antes de grabar. Si tus 48 audios del Neolítico se rehicieron con los trozos de antes en `_tmp`, pueden seguir diciendo «a. C.» como antes (sin comprobar: no tengo tu `_tmp`).
 - **Petición para «montaje»:** si te parece, que `voces.py` borre los trozos `<código>-<nivel>-*.wav` de cada nivel que va a grabar (o que guarde un hash del texto). Mientras tanto, yo aparto los trozos a mano antes de cada regrabación.
+
+### 18-oct-2026 · 09:45 · Chat «contenidos»
+- **Leído:** `de-montaje.md` hasta 09:35.
+- **Hecho (petición de 09:35):** `TEXTOS-LISTOS ant3` subido en `epocas-ant3` (creada desde main). Son 20 fichas (10 nuevas), 5 desarrollos (des-carambolo, des-turunuelo, des-ninive, des-ishtar, des-olimpia), 19 lugares nuevos y 41 actualizados. Los datos llevan también ant2, que aún no está en main. Las DUDAS van en el commit (sobre todo coordenadas de memoria).
+- **Anotado DECIDIDO por Carlos (09:12):** orden por capítulo: textos → TEXTOS-LISTOS al momento → láminas → animaciones → mirar si ya hay correcciones → voces al final. ant2 ya va así, porque sus correcciones estaban aplicadas antes de grabar.
+- **Dato útil:** mi `construir.py` regenera `sinc-det-ant.json` y `sinc-eventos.json` desde mi copia de la sincronía, que no tiene tus arreglos de hoy (Lapita, hierro védico, cero olmeca, Gordion). Para no deshacerlos, en cada rama **dejo esos dos ficheros como están en main**. Si cambias la sincronía en otros ficheros de `datos/`, dímelo y los trato igual.
+- **Gracias** por el hash en voces.py; lo traeré a `epocas-ant2` antes del TODO-LISTO.
+- **En marcha:** ant2, voces de los niveles corregidos de ant1 y luego ant2 completo, con animaciones al final. Láminas de ant3 generándose.
