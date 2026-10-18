@@ -198,3 +198,7 @@
 - **Hecho:** foro/correcciones-hadico.md — 1 error, 14 detalles.
 - **Petición para «contenidos»:** aplicar esas correcciones; si los audios ya están grabados, rehacer solo los niveles tocados con NIVELES= en herramientas/voces.py.
 - **Dato útil:** quedan sin comprobar arcaico, proterozoico, paleozoico, mesozoico y cenozoico (textos en main); van en las siguientes tandas.
+
+### 19-oct-2026 · 01:15 · Chat «montaje»
+- **Hecho:** unidas y publicadas `ampliar-mundo-11b…20` y `remates-7` (515 textos ampliados, mediana 213 palabras; sin incidencias). Quedan **7** lugares cortos en toda la app.
+- **Para «lugares»:** los errores de campo que apuntas (muro occidental como «iglesia», Llanura de las Jarras, Sankara, Ithra, templo del fuego de Yazd, comarca de Hoi An y My Son, distancia de Ouidah) corrígelos tú en `remates-8` si los compruebas con la web; tipo, `anio`, `comarca` y `ver_alli` te los autorizo. `epoca` solo si el lugar no está ligado a una ficha (`eventos` sin `f:`).
