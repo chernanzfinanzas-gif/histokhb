@@ -1,0 +1,532 @@
+{
+ "zona": "Ampliar espana-2b",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "castell-de-la-suda-tortosa",
+   "campos": {
+    "texto": {
+     "general": "<p>En lo alto de Tortosa, sobre una antigua acrópolis romana, se levanta la <b>Suda</b>, la gran fortaleza de la ciudad andalusí. Se construyó en el <b>siglo X</b>, en tiempos del califa <b>Abderramán III</b>, y su planta alargada recuerda a la de un barco anclado sobre el Ebro.</p><p>Tras la conquista de Tortosa por <b>Ramón Berenguer IV</b> en <b>1148</b>, el castillo se repartió: los genoveses que habían ayudado en el asedio recibieron una parte, que el conde les compró en 1153, y los <b>Montcada</b> tuvieron su castellanía. En <b>1182</b> Alfonso I dio la ciudad y la Suda a los <b>templarios</b>. Fue prisión, palacio real —el rey <b>Jaime I</b> lo tuvo entre sus residencias favoritas— y tribunal de justicia, y entre los siglos XV y XVIII se reformó una y otra vez para adaptarlo a guerras como la de los Segadors, la de Sucesión o las carlistas.</p><p>De época islámica conserva cimientos de murallas, galerías subterráneas con un molino y dos hornos, y un pozo excavado hasta el nivel del río. Excavada entre 1984 y 1987, su <b>necrópolis andalusí</b> de los siglos X-XII es la única necrópolis islámica al aire libre de Cataluña. En 1972 el castillo se convirtió en <b>Parador de Turismo</b>, y desde su recinto se domina toda la ciudad.</p><p class=\"dato\"><span>¿Sabías que…?</span>Su torre redonda se llama Tubalina por la leyenda que atribuye la fundación de Tortosa a Túbal, nieto de Noé.</p>"
+    },
+    "fuentes": [
+     "https://patrimoni.gencat.cat/en/node/10876",
+     "https://www.openstreetmap.org/",
+     "https://www.enciclopedia.cat/catalunya-romanica/castell-de-la-suda-o-de-sant-joan-tortosa"
+    ]
+   }
+  },
+  {
+   "id": "moleta-remei",
+   "campos": {
+    "texto": {
+     "general": "<p>En uno de los últimos contrafuertes de la sierra del <b>Montsià</b>, sobre Alcanar, se conservan los restos de un poblado que domina la llanura y el mar. Primero hubo allí un poblado de cabañas, de finales del siglo VII a. C., que duró hasta mediados del VI. Encima creció, desde finales del siglo V hasta finales del II a. C., un poblado <b>ibérico ilercavón</b> de unos 4.000 metros cuadrados y unos 500 habitantes.</p><p>Tiene planta ovalada, con <b>dos calles concéntricas</b> que separan los barrios, una muralla con torres y construcciones que se interpretan como graneros. Los arqueólogos creen que allí vivían jefes de la tribu que controlaban los excedentes de cereal para intercambiarlos con griegos y fenicios por productos de lujo. Lo excavaron <b>Francesc Gracia, Glòria Munilla y Ramon Pallarés</b>, y entre finales de 2007 y mayo de 2008 se acondicionó para la visita.</p><p>Hoy se sube por una escalera de unos 134 peldaños hasta lo alto del cerro. En los muros, una línea de mortero separa la piedra original de la parte restaurada. Desde 2009 una casa reconstruida, la <b>Casa de Tibast</b>, ayuda a imaginar cómo se vivía en el poblado. Parte de los objetos hallados se exponen en el centro de interpretación de la cultura ibérica de Alcanar, en la <b>Casa O'Connor</b>.</p>"
+    },
+    "fuentes": [
+     "https://www.escapadaambnens.com/activitat/330/poblat-iberic-de-la-moleta-del-remei",
+     "https://www.enciclopedia.cat/EC-GEC-0247859",
+     "https://surtdecasa.cat/ebre/entorn/quatre-poblats-ilercavons-descobrir",
+     "https://surtdecasa.cat/ebre/entorn/arqueoleg-un-dia-alcanar"
+    ]
+   }
+  },
+  {
+   "id": "montfalco-murallat",
+   "campos": {
+    "texto": {
+     "general": "<p>En lo alto de un cerro, en la confluencia del río Sió y la riera de Vergós, en el término de Les Oluges (Segarra), Montfalcó es un diminuto <b>pueblo amurallado</b>, una <i>vila closa</i> de origen medieval. Sus unas <b>15 casas</b> se apiñan alrededor de una plaza central, con los tejados vertiendo hacia dentro, y sus muros traseros forman la muralla, de más de 8 metros de altura: no hay ni una construcción fuera del recinto, salvo una casa de 1768 que cubre la entrada.</p><p>El lugar aparece documentado en <b>1043</b> y su castillo en el siglo XI. Pasó por varios linajes hasta que en <b>1234</b> llegó a los <b>Cardona</b>, que lo tuvieron hasta el siglo XIX dentro de su ducado. A mediados de ese siglo el diccionario de Madoz lo describía con las casas «encerradas en una muralla muy fuerte» y contaba 6 vecinos y 37 almas.</p><p>Se entra por una única <b>puerta doble</b> de arcos de piedra, en recodo, por la que no pasan los coches. En la plaza aún hay una cisterna, y una sola calle, la del carrer Rodó, recorre el interior de la muralla. En el extremo este está la iglesia de <b>Sant Pere</b>, cuyo ábside invade la muralla y cuyo campanario es lo único que asoma por encima del conjunto. Es Bien Cultural de Interés Nacional y forma parte de la Ruta dels Castells del Sió.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Montfalc%C3%B3_Murallat",
+     "https://www.openstreetmap.org/node/2069154596",
+     "https://www.wikidata.org/wiki/Q9034853",
+     "https://www.enciclopedia.cat/catalunya-romanica/vila-closa-de-montfalco-murallat-les-olugues",
+     "https://www.3cat.cat/3catinfo/ruta-per-montfalco-murallat-la-petita-joia-medieval-del-pais/noticia/3135567/",
+     "https://www.escapadaambnens.com/activitat/1058/la-ruta-dels-castells-de-sio-els-14-castells-de-la-segarra"
+    ]
+   }
+  },
+  {
+   "id": "santa-eugenia-d-argolell",
+   "campos": {
+    "texto": {
+     "general": "<p>En el pequeño pueblo de Argolell, en el antiguo término de Anserall, casi en la frontera de Andorra, se alza esta iglesita románica. Aparece ya en un documento de <b>1008</b>, cuando el matrimonio formado por Trasemon y Riquilda cedió a Santa Maria de la Seu d'Urgell unas tierras situadas en «Ergolelo», junto a Santa Eugènia. En 1086 un tal Pere Udalard dejó en su testamento tres sueldos a sus clérigos para misas.</p><p>Es un edificio sencillo, de nave rectangular con techo de madera, muros de lajas de pizarra y un ábside semicircular liso con bóveda de cuarto de esfera. El campanario, de base cuadrada, tiene tres pisos: el último, octogonal y con cuatro ventanas, se añadió más tarde.</p><p>Su fama viene de sus <b>pinturas murales</b> de principios del siglo XII, emparentadas con el círculo del <b>Maestro de Pedret</b>. Se conservan tres fragmentos en el <b>Museu Nacional d'Art de Catalunya</b> (MNAC), en Barcelona: uno con la <b>Virgen con el cáliz</b> y dos apóstoles, otro con tres apóstoles, entre ellos san Pablo y san Juan, y un tercero con la decoración vegetal de la ventana del ábside.</p><p class=\"dato\"><span>¿Sabías que…?</span>San Pablo aparece con su característica calva parcial, y en el libro que sostiene se lee una inscripción latina.</p>"
+    },
+    "fuentes": [
+     "https://www.enciclopedia.cat/catalunya-romanica/santa-eugenia-dargolell-anserall",
+     "https://www.museunacional.cat/en/node/98362",
+     "https://www.openstreetmap.org/way/395221658"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-d-arties",
+   "campos": {
+    "texto": {
+     "general": "<p>En el pueblo de Arties, en el Valle de Arán, a unos 7 km de Vielha por la carretera de la Bonaigua, esta iglesia es una obra del <b>siglo XII</b> y uno de los mejores ejemplos del románico aranés. Tiene planta basilical de <b>tres naves</b> divididas en cuatro tramos por arcos de medio punto sobre pilares redondos y cuadrados; de sus tres ábsides, el central se perdió y fue sustituido por una sacristía.</p><p>Lo mejor está fuera: la <b>portada norte</b>, con seis arcos de medio punto y sin dintel ni tímpano, algo excepcional en el valle, decorada con ajedrezado y apoyada en canecillos con <b>cabezas humanas</b>. Junto a ella hay un pájaro tallado en la piedra. Por los aleros asoman máscaras, cabezas de perro, mono y león, y una cruz que se ha relacionado con los templarios. En época gótica se le añadió la esbelta <b>torre campanario</b> de cubierta piramidal, en el lado oeste.</p><p>Dentro destacan las <b>pinturas murales góticas del Juicio Final</b>, de un expresionismo intenso, y un retablo gótico. Junto a la puerta hay una pila de granito que llegó a usarse para guardar aceite de las lámparas. La iglesia es Bien Cultural de Interés Nacional.</p><p class=\"dato\"><span>¿Sabías que…?</span>De aquí desapareció una Virgen románica de madera de unos 70 cm, de la segunda mitad del siglo XIII, cuyo paradero se desconoce.</p>"
+    },
+    "fuentes": [
+     "https://www.enciclopedia.cat/catalunya-romanica/santa-maria-darties-salardu",
+     "https://www.openstreetmap.org/way/400763305",
+     "https://barcelonaurbana.com/ca/blog/que-veure-a-arties"
+    ]
+   }
+  },
+  {
+   "id": "castell-de-les-sitges",
+   "campos": {
+    "texto": {
+     "general": "<p>Sobre un espolón que domina el valle del Llobregós, junto al despoblado de les Sitges, cerca de Florejacs (Segarra), se alza uno de los castillos de la <b>Ruta dels Castells del Sió</b>. El lugar se cita en 1025, y el castillo aparece en <b>1116</b> como <i>castrum de Ciges</i>, cuando Pere Ponç se lo dejó a su hijo Arnau antes de partir hacia el Santo Sepulcro.</p><p>A finales del siglo XIII pertenecía a los <b>Alemany de Cervelló</b>, señores de Guimerà, y luego pasó por los Josa, los Cortit, los Agulló y los <b>Rivera</b>. Felipe V se lo confiscó a estos últimos al acabar la Guerra de Sucesión por haber apoyado al archiduque Carlos, aunque el castillo volvió a sus manos en 1725; a mediados del siglo XVIII pasó a los marqueses de Gironella, que conservaron la jurisdicción hasta el siglo XIX.</p><p>Es un ejemplo clásico de castillo de la Segarra: una <b>torre</b> rectangular de sillares rodeada por una muralla del siglo XIV que cierra un recinto de la misma forma. La torre, del siglo XIII, alcanza unos <b>20 metros</b> y conserva la antigua puerta de acceso, con arco de medio punto, a unos <b>8 metros</b> del suelo; la cámara inferior se usó como prisión. Las almenas de lo alto son un añadido historicista de finales del siglo XIX. Se puede visitar con guía.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_las_Sitges",
+     "https://www.openstreetmap.org/way/196585692",
+     "https://www.wikidata.org/wiki/Q8342650",
+     "https://www.enciclopedia.cat/catalunya-romanica/castell-de-les-sitges-torrefeta",
+     "https://www.escapadaambnens.com/activitat/1058/la-ruta-dels-castells-de-sio-els-14-castells-de-la-segarra"
+    ]
+   }
+  },
+  {
+   "id": "roca-moros",
+   "campos": {
+    "texto": {
+     "general": "<p>En el término de El Cogul, en Les Garrigues, un abrigo rocoso guarda uno de los conjuntos más célebres de la pintura rupestre peninsular. Lo descubrió en <b>1908</b> el rector del pueblo, <b>Ramon Huguet</b>, y ese mismo año se publicó: es un abrigo con <b>45 figuras</b>, 38 pintadas en rojo, negro y rojo oscuro y 7 grabadas, de estilo levantino y esquemático, con figuras humanas y varios animales.</p><p>Su escena más famosa es la llamada «<b>danza de Cogul</b>»: nueve figuras de mujer con faldas hasta las rodillas rodean a una pequeña figura masculina. No sabemos si es un baile, una ceremonia de fertilidad o varias escenas pintadas en momentos distintos, pero muestra que las mujeres tenían un lugar destacado en este arte. Miles de años después, en época ibérica y romana, se grabaron en el abrigo <b>inscripciones en escritura ibérica y en latín</b>, una de ellas un exvoto: señal de que el lugar siguió siendo un santuario.</p><p>Desde <b>1998</b> forma parte del Patrimonio de la Humanidad dentro del arte rupestre del arco mediterráneo de la península ibérica, y está protegido como Bien de Interés Cultural. Un centro de interpretación explica las pinturas antes de la visita. Muy cerca hay un cementerio de tumbas excavadas en la roca, las del Saladar.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Roca_dels_Moros",
+     "https://es.wikipedia.org/wiki/Roca_de_los_Moros"
+    ]
+   }
+  },
+  {
+   "id": "sant-climent-de-coll-de-nargo",
+   "campos": {
+    "texto": {
+     "general": "<p>Junto al pueblo de Coll de Nargó, en el Alt Urgell, se alza un hermoso ejemplo de <b>románico lombardo</b> del Pirineo leridano. El término de Nargó aparece ya en una permuta del conde Borrell de <b>988</b>, y hacia mediados del siglo XI se juraba sobre los altares de Sant Climent. La iglesia actual se construyó probablemente a finales del siglo XI, pero reaprovechó la base de un campanario más antiguo, del siglo X como pronto.</p><p>Tiene <b>una sola nave</b> con bóveda de cañón reforzada con arcos torales y un ábside semicircular decorado con arcuaciones ciegas entre lesenas, la firma de los constructores lombardos, que se repiten en todas las fachadas menos la sur. El <b>campanario</b>, adosado al norte, es su rasgo más llamativo: un alto basamento troncopiramidal, rematado por un piso de sillares con <b>ventanas triforadas</b> y cubierta piramidal de losas. Es un caso raro de torre monumental anterior al siglo XI, comparable a las de Sant Mateu de Bages o Sant Andreu de Gurb.</p><p>La restauraron en 1930-31 los Amics de l'Art Vell, dirigidos por <b>Cèsar Martinell</b>; entonces apareció, adosada al sur, una segunda iglesia más estrecha y corta que nunca se acabó, y se abrió la ventana en cruz de la fachada de poniente. En 1771 el pueblo estrenó una nueva parroquia con el mismo nombre.</p>"
+    },
+    "fuentes": [
+     "https://www.enciclopedia.cat/catalunya-romanica/sant-climent-de-coll-de-nargo",
+     "https://www.openstreetmap.org/way/199202364",
+     "https://www.wikidata.org/wiki/Q4993496"
+    ]
+   }
+  },
+  {
+   "id": "santa-eularia-d-unha",
+   "campos": {
+    "texto": {
+     "general": "<p>En lo alto del pueblo de Unha, sobre un montículo separado de Salardú por el río Unhòla, en el Valle de Arán, se alza esta iglesia románica del <b>siglo XII</b>. Tiene planta basilical de <b>tres naves</b> que convergen hacia levante, cada una cerrada por un ábside semicircular; las separan cuatro arcos de medio punto sobre pilares redondos, y la nave central se cubre con bóveda de cañón. Hoy retablos barrocos tapan los ábsides.</p><p>Por fuera, la cabecera luce la clásica <b>decoración lombarda</b>: arquillos ciegos sobre ménsulas y friso en dientes de sierra, muy parecidos a los de Sant Climent de Taüll, quizá obra de las mismas cuadrillas de canteros que recorrían los valles pirenaicos. Sobre la puerta sur hay un <b>crismón</b> muy rudimentario, entre motivos vegetales. El campanario moderno, de cuerpo octogonal, se remata con una cubierta de base <b>bulbosa</b> que le da un aire casi oriental.</p><p>Dentro guarda varias piezas de piedra del arte popular aranés de los siglos XII y XIII: una <b>pila bautismal</b> cilíndrica de unos 84 cm de alto decorada con una cruz y una estrella, una <b>benditera</b> con rosetas y una flor de lis, señal de influencia francesa —el valle dependía de la diócesis de Comminges—, y una gran pila de piedra, quizá un sarcófago, que hoy guarda el aceite de las ofrendas.</p>"
+    },
+    "fuentes": [
+     "https://www.enciclopedia.cat/catalunya-romanica/santa-eularia-dunha-salardu",
+     "https://www.openstreetmap.org/node/11224476037"
+    ]
+   }
+  },
+  {
+   "id": "geoparque-origens",
+   "campos": {
+    "texto": {
+     "general": "<p>En el Prepirineo de Lleida se ve, como en un corte de pastel, cómo avanzaron hacia el sur los <b>mantos de corrimiento</b> de los Pirineos: grandes láminas de roca que se despegaron y viajaron decenas de kilómetros. La sierra del <b>Montsec</b> es una de ellas, y el río Noguera Ribagorzana la atraviesa por el desfiladero de <b>Mont-rebei</b>, con paredes de unos 500 metros donde las capas de caliza del Cretácico, formadas bajo el mar hace más de 80 millones de años, quedan a la vista.</p><p>Detrás, la cuenca de Tremp se fue rellenando de sedimentos mientras la cordillera crecía, y en ellos quedaron los <b>últimos dinosaurios de Europa</b>: huesos, huellas y huevos. En el yacimiento de Orcau apareció <i>Abditosaurus kuehnei</i>, un titanosaurio de unos 17,5 metros y 14 toneladas que vivió hace unos 70,5 millones de años; sus primeros restos los recogió el paleontólogo Walter Kühne en 1954 y se describió en 2022.</p><p>La UNESCO declaró Orígens <b>Geoparque Mundial</b> en abril de <b>2018</b>, el segundo de Cataluña. Reúne 19 municipios del Pallars Jussà, la Noguera, el Pallars Sobirà y el Alt Urgell, y su recorrido abarca más de 500 millones de años de historia de la Tierra. Su centro de visitantes, Epicentre, está en Tremp, y sus observatorios tienen la certificación Starlight por la calidad de su cielo nocturno.</p>"
+    },
+    "fuentes": [
+     "https://www.geoparcorigens.cat/en/geoparc-origens/",
+     "https://www.geoparcorigens.cat/en/activity/epicentre/",
+     "https://www.catalannews.com/culture/item/unesco-declares-conca-de-tremp-montsec-a-global-geopark",
+     "https://www.escapadaambnens.com/es/actividad/782/epicentro-el-centro-de-visitantes-del-pallars-jussa/",
+     "https://www.geoparcorigens.cat/en/",
+     "https://www.geoparcorigens.cat/described-a-new-large-titanosaurian-dinosaur-from-the-pyrenees/"
+    ]
+   }
+  },
+  {
+   "id": "palau-de-la-paeria",
+   "campos": {
+    "texto": {
+     "general": "<p>El ayuntamiento de Lleida ocupa un palacio del <b>siglo XIII</b> que levantó Arnau de Sanaüja, de la familia de los <b>Sanaüja</b>, señores de les Borges Blanques. Tras la muerte del último de ellos, en 1342, sus albaceas lo vendieron a la ciudad, que tomó posesión en <b>1383</b> para hacerlo sede del gobierno municipal, y lo sigue siendo.</p><p>La fachada es de <b>gótico catalán</b>: una puerta de medio punto que aún recuerda al románico, ventanas pequeñas en la primera planta que le dan aire defensivo y ventanales altos y estrechos con columnillas en la segunda, cuyos capiteles se relacionan con los talleres de la Seu Vella. Sobre la puerta, tres escudos con la señera real; el central lleva además una corona. A principios del siglo XX la fachada amenazaba ruina: se desmontó con las piedras numeradas y se volvió a montar en la restauración que dirigió <b>Ramon Argilés</b> en 1929.</p><p>Dentro, el edificio gira en torno a un patio con pozo. En la planta baja, con arcos apuntados del siglo XIII, estaba la antigua <b>prisión</b>, con grafitos de presos, y en el sótano las excavaciones iniciadas en 1962 hallaron restos desde época iberorromana, hoy en exposición permanente.</p><p class=\"dato\"><span>¿Sabías que…?</span>El nombre de «paer» viene de un privilegio de Jaime I de 1264 a los antiguos cónsules de la ciudad; de ahí el título de «paer en cap».</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_de_la_Paeria",
+     "https://www.openstreetmap.org/way/288105598",
+     "https://www.wikidata.org/wiki/Q6744870",
+     "https://www.enciclopedia.cat/catalunya-romanica/casal-de-la-paeria-lleida"
+    ]
+   }
+  },
+  {
+   "id": "tos-pelat",
+   "campos": {
+    "texto": {
+     "general": "<p>En un pequeño cerro de 92 metros entre Moncada y Bétera, a media hora de Valencia, se conserva un <b>poblado íbero</b> habitado entre los <b>siglos VI y mediados del IV a. C.</b> Ocupaba unas 3 hectáreas, pudo albergar a unas 600 personas y vivía de la agricultura, la ganadería, la caza y el comercio. Pertenecía al territorio de los <b>edetanos</b>, pero no sabemos su nombre antiguo, a diferencia de Edeta (Llíria) o Arse (Sagunto). Se abandonó, al parecer de forma pacífica, por causas que se desconocen.</p><p>Lo citó por primera vez como yacimiento Nicolau Primitiu en 1920. Se ha excavado solo una parte: un tramo de la <b>muralla</b>, conservado a lo largo de más de 120 metros y con hasta 6 metros de anchura, con torres adosadas y puertas defendidas, y varias <b>casas</b> grandes, algunas de más de 150 metros cuadrados, junto a las calles. Restos de pinturas murales en azul, blanco y rojo hacen pensar que el barrio junto a la muralla lo habitaba una élite.</p><p>Los hallazgos se guardan en el <b>Museo Arqueológico de Moncada</b>, que organiza las visitas guiadas al recinto, vallado. Hasta el cerro se puede llegar a pie por la Ruta Cavanilles, desde la ermita de Santa Bárbara.</p>"
+    },
+    "fuentes": [
+     "https://www.comunitatvalenciana.com/es/valencia/moncada/eventos/visitas-en-el-yacimiento-iberico-del-tos-pelat-de-moncada-ruta-de-los-iberos-valencia",
+     "https://turisme.dival.es/en/?p=94289",
+     "https://en.wikipedia.org/wiki/Moncada,_Spain",
+     "https://www.google.com/maps/place/?q=place_id:ChIJeWpIlQZFYA0RJE367umrr9I",
+     "https://www.openstreetmap.org/?mlat=39.5599&mlon=-0.4209#map=18/39.5599/-0.4209",
+     "https://www.valenciabonita.es/2022/02/03/el-tos-pelat/"
+    ]
+   }
+  },
+  {
+   "id": "almoina",
+   "campos": {
+    "texto": {
+     "general": "<p>Bajo la plaza de l'Almoina, junto a la catedral, están los restos de la fundación de Valencia. En el <b>138 a. C.</b> el cónsul <b>Décimo Junio Bruto</b> dio tierras en una isla del Turia, junto al mejor vado del río, a los soldados que habían luchado en Lusitania: así nació <i>Valentia</i>.</p><p>La ciudad se alió con el rebelde Sertorio y en el <b>75 a. C.</b> fue asaltada por <b>Pompeyo</b>; en l'Almoina aparecieron los esqueletos mutilados de soldados ejecutados tras la toma, y la ciudad quedó abandonada al menos medio siglo. Las excavaciones, entre 1985 y 2005, sacaron a la luz parte del <b>foro</b>, la curia, unas <b>termas</b> de la primera ciudad republicana, un mercado y un santuario de <b>Asclepio</b>, el dios de la medicina, el único edificio que siguió en pie tras la destrucción. Encima se superponen la zona episcopal de época visigoda, ligada al culto a san Vicente, mártir en Valencia en el año 304, y parte del <b>alcázar islámico</b>.</p><p>El museo se abrió en <b>2007</b> sobre unos 2.500 metros cuadrados, recorridos por el cardo y el decumano, las dos calles principales romanas. Las excavaciones dieron más de mil monedas y más de quinientas piezas de cerámica. Lo mejor es que se lee la historia de la ciudad como en un libro: cada época construyó sobre la anterior.</p>"
+    },
+    "fuentes": [
+     "https://www.eldebate.com/espana/comunidad-valenciana/20260721/valencia-reacondiciona-restos-arqueologicos-fundacionales_442031.html",
+     "https://es.wikipedia.org/wiki/Valentia_Edetanorum",
+     "https://www.google.com/maps/place/?q=place_id:ChIJgWlkRa1IYA0Rn8Rxi08dej8",
+     "https://www.openstreetmap.org/?mlat=39.4762&mlon=-0.3741#map=18/39.4762/-0.3741",
+     "https://www.valencia.es/es/cas/almoina/introduccion"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-valencia-y-miguelete",
+   "campos": {
+    "texto": {
+     "general": "<p>En este lugar hubo un templo romano, luego una basílica visigoda y después la mezquita mayor de la Valencia musulmana. En 1098 el Cid la convirtió en iglesia de Santa María, con un obispo francés, Jerónimo de Périgord, pero volvió a ser mezquita cuando Jimena abandonó la ciudad en 1102. Tras entrar en Valencia el 9 de octubre de 1238, <b>Jaime I</b> la consagró de nuevo como catedral, y en <b>1262</b> el obispo Andreu d'Albalat puso la primera piedra del templo gótico actual.</p><p>Tiene tres puertas de épocas distintas: la románica del <b>Palau</b>, junto a la que está enterrado el poeta Ausiàs March; la gótica de los <b>Apóstoles</b>, terminada hacia 1354, ante la que cada jueves a mediodía se reúne el <b>Tribunal de las Aguas</b> de la huerta; y la barroca de los <b>Hierros</b>, empezada en 1703. Dentro custodia el <b>Santo Cáliz</b>, una copa de calcedonia que llegó en 1437 por donación de Alfonso el Magnánimo, y en el presbiterio, ocultos bajo una bóveda barroca hasta 2004, los <b>ángeles músicos</b> que pintaron hacia 1474 Paolo da San Leocadio y Francesco Pagano por encargo de Rodrigo de Borja.</p><p>El campanario, el <b>Miguelete</b>, se empezó en 1381; su campana grande, el Micalet, pesa 7.514 kilos. Para llegar arriba hay que subir <b>207 escalones</b> por una estrecha escalera de caracol.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_de_Santa_Mar%C3%ADa_(Valencia)",
+     "https://www.google.com/maps/place/?q=place_id:ChIJnaTWWU1PYA0RfgoNmBz1kNM",
+     "https://www.openstreetmap.org/?mlat=39.4756&mlon=-0.3751#map=18/39.4756/-0.3751",
+     "https://visitvalencia.com/que-hacer-valencia/cultura-valenciana/monumentos-en-valencia/miguelete"
+    ]
+   }
+  },
+  {
+   "id": "colegio-del-patriarca",
+   "campos": {
+    "texto": {
+     "general": "<p>El Real Colegio Seminario de Corpus Christi, conocido como el Patriarca, lo fundó <b>San Juan de Ribera</b>, arzobispo de Valencia, para formar sacerdotes. Las obras empezaron en <b>1586</b> y terminaron en 1615, con maestros canteros como Gaspar Gregori o Guillem del Rey.</p><p>Se organiza alrededor de un gran <b>claustro renacentista</b> rectangular con columnas de mármol genovés, uno de los mejores ejemplos del Renacimiento valenciano, con una escalera de piedra que sirvió de modelo a otras posteriores. La iglesia, de cruz latina con cúpula, y la capilla están cubiertas de <b>frescos</b> de Bartolomé Matarana, y en el altar mayor está la <i>Última Cena</i> de <b>Francisco Ribalta</b>. En la capilla de la Comunión cuelgan tapices flamencos. Es Monumento Nacional desde 1962.</p><p>Su <b>museo</b> guarda pintura de los siglos XVI y XVII, con obras de El Greco, Juan de Juanes, Ribalta, Jan Gossaert y otros primitivos flamencos. La pieza más curiosa es un manuscrito autógrafo de <b>Tomás Moro</b>, escrito durante su encierro en la Torre de Londres antes de ser ejecutado en 1535: su hija Margaret lo salvó y acabó llegando a España.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Real_Colegio_Seminario_del_Corpus_Christi",
+     "https://www.spain.info/es/lugares-interes/museo-patriarca-monumento-nacional/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJu7M0BbNIYA0ROK_R3knmocs",
+     "https://www.openstreetmap.org/?mlat=39.4725&mlon=-0.3733#map=18/39.4725/-0.3733"
+    ]
+   }
+  },
+  {
+   "id": "estacion-del-norte-de-valencia",
+   "campos": {
+    "texto": {
+     "general": "<p>La proyectó en 1906 el arquitecto <b>Demetrio Ribes</b> para la Compañía de los Caminos de Hierro del Norte de España; las obras empezaron el 2 de agosto de 1907 y la estación se inauguró, sin grandes celebraciones, el 8 de agosto de <b>1917</b>. Es una obra del modernismo valenciano con influencia de la <b>Secesión vienesa</b> de Otto Wagner, y una fachada horizontal con tres cuerpos a modo de torreones.</p><p>Su decoración habla de la huerta: la fachada se llena de <b>naranjas y azahar</b>, las cuatro barras del escudo valenciano rematan las marquesinas y sobre el cuerpo central se posa el águila, símbolo de la velocidad, con la estrella de la compañía Norte. En el bloque central hay dos mosaicos de José Mongrell. El interior combina madera, cristal y mármol con cerámica, trencadís y mosaicos de la fábrica La Ceramo de Benicalap, y en el vestíbulo los zócalos repiten «<b>buen viaje</b>» en varios idiomas. La marquesina de hierro de los andenes, de 24,5 metros de altura, la diseñó Enrique Grasset.</p><p>Durante la Guerra Civil, con Valencia como sede del Gobierno de la República, la estación fue bombardeada, y bajo su ala izquierda se construyó un refugio antiaéreo. Es Bien de Interés Cultural desde 1983.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Estaci%C3%B3n_del_Norte_(Valencia)",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ4ULXX0pPYA0RvC9xvp-SKy0",
+     "https://www.openstreetmap.org/?mlat=39.4666&mlon=-0.3774#map=18/39.4666/-0.3774"
+    ]
+   }
+  },
+  {
+   "id": "banos-del-almirante",
+   "campos": {
+    "texto": {
+     "general": "<p>Son unos baños de tipo islámico construidos en época cristiana, entre <b>1313 y 1320</b>, por el caballero y jurista Pere de Vilarasa en el reinado de Jaime II. Toman el nombre del vecino palacio de los Almirantes de Aragón.</p><p>Siguen el esquema del baño árabe: tras un vestíbulo, tres salas abovedadas, <b>fría, templada y caliente</b>. En la caliente se producía el vapor con un hipocausto bajo el suelo. La más bella es la templada, la mayor, con una cúpula octogonal sobre trompas; las bóvedas están perforadas por <b>lucernarios en forma de estrella de ocho puntas</b>, antes con vidrios de colores, que dejan pasar la luz y dejaban salir el vapor.</p><p>Funcionaron como baño público casi sin interrupción desde el siglo XIV hasta su cierre en <b>1959</b>: son los baños públicos de Valencia que más tiempo estuvieron abiertos. En el siglo XIX se les dio un aire neoárabe, que se eliminó entre 1961 y 1963; después hubo dentro un gimnasio. La Generalitat los compró en 1985 y, tras una larga rehabilitación, se abrieron a la visita en 2005. Son Bien de Interés Cultural desde 1993.</p>"
+    },
+    "fuentes": [
+     "https://www.visitvalencia.com/que-hacer-valencia/cultura-valenciana/monumentos-en-valencia/banos-arabes-almirante-valencia",
+     "https://es.wikipedia.org/wiki/Ba%C3%B1os_del_Almirante",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ0_cLmrJIYA0RYE1Hhkgv3Ys",
+     "https://www.openstreetmap.org/?mlat=39.4749&mlon=-0.3734#map=18/39.4749/-0.3734"
+    ]
+   }
+  },
+  {
+   "id": "altos-hornos-de-sagunto",
+   "campos": {
+    "texto": {
+     "general": "<p>En 1900 los empresarios vascos <b>Ramón de la Sota</b> y Eduardo Aznar fundaron la Compañía Minera de Sierra Menera y tendieron un ferrocarril de 204 km desde las minas de hierro de Ojos Negros (Teruel) hasta el puerto de Sagunto. En 1917 dieron un paso más y constituyeron la <b>Compañía Siderúrgica del Mediterráneo</b>, para producir acero junto al mar. Alrededor de la fábrica nació un pueblo nuevo, el Puerto de Sagunto, con casas obreras, sanatorio e iglesia.</p><p>De los tres hornos altos que tuvo la fábrica solo queda el <b>Horno Alto nº 2</b>. Se empezó en 1922, dio su primera colada en 1926, se reconstruyó entero entre 1961 y 1963, y se apagó el <b>24 de marzo de 1984</b>, cuando la reconversión industrial cerró la siderurgia tras grandes movilizaciones obreras. Mide <b>64,2 metros</b> de altura.</p><p>Restaurado desde 1998 por los arquitectos Carmel Gradolí, Arturo Sanz y Luis Francisco Herrero, en 2012 recibió el Gran Premio Europa Nostra de conservación. Hoy su interior está musealizado y se puede subir por sus niveles. Junto a él se conservan la Nave de Talleres y el Almacén de Efectos, destinados a museo del patrimonio industrial y de la memoria obrera.</p>"
+    },
+    "fuentes": [
+     "https://multimedia.comunitatvalenciana.com/BB1F0DECC386481FB55577F80FC4A136/doc/BAF79DBF87AF42B1A55F71EA3E56DFE1/Horno_Alto_n2__Puerto_de_Sagunto.pdf",
+     "https://www.comunitatvalenciana.com/es/valencia/sagunt-sagunto/monumentos/alto-horno-numero-2",
+     "https://www.erih.net/i-want-to-go-there/site/puerto-de-sagunto",
+     "https://www.google.com/maps/place/?q=place_id:ChIJNYzieAEWYA0RfmPaWzqmbCM"
+    ]
+   }
+  },
+  {
+   "id": "ciudad-de-las-artes-y-las-ciencias",
+   "campos": {
+    "texto": {
+     "general": "<p>Al final del antiguo cauce del <b>Turia</b>, desviado tras la riada de 1957 y convertido en jardín, se levanta este gran conjunto de edificios blancos, uno de los símbolos de la Valencia contemporánea. Casi todos son de <b>Santiago Calatrava</b>; el Oceanogràfic es de <b>Félix Candela</b>. El proyecto inicial giraba en torno a una torre de comunicaciones de 382 metros, que se canceló en 1996.</p><p>El primero en abrir fue el <b>Hemisfèric</b>, en abril de 1998, con una pantalla cóncava de 900 metros cuadrados; el conjunto se inauguró oficialmente el 9 de junio de ese año. Después llegaron el Museu de les Ciències, hacia 2000, con unos 40.000 metros cuadrados en tres plantas; el <b>Oceanogràfic</b>, en febrero de 2003, el mayor acuario de Europa, con 42 millones de litros de agua y cubiertas en forma de nenúfar; y el <b>Palau de les Arts</b>, en octubre de 2005. Completan el conjunto el Umbracle, un paseo ajardinado de más de 17.500 metros cuadrados, y el Ágora.</p><p>El punto más alto es el pilono de 125 metros del puente de l'Assut de l'Or. En 2007 la Ciudad fue elegida uno de los «12 Tesoros de España», y su arquitectura futurista ha servido de decorado a películas como <i>Tomorrowland</i>.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Ciudad_de_las_Artes_y_las_Ciencias",
+     "https://www.google.com/maps/place/?q=place_id:ChIJgUOb0elIYA0RlPjrpQdE62I",
+     "https://www.openstreetmap.org/?mlat=39.4548&mlon=-0.3505#map=18/39.4548/-0.3505"
+    ]
+   }
+  },
+  {
+   "id": "palacio-del-marques-de-dos-aguas",
+   "campos": {
+    "texto": {
+     "general": "<p>Era una casa gótica de los Rabassa de Perellós, a quienes Carlos II concedió en 1699 el título de marqueses de Dos Aguas. Hacia <b>1740</b> el marqués Giner Rabassa de Perellós la transformó con el pintor <b>Hipólito Rovira</b>, que diseñó la fachada y la cubrió de frescos, y el escultor <b>Ignacio Vergara</b>, que talló su famosa <b>portada de alabastro</b>, sacado de las canteras de Niñerola (Picassent).</p><p>A los lados de la puerta, dos grandes figuras representan los dos ríos («dos aguas») de las tierras del marqués; en la hornacina central hay una Virgen del Rosario de Francisco Molinelli. Entre 1853 y 1867, siendo propietario Vicente Dasí, se quitaron los frescos, dañados por la humedad, y el palacio se reformó otra vez con estucos que imitan mármol y balcones de estilo francés.</p><p>El Estado lo compró en 1949 para la colección de cerámica donada por <b>Manuel González Martí</b>, y desde 1954 es el <b>Museo Nacional de Cerámica</b> y Artes Suntuarias «González Martí». Además de la cerámica, se visitan los salones del piso noble y la <b>carroza de las Ninfas</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>En 1743, al hacer obras en uno de sus patios, aparecieron restos que hacen pensar que allí hubo una necrópolis romana.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_del_Marqu%C3%A9s_de_Dos_Aguas",
+     "https://www.google.com/maps/place/?q=place_id:ChIJdSAn8JlIYA0RdLvjJtEhtv4",
+     "https://www.openstreetmap.org/?mlat=39.4726&mlon=-0.3747#map=18/39.4726/-0.3747"
+    ]
+   }
+  },
+  {
+   "id": "torres-de-serranos",
+   "campos": {
+    "texto": {
+     "general": "<p>Era la <b>puerta principal</b> de la muralla cristiana de Valencia, por donde llegaban los caminos de Zaragoza y Barcelona y por donde entraban reyes y embajadores. La construyó el maestro <b>Pere Balaguer</b> entre el 6 de abril de 1392 y el 19 de marzo de 1398, inspirándose en puertas como la Real de Poblet: dos torres poligonales unidas por un cuerpo central con decoración gótica. Por dentro tienen tres plantas abovedadas. Su nombre viene probablemente de la comarca de Los Serranos, hacia la que salía el camino.</p><p>Desde 1586, tras un incendio en la ciudad, se usaron como <b>prisión de nobles</b> hasta 1887; precisamente por eso se salvaron cuando se derribó la muralla en el siglo XIX. Entre 1893 y 1914 se restauraron. Durante la Guerra Civil sirvieron de refugio a cuadros evacuados del <b>Museo del Prado</b>, para los que en diciembre de 1936 se construyó una bóveda de hormigón protegida con capas de cáscara de arroz y tierra.</p><p>Son Bien de Interés Cultural desde 1931. Hoy, cada último domingo de febrero, la fallera mayor anuncia desde ellas el comienzo de las Fallas en la <b>Crida</b>, y desde lo alto se ve el casco antiguo y el viejo cauce del Turia.</p>"
+    },
+    "fuentes": [
+     "https://www.visitvalencia.com/en/what-to-do-valencia/valencian-culture/monuments-in-valencia/serranos-towers",
+     "https://es.wikipedia.org/wiki/Torres_de_Serranos",
+     "https://www.google.com/maps/place/?q=place_id:ChIJJ5T9FVNPYA0RRavjAQjSpS4",
+     "https://www.openstreetmap.org/?mlat=39.4793&mlon=-0.376#map=18/39.4793/-0.376"
+    ]
+   }
+  },
+  {
+   "id": "mercado-central-de-valencia",
+   "campos": {
+    "texto": {
+     "general": "<p>Uno de los mercados cubiertos más grandes de Europa: ocupa <b>más de 8.000 metros cuadrados</b> y tiene más de 200 puestos de pescado, marisco, fruta, especias, carne y embutidos. Lo proyectaron en 1914 los arquitectos <b>Francesc Guàrdia i Vial y Alexandre Soler i March</b>, formados en Barcelona; tras desavenencias, dirigieron el final de las obras <b>Enrique Viedma</b> y Ángel Romaní, y se terminó e inauguró en enero de <b>1928</b>.</p><p>Es un gran edificio <b>modernista</b>, una de las obras maestras de ese estilo en Valencia, de hierro, madera, cerámica y azulejos de colores, con <b>cúpulas</b> y cubiertas a distintas alturas. La luz entra por el techo y por <b>vidrieras de colores</b>, y la mezcla de metal, columnas y vidrio, con un recuerdo gótico, le da aire de «catedral del comercio». La gran cúpula central está coronada por una veleta.</p><p>Está junto a la Lonja de la Seda, en pleno corazón comercial de la Valencia histórica. Desde 2004 se ha ido restaurando por fases bajo la dirección del arquitecto Horacio Fernández del Castillo.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Mercado_Central_de_Valencia",
+     "https://www.spain.info/es/lugares-interes/mercado-central-valencia/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJG-bUp05PYA0RjV0kiVYDQxI",
+     "https://www.openstreetmap.org/?mlat=39.4735&mlon=-0.3789#map=18/39.4735/-0.3789"
+    ]
+   }
+  },
+  {
+   "id": "palacio-ducal-de-gandia",
+   "campos": {
+    "texto": {
+     "general": "<p>El palacio lo empezó en el siglo XIV Alfonso el Viejo, que heredó el señorío de Gandia en 1359 y lo elevó a ducado en 1399. En <b>1485</b> Rodrigo de Borja, el futuro papa Alejandro VI, compró el ducado para su hijo Pedro Luis, y desde entonces fue el palacio de los <b>Borja</b>, duques de Gandia.</p><p>Aquí nació el 28 de octubre de <b>1510</b> <b>San Francisco de Borja</b>, IV duque de Gandia, que al enviudar, en 1546, entró en la Compañía de Jesús y en 1565 fue elegido su general. Su habitación se conserva casi como era. En 1788 Goya situó en la escalinata del patio su cuadro de la despedida del santo de su familia, que hoy está en la catedral de Valencia.</p><p>El edificio mezcla el <b>patio de armas gótico</b> con salas de épocas distintas, como el Salón de Águilas, el de las Coronas, la Santa Capilla y la <b>Galería Dorada</b>: cinco salas con techos pintados al óleo a comienzos del siglo XVIII por Gaspar de la Huerta y su taller, y azulejos valencianos de la época. La Compañía de Jesús lo compró en subasta en 1890, casi en ruinas, y lo restauró; añadió entonces una capilla neogótica.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_Ducal_de_Gand%C3%ADa",
+     "https://es.wikipedia.org/wiki/Francisco_de_Borja",
+     "https://www.google.com/maps/place/?q=place_id:ChIJs5vNzUnoYQ0RmlUamnEMYN0",
+     "https://www.openstreetmap.org/?mlat=38.9658&mlon=-0.1801#map=18/38.9658/-0.1801"
+    ]
+   }
+  },
+  {
+   "id": "el-paleontologic-valencia",
+   "campos": {
+    "texto": {
+     "general": "<p>El antiguo Museo de Ciencias Naturales de Valencia, en los Jardines de Viveros, guarda una de las mejores colecciones de Europa de mamíferos fósiles de Sudamérica. Los fósiles los recogió entre 1880 y 1888 en la cuenca del Río de la Plata el naturalista Enrique de Carles; el ingeniero de Manises <b>José Rodrigo Botet</b>, que trabajaba en Argentina, los adquirió para regalarlos a su tierra, y llegaron a Valencia en agosto de <b>1889</b>: unos veinte esqueletos y más de 5.000 huesos de más de veinte familias de mamíferos.</p><p>Allí se ven los descendientes de la fauna del continente-isla: un <b>megaterio</b>, perezoso gigante de unos seis metros procedente del río Samborombón, cuyo montaje se completó en 1928; varios <b>gliptodontes</b>, armadillos enormes de caparazón abombado; toxodontes y un tigre de dientes de sable, <i>Smilodon</i>. Son del Pleistoceno, posteriores al <b>Gran Intercambio</b>, pero cuentan la historia de los mamíferos que evolucionaron aislados en Sudamérica.</p><p>La colección pasó por el convento de San Gregorio, el Almudín —de 1908 a 1991— y los bajos del Ayuntamiento antes de llegar a Viveros en 1999. En 2025 reabrió renovado como <b>El Paleontològic</b>, con audiovisuales, dioramas y una recreación de un gabinete científico del siglo XIX.</p>"
+    },
+    "fuentes": [
+     "https://www.visitvalencia.com/noticias/valencia-estrena-un-nuevo-museo-de-colecciones-naturales-el-paleontologic",
+     "https://www.valenciabonita.es/2026/08/17/coleccion-rodrigo-botet/",
+     "https://es.hispanopedia.com/wiki/Museo_de_Ciencias_Naturales_de_Valencia",
+     "https://www.google.com/maps/place/?q=place_id:ChIJs3E16q5IYA0RIaj9Wq87iW0",
+     "https://www.openstreetmap.org/?mlat=39.4793&mlon=-0.3689#map=18/39.4793/-0.3689"
+    ]
+   }
+  },
+  {
+   "id": "cuevas-arana",
+   "campos": {
+    "texto": {
+     "general": "<p>En el valle del río Escalona, en el término de Bicorp, tres abrigos rocosos guardan una de las escenas más famosas de la prehistoria: el «<b>recolector de miel</b>», una figura que trepa por unas cuerdas hasta un panal rodeado de abejas. Se suele datar hace unos <b>8.000 años</b> y está considerada la representación más antigua conocida de la recolección de miel. Es <b>Patrimonio de la Humanidad desde 1998</b>, dentro del arte rupestre del arco mediterráneo.</p><p>La escena la descubrió en 1920 un maestro del lugar, <b>Jaume Garí i Poch</b>, y la publicó en 1924 <b>Eduardo Hernández-Pacheco</b>, que llevó la cronología de estas pinturas a después del Paleolítico, frente a las ideas de Henri Breuil. Dos figuras cuelgan de unas cuerdas, que probablemente serían de esparto; la de arriba mete la mano en un agujero de la roca con el panal y lleva una bolsa, y a su alrededor vuelan unas quince abejas. Se discute si es una mujer o un hombre. Hoy se cree que se pintó en tiempos de los primeros agricultores, dentro del arte levantino, aunque su fecha exacta sigue en debate.</p><p>Pintados en ocre rojo, los abrigos tienen también una <b>cacería de cabras</b> con arqueros, ciervos y otras figuras humanas, en el estilo dinámico del arte levantino. La visita se hace con guía desde el Ecomuseo de Bicorp.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Cuevas_de_la_Ara%C3%B1a",
+     "https://rupestre.art/es/caves/cuevas-de-la-arana",
+     "https://es.wikipedia.org/wiki/Cuevas_de_la_Ara%C3%B1a",
+     "https://www.google.com/maps/place/?q=place_id:ChIJr0laB4kXYQ0Rf2AaJ6MBIOE"
+    ]
+   }
+  },
+  {
+   "id": "tortosilla",
+   "campos": {
+    "texto": {
+     "general": "<p>Al pie de la <b>Muela de Tortosilla</b>, en el extremo sur del término de Ayora, un pequeño abrigo rocoso, de unos 3 metros de ancho por 2 de fondo, guarda el primer arte rupestre que se descubrió en la Comunidad Valenciana: lo hallaron en el verano de <b>1911</b> los hermanos Daniel y Pascual Serrano. Desde allí se controla el acceso al valle.</p><p>Enseguida lo estudiaron tres grandes nombres de la prehistoria, <b>Henri Breuil, Hugo Obermaier y Juan Cabré</b>; Breuil, Serrano y Cabré lo dieron a conocer en la revista francesa <i>L'Anthropologie</i>, y Cabré lo incluyó en su libro <i>El arte rupestre en España</i> (1915). Tiene unas <b>veinte figuras</b> pintadas. Destacan un gran <b>arquero</b> naturalista, con detalles de su ropa y hasta de la cara, y seis <b>ciervos</b> repartidos por el friso, todos de estilo levantino; junto a ellos hay figuras esquemáticas. En tres puntos unas pinturas se superponen a otras, señal de que el abrigo se pintó en épocas distintas, hace entre unos 7.000 y 8.000 años.</p><p>Forma parte del arte rupestre del arco mediterráneo, <b>Patrimonio de la Humanidad desde 1998</b>, y es Bien de Interés Cultural. En los alrededores hay otros abrigos pintados, como el del Sordo o la Cueva de la Vieja, y el poblado ibérico del Castellar de Meca.</p>"
+    },
+    "fuentes": [
+     "https://www.comunitatvalenciana.com/en/valencia/ayora/monuments/abrigo-de-tortosilla-cave-art-in-ayora",
+     "https://es.wikipedia.org/wiki/Abrigo_de_Tortosilla",
+     "https://www.google.com/maps/place/?q=place_id:ChIJBR_-TU3LZg0R2sk5xF4HTyI"
+    ]
+   }
+  },
+  {
+   "id": "la-alcudia",
+   "campos": {
+    "texto": {
+     "general": "<p>A unos 3 km al sur de Elche, junto al río Vinalopó, una pequeña loma de unas 10 hectáreas esconde la antigua ciudad ibera, romana y visigoda de <b>Ilici</b>. Estuvo ocupada durante más de mil años, desde finales de la Edad del Bronce hasta los inicios de la época islámica. Fue quizá la principal ciudad ibérica del sur valenciano; hacia el <b>26 a. C.</b> se convirtió en la <i>Colonia Iulia Ilici Augusta</i>, con veteranos de las guerras cántabras, y en la Antigüedad tardía fue <b>sede episcopal</b>. Con el dominio islámico la población se trasladó al lugar de la actual Elche.</p><p>El 4 de agosto de 1897, unos jornaleros que rebajaban un ribazo en esta finca encontraron un busto de caliza de 56 centímetros: la <b>Dama de Elche</b>, de los siglos V o IV a. C., que los vecinos llamaron «la Reina Mora». Ese mismo mes la compró el Louvre por 4.000 francos. Volvió a España en 1941 y desde 1971 está en el <b>Museo Arqueológico Nacional</b>. Como apareció sin excavación, no se sabe bien junto a qué estaba; las excavaciones posteriores, durante casi todo el siglo XX a cargo de la familia Ramos, propietaria de la finca, han reconstruido la historia de Ilici.</p><p>Desde 1996 el yacimiento pertenece a la Universidad de Alicante, a través de la Fundación La Alcudia. Aquí apareció también la <b>Tábula de Ilici</b>, una placa de bronce con el reparto de tierras entre colonos romanos.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Yacimiento_arqueol%C3%B3gico_de_La_Alcudia",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ01vY6Le2Yw0Rsc6sSwynd8Q",
+     "https://web.ua.es/de/laalcudia/sobre-la-alcudia.html",
+     "https://es.wikipedia.org/wiki/Ilici"
+    ]
+   }
+  },
+  {
+   "id": "museo-arqueologico-y-de-historia-de-elche",
+   "campos": {
+    "texto": {
+     "general": "<p>En el <b>palacio de Altamira</b>, el alcázar de la Señoría que levantó a finales del siglo XV Gutierre de Cárdenas, primer señor de Elche, junto al río Vinalopó y el Palmeral, este museo lleva el nombre de <b>Alejandro Ramos Folqués</b>, el arqueólogo que desde 1935 excavó La Alcudia, la antigua Ilici, donde en 1897 apareció la <b>Dama de Elche</b>. El palacio, de planta poligonal con una gran torre cuadrada y torreones redondos, tiene una historia dura: en 1939 se usó como campo de concentración para prisioneros republicanos.</p><p>El museo se divide en dos partes: la <b>arqueológica</b>, desde la Prehistoria hasta la llegada de los musulmanes, con un espacio importante para los iberos y los romanos, y la <b>histórica</b>, desde la fundación de la ciudad islámica hasta hoy. Usa maquetas, reproducciones a tamaño real y audiovisuales.</p><p>El 18 de mayo de <b>2006</b> la Dama presidió su inauguración: volvió a Elche durante unos meses y miles de personas hicieron cola para verla. El original regresó al Museo Arqueológico Nacional de Madrid, pero aquí se entiende el mundo en que se talló: cerámicas iberas pintadas con figuras, esculturas y objetos de la vida diaria de Ilici. Muy cerca están la basílica de Santa María, donde cada año se representa el Misteri d'Elx, y el Palmeral.</p>"
+    },
+    "fuentes": [
+     "https://www.comunitatvalenciana.com/es/alacant-alicante/elx-elche/museos/museu-arqueologic-i-d-historia-d-elx-mahe",
+     "https://alicanteplaza.es/alicanteplaza/LaDamadeMadridcronologadelaprdidadeliconodeElche",
+     "https://www.google.com/maps/place/?q=place_id:ChIJqcYXlPS2Yw0RqKpRcQER2N8",
+     "https://es.wikipedia.org/wiki/Palacio_de_Altamira_(Elche)",
+     "https://es.wikipedia.org/wiki/Dama_de_Elche",
+     "https://www.spain.info/es/lugares-interes/museo-arqueologico-historia-elche/"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-peniscola",
+   "campos": {
+    "texto": {
+     "general": "<p>Sobre un peñón que se adentra en el Mediterráneo, unido antes a tierra por un istmo, se alza el castillo templario de Peñíscola, que fue residencia del papa Luna, <b>Benedicto XIII</b>. Se levantó sobre los restos de una fortaleza árabe y es una construcción gótica austera, sin apenas adornos.</p><p>El rey <b>Jaime II</b> entregó Peñíscola a los <b>templarios</b> en <b>1294</b>, y la orden levantó el castillo actual entre ese año y 1307, con muros macizos de piedra, una iglesia y grandes salas abovedadas. Apenas lo había terminado cuando empezó su caída: detenidos en la Corona de Aragón desde diciembre de 1307 y suprimida la orden en 1312, el castillo pasó en 1319 a la nueva <b>Orden de Montesa</b>. Un siglo después, en <b>1411</b>, se instaló aquí el papa Luna, que en pleno Cisma de Occidente se negó a renunciar porque se consideraba el único papa legítimo. Él y su sucesor, Clemente VIII, hicieron de Peñíscola una sede pontificia, como Roma y Aviñón. En el siglo XVI Felipe II reforzó la ciudad con murallas renacentistas de Bautista Antonelli.</p><p>Es Monumento Histórico-Artístico Nacional desde <b>1931</b>. Dentro se recorren el cuerpo de guardia, las caballerizas, las mazmorras, el aljibe, la iglesia y las estancias papales, como el Salón del Cónclave.</p>"
+    },
+    "fuentes": [
+     "https://castillodepeniscola.dipcas.es/es/precios-y-horarios.html",
+     "https://www.comunitatvalenciana.com/en/castello-castellon/peniscola-peniscola/monuments/castillo-de-peniscola",
+     "https://www.google.com/maps/place/?q=place_id:ChIJH9cwsPBGoBIRT0Zu_r98qYA",
+     "https://peniscola.es/en/prepare-your-trip/general-information/",
+     "https://www.hoteles.net/castellon/peniscola/castillo-papa-luna-peniscola.html"
+    ],
+    "ver_alli": [
+     "En la planta baja: cuerpo de guardia, caballerizas, mazmorras y aljibe.",
+     "En la planta alta, las estancias papales de Benedicto XIII, el papa Luna, y el Salón del Cónclave.",
+     "Pasear por los jardines del parque de artillería y asomarse a las vistas sobre las dos bahías.",
+     "En el casco antiguo, el Portal de Sant Pere, que mandó abrir el papa Luna en 1411, con su escudo."
+    ]
+   }
+  },
+  {
+   "id": "cova-remigia",
+   "campos": {
+    "texto": {
+     "general": "<p>Sobre el <b>barranco de la Gasulla</b>, a 920 metros de altitud en el término de Ares del Maestrat, no lejos de la Valltorta, un abrigo rocoso guarda uno de los conjuntos más impresionantes de <b>arte levantino</b>. Se descubrió en <b>1934</b>, y al año siguiente Juan Bautista Porcar, <b>Hugo Obermaier y Henri Breuil</b> publicaron su estudio. Es un solo abrigo, de unos 20 metros de largo, 9 de fondo y 7 de alto, con <b>seis concavidades</b> pintadas y más de 700 figuras.</p><p>Las figuras, en tonos rojizos y de más de 7.000 años de antigüedad, son sobre todo <b>escenas de caza</b>: arqueros persiguiendo cabras, toros, ciervos y jabalíes, en actitudes muy dinámicas y a menudo más grandes que los animales, con huellas y rastros de sangre de las presas heridas. Hay también recolectores de miel con cestas, danzas rituales y escenas mucho más inquietantes: <b>ejecuciones de personas</b>, con y sin pelotón de arqueros.</p><p>Como el resto del arte rupestre del arco mediterráneo, es <b>Patrimonio de la Humanidad desde 1998</b>. El abrigo está protegido por una valla y las visitas guiadas las organiza el Museo de la Valltorta.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Cova_Remigia"
+    ]
+   }
+  },
+  {
+   "id": "morella-temps-de-dinosaures",
+   "campos": {
+    "texto": {
+     "general": "<p>Las tierras de Els Ports guardan rocas del <b>Cretácico inferior</b>, formadas en llanuras costeras donde abundaban los iguanodontes. Con los fósiles de sus canteras se ha ido reconstruyendo cómo era este paisaje hace unos 130 millones de años.</p><p>El hallazgo más famoso llegó en 2013: en el yacimiento de Mas de Sabaté, en la cantera de Mas de la Parreta, equipos de la UNED y de la Universidad Autónoma de Madrid excavaron un esqueleto parcial que en 2015 se describió como <b><i>Morelladon beltrani</i></b>. Era un herbívoro de unos <b>seis metros</b> y unas dos toneladas, con espinas altísimas sobre las vértebras del lomo —más de cuatro veces la altura de cada vértebra— que quizá sostenían una vela o una joroba. Su nombre une Morella y la palabra griega para «diente», y honra a Víctor Beltrán, dueño de la empresa que explotaba las canteras y que ayudó a localizar los yacimientos.</p><p>El museo, instalado en la capilla de la Comunión de la iglesia de San Miguel, junto al portal del mismo nombre, cuenta la paleontología de la comarca con fósiles locales y una réplica de iguanodonte a tamaño real. Se combina bien con un paseo por el casco medieval amurallado de Morella.</p>"
+    },
+    "fuentes": [
+     "https://www.actividades.comunitatvalenciana.com/en/recursos/temps-de-dinosaures-museum-morella",
+     "https://en.wikipedia.org/wiki/Morelladon",
+     "https://www.thelocal.es/20151217/archaeologists-camel-like-dinosaur-spain/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJmQw9jW6CXw0R4HIBySsqa-8"
+    ]
+   }
+  },
+  {
+   "id": "basilica-des-fornas-de-torello",
+   "campos": {
+    "texto": {
+     "general": "<p>Junto al camino de Torelló, a unos 500 metros de la carretera del aeropuerto, entre Maó y Sant Climent, se conservan los restos de una pequeña <b>basílica paleocristiana</b> de los <b>siglos V-VI</b>, de la época en que el emperador Justiniano recuperó las Baleares para el Imperio bizantino. La descubrió un labrador, Toni Cadona, «es pagès des Fornàs», y la estudió después la arqueóloga María Lluïsa Serra.</p><p>Es una iglesia de <b>una sola nave</b>, orientada de este a oeste. Lo extraordinario es su <b>mosaico</b> del siglo VI, que cubre casi toda la nave en tres tapices de temas distintos: motivos geométricos, <b>aves</b> que evocan el paraíso y <b>dos leones junto a una palmera</b>, que se interpretan como la muerte y el árbol de la vida, con ecos de la tradición judía.</p><p>Se reconoce bien la planta, quedan restos de la mesa del altar y, al norte, una pila bautismal semiesférica de piedra y mortero. Una malla metálica protege el mosaico del deterioro. A poco más de un kilómetro está el poblado talayótico de Talatí de Dalt.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Bas%C3%ADlica_des_Forn%C3%A0s_de_Torell%C3%B3",
+     "https://www.google.com/maps/place/?q=place_id:ChIJl6RCCHqIlRIR5ReKMHyOQ9o",
+     "https://www.openstreetmap.org/?mlat=39.8832&mlon=4.2234#map=18/39.8832/4.2234"
+    ]
+   }
+  },
+  {
+   "id": "claper-gegant",
+   "campos": {
+    "texto": {
+     "general": "<p>Entre Canyamel y las cuevas de Artà, en el término de Capdepera, sobre la loma del Puig de sa Tortuga, se esconde este <b>poblado talayótico fortificado</b>, también llamado talayot de s'Heretat. Su nombre, «el montón de piedras del gigante», viene de los enormes bloques de piedra que lo forman, que hicieron pensar que solo un gigante podía haberlos movido.</p><p>Su <b>talayot central</b>, atravesado por un corredor con varias estancias a su alrededor, y la <b>muralla</b> que lo rodea parecen de la misma fase de construcción. Alrededor se agrupan estancias redondas, ovaladas y rectangulares, un patio abierto ante el talayot y una sala hipóstila cuyo techo se apoyaba en pilares de piedra. La muralla encerraba unos <b>4.800 m²</b> y tenía varias puertas; se conserva un tramo al suroeste del talayot, con piedras dispuestas en hiladas horizontales. Al sur de las puertas hay tres <b>cisternas</b> excavadas en la roca para recoger el agua de lluvia, que se tapaban con losas.</p><p>El poblado siguió en uso después de la época talayótica, hasta <b>época romana</b>. Hoy es una ruina abierta, sin reconstrucciones, en una finca privada junto a un campo de golf.</p>"
+    },
+    "fuentes": [
+     "https://www.mallorca.com/en/guide/sights/claper-des-gegants",
+     "https://www.google.com/maps/place/?q=place_id:ChIJzwoKQ2kVlhIRQe6NetdNjO0",
+     "https://www.openstreetmap.org/?mlat=39.6781&mlon=3.4317#map=18/39.6781/3.4317"
+    ]
+   }
+  },
+  {
+   "id": "capocorb",
+   "campos": {
+    "texto": {
+     "general": "<p>Cerca de la costa de Llucmajor, en un llano a unos 100 metros sobre el mar, Capocorb Vell es uno de los <b>grandes poblados talayóticos de Mallorca</b>, de la transición entre el Bronce final y la Edad del Hierro. Es uno de los primeros yacimientos excavados de la isla y uno de los mayores, y quizá fue un centro ceremonial para los poblados de los alrededores.</p><p>Conserva <b>cinco talayots</b>, dos cuadrados y tres circulares, alineados de nordeste a suroeste: los de los extremos son redondos y los dos centrales, cuadrados. El circular de la entrada mide cerca de <b>siete metros</b> de altura. Están hechos con grandes piedras sin labrar apiladas sin argamasa. Entre ellos se alinean <b>28 viviendas</b> rectangulares, y algo apartada hay una estancia mucho mayor que probablemente fue un santuario.</p><p>Las primeras excavaciones científicas las dirigió <b>Josep Colominas</b>, por encargo del Institut d'Estudis Catalans, en la segunda década del siglo XX; un monolito lo recuerda en el poblado. Fue declarado Monumento Histórico-Artístico el 3 de junio de <b>1931</b>. Se cree que los agricultores de siglos posteriores se llevaron piedras del poblado para levantar las paredes de sus fincas.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Poblado_prehist%C3%B3rico_de_Capocorb_Vell",
+     "https://www.wikidata.org/wiki/Q1034758",
+     "https://www.openstreetmap.org/?mlat=39.3976&mlon=2.8245#map=18/39.3976/2.8245",
+     "https://visit.llucmajor.org/en/capocorb-vell-un-viaje-a-la-prehistoria-talayotica-de-llucmajor/"
+    ]
+   }
+  },
+  {
+   "id": "ciutadella-talayots",
+   "campos": {
+    "texto": {
+     "general": "<p>Entre acebuches, a pocos kilómetros de Ciutadella, se visitan dos poblados talayóticos muy próximos, de una cultura que floreció en Menorca desde hacia el año 1000 a. C. hasta la conquista romana del 123 a. C. <b>Torretrencada</b>, a unos 6 km de la ciudad, conserva una <b>taula</b> que ha perdido su recinto pero tiene una <b>columna lateral de apoyo</b> que la distingue de las demás de la isla; hay además un talayot bastante deteriorado, una <b>sala hipóstila</b> cubierta con losas sobre una columna central, una cueva funeraria artificial y tumbas antropomorfas talladas en la roca.</p><p><b>Torrellafuda</b>, a un kilómetro, cerca de la carretera de Maó a Ciutadella, tiene talayot, recinto de taula con restos de viviendas, una muralla de relleno con dos puertas, muy alterada por paredes de piedra seca posteriores, y cuevas funerarias, que son lo primero que se encuentra al llegar; estuvo habitado hasta el final de la época romana.</p><p>Torretrencada forma parte desde 2023 del Patrimonio Mundial de la Menorca talayótica, en la zona de los Llanos de Ciutadella, con la Naveta des Tudons y el poblado de Torralba. Los dos están en fincas agrícolas: conviene respetar los campos y los cultivos.</p>"
+    },
+    "fuentes": [
+     "https://www.descobreixmenorca.com/en/megalithic-menorca/torretrencada/",
+     "https://www.descobreixmenorca.com/en/megalithic-menorca/torrellafuda/",
+     "https://www.menorca.info/menorca/cultura/2023/09/18/2013119/menorca-talayotica-yacimientos-declaracion-patrimonio-mundial.html",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ9-c1F24dvhIR3Fbgz3zfaRs",
+     "https://www.google.com/maps/place/?q=place_id:ChIJdwW8rV8bvhIRvqcjHKRVw3s",
+     "https://www.openstreetmap.org/?mlat=39.9898&mlon=3.9259#map=18/39.9898/3.9259"
+    ]
+   }
+  },
+  {
+   "id": "trepuco",
+   "campos": {
+    "texto": {
+     "general": "<p>A las afueras de Maó, junto al camino que pasa por la ermita de Gràcia, Trepucó es uno de los poblados talayóticos más conocidos de Menorca. Ocupaba unos <b>5.000 m²</b>, aunque solo se conserva una parte, con restos de su muralla ciclópea. Conserva <b>dos talayots</b> dentro del recinto, otro más pequeño fuera, restos de casas y un <b>recinto de taula</b> de planta casi semicircular, el espacio religioso del poblado.</p><p>La taula se levantó <b>entre el 800 y el 450 a. C.</b> Su losa vertical mide <b>4,20 m de alto y 2,75 de ancho</b>, y la horizontal, 3,65 m de largo. La excavó por primera vez la arqueóloga británica <b>Margaret Murray</b> en 1931, y se consolidó a principios de los años setenta. El poblado sufrió daños durante la Segunda Guerra Púnica y se abandonó tras la época romana. Los objetos de uso doméstico hallados se exponen en el <b>Museo de Menorca</b>, en Maó.</p><p>El lugar volvió a usarse en el siglo XVIII, durante la dominación francesa de la isla. Del siglo XVIII es también el muro de piedra seca en forma de estrella que hoy rodea la zona de visita. Desde 2023 es uno de los nueve componentes del Patrimonio Mundial de la Menorca talayótica.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Trepuc%C3%B3",
+     "https://www.menorca.info/menorca/cultura/2023/09/18/2013119/menorca-talayotica-yacimientos-declaracion-patrimonio-mundial.html",
+     "https://www.google.com/maps/place/?q=place_id:ChIJLX2EhqWHlRIRQwkEyk_lj68",
+     "https://www.openstreetmap.org/?mlat=39.8739&mlon=4.2658#map=18/39.8739/4.2658",
+     "https://www.descobreixmenorca.com/en/megalithic-menorca/trepuco/"
+    ]
+   }
+  },
+  {
+   "id": "cueva-negra-fortuna",
+   "campos": {
+    "texto": {
+     "general": "<p>En la sierra del Baño, a unos 3 km de Fortuna, tres abrigos rocosos orientados al sol rodean un manantial. Hay indicios de que ya en época ibérica fue un lugar sagrado, pero su gran momento llegó con Roma: fue un <b>santuario pagano</b> unido a las aguas termales de la zona, y quienes venían a curarse a los baños subían aquí y dejaban pintados en la roca sus agradecimientos y pensamientos.</p><p>Esos textos latinos pintados, los <b>tituli picti</b>, son la gran joya del lugar: entre ellos hay fragmentos de la <b>Eneida de Virgilio</b>, que se cuentan entre los más antiguos conservados. Varias inscripciones repiten una fecha, el 27 de marzo, que algunos investigadores relacionan con una fiesta de la diosa Magna Mater. La cueva y los <b>baños romanos</b> de Fortuna, un complejo religioso con piscina y canal central conocido desde 1999, que vivió su apogeo en los siglos I y II d. C., formaban un único conjunto religioso y curativo. Ese santuario de los baños se reutilizó en época islámica y sus ruinas sirvieron en el siglo XVII para levantar un hotel.</p><p>Hoy se visitan los abrigos y el manantial, con las inscripciones protegidas. El balneario actual de Fortuna sigue aprovechando las mismas aguas termales.</p>"
+    },
+    "fuentes": [
+     "https://www.turismoregiondemurcia.es/en/monument/santuario-romano-cueva-negra-195/",
+     "https://es.wikipedia.org/wiki/Fortuna_(Murcia)",
+     "https://portalinvestigacion.um.es/documentos/5ea21c2c2999521f7d523fdd"
+    ],
+    "ver_alli": [
+     "Los abrigos rocosos y el manantial.",
+     "Las inscripciones pintadas en la roca, protegidas junto al manantial.",
+     "Completar la visita con los restos del santuario romano de los baños de Fortuna, a pocos kilómetros."
+    ]
+   }
+  }
+ ]
+}

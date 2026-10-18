@@ -1,0 +1,459 @@
+{
+ "zona": "Ampliar espana-4c",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "san-isidoro-zamora",
+   "campos": {
+    "texto": {
+     "general": "<p>En lo alto del primer recinto amurallado de Zamora, en una de las zonas más elevadas de la ciudad y muy cerca de la catedral y de los portillos de la Lealtad y de la Traición, se alza esta pequeña iglesia románica. La fecha más aceptada para su construcción es hacia <b>1178</b>.</p><p>La tradición la relaciona con el paso por Zamora de las <b>reliquias de san Isidoro</b> en 1066, cuando viajaban de Sevilla a León, aunque el edificio actual es un siglo posterior. De una fábrica anterior, de comienzos del siglo XII, solo queda el muro norte.</p><p>Tiene <b>una sola nave de tres tramos</b> y una capilla mayor cuadrada de cabecera plana, con contrafuertes por todo el exterior. Sus dos portadas, al norte y al sur, son de arcos concéntricos con jambas lisas, poco habituales; se entra por la del sur. Lo más antiguo es el <b>arco triunfal apuntado</b> y el hastial con un sencillo rosetón; la espadaña es del siglo XIX. Pese a estar muy expuesta al viento, se conserva en magnífico estado y su interior está prácticamente como era. Sobre la puerta hay un pequeño busto que suele interpretarse como un ángel.</p><p class=\"dato\"><span>¿Sabías que…?</span>En sus piedras se han contado <b>117 marcas de cantero</b> de 82 tipos distintos: las «firmas» de quienes la levantaron.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Isidoro_(Zamora)",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%20de%20San%20Isidoro%2C%20Zamora"
+    ]
+   }
+  },
+  {
+   "id": "santo-tome-zamora",
+   "campos": {
+    "texto": {
+     "general": "<p>Esta iglesia románica del <b>siglo XII</b>, en el barrio de la Horta, pertenece al grupo más antiguo de templos zamoranos y es posiblemente uno de los más viejos de la ciudad. Está construida en sillería y orientada, como manda la liturgia, hacia el este.</p><p>Debió de tener planta basilical de tres naves, pero se reconstruyó con <b>una sola nave</b> de tres tramos. Del edificio original conserva la <b>cabecera de tres ábsides rectangulares</b> —el central mucho mayor y casi cuadrado—, reforzada con contrafuertes, y buena parte del muro norte. Tiene pórticos en las fachadas norte y oeste y una espadaña a poniente; la decoración de la cabecera, dentro y fuera, es lo más notable del edificio.</p><p>Cerrada al culto, se pensó en convertirla en almacén visitable del Museo de Zamora. Finalmente, tras una restauración integral entre 2009 y 2010, desde el <b>13 de julio de 2012</b> alberga el <b>Museo Diocesano de Zamora</b>, que abrió con 134 piezas de arte sacro procedentes de las parroquias de la diócesis.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Iglesia_de_Santo_Tom%C3%A9_(Zamora)",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%20de%20Santo%20Tom%C3%A9%2C%20Zamora"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-del-azogue-de-benavente",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Santa María del Azogue</b>, también llamada «la Mayor», es el principal templo de Benavente. Se empezó hacia <b>1180</b>, cuando Fernando II de León repobló la villa, al mismo tiempo que la vecina San Juan del Mercado. Quedó inconclusa mucho tiempo: se retomó con Sancho IV en el último cuarto del siglo XIII, y las bóvedas góticas de la nave central se costearon en el siglo XVI con dinero de los condes de Benavente, cuyos escudos se ven en lo alto.</p><p>Tiene planta de cruz latina, con tres naves de cuatro tramos y un crucero que sobresale. Lo mejor es su <b>cabecera de cinco ábsides escalonados</b>, que menguan desde el central hacia los lados, de clara influencia cisterciense. El crucero tiene portadas variadas: la norte, de decoración vegetal; en la sur aparecen los evangelistas y el Agnus Dei. La portada de los pies es de 1735 y sustituye a otra del siglo XII. La torre, cuadrada, remata en un chapitel de pizarra. El arquitecto Fernando Higueras la restauró en 1981-1982.</p><p>Dentro se conserva una <b>Anunciación</b> de piedra policromada, probablemente del siglo XIII, y una Virgen con el Niño románica; aquí se venera también la Virgen de la Vega, patrona de la ciudad.</p>"
+    },
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-santa-maria-azogue",
+     "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_del_Azogue_(Benavente)",
+     "https://www.wikidata.org/wiki/Q5911781"
+    ],
+    "ver_alli": [
+     "Rodea la iglesia por detrás para ver los cinco ábsides escalonados.",
+     "Las portadas del crucero, con los evangelistas y el Agnus Dei en la del sur.",
+     "Dentro, la Anunciación de piedra policromada.",
+     "Combínala con San Juan del Mercado, a pocos pasos."
+    ]
+   }
+  },
+  {
+   "id": "torre-del-caracol-benavente",
+   "campos": {
+    "texto": {
+     "general": "<p>La Torre del Caracol es uno de los pocos restos en pie del <b>castillo de la Mota</b>, el castillo-palacio de los <b>Pimentel</b>, condes de Benavente, un linaje de origen portugués cuyo primer conde fue Juan Alonso Pimentel. Escritores y viajeros lo describieron como uno de los alcázares más suntuosos de España, y sus jardines ocupaban buena parte del valle del Órbigo; de ellos quedan fuentes y esculturas, casi todas en manos privadas.</p><p>La torre se levantó a <b>principios del siglo XVI</b> por iniciativa de los condes IV y V —la Junta de Castilla y León la atribuye al V, Alfonso Pimentel— y mezcla el <b>gótico y el renacimiento</b>. Los escudos de los Pimentel se ven en la fachada y en las pechinas de la bóveda interior. Durante la <b>Guerra de la Independencia</b>, a comienzos del siglo XIX, las tropas francesas destruyeron la mayor parte del castillo; la torre sobrevivió al incendio.</p><p>Monumento nacional desde 1931, se restauró hacia 1953 y en <b>1972</b> se integró en el <b>Parador de Benavente</b>. En su planta principal luce un <b>artesonado mudéjar</b> traído del desaparecido convento de San Román del Valle.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Torre_del_Caracol",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Torre%20del%20Caracol%2C%20Benavente",
+     "https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/monumentos/palacios/torre-caracol-benavente"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-zamora",
+   "campos": {
+    "texto": {
+     "general": "<p>El Museo de Zamora reúne el patrimonio de la provincia desde la prehistoria. Nació en el siglo XIX como Museo Provincial de Bellas Artes, con los fondos de monasterios y conventos desamortizados. Alfonso XII lo inauguró simbólicamente en 1877, pero no abrió de verdad hasta 1911, y de forma precaria, en el antiguo convento de las Marinas, derribado en 1975.</p><p>Su sede actual, en la plaza de Santa Lucía, se inauguró el <b>28 de julio de 1998</b>. Combina la fachada, las arquerías del patio y parte de la escalera del antiguo <b>palacio del Cordón</b> con edificios nuevos de los arquitectos <b>Luis Moreno Mansilla y Emilio Tuñón</b>, construidos entre 1993 y 1996 en piedra de Villamayor, cinc y teca; el proyecto fue finalista del premio europeo Mies van der Rohe. La vecina iglesia de Santa Lucía sirve de almacén visitable.</p><p>Entre las piezas imprescindibles están el <b>ajuar campaniforme de Villabuena del Puente</b>; los dos <b>tesoros prerromanos de Arrabalde</b>, hallados en el castro de Las Labradas; los mosaicos y pinturas de la <b>villa romana de Requejo</b>; y el <b>tesorillo visigodo de Villafáfila</b>, de mediados del siglo VII, encontrado por casualidad en 1921, con tres cruces de lámina de oro. La sección de bellas artes recorre la pintura y la escultura desde el siglo XV, y la sala de la ciudad guarda curiosidades como la veleta de hierro <i>El Peromato</i>, de 1642.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Museo_de_Zamora",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ16K8XDQeOQ0RoPpXDtXyQRw"
+    ],
+    "ver_alli": [
+     "Los tesoros de oro de Arrabalde.",
+     "Los mosaicos de la villa romana de Requejo.",
+     "El tesorillo visigodo de Villafáfila.",
+     "La fachada del palacio del Cordón y el edificio de Mansilla y Tuñón."
+    ]
+   }
+  },
+  {
+   "id": "san-claudio-de-olivares-zamora",
+   "campos": {
+    "texto": {
+     "general": "<p>Pegada al <b>Duero</b>, en el barrio de Olivares, es una iglesia románica pequeña, de nave única irregular, tramo recto y <b>ábside ultrasemicircular</b>, en forma de herradura. La primera mención documental es de <b>1176</b>, pero algunos autores, como Antón Rapino, la llevan a 1100-1109 y la consideran la más antigua de las iglesias románicas que se conservan en Zamora; Rapino relaciona parte de su decoración con el sur de Francia, a través de los francos que llegaron con Raimundo de Borgoña.</p><p>Su cercanía al río le ha costado cara: las crecidas derribaron la bóveda y varias veces el muro sur, que se rehízo y en una de esas reconstrucciones perdió su portada. En <b>1910</b>, con proyecto de Joaquín de Vargas, se rehicieron los muros oeste y sur y las bóvedas de la capilla mayor, se levantó una espadaña de ladrillo y se cubrió la nave con una armadura de madera. Declarada monumento en <b>1931</b>, medio siglo después se restauró por completo: se quitaron añadidos, se devolvió al muro norte su altura original y se rebajó el terreno de alrededor.</p><p>Aquí se venera el <b>Cristo del Amparo</b>, que la Hermandad de la Penitencia saca en procesión la noche del Miércoles Santo.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Claudio_de_Olivares",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%20de%20San%20Claudio%20de%20Olivares%2C%20Zamora"
+    ]
+   }
+  },
+  {
+   "id": "san-lorenzo-el-real-toro",
+   "campos": {
+    "texto": {
+     "general": "<p>Considerada la <b>iglesia más antigua de Toro</b> y la mejor conservada de su estilo, se levantó a finales del siglo XII en ladrillo, al modo <b>mudéjar</b>. Tiene una sola nave y una capilla mayor de tramo recto rematada en un ábside semicircular, decorado por dentro con nueve arcos doblados y, encima, ocho arcos recuadrados con frisos de esquinillas.</p><p>Su <b>portada sur</b>, con seis arquivoltas apuntadas y un remate de ladrillo dispuesto en esquinillas, tendidos y a sardinel formando frisos, es uno de los mejores ejemplos del <b>mudéjar castellano-leonés</b>. Por dentro, las bóvedas originales de la capilla mayor quedaron ocultas a finales del siglo XV bajo la crucería actual, con terceletes y ligaduras de estuco. De esa época es el <b>retablo gótico pintado por Fernando Gallego</b>, el gran maestro hispanoflamenco.</p><p>El apellido «el Real» le viene de los enterramientos de la familia Castilla-Fonseca, descendientes de Pedro I el Cruel: el <b>sepulcro gótico flamenco</b> de Pedro de Castilla y Beatriz de Fonseca preside el templo, y su escudo partido aparece en el ábside. Aquí está también el sepulcro del doctor Juan Fernández.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Lorenzo_el_Real_(Toro)",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%20de%20San%20Lorenzo%20el%20Real%2C%20Toro"
+    ]
+   }
+  },
+  {
+   "id": "nuestra-senora-de-septiembre-de-butrera",
+   "campos": {
+    "texto": {
+     "general": "<p>En el pequeño pueblo de Butrera, en la merindad de Sotoscueva, a unos seis kilómetros de Villarcayo y junto al río Trema, se levanta una magnífica iglesia románica, también llamada de <b>Nuestra Señora la Antigua</b>. Se construyó en varias fases, entre mediados del siglo XII y comienzos del XIII.</p><p>Su planta es casi de <b>cruz griega</b>, con un crucero muy marcado, y la cabecera se cierra con un <b>ábside semicircular</b> cuya escultura merece mirarse con calma. Una gran <b>espadaña</b> domina su silueta compacta. En un muro hay incrustada una lápida de piedra con la <b>Adoración de los Reyes</b>, y en el altar mayor se venera la imagen de la Virgen de la Antigua.</p><p>Fue declarada monumento histórico-artístico por decreto de 2 de febrero de <b>1983</b>, y hoy es Bien de Interés Cultural.</p>"
+    },
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-senora-septiembre",
+     "https://es.wikipedia.org/wiki/Iglesia_de_Nuestra_Se%C3%B1ora_de_Septiembre_(Butrera)",
+     "https://www.terranostrum.es/turismo/ruta-de-espinosa-de-los-monteros-sotoscueva-y-montija",
+     "https://www.turismocastillayleon.com/en/heritage-culture/churches-chapels/church-nuestra-senora-de-septiembre",
+     "https://riubu.ubu.es/bitstream/handle/10259.4/480/1133-9276_n004_p123-125.pdf?sequence=1"
+    ],
+    "ver_alli": [
+     "La escultura del ábside semicircular.",
+     "La lápida con la Adoración de los Reyes.",
+     "El crucero muy marcado de la planta y la gran espadaña."
+    ]
+   }
+  },
+  {
+   "id": "san-andres-de-soto-de-bureba",
+   "campos": {
+    "texto": {
+     "general": "<p>En la pequeña aldea de Soto de Bureba, en el municipio de Quintanaélez, se conserva uno de los <b>exponentes más importantes del románico burgalés</b>. La iglesia de San Andrés, levantada en sillería de arenisca y caliza, tiene dos naves; la principal, la más antigua, termina en un ábside semicircular cubierto con bóveda de horno, precedido de un presbiterio de tramos casi cuadrados.</p><p>Su rareza está en el primer tramo, que hace de crucero y se cubre con una <b>bóveda esquifada</b>, un caso único en el románico de la región. La <b>portada</b>, abocinada, tiene triple arquivolta ligeramente apuntada sobre columnas acodilladas.</p><p>Fue declarada monumento histórico-artístico en 1982, pero perdió casi todos sus bienes muebles —campanas, imágenes y otros objetos—, vendidos a anticuarios pese a las protestas de los vecinos, según contó el arquitecto José Luis García Grinda.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Andr%C3%A9s_(Soto_de_Bureba)"
+    ]
+   }
+  },
+  {
+   "id": "torre-de-los-velasco-de-valdenoceda",
+   "campos": {
+    "texto": {
+     "general": "<p>En Valdenoceda, en la merindad de Valdivielso, se levanta esta torre ligada a los <b>Velasco</b>, uno de los linajes más poderosos de Castilla, cuyos escudos aún se conservan en sus muros. Se suele fechar en los siglos XII y XIII, aunque la Junta de Castilla y León sitúa el castillo del que procede en los siglos XIV y XV.</p><p>Es una torre de planta rectangular de unos <b>veinte metros de altura</b> y tres pisos, con muros gruesos rematados por almenas. Se entraba por una escalera exterior de piedra que llevaba a una puerta ojival; el primer piso tiene tres saeteras, el intermedio pequeñas ventanas y el último un <b>ajimez</b> y una ventana trilobulada que mira al este. Estuvo en ruinas desde el siglo XVI y se transformó en el siglo XX; hoy está restaurada y es de propiedad particular. Está protegida desde 1949 y es Bien de Interés Cultural desde 1985.</p><p>No es la única: el valle de Valdivielso conserva varias torres protegidas, como la de Loja o la del Almiñé.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Torre_de_los_Fern%C3%A1ndez_Velasco",
+     "https://www.openstreetmap.org/search?query=Torre%20de%20los%20Velasco%20Valdenoceda",
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/torres/torre-valdenoceda-velasco"
+    ],
+    "ver_alli": [
+     "Los escudos de los Velasco.",
+     "El ajimez y la ventana trilobulada del último piso.",
+     "El remate almenado.",
+     "Es de propiedad particular: se contempla desde fuera."
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-penaranda-de-duero",
+   "campos": {
+    "texto": {
+     "general": "<p>Sobre un cerro que domina la villa de Peñaranda de Duero y la vega del río Arandilla se estira su castillo. Sus orígenes se remontan a los siglos <b>X u XI</b>, cuando estas tierras eran frontera y se repoblaban —la tradición atribuye la repoblación a Fernán González—, pero fue reformado por completo en el <b>siglo XV</b>. Su silueta sigue el modelo del cercano castillo de <b>Peñafiel</b>.</p><p>En el centro se levanta la <b>torre del homenaje</b>, de planta cuadrada y cuatro pisos que se apoyaban en vigas de madera. Una muralla de gran grosor, de la que quedan pocos lienzos, protegía el castillo y el caserío que crecía a sus pies; de la cerca de la villa, del siglo XV, se conservan dos de sus tres puertas.</p><p>Fue declarado monumento el <b>3 de junio de 1931</b> junto con el palacio de los Avellaneda y la propia villa. Abajo esperan el <b>palacio de los condes de Miranda</b>, del siglo XVI, el rollo gótico de la plaza y una botica del siglo XVII que todavía funciona.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Pe%C3%B1aranda_de_Duero",
+     "https://nominatim.openstreetmap.org/",
+     "https://es.wikipedia.org/wiki/Pe%C3%B1aranda_de_Duero"
+    ],
+    "ver_alli": [
+     "La torre del homenaje en el centro del recinto.",
+     "Los restos de la muralla que bajaba hacia la villa.",
+     "Las vistas sobre la villa, el palacio y la vega del Arandilla.",
+     "Abajo, el palacio de los condes de Miranda y el rollo de la plaza."
+    ]
+   }
+  },
+  {
+   "id": "iglesia-del-espiritu-santo-miranda-de-ebro",
+   "campos": {
+    "texto": {
+     "general": "<p>Esta iglesia del <b>siglo XIII</b>, junto al Ebro y al puente de Carlos III, es el templo más antiguo de Miranda. Se levantó donde el fuero de 1099 ya cita una iglesia dedicada a San Nicolás, y la tradición cuenta que allí oró el Cid con sus caballeros. Esa fue su advocación hasta la Guerra Civil: tras el incendio de <b>1936</b> estuvo cerrada 36 años y, como el nombre de San Nicolás había pasado a una iglesia nueva levantada cerca en 1945, reabrió en 1972 como iglesia del Espíritu Santo. Es monumento desde 1931.</p><p>Es un templo pequeño, románico con rasgos del primer gótico, de nave única y planta de cruz latina. La <b>portada sur</b> tiene tres arquivoltas apuntadas y seis capiteles: dos de hojas y cuatro con figuras sobre el pecado. En ellos aparecen un <b>castillo y un león</b> que algunos expertos relacionan con la unión de Castilla y León en 1230. Bajo la cornisa asoman canecillos como un búho. El <b>ábside</b> pentagonal, de la segunda década del siglo XIII, tiene ventanas con doble arquivolta y se restauró en 2003. El campanario y el coro son de mediados del siglo XVI.</p><p class=\"dato\"><span>¿Sabías que…?</span>Fue <b>iglesia juradera</b>: aquí los vecinos de las dos orillas del Ebro resolvían sus pleitos jurando según el fuero.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Iglesia_del_Esp%C3%ADritu_Santo_(Miranda_de_Ebro)",
+     "https://www.openstreetmap.org/search?query=Iglesia%20del%20Esp%C3%ADritu%20Santo%20Miranda%20de%20Ebro"
+    ]
+   }
+  },
+  {
+   "id": "gobas-lano",
+   "campos": {
+    "texto": {
+     "general": "<p>En Laño, en el Condado de Treviño, el arroyo Barruntia corre entre paredes de caliza horadadas por cuevas artificiales: es el conjunto rupestre al que llaman «la Capadocia treviñesa». En la peña occidental, Las Gobas —del vasco <i>goba</i>, «cueva»—, se excavaron <b>trece cuevas</b>, <b>dos de ellas iglesias</b>; enfrente, en Santorkaria, hay otras dieciocho.</p><p>Las cuevas se habitaron desde <b>mediados del siglo VI</b>. Hubo eremitorios, viviendas con bancos y camas de piedra y almacenes en alto. Las iglesias, de planta basilical con ábside de herradura y a veces un contraábside, recuerdan la liturgia visigoda y mozárabe. En la segunda mitad del siglo IX la gente se mudó a la actual Laño y el lugar quedó como <b>cementerio hasta el siglo XI</b>; después sirvió de establo. Hay tumbas excavadas en el suelo, nichos en las paredes y sepulturas antropomorfas, además de grafitos de animales y los nombres de los santos Atanasio y Primitivo.</p><p>En <b>2024</b> un estudio genético publicado en <i>Science Advances</i> reveló una comunidad aislada durante cinco siglos, con <b>familias emparentadas</b> entre sí, huellas de golpes de espada y un caso de <b>viruela</b> del siglo X, de una cepa parecida a las del norte de Europa.</p><p>Es Bien de Interés Cultural desde 1978.</p>"
+    },
+    "fuentes": [
+     "https://www.senditur.com/es/punto-interes/yacimiento-arqueologico-de-las-gobas/",
+     "https://es.wikipedia.org/wiki/Las_Gobas",
+     "https://en.wikipedia.org/wiki/Las_Gobas",
+     "https://www.su.se/english/news/articles/2024-08-29-study-reveals-isolation-endogamy-and-pathogens-in-early-medieval-spanish-community"
+    ],
+    "ver_alli": [
+     "Acceso libre; el último tramo a pie.",
+     "Las dos iglesias rupestres, con sus ábsides de herradura.",
+     "Las tumbas excavadas en la roca.",
+     "Cuevas de Santorkaria, enfrente, y las de Faido, muy cerca."
+    ]
+   }
+  },
+  {
+   "id": "san-martin-de-rioseco-de-soria",
+   "campos": {
+    "texto": {
+     "general": "<p>En Berzosa, una pequeña aldea del municipio de El Burgo de Osma-Ciudad de Osma, se alza en lo alto del caserío la iglesia de <b>San Martín de Tours</b>, una de las iglesias románicas rurales <b>más antiguas de la provincia</b> según la Junta de Castilla y León, que sitúa su origen en el siglo XI. La declaración como Bien de Interés Cultural, de <b>2013</b>, la describe como obra de finales del siglo XII, muy transformada en los siglos XVII y XVIII, que aun así conserva su fábrica original, la portada y la galería.</p><p>Su gran atractivo es precisamente la <b>galería porticada</b> de la fachada sur, levantada a <b>mediados del siglo XII</b>, con <b>siete arcos</b> de piedra de sillería. Es una de las galerías porticadas mejor conservadas de Soria.</p><p>Sus capiteles muestran <b>leones de aire oriental</b>, figuras bulbosas acanaladas, ondas y estrías verticales: un repertorio sencillo pero muy expresivo. Por su posición dominante, la iglesia se ve desde casi cualquier punto del pueblo.</p>"
+    },
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-san-martin-tours",
+     "https://www.boe.es/boe/dias/2013/11/08/pdfs/BOE-A-2013-11721.pdf"
+    ],
+    "ver_alli": [
+     "Exterior libre.",
+     "Fíjate en los leones orientalizantes de los capiteles de la galería.",
+     "Recorre los siete arcos de la galería porticada.",
+     "Desde la explanada delantera hay amplias vistas del campo soriano."
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-monteagudo-de-las-vicarias",
+   "campos": {
+    "texto": {
+     "general": "<p>Monteagudo de las Vicarías está presidido por un castillo-palacio de los <b>Hurtado de Mendoza</b>, levantado en el <b>siglo XV</b> dentro de la muralla que rodeaba por completo la villa, de la que aún quedan bastantes restos. En el siglo XVI se amplió como residencia, con un aire entre gótico y renacentista.</p><p>Tiene planta <b>pentagonal</b>, con torres en los ángulos unidas por un camino de ronda almenado. Sus torres son todas distintas: la de poniente, redonda; la del sur, rectangular; y la de levante, <b>octogonal por fuera y hexagonal por dentro</b>. Del siglo XV son también el adarve volado sobre ménsulas, las troneras redondas y las dos puertas —la principal y la falsa—, con arcos apuntados protegidos por matacanes. Dentro se abre un <b>patio renacentista</b> del siglo XVI, de doble galería, con yeserías platerescas en el piso alto.</p><p>Un pasadizo en el muro de poniente comunicaba el castillo con la iglesia de Nuestra Señora de la Muela. A principios del siglo XXI se restauraron las almenas, los arcos y la galería del patio.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Monteagudo_de_las_Vicar%C3%ADas",
+     "https://nominatim.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "villa-romana-los-quintanares",
+   "campos": {
+    "texto": {
+     "general": "<p>A las afueras de <b>Rioseco de Soria</b> se excavó una villa romana —una gran explotación agrícola con casa señorial— que hoy se puede visitar. Se conserva casi toda su planta, y varias de sus estancias tienen <b>pavimentos de mosaico</b> en buen estado. Es Bien de Interés Cultural, como zona arqueológica, desde 1994.</p><p>El mosaico más conocido lleva el <b>busto de la diosa Ops</b>, la Abundancia, muy apropiado para una casa que vivía de las cosechas. Entre los muchos objetos aparecidos destaca una <b>estatua del dios Saturno</b>, el esposo de Ops en la mitología romana, que se expone en el <b>Museo Numantino</b> de Soria.</p><p>En el pueblo se ha abierto un espacio cultural que explica la villa y el molino de la localidad, y su iglesia parroquial de San Juan Bautista conserva un buen ábside románico de nueve arcos.</p>"
+    },
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/villa-romana-quintanares",
+     "https://nominatim.openstreetmap.org/",
+     "https://www.turismocastillayleon.com/en/heritage-culture/roman-villa-los-quintanares",
+     "https://es.wikipedia.org/wiki/Rioseco_de_Soria"
+    ],
+    "ver_alli": [
+     "El mosaico con el busto de Ops, la Abundancia.",
+     "El espacio cultural del pueblo, para completar la visita.",
+     "La estatua de Saturno, en el Museo Numantino de Soria.",
+     "Combínalo con el ábside románico de San Juan Bautista, en el pueblo."
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-los-hurtado-de-mendoza-almazan",
+   "campos": {
+    "texto": {
+     "general": "<p>El palacio de los Hurtado de Mendoza, también llamado del Conde de Altamira, se asoma a la plaza Mayor de <b>Almazán</b>. Se construyó a finales del <b>siglo XV</b> sobre un edificio anterior y se reformó durante el XVI.</p><p>Entre abril y junio de <b>1496</b> se alojaron aquí los <b>Reyes Católicos</b>, y su hijo el <b>príncipe don Juan</b>, heredero de la corona, residió en él hasta marzo de 1497.</p><p>Tiene dos caras muy distintas. La que mira a la plaza es una fachada <b>renacentista</b> de hacia <b>1575</b>, levantada cuando el señorío de Almazán se convirtió en marquesado, con torres en los extremos y una portada con dobles columnas jónicas y un frontón partido con el escudo familiar. La que se asoma al <b>Duero</b> es <b>gótica</b>: una galería de arcos con los escudos de los Hurtado de Mendoza, Enríquez, Luna, Zúñiga y Avellaneda en las enjutas, cubierta con una techumbre de madera labrada al gusto <b>mudéjar</b>.</p><p>Es Bien de Interés Cultural desde 1991.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_de_los_Hurtado_de_Mendoza",
+     "https://nominatim.openstreetmap.org/",
+     "https://www.terranostrum.es/turismo/soria/tierras-de-almazan/almazan/palacio-de-los-altamira-almazan"
+    ]
+   }
+  },
+  {
+   "id": "san-millan-suso",
+   "campos": {
+    "texto": {
+     "general": "<p>El monasterio de <b>San Millán de Suso</b> («de arriba») se levantó sobre las cuevas de la sierra de la Demanda donde vivió el eremita <b>Millán</b>. Según la vida que escribió hacia el 635 el obispo <b>Braulio de Zaragoza</b>, el ermitaño vivió aquí rodeado de discípulos y murió en <b>574</b>, con 101 años. Es un buen ejemplo del monacato hispano anterior a la Regla de san Benito, que no se impuso en la península hasta siglos después: ermitaños y pequeñas comunidades que seguían el ejemplo de un hombre santo.</p><p>Junto a las cuevas se alzó un primer edificio visigodo. En la primera mitad del siglo X se construyó el monasterio <b>mozárabe</b>, con <b>arcos de herradura</b> y bóvedas de estilo califal, que García Sánchez I de Pamplona consagró en 954. Almanzor lo incendió en 1002, y hacia 1030 Sancho III el Mayor lo amplió. En 1053 las reliquias del santo se trasladaron al nuevo monasterio de Yuso, en el valle.</p><p>Aquí se escribieron las <b>Glosas Emilianenses</b>, del siglo X u XI, consideradas de los primeros textos en romance y en euskera, y aquí se educó <b>Gonzalo de Berceo</b>. En la galería reposan los <b>siete infantes de Lara</b> y su ayo Nuño, y en el atrio las reinas navarras Toda, Jimena y Elvira. Dentro destaca el <b>cenotafio románico</b> de San Millán. Desde 1997 es Patrimonio Mundial junto con Yuso.</p>"
+    },
+    "fuentes": [
+     "https://nuevecuatrouno.com/2026/07/22/las-obras-del-monasterio-de-suso-se-retrasan-hasta-finales-de-la-primavera-de-2027/",
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Millán_de_Suso",
+     "https://www.google.com/maps/place/?q=place_id:ChIJLXKW_myrWg0RpM3r-06dgMI",
+     "https://www.openstreetmap.org/?mlat=42.32932&mlon=-2.87277#map=18/42.32932/-2.87277"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-sajazarra",
+   "campos": {
+    "texto": {
+     "general": "<p>Es uno de los castillos mejor conservados de La Rioja. El actual es <b>del siglo XV</b> —en 1463, siendo su dueño Alfonso de Saavedra, estaba en obras—, levantado sobre otro de los siglos XII y XIII, cuando Sajazarra formaba parte de una importante línea defensiva. Entre 1466 y 1484 fue su señor Lope Sánchez de Otalora, y a finales de ese siglo la villa pasó a ser señorío de los <b>Velasco</b>, que lo usaron como residencia y palacio y lo disputaron con los Manrique de Lara.</p><p>Tiene planta rectangular, con una <b>torre del homenaje</b> en el centro rodeada por un recinto, y una sala abovedada adosada al muro norte. La torre lleva <b>torreones octogonales</b> en las esquinas, y el recinto, cubos en los ángulos y otros dos junto a la puerta sur, de arco apuntado; <b>matacanes corridos</b> coronan torre, torreones y puerta.</p><p>La torre se desplomó en <b>1956</b> y su propietario la reconstruyó en 1970-1971, con sus cuatro plantas. Es de <b>propiedad privada</b> y desde 1973 alberga una bodega, así que se ve por fuera.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Sajazarra"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-rioja",
+   "campos": {
+    "texto": {
+     "general": "<p>El museo provincial de Logroño se creó por decreto en 1963 y abrió en <b>1971</b>. Ocupa el <b>palacio de Espartero</b>, construido en 1752 por orden de Pedro Ruiz de la Porta, regidor perpetuo de la ciudad. Su nombre le viene del general <b>Baldomero Espartero</b>, que vivió en él desde 1856 hasta su muerte en 1879. Declarado monumento en 1962, el edificio se reformó y amplió en más de 3.000 metros cuadrados en una larga obra que no terminó hasta 2012.</p><p>El recorrido mezcla arqueología y arte para contar la historia de La Rioja desde los <b>bifaces prehistóricos</b> (hacia el 500.000 a.C.) hasta la pintura del siglo XIX, con secciones de etnografía y arte contemporáneo.</p><p>Entre sus piezas destacan la <b>Venus de Herramélluri</b>, escultura romana del siglo II d.C.; los <b>capiteles mozárabes</b> (siglos IX-XI); y las <b>Tablas de San Millán</b>, puertas de un retablo del monasterio de Suso pintadas por ambas caras a finales del siglo XIV. Ya en el XIX, cuadros como la <i>Muerte de Baldomero Espartero</i> de José Nin y Tudó (1879), que recuerda al antiguo vecino de la casa.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Museo_de_La_Rioja",
+     "https://www.google.com/maps/place/?q=place_id:ChIJPSzWjkerWg0RY2dWeg3HOoE"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-clavijo",
+   "campos": {
+    "texto": {
+     "general": "<p>Sobre un peñasco que domina los valles al sur de Logroño, el castillo de Clavijo se adapta a la roca con una planta alargada; su muralla recorría toda la formación rocosa y rodeaba también el pueblo. Se fecha en torno al <b>siglo X u XI</b>, aunque no se sabe con seguridad si lo construyeron cristianos o musulmanes: un estudio del arquitecto Julio Sabrás apunta a obras musulmanas de los siglos IX y X.</p><p>Está levantado en mampostería poco trabajada, con piedra de los alrededores. Se conservan la muralla, una <b>puerta con arco de herradura</b>, a la que se llega por un camino empinado desde el pueblo, y junto a ella la torre del homenaje, hoy muy deteriorada.</p><p>Su nombre está unido a la <b>batalla de Clavijo</b>, en la que, según la leyenda, el apóstol <b>Santiago</b> ayudó a las tropas de <b>Ramiro I de Asturias</b>, refugiadas en el monte Laturce, frente a las de Abderramán II. Es un relato legendario, ligado al llamado Voto de Santiago. Hoy el castillo pertenece al Gobierno de La Rioja.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Clavijo"
+    ]
+   }
+  },
+  {
+   "id": "aguas-tuertas",
+   "campos": {
+    "texto": {
+     "general": "<p>Aguas Tuertas es un amplio llano de alta montaña, a unos 1.600 metros de altitud, en la cabecera del valle de Hecho y dentro del término de Ansó, por el que el río Aragón Subordán serpentea en meandros (de ahí el nombre de «aguas torcidas»). En medio de ese paisaje, que parece un jardín cuidado por las vacas y los caballos que pastan, se alza un <b>dolmen pirenaico de más de 4.500 años</b>, del tercer milenio antes de Cristo.</p><p>Es un sepulcro de una sola cámara, de unos 2,20 metros de largo: tres losas verticales de arenisca y conglomerado, abiertas al noroeste, sostienen una gran <b>losa de cubierta</b> de 2 por 2,7 metros, y otra más pequeña cierra el fondo. Del túmulo no queda nada. Martín Almagro estudió la zona en los años cuarenta, y desde 1972 Teresa Andrés localizó nuevos megalitos.</p><p>No está solo: el valle de Guarrinza, por el que se sube, es la zona con más dólmenes de Aragón, y en él se conservan otros monumentos de piedra como un <b>crómlech</b>, un círculo de piedras hincadas.</p>"
+    },
+    "fuentes": [
+     "https://www.senditur.com/es/ruta/aguas-tuertas/",
+     "https://www.romanicoaragones.com/Colaboraciones/2010-06-Guarrinza.pdf",
+     "https://nominatim.openstreetmap.org/",
+     "https://es.wikipedia.org/wiki/Dolmen_de_Aguas_Tuertas",
+     "https://revistas.iea.es/index.php/BLK/article/view/845/842"
+    ]
+   }
+  },
+  {
+   "id": "santiago-de-aguero",
+   "campos": {
+    "texto": {
+     "general": "<p>A unos 700 metros de Agüero, al pie de los mallos, se levanta una iglesia románica del siglo XII tan grande como misteriosa: Santiago de Agüero <b>quedó inacabada</b>. Se proyectó como una gran iglesia de cruz latina con tres ábsides semicirculares, pero la nave nunca llegó a construirse y la obra se cerró deprisa, sin completar el proyecto original: lo que hoy vemos es un templo corto, formado por el crucero y la cabecera. Su advocación recuerda la cercanía del Camino de Santiago. Un estudio de José Luis Bozal basado en cientos de marcas de cantero propone que se empezó hacia 1120 y se cerró hacia 1143-1147.</p><p>Su escultura es obra del taller del llamado <b>Maestro de Agüero</b>, el mismo que trabajó en el claustro de San Juan de la Peña. El <b>tímpano</b> de la portada muestra la <b>Adoración de los Magos</b>. En la portada hay también escenas de músicos y bailarinas; una de ellas, probablemente <b>Salomé</b>, danza ante los músicos, y al otro lado una ménsula muestra a una mujer devorada por una bestia infernal.</p><p>Fue declarada <b>monumento nacional en 1920</b>.</p>"
+    },
+    "fuentes": [
+     "https://www.romanicoaragones.com/Colaboraciones/Aguero-Bozal.pdf",
+     "https://mail.sheela-na-gig.org/zxAguero.htm",
+     "https://es.wikipedia.org/wiki/Real_Monasterio_de_San_Juan_de_la_Pe%C3%B1a",
+     "http://www.wikidata.org/entity/Q43081206",
+     "https://nominatim.openstreetmap.org/",
+     "https://es.hispanopedia.com/wiki/Ag%C3%BCero_(Huesca)"
+    ],
+    "ver_alli": [
+     "La portada, con el tímpano de la Adoración de los Magos y los relieves de músicos y bailarinas.",
+     "La cabecera con sus tres ábsides.",
+     "Exterior libre; los mallos de Agüero, al lado."
+    ]
+   }
+  },
+  {
+   "id": "santuario-de-salas",
+   "campos": {
+    "texto": {
+     "general": "<p>Según la tradición, la reina <b>Sancha</b>, esposa de Alfonso II, edificó hacia <b>1200</b> este santuario a las afueras de Huesca para una imagen de la Virgen muy venerada, aunque los documentos de la época no la mencionan. Las obras seguían en 1206 y acabaron antes de 1212. El templo románico tenía tres naves y una techumbre de madera pintada.</p><p>La fama de la Virgen de Salas llegó lejos: <b>Alfonso X el Sabio</b> le dedicó alrededor de <b>una veintena de milagros</b> en las <b>Cantigas de Santa María</b>, la mayoría curaciones y resurrecciones, y llegaban peregrinos desde Daroca, Molina o Valencia. En 1367 se terminó un retablo de plata de Bartolomé Tuxó, del que quedan siete medallones en el Museo Diocesano.</p><p>En <b>1722</b> el arquitecto José Sofí derribó la iglesia románica para levantar la barroca actual, de una sola nave con capillas y un cimborrio elíptico, pero respetó la <b>fachada románica</b> y parte de los muros. La portada tiene seis arquivoltas, y sobre ella se abre un óculo de más de tres metros, probablemente un antiguo rosetón. Dentro se veneran la Virgen de Salas, talla románica de finales del siglo XII, y la Virgen de la Huerta, del XIV.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Santuario_de_Nuestra_Se%C3%B1ora_de_Salas",
+     "https://www.wikidata.org/wiki/Q43090995",
+     "https://revistas.iea.es/index.php/ARG/article/view/1810/1806",
+     "https://revistas.iea.es/index.php/ALZ/article/view/283/282"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-nuevo-de-san-juan-de-la-pena",
+   "campos": {
+    "texto": {
+     "general": "<p>Tras los devastadores incendios de 1494 y, sobre todo, de <b>1675</b>, que dejó inhabitable el monasterio viejo bajo la roca, los monjes decidieron levantar uno nuevo en una <b>meseta más arriba</b> de la montaña: el <b>Monasterio Nuevo</b> o Alto. La comunidad se trasladó en 1682 y las obras principales se hicieron entre 1693 y 1714, con el arquitecto Miguel Jiménez; el proyecto era tan ambicioso que nunca llegó a completarse.</p><p>Lo más llamativo es la fachada de su <b>iglesia barroca</b>, de abundante decoración vegetal, con imágenes de tres santos muy ligados a la comunidad. Los monjes vivieron aquí hasta la exclaustración de <b>1835</b>. Declarado monumento nacional en 1923, el conjunto se restauró a finales del siglo XX y hoy alberga una hospedería y dos centros de interpretación, uno del monasterio y otro del reino de Aragón.</p><p>El <b>Centro de Interpretación del Reino de Aragón</b>, en la iglesia, proyecta un audiovisual sobre la historia del conjunto en pantallas adaptadas a la arquitectura del templo. Un <b>suelo de cristal</b> permite ver los restos de las antiguas dependencias del propio monasterio. Es el complemento natural de la visita al monasterio viejo, considerado por la tradición la cuna del reino de Aragón.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Real_Monasterio_de_San_Juan_de_la_Pe%C3%B1a",
+     "https://www.spain.info/es/lugares-interes/centro-interpretacion-reino-aragon/",
+     "https://www.wikidata.org/wiki/Q43081904",
+     "https://www.enciclopedia.cat/gran-enciclopedia-catalana/sant-joan-de-la-penya"
+    ]
+   }
+  },
+  {
+   "id": "concatedral-de-monzon",
+   "campos": {
+    "texto": {
+     "general": "<p>Monzón pasó a manos cristianas en <b>1089</b>, y hay noticia de que su primer templo se consagró en <b>1098</b>. Sobre él se levantó, entre los siglos XII y XIII, la iglesia románica actual, que comparte con Barbastro la sede de la diócesis de Barbastro-Monzón; antes fue parroquia y colegiata.</p><p>En la Edad Media acogió varias veces las <b>Cortes</b> del reino de Aragón y de la Corona, que se celebraban a menudo en Monzón. Por dentro conserva la pureza del románico: tres naves de altura casi igual, en planta de salón, con <b>bóvedas de cañón</b> —apuntada la central— sobre enormes pilares, un crucero de nervaduras y tres ábsides. Su sobriedad se ha relacionado con la influencia cisterciense del cercano castillo templario.</p><p>En el siglo XVII, durante las guerras con Francia, se perdió el claustro románico, del que queda un arco semienterrado en la plaza. De ese siglo son también la cripta barroca y la <b>torre barroco-mudéjar</b> de ladrillo, levantada sobre el crucero, con un cuerpo cuadrado y dos octogonales. A los pies se abren tres capillas de distintas épocas; la del bautismo es gótica.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Concatedral_de_Santa_Mar%C3%ADa_del_Romeral_(Monz%C3%B3n)",
+     "https://www.wikidata.org/wiki/Q2942734",
+     "https://www.spain.info/es/lugares-interes/catedral-santa-maria-romeral/"
+    ]
+   }
+  },
+  {
+   "id": "dolmen-tella",
+   "campos": {
+    "texto": {
+     "general": "<p>Encaramado a <b>1.241 metros de altitud</b>, con los grandes macizos del Pirineo enfrente, el dolmen de Tella —también llamado de la Piedra de Vasar o de la Losa de la Campa— es un sepulcro megalítico del Neolítico en perfecto estado. Unos pocos bloques de piedra, colocados en pie y cubiertos por una gran losa, formaban la cámara funeraria donde aquellas comunidades de pastores enterraban a sus muertos.</p><p>Se identificó en <b>1954</b> y lo excavó el arqueólogo <b>Antonio Beltrán</b>, que encontró en su interior restos de un cráneo y dientes humanos. La cámara está prácticamente intacta, aunque el túmulo de tierra y piedras que la envolvía casi ha desaparecido.</p><p>Está junto al pueblo de Tella, en el municipio de Tella-Sin (Sobrarbe), a las puertas del valle de Añisclo y del Parque Nacional de Ordesa.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Dolmen_de_Tella",
+     "https://nominatim.openstreetmap.org/",
+     "https://es.hispanopedia.com/wiki/Dolmen_de_Tella"
+    ]
+   }
+  },
+  {
+   "id": "losa-mora",
+   "campos": {
+    "texto": {
+     "general": "<p>En un collado de la sierra de Guara, a unos <b>1.020 metros de altitud</b>, junto al camino que une Rodellar con los pueblos deshabitados de Otín y Nasarre, se levanta el dolmen de la Losa de la Mora, también llamado dolmen de Rodellar. Tres grandes piedras calizas en pie sostienen <b>una enorme losa de cubierta</b> de unos 2,8 por 2,6 metros, que es la que le da nombre; las rocas se trajeron del Tozal de Llastras, a unos 500 metros. La cámara, casi cuadrada, de 1,8 por 1,9 metros, se abre al este.</p><p>Se construyó hacia el <b>3000 a. C.</b>, en el Neolítico. Las piedras del túmulo que lo cubría aparecen dispersas en un círculo de unos 12 metros. Lo excavó <b>Martín Almagro</b> en 1935 y 1936, y encontró hachas pulidas, puntas de flecha, útiles de sílex y restos humanos de varios individuos: aquí se enterraba en colectivo.</p><p class=\"dato\"><span>¿Sabías que…?</span>Una leyenda local cuenta que un rey moro, enamorado de una princesa cristiana que murió al huir a caballo, levantó esta tumba en su honor.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Dolmen_Losa_de_la_Mora",
+     "https://nominatim.openstreetmap.org/",
+     "https://turismosomontano.es/en/to-roll/places-with-history/dolmen-of-la-losa-mora"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-marcuello",
+   "campos": {
+    "texto": {
+     "general": "<p>Encaramado en un espolón sobre los <b>Mallos de Riglos</b>, Marcuello formaba con Loarre, Agüero, Murillo y Ayerbe el gran grupo de castillos del Prepirineo central aragonés; en los documentos antiguos aparece como «Marcorllo» o «Mequrlo». Lo fundó muy probablemente <b>Sancho Ramírez</b> antes de <b>1074</b>, cuando ya lo custodiaba Pedro Sánchez, que lo tuvo hasta 1105. A comienzos del siglo XII lo gobernó la reina viuda Berta, y entre 1114 y 1160 su tenente fue Sancio Enecones.</p><p>Su emplazamiento supera incluso al de Loarre en visibilidad: desde aquí se dominaba toda la salida del Gállego hacia la llanura. Sobre la meseta del espolón quedan las ruinas de la torre, un lienzo de muralla de mampostería y <b>dos iglesias románicas</b>.</p><p>La torre fue un <b>donjón cuadrado de 11 metros de lado</b> y cinco plantas, de sillería, algo insólito en el siglo XI. Hoy solo se mantiene en pie una pared, con saeteras en sus tres plantas superiores, y fragmentos de las laterales. En 1488 aún vivía gente aquí, pero sus vecinos fueron bajando a Sarsamarcuello y Linás de Marcuello; en 1610 estaba deshabitado y en 1808 ya arruinado.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Marcuello",
+     "https://www.wikidata.org/wiki/Q5757427"
+    ]
+   }
+  },
+  {
+   "id": "casa-natal-de-goya-fuendetodos",
+   "campos": {
+    "texto": {
+     "general": "<p>En esta casa de pueblo de tres pisos, unidos por una escalera, nació <b>Francisco de Goya</b> el <b>31 de marzo de 1746</b>. Durante siglos pasó por muchas manos, y llegó a ser la posada del pueblo.</p><p>En <b>1913</b> el pintor <b>Ignacio Zuloaga</b>, gran admirador de Goya, y otros artistas la identificaron y colocaron una lápida que dice: «En esta humilde casa nació para honor de la patria». Zuloaga la compró en 1916.</p><p>Declarada monumento en 1982, se restauró y abrió como museo en <b>1985</b>. Hoy muestra muebles y enseres de estilo aragonés, junto con reproducciones de obras y documentación sobre el pintor. La gestiona un consorcio formado por el Ayuntamiento de Fuendetodos y la Diputación Provincial de Zaragoza.</p><p>Desde 1996, año del 250 aniversario del nacimiento del pintor, tiene al lado una sala de exposiciones temporales.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Casa_natal_de_Goya"
+    ],
+    "ver_alli": [
+     "La lápida de la fachada.",
+     "Los tres pisos de la casa, unidos por una escalera.",
+     "Los muebles y enseres aragoneses del interior.",
+     "La sala de exposiciones temporales, al lado."
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-mesones-de-isuela",
+   "campos": {
+    "texto": {
+     "general": "<p>Sobre un pueyo rocoso que domina Mesones de Isuela se levanta uno de los castillos de <b>mayor superficie de Aragón</b>. El lugar aparece por primera vez en 1175, cuando Sancha de Abiego lo donó a los templarios, que lo conservaron hasta el fin de la orden; en el siglo XIV pasó a los Fernández de Luna. El edificio actual lo mandó levantar el arzobispo de Zaragoza <b>Lope Fernández de Luna</b>, que murió en 1382 sin verlo acabado; lo legó a su hermana Toda y después pasó a los Ximénez de Urrea.</p><p>Es de piedra caliza, de planta rectangular, con <b>seis torres</b> —una en cada esquina y dos en el centro de los lados mayores—, redondas por fuera y poligonales por dentro. Su regularidad y la unión de espacios defensivos y residenciales lo relacionan con castillos góticos de modelo italiano como Valderrobres o Mora de Rubielos. La parte oriental era la defensiva; la occidental, el palacio.</p><p>Una de las torres guarda la <b>capilla</b>, con techumbre de madera mudéjar y <b>pinturas italogóticas</b> al temple, ampliada en 1680. En la Sala Mayor, la estancia más grande, aparece el escudo de don Lope en la clave de una de sus puertas. Fue declarado monumento nacional en 1931.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Mesones_de_Isuela"
+    ]
+   }
+  }
+ ]
+}

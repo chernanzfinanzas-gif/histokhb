@@ -1,0 +1,26 @@
+{
+ "zona": "Remates 6",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "acueducto-de-noain",
+   "campos": {
+    "anio": 1790
+   }
+  },
+  {
+   "id": "pozo-soton-y-la-mineria-asturiana",
+   "campos": {
+    "anio": 1918
+   }
+  },
+  {
+   "id": "pena-escrita-fuencaliente",
+   "campos": {
+    "fuentes": [
+     "https://www.spain.info/en/places-of-interest/prehistoric-cave-pena-escrita/"
+    ]
+   }
+  }
+ ]
+}
