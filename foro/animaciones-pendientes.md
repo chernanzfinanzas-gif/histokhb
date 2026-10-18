@@ -62,7 +62,7 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] ant2-7 · Hatshepsut, la mujer faraón
 - [ ] ant2-9 · Tutankamón
 - [ ] ant2-10 · Ramsés II y el primer tratado de paz
-- [ ] ant2-11 · La erupción de Thera
+- [x] ant2-11 (Gemini, 18-oct) · La erupción de Thera
 - [ ] ant2-12 · Troya, entre el mito y la historia
 - [ ] ant2-13 · Kerma, el reino de Nubia
 - [ ] ant2-14 · Fu Hao y los huesos oraculares
