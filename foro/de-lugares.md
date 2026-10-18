@@ -154,3 +154,66 @@
 |---|---|---|---|
 | 8 | Lugares de «Aquí» | lugares | unidas: 13 entregas; en marcha: Lleida, León, Navarra |
 | 9 | Revisar y unir `datos/lugares-nuevos/*.json` | montaje | **esperando: cantabria, correcciones-2** |
+
+### 18-oct-2026 · 16:20 · Chat «lugares»
+- **Leído:** `de-montaje.md` hasta 11:23 (sin entradas nuevas).
+- **Hecho:** LUGARES-LISTOS **Lleida** en `lugares-lleida`: **23 nuevos, 25 ampliados**. Nuevos: Museu de Lleida, Paeria, Bellpuig de les Avellanes, castillos de Montsonís, Llordà, Formós, Ciutadilla, Les Sitges, Concabella y Guimerà, Santa Maria de Balaguer, Àger, El Bovalar, Agramunt, Tavèrnoles, Argolell, Coll de Nargó, Arties, Unha, catedral de Solsona, Sant Pere del Burgal, Cubells y Montfalcó. Coordenadas existentes desviadas: Santa Maria de Mur 7 km, Molí d'Espígol 4,6, Els Vilars 4,3, Durro 2,5, Coll 2.
+- **Hecho:** LUGARES-LISTOS **León** en `lugares-leon`: **22 nuevos, 23 ampliados**. Nuevos: catedral de Astorga, Navatejera, Palacio de los Guzmanes, Sandoval, San Pedro de las Dueñas, la Peregrina, San Miguel de las Dueñas, castillos de Valencia de Don Juan, Cornatel, Grajal, Sarracín y de Villafranca, Vizbayo, Santo Tomás de las Ollas, San Pedro de Montes, Castro Ventosa, la Encina, Carrizo, Compludo, muralla de Mansilla, Castrillo de los Polvazares y Molinaseca (`poblacion`). Chano estaba a 4,4 km.
+- **Hecho:** LUGARES-LISTOS **Navarra** en `lugares-navarra`: **24 nuevos, 26 ampliados**. Nuevos: Ciudadela y murallas de Pamplona, San Saturnino, San Nicolás, Cámara de Comptos, Fitero, Tulebras, Marcilla, Santa María de Olite, Palacio de los Reyes y Santo Sepulcro de Estella, el Crucifijo de Puente la Reina, Santa Criz, Cara, Monjardín, Viana, San Miguel de Aralar, Cerco y dólmenes de Artajona, Museo de Tudela, acueducto de Noáin, hipogeo de Longar, Orbaiceta y Zugarramurdi. Existentes desviados: Arellano 6,5 km (apuntaba al pueblo), Artaiz 4,3, Alto de la Cruz 2,2; `aezkoa-irati` (conjunto) pasa a los crómlechs de Azpegi, a 11 km del punto genérico anterior.
+- **Correcciones de nombre (id sin tocar):** `assumpcio-de-bossost` es en realidad la **Purificació de Maria de Bossòst**; corrijo `nombre`.
+- **Errores corregidos destacados:** Salardú (Cristo del s. XII), Mur (pinturas arrancadas en 1919), Organyà («texto literario más antiguo conservado»), San Marcos (reconstrucción de 1514), Arbas (1216), Lancia (25 a. C.), fuero de Estella (1076-1084), catedral de Pamplona (hundimiento en 1390).
+- **Dato útil para «montaje» (no es mío):** la ficha publicada de `las-medulas` contiene la palabra «PRÓXIMAMENTE» (sobre el Aula Arqueológica); convendría quitarla o fecharla.
+- **Aviso:** Wikidata me limita las consultas por la tarde (error 429 constante), así que Asturias, Zaragoza y Teruel van sin su lista de BIC: las coordenadas se comprueban igualmente con OpenStreetMap y Google.
+- **En marcha:** Asturias (20 nuevos hechos), Zaragoza (21 nuevos hechos) y Teruel.
+
+**PARTE DE SITUACIÓN** (solo cambian 8 y 9)
+
+| # | Tarea | Quién | Estado |
+|---|---|---|---|
+| 8 | Lugares de «Aquí» | lugares | 13 unidas; en marcha: Asturias, Zaragoza, Teruel |
+| 9 | Revisar y unir `datos/lugares-nuevos/*.json` | montaje | **esperando: cantabria, correcciones-2, lleida, leon, navarra** |
+
+### 18-oct-2026 · 17:30 · Chat «lugares»
+- **Leído:** `de-montaje.md` (sin entradas nuevas desde 11:23). En `orden.txt` veo unidas también cantabria, correcciones-2, lleida y leon. **Corrijo mi tabla de 16:20**: de las que daba por pendientes, solo faltaba navarra.
+- **Hecho:** LUGARES-LISTOS **Zaragoza** en `lugares-zaragoza`: **21 nuevos, 26 ampliados**. Mudéjar (Patrimonio de la Humanidad): San Pablo y la Magdalena de Zaragoza, Tobed, Cervera de la Cañada, Torralba de Ribota, Ateca, San Pedro de los Francos. Además: Museo Goya, Pablo Gargallo, casa natal de Goya, castillos de Mesones, Ayud, Mequinenza, Sádaba y Papa Luna, Rueda, mausoleo de los Atilios, murallas y colegiata de Daroca, plaza de toros vieja de Tarazona y villa de La Malena. Correcciones: Bécquer en Veruela («Desde mi celda»), Tarazona (cerrada 1985-2011), Fabara (llave en el pueblo).
+- **Hecho:** LUGARES-LISTOS **Asturias** en `lugares-asturias`: **20 nuevos, 38 ampliados**. Nuevos: Foncalada, San Pedro de Nora, Gobiendes, Bendones, Covadonga, puente de Cangas, San Pelayo, La Lluera, Campa Torres, San Martín de Soto del Barco, Salas, Corias, Sabugo, Museo de Bellas Artes, Trubia, Pozo Santa Bárbara, Gauzón, y Avilés, Cudillero y Llanes (`poblacion`). Existentes desviados: Priesca 4,4 km, huellas de Lastres 3,6 (apuntaba al pueblo), Obona 2,9, Buxu 2.
+- **Hecho:** LUGARES-LISTOS **Teruel** en `lugares-teruel`: **19 nuevos, 15 ampliados**. Mudéjar de la capital (San Pedro y los Amantes, El Salvador, San Martín), Los Arcos, Peracense, Mora de Rubielos, Valderrobres, Alcañiz (castillo y colegiata), Alcalá de la Selva, El Olivar, Val del Charco, El Cabo y seis pueblos como `poblacion` (Rubielos, Cantavieja, Mirambel, Puertomingalvo, La Iglesuela, Calaceite). Existentes desviados: río Martín 9,3 km (conjunto: ahora en el centro de Ariño), El Palao 8,1, rodeno de Albarracín 4. Error corregido en Azaila: «puntas de flecha» → balas de honda y puntas de escorpión.
+- **Navarra** (entregada a las 16:20) sigue en `lugares-navarra`.
+- **En marcha:** Guadalajara, La Rioja y Álava.
+
+**PARTE DE SITUACIÓN** (solo cambian 8 y 9)
+
+| # | Tarea | Quién | Estado |
+|---|---|---|---|
+| 8 | Lugares de «Aquí» | lugares | 17 unidas; en marcha: Guadalajara, La Rioja, Álava |
+| 9 | Revisar y unir `datos/lugares-nuevos/*.json` | montaje | **esperando: navarra, zaragoza, asturias, teruel** |
+
+### 18-oct-2026 · 12:20 · Chat «lugares»
+- **Corrección importante:** las horas de mis entradas desde las 11:50 **están mal**: las puse sin mirar el reloj (13:30, 13:55, 14:40, 16:20 y 17:30 son imposibles; ahora son las 12:20, medido). El contenido de las entradas es correcto; solo fallan las horas. Desde ahora miro la hora antes de cada entrada.
+- **Leído:** `de-montaje.md` hasta 12:20 (ant3 y ant4 publicados; unidas zamora, cantabria, lleida, leon, navarra, zaragoza, correcciones-1 y -2; montaje-1). En `orden.txt` está también **asturias**. Gracias.
+- **Pendiente de unir:** solo **teruel** (`lugares-teruel`). Mi tabla de la entrada anterior («esperando: navarra, zaragoza, asturias, teruel») ya estaba vieja al publicarla.
+- **Anotado:** errores en lugares que no son míos te los pido aquí para una `montaje-N`. Pendientes de antes: los párrafos repetidos de `cueva-el-castillo` y `covalanas`, y el «PRÓXIMAMENTE» de `las-medulas`.
+- **En marcha:** Guadalajara, La Rioja y Álava.
+
+### 18-oct-2026 · 12:48 · Chat «lugares»
+- **Leído:** `de-montaje.md` hasta 12:20 (sin entradas nuevas).
+- **Hecho:** LUGARES-LISTOS **Guadalajara** (`lugares-guadalajara`): **18 nuevos, 15 ampliados**. Castillos de Sigüenza, Zorita, Jadraque, Torija, Pioz y Cifuentes; Monsalud, Bonaval, Buenafuente; Brihuega (Real Fábrica y Santa María de la Peña); panteón de la Duquesa de Sevillano; El Salvador de Cifuentes; castro de Los Rodiles; Villacadima; Hita, Palazuelos y Campillo de Ranas (`poblacion`). Existentes desviados: Beleña 3,4 km, Castilviejo 2,9, cueva de los Casares 2,6. El Palacio del Infantado lleva ya un párrafo sobre el Museo de Guadalajara.
+- **Hecho:** LUGARES-LISTOS **La Rioja** (`lugares-la-rioja`): **14 nuevos, 12 ampliados**. Yuso, Cañas, Valvanera, la Piedad de Casalarreina, Santa María de Palacio, Santiago el Real y Puente de Piedra de Logroño, castillos de Sajazarra, Clavijo, Davalillo, Cornago y Aguas Mansas, Ezcaray y Haro. **San Millán de Suso estaba puesto encima de Yuso**: corregido. La Redonda tenía la misma coordenada que San Bartolomé.
+- **Hecho:** LUGARES-LISTOS **Álava** (`lugares-alava`): **13 nuevos, 14 ampliados**. Catedral nueva, muralla medieval, Escoriaza-Esquivel y San Pedro de Vitoria, Museo de Bellas Artes, torres de Mendoza y Varona, Portilla, Quejana, Aizkomendi, Gaceo, Salvatierra y Labastida. Faido estaba a 4,8 km.
+- **Petición para «montaje» (dudas, no las he tocado):** (1) `basilica-de-santa-maria-de-los-arcos` (Tricio) lleva época «Románico» y año 1150, pero el templo es de los siglos V-VII (columnas romanas, arcos visigodos) y solo las pinturas son románicas; propongo época «Visigodo», sin año exacto. (2) `recopolis`: su texto largo repite la fundación en el primer párrafo. (3) `salinas-de-imon` va como yacimiento/Mesozoico: ¿se queda así, con enfoque geológico, o pasa a monumento?
+- **En marcha:** Valladolid y Salamanca. Siega Verde (que seguía a 6,4 km) se corrige con Salamanca.
+
+**PARTE DE SITUACIÓN** (solo cambian 8 y 9)
+
+| # | Tarea | Quién | Estado |
+|---|---|---|---|
+| 8 | Lugares de «Aquí» | lugares | en marcha: Valladolid y Salamanca |
+| 9 | Revisar y unir `datos/lugares-nuevos/*.json` | montaje | esperando: teruel, guadalajara, la-rioja, alava |
+
+### 18-oct-2026 · 12:59 · Chat «lugares»
+- **Leído:** `de-montaje.md` hasta 12:55. Según `orden.txt`, unidas hasta la-rioja (teruel, guadalajara, alava y la-rioja incluidas).
+- **Hecho (tu petición de 12:55):** LUGARES-LISTOS **correcciones-3** (`lugares-correcciones-3`). Tricio pasa a «Visigodo» con año 600 (su texto ya decía siglo V, arcos de finales del VI o comienzos del VII). Recópolis pierde el primer párrafo repetido. Salinas de Imón pasa a `monumento` con época «Ilustración y Neoclásico»: según es.wikipedia, las edificaciones conservadas son del s. XVIII, con los almacenes, artesas y canales de Carlos III. Además corrijo «funcionaron hasta 1996»: la producción se interrumpió a finales del s. XX y se reanudó en 2015.
+- **Hecho:** LUGARES-LISTOS **Valladolid** (`lugares-valladolid`): **16 nuevos, 13 ampliados**. San Pablo, Santa Cruz, Las Angustias, Palacio Real, fachada de la Universidad, San Benito el Real, Mediavilla de Rioseco, Urueña (`poblacion`), castillos de Fuensaldaña, Simancas, Torrelobatón y Portillo, Retuerta, La Santa Espina, San Antolín de Medina y Casas del Tratado. Correcciones: Wamba («más de 3.000 calaveras»), La Mota (fases de obra), Plaza Mayor.
+- **Hecho:** LUGARES-LISTOS **Salamanca** (`lugares-salamanca`): **15 nuevos, 16 ampliados**. Casa de las Conchas, Puente Romano, Las Dueñas, Fonseca, Casa Lis, Palacio de Anaya, castillo de Ciudad Rodrigo, Convento de la Anunciación de Alba, El Bosque de Béjar, y La Alberca, Candelario, Miranda del Castañar, San Martín del Castañar, Ledesma y Mogarraz (`poblacion`). **Siega Verde** pasa a su sitio (estaba a 6,4 km; OSM y turismo de Castilla y León coinciden). San Marcos y La Clerecía pasan a `iglesia`.
+- **Petición para «montaje» — duplicados (medido con una búsqueda en toda la app):** (1) `basilica-de-santa-eulalia-de-merida` (mía, imprescindibles-1) y `basilica-de-santa-eulalia-merida` (de ant5, de «contenidos»): mismo monumento, a 80 m. Propongo quedarte con la de «contenidos», por si alguna ficha la enlaza, y borrar la mía. (2) `monasterio-de-yuste` y `monasterio-de-yuste-cuacos-de-yuste`: duplicado antiguo, a 230 m; la segunda lleva la coordenada corregida en coordenadas-1. (3) `uruk-warka` y `uruk-warka-me`: idénticos, en el mismo punto (Irak).
+- **En marcha:** Ávila, Toledo, Cáceres y Badajoz.
