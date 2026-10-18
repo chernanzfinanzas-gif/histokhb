@@ -1,0 +1,908 @@
+{
+ "zona": "Oceanía",
+ "nuevos": [
+  {
+   "id": "antigua-casa-de-gobierno-de-parramatta",
+   "nombre": "Antigua Casa de Gobierno de Parramatta",
+   "provincia": "Australia",
+   "comarca": "Parramatta (Sídney)",
+   "lat": -33.8121,
+   "lon": 150.9974,
+   "tipo": "monumento",
+   "estilo": "Georgiano colonial",
+   "epoca": "Oceanía colonial",
+   "anio": 1799,
+   "regiones_sincronia": [
+    "Australia"
+   ],
+   "texto": {
+    "general": "<p>En Parramatta, la segunda colonia británica de Australia, el gobernador <b>John Hunter</b> levantó en <b>1799</b> una casa de ladrillo que hoy forma las tres habitaciones delanteras de la <b>Antigua Casa de Gobierno</b>. Se amplió en 1815 y el gobernador <b>Lachlan Macquarie</b> la completó hacia 1818, con un pórtico atribuido al arquitecto convicto Francis Greenway.</p><p>Se considera el <b>edificio público más antiguo de Australia</b>. Fue la residencia de campo de los gobernadores de Nueva Gales del Sur y es un buen ejemplo del estilo georgiano colonial, sencillo y simétrico. Desde 2010 es <b>Patrimonio de la Humanidad</b> como uno de los once lugares de convictos australianos.</p>"
+   },
+   "ver_alli": [
+    "Está dentro del parque de Parramatta, a unos 25 km al oeste del centro de Sídney.",
+    "Se visita con guía y conserva muebles de la época de Macquarie."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Old_Government_House,_Parramatta",
+    "https://www.google.com/maps/place/?q=place_id:ChIJeUoR4-CiEmsRiJk1m-TrJ90",
+    "https://www.openstreetmap.org/?mlat=-33.8121&mlon=150.9974#map=17/-33.8121/150.9974"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "burrungkuy-nourlangie",
+   "nombre": "Burrungkuy (Nourlangie) y el abrigo de Anbangbang",
+   "provincia": "Australia",
+   "comarca": "Parque Nacional de Kakadu (Territorio del Norte)",
+   "lat": -12.8639,
+   "lon": 132.8114,
+   "tipo": "yacimiento",
+   "estilo": "Arte rupestre aborigen (estilo de rayos X)",
+   "epoca": "Australia aborigen",
+   "anio": -4000,
+   "regiones_sincronia": [
+    "Australia"
+   ],
+   "texto": {
+    "general": "<p>Bajo la gran roca de <b>Burrungkuy</b> (Nourlangie), en el centro de Kakadu, el abrigo de <b>Anbangbang</b> fue habitado desde hace <b>más de 6.000 años</b>, y quizá de forma ocasional desde hace unos 20.000. Los arqueólogos lo excavaron en 1981.</p><p>Sus paredes guardan uno de los conjuntos de arte rupestre más famosos de Australia. En la estación de lluvias de 1963-1964, el pintor <b>Nayombolmi</b> repintó allí seres ancestrales como <b>Namarrgon</b>, el Hombre Relámpago, en el «estilo de rayos X», que muestra los huesos y órganos por dentro; para el azul usó, según el investigador George Chaloupka, añil de lavandería europeo.</p>"
+   },
+   "ver_alli": [
+    "Un sendero circular lleva desde el aparcamiento por los abrigos pintados hasta un mirador.",
+    "Está a unos 50 km al sur de Ubirr, dentro del mismo parque nacional."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Nourlangie_Rock",
+    "https://www.openstreetmap.org/?mlat=-12.8639&mlon=132.8114#map=17/-12.8639/132.8114"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "wairau-bar-te-pokohiwi",
+   "nombre": "Wairau Bar (Te Pokohiwi o Kupe)",
+   "provincia": "Nueva Zelanda",
+   "comarca": "Bahía Cloudy (Marlborough)",
+   "lat": -41.5093,
+   "lon": 174.0638,
+   "tipo": "yacimiento",
+   "estilo": "Asentamiento polinesio",
+   "epoca": "Pueblos del Pacífico",
+   "anio": 1280,
+   "regiones_sincronia": [
+    "Pacífico"
+   ],
+   "texto": {
+    "general": "<p>En este banco de grava, donde el río Wairau desemboca en la bahía Cloudy, se asentaron hacia <b>1280</b> algunos de los <b>primeros polinesios que llegaron a Nueva Zelanda</b>. Las dataciones modernas sitúan la ocupación entre 1288 y 1300. Lo descubrió en 1939 un escolar, <b>Jim Eyles</b>, y después lo excavó con el arqueólogo Roger Duff.</p><p>Aparecieron 44 esqueletos y unos 2.000 objetos: azuelas de piedra, anzuelos, collares de hueso de <b>moa</b> y huevos enteros de moa usados como recipientes de agua, enterrados con los muertos. Una herramienta de concha tropical lo une a la Polinesia oriental. Desde 2012 es <b>wāhi tapu</b>, lugar sagrado, y el pueblo rangitāne volvió a enterrar allí a sus antepasados.</p>"
+   },
+   "ver_alli": [
+    "La zona de enterramientos es sagrada y está cerrada al público; no hay acceso por carretera.",
+    "Su extremo sur se ve desde el otro lado del río, al final de Wairau Bar Road, a 1,5 km del punto."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Wairau_Bar",
+    "https://www.heritage.org.nz/list-details/9561/Wairau",
+    "https://marlboroughnz.com/explore-marlborough/see-do/heritage-culture-arts/te-pokohiwiwairau-bar-heritage/",
+    "https://www.openstreetmap.org/?mlat=-41.5093&mlon=174.0638#map=17/-41.5093/174.0638",
+    "https://www.google.com/maps/place/?q=place_id:ChIJnbngTuIWOW0RVdLK-ZlSfCA"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "whakarewarewa",
+   "nombre": "Whakarewarewa",
+   "provincia": "Nueva Zelanda",
+   "comarca": "Rotorua",
+   "lat": -38.1611,
+   "lon": 176.2565,
+   "tipo": "poblacion",
+   "estilo": "Pueblo maorí geotermal",
+   "epoca": "Pueblos del Pacífico",
+   "anio": 1325,
+   "regiones_sincronia": [
+    "Pacífico"
+   ],
+   "texto": {
+    "general": "<p>En el valle geotermal de <b>Whakarewarewa</b>, en Rotorua, los maoríes viven desde hace siglos entre fumarolas, pozas hirvientes y géiseres. La fortaleza de <b>Te Puia</b> se ocupó hacia <b>1325</b> y tenía fama de no haber sido tomada nunca en combate.</p><p>Sus habitantes, de los hapū del pueblo <b>tūhourangi</b>, como los <b>ngāti wāhiao</b>, usan el calor de la tierra para calentarse y cocinar. Su lugar de reunión es el marae de Te Pākira, con la casa tallada de Wahiao. En el mismo valle está el géiser <b>Pōhutu</b>, que entra en erupción aproximadamente cada hora y alcanza hasta 30 metros.</p>"
+   },
+   "ver_alli": [
+    "El pueblo sigue habitado: conviene visitarlo con respeto, como una comunidad viva.",
+    "El géiser Pōhutu está en el mismo valle geotermal, en la zona de Te Puia."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Whakarewarewa",
+    "https://www.google.com/maps/place/?q=place_id:ChIJl8Ab_FcnbG0R1_iMCn7Y7JM",
+    "https://www.openstreetmap.org/?mlat=-38.1602&mlon=176.2567#map=17/-38.1602/176.2567"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "yacimiento-agricola-de-kuk",
+   "nombre": "Yacimiento agrícola de Kuk",
+   "provincia": "Papúa Nueva Guinea",
+   "comarca": "Monte Hagen (Tierras Altas Occidentales)",
+   "lat": -5.7825,
+   "lon": 144.33,
+   "tipo": "yacimiento",
+   "estilo": "Campos de cultivo prehistóricos",
+   "epoca": "Pueblos del Pacífico",
+   "anio": -7000,
+   "regiones_sincronia": [
+    "Pacífico"
+   ],
+   "texto": {
+    "general": "<p>En un pantano a unos <b>1.550 metros de altitud</b>, en las montañas de Nueva Guinea, los arqueólogos encontraron canales de drenaje que empezaron a excavarse hace <b>unos 9.000 años</b>. Es una de las pruebas más antiguas del mundo de que la <b>agricultura se inventó varias veces</b> y por separado, no solo en Oriente Próximo.</p><p>Los primeros agricultores de Kuk cultivaban <b>taro</b>, una planta local, y más tarde <b>plátano</b> y <b>caña de azúcar</b>, hace entre 6.900 y 6.400 años. Es <b>Patrimonio de la Humanidad</b> desde 2008.</p>"
+   },
+   "ver_alli": [
+    "Hoy parece un campo verde; los canales antiguos están bajo tierra.",
+    "Está cerca de Monte Hagen. Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Kuk_Swamp",
+    "https://www.google.com/maps/place/?q=place_id:ChIJYY1Q1-2dWWgRWyn9DK_MUoc",
+    "https://www.openstreetmap.org/?mlat=-5.7848&mlon=144.3371#map=17/-5.7848/144.3371"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "lago-mungo",
+   "campos": {
+    "lat": -33.7416,
+    "lon": 143.1275,
+    "estilo": "Enterramientos paleolíticos",
+    "ver_alli": [
+     "Está en el Parque Nacional Mungo, al que se llega por pistas de tierra.",
+     "Desde el mirador de las Murallas de China (Walls of China) se ve la gran duna de la orilla del antiguo lago, donde aparecieron los restos."
+    ],
+    "texto": {
+     "general": "<p>En las orillas de un antiguo lago, hoy seco, se encontraron los restos del «hombre de Mungo» y la «mujer de Mungo», de unos 42.000 años: los restos humanos más antiguos de Australia. La mujer fue incinerada: es uno de los ritos funerarios más antiguos del mundo. Muestran que los antepasados de los aborígenes llegaron a Australia en barcas hace más de 50.000 años. Patrimonio Mundial.</p><p>El geólogo Jim Bowler encontró los restos de la mujer de Mungo en 1968 y los del hombre de Mungo, enterrado con ocre rojo, en 1974. Los lagos de Willandra, de los que forma parte, son Patrimonio de la Humanidad desde 1981.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJXYubDgEN6GoRrKrMDHvrxxI",
+     "https://www.openstreetmap.org/?mlat=-33.7417&mlon=143.1278#map=17/-33.7417/143.1278",
+     "https://en.wikipedia.org/wiki/Lake_Mungo_remains"
+    ]
+   }
+  },
+  {
+   "id": "ubirr-parque-nacional-de-kakadu",
+   "campos": {
+    "estilo": "Arte rupestre aborigen",
+    "ver_alli": [
+     "Un sendero corto recorre los abrigos pintados y sube a un mirador sobre las llanuras inundables.",
+     "Está en el norte del Parque Nacional de Kakadu."
+    ]
+   }
+  },
+  {
+   "id": "uluru-kata-tjuta",
+   "campos": {
+    "lat": -25.345,
+    "lon": 131.0369,
+    "estilo": "Lugar sagrado anangu con arte rupestre",
+    "ver_alli": [
+     "Mejor al amanecer o al atardecer, cuando la roca cambia de color.",
+     "El Centro Cultural Uluṟu-Kata Tjuṯa, a unos 2,5 km al suroeste de la roca, explica la visión anangu."
+    ],
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJI1JibStsIysRIV_Fm03NqEM",
+     "https://www.openstreetmap.org/?mlat=-25.3456&mlon=131.037#map=17/-25.3456/131.037",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ_a5CZrZtIysR0YlNcLWFJ7g"
+    ]
+   }
+  },
+  {
+   "id": "murujuga-peninsula-de-burrup",
+   "campos": {
+    "lat": -20.6362,
+    "lon": 116.788,
+    "estilo": "Petroglifos aborígenes",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJuyPD_KU99isRnwokuemOVNY",
+     "https://www.openstreetmap.org/?mlat=-20.6367&mlon=116.7884#map=17/-20.6367/116.7884"
+    ]
+   }
+  },
+  {
+   "id": "paisaje-cultural-de-budj-bim",
+   "campos": {
+    "lat": -38.0627,
+    "lon": 141.8265,
+    "estilo": "Acuicultura aborigen en piedra volcánica",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJNR_7PEnPzGoRnlbMTXs9db8",
+     "https://www.openstreetmap.org/?mlat=-38.0615&mlon=141.826#map=17/-38.0615/141.826"
+    ]
+   }
+  },
+  {
+   "id": "cuevas-de-naracoorte",
+   "campos": {
+    "lat": -37.0473,
+    "lon": 140.8033,
+    "estilo": "Yacimiento paleontológico en cuevas",
+    "ver_alli": [
+     "El punto marca la cueva Victoria, la de los fósiles; se visita con guía.",
+     "El centro de interpretación Wonambi, con reconstrucciones de la megafauna, está a 1,5 km."
+    ],
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJZeQ3L9Wxy2oRYBvxlmzgDfc",
+     "https://www.openstreetmap.org/?mlat=-37.0473&mlon=140.8033#map=17/-37.0473/140.8033"
+    ]
+   }
+  },
+  {
+   "id": "arte-rupestre-de-kimberley",
+   "campos": {
+    "estilo": "Arte rupestre Gwion Gwion y Wandjina"
+   }
+  },
+  {
+   "id": "arte-rupestre-de-gariwerd-grampians",
+   "campos": {
+    "lat": -37.1394,
+    "lon": 142.7334,
+    "estilo": "Arte rupestre aborigen",
+    "ver_alli": [
+     "El punto marca el abrigo de Bunjil.",
+     "El centro cultural Brambuk, en Halls Gap, a unos 18 km al oeste, organiza visitas."
+    ],
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ0SSst0fi0WoROslN4h0zmHE",
+     "https://www.openstreetmap.org/?mlat=-37.1394&mlon=142.7334#map=17/-37.1394/142.7334"
+    ]
+   }
+  },
+  {
+   "id": "kamay-botany-bay",
+   "campos": {
+    "lat": -34.0046,
+    "lon": 151.2176,
+    "tipo": "monumento",
+    "estilo": "Lugar de memoria del primer contacto",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ0271EY62EmsR6eGsrwujpGI",
+     "https://www.openstreetmap.org/?mlat=-34.0047&mlon=151.2176#map=17/-34.0047/151.2176"
+    ]
+   }
+  },
+  {
+   "id": "the-rocks-y-hyde-park-barracks",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Georgiano colonial",
+    "ver_alli": [
+     "Se combina con la Ópera, en Bennelong Point, y el Real Jardín Botánico.",
+     "El cuartel de Hyde Park está a algo más de 1 km al sureste de The Rocks."
+    ]
+   }
+  },
+  {
+   "id": "opera-de-sidney-bennelong-point",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura moderna expresionista"
+   }
+  },
+  {
+   "id": "port-arthur",
+   "campos": {
+    "estilo": "Penal colonial georgiano y victoriano"
+   }
+  },
+  {
+   "id": "wybalenna",
+   "campos": {
+    "lat": -40.0169,
+    "lon": 147.8828,
+    "estilo": "Asentamiento colonial",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJQ1JS1kQ8LWsRcWZ5h6MafHI",
+     "https://www.openstreetmap.org/?mlat=-40.0169&mlon=147.8827#map=17/-40.0169/147.8827",
+     "https://en.wikipedia.org/wiki/Wybalenna_Aboriginal_Establishment"
+    ]
+   }
+  },
+  {
+   "id": "memorial-de-myall-creek",
+   "campos": {
+    "lat": -29.7798,
+    "lon": 150.7158,
+    "tipo": "monumento",
+    "estilo": "Memorial de reconciliación",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ97CXMi-boWsRetxNnOJVWoo",
+     "https://www.openstreetmap.org/?mlat=-29.78&mlon=150.716#map=17/-29.78/150.716",
+     "https://en.wikipedia.org/wiki/Myall_Creek_massacre"
+    ]
+   }
+  },
+  {
+   "id": "sovereign-hill-y-museo-de-eureka",
+   "campos": {
+    "lat": -37.5771,
+    "lon": 143.866,
+    "tipo": "museo",
+    "estilo": "Museo al aire libre de la fiebre del oro",
+    "ver_alli": [
+     "Se puede buscar oro en el río.",
+     "El Eureka Centre, con la bandera, está a unos 2 km al noreste."
+    ],
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJX7Xhh-JE0WoRy-504jW6tMg",
+     "https://www.openstreetmap.org/?mlat=-37.5792&mlon=143.8657#map=17/-37.5792/143.8657",
+     "https://en.wikipedia.org/wiki/Eureka_Centre"
+    ]
+   }
+  },
+  {
+   "id": "antigua-carcel-de-melbourne",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Penitenciaría victoriana"
+   }
+  },
+  {
+   "id": "museo-nacional-de-australia",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arquitectura contemporánea"
+   }
+  },
+  {
+   "id": "museo-de-los-naufragios-de-fremantle",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo marítimo en edificio colonial"
+   }
+  },
+  {
+   "id": "terrenos-del-tratado-de-waitangi",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Casa georgiana colonial y wharenui maorí"
+   }
+  },
+  {
+   "id": "te-papa-tongarewa",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arquitectura contemporánea",
+    "ver_alli": [
+     "Está en el paseo marítimo de Wellington, a poca distancia a pie del centro."
+    ]
+   }
+  },
+  {
+   "id": "museo-de-auckland",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Neoclásico"
+   }
+  },
+  {
+   "id": "russell-kororareka-y-la-colina-del-masti",
+   "campos": {
+    "lat": -35.2632,
+    "lon": 174.1236,
+    "tipo": "poblacion",
+    "estilo": "Pueblo colonial ballenero",
+    "ver_alli": [
+     "Ferry desde Paihia, junto a Waitangi.",
+     "El punto marca la iglesia de Cristo; la colina del mástil está a 1 km al norte."
+    ],
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJh8PoMmilC20RNH-UJ-mqL7A",
+     "https://www.openstreetmap.org/?mlat=-35.2632&mlon=174.1236#map=17/-35.2632/174.1236",
+     "https://www.google.com/maps/place/?q=place_id:ChIJRwsBtF2lC20RIXcI0cRHYZ8"
+    ]
+   }
+  },
+  {
+   "id": "pa-de-ruapekapeka",
+   "campos": {
+    "lat": -35.4546,
+    "lon": 174.1421,
+    "estilo": "Pā fortificado maorí",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJg9ivBliYC20R20Ve-2fOEYw",
+     "https://www.openstreetmap.org/?mlat=-35.4532&mlon=174.1416#map=17/-35.4532/174.1416"
+    ]
+   }
+  },
+  {
+   "id": "mision-de-kerikeri-y-stone-store",
+   "campos": {
+    "lat": -35.2177,
+    "lon": 173.9625,
+    "tipo": "monumento",
+    "estilo": "Georgiano colonial",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJz6WzXb23C20RXyz6SF-7k7o",
+     "https://www.openstreetmap.org/?mlat=-35.2178&mlon=173.9627#map=17/-35.2178/173.9627"
+    ]
+   }
+  },
+  {
+   "id": "pa-de-rangiriri",
+   "campos": {
+    "lat": -37.4274,
+    "lon": 175.1295,
+    "estilo": "Pā fortificado maorí",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ2V1kY75FbW0RxpQfNLlLpxo",
+     "https://www.openstreetmap.org/?mlat=-37.4274&mlon=175.1296#map=17/-37.4274/175.1296"
+    ]
+   }
+  },
+  {
+   "id": "parihaka",
+   "campos": {
+    "lat": -39.2887,
+    "lon": 173.8396,
+    "tipo": "poblacion",
+    "estilo": "Pueblo maorí",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJs94Y3C7PFW0RpcQKMPmMFqQ",
+     "https://www.openstreetmap.org/?mlat=-39.2888&mlon=173.8395#map=17/-39.2888/173.8395"
+    ]
+   }
+  },
+  {
+   "id": "nan-madol",
+   "campos": {
+    "lat": 6.8438,
+    "lon": 158.3342,
+    "estilo": "Arquitectura megalítica de basalto",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJz4-eo_252WUR_2Ezv4g7WVI",
+     "https://www.openstreetmap.org/?mlat=6.8432&mlon=158.3328#map=17/6.8432/158.3328"
+    ]
+   }
+  },
+  {
+   "id": "ha-amonga-a-maui",
+   "campos": {
+    "lat": -21.1366,
+    "lon": -175.0481,
+    "estilo": "Trilito megalítico",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJk0eSB66v9HERhIKxJvGnNSY",
+     "https://www.openstreetmap.org/?mlat=-21.1366&mlon=-175.0481#map=17/-21.1366/-175.0481"
+    ]
+   }
+  },
+  {
+   "id": "levuka",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Pueblo colonial de madera"
+   }
+  },
+  {
+   "id": "taputapuatea",
+   "campos": {
+    "lat": -16.8361,
+    "lon": -151.3592,
+    "estilo": "Marae polinesio",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJJ3c2q-livXYR2xGObMK6rFY",
+     "https://en.wikipedia.org/wiki/Taputapuatea_marae"
+    ]
+   }
+  },
+  {
+   "id": "memorial-de-guerra-de-australia",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Art déco de inspiración bizantina"
+   }
+  },
+  {
+   "id": "antiguo-parlamento-de-canberra",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Clasicismo despojado"
+   }
+  },
+  {
+   "id": "embajada-aborigen-de-la-tienda",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Campamento de protesta"
+   }
+  },
+  {
+   "id": "parlamento-de-australia",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura moderna",
+    "ver_alli": [
+     "Se pueden presenciar los debates desde la tribuna del público."
+    ]
+   }
+  },
+  {
+   "id": "puente-del-puerto-de-sidney",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Puente de arco de acero",
+    "ver_alli": [
+     "Se puede cruzar a pie por la acera del lado este, con vistas a la Ópera."
+    ]
+   }
+  },
+  {
+   "id": "santuario-del-recuerdo",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Neoclásico"
+   }
+  },
+  {
+   "id": "edificio-real-de-exposiciones",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Ecléctico neorrenacentista"
+   }
+  },
+  {
+   "id": "trades-hall-de-melbourne",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Neoclásico"
+   }
+  },
+  {
+   "id": "tuneles-de-petroleo-de-darwin",
+   "campos": {
+    "lat": -12.4675,
+    "lon": 130.8452,
+    "tipo": "monumento",
+    "estilo": "Ingeniería militar",
+    "texto": {
+     "general": "<p>Unos túneles excavados en la roca durante la Segunda Guerra Mundial para guardar el combustible de la marina a salvo de los bombardeos japoneses, que empezaron en febrero de 1942 y causaron más de 230 muertos. No llegaron a guardar petróleo durante la guerra, porque cuando se terminaron ya había pasado el peligro de los bombardeos; en los años cincuenta dos de ellos almacenaron combustible para aviones militares.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJWyd_iQSRwCwRPx_ZRZ-ujjo",
+     "https://en.wikipedia.org/wiki/Darwin_oil_storage_tunnels"
+    ]
+   }
+  },
+  {
+   "id": "sendero-de-kokoda",
+   "campos": {
+    "lat": -8.9864,
+    "lon": 147.7354,
+    "estilo": "Campo de batalla",
+    "ver_alli": [
+     "El punto marca el memorial de Isurava, en el tramo norte del sendero.",
+     "Recorrerlo exige entre 6 y 10 días, buena forma física y un guía local con permiso. Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ],
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJZZYDad99_WgRGurTEi76pSY",
+     "https://www.openstreetmap.org/?mlat=-8.9863&mlon=147.7353#map=17/-8.9863/147.7353"
+    ]
+   }
+  },
+  {
+   "id": "kalkarindji-y-la-ruta-de-la-huelga-de-wa",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Comunidad aborigen"
+   }
+  },
+  {
+   "id": "centro-de-las-montanas-nevadas",
+   "campos": {
+    "lat": -36.2193,
+    "lon": 149.1334,
+    "tipo": "museo",
+    "estilo": "Centro de interpretación",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJZ9jkBAWpPWsRZqR2M5NFONI",
+     "https://www.openstreetmap.org/?mlat=-36.2193&mlon=149.1334#map=17/-36.2193/149.1334"
+    ]
+   }
+  },
+  {
+   "id": "parque-nacional-de-los-rios-salvajes-fra",
+   "campos": {
+    "lat": -42.4666,
+    "lon": 145.9626,
+    "estilo": "Paisaje natural con yacimientos",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJvwCKl_uNb6oRgN9RtE7JAw8",
+     "https://www.openstreetmap.org/?mlat=-42.461&mlon=145.9608#map=17/-42.461/145.9608"
+    ]
+   }
+  },
+  {
+   "id": "prision-de-fremantle",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Penal colonial georgiano"
+   }
+  },
+  {
+   "id": "arbol-viejo-de-glenelg",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Lugar histórico"
+   }
+  },
+  {
+   "id": "estacion-del-telegrafo-de-alice-springs",
+   "campos": {
+    "lat": -23.6719,
+    "lon": 133.8873,
+    "tipo": "monumento",
+    "estilo": "Edificios coloniales de piedra",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJZ-9GeBgZMisR4AOxDakXAg8",
+     "https://www.openstreetmap.org/?mlat=-23.6721&mlon=133.8877#map=17/-23.6721/133.8877"
+    ]
+   }
+  },
+  {
+   "id": "arbol-del-conocimiento",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Memorial contemporáneo"
+   }
+  },
+  {
+   "id": "mary-mackillop-place",
+   "campos": {
+    "lat": -33.8392,
+    "lon": 151.2056,
+    "tipo": "iglesia",
+    "estilo": "Santuario católico",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJRz1GNfKuEmsRdyhveWGxGb8",
+     "https://www.openstreetmap.org/?mlat=-33.8394&mlon=151.2054#map=17/-33.8394/151.2054"
+    ]
+   }
+  },
+  {
+   "id": "mirador-de-las-tres-hermanas",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Paisaje de arenisca"
+   }
+  },
+  {
+   "id": "maralinga",
+   "campos": {
+    "lat": -30.1591,
+    "lon": 131.5788,
+    "estilo": "Zona de pruebas nucleares",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJIek-PhqNxCoRNeOKzYnkSEI",
+     "https://www.openstreetmap.org/?mlat=-30.1591&mlon=131.5788#map=17/-30.1591/131.5788"
+    ]
+   }
+  },
+  {
+   "id": "estatua-de-edmund-hillary-en-aoraki",
+   "campos": {
+    "lat": -43.733,
+    "lon": 170.0933,
+    "tipo": "monumento",
+    "estilo": "Escultura en bronce",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ3arCDlJLKm0R_1dy5pbfBhA",
+     "https://www.openstreetmap.org/?mlat=-43.7332&mlon=170.0937#map=17/-43.7332/170.0937"
+    ]
+   }
+  },
+  {
+   "id": "parlamento-de-nueva-zelanda-beehive",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Neoclásico y modernismo",
+    "ver_alli": [
+     "Hay visitas guiadas al Parlamento."
+    ]
+   }
+  },
+  {
+   "id": "memorial-del-sufragio-kate-sheppard",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Relieve de bronce"
+   }
+  },
+  {
+   "id": "catedral-de-carton-de-christchurch",
+   "campos": {
+    "lat": -43.5323,
+    "lon": 172.6431,
+    "tipo": "iglesia",
+    "estilo": "Arquitectura contemporánea (Shigeru Ban)",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJTfWAeyGKMW0RPleuecV8uAk",
+     "https://www.openstreetmap.org/?mlat=-43.5323&mlon=172.6431#map=17/-43.5323/172.6431"
+    ]
+   }
+  },
+  {
+   "id": "te-tokanganui-a-noho",
+   "campos": {
+    "lat": -38.3381,
+    "lon": 175.168,
+    "tipo": "monumento",
+    "estilo": "Wharenui tallado maorí",
+    "fuentes": [
+     "https://www.openstreetmap.org/?mlat=-38.3381&mlon=175.168#map=17/-38.3381/175.168",
+     "https://waikatotainui.com/marae/te-kuuiti-paa/",
+     "https://teaonews.co.nz/2019/01/23/whats-in-a-name-a-history-of-te-tokanganui-a-noho"
+    ]
+   }
+  },
+  {
+   "id": "memorial-del-rainbow-warrior",
+   "campos": {
+    "lat": -35.0269,
+    "lon": 173.9175,
+    "tipo": "monumento",
+    "estilo": "Memorial al aire libre",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJY3LSNnI1Cm0RzdiOSYqzL48",
+     "https://www.openstreetmap.org/?mlat=-35.0269&mlon=173.9175#map=17/-35.0269/173.9175"
+    ]
+   }
+  },
+  {
+   "id": "iglesia-de-kawaiaha-o",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Iglesia misionera de bloques de coral"
+   }
+  },
+  {
+   "id": "kalaupapa",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Asentamiento histórico"
+   }
+  },
+  {
+   "id": "museo-bishop",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de historia y etnografía"
+   }
+  },
+  {
+   "id": "punta-venus",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Faro del siglo XIX"
+   }
+  },
+  {
+   "id": "tumba-del-rey-pomare-v",
+   "campos": {
+    "lat": -17.5215,
+    "lon": -149.5262,
+    "tipo": "monumento",
+    "estilo": "Mausoleo de coral",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJT0fksMk5mnYR9Mt_lSRKhc0",
+     "https://www.openstreetmap.org/?mlat=-17.5215&mlon=-149.5262#map=17/-17.5215/-149.5262"
+    ]
+   }
+  },
+  {
+   "id": "centro-cultural-tjibaou",
+   "campos": {
+    "lat": -22.2563,
+    "lon": 166.4818,
+    "tipo": "museo",
+    "estilo": "Arquitectura contemporánea (Renzo Piano)",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJG0pm7mwIKGwRf0S3V4_dPWE",
+     "https://www.openstreetmap.org/?mlat=-22.2563&mlon=166.4818#map=17/-22.2563/166.4818"
+    ]
+   }
+  },
+  {
+   "id": "museo-robert-louis-stevenson-vailima",
+   "campos": {
+    "lat": -13.8666,
+    "lon": -171.7656,
+    "tipo": "museo",
+    "estilo": "Casa colonial de madera",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ3-n9l48TpXERygbQP2r8KSU",
+     "https://www.openstreetmap.org/?mlat=-13.8666&mlon=-171.7655#map=17/-13.8666/-171.7655"
+    ]
+   }
+  },
+  {
+   "id": "playa-roja-de-betio",
+   "campos": {
+    "lat": 1.3582,
+    "lon": 172.9261,
+    "estilo": "Campo de batalla",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJH1YBAgBjZGURLPBC8VjOIBI",
+     "https://www.openstreetmap.org/?mlat=1.3586&mlon=172.9226#map=17/1.3586/172.9226",
+     "https://www.openstreetmap.org/?mlat=1.359&mlon=172.9337#map=17/1.359/172.9337"
+    ]
+   }
+  },
+  {
+   "id": "campo-norte-de-tinian",
+   "campos": {
+    "lat": 15.072,
+    "lon": 145.6384,
+    "estilo": "Aeródromo militar",
+    "ver_alli": [
+     "Se llega en avioneta o barco desde Saipán.",
+     "Los fosos de carga de las bombas atómicas están a poco más de 1 km al norte del centro del aeródromo."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/North_Field_(Tinian)",
+     "https://www.openstreetmap.org/?mlat=15.0699&mlon=145.6389#map=17/15.0699/145.6389",
+     "https://www.google.com/maps/place/?q=place_id:ChIJx_qalxqt2GYResniLHy3P4c"
+    ]
+   }
+  },
+  {
+   "id": "memorial-estadounidense-de-guadalcanal",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Memorial de granito"
+   }
+  },
+  {
+   "id": "atolon-de-bikini",
+   "campos": {
+    "estilo": "Atolón con pecios"
+   }
+  },
+  {
+   "id": "parlamento-de-papua-nueva-guinea",
+   "campos": {
+    "lat": -9.428,
+    "lon": 147.1919,
+    "tipo": "monumento",
+    "estilo": "Arquitectura inspirada en la casa ceremonial del Sepik",
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJzQDzKU03AmkRY6ny61jPw74",
+     "https://www.openstreetmap.org/?mlat=-9.4278&mlon=147.1919#map=17/-9.4278/147.1919"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-fiyi",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo nacional"
+   }
+  },
+  {
+   "id": "parque-nacional-nilpena-ediacara",
+   "campos": {
+    "estilo": "Yacimiento paleontológico"
+   }
+  },
+  {
+   "id": "hamelin-pool-estromatolitos",
+   "campos": {
+    "lat": -26.4006,
+    "lon": 114.1596,
+    "estilo": "Estromatolitos vivos",
+    "fuentes": [
+     "https://exploreparks.dbca.wa.gov.au/park/Hamelin-Pool",
+     "https://www.dbca.wa.gov.au/news/2026/new-visitor-boardwalk-shark-bay-world-heritage-area",
+     "https://en.wikipedia.org/wiki/Hamelin_Pool_Marine_Nature_Reserve",
+     "https://www.google.com/maps/place/?q=place_id:ChIJIaije9ZT5ysRfZ_ncOKA8DQ",
+     "https://www.openstreetmap.org/?mlat=-26.4004&mlon=114.1591#map=17/-26.4004/114.1591"
+    ]
+   }
+  }
+ ]
+}
