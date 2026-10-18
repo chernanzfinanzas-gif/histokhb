@@ -1,0 +1,389 @@
+{
+ "zona": "Ampliar mundo-10b",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "galeria-tretiakov",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Galería Tretiakov</b> de Moscú es el gran museo del arte ruso, considerado el mayor depósito de pintura rusa del mundo. Su historia empieza en <b>1856</b>, cuando el comerciante moscovita <b>Pável Tretiakov</b> compró sus primeros cuadros de artistas rusos con la idea de reunir una colección que algún día fuera un museo de arte nacional. En 1892 la regaló a la ciudad de Moscú, y al año siguiente se abrió al público.</p>\n<p>La pintoresca fachada, de aire de cuento ruso, se levantó en 1902-1904 a partir de los dibujos del pintor <b>Víktor Vasnetsov</b>. Hoy la colección supera las 130.000 piezas. Tiene la mejor colección de <b>iconos</b>, con la célebre <i>Virgen de Vladímir</i>, guardada en la iglesia de San Nicolás en Tolmachi, unida al museo. Del siglo XIX destacan obras como <i>Iván el Terrible y su hijo Iván</i> de <b>Repin</b>, <i>La mañana de la ejecución de los streltsí</i> de Súrikov, <i>Los bogatyres</i> de Vasnetsov o <i>La aparición de Cristo al pueblo</i> de Aleksandr Ivánov, que tiene una sala propia.</p>\n<p>La <i>Trinidad</i> de <b>Andréi Rubliov</b>, su icono más famoso, estuvo aquí hasta 2023, cuando fue trasladada a la catedral de Cristo Salvador por orden del presidente ruso, pese a las protestas del museo.</p>\n<p class=\"dato\"><span>¿Sabías que…?</span>En 2012 la galería acogió el Campeonato del Mundo de ajedrez entre Anand y Guélfand, para unir ajedrez y arte.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/1907261",
+     "https://en.wikipedia.org/wiki/State_Tretyakov_Gallery"
+    ]
+   }
+  },
+  {
+   "id": "mamayev-kurgan",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Mamáyev Kurgán</b> («túmulo de Mamái») es una colina que domina la ciudad de <b>Volgogrado</b>, la antigua Stalingrado, a orillas del Volga. Durante la <b>batalla de Stalingrado</b> (julio de 1942 a febrero de 1943), la más sangrienta de la historia, fue la «Cota 102»: quien la tenía controlaba la ciudad. Alemanes y soviéticos se la disputaron sin descanso y cambió de manos varias veces. Al acabar la batalla, el suelo estaba tan removido por las bombas que tenía entre 500 y 1.250 fragmentos de metal por metro cuadrado, y la colina siguió negra la primavera siguiente porque no crecía la hierba.</p>\n<p>Entre 1959 y 1967 se levantó el gran memorial, obra del escultor <b>Yevgueni Vuchétich</b>. Lo corona <b>«La Madre Patria llama»</b>, una mujer de hormigón con una espada alzada que mide <b>85 metros</b> hasta la punta del arma; al inaugurarse en 1967 era la estatua más alta del mundo. Se sube por la avenida de los Álamos, entre muros que imitan las ruinas de la ciudad, hasta la plaza de los Héroes y la sala de la Gloria Militar, con su llama eterna.</p>\n<p>La colina es también una tumba: allí reposan más de 34.500 defensores de Stalingrado, el mariscal <b>Vasili Chuikov</b> y el francotirador Vasili Záitsev. Cerca, en la ciudad, está el Museo Panorama de la Batalla.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/1027346638",
+     "https://en.wikipedia.org/wiki/Mamayev_Kurgan",
+     "https://en.wikipedia.org/wiki/The_Motherland_Calls"
+    ]
+   }
+  },
+  {
+   "id": "vladimir-y-suzdal",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Vladímir</b> y <b>Súzdal</b> son dos ciudades históricas del «Anillo de Oro», al noreste de Moscú. En el siglo XII fueron el corazón del principado de Vladímir-Súzdal, que tomó el relevo de Kiev como centro de la Rus. Sus <b>«monumentos blancos»</b>, de piedra caliza de finales del siglo XII y comienzos del XIII, son Patrimonio de la Humanidad desde <b>1992</b>.</p>\n<p>El gran príncipe <b>Andréi Bogoliubski</b> hizo de Vladímir su capital y mandó levantar la <b>catedral de la Dormición</b> (1158-1160, ampliada en 1185-1189), durante siglos la mayor iglesia de Rusia; en 1408 <b>Andréi Rubliov</b> y Daniil Chorny pintaron sus frescos, y sirvió de modelo a la catedral del mismo nombre del Kremlin de Moscú. De esa época son también la <b>Puerta de Oro</b> y la catedral de San Demetrio. A las afueras, en Bogoliúbovo, la <b>iglesia de la Intercesión en el Nerl</b> se alza sola en un prado junto al río: en primavera, cuando se inunda la llanura, parece flotar sobre el agua.</p>\n<p><b>Súzdal</b>, la más pequeña ciudad del Anillo de Oro, es una ciudad-museo con unas 30 iglesias y cinco monasterios: su kremlin, con la catedral de la Natividad, y el monasterio de San Eutimio son los imprescindibles.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/White_Monuments_of_Vladimir_and_Suzdal",
+     "https://en.wikipedia.org/wiki/Dormition_Cathedral,_Vladimir",
+     "https://en.wikipedia.org/wiki/Church_of_the_Intercession_on_the_Nerl",
+     "https://en.wikipedia.org/wiki/Golden_Gate_(Vladimir)",
+     "https://en.wikipedia.org/wiki/Suzdal"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-la-trinidad-y-san-sergio",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Lavra de la Trinidad y San Sergio</b>, en Sérguiev Posad, a unos 70 km al noreste de Moscú, es el monasterio más importante de Rusia y el centro espiritual de la Iglesia ortodoxa rusa. Lo fundó hacia <b>1337</b> <b>San Sergio de Rádonezh</b>, que levantó una iglesia de madera dedicada a la Santísima Trinidad en la colina de Makovets. Sus discípulos fundaron más de 400 monasterios por toda Rusia.</p>\n<p>Sergio apoyó a Dmitri Donskói contra los tártaros y le envió dos monjes a la batalla de Kulikovo (1380). En 1422 se construyó la primera iglesia de piedra, la <b>catedral de la Trinidad</b>, donde aún reposan sus reliquias; <b>Andréi Rubliov</b> y Daniil Chorny la decoraron, y para su iconostasio pintó Rubliov su célebre icono de la <i>Trinidad</i>, cuyo original se guarda hoy en Moscú. Iván el Terrible encargó en 1559 la gran <b>catedral de la Dormición</b>, de cúpulas azules con estrellas doradas, donde está enterrado Borís Godunov. Las murallas de piedra, de 1,5 km y doce torres, resistieron un famoso asedio polaco-lituano de 16 meses (1608-1610), y el joven Pedro I se refugió dos veces entre ellas.</p>\n<p>Hoy viven allí más de 300 monjes. No hay que perderse el refectorio de San Sergio, pintado a cuadros de colores. Es Patrimonio de la Humanidad desde 1993.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/219706573",
+     "https://en.wikipedia.org/wiki/Trinity_Lavra_of_St._Sergius"
+    ]
+   }
+  },
+  {
+   "id": "plaza-roja-y-catedral-de-san-basilio",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Plaza Roja</b> es el gran espacio abierto de Moscú, junto a las murallas del <b>Kremlin</b>. Su nombre no tiene que ver con el comunismo: en ruso antiguo <i>krásnaya</i> significaba «bonita». Allí se proclamaban los edictos del zar desde la plataforma del <i>Lobnoye Mesto</i>, y en el siglo XX fue escenario de grandes desfiles, como el de noviembre de 1941, con los alemanes a las puertas de la ciudad, y el de la Victoria de 1945. Junto con el Kremlin es Patrimonio de la Humanidad desde 1990.</p>\n<p>En su extremo sur se alza la <b>catedral de San Basilio</b>, levantada entre <b>1555 y 1561</b> por orden de <b>Iván el Terrible</b> para celebrar la conquista de Kazán y Astracán. La tradición la atribuye a los arquitectos Barma y Póstnik Yákovlev; la leyenda de que el zar cegó al arquitecto para que no repitiera la obra es un mito. Ocho capillas rodean una central, y en 1588 se añadió otra sobre la tumba del santo Basilio el Bendito, que acabó dando nombre al templo.</p>\n<p>Alrededor están el <b>monumento a Minin y Pozharski</b> (1818), que expulsaron a los polacos de Moscú, los grandes almacenes <b>GUM</b>, el <b>Museo Histórico</b>, la catedral de Kazán y el mausoleo de Lenin. Ante el Museo Histórico, la estatua ecuestre del mariscal <b>Zhúkov</b> (1995) lo muestra como en el desfile de 1945.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/3030568",
+     "https://en.wikipedia.org/wiki/Red_Square",
+     "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+     "https://en.wikipedia.org/wiki/Georgy_Zhukov"
+    ]
+   }
+  },
+  {
+   "id": "campo-de-kulikovo",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Campo de Kulikovo</b> («campo de las agachadizas»), en la región de Tula, entre los ríos Don, Nepriadva y Krasívaya Mecha, es el escenario de la <b>batalla del 8 de septiembre de 1380</b>. Allí el gran príncipe <b>Dmitri de Moscú</b> venció al ejército de la Horda de Oro mandado por <b>Mamái</b>, y desde entonces se le llamó «Donskói» («del Don»). La victoria no acabó con el dominio mongol, pero se considera el momento en que empezó a declinar y Moscú comenzó su ascenso. Según la tradición, San Sergio de Rádonezh bendijo a Dmitri y le envió dos monjes guerreros; uno de ellos, Peresvet, murió en el duelo que abrió la batalla.</p>\n<p>El memorial está en el <b>Monte Rojo</b> (Krasni Jolm): una <b>columna de hierro</b> de 28 metros, levantada en 1848-1850 según el diseño de Aleksandr Briulov, y la <b>iglesia de San Sergio</b>, construida en 1913-1918 por Alekséi Shchúsev al estilo moscovita del siglo XV. Un moderno museo de la batalla completa la visita.</p>\n<p>Dónde fue exactamente la lucha es un tema muy debatido, y el museo usa la arqueología para explicarlo: en 2005 un equipo dirigido por Dvurechenski localizó el lugar entre los ríos Nepriadva y Smolka. Sigue siendo un misterio que no se hayan hallado las fosas de los caídos.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/76843092",
+     "https://en.wikipedia.org/wiki/Battle_of_Kulikovo",
+     "https://en.wikipedia.org/wiki/Kulikovo_Field",
+     "https://es.wikipedia.org/wiki/Batalla_de_Kulikovo"
+    ]
+   }
+  },
+  {
+   "id": "kremlin-de-moscu",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Kremlin de Moscú</b> es la fortaleza que ocupa el corazón de la ciudad, sobre una colina junto al río Moscova. Reúne cinco palacios y cuatro catedrales dentro de una muralla de 2.235 metros, con una altura de entre 5 y 19 metros según el terreno. Fue residencia de los zares y hoy lo es del presidente de Rusia. Con la Plaza Roja, es Patrimonio de la Humanidad desde 1990.</p>\n<p>Su aspecto actual se debe al gran príncipe <b>Iván III</b>, que llamó a arquitectos del Renacimiento italiano: entre <b>1485 y 1495</b> levantaron las murallas y torres de ladrillo rojo, en parte con diseño de Pietro Antonio Solari. En la plaza de las Catedrales se alzan la <b>catedral de la Dormición</b> (1479), obra de Aristotele Fioravanti, donde se coronaban los zares; la <b>del Arcángel San Miguel</b> (1508), con las tumbas de casi todos los soberanos moscovitas, de Iván Kalitá a Iván V; y la <b>de la Anunciación</b> (1489). El <b>Palacio de las Facetas</b> (1491) es el edificio civil más antiguo que se conserva.</p>\n<p>Junto a la plaza se levanta el <b>campanario de Iván el Grande</b> (1505-1508, elevado en 1600), durante siglos el edificio más alto de Moscú. Muy cerca están la <b>Campana Zar</b> y el <b>Cañón Zar</b>, y en el suroeste del recinto, la Armería.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/1360641",
+     "https://en.wikipedia.org/wiki/Moscow_Kremlin"
+    ]
+   }
+  },
+  {
+   "id": "kremlin-de-novgorod",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Kremlin de Nóvgorod</b>, o <i>Detínets</i>, es la fortaleza de Veliki Nóvgorod, en la orilla izquierda del río Vóljov, cerca del lago Ílmen. Fue el centro de la antigua <b>República de Nóvgorod</b>, una ciudad mercantil que elegía y destituía a sus príncipes. Uno de ellos fue <b>Alejandro Nevski</b>, que venció a los suecos en el Nevá (1240) y a los caballeros teutónicos en la batalla del Hielo (1242). Tras la conquista moscovita de Iván III, la muralla se rehízo en 1484-1490: un óvalo de 545 por 240 metros con nueve torres conservadas.</p>\n<p>Dentro está la <b>catedral de Santa Sofía</b> (1045-1050), el templo más antiguo de Rusia fuera del Cáucaso, con sus puertas de bronce de Sigtuna. Frente a ella se alza el gran <b>monumento del Milenio de Rusia</b> (1862), diseñado por Mijaíl Mikeshin, rodeado de 129 estatuas de personajes de la historia rusa. La Cámara de las Facetas (1433) es un raro ejemplo de gótico en Rusia.</p>\n<p>El museo de Nóvgorod guarda una excelente colección de iconos y las famosas <b>cartas en corteza de abedul</b>, notas medievales de gente corriente; la primera se halló el 26 de julio de 1951. Es Patrimonio de la Humanidad desde 1992, y se puede subir a la torre Kokui.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/26333895",
+     "https://en.wikipedia.org/wiki/Novgorod_Kremlin",
+     "https://en.wikipedia.org/wiki/Saint_Sophia_Cathedral_in_Novgorod",
+     "https://en.wikipedia.org/wiki/Millennium_of_Russia",
+     "https://en.wikipedia.org/wiki/Veliky_Novgorod",
+     "https://en.wikipedia.org/wiki/Birch_bark_document"
+    ]
+   }
+  },
+  {
+   "id": "iglesia-de-la-ascension-de-kolomenskoye",
+   "campos": {
+    "texto": {
+     "general": "<p>En un alto sobre el río Moscova, en <b>Kolómenskoye</b>, antigua finca de los grandes príncipes de Moscovia al sureste del centro de la ciudad, se levantó en <b>1532</b> esta iglesia de piedra blanca para celebrar el nacimiento tan esperado de un heredero al trono: el futuro <b>Iván el Terrible</b>. La aldea, que debe su nombre al viejo camino a Kolomna, ya aparece en el testamento de Iván Kalitá (1339).</p>\n<p>Fue la primera iglesia de piedra con <b>tejado en forma de tienda</b>, una aguja altísima que rompía con la tradición bizantina de las cúpulas y que, según se cree, imitaba las iglesias de madera del norte de Rusia. Por su silueta la llaman la «Columna Blanca»: sobre una planta baja en cruz se alza un cuerpo prolongado, luego una tienda octogonal y, en lo alto, una cúpula diminuta, con tres hileras de arcos decorativos (<i>kokoshniki</i>). Inspiró después a la catedral de San Basilio. Es Patrimonio de la Humanidad desde 1994.</p>\n<p>Kolómenskoye fue la residencia favorita del zar <b>Alejo I</b>, que levantó un enorme palacio de madera con unas 250 estancias, al que los extranjeros llamaban «la octava maravilla del mundo»; allí nació en 1709 la futura emperatriz Isabel. Catalina II lo mandó derribar en 1768, pero se conservaron sus planos: en 2010 se reconstruyó a escala real, a un kilómetro de su lugar original para proteger los cimientos.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Church_of_the_Ascension,_Kolomenskoye",
+     "https://en.wikipedia.org/wiki/Kolomenskoye",
+     "https://www.openstreetmap.org/way/74203156"
+    ]
+   }
+  },
+  {
+   "id": "cabana-de-pedro-el-grande",
+   "campos": {
+    "texto": {
+     "general": "<p>Esta pequeña casa de troncos, construida en apenas tres días en mayo de <b>1703</b> por soldados del regimiento Semiónovski, fue el primer «palacio» de <b>Pedro I</b> en la ciudad que acababa de fundar en el delta del Nevá. El zar vivió en ella entre 1703 y 1708, mientras vigilaba las obras de la nueva capital y de la <b>fortaleza de San Pedro y San Pablo</b>, al otro lado del brazo del río.</p>\n<p>Mezcla la <i>izbá</i>, la casa campesina rusa, con el barroco holandés que tanto gustaba a Pedro. Ocupa solo unos 60 metros cuadrados y tiene tres habitaciones: sala, dormitorio y despacho. Sus troncos se pintaron de rojo por dentro para que parecieran ladrillos, y no tiene chimeneas, porque solo se usaba en verano. Es el edificio más antiguo que se conserva de <b>San Petersburgo</b>.</p>\n<p>En 1723 Pedro la hizo cubrir con un pabellón de ladrillo para protegerla, como recuerdo de su modestia y del nacimiento de la ciudad de la nada; Nicolás I rehízo ese pabellón en la década de 1840. Durante la Segunda Guerra Mundial se vació y camufló, y en septiembre de 1944 fue el primer museo de la ciudad en reabrir tras el sitio de Leningrado. Hoy, como filial del Museo Ruso, muestra muebles y objetos de Pedro, y fuera un busto del zar recibe al visitante.</p>"
+    },
+    "fuentes": [
+     "https://www.lonelyplanet.com/points-of-interest/peters-cabin/1480548",
+     "https://audiala.com/es/rusia/san-petersburgo/cabana-de-pedro-el-grande",
+     "https://en.wikipedia.org/wiki/Cabin_of_Peter_the_Great"
+    ]
+   }
+  },
+  {
+   "id": "monumento-a-los-judios-asesinados-de-eur",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Monumento a los Judíos Asesinados de Europa</b>, conocido también como Memorial del Holocausto, ocupa una manzana del centro de Berlín, a una calle al sur de la <b>Puerta de Brandeburgo</b>. Es un campo de 1,9 hectáreas cubierto por <b>2.711 bloques de hormigón</b> de distintas alturas, entre 20 centímetros y 4,7 metros, colocados en una cuadrícula sobre un terreno ondulado. Se camina entre pasillos estrechos y rectos, y a medida que el suelo baja los bloques se elevan por encima de la cabeza.</p>\n<p>La idea nació a finales de los años ochenta, impulsada por la periodista <b>Lea Rosh</b> y el historiador Eberhard Jäckel. En 1999 el Parlamento alemán aprobó el diseño del arquitecto estadounidense <b>Peter Eisenman</b>; las obras empezaron en 2003 y el memorial se inauguró el <b>10 de mayo de 2005</b>, sesenta años después del final de la guerra en Europa. El lugar no es casual: aquí pasaba la «franja de la muerte» del Muro de Berlín, y en tiempos nazis estaba la villa de Goebbels, cerca de la Cancillería y del búnker de Hitler.</p>\n<p>Bajo el campo de bloques, el <b>Centro de Información</b> cuenta historias de víctimas y familias y guarda los nombres de unos tres millones de judíos asesinados, procedentes del museo israelí Yad Vashem.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJW2oZB8ZRqEcRyFvuEpCnNBQ",
+     "https://en.wikipedia.org/wiki/Memorial_to_the_Murdered_Jews_of_Europe"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-wartburg",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>castillo de Wartburg</b> se alza a 410 metros de altura sobre un peñasco que domina la ciudad de <b>Eisenach</b>, en Turingia. Lo fundó hacia <b>1067</b> el conde Luis el Saltador, y aunque conserva partes importantes de los siglos XII al XV, buena parte del interior es una restauración del siglo XIX. Es Patrimonio de la Humanidad desde 1999.</p>\n<p>Entre 1172 y 1211 fue una de las cortes más brillantes del Imperio: el landgrave Hermann I acogió a poetas como Walther von der Vogelweide y Wolfram von Eschenbach, y la leyenda sitúa aquí el «torneo de trovadores» que Wagner llevó a su ópera <i>Tannhäuser</i>. De 1211 a 1228 vivió en el castillo <b>santa Isabel de Hungría</b>, famosa por su caridad. Entre <b>mayo de 1521 y marzo de 1522</b> <b>Martín Lutero</b>, excomulgado y condenado en la Dieta de Worms, estuvo escondido aquí bajo el nombre de «caballero Jorge», protegido por Federico el Sabio, y tradujo el Nuevo Testamento al alemán. En 1817 los estudiantes alemanes celebraron allí la primera Fiesta de Wartburg.</p>\n<p>Se visita la sencilla <b>habitación de Lutero</b>, donde, según la leyenda, arrojó un tintero al diablo. El castillo inspiró a Luis II de Baviera para construir Neuschwanstein.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Wartburg"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-magdeburgo",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>catedral de Magdeburgo</b>, dedicada a san Mauricio y santa Catalina, es la catedral gótica más antigua de Alemania. Se empezó en <b>1209</b>, después de que un incendio destruyera en 1207 la iglesia anterior; se consagró en <b>1363</b> con una fiesta de una semana, y sus torres, de unos 100 metros, no se acabaron hasta 1520. Hoy es un templo luterano, principal iglesia evangélica de Alemania central.</p>\n<p>Su historia arranca con el emperador <b>Otón I el Grande</b>, fundador del Sacro Imperio, que en 937 fundó aquí la abadía de San Mauricio y en 968 hizo de Magdeburgo la sede de un arzobispado para extender el cristianismo hacia el este. Otón, muerto en 973, está enterrado en la catedral junto a su primera esposa, la princesa inglesa <b>Edith</b> (Eadgyth), nieta de Alfredo el Grande, fallecida en 946. Su tumba se tuvo durante siglos por vacía, hasta que en <b>2008</b> los arqueólogos hallaron dentro del sarcófago un ataúd de plomo con sus restos; el análisis de sus huesos confirmó que se crió en Wessex.</p>\n<p>No hay que perderse la sillería del coro de 1363, tallada con escenas de la vida de Jesús, y el memorial de Ernst Barlach (1929), que muestra el dolor de la guerra en vez de su heroísmo.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Magdeburg_Cathedral",
+     "https://en.wikipedia.org/wiki/Eadgyth"
+    ]
+   }
+  },
+  {
+   "id": "casa-de-beethoven",
+   "campos": {
+    "texto": {
+     "general": "<p>En el número 20 de la Bonngasse, en el centro de Bonn, nació <b>Ludwig van Beethoven</b> en diciembre de <b>1770</b>; fue bautizado el día 17. La casa, de fachada barroca de piedra, se levantó hacia 1700 y es una de las pocas viviendas burguesas que quedan de la época de los príncipes electores, cuando el barrio lo habitaban empleados de la corte. A mediados del siglo XIX tuvo de todo: vivían allí cinco familias, hubo sastres y un zapatero, y en 1873 se abrió un restaurante llamado «Casa natal de Beethoven».</p>\n<p>En 1889 un grupo de vecinos fundó la asociación Beethoven-Haus y la salvó del derribo; el museo abrió el <b>10 de mayo de 1893</b>. Hoy guarda la <b>mayor colección del mundo sobre Beethoven</b>: manuscritos, retratos, la viola que tocaba en la orquesta de la corte de Bonn, sus pianofortes y las <b>trompetillas acústicas</b> y los cuadernos de conversación que usó al quedarse sordo. Las casas vecinas albergan el archivo, la mayor biblioteca pública dedicada a él, y una sala de conciertos de cámara donde a veces se toca con sus propios instrumentos.</p>\n<p>Bonn celebra cada año el <b>Beethovenfest</b>, un festival de música clásica que se remonta a 1845, cuando se inauguró su monumento por el 75 aniversario de su nacimiento.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Beethoven_House",
+     "https://en.wikipedia.org/wiki/Beethovenfest"
+    ]
+   }
+  },
+  {
+   "id": "casa-de-la-historia-de-bonn",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Casa de la Historia de la República Federal de Alemania</b> (<i>Haus der Geschichte</i>) es un museo de historia contemporánea en la «Milla de los Museos» de Bonn, en el antiguo barrio del gobierno. Se creó en 1986 y el canciller Helmut Kohl inauguró su exposición permanente el <b>14 de junio de 1994</b>. Con alrededor de un millón de visitantes al año, es uno de los museos más populares de Alemania, y la entrada es gratuita.</p>\n<p>Su exposición recorre la historia de Alemania <b>desde 1945 hasta hoy</b> con más de 7.000 objetos en 4.000 metros cuadrados, siguiendo tanto a la República Federal como a la Alemania del Este (RDA): el vagón de tren de Adenauer, su Mercedes oficial, coches de la RDA, trozos del Muro, butacas del primer pleno del Bundestag y objetos de la reunificación. Mezcla la gran política con la vida cotidiana, con películas y grabaciones de la época. Tiene además una colección de más de 75.000 caricaturas políticas y una biblioteca de 180.000 volúmenes sobre la RDA.</p>\n<p>Bonn fue la capital de la Alemania Occidental, y el museo organiza también visitas al bungalow del canciller y a otros lugares del antiguo distrito gubernamental.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Haus_der_Geschichte",
+     "https://de.wikipedia.org/wiki/Haus_der_Geschichte"
+    ]
+   }
+  },
+  {
+   "id": "estadio-olimpico-de-berlin",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Estadio Olímpico de Berlín</b> se construyó entre 1934 y 1936 para los <b>Juegos Olímpicos de 1936</b>, según el proyecto del arquitecto Werner March, y se inauguró el 1 de agosto de ese año. El régimen nazi lo concibió como escaparate de propaganda, con una arquitectura monumental de piedra, la puerta del Maratón con el pebetero olímpico y la gran explanada del Maifeld. En 1939 Hitler habló allí a las Juventudes Hitlerianas, y los Juegos fueron el tema de la película <i>Olympia</i> (1938) de Leni Riefenstahl.</p>\n<p>Su gran protagonista, sin embargo, fue el atleta afroamericano <b>Jesse Owens</b>, que ganó cuatro medallas de oro: 100 y 200 metros, salto de longitud y relevo 4 × 100. Una calle junto al estadio, la Jesse-Owens-Allee, lleva hoy su nombre; en ella se conservan las viejas taquillas del hipódromo que hubo antes en el lugar.</p>\n<p>Fue reformado en 1974 y de nuevo entre 2000 y 2004. Hoy tiene 74.475 asientos, es el campo del Hertha de Berlín y acoge cada año la final de la Copa de Alemania. Allí se jugaron las finales del Mundial de 2006 y de la Eurocopa de 2024, además de conciertos. La vieja campana olímpica, dañada, se conserva como memorial.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Olympiastadion_(Berlin)"
+    ]
+   }
+  },
+  {
+   "id": "centro-de-documentacion-del-obersalzberg",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Obersalzberg</b> es una ladera de montaña sobre Berchtesgaden, en los Alpes bávaros, a unos 120 km de Múnich y junto a la frontera austriaca. A finales del siglo XIX era un lugar de veraneo de artistas como Brahms o Clara Schumann. Hitler lo conoció en 1923 y en una cabaña de allí dictó en 1925 la segunda parte de <i>Mein Kampf</i>. Desde 1928 alquiló una casita, Haus Wachenfeld, que tras llegar al poder en 1933 compró y convirtió en el <b>Berghof</b>, su residencia de montaña, donde recibía a otros dirigentes. La zona se cerró y se desalojó, y allí tuvieron casa también Göring y Bormann.</p>\n<p>Un bombardeo aliado arrasó el recinto el 25 de abril de 1945, y la mayoría de los edificios nazis se demolieron en los años cincuenta. Para que el lugar no se convirtiera en un sitio de peregrinación neonazi, el gobierno bávaro abrió en <b>1999</b> el <b>Centro de Documentación</b>, gestionado por el Instituto de Historia Contemporánea de Múnich. Su exposición explica la historia del Obersalzberg y, sobre todo, la dictadura nazi y sus crímenes: el terror, la resistencia, la política exterior.</p>\n<p>El recorrido sigue por un túnel hasta los <b>búnkeres</b> y termina, en la oscuridad, con la documentación del Holocausto. Más arriba, en la cima del Kehlstein, está el <b>Nido del Águila</b> (1938), que se salvó del bombardeo y hoy es un restaurante.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Dokumentation_Obersalzberg",
+     "https://en.wikipedia.org/wiki/Obersalzberg"
+    ]
+   }
+  },
+  {
+   "id": "memorial-del-muro-de-berlin",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Memorial del Muro de Berlín</b> recorre unos 1,4 km de la antigua frontera a lo largo de la <b>calle Bernauer</b>, uno de los lugares donde la división de la ciudad fue más dramática. La calle y su acera estaban en Berlín Occidental, pero las fachadas de las casas del lado sur pertenecían al Este. Cuando el 13 de agosto de 1961 se cerró la frontera, muchos vecinos huyeron saltando por las ventanas; la enfermera <b>Ida Siekmann</b> murió el 22 de agosto al saltar desde un tercer piso, la primera víctima conocida del Muro. Bajo esta calle se excavó también el <b>Túnel 57</b>, por el que escaparon 57 personas en octubre de 1964.</p>\n<p>El memorial nació en <b>1998</b> y se amplió hasta 2014. Conserva un tramo del Muro con la <b>«franja de la muerte»</b> tal como estaba cuando cayó: el muro exterior, el camino de patrullas, la valla de alarma, el muro interior y una torre de vigilancia. Placas de acero en el suelo marcan por dónde iba el Muro y por dónde pasaban los túneles de fuga.</p>\n<p>No hay que perderse la <b>Ventana del Recuerdo</b>, con los retratos de las personas que murieron en el Muro, la capilla de la Reconciliación, levantada donde estaba una iglesia volada en 1985 por quedar en la franja, y la torre del centro de documentación, desde la que se ve todo el conjunto.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJZ0KxF_JRqEcRrLHB-4r-U-o",
+     "https://en.wikipedia.org/wiki/Berlin_Wall_Memorial",
+     "https://de.wikipedia.org/wiki/Gedenkstätte_Berliner_Mauer",
+     "https://en.wikipedia.org/wiki/Ida_Siekmann",
+     "https://en.wikipedia.org/wiki/Tunnel_57"
+    ]
+   }
+  },
+  {
+   "id": "casa-de-la-conferencia-de-wannsee",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Casa de la Conferencia de Wannsee</b> es una elegante villa a orillas del lago Gran Wannsee, en el suroeste de Berlín, en el número 56-58 de la calle Am Großen Wannsee. En 1940 el Servicio de Seguridad de las SS se la compró al industrial Friedrich Minoux para usarla como casa de invitados y centro de reuniones.</p>\n<p>Allí, el <b>20 de enero de 1942</b>, <b>Reinhard Heydrich</b>, jefe de la Oficina Central de Seguridad del Reich, reunió a <b>quince altos cargos</b> del Estado nazi y de las SS. No se decidió allí el exterminio, que ya había empezado con las matanzas en Polonia y la Unión Soviética, sino cómo coordinar a todos los ministerios en la llamada «Solución Final»: deportar a los judíos de la Europa ocupada a Polonia y asesinarlos. La reunión duró apenas unos <b>noventa minutos</b>. Adolf Eichmann redactó el acta, de la que sobrevivió una sola copia, hallada en 1947 entre los archivos del Ministerio de Asuntos Exteriores y usada como prueba en los juicios de Núremberg.</p>\n<p>En 1965 el historiador Joseph Wulf propuso convertir la villa en memorial, pero no se logró hasta el <b>20 de enero de 1992</b>, cincuenta años después de la conferencia. Hoy es un memorial y centro educativo: se ve la sala de la reunión y una exposición permanente, y en el piso alto la biblioteca que lleva el nombre de Wulf.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ4SjHU_pYqEcREdAt9al8CEA",
+     "https://en.wikipedia.org/wiki/Wannsee_Conference",
+     "https://en.wikipedia.org/wiki/House_of_the_Wannsee_Conference"
+    ]
+   }
+  },
+  {
+   "id": "memorial-de-dachau",
+   "campos": {
+    "texto": {
+     "general": "<p>Dachau fue el <b>primer campo de concentración nazi</b> y el que más tiempo funcionó. Lo abrió Heinrich Himmler el <b>22 de marzo de 1933</b>, en una antigua fábrica de municiones junto a la ciudad de Dachau, a unos 16 km de Múnich, para encerrar a los opositores políticos: comunistas, socialdemócratas y otros disidentes. Después llegaron judíos, gitanos, sacerdotes y prisioneros de los países ocupados, y se convirtió en modelo para los demás campos y en escuela de las SS.</p>\n<p>Por Dachau y sus casi cien subcampos pasaron <b>más de 200.000 personas</b> de más de 30 países, entre ellas <b>republicanos españoles</b>, como el coronel Eleuterio Díaz-Tendero. Los presos vivían bajo torturas, castigos y trabajos forzados, y fueron utilizados en experimentos médicos. El memorial calcula en más de <b>41.000</b> los muertos, por asesinato, hambre y enfermedades. Las tropas estadounidenses liberaron el campo el 29 de abril de 1945.</p>\n<p>En 1965 supervivientes del campo crearon el memorial. Se entra por la puerta del Jourhaus con el lema <i>«Arbeit macht frei»</i> («El trabajo libera»), se recorre la gran plaza donde se pasaba lista, un barracón reconstruido, los cimientos de los otros 32 y el <b>crematorio</b>. Hay además varios memoriales religiosos y un museo en el antiguo edificio de servicios.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJqQA5yIp6nkcRBqS5F0ROeRY",
+     "https://en.wikipedia.org/wiki/Dachau_concentration_camp",
+     "https://es.wikipedia.org/wiki/Campo_de_concentración_de_Dachau"
+    ]
+   }
+  },
+  {
+   "id": "monumento-al-puente-aereo-de-tempelhof",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Monumento al Puente Aéreo</b> se alza en la Platz der Luftbrücke («plaza del Puente Aéreo»), frente al antiguo aeropuerto berlinés de <b>Tempelhof</b>. Recuerda uno de los grandes episodios de la Guerra Fría: en junio de 1948 los soviéticos cortaron todos los accesos por tierra y por agua a Berlín Occidental, y estadounidenses y británicos respondieron abasteciendo la ciudad por aire durante casi un año. Tempelhof fue el centro de aquel <b>puente aéreo de 1948-1949</b>.</p>\n<p>Obra del arquitecto <b>Eduard Ludwig</b>, se inauguró el <b>10 de julio de 1951</b>. Sus <b>tres brazos</b> de hormigón, que se curvan hacia el oeste, simbolizan los tres corredores aéreos que unían Berlín con las zonas occidentales de Alemania. En la base figuran los nombres de los 39 británicos y 31 estadounidenses que murieron en la operación, con la inscripción «Dieron su vida por la libertad de Berlín al servicio del puente aéreo 1948/1949». Los berlineses lo apodan <i>Hungerharke</i>, «el rastrillo del hambre». Hay réplicas en Fráncfort (1985) y en Celle (1988).</p>\n<p>El gran edificio del aeropuerto, levantado desde 1934 por Ernst Sagebiel, llegó a estar entre los mayores del mundo. Desde allí el piloto Gail Halvorsen lanzaba caramelos en paracaídas a los niños. El aeropuerto cerró el 30 de octubre de 2008, y su pista es desde 2010 un enorme parque, el Tempelhofer Feld.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJAVWDlSBQqEcRUKRG2dnce3s",
+     "https://www.openstreetmap.org/node/27431777",
+     "https://de.wikipedia.org/wiki/Luftbrückendenkmal",
+     "https://en.wikipedia.org/wiki/Berlin_Tempelhof_Airport"
+    ]
+   }
+  },
+  {
+   "id": "puerta-de-brandeburgo",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Puerta de Brandeburgo</b>, en el centro de Berlín, se levantó entre <b>1788 y 1791</b> por orden del rey Federico Guillermo II de Prusia, según el diseño del arquitecto <b>Carl Gotthard Langhans</b>, en el lugar de una antigua puerta de la ciudad donde arrancaba el camino a Brandeburgo. Inspirada en los Propileos de la Acrópolis de Atenas, es una de las primeras obras neoclásicas de Alemania: doce columnas dóricas forman cinco pasos, y al principio solo la familia real podía usar el central. Mide 26 metros de alto y 62,5 de ancho.</p>\n<p>La corona una <b>cuadriga</b> de bronce del escultor Johann Gottfried Schadow. Tras vencer a Prusia en Jena en 1806, <b>Napoleón</b> desfiló bajo la puerta y se llevó la cuadriga a París; volvió a Berlín en <b>1814</b>, convertida en la diosa Victoria, con la cruz de hierro y el águila prusiana. Durante la Guerra Fría el <b>Muro</b> pasaba justo por delante, y la puerta quedó cerrada en tierra de nadie. Allí pidió Ronald Reagan en 1987 a Gorbachov que derribara el Muro.</p>\n<p>En 1989 miles de personas celebraron allí la caída del Muro, y el 22 de diciembre de ese año el canciller Helmut Kohl la cruzó para reabrir el paso. Desde la reunificación es símbolo de Alemania y de la unidad europea.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Brandenburg_Gate"
+    ]
+   }
+  },
+  {
+   "id": "topografia-del-terror",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Topografía del Terror</b> es un centro de documentación en la antigua calle Prinz-Albrecht de Berlín, hoy Niederkirchnerstraße. Entre 1933 y 1945 estaban aquí los edificios desde los que se dirigía la represión nazi: la sede de la <b>Gestapo</b>, la dirección de las <b>SS</b> y la Oficina Central de Seguridad del Reich, de la que dependían también los <i>Einsatzgruppen</i>, los escuadrones que asesinaban en el Este. En los sótanos de la Gestapo se torturó y se mató a muchos presos políticos.</p>\n<p>Los bombardeos de 1945 destruyeron los edificios y sus ruinas se demolieron después de la guerra; durante años el solar fue una pista de autos de choque y un vertedero de escombros. Por la calle pasaba la frontera entre los sectores estadounidense y soviético, y de 1961 a 1989 el <b>Muro</b>, del que se conserva aquí un tramo, el más largo que queda del muro exterior. En 1987 se excavaron los sótanos para una primera exposición, y tras varios proyectos frustrados el nuevo edificio de Ursula Wilms se inauguró el <b>6 de mayo de 2010</b>.</p>\n<p>La exposición permanente explica cómo funcionaba el terror nazi y la persecución de opositores, judíos, gitanos y homosexuales. Fuera, una exposición al aire libre recorre los restos de los sótanos junto al Muro.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJx3iXOMxRqEcRSGbJBczVSzc",
+     "https://en.wikipedia.org/wiki/Topography_of_Terror"
+    ]
+   }
+  },
+  {
+   "id": "museo-del-ferrocarril-de-nuremberg",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo DB</b> de Núremberg, el museo de los ferrocarriles alemanes, nació el 1 de octubre de 1899 como Museo Real Bávaro del Ferrocarril, lo que lo convierte en el museo ferroviario más antiguo de Alemania. Su edificio actual es de 1925, y desde 1996 pertenece a la compañía Deutsche Bahn. Forma parte del Museo del Transporte de Núremberg, junto al Museo de las Comunicaciones.</p>\n<p>No es casual que esté aquí: el <b>7 de diciembre de 1835</b> el primer tren de Alemania, tirado por la locomotora <b>Adler</b> («águila»), unió Núremberg con Fürth. El museo guarda una réplica que funciona, construida en 1935 para el centenario, que quedó muy dañada en un incendio en 2005 y volvió a circular en 2008 tras ser restaurada. Entre sus joyas están el vagón salón y el vagón terraza del rey <b>Luis II de Baviera</b>, el salón de Bismarck, la Nordgau de 1853, la locomotora de vapor original más antigua de Alemania, un vagón de carbón inglés de 1829 y locomotoras como la aerodinámica 05 001 o el «Hamburgués volador».</p>\n<p>Desde 1986 una exposición muestra el papel de la Reichsbahn durante la dictadura nazi, incluidas las deportaciones. Los niños disfrutan con su gran colección de modelos y una maqueta de 80 m².</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ960t2QdXn0cR-u-OLSpUwM0",
+     "https://www.openstreetmap.org/node/1539285608",
+     "https://en.wikipedia.org/wiki/DB_Museum",
+     "https://de.wikipedia.org/wiki/DB_Museum"
+    ]
+   }
+  },
+  {
+   "id": "museo-gutenberg",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Gutenberg</b> de Maguncia, frente a la catedral, es uno de los museos de la imprenta más antiguos del mundo. Lo fundó en <b>1900</b> un grupo de ciudadanos, cuando se cumplían 500 años del nacimiento de <b>Johannes Gutenberg</b>, el maguntino que hacia 1450 inventó la imprenta de tipos móviles, para dar a conocer su invento y la historia del libro. Abrió en 1901 y desde 1927 ocupa la casa renacentista «Zum Römischen Kaiser» (1664), que sufrió los bombardeos de 1945 aunque las colecciones se habían puesto a salvo.</p>\n<p>Su gran tesoro son <b>dos ejemplares de la Biblia de Gutenberg</b>: uno comprado en 1926 y la llamada Biblia de Shuckburgh, en dos volúmenes, adquirida en Nueva York en 1978 y considerada la pieza más valiosa del museo. Desde 1925 tiene una <b>reconstrucción del taller de Gutenberg</b> con una réplica de su prensa, basada en grabados de los siglos XV y XVI, con la que se hacen demostraciones de fundición de tipos, composición e impresión.</p>\n<p>Guarda además libros de todas las épocas, escrituras de muchas culturas, papel, carteles y unos 100.000 ex libris, entre ellos los de Einstein y Dickens. El edificio Schell de la Liebfrauenplatz cerró en octubre de 2024 a la espera de una nueva sede, y la exposición se muestra de forma provisional en el Museo de Historia Natural.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJp1988BqXvUcRtwl0aS00naM",
+     "https://www.openstreetmap.org/node/264527030",
+     "https://www.mainz.de/en/microsite/gutenberg-museum/Museum/interimsplanungen",
+     "https://en.wikipedia.org/wiki/Gutenberg_Museum",
+     "https://de.wikipedia.org/wiki/Gutenberg-Museum"
+    ]
+   }
+  },
+  {
+   "id": "museo-y-parque-de-kalkriese",
+   "campos": {
+    "texto": {
+     "general": "<p>En Kalkriese, al norte de Osnabrück, los arqueólogos creen haber hallado el escenario de la <b>batalla del bosque de Teutoburgo</b>, en el año <b>9 d. C.</b>, una de las mayores derrotas de Roma. Allí los germanos dirigidos por <b>Arminio</b>, un jefe querusco educado en el ejército romano, tendieron una emboscada a las tres legiones del gobernador <b>Publio Quintilio Varo</b> y las aniquilaron. Según Suetonio, al saberlo Augusto se golpeaba la cabeza contra las paredes gritando: «¡Varo, devuélveme mis legiones!». Roma renunció a conquistar Germania más allá del Rin.</p>\n<p>Las primeras pistas las encontró en 1987-1988 el oficial británico y arqueólogo aficionado <b>Tony Clunn</b>: monedas y balas de honda romanas. Desde 1988 las excavaciones han sacado unos 6.000 objetos en una franja de paso de unos 220 metros entre el monte Kalkrieser y una gran turbera: espadas, puntas de lanza, clavos de sandalias, monedas de oro, huesos y la famosa <b>máscara de hierro de un jinete romano</b>, que estuvo cubierta de plata. Una plomada lleva la inscripción de la «primera cohorte».</p>\n<p>El parque se abrió para la Expo 2000 y el museo, obra de los arquitectos Gigon y Guyer, en 2001-2002. Postes de hierro marcan el trazado del muro de tierra desde el que atacaron los germanos, reconstruido en un tramo, y placas de acero en el suelo señalan el camino de las legiones. Una torre de unos 40 metros domina el campo de batalla.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Kalkriese",
+     "https://en.wikipedia.org/wiki/Battle_of_the_Teutoburg_Forest",
+     "https://de.wikipedia.org/wiki/Museum_und_Park_Kalkriese"
+    ]
+   }
+  },
+  {
+   "id": "reichstag",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Reichstag</b> es el edificio del Parlamento alemán, junto al río Spree y al Tiergarten de Berlín. Se construyó entre 1884 y <b>1894</b> en estilo neorrenacentista, según los planos del arquitecto <b>Paul Wallot</b>, para la Dieta del Imperio alemán, y después acogió al parlamento de la República de Weimar. En 1916 se colocó en su fachada la inscripción <i>Dem deutschen Volke</i> («Al pueblo alemán»), pese a la oposición del káiser Guillermo II.</p>\n<p>El <b>27 de febrero de 1933</b>, cuatro semanas después de que Hitler llegara a la cancillería, un incendio provocado lo dañó gravemente. Hitler culpó a los comunistas y logró un decreto que suprimía las libertades, un paso clave para la dictadura. En la batalla de Berlín de 1945 fue un objetivo simbólico del Ejército Rojo, y el 2 de mayo el fotógrafo Yevgueni Jaldéi retrató a un soldado soviético izando la bandera en el tejado. Durante la Guerra Fría quedó en Berlín Occidental, sin uso como parlamento.</p>\n<p>Tras la reunificación, en 1995 los artistas Christo y Jeanne-Claude lo envolvieron en tela, y entre 1995 y 1999 el arquitecto <b>Norman Foster</b> lo transformó en la sede del Bundestag. Su gran novedad es la <b>cúpula de cristal</b>, abierta al público, desde la que se ve el pleno.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJbVDuQcdRqEcR5X3xq9NSG2Q",
+     "https://en.wikipedia.org/wiki/Reichstag_building"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-colonia",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>catedral de Colonia</b>, dedicada a san Pedro, es una de las mayores catedrales góticas de Europa y, con sus torres de <b>157 metros</b>, la catedral más alta del mundo. Se empezó en <b>1248</b> para albergar un tesoro: las reliquias de los <b>Reyes Magos</b>, que el arzobispo Reinaldo de Dassel trajo de Milán en 1164, botín del emperador Federico Barbarroja. Para ellas se labró entre 1190 y 1225 el <b>relicario de los Tres Reyes</b>, una de las obras de orfebrería más refinadas de la Edad Media.</p>\n<p>Las obras se pararon en el siglo XVI y durante siglos la catedral quedó a medias, con una grúa sobre la torre sur. El entusiasmo romántico por la Edad Media y el hallazgo de los planos originales de la fachada llevaron a retomarla en 1842 siguiendo esos planos medievales, aunque con técnicas modernas, y se terminó en <b>1880</b>: tras 632 años, fue durante unos años el edificio más alto del mundo. En la Segunda Guerra Mundial recibió catorce impactos de bombas, pero siguió en pie entre las ruinas de una ciudad arrasada. Es Patrimonio de la Humanidad desde 1996.</p>\n<p>Dentro destacan el relicario dorado tras el altar, la <b>cruz de Gero</b> (hacia 960), el crucifijo grande más antiguo al norte de los Alpes, el retablo de los patronos de la ciudad de Stefan Lochner y la vidriera de píxeles de colores de Gerhard Richter (2007). Se puede subir a la torre sur por 533 escalones, hasta un mirador a unos 100 metros.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Cologne_Cathedral"
+    ]
+   }
+  },
+  {
+   "id": "iglesia-de-santo-tomas-y-museo-bach",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>iglesia de Santo Tomás</b> (<i>Thomaskirche</i>) de Leipzig es un templo luterano de gótico tardío ligado para siempre a <b>Johann Sebastian Bach</b>. Entre 1212 y 1222 la iglesia anterior pasó a ser la del nuevo monasterio de canónigos de Santo Tomás, y a esa fecha se remonta su coro de niños, el <b>Thomanerchor</b>, uno de los más antiguos y famosos de Alemania, que todavía canta.</p>\n<p>Bach fue <b>cantor de Santo Tomás</b>, es decir, director de música de la iglesia y profesor de su escuela, desde <b>1723 hasta su muerte en 1750</b>, durante 27 años. Para sus servicios escribió buena parte de sus cantatas y dirigió el coro. Sus restos descansan en la iglesia desde 1950: la nueva tumba, bajo el suelo del presbiterio y con una losa de bronce, se inauguró el 28 de julio de ese año, en el segundo centenario de su muerte. Junto a la iglesia se alza la gran <b>estatua de bronce de Bach</b> del escultor Carl Seffner, de 1908, y enfrente la de Felix Mendelssohn, que vivió en Leipzig de 1835 a 1847.</p>\n<p>Al otro lado de la plaza, en la barroca casa Bose, el <b>Museo Bach</b>, parte del Archivo Bach, cuenta su vida y su música; se inauguró en 1985, en el tercer centenario de su nacimiento.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/St._Thomas_Church,_Leipzig",
+     "https://en.wikipedia.org/wiki/Bach_Museum_Leipzig"
+    ]
+   }
+  },
+  {
+   "id": "fuggerei",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Fuggerei</b> de Augsburgo es el <b>barrio social más antiguo del mundo todavía en uso</b>. El banquero <b>Jakob Fugger «el Rico»</b> la fundó el <b>23 de agosto de 1521</b> para dar casa a los ciudadanos de Augsburgo que habían caído en la pobreza; las primeras viviendas se levantaron entre 1516 y 1523 bajo la dirección del arquitecto Thomas Krebs. Jakob, banquero de los Habsburgo, financió en 1519 la elección de <b>Carlos V</b> como emperador.</p>\n<p>Es una pequeña ciudad dentro de la ciudad, con murallas y cinco puertas que todavía se cierran cada noche a las diez. Hoy tiene 67 casas con 147 viviendas y la iglesia de San Marcos, añadida en 1582. Sus vecinos siguen pagando el mismo alquiler que hace 500 años, un florín renano al año, unos <b>0,88 euros</b>, y rezan a diario por los Fugger. Para vivir allí hay que llevar al menos dos años en Augsburgo, ser católico y haber caído en la pobreza sin deudas.</p>\n<p>Dañada por los bombardeos de la Segunda Guerra Mundial, se reconstruyó con su aspecto original. Una casa es museo. Una placa recuerda que allí vivió entre 1681 y 1694 el albañil Franz Mozart, bisabuelo de Wolfgang Amadeus Mozart.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Fuggerei",
+     "https://de.wikipedia.org/wiki/Fuggerei"
+    ]
+   }
+  }
+ ]
+}

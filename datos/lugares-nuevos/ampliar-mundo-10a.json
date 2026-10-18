@@ -1,0 +1,405 @@
+{
+ "zona": "Ampliar mundo-10a",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "cacaxtla",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Cacaxtla</b> fue una ciudad del sur del actual estado de Tlaxcala que vivió su esplendor en el <b>Epiclásico</b>, entre los años 650 y 900 de nuestra era, cuando el poder de Teotihuacan ya se había hundido. Su corazón es el <b>Gran Basamento</b>, una plataforma natural de unos 200 metros de largo y 25 de alto, con buena posición defensiva, donde se alzaban los edificios religiosos y civiles y las casas de la élite. Hoy lo protege un gran techo metálico moderno. Junto a la vecina Xochitécatl, de carácter más ceremonial, controlaba rutas comerciales del valle de Puebla-Tlaxcala; hacia el año 1000 la ciudad ya estaba abandonada.</p><p>El sitio se redescubrió en <b>1975</b>, cuando unos vecinos de la zona dieron con el rostro pintado de un personaje en un muro. Lo que salió después asombró a los arqueólogos: <b>murales de colores muy vivos</b> que mezclan la simbología del altiplano mexicano con un estilo claramente <b>maya</b>, visible en las joyas, los tocados y la forma de dibujar a las personas, y que muestran los contactos entre regiones lejanas.</p><p>El más famoso es el <i>Mural de la Batalla</i>, de casi 26 metros, pintado antes del año 700: un grupo de guerreros armados con lanzas y lanzadardos derrota a otros, de perfil maya, que solo llevan plumas y joyas de jade. En el llamado Edificio A destacan el <b>hombre-pájaro</b>, vestido de ave sobre una serpiente emplumada, y su pareja, el hombre-jaguar.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Cacaxtla",
+     "https://es.wikipedia.org/wiki/Cacaxtla"
+    ]
+   }
+  },
+  {
+   "id": "malinalco",
+   "campos": {
+    "texto": {
+     "general": "<p>En lo alto del cerro de los Ídolos, sobre el pueblo de Malinalco (Estado de México), está uno de los edificios más singulares de Mesoamérica: un <b>templo mexica tallado directamente en la roca de la montaña</b>, la única construcción monolítica de grandes dimensiones del país. Los mexicas sometieron la zona en <b>1476</b>, bajo Axayácatl, y levantaron aquí un santuario para su élite militar, los <b>guerreros águila y jaguar</b>, sobre un lugar ceremonial más antiguo.</p><p>El edificio principal, el <b>Cuauhcalli</b> o Casa de las Águilas, se empezó en <b>1501</b>; según su excavador, José García Payón, que inició los trabajos en 1936, las obras del sitio corresponden a los reinados de <b>Ahuízotl y Moctezuma II</b>. Servía para ritos como la iniciación de los guerreros. Se entra subiendo trece escalones flanqueados por dos felinos, y la puerta imita las fauces abiertas de una serpiente, con colmillos y lengua bífida. Dentro, en la sala redonda, una banqueta tallada en la roca muestra dos águilas y un jaguar, con otra águila en el centro del suelo.</p><p>Hoy se llega por una escalera de unos 426 escalones que sube 125 metros. El sitio tiene seis edificios, y en el pueblo está el Museo Universitario Dr. Luis Mario Schneider, con una reproducción del Cuauhcalli.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/26619694",
+     "https://en.wikipedia.org/wiki/Malinalco",
+     "https://es.wikipedia.org/wiki/Zona_arqueol%C3%B3gica_de_Malinalco",
+     "https://difusion.inah.gob.mx/images/guias/102_malinalco.pdf"
+    ]
+   }
+  },
+  {
+   "id": "palacio-nacional-y-murales-de-diego-rive",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Palacio Nacional</b> ocupa todo el lado oriental del <b>Zócalo</b> de Ciudad de México, con una fachada de tezontle rojo de más de 200 metros. En este solar estuvo el palacio de <b>Moctezuma II</b>, y tras la conquista Hernán Cortés levantó aquí su propia residencia, casi una fortaleza. En <b>1562</b> la Corona española se la compró a su hijo Martín Cortés y se convirtió en el palacio de los <b>virreyes</b> de Nueva España. Quemado en 1624 y casi destruido en el motín de 1692, se rehízo con aspecto barroco. Desde la independencia es sede del gobierno de México.</p><p><b>Benito Juárez</b> vivió en él al final de su mandato y murió aquí el 18 de julio de 1872; sus habitaciones se conservan. Sobre el balcón central cuelga la <b>campana de Dolores</b>, la que tocó Miguel Hidalgo en 1810 para llamar a la rebelión: cada 15 de septiembre, poco antes de las once de la noche, el presidente la hace sonar al dar el Grito.</p><p>Lo que no hay que perderse son los murales de <b>Diego Rivera</b>. En la escalera principal pintó, entre 1929 y 1935, <i>La epopeya del pueblo mexicano</i>, unos 450 m² con la historia de México desde el mundo prehispánico y Quetzalcóatl hasta la Revolución. En las galerías del primer piso siguen sus paneles sobre las culturas prehispánicas, como el mercado de Tlatelolco.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/National_Palace_(Mexico)",
+     "https://es.wikipedia.org/wiki/Palacio_Nacional_(M%C3%A9xico)"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-chapultepec",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>castillo de Chapultepec</b> corona el cerro del mismo nombre, un lugar sagrado para los mexicas, a 2.325 metros de altitud y en la entrada del gran bosque de Ciudad de México. Lo empezó en <b>1785</b> el virrey Bernardo de Gálvez como casa de recreo, pero murió al año siguiente y la obra quedó a medias. En <b>1833</b> se instaló en él el <b>Colegio Militar</b>.</p><p>El 13 de septiembre de <b>1847</b>, durante la guerra con Estados Unidos, lo asaltaron las tropas estadounidenses y murieron defendiéndolo los cadetes conocidos como <b>«Niños Héroes»</b>, a los que recuerda un gran mural en el techo de la entrada. En 1864 el emperador <b>Maximiliano</b> y <b>Carlota</b> lo convirtieron en su residencia, lo reformaron al gusto europeo y trazaron un bulevar recto hasta el centro, el Paseo de la Emperatriz, en honor de Carlota. Desde 1882 fue residencia oficial de los presidentes, entre ellos <b>Porfirio Díaz</b>, que lo reformó, hasta que Lázaro Cárdenas se trasladó a Los Pinos en 1934. El 16 de enero de <b>1992</b> se firmaron aquí los acuerdos de paz que pusieron fin a la guerra civil de El Salvador.</p><p>Desde 1939 alberga el <b>Museo Nacional de Historia</b>. Se recorren las salas y dormitorios amueblados de Maximiliano y Carlota, las vidrieras, el jardín de la azotea y la torre del Caballero Alto, con vistas sobre la ciudad.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Chapultepec_Castle",
+     "https://es.wikipedia.org/wiki/Castillo_de_Chapultepec"
+    ]
+   }
+  },
+  {
+   "id": "xochicalco",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Xochicalco</b>, «en la casa de las flores» en náhuatl, es una ciudad levantada sobre varios cerros del oeste de Morelos, a unos 38 km de Cuernavaca. Vivió su apogeo tras la caída de Teotihuacan, en el <b>Epiclásico (700-900)</b>, cuando llegó a tener hasta 20.000 habitantes. Los cerros se recortaron en terrazas y se rodearon de fosos y murallas: era una <b>ciudad fortificada</b>, con calzadas y escaleras que unían las terrazas. Hacia el año 900 fue incendiada y abandonada a toda prisa. Es Patrimonio de la Humanidad desde 1999.</p><p>Fue también un gran centro de comercio, con relaciones con Oaxaca, Guerrero, la costa del Pacífico y el área maya. Su joya es la <b>pirámide de la Serpiente Emplumada</b>, cubierta de relieves con serpientes ondulantes, personajes sentados de aspecto maya y los nombres de pueblos que le pagaban tributo; se la considera una cuna del culto a Quetzalcóatl.</p><p>Hoy se ven tres juegos de pelota, palacios, temazcales y el <b>observatorio</b>: una cueva con una chimenea de 8,7 metros por la que entra el sol entre el 30 de abril y el 15 de agosto; los días en que pasa por el cenit, el rayo cae vertical y proyecta la imagen del sol en el suelo. El museo del sitio se ilumina con luz natural y placas solares.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Xochicalco",
+     "https://es.wikipedia.org/wiki/Zona_arqueol%C3%B3gica_de_Xochicalco"
+    ]
+   }
+  },
+  {
+   "id": "el-tajin",
+   "campos": {
+    "texto": {
+     "general": "<p><b>El Tajín</b>, cerca de Papantla (Veracruz), fue la gran ciudad de la costa del golfo de México. Floreció entre los años <b>600 y 1200</b>, controló buena parte del actual Veracruz y comerciaba con productos como la vainilla. A comienzos del siglo XIII fue incendiada y la selva la cubrió. Su nombre se relaciona con el dios totonaco del rayo. Es Patrimonio de la Humanidad desde 1992.</p><p>En 1785 un funcionario, Diego Ruiz, que buscaba plantaciones ilegales de tabaco, dio con la <b>pirámide de los Nichos</b>, su monumento más célebre: los nichos de la construcción original suman <b>365</b>, tantos como días tiene el año. La ciudad es famosa por sus <b>juegos de pelota</b>: se citan 17 y hasta 2013 se habían localizado una veintena, más que en ningún otro sitio de Mesoamérica. Los relieves del Juego de Pelota Sur cuentan mitos sobre el pulque y un jugador sacrificado.</p><p>Además del grupo central, merece la pena subir al <b>Tajín Chico</b>, el barrio de palacios en lo alto, con el Edificio de las Columnas, cuyos relieves narran la historia del gobernante 13 Conejo. El museo del sitio guarda esculturas y fragmentos de esas columnas. Junto a la entrada, los <b>voladores totonacos</b> hacen su ceremonia cada media hora.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/El_Taj%C3%ADn",
+     "https://es.wikipedia.org/wiki/El_Taj%C3%ADn"
+    ]
+   }
+  },
+  {
+   "id": "museo-del-meteorito-progreso",
+   "campos": {
+    "texto": {
+     "general": "<p>Bajo esta costa de Yucatán está enterrado el <b>cráter de Chicxulub</b>, de unos 180-200 kilómetros de diámetro, con su centro cerca del pueblo de Chicxulub Puerto, a pocos kilómetros de Progreso. Lo abrió hace <b>66 millones de años</b> un asteroide de unos 10 kilómetros, el que acabó con los dinosaurios no avianos y con cerca del 75 % de las especies de la Tierra.</p><p>No se ve en superficie: quedó tapado por calizas más jóvenes, a cerca de un kilómetro de profundidad. Lo detectaron en 1978 los geofísicos de Pemex Glen Penfield y Antonio Camargo por anomalías magnéticas y de gravedad, y en <b>1991</b> Alan Hildebrand y sus colegas lo identificaron como el cráter del impacto, que encajaba con la teoría del asteroide propuesta por Luis y Walter Álvarez. Una pista curiosa: un <b>anillo de cenotes</b> que dibuja su borde. En 2016 una perforación científica en el mar sacó rocas de su anillo de picos, a más de 1.300 metros bajo el fondo.</p><p>El museo cuenta esta historia con salas interactivas, rocas, fósiles y dinosaurios a tamaño real.</p><p class=\"dato\"><span>¿Sabías que…?</span>El cráter toma su nombre de Chicxulub Pueblo, una pequeña localidad del interior, y no del puerto de la costa.</p>"
+    },
+    "fuentes": [
+     "https://www.sopitas.com/?p=1804428",
+     "https://www.poresto.com/yucatan/2026/4/1/museo-del-meteorito-y-reserva-el-corchito-acumulan-mas-de-42-mil-visitantes-en-tres-meses.html",
+     "https://www.openstreetmap.org/node/11098100117",
+     "https://en.wikipedia.org/wiki/Chicxulub_crater"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-historia-del-gulag",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Estatal de Historia del Gulag</b> se dedicó al sistema soviético de campos de trabajo forzado, creado oficialmente en 1930 y disuelto en 1960. Por el Gulag pasaron unos <b>18 millones de personas</b> entre 1930 y 1953, y entre 1,5 y 1,7 millones murieron por las condiciones de su encierro.</p><p>Lo fundó en <b>2001</b> el historiador Antón Antónov-Ovséyenko, hijo de un dirigente bolchevique fusilado en 1938, en un pequeño edificio de la calle Petrovka. En 2015 se trasladó a una casa de cuatro plantas de 1906, en el primer callejón Samotiochni, renovada con una fachada de cobre. Su colección reunía objetos de presos, como chaquetones acolchados, documentos, carteles de propaganda y testimonios grabados de supervivientes. En 2021 recibió un premio del Consejo de Europa por tratar «con rara honestidad» los derechos humanos.</p><p>En noviembre de <b>2024</b> las autoridades de Moscú lo cerraron alegando fallos de seguridad contra incendios. En febrero de 2026 se anunció que el edificio pasaría a ser el <b>Museo de la Memoria</b>, dedicado al «genocidio del pueblo soviético» por los nazis; abrió el 22 de junio de 2026 y la antigua exposición sobre el Gulag fue desmontada.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/79561160",
+     "https://en.wikipedia.org/wiki/Gulag",
+     "https://meduza.io/en/feature/2026/08/11/moscow-s-gulag-museum-won-a-council-of-europe-prize-for-its-honesty-about-soviet-terror-the-state-has-now-replaced-it-with-a-museum-about-the-genocide-of-the-soviet-people-by-the-nazis",
+     "https://novayagazeta.eu/articles/2026/02/20/moscows-gulag-museum-renamed-museum-of-memory-and-dedicated-to-genocide-of-the-soviet-people-en-news"
+    ],
+    "ver_alli": [
+     "El edificio está en el primer callejón Samotiochni, al norte del centro de Moscú.",
+     "Desde 2026 funciona como Museo de la Memoria, con otra temática; la exposición sobre el Gulag ya no existe. Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ]
+   }
+  },
+  {
+   "id": "palacio-yusupov",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>palacio Yusúpov</b>, a orillas del río Moika, es una de las grandes mansiones nobles de San Petersburgo. Lo levantó hacia la década de 1770 el arquitecto francés Jean-Baptiste Vallin de la Mothe, y en los años <b>1830</b>, tras comprarlo la familia de los príncipes <b>Yusúpov</b>, Andréi Mijáilov lo reformó y le dio su aspecto actual. Los Yusúpov, inmensamente ricos, lo conservaron cinco generaciones y llenaron sus salones de obras de arte.</p><p>Aquí fue asesinado <b>Rasputín</b> la noche del 17 de diciembre de 1916 (30 de diciembre en nuestro calendario). El príncipe <b>Félix Yusúpov</b>, con Vladímir Purishkévich y el gran duque Dmitri Pávlovich, lo invitó a una pequeña sala del sótano, le sirvió vino y pasteles supuestamente envenenados y le disparó; Rasputín aún logró huir al patio, donde lo remataron, y su cuerpo acabó en el río. Tras la Revolución el palacio se nacionalizó y sus colecciones pasaron al Hermitage y al Museo Ruso.</p><p>Hoy se visitan los salones de gala y las habitaciones de los príncipes. En el sótano, figuras de cera recrean la escena del crimen. Su pequeño <b>teatro privado</b>, muy recargado, ha vuelto a acoger funciones.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/123243367",
+     "https://en.wikipedia.org/wiki/Moika_Palace",
+     "https://news.itmo.ru/en/news/9252/"
+    ]
+   }
+  },
+  {
+   "id": "iglesia-del-salvador-sobre-la-sangre-der",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>iglesia del Salvador sobre la Sangre Derramada</b>, junto al canal Griboyédov, se levantó entre <b>1883 y 1907</b> en el punto exacto donde el 13 de marzo de <b>1881</b> los revolucionarios de Naródnaya Volia lanzaron una bomba contra el zar <b>Alejandro II</b>, que murió horas después en el Palacio de Invierno. La pagaron la familia imperial y donantes privados, y la diseñaron Alfred Parland y el archimandrita Ignati.</p><p>A diferencia del resto de la ciudad, barroca y neoclásica, imita a propósito la arquitectura rusa medieval, como las iglesias de Yaroslavl y la de San Basilio de Moscú, con sus <b>cúpulas de colores</b> en forma de bulbo. Dentro, paredes y techos están cubiertos con más de <b>7.000 m² de mosaicos</b> de escenas bíblicas. Los soviéticos la cerraron en 1932; en el sitio de Leningrado sirvió de depósito de cadáveres y después de almacén de verduras, de ahí su apodo de «Salvador de las Patatas».</p><p>Tras 27 años de restauración reabrió en 1997 como museo de mosaicos. No hay que perderse el templete de piedras semipreciosas levantado sobre el lugar del atentado, que conserva el trozo de <b>calzada adoquinada</b> donde cayó el zar.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Church_of_the_Savior_on_Blood"
+    ]
+   }
+  },
+  {
+   "id": "kronstadt",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Kronstadt</b> es la ciudad fortaleza de la isla de Kotlin, en el fondo del golfo de Finlandia, a unos 30 km al oeste de San Petersburgo. <b>Pedro el Grande</b> arrebató la isla a los suecos en 1703, durante la Gran Guerra del Norte, y en mayo de 1704 inauguró sus primeras defensas para proteger por mar su nueva capital. Con fuertes levantados sobre islotes artificiales, fue durante siglos el escudo de San Petersburgo y la base principal de la <b>flota del Báltico</b>.</p><p>Sus marineros apoyaron a los bolcheviques en 1917, pero en <b>marzo de 1921</b> se rebelaron contra ellos, pidiendo libertad de expresión y el fin de la represión; el Ejército Rojo y la Checa aplastaron la revuelta. En la Segunda Guerra Mundial sufrió duros bombardeos alemanes.</p><p>El gran monumento es la <b>catedral Naval de San Nicolás</b> (1903-1913), en la plaza del Ancla, obra de Vasili Kosiakov al estilo neobizantino, con una gran cúpula inspirada en Santa Sofía. Dedicada a los marinos caídos, fue cine y museo en época soviética y se volvió a consagrar en 2013. La ciudad forma parte del Patrimonio de la Humanidad de San Petersburgo y es lugar de peregrinación por san Juan de Kronstadt.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/672484672",
+     "https://en.wikipedia.org/wiki/Kronstadt",
+     "https://en.wikipedia.org/wiki/Kronstadt_Naval_Cathedral"
+    ]
+   }
+  },
+  {
+   "id": "cementerio-memorial-de-piskariovskoye",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>cementerio memorial de Piskarióvskoye</b>, en el norte de San Petersburgo, es el gran lugar de memoria del <b>sitio de Leningrado</b> (1941-1944). En sus <b>186 fosas comunes</b> están enterrados unos <b>420.000 civiles</b> y unos <b>50.000 soldados</b> del frente de Leningrado. Cada fosa lleva solo una losa con el año de las muertes, sin nombres.</p><p>El conjunto, diseñado por los arquitectos Alexandr Vasíliev y Yevgueni Levinson, se inauguró el 9 de mayo de <b>1960</b>, aniversario de la victoria. Una placa de mármol resume el horror del cerco: entre el 4 de septiembre de 1941 y el 22 de enero de 1944 cayeron sobre la ciudad más de 107.000 bombas y 148.000 proyectiles, y murieron de hambre 641.803 personas.</p><p>A la entrada arde una <b>llama eterna</b>. Desde ella, unas escaleras de granito bajan al paseo central, de 480 metros, que lleva hasta la estatua de bronce de la <b>Madre Patria</b>, de Vera Isáyeva y Robert Taurit. En el muro de detrás se lee un largo poema con el verso más famoso del memorial: «Nadie ha sido olvidado, nada ha sido olvidado».</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/9890438",
+     "https://en.wikipedia.org/wiki/Piskaryovskoye_Memorial_Cemetery"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-cosmonautica",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo de la Cosmonáutica</b> de Moscú ocupa la base del <b>Monumento a los Conquistadores del Espacio</b>, un gigantesco obelisco de <b>107 metros</b> forrado de <b>titanio</b>, por idea de Koroliov, que representa un cohete despegando sobre su estela. Se inauguró el 4 de octubre de <b>1964</b>, séptimo aniversario del Sputnik, tras un concurso de unas 350 propuestas. El museo previsto en su base no abrió hasta el 10 de abril de <b>1981</b>, en vísperas del vigésimo aniversario del vuelo de Gagarin.</p><p>Su gran tema es el programa espacial soviético: <b>Yuri Gagarin</b>, el ingeniero <b>Serguéi Koroliov</b>, el Sputnik y las naves Soyuz. Reabrió en 2009, el Día de la Cosmonáutica, tras tres años de obras que casi triplicaron su tamaño y añadieron salas sobre otros programas, como los de Estados Unidos, Europa, China y la Estación Espacial Internacional. Guarda unas 85.000 piezas.</p><p>No hay que perderse la cápsula de Gagarin de 1961, los trajes espaciales, el vehículo lunar Lunojod, los motores de cohete y a <b>Belka y Strelka</b> disecadas, las perras que en agosto de 1960 pasaron un día en órbita y volvieron vivas. Fuera, la avenida de los Cosmonautas, con sus estatuas, lleva hasta el metro.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/18440666",
+     "https://en.wikipedia.org/wiki/Memorial_Museum_of_Cosmonautics",
+     "https://en.wikipedia.org/wiki/Monument_to_the_Conquerors_of_Space",
+     "https://en.wikipedia.org/wiki/Belka_and_Strelka",
+     "https://amusingplanet.com/2021/12/belka-and-strelka-soviet-space-dogs.html"
+    ]
+   }
+  },
+  {
+   "id": "convento-y-cementerio-de-novodevichi",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>convento de Novodévichi</b>, «de las Nuevas Doncellas», se alza junto a un meandro del río Moscova. Lo fundó el gran príncipe <b>Basilio III</b> el 13 de mayo de <b>1524</b>, en agradecimiento por la conquista de Smolensk diez años antes, y formaba parte del cinturón de monasterios fortificados que defendía Moscú. Su edificio más antiguo es la catedral de Nuestra Señora de Smolensk, de 1524-1525, con cinco cúpulas e iconos regalados por Borís Godunov.</p><p>Muchas damas de la familia real tomaron aquí el velo, por voluntad propia o a la fuerza. La regente <b>Sofía</b>, hermanastra de <b>Pedro el Grande</b>, renovó el convento en la década de 1680 y, tras perder el poder, vivió encerrada en él de 1689 a 1704. De esa época son sus murallas rojas con torres coronadas y el esbelto campanario, en estilo barroco moscovita. En 1812 las monjas impidieron que las tropas de Napoleón lo volaran. Es Patrimonio de la Humanidad desde 2004.</p><p>Junto a la muralla sur está el <b>cementerio</b>, abierto en 1898-1904, el más prestigioso de Rusia, con más de 27.000 sepulturas. Chéjov fue de los primeros en enterrarse aquí, y Gógol fue trasladado después. Hay que buscar las tumbas de <b>Jrushchov, Gorbachov y Yeltsin</b>, de Bulgákov, Maiakovski, Eisenstein, Prokófiev y <b>Shostakóvich</b>.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/1543094",
+     "https://en.wikipedia.org/wiki/Novodevichy_Convent",
+     "https://en.wikipedia.org/wiki/Novodevichy_Cemetery"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-dostoievski",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Literario y Memorial de Dostoievski</b> ocupa el piso del callejón Kuznechni, 5/2, en el centro de San Petersburgo, donde <b>Fiódor Dostoievski</b> vivió dos veces: brevemente en 1846, al empezar su carrera, y desde octubre de 1878 hasta su muerte, en enero de 1881. Abrió el 12 de noviembre de <b>1971</b>, en el 150 aniversario de su nacimiento, y se reconstruyó a partir de los recuerdos de su segunda mujer, <b>Anna Dostoyévskaya</b>, que era su taquígrafa y llevaba sus negocios.</p><p>En este piso escribió su última gran novela, <i>Los hermanos Karamázov</i> (1879-1880), además de artículos de su <i>Diario de un escritor</i> y su famoso discurso sobre Pushkin. Murió en el despacho. La familia iba a misa a la cercana iglesia de Vladímir, que se ve desde una de las ventanas.</p><p>Se recorren el <b>despacho</b>, con su gran escritorio y una caja de tabaco en la que su hija anotó el día de su muerte; el <b>reloj</b>, parado a las ocho de la tarde del 28 de enero de 1881; su <b>sombrero de copa</b>, que recibe al visitante; el cuarto de los niños, el comedor y la habitación de Anna. Hay además una sala de exposición sobre su vida y obra, y la biblioteca guarda unos 24.000 volúmenes.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/node/507091461",
+     "https://en.wikipedia.org/wiki/Dostoevsky_Museum",
+     "https://museumstudiesabroad.org/dostoevsky-house-museum-petersburg",
+     "https://rusmania.com/north-western/st-petersburg-federal-city/st-petersburg/bezymyanny-island-and-the-south/around-zagorodny-prospekt-and-troitsky-prospekt/fyodor-dostoevsky-literary-memorial-museum"
+    ]
+   }
+  },
+  {
+   "id": "mausoleo-de-lenin",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>mausoleo de Lenin</b>, en la Plaza Roja, guarda el cuerpo embalsamado de <b>Vladímir Lenin</b>, expuesto al público desde poco después de su muerte, el 21 de enero de <b>1924</b>. Dos días después se encargó al arquitecto <b>Alexéi Shchúsev</b> una tumba provisional de madera, junto a la muralla del Kremlin, que recibió más de 100.000 visitantes en seis semanas. A esa le siguió otra de madera, mayor, y por fin el edificio actual, terminado en <b>1930</b>.</p><p>Es una <b>pirámide escalonada</b> de hormigón revestida de granito rojo, labradorita negra y pórfido, que recuerda tumbas antiguas como la pirámide de Zoser o la de Ciro el Grande. Su tribuna servía a los dirigentes soviéticos para presidir los desfiles militares. En octubre de 1941, con los alemanes cerca de Moscú, el cuerpo se evacuó a Tiumén, en Siberia. Entre 1953 y 1961 el cuerpo embalsamado de <b>Stalin</b> descansó a su lado, y el edificio se llamó mausoleo de Lenin y Stalin.</p><p>Dentro, una escalera baja a la sala fúnebre, con bandas de labradorita y pórfido que imitan llamas y banderas, y el sarcófago en el centro. Detrás, junto a la muralla del Kremlin, está la necrópolis con las tumbas de Stalin y otros dirigentes soviéticos y las urnas de figuras como <b>Yuri Gagarin</b>.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/3272726",
+     "https://en.wikipedia.org/wiki/Lenin%27s_Mausoleum",
+     "https://en.wikipedia.org/wiki/Kremlin_Wall_Necropolis"
+    ]
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-borodino",
+   "campos": {
+    "texto": {
+     "general": "<p>En los campos de <b>Borodinó</b>, a las afueras de Moscú, se libró el 7 de septiembre de <b>1812</b> la gran batalla de la invasión napoleónica de Rusia. Unos 250.000 soldados se enfrentaron en el día más sangriento de las guerras napoleónicas: la Grande Armée de <b>Napoleón</b> contra el ejército ruso de <b>Kutúzov</b>. Murieron o cayeron heridos hasta 50 generales franceses y 29 rusos, entre ellos el príncipe <b>Bagratión</b>, herido de muerte. Los rusos se retiraron y Napoleón entró en Moscú, pero no logró destruir a su enemigo. Él mismo lo resumió: «los franceses se mostraron dignos de la victoria y los rusos, de ser invencibles».</p><p>El campo es hoy un gran museo al aire libre con decenas de monumentos a los regimientos y reductos reconstruidos, como las flechas de Bagratión. En la batería de Raievski se levanta el monumento principal a los héroes rusos, un obelisco de 1837 de 27,5 metros, junto al que se volvió a enterrar a Bagratión; los bolcheviques lo derribaron en 1932 y se rehízo en 1987. En 1912 se erigió también un raro monumento a los soldados franceses caídos. En octubre de 1941 volvió a haber combates aquí, frente a los alemanes.</p><p>En Moscú, el Museo Panorama de Borodinó muestra la pintura circular de Franz Roubaud, de <b>115 metros</b> de largo y 15 de alto, pintada para el centenario de 1912.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/263655741",
+     "https://en.wikipedia.org/wiki/Battle_of_Borodino",
+     "https://en.wikipedia.org/wiki/Borodino_Field",
+     "https://rusmania.com/central/moscow-region/mozhaisk/sights/borodino/borodino-state-military-and-historical-museum-reserve",
+     "https://www.visitmuseums.ru/en/museum-f7410edf-708b-4520-999f-e9ea8c7d6ac5.html",
+     "https://en.wikipedia.org/wiki/Franz_Roubaud"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-catalina-en-tsarskoye-selo",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>palacio de Catalina</b> está en Tsárskoye Seló, «la aldea del zar», a unos 30 km al sur de San Petersburgo; la ciudad se llama hoy <b>Pushkin</b>. Pedro el Grande regaló la finca a su esposa, Catalina I, que en 1723 se hizo construir aquí un palacio de piedra. Su hija, la emperatriz <b>Isabel</b>, lo amplió y en 1751 encargó a <b>Bartolomeo Rastrelli</b> su gran reforma, terminada en 1756: una fachada de unos 300 metros, de paredes azul cielo, columnas blancas y estucos dorados. Fue residencia de verano de los zares, y Catalina la Grande añadió los interiores neoclásicos de Charles Cameron. Forma parte del Patrimonio de la Humanidad de San Petersburgo.</p><p>La joya era la <b>Sala de Ámbar</b>, con paneles regalados en 1716 por el rey de Prusia a Pedro el Grande: más de 55 m² y 6 toneladas de ámbar. En la Segunda Guerra Mundial los nazis la saquearon y se la llevaron a Königsberg; desde 1944 su rastro se pierde y nunca se ha encontrado. Al retirarse, los alemanes incendiaron el palacio y solo dejaron los muros. La reconstrucción empezó en 1957, y la nueva Sala de Ámbar se inauguró en 2003.</p><p>No hay que perderse el Gran Salón de Rastrelli, de 860 m², lleno de espejos y tallas doradas. Junto al palacio está el <b>Liceo</b> abierto en 1811, donde estudió Pushkin.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/17546726",
+     "https://en.wikipedia.org/wiki/Catherine_Palace",
+     "https://en.wikipedia.org/wiki/Amber_Room",
+     "https://en.wikipedia.org/wiki/Tsarskoye_Selo_Lyceum"
+    ]
+   }
+  },
+  {
+   "id": "estacion-de-vladivostok",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>estación de Vladivostok</b> es el final del <b>Transiberiano</b>, la línea de ferrocarril más larga del mundo: más de 9.289 km desde la estación Yaroslavski de Moscú, a través de ocho husos horarios. La línea se construyó entre 1891 y 1916, y desde ese año une directamente Moscú con el Pacífico. En el andén, un poste marca el <b>kilómetro 9.288</b>.</p><p>La primera piedra del edificio, proyectado por P. E. Bazilevski, la puso el 19 (31) de mayo de <b>1891</b> el zarévich Nicolás, el futuro Nicolás II, y la estación abrió en 1893. Entre 1910 y 1912 el ingeniero V. A. Planson la amplió en <b>estilo neorruso</b>, a imagen de la estación Yaroslavski de Moscú, de donde salen los trenes: el principio y el final de la línea se parecen. En época soviética perdió sus escudos y adornos, que recuperó con la restauración de 1994-1996. Junto al andén se exhibe la locomotora de vapor Ea-3306, llegada en 1945 con la ayuda estadounidense de préstamo y arriendo, como homenaje a los ferroviarios de la guerra.</p><p>Vladivostok, fundada en 1860 junto a la bahía del Cuerno de Oro, es desde 1872 la gran base naval rusa del Pacífico y sede de la flota del Pacífico. Se puede visitar el submarino museo S-56, de la Segunda Guerra Mundial, y ver los dos grandes puentes atirantados levantados para la cumbre de 2012, el del Cuerno de Oro y el de la isla Russki.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/node/3965162817",
+     "https://en.wikipedia.org/wiki/Vladivostok_railway_station",
+     "https://en.wikipedia.org/wiki/Trans-Siberian_Railway",
+     "https://en.wikipedia.org/wiki/Vladivostok",
+     "https://en.wikipedia.org/wiki/Soviet_submarine_S-56",
+     "https://visit-primorye.ru/en/what-to-do/parovoz-ea-3306"
+    ]
+   }
+  },
+  {
+   "id": "iglesia-sobre-la-sangre-de-ekaterimburgo",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>iglesia sobre la Sangre</b>, dedicada a Todos los Santos que brillaron en tierra rusa, se levanta en Ekaterimburgo en el solar de la <b>casa Ipátiev</b>, la mansión de un comerciante donde los bolcheviques retuvieron a la familia imperial. En la madrugada del 16 al 17 de julio de <b>1918</b> el zar <b>Nicolás II</b>, la zarina Alejandra, sus cuatro hijas, el zarévich Alexéi y tres sirvientes y su médico fueron llevados al sótano y asesinados a tiros y bayonetazos.</p><p>La casa se convirtió en lugar de peregrinación clandestina. En 1977, a punto de cumplirse los 60 años de la Revolución, el Politburó ordenó derribarla y el encargo recayó en <b>Borís Yeltsin</b>, entonces jefe del partido en la región, que la demolió en septiembre de ese año; en sus memorias, de 1990, escribió que tarde o temprano se avergonzarían de «esta barbarie». Aun así, los peregrinos siguieron acudiendo de noche al solar vacío.</p><p>La iglesia, de estilo neobizantino, se construyó entre 2000 y <b>2003</b> y se consagró el 16 de julio de 2003, 85 años después del crimen. El conjunto, de 2.760 m², tiene dos iglesias, un campanario y un museo sobre la familia imperial. El altar mayor queda justo sobre el lugar del asesinato, y fuera una cruz ortodoxa marca dónde estaba el sótano.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/46993203",
+     "https://en.wikipedia.org/wiki/Church_of_All_Saints,_Yekaterinburg",
+     "https://en.wikipedia.org/wiki/Ipatiev_House"
+    ]
+   }
+  },
+  {
+   "id": "kremlin-de-tobolsk",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>kremlin de Tobolsk</b> es el único kremlin de piedra de Siberia. Ocupa lo alto de una colina sobre la confluencia de los ríos Tobol e <b>Irtish</b>. Tobolsk se fundó en <b>1587</b> junto a las ruinas de Qashliq o Sibir, la capital del kan <b>Kuchum</b>, que los cosacos de <b>Yermak</b> habían conquistado en 1582. Fue la segunda ciudad rusa de Siberia, el centro de la conquista del territorio y durante siglos su capital histórica.</p><p>Su primer edificio de piedra fue la catedral de Santa Sofía y la Asunción (1683-1686), levantada por canteros llegados de Moscú y de Veliki Ústiug. A finales del siglo XVII y comienzos del XVIII siguió las obras <b>Semión Rémezov</b>, cartógrafo y primer historiador de Siberia, con ayuda de prisioneros suecos desterrados en la ciudad; suya es la torre de la puerta de Dmitri, de 1712. El campanario de 1799 fue durante mucho tiempo el edificio más alto de la ciudad. En la ciudad hay un monumento de granito a Yermak, de 1839.</p><p>En agosto de 1917 el Gobierno Provisional desterró a Tobolsk a <b>Nicolás II</b> y su familia, que vivieron en la casa del gobernador, de 1790, antes de ser trasladados a Ekaterimburgo, donde fueron asesinados.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/node/1419266194",
+     "https://en.wikipedia.org/wiki/Tobolsk_Kremlin",
+     "https://en.wikipedia.org/wiki/Tobolsk"
+    ]
+   }
+  },
+  {
+   "id": "fortaleza-de-san-pedro-y-san-pablo",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>fortaleza de San Pedro y San Pablo</b> es el lugar donde nació San Petersburgo. <b>Pedro el Grande</b> la fundó el 27 de mayo (16 en el calendario antiguo) de <b>1703</b> en la pequeña isla de las Liebres, junto a la orilla norte del <b>Nevá</b>, y entre 1706 y 1740 se rehízo en piedra, en forma de estrella, según los planos de Domenico Trezzini.</p><p>Su centro es la <b>catedral de San Pedro y San Pablo</b> (1712-1733), también de Trezzini, la primera iglesia de piedra de la ciudad. Su aguja dorada, coronada por un ángel con una cruz, alcanza unos 123 metros y es el campanario ortodoxo más alto del mundo. Dentro reposan casi todos los emperadores, desde Pedro el Grande hasta <b>Nicolás II</b> y su familia, enterrados aquí en julio de 1998. Desde hacia 1720 hasta comienzos de los años veinte la fortaleza fue también <b>cárcel de presos políticos</b>, y en 1919 se fusiló entre sus muros a cuatro grandes duques Románov.</p><p>Es museo desde 1924. Además de la catedral se visitan el bastión de Trubetskói, con sus celdas, y el museo de la ciudad; dentro sigue funcionando la Casa de la Moneda. Cada día, a mediodía, se dispara un <b>cañonazo</b>, una tradición que se mantiene desde 1873.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/227969",
+     "https://en.wikipedia.org/wiki/Peter_and_Paul_Fortress",
+     "https://en.wikipedia.org/wiki/Saints_Peter_and_Paul_Cathedral,_Saint_Petersburg"
+    ]
+   }
+  },
+  {
+   "id": "islas-solovetski",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>monasterio de Solovetski</b>, en las islas del mismo nombre en el <b>mar Blanco</b>, fue una de las mayores ciudadelas cristianas del norte de Rusia. Los monjes Germán y Savvati vivieron en la isla desde 1429, y en 1436 el monje Zósimo fundó el monasterio. Sus grandes edificios son del siglo XVI, cuando lo gobernó el abad Filip Kolychov. Lo rodea una muralla de 8 a 11 metros de alto y 4 a 6 de grosor, hecha con enormes cantos rodados, con siete puertas y ocho torres levantadas entre 1584 y 1594.</p><p>Fue un bastión de los <b>viejos creyentes</b>: entre <b>1668 y 1676</b> resistió ocho años de asedio del ejército del zar Alejo por negarse a aceptar la reforma de los ritos del patriarca Nikon, hasta que un monje mostró a los sitiadores una ventana sin vigilancia. En 1854, en la guerra de Crimea, aguantó nueve horas de bombardeo de tres barcos británicos. En la época soviética se convirtió en uno de los primeros campos del <b>Gulag</b> (1926-1939), prototipo de los demás, donde estuvieron presos muchos escritores.</p><p>Los monjes volvieron en los años noventa y el conjunto es también museo. Fue uno de los primeros lugares de Rusia inscritos como Patrimonio de la Humanidad, en 1992.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/38704042",
+     "https://en.wikipedia.org/wiki/Solovetsky_Monastery",
+     "https://en.wikipedia.org/wiki/Solovetsky_Monastery_uprising"
+    ]
+   }
+  },
+  {
+   "id": "kremlin-de-kazan",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>kremlin de Kazán</b>, capital de Tartaristán, es la ciudadela histórica de la ciudad. Lo mandó levantar <b>Iván el Terrible</b> sobre las ruinas del castillo de los kanes de Kazán, que conquistó en <b>1552</b>, y para reconstruirlo en piedra llamó a los célebres arquitectos de Pskov Póstnik Yákovlev e Iván Shiriái, llamado Barma. Es Patrimonio de la Humanidad desde 2000.</p><p>Su edificio más antiguo es la catedral ortodoxa de la <b>Anunciación</b> (1554-1562), construida con la arenisca clara de la zona. Destacan también sus murallas y torres blancas, como la torre del Salvador, entrada principal, y la <b>torre de Söyembikä</b>, de fecha incierta, ligada a la leyenda de la última reina de Kazán; llegó a inclinarse casi dos metros, hasta que se estabilizó en el siglo XX. La residencia del gobernador, de Konstantín Thon, es hoy el palacio del presidente de Tartaristán.</p><p>Dentro del recinto se alza la gran mezquita de <b>Kul Sharif</b>, inaugurada el 24 de junio de 2005 y reconstruida en recuerdo de la mezquita del siglo XVI que destruyeron las tropas de Iván en 1552, cuando murió defendiéndola el imán Kul Sharif con sus alumnos. La mezquita y la catedral, restauradas por el mismo decreto, son símbolo de la convivencia entre rusos y tártaros.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/14454789",
+     "https://en.wikipedia.org/wiki/Kazan_Kremlin",
+     "https://en.wikipedia.org/wiki/S%C3%B6yembik%C3%A4_Tower",
+     "https://en.wikipedia.org/wiki/Kul_Sharif_Mosque"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-peterhof",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Peterhof</b>, «la corte de Pedro», es el conjunto de palacios y jardines que <b>Pedro el Grande</b> mandó construir a orillas del golfo de Finlandia como respuesta rusa a Versalles, sobre todo tras su visita a la corte francesa en 1717. Desde 1714 trabajaron aquí Domenico Trezzini y el paisajista Jean-Baptiste Le Blond, y más tarde Bartolomeo Rastrelli amplió el Gran Palacio para la emperatriz Isabel (1745-1755). El pequeño palacio de Monplaisir (1714-1723), junto al mar, se hizo según bocetos del propio zar. Forma parte del Patrimonio de la Humanidad de San Petersburgo.</p><p>Su gran espectáculo es la <b>Gran Cascada</b>, al pie del palacio, con 64 fuentes y estatuas doradas que vierten al canal del Mar. En el centro, la fuente de <b>Sansón</b> abriendo las fauces de un león simboliza la victoria sobre Suecia en la Gran Guerra del Norte. Lo más asombroso es que las fuentes funcionan <b>sin bombas</b>: el agua llega de manantiales a los estanques del jardín alto y la pendiente da la presión.</p><p>Los alemanes ocuparon Peterhof en septiembre de 1941 y, al retirarse, lo dejaron en gran parte <b>destruido</b>: volaron y quemaron el palacio y se llevaron estatuas como la de Sansón, repuesta en 1947. La restauración empezó nada más acabar la guerra. Merece la pena recorrer el jardín bajo, con sus cascadas y fuentes, y el palacio de Monplaisir.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/7483660",
+     "https://en.wikipedia.org/wiki/Peterhof_Palace"
+    ]
+   }
+  },
+  {
+   "id": "yasnaya-poliana",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Yásnaya Poliana</b>, «el claro luminoso», es la finca a 12 km de Tula y unos 200 de Moscú donde nació <b>León Tolstói</b>, el 9 de septiembre de 1828, y donde vivió casi toda su vida. Él la llamaba su «inaccesible fortaleza literaria». Aquí escribió <i>Guerra y paz</i> (1862-1869), sobre la invasión napoleónica de 1812, y <i>Ana Karénina</i> (1873-1877), a mano y con letra diminuta, mientras su mujer, Sofía, pasaba a limpio los borradores una y otra vez. Sus trece hijos nacieron en el mismo sofá de cuero en que había nacido él.</p><p>Tolstói trabajaba a menudo en el campo con los campesinos y fundó una <b>escuela para sus hijos</b>. Por la finca pasaron muchos de los grandes artistas rusos de su tiempo, como el pintor Iliá Repin. En 1921 se convirtió en museo estatal, dirigido al principio por su hija Alexandra. En 1941 los alemanes la ocuparon 45 días y usaron la casa como hospital.</p><p>Se visitan su casa, con sus objetos y su biblioteca de 22.000 volúmenes, la escuela y el parque. Una avenida de abedules lleva a la casa. En el bosque está su <b>tumba</b>, sencilla y sin adornos, en el lugar que eligió: el claro de la «varita verde», bautizado así por su hermano mayor, Nikolái, que le contaba de niño que quien encontrara allí una varita mágica nunca moriría ni enfermaría.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/node/471809697",
+     "https://en.wikipedia.org/wiki/Yasnaya_Polyana"
+    ]
+   }
+  },
+  {
+   "id": "casa-museo-de-chaikovski",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>casa museo de Chaikovski</b>, en Klin, a unos 85 km al noroeste de Moscú, es la casa de campo donde <b>Piotr Ilich Chaikovski</b> vivió desde mayo de 1892 hasta su muerte, en 1893. Llevaba años buscando en la zona un lugar tranquilo para trabajar y aquí, en la casa de los Sájarov, con un gran jardín, lo encontró.</p><p>En esta casa terminó las partituras de <i>Iolanta</i> y <i>El cascanueces</i> y compuso la <b>Sexta Sinfonía</b>, la <i>Patética</i>, su última gran obra, en una sencilla mesa de abedul de Carelia junto a la ventana del dormitorio. En octubre de 1893 salió de Klin para dirigir su estreno en San Petersburgo, donde murió días después. Su hermano <b>Modest</b> convirtió la casa en el primer museo musical y memorial de Rusia. En 1941-1942 los alemanes la ocuparon y usaron la planta baja como garaje, pero las colecciones se habían evacuado a Vótkinsk, la ciudad natal del compositor, y el museo reabrió el 6 de mayo de 1945.</p><p>Se conservan la casa, sus muebles y el jardín como él los dejó, con los lirios de los valles que tanto le gustaban. En el salón está su <b>piano Becker</b>: pocos músicos han podido tocarlo, entre ellos Vladimir Horowitz y, desde 1958, los ganadores del Concurso Internacional Chaikovski, que se celebra cada cuatro años.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/69732171",
+     "https://en.wikipedia.org/wiki/Tchaikovsky_State_House-Museum",
+     "https://en.wikipedia.org/wiki/International_Tchaikovsky_Competition"
+    ]
+   }
+  },
+  {
+   "id": "museo-apartamento-de-pushkin",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>museo-apartamento de Pushkin</b>, en el número 12 del canal <b>Moika</b>, a pocos pasos del Hermitage, es el último piso de <b>Alexandr Pushkin</b>, el gran poeta ruso. Se instaló aquí con su familia en septiembre de 1836, en un piso de once habitaciones, y solo vivió en él los cuatro últimos meses de su vida.</p><p>Los rumores de un romance entre su mujer, Natalia Goncharova, y el oficial francés <b>Georges d'Anthès</b> lo llevaron a retarlo en duelo a finales de enero de 1837. Herido de muerte, lo trajeron a casa y lo tendieron en el sofá de su despacho, donde murió el 29 de enero (10 de febrero en nuestro calendario) de <b>1837</b>, rodeado de amigos. El museo se creó en 1925-1927 y las habitaciones se reconstruyeron según un plano del poeta Vasili Zhukovski, amigo suyo, y otros documentos.</p><p>El centro de la visita es el <b>despacho</b>, con su escritorio, las estanterías de libros y el sofá donde agonizó. Se exponen además el <b>chaleco</b> que llevaba el día del duelo, su máscara mortuoria y un medallón con un mechón de su pelo. En el patio hay una estatua del poeta, de 1952. Cada año, el 10 de febrero, el museo celebra el día de su memoria.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/100549426",
+     "https://www.encspb.ru/object/2855751237?lc=en",
+     "https://museumstudiesabroad.org/pushkin-house-museum-petersburg/",
+     "https://en.wikipedia.org/wiki/Alexander_Pushkin"
+    ]
+   }
+  },
+  {
+   "id": "teatro-bolshoi",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Teatro Bolshói</b>, «el Grande», es el teatro de ópera y ballet más célebre de Rusia. La compañía nació en <b>1776</b>, cuando el príncipe Piotr Urúsov recibió licencia para organizar funciones, en sociedad con el equilibrista inglés Michael Maddox. El edificio actual, en la plaza del Teatro de Moscú, lo proyectó Joseph Bové y se inauguró el 18 de enero de <b>1825</b>. Tras el incendio de 1853 lo reconstruyó Alberto Cavos, y reabrió en <b>1856</b>. Su fachada neoclásica, con el pórtico de columnas coronado por la cuadriga de bronce de Peter Clodt, aparece en el billete de 100 rublos.</p><p>Desde sus comienzos está unido al <b>ballet</b>: aquí se estrenó <i>El lago de los cisnes</i> de Chaikovski el 4 de marzo de <b>1877</b>. Tras la muerte de Stalin, en 1953, su compañía empezó a hacer giras por el extranjero y se convirtió en una de las más famosas del mundo. En la Segunda Guerra Mundial una bomba dañó el edificio.</p><p>Entre 2005 y 2011 estuvo cerrado por una gran restauración que le devolvió la acústica y la decoración imperial de 1856; reabrió el 28 de octubre de 2011, con un aforo de 1.740 localidades. Junto a él funciona desde 2002 una Nueva Escena.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/node/6061084593",
+     "https://en.wikipedia.org/wiki/Bolshoi_Theatre",
+     "https://es.wikipedia.org/wiki/Teatro_Bolsh%C3%B3i",
+     "https://en.wikipedia.org/wiki/Peter_Clodt_von_J%C3%BCrgensburg"
+    ]
+   }
+  },
+  {
+   "id": "crucero-aurora",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>crucero Aurora</b> es uno de los tres cruceros de la clase Pallada, construidos en San Petersburgo para el Pacífico. Se botó en 1900 y entró en servicio en julio de <b>1903</b>. En la guerra ruso-japonesa luchó en la batalla de <b>Tsushima</b> (1905), donde murió su capitán, Yevgueni Yegóriev; el barco, con daños ligeros, se refugió en Manila, bajo protección estadounidense, y después volvió al Báltico.</p><p>Su fama le viene de octubre de <b>1917</b>: según la tradición, el cañonazo de fogueo que disparó fue la señal del asalto al <b>Palacio de Invierno</b>. Esa misma noche había ayudado a despejar el puente Nikoláyevski de cadetes fieles al gobierno. En la Segunda Guerra Mundial sus cañones se desmontaron para defender Leningrado; el barco, amarrado en Oranienbaum, fue hundido el 30 de septiembre de 1941 y reflotado y reparado después de la guerra. Se dio de baja en 1948.</p><p>Es <b>barco museo</b> desde 1956 y está amarrado frente a la escuela naval Najímov. Entre 2014 y 2016 se reparó en Kronstadt y volvió a su amarre el 16 de julio de 2016. Dentro, un museo naval cuenta la historia del barco y de sus tripulantes.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/3272566",
+     "https://en.wikipedia.org/wiki/Russian_cruiser_Aurora"
+    ]
+   }
+  }
+ ]
+}

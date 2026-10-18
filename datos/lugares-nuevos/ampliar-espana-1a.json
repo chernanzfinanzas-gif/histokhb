@@ -1,0 +1,558 @@
+{
+ "zona": "Ampliar espana-1a",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "puerta-de-palmas",
+   "campos": {
+    "texto": {
+     "general": "<p>Quien llegaba a Badajoz desde el puente sobre el Guadiana entraba por esta puerta, terminada en <b>1551</b>. Es hoy el símbolo de la ciudad: un arco de traza <b>renacentista</b> que, como otras puertas de su tiempo, imita los arcos de triunfo romanos levantados en honor de los soberanos, flanqueado por dos sólidos torreones cilíndricos. Al principio se llamó <b>Puerta Nueva</b>; tomó el nombre de Palmas en el siglo XVII, cuando se abrió otra puerta en la muralla.</p><p>Sobre el arco exterior, de medio punto, luce el <b>escudo de Carlos V</b>. Además de entrada fortificada, fue punto de vigilancia, alojamiento y control de aduanas y de impuestos. Sus torreones sirvieron de <b>prisión real</b> hasta finales del siglo XIX. Cuando en el siglo XVII se rehízo el sistema defensivo tras la guerra con Portugal, la puerta se respetó, aunque se suprimieron los fosos inundables. En <b>1933</b> se derribó parte de la muralla vecina para que la ciudad creciera y se uniera con la estación de ferrocarril, y la puerta perdió su papel militar.</p><p>Hoy se alza aislada en medio de una rotonda, frente al puente de Palmas. En su interior hay una pequeña capilla de la <b>Virgen de los Ángeles</b>: en la restauración de <b>1960</b>, dirigida por el arquitecto municipal Francisco Vaca Morales, el artista Guillermo Silveira hizo para ella la imagen de la Virgen y dos bajorrelieves.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Puerta_de_Palmas",
+     "https://www.openstreetmap.org/?mlat=38.8806&mlon=-6.9756#map=18/38.8806/-6.9756"
+    ]
+   }
+  },
+  {
+   "id": "la-mata",
+   "campos": {
+    "texto": {
+     "general": "<p>La Mata, en término de <b>Campanario</b>, es una <b>casa fuerte tartésica</b> de los siglos VI-V a. C. Los vecinos llamaban a sus restos «los Montones de Tierra»: bajo un gran montículo se escondía un edificio en forma de U, de <b>dos plantas</b> y quizá una terraza, de unos <b>seis metros</b> de altura, rodeado por un muro de mampostería, un terraplén y un <b>foso</b>. Está a 18 km en línea recta de <b>Cancho Roano</b>.</p><p>En 1930 ya se excavó una tumba en un montículo cercano, cuyo ajuar de vasijas con cenizas y huesos se ha perdido. El edificio principal lo estudió la <b>Universidad de Extremadura</b>, con sondeos entre 1990 y 1994 y excavaciones en 1996 y 1999. Más pequeña que Cancho Roano, tenía un carácter más <b>agrícola</b>: aparecieron molinos de mano, ánforas de tradición fenicio-púnica, vasijas de almacén, fusayolas de hilar y huesos de vacas, ovejas y cabras. Forma parte del paisaje de grandes edificios que, tras la decadencia del centro de Tartessos en el Guadalquivir, florecieron en el valle medio del Guadiana entre los siglos VI y IV a. C.</p><p>Hoy se recorren las estancias, con muros de adobe que en algún punto conservan hasta tres metros de altura.</p>"
+    },
+    "fuentes": [
+     "https://ninos.kiddle.co/Yacimiento_arqueol%C3%B3gico_de_La_Mata",
+     "https://es.wikipedia.org/wiki/Yacimiento_arqueol%C3%B3gico_de_La_Mata",
+     "https://www.openstreetmap.org/?mlat=38.8702&mlon=-5.6781#map=18/38.8702/-5.6781",
+     "https://www.google.com/maps/place/?q=place_id:ChIJZXaBWt30FA0RCkPoOerRkj8",
+     "https://dehesa.unex.es/bitstream/10662/12599/1/2254-0512_3_101.pdf"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-fregenal-de-la-sierra",
+   "campos": {
+    "texto": {
+     "general": "<p>Pocos castillos tienen dentro una plaza de toros y un mercado. Se desconoce cuándo se construyó, pero la primera noticia es de <b>1283</b>, cuando Alfonso X concedió Fregenal a la <b>Orden del Temple</b>, que ocupó el castillo hasta 1308. Aquel año el rey reclamó la villa, los templarios no obedecieron y el concejo de Sevilla la recuperó por la fuerza. Formaba parte de las fortalezas de la llamada Banda Gallega, que guardaban el reino de Sevilla frente a Portugal.</p><p>Su recinto tiene <b>siete torres</b>: seis cuadradas y una pentagonal. Los muros son de mampostería, con sillería en las esquinas y la portada, sobre la que hay un escudo atribuido a los templarios. La principal es la <b>torre del Homenaje</b>, con arcos apuntados y matacán, a la que en el siglo XVIII se añadió un campanario con reloj. Gran parte de las almenas actuales son de la Guerra de la Independencia.</p><p>En el antiguo patio de armas se construyó a finales del siglo XVIII una <b>plaza de toros</b>, ampliada a comienzos del XX. Entre 1914 y 1915, derribando un lienzo de muralla, se levantó además el <b>mercado de abastos</b>. Una de las torres es compartida con la vecina iglesia de Santa María, que queda unida al castillo. Tras su restauración se puede recorrer el paseo de ronda y visitar la gran sala de la torre del Homenaje.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Fregenal_de_la_Sierra",
+     "https://www.openstreetmap.org/?mlat=38.1705&mlon=-6.6529#map=18/38.1705/-6.6529"
+    ]
+   }
+  },
+  {
+   "id": "alcazaba-de-merida",
+   "campos": {
+    "texto": {
+     "general": "<p>La alcazaba de Mérida, levantada en <b>835</b> por orden del emir <b>Abderramán II</b>, es la fortificación musulmana más antigua que se conserva en la península ibérica. Mérida, una de las capitales de la frontera del emirato, se rebelaba contra Córdoba desde el año 805. Tras someterla, el emir mandó construir esta fortaleza junto al puente romano sobre el Guadiana, para vigilar la ciudad y el paso del río. Lo recuerda su <b>lápida fundacional</b>, que habla de un refugio «para los obedientes» y nombra a los encargados de la obra.</p><p>Es un recinto cuadrado de unos <b>130 metros de lado</b>, con muros de 2,70 m de grosor y unos 10 de altura, torres en las esquinas y muchas más pequeñas en los lienzos. Sus muros reaprovechan sillares <b>romanos y visigodos</b>, e incluso pilastras visigodas decoradas. Dentro está el famoso <b>aljibe</b>, al que se baja por una doble escalera desde una torre y que se llenaba con agua del Guadiana filtrada por el terreno. Tras la conquista cristiana de 1230, la <b>Orden de Santiago</b> instaló en un ángulo su sede y encomienda, con iglesia y claustro del siglo XVI; hoy ese edificio aloja la Presidencia de la Junta de Extremadura.</p><p>Dentro del recinto se ven además restos de una calzada romana, de la muralla fundacional de <i>Augusta Emerita</i> y de una casa del siglo IV con mosaicos. Forma parte del conjunto arqueológico de Mérida, Patrimonio de la Humanidad.</p>"
+    },
+    "fuentes": [
+     "https://www.consorciomerida.org/conjunto/visita/entradas",
+     "https://www.openstreetmap.org/?mlat=38.9147&mlon=-6.3466#map=18/38.9147/-6.3466",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ3fDdnUknFA0RTETj0Wodww0",
+     "https://es.wikipedia.org/wiki/Alcazaba_de_M%C3%A9rida"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-feria",
+   "campos": {
+    "texto": {
+     "general": "<p>El castillo de Feria corona un cerro cónico de cuarcita sobre el que se asienta el pueblo, dominando una inmensa llanura. El lugar estuvo fortificado mucho antes: los musulmanes tuvieron aquí una alcazaba, ampliada en el siglo XI por al-Aftas, fundador de la taifa de Badajoz. En <b>1394</b> Enrique III entregó la villa a Gomes Suárez de Figueroa, hijo del maestre de Santiago Lorenzo Suárez de Figueroa: fue el origen del linaje de los Feria, cuyo dominio incluía Zafra. El hijo de Gomes, Lorenzo II, recibió en 1460 el título de conde de Feria.</p><p>La primera torre y el conjunto principal se construyeron a mediados del <b>siglo XV</b>; en 1460 se hicieron reformas importantes, que se terminaron en <b>1513</b>. El recinto, de unos 7.000 m², sigue el relieve con murallas de trazado irregular, torres redondas y prismáticas y aljibes. Su gran pieza es la <b>torre del homenaje</b>: de planta cuadrada con las <b>esquinas redondeadas</b>, alcanza <b>40 metros</b> de altura y 18 de lado. Tiene cuatro cuerpos: el sótano con el aljibe mayor, la residencia del señor y dos plantas más. Para dificultar el asalto, su parte baja no tiene puertas y se entraba desde la muralla.</p><p>Hoy la primera planta de la torre está restaurada. Fíjate en su puerta gótica con rosetas y en el matacán redondo. Desde arriba se veían los castillos de Zafra, Nogales y Villalba de los Barros, con los que se comunicaba por señales.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Feria",
+     "https://www.openstreetmap.org/?mlat=38.515&mlon=-6.5678#map=18/38.515/-6.5678",
+     "https://es.wikipedia.org/wiki/Condado_de_Feria",
+     "https://es.wikipedia.org/wiki/Lorenzo_Su%C3%A1rez_de_Figueroa"
+    ]
+   }
+  },
+  {
+   "id": "magacela",
+   "campos": {
+    "texto": {
+     "general": "<p>El dolmen de Magacela, también llamado de la Cerca del Marzo, es un sepulcro de la <b>Edad del Cobre</b>, al noreste del pueblo, en la comarca de La Serena. Su fecha se ha deducido por su parecido con otros dólmenes, como el de Toriñuelo, porque no ha dado ajuar funerario que permita datarlo directamente.</p><p>Conserva una cámara circular de unos <b>5 metros</b> de diámetro formada por <b>doce losas de granito</b> clavadas en anillo, de 1,75 m de altura media; las dos de la entrada, más altas, rondan los dos metros. El corredor, de unos nueve metros, no se ha conservado. No se sabe cómo se cubría: quizá con una falsa cúpula, con una gran losa o con un techo de madera.</p><p>Lo mejor está en el interior: cinco de sus piedras tienen <b>grabados</b>. Una lleva un <b>sol de once rayos</b>, de unos 24 cm, una serpiente de más de medio metro y un motivo vertical en forma de pluma que no tiene paralelo en los grabados megalíticos de la Península; otras muestran cazoletas, surcos y una figura en forma de hoja. La Serena es muy rica en dólmenes, estelas y grabados rupestres.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Dolmen_de_Magacela",
+     "https://www.openstreetmap.org/?mlat=38.9012&mlon=-5.7294#map=18/38.9012/-5.7294",
+     "https://www.google.com/maps/place/?q=place_id:ChIJIwWVJIj1FA0RoXsmowoa6J4"
+    ]
+   }
+  },
+  {
+   "id": "alcazar-de-zafra",
+   "campos": {
+    "texto": {
+     "general": "<p>En <b>1437</b> Lorenzo II Suárez de Figueroa, señor y más tarde primer conde de Feria, mandó levantar este alcázar en Zafra. Las obras duraron unos seis años, y el permiso real de Juan II llegó en 1441, con el edificio ya muy avanzado. Servía a la vez de residencia señorial y de refuerzo de la muralla en su punto más débil, y su <b>torre del homenaje</b> simbolizaba el poder de la casa de Feria. Aunque la traza es gótica, la decoración es de gusto <b>mudéjar</b>, y por fuera tiene un aspecto fiero y solemne.</p><p>Por dentro guarda la <b>sala dorada</b> y una capilla con techumbre mudéjar, de la época del segundo conde. Cuando los Feria ascendieron a duques, el patio medieval se sustituyó por un elegante <b>patio de mármol blanco</b> renacentista, obra del segundo duque (1571-1609), atribuido durante mucho tiempo, sin razón, a Juan de Herrera. Desde 1605 se construyó además una galería que unía el palacio con la iglesia de Santa Marina. Delante de la entrada, la antigua plaza de armas es hoy una plaza de la ciudad.</p><p>Fue declarado <b>monumento histórico-artístico en 1931</b> y hoy es Bien de Interés Cultural. Las obras para convertirlo en <b>Parador de Turismo</b> empezaron en 1965; durante años se llamó Parador Hernán Cortés y hoy lleva el nombre de los Duques de Feria.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_de_los_Duques_de_Feria_(Zafra)",
+     "https://www.openstreetmap.org/?mlat=38.4242&mlon=-6.4169#map=18/38.4242/-6.4169"
+    ]
+   }
+  },
+  {
+   "id": "arco-de-trajano-merida",
+   "campos": {
+    "texto": {
+     "general": "<p>Este gran arco de medio punto, de <b>granito</b>, se levanta en una calle del centro de Mérida. Mide unos <b>15 metros</b> de altura —dos de ellos hoy bajo el suelo—, casi <b>9 metros</b> de luz y 13 de extremo a extremo; sus dovelas y sillares tienen 1,4 metros de alto. Iba recubierto de mármol, como delatan los agujeros de anclaje que aún se ven.</p><p>Por su aspecto se pensó que era un arco de triunfo; también se ha propuesto que fuera una puerta del primer recinto de la ciudad. La hipótesis más extendida es que marcaba la entrada monumental a un <b>segundo foro</b>, de carácter provincial —Mérida era la capital de la Lusitania—, con un templo de <b>culto imperial</b>: en su entorno han aparecido bronces, esculturas e inscripciones. Desde el arco se puede trazar la línea del <i>cardo maximus</i>, una de las calles principales de <i>Augusta Emerita</i>, confirmada por los restos de una gran cloaca hallada en el siglo XVIII. Al perderse el revestimiento y sus inscripciones, es muy difícil fecharlo.</p><p>Es Bien de Interés Cultural desde 1912 y, desde 1993, parte del conjunto arqueológico de Mérida, Patrimonio de la Humanidad.</p><p class=\"dato\"><span>¿Sabías que…?</span>Lo de «Trajano» es pura tradición local: no hay nada que lo relacione con ese emperador.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Arco_de_Trajano_(Mérida)",
+     "https://www.openstreetmap.org/?mlat=38.9178&mlon=-6.3464#map=18/38.9178/-6.3464"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-olivenza",
+   "campos": {
+    "texto": {
+     "general": "<p>Olivenza fue portuguesa durante cinco siglos: desde el tratado de Alcañices (<b>1297</b>), por el que Castilla la cedió a Portugal, hasta la guerra de las Naranjas (<b>1801</b>), cuando la ocupó España, que la retuvo por el tratado de Badajoz de ese mismo año. En 1815 el Congreso de Viena recomendó devolverla a Portugal, pero nunca se hizo. Su castillo es la mejor huella de aquella frontera.</p><p>El rey portugués don Dinis amuralló la villa en 1298. El castillo se levantó en tiempos de Alfonso IV de Portugal y en <b>1488</b> Juan II de Portugal lo reforzó con una formidable <b>torre del homenaje</b> de 36 metros de altura y 18 de lado, que llegó a ser la más alta del reino. Por dentro no se sube por escaleras: <b>diecisiete rampas</b> abovedadas recorren sus tres plantas, de las que la última es la más decorada. Las gruesas murallas del siglo XIV, sin almenas, conservan sus matacanes, y las puertas de la Gracia y de San Sebastián cierran la vieja ciudadela medieval.</p><p>Dentro del conjunto del castillo está hoy el <b>Museo Etnográfico González Santana</b>, que recrea la vida de la comarca a comienzos del siglo XX. A pocos pasos se alza la iglesia parroquial de Santa María Magdalena.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Olivenza",
+     "https://www.openstreetmap.org/?mlat=38.6853&mlon=-7.099#map=18/38.6853/-7.099"
+    ]
+   }
+  },
+  {
+   "id": "casa-del-mitreo",
+   "campos": {
+    "texto": {
+     "general": "<p>Esta gran casa romana, a las afueras de la ciudad antigua de <i>Augusta Emerita</i>, en la ladera del cerro de San Albín, se descubrió a comienzos de los años sesenta del siglo XX. Se construyó a finales del siglo I o principios del II y estuvo habitada, con varias reformas, hasta finales del siglo IV. Debe su nombre al cercano <b>santuario de Mitra</b>, cuyos restos aparecieron cuesta arriba, donde hoy está la plaza de toros. Un corto pasillo comunicaba la casa con él, y se ha pensado que pudo vivir aquí un sacerdote del templo.</p><p>Se organizaba en torno a un <b>atrio</b> con columnas de granito en las esquinas y dos <b>peristilos</b>: el primero con un estanque rectangular y la llamada habitación de las pinturas, y el segundo, más grande, con un jardín, un canal de agua y una cisterna abovedada. Conserva <b>pinturas murales</b> que imitan mármoles, mosaicos geométricos en blanco y negro y dos habitaciones subterráneas con bóveda, a las que se baja por escaleras.</p><p>La joya es el <b>mosaico cosmogónico</b>, junto al atrio: una alegoría de la creación y el orden del universo, con ríos, vientos y otros elementos de la naturaleza presididos por la figura de <b>Aion</b>, el tiempo eterno. Una parte se ha perdido. La casa, hoy cubierta, es Bien de Interés Cultural, como zona arqueológica, desde 1990.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Casa_del_Mitreo",
+     "https://www.openstreetmap.org/?mlat=38.9112&mlon=-6.3411#map=18/38.9112/-6.3411",
+     "https://www.historyhit.com/locations/mithraeum-house-merida/"
+    ]
+   }
+  },
+  {
+   "id": "medellin-teatro",
+   "campos": {
+    "texto": {
+     "general": "<p>El teatro de <b>Metellinum</b>, la Medellín romana, ocupa la ladera sur del cerro del Castillo, dentro de un yacimiento cuyos orígenes se remontan al Bronce Final. La ciudad la fundó hacia el <b>79 a. C.</b> el cónsul <b>Quinto Cecilio Metelo Pío</b>, durante la guerra contra Sertorio, y de él tomó el nombre. El teatro se construyó a finales de la República o comienzos de la época de Augusto y se reformó en época de Claudio y en el siglo XII. Tenía sitio para unos <b>3.200 espectadores</b>.</p><p>Durante siglos los vecinos creyeron que sus ruinas eran un circo; fue José Ramón Mélida quien lo identificó como teatro en 1926. Tras una primera excavación en 1969-1970, los trabajos se reanudaron en <b>2007</b>. Las campañas han sacado a la luz el graderío, en estado excepcional, y el escenario, además de esculturas, columnas y el revestimiento de mármol del frente del escenario. La restauración, terminada en 2013, recibió ese año un <b>premio Europa Nostra</b>, y desde 2014 el teatro vuelve a acoger representaciones.</p><p>Sobre él se alza el castillo medieval, y a sus pies el puente del siglo XVII sobre el Guadiana. El centro de interpretación está en la antigua <b>iglesia de Santiago</b>, levantada en la ladera desde mediados del siglo XIII. Medellín es, además, la patria de Hernán Cortés.</p>"
+    },
+    "fuentes": [
+     "https://www.hoteles.net/badajoz/teatro-romano-medellin-badajoz.html",
+     "https://es.wikipedia.org/wiki/Medell%C3%ADn_(Espa%C3%B1a)",
+     "https://www.openstreetmap.org/?mlat=38.9662&mlon=-5.956#map=18/38.9662/-5.956",
+     "https://www.google.com/maps/place/?q=place_id:ChIJgbYdQidFFA0Rp16dixrCKSk",
+     "https://ancienttheatrearchive.com/theatre/metellinum-medellin-spain"
+    ]
+   }
+  },
+  {
+   "id": "torinuelo",
+   "campos": {
+    "texto": {
+     "general": "<p>El dolmen de Toriñuelo, en la granja del mismo nombre, a dos o tres kilómetros de Jerez de los Caballeros, es un sepulcro de la <b>Edad del Cobre</b>. Tiene una cámara ligeramente ovalada, de unos 3,8 por 3,5 metros, cerrada por trece losas —casi todas de granito y dos de pizarra— y cubierta en su día por una <b>falsa cúpula</b>, todo ello dentro de una colina artificial hecha con capas de arcilla y piedras apisonadas.</p><p>Se entra por un <b>corredor de unos 25 metros</b>, orientado de este a oeste, de hasta 1,42 m de altura en la entrada y con un pequeño nicho en un lateral; a la cámara se accede por una doble rampa. Tres de sus piedras tienen <b>grabados</b> de círculos, rayos y serpientes; las pinturas que alternaban con ellos se han perdido. Estaba junto a un paso de ganado, luego Cañada Real, y eso explica que el túmulo se reutilizara en los siglos I a. C. y I d. C., cuando se levantaron unos muros en su lado oeste.</p><p>Fue declarado Monumento Nacional en 1926 y desde 2009 es de titularidad pública.</p>"
+    },
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Dolmen_de_Tori%C3%B1uelo",
+     "https://es.wikipedia.org/wiki/Dolmen_de_Tori%C3%B1uelo",
+     "https://www.openstreetmap.org/?mlat=38.3321&mlon=-6.7139#map=18/38.3321/-6.7139",
+     "https://www.google.com/maps/place/?q=place_id:ChIJre5apFNIEQ0R5J1KxxFlOQU"
+    ]
+   }
+  },
+  {
+   "id": "cancho-roano",
+   "campos": {
+    "texto": {
+     "general": "<p>Cancho Roano, cerca de Zalamea de la Serena, es un palacio-santuario de tradición tartésica, del siglo VI al IV a. C., quemado y enterrado ritualmente por sus habitantes hacia el 370 a. C. Es uno de los edificios más singulares del Mediterráneo occidental.</p><p>Lo descubrió en 1978 el dueño de la finca al remover un montículo. Lo excavaron Juan Maluquer de Motes, hasta 1986, y después Sebastián Celestino, que comprobó que bajo el último edificio había otros dos más antiguos, el primero levantado hacia el 550 a. C. El último, de adobe sobre zócalo de pizarra, de planta cuadrada y orientado al este, con entrada entre dos torres, estaba rodeado de un <b>foso</b> poco profundo pensado para tener agua todo el año. Fue quemado y enterrado por sus propios habitantes en una <b>clausura ritual</b>, con miles de objetos dentro: ánforas con cereales, legumbres y frutos secos, cerámica griega de Atenas, muebles con marfil, joyas de plata, perfumeros, armas, arreos de caballo y bronces; dos habitaciones tenían telares.</p><p>Su función se discute: Maluquer lo llamó «palacete», otros ven un santuario o un altar de sacrificios. Fue declarado monumento nacional en 1986. Junto al yacimiento hay un centro de interpretación con una maqueta, y muchas piezas, como un <b>caballito de bronce</b>, están en el Museo Arqueológico Provincial de Badajoz.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Cancho_Roano",
+     "https://es.wikipedia.org/wiki/Cancho_Roano",
+     "https://www.openstreetmap.org/?mlat=38.701&mlon=-5.686#map=18/38.701/-5.686",
+     "https://en.wikipedia.org/wiki/Archaeological_Museum_of_Badajoz"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-badajoz",
+   "campos": {
+    "texto": {
+     "general": "<p>Tras la conquista de Badajoz por Alfonso IX de León en 1230, las obras de la catedral empezaron a mediados del siglo XIII, donde había habido una iglesia anterior, y fue consagrada a san Juan Bautista en <b>1276</b>, aunque no se terminó por completo hasta el siglo XVIII. Por su carácter fronterizo parece una <b>fortaleza</b>: muros fuertes, almenas y una torre sobria y poderosa. En ella se casaron en 1383 Juan I de Castilla y Beatriz de Portugal.</p><p>La torre mide <b>41 metros</b>; su cuerpo de campanas lo terminó Gaspar Méndez en 1542, el mismo que labró en 1546 la portada sur renacentista, la de San Blas. La fachada principal se encargó en 1619 y no se acabó hasta 1862. Dentro destacan el <b>coro</b> plateresco, obra de <b>Jerónimo de Valencia</b>, discípulo de Berruguete, entre 1555 y 1559, con 79 sillas y tres órganos, y el <b>retablo mayor</b> barroco de madera dorada, de Ginés López (1715-1717). El claustro (1509-1520) forma parte hoy del museo catedralicio, con tapices flamencos del siglo XVI.</p><p>Es monumento histórico-artístico desde 1931.</p><p class=\"dato\"><span>¿Sabías que…?</span>La gran lámpara del crucero, de 6,5 metros de alto y unos 3.750 kilos, llegó en 1878 desde el palacio del Congreso de los Diputados de Madrid.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_de_Badajoz",
+     "https://www.openstreetmap.org/?mlat=38.8784&mlon=-6.9698#map=18/38.8784/-6.9698"
+    ]
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-la-albuera",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>16 de mayo de 1811</b>, en plena Guerra de la Independencia, un ejército aliado español, británico y portugués al mando del general <b>Beresford</b>, con los generales españoles Blake y Castaños, se enfrentó aquí, a unos 22 km al sur de Badajoz, a los franceses del mariscal <b>Soult</b>, que intentaban levantar el asedio de Badajoz. Tras seis o siete horas de combate, el resultado quedó indeciso y los franceses se retiraron el día 18.</p><p>En proporción a los soldados que lucharon, fue <b>la batalla más sangrienta de toda la guerra</b>: los aliados tuvieron casi 6.000 bajas y los franceses, según las estimaciones, entre 6.000 y 8.000. Los lanceros polacos de Latour-Maubourg destrozaron tres regimientos británicos, y en plena lucha una <b>tormenta de granizo</b> dejó inútiles los mosquetes de ambos bandos. El 57.º regimiento británico resistió bajo el grito de su coronel herido, «¡Morid luchando, 57.º!», y ganó así su apodo de «los Duros de Matar» (<i>The Die-Hards</i>). La batalla tuvo poco efecto estratégico, pero demostró que británicos y españoles podían luchar juntos. Lord Byron la recordó en su poema <i>Las peregrinaciones de Childe Harold</i>.</p><p>El pueblo tiene un <b>centro de interpretación</b> y cada mes de mayo celebra una <b>recreación</b> de la batalla.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Batalla_de_La_Albuera",
+     "https://www.juntaex.es/w/20240516-la-junta-subraya-el-potencial-de-fiestas-de-interes-turistico-como-la-batalla-de-la-albuera-para-atraer-viajeros-a-extremadura",
+     "https://www.openstreetmap.org/?mlat=38.7165&mlon=-6.822#map=18/38.7165/-6.822",
+     "https://www.google.com/maps/place/?q=place_id:ChIJyyYA0U3BFg0RJzNb9IjaJ80"
+    ]
+   }
+  },
+  {
+   "id": "museo-arqueologico-de-badajoz",
+   "campos": {
+    "texto": {
+     "general": "<p>El Museo Arqueológico Provincial de Badajoz nació en <b>1867</b>, de la mano de la Comisión Provincial de Monumentos, y desde <b>1989</b> ocupa el <b>palacio de los Condes de la Roca</b>, dentro de la alcazaba de Badajoz: un palacio-fortaleza del siglo XVI de los Suárez de Figueroa, con gran patio central y ventanas mudéjares. Su recorrido cuenta la historia de la provincia desde el Paleolítico hasta el siglo XVI.</p><p>Es famosa su colección de <b>estelas de guerrero</b> del Bronce Final, la más numerosa del museo. Una de sus partes más importantes es la del mundo <b>tartésico del Guadiana</b>, con objetos de la necrópolis de Medellín y de <b>Cancho Roano</b>, el edificio de Zalamea de la Serena rodeado de un foso, que sus habitantes quemaron y enterraron a finales del siglo V o comienzos del IV a.C.: cerámica griega, bronces, marfiles y joyas. Siguen las salas de Roma, una de las mejores colecciones de piezas arquitectónicas visigodas decoradas y la época en que Badajoz fue capital de un reino de taifa, con la lápida de Sabur, su primer rey.</p><p>En 2023 expuso los <b>rostros de Casas del Turuñuelo</b>, en Guareña: cinco caras esculpidas en relieve, de finales del siglo V a.C., las primeras representaciones humanas conocidas de Tartessos. La muestra recibió más de diez mil visitas y se prorrogó.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Archaeological_Museum_of_Badajoz",
+     "https://www.juntaex.es/w/el-museo-arqueologico-de-badajoz-expondra-la-proxima-semana-los-rostros-de-el-turunuelo",
+     "http://museoarqueologicobadajoz.juntaex.es/web/view/portal/index/standardPage.php?id=46",
+     "https://es.wikipedia.org/wiki/Museo_Arqueol%C3%B3gico_Provincial_de_Badajoz"
+    ],
+    "ver_alli": [
+     "Palacio de los Condes de la Roca, en la alcazaba de Badajoz.",
+     "Las estelas de guerrero del Bronce Final, en el piso alto del patio.",
+     "Salas de Protohistoria con el mundo tartésico del Guadiana y las piezas de Cancho Roano.",
+     "Conviene consultar el horario en la web del museo antes de ir."
+    ]
+   }
+  },
+  {
+   "id": "lacara",
+   "campos": {
+    "texto": {
+     "general": "<p>El dolmen del Prado de Lácara, en término de La Nava de Santiago, es uno de los grandes <b>sepulcros de corredor</b> de la Península y el mayor documentado en Extremadura. Se levantó a finales del IV milenio o comienzos del III a. C., hacia el 3000 a. C., en un pequeño cerro de dehesa junto al río Lácara, y siguió usándose durante la Edad del Cobre.</p><p>La cámara, casi circular, mide unos <b>5 metros de diámetro</b>; la cámara y el corredor suman casi <b>20 metros de largo</b>, y todo lo cubría un túmulo de unos 30 metros de diámetro. A finales del siglo XIX el dolmen sirvió de cantera y fue volado con <b>dinamita</b>: aún se ven los agujeros de los barrenos. Solo una losa resistió entera; mide <b>5,2 metros</b> y da idea de lo enorme que era. El corredor se divide en tres tramos: un atrio y dos antecámaras.</p><p>Lo excavó Martín Almagro Basch en 1957-1958. Pese al saqueo aparecieron vasijas, cuchillos y alabardas de sílex, un centenar de puntas de flecha, cuentas de collar y un ídolo placa de pizarra decorado. Por su monumentalidad, y gracias a las gestiones de José Ramón Mélida, fue declarado Monumento Nacional en 1931.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Dolmen_del_prado_de_L%C3%A1cara",
+     "https://es.wikipedia.org/wiki/Dolmen_del_prado_de_L%C3%A1cara",
+     "https://www.openstreetmap.org/?mlat=39.0498&mlon=-6.4209#map=18/39.0498/-6.4209",
+     "https://www.google.com/maps/place/?q=place_id:ChIJJT5NYhCCFg0RKjcoYdUtb-0"
+    ]
+   }
+  },
+  {
+   "id": "maltravieso",
+   "campos": {
+    "texto": {
+     "general": "<p>La cueva de Maltravieso, hoy en un parque de la ciudad de <b>Cáceres</b>, se descubrió en <b>1951</b>, cuando un barreno abrió su entrada en una cantera de caliza. Los obreros que entraron hallaron restos humanos y cerámica, pero la cantera destruyó unos 30 metros de la primera sala. Conserva más de setenta <b>manos en negativo</b>, hechas soplando pintura sobre la mano apoyada en la roca. En muchas falta el dedo meñique, y en algunas, según las fotografías infrarrojas, se cubrió después con pintura. Hay también puntos, triángulos y figuras de ciervos, cabras, un bóvido y un caballo.</p><p>En <b>2018</b> un equipo internacional dirigido por el Instituto Max Planck y la Universidad de Southampton dató por el método del uranio-torio la costra de calcita que cubre una de las manos: unos <b>66.700 años</b>. El estudio, publicado en la revista <i>Science</i>, la atribuyó a los <b>neandertales</b>. Es uno de los tres casos españoles —con La Pasiega y Ardales— en los que se ha propuesto que los neandertales pintaron en cuevas. Varios especialistas discuten la fiabilidad de esas fechas.</p><p>En la cueva aparecieron también cráneos humanos, uno con una trepanación cicatrizada, y huesos de hiena, caballo y rinoceronte. Es Bien de Interés Cultural, y junto a ella hay un centro de interpretación abierto en 1999.</p>"
+    },
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Cueva_de_Maltravieso",
+     "https://rupestre.art/es/caves/cueva-de-maltravieso",
+     "https://www.openstreetmap.org/?mlat=39.4575&mlon=-6.3709#map=18/39.4575/-6.3709",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ7QRKb8bfFQ0R8tZLq-SSBg8",
+     "https://es.wikipedia.org/wiki/Cueva_de_Maltravieso"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-jarandilla",
+   "campos": {
+    "texto": {
+     "general": "<p>El castillo de Jarandilla de la Vera, llamado también castillo-palacio de los condes de Oropesa o castillo de Carlos V, se levanta sobre una fortaleza de origen musulmán. En 1369 Enrique II lo entregó a los <b>Álvarez de Toledo</b>, futuros condes de Oropesa, que lo mejoraron a mediados del siglo XV. Es un edificio <b>gótico</b> de planta cuadrangular, ordenado alrededor de un gran patio central, más palacio que fortaleza.</p><p>Alterna torres cilíndricas y prismáticas en sus esquinas, y la del homenaje está rematada por matacanes en toda su cornisa, sin almenas, algo poco habitual. En el lado norte tiene un <b>corredor porticado de dos pisos</b>, muy adelantado para su época. La puerta principal está flanqueada por dos cubos con troneras, y aún se ven restos del foso, que se cruzaba por un puente levadizo, sustituido después por uno fijo. La Guerra de la Independencia le causó daños.</p><p>Su huésped más ilustre fue <b>Carlos V</b>: llegó a Jarandilla el <b>11 de noviembre de 1556</b>, ya retirado del trono, y vivió en el castillo mientras terminaban su residencia en el cercano monasterio de Yuste, donde pasó sus últimos días. Hoy es el <b>Parador de Turismo Carlos V</b>.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Jarandilla_de_la_Vera",
+     "https://es.wikipedia.org/wiki/Jarandilla_de_la_Vera",
+     "https://www.openstreetmap.org/?mlat=40.1289&mlon=-5.6617#map=18/40.1289/-5.6617"
+    ]
+   }
+  },
+  {
+   "id": "convento-de-el-palancar",
+   "campos": {
+    "texto": {
+     "general": "<p>Entre Pedroso de Acim y Grimaldo, entre Cáceres y Plasencia, junto a la fuente del Palancar, <b>san Pedro de Alcántara</b> fundó en <b>1557</b> un convento franciscano en una casa con huerta que le donó Rodrigo de Chaves el 22 de mayo de ese año. El santo, gran reformador de los franciscanos, había llegado a El Palancar en 1554 con fray Miguel de la Cadena, y tenía permiso del papa para llevar vida de ermitaño, dedicada a la oración y la contemplación. Se considera el <b>convento más pequeño del mundo</b>: apenas unos 72 metros cuadrados.</p><p>Al principio solo tenía dos celdas diminutas con camas de madera. Para entrar en la del santo había que hacerlo de costado y agachado, y fray Pedro dormía sentado, con la cabeza apoyada en un madero de la pared. La pobreza extrema era la regla de su reforma. En el siglo XVIII se añadieron junto al conventino primitivo una iglesia, un claustro y una hospedería.</p><p>Hoy se recorre el conventino original, con sus celdas, y la iglesia y el claustro posteriores.</p><p class=\"dato\"><span>¿Sabías que…?</span>Los vecinos de la comarca lo llaman cariñosamente «el conventino» o «el conventico».</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Convento_de_El_Palancar",
+     "https://www.openstreetmap.org/?mlat=39.8197&mlon=-6.4008#map=18/39.8197/-6.4008"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-montanchez",
+   "campos": {
+    "texto": {
+     "general": "<p>Encaramado sobre un cerro de la sierra que da nombre a Montánchez, este castillo domina un amplísimo horizonte de la penillanura cacereña. Su cuerpo principal, en la parte más alta, es de <b>época califal</b>; el resto se levantó en el <b>siglo XII</b>, durante la ocupación almohade. Ya en manos cristianas, la <b>Orden de Santiago</b> administró la zona y añadió nuevas murallas que rodean el recinto.</p><p>De la época musulmana conserva <b>tres aljibes</b>: dos en el recinto interior y el mayor en el exterior. Dentro se ven además la torre del homenaje y las bodegas. Tras su arresto en Valladolid en 1619 sirvió de prisión a <b>Rodrigo Calderón</b>, el poderoso hombre de confianza del duque de Lerma caído en desgracia, que acabó degollado en la plaza Mayor de Madrid en 1621.</p><p>Las administraciones han invertido en su consolidación para la visita. En el exterior hay un estanque y una ermita del siglo XVII. Está protegido, como todos los castillos españoles, por el decreto de 1949.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Montánchez",
+     "https://www.openstreetmap.org/?mlat=39.2251&mlon=-6.155#map=18/39.2251/-6.155",
+     "https://es.wikipedia.org/wiki/Rodrigo_Calder%C3%B3n"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-trevejo",
+   "campos": {
+    "texto": {
+     "general": "<p>Sobre un peñasco de la sierra de Gata, por encima de la aldea de Trevejo, pedanía de Villamiel, se alzan las ruinas de un castillo. La construcción que vemos es en buena parte del siglo XV, levantada sobre una fortaleza musulmana anterior al siglo XII. <b>Alfonso VII de León</b> la conquistó y la cedió a los templarios.</p><p>Cambió de manos varias veces entre las órdenes militares, que guardaban esta frontera con Portugal: en <b>1184</b> pasó a la de San Juan de Jerusalén por mandato de Fernando II de León, en 1186 el mismo rey la entregó a la de Santiago, y también perteneció a la de Alcántara. Su ruina llegó durante la invasión francesa, cuando se destruyó para que no pudieran refugiarse en ella los guerrilleros españoles.</p><p>Hoy está en ruina, pero conserva la <b>torre del homenaje</b> y buena parte de la muralla. A sus pies hay <b>tumbas antropomorfas</b> excavadas en la roca, donde, según parece, se enterraron algunos de aquellos monjes guerreros. La aldea de Trevejo, de calles de piedra, completa la visita.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Trevejo",
+     "https://www.openstreetmap.org/?mlat=40.1724&mlon=-6.7806#map=18/40.1724/-6.7806"
+    ]
+   }
+  },
+  {
+   "id": "museo-vostell-malpartida",
+   "campos": {
+    "texto": {
+     "general": "<p>En medio del paraje granítico de <b>Los Barruecos</b>, en Malpartida de Cáceres, entre bolos de piedra y charcas, el artista alemán <b>Wolf Vostell</b> (1932-1998) fundó en <b>1976</b>, junto a su mujer, la extremeña Mercedes Guardado, un museo dentro de un viejo <b>lavadero de lanas del siglo XVIII</b>. Vostell, pionero de la instalación y el videoarte, padre del <i>happening</i> europeo y cofundador del movimiento <b>Fluxus</b>, estaba unido a Extremadura desde 1958; en 1974 proclamó Los Barruecos «obra de arte de la naturaleza».</p><p>Se inauguró el 30 de octubre de 1976 con la escultura <b>VOAEX</b> —«Viaje de (H)ormigón por la Alta Extremadura»—: el propio Opel Admiral negro de Vostell, de 1970, metido en hormigón. Reúne la colección del matrimonio Vostell, la donación Fluxus de Gino Di Maggio y una colección de 60 obras de 48 artistas conceptuales de España, Portugal y Polonia. Entre sus piezas más conocidas están <i>Fiebre de automóvil</i> (1973) y <i>El muerto que tiene sed</i> (1978), con patos y hormigón, al aire libre.</p><p>En 2018 recibió la <b>Medalla de Oro al Mérito en las Bellas Artes</b>, y National Geographic lo incluyó entre los museos imprescindibles de España.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Museo_Vostell_Malpartida",
+     "https://www.openstreetmap.org/?mlat=39.422&mlon=-6.5042#map=18/39.422/-6.5042",
+     "https://es.wikipedia.org/wiki/Mercedes_Guardado"
+    ]
+   }
+  },
+  {
+   "id": "puente-de-alconetar",
+   "campos": {
+    "texto": {
+     "general": "<p>Este puente romano cruzaba el <b>Tajo</b> cerca de la desembocadura del Almonte, en la calzada que iba de Mérida a Zaragoza pasando por Astorga y que luego se llamó <b>Vía de la Plata</b>. Junto a él estaba la <i>mansio</i> o parada de <i>Ad Turmulos</i>. Sus arcos rebajados sugieren que se construyó hacia el <b>siglo II</b>, en tiempos de Trajano o Adriano; algunos lo han atribuido incluso a Apolodoro de Damasco, el arquitecto de Trajano.</p><p>Es una pieza rara en la ingeniería romana: conserva dos <b>arcos segmentarios</b> originales, de 6,7 y 7,2 m de luz, mucho más planos que el habitual medio punto, y podría ser uno de los puentes de arco rebajado más antiguos del mundo. Durante los siglos XI al XIII el Tajo fue aquí frontera entre cristianos y musulmanes.</p><p>Hacia 1340 ya estaba inutilizable y se cruzaba en barca; en el siglo XVI arquitectos como Rodrigo Gil de Hontañón y Alonso de Covarrubias proyectaron rehacerlo, sin éxito. Cuando se construyó el embalse de Alcántara, en <b>1970</b>, sus restos se trasladaron a un prado unos seis kilómetros al norte, donde hoy se visitan. Es monumento histórico-artístico desde 1931.</p><p class=\"dato\"><span>¿Sabías que…?</span>También se le llama puente de Mantible, por la leyenda de Carlomagno y sus doce pares.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Puente_de_Alconétar",
+     "https://www.openstreetmap.org/?mlat=39.7543&mlon=-6.4374#map=18/39.7543/-6.4374"
+    ]
+   }
+  },
+  {
+   "id": "geoparque-villuercas-canamero",
+   "campos": {
+    "texto": {
+     "general": "<p>El Geoparque Villuercas-Ibores-Jara, en el sureste de la provincia de Cáceres, abarca 2.544 km² y 19 municipios. Entró en las redes europea y mundial de geoparques en <b>2011</b> y es <b>Geoparque Mundial de la UNESCO</b> desde 2015. Su techo es el risco de La Villuerca, de 1.601 metros, y en su territorio está el monasterio de Guadalupe.</p><p>En las calizas del anticlinal del Ibor hay fósiles de <i>Cloudina</i>, uno de los <b>primeros animales con esqueleto</b>: un tubito de carbonato de calcio hecho de conos encajados, de hace unos 550 millones de años, al final del Ediacárico. En Europa solo se conoce en España, y este es el único geoparque UNESCO del mundo con <i>Cloudina</i>. En 2010 Iván Cortijo y sus colegas describieron aquí una especie nueva, <i>Cloudina carinata</i>, con tubos conservados en tres dimensiones.</p><p>El paisaje cuenta otra historia: sierras y valles alineados, el relieve «apalachense», que nació cuando la <b>orogenia hercínica</b> plegó las rocas y la erosión dejó en pie las cuarcitas duras. En Cañamero, el centro de recepción de visitantes explica esta historia con fósiles, minerales y un audiovisual.</p>"
+    },
+    "fuentes": [
+     "https://geoparquevilluercas.es/information-centres/visitor-reception-centre-canamero",
+     "https://geoparquevilluercas.es/wp-content/uploads/2020/11/Villuercas-Geopark-supplementary-dossier.pdf",
+     "https://old.oiccpress.com/geoconservation-research/article/the-ediacaran-cambrian-radiation-of-animals-within-the-villuercas-ibores-jara-unesco-global-geopark-spain/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJIbPTg149FQ0R8ouSEPjYYjE",
+     "https://www.openstreetmap.org/?mlat=39.3799&mlon=-5.3891#map=18/39.3799/-5.3891",
+     "https://es.wikipedia.org/wiki/Geoparque_Villuercas-Ibores-Jara"
+    ]
+   }
+  },
+  {
+   "id": "trampal",
+   "campos": {
+    "texto": {
+     "general": "<p>Santa Lucía del Trampal, en Alcuéscar, conocida en la zona como «el convento», se presenta como la <b>única iglesia visigoda en pie en la mitad sur</b> de la Península. Su fecha se discute: unos autores la llevan al siglo VII y otros a los siglos VIII-IX, ya en época mozárabe. Pudo formar parte de un monasterio.</p><p>Su rasgo más raro es la <b>cabecera de tres capillas</b> rectangulares separadas, detrás de un amplio crucero, cada una con su ventana. Las bóvedas de cañón, con sección de herradura, cubren la nave, el crucero y los ábsides; ante cada ábside hubo probablemente una cúpula de ladrillo, hoy perdida. La piedra labrada refuerza las esquinas, los vanos y las bóvedas, y el resto es mampostería; el edificio se sostiene sin contrafuertes. Esta división del espacio se ha relacionado con la liturgia del IV Concilio de Toledo (633), que separaba a sacerdotes, clero y fieles. A finales de la Edad Media se rehízo el cuerpo de la iglesia, con pilares nuevos y arcos apuntados. Tiene parentesco con San Juan de Baños, en Palencia.</p><p>Conserva finas impostas de mármol con roleos. Es Bien de Interés Cultural desde 1983.</p>"
+    },
+    "fuentes": [
+     "https://admin.turismoextremadura.juntaex.es/en/explora/Basilica-of-Santa-Lucia-del-Trampal",
+     "https://www.wikidata.org/wiki/Q1518317",
+     "https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_Santa_Luc%C3%ADa_del_Trampal",
+     "https://www.openstreetmap.org/?mlat=39.1528&mlon=-6.2226#map=18/39.1528/-6.2226"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-monfrague",
+   "campos": {
+    "texto": {
+     "general": "<p>En lo alto de la sierra que domina el Tajo, en pleno parque nacional de Monfragüe, se alzan los restos de una fortaleza que los árabes llamaron <b>Al-Mofrag</b>, que se suele traducir como «el abismo». Según la tradición la levantaron en el siglo IX sobre un antiguo puesto de vigía, para controlar un paso estratégico del río.</p><p>Pasó por varias manos: entre 1169 y 1180 lo tomó el portugués <b>Geraldo Sempavor</b>, y la reconquista definitiva llegó con <b>Alfonso VIII</b>. Hoy se conserva sobre todo una <b>torre de planta pentagonal</b> del siglo XV, reconstruida y accesible, junto a otra cilíndrica.</p><p>Casi adosada a la torre está la <b>ermita de la Virgen de Monfragüe</b>, más moderna, que guarda una talla de estilo bizantino que, según la tradición, trajeron cruzados desde Jerusalén en el siglo XII. Desde arriba se domina el parque, parque natural desde 1979, Reserva de la Biosfera desde 2003 y parque nacional desde 2007, uno de los grandes refugios europeos del <b>buitre negro</b>, el águila imperial y la cigüeña negra.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Monfragüe",
+     "https://www.openstreetmap.org/?mlat=39.828&mlon=-6.0514#map=18/39.828/-6.0514",
+     "https://es.wikipedia.org/wiki/Parque_nacional_de_Monfrag%C3%BCe"
+    ]
+   }
+  },
+  {
+   "id": "museo-naval-el-galeon-de-manila",
+   "campos": {
+    "texto": {
+     "general": "<p>El Museo Naval de Madrid, en la primera planta del Cuartel General de la Armada, en el paseo del Prado, cuenta la historia de la navegación española desde el siglo XV hasta hoy. La idea nació en <b>1792</b>, impulsada por Antonio Valdés, secretario de Marina de Carlos IV, pero no se inauguró hasta <b>1843</b>, con Isabel II; tras varios cambios de sede, se instaló en el antiguo Ministerio de Marina en 1932. Su pieza más famosa es la <b>carta de Juan de la Cosa</b>, de 1500, la representación más antigua que se conserva del continente americano.</p><p>Una parte importante de sus fondos llegó del apostadero naval de <b>Filipinas</b>, en Cavite: modelos de embarcaciones del archipiélago, como vintas y bancas, armas moras y cañones de bronce. Recuerdan la ruta que durante dos siglos y medio, de 1565 a 1815, unió Asia con América: la del <b>galeón de Manila</b>. Fue posible gracias al <b>tornaviaje</b> de fray <b>Andrés de Urdaneta</b>, que en la expedición de Legazpi descubrió cómo volver de Filipinas a México: salió el 1 de junio de 1565 y llegó a Acapulco el 8 de octubre, navegando hacia el norte en busca de vientos y corrientes favorables. El museo guarda un despacho real de 1559 dirigido a Urdaneta.</p><p>No hay que perderse las piezas del galeón <b>San Diego</b>, hundido en 1600 frente a Manila y cuyos restos se hallaron en los años noventa del siglo XX, ni la gran colección de modelos de barcos.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Museo_Naval_de_Madrid",
+     "https://philippinestudies.uk/mapping/collections/show/419",
+     "https://catedranaval.com/wp-content/uploads/2015/03/urdaneta_tornaviaje.pdf"
+    ],
+    "ver_alli": [
+     "La carta de Juan de la Cosa (1500), el primer mapa conservado de América.",
+     "Las piezas recuperadas del galeón San Diego, hundido frente a Manila en 1600.",
+     "Los modelos de embarcaciones filipinas llegados del apostadero de Cavite.",
+     "Está en el Cuartel General de la Armada, en el paseo del Prado."
+    ]
+   }
+  },
+  {
+   "id": "cementerio-de-la-florida-y-el-dos-de-may",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>2 de mayo de 1808</b> el pueblo de Madrid se levantó contra los franceses. De madrugada, ya el 3 de mayo, los franceses fusilaron a <b>43 detenidos</b> en la montaña de Príncipe Pío, la escena que pintó Goya en <i>El tres de mayo de 1808 en Madrid</i>. Sus cuerpos quedaron nueve días en una zanja, hasta que los hermanos de la Congregación de la Buena Dicha los recogieron y los enterraron en el cercano <b>cementerio de la Florida</b>.</p><p>Era un pequeño camposanto abierto en <b>1796</b> para los empleados del Palacio Real, dependiente de la ermita de San Antonio de la Florida, rodeado por un muro de mampostería. Los restos de los fusilados reposan en dos cajas de plomo y cinc, en una cripta bajo una pequeña capilla. Durante casi dos siglos solo se conocieron 19 nombres; en 2008 el historiador Luis Miguel Aparisi identificó otros diez, y una lápida nueva recoge hoy los 29. Lo cuida desde el siglo XIX la Sociedad Filantrópica de Milicianos Nacionales Veteranos, que evitó que los restos se trasladaran al monumento del Dos de Mayo. Una reproducción en azulejos del cuadro de Goya recuerda la escena.</p><p>En la plaza del Dos de Mayo, en Malasaña, sigue en pie el arco del parque de artillería de Monteleón, donde resistieron Daoíz y Velarde.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Cementerio_de_la_Florida",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "museo-geominero-madrid",
+   "campos": {
+    "texto": {
+     "general": "<p>Bajo una gran sala con vidrieras, en la calle de Ríos Rosas, el Instituto Geológico y Minero de España guarda colecciones que empezaron a reunirse en <b>1849</b> para hacer el mapa geológico del país. El edificio lo proyectó el arquitecto Francisco Javier de Luque, con el ingeniero Primitivo Hernández Sampelayo, primer director del museo. La sala la inauguró <b>Alfonso XIII</b> en 1926, durante el XIV Congreso Geológico Internacional, cuando aún estaba vacía; abrió al público al año siguiente, y desde 1989 se llama Museo Geominero.</p><p>La sala mide 712 m² y 19 metros de altura, con tres balconadas alrededor. La cubre una gran <b>vidriera</b> de la casa Maumejean con el escudo real rodeado por los de catorce distritos mineros. Sus vitrinas de madera tallada son las originales y guardan minerales, rocas y fósiles de toda España. Entre los fósiles españoles hay una muestra del <b>Cámbrico de Murero</b> (Zaragoza): los trilobites <i>Conocoryphe heberti</i> y <i>Paradoxides brachyrhachis</i>, una esponja de cuerpo blando, <i>Leptomitus</i>, y braquiópodos. Son testigos de la explosión cámbrica en la península, cuando los <b>trilobites</b> empezaban a dominar los mares. Las vitrinas siguen con lirios de mar del Devónico de Asturias y León.</p><p>No hay que perderse los restos del mastodonte <i>Anancus arvernensis</i> de Las Higueruelas (Ciudad Real).</p>"
+    },
+    "fuentes": [
+     "https://info.igme.es/media/Material_Divulgativo/HOJA_04_Flora_e_nvertebrados.pdf",
+     "https://www.igme.es/?p=6695",
+     "https://en.wikipedia.org/wiki/Museo_Geominero",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps",
+     "https://es.wikipedia.org/wiki/Museo_Geominero"
+    ]
+   }
+  },
+  {
+   "id": "muralla-arabe-de-madrid",
+   "campos": {
+    "texto": {
+     "general": "<p>Estos son los restos de la fortaleza de <b>Mayrit</b>, el origen de Madrid. El emir <b>Muhammad I</b> (852-886) mandó levantar entre los años 860 y 880 varias fortalezas para vigilar los pasos de la sierra de Guadarrama y proteger Toledo, que se rebelaba una y otra vez contra Córdoba. Una de ellas, en el cerro junto al Manzanares donde hoy están el Palacio Real y la catedral de la Almudena, se llamó Mayrit, nombre seguramente relacionado con sus corrientes de agua.</p><p>La muralla medía unos 980 metros y encerraba unas cuatro hectáreas. Tenía la base de grandes bloques de <b>sílex</b> y sillares de caliza encima, con torres cuadradas cada unos 20 metros y tres puertas: la de la Vega, la de la Mezquita y la de la Sagra. En el siglo X, tras una incursión del rey Ramiro II de León en 932, Abderramán III ordenó reforzarla. Según la leyenda, cuando Alfonso VI conquistó la ciudad en 1085 apareció en un cubo de esta muralla, cerca de la puerta de la Vega, la imagen de la Virgen de la Almudena.</p><p>El tramo más largo, de unos 120 metros, está en la <b>cuesta de la Vega</b>, con seis torres. Hay más restos en la calle Mayor, 83, en el aparcamiento de la plaza de Oriente y en la plaza de la Armería, descubiertos en 1999-2000. Es monumento histórico-artístico desde 1954.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Muralla_musulmana_de_Madrid",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps"
+    ]
+   }
+  },
+  {
+   "id": "estacion-de-atocha",
+   "campos": {
+    "texto": {
+     "general": "<p>Atocha empezó como un simple apeadero en <b>1851</b>: fue la primera estación de Madrid, cabecera de la línea a Aranjuez, y la reina Isabel II viajó en el tren inaugural. Un incendio destruyó gran parte del edificio, y la gran estación que vemos, la estación del <b>Mediodía</b> de la compañía MZA, se inauguró en 1892 con proyecto de <b>Alberto de Palacio</b>, colaborador de Gustave Eiffel, y la participación del ingeniero Henri Saint-James.</p><p>Su <b>nave de hierro y cristal</b>, levantada entre dos edificios de ladrillo y con forma de casco de barco invertido, mide más de 150 metros de largo, 27 de alto y 48 de luz, lo que permitía meter seis vías bajo una sola cubierta. La estructura de hierro se fabricó en Bélgica.</p><p>Con la llegada del AVE, <b>Rafael Moneo</b> dirigió entre 1985 y 1992 una gran remodelación: detrás se construyeron dos estaciones nuevas, y la antigua nave se convirtió en un vestíbulo con un <b>jardín tropical</b> de unos 4.000 m², con más de 7.000 plantas de unas 260 especies, donde antes estaban las vías y los andenes. Un monumento recuerda junto a la estación a las víctimas de los atentados del <b>11 de marzo de 2004</b>, en los que murieron 193 personas.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Estación_de_Madrid_Atocha",
+     "https://www.openstreetmap.org/",
+     "https://www.google.com/maps",
+     "https://en.wikipedia.org/wiki/Atocha_railway_station",
+     "https://www.rutaspangea.com/en/la-estacion-de-atocha-antigua-estacion-de-mediodia/"
+    ]
+   }
+  },
+  {
+   "id": "real-fabrica-de-tapices",
+   "campos": {
+    "texto": {
+     "general": "<p>La fundó <b>Felipe V</b> en <b>1720</b>, a imitación de los talleres reales franceses, para sustituir los tapices flamencos que habían dejado de llegar tras la paz de Utrecht. La dirigieron al principio el tapicero flamenco <b>Jacobo Vandergoten</b>, de Amberes, y su familia. Su primera sede estuvo junto a la <b>puerta de Santa Bárbara</b>, y por eso se la conoció como fábrica de Santa Bárbara.</p><p>Con Carlos III vivió su época dorada: la dirigieron pintores como Antonio Rafael Mengs y Francisco Bayeu, y aquí trabajó <b>Goya</b> como pintor de cartones entre <b>1775 y 1792</b>: pintaba los modelos a tamaño real sobre los que se tejían los tapices. Dejó el trabajo cuando una grave enfermedad lo dejó sordo. Tras el reinado de Carlos IV y la Guerra de la Independencia, la fábrica entró en decadencia.</p><p>El edificio actual, de estilo <b>neomudéjar</b>, en el barrio de Pacífico, lo diseñó <b>José Segundo de Lema</b> a finales del siglo XIX, y es Bien de Interés Cultural desde 2006. Tres siglos después de su fundación, la fábrica, hoy una fundación, sigue tejiendo a mano <b>tapices y alfombras</b> y restaurando piezas textiles históricas. En el siglo XX tejió obras de Picasso, Dalí y Sert, y ha reproducido tapices alemanes destruidos en Dresde durante la Segunda Guerra Mundial.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Real_Fábrica_de_Tapices",
+     "https://www.openstreetmap.org/search?query=Real%20Fábrica%20de%20Tapices%20Madrid"
+    ]
+   }
+  },
+  {
+   "id": "sanchorreja",
+   "campos": {
+    "texto": {
+     "general": "<p>En la sierra de Ávila, sobre Sanchorreja, a más de 1.500 metros de altitud, se encuentra el castro de Los Castillejos, ocupado en el <b>Bronce final</b> y la <b>primera Edad del Hierro</b>: el mundo que precedió a los vetones. Sus primeros pobladores pertenecían a la cultura de Cogotas I, conocida por sus cerámicas decoradas. Con el tiempo el poblado creció hasta convertirse en un gran <i>oppidum</i> que, según algunas estimaciones, llegó a ocupar más de 25 hectáreas, con una acrópolis, otros dos recintos y un barrio fuera de las murallas.</p><p>Conserva restos de su <b>recinto amurallado</b>, de doble paramento y levantado en dos momentos —la última obra, hacia el 500 a. C.—, con una puerta principal en forma de embudo; de la <b>zona de viviendas</b> y de la <b>necrópolis</b>. El poblado fue destruido hacia el 400 a. C. Lo excavaron en los años treinta del siglo XX Joaquín María de Navascués, Emilio Camps y Juan Cabré; Juan Maluquer publicó después los resultados, y en los años ochenta Francisco Javier González-Tablas volvió a excavar.</p><p>Sus materiales están sobre todo en el <b>Museo de Ávila</b>: cerámica, armas, adornos y útiles de bronce y de hierro, fusayolas, molinos de mano y pesas de telar. Entre las piezas más vistosas están una <b>placa de cinturón</b> de bronce con un grifo, de influencia oriental, y una <b>ajorca con doce colgantes</b>. Un brasero ceremonial de bronce se expone en el Museo Arqueológico Nacional.</p>"
+    },
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/castillejos",
+     "https://ninos.kiddle.co/Castro_de_los_Castillejos_(Sanchorreja)"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-avila",
+   "campos": {
+    "texto": {
+     "general": "<p>El Museo de Ávila nació en <b>1911</b> como museo honorífico, en el edificio de la Biblioteca y Museo Teresianos, y se convirtió en museo provincial en 1968, con edificio, presupuesto y personal propios. Desde 1969 su sede es la <b>Casa de los Deanes</b>, cerca de la catedral, declarada monumento en 1962.</p><p>Desde 1998 tiene además un anexo singular: la antigua iglesia de <b>Santo Tomé el Viejo</b>, recuperada por el Estado en 1964 y convertida en «almacén visitable», donde se guardan piezas de gran tamaño.</p><p>La colección mezcla arqueología, bellas artes y etnografía. El recorrido empieza con la cultura tradicional del campo abulense, sigue con la historia de la provincia desde la prehistoria hasta el siglo XIX y termina con la ciudad de Ávila y sus excavaciones urbanas. Lo más característico son los <b>verracos</b> vetones, como los de Martiherrero; el <b>mosaico romano de Magazos</b>; y, del Renacimiento, el <b>sepulcro del caballero Serranos de la Torre</b>, obra de Vasco de la Zarza. Guarda también los materiales del castro de Los Castillejos de Sanchorreja, una colección de pintura flamenca y la colección taurina del marqués de Benavites.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Museo_de_Ávila",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ-TYoXAPzQA0RmRsxkXPSLEM",
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/castillejos"
+    ]
+   }
+  },
+  {
+   "id": "convento-de-san-jose-avila",
+   "campos": {
+    "texto": {
+     "general": "<p>Aquí, el <b>24 de agosto de 1562</b>, <b>Teresa de Jesús</b> fundó su primer convento, con el apoyo del obispo Álvaro de Mendoza: una casa pequeña y pobre, con cuatro novicias, sin rentas, con clausura estricta, silencio y oración. Fue el nacimiento de las <b>carmelitas descalzas</b>. La ciudad se alborotó, porque el concejo creía que ya había demasiados conventos y temía uno que viviera de limosnas; intentó echar a las novicias y recurrió ante el Consejo, pero Roma autorizó la fundación sin renta. Al cabo de pocos meses Teresa pudo instalarse aquí con sus monjas, y en 1563 fue nombrada priora.</p><p>En estas celdas terminó de escribir el <b>Libro de la Vida</b> y escribió, entre 1564 y 1567, <i>Camino de perfección</i>, pensado para sus monjas, además de las primeras Constituciones de la reforma. Desde aquí salió en agosto de 1567 a fundar en Medina del Campo, la primera de sus fundaciones por toda España. Los abulenses lo llaman todavía «Las Madres».</p><p>La iglesia actual, mayor que la primera, se levantó a comienzos del siglo XVII según trazas de <b>Francisco de Mora</b>, con una sola nave y cúpula en el crucero, y sirvió de modelo a muchos templos carmelitas. En su capilla de los Guillamas hay sepulcros orantes de alabastro. Es Monumento Nacional desde 1968.</p>"
+    },
+    "fuentes": [
+     "https://www.spain.info/es/lugares-interes/convento-san-jose-avila/",
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/convento-san-jose-62e2",
+     "https://es.wikipedia.org/wiki/Convento_de_San_Jos%C3%A9_(%C3%81vila)",
+     "https://es.wikipedia.org/wiki/Teresa_de_Jes%C3%BAs",
+     "https://es.wikipedia.org/wiki/Camino_de_perfecci%C3%B3n"
+    ],
+    "ver_alli": [
+     "La iglesia de Francisco de Mora y la capilla de los Guillamas, con sus sepulcros orantes de alabastro.",
+     "El Museo Teresiano, con recuerdos y reliquias de la santa.",
+     "Está a pocos minutos a pie de la plaza de Santa Teresa y de la muralla."
+    ]
+   }
+  },
+  {
+   "id": "san-pedro-de-avila",
+   "campos": {
+    "texto": {
+     "general": "<p>La iglesia de San Pedro preside la <b>plaza de Santa Teresa</b>, el antiguo <b>Mercado Grande</b>, justo enfrente de la puerta del Alcázar de la muralla, rodeada hoy de un espacio ajardinado y enlosado. Es uno de los grandes templos románicos de Ávila, levantado fuera de la muralla. Un documento de <b>1103</b> ya la menciona, y vuelve a aparecer en la <i>Crónica de la Población de Ávila</i> (1173).</p><p>Tiene planta de <b>cruz latina</b>, con <b>tres naves</b> que terminan en <b>tres ábsides</b> —la central más alta que las laterales— y tres portadas románicas. Sobre la fachada de los pies, la occidental, se abre su gran <b>rosetón</b>, la imagen más conocida del templo. Por dentro guarda, entre otras obras, tallas de santa Catalina y san Pablo.</p><p>Fue declarada monumento nacional en 1914 y forma parte desde 1985 del conjunto «Ciudad vieja de Ávila e iglesias extramuros», Patrimonio de la Humanidad. A su lado está el monasterio benedictino de Nuestra Señora de la Antigua.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Pedro_(Ávila)",
+     "https://www.openstreetmap.org/?mlat=40.6542&mlon=-4.6953#map=18/40.6542/-4.6953"
+    ]
+   }
+  },
+  {
+   "id": "prado-cruces",
+   "campos": {
+    "texto": {
+     "general": "<p>En una dehesa de Bernuy-Salinero, a unos 15 km de Ávila, se conserva un <b>sepulcro de corredor</b>, la forma típica de los dólmenes del centro de la Península y uno de los monumentos más antiguos de la provincia: una <b>cámara circular</b> de grandes losas de granito, cubierta en origen por una gran losa, a la que se llega por un <b>pasillo orientado al sureste</b>, más estrecho y bajo que la cámara. Todo ello quedaba bajo un <b>túmulo</b> de tierra y piedras que, en lo que se conserva, alcanza unos <b>20 metros de diámetro</b> y daba al conjunto el aspecto de una pequeña colina.</p><p>Fue una tumba colectiva usada durante muchísimo tiempo: desde finales del <b>Neolítico</b> hasta comienzos de la <b>Edad del Bronce</b>, entre los últimos siglos del IV milenio y el primer tercio del II milenio a. C. Generación tras generación, las comunidades campesinas de la zona volvieron a enterrar aquí a sus muertos.</p><p>Se excavó y consolidó en los años noventa del siglo XX, bajo la dirección de la arqueóloga María Ángeles Álvarez. Parte de lo hallado se expone en el aula arqueológica abierta en las antiguas escuelas de Bernuy-Salinero.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Dolmen_del_Prado_de_las_Cruces",
+     "https://www.google.com/maps/place/?q=place_id:ChIJVZ3X2FLwQA0RC1wVMQ97Y28",
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/prado-cruces",
+     "https://avilaturismo.gvam.es/en/activities/dolmen-prado-cruces-en",
+     "https://avilared.com/art/92432/aula-arqueologica-jornadas-dolmen-prado-cruces-bernuy-salinero"
+    ]
+   }
+  },
+  {
+   "id": "mezquita-del-cristo-de-la-luz",
+   "campos": {
+    "texto": {
+     "general": "<p>La mezquita de <b>Bab al-Mardum</b>, llamada así por una puerta vecina de la muralla de Toledo, es una pequeña mezquita de planta casi cuadrada, de unos ocho metros por lado, con nueve bóvedas. La fecha una inscripción hecha con trozos de ladrillo en su fachada, descubierta en 1889: se terminó en diciembre del año <b>999</b>. En el siglo XII se le añadió un ábside mudéjar.</p><p>Se construyó cuando Toledo formaba parte del califato de Córdoba y Almanzor gobernaba en nombre del califa Hisham II. Según su inscripción, la pagó un vecino, <b>Ahmad ibn Hadidi</b>, y la levantó el alarife Musa ibn Ali. Cuatro columnas con capiteles visigodos reaprovechados sostienen arcos de herradura, y sobre ellos se alzan sus nueve pequeñas bóvedas de nervios cruzados, todas distintas, la central más alta. Copian a escala de barrio las cúpulas que al-Hakam II había levantado ante el mihrab de la Mezquita de Córdoba: el arte califal llegaba así a toda la frontera. La fachada, de ladrillo, tiene tres puertas con arcos distintos y una celosía de arcos entrecruzados.</p><p>Tras la conquista cristiana pasó a la Orden de San Juan, que la convirtió en ermita. Su ábside, considerado la obra mudéjar documentada más antigua, conserva pinturas murales con un Pantocrátor.</p><p class=\"dato\"><span>¿Sabías que…?</span>Según la leyenda, el caballo del rey se arrodilló ante la mezquita y, al excavar, apareció un Cristo crucificado con una lamparilla aún encendida.</p>"
+    },
+    "fuentes": [
+     "https://lamaletainquieta.com/?p=2355",
+     "https://es.wikipedia.org/wiki/Mezquita_del_Cristo_de_la_Luz",
+     "https://www.openstreetmap.org/?mlat=39.8606&mlon=-4.0242#map=18/39.8606/-4.0242"
+    ]
+   }
+  },
+  {
+   "id": "sinagoga-de-santa-maria-la-blanca",
+   "campos": {
+    "texto": {
+     "general": "<p>Es una de las sinagogas en pie <b>más antiguas de Europa</b>, con arcos de herradura blancos y capiteles de piñas. Su fecha exacta se discute: una tablilla de madera habla de unas ruinas levantadas de nuevo en el año judío 4940, hacia el <b>1180</b>, y muchos la sitúan hacia 1205, cuando murió Yosef ben Shoshan, hijo de un ministro de finanzas de Alfonso VIII, cuyo epitafio dice que construyó una sinagoga.</p><p>Esta sinagoga, levantada por alarifes musulmanes entre finales del siglo XII y el siglo XIII, es el mejor testigo de la gran comunidad judía de Toledo en la época de los traductores. Sabios judíos de la ciudad, como el que los manuscritos llaman Avendauth, leían en voz alta los libros árabes y los decían en romance para que un clérigo los pusiera en latín. Por eso los judíos toledanos fueron una pieza esencial en el paso de la ciencia árabe a Europa. Tras los asaltos de 1391 y las predicaciones de san Vicente Ferrer pasó a ser iglesia, con el nombre de una imagen de la Virgen; en el siglo XVI fue beaterio para mujeres arrepentidas, y después cuartel y almacén.</p><p>Tiene <b>cinco naves</b> separadas por 24 pilares octogonales y arcos de herradura de gusto almohade, con capiteles decorados con piñas. Fue declarada monumento nacional y restaurada en 1856, y hoy pertenece al Arzobispado de Toledo.</p>"
+    },
+    "fuentes": [
+     "https://lamaletainquieta.com/santa-maria-la-blanca/",
+     "https://es.wikipedia.org/wiki/Sinagoga_de_Santa_María_la_Blanca",
+     "https://www.openstreetmap.org/?mlat=39.857&mlon=-4.0303#map=18/39.857/-4.0303",
+     "https://en.wikipedia.org/wiki/Synagogue_of_Santa_Mar%C3%ADa_la_Blanca"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,388 @@
+{
+ "zona": "Ampliar mundo-01b",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "catedral-de-milan",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>catedral de Milán</b>, el <i>Duomo</i>, es la mayor iglesia de Italia —solo la supera San Pedro, que está en el Vaticano— y una de las más grandes del mundo: mide casi 159 metros de largo y caben en ella unas 40.000 personas. Es una enorme obra gótica de ladrillo revestida de <b>mármol de Candoglia</b>, empezada en <b>1386</b> y terminada en lo esencial en el siglo XIX; la última puerta de la fachada no se inauguró hasta 1965.</p><p>La impulsaron el arzobispo Antonio da Saluzzo y el señor de Milán, <b>Gian Galeazzo Visconti</b>, que concedió a la obra el uso exclusivo de aquel mármol, libre de impuestos. Para dirigirla se creó la <i>Veneranda Fabbrica del Duomo</i>, que todavía la cuida. El papa Martín V consagró el altar mayor en 1418, y la fachada se terminó por orden de <b>Napoleón</b>, coronado aquí rey de Italia en 1805. En 1848 fue escenario de las <b>Cinco Jornadas</b> contra los austriacos: sus soldados disparaban desde el tejado, y el 20 de marzo dos patriotas subieron a colocar la bandera tricolor junto a la Madonnina.</p><p>La adornan <b>más de 3.400 estatuas</b> y 135 agujas; la más alta, de 108,5 metros, sostiene desde 1774 la <b>Madonnina</b> de cobre dorado, símbolo de la ciudad. Desde sus <b>terrazas</b>, entre agujas, se ve la ciudad. Dentro no hay que perderse el <i>San Bartolomé desollado</i> de Marco d'Agrate (1562), que lleva su propia piel sobre los hombros, la meridiana de 1786 y la cripta de san Carlos Borromeo.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Milan_Cathedral",
+     "https://it.wikipedia.org/wiki/Duomo_di_Milano",
+     "https://artsandculture.google.com/story/MgVR0yTIpkZdJQ",
+     "https://it.wikipedia.org/wiki/Cinque_giornate_di_Milano"
+    ]
+   }
+  },
+  {
+   "id": "iglesia-del-santo-espiritu-de-palermo",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>iglesia del Santo Espíritu</b> es una iglesia normanda de Palermo, levantada hacia <b>1173-1178</b> por el arzobispo Gualtiero Offamilio para una abadía de monjes cistercienses. Por fuera alterna sillares de toba y de lava oscura, con arcos ciegos y ventanas apuntadas, en esa mezcla de lo árabe, lo normando y lo gótico tan propia de la Sicilia medieval. Hoy está dentro del cementerio de Sant'Orsola, creado en 1782.</p><p>Ante su puerta empezaron las <b>Vísperas Sicilianas</b> el lunes de Pascua, <b>30 de marzo de 1282</b>, a la hora de vísperas. Según la tradición, un sargento francés molestó a una joven casada y su marido lo mató; la revuelta contra los franceses de <b>Carlos de Anjou</b> se extendió por la isla, y solo en Palermo murieron unos dos mil. Los sicilianos llamaron a <b>Pedro III de Aragón</b>, que desembarcó en Trápani a finales de agosto y fue coronado rey: así pasó Sicilia a la <b>Corona de Aragón</b>. Por eso se la llama también «iglesia de las Vísperas».</p><p>Dentro, sobrio y desnudo tras la restauración de Giuseppe Patricolo en 1882, destaca un crucifijo de madera pintada del siglo XV.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Santo_Spirito,_Palermo",
+     "https://it.wikipedia.org/wiki/Chiesa_del_Santo_Spirito_(Palermo)",
+     "https://es.wikipedia.org/wiki/Vísperas_sicilianas"
+    ]
+   }
+  },
+  {
+   "id": "galeria-borghese",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Galería Borghese</b> ocupa la villa que el cardenal <b>Escipión Borghese</b>, sobrino del papa Pablo V, se hizo construir a partir de 1607 en su parque del Pincio, con proyecto de Flaminio Ponzio terminado por Giovanni Vasanzio, para lucir su colección. El Estado italiano compró la villa, el parque y las obras en 1902. Hoy tiene veinte salas en dos plantas.</p><p>Escipión fue uno de los primeros mecenas de <b>Bernini</b>, y aquí siguen las grandes esculturas que el joven artista hizo para él: <i>Eneas, Anquises y Ascanio</i>, <i>El rapto de Proserpina</i>, el <i>David</i> y <i>Apolo y Dafne</i> (1622-1625), donde la ninfa se convierte en laurel ante nuestros ojos. También está la <i>Paulina Borghese</i> de Canova, recostada como Venus. Entre los cuadros destacan seis <b>Caravaggio</b>, como el <i>Baco enfermo</i> y <i>David con la cabeza de Goliat</i>, el <i>Descendimiento</i> de <b>Rafael</b> y el <i>Amor sagrado y amor profano</i> de <b>Tiziano</b>. Muchas antigüedades de la familia, en cambio, se vendieron a Napoleón en 1808 y están en el Louvre.</p><p>El parque de Villa Borghese que la rodea es uno de los mayores de Roma.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Galleria_Borghese",
+     "https://it.wikipedia.org/wiki/Galleria_Borghese"
+    ]
+   }
+  },
+  {
+   "id": "galeria-de-la-academia",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Galería de la Academia</b> nació en 1784, cuando el gran duque Pedro Leopoldo reorganizó la Academia de Bellas Artes de Florencia. Su fama llegó en <b>1873</b>, cuando trajeron aquí desde la plaza de la Señoría el <b>David de Miguel Ángel</b>, para protegerlo de la intemperie; en la plaza quedó en 1910 una copia.</p><p>El David, tallado entre 1501 y 1504 en un bloque de mármol que otros habían abandonado, mide <b>5,17 metros</b>. Está desde 1882 en una tribuna diseñada a propósito por Emilio De Fabris, al final de un pasillo con los cuatro <b>«Prisioneros»</b> inacabados, que parecen salir del mármol: Miguel Ángel los talló para la tumba del papa Julio II, que nunca se completó. Al lado está su <i>San Mateo</i>, también sin terminar, y en otra sala el modelo de <i>El rapto de las sabinas</i> de Giambologna.</p><p>Hay además pintura florentina de fondo dorado, una gipsoteca con más de 400 yesos y, desde 2001, una colección de instrumentos musicales de los Médici, con una viola y un <b>violonchelo de Stradivari</b>.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Galleria_dell%27Accademia",
+     "https://es.wikipedia.org/wiki/Galería_de_la_Academia_de_Florencia",
+     "https://en.wikipedia.org/wiki/David_(Michelangelo)"
+    ]
+   }
+  },
+  {
+   "id": "mausoleo-de-gala-placidia",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>mausoleo de Gala Placidia</b> es un pequeño edificio en forma de cruz construido en Rávena hacia el <b>425-450</b>. Era en origen el oratorio de la iglesia de Santa Cruz, la iglesia del palacio imperial, probablemente dedicado a san Lorenzo. Desde 1996 es Patrimonio Mundial con los otros monumentos paleocristianos de la ciudad.</p><p>Lo mandó hacer <b>Gala Placidia</b>, hija del emperador Teodosio y viuda del rey visigodo <b>Ataúlfo</b>, con quien se había casado en 414; luego casó con Constancio III y fue madre del emperador Valentiniano III. Pese al nombre, no está enterrada aquí: murió en Roma en el 450. Dentro hay tres sarcófagos; el mayor se creyó suyo, pero su contenido ardió en 1577 cuando unos niños metieron dentro una vela.</p><p>Por fuera es de ladrillo sencillo; por dentro, la cúpula está cubierta de <b>mosaicos azul oscuro con estrellas doradas</b> y una cruz en lo alto. Sobre la entrada está el Buen Pastor entre sus ovejas, y enfrente un santo junto a la parrilla de su martirio.</p><p class=\"dato\"><span>¿Sabías que…?</span>Se dice que este cielo estrellado inspiró a Cole Porter su canción «Night and Day».</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Mausoleum_of_Galla_Placidia"
+    ]
+   }
+  },
+  {
+   "id": "neapolis-de-siracusa",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>parque arqueológico de la Neápolis</b>, creado en 1955, reúne los grandes monumentos de la Siracusa antigua, la ciudad que Cicerón llamó la mayor y más bella de las griegas. Desde 2005 es Patrimonio Mundial junto con Ortigia y la necrópolis de Pantalica.</p><p>Su joya es el <b>teatro griego</b>, excavado en la roca en el siglo V a. C. y rehecho en el III: su graderío mide casi 139 metros de diámetro. Allí estrenó <b>Esquilo</b> <i>Los persas</i> y <i>Las etneas</i>, en la corte del tirano Gerón I. Bajo él se abren las <b>latomías</b>, las canteras de las que salió la piedra de la ciudad; en ellas se encerró en el 413 a. C. a unos 7.000 prisioneros de la fracasada expedición ateniense, y muchos murieron allí de hambre y enfermedad. En la latomía del Paraíso está la <b>«Oreja de Dionisio»</b>, una gruta de unos 23 metros de alto y 65 de fondo: según la leyenda, fue Caravaggio quien le dio el nombre en 1608, imaginando al tirano Dionisio escuchando a sus presos. Completan el recorrido el <b>altar de Hierón II</b>, de unos 198 metros de largo, y un anfiteatro romano de época imperial.</p><p>En primavera y verano el teatro vuelve a llenarse con representaciones de tragedias griegas.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/214610849",
+     "https://it.wikipedia.org/wiki/Parco_archeologico_della_Neapolis",
+     "https://it.wikipedia.org/wiki/Orecchio_di_Dionisio",
+     "https://en.wikipedia.org/wiki/Sicilian_Expedition",
+     "https://whc.unesco.org/en/list/1200/"
+    ]
+   }
+  },
+  {
+   "id": "capilla-palatina-de-palermo",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Capilla Palatina</b> es la capilla real del palacio de los reyes normandos de Sicilia, en Palermo. La mandó construir <b>Roger II</b>, el primer rey normando de la isla, a partir de 1132, sobre una capilla anterior que hoy es la cripta; fue consagrada el <b>28 de abril de 1140</b>. Desde 2015 es Patrimonio Mundial con el resto de la Palermo árabe-normanda.</p><p>Es el mejor ejemplo de la mezcla de culturas de la Sicilia normanda: <b>bizantina, árabe y latina</b>. La cúpula y el presbiterio, del tiempo de Roger, están cubiertos de <b>mosaicos dorados</b> de artistas bizantinos, con el <b>Cristo Pantocrátor</b> en lo alto rodeado de ángeles, profetas y evangelistas; las historias del Génesis y las vidas de san Pedro y san Pablo de la nave se hicieron bajo sus sucesores Guillermo I y Guillermo II, ya con inscripciones latinas. La nave se cubre con un extraordinario <b>techo de madera de mocárabes</b>, pintado por artistas del mundo islámico con banquetes, músicos, bailarinas, cacerías y animales, e inscripciones en árabe cúfico.</p><p>El suelo es de mármoles incrustados, y en la cripta se expone el diploma de 1140 con el que Roger organizó el culto de la capilla.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Cappella_Palatina",
+     "https://it.wikipedia.org/wiki/Cappella_Palatina_(Palermo)"
+    ]
+   }
+  },
+  {
+   "id": "palacio-real-y-teatro-de-san-carlos",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Palacio Real de Nápoles</b> fue la residencia de los virreyes españoles y, después, de los reyes Borbones de Nápoles. Lo empezó en <b>1600</b> el arquitecto Domenico Fontana, por encargo del virrey conde de Lemos, para una visita de Felipe III que nunca se produjo. Junto a él está el <b>Teatro de San Carlos</b>, que <b>Carlos de Borbón</b>, el futuro Carlos III de España, inauguró el 4 de noviembre de <b>1737</b>, día de su santo: es el teatro de ópera más antiguo de Europa en funcionamiento.</p><p>El palacio creció durante dos siglos: Picchiatti le dio a mediados del siglo XVII su <b>gran escalera</b> monumental, rehecha tras el incendio de 1837, y Ferdinando Fuga convirtió en 1768 un salón en teatro de corte para la boda de Fernando IV con María Carolina. Desde los años veinte alberga también la Biblioteca Nacional. El San Carlos, diseñado por Giovanni Antonio Medrano, ardió en 1816 y Antonio Niccolini lo rehízo en unos diez meses. Allí trabajó Rossini y se estrenó <i>Lucia di Lammermoor</i> de Donizetti (1835).</p><p>Desde 1888 la fachada del palacio luce en sus hornacinas ocho reyes de Nápoles, de Roger II a Víctor Manuel II, entre ellos Alfonso V de Aragón, Carlos V y Carlos de Borbón.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Royal_Palace_of_Naples",
+     "https://en.wikipedia.org/wiki/Teatro_di_San_Carlo"
+    ]
+   }
+  },
+  {
+   "id": "arsenal-de-venecia-y-museo-naval",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Arsenal</b> fue el gran astillero de la república de Venecia y la base de su poder en el mar. Sus orígenes se remontan al siglo XII —la fecha de 1104 que se suele repetir procede de una medalla falsa— y llegó a ocupar unas 45 hectáreas, cerca del 15 % de la ciudad, rodeadas de murallas.</p><p>En su mejor momento, a comienzos del siglo XVI, llegó a emplear a unas <b>16.000 personas</b> y trabajaba casi en cadena, con piezas iguales: podía terminar casi un barco al día y tener un centenar de galeras en construcción a la vez. En 1574 el rey <b>Enrique III de Francia</b> lo visitó y vio armar un barco completo. De aquí salió más de la mitad de la flota cristiana de <b>Lepanto</b> (1571). Dante ya lo describió en el <i>Infierno</i>, con su brea hirviendo para calafatear.</p><p>Su <b>puerta renacentista</b>, de hacia 1460, es una de las primeras obras del Renacimiento en Venecia. La guardan <b>leones de mármol traídos de Grecia</b> como botín en 1687; uno, del Pireo, tiene runas talladas por mercenarios escandinavos. Cerca, el <b>Museo Naval</b> tiene maquetas de galeras de Lepanto.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Venetian_Arsenal",
+     "https://it.wikipedia.org/wiki/Arsenale_di_Venezia",
+     "https://www.worldhistory.org/article/2776/arsenale/"
+    ]
+   }
+  },
+  {
+   "id": "capillas-mediceas-y-basilica-de-san-lore",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>basílica de San Lorenzo</b> fue la iglesia de la familia Médici. Consagrada ya en el 393 por san Ambrosio, fue rehecha a partir de 1419 con proyecto de <b>Brunelleschi</b>, pagado por Giovanni di Bicci de Médici, y es un hito de la arquitectura del Renacimiento. Su fachada sigue desnuda: el papa León X encargó una a Miguel Ángel en 1518, pero nunca se hizo.</p><p>Detrás están las <b>Capillas Mediceas</b>. La <b>Sacristía Nueva</b>, empezada en 1520, es obra de <b>Miguel Ángel</b>, que trabajó en ella hasta marcharse a Roma en 1534 sin terminarla. Allí están las tumbas de dos duques Médici: la de Giuliano, duque de Nemours, con las figuras de la <b>Noche y el Día</b>, y la de Lorenzo, duque de Urbino, con la Aurora y el Crepúsculo, ambos mirando a la <i>Virgen Médici</i>. Bajo ella, en una sencilla caja de mármol, están enterrados <b>Lorenzo el Magnífico</b> y su hermano Giuliano. La fastuosa <b>Capilla de los Príncipes</b>, revestida de piedras duras, la quisieron los grandes duques Cosme I y Fernando I.</p><p>No hay que perderse la Sacristía Vieja de Brunelleschi, la <b>Biblioteca Laurenciana</b> de Miguel Ángel y, al lado, el palacio Médici Riccardi.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Medici_Chapels",
+     "https://en.wikipedia.org/wiki/Basilica_of_San_Lorenzo,_Florence",
+     "https://it.wikipedia.org/wiki/Sagrestia_Nuova"
+    ]
+   }
+  },
+  {
+   "id": "augusta-praetoria-aosta",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Augusta Praetoria</b>, la actual Aosta, fue fundada por <b>Augusto</b> en el <b>25 a. C.</b>, después de que su general Aulo Terencio Varrón Murena venciera a los <b>salasos</b>, el pueblo que dominaba este valle de los Alpes. Estaba en un cruce de caminos, para controlar los pasos del Pequeño y el Gran San Bernardo, por los que pasaba la vía hacia la Galia. Recibió unos 3.000 colonos, veteranos del ejército.</p><p>Se trazó como un campamento militar: un rectángulo de 724 por 572 metros rodeado de murallas con cuatro puertas y calles en cuadrícula, un trazado que la ciudad conserva casi entero. Por la <b>Porta Pretoria</b>, la puerta oriental, doble y con tres arcos, se entraba a la calle principal. Dentro había foro, templo, termas y un <b>teatro</b> del que sigue en pie la fachada sur, de 22 metros de altura. Se levantaron además un anfiteatro y el <b>arco de Augusto</b>.</p><p>Los restos romanos están repartidos por el centro de Aosta y se recorren a pie en poco tiempo: la Porta Pretoria, el arco de Augusto, la gran fachada del teatro, el criptopórtico del foro, largos tramos de muralla y el puente romano, del que queda una arcada junto al antiguo cauce del río Buthier.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Aosta",
+     "https://it.wikipedia.org/wiki/Augusta_Praetoria_Salassorum"
+    ]
+   }
+  },
+  {
+   "id": "compendio-garibaldino-de-caprera",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Compendio Garibaldino</b> es la finca de la isla de Caprera, al norte de Cerdeña, donde <b>Giuseppe Garibaldi</b>, el héroe de la unificación de Italia, pasó sus últimos años. En 1855, con una herencia de su hermano, compró la mitad de la isla, y en 1856 se instaló en ella; murió en su casa el <b>2 de junio de 1882</b>. Es museo desde 1978, y toda la isla forma parte del Parque Nacional del Archipiélago de La Maddalena.</p><p>Entre campaña y campaña, Garibaldi vivió aquí como un campesino, criando ganado y cultivando la tierra. Se hizo construir la <b>Casa Blanca</b>, una vivienda sencilla de granito encalado al estilo de las haciendas sudamericanas, rodeada de la granja. Dentro siguen su piano, su cama ortopédica, su camisa roja, el molde de la bala de Aspromonte y, en la habitación donde murió, la cama bajo una vitrina y el reloj parado a la hora de su muerte.</p><p>Su <b>tumba</b> es un sencillo bloque de granito en bruto con su nombre, en el jardín, junto a las de su última esposa, Francesca Armosino, y otros familiares; cerca está enterrado su caballo blanco, Marsala. En el patio sigue en pie el gran <b>pino</b> que plantó cuando nació su hija Clelia.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Caprera",
+     "https://www.openstreetmap.org/node/4423657054",
+     "https://it.wikipedia.org/wiki/Compendio_garibaldino"
+    ]
+   }
+  },
+  {
+   "id": "la-ultima-cena-de-leonardo",
+   "campos": {
+    "texto": {
+     "general": "<p><i>La Última Cena</i> es el gran mural que <b>Leonardo da Vinci</b> pintó entre hacia 1495 y 1498 en el refectorio, el comedor, del convento dominico de <b>Santa María de las Gracias</b> de Milán. Se lo encargó el duque <b>Ludovico Sforza</b>, que quería hacer de la iglesia el panteón de su familia. Mide 4,60 por 8,80 metros y desde 1980 es Patrimonio de la Humanidad, junto con la iglesia y el convento.</p><p>Muestra el momento en que Jesús anuncia que uno de sus apóstoles le traicionará, y la reacción de cada uno de ellos. Leonardo no la pintó al fresco sino al temple sobre el muro seco, y por eso empezó a estropearse muy pronto. En 1652 se abrió una puerta en la pared, cuyo hueco tapiado aún se ve abajo, en el centro. La noche del <b>15 de agosto de 1943</b> un bombardeo aliado destruyó gran parte del refectorio, pero el muro de la pintura, protegido con sacos de arena, se salvó de milagro. La última restauración, dirigida por Pinin Brambilla Barcilon, duró de 1978 a 1999.</p><p>Enfrente, en la otra pared, está la <i>Crucifixión</i> de Montorfano (1495). La iglesia, con la cabecera y la cúpula atribuidas a <b>Bramante</b>, está al lado.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Santa_Maria_delle_Grazie%2C_Milan",
+     "https://en.wikipedia.org/wiki/The_Last_Supper_(Leonardo)"
+    ]
+   }
+  },
+  {
+   "id": "paestum",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Paestum</b> fue fundada hacia el <b>600 a. C.</b> por colonos griegos de Síbaris con el nombre de <b>Posidonia</b>, en la costa de Campania. Hacia el 400 a. C. la tomaron los lucanos, un pueblo itálico, y en el 273 a. C. se convirtió en colonia latina con el nombre de Paestum. Al cambiar las rutas comerciales y encharcarse la llanura, decayó y en la Edad Media quedó abandonada; en el siglo XVIII la redescubrieron los viajeros de toda Europa. Desde 1998 es Patrimonio Mundial.</p><p>Conserva tres <b>templos dóricos</b> de los siglos VI y V a. C., entre los mejor conservados del mundo, dedicados a Hera y Atenea: el primer templo de Hera, de hacia el 550 a. C., que en el siglo XVIII llamaron por error «la Basílica»; el segundo templo de Hera, de hacia el 460-450 a. C., que se creyó de Neptuno, y el de Atenea, de hacia el 500 a. C., atribuido antes a Ceres. Los rodea una muralla de casi 5 kilómetros, en gran parte en pie.</p><p>En el museo está la <b>Tumba del Nadador</b>, de hacia el 470 a. C. y descubierta en 1968: es la única tumba griega con escenas de figuras pintadas que se conserva completa, y en su tapa un joven se lanza al agua.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Paestum"
+    ]
+   }
+  },
+  {
+   "id": "templo-malatestiano",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Templo Malatestiano</b>, catedral de Rímini desde 1809, era la iglesia gótica de San Francisco, del siglo XIII, hasta que hacia <b>1450</b> el señor de la ciudad, <b>Segismundo Pandolfo Malatesta</b>, decidió transformarla en un templo renacentista a su mayor gloria y a la de Isotta degli Atti.</p><p>La envolvió en un caparazón de mármol con fachada de <b>León Battista Alberti</b>, que se inspiró en los arcos de triunfo romanos —el de Constantino y el de Augusto de la propia Rímini—, y que construyó Matteo de' Pasti; dentro, Agostino di Duccio llenó las capillas de relieves con virtudes, signos del zodiaco y juegos de niños. En los arcos de los laterales se colocaron sarcófagos de los sabios de su corte; en uno están los restos del filósofo bizantino <b>Gemisto Pletón</b>, que Segismundo trajo de su campaña en el Peloponeso. Nunca se terminó: Malatesta, enfrentado con el papa Pío II, fue excomulgado en 1460, derrotado por las tropas papales y arruinado, y la cúpula inspirada en el Panteón que proyectaba Alberti no se construyó.</p><p>Tras los bombardeos de 1944 la fachada y los laterales se desmontaron y se volvieron a montar piedra a piedra. Dentro hay un <b>crucifijo de Giotto</b>, pintado en Rímini hacia 1308-1312, el <b>fresco de Piero della Francesca</b> (1451) con Segismundo rezando ante su santo patrón y la tumba de Isotta, sostenida por elefantes.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Tempio_Malatestiano",
+     "https://it.wikipedia.org/wiki/Tempio_Malatestiano"
+    ]
+   }
+  },
+  {
+   "id": "arena-de-verona",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Arena de Verona</b> es un anfiteatro romano construido hacia el <b>año 30 d. C.</b> Es el cuarto más grande de Italia, tras el Coliseo y los de Capua y Milán, y en época romana cabían en él unas <b>30.000 personas</b>. Mide 152 por 123 metros y su fachada es de caliza rosada y blanca de la Valpolicella, colocada sin argamasa.</p><p>Del anillo exterior solo queda en pie un tramo de cuatro arcos, el «ala»: el resto se desmontó en tiempos del rey godo Teodorico para aprovechar la piedra, y el terremoto de 1117 hizo más daño. Aun así, se conserva casi entero por dentro gracias a que se fue reparando a lo largo de los siglos. En la Edad Media sirvió de fortaleza durante las invasiones húngaras, de escenario de duelos judiciales y, en 1278, de hoguera para unos 200 cátaros.</p><p>Desde <b>1913</b>, cuando se inauguró con <i>Aida</i> de Verdi, acoge cada verano un gran <b>festival de ópera</b>, con unas 22.000 localidades por función. Desde lo alto de las gradas se ve el centro de la ciudad.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Verona_Arena",
+     "https://it.wikipedia.org/wiki/Arena_di_Verona"
+    ]
+   }
+  },
+  {
+   "id": "foro-italico-y-barrio-eur",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Foro Itálico</b> y el barrio del <b>EUR</b> son los dos grandes conjuntos de la arquitectura fascista en Roma. El primero, llamado <b>Foro Mussolini</b> hasta 1943, es un complejo deportivo al norte de la ciudad, levantado entre 1928 y 1938 con proyecto de Enrico Del Debbio y después de Luigi Moretti. El segundo es un barrio entero al sur, planificado por Marcello Piacentini para la Exposición Universal de 1942, con la que se iban a celebrar los veinte años del fascismo.</p><p>A la entrada del Foro se alza un <b>obelisco</b> de mármol de Carrara de 17,5 metros con el nombre de Mussolini, y una avenida de mosaicos blancos y negros lleva al <b>Estadio de los Mármoles</b> (1932), rodeado de estatuas de atletas regaladas por las provincias italianas; al lado está el Estadio Olímpico. La guerra impidió la Exposición, y el EUR se terminó en los años cincuenta. Su símbolo es el <b>Palacio de la Civilización Italiana</b> (1938-1943), el «Coliseo cuadrado», con 54 arcos en cada fachada y una frase de Mussolini sobre un «pueblo de poetas, de artistas, de héroes». Ambos estaban listos para los Juegos Olímpicos de 1960, que tuvieron en el Foro una de sus sedes.</p><p>Son hoy un ejemplo controvertido de cómo convivir con la herencia de una dictadura: en 2015 se propuso borrar el nombre de Mussolini del obelisco, pero historiadores y arquitectos se opusieron y sigue allí.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Foro_Italico",
+     "https://it.wikipedia.org/wiki/Foro_Italico",
+     "https://en.wikipedia.org/wiki/EUR,_Rome",
+     "https://it.wikipedia.org/wiki/Palazzo_della_Civiltà_Italiana"
+    ]
+   }
+  },
+  {
+   "id": "ortigia",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Ortigia</b> es la pequeña isla donde nació <b>Siracusa</b>. La habitaban los sículos cuando, en el siglo VIII a. C., llegaron colonos griegos de Corinto y fundaron la ciudad que llegaría a ser una de las más poderosas de la Magna Grecia. Hoy es el casco antiguo, unido a la Siracusa moderna por dos puentes, y desde 2005 es Patrimonio Mundial.</p><p>Su <b>catedral</b> está construida dentro de un templo dórico de Atenea que el tirano Gelón levantó en el siglo V a. C., tras vencer a los cartagineses en Hímera (480 a. C.). Los bizantinos lo convirtieron en iglesia hacia el 640, los árabes en mezquita, y tras el terremoto de 1693 recibió una fachada barroca (1728-1753); pero sus columnas griegas siguen a la vista en los muros, dentro y fuera. Cerca están los restos del <b>templo de Apolo</b>, del siglo VI a. C., uno de los templos dóricos más antiguos de Sicilia, y en la punta de la isla el castillo Maniace, que mandó levantar el emperador Federico II en el siglo XIII.</p><p>No hay que perderse la <b>fuente de Aretusa</b>, un manantial de agua dulce junto al mar, con papiros, ligado al mito de la ninfa Aretusa, que huía del dios río Alfeo.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ortygia",
+     "https://it.wikipedia.org/wiki/Duomo_di_Siracusa",
+     "https://whc.unesco.org/en/list/1200/"
+    ]
+   }
+  },
+  {
+   "id": "segesta",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Segesta</b> fue la principal ciudad de los <b>élimos</b>, un pueblo del oeste de Sicilia que, según Tucídides, descendía de refugiados troyanos, y que adoptó en gran parte la cultura griega. Su larga rivalidad con la griega Selinunte la llevó a aliarse con Atenas en el 426 a. C., poco antes de la desastrosa expedición ateniense a Sicilia (415-413 a. C.). En el 307 a. C. el tirano Agatocles de Siracusa la saqueó y mató a sus ciudadanos, y en el 264 a. C. se pasó al bando de Roma.</p><p>Su gran <b>templo dórico</b>, de hacia el 420 a. C., está solo en medio del campo, con sus 36 columnas de unos 10 metros sin acanalar: nunca se terminó, y probablemente nunca tuvo techo. En lo alto del monte Bárbaro está el <b>teatro</b>, de finales del siglo III a. C., con capacidad para unas 4.000 personas y vistas al golfo de Castellammare.</p><p>Desde 2013 es parque arqueológico; en la cima quedan también el ágora, un castillo normando y una mezquita del siglo XII. El teatro sigue usándose para espectáculos.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Segesta",
+     "https://it.wikipedia.org/wiki/Segesta"
+    ]
+   }
+  },
+  {
+   "id": "basilica-de-san-nicolas-de-bari",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>basílica de San Nicolás</b> de Bari se construyó para guardar los restos del santo obispo de Mira, en Asia Menor, que <b>62 marineros de Bari</b> se llevaron de su tumba cuando aquella tierra había caído en manos musulmanas; llegaron al puerto el <b>9 de mayo de 1087</b>. Las obras empezaron ese mismo año; en 1089 el papa <b>Urbano II</b> depositó las reliquias en la cripta, y en 1197 la iglesia estaba terminada.</p><p>Es uno de los grandes ejemplos del <b>románico de Apulia</b> y sirvió de modelo a muchas iglesias de la región. Es lugar de peregrinación para católicos y ortodoxos, sobre todo rusos; en 2017 parte de las reliquias viajó a Moscú y San Petersburgo, la primera vez que salían de Bari en nueve siglos. Los restos del santo están en la cripta, donde cada mayo se recoge un líquido, <b>«el maná»</b>, que los fieles consideran milagroso y que se reparte en frascos a los peregrinos.</p><p>Dentro se conservan la <b>cátedra del abad Elías</b>, un trono de mármol sostenido por figuras humanas, y el sepulcro de <b>Bona Sforza</b>, reina de Polonia. En la cripta, una de las capillas está reservada al culto ortodoxo.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Basilica_of_Saint_Nicholas%2C_Bari",
+     "https://it.wikipedia.org/wiki/Basilica_di_San_Nicola",
+     "https://aleteia.org/2017/04/27/the-bones-of-st-nicholas-still-exude-a-mysterious-oil-with-a-mixed-reputation/"
+    ]
+   }
+  },
+  {
+   "id": "villa-romana-del-casale",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Villa Romana del Casale</b> es la gran residencia de campo que un poderoso romano se hizo construir en el primer cuarto del siglo IV, hacia el 320, en el interior de Sicilia. No se sabe quién era: unos piensan en el emperador Maximiano, por las insignias imperiales que aparecen en algunos mosaicos; otros, en un rico aristócrata de rango senatorial. En el siglo XII un deslizamiento de tierras la cubrió y quedó abandonada, lo que la protegió durante siglos. Las grandes excavaciones, dirigidas por Gino Vinicio Gentili entre 1950 y 1960, sacaron a la luz unos <b>3.500 metros cuadrados de mosaicos</b>: es el mayor conjunto de mosaicos romanos que se conserva en su sitio. Desde 1997 es Patrimonio Mundial.</p><p>El más célebre es el de la <b>Gran Cacería</b>, un largo pasillo donde se capturan fieras para los juegos del anfiteatro. Hay también una Pequeña Cacería, escenas mitológicas como los enemigos de Hércules en el gran comedor de tres ábsides o Ulises ofreciendo vino a Polifemo, y las famosas <b>«chicas en bikini»</b> de la sala de las Diez Doncellas: jóvenes atletas haciendo deporte con prendas de dos piezas que recuerdan a los bañadores modernos.</p><p>Los mosaicos se recorren por pasarelas elevadas bajo una cubierta protectora, y las excavaciones de la Universidad La Sapienza de Roma continúan todavía.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Villa_Romana_del_Casale"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-florencia-y-cupula-de-brunel",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>catedral de Santa María del Fiore</b> es el corazón de Florencia y una de las mayores iglesias del mundo. Su primera piedra se puso el 9 de septiembre de 1296, según el proyecto de Arnolfo di Cambio, sobre la vieja iglesia de Santa Reparata, cuyos restos se ven en la cripta; la obra duró 140 años, y el papa Eugenio IV la consagró el 25 de marzo de <b>1436</b>. La fachada de mármoles de colores es neogótica, de Emilio De Fabris, terminada en 1887.</p><p>La gran <b>cúpula de ladrillo</b> la levantó <b>Filippo Brunelleschi</b> entre 1420 y 1436, después de ganar el concurso a Lorenzo Ghiberti. La hizo sin cimbra de madera, con unos cuatro millones de ladrillos y dos cascos, uno dentro de otro, y sigue siendo la mayor cúpula de fábrica jamás construida. Se sube a lo alto por <b>463 escalones</b> entre sus dos cascos. Por dentro la decoran los frescos del <i>Juicio Final</i> de Vasari y Zuccari (1572-1579), y Brunelleschi está enterrado en la cripta.</p><p>Con el <b>campanario de Giotto</b>, de 84,7 metros, empezado en 1334 y terminado por Francesco Talenti en 1359, y el <b>baptisterio</b>, con las puertas de bronce de Ghiberti que Miguel Ángel juzgó dignas de ser «las puertas del Paraíso», forma el centro de Florencia, Patrimonio Mundial desde 1982. Aquí ocurrió la <b>conjura de los Pazzi</b>: durante la misa mayor del 26 de abril de 1478 asesinaron a Giuliano de Médici, y su hermano Lorenzo escapó herido refugiándose en la sacristía.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Florence_Cathedral",
+     "https://en.wikipedia.org/wiki/Pazzi_conspiracy",
+     "https://en.wikipedia.org/wiki/Giotto%27s_Campanile",
+     "https://en.wikipedia.org/wiki/Florence_Baptistery",
+     "https://feelflorence.it/en/node/12159"
+    ]
+   }
+  },
+  {
+   "id": "palacio-ducal-de-venecia",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Palacio Ducal</b> fue la residencia del dux y la sede del gobierno, los tribunales y las cárceles de la república de Venecia. El edificio gótico que vemos se empezó hacia 1340 por el ala que da a la laguna; en <b>1424</b> el dux Francesco Foscari extendió las obras al ala de la Piazzetta, y entre 1438 y 1442 Giovanni y Bartolomeo Bon labraron la <b>Porta della Carta</b>, la entrada de ceremonia. Tras los incendios de 1574 y 1577 se reconstruyó respetando el estilo gótico, pese a las propuestas de Palladio. Es museo desde 1923.</p><p>En el patio, la <b>escalera de los Gigantes</b> está guardada desde 1567 por las colosales estatuas de Marte y Neptuno de Sansovino, símbolos del poder de Venecia en tierra y en mar. Arriba se abre la enorme <b>Sala del Gran Consejo</b>, de 53 por 25 metros, una de las mayores de Europa, donde se reunían todos los patricios varones mayores de 25 años. Tras el trono del dux está el <i>Paraíso</i> de <b>Tintoretto</b> y su taller (1588-1592), uno de los mayores lienzos del mundo; en el friso de retratos de los dux, el de Marino Faliero, que intentó un golpe de Estado en 1355, es solo un paño negro. En la vecina sala del Escrutinio, Andrea Vicentino pintó la <b>batalla de Lepanto</b>.</p><p>Por el <b>Puente de los Suspiros</b>, de comienzos del siglo XVII, se pasa a las Prisiones Nuevas; su nombre romántico evoca a los presos que veían por última vez la laguna. Bajo el tejado de plomo estaban los <i>Piombi</i>, de donde se fugó Giacomo Casanova.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Doge%27s_Palace",
+     "https://en.wikipedia.org/wiki/Battle_of_Lepanto"
+    ]
+   }
+  },
+  {
+   "id": "museo-marconi-villa-griffone",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Villa Griffone</b>, una casa de campo del siglo XVII en Pontecchio, en las colinas al sur de Bolonia, era la residencia de la familia de <b>Guglielmo Marconi</b>. Allí, con apenas veinte años, montó en el desván —la antigua «sala de los gusanos de seda»— un laboratorio donde empezó a experimentar con las ondas de radio, ayudado por el mayordomo de la casa, Mignani.</p><p>En el verano de <b>1895</b> llevó sus pruebas al aire libre, por la finca de su padre. Al elevar la antena y conectar a tierra el emisor y el receptor, consiguió que la señal salvara la colina de los Celestini, a unos 2 kilómetros: envió la señal desde la villa, y al otro lado de la colina su ayudante disparó un tiro para confirmar que la había recibido. Fue uno de los primeros pasos de la radio, que le valdría el premio Nobel de Física en 1909.</p><p>Tras su muerte en 1937, la villa fue declarada monumento nacional en 1939 y pasó a la Fundación Guglielmo Marconi; en 1941 se inauguró en el jardín su <b>mausoleo</b>, obra de Marcello Piacentini, y el pueblo pasó a llamarse Pontecchio Marconi. Desde 1999 la villa alberga el <b>Museo Marconi</b>, que conserva muchos de sus aparatos y documentos.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/152533606",
+     "https://en.wikipedia.org/wiki/Guglielmo_Marconi",
+     "https://en.wikipedia.org/wiki/Marconi_Museum_(Italy)",
+     "https://ethw.org/Milestones:Marconi's_Early_Experiments_in_Wireless_Telegraphy,_1895"
+    ]
+   }
+  },
+  {
+   "id": "aquilea",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Aquilea</b> fue fundada en el <b>181 a. C.</b> como colonia latina en el extremo norte del Adriático, para frenar a carnios e histrios y proteger a los vénetos. Gracias a su gran puerto fluvial sobre el Natisone y a las calzadas que salían hacia el Nórico y el Danubio, llegó a ser una de las grandes ciudades del Imperio: cuando Marco Aurelio la convirtió en su principal fortaleza frente a los bárbaros del norte, alcanzó unos 100.000 habitantes. En el 238 resistió el asedio del emperador Maximino el Tracio, que terminó asesinado.</p><p><b>Atila</b> la arrasó en el <b>452</b>, y muchos de sus habitantes huyeron a las lagunas, donde surgieron Grado y Venecia. Aun así siguió siendo sede de un poderoso <b>patriarcado</b>, que no se suprimió hasta 1751. Desde 1998 su zona arqueológica y la basílica son Patrimonio Mundial.</p><p>Quedan el foro, el puerto fluvial y casas con mosaicos, y el Museo Arqueológico Nacional guarda más de 2.000 inscripciones, estatuas y mosaicos. La <b>basílica</b>, consagrada por el patriarca Popone en 1031 y rehecha en gótico entre 1365 y 1381, conserva el gran <b>pavimento de mosaico paleocristiano</b> de la iglesia del obispo Teodoro, de comienzos del siglo IV: uno de los mayores y más ricos de la cristiandad occidental, con el Buen Pastor, y una «cripta de los frescos» pintada en el siglo XII.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Aquileia",
+     "https://en.wikipedia.org/wiki/Basilica_of_Aquileia",
+     "https://whc.unesco.org/en/list/825/"
+    ]
+   }
+  },
+  {
+   "id": "su-nuraxi",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Su Nuraxi</b>, a las afueras de Barumini, es el mayor y mejor conservado de los <b>nuragas</b>, las torres de piedra que levantó en la Edad del Bronce la civilización nurágica de Cerdeña. Desde 1997 es Patrimonio Mundial. Su núcleo es una torre central de 18,6 metros de altura con tres cámaras superpuestas, de mediados del segundo milenio a. C. (las dataciones van del siglo XVII al XI a. C.).</p><p>Con el tiempo se le añadió un bastión de cuatro torres, orientadas a los puntos cardinales y unidas por muros, y en la Edad del Hierro una muralla exterior de siete lóbulos. Fuera creció una aldea de una cincuentena de cabañas redondas de piedra, con una cabaña mayor donde se reunían los jefes locales. En el siglo VI a. C. el conjunto fue destruido y luego restaurado bajo dominio cartaginés, y siguió habitado hasta época romana.</p><p>Lo excavó por completo entre 1949 y 1956 el arqueólogo <b>Giovanni Lilliu</b>, que era del pueblo, y a su trabajo se debe en buena parte su declaración como Patrimonio Mundial. Hoy solo se recorre con visita guiada; en el pueblo, el palacio Zapata, del siglo XV, se levanta sobre otro nuraga y alberga un museo con hallazgos de la zona.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Su_Nuraxi_%28Barumini%29",
+     "https://es.wikipedia.org/wiki/Su_Nuraxi",
+     "https://en.wikipedia.org/wiki/Giovanni_Lilliu"
+    ]
+   }
+  },
+  {
+   "id": "anfiteatro-de-capua",
+   "campos": {
+    "texto": {
+     "general": "<p>Capua fue una de las ciudades más ricas de Italia. Se alió con Aníbal en la segunda guerra púnica y Roma la castigó con dureza al recuperarla en el 211 a. C., pero poco a poco volvió a ser una de las más prósperas del Imperio. Tenía famosas escuelas de gladiadores: de la de Léntulo Batiato, junto a la ciudad, escapó en el <b>73 a. C.</b> <b>Espartaco</b> con unos setenta compañeros, y tras la derrota de su rebelión seis mil supervivientes fueron crucificados a lo largo de la vía Apia, entre Roma y Capua.</p><p>Su <b>anfiteatro</b> era el segundo más grande del mundo romano después del Coliseo, al que quizá sirvió de modelo: medía 170 por 139 metros, y su fachada, de 46 metros de altura, tenía cuatro pisos, con 80 arcos en cada uno de los tres inferiores y bustos de dioses en las claves. Según una inscripción, lo construyó la colonia fundada por Augusto, lo restauró Adriano y lo inauguró Antonino Pío en el 155; muchos historiadores creen que el edificio actual es de hacia el año 100, a finales del siglo I, sobre otro anterior. Tras los vándalos y los sarracenos, los capuanos lo usaron durante siglos como cantera, hasta que los Borbones lo declararon monumento.</p><p>Se puede bajar a los pasillos subterráneos bajo la arena. Junto a él hay un museo de los gladiadores y, cerca, un mitreo, uno de los mejor conservados del Imperio, con un fresco del siglo II de Mitra matando al toro. Desde 2024 es Patrimonio Mundial como parte de la vía Apia.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Amphitheatre_of_ancient_Capua",
+     "https://www.openstreetmap.org/relation/18389981",
+     "https://en.wikipedia.org/wiki/Spartacus",
+     "https://en.wikipedia.org/wiki/Santa_Maria_Capua_Vetere"
+    ]
+   }
+  },
+  {
+   "id": "castel-nuovo-de-napoles",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Castel Nuovo</b>, el «castillo nuevo» que los napolitanos llaman <i>Maschio Angioino</i>, es la gran fortaleza del puerto de Nápoles. Lo levantó Carlos I de Anjou entre 1279 y 1282, cuando trasladó la capital de Palermo a Nápoles. En su gran salón abdicó en 1294 el papa Celestino V y fue elegido Bonifacio VIII, y en tiempos del rey Roberto lo frecuentaron Petrarca y Boccaccio, y Giotto pintó su capilla.</p><p><b>Alfonso V de Aragón</b>, que conquistó el reino, instaló en él su corte en 1443 y lo reconstruyó por completo en gótico catalán, con el arquitecto mallorquín Guillem Sagrera y sus grandes torres redondas. Entre dos de ellas añadió el <b>arco de triunfo de mármol blanco</b> que celebra su entrada en la ciudad en 1443, una de las primeras obras del Renacimiento en el sur, terminado tras su muerte. En la sala de los Barones, su hijo Fernando I apresó en 1486 a los nobles que habían conspirado contra él, invitándolos a una boda. En 1503 las tropas del <b>Gran Capitán</b> lo tomaron a los franceses volando parte de sus muros con las minas de su ingeniero Pedro Navarro. Carlos V se alojó en él en 1535.</p><p>Dentro está el <b>Museo Cívico</b>, con la capilla Palatina y dos pisos de colecciones. Bajo un suelo de cristal se ven restos romanos y medievales, y desde sus torres se ve el Vesubio.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Castel_Nuovo",
+     "https://www.openstreetmap.org/relation/15009683",
+     "https://es.wikipedia.org/wiki/Castel_Nuovo",
+     "https://es.wikipedia.org/wiki/Pedro_Navarro"
+    ]
+   }
+  },
+  {
+   "id": "villa-adriana",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Villa Adriana</b> es la enorme residencia que el emperador <b>Adriano</b> se hizo construir junto a Tívoli, con palacios, termas, bibliotecas, teatros, jardines y estanques que recordaban sus viajes por Grecia y Egipto. Es una de las villas romanas más imponentes que se conocen y, desde 1999, Patrimonio Mundial.</p><p>Adriano, nacido en Itálica, cerca de Sevilla, empezó las obras hacia el 118, pocos meses después de llegar a Roma como emperador, sobre varias villas de época republicana, y siguió construyendo hasta su muerte en el 138. El conjunto ocupa al menos un kilómetro cuadrado —más que la ciudad de Pompeya— con más de treinta edificios sobre terrazas. Hacia el 128 la convirtió en su residencia oficial, y desde aquí gobernó en sus últimos años. Según la <i>Historia Augusta</i>, dio a sus partes nombres de lugares célebres del Imperio, como el Liceo o la Academia.</p><p>Destacan el <b>Canopo</b>, un largo estanque que evoca un brazo del Nilo, rodeado de estatuas como las copias de las cariátides del Erecteion, con un gran comedor al aire libre al fondo, y el llamado <b>Teatro Marítimo</b>, una isla redonda rodeada de agua, de 40 metros de diámetro, con biblioteca, baños y habitaciones, donde el emperador se retiraba. Después la villa fue saqueada durante siglos: en el XVI el cardenal Hipólito de Este se llevó mármoles y estatuas para su cercana Villa de Este. Sus audaces formas curvas inspiraron a Borromini.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Hadrian%27s_Villa",
+     "https://en.wikipedia.org/wiki/Hadrian"
+    ]
+   }
+  },
+  {
+   "id": "museos-capitolinos",
+   "campos": {
+    "texto": {
+     "general": "<p>Los <b>Museos Capitolinos</b>, en lo alto del Capitolio de Roma, pasan por ser el museo público más antiguo del mundo. Su origen está en <b>1471</b>, cuando el papa Sixto IV devolvió al pueblo romano un grupo de bronces antiguos guardados en Letrán, entre ellos la <b>Loba Capitolina</b>, que desde entonces es símbolo de la ciudad; en 1734 Clemente XII los abrió a todos los ciudadanos. Ocupan el Palacio de los Conservadores y el Palacio Nuevo, frente a frente en la plaza del Campidoglio, que diseñó <b>Miguel Ángel</b> en 1536.</p><p>Guardan, entre muchas otras obras, la <b>estatua ecuestre de bronce de Marco Aurelio</b> —la original está dentro desde 1990 y en la plaza hay una copia—, el <i>Galo moribundo</i>, el <i>Espinario</i> y el Hércules de bronce dorado del Foro Boario. En su sala de los Horacios y Curiacios se firmaron en 1957 los Tratados de Roma, origen de la Unión Europea.</p><p>En el patio del Palacio de los Conservadores están los restos del <b>coloso de Constantino</b>: una cabeza de mármol de unos dos metros y medio, una mano, un pie y otros fragmentos de una estatua sentada de unos doce metros, que presidía la gran basílica junto al Foro que Constantino terminó tras vencer a Majencio en 312. Se encontraron en 1486. Los ojos, enormes y mirando a lo alto, muestran la nueva imagen del emperador, casi sobrehumana.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Capitoline_Museums",
+     "https://en.wikipedia.org/wiki/Colossus_of_Constantine"
+    ]
+   }
+  }
+ ]
+}

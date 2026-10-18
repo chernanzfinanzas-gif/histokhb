@@ -1,0 +1,462 @@
+{
+ "zona": "Ampliar espana-3b",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "castillo-de-segura-de-la-sierra",
+   "campos": {
+    "texto": {
+     "general": "<p>En lo más alto de <b>Segura de la Sierra</b>, a la vista de toda la sierra, este castillo se levantó sobre una fortaleza anterior de época islámica. Su <b>torre de entrada en codo</b>, de influencia norteafricana, está documentada ya en el siglo XI, y de la fase andalusí quedan unos <b>baños de vapor</b>, señal de que aquí residía un señor importante.</p><p>Tras la conquista cristiana, la <b>Orden de Santiago</b> hizo de él el centro de su encomienda, y en el último cuarto del siglo XV llegó a ser residencia del <b>Gran Maestre</b>. Una inspección de 1468, hecha por el comisionado Francisco de León, describe su patio de armas con tahona, fragua y depósitos de harina. La tradición dice que en Segura nació el poeta <b>Jorge Manrique</b>, aunque ningún documento lo confirma.</p><p>La <b>torre del homenaje</b> mide 18,4 m, con muros de más de 2 m de grosor, tres plantas y terraza. Conserva una <b>capilla mudéjar</b> del siglo XIII, de nave única y ábside semicircular decorado con lóbulos de ladrillo, el adarve que recorre el perímetro y los <b>aljibes</b> que permitían aguantar los asedios. Una restauración en los años sesenta del siglo XX, del arquitecto Francisco Pons-Sorolla, lo abrió al público. El pueblo es conjunto histórico-artístico desde 1972.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Segura_de_la_Sierra",
+     "https://www.openstreetmap.org/?mlat=38.2992&mlon=-2.6496#map=18/38.2992/-2.6496",
+     "https://es.wikipedia.org/wiki/Segura_de_la_Sierra"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-jabalquinto",
+   "campos": {
+    "texto": {
+     "general": "<p>Lo mandó construir en la segunda mitad del siglo XV <b>Juan Alfonso de Benavides Manrique</b>, señor de Jabalquinto, llamado «el famoso capitán de Lorca», con su esposa Beatriz de Valencia. Su fachada es una de las mejores del <b>gótico isabelino</b>: puntas de diamante, clavos de piña, pináculos, ocho escudos de los linajes de la pareja y una puerta en arco conopial. Se ha atribuido a <b>Juan Guas</b>, y también a Enrique Egas; la ejecutó el maestro mayor de Jaén, Pedro López. Encima se añadió después un mirador renacentista.</p><p>Dentro cambia de época: un <b>patio renacentista</b> de doble arcada con columnas de mármol, con las fechas 1599 y 1600 en dos claves, y una monumental <b>escalera barroca</b> de tipo imperial, con elementos que llegan al primer cuarto del siglo XVIII, que se abre como un arco de triunfo. En 1720 los condes lo cedieron al seminario de San Felipe Neri, y con alguna interrupción fue seminario hasta 1969.</p><p>Declarado monumento histórico-artístico en 1931, forma parte del conjunto de Baeza, Patrimonio de la Humanidad desde 2003, y hoy es sede Antonio Machado de la <b>Universidad Internacional de Andalucía</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>Por dos troncos de la portada trepan catorce figurillas humanas.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_de_Jabalquinto",
+     "https://www.openstreetmap.org/?mlat=37.9913&mlon=-3.4688#map=18/37.9913/-3.4688"
+    ]
+   }
+  },
+  {
+   "id": "santuario-iberico-collado-de-los-jardines",
+   "campos": {
+    "texto": {
+     "general": "<p>En pleno Despeñaperros, en el término de Santa Elena, entre grandes bloques de piedra, se abre la <b>Cueva de los Muñecos</b>, corazón de uno de los grandes santuarios <b>ibéricos</b> de Jaén. Se fecha desde el siglo VI a. C., lo que lo sitúa entre los santuarios fuera de poblado más antiguos de la cultura ibérica, en el territorio que controlaba la ciudad de Cástulo. La cueva mayor, de unos 50 m de fondo, con un manantial en su interior, marcaba probablemente el límite del recinto sagrado.</p><p>Debe su nombre a los <b>exvotos de bronce</b> hallados aquí: más de 2.500 figuritas de hombres, mujeres, jinetes y guerreros que enseñan cómo vestían, se peinaban y se armaban los íberos. Con los de Castellar, también en Jaén, forman la mayor colección de exvotos de bronce del mundo ibérico. Entre las ofrendas hay también exvotos anatómicos —piernas, ojos, brazos—, señal de que se venía a pedir salud. El ingeniero inglés Horace Sandars dio a conocer las piezas, e I. Calvo y J. Cabré hicieron las primeras excavaciones entre 1916 y 1918. Después los romanos se apropiaron del lugar para su propio culto. Casi todas estas piezas se guardan hoy en el <b>Museo Arqueológico Nacional</b> de Madrid.</p><p>Un sendero público lleva desde el collado hasta el santuario y a un mirador en el Cerro del Castillo, donde se ha documentado un poblado, con restos de un camino romano y una muralla.</p>"
+    },
+    "fuentes": [
+     "https://www.jaenparaisointerior.es/en/w/cueva-de-los-munecos-1",
+     "https://repositorio.uam.es/handle/10486/678820",
+     "https://www.openstreetmap.org/?mlat=38.3901&mlon=-3.4942#map=18/38.3901/-3.4942",
+     "https://juntadeandalucia.es/medioambiente/portal/documents/20151/6170c565-8400-0354-398b-f49389c7c821",
+     "https://es.wikipedia.org/wiki/Cueva_de_los_Mu%C3%B1ecos",
+     "https://www.jaenparaisointerior.es/en/w/castle-at-giribaile"
+    ]
+   }
+  },
+  {
+   "id": "oppidum-de-giribaile",
+   "campos": {
+    "texto": {
+     "general": "<p>Sobre una meseta asomada al embalse de Giribaile, en Vilches, se alzó una de las mayores ciudades fortificadas <b>ibéricas</b> de la provincia: un <i>oppidum</i> de 14,5 hectáreas que en el siglo IV a. C. formaba parte del territorio de <b>Cástulo</b> y vigilaba el camino de esa ciudad hacia Levante. Antes ya había habido allí un poblado de la Edad del Bronce. Su final llegó con un incendio violento, quizá en una campaña de castigo durante la Segunda Guerra Púnica.</p><p>Siglos después, entre los VI y VII d. C., sus habitantes ampliaron las cuevas naturales del farallón oriental, las <b>cuevas de Espeluca</b>, para vivir en ellas. Entre los siglos IX y X el cerro se convirtió en un <i>hisn</i> o castillo refugio, y los <b>almohades</b> lo reforzaron con una torre nueva y una barbacana. Los castellanos lo conquistaron en <b>1227</b>, pasó al término de Baeza y perdió su papel militar; en 1292 Sancho IV lo cedió a Gil Bayle, de quien tomaría el nombre.</p><p>Aún se ven restos de la gran muralla ibérica, las cuevas excavadas y dos torres de tapial del castillo con su pequeño aljibe. Muchas piezas de las excavaciones de la Universidad de Jaén se exponen en el <b>Museo Íbero</b> de Jaén. La visita se concierta con el centro de interpretación de Vilches.</p>"
+    },
+    "fuentes": [
+     "https://www.jaenparaisointerior.es/en/w/castle-at-giribaile",
+     "https://www.jaenparaisointerior.es/en/w/centro-de-interpretacion-ciudad-fortificada-de-giribaile",
+     "https://www.openstreetmap.org/?mlat=38.1176&mlon=-3.487#map=18/38.1176/-3.487",
+     "https://es.wikipedia.org/wiki/Castillo_de_Giribaile"
+    ]
+   }
+  },
+  {
+   "id": "santuario-virgen-de-la-cabeza",
+   "campos": {
+    "texto": {
+     "general": "<p>En lo alto del cerro de la Cabeza, en plena Sierra de Andújar, se levantó entre <b>1287 y 1304</b> este santuario, reformado a finales del siglo XVI. La tradición lo liga a la aparición de la Virgen, la noche del 11 al 12 de agosto de 1227, al pastor manco <b>Juan Alonso de Rivas</b>, de Colomera, que según la leyenda recuperó el brazo. El cerro debe su nombre a una gran roca con forma de cabeza que coronaba la cima. Su romería, el último fin de semana de abril, está documentada desde 1505 y pasa por ser una de las más antiguas de España.</p><p>En la Guerra Civil fue escenario de un largo <b>asedio</b>: unos 200 guardias civiles de la provincia con el capitán <b>Santiago Cortés</b> resistieron nueve meses con sus familias y otros civiles. Cuando cayó en manos republicanas, el 1 de mayo de 1937, Cortés estaba herido de muerte, el santuario reducido a escombros y se había perdido la imagen primitiva.</p><p>Reconstruido después, lo atienden los frailes <b>trinitarios</b> y es <b>basílica menor</b> desde 2010. La Virgen es patrona de Andújar desde 1909 y de la diócesis de Jaén desde 1959.</p><p class=\"dato\"><span>¿Sabías que…?</span>El asedio inspiró la película <i>El santuario no se rinde</i> (1949).</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Santuario_de_la_Virgen_de_la_Cabeza",
+     "https://www.openstreetmap.org/?mlat=38.1793&mlon=-4.0351#map=18/38.1793/-4.0351"
+    ]
+   }
+  },
+  {
+   "id": "banos-arabes-de-baza",
+   "campos": {
+    "texto": {
+     "general": "<p>Estos baños públicos se construyeron en el siglo XIII, en época <b>almohade</b>, en el arrabal de la Marzuela, hoy barrio de Santiago, y funcionaron hasta el siglo XVI. Estaban ligados a la mezquita del barrio, que es la actual iglesia de Santiago.</p><p>Los dio a conocer a finales del siglo XIX el historiador <b>Manuel Gómez-Moreno</b>. Conservan sus <b>cubiertas originales</b> y el recorrido completo de un baño andalusí: el vestíbulo, un patio rodeado de galerías; la <b>sala fría</b>, con dos alcobas abiertas por arcos gemelos sobre columna de mármol; la <b>sala templada</b>, la principal, con una bóveda central rodeada de bóvedas de cañón y cúpulas en las esquinas; y la <b>sala caliente</b>, con suelo radiante. Detrás quedan el horno, donde una caldera de cobre calentaba el agua, y la leñera. Las bóvedas de ladrillo se abren con lucernarios en forma de estrella u octógono, que se abrían o cerraban para regular el calor y el vapor.</p><p>El baño era también lugar de encuentro: en la sala templada se charlaba y hasta se comía. Cuando dejó de usarse, el edificio sirvió de bodega, como delata una tinaja de vino encajada en la sala fría. La Junta de Andalucía lo restauró en 2008, intervención premiada en 2009.</p>"
+    },
+    "fuentes": [
+     "https://www.juntadeandalucia.es/aaiicc/enclaves/enclave-monumental-banos-arabes-de-baza",
+     "https://www.openstreetmap.org/?mlat=37.49&mlon=-2.7701#map=18/37.49/-2.7701",
+     "https://cdn.juntadeandalucia.es/sites/default/files/2021-02/Folleto_B_A_Baza_es.pdf"
+    ]
+   }
+  },
+  {
+   "id": "basilica-de-san-juan-de-dios-granada",
+   "campos": {
+    "texto": {
+     "general": "<p>La Orden Hospitalaria de <b>San Juan de Dios</b> levantó este templo entre <b>1737 y 1759</b> para acoger las reliquias de su fundador, a impulso del prior fray Alonso de Jesús Ortega y con José de Bada como responsable de la obra. Se inauguró el 27 de octubre de 1759 con el título de templo de la Purísima Concepción, y forma conjunto con el hospital de la orden, que tiene al lado.</p><p>Por fuera, piedra y ladrillo, una portada entre dos torres con chapiteles de pizarra, solución poco frecuente en Andalucía. Por dentro, una planta de cruz latina con nave amplia, capillas laterales y una cúpula sobre el crucero, todo cargado de esculturas, pinturas y frescos: es uno de los interiores <b>barrocos</b> más deslumbrantes de Granada. El <b>retablo mayor</b>, de madera dorada, es obra del tallista lucentino José Francisco Guerrero; sus estípites enmarcan el camarín y dibujan la silueta de una gran vela encendida, y lleva lienzos atribuidos a Sarabia, como la Inmaculada del cuerpo alto.</p><p>En el <b>camarín</b>, tras el altar mayor, se guarda una <b>urna de plata maciza</b> con las reliquias de San Juan de Dios, la razón de ser de todo el templo.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Basílica_de_San_Juan_de_Dios",
+     "https://www.openstreetmap.org/?mlat=37.1806&mlon=-3.603#map=18/37.1806/-3.603",
+     "https://caballerossanjuandedios.org/?p=1119"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-moclin",
+   "campos": {
+    "texto": {
+     "general": "<p>Los nazaríes lo llamaban <b>Hisn al-Muqlin</b>, «la fortaleza de las dos pupilas», por su papel de vigía permanente, y también «el escudo de Granada». Se construyó a mediados del siglo XIV, aprovechando una edificación anterior, y tras la caída de Alcaudete (1340) y Alcalá la Real (1341) quedó en primera línea de la frontera entre Granada y Castilla, vigilando el paso de Alcalá a la Vega.</p><p>Tiene dos recintos: abajo, la villa amurallada con su gran torre-puerta y la iglesia de la Encarnación; arriba, a 1.100 m, la alcazaba, con doble muralla, la torre del homenaje —primero de tapial y luego reforzada con mampostería— y dos aljibes. A su alrededor conserva cinco <b>torres de señales</b>, como la de Mingoandrés o la Torre de la Gallina, que lo enlazaban con Íllora y Granada.</p><p>En 1485 las tropas granadinas derrotaron cerca de aquí al conde de Cabra, pero en <b>1486</b>, tras tomar Loja, los <b>Reyes Católicos</b> conquistaron Moclín. Sufrió bombardeos en la Guerra Civil y la Junta de Andalucía lo restauró en parte en 2012-2013.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Moclín",
+     "https://www.openstreetmap.org/?mlat=37.3423&mlon=-3.7864#map=18/37.3423/-3.7864",
+     "https://en.wikipedia.org/wiki/Battle_of_Mocl%C3%ADn_(1485)",
+     "https://en.andalucia.org/listing/mocl%c3%adn/19522101/"
+    ]
+   }
+  },
+  {
+   "id": "pena-de-los-gitanos",
+   "campos": {
+    "texto": {
+     "general": "<p>En un paraje de peñas y prados cerca de <b>Montefrío</b> se reúne un yacimiento extraordinario: desde el <b>Neolítico</b> hasta la Edad Media, la gente volvió una y otra vez a este lugar. El poblamiento más antiguo, en la cueva de Las Tontas, se remonta al Neolítico medio, hacia el 4500 a. C., y hay al menos cinco cuevas o abrigos con niveles de habitación prehistóricos.</p><p>Lo más llamativo es su <b>necrópolis megalítica</b>, repartida en tres grupos —El Castellón, La Camarilla y El Rodeo—, donde el arqueólogo Mergelina documentó unos 29 dólmenes en 1941-1942: sepulturas de cámara, algunas con pasillo, que con el tiempo dieron paso a enterramientos en cista. En la terraza más alta está el poblado de <b>Los Castillejos</b>, ocupado aproximadamente entre el 3000 y el 1800 a. C. y clave para entender la prehistoria andaluza. Sobre él creció un asentamiento ibérico y romano, y desde época tardorromana la vida se trasladó al cerro del <b>Castellón</b>, con casas, calles, tramos de muralla y una necrópolis visigoda de losas, habitado hasta los siglos X-XI.</p><p>Es zona arqueológica, Bien de Interés Cultural, desde 1996. Los dólmenes están en una finca privada: la visita se concierta con antelación.</p>"
+    },
+    "fuentes": [
+     "https://www.urbipedia.org/hoja/Pe%C3%B1as_de_los_Gitanos",
+     "https://www.ugr.es/~masterarqueologia/hISTORICO/Actividades%202/Montefrio.htm",
+     "https://www.openstreetmap.org/?mlat=37.3392&mlon=-3.9607#map=18/37.3392/-3.9607",
+     "https://cdn.juntadeandalucia.es/boja/1996/95/d2.pdf",
+     "https://es.hispanopedia.com/wiki/Montefr%C3%ADo"
+    ]
+   }
+  },
+  {
+   "id": "sexi",
+   "campos": {
+    "texto": {
+     "general": "<p>Almuñécar fue la colonia fenicia de <b>Sexi</b>, una de las factorías que los navegantes llegados de Oriente establecieron en la costa andaluza a finales del siglo IX a. C. Vivía de la pesca, las salazones y el <i>garum</i>, y en época romana fue municipio con el nombre de <i>Sexi Firmum Iulium</i> y acuñó moneda propia.</p><p>Su museo arqueológico ocupa un lugar singular: la <b>Cueva de Siete Palacios</b>, el sótano abovedado de una construcción romana en lo alto del casco antiguo, en el barrio de San Miguel. Debe su nombre a sus siete tramos de bóveda, y se ha relacionado con un templo dedicado a Minerva. Allí se guarda lo hallado en las necrópolis fenicias de <b>Puente de Noy</b> y <b>Laurita</b> y en la factoría de salazón de El Majuelo, con ajuares funerarios y un fragmento de estatua de Minerva.</p><p>La pieza estrella es un <b>vaso egipcio</b> de cuarzo con inscripciones jeroglíficas, del siglo XVII a. C., con el nombre del faraón Apofis I: era ya una antigüedad de casi mil años cuando acabó en una tumba fenicia de Sexi. Muy cerca se pueden ver los restos de la factoría de El Majuelo, el acueducto romano y el castillo de San Miguel.</p>"
+    },
+    "fuentes": [
+     "https://www.spain.info/es/lugares-interes/cueva-siete-palacios-museo-arqueologico",
+     "https://es.wikipedia.org/wiki/Sexi",
+     "https://www.google.com/maps/place/?q=place_id:ChIJmYeGH5uIcQ0RB74KKT-diFE",
+     "https://www.openstreetmap.org/?mlat=36.7328&mlon=-3.6916#map=18/36.7328/-3.6916",
+     "https://es.wikipedia.org/wiki/Almu%C3%B1%C3%A9car",
+     "https://www.granadadirect.com/costa/almunecar/que-ver/"
+    ]
+   }
+  },
+  {
+   "id": "sinagoga-de-cordoba",
+   "campos": {
+    "texto": {
+     "general": "<p>Una inscripción en hebreo la fecha en <b>1315</b> y nombra a su constructor, el alarife <b>Isaq Moheb</b>. Se levantó cuando Córdoba ya era castellana y es una de las pocas sinagogas medievales que quedan en España; en Andalucía solo se ha identificado otra, en Utrera. Un pequeño patio lleva a un vestíbulo y, por una escalera, a la galería de las mujeres, que se asoma a la sala de oración por tres arcos. La sala, casi cuadrada, de unos 7 por 6,4 m y sorprendentemente alta, conserva sus <b>yeserías mudéjares</b> con salmos y otros textos bíblicos en hebreo, y en el muro oriental el nicho donde se guardaba la Torá.</p><p>Tras la expulsión de 1492 fue hospital de hidrófobos; desde 1588, ermita de San Crispín, patrón de los zapateros, y en el siglo XIX, escuela de párvulos. En 1884 apareció la inscripción fundacional y en 1885 fue declarada <b>Monumento Nacional</b>.</p><p>Está en la judería donde nació, hacia 1138, <b>Maimónides</b>, el gran sabio judío de la Edad Media. Su familia tuvo que abandonar Córdoba cuando los almohades tomaron la ciudad en 1148 y exigieron a los judíos convertirse o marcharse. A pocos pasos, en la plazuela de Tiberíades, una estatua de bronce lo recuerda.</p>"
+    },
+    "fuentes": [
+     "https://www.infobae.com/espana/viajes/2025/12/23/la-joya-historica-de-andalucia-es-la-unica-sinagoga-medieval-que-se-conserva-en-la-region-y-esta-en-una-ciudad-patrimonio-de-la-humanidad/",
+     "https://es.wikipedia.org/wiki/Sinagoga_de_C%C3%B3rdoba"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-belalcazar",
+   "campos": {
+    "texto": {
+     "general": "<p>Domina el norte de la provincia desde lo alto del pueblo, cuyo nombre viene de «bello alcázar». Parece que aquí hubo antes una fortaleza romana y luego musulmana, de la que queda la cerca exterior con torres albarranas sobre el arroyo Caganchas. El castillo actual lo empezó hacia <b>1450</b> <b>Gutierre de Sotomayor</b>, maestre de la Orden de Alcántara, cuando el rey Juan II le concedió estas tierras para levantar una fortaleza; sus descendientes, los condes de Belalcázar, tuvieron en él su residencia.</p><p>Su gran orgullo es la <b>torre del homenaje de 47 metros</b>, considerada la más alta de la península: cuadrada en la base y redondeada arriba, rodeada de ocho garitones y adornada con escudos de los Sotomayor y repisas del <b>gótico flamígero</b>. El castillo, cuadrangular y con torres macizas en las esquinas, guarda mazmorra, aljibe y caballerizas. En 1539 se le añadió un palacio renacentista, supervisado por Hernán Ruiz I, hoy arruinado, del que se conservan marcos de ventanas platerescos.</p><p>En la Guerra de la Independencia los franceses lo usaron como almacén y la artillería lo dañó. Tras siglos de abandono y expolio de su cantería, la Junta de Andalucía lo compró en 2008 y en 2018-2019 se consolidó y se abrió a las visitas, con subida a la terraza de la torre.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Belalcázar",
+     "https://www.wikidata.org/wiki/Q1049134",
+     "https://www.openstreetmap.org/?mlat=38.5827&mlon=-5.1655#map=18/38.5827/-5.1655"
+    ]
+   }
+  },
+  {
+   "id": "cueva-de-los-murcielagos-zuheros",
+   "campos": {
+    "texto": {
+     "general": "<p>En la sierra sobre Zuheros, a unos 4 km del pueblo, en plenas Sierras Subbéticas, se abre la mayor cueva de la provincia de Córdoba: una gran cavidad kárstica, con un recorrido de unos 2 km, que la gente habitó durante milenios, desde el <b>Paleolítico Medio</b>, hace unos 35.000 años, hasta época romana, en los siglos III y IV.</p><p>Ya la citó Manuel de Góngora en 1868, pero la primera exploración oficial la hizo el <b>30 de abril de 1938</b>, en plena Guerra Civil, un grupo de oficiales del ejército con el párroco Pedro Vallejo, y encontró restos humanos. Las excavaciones de 1962 y 1969 la convirtieron en un yacimiento clave del <b>Neolítico andaluz</b>, que resultó haber empezado un milenio antes de lo que se creía. Aparecieron cereales carbonizados y un enterramiento en un antiguo charco o <i>gur</i>.</p><p>Sus paredes guardan pinturas y grabados del Paleolítico Superior, de unos 18.000 años, con caballos y ciervos, y <b>pinturas esquemáticas</b> neolíticas de animales, sobre todo cabras. En la visita destacan salas como la de las Formaciones o la del Órgano. Es Bien de Interés Cultural desde 1985 y monumento natural desde 2001. Las herramientas, huesos y cerámicas halladas se exponen en el Museo Arqueológico de Zuheros.</p>"
+    },
+    "fuentes": [
+     "https://www.spain.info/es/lugares-interes/cueva-murcielagos-zuheros/",
+     "https://www.upo.es/patio-colorado/2022/05/26/zuheros-y-la-cueva-de-los-murcielagos",
+     "https://www.openstreetmap.org/?mlat=37.542&mlon=-4.3039#map=18/37.542/-4.3039",
+     "https://es.wikipedia.org/wiki/Cueva_de_los_Murci%C3%A9lagos"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-espejo",
+   "campos": {
+    "texto": {
+     "general": "<p>Corona a 418 metros, la cota más alta de la campiña, el pueblo blanco de Espejo, un cerro habitado desde muy antiguo: aquí estuvo el oppidum íbero de <b>Ucubi</b>, que tomó partido por César en la guerra civil romana y que <b>Pompeyo</b> incendió en el 45 a. C., tras la batalla de Soricaria; luego la Attubi romana, donde probablemente se alzó una primera fortaleza, y la Alcalat islámica, nombre que significa «la fortaleza».</p><p>El castillo actual es del <b>siglo XIII</b>. Lo levantó sobre el anterior, tras la conquista cristiana, <b>Pay Arias de Castro</b>, alcaide de los Reales Alcázares de Córdoba y portero mayor de Andalucía, porque el lugar estaba cerca de la frontera con el reino nazarí de Granada. En <b>1303</b> Fernando IV reconoció el señorío y dio a la villa su nombre de Espejo, derivado del latín <i>specula</i>. En 1366 lo compró el maestre de Calatrava Pedro Muñiz de Godoy, y hoy sigue perteneciendo al <b>ducado de Osuna</b>.</p><p>Se entra por la plaza de Armas, al sur de la cual se alza la torre del Caballero. Dentro se reparten una capilla, la antigua mazmorra, un patio con aljibe y, en la planta alta, la biblioteca y el llamado mirador de la reina Juana. Se visita con reserva previa.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Espejo",
+     "https://www.wikidata.org/wiki/Q97626690",
+     "https://www.openstreetmap.org/?mlat=37.6809&mlon=-4.5538#map=18/37.6809/-4.5538"
+    ]
+   }
+  },
+  {
+   "id": "torre-del-oro",
+   "campos": {
+    "texto": {
+     "general": "<p>Es una torre <b>almohade</b> de <b>1220-1221</b>. La mandó levantar el gobernador almohade de Sevilla cuando el imperio ya estaba en crisis tras la derrota de Las Navas de Tolosa. Cerraba la coracha, el muro que bajaba desde el Alcázar hasta el río pasando por la Torre de la Plata, y vigilaba el puerto. Una tradición recogida en el siglo XVII por Ortiz de Zúñiga cuenta que una gran cadena la unía con la orilla de Triana para cerrar el río, pero hoy se considera que nunca existió. Lo que sí unía las dos orillas era un puente de barcas: en 1248 la flota castellana de <b>Ramón de Bonifaz</b> lo rompió, y en noviembre Sevilla se rindió a Fernando III.</p><p>Tiene tres cuerpos: el almohade, de 15 m de diámetro; un segundo mudéjar, del siglo XIV, atribuido a Pedro I; y el superior, con linterna y cúpula de azulejos dorados, de 1760, tras los daños del terremoto de Lisboa. Mide casi 37 m. Fue capilla, prisión de nobles y oficina del puerto, y en 1871 se libró de ser derribada. Su nombre no tiene que ver con el oro de América: se atribuye al brillo dorado de su revestimiento de cal y paja prensada.</p><p>Desde 1944 es <b>museo naval</b> de la Armada, con maquetas, cartas y grabados.</p>"
+    },
+    "fuentes": [
+     "https://armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/cienciaorgano/prefLang-es/01cienciamuseo--09museosfiliales--05museotoro--01informacion-general",
+     "https://www.openstreetmap.org/?mlat=37.3824&mlon=-5.9963#map=18/37.3824/-5.9963",
+     "https://www.google.com/maps/place/?q=place_id:ChIJZdsRrxZsEg0R5U_Sd56ZBHU",
+     "https://es.wikipedia.org/wiki/Torre_del_Oro"
+    ],
+    "ver_alli": [
+     "Rodea la torre junto al río: vigilaba el puerto y el paso del Guadalquivir.",
+     "Dentro está el museo naval, con maquetas, cartas y grabados.",
+     "Sube a la terraza para ver el río y Triana, en la otra orilla."
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-san-jorge-sevilla",
+   "campos": {
+    "texto": {
+     "general": "<p>Al cruzar el puente de Triana, bajo el mercado del barrio, se esconden los restos de un castillo con una historia sombría. Ya los visigodos habían levantado una fortificación en esta orilla, junto al río. En 1171 el califa almohade Abu Yaqub Yusuf mandó tender un puente de barcas y construir aquí el castillo de Gabir, que lo sujetaba con cadenas; en 1248 la flota de Fernando III rompió esas amarras. Entre 1248 y 1280 lo controló la orden militar de San Jorge.</p><p>En <b>1481</b> el castillo se convirtió en <b>sede de la Inquisición española</b>, con sus cárceles. Las crecidas del río dañaron tanto sus muros que el tribunal lo dejó en 1626, volvió en 1639 y se marchó definitivamente en 1785. Según Vasari, aquí murió en 1522 el escultor Pietro Torrigiano, tras una huelga de hambre. Entre <b>1800 y 1803</b> fue demolido, y en <b>1823</b> se instaló en su solar el <b>mercado de Triana</b>.</p><p>Las numerosas excavaciones hechas bajo el mercado sacaron a la luz sus restos, que se han musealizado. En <b>2009</b> el Ayuntamiento de Sevilla inauguró el centro del Castillo de San Jorge, que permite recorrerlos y conocer la historia de la Inquisición. Al lado, el callejón de la Inquisición formaba parte de la fortaleza.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_San_Jorge_(Sevilla)"
+    ]
+   }
+  },
+  {
+   "id": "museo-arqueologico-de-sevilla",
+   "campos": {
+    "texto": {
+     "general": "<p>El museo nació por una real orden de 1879 y desde los años cuarenta ocupa el <b>pabellón renacentista</b> de la plaza de América, en el parque de María Luisa, obra de <b>Aníbal González</b> para la Exposición Iberoamericana de 1929; sus primeras ocho salas abrieron allí en 1946. Es la casa del <b>tesoro del Carambolo</b>: las 21 piezas de oro, casi 3 kg de oro de 24 quilates, halladas en 1958 en Camas, propiedad del Ayuntamiento de Sevilla. Durante décadas el original se guardó en una cámara acorazada y se mostró en pocas ocasiones, como en 2012 en este museo. Primero se atribuyó a Tartessos; desde los años noventa se interpreta como parte de un santuario fenicio.</p><p>El museo guarda también otras piezas clave del mundo tartésico y fenicio del bajo Guadalquivir, como una pequeña figura de bronce de la diosa <b>Astarté</b> con una inscripción fenicia, hallada en el entorno del Carambolo, y una gran colección romana de <b>Itálica</b>: mosaicos, la Venus de Itálica y retratos de Augusto, Vespasiano, Trajano y Adriano.</p><p>Está en plena reforma integral, con proyecto del arquitecto Guillermo Vázquez Consuegra, y sus piezas principales se trasladaron provisionalmente a la sala Santa Inés. Su reapertura, con el tesoro, se ha anunciado para 2026.</p>"
+    },
+    "fuentes": [
+     "https://www.eldiario.es/sevilla/museo-arqueologico-sevilla-reabrira-2026-luz-original_1_8536749.html",
+     "https://en.wikipedia.org/wiki/Archeological_Museum_of_Seville",
+     "https://www.lavozdelsur.es/cultura/espera-interminable-volver-ver-coleccion-museo-arqueologico-sevilla_318932_102.html",
+     "https://www.upo.es/patio-colorado/?p=8614"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-cumbres-mayores",
+   "campos": {
+    "texto": {
+     "general": "<p>En la sierra de Huelva, Cumbres Mayores conserva su castillo medieval, llamado de Sancho el Bravo. Lo mandó construir en <b>1293</b> el rey <b>Sancho IV</b>, quizá sobre una construcción romana anterior, para defender el Reino de Sevilla desde la <b>Banda Gallega</b> y frenar la expansión de Portugal. Formaba parte de una cadena de fortalezas fronterizas, con las de Aroche, Fregenal de la Sierra y Santa Olalla del Cala, y a su resguardo, frente al bandidaje, crecieron los pueblos de la zona. En el siglo XV recibió reformas importantes.</p><p>Su planta es irregular, de <b>nueve lados</b>, con <b>ocho torreones</b> y una curiosa <b>torre del homenaje de dos cabezas</b>. Los muros alcanzan los diez metros de altura y tres de grosor. Con la paz con Portugal perdió su función: sirvió de corral para el ganado, los vecinos aprovecharon sus piedras para construir casas y en 1980 su interior llegó a usarse como campo de fútbol.</p><p>Fue declarado <b>Monumento Nacional en 1895</b> y hoy es Bien de Interés Cultural. En 1973 y 1999 se hicieron restauraciones destacadas.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Cumbres_Mayores"
+    ]
+   }
+  },
+  {
+   "id": "casa-museo-zenobia-y-juan-ramon-jimenez",
+   "campos": {
+    "texto": {
+     "general": "<p>En esta casa del siglo XVIII de Moguer, en la calle que hoy lleva su nombre, vivió el poeta <b>Juan Ramón Jiménez</b>, nacido en el pueblo en 1881, desde los cinco años, hacia 1886, hasta los veintiséis. Fueron los años de su infancia y su juventud, el mundo que luego evocaría en <i>Platero y yo</i>.</p><p>La casa se convirtió en museo en <b>1956</b>, el año en que el poeta recibió el <b>premio Nobel</b> de Literatura; en su creación colaboró su esposa, <b>Zenobia Camprubí</b>, que murió ese mismo año, a los pocos días del premio. Desde 1987 la gestiona la <b>Fundación Juan Ramón Jiménez</b>. Restaurada a fondo entre 2001 y 2007, es Bien de Interés Cultural como sitio histórico desde 2015.</p><p>Conserva muebles, enseres y pinturas de la familia, y una biblioteca con unos <b>3.700 volúmenes y 7.500 revistas</b> en inglés, alemán, francés y español. Se exponen ediciones de <i>Platero y yo</i> en múltiples idiomas, y en el corral todavía se muestra <b>el pesebre de Platero</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>Juan Ramón donó la mitad del importe de su premio Nobel a esta casa museo, y la otra mitad a la Universidad de Puerto Rico.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Casa_Museo_Zenobia_y_Juan_Ram%C3%B3n_Jim%C3%A9nez",
+     "https://es.wikipedia.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez"
+    ]
+   }
+  },
+  {
+   "id": "iglesia-de-santiago-galdar",
+   "campos": {
+    "texto": {
+     "general": "<p>En el centro de Gáldar, la antigua capital prehispánica de Gran Canaria, se levanta esta gran iglesia de dos torres dedicada a <b>Santiago Apóstol</b>. El edificio actual se construyó entre <b>1778 y 1826</b>, en estilo <b>neoclásico</b>, con proyecto de <b>Diego Nicolás Eduardo</b>, el mismo arquitecto de la iglesia de Agüimes, y se considera el primer ejemplo de arquitectura neoclásica de Canarias. Sus dos torres, de unos 35 m, flanquean la fachada principal. Es una de las grandes iglesias neoclásicas de Gran Canaria, junto con la de Agüimes.</p><p>Su pieza más venerable es la <b>Pila Verde</b>, una pila bautismal de cerámica vidriada en verde, de influencia mudéjar, cocida en los alfares sevillanos de Triana en el siglo XV y decorada con caras de niños, cabezas de león, piñas y caracoles. Se envió por mar desde Andalucía para bautizar a los antiguos canarios, y un registro de 1506 recoge los nombres de los dos primeros bautizados con su agua, Bateo Bastián y Catalina. Hoy está tras el altar mayor.</p><p>La iglesia está protegida como Bien de Interés Cultural desde 1978. Muy cerca, a pocos pasos, se encuentra la Cueva Pintada, el gran yacimiento prehispánico de Gáldar.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Church_of_Santiago_de_los_Caballeros",
+     "https://www.grancanaria.com/blog/en/article/the-mystery-of-the-pila-verde-baptismal-font-of-gran-canaria",
+     "https://en.wikipedia.org/wiki/Cueva_Pintada"
+    ],
+    "ver_alli": [
+     "Las dos torres neoclásicas de la fachada.",
+     "La Pila Verde, la pila bautismal sevillana del siglo XV, tras el altar mayor.",
+     "La plaza que se abre delante de la iglesia.",
+     "Combinar la visita con la cercana Cueva Pintada."
+    ]
+   }
+  },
+  {
+   "id": "poblado-de-la-atalayita",
+   "campos": {
+    "texto": {
+     "general": "<p>En el valle de <b>Pozo Negro</b>, en el municipio de Antigua, a unos 2 km del mar, los <b>majos</b>, los antiguos habitantes de Fuerteventura, levantaron un poblado sobre un malpaís, las coladas de lava del actual paisaje protegido del Malpaís Grande. Tiene más de <b>115 construcciones</b> repartidas en más de 1.200 metros cuadrados, con más de seis siglos de antigüedad: casas de piedra de planta redondeada, corrales y cuevas en los tubos volcánicos. La más característica es la <b>casa honda</b>, una vivienda semienterrada de varios lóbulos.</p><p>Las construcciones servían de refugio para la noche, de protección contra el mal tiempo y de escondite en caso de ataque, y el poblado pudo albergar a unas 200 personas. Los fragmentos de cerámica y las herramientas hallados ayudan a reconstruir su vida diaria. El conjunto muestra muy bien cómo vivían los pastores de la isla antes de la conquista, que iniciaron en 1402 Jean de Béthencourt y Gadifer de la Salle.</p><p>Es Bien de Interés Cultural desde 2007. Un centro de interpretación cercano explica cómo era la vida en el poblado.</p>"
+    },
+    "fuentes": [
+     "https://www.hellocanaryislands.com/museums-and-places-of-interest/fuerteventura/la-atalayita/",
+     "https://www.openstreetmap.org/way/252144269",
+     "https://www.google.com/maps/place/?q=place_id:ChIJzWGaJliVRwwRvmdVGywduCc",
+     "https://www.solosophie.com/?p=34739",
+     "https://es.wikipedia.org/wiki/Fuerteventura"
+    ]
+   }
+  },
+  {
+   "id": "fundacion-cesar-manrique",
+   "campos": {
+    "texto": {
+     "general": "<p>Fue la casa del artista lanzaroteño <b>César Manrique</b> (Arrecife, 1919-1992): el <b>Taro de Tahíche</b>, que levantó en 1968, poco después de volver de Nueva York e instalarse para siempre en la isla. La construyó sobre una colada de lava de las erupciones de <b>1730 a 1736</b>, inspirándose en la arquitectura tradicional isleña. Debajo de la casa hay <b>habitaciones subterráneas</b> metidas dentro de cinco burbujas volcánicas naturales, con más de 1.000 m² habitables en dos niveles.</p><p>Se inauguró como centro cultural el <b>27 de marzo de 1992</b>, seis meses antes de que Manrique muriera en un accidente de tráfico, el 25 de septiembre, muy cerca de aquí. Tiene dos colecciones: obras del propio Manrique y arte contemporáneo de artistas de su generación que él reunió. La fundación, privada, trabaja además por la protección del medio natural de Lanzarote.</p><p>Es la mejor manera de entender su idea de unir arte, arquitectura y paisaje volcánico, la misma que se ve en los Jameos del Agua, el Mirador del Río o el Jardín de Cactus, su última obra en la isla.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Fundaci%C3%B3n_C%C3%A9sar_Manrique",
+     "https://es.wikipedia.org/wiki/C%C3%A9sar_Manrique"
+    ]
+   }
+  },
+  {
+   "id": "ajuy-complejo-basal",
+   "campos": {
+    "texto": {
+     "general": "<p>En la costa oeste de <b>Fuerteventura</b>, la isla más antigua de Canarias, junto al caserío de Ajuy, en el municipio de Pájara, afloran las <b>rocas más antiguas del archipiélago</b>. No son volcánicas: son capas de sedimentos que se depositaron en el fondo del océano, a miles de metros de profundidad, durante el Cretácico, hace más de 100 millones de años, y guardan fósiles de animales marinos ya desaparecidos. Forman parte del llamado complejo basal, el antiguo corazón submarino de la isla, que el magma y el levantamiento sacaron a la superficie.</p><p>Fuerteventura empezó a asomar del mar hace unos 20 – 23 millones de años, y desde entonces la erosión ha desgastado sus volcanes hasta dejarla con las formas suaves que tiene hoy. La zona es Monumento Natural desde 1994.</p><p>La playa de Ajuy, de arena oscura, fue también el Puerto de la Peña, embarcadero desde el que salían cereales y ganado de la isla hacia Andalucía y Madeira. Junto al sendero que lleva a las cuevas, abiertas bajo acantilados de unos 40 m, quedan antiguos hornos de cal, uno de ellos de al menos 7 m de altura.</p>"
+    },
+    "fuentes": [
+     "https://hellocanaryislands.com/nature-spaces/fuerteventura/cuevas-de-ajuy",
+     "https://macpaleo.uac.pt/locations/cuevas-de-ajuy-puerto-de-la-pena-147/",
+     "https://en.wikipedia.org/wiki/Geology_of_the_Canary_Islands",
+     "https://www.openstreetmap.org/node/319804504",
+     "https://www.google.com/maps/place/?q=place_id:ChIJWROTOv6lRwwRw8WOowhAp40",
+     "https://es.wikipedia.org/wiki/Ajuy",
+     "https://capturetheatlas.com/es/cuevas-de-ajuy/"
+    ]
+   }
+  },
+  {
+   "id": "barranco-de-guayadeque",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Barranco de Guayadeque</b>, que separa los municipios de Agüimes e Ingenio y nace en tierras de Valsequillo, es uno de los barrancos más grandes de Canarias. En sus laderas hay <b>cientos de cuevas</b> que los antiguos canarios usaron como viviendas y como lugares de enterramiento, con nombres como Cuevas Muchas, Cueva Labrá o Risco del Canario; en 2020 todavía se descubrieron zonas aborígenes intactas, y las excavaciones continúan.</p><p>De aquí procede la mayor colección de <b>momias</b> y utensilios aborígenes que guarda hoy el <b>Museo Canario</b> de Las Palmas de Gran Canaria.</p><p>El barranco sigue habitado de una forma muy antigua: en el caserío de <b>Cueva Bermeja</b>, llamado así por el color de la piedra, hay cuevas convertidas en casas, una ermita y restaurantes excavados en la roca; más arriba, en Montaña de las Tierras, se puede visitar una casa cueva. Sus laderas guardan además flora propia, como la tabaiba dulce y endemismos como la escobilla de Guayadeque. Es Bien de Interés Cultural como zona arqueológica desde 1991 y Monumento Natural desde 2000.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Barranco_de_Guayadeque",
+     "https://www.openstreetmap.org/node/3507793674",
+     "https://www.google.com/maps/place/?q=place_id:ChIJZTU9GASZQAwRbPjtwW9YJMU"
+    ]
+   }
+  },
+  {
+   "id": "geoparque-lanzarote-mancha-blanca",
+   "campos": {
+    "texto": {
+     "general": "<p>Lanzarote es, con Fuerteventura, una de las <b>islas más antiguas</b> de Canarias: sus macizos más viejos, Los Ajaches al sur y Famara al norte, tienen entre 15 y 20 millones de años. Pero sigue viva. El 1 de septiembre de 1730, cerca de Yaiza, empezó la erupción de <b>Timanfaya</b>, una de las más largas de la historia de Canarias: durante seis años abrió decenas de conos, cubrió con lava cerca de una cuarta parte de la isla y sepultó nueve pueblos, entre ellos el antiguo Mancha Blanca. El cura de Yaiza, Andrés Lorenzo Curbelo, dejó escrito el relato de sus primeros meses. En 1824 hubo otra erupción, más breve, que levantó los volcanes de Tao, del Fuego y Tinguatón: es la última registrada en la isla.</p><p>Sus conos y malpaíses, casi sin vegetación, enseñan cómo es una isla canaria recién formada. El corazón de aquellas erupciones es <b>Parque Nacional de Timanfaya</b> desde 1974, y en algunos puntos el suelo alcanza todavía 100-120 °C en superficie. Toda la isla es Reserva de la Biosfera desde 1993, y Lanzarote y los islotes del archipiélago Chinijo son Geoparque Mundial de la UNESCO desde 2015.</p><p>El centro de visitantes de Mancha Blanca lo explica con una sala que simula una erupción y una pasarela sobre las lavas de 1730-1736.</p>"
+    },
+    "fuentes": [
+     "https://tinajo.es/en/node/1131",
+     "https://miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/timanfaya/guia-visitante/mancha-blanca.html",
+     "https://geoparquelanzarote.org/?p=1931",
+     "https://www.openstreetmap.org/way/52832220",
+     "https://www.google.com/maps/place/?q=place_id:ChIJdzthuB8jRgwRs6Y3B6Fs__s",
+     "https://es.wikipedia.org/wiki/Parque_nacional_de_Timanfaya",
+     "https://es.wikipedia.org/wiki/Lanzarote"
+    ]
+   }
+  },
+  {
+   "id": "mirador-del-rio",
+   "campos": {
+    "texto": {
+     "general": "<p>En el extremo norte de Lanzarote, sobre el acantilado del macizo de Famara, <b>César Manrique</b> creó entre <b>1971 y 1973</b> un mirador casi invisible, camuflado bajo la piedra. Desde <b>479 metros</b> de altura se ve el estrecho de El Río, que separa Lanzarote de <b>La Graciosa</b>, a unos dos kilómetros.</p><p>A finales del siglo XIX, durante la guerra hispano-estadounidense, ya había aquí baterías de artillería —el lugar se llama Batería del Río—, desde las que los vigías controlaban los barcos que cruzaban el estrecho; sus restos se ven al este del mirador. Manrique partió de un proyecto de Fernando Higueras que transformó a su manera, y la obra técnica corrió a cargo del artista <b>Jesús Rafael Soto</b> y el arquitecto <b>Eduardo Cáceres</b>. Como siempre en Manrique, el edificio huye de los ángulos rectos: dos amplias salas abovedadas se asoman al vacío por dos grandes ventanales, «los ojos del Mirador».</p><p>En días despejados se ven también Montaña Clara, el Roque del Oeste y Alegranza, las islas del <b>archipiélago Chinijo</b>, y al pie del acantilado, una de las marismas más antiguas de Canarias.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Mirador_del_R%C3%ADo",
+     "https://es.wikipedia.org/wiki/C%C3%A9sar_Manrique"
+    ]
+   }
+  },
+  {
+   "id": "cueva-pintada-galdar",
+   "campos": {
+    "texto": {
+     "general": "<p>En pleno casco de <b>Gáldar</b>, la capital de Gran Canaria antes de la conquista, se conserva una cueva excavada en la toba volcánica con frisos de <b>pinturas geométricas</b> —triángulos, cuadrados y círculos concéntricos— en rojo, blanco y negro, rodeada de un poblado de los antiguos canarios. El caserío estuvo habitado entre los siglos VI y XI y de nuevo desde el XIII hasta la conquista castellana; las pinturas tienen unos 800-1.000 años. Es hoy un museo y parque arqueológico.</p><p>Entre los años 1000 y 1250, mientras en la península se levantaban iglesias románicas, Gran Canaria vivía al margen de Europa. Sus habitantes, descendientes de pueblos bereberes llegados del norte de África hace unos dos mil años, no usaban metales: cultivaban cereales, criaban cabras y ovejas y guardaban el grano en graneros excavados en los riscos. En poblados como este vivían en casas de piedra y cuevas, y algunas las decoraron con pinturas: Gran Canaria es la única isla con cuevas y cerámica pintadas. Los europeos no llegarían hasta el siglo XIV.</p><p>La cueva apareció en 1862 durante unas labores agrícolas, fue declarada monumento en 1972 y cerró en 1982 por su deterioro. Tras 24 años de excavación y restauración, que sacaron a la luz las casas del poblado, reabrió el 26 de julio de 2006. Sus motivos suelen repetirse en series de doce, y se ha pensado que podrían ser un calendario.</p>"
+    },
+    "fuentes": [
+     "https://rupestre.art/es/caves/cueva-pintada-galdar",
+     "https://www.openstreetmap.org/way/1317468782",
+     "https://www.google.com/maps/place/?q=place_id:ChIJVc3-rTHzQAwRkEUh6Qky-lo",
+     "https://en.wikipedia.org/wiki/Cueva_Pintada"
+    ]
+   }
+  },
+  {
+   "id": "la-zarza-y-la-zarcita",
+   "campos": {
+    "texto": {
+     "general": "<p>En el norte de La Palma, en Garafía, dos pequeños barrancos cubiertos de <b>laurisilva</b> —el de La Zarza, en el paraje de Caboco, y su afluente, La Zarcita— guardan uno de los mayores conjuntos de <b>grabados rupestres</b> de la isla, obra de los <b>benahoaritas</b>, sus antiguos pobladores. Los yacimientos los dieron a conocer en <b>1941</b> A. Mata y E. Serra, y con ellos empezó la investigación del arte rupestre palmero.</p><p>La Zarza tiene <b>29 paneles</b> grabados y destaca por la superficie grabada y la larga cronología de sus grabados; La Zarcita, con 18, es menor pero reúne motivos más variados. Los motivos son geométricos: <b>espirales</b>, círculos, meandros y líneas. Alrededor hay también restos de asentamientos pastoriles y cuevas.</p><p>Un parque cultural con centro de interpretación, inaugurado en 1998, explica la vida de los antiguos pobladores de la isla, y un sendero entre la laurisilva lleva hasta los grabados. Es Bien de Interés Cultural desde 1991.</p>"
+    },
+    "fuentes": [
+     "https://www.eldiario.es/canariasahora/lapalmaahora/municipios/garafia/garafia-atesora-recursos-arqueologicos-importantes-canarias-zarza-zarcita_1_8611321.html",
+     "https://www.hellocanaryislands.com/museums-and-places-of-interest/la-palma/parque-cultural-la-zarza-arqueologia/",
+     "https://www.openstreetmap.org/node/937135030",
+     "https://www.google.com/maps/place/?q=place_id:ChIJr6QZ86r7awwRVDiO9DZ1bQM"
+    ]
+   }
+  },
+  {
+   "id": "santuario-de-las-nieves",
+   "campos": {
+    "texto": {
+     "general": "<p>En una ladera por encima de Santa Cruz de La Palma, en el barrio de Las Nieves, a las afueras de la capital, está el santuario de la <b>Virgen de las Nieves</b>, patrona de la isla. El primer documento con el nombre de «Santa María de las Nieves» es de <b>1507</b>: una data del Adelantado Alonso Fernández de Lugo que donaba solares a la Virgen. En 1517 ya existía un templo, que se amplió en 1525 y fue sustituido por el actual en <b>1646</b>. En 1649 Felipe IV lo acogió en su Real Patronato, de ahí su título de Real, y en 1657 se convirtió en parroquia.</p><p>La gran joya es la imagen de la Virgen: una <b>talla gótica del siglo XIV</b>, de 82 cm, modelada en <b>terracota</b> y policromada, que se ha atribuido al imaginero Lorenzo Mercadante de Bretaña. Dentro hay además un altar-trono de plata repujada de los siglos XVII y XVIII, retablos barrocos dorados, tallas flamencas del siglo XVI y más de un millar de exvotos.</p><p>Desde 1680, cada cinco años, la imagen baja en romería hasta la iglesia de El Salvador, en la capital, para las <b>Fiestas Lustrales</b> de la Bajada de la Virgen, cuyo plato fuerte es la famosa Danza de los Enanos.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Real_Santuario_Insular_de_Nuestra_Se%C3%B1ora_de_las_Nieves",
+     "https://www.spain.info/es/agenda/fiestas-lustrales-bajada-virgen/"
+    ]
+   }
+  },
+  {
+   "id": "iglesia-de-la-concepcion-valverde",
+   "campos": {
+    "texto": {
+     "general": "<p>Es el templo más grande de El Hierro y preside Valverde, la capital de la isla. Se construyó entre <b>1767 y 1820</b>, en un estilo <b>barroco</b> con elementos clásicos del siglo XVIII, y tiene tres naves separadas por pilares, con un sencillo artesonado mudéjar de <b>madera de pino</b>. Los contrafuertes de los muros laterales se añadieron después para reforzarlos.</p><p>Su <b>torre</b> es de planta cuadrada con dos cuerpos: el de arriba es octogonal, con cuatro arcos para las campanas, y se remata con una pequeña cúpula de aire mudéjar coronada por la imagen de la Virgen de la Concepción, patrona de Valverde. Tiene la <b>campana más grande de Canarias</b> y un reloj francés donado en 1867. Desde arriba, con buen tiempo, se ve La Gomera.</p><p>Dentro se venera el <b>Cristo a la Columna</b>, de procedencia genovesa, considerado la mejor obra barroca de la isla, y una imagen de San Agustín, copatrono de El Hierro. Cada cuatro años, cuando la Virgen de los Reyes baja en romería a Valverde, se queda en esta iglesia. Fue declarada Bien de Interés Cultural en 2004.</p>"
+    },
+    "fuentes": [
+     "https://ninos.kiddle.co/Iglesia_de_Nuestra_Se%C3%B1ora_de_la_Concepci%C3%B3n_(Valverde)",
+     "https://hellocanaryislands.com/museums-and-places-of-interest/el-hierro/iglesia-de-nuestra-senora-de-la-concepcion",
+     "https://es.wikipedia.org/wiki/Iglesia_de_Nuestra_Se%C3%B1ora_de_la_Concepci%C3%B3n_(Valverde)"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-naturaleza-y-arqueologia",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>MUNA</b>, Museo de Naturaleza y Arqueología de Santa Cruz de Tenerife, ocupa el antiguo <b>Hospital Civil</b> de Nuestra Señora de los Desamparados, el primer establecimiento benéfico de la ciudad. Lo impulsaron dos sacerdotes, los hermanos Logman, para atender a los enfermos y ancianos que vivían en las cuevas de los barrancos: las obras empezaron en 1745 y abrió en 1753. El edificio actual, de cuatro grandes patios, se levantó desde 1868 con proyecto de Manuel de Oraá y lo terminó Manuel de Cámara; es uno de los mejores ejemplos de la arquitectura neoclásica de las islas. Tras cerrar como hospital en 1971, el Cabildo lo rehabilitó, con patios, jardines, biblioteca y centro de documentación, y la reina Sofía inauguró el museo el 9 de enero de 2002.</p><p>Guarda la mayor colección que existe sobre la cultura de los <b>guanches</b>, los antiguos habitantes de Tenerife: herramientas de piedra y hueso, cerámica, objetos de la vida diaria y una sección sobre sus prácticas funerarias, con <b>momias guanches</b> y otros restos humanos y la explicación de las técnicas para conservarlos.</p><p>La otra mitad del museo explica la naturaleza de Canarias: cómo se forma una isla volcánica, qué ocurre en una erupción y la flora y fauna propias del archipiélago.</p>"
+    },
+    "fuentes": [
+     "https://www.spain.info/es/lugares-interes/museo-naturaleza-arqueologia-tenerife/",
+     "https://www.webtenerife.co.uk/what-see/museums/muna-museo-naturaleza-arqueologia",
+     "https://www.openstreetmap.org/node/5752482281",
+     "https://www.google.com/maps/place/?q=place_id:ChIJjffr1nzLQQwRQLYrmxL1_cY",
+     "https://diariodeavisos.elespanol.com/2026/03/antiguo-hospital-civil-declarado-bien-de-interes-cultural-en-la-categoria-de-monumento/"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-san-juan-bautista",
+   "campos": {
+    "texto": {
+     "general": "<p>Este pequeño castillo de la costa de Santa Cruz se construyó entre <b>1641 y 1643</b>, cuando la sublevación de Portugal hizo temer ataques: lo impulsó el capitán general Luis Fernández de Córdoba, que hizo pagar la obra a los vecinos, y la dirigió el sargento mayor Juan Fernández Franco. Se le llama popularmente <b>Castillo Negro</b> por la cercana Caleta de los Negros. Tiene una <b>torre circular</b> de mampostería frente al mar, con muros de 1,5 m, y una explanada con parapetos y troneras para cinco cañones. Un siglo después su frente marítimo amenazaba ruina y hubo que reformarlo.</p><p>Está ligado al recuerdo del fallido intento del almirante británico <b>Horatio Nelson</b> de tomar la ciudad, que Santa Cruz rememora cada julio en la Gesta del <b>25 de julio</b>.</p><p>Desde 1684 el Cabildo nombraba a su alcaide, un puesto muy codiciado por la nobleza: servía para probar la hidalguía y traía privilegios sobre la sanidad del puerto, la entrada y salida de barcos, la pesca y el cobro de impuestos sobre la sal y la harina. Es Bien de Interés Cultural desde 1993. Hoy queda junto al Auditorio de Tenerife y el Parque Marítimo César Manrique.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_San_Juan_Bautista_(Santa_Cruz_de_Tenerife)"
+    ]
+   }
+  },
+  {
+   "id": "volcan-tajogaite",
+   "campos": {
+    "texto": {
+     "general": "<p>El 19 de septiembre de 2021 se abrió una fisura en la ladera de Cumbre Vieja, en Cabeza de Vaca (El Paso). Durante 85 días, hasta el 13 de diciembre, salió lava: fue la erupción más larga registrada en La Palma, un día más que la del volcán Tajuya en 1585. Las coladas cubrieron unas 1.219 hectáreas del valle de Aridane, destruyeron casi 3.000 edificaciones y barrios como Todoque, con su iglesia, su colegio y su centro de salud, sepultaron casi 74 km de carreteras y obligaron a evacuar a unas 7.000 personas. Al llegar al mar formaron dos fajanas, unas 48 hectáreas de tierra nueva. Un vecino murió por inhalación de gases, y los daños se calcularon en más de 840 millones de euros.</p><p>El cono, de unos 200 m sobre su base y unos 1.120 metros de altitud, recibió en 2023 el nombre oficial de <b>Tajogaite</b>, el del paraje donde se abrió, documentado desde el siglo XVIII y quizá de origen benahoarita: lo aprobó el Cabildo de La Palma el 9 de febrero, tras una votación popular. Bajo las coladas se ha explorado un gran sistema de tubos volcánicos de tres niveles. La Palma es una de las islas más jóvenes del archipiélago, de menos de 2 millones de años en su parte emergida.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Erupci%C3%B3n_volc%C3%A1nica_de_La_Palma_de_2021",
+     "https://en.wikipedia.org/wiki/Tajogaite",
+     "https://forbes.es/?p=483973",
+     "https://www.openstreetmap.org/node/9106962376",
+     "https://www.google.com/maps/place/?q=place_id:ChIJG_nAKy2TawwRxt7mqvu46LM"
+    ]
+   }
+  }
+ ]
+}

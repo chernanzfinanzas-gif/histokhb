@@ -1,0 +1,527 @@
+{
+ "zona": "Ampliar espana-1b",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "guarrazar",
+   "campos": {
+    "texto": {
+     "general": "<p>En una huerta de <b>Guadamur</b>, a unos 11 km de Toledo, apareció en 1858 uno de los grandes tesoros de la orfebrería visigoda: coronas votivas y cruces de oro del <b>siglo VII</b>. En el lugar quedan restos de un conjunto religioso de esa época y, en el pueblo, un <b>centro de interpretación</b> abierto en 2007 en la antigua escuela, con réplicas de las piezas.</p><p>A finales de agosto de 1858, tras unas lluvias torrenciales, el labrador <b>Francisco Morales</b> vio brillar oro junto a la fuente de la huerta. Había dos escondites forrados de losas, junto a la tumba de un presbítero llamado Crispinus, con coronas y cruces de oro adornadas con perlas, zafiros y granates; entre ellas, la corona del rey <b>Recesvinto</b>, con su nombre en letras colgantes, y la de <b>Suintila</b>. Probablemente se ocultaron hacia 711. Las excavaciones oficiales, dirigidas por José Amador de los Ríos, y las posteriores encontraron restos de un edificio religioso y tumbas: quizá un santuario o monasterio ligado a la corte de Toledo.</p><p>Buena parte del tesoro se vendió a Francia en 1859; en 1941 seis coronas volvieron a España y hoy se exponen en el <b>Museo Arqueológico Nacional</b>. Otras piezas están en el Palacio Real de Madrid y en el Museo de Cluny de París.</p><p class=\"dato\"><span>¿Sabías que…?</span>La corona de Suintila fue robada de la Real Armería de Madrid en 1921 y nunca se ha recuperado.</p>"
+    },
+    "fuentes": [
+     "https://guias-viajar.com/turismo-espana/visitar-castilla-la-mancha/ruta-visigoda-toledo/",
+     "https://es.hispanopedia.com/wiki/Centro_de_Interpretaci%C3%B3n_del_Tesoro_de_Guarrazar",
+     "https://www.openstreetmap.org/?mlat=39.8152&mlon=-4.1187#map=18/39.8152/-4.1187",
+     "https://www.google.com/maps/place/?q=place_id:ChIJlSnfwppzag0RgGRy1L3YPp8",
+     "https://es.wikipedia.org/wiki/Tesoro_de_Guarrazar"
+    ]
+   }
+  },
+  {
+   "id": "el-saucedo",
+   "campos": {
+    "texto": {
+     "general": "<p>Junto a <b>Talavera la Nueva</b>, en el término de Talavera de la Reina, se excava una villa romana con una vida larguísima: del <b>siglo I</b> al <b>VIII</b>, cuando un incendio destruyó sus almacenes y el lugar quedó abandonado. Estaba junto a la calzada que unía Caesarobriga (Talavera) con Augusta Emerita (Mérida), y su nombre quizá venga del latín <i>salicetum</i>, «lugar de sauces».</p><p>Ya la citó en el siglo XV el padre Ajofrín; reapareció hacia 1950, al construirse Talavera la Nueva, y se excava desde 1982, en las últimas décadas con la Universidad Autónoma de Madrid. Su gran época fue la tardorromana: una villa señorial en torno a un peristilo, con entrada monumental con fuente, grandes estancias con restos de <b>mosaicos</b> y <b>dos complejos termales</b>, con sus salas templada y fría, una sauna octogonal y un sistema de calefacción por agua.</p><p>Lo más singular llegó a finales del siglo V: parte de las <b>termas se transformó en una basílica cristiana</b>, con altar y una <b>pila bautismal</b> para el bautismo por inmersión. Es Bien de Interés Cultural y en los últimos años se han consolidado sus muros, arcos y suelos. Solo se ha excavado una pequeña parte del yacimiento; algunos hallazgos se guardan en el Museo de Santa Cruz de Toledo y en el Ruiz de Luna de Talavera.</p>"
+    },
+    "fuentes": [
+     "https://castillalamancha.es/print/396881",
+     "https://www.wikidata.org/wiki/Q6122143",
+     "https://es.wikipedia.org/wiki/Villa_romana_de_El_Saucedo"
+    ]
+   }
+  },
+  {
+   "id": "puerta-del-sol-toledo",
+   "campos": {
+    "texto": {
+     "general": "<p>Subiendo desde la Puerta de Bisagra hacia el centro aparece la Puerta del Sol, una de las puertas más bellas de la muralla de Toledo. Es <b>mudéjar</b>, del <b>último cuarto del siglo XIV</b>, y tiene mucho de influencia nazarí. Se ha atribuido a los caballeros <b>Hospitalarios</b>.</p><p>Es una <b>puerta albarrana</b> de carácter conmemorativo: más que un paso defensivo, una entrada para lucir, con dos torreones que flanquean el paso. El vano es un <b>arco de herradura</b> enmarcado por otro de herradura apuntado, con un friso de <b>arcos lobulados entrelazados</b>. Está hecha de piedra, sillería y mampostería, y sus almenas y el friso son de ladrillo. En el centro de los arcos ciegos se reaprovecharon restos de un <b>sarcófago paleocristiano</b> del siglo IV.</p><p>Debe su nombre a un relieve de la cara exterior en el que, entre otras figuras, aparece un <b>sol</b>: es el emblema de la catedral, la <b>imposición de la casulla a san Ildefonso</b> por la Virgen, bajo el sol y la luna.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Puerta_del_Sol_(Toledo)",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Puerta+del+Sol,+Toledo",
+     "https://www.google.com/maps/place/?q=place_id:ChIJSWRSsKgLag0RVPqtt9UbTZQ",
+     "https://es.hispanopedia.com/wiki/Puerta_del_Sol_(Toledo)",
+     "https://www.spain.info/es/lugares-interes/puerta-sol-toledo/"
+    ]
+   }
+  },
+  {
+   "id": "catedral-vieja-de-salamanca",
+   "campos": {
+    "texto": {
+     "general": "<p>Pegada a la Catedral Nueva, la <b>Catedral Vieja</b> de Salamanca, dedicada a Santa María de la Sede, es uno de los grandes templos <b>románicos</b> de España. La empezó en el primer tercio del siglo XII el primer obispo de la diócesis restaurada, <b>Jerónimo de Perigord</b>; tiene tres naves y cabecera de tres ábsides, y su aire de fortaleza le valió el apodo de <i>fortis salmantina</i>. Su imagen más famosa es la <b>Torre del Gallo</b>, el cimborrio de hacia 1150, con dieciséis nervios, exterior de escamas y una veleta en forma de gallo.</p><p>Cuando se levantó la Catedral Nueva (hacia 1520-1733) se pensó en derribarla, pero se salvó, aunque perdió parte de una nave y de un brazo del crucero. En sus primeros tiempos, la universidad fundada hacia 1218 por Alfonso IX no tenía edificios propios: las clases se daban en dependencias de la catedral y de otras iglesias de la ciudad. Más tarde, en la capilla de Santa Bárbara de su claustro, del siglo XIV, se celebraban los exámenes para el grado de doctor: el aspirante pasaba la noche anterior allí, con los pies sobre el sepulcro del obispo fundador, Juan Lucero.</p><p>Dentro no hay que perderse el <b>retablo mayor</b> de 53 tablas (1430-1450), pintado por Dello Delli, Sansón Delli y Nicolás Florentino, coronado por un <b>Juicio Final</b> y presidido por la Virgen de la Vega, patrona de la ciudad, del siglo XII; ni la capilla de San Martín, con pinturas murales góticas.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_Vieja_de_Salamanca",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Catedral%20Vieja%20Salamanca",
+     "https://www.google.com/maps/place/?q=place_id:ChIJDVRl3hsnPw0R8pCFQKAldgM",
+     "https://en.wikipedia.org/wiki/Old_Cathedral_of_Salamanca"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-anaya-salamanca",
+   "campos": {
+    "texto": {
+     "general": "<p>Frente a la Catedral Nueva, el Palacio de Anaya es en realidad el antiguo <b>Colegio Mayor de San Bartolomé</b>, fundado en <b>1401</b> por <b>Diego de Anaya Maldonado</b>, cuyo sepulcro de alabastro está en la Catedral Vieja. El edificio original quedó muy dañado por el <b>terremoto de Lisboa de 1755</b>, y el actual se empezó en <b>1760</b>: es uno de los pocos <b>neoclásicos</b> de la ciudad, obra de <b>José de Hermosilla</b> y Juan de Sagarvinaga.</p><p>La fachada se abre con un gran pórtico de cuatro columnas rematado en frontón, con escalinata y un gran escudo en lo alto. Tras la supresión de los colegios mayores el edificio tuvo varios usos, entre ellos el de Gobierno Civil; de ahí que se le llame «palacio». Hoy alberga la <b>Facultad de Filología</b> de la Universidad de Salamanca.</p><p>Dentro destaca la <b>escalera imperial</b>, y en el interior hay un busto de <b>Miguel de Unamuno</b> obra de Victorio Macho (1930). A su lado están la iglesia barroca de <b>San Sebastián</b>, antigua capilla del colegio, y la <b>Hospedería</b>, de 1715, obra de Joaquín Churriguera, donde vivían los estudiantes que se pagaban la carrera sirviendo a sus compañeros nobles y ricos; sus antiguas caballerizas son hoy la cafetería de la facultad.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_de_Anaya",
+     "https://nominatim.openstreetmap.org/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJLx4HOBUmPw0RgfQeiI77RxA",
+     "https://en.wikipedia.org/wiki/Old_Cathedral_of_Salamanca"
+    ]
+   }
+  },
+  {
+   "id": "santo-tomas-cantuariense",
+   "campos": {
+    "texto": {
+     "general": "<p>En diciembre de 1170 el arzobispo de Canterbury, <b>Tomás Becket</b>, fue asesinado en su catedral por caballeros del rey Enrique II de Inglaterra, y muy poco después fue canonizado. En <b>1175</b>, dos hermanos ingleses afincados en Salamanca, <b>Ricardo y Randulfo</b> (o Radulfo), le dedicaron esta iglesia: fue la <b>primera fuera de Inglaterra</b> bajo su advocación. Dio nombre a uno de los barrios de la Salamanca repoblada por Raimundo de Borgoña, donde se asentaron gentes llegadas de Portugal y Braganza.</p><p>Es un templo <b>románico</b> del siglo XII, de planta de cruz latina con una sola nave cubierta con techumbre de madera. Por fuera lo mejor es la cabecera, con <b>tres ábsides semicirculares escalonados</b>, pilastras y ventanas molduradas, y la cornisa del crucero, con canecillos de cabezas humanas, animales y motivos vegetales. La portada norte se añadió en el siglo XVI. El dramaturgo <b>Lucas Fernández</b>, autor de <i>Farsas y églogas</i>, fue sacerdote de esta iglesia desde 1514.</p><p>El interior es casi desnudo de adornos: busca en un capitel del arco triunfal a <b>dos jinetes enfrentados</b>, y en el crucero el sepulcro con estatua yacente del obispo Diego de Velasco, muerto en 1512. Está declarada Bien de Interés Cultural desde 1983.</p>"
+    },
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-santo-tomas-cantuariense-29cf6",
+     "https://es.hispanopedia.com/wiki/Iglesia_de_Santo_Tom%C3%A1s_Cantuariense_(Salamanca)",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Santo%20Tom%C3%A1s%20Cantuariense%20Salamanca",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ6X_pwGwmPw0Ro5zWbZ622hE"
+    ]
+   }
+  },
+  {
+   "id": "el-bosque-de-bejar",
+   "campos": {
+    "texto": {
+     "general": "<p>A las afueras de Béjar, El Bosque fue la <b>villa de recreo de los duques de Béjar</b> y es uno de los <b>jardines renacentistas de tipo italiano más antiguos de España</b>. Antes había sido el coto de caza de la familia. Las obras principales las emprendió <b>Francisco de Zúñiga y Sotomayor, IV duque de Béjar</b>, a partir de <b>1567</b>, año de la primera mención documentada del estanque: los duques canalizaron un arroyo para formar un <b>gran estanque</b> y numerosas fuentes, y ordenaron el jardín en terrazas con un eje que lo une visualmente con el palacio ducal de la villa.</p><p>El conjunto reúne estanque, fuentes monumentales (como la barroca de la Sábana, añadida más tarde, y la de los Ocho Caños), plazoleta, balaustradas, bancos, graderías, huerta y un palacete. En <b>1869</b> lo compró Cipriano Rodríguez-Arias, que sustituyó el templete de piedra del estanque por uno neomorisco y plantó árboles exóticos, sobre todo coníferas. Su arboleda forma casi un jardín botánico, con árboles singulares como una gran <b>secuoya gigante</b> del siglo XIX; los últimos añadidos importantes son de 1896.</p><p>Fue declarado <b>jardín artístico en 1946</b> y Bien de Interés Cultural como jardín histórico en 1982. Desde 1999 pertenece al Ayuntamiento de Béjar y a la Junta de Castilla y León, que lo están restaurando.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Parque_de_El_Bosque",
+     "https://www.google.com/maps/place/?q=place_id:ChIJuzyDHzlTPg0RDkuTNB7d4K4",
+     "https://www.jcyl.es/jcyl/patrimoniocultural/jarcultur/wp-content/uploads/2021/02/folleto-bosque.pdf"
+    ]
+   }
+  },
+  {
+   "id": "plaza-mayor-de-salamanca",
+   "campos": {
+    "texto": {
+     "general": "<p>Una de las plazas más bellas de España. La impulsó el corregidor <b>Rodrigo Caballero</b>, que convenció al ayuntamiento, y la empezó en <b>1729</b> <b>Alberto de Churriguera</b>; sus arcos llevan medallones con reyes y personajes famosos. Antes había aquí una plaza mucho mayor e irregular, la de San Martín.</p><p>La primera ala fue el <b>Pabellón Real</b>, al este; a la muerte de Churriguera la terminó <b>Andrés García de Quiñones</b>, y el cuadro se cerró en <b>1755</b>. En el lado norte está el <b>ayuntamiento</b>, que quedó sin las dos torres previstas (se conserva la maqueta de 1745); la espadaña se añadió en 1852.</p><p>La rodean <b>88 arcos</b> de medio punto. En los medallones del Pabellón Real aparecen <b>reyes de España</b>, y en las otras alas santos, sabios y descubridores. Aunque parece cuadrada, es un cuadrilátero irregular de unos 6.400&nbsp;m², que Unamuno describió como irregular pero muy armónico. Hasta mediados del siglo XX tuvo jardín y quiosco de música en el centro; el enlosado de granito actual es de hacia 1953. Fue declarada Monumento Nacional en 1935.</p><p class=\"dato\"><span>¿Sabías que…?</span>Bajo el arco junto a la salida hacia el Mercado, una inscripción de 1838 recuerda a una mujer que murió en ese mismo lugar.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Plaza_Mayor_de_Salamanca",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Plaza%20Mayor%20Salamanca",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ7zo6GgAnPw0RrLmqSFs_FTo"
+    ]
+   }
+  },
+  {
+   "id": "nuestra-senora-de-tejadilla",
+   "campos": {
+    "texto": {
+     "general": "<p>En Ventosilla y Tejadilla, en la sierra de Segovia, esta iglesia conserva de su origen <b>románico</b> (siglos XII-XIII) la cabecera, con un tramo recto y un ábside semicircular. El resto se reformó profundamente después: hoy tiene tres naves separadas por grandes pilares, un coro muy rústico al fondo y una espadaña añadida.</p><p>Bajo el alero del ábside tiene un buen repertorio de <b>canecillos</b> de gusto popular: clérigos, oficios, animales y seres fantásticos que contraponen el bien y el mal. Dentro, los dos capiteles del <b>arco triunfal</b> enfrentan la virtud y el pecado: uno muestra la <b>Adoración de los Reyes Magos</b> y el otro, sin disimulo, escenas de lujuria en un prostíbulo. Los de la ventana del ábside llevan unas toscas sirenas-pez.</p><p>Conserva <b>retablos barrocos</b>: el mayor, de tres calles, con la imagen de Nuestra Señora de Tejadilla en la hornacina central; el de Santiago, de 1737; y los de la Virgen del Rosario, la Magdalena y San Bartolomé. El suelo está hecho con las losas que cubrían las sepulturas de cuando se enterraba dentro del templo, costumbre que se prohibió en tiempos de Carlos III.</p>"
+    },
+    "fuentes": [
+     "https://turismosierrasegovia.es/nuestra-senora-de-tejadilla/",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "iglesia-de-san-vicente-pelayos-del-arroyo",
+   "campos": {
+    "texto": {
+     "general": "<p>En un pequeño pueblo del piedemonte de la sierra, cerca de Sotosalbos, se esconde esta iglesia <b>románica</b> de los siglos <b>XII-XIII</b>, dedicada a san Vicente mártir. Por fuera es modesta —una torre-espadaña posterior alteró su silueta—, aunque conserva la ventana central original del ábside y una serie de canecillos y metopas historiados. Dentro guarda dos tesoros que justificaron su declaración como monumento el <b>16 de enero de 1981</b>.</p><p>El primero son sus <b>pinturas murales románicas</b>, del siglo XIII, con escenas de la vida del santo titular. El segundo, la arquería con capiteles que la declaración oficial describió como «bellísimos», decorados con <b>aves con cabeza de mujer</b> (arpías) y animales monstruosos. A la cabecera se pasa por un arco triunfal apuntado, y el ábside semicircular se cubre con bóveda de horno. La iglesia guarda además unas tablas pintadas del siglo XV.</p><p>Es una buena parada para quien recorre el románico de la sierra segoviana, entre Sotosalbos, Collado Hermoso y Torrecaballeros.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Vicente_M%C3%A1rtir_(Pelayos_del_Arroyo)",
+     "https://nominatim.openstreetmap.org/",
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-parroquial-san-vicente-martir"
+    ]
+   }
+  },
+  {
+   "id": "santuario-de-la-virgen-de-la-pena-sepulveda",
+   "campos": {
+    "texto": {
+     "general": "<p>En el extremo norte del casco de Sepúlveda, sobre las hoces del Duratón, se alza el santuario de la <b>Virgen de la Peña</b>, patrona de la villa y de su Comunidad de Villa y Tierra. La iglesia es <b>románica</b>, del siglo XII, muy parecida a la de El Salvador, y su torre se remonta también a ese siglo; más tarde se le añadieron la sacristía y el camarín de la Virgen.</p><p>Su gran pieza es la portada, con un <b>tímpano del Juicio Final</b>: en el centro, Cristo en majestad encerrado en un rombo poco habitual y rodeado por los símbolos de los cuatro evangelistas. Dentro hay una sola nave alta con bóveda de cañón y arcos fajones; el ábside queda oculto tras el <b>retablo mayor barroco</b>, del siglo XVIII, que guarda en su hornacina la talla de madera policromada de la Virgen. En el coro hay un órgano barroco.</p><p>Fue declarada monumento histórico-artístico el <b>3 de junio de 1931</b>, en los primeros meses de la Segunda República, a la vez que El Salvador y San Justo, las otras dos grandes iglesias de la villa. Junto a ella hay un mirador sobre el cañón del río: uno de los lugares con más encanto de Sepúlveda para entender su emplazamiento sobre las hoces.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Iglesia_de_la_Virgen_de_la_Pe%C3%B1a_(Sep%C3%BAlveda)",
+     "https://nominatim.openstreetmap.org/",
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-virgen-pena",
+     "https://lospueblosmasbonitosdeespana.org/en/pueblos/sepulveda/pois/iglesia-de-ntra-sra-de-la-pena"
+    ]
+   }
+  },
+  {
+   "id": "ermita-de-la-vera-cruz-maderuelo",
+   "campos": {
+    "texto": {
+     "general": "<p>En Maderuelo, junto al embalse de Linares, queda una pequeña ermita <b>románica</b>, de hacia el año 1100, que guardó uno de los conjuntos de pintura más famosos de España. Sus muros estaban cubiertos de <b>pinturas murales</b> de la primera mitad del <b>siglo XII</b>, tan valoradas que en 1924 se declaró la ermita monumento por ellas. Por entonces era de un particular y se usaba como establo y almacén.</p><p>La bóveda mostraba a <b>Cristo en majestad</b> rodeado por los símbolos de los evangelistas, serafines y arcángeles; en el muro del fondo, el <b>Cordero</b> sostenido por ángeles, entre Abel y Melquisedec; y en los laterales, <b>Adán y Eva</b>, la Magdalena ungiendo los pies de Cristo, la Epifanía y los apóstoles. Su estilo se emparenta con el de San Baudelio de Berlanga y Santa María de Taüll.</p><p>Cuando se construyó el <b>embalse de Linares</b> y hubo riesgo de que el agua dañara el edificio, en <b>1947</b> las pinturas se arrancaron con la técnica del <i>strappo</i> y se trasladaron al <b>Museo del Prado</b>, donde desde 1950 se exponen en una bóveda que reproduce la original. En la ermita se pueden ver hoy unas <b>réplicas</b> que permiten imaginar cómo era el interior pintado en su lugar original.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Ermita_de_la_Vera_Cruz_(Maderuelo)",
+     "https://nominatim.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "iglesia-de-el-salvador-sepulveda",
+   "campos": {
+    "texto": {
+     "general": "<p>En lo alto de un cerro sobre Sepúlveda, El Salvador es una de las <b>iglesias románicas más antiguas</b> de la provincia: una inscripción en el exterior del ábside, en el lado norte, da la fecha de <b>1093</b>. La guía de turismo regional la presenta como la primera iglesia románica de Segovia.</p><p>Es de nave única con bóveda de cañón y ábside de medio tambor, y sufrió remodelaciones a finales del siglo XII o comienzos del XVI. Tiene una <b>galería porticada</b> románica abierta al sur, con ocho arcos sobre capiteles rudamente esculpidos, agrupados de dos en dos y sostenidos por columnas o pilastras. La <b>torre</b>, sólida, de planta cuadrada y separada del templo, tiene tres cuerpos, con arcos de medio punto en el penúltimo y ventanas ajimezadas en el último.</p><p>Fue declarada monumento histórico-artístico el 3 de junio de 1931, junto con otras dos iglesias de la villa: San Justo y la Virgen de la Peña. Desde su atrio se domina el caserío de Sepúlveda.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Salvador_(Sep%C3%BAlveda)",
+     "https://nominatim.openstreetmap.org/",
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-salvador"
+    ]
+   }
+  },
+  {
+   "id": "puerta-de-san-andres-segovia",
+   "campos": {
+    "texto": {
+     "general": "<p>De las puertas de la <b>muralla de Segovia</b>, la de San Andrés es la que mejor conserva su aire defensivo. Está en el lado sur del recinto, dominando el valle del <b>Clamores</b>, y se la conoció también como puerta de la <b>Judería</b> o del Socorro. Aparece documentada por primera vez en 1120, cuando se levantaba la muralla de la repoblación (1088-1122), un cinturón de unos 3 km del que hoy se conservan tres de sus cinco puertas.</p><p>Su aspecto actual se debe a obras de finales del siglo XV o principios del XVI. La flanquean <b>dos torres</b>, una cuadrada y otra poligonal, con un arco peraltado, galería de ventanas, saeteras en cruz, almenas piramidales y escudos. Se ha especulado con que interviniera el maestro <b>Juan Guas</b>. A finales del siglo XIX la torre poligonal estaba muy dañada; se restauró después para devolverle su aspecto. En la cara interior hay una imagen de la <b>Virgen del Socorro</b>, colocada, como era costumbre, para proteger la ciudad de enemigos y epidemias.</p><p>Fue declarada monumento histórico-artístico en <b>1931</b>. En su antiguo cuerpo de guardia hay un centro informativo de la muralla, y desde aquí se puede subir al adarve.</p><p class=\"dato\"><span>¿Sabías que…?</span>Una placa en la puerta recuerda que en Segovia nació don Pablos, el pícaro de <i>El Buscón</i> de Quevedo.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Puerta_de_San_Andr%C3%A9s",
+     "https://nominatim.openstreetmap.org/",
+     "https://www.turismodesegovia.com/sites/default/files/Media/Files/2022-10/Muralla%20Puerta%20San%20Andr%C3%A9s.pdf"
+    ]
+   }
+  },
+  {
+   "id": "san-pedro-de-perorrubio",
+   "campos": {
+    "texto": {
+     "general": "<p>En la aldea de Perorrubio, dentro del término de Sepúlveda, se conserva una pequeña iglesia románica de los siglos <b>XII-XIII</b>, dedicada a san Pedro <i>ad Vincula</i> y construida con sillares, sillarejo y mampostería. Es de una sola nave, con ábside semicircular y una sencilla torre de dos cuerpos en el lado norte.</p><p>Lo más valioso es su <b>pórtico</b> de sillería caliza, de finales del siglo XII o comienzos del XIII: recorre las fachadas sur y oeste sobre un zócalo, con arcos de medio punto y columnas pareadas con <b>capiteles historiados</b>. La portada sur lleva palmetas en las dovelas y una cenefa geométrica, y la puerta de los pies, cegada, decoración en zigzag.</p><p>El ábside tiene una ventana abocinada con columnas de capiteles historiados y una cornisa sobre canecillos. Dentro, la nave se cubre con armadura de madera, el presbiterio con bóveda de cañón y el ábside con bóveda de horno; el arco que da paso a la cabecera, de caliza grisácea, descansa en dos columnas con capiteles figurados. Es Bien de Interés Cultural desde 1995.</p>"
+    },
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-san-pedro-64df",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Pedro_(Perorrubio)",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "san-juan-de-los-caballeros",
+   "campos": {
+    "texto": {
+     "general": "<p>San Juan de los Caballeros, levantada entre los siglos XI y XIII sobre restos de un edificio de época visigoda, es una de las iglesias más antiguas de Segovia. Tiene tres naves, tres ábsides de distinto tamaño y una <b>galería porticada</b> en el lado sur, que se prolonga hacia el oeste y cuyos aleros descansan sobre <b>canecillos figurados</b>.</p><p>Su nombre recuerda que fue <b>panteón de linajes nobles</b> y sede de las reuniones de la Junta de Nobles Linajes de la ciudad. En su capilla de los Nobles Linajes estaban los sepulcros de Día Sanz y Fernán García, a los que la tradición hace conquistadores de Madrid, y el del cronista Diego de Colmenares, que fue párroco aquí. Tras la desamortización quedó abandonada y llegó a servir de almacén de maderas.</p><p>En <b>1905</b> la compró el ceramista <b>Daniel Zuloaga</b>, que instaló dentro su vivienda y su <b>taller de cerámica</b>, con los hornos en el lado norte; su sobrino, el pintor <b>Ignacio Zuloaga</b>, también trabajó aquí. Hoy, propiedad pública, es el <b>Museo Zuloaga</b>, con unas 150 cerámicas de Daniel y algunas obras de Ignacio.</p>"
+    },
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/monumentos/iglesias-ermitas/iglesia-san-juan-caballeros",
+     "https://turismodesegovia.com/sites/default/files/Media/Files/2020-01/Ruta-romanico.pdf",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Juan_de_los_Caballeros_(Segovia)",
+     "https://www.openstreetmap.org/",
+     "https://es.wikipedia.org/wiki/Museo_Zuloaga_(Segovia)"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-riofrio",
+   "campos": {
+    "texto": {
+     "general": "<p>En medio de un bosque de 625 hectáreas poblado de <b>gamos y ciervos</b>, el palacio de Riofrío lo mandó levantar en <b>1751</b> <b>Isabel de Farnesio</b>, viuda de Felipe V, en tiempos de su hijastro Fernando VI, que prefería tenerla lejos de la corte. Nunca llegó a vivir en él.</p><p>Lo diseñó el arquitecto <b>Virgilio Rabaglio</b> a imagen del Palacio Real de Madrid: <b>planta cuadrada</b>, tres pisos, patio interior y una gran escalera de honor, todo de gusto italiano. El proyecto incluía jardines, caballerizas, un convento y hasta un teatro, pero solo se terminaron el palacio y una gran plaza, también inacabada.</p><p>Fue refugio de <b>Alfonso XII</b> durante el duelo por la muerte de su esposa María de las Mercedes, y también residió aquí Francisco de Asís de Borbón, rey consorte de Isabel II. Se abrió al público en 1965 y desde esa década alberga en su ala este un <b>museo de la caza</b>. Entre sus colecciones destaca la serie de 149 cuadros sobre la vida de Cristo pintada por Giovanni del Cinque.</p><p class=\"dato\"><span>¿Sabías que…?</span>El palacio conserva un curioso sistema de «llamadores» para avisar a la servidumbre.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_Real_de_Riofr%C3%ADo",
+     "https://www.wikidata.org/wiki/Q1972987"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-sacramenia",
+   "campos": {
+    "texto": {
+     "general": "<p>El monasterio de Santa María la Real de Sacramenia, en el paraje llamado Coto de San Bernardo, lo fundó <b>Alfonso VII en 1141</b> para monjes cistercienses venidos de Francia. Su iglesia, de transición del románico al gótico, sigue la sobriedad cisterciense: planta de cruz latina, tres naves, <b>cinco ábsides</b> y bóvedas de crucería. Un incendio la dañó en 1647.</p><p>Con la <b>desamortización de 1835</b> pasó a manos privadas. En <b>1925</b> sus propietarios vendieron al magnate <b>William Randolph Hearst</b> el claustro, la sala capitular y el refectorio, que se desmontaron piedra a piedra y se llevaron a Estados Unidos. La operación la gestionó su agente <b>Arthur Byne</b>, que según se ha documentado sobornó a funcionarios para sortear la ley durante la dictadura de Primo de Rivera.</p><p>Hoy esas piezas están montadas en <b>Miami (Florida)</b>, donde se las conoce como «el Monasterio Español». En Sacramenia siguen en pie la iglesia y la cilla, de propiedad privada; la iglesia puede visitarse algunos días. Es Bien de Interés Cultural desde 1931.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_la_Real_(Sacramenia)",
+     "https://www.wikidata.org/wiki/Q10911094"
+    ]
+   }
+  },
+  {
+   "id": "convento-de-carmelitas-descalzos-segovia",
+   "campos": {
+    "texto": {
+     "general": "<p>Este convento de carmelitas descalzos, junto al río Eresma y al pie de la ciudad, cerca del santuario de la Fuencisla, se fundó en 1586: <b>Ana de Peñalosa</b>, aconsejada por <b>Juan de la Cruz</b>, compró un antiguo convento trinitario y lo cedió a la orden. El santo fue su prior desde 1588. Él mismo ayudó en las obras y, según la tradición, rezaba en una pequeña cueva de la huerta, desde la que se ve el valle. Aquí vivió algunos de sus últimos años tranquilos, antes de chocar con el nuevo superior de los descalzos, Nicolás Doria, que en 1591 le quitó sus cargos.</p><p>Tras su muerte en Úbeda el 14 de diciembre de 1591, su cuerpo fue traído en secreto a Segovia en 1593 por empeño de Ana de Peñalosa y su hermano. Úbeda protestó y acabó recibiendo algunas reliquias, pero el cuerpo reposa desde entonces en esta iglesia. El gran <b>sepulcro</b> actual, de mármol y bronce, lo hizo en 1927 Félix Granda. Fue canonizado en 1726, declarado doctor de la Iglesia en 1926 y, desde 1952, es patrono de los poetas en lengua española.</p>"
+    },
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/convento-san-juan-cruz-convento-padres-carmelitas",
+     "https://www.spain.info/es/lugares-interes/convento-san-juan-cruz-padres-carmelitas-descalzos/",
+     "https://es.wikipedia.org/wiki/Juan_de_la_Cruz"
+    ]
+   }
+  },
+  {
+   "id": "recopolis",
+   "campos": {
+    "texto": {
+     "general": "<p>En 578, tras varios años de campañas, el rey <b>Leovigildo</b> fundó aquí, en un cerro sobre el <b>Tajo</b>, en el actual término de Zorita de los Canes, una ciudad nueva y le dio el nombre de su hijo <b>Recaredo</b>. Lo cuenta el cronista <b>Juan de Biclaro</b>. Leovigildo imitaba a los emperadores de Constantinopla, que fundaban ciudades con su nombre, y quería mostrar que el rey godo estaba por encima de los nobles. Según su excavador, Lauro Olmo, es la única ciudad de nueva planta fundada por un Estado en la Europa de comienzos de la Alta Edad Media.</p><p>Las excavaciones han descubierto en la parte más alta el gran conjunto del <b>palacio</b>, con edificios de dos plantas en torno a una plaza; la <b>iglesia</b> palatina, de planta de cruz; una <b>calle con tiendas y talleres</b> de vidrio y orfebrería que arranca de la puerta monumental; y la <b>muralla</b> con torres. Tenía incluso un acueducto, el único conocido de época visigoda. La ciudad siguió habitada tras la llegada del islam, con el nombre de Madinat Raqquba, hasta mediados del siglo IX, cuando se abandonó en favor de Zorita, que se construyó en parte con sus piedras.</p><p>Las ruinas las identificó en 1893 Juan Catalina García; desde 1992 las excava el equipo de Lauro Olmo. Hoy es un parque arqueológico con centro de interpretación.</p>"
+    },
+    "fuentes": [
+     "https://cultura.castillalamancha.es/sites/default/files/pdf/patrimonio/Recopolis/FolletoParque_Recopolis.pdf",
+     "https://es.wikipedia.org/wiki/Rec%C3%B3polis"
+    ]
+   }
+  },
+  {
+   "id": "ermita-de-santa-coloma-de-albendiego",
+   "campos": {
+    "texto": {
+     "general": "<p>A las afueras de Albendiego, al sur del pueblo, junto al cementerio y a orillas del río del Manadero, se alza esta ermita <b>románica</b> construida en el <b>siglo XII</b> y ampliada en el XV. Forma parte del llamado románico rural de Guadalajara.</p><p>Tiene planta de cruz latina, sin cimborrio, y parece más una pequeña iglesia que una ermita. A los pies se levanta una <b>espadaña gótica</b> de tres vanos con dos campanas, y en el interior dos capillas laterales se abren con arcos de medio punto sobre capiteles. En sus sillares se conservan numerosas marcas de cantero.</p><p>Lo que la hace única es su <b>ábside</b> central, semicircular, entre dos testeros laterales rectos. Se divide en tres tramos separados por columnas triples, y cada uno tiene una ventana de medio punto cerrada con <b>celosías de piedra caladas</b>, de raíz mudéjar: tres celosías en dos de las ventanas y cuatro en la tercera, la de la derecha, algo excepcional en el románico. Esa mezcla de estructura románica y decoración de tradición islámica es la que da a la cabecera su aspecto tan particular.</p><p>Fue declarada Bien de Interés Cultural en 1965.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Hermitage_of_Santa_Coloma_de_Albendiego",
+     "https://es.wikipedia.org/wiki/Ermita_de_Santa_Coloma_(Albendiego)"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-cifuentes",
+   "campos": {
+    "texto": {
+     "general": "<p>Sobre el cerro que domina Cifuentes, el castillo lleva la firma de uno de los personajes más brillantes de la Edad Media castellana: el <b>infante don Juan Manuel</b> (1282-1348), nieto de Fernando III, sobrino de Alfonso X y autor de <i>El conde Lucanor</i>. Había adquirido el señorío de Cifuentes a su prima, la infanta Blanca de Portugal, y mandó levantar el castillo en <b>1324</b>, sobre una fortaleza árabe de los siglos XI o XII.</p><p>Es pequeño y de <b>planta cuadrada</b>, con cuatro torres en las esquinas: dos prismáticas, una cilíndrica y la del homenaje, de <b>planta pentagonal</b>. Tiene un único acceso, una puerta de arco apuntado con el <b>escudo del infante</b>, y estuvo rodeado de camino de ronda y foso. Más tarde la villa pasó a los Silva, condes de Cifuentes, y a mediados del siglo XIX el castillo y la muralla volvieron a habilitarse durante las guerras de la época.</p><p>Al pie del cerro nace el <b>río Cifuentes</b>, cuyos abundantes manantiales dieron nombre a la villa. Tras su compra por el ayuntamiento ha comenzado un proceso de restauración.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Cifuentes",
+     "https://nominatim.openstreetmap.org/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJsYj0oKA6Qw0R3TVAuuxpJV0",
+     "https://es.wikipedia.org/wiki/Don_Juan_Manuel",
+     "https://es.wikipedia.org/wiki/Cifuentes_(Guadalajara)"
+    ]
+   }
+  },
+  {
+   "id": "san-bartolome-de-campisabalos",
+   "campos": {
+    "texto": {
+     "general": "<p>En Campisábalos, San Bartolomé es una iglesia del <b>románico rural del siglo XIII</b>, construida en sillar salvo la fachada norte, de sillarejo. Tiene una portada abocinada de cinco arquivoltas en el muro sur, que forma un cuerpo saliente, y un ábside semicircular reforzado con dos semicolumnas que llegan hasta la cubierta. Sus canecillos se relacionan con los talleres de Caracena, Alpanseque, Tiermes y Atienza.</p><p>Adosada a la fachada sur está la <b>capilla de San Galindo</b>, también llamada del Caballero Galindo, con una portada semejante. En su muro exterior se conserva un <b>mensario</b>: un friso en relieve con el calendario de los trabajos del campo a lo largo del año, uno de los pocos de este tipo que se conservan esculpidos. Entre la capilla y la torre hubo una galería porticada de cuatro arcos, en parte derribada al adosarse la torre.</p><p>La iglesia se reformó en los siglos XVI y XVII, cuando se le añadió la sacristía en el lado norte. Bajo el coro guarda una pila bautismal románica, y en sus piedras se han identificado una treintena de marcas de cantero.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Church_of_San_Bartolom%C3%A9_(Campis%C3%A1balos)",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Bartolom%C3%A9_(Campis%C3%A1balos)"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-de-pinilla-de-jadraque",
+   "campos": {
+    "texto": {
+     "general": "<p>La iglesia parroquial de Pinilla de Jadraque, dedicada a la Asunción de Nuestra Señora, es un templo románico de sillería de finales del siglo XII o del <b>siglo XIII</b>, alzado sobre una plataforma y rodeado por una <b>galería porticada</b> en sus lados sur y oeste.</p><p>Sus capiteles mezclan motivos <b>vegetales</b> con escenas <b>figuradas</b>: Cristo en majestad dentro de la mandorla rodeado del Tetramorfos (los símbolos de los evangelistas), la Crucifixión o la Resurrección. Sobre el muro oeste se levanta una gran espadaña de cuatro vanos, con sus cuatro campanas.</p><p>En el siglo XVII se sustituyó el ábside original por otro de planta distinta y el crucero se cubrió con una cúpula sobre pechinas. Tras sufrir un incendio que arrasó su interior, se restauró en los años 80 dentro del Plan del Románico de la Marca Media. Es Bien de Interés Cultural desde 1965 y forma parte de la ruta Tierras de Frontera del Camino del Cid.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Church_of_Nuestra_Se%C3%B1ora_de_la_Asunci%C3%B3n_(Pinilla_de_Jadraque)",
+     "https://caminodelcid.org/en/servicios/church-of-the-assumption-in-pinilla-de-jadraque-1910024",
+     "https://es.hispanopedia.com/wiki/Pinilla_de_Jadraque"
+    ]
+   }
+  },
+  {
+   "id": "san-miguel-de-belena-de-sorbe",
+   "campos": {
+    "texto": {
+     "general": "<p>En una pequeña elevación al norte de Beleña de Sorbe, hoy pedanía de Cogolludo, la iglesia de San Miguel es un templo románico del <b>siglo XII</b>: el primer documento que cita Beleña es una bula papal de 1127, que la incluye en la diócesis de Toledo. El pueblo perteneció al alfoz de Atienza y, desde el siglo XV, a los Mendoza. El templo se reformó en los siglos XVI y XVII, cuando se le añadieron la sacristía y la prolongación de la nave para el baptisterio.</p><p>Es de una sola nave con crucero y ábside poligonal, en su mayor parte de mampostería. Su joya es la portada sur, de sillería caliza. En su arquivolta está labrado un <b>mensario</b>, un calendario agrícola con los trabajos propios de cada mes del año. La portada se abre a una galería porticada que, como en otros templos de la zona, debió de recorrer las fachadas sur y oeste.</p><p>En las piedras de la fachada sur y de la galería se han contado más de cuarenta marcas de cantero, y entre ellas aparecen dos tableros del juego medieval del alquerque y un reloj de sol. Fue declarada Bien de Interés Cultural en 1991.</p>"
+    },
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Bele%C3%B1a_de_Sorbe",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Miguel_(Bele%C3%B1a_de_Sorbe)"
+    ]
+   }
+  },
+  {
+   "id": "iglesia-del-salvador-de-cifuentes",
+   "campos": {
+    "texto": {
+     "general": "<p>La gran iglesia de Cifuentes resume varios siglos en un solo edificio. Su origen es del <b>siglo XIII</b>, en el paso del románico al gótico; las naves y el ábside son de los siglos XIV y XV, la torre cuadrada se adosó en el XV, y las capillas son de los siglos XVI y XVII, tras un incendio que destruyó la portada sur, rehecha en estilo renacentista.</p><p>La joya es la <b>portada de Santiago</b>, en el lado oeste: concebida en estilo románico pero con una decoración ya gótica, sus arquivoltas están llenas de tallas, entre ellas la del <b>obispo Andrés</b> de Sigüenza (1262-1268), y sus capiteles muestran figuras que parecen jeroglíficos. Sobre ella se abre un <b>rosetón gótico</b> cuyos radios forman columnas y arcos, y que ilumina el coro.</p><p>Dentro, merece la pena el <b>púlpito gótico</b> del siglo XV, que procede del antiguo convento dominico de San Blas de Cifuentes. Entre las capillas destacan la de los condes de Cifuentes y la de los Calderón, con bóvedas de crucería, y la del bautismo, con una pila del siglo XIII rodeada de arcosolios funerarios. El retablo mayor barroco se perdió en la guerra civil.</p><p class=\"dato\"><span>¿Sabías que…?</span>En sus sillares se han contado 447 marcas de cantero, de 102 tipos distintos.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Iglesia_del_Salvador_(Cifuentes)",
+     "https://nominatim.openstreetmap.org/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJA6BjlqE6Qw0R6AocPRchFAI"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-cuenca",
+   "campos": {
+    "texto": {
+     "general": "<p>Inaugurado en <b>1974</b>, el Museo de Cuenca ocupa la llamada <b>Casa del Curato</b>, en el casco antiguo, a pocos metros de la catedral. Tiene secciones de arqueología, etnología y bellas artes, y una notable colección de monedas, pero lo esencial es su recorrido arqueológico, ordenado por plantas y por épocas.</p><p>La planta baja está dedicada a la prehistoria, del Paleolítico a la Edad del Hierro: el <b>abrigo de Verdelpino</b>, un yacimiento clave del Neolítico peninsular; de la Edad del Bronce, el <b>ídolo de Chillarón</b> y la espada de Carboneras; y de la Edad del Hierro, la maqueta del poblado de Fuente de la Mota y los hallazgos de la necrópolis del Cerro de la Virgen, en Alconchel de la Estrella.</p><p>La primera planta es la gran sala romana, con espacios propios para las tres ciudades romanas de la provincia: <b>Segóbriga, Ercávica y Valeria</b>, que explican cómo nacía una ciudad, sus espacios públicos y privados y sus oficios. Destaca la <b>estatua de Lucio César</b>, en mármol. La segunda planta recorre los siglos III al XVIII: la ruralización del mundo romano y la huella de visigodos, andalusíes y repobladores cristianos.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Museo_de_Cuenca",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ43yDuXNnXQ0RNgiZTWe3xgI"
+    ]
+   }
+  },
+  {
+   "id": "convento-de-san-pablo-cuenca",
+   "campos": {
+    "texto": {
+     "general": "<p>Frente a las Casas Colgadas, al otro lado de la hoz del Huécar, sobre un espolón rocoso, se alza el antiguo convento dominico de San Pablo, al que en Cuenca llaman «los Paúles». Lo fundó en <b>1523</b> el canónigo de la catedral <b>Juan del Pozo</b>, y la licencia para construirlo llegó en <b>1535</b>, bajo el obispo Diego Ramírez de Fuenleal, mediante una bula del papa Paulo III. El fundador está enterrado en la iglesia, en un sepulcro con su efigie en relieve de piedra blanca.</p><p>Las obras corrieron a cargo de los hermanos <b>Juan y Pedro de Alviz</b>, que levantaron una iglesia de <b>estructura gótica y decoración renacentista</b>, en la proa del espolón. A la derecha del templo se abre el <b>claustro del siglo XVI</b>; el resto del edificio se fue añadiendo después, según las necesidades de las órdenes que lo ocuparon.</p><p>Desde <b>1993</b> el convento funciona como <b>Parador Nacional</b>, lo que ha permitido conservarlo y abrir su claustro al visitante. La iglesia alberga desde 2005 el <b>Espacio Torner</b>, con unas cuarenta pinturas y esculturas de Gustavo Torner, uno de los fundadores del Museo de Arte Abstracto de las Casas Colgadas.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Convento_de_San_Pablo_(Cuenca)",
+     "https://es.hispanopedia.com/wiki/Gustavo_Torner"
+    ]
+   }
+  },
+  {
+   "id": "mupa-cuenca",
+   "campos": {
+    "texto": {
+     "general": "<p>La provincia de Cuenca guarda dos de los grandes yacimientos de Europa. <b>Las Hoyas</b> fue un lago tropical hace unos 125 millones de años; su barro fino conservó fósiles con un detalle excepcional. De allí salieron aves primitivas como <i>Iberomesornis</i> (1992), el ornitomimosaurio <i>Pelecanimimus</i> (1994), con más de doscientos dientes, y el terópodo jorobado <b><i>Concavenator</i></b> (2010), apodado «Pepito», uno de los dinosaurios más completos de España: medía unos 6 metros y tenía en el brazo unas marcas que sus descubridores interpretaron como anclajes de plumas, algo que aún se discute.</p><p><b>Lo Hueco</b> apareció en 2007 en las obras del AVE: unos 10.000 fósiles de hace unos 75 millones de años, sobre todo titanosaurios como <i>Lohuecotitan</i>, además de cocodrilos y tortugas.</p><p>El museo abrió en marzo de 2015 en el cerro Molina, en un edificio de 2010 con vistas sobre la ciudad. Reúne y expone lo mejor de ambos yacimientos en un recorrido cronológico de diez ámbitos, desde el Paleozoico hasta el Cuaternario. Fuera, entre ginkgos y cedros que evocan la vegetación del Mesozoico, hay reconstrucciones a tamaño real de <i>Concavenator</i>, <i>Lohuecotitan</i> y una manada de iguanodontes.</p>"
+    },
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Museo_Paleontol%C3%B3gico_de_Castilla-La_Mancha",
+     "https://guias-viajar.com/turismo-espana/visitar-castilla-la-mancha/cuenca-museo-paleontologico-horarios-precios/",
+     "https://Www.atlasobscura.Com/places/castilla-la-mancha-paleontological-museum",
+     "https://www.openstreetmap.org/?mlat=40.0694&mlon=-2.1293#map=18/40.0694/-2.1293",
+     "https://www.google.com/maps/place/?q=place_id:ChIJl0ModGxnXQ0RVzG1pSIdXdA",
+     "https://es.wikipedia.org/wiki/Concavenator_corcovatus"
+    ]
+   }
+  },
+  {
+   "id": "puente-de-san-pablo",
+   "campos": {
+    "texto": {
+     "general": "<p>El puente de San Pablo salva la hoz del Huécar y une el casco antiguo de Cuenca con el convento de San Pablo. Su antecesor fue un <b>puente de piedra construido entre 1533 y 1589</b> por iniciativa del canónigo Juan del Pozo, fundador del convento, que acabó derrumbándose. Sus pilares de sillería, sin embargo, siguen en pie: sobre ellos se apoya el puente actual.</p><p>El nuevo, de <b>hierro y madera</b>, se construyó en <b>1902</b> y se inauguró el <b>19 de abril de 1903</b>. Lo proyectó el ingeniero de caminos valenciano <b>José María Fuster y Tomás</b> y lo montó George H. Bartle, cuya fundición valenciana tenía gran renombre. Es un puente de vigas, de trazado recto, que en el centro descansa además sobre un puntal de hierro.</p><p>Mide <b>100 metros de largo</b> en dos tramos y alcanza unos <b>60 metros de altura</b> sobre el río: cruzarlo es una prueba para quien tenga vértigo. A cambio, ofrece una de las mejores vistas de las <b>Casas Colgadas</b> y de la hoz.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Puente_de_San_Pablo_(Cuenca)",
+     "https://blogs.upm.es/puma/es/2015/05/25/bridge-of-san-pablo"
+    ]
+   }
+  },
+  {
+   "id": "puerta-de-toledo-ciudad-real",
+   "campos": {
+    "texto": {
+     "general": "<p>La Puerta de Toledo es la gran reliquia de las <b>murallas medievales de Ciudad Real</b>, y la única que queda de las siete puertas que tuvo el recinto. Se habría empezado en tiempos de <b>Alfonso X</b>, aunque otros autores retrasan su terminación al reinado de Alfonso XI, en <b>1328</b>. Más tarde sirvió también de puerta de portazgo en el camino entre Toledo y Sevilla.</p><p>Mezcla lo gótico y lo mudéjar: un cuerpo central entre dos torres rectangulares, y en cada fachada una pareja de <b>arco de herradura</b> y <b>arco ojival</b>. Dentro hay dos espacios abovedados que separaba un rastrillo, con los escudos de Castilla y León en las claves; en una restauración aparecieron en las bóvedas cuatro bustos tallados, uno de ellos identificado con Alfonso X. En la fachada norte hay un escudo de piedra que recuerda a este rey, y en la sur una inscripción en letras góticas rojas sobre la terminación de la obra. Ha perdido sus almenas y hoy queda rodeada por la ciudad moderna.</p><p>Fue declarada <b>monumento nacional el 4 de febrero de 1915</b> por Alfonso XIII y hoy es Bien de Interés Cultural.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Puerta_de_Toledo_(Ciudad_Real)",
+     "https://atlasobscura.com/places/puerta-de-toledo"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-montizon",
+   "campos": {
+    "texto": {
+     "general": "<p>En el extremo sur del Campo de Montiel, en término de Villamanrique, se alza el castillo de Montizón, sobre la roca viva que cae a pico al <b>río Guadalén</b>, que hace de foso natural. Su estructura apunta a una <b>construcción cristiana</b>, probablemente del siglo XIII: en época musulmana, el paso de la Vía Augusta por el puerto del Dañador lo guardaba otro castillo, el de Ibn Xoray, hoy en ruinas en el Estrecho de las Torres.</p><p>Como toda la comarca, perteneció a la <b>Orden de Santiago</b>, y la tradición atribuye su construcción al maestre Pelayo Correa. Tiene varios recintos —el más exterior, la albacara, servía para guardar el ganado— y una torre del homenaje de muros gruesos que se asoma al río. En la segunda mitad del siglo XV pasó a los Manrique, y entre sus comendadores figuró el poeta <b>Jorge Manrique</b>, autor de las <i>Coplas por la muerte de su padre</i>, que según la tradición escribió aquí parte de su obra.</p><p>Abandonado en el siglo XVII, se vendió en subasta en 1855 y se convirtió en casa de labor. Fue declarado <b>monumento histórico-artístico en 1983</b>. Es de <b>propiedad privada</b> y se conserva razonablemente bien.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Montiz%C3%B3n",
+     "https://www.hoteles.net/ciudad-real/castillo-de-montizon.html"
+    ],
+    "ver_alli": [
+     "Es de propiedad privada: hay visitas guiadas en fechas concretas, solicitándolas al Ayuntamiento de Villamanrique.",
+     "Asómate a la torre del homenaje, sobre el cortado del río Guadalén.",
+     "Recuerda que cerca pasaba la antigua Vía Augusta, por el puerto del Dañador.",
+     "Recuerda a Jorge Manrique, que fue comendador de este castillo."
+    ]
+   }
+  },
+  {
+   "id": "oreto-y-zuqueca",
+   "campos": {
+    "texto": {
+     "general": "<p>Junto a la ermita de la Virgen de Oreto y Zuqueca, en el término de Granátula de Calatrava, unos 4 km al sur del pueblo y a un centenar de metros del río Jabalón, se superponen <b>más de diecisiete siglos de historia</b>: hay restos ibéricos, niveles iberorromanos, una villa tardorromana, una necrópolis visigoda y construcciones islámicas, a veces levantadas muro con muro con siglos de diferencia.</p><p>El yacimiento se descubrió en <b>1996</b>, durante unas obras en la ermita, que sacaron a la luz restos romanos, una <b>pila bautismal paleocristiana del siglo IV</b> y una <b>necrópolis visigoda</b>. En 2000 aparecieron los primeros hallazgos musulmanes y en 2001 unos <b>baños árabes</b>, con sus canalizaciones para agua fría y caliente. En 2004 se localizaron una posible villa tardorromana y numerosas estancias visigodas. La necrópolis, con tumbas romanas, visigodas y musulmanas, es una de las más grandes de la península. La propia ermita se superpone a parte de ella, lo que sugiere que reaprovechó un espacio sagrado mucho más antiguo.</p><p>Tras varias campañas de excavación y consolidación, el yacimiento se abrió al público en el verano de <b>2006</b>. Se recorre por pasarelas metálicas, y una atalaya en el centro permite verlo entero.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Oreto"
+    ]
+   }
+  },
+  {
+   "id": "pena-escrita-fuencaliente",
+   "campos": {
+    "texto": {
+     "general": "<p>En un abrigo de cuarcita de Sierra Morena, junto a Fuencaliente, se conservan decenas de pinturas rojas de <b>arte esquemático</b>: figuras humanas reducidas a unas pocas líneas, figuras en forma de «M», animales, peines, formas de rama y dibujos en zigzag o concéntricos, de entre 20 y 30 cm. Se pintaron entre el Neolítico y el Calcolítico, hace entre unos 7.500 y 4.000 años, con óxidos de hierro.</p><p>Su gran valor es histórico: el <b>26 de mayo de 1783</b> el cura de Montoro, <b>Fernando López de Cárdenas</b>, que recorría la sierra recogiendo minerales y curiosidades para el Gabinete de Historia Natural de Madrid por encargo del conde de Floridablanca, las describió y copió. Al principio se creyó que aquellos signos eran jeroglíficos, una escritura antigua, y se compararon con letras fenicias o egipcias. Es uno de los primeros hallazgos de arte prehistórico documentados del mundo, casi un siglo antes de que se descubriera Altamira. Él mismo dio a conocer la cercana Batanera.</p><p>En 1924 el abrigo fue protegido como monumento, junto con otras cuevas con arte rupestre.</p>"
+    },
+    "fuentes": [
+     "https://prehistour.eu/?p=5081",
+     "https://www.spain.info/en/places-of-interest/prehistoric-cave-pena-escrita/",
+     "https://es.wikipedia.org/wiki/Pe%C3%B1a_Escrita_(Fuencaliente)",
+     "https://accioncultural.es/media/DefaultFiles/flipbook/ArtPrehistory/files/basic-html/page8.html",
+     "https://es.wikipedia.org/wiki/Fernando_L%C3%B3pez_de_C%C3%A1rdenas"
+    ]
+   }
+  },
+  {
+   "id": "motilla-acequion",
+   "campos": {
+    "texto": {
+     "general": "<p>Fortificación de la cultura de las Motillas, de hacia el 2275-1765 a. C., con dos muros concéntricos de piedra, junto a la antigua laguna del Acequión, al oeste de la ciudad de Albacete. Fue la primera motilla declarada Bien de Interés Cultural, como zona arqueológica, en 1991.</p><p>Es una de las varias decenas de <b>motillas</b> de La Mancha, los poblados fortificados de la Edad del Bronce que, desde hacia el 2200 a.C., se levantaron en el llano a unos pocos kilómetros unos de otros, en tiempos de una larga sequía, para proteger el agua, el grano y el ganado de cada comarca. La mejor conocida es la del Azuer, en Daimiel, con su pozo de al menos 16 metros. La del Acequión es distinta: no tiene torre ni puertas fortificadas y está en una hondonada, sin dominio visual, porque lo que buscaba era el agua del subsuelo. Sus ocupaciones sucesivas formaron un montículo, y hoy parece una isla artificial.</p><p>Dentro del recinto había cabañas con zócalo de piedra y otras de barro y ramas; sus habitantes vivían del ganado y la agricultura. La excava un equipo de la Universidad Complutense, y parte de sus hallazgos están en el Museo de Albacete.</p>"
+    },
+    "fuentes": [
+     "https://www.ucm.es/motillaelacequion/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ2wGMAKhDZg0R1uaGs3yIr34",
+     "https://www.openstreetmap.org/?mlat=39.0256&mlon=-2.0245#map=18/39.0256/-2.0245",
+     "https://ucm.es/luisbenitezdelugoenrich/cultura-de-las-motillas",
+     "https://es.hispanopedia.com/wiki/El_Acequi%C3%B3n"
+    ],
+    "ver_alli": [
+     "Está junto a la laguna del Acequión, en terrenos de acceso restringido: consulta antes si se puede visitar.",
+     "Se reconocen los muros concéntricos de piedra que rodeaban el poblado.",
+     "Algunas piezas del yacimiento se exponen en el Museo de Albacete."
+    ]
+   }
+  },
+  {
+   "id": "pasaje-de-lodares",
+   "campos": {
+    "texto": {
+     "general": "<p>En pleno centro de Albacete, el Pasaje de Lodares es una galería comercial cubierta que parece trasladada desde Italia. Lo mandó construir <b>Gabriel Lodares</b> y lo proyectó en <b>1925</b> el arquitecto valenciano <b>Buenaventura Ferrando Castells</b>, a imagen de las <b>galerías italianas</b>. Une la calle Mayor con la del Tinte, y es una de las tres galerías de este tipo que se conservan en España, junto a las de Valladolid y Zaragoza.</p><p>Es arquitectura <b>modernista</b> de principios del siglo XX que mezcla <b>columnas renacentistas</b> con adornos neobarrocos: fruteros, niños con guirnaldas, cariátides que representan la Industria, la Riqueza de la Tierra y las Artes, y muchas cabezas de Mercurio, dios del comercio. Una <b>cubierta de cristal sostenida por arcos de hierro</b> deja entrar la luz sobre las fachadas, con tres plantas de viviendas sobre los comercios, y los accesos se cierran con puertas de hierro forjado con las iniciales de Lodares.</p><p>Hacia 1930 acogió una de las radios más antiguas del país, EAJ 44. Hoy sigue siendo un paso comercial muy vivo y una de las imágenes más reconocibles de la ciudad.</p><p class=\"dato\"><span>¿Sabías que…?</span>La fachada de la calle Mayor es asimétrica porque el dueño de la casa vecina se negó a vender.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Pasaje_de_Lodares"
+    ]
+   }
+  },
+  {
+   "id": "minateda",
+   "campos": {
+    "texto": {
+     "general": "<p>En Minateda (Hellín), un gran abrigo con cientos de figuras levantinas y esquemáticas superpuestas —unas seiscientas, pintadas en rojo—, descubierto en 1914 por el obrero Juan Jiménez Llamas y estudiado por el abate Breuil. Forma parte del Parque Arqueológico del Tolmo de Minateda y del arte rupestre del arco mediterráneo, Patrimonio Mundial desde 1998.</p><p>Es una de las paredes clave del debate sobre la edad del <b>arte levantino</b>. El abate <b>Henri Breuil</b>, que publicó su estudio en 1920, vio en sus figuras superpuestas una larga sucesión de estilos y las creyó en parte paleolíticas. Hoy se piensa que el arte levantino es posterior, de la Prehistoria reciente, y que en este abrigo conviven figuras levantinas de cazadores y animales con otras del <b>arte esquemático</b>, pintado desde el Neolítico hasta la Edad del Bronce.</p><p>Entre la maraña de figuras se distinguen arqueros, cacerías de ciervos, hileras de caballos, un gran toro y una mujer que lleva a un niño de la mano; los signos esquemáticos se pintaron más tarde encima de las escenas naturalistas. Desde 2005 lo estudia un equipo de la UNED y del Museo de Albacete.</p>"
+    },
+    "fuentes": [
+     "https://www.prehistour.eu/portfolio-item/abrigo-grande-of-minateda/",
+     "https://rupestre.art/es/caves/minateda-rock-art",
+     "https://www.openstreetmap.org/?mlat=38.465&mlon=-1.6159#map=18/38.465/-1.6159",
+     "https://www.google.com/maps/place/?q=place_id:ChIJa2TQCMA7ZA0RZXD3mgUkRWA"
+    ]
+   }
+  },
+  {
+   "id": "cerro-santos",
+   "campos": {
+    "texto": {
+     "general": "<p>Santuario ibérico de donde salieron, desde el siglo XIX, cientos de esculturas de piedra de devotos, como la Gran Dama Oferente. Está en el término de Montealegre del Castillo, junto a la carretera de Yecla, y se usó entre el siglo IV a. C. y el IV d. C. Hoy en el cerro apenas se ve nada, salvo el obelisco conmemorativo de 1929: las piezas están en el Museo Arqueológico Nacional y en el Museo de Albacete.</p><p>Desde mediados del siglo XIX, cuando se taló el monte, campesinos y padres escolapios de Yecla sacaron de este cerro cientos de esculturas —se calculan unas 400— de <b>devotos</b>, hombres y mujeres envueltos en mantos que sujetan un vaso de ofrendas, además de cabezas y exvotos de caliza, arenisca y barro. El primer informe oficial es de 1860. Entre ellas está la <b>Gran Dama Oferente</b>, hallada en el templo durante la primera campaña de excavación y hoy en el Museo Arqueológico Nacional. Del templo, que a finales del XIX aún era reconocible, solo quedan dibujos, como el de un capitel jónico.</p><p>El relojero de Yecla <b>Vicente Juan y Amat</b>, que excavó aquí y vendió piezas al museo, fabricó entonces otras falsas, algunas con letreros inventados, y separarlas de las auténticas costó décadas.</p>"
+    },
+    "fuentes": [
+     "https://vici.org/vici/15394",
+     "https://www.openstreetmap.org/?mlat=38.7327&mlon=-1.2694#map=18/38.7327/-1.2694",
+     "https://www.google.com/maps/place/?q=place_id:ChIJIf5NznSsZg0RES-DujaatUE",
+     "https://es.wikipedia.org/wiki/Cerro_de_los_Santos"
+    ]
+   }
+  },
+  {
+   "id": "ermita-de-belen-lietor",
+   "campos": {
+    "texto": {
+     "general": "<p>En Liétor, sobre un terreno elevado en la bajada hacia el pueblo, se alza una ermita que por fuera es modesta: una sola nave de unos 24 por 7,5 metros, del siglo XVI, con arcos diafragma y techumbre de madera. Por dentro es una sorpresa: <b>todas sus paredes y retablos están cubiertos de pinturas murales</b> de estilo popular, realizadas entre <b>1734 y 1735</b>, al temple sobre yeso.</p><p>Las pinturas muestran <b>santos, escenas bíblicas y una alegoría de la muerte</b>, a menudo acompañadas de versos moralizantes, y fingen retablos, cortinas y arquitecturas que no existen. Destacan el camarín, que imita una cúpula sostenida por los <b>cuatro evangelistas</b> y coronada por el <b>Espíritu Santo</b>; un frente con columnas salomónicas y tres paneles con la Visitación, la Sagrada Familia y la Inmaculada. Hay además retablos pintados de san Antonio y santa Bárbara.</p><p>Fue declarada <b>Monumento Histórico-Artístico en 1976</b>. La humedad del suelo ha sido su gran enemigo —la sacristía perdió buena parte de su pintura— y desde 1998 se han hecho campañas de restauración. Es uno de los conjuntos de pintura popular barroca más completos de la provincia.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Li%C3%A9tor",
+     "https://www.ge-iic.com/files/1congreso/Pascual_M_Fernanda.pdf"
+    ]
+   }
+  }
+ ]
+}
