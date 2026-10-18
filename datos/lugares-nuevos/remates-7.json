@@ -1,0 +1,34 @@
+{
+ "zona": "Remates 7",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "cataratas-del-iguazu",
+   "campos": {
+    "anio": 1541
+   }
+  },
+  {
+   "id": "wat-bowonniwet",
+   "campos": {
+    "anio": 1824
+   }
+  },
+  {
+   "id": "casa-de-neruda-en-isla-negra",
+   "campos": {
+    "anio": 1938
+   }
+  },
+  {
+   "id": "monumento-de-halabja",
+   "campos": {
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Halabja%20Monument",
+     "https://en.wikipedia.org/wiki/Halabja_Martyrs_Monument",
+     "https://en.wikipedia.org/wiki/Halabja_massacre"
+    ]
+   }
+  }
+ ]
+}
