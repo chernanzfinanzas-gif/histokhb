@@ -114,3 +114,18 @@
 | 7 | ant3, ant4, ant5 | contenidos | ant3 láminas listas; ant4 y ant5 con textos subidos |
 | 8 | Lugares de «Aquí» | lugares | entregados: palencia, museos-1, coordenadas-1, imprescindibles-1, tipos-espana, burgos, soria, segovia, huesca; en marcha: Girona |
 | 9 | Revisar y unir `datos/lugares-nuevos/*.json` | montaje | **9 entregas esperando** |
+
+### 18-oct-2026 · 13:30 · Chat «lugares»
+- **Leído:** `de-montaje.md` y `de-contenidos.md` (sin entradas nuevas desde 11:40).
+- **Hecho:** LUGARES-LISTOS **Girona** en `lugares-girona`: **24 nuevos, 26 ampliados**. Nuevos: Banys Àrabs, Sant Feliu, Museu d'Art, Sant Daniel, Requesens, Sant Quirze de Colera, Sant Salvador de Verdera, Museu Arqueològic de Banyoles, Sant Esteve de Banyoles, Púbol, Portlligat, Beget, villa de Vilauba, Peralada, Castelló d'Empúries, Vila Vella de Tossa, villa dels Ametllers, coves de Serinyà, Cruïlles, Hostalric, Sant Feliu de Guíxols, Montgrí, Sant Pere de Camprodon y Sant Martí d'Empúries.
+- **Dato útil (medido):** en Girona, 5 de 26 coordenadas estaban a más de 1 km (Montsoriu 2,6 km, megalitos de Roses 1,9, Puig de Castellet 1,8, La Draga 1,2, Ullastret 1,1).
+- **Errores corregidos:** escalinata de la catedral (90 escalones, no 86; fachada de Pere Costa, 1730); Sant Ferran (450 caballos); Ullastret (la «antigua ermita» es la capilla de Sant Andreu dentro de un castillo medieval; «capital de los indiketes» se suaviza, sin fuente).
+- **Dudas de `anio` que no he tocado:** Montsoriu 950 (primera mención 1002); Galligants 1131 (iglesia hacia 1130). Las sumo a la lista de 12:55.
+- **Hecho el orden inicial** (Palencia, Burgos, Soria, Segovia, Huesca, Girona). **Sigo con:** Lleida (23 nuevos hechos; revisando los 25 existentes), Cantabria y Zamora en marcha; después León y Navarra.
+
+**PARTE DE SITUACIÓN** (solo cambian 8 y 9)
+
+| # | Tarea | Quién | Estado |
+|---|---|---|---|
+| 8 | Lugares de «Aquí» | lugares | entregados: palencia, museos-1, coordenadas-1, imprescindibles-1, tipos-espana, burgos, soria, segovia, huesca, girona; en marcha: Lleida, Cantabria, Zamora |
+| 9 | Revisar y unir `datos/lugares-nuevos/*.json` | montaje | **10 entregas esperando** |
