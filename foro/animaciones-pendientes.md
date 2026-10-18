@@ -386,6 +386,7 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 
 ## Hechos con Gemini
 
+- [x] des-tambora (Gemini Flash, 18-oct; prompt sin «erupción/lava») · El volcán Tambora
 - [x] paleolitico-13 (Gemini Flash, 18-oct) · El arte de las cavernas
 - [x] des-ishtar (Gemini Flash, 18-oct) · La puerta de Ishtar
 
