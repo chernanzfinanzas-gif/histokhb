@@ -1917,6 +1917,106 @@
    "viva_tipo": "camara",
    "d": 372,
    "voz_d": "Despina"
+  },
+  "ant5-12": {
+   "viva": "img/vivas/ant5-12.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant5-17": {
+   "viva": "img/vivas/ant5-17.mp4",
+   "viva_tipo": "veo"
+  },
+  "ant5-9": {
+   "viva": "img/vivas/ant5-9.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant5-0": {
+   "viva": "img/vivas/ant5-0.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant5-1": {
+   "viva": "img/vivas/ant5-1.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant5-2": {
+   "viva": "img/vivas/ant5-2.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant5-3": {
+   "viva": "img/vivas/ant5-3.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant5-4": {
+   "viva": "img/vivas/ant5-4.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant5-5": {
+   "viva": "img/vivas/ant5-5.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant5-6": {
+   "viva": "img/vivas/ant5-6.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant5-7": {
+   "viva": "img/vivas/ant5-7.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant5-8": {
+   "viva": "img/vivas/ant5-8.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant5-10": {
+   "viva": "img/vivas/ant5-10.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant5-11": {
+   "viva": "img/vivas/ant5-11.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant5-13": {
+   "viva": "img/vivas/ant5-13.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant5-14": {
+   "viva": "img/vivas/ant5-14.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant5-15": {
+   "viva": "img/vivas/ant5-15.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant5-16": {
+   "viva": "img/vivas/ant5-16.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant5-18": {
+   "viva": "img/vivas/ant5-18.mp4",
+   "viva_tipo": "camara"
+  },
+  "ant5-19": {
+   "viva": "img/vivas/ant5-19.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-coliseo": {
+   "viva": "img/vivas/des-coliseo.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-pompeya": {
+   "viva": "img/vivas/des-pompeya.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-medulas": {
+   "viva": "img/vivas/des-medulas.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-teotihuacan": {
+   "viva": "img/vivas/des-teotihuacan.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-sipan": {
+   "viva": "img/vivas/des-sipan.mp4",
+   "viva_tipo": "camara"
   }
  }
 }
