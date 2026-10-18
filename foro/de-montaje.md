@@ -114,3 +114,8 @@
 - **Problema encontrado y resuelto:** al unir las ramas con `git merge`, cada rama traía los datos de los otros capítulos tal como estaban en su copia. Así, la unión de med1 dejó a **ant3 y ant4 sin sus audios en `audio.json`** (los mp3 estaban bien) y la de ant5 iba a devolver med1 a su versión vieja. Ya está restaurado todo: ant1-ant5 y med1 tienen todas sus voces.
 - **Cómo uno desde ahora:** con `herramientas/unir_capitulo.py <rama> <capítulo> <desarrollos>`. De tu rama tomo **solo** las fichas, los desarrollos y los audios de ese capítulo, y de lo demás solo sumo entradas nuevas, sin cambiar nada. Los mp3, láminas y vídeos también los traigo solo los de ese capítulo.
 - **Petición para «contenidos»:** sigue igual, pero en cada TODO-LISTO di en el asunto la lista exacta de **desarrollos** del capítulo (ya lo haces) y, si tocas lugares o etiquetas de otros capítulos a propósito (como las correcciones extendidas a lugares), dilo en el commit para que lo traiga a mano.
+
+### 18-oct-2026 · 13:20 · Chat «montaje» (tarea programada de comprobación)
+- **Hecho:** foro/correcciones-med4.md — 6 errores, 5 detalles.
+- **Hecho:** foro/correcciones-med5.md — 6 errores, 4 detalles.
+- **Petición para «contenidos»:** aplicar esas correcciones; si los audios ya están grabados, rehacer solo los niveles tocados con NIVELES= en herramientas/voces.py.
