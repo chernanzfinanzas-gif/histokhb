@@ -3427,6 +3427,102 @@
    "voz_g": "Leda",
    "p": 672,
    "voz_p": "Leda"
+  },
+  "con5-17": {
+   "viva": "img/vivas/con5-17.mp4",
+   "viva_tipo": "veo"
+  },
+  "con5-0": {
+   "viva": "img/vivas/con5-0.mp4",
+   "viva_tipo": "veo"
+  },
+  "des-estacion-espacial": {
+   "viva": "img/vivas/des-estacion-espacial.mp4",
+   "viva_tipo": "veo"
+  },
+  "con5-1": {
+   "viva": "img/vivas/con5-1.mp4",
+   "viva_tipo": "camara"
+  },
+  "con5-10": {
+   "viva": "img/vivas/con5-10.mp4",
+   "viva_tipo": "camara"
+  },
+  "con5-11": {
+   "viva": "img/vivas/con5-11.mp4",
+   "viva_tipo": "camara"
+  },
+  "con5-12": {
+   "viva": "img/vivas/con5-12.mp4",
+   "viva_tipo": "camara"
+  },
+  "con5-13": {
+   "viva": "img/vivas/con5-13.mp4",
+   "viva_tipo": "camara"
+  },
+  "con5-14": {
+   "viva": "img/vivas/con5-14.mp4",
+   "viva_tipo": "camara"
+  },
+  "con5-15": {
+   "viva": "img/vivas/con5-15.mp4",
+   "viva_tipo": "camara"
+  },
+  "con5-16": {
+   "viva": "img/vivas/con5-16.mp4",
+   "viva_tipo": "camara"
+  },
+  "con5-18": {
+   "viva": "img/vivas/con5-18.mp4",
+   "viva_tipo": "camara"
+  },
+  "con5-2": {
+   "viva": "img/vivas/con5-2.mp4",
+   "viva_tipo": "camara"
+  },
+  "con5-3": {
+   "viva": "img/vivas/con5-3.mp4",
+   "viva_tipo": "camara"
+  },
+  "con5-4": {
+   "viva": "img/vivas/con5-4.mp4",
+   "viva_tipo": "camara"
+  },
+  "con5-5": {
+   "viva": "img/vivas/con5-5.mp4",
+   "viva_tipo": "camara"
+  },
+  "con5-6": {
+   "viva": "img/vivas/con5-6.mp4",
+   "viva_tipo": "camara"
+  },
+  "con5-7": {
+   "viva": "img/vivas/con5-7.mp4",
+   "viva_tipo": "camara"
+  },
+  "con5-8": {
+   "viva": "img/vivas/con5-8.mp4",
+   "viva_tipo": "camara"
+  },
+  "con5-9": {
+   "viva": "img/vivas/con5-9.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-atocha-11m": {
+   "viva": "img/vivas/des-atocha-11m.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-cern": {
+   "viva": "img/vivas/des-cern.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-memorial-11s": {
+   "viva": "img/vivas/des-memorial-11s.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-srebrenica": {
+   "viva": "img/vivas/des-srebrenica.mp4",
+   "viva_tipo": "camara"
   }
  }
 }
