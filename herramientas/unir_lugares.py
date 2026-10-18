@@ -20,7 +20,7 @@ def zonas():
 def main(revisar):
     P=os.path.join(R,'datos','lugares.json'); D=json.load(open(P,encoding='utf-8')); L=D['lugares']; ix={l['id']:l for l in L}
     global COMUNES; from collections import Counter; cc=Counter(w for x in L for w in toks(x.get('nombre',''))); COMUNES={w for w,n in cc.items() if n>=4}
-    graves=[]; avisos=[]; nN=nC=0
+    graves=[]; avisos=[]; nN=nC=nB=0
     for z in zonas():
         E=json.load(open(os.path.join(R,'datos','lugares-nuevos',z+'.json'),encoding='utf-8'))
         for l in E.get('nuevos',[]):
@@ -48,7 +48,14 @@ def main(revisar):
                 d=km((o['lat'],o['lon']),(f.get('lat',o['lat']),f.get('lon',o['lon'])))
                 if d>10: avisos.append(f'{z}: {i} se mueve {d:.1f} km')
             o.update(f); nC+=1
-    print(f'Zonas: {", ".join(zonas())}\nNuevos: {nN} · cambios aplicados: {nC} · total lugares: {len(L)}')
+        for b in E.get('borrar',[]):   # duplicados: {"id":x,"en":y} pasa eventos de x a y y quita x
+            x,y=b.get('id'),b.get('en')
+            if x not in ix: continue
+            if y in ix:
+                a,b2=ix[y].get('eventos') or [],ix[x].get('eventos') or []
+                if isinstance(a,list) and isinstance(b2,list) and b2: ix[y]['eventos']=a+[e for e in b2 if e not in a]
+            L.remove(ix.pop(x)); nB+=1
+    print(f'Zonas: {", ".join(zonas())}\nNuevos: {nN} · cambios aplicados: {nC} · borrados: {nB} · total lugares: {len(L)}')
     for g in graves: print('GRAVE',g)
     for a in avisos: print('AVISO',a)
     if revisar or graves: print('No se escribe nada.' if graves else '(solo revisión)'); return 1 if graves else 0
