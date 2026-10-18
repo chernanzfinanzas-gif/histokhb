@@ -245,6 +245,24 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .aqui-hero .bi{font-size:44px}
 .aqui-hero h1{margin:6px 0;font-size:26px}
 .aqui-hero p{color:var(--ink2);margin:0 0 14px}
+#aqMap{height:48vh;min-height:280px;border-radius:16px;border:1px solid var(--line);position:relative;z-index:0;isolation:isolate;margin-top:6px}
+.aq-demos{display:flex;gap:6px;overflow-x:auto;margin:8px 0 2px;justify-content:center;flex-wrap:wrap}.aq-demos button{padding:6px 11px;font-size:13px}
+.aq-chips{display:flex;gap:6px;padding:8px 0;flex-wrap:wrap;justify-content:center}
+.aq-chip{display:flex;align-items:center;gap:6px;border:1.5px solid var(--line);background:#fff;border-radius:999px;padding:5px 10px;font-family:'Fredoka';font-weight:600;font-size:14px;cursor:pointer;color:var(--ink)}
+.aq-chip.off{opacity:.4}
+.aq-dot{width:22px;height:22px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:12px;color:#fff;border:2px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.35);flex:0 0 auto}
+.aq-dot.mk{width:30px;height:30px;font-size:15px}
+.aq-dot.mon{background:#c0533a}.aq-dot.yac{background:#b8862b}.aq-dot.mus{background:#3b6ea8}
+#aqMap .leaflet-popup-content{font-family:'Nunito',system-ui,sans-serif;font-size:14px;margin:12px 14px;max-width:250px}
+.aq-pp h3{font-family:'Fredoka',system-ui,sans-serif;margin:0 0 4px;font-size:16px}.aq-pp .k{color:var(--muted);font-size:12.5px;margin-bottom:6px}
+.aq-pp a{display:block;margin-top:6px;color:var(--accent);font-weight:700;text-decoration:none}
+.aq-ring{font-family:'Fredoka';font-weight:600;font-size:11px;color:#7a5a2a;background:rgba(255,255,255,.85);padding:1px 6px;border-radius:8px;white-space:nowrap}
+.aq-era{font-family:'Fredoka';font-weight:600;color:var(--muted);font-size:14px;margin:14px 0 4px;border-bottom:1px solid var(--line);padding-bottom:3px}
+.aq-tl{display:flex;gap:10px;align-items:flex-start;padding:8px 0;border:0;border-bottom:1px dashed var(--line);background:none;width:100%;text-align:left;font:inherit;color:inherit;cursor:pointer}
+.aq-tl .y{flex:0 0 82px;font-family:'Fredoka';font-weight:600;font-size:13px;color:var(--accent);text-align:right;padding-top:1px}
+.aq-tl .t{flex:1;font-size:15px;line-height:1.35}.aq-tl .t small{display:block;color:var(--muted);font-size:12px}
+.aq-near{display:flex;gap:9px;align-items:center;padding:8px 0;border:0;border-bottom:1px solid var(--line);background:none;width:100%;text-align:left;font:inherit;color:inherit;cursor:pointer}
+.aq-near .n{flex:1}.aq-near b{font-family:'Fredoka';font-weight:600}.aq-near small{display:block;color:var(--muted)}
 .btn{display:inline-block;border:0;border-radius:14px;padding:13px 18px;font-family:'Fredoka';font-weight:600;font-size:16px;background:var(--accent);color:#fff}
 .btn.sec{background:#fff;color:var(--ink);border:1.5px solid var(--line)}
 .lugar{display:block;width:100%;text-align:left;background:#fff;border:2px solid var(--accent);border-radius:16px;padding:14px;margin:10px 0}
@@ -376,8 +394,11 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 <section class="scr" id="s-aqui"><div class="wrap">
  <div class="aqui-hero"><div class="bi">📍</div><h1>¿Qué pasó donde estás?</h1><p>Tu móvil te sitúa, o escribes el sitio que quieras, y te contamos la historia del lugar: lo que pasó aquí, lo que hay alrededor y la historia de esta tierra a lo largo del tiempo.</p><div class="note" style="margin:0 0 14px">🚧 Sección en desarrollo: los resultados pueden ser poco exactos.</div>
   <form id="lugF" class="lugf" autocomplete="off"><input id="lugQ" type="search" placeholder="Escribe un pueblo, ciudad o lugar…" aria-label="Buscar un sitio"><button class="btn" type="submit">🔎 Buscar</button></form>
-  <button class="btn" id="geoBtn">📍 Localizarme</button> <button class="btn sec" id="demoBtn">Probar en Carrión</button> <button class="btn sec" id="demoBtn2">Probar en Madrid</button><br><button class="btn sec" id="yacBtn" style="margin-top:8px">🏛️ Yacimientos y monumentos</button>
+  <button class="btn" id="geoBtn">📍 Localizarme</button>
+  <div class="aq-demos"><button class="btn sec" data-p="42.338,-4.603" data-n="Carrión de los Condes">Carrión</button><button class="btn sec" data-p="40.416,-3.703" data-n="Madrid">Madrid</button><button class="btn sec" data-p="41.39,2.17" data-n="Barcelona">Barcelona</button><button class="btn sec" data-p="37.39,-5.99" data-n="Sevilla">Sevilla</button><button class="btn sec" data-p="43.36,-8.41" data-n="A Coruña">A Coruña</button></div>
   <div id="geoMsg" class="rt"></div></div>
+ <div id="aqMapBox" class="hide"><div id="aqMap"></div>
+  <div class="aq-chips"><span class="aq-chip" data-t="mon"><span class="aq-dot mon">🏰</span>Monumentos <span id="aqc-mon"></span></span><span class="aq-chip" data-t="yac"><span class="aq-dot yac">⛏️</span>Yacimientos <span id="aqc-yac"></span></span><span class="aq-chip" data-t="mus"><span class="aq-dot mus">🏛️</span>Museos <span id="aqc-mus"></span></span></div></div>
  <div id="aquiOut"></div>
 </div></section>
 
@@ -932,7 +953,9 @@ const CENT={'Egipto':[26,30],'Nubia/Sudán':[16,32],'Magreb':[32,0],'Etiopía/Cu
 const IBER={'Portugal':[39.5,-8.2],'Galicia':[42.8,-8],'Asturias':[43.3,-5.9],'León':[42.4,-5.6],[ESP]:[40.6,-3.8],'Navarra / P.Vasco-Rioja':[42.8,-2],'Aragón / C.Valenciana':[40.8,-0.6],'Cataluña':[41.8,1.7],'Al-Ándalus / Andalucía-Murcia':[37.6,-4.2],'Canarias':[28.3,-15.8]};
 function km(a,b){const R=6371,t=x=>x*Math.PI/180;const d1=t(b[0]-a[0]),d2=t(b[1]-a[1]);const h=Math.sin(d1/2)**2+Math.cos(t(a[0]))*Math.cos(t(b[0]))*Math.sin(d2/2)**2;return 2*R*Math.asin(Math.sqrt(h));}
 function nearest(tab,p){return Object.entries(tab).map(([r,c])=>[r,km(p,c)]).sort((a,b)=>a[1]-b[1]);}
-function renderAqui(){lastScreen='aqui';show('aqui');}
+function renderAqui(){lastScreen='aqui';show('aqui');
+ if(!LASTPT){let s=null;try{s=JSON.parse(sessionStorage.getItem('hk_aqpt')||'null');}catch(e){} if(s&&s.pt)aquiAt(s.pt,s.label,true);}
+ else if(AQ.M)setTimeout(()=>AQ.M.invalidateSize(),50);}
 $('#geoBtn').onclick=()=>{
  const m=$('#geoMsg'); if(!navigator.geolocation){m.textContent='Este móvil no permite la localización.';return;}
  m.textContent='Buscando tu posición…';
@@ -953,12 +976,45 @@ $('#lugF').onsubmit=async ev=>{ev.preventDefault();
  if(!pt){m.textContent='No encuentro «'+q+'». Prueba con otro nombre o añade la provincia.';return;}
  m.textContent='📍 '+label; aquiAt(pt,label);
 };
-$('#demoBtn').onclick=()=>aquiAt([42.338,-4.603],'Carrión de los Condes (prueba)');
-$('#demoBtn2').onclick=()=>aquiAt([40.62,-3.70],'Norte de Madrid (prueba)');
+document.querySelectorAll('.aq-demos button').forEach(b=>b.onclick=()=>{$('#geoMsg').textContent='📍 '+b.dataset.n;aquiAt(b.dataset.p.split(',').map(Number),b.dataset.n);});
+// ---- mapa (Leaflet se carga solo al usarlo) ----
+const AQ={M:null,layer:null,rings:null,on:{mon:1,yac:1,mus:1}};
+const AQI={mon:'🏰',yac:'⛏️',mus:'🏛️'}, AQN={mon:'Monumento',yac:'Yacimiento',mus:'Museo'};
+const AQ_MON=/iglesia|catedral|castillo|monasterio|palacio|puente|acueducto|muralla|ermita|torre|colegiata|bas[ií]lica|alc[aá]zar|mezquita|sinagoga|convento|teatro|anfiteatro|arco|capilla|abad[ií]a|fortaleza|alcazaba|santuario|claustro/i;
+const AQ_EPY=/paleol|neol|bronce|hierro|cobre|íberos|iberos|romano|griegos|cenozoico|mesozoico|paleozoico|arte levantino|prehisp|megal|celt|talay|tartes|fenici|egipto|mesopotamia|persia|nubia/i;
+const AQ_YAC=/yacimiento|cueva|abrigo|dolmen|d[oó]lmenes|menhir|castro|necr[oó]polis|villa romana|ciudad romana|oppidum|poblado|huellas|icnitas|cantera|t[uú]mulo|cromlech|naveta|talayot|taula|ruinas/i;
+function aqTipo(l){if(l.t)return l.t;const n=l.nombre||'';return l.t=/museo|centro de interpret|aula arqueol|exposici/i.test(n)?'mus':AQ_YAC.test(n)?'yac':(AQ_MON.test(n)||/^(san|santa|santo|santiago|nuestra se)/i.test(n))?'mon':(l.epoca&&!AQ_EPY.test(l.epoca))?'mon':'yac';}
+let LEAF=null;
+function loadLeaflet(){if(window.L&&window.L.map)return Promise.resolve();if(LEAF)return LEAF;
+ LEAF=new Promise((ok,ko)=>{const c=document.createElement('link');c.rel='stylesheet';c.href='https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';document.head.appendChild(c);
+  const j=document.createElement('script');j.src='https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';j.onload=ok;j.onerror=()=>{LEAF=null;ko();};document.head.appendChild(j);});return LEAF;}
+function aqPopup(l){const d=LASTPT?km(LASTPT,[l.lat,l.lon]):null;
+ const f=(l.eventos||[]).filter(e=>e.startsWith('f:')).map(e=>e.slice(2)).filter(k=>IDX.fichas[k]).slice(0,3);
+ const tx=strip(l.texto&&(l.texto.general||Object.values(l.texto)[0])).slice(0,180);
+ return `<div class="aq-pp"><h3>${AQI[l.t]} ${esc(l.nombre)}</h3><div class="k">${AQN[l.t]}${l.epoca?' · '+esc(l.epoca):''}${l.provincia?' · '+esc(l.provincia):''}${d!=null?' · '+(d<1?'aquí':Math.round(d)+' km'):''}</div>${esc(tx)}…<a href="#/l/${l.id}">Ver el lugar completo ›</a>${f.map(k=>`<a href="#/f/${k}">📖 ${esc(IDX.fichas[k].t)}</a>`).join('')}</div>`;}
+function aqDraw(){const M=AQ.M;if(!M||!LUG)return;AQ.layer.clearLayers();const b=M.getBounds().pad(.2),big=M.getZoom()>=10,cnt={mon:0,yac:0,mus:0};
+ LUG.lugares.forEach(l=>{if(l.lat==null||!b.contains([l.lat,l.lon]))return;const t=aqTipo(l);cnt[t]++;if(!AQ.on[t])return;
+  const ic=window.L.divIcon({className:'',html:big?`<span class="aq-dot mk ${t}">${AQI[t]}</span>`:`<span class="aq-dot ${t}" style="width:14px;height:14px;border-width:1.5px"></span>`,iconSize:big?[30,30]:[14,14],iconAnchor:big?[15,15]:[7,7]});
+  window.L.marker([l.lat,l.lon],{icon:ic}).bindPopup(()=>aqPopup(l)).addTo(AQ.layer);});
+ for(const t in cnt)$('#aqc-'+t).textContent=cnt[t]?'· '+cnt[t]:'';}
+document.querySelectorAll('.aq-chip').forEach(c=>c.onclick=()=>{const t=c.dataset.t;AQ.on[t]=!AQ.on[t];c.classList.toggle('off',!AQ.on[t]);aqDraw();});
+async function aqMap(pt){
+ try{await loadLeaflet();}catch(e){$('#aqMapBox').classList.add('hide');return;}
+ $('#aqMapBox').classList.remove('hide'); const L=window.L;
+ if(!AQ.M){AQ.M=L.map('aqMap',{zoomControl:true}).setView(pt,10);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18,attribution:'© OpenStreetMap'}).addTo(AQ.M);
+  AQ.layer=L.layerGroup().addTo(AQ.M);AQ.rings=L.layerGroup().addTo(AQ.M);AQ.M.on('moveend zoomend',aqDraw);}
+ AQ.M.invalidateSize(); AQ.rings.clearLayers();
+ L.circleMarker(pt,{radius:7,color:'#fff',weight:3,fillColor:'#e0463c',fillOpacity:1}).addTo(AQ.rings);
+ [[5,'5 km'],[25,'25 km'],[50,'50 km']].forEach(([r,t])=>{L.circle(pt,{radius:r*1000,color:'#b07a2a',weight:1.5,dashArray:'5 6',fill:false,interactive:false}).addTo(AQ.rings);
+  L.marker([pt[0]+r/111,pt[1]],{icon:L.divIcon({className:'',html:`<span class="aq-ring">${t}</span>`,iconSize:[44,16],iconAnchor:[22,8]}),interactive:false}).addTo(AQ.rings);});
+ AQ.M.setView(pt,10); aqDraw();}
+function aqVer(id){const l=LUG.lugares.find(x=>x.id===id);if(!l||!AQ.M)return go('#/l/'+id);
+ $('#aqMap').scrollIntoView({block:'center',behavior:'smooth'});AQ.M.setView([l.lat,l.lon],14);setTimeout(()=>window.L.popup().setLatLng([l.lat,l.lon]).setContent(aqPopup(l)).openOn(AQ.M),450);}
 let ETQ=null, LASTPT=null;
 const EPOR=['Paleolítico', 'Neolítico', 'Arte levantino y esquemático', 'Edad del Cobre', 'Edad del Bronce', 'Egipto faraónico', 'Nubia (Kush)', 'Mesopotamia antigua', 'Persia aqueménida', 'Partos y sasánidas', 'Israel y Judá antiguos', 'Fenicios y púnicos', 'China antigua', 'China imperial', 'China contemporánea', 'Civilización del Indo', 'India antigua', 'India medieval', 'India mogol', 'India británica e independiente', 'Japón antiguo', 'Japón de los samuráis', 'Japón moderno', 'Corea antigua', 'Corea Goryeo y Joseon', 'Corea contemporánea', 'Mesoamérica prehispánica', 'Andes prehispánicos', 'Norteamérica indígena', 'Etiopía antigua y medieval', 'Imperios del Sahel y reinos de Guinea', 'Costa suajili y África oriental', 'Reinos de África central y austral', 'Tartessos, fenicios y griegos', 'Íberos', 'Edad del Hierro', 'Etruscos', 'Griegos', 'Romano', 'Grecorromano', 'Antigüedad tardía', 'Copto y bizantino', 'Bizantino', 'Visigodo', 'Prerrománico y Alta Edad Media', 'Andalusí', 'Islámico medieval', 'Imperio otomano', 'Timúridas y safávidas', 'Magreb andalusí y alauí', 'Reinos indianizados y Angkor', 'Sureste asiático moderno', 'Filipinas española', 'Sureste asiático contemporáneo', 'Australia aborigen', 'Pueblos del Pacífico', 'Oceanía colonial', 'Oceanía contemporánea', 'Norteamérica colonial e independencia', 'Estados Unidos y Canadá modernos', 'Rus de Kiev y Moscovia', 'Rusia imperial', 'Unión Soviética y Rusia actual', 'Virreinatos y Brasil colonial', 'Independencias y repúblicas', 'Iberoamérica contemporánea', 'Oriente Medio contemporáneo', 'África colonial e independiente', 'Cruzados', 'Románico', 'Gótico', 'Mudéjar', 'Castillos y fortalezas', 'Villas y cascos medievales', 'Renacimiento', 'Barroco', 'Ilustración y Neoclásico', 'Guerra de la Independencia', 'Siglo XIX', 'Modernismo', 'Guerra Civil', 'Siglo XX', 'Canarias prehispánica'];
 function yacRow(l,d){return `<button class="lugar" onclick="go('#/l/${l.id}')"><div class="lk">🏛️ ${esc(l.epoca||'Yacimiento')} · ${d!=null?(d<1?'Estás aquí':Math.round(d)+' km'):esc(l.provincia)}</div><h3>${esc(l.nombre)}</h3><p>${esc(strip(l.texto.general).slice(0,140))}…</p></button>`;}
-$('#yacBtn').onclick=async()=>{
+const yacTodos=async()=>{
  if(!LUG)LUG=await getJ('lugares.json').catch(()=>({lugares:[]}));
  const Y=LUG.lugares.filter(l=>l.tipo==='yacimiento');
  const eps=[...new Set(Y.map(l=>l.epoca))].sort((a,b)=>EPOR.indexOf(a)-EPOR.indexOf(b));
@@ -970,11 +1026,11 @@ $('#yacBtn').onclick=async()=>{
  // una época abierta cada vez
  $('#aquiOut').querySelectorAll('details.yacep').forEach(d=>d.addEventListener('toggle',()=>{if(d.open){$('#aquiOut').querySelectorAll('details.yacep').forEach(o=>{if(o!==d)o.open=false;});d.scrollIntoView({block:'start',behavior:'smooth'});}}));
 };
-async function aquiAt(pt,label){ LASTPT=pt;
+async function aquiAt(pt,label,quiet){ LASTPT=pt; try{sessionStorage.setItem('hk_aqpt',JSON.stringify({pt,label}));}catch(e){}
  const out=$('#aquiOut'); out.innerHTML='<p class="empty-st">Buscando historia…</p>';
  if(!LUG)LUG=await getJ('lugares.json').catch(()=>({lugares:[]}));
  if(!ETQ)ETQ=await getJ('etiquetas.json').catch(()=>({}));
- await sinc();
+ await sinc(); aqMap(pt); if(quiet)$('#geoMsg').textContent='📍 '+label;
  // lugares etiquetados con su distancia
  const P=Object.entries(ETQ).map(([n,v])=>({n,lat:v[0],lon:v[1],cc:v[2],pa:v[3],f:v[4],m:new Set(v[5]||[]),d:km(pt,[v[0],v[1]])})).sort((a,b)=>a.d-b.d);
  const esp=P.find(x=>x.pa==='ES'&&x.d<80); const miCC=esp?esp.cc:'';
@@ -997,22 +1053,28 @@ async function aquiAt(pt,label){ LASTPT=pt;
    (rest.length?`<details><summary class="more" style="list-style:none">Ver ${rest.length} más</summary>${rest.map(row).join('')}</details>`:'');
  }
  const yr=({id})=>{if(id.startsWith('f:')){const f=IDX.fichas[id.slice(2)];return f&&f.y!=null?f.y:0;}return +id.split('|').pop();};
- let h=`<div class="note" style="margin-top:4px">🚧 <b>Sección en desarrollo:</b> los resultados pueden ser poco exactos. Vamos añadiendo lugares poco a poco.</div>`;
- h+=`<p class="rt" style="text-align:center">📍 ${esc(label)}${miCC?' · '+esc(miCC):''}</p>`;
+ let h=`<p class="rt" style="text-align:center">📍 ${esc(label)}${miCC?' · '+esc(miCC):''}</p>`;
  const ys=LUG.lugares.filter(l=>l.tipo==='yacimiento').map(l=>[l,km(pt,[l.lat,l.lon])]).filter(x=>x[1]<=120).sort((a,b)=>a[1]-b[1]);
  const r1=items(P.filter(x=>x.d<=15)), r2=items(P.filter(x=>x.d>15&&x.d<=60));
  const r3=miCC?items(P.filter(x=>x.d>60&&x.cc===miCC)):items(P.filter(x=>x.d>60&&x.d<=300));
  const near=[...r1,...r2].sort((a,b)=>yr(a)-yr(b)), reg=r3.sort((a,b)=>yr(a)-yr(b));
  const menc=items(P.filter(x=>x.d<=60),true).sort((a,b)=>yr(a)-yr(b));
- h+=`<div class="aqtabs"><button class="btn sec" data-p="pYac">🏛️ Yacimientos y monumentos · ${ys.length}</button><button class="btn sec" data-p="pHist">📜 ¿Qué pasó aquí? · ${near.length}</button></div>`;
- // panel 1: monumentos cercanos, por época (cerradas, una a la vez)
- const eps=[...new Set(ys.map(([l])=>l.epoca))].sort((a,b)=>EPOR.indexOf(a)-EPOR.indexOf(b));
- h+=`<div id="pYac" class="aqp hide"><p class="rt">Hasta 120 km, ordenados por cercanía dentro de cada época.</p>`+(ys.length?eps.map(ep=>{const L=ys.filter(([l])=>l.epoca===ep);return `<details class="yacep" name="yacep2"><summary class="sec-t" style="cursor:pointer">${esc(ep)} · ${L.length}</summary>${L.map(([l,d])=>yacRow(l,d)).join('')}</details>`;}).join(''):'<p class="empty-st">Todavía no hay monumentos fichados cerca de aquí.</p>')+`</div>`;
- // panel 2: hechos, del más antiguo al más moderno
- const ls=LUG.lugares.filter(l=>l.tipo!=='yacimiento').map(l=>[l,km(pt,[l.lat,l.lon])]).filter(x=>x[1]<=60).sort((a,b)=>a[1]-b[1]);
- h+=`<div id="pHist" class="aqp hide">`;
- if(ls.length) h+='<div class="sec-t">Historia del lugar</div>'+ls.map(([l,d])=>`<button class="lugar" onclick="go('#/l/${l.id}')"><div class="lk">📍 ${d<1?'Estás aquí':Math.round(d)+' km'}</div><h3>${esc(l.nombre)}</h3><p>${esc(strip(l.texto.general).slice(0,140))}…</p></button>`).join('');
- h+=near.length?`<div class="sec-t">Aquí y en 60 km · de lo más antiguo a lo más moderno</div>`+near.map(row).join(''):`<div class="note">Todavía no tenemos hechos fechados en este lugar ni a menos de 60 km. Queda apuntado.</div>`;
+ const era=y=>y<=-1e8||y<-3500?'Prehistoria':y<476?'Edad Antigua':y<1492?'Edad Media':y<1789?'Edad Moderna':'Edad Contemporánea';
+ const tl=near.filter(x=>x.pl.d<=30); let cur='';
+ h+=`<div class="sec-t">📜 La historia de ${esc(label)} <span style="text-transform:none;letter-spacing:0">· ${tl.length}</span></div><p class="rt">Lo que pasó en un radio de 30 km, ordenado en el tiempo. Toca una línea para abrir su ficha.</p>`;
+ if(!tl.length)h+='<div class="note">Todavía no tenemos hechos fechados a menos de 30 km. Queda apuntado.</div>';
+ tl.forEach(it=>{const {id,pl}=it;let y,t,sub,href;
+  if(id.startsWith('f:')){const k=id.slice(2),f=IDX.fichas[k];if(!f)return;y=f.y!=null?f.y:-1e9;t=f.t;sub=f.d;href='#/f/'+k;}
+  else{const key=id.slice(2),r=key.slice(0,key.lastIndexOf('|'));y=+key.split('|').pop();const e=(SINC.ev[r]||[]).find(e=>e[0]===y);if(!e)return;t=e[1];sub=rn(r);href='#/s/'+encodeURIComponent(key);}
+  const e=era(y);if(e!==cur){cur=e;h+=`<div class="aq-era">${e}</div>`;}
+  h+=`<button class="aq-tl" onclick="go('${href}')"><span class="y">${y<=-1e8?'':fy(y)}</span><span class="t">${esc(t)}<small>${esc(sub)} · 📍 ${esc(pl.n)}${pl.d>=1?' · '+Math.round(pl.d)+' km':''}</small></span></button>`;});
+ // lo que queda entre 30 y 60 km
+ const r60=near.filter(x=>x.pl.d>30);
+ if(r60.length) h+=`<details><summary class="sec-t" style="cursor:pointer">▸ Algo más lejos, de 30 a 60 km · ${r60.length}</summary>${r60.map(row).join('')}</details>`;
+ // para visitar cerca
+ const N=LUG.lugares.filter(l=>l.lat!=null).map(l=>[l,km(pt,[l.lat,l.lon])]).filter(x=>x[1]<=50).sort((a,b)=>a[1]-b[1]).slice(0,25);
+ h+=`<div class="sec-t">🧭 Para visitar cerca <span style="text-transform:none;letter-spacing:0">· ${N.length}</span></div><p class="rt">Los más cercanos, hasta 50 km. Toca uno para verlo en el mapa.</p>`+
+  (N.length?N.map(([l,d])=>{const t=aqTipo(l);return `<button class="aq-near" onclick="aqVer('${l.id}')"><span class="aq-dot mk ${t}">${AQI[t]}</span><span class="n"><b>${esc(l.nombre)}</b><small>${AQN[t]}${l.epoca?' · '+esc(l.epoca):''} · ${d<1?'aquí':Math.round(d)+' km'}</small></span></button>`;}).join(''):'<p class="empty-st">Todavía no hay lugares fichados a menos de 50 km.</p>');
  if(menc.length) h+=`<details><summary class="sec-t" style="cursor:pointer">▸ También se menciona este lugar · ${menc.length}</summary><p class="rt">Historias que ocurrieron en otro sitio pero nombran este lugar o uno cercano.</p>${menc.map(row).join('')}</details>`;
  if(reg.length) h+=`<details><summary class="sec-t" style="cursor:pointer">▸ Más lejos: ${esc(miCC||'en la región')} · ${reg.length}</summary>${reg.map(row).join('')}</details>`;
  // grandes hitos de la zona sin lugar concreto
@@ -1024,8 +1086,8 @@ async function aquiAt(pt,label){ LASTPT=pt;
   return `<details class="thread"><summary class="big" style="list-style:none;cursor:pointer"><span class="bi">🧭</span><div><h3>${esc(rn(r))}</h3><p>${a.length} momentos · toca para desplegar</p></div></summary>`+
    a.map(e=>`<div class="zone"><div class="bar" style="background:${e[2]}"></div><button class="zb" ${e[3]?`onclick="go('#/s/${encodeURIComponent(r+'|'+e[0])}')"`:`onclick="go('#/mundo/ano/${Math.max(-3500,e[0])}')"`}><div class="zy">${fy(e[0])}${e[3]===2?' · 📜 biografía':e[3]?' · 📖 ficha':''}</div><div class="zt${e[3]===2?' bio':''}">${esc(e[1])}</div></button></div>`).join('')+'</details>';
  }).join('');
- h+='<div class="sec-t">En Wikipedia, cerca de aquí</div><div id="wkList"><p class="rt">Buscando…</p></div></div>';
- out.innerHTML=h; out.scrollIntoView({behavior:'smooth'});
+ h+='<div class="sec-t">En Wikipedia, cerca de aquí</div><div id="wkList"><p class="rt">Buscando…</p></div>';
+ out.innerHTML=h; if(!quiet)$('#aqMapBox').scrollIntoView({behavior:'smooth',block:'start'});
  out.querySelectorAll('.aqtabs button').forEach(bt=>bt.onclick=()=>{const p=$('#'+bt.dataset.p),was=!p.classList.contains('hide');
   out.querySelectorAll('.aqp').forEach(x=>x.classList.add('hide'));out.querySelectorAll('.aqtabs button').forEach(x=>x.classList.remove('on'));
   if(!was){p.classList.remove('hide');bt.classList.add('on');}});
