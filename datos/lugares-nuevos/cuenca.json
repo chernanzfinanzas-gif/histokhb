@@ -1,0 +1,505 @@
+{
+ "zona": "Cuenca",
+ "nuevos": [
+  {
+   "id": "museo-de-arte-abstracto-espanol",
+   "nombre": "Museo de Arte Abstracto Español",
+   "provincia": "Cuenca",
+   "comarca": "Cuenca",
+   "lat": 40.0778,
+   "lon": -2.1286,
+   "tipo": "museo",
+   "estilo": "Arte abstracto español (siglo XX)",
+   "epoca": "Siglo XX",
+   "anio": 1966,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Dentro de las famosas <b>Casas Colgadas</b>, asomadas a la hoz del Huécar, se esconde uno de los museos más singulares de España. Lo impulsó el pintor <b>Fernando Zóbel</b>, que desde <b>1961</b> buscaba un lugar para su colección; en <b>1963</b> su amigo <b>Gustavo Torner</b> le propuso estas casas, que el Ayuntamiento le alquiló por una cantidad simbólica en 1965.</p><p>El museo abrió el <b>1 de julio de 1966</b>, con Zóbel y Torner al frente y <b>Gerardo Rueda</b> como conservador. En <b>1980</b> Zóbel donó la colección y su gestión a la <b>Fundación Juan March</b>, junto con más de 3.500 libros.</p><p>Hoy reúne <b>más de 1.500 obras</b>, de las que 515 son pinturas o esculturas, y el contraste entre la arquitectura antigua y el arte contemporáneo es parte de la experiencia.</p>"
+   },
+   "ver_alli": [
+    "Busca las ventanas que se asoman al vacío sobre la hoz del Huécar.",
+    "Recorre las obras de Zóbel, Torner y Rueda, fundadores del museo.",
+    "Fíjate en cómo conviven las obras abstractas con los muros de las antiguas casas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Arte_Abstracto_Espa%C3%B1ol"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "convento-de-san-pablo-cuenca",
+   "nombre": "Convento de San Pablo (Cuenca)",
+   "provincia": "Cuenca",
+   "comarca": "Cuenca",
+   "lat": 40.0792,
+   "lon": -2.1267,
+   "tipo": "iglesia",
+   "estilo": "Gótico con decoración renacentista",
+   "epoca": "Renacimiento",
+   "anio": 1523,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Frente a las Casas Colgadas, al otro lado de la hoz del Huécar, se alza el antiguo convento dominico de San Pablo. Lo fundó en <b>1523</b> el canónigo de la catedral <b>Juan del Pozo</b>, y la licencia para construirlo llegó en <b>1535</b>, bajo el obispo Diego Ramírez de Fuenleal, mediante una bula del papa Paulo III.</p><p>Las obras corrieron a cargo de los hermanos <b>Juan y Pedro de Alviz</b>, que levantaron una iglesia de <b>estructura gótica y decoración renacentista</b>. A la derecha del templo se abre el <b>claustro del siglo XVI</b>.</p><p>Desde <b>1993</b> el convento funciona como <b>Parador Nacional</b>, lo que ha permitido conservarlo y abrir su claustro al visitante.</p>"
+   },
+   "ver_alli": [
+    "Contempla desde aquí la mejor vista de las Casas Colgadas.",
+    "Fíjate en la fachada de la iglesia, gótica en estructura y renacentista en decoración.",
+    "Pasea por el claustro del siglo XVI."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Convento_de_San_Pablo_(Cuenca)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "puente-de-san-pablo",
+   "nombre": "Puente de San Pablo",
+   "provincia": "Cuenca",
+   "comarca": "Cuenca",
+   "lat": 40.0783,
+   "lon": -2.1274,
+   "tipo": "monumento",
+   "estilo": "Puente de hierro",
+   "epoca": "Siglo XX",
+   "anio": 1902,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>El puente de San Pablo salva la hoz del Huécar y une el casco antiguo de Cuenca con el convento de San Pablo. Su antecesor fue un <b>puente de piedra construido entre 1533 y 1589</b> por iniciativa del canónigo Juan del Pozo, fundador del convento, que acabó derrumbándose.</p><p>El actual, de <b>hierro y madera</b>, se construyó en <b>1902</b> y se inauguró el <b>19 de abril de 1903</b>. Lo proyectó el ingeniero <b>José María Fuster y Tomás</b> y lo montó George H. Bartle, con hierro de una fundición valenciana.</p><p>Mide <b>100 metros de largo</b> en dos tramos y alcanza unos <b>60 metros de altura</b> sobre el río: cruzarlo es una prueba para quien tenga vértigo.</p>"
+   },
+   "ver_alli": [
+    "Crúzalo a pie y mira hacia atrás: tendrás las Casas Colgadas de frente.",
+    "Asómate (si te atreves) a los 60 metros de caída sobre el Huécar.",
+    "Desde el puente, mira hacia el convento de San Pablo, al que daba servicio."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Puente_de_San_Pablo_(Cuenca)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "colegiata-de-belmonte",
+   "nombre": "Colegiata de San Bartolomé (Belmonte)",
+   "provincia": "Cuenca",
+   "comarca": "Belmonte",
+   "lat": 39.5603,
+   "lon": -2.7026,
+   "tipo": "iglesia",
+   "estilo": "Gótico",
+   "epoca": "Gótico",
+   "anio": 1456,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>A los pies del castillo de Belmonte, la colegiata de San Bartolomé es la otra gran obra que <b>Juan Pacheco</b>, primer marqués de Villena, mandó levantar en Belmonte, en las mismas fechas que la fortaleza. Es un templo <b>gótico del siglo XV</b> construido sobre una iglesia anterior: las excavaciones de <b>1976</b> encontraron restos de un templo visigodo, quizá del siglo V.</p><p>Su gran tesoro es la <b>sillería del coro</b>, del siglo XV, tallada con historias bíblicas y procedente de la <b>catedral de Cuenca</b>, de donde se trasladó en el siglo XVIII. Guarda también retablos de los siglos XVI y XVII y un órgano del XVIII que todavía suena en conciertos.</p><p class=\"dato\"><span>¿Sabías que…?</span>En su pila bautismal fue bautizado <b>fray Luis de León</b>.</p>"
+   },
+   "ver_alli": [
+    "Detente en la sillería del coro y busca las escenas bíblicas talladas.",
+    "Localiza la pila donde fue bautizado fray Luis de León.",
+    "Desde la puerta, mira el castillo de Belmonte sobre el cerro."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Belmonte_(Cuenca)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-garcimunoz",
+   "nombre": "Castillo de Garcimuñoz",
+   "provincia": "Cuenca",
+   "comarca": "Castillo de Garcimuñoz",
+   "lat": 39.661,
+   "lon": -2.3826,
+   "tipo": "castillo",
+   "estilo": "Gótico, con intervención contemporánea",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1458,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En este cerro hubo una alcazaba árabe y una primera fortaleza cristiana, anterior a 1177. El castillo actual se empezó a levantar en <b>1458</b> sobre sus ruinas por orden de <b>Juan Pacheco</b>, marqués de Villena, con el maestro de obras Martín Sánchez Bonifacio.</p><p>Su historia dio un giro curioso en <b>1663</b>, cuando una de sus crujías se convirtió en la <b>iglesia de San Juan Bautista</b>, inaugurada en 1708; los propios muros del castillo sirvieron de cantera para las obras. Por eso hoy se ve una iglesia encajada dentro de la fortaleza.</p><p>En 2003 la arquitecta <b>Izaskun Chinchilla</b> ganó el concurso para rehabilitarlo; tras años de obras interrumpidas, abrió al público en <b>abril de 2016</b>, con una intervención que añade elementos contemporáneos a la vieja fortaleza.</p>"
+   },
+   "ver_alli": [
+    "Fíjate en la iglesia barroca metida dentro del recinto del castillo.",
+    "Recorre el interior con la audioguía y las explicaciones del recinto.",
+    "Compara la piedra del siglo XV con los añadidos contemporáneos de la restauración."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Castillo_de_Garcimu%C3%B1oz"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-clemente",
+   "nombre": "San Clemente",
+   "provincia": "Cuenca",
+   "comarca": "San Clemente (La Mancha conquense)",
+   "lat": 39.4036,
+   "lon": -2.4292,
+   "tipo": "poblacion",
+   "estilo": "Villa renacentista",
+   "epoca": "Renacimiento",
+   "anio": 1445,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>San Clemente es una de las villas renacentistas más elegantes de La Mancha. El <b>10 de diciembre de 1445</b> Juan Pacheco la elevó a villa, y su prosperidad en los siglos XVI y XVII llenó sus calles de iglesias, conventos y casas nobles. Fue declarada <b>Conjunto Histórico-Artístico en 1980</b>.</p><p>La <b>Plaza Mayor</b> reúne dos grandes edificios: la <b>Casa Consistorial</b>, levantada en varias fases entre <b>1566 y 1622</b>, y la <b>iglesia de Santiago Apóstol</b>, del siglo XVI con elementos góticos y barrocos. Muy cerca, la <b>Torre Vieja</b> es del siglo XV, anterior a 1445.</p><p>Completan el conjunto los conventos franciscano de Nuestra Señora de Gracia (fundado en 1503), de trinitarias (1588) y de clarisas.</p>"
+   },
+   "ver_alli": [
+    "En la Plaza Mayor, fíjate en la fachada renacentista del Ayuntamiento.",
+    "Entra en la iglesia de Santiago Apóstol, junto al Ayuntamiento.",
+    "Busca la Torre Vieja, el edificio más antiguo de la villa."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/San_Clemente_(Cuenca)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "huete",
+   "nombre": "Huete",
+   "provincia": "Cuenca",
+   "comarca": "Huete (La Alcarria conquense)",
+   "lat": 40.1453,
+   "lon": -2.689,
+   "tipo": "poblacion",
+   "estilo": "Ciudad medieval y barroca",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1428,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En época andalusí se llamaba <b>Wabda</b> y su cerro del Castillo, fortificado con murallas, fue entre los siglos IX y X uno de los centros más importantes de la zona. Tras la conquista cristiana fue una plaza disputada: en julio de <b>1172</b> resistió un cerco almohade de diez días.</p><p>El <b>26 de julio de 1428</b> Juan II le concedió el título de ciudad, y llegó a tener <b>diez parroquias</b>. Su edificio más imponente es el <b>monasterio de Santa María de la Merced</b>, fundado a finales del siglo XIII y rehecho en el XVII: su claustro es de 1645-1648 y la iglesia se trazó en 1670. Hoy acoge tres museos, entre ellos el de Arte Contemporáneo Florencio de la Fuente.</p><p>En lo alto quedan los restos del castillo de Luna, la antigua alcazaba de Wabda, y por la ciudad se reparten iglesias como la de Nuestra Señora de Atienza (ábside del siglo XIII) o la del antiguo colegio de jesuitas (iniciada en 1700).</p>"
+   },
+   "ver_alli": [
+    "Entra en el claustro del monasterio de la Merced.",
+    "Sube al cerro del castillo para ver los restos de la alcazaba.",
+    "Busca el ábside del siglo XIII de Nuestra Señora de Atienza."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Huete"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "moya",
+   "nombre": "Moya (villa medieval)",
+   "provincia": "Cuenca",
+   "comarca": "Moya (Serranía Baja)",
+   "lat": 39.9483,
+   "lon": -1.3653,
+   "tipo": "poblacion",
+   "estilo": "Villa amurallada medieval (en ruinas)",
+   "epoca": "Villas y cascos medievales",
+   "anio": 1210,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Sobre un cerro de la Serranía Baja de Cuenca se extienden las ruinas de Moya, una villa que fue poderosa y hoy está <b>deshabitada</b>. Alfonso VIII la pobló en <b>1210</b>, y en <b>1463</b> Enrique IV donó su señorío a <b>Andrés de Cabrera</b>, que con Beatriz de Bobadilla fue de sus primeros señores; los Reyes Católicos lo confirmaron en 1475 y en <b>1480</b> Moya se convirtió en marquesado.</p><p>La villa estaba protegida por <b>cinco recintos amurallados y ocho puertas</b>, con el castillo en el extremo sur del cerro. Uno de los recintos, la Coracha, protegía el abastecimiento de agua. En torno a la plaza Mayor se alzaban varios templos: se conservan Santa María, la Trinidad y San Miguel, y quedan ruinas de San Bartolomé y del convento de concepcionistas.</p><p>El declive llegó en el siglo XIX: saqueos en la Guerra de la Independencia, destrucción en las guerras carlistas (1835) y la desamortización. Sus vecinos bajaron a los barrios cercanos. Las ruinas fueron declaradas <b>monumento histórico-artístico en 1982</b>.</p>"
+   },
+   "ver_alli": [
+    "Entra por alguna de las puertas de la muralla y recorre el cerro.",
+    "Busca el castillo en el extremo sur del recinto.",
+    "En la antigua plaza Mayor, localiza las iglesias que aún se mantienen en pie."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Moya_(Cuenca)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "torre-de-mangana",
+   "nombre": "Torre de Mangana",
+   "provincia": "Cuenca",
+   "comarca": "Cuenca",
+   "lat": 40.0765,
+   "lon": -2.1315,
+   "tipo": "monumento",
+   "estilo": "Torre de muralla, reformada en el siglo XX",
+   "epoca": "Renacimiento",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>La torre de Mangana es una de las siluetas más reconocibles del casco alto de Cuenca. Formó parte de la <b>vieja muralla</b> de la ciudad y ya aparece en el dibujo que Anton van den Wyngaerde hizo de Cuenca en <b>1565</b>; en <b>1532</b> Esteban Limosín le añadió la cruz y la veleta.</p><p>Ha cambiado mucho de aspecto: un rayo la dañó a finales del siglo XVIII, se reparó tras la ocupación francesa y en <b>1926</b> el arquitecto Fernando Alcántara le quitó el chapitel y la decoró en estilo <b>neomudéjar</b>. En <b>1968</b> Víctor Caballero la reforzó y le dio la forma desnuda que conserva hoy.</p><p>Fue declarada <b>Bien de Interés Cultural en 2001</b>. Desde su plaza se tienen buenas vistas del casco antiguo y de los alrededores.</p>"
+   },
+   "ver_alli": [
+    "Rodea la torre para ver su silueta desde distintos puntos de la plaza.",
+    "Asómate desde la plaza de Mangana a las vistas sobre la ciudad.",
+    "Compárala con las fotos antiguas: ha cambiado de remate varias veces."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Torre_de_Mangana"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "canete",
+   "nombre": "Cañete",
+   "provincia": "Cuenca",
+   "comarca": "Cañete (Serranía de Cuenca)",
+   "lat": 40.0418,
+   "lon": -1.6476,
+   "tipo": "poblacion",
+   "estilo": "Villa amurallada andalusí",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Cañete conserva uno de los <b>recintos amurallados</b> más completos de la Serranía de Cuenca. Sus murallas son de <b>origen andalusí</b> y su forma actual se fecha hacia el <b>siglo X</b>, en el apogeo del califato de Córdoba, con reformas cristianas posteriores.</p><p>La <b>Puerta de las Eras</b>, con su <b>arco de herradura</b> abierto en un recodo, es la gran puerta andalusí de la villa. En lo alto, el <b>castillo</b>, también de origen andalusí, se amplió varias veces tras la conquista castellana y recibió sus últimas reformas en el siglo XIX, durante las guerras carlistas; hoy queda sobre todo su cerca.</p><p>La villa estaba ya muy probablemente en manos castellanas cuando Alfonso VIII tomó Cuenca en 1177. En ella nació a finales del siglo XIV <b>Álvaro de Luna</b>, el todopoderoso valido de Juan II.</p>"
+   },
+   "ver_alli": [
+    "Entra por la Puerta de las Eras y fíjate en su arco de herradura.",
+    "Sigue el trazado de la muralla alrededor del casco.",
+    "Sube a los restos del castillo para ver la villa desde arriba."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Ca%C3%B1ete_(Cuenca)"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "villar-humo",
+   "campos": {
+    "lat": 39.9131,
+    "lon": -1.6627,
+    "estilo": "Arte rupestre levantino y esquemático",
+    "texto": {
+     "general": "<p>En la sierra de las Cuerdas, a unos 8 km de Villar del Humo, se reúnen varios abrigos con pintura rupestre <b>levantina y esquemática</b>, protegidos hoy como Parque Cultural y parte del Arte Rupestre del Arco Mediterráneo, <b>Patrimonio de la Humanidad desde 1998</b>.</p><p>El más célebre es la <b>Peña del Escrito</b>, descubierta en <b>1917</b>, con tres abrigos. En el primero hay figuras humanas y animales de caza de estilo levantino: ciervo, cierva, cabra montés, toro y jabalí. Fue declarada Monumento Histórico-Artístico ya en 1924. Al año siguiente de su hallazgo, en 1918, se dio a conocer el abrigo de <b>Selva Pascuala</b>.</p><p>El arte levantino, figurativo, se asocia a cazadores-recolectores; el esquemático, de motivos abstractos y simplificados, a los primeros grupos neolíticos y calcolíticos.</p>"
+    },
+    "ver_alli": [
+     "La Peña del Escrito está en pleno monte, por pistas forestales que piden un vehículo alto o un tramo a pie; los abrigos se ven tras una valla.",
+     "Hay visitas guiadas en todoterreno con guías locales y un centro de interpretación en el pueblo.",
+     "El paseo fluvial de Villar del Humo, con pasarelas sobre el río, completa bien la jornada."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Pe%C3%B1a_del_Escrito",
+     "https://www.openstreetmap.org/?mlat=39.9144&mlon=-1.6628#map=18/39.9144/-1.6628",
+     "https://www.google.com/maps/place/?q=place_id:ChIJo4WEWyhjZw0R40AqSdUUBRU"
+    ]
+   }
+  },
+  {
+   "id": "segobriga",
+   "campos": {
+    "lat": 39.8878,
+    "lon": -2.812,
+    "estilo": "Arquitectura romana altoimperial",
+    "texto": {
+     "general": "<p>Una ciudad romana completa sobre un cerro de Saelices. Su nombre, celta, significa algo así como «ciudad de la victoria», y bajo ella hubo un castro celtíbero. Hacia el <b>12 a. C.</b>, con Augusto, se convirtió en municipio y comenzó una gran etapa de obras: el <b>foro</b>, hacia el 15 a. C., con su basílica; una muralla de unos 1.300 metros; termas, acueducto y un circo que nunca llegó a terminarse.</p><p>Bajo Vespasiano se inauguraron, frente a frente, el <b>teatro</b> (hacia el 78 d. C.), uno de los más pequeños de Hispania, y el <b>anfiteatro</b>, de unos 75 metros de largo y con sitio para <b>5.500 espectadores</b>. La riqueza venía de las minas del <b>lapis specularis</b>, un yeso transparente que, según Plinio, se usaba como cristal de ventana en todo el Imperio.</p><p>Fue también sede episcopal visigoda: se conocen once de sus obispos, tres de ellos por las tapas de sus sarcófagos, y fuera de la muralla se ve una basílica funeraria. Sus obispos acudieron a los concilios de Toledo de 589 y 693. Tras la invasión musulmana la ciudad se fue despoblando y sus habitantes bajaron a Saelices.</p><p class=\"dato\"><span>¿Sabías que…?</span>Segóbriga fue declarada Monumento Nacional en 1931.</p>"
+    },
+    "ver_alli": [
+     "Empieza por el centro de interpretación, a unos 550 m del corazón de la ciudad, con su museo y un audiovisual.",
+     "El teatro y el anfiteatro, uno frente al otro, son lo más espectacular; sube después al foro y a las termas.",
+     "El terreno es de tierra y piedra suelta, con cuestas: lleva calzado cerrado.",
+     "Cada primavera el teatro acoge un festival de teatro clásico."
+    ],
+    "fuentes": [
+     "https://www.elespanol.com/eldigitalcastillalamancha/cultura/20260510/ciudad-romana-perfecta-recorrer-pie-acoge-cata-vino-queso-horas-mes-mayo-trt/1003744239925_0.amp.html",
+     "https://es.wikipedia.org/wiki/Seg%C3%B3briga",
+     "https://www.segobriga.org/en/?p=1233",
+     "https://www.openstreetmap.org/?mlat=39.8878&mlon=-2.812#map=18/39.8878/-2.812",
+     "https://www.google.com/maps/place/?q=place_id:ChIJoeoAxKQhaA0RF6RbPm75pm4"
+    ]
+   }
+  },
+  {
+   "id": "valeria",
+   "campos": {
+    "estilo": "Arquitectura romana",
+    "texto": {
+     "general": "<p>Valeria ocupa una loma caliza a unos mil metros de altitud, colgada entre las hoces de los ríos <b>Gritos</b> y <b>Zahorra</b>. La fundó entre el <b>93 y el 82 a. C.</b> el cónsul Cayo <b>Valerio Flaco</b>, de quien toma el nombre, en tierras conquistadas a celtíberos y olcades; Augusto la convirtió en municipio, con un recinto amurallado de unas 27 hectáreas.</p><p>Su joya es el <b>ninfeo</b>, una fuente monumental con un canal de <b>105 metros</b>, el mayor conocido de la Hispania romana, con tiendas en uno de sus lados. El <b>foro</b> se monumentalizó entre los años 20 y 50 d. C., con una basílica de tres naves; debajo, cuatro grandes aljibes recogían el agua del acueducto.</p><p>Algunas casas se asomaban al vacío, con vigas empotradas en la roca del acantilado. En época visigoda Valeria fue sede episcopal (se documentan obispos entre el 580 y el 693) y la ciudad se abandonó hacia mediados del siglo IX.</p>"
+    },
+    "ver_alli": [
+     "Recorre el ninfeo de punta a punta para hacerte una idea de su tamaño.",
+     "Asómate a las hoces desde las casas colgadas romanas y desde el cerro de Santa Catalina.",
+     "Lo mejor es empezar por la recepción del yacimiento, en el pueblo de Valeria."
+    ],
+    "fuentes": [
+     "https://visitacuenca.es/sites/cuenca/files/yacimiento_valeria.pdf",
+     "https://www.wikidata.org/wiki/Q6158926",
+     "https://cultura.castillalamancha.es/sites/default/files/2020-07/FICHA%20YACIMIENTO%20DE%20VALERIA%20%20.pdf",
+     "https://es.hispanopedia.com/wiki/Valeria_(ciudad_romana)",
+     "https://es.wikipedia.org/wiki/Valeria_(Cuenca)",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ6XiZi7HyZw0RiPoxpb47gyw"
+    ]
+   }
+  },
+  {
+   "id": "ercavica",
+   "campos": {
+    "estilo": "Ciudad celtíbero-romana",
+    "texto": {
+     "general": "<p>Ercávica se alza en un promontorio sobre el río Guadiela, hoy junto al <b>embalse de Buendía</b>. Ya era una ciudad celtíbera importante cuando, en el <b>179 a. C.</b>, se rindió a Tiberio Sempronio Graco, según cuenta Tito Livio; la ciudad romana conservó su nombre.</p><p>Con <b>Augusto</b> se convirtió en municipio y se levantaron el foro, la basílica y los templos. Acuñó <b>moneda propia</b> con Augusto, Tiberio y Calígula: de este último hay un sestercio con su retrato y sus tres hermanas.</p><p>Desde el siglo III fue decayendo y en los siglos IV-V la ciudad se abandonó, aunque el nombre siguió vivo como sede episcopal visigoda de <b>Arcávica</b>, que acabó trasladándose a Cuenca.</p><p class=\"dato\"><span>¿Sabías que…?</span>La supuesta ciudad celtibérica de la otra orilla, hoy bajo el pantano, resultó ser un campamento de las guerras sertorianas.</p>"
+    },
+    "ver_alli": [
+     "La visita guiada es casi imprescindible para entender las zonas excavadas.",
+     "Fíjate en el foro y en las casas romanas, y asómate a las vistas sobre el embalse de Buendía."
+    ],
+    "fuentes": [
+     "https://www.eldebate.com/espana/castilla-la-mancha/20260728/ciudad-romana-cuenca-acuno-propia-moneda-resurge-junto-embalse-buendia_444182.html",
+     "https://www.wikidata.org/wiki/Q1348600",
+     "https://es.wikipedia.org/wiki/Erc%C3%A1vica",
+     "https://www.google.com/maps/place/?q=place_id:ChIJnzFf7s_EQg0Rk0AfNaziuFg"
+    ]
+   }
+  },
+  {
+   "id": "noheda",
+   "campos": {
+    "estilo": "Villa tardorromana con mosaicos",
+    "texto": {
+     "general": "<p>En 1984, durante unas labores agrícolas de la familia Lledó, dueña de las tierras, apareció un fragmento de mosaico. No se excavó a fondo hasta 2005, y lo que salió fue una gran villa tardorromana, del <b>siglo IV</b>.</p><p>Su sala principal, de unos 300 m² y con exedras en tres de sus lados, conserva uno de los mayores mosaicos figurativos del mundo romano: <b>231 m²</b>, hecho en buena parte con teselas diminutas. En una sola sala se suceden el mito de <b>Pélope</b> y su carrera de carros, dos escenas de <b>pantomima</b>, episodios de la historia de <b>Paris y Helena</b>, un cortejo dionisíaco y motivos marinos.</p><p>Los pleitos sobre la propiedad de los terrenos retrasaron su apertura, que llegó en <b>julio de 2019</b>.</p>"
+    },
+    "ver_alli": [
+     "Recorre el mosaico con calma: busca primero la carrera de carros de Pélope y luego la historia de Paris y Helena.",
+     "Las visitas son guiadas y con grupos reducidos, así que conviene reservar."
+    ],
+    "fuentes": [
+     "https://visitacuenca.es/en/content/what-see-art-and-culture-romes-memory/villa-romana-de-noheda",
+     "https://www.wikidata.org/wiki/Q6162509",
+     "https://es.wikipedia.org/wiki/Villa_romana_de_Noheda"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-belmonte",
+   "campos": {
+    "lat": 39.5579,
+    "lon": -2.6968,
+    "estilo": "Gótico-mudéjar",
+    "texto": {
+     "general": "<p>Lo mandó construir <b>Juan Pacheco</b>, primer marqués de Villena, a partir de <b>1456</b>; las obras, dirigidas por <b>Hanequín de Bruselas</b>, duraron hasta hacia 1468, y en el final intervino probablemente Juan Guas. Más que una fortaleza es un castillo-palacio.</p><p>Su planta es única: un triángulo que se convierte en un polígono de nueve lados, con seis torres en los vértices que dibujan una <b>estrella de seis puntas</b>. Dentro destacan las techumbres <b>gótico-mudéjares</b>; la de la sala de embajadores tiene mocárabes comparables a los de la Alhambra o la Aljafería.</p><p>Hacia 1857 la emperatriz <b>Eugenia de Montijo</b> emprendió su restauración, con galerías de ladrillo neogóticas, que se detuvo en 1870 con la caída del imperio francés. Es Monumento histórico-artístico desde 1931.</p><p class=\"dato\"><span>¿Sabías que…?</span>Ha sido escenario de películas como <i>El Cid</i> (1961), <i>Los señores del acero</i> (1985), en cuyo rodaje se quemó parte de la torre del homenaje, y <i>Juana la Loca</i> (2001).</p>"
+    },
+    "ver_alli": [
+     "Mira hacia arriba en los salones: los artesonados mudéjares son lo mejor del interior.",
+     "Recorre el adarve de la muralla para ver la planta estrellada y las vistas sobre Belmonte.",
+     "Hay bastantes escaleras y pasos estrechos en las torres."
+    ],
+    "fuentes": [
+     "https://castillodebelmonte.com/horario/",
+     "https://es.wikipedia.org/wiki/Castillo_de_Belmonte",
+     "https://www.openstreetmap.org/?mlat=39.5579&mlon=-2.697#map=18/39.5579/-2.697",
+     "https://www.google.com/maps/place/?q=place_id:ChIJL7Hy6_RraA0Rj1X4j-OMzJs"
+    ]
+   }
+  },
+  {
+   "id": "alarcon",
+   "campos": {
+    "lat": 39.5468,
+    "lon": -2.088,
+    "estilo": "Villa medieval amurallada",
+    "texto": {
+     "general": "<p>Alarcón se asienta en un promontorio rodeado casi por completo por un cerrado <b>meandro del Júcar</b>. Su nombre viene del árabe y alude a la fortaleza que dio origen a la villa, que dependió del emirato de Córdoba y luego de la taifa de Toledo.</p><p>El día de san Andrés de <b>1184</b>, tras nueve meses de asedio, la tomó para Alfonso VIII su capitán <b>Fernán Martínez de Ceballos</b>, que desde entonces se apellidó «de Alarcón». En 1305 pasó definitivamente a <b>don Juan Manuel</b>, que vivió aquí y escribió parte de su obra; más tarde fue de los marqueses de Villena, y <b>Juan Pacheco</b> levantó hacia 1460 la torre del homenaje.</p><p>La villa, rodeada de murallas y torres aisladas como la del Alarconcillo y la del Campo, conserva la iglesia de <b>Santa María</b>, con portada plateresca, y la antigua de <b>San Juan Bautista</b>, cubierta por dentro con pinturas murales de <b>Jesús Mateo</b> (1994-2002). Su castillo es <b>parador desde 1966</b>.</p>"
+    },
+    "ver_alli": [
+     "Entra caminando por las puertas de la muralla y sube hasta el castillo, en la punta del promontorio.",
+     "No te pierdas las pinturas murales de Jesús Mateo en San Juan Bautista y la portada plateresca de Santa María.",
+     "Desde el puente y los miradores se ve el meandro del Júcar abrazando la villa."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Alarc%C3%B3n_(Espa%C3%B1a)",
+     "https://es.wikipedia.org/wiki/Castillo_de_Alarc%C3%B3n",
+     "https://www.openstreetmap.org/?mlat=39.5467&mlon=-2.0879#map=18/39.5467/-2.0879",
+     "https://www.google.com/maps/place/?q=place_id:ChIJFw3JszW5Zw0RgCsrpA_5esQ"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-cuenca",
+   "campos": {
+    "lat": 40.0785,
+    "lon": -2.1291,
+    "estilo": "Gótico de influencia anglonormanda; fachada neogótica",
+    "texto": {
+     "general": "<p>Alfonso VIII conquistó Cuenca en <b>1177</b> y la ciudad fue sede episcopal desde 1183. Las obras de la catedral, dedicada a Santa María y San Julián, empezaron hacia <b>1196</b> y la fábrica principal se terminó en 1257. Es, junto con la de Ávila, una de las <b>primeras catedrales góticas de Castilla</b>.</p><p>Su gótico tiene un acento <b>anglonormando</b> y del norte de Francia, emparentado con Laon, Soissons o París, que se atribuye a los caballeros normandos llegados con <b>Leonor Plantagenet</b>, esposa del rey. Del siglo XIII es el triforio, con ventanales y estatuas de ángeles; en el XV se rehízo la cabecera para abrir una doble girola.</p><p>En <b>1902</b> se derrumbó la torre del Giraldo y arrastró parte de la fachada, que <b>Vicente Lampérez</b> reconstruyó en estilo neogótico inspirándose en Reims, con las torres sin terminar. En el siglo XX se añadieron <b>vidrieras abstractas</b> de Gustavo Torner, Bonifacio Alfonso y Gerardo Rueda, realizadas con el maestro vidriero Henri Déchanet.</p>"
+    },
+    "ver_alli": [
+     "Las vidrieras abstractas del siglo XX llenan el interior de color; ve con luz de día.",
+     "Recorre la doble girola y mira el triforio con sus ángeles.",
+     "Desde el claustro y los patios se ven las Casas Colgadas; también se puede subir a una galería interior con vistas a la nave y a la Plaza Mayor."
+    ],
+    "fuentes": [
+     "https://www.catedralcuenca.es/es/visitas-turisticas/tarifas",
+     "https://es.wikipedia.org/wiki/Catedral_de_Santa_Mar%C3%ADa_y_San_Juli%C3%A1n_de_Cuenca",
+     "https://www.openstreetmap.org/?mlat=40.0785&mlon=-2.1291#map=18/40.0785/-2.1291",
+     "https://www.google.com/maps/place/?q=place_id:ChIJKa8cwXNnXQ0RwP1lSviglRU"
+    ]
+   }
+  },
+  {
+   "id": "casco-antiguo-de-cuenca-y-casas-colgadas",
+   "campos": {
+    "lat": 40.0778,
+    "lon": -2.1284,
+    "estilo": "Arquitectura medieval y popular sobre la hoz",
+    "texto": {
+     "general": "<p>La ciudad antigua de Cuenca ocupa un espolón rocoso entre las hoces del Júcar y del Huécar. La ciudad amurallada, con su catedral gótica y sus casas colgadas, es <b>Patrimonio Mundial desde 1996</b>.</p><p>Las <b>Casas Colgadas</b> se asoman a la cornisa de la hoz del <b>Huécar</b> con balcones de madera sobre el vacío. Están documentadas al menos desde el siglo XV, y fueron viviendas y también casa consistorial. En los años veinte del siglo pasado aún quedaban ocho; hoy se conservan tres: la <b>Casa de la Sirena</b> y las dos <b>Casas de los Reyes</b>.</p><p>Se restauraron en los años veinte y de nuevo en 1966, cuando abrió en ellas el <b>Museo de Arte Abstracto Español</b>, gestionado hoy por la Fundación Juan March. En 2016 fueron declaradas Bien de Interés Cultural.</p>"
+    },
+    "ver_alli": [
+     "La mejor vista de las Casas Colgadas es desde el puente de San Pablo, al otro lado de la hoz.",
+     "Dentro está el Museo de Arte Abstracto Español: desde sus salas se mira el vacío desde los balcones.",
+     "Callejea por la ciudad alta entre la Plaza Mayor y el castillo; hay muchas cuestas."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Casas_Colgadas",
+     "https://www.openstreetmap.org/?mlat=40.0778&mlon=-2.1283#map=18/40.0778/-2.1283",
+     "https://www.google.com/maps/place/?q=place_id:ChIJo0P1sHNnXQ0R1cGYTmDevKM"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-ucles",
+   "campos": {
+    "lat": 39.9802,
+    "lon": -2.8634,
+    "estilo": "Plateresco, herreriano y churrigueresco",
+    "texto": {
+     "general": "<p>En <b>1174</b> Alfonso VIII entregó el castillo de Uclés a la <b>Orden de Santiago</b>, que lo convirtió en su casa madre, <i>Caput Ordinis</i>. El cerro había tenido antes un castro celtíbero y una fortaleza musulmana.</p><p>El monasterio actual se empezó el <b>7 de mayo de 1529</b>, con Carlos I, sobre trazas de <b>Enrique Egas</b>. Por eso mezcla estilos: el ala este es <b>plateresca</b>; la iglesia, terminada hacia 1600 y obra de discípulos de Juan de Herrera, es <b>herreriana</b>; el patio, con dos pisos de galerías, es del siglo XVII; y la fachada principal, de <b>Pedro de Ribera</b> (1735), es <b>churrigueresca</b>. Por su tamaño y por su iglesia lo llaman «El Escorial de La Mancha».</p><p>Tuvo una historia posterior dura: en 1939 fue campo de concentración y cárcel de presos republicanos, y entre 1949 y 2012 seminario menor. Es Monumento Nacional desde 1931.</p><p class=\"dato\"><span>¿Sabías que…?</span>Jorge Manrique, el autor de las <i>Coplas por la muerte de su padre</i>, fue enterrado en la antigua iglesia de Santiago de Uclés, aunque hoy no se sabe con exactitud dónde están sus restos.</p>"
+    },
+    "ver_alli": [
+     "La fachada churrigueresca de Pedro de Ribera, con la inscripción «Caput Ordinis».",
+     "El patio de dos pisos de galerías y la iglesia herreriana, con su cúpula.",
+     "La visita es guiada; desde el cerro hay buenas vistas sobre el pueblo."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monasterio_de_Ucl%C3%A9s",
+     "https://www.openstreetmap.org/?mlat=39.9803&mlon=-2.8635#map=18/39.9803/-2.8635",
+     "https://www.google.com/maps/place/?q=place_id:ChIJdTSYOdGdQg0RfP_SCeuQE7s"
+    ]
+   }
+  },
+  {
+   "id": "mupa-cuenca",
+   "campos": {
+    "estilo": "Museo de paleontología en edificio contemporáneo (2015)",
+    "ver_alli": [
+     "El esqueleto original de Concavenator y los fósiles de Las Hoyas.",
+     "Titanosaurios y cocodrilos de Lo Hueco.",
+     "Jardín con dinosaurios a tamaño real y una gran vista del casco antiguo de Cuenca."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Museo_Paleontol%C3%B3gico_de_Castilla-La_Mancha",
+     "https://guias-viajar.com/turismo-espana/visitar-castilla-la-mancha/cuenca-museo-paleontologico-horarios-precios/",
+     "https://Www.atlasobscura.Com/places/castilla-la-mancha-paleontological-museum",
+     "https://www.openstreetmap.org/?mlat=40.0694&mlon=-2.1293#map=18/40.0694/-2.1293",
+     "https://www.google.com/maps/place/?q=place_id:ChIJl0ModGxnXQ0RVzG1pSIdXdA"
+    ]
+   }
+  }
+ ]
+}
