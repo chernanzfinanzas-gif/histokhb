@@ -108,3 +108,27 @@
 - **Hecho:** publicados **med1** y las entregas de lugares de Asturias, Teruel, Guadalajara, La Rioja y Álava. «Aquí» tiene ya 2.685 lugares. Sincronía medieval corregida con las dudas de med5 (Zheng He, Kongo 1491, Ceuta 1668, Mistrá 1460, Machu Picchu 1420-1450, Tenochtitlan).
 - **Respuesta a «lugares»:** (1) Santa María de los Arcos (Tricio): sí, época «Visigodo» y `anio` 600 como orientativo; en el texto, «siglos V-VII». (2) Recópolis: sí, quita la repetición. (3) Salinas de Imón: pásala a `monumento` con época «Siglo XIX» o la que diga la fuente (son salinas históricas, con origen medieval y fábrica moderna); el párrafo geológico puede quedarse. Todo en una entrega `correcciones-3`.
 - **Aviso a «contenidos»:** las 20 fichas nuevas de ant5 ya se ven en la app (llegaron con med1) con lámina pero **sin voz**. Cuando hagas el TODO-LISTO de ant5, lo publico.
+
+### 18-oct-2026 · 13:25 · Chat «montaje»
+- **Hecho:** **ant5 publicado**. La Edad Antigua está completa.
+- **Problema encontrado y resuelto:** al unir las ramas con `git merge`, cada rama traía los datos de los otros capítulos tal como estaban en su copia. Así, la unión de med1 dejó a **ant3 y ant4 sin sus audios en `audio.json`** (los mp3 estaban bien) y la de ant5 iba a devolver med1 a su versión vieja. Ya está restaurado todo: ant1-ant5 y med1 tienen todas sus voces.
+- **Cómo uno desde ahora:** con `herramientas/unir_capitulo.py <rama> <capítulo> <desarrollos>`. De tu rama tomo **solo** las fichas, los desarrollos y los audios de ese capítulo, y de lo demás solo sumo entradas nuevas, sin cambiar nada. Los mp3, láminas y vídeos también los traigo solo los de ese capítulo.
+- **Petición para «contenidos»:** sigue igual, pero en cada TODO-LISTO di en el asunto la lista exacta de **desarrollos** del capítulo (ya lo haces) y, si tocas lugares o etiquetas de otros capítulos a propósito (como las correcciones extendidas a lugares), dilo en el commit para que lo traiga a mano.
+
+### 18-oct-2026 · 13:20 · Chat «montaje» (tarea programada de comprobación)
+- **Hecho:** foro/correcciones-med4.md — 6 errores, 5 detalles.
+- **Hecho:** foro/correcciones-med5.md — 6 errores, 4 detalles.
+- **Petición para «contenidos»:** aplicar esas correcciones; si los audios ya están grabados, rehacer solo los niveles tocados con NIVELES= en herramientas/voces.py.
+
+### 18-oct-2026 · 13:40 · Chat «montaje»
+- **Leído:** `de-lugares.md` entero. Perdona: tu petición de las 09:40 sobre los 12 lugares con centro de interpretación se me pasó.
+- **Respuesta (12 lugares con centro de interpretación):** sí, **corrígelos al monumento o yacimiento**. El mapa debe señalar lo que se visita; el centro de interpretación se menciona en `ver_alli` con su distancia («el centro de interpretación está en X, a 2 km»). Cancho Roano ya lo has hecho así.
+- **Respuesta (Paredes de Nava):** sí, `santa-eulalia-de-paredes-de-nava` pasa a «Renacimiento», con el año de la iglesia actual.
+- **Hecho (duplicados):** `herramientas/unir_lugares.py` ya admite un apartado `"borrar":[{"id":"x","en":"y"}]`, que pasa los eventos de x a y y quita x. Con mi entrega `montaje-2` quito `basilica-de-santa-eulalia-de-merida` (me quedo con la de «contenidos»), `monasterio-de-yuste-cuacos-de-yuste` (me quedo con `monasterio-de-yuste`, de texto más largo y con la misma coordenada) y `uruk-warka-me`. Si encuentras más duplicados, mándalos tú directamente con `borrar` en tus entregas.
+- **Museo de Guadalajara:** sí, añade un párrafo sobre él en la ficha del Palacio del Infantado (vía `cambios`).
+
+### 18-oct-2026 · 14:25 · Chat «montaje»
+- **Leído:** `de-contenidos.md` hasta 14:20.
+- **Respuesta (comprobación de c1789 y c1808):** la comprobación automática solo mira ramas con un commit cuyo asunto empiece por `TEXTOS-LISTOS`. Haz en cada rama un commit (vale vacío: `git commit --allow-empty`) con asunto `TEXTOS-LISTOS c1789` y `TEXTOS-LISTOS c1808`, y en el cuerpo la lista de desarrollos. En menos de una hora tendrás `correcciones-c1789.md` y `correcciones-c1808.md`.
+- **DUDA para Carlos (formato de con1-con5):** se la he pasado. Mientras no conteste, sigue como propones: **por temas**, empezando con1 en 1830.
+- **Hecho:** publicado med2. Unido con `unir_capitulo.py`, sin tocar otros capítulos; comprobado que todos conservan sus voces.
