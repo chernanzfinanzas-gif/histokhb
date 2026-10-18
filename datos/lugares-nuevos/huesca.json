@@ -1,0 +1,1240 @@
+{
+ "zona": "Huesca",
+ "nuevos": [
+  {
+   "id": "museo-de-huesca",
+   "nombre": "Museo de Huesca",
+   "provincia": "Huesca",
+   "comarca": "Huesca (Hoya de Huesca)",
+   "lat": 42.1422,
+   "lon": -0.4087,
+   "tipo": "museo",
+   "estilo": "Románico (palacio) y barroco (Universidad Sertoriana)",
+   "epoca": "Románico",
+   "anio": 1873,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>El <b>Museo de Huesca</b> nació en <b>1873</b> con las obras de arte que la desamortización de 1835 sacó de los monasterios y conventos del Alto Aragón, y con el empuje del artista oscense <b>Valentín Carderera</b>. Desde 1967 ocupa dos edificios unidos: la antigua <b>Universidad Sertoriana</b>, barroca, levantada en 1690 por Francisco de Artiga en torno a un insólito <b>patio octogonal</b>, y lo que queda del <b>palacio de los reyes de Aragón</b>.</p><p>Del palacio, románico, se conservan la torre y varias salas. En la planta baja está la <b>Sala de la Campana</b>, escenario de la leyenda según la cual <b>Ramiro II el Monje</b> mandó decapitar a trece nobles rebeldes con la excusa de fundir una campana que se oyera en todo el reino. Encima, la <b>Sala de doña Petronila</b>, con arquerías ciegas y capiteles románicos, donde según la tradición se celebraron los esponsales de Petronila con Ramón Berenguer IV, conde de Barcelona.</p><p>Las colecciones recorren la historia de la provincia: arqueología desde la prehistoria, piezas íberas y romanas, el tejido islámico conocido como <b>Tiraz de Colls</b>, tablas del <b>Maestro de Sijena</b> y obras de Goya, Ramón Bayeu o Ramón Acín.</p><p class=\"dato\"><span>¿Sabías que…?</span>En 1611 Felipe III cedió el viejo palacio real a la Universidad, que derribó gran parte de él para levantar el edificio que hoy es el museo.</p>"
+   },
+   "ver_alli": [
+    "El patio octogonal de la Universidad Sertoriana.",
+    "La Sala de la Campana, con su bóveda de crucería y sus dos pequeños ábsides.",
+    "Los capiteles románicos de la Sala de doña Petronila.",
+    "Las tablas del Maestro de Sijena en la sección de Bellas Artes."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Huesca",
+    "https://es.wikipedia.org/wiki/Palacio_de_los_Reyes_de_Arag%C3%B3n",
+    "https://es.wikipedia.org/wiki/Campana_de_Huesca",
+    "https://www.wikidata.org/wiki/Q6033131"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "ciudadela-de-jaca",
+   "nombre": "Ciudadela de Jaca",
+   "provincia": "Huesca",
+   "comarca": "Jaca (La Jacetania)",
+   "lat": 42.5723,
+   "lon": -0.5521,
+   "tipo": "castillo",
+   "estilo": "Fortificación abaluartada renacentista",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1592,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>La <b>Ciudadela de Jaca</b>, llamada hasta el siglo XIX castillo de San Pedro, es una fortaleza de traza italiana con forma de <b>estrella de cinco puntas</b>. La mandó construir <b>Felipe II</b> a finales de <b>1592</b>, tras los disturbios por la huida de Antonio Pérez, para vigilar los pasos hacia Francia. El proyecto fue del ingeniero italiano <b>Tiburzio Spannocchi</b>.</p><p>Se conserva <b>prácticamente intacta</b>: foso, cinco baluartes (Santa Bárbara, España, San Francisco, Santa Orosia y San Pedro), escarpas, cuarteles, polvorines y túneles. Se entra cruzando el foso por un puente de tres arcos y un puente levadizo. El foso, de 1066 metros de perímetro, nunca se pensó para llenarse de agua.</p><p>Tuvo uso militar hasta 2008. En la Guerra de la Independencia la guarnición se rindió a Suchet en 1809, y durante la Guerra Civil su planta baja sirvió de campo de concentración de prisioneros republicanos. Hoy acoge el <b>Museo de Miniaturas Militares</b>, con más de 35.000 figuras de plomo.</p><p class=\"dato\"><span>¿Sabías que…?</span>En el foso de la ciudadela vive hoy una manada de ciervos.</p>"
+   },
+   "ver_alli": [
+    "El puente de tres arcos y el levadizo de la entrada.",
+    "Los baluartes vistos desde el paseo de ronda.",
+    "La capilla barroca de San Pedro (1679), con columnas salomónicas.",
+    "Los ciervos del foso."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Ciudadela_de_Jaca",
+    "https://www.wikidata.org/wiki/Q206245"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-sigena",
+   "nombre": "Real Monasterio de Santa María de Sigena",
+   "provincia": "Huesca",
+   "comarca": "Villanueva de Sigena (Los Monegros)",
+   "lat": 41.7095,
+   "lon": -0.019,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "anio": 1188,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>El monasterio de <b>Sigena</b> (o Sijena) lo fundó la reina <b>Sancha de Castilla</b>, esposa de Alfonso II de Aragón, para monjas de la <b>Orden de San Juan de Jerusalén</b>. Las obras empezaron hacia 1183 y la iglesia se consagró en <b>1188</b>. Sus «dueñas» salían de la realeza y de los grandes linajes aragoneses, y lo gobernaban las prioras.</p><p>Fue <b>panteón real</b>: allí reposan la propia Sancha y su hijo <b>Pedro II</b>, muerto en la batalla de Muret en 1213, cuyos restos trajeron las monjas desde Toulouse. En el siglo XIV, con la infanta Blanca de Aragón como priora, se llenó de tapices, retablos y pinturas.</p><p>En agosto de <b>1936</b> fue incendiado y arrasado; solo se salvaron la <b>iglesia románica</b> y el panteón. Las famosas pinturas murales de la sala capitular se arrancaron ese mismo año para protegerlas y han sido objeto de un largo pleito del Gobierno de Aragón y el Ayuntamiento de Villanueva de Sijena con el Museo Nacional de Arte de Cataluña. Desde 1985 vive en él una comunidad de la Familia monástica de Belén.</p>"
+   },
+   "ver_alli": [
+    "La portada románica de la iglesia, con el arcosolio vacío a su lado.",
+    "El interior en cruz latina con bóvedas de cañón apuntadas.",
+    "El panteón real, con las tumbas de la reina Sancha y Pedro II.",
+    "El claustro, reconstruido por Chueca Goitia en 1974."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Real_Monasterio_de_Santa_Mar%C3%ADa_de_Sigena",
+    "https://www.wikidata.org/wiki/Q3572674"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-montearagon",
+   "nombre": "Castillo de Montearagón",
+   "provincia": "Huesca",
+   "comarca": "Quicena (Hoya de Huesca)",
+   "lat": 42.1535,
+   "lon": -0.3448,
+   "tipo": "castillo",
+   "estilo": "Románico",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1086,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Sobre un monte redondo a las puertas de Huesca, <b>Sancho Ramírez</b> levantó un castillo-abadía como baluarte cristiano frente a la Huesca musulmana. En mayo de 1085 el rey acampaba aquí y en <b>1086</b> ya se construía dentro la iglesia de Jesús Nazareno; en 1089 se instalaron canónigos regulares de San Agustín. Fue a la vez fortaleza y <b>abadía real</b>: en el siglo XII dependían de ella 104 iglesias y villas, y su abad tenía asiento en las Cortes.</p><p>Aquí fue enterrado al principio <b>Alfonso I el Batallador</b>, muerto en 1134; sus restos se llevaron a San Pedro el Viejo de Huesca en 1843. Un incendio en 1477 destruyó el retablo mayor, que fue sustituido por uno de alabastro terminado en 1495.</p><p>La desamortización de 1835 acabó con la vida monástica y el conjunto quedó en ruinas. Fue declarado Monumento Nacional en 1931. Hoy su silueta, con la <b>torre albarrana</b>, la del homenaje y parte de la muralla, se ve desde gran parte de la comarca.</p>"
+   },
+   "ver_alli": [
+    "La torre albarrana y la torre del homenaje.",
+    "Las vistas sobre la Hoya de Huesca, la sierra de Guara y el Salto de Roldán."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Montearag%C3%B3n",
+    "https://www.wikidata.org/wiki/Q2970002"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-abizanda",
+   "nombre": "Castillo de Abizanda",
+   "provincia": "Huesca",
+   "comarca": "Abizanda (Sobrarbe)",
+   "lat": 42.2432,
+   "lon": 0.1978,
+   "tipo": "castillo",
+   "estilo": "Románico lombardo",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1023,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>La <b>torre de Abizanda</b> domina el pueblo desde lo alto y es uno de los mejores ejemplos de <b>donjón</b> (gran torre fuerte) del Alto Aragón. Mide <b>24 metros</b> y su puerta se abre a <b>7 metros</b> del suelo, para entrar solo con escalera de mano.</p><p>Se asocia a la línea de torres que <b>Sancho III el Mayor</b> levantó hacia <b>1023</b> frente a la frontera musulmana, para vigilar el valle del Cinca. Su construcción se atribuye a maestros lombardos y tuvo dos fases: una del siglo X, destruida en 1006, y otra de la primera mitad del XI. En 1413 fue sitiada en la revuelta del conde de Urgel.</p><p>La restauró el Gobierno de Aragón entre 1987 y 1990 y hoy es una de las sedes del <b>Museo de Creencias y Religiosidad Popular del Pirineo Central</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>En su quinta planta conserva un cadalso, una galería de madera volada que recorre todo el perímetro para defender la base.</p>"
+   },
+   "ver_alli": [
+    "La torre vista desde la entrada del pueblo.",
+    "La puerta elevada a siete metros.",
+    "El cadalso de madera de la quinta planta.",
+    "Los restos del recinto y la iglesia del siglo XVI junto a la torre."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Abizanda",
+    "https://www.wikidata.org/wiki/Q3572793"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-pedro-de-larrede",
+   "nombre": "Iglesia de San Pedro de Lárrede",
+   "provincia": "Huesca",
+   "comarca": "Lárrede, Sabiñánigo (Alto Gállego)",
+   "lat": 42.5543,
+   "lon": -0.318,
+   "tipo": "iglesia",
+   "estilo": "Románico (grupo de Serrablo)",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p><b>San Pedro de Lárrede</b> se considera el modelo de las <b>iglesias de Serrablo</b>, el grupo de templos del valle del Gállego que se fecha hacia <b>mediados del siglo XI</b>. Está a unos 200 metros del caserío de Lárrede, a unos 7 km de Sabiñánigo.</p><p>Tiene los rasgos de la familia: ninguna escultura, arcos de medio punto o ligeramente apuntados enmarcados por una moldura, y en el ábside una arquería con un friso de <b>baquetones verticales</b> a modo de cornisa. Lárrede es la excepción en planta, porque es de <b>cruz latina</b>, fruto de una ampliación que convirtió la base de la torre en capilla.</p><p>Los historiadores no se ponen de acuerdo sobre su origen: unos ven una arquitectura <b>mozárabe</b> y otros un primer <b>románico lombardo</b> con tradiciones locales. No hay documentos de la época; el grupo se redescubrió a principios del siglo XX. Fue declarada monumento en 1931 y restaurada en 1933.</p>"
+   },
+   "ver_alli": [
+    "El ábside con su arquería y el friso de baquetones.",
+    "La planta en cruz latina, rara en el grupo.",
+    "El centro de interpretación de las iglesias de Serrablo, junto a la iglesia."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Pedro_(L%C3%A1rrede)",
+    "https://www.wikidata.org/wiki/Q4269233"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-juan-de-busa",
+   "nombre": "Iglesia de San Juan de Busa",
+   "provincia": "Huesca",
+   "comarca": "Biescas (Alto Gállego)",
+   "lat": 42.5646,
+   "lon": -0.3129,
+   "tipo": "iglesia",
+   "estilo": "Románico (grupo de Serrablo)",
+   "epoca": "Románico",
+   "anio": 1060,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Solitaria en el camino que sube de Lárrede a Oliván, <b>San Juan de Busa</b> fue probablemente la parroquia de un poblado medieval desaparecido. La mandó construir <b>Ramón Guillén</b> entre <b>1060 y 1070</b>, y comparte el estilo del resto de iglesias de Serrablo.</p><p>No tiene torre y su única nave conserva una <b>cubierta de madera a dos aguas</b>, como quizá tuvo también San Pedro de Lárrede antes de su restauración de 1933. El ábside, algo menor que un semicírculo, luce el friso de baquetones, arcos ciegos y lesenas característicos del valle.</p><p>Lo más sorprendente está en la portada sur: la arquivolta exterior lleva una inscripción en <b>caracteres cúficos</b> que dice «La ilaha illa Allah», «No hay (otro) dios que Alá».</p>"
+   },
+   "ver_alli": [
+    "La inscripción cúfica en la arquivolta exterior de la portada.",
+    "El ábside con friso de baquetones y arcos ciegos.",
+    "La techumbre de madera de la nave."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Juan_de_Busa",
+    "https://www.wikidata.org/wiki/Q2219740"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-bartolome-de-gavin",
+   "nombre": "Iglesia de San Bartolomé de Gavín",
+   "provincia": "Huesca",
+   "comarca": "Gavín, Biescas (Alto Gállego)",
+   "lat": 42.6281,
+   "lon": -0.2726,
+   "tipo": "iglesia",
+   "estilo": "Mozárabe o románico (grupo de Serrablo)",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>De la población a la que servía solo queda esta iglesia, cerca de Gavín. Se fecha en el <b>siglo X o XI</b> y es del grupo de <b>Serrablo</b>, aunque se discute si es mozárabe o románica.</p><p>Lo original es la <b>torre</b>; la nave, de cabecera recta, y su cubierta se reconstruyeron en una restauración moderna a partir de la planta. La torre tiene dos cuerpos: el inferior, con dos rosetas enmarcadas, y el superior, con una ventana de <b>tres arcos de herradura</b> sobre dos columnas, rematada por el friso de baquetones típico del valle.</p><p>Entre la torre y la nave hay un paso abovedado con una puerta en <b>arco de herradura</b>, que se ha relacionado con lo visigodo, lo mozárabe o lo islámico.</p>"
+   },
+   "ver_alli": [
+    "La ventana de tres arcos de herradura de la torre.",
+    "Las dos rosetas del primer cuerpo.",
+    "La puerta en herradura entre torre y nave."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Bartolom%C3%A9_(Gav%C3%ADn)",
+    "https://www.wikidata.org/wiki/Q6118462"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-san-victorian",
+   "nombre": "Real Monasterio de San Victorián",
+   "provincia": "Huesca",
+   "comarca": "El Pueyo de Araguás (Sobrarbe)",
+   "lat": 42.4575,
+   "lon": 0.2213,
+   "tipo": "iglesia",
+   "estilo": "Renacentista con restos románicos",
+   "epoca": "Renacimiento",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>A <b>1200 metros</b> de altitud, al pie de la Peña Montañesa y a 14 km de Aínsa, está uno de los monasterios con más leyenda de Aragón. La tradición lo hace remontar al <b>siglo VI</b>, ligado al eremita italiano <b>san Victorián</b>, y lo tuvo por panteón de los míticos reyes de Sobrarbe. Documentalmente, sin embargo, solo se puede confirmar desde el <b>siglo X</b>.</p><p>Con <b>Sancho Ramírez</b> se convirtió en un gran señorío y en apoyo del poder real en el Pirineo oriental aragonés. La mayor parte de lo que se ve es del <b>siglo XVI</b>, aunque en el lado oriental quedan restos del XI, incluida la torre. Tras la desamortización de 1835 y el vaciado de los años 50 —el retablo mayor fue a la catedral de Barbastro— quedó muy dañado.</p><p>El Gobierno de Aragón lo restauró entre 2009 y 2018 (iglesia, torre, claustro, biblioteca y refectorio) y desde 2011 se hacen visitas guiadas.</p>"
+   },
+   "ver_alli": [
+    "El emplazamiento a los pies de la Peña Montañesa.",
+    "El claustro de dos pisos con arcos de medio punto.",
+    "La torre y los restos medievales del lado oriental.",
+    "La muralla que cierra el recinto."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Real_Monasterio_de_San_Victori%C3%A1n",
+    "https://www.wikidata.org/wiki/Q3571157"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "catedral-de-barbastro",
+   "nombre": "Catedral de Barbastro",
+   "provincia": "Huesca",
+   "comarca": "Barbastro (Somontano)",
+   "lat": 42.036,
+   "lon": 0.1224,
+   "tipo": "iglesia",
+   "estilo": "Gótico tardío (iglesia de salón)",
+   "epoca": "Gótico",
+   "anio": 1517,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>La catedral de <b>Santa María de la Asunción</b> se levantó entre <b>1517 y 1533</b>, pagada por el concejo para que Barbastro recuperase la sede episcopal perdida en 1149 (la recobró en 1573). Está en el solar de una iglesia consagrada en 1101, construida a su vez sobre la mezquita mayor.</p><p>Es una <b>iglesia de salón</b>: tres naves de la misma altura cubiertas por <b>bóvedas de crucería estrellada</b> que se apoyan en seis esbeltas columnas de unos 15 metros. Las formas son góticas, pero el espacio diáfano anuncia ya el Renacimiento. Intervinieron Juan de Segura y Juan de Sariñena.</p><p>El <b>retablo mayor</b>, de alabastro y madera policromada, tiene parte del banco obra de <b>Damián Forment</b>, el gran escultor de la Corona de Aragón en el siglo XVI; lo continuó su discípulo Juan de Liceyre y se terminó entre 1600 y 1602.</p>"
+   },
+   "ver_alli": [
+    "Las seis columnas y las bóvedas estrelladas desde los pies.",
+    "El banco de alabastro del retablo mayor, de Damián Forment.",
+    "Las portadas barrocas de las capillas del Santo Cristo de los Milagros y de San Carlos Borromeo.",
+    "La torre campanario exenta."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_de_Barbastro",
+    "https://www.wikidata.org/wiki/Q2942584"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "concatedral-de-monzon",
+   "nombre": "Concatedral de Santa María del Romeral",
+   "provincia": "Huesca",
+   "comarca": "Monzón (Cinca Medio)",
+   "lat": 41.9101,
+   "lon": 0.1944,
+   "tipo": "iglesia",
+   "estilo": "Románico, con torre mudéjar",
+   "epoca": "Románico",
+   "anio": 1098,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Se empezó tras la conquista cristiana de Monzón en <b>1089</b>; hay noticia de una consagración en <b>1098</b> y las obras siguieron durante la primera mitad del siglo XII. Comparte con Barbastro la sede de la diócesis de Barbastro-Monzón.</p><p>En la Edad Media acogió varias veces las <b>Cortes</b> del reino de Aragón y de la Corona, que se celebraban a menudo en Monzón. Por dentro conserva la pureza del románico: tres naves de altura casi igual con <b>bóvedas de cañón</b> sobre enormes pilares.</p><p>En el siglo XVII se perdió el claustro románico y se construyeron la cripta y la <b>torre mudéjar</b> sobre el crucero. El atrio de entrada es de 1681.</p>"
+   },
+   "ver_alli": [
+    "La cabecera: los ábsides medievales junto a la torre mudéjar.",
+    "Las bóvedas de cañón y los grandes pilares de las naves.",
+    "La capilla gótica del bautismo, a la izquierda de la entrada."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Concatedral_de_Santa_Mar%C3%ADa_del_Romeral_(Monz%C3%B3n)",
+    "https://www.wikidata.org/wiki/Q2942734"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-benabarre",
+   "nombre": "Castillo de Benabarre",
+   "provincia": "Huesca",
+   "comarca": "Benabarre (Ribagorza)",
+   "lat": 42.107,
+   "lon": 0.4824,
+   "tipo": "castillo",
+   "estilo": "Medieval, reformado en los siglos XVII y XIX",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1062,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>El castillo de los <b>condes de Ribagorza</b> ocupa un cerro alargado sobre Benabarre. Su origen es musulmán: el lugar fortificado se llamaba <b>Ibn Awar</b>, de donde probablemente viene el nombre del pueblo. En <b>1062</b> lo conquistó <b>Ramiro I</b>, que mandó levantar un castillo cristiano con su iglesia románica.</p><p>En 1322 Jaime II restauró el condado de Ribagorza para su hijo Pedro, que hizo de Benabarre su capital: el castillo pasó a ser residencia condal y la iglesia se transformó en un gran templo gótico. Entre 1577 y 1589 fue escenario de la <b>Guerra de Ribagorza</b>; en 1596 Felipe II incorporó el condado a la Corona y desmanteló la fortaleza.</p><p>Se reconstruyó en el siglo XVII ante la sublevación de Cataluña y en el XIX se adaptó como fuerte de fusileros. Fue declarado bien de interés cultural en 2006.</p>"
+   },
+   "ver_alli": [
+    "La subida por la escalera protegida por un muro.",
+    "Los restos de la iglesia gótica convertida en pabellón militar.",
+    "Las vistas hacia Purroy y Pilzán, con los que tenía contacto visual."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Benabarre",
+    "https://www.wikidata.org/wiki/Q5757151"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-miguel-de-foces",
+   "nombre": "Iglesia de San Miguel de Foces",
+   "provincia": "Huesca",
+   "comarca": "Ibieca (Hoya de Huesca)",
+   "lat": 42.1477,
+   "lon": -0.195,
+   "tipo": "iglesia",
+   "estilo": "Románico de transición al gótico, pinturas góticas lineales",
+   "epoca": "Gótico",
+   "anio": 1249,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>En pleno campo, a dos kilómetros de Ibieca, se alza el panteón que <b>Jimeno de Foces</b>, noble de la corte de <b>Jaime I</b>, mandó levantar para su familia. Se empezó en <b>1249</b> y estaba terminado en <b>1259</b>; luego lo donó a la Orden de San Juan de Jerusalén. Es Monumento Nacional desde 1916.</p><p>La rapidez de la obra se nota en su unidad: los primeros tramos de la nave tienen bóvedas románicas apuntadas, y en el <b>crucero</b> se ve con claridad el paso al <b>gótico</b>. La portada sur, con cuatro arquivoltas en dientes de sierra, puntas de diamante y arcos de herradura, se ha relacionado con la puerta del Palau de la catedral de Valencia, ciudad que gobernó Jimeno por delegación del rey.</p><p>Su joya son las <b>pinturas murales</b> de principios del siglo XIV, del llamado <b>Maestro de Foces</b>, en los arcosolios de los sepulcros familiares. Las del muro sur conservan dibujo y color de forma excepcional: un Crucificado con la Virgen y san Juan y una cartela que fecha la muerte de Atho de Foces en 1302.</p><p class=\"dato\"><span>¿Sabías que…?</span>En el muro sur hay grabado un reloj de sol que marca con iniciales las horas de la jornada monástica: Prima, Tercia, Mediodía, Nona y Vísperas.</p>"
+   },
+   "ver_alli": [
+    "La portada sur y sus capiteles vegetales.",
+    "Las pinturas del muro sur del crucero, muy bien conservadas.",
+    "El reloj de sol con el escudo de la Orden de San Juan.",
+    "La ventanita de la puerta oeste para mirar el interior."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Miguel_(Foces)",
+    "https://www.wikidata.org/wiki/Q3180913"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-marcuello",
+   "nombre": "Castillo de Marcuello",
+   "provincia": "Huesca",
+   "comarca": "Sarsamarcuello, Loarre (Hoya de Huesca)",
+   "lat": 42.3252,
+   "lon": -0.6914,
+   "tipo": "castillo",
+   "estilo": "Románico",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1074,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Encaramado en un espolón sobre los <b>Mallos de Riglos</b>, Marcuello formaba con Loarre, Agüero, Murillo y Ayerbe el gran grupo de castillos del Prepirineo central aragonés. Lo fundó muy probablemente <b>Sancho Ramírez</b> antes de <b>1074</b>, cuando ya lo custodiaba Pedro Sánchez.</p><p>Su emplazamiento supera incluso al de Loarre en visibilidad: desde aquí se dominaba toda la salida del Gállego hacia la llanura. Sobre la meseta del espolón quedan las ruinas de la torre y de <b>dos iglesias románicas</b>.</p><p>La torre fue un <b>donjón cuadrado de 11 metros de lado</b> y cinco plantas, algo insólito en el siglo XI. Hoy solo se mantiene en pie una pared y fragmentos de las laterales; estaba ya arruinado en 1808.</p>"
+   },
+   "ver_alli": [
+    "Las vistas sobre los Mallos de Riglos y el Gállego.",
+    "La pared que queda en pie de la torre, con saeteras.",
+    "Las ruinas de las dos iglesias románicas del espolón."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Marcuello",
+    "https://www.wikidata.org/wiki/Q5757427"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "villa-fortunatus",
+   "nombre": "Villa Fortunatus",
+   "provincia": "Huesca",
+   "comarca": "Fraga (Bajo Cinca)",
+   "lat": 41.5563,
+   "lon": 0.3186,
+   "tipo": "yacimiento",
+   "estilo": "Romano",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>A orillas del Cinca, a unos 4 km de Fraga, están las ruinas de una de las <b>villas rústicas romanas</b> más importantes de Aragón. Se construyó en el <b>siglo II</b> y se amplió a finales del III y principios del IV, cuando la zona estaba repartida en grandes fincas de terratenientes.</p><p>Se reconoce el <b>peristilo</b> de 20,5 × 17 metros, con bases de columnas, y el jardín central con un estanque decorado con frescos marinos y un pozo. Al sur estaba el salón de recepciones, al oeste las habitaciones de los dueños y al este las termas.</p><p>La villa debe su nombre a un <b>mosaico del siglo IV</b> con la inscripción <b>FORTV–NATVS</b> junto a un crismón cristiano; se discute si alude al dueño, Fortunato, o a un culto pagano. La mayor parte de sus mosaicos, incluido un <b>calendario agrícola</b>, se conservan en el Museo de Zaragoza.</p>"
+   },
+   "ver_alli": [
+    "El peristilo con las bases de las columnas.",
+    "Los mosaicos geométricos en blanco y negro de la galería.",
+    "Los dos meses del calendario agrícola que quedan in situ."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Villa_Fortunatus",
+    "https://www.openstreetmap.org/search?query=Villa%20Fortunatus%20Fraga"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-nuevo-de-san-juan-de-la-pena",
+   "nombre": "Monasterio Nuevo de San Juan de la Peña",
+   "provincia": "Huesca",
+   "comarca": "Jaca (La Jacetania)",
+   "lat": 42.5081,
+   "lon": -0.666,
+   "tipo": "iglesia",
+   "estilo": "Barroco",
+   "epoca": "Barroco",
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Tras los devastadores incendios de 1494 y, sobre todo, de <b>1675</b>, que dejó inhabitable el monasterio viejo bajo la roca, los monjes se trasladaron a una <b>meseta más arriba</b> de la montaña y levantaron un nuevo monasterio, el <b>Monasterio Nuevo</b> o Alto.</p><p>Su <b>iglesia barroca</b> alberga hoy el <b>Centro de Interpretación del Reino de Aragón</b>, con un audiovisual sobre la historia del conjunto proyectado en pantallas adaptadas a la arquitectura del templo. Un <b>suelo de cristal</b> permite ver los restos de las antiguas dependencias del propio monasterio.</p><p>Es el complemento natural de la visita al monasterio viejo, considerado por la tradición la cuna del reino de Aragón.</p>"
+   },
+   "ver_alli": [
+    "La fachada barroca de la iglesia.",
+    "El suelo de cristal sobre las dependencias excavadas.",
+    "El audiovisual del Centro de Interpretación del Reino de Aragón."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Real_Monasterio_de_San_Juan_de_la_Pe%C3%B1a",
+    "https://www.spain.info/es/lugares-interes/centro-interpretacion-reino-aragon/",
+    "https://www.wikidata.org/wiki/Q43081904"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "colegiata-de-bolea",
+   "nombre": "Colegiata de Santa María la Mayor de Bolea",
+   "provincia": "Huesca",
+   "comarca": "Bolea, La Sotonera (Hoya de Huesca)",
+   "lat": 42.2581,
+   "lon": -0.5523,
+   "tipo": "iglesia",
+   "estilo": "Gótico de transición al Renacimiento",
+   "epoca": "Gótico",
+   "anio": 1541,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Sobre el solar del antiguo castillo-palacio musulmán de Bolea, del que quedan restos en la torre y en la base de algunos muros, se levantó entre <b>1541 y 1559</b> esta gran iglesia, según proyecto de <b>Pedro de Irazábal</b>. Aprovechó los cimientos de una iglesia románica anterior.</p><p>Siguiendo el ejemplo de la Seo de Zaragoza y de la catedral de Barbastro, es una <b>iglesia de salón</b> de tres naves de igual altura, gótica en transición al Renacimiento y de carácter muy aragonés. Fue priorato de Montearagón hasta 1571, cuando pasó a ser colegiata de la diócesis de Huesca.</p><p>Guarda un notable conjunto de retablos: el <b>retablo mayor</b> (1490-1503), de Gil de Brabante, y el de <b>Santiago</b> (1532), de Damián Forment y Gabriel Joli.</p>"
+   },
+   "ver_alli": [
+    "El retablo mayor de finales del siglo XV.",
+    "El retablo de Santiago de Forment y Joli, con la Adoración de los Magos.",
+    "Las tres naves de igual altura."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Colegiata_de_Santa_Mar%C3%ADa_la_Mayor_(Bolea)",
+    "https://www.wikidata.org/wiki/Q5776835"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-casbas",
+   "nombre": "Monasterio de Casbas",
+   "provincia": "Huesca",
+   "comarca": "Casbas de Huesca (Hoya de Huesca)",
+   "lat": 42.1564,
+   "lon": -0.1401,
+   "tipo": "iglesia",
+   "estilo": "Cisterciense (románico y gótico)",
+   "epoca": "Románico",
+   "anio": 1173,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>El monasterio de <b>Nuestra Señora de la Gloria</b> lo fundó el 15 de marzo de <b>1173</b> la condesa <b>Oria de Pallars</b> para monjas, y en 1196 una bula de Celestino III lo adscribió al <b>Císter</b>. En 1188 Alfonso II le dio el señorío sobre varios pueblos, y llegó a controlar 39.000 hectáreas.</p><p>La iglesia, consagrada en <b>1208</b>, es románica, de cruz latina con tres ábsides; la <b>portada sur</b>, de hacia 1200, tiene un tímpano con crismón y once arcos en degradación. El claustro y la sala capitular son góticos (siglos XIV-XV); en la sala se conservan las losas sepulcrales de alabastro de dos abadesas.</p><p>En los siglos XVII y XVIII se amplió hasta unos 10.000 m² construidos. La última comunidad de monjas lo abandonó en <b>2004</b> y hoy es de propiedad privada.</p><p class=\"dato\"><span>¿Sabías que…?</span>Una de sus abadesas, Ana Francisca Abarca de Bolea, escribió en el siglo XVII un drama pastoril en aragonés.</p>"
+   },
+   "ver_alli": [
+    "La portada románica con el crismón y once arquivoltas.",
+    "La cúpula octogonal del crucero, del siglo XVII.",
+    "El claustro gótico."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Casbas",
+    "https://www.wikidata.org/wiki/Q16608587"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "cartuja-de-las-fuentes",
+   "nombre": "Cartuja de Nuestra Señora de las Fuentes",
+   "provincia": "Huesca",
+   "comarca": "Sariñena (Los Monegros)",
+   "lat": 41.7404,
+   "lon": -0.2901,
+   "tipo": "iglesia",
+   "estilo": "Barroco",
+   "epoca": "Barroco",
+   "anio": 1745,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Fundada en <b>1507</b> por los condes de Sástago, fue la <b>primera cartuja de Aragón</b>. La pobreza y la aridez de los Monegros hicieron que los monjes la abandonaran, pero volvieron en 1589. El conjunto actual, de ladrillo, se construyó sobre todo entre <b>1745 y 1777</b>, siguiendo el plano racional y simétrico de la orden, con unos 6.000 m² dentro de una muralla rectangular.</p><p>Su gran tesoro es la decoración mural de <b>fray Manuel Bayeu</b> (1740-1809), cartujo zaragozano, hermano de los pintores Ramón y Francisco Bayeu y <b>cuñado de Goya</b>. Durante unos treinta años, probablemente desde 1775, pintó <b>más de 250 composiciones</b> que cubren muros, bóvedas y cúpulas de la iglesia, capillas, claustro menor, sacristía y sala capitular: más de dos mil metros cuadrados.</p><p>Tras la desamortización de 1836 fue balneario, cuartel en la Guerra Civil y granja, y sufrió graves daños. Es propiedad de la Diputación de Huesca, que la restaura desde 2015.</p>"
+   },
+   "ver_alli": [
+    "Las pinturas de Manuel Bayeu en las bóvedas y cúpulas de la iglesia.",
+    "La sala capitular y la sacristía pintadas.",
+    "La muralla y la portería que aíslan el conjunto en plena estepa."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Cartuja_de_Nuestra_Se%C3%B1ora_de_las_Fuentes",
+    "https://www.wikidata.org/wiki/Q821204"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "fuerte-de-rapitan",
+   "nombre": "Fuerte de Rapitán",
+   "provincia": "Huesca",
+   "comarca": "Jaca (La Jacetania)",
+   "lat": 42.5891,
+   "lon": -0.5363,
+   "tipo": "castillo",
+   "estilo": "Fuerte poligonal",
+   "epoca": "Siglo XIX",
+   "anio": 1884,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>En la cima del monte Rapitán (1142 m), sobre Jaca, el Estado construyó a finales del siglo XIX un <b>fuerte poligonal</b> para cerrar la entrada del valle del Aragón. Las obras empezaron en <b>1884</b>, a la vez que las del fuerte de Coll de Ladrones en Canfranc y el de Santa Elena en Biescas, y costaron seis millones de pesetas.</p><p>Era un emplazamiento para <b>dieciocho cañones</b> de gran calibre, con la mayor parte de la obra <b>enterrada</b> para protegerse del fuego enemigo. Formaba parte del inacabado Campo Atrincherado de Jaca y <b>nunca entró en combate</b>.</p><p>En los primeros días de la Guerra Civil, ante sus muros fueron fusilados decenas de republicanos. Hoy es espacio de actos y exposiciones de la ciudad.</p>"
+   },
+   "ver_alli": [
+    "La entrada y el foso del fuerte.",
+    "Las vistas sobre Jaca, la Ciudadela y el valle del Aragón."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Fuerte_de_Rapit%C3%A1n",
+    "https://www.wikidata.org/wiki/Q5870585"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santuario-de-salas",
+   "nombre": "Santuario de Nuestra Señora de Salas",
+   "provincia": "Huesca",
+   "comarca": "Huesca (Hoya de Huesca)",
+   "lat": 42.1285,
+   "lon": -0.3903,
+   "tipo": "iglesia",
+   "estilo": "Románico (portada) y barroco",
+   "epoca": "Románico",
+   "anio": 1200,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>Según la tradición, la reina <b>Sancha</b>, esposa de Alfonso II, edificó hacia <b>1200</b> este santuario a las afueras de Huesca para una imagen de la Virgen muy venerada. Las obras seguían en 1206 y acabaron antes de 1212. El templo románico tenía tres naves y una techumbre de madera pintada.</p><p>La fama de la Virgen de Salas llegó lejos: <b>Alfonso X el Sabio</b> le dedicó nada menos que <b>veintiún milagros</b> en las <b>Cantigas de Santa María</b>, la mayoría curaciones y resurrecciones.</p><p>En <b>1722</b> el arquitecto José Sofí derribó la iglesia románica para levantar la barroca actual, pero respetó la <b>fachada románica</b> y parte de los muros.</p>"
+   },
+   "ver_alli": [
+    "La portada románica, con seis arquivoltas.",
+    "El gran rosetón sobre la portada, decorado con puntas de diamante.",
+    "Las yeserías barrocas del interior."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Santuario_de_Nuestra_Se%C3%B1ora_de_Salas",
+    "https://www.wikidata.org/wiki/Q43090995"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "basilica-de-la-pena-graus",
+   "nombre": "Basílica de la Virgen de la Peña",
+   "provincia": "Huesca",
+   "comarca": "Graus (Ribagorza)",
+   "lat": 42.1872,
+   "lon": 0.3347,
+   "tipo": "iglesia",
+   "estilo": "Renacimiento",
+   "epoca": "Renacimiento",
+   "anio": 1543,
+   "regiones_sincronia": [
+    "Aragón / C.Valenciana"
+   ],
+   "texto": {
+    "general": "<p>La basílica de Graus se levantó a mediados del <b>siglo XVI</b> sobre una iglesia románica, Santa María de Villa, citada ya en 1186. En 1538 el clero y el concejo decidieron construir el nuevo templo; la fecha de <b>1543</b> aparece en la portada.</p><p>En 1556 la obra pasó al cantero <b>Joan Tellet</b>, que hizo el pórtico y dejó su firma en el friso, y una puerta de la capilla de San Juan de Letrán que copia un modelo del tratado de arquitectura de <b>Sebastián Serlio</b>.</p><p>Junto a la iglesia se construyó entre 1585 y 1595 un hospital de peregrinos con un <b>claustro-mirador</b> abierto a la plaza. Sus arcos llevan <b>inscripciones en griego</b> que invitan a la meditación, unas tomadas de la Epístola a los Colosenses y otras del santuario de Apolo en Delfos.</p>"
+   },
+   "ver_alli": [
+    "El claustro-mirador y sus inscripciones griegas.",
+    "El pórtico firmado por Joan Tellet.",
+    "La puerta serliana de la capilla de San Juan de Letrán."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_la_Virgen_de_la_Pe%C3%B1a_(Graus)",
+    "https://www.wikidata.org/wiki/Q5640751"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "rio-vero",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Arte rupestre esquemático, levantino y paleolítico",
+    "lat": 42.1726,
+    "lon": 0.0665,
+    "texto": {
+     "general": "<p>En los cañones y barrancos del río Vero, en el Somontano de Barbastro, se concentran <b>más de sesenta abrigos con pinturas rupestres</b> en muy poco espacio. Forma parte del «Arte rupestre del arco mediterráneo de la península ibérica», declarado <b>Patrimonio de la Humanidad por la UNESCO en 1998</b>.</p><p>Lo excepcional es que aquí conviven los tres grandes estilos del arte prehistórico peninsular. La inmensa mayoría, alrededor del <b>85 %</b>, es <b>arte esquemático</b>, obra de las primeras sociedades agrícolas y ganaderas del Neolítico. Cerca de un 14 % es <b>arte levantino</b>, más naturalista, con escenas de caza ligadas a grupos cazadores-recolectores. Y un pequeño resto, en torno al 1 %, pertenece al <b>Paleolítico superior</b>.</p><p>El parque cultural ocupa unos 245 km² repartidos entre nueve municipios, entre ellos Alquézar, Colungo, Adahuesca y Bárcabo. El punto de partida natural es el <b>Centro del Arte Rupestre de Colungo</b>, que explica el conjunto y organiza las visitas guiadas a algunos abrigos.</p>"
+    },
+    "ver_alli": [
+     "Centro de Arte Rupestre en Colungo, punto de partida de las visitas guiadas.",
+     "Los abrigos solo se ven con visita guiada o por senderos señalizados: conviene informarse antes en el centro.",
+     "Alquézar y los cañones de la sierra de Guara."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Parque_cultural_del_r%C3%ADo_Vero",
+     "https://nominatim.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "dolmen-tella",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Megalitismo (dolmen)",
+    "lat": 42.5799,
+    "lon": 0.1793,
+    "texto": {
+     "general": "<p>Encaramado a <b>1.241 metros de altitud</b>, con los grandes macizos del Pirineo enfrente, el dolmen de Tella es un sepulcro megalítico en perfecto estado. Unos pocos bloques de piedra, colocados en pie y cubiertos por una gran losa, formaban la cámara funeraria donde aquellas comunidades de pastores enterraban a sus muertos.</p><p>Se identificó en <b>1954</b> y lo excavó el arqueólogo <b>Antonio Beltrán</b>, que encontró en su interior restos de un cráneo y dientes humanos. La cámara está prácticamente intacta, aunque el túmulo de tierra y piedras que la envolvía casi ha desaparecido.</p><p>Está junto al pueblo de Tella, en el Sobrarbe, a las puertas del valle de Añisclo y del Parque Nacional de Ordesa.</p>"
+    },
+    "ver_alli": [
+     "Visible desde un área de descanso en la carretera que sube de la A-138 a Tella; corto paseo desde el aparcamiento.",
+     "Fíjate en la losa de cubierta y en cómo se apoya sobre las piedras verticales.",
+     "Pueblo de Tella y valle de Añisclo."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Dolmen_de_Tella",
+     "https://nominatim.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "santa-elena-biescas",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Megalitismo (dolmen)",
+    "lat": 42.6593,
+    "lon": -0.3184,
+    "texto": {
+     "general": "<p>Junto a la ermita de Santa Elena, patrona de Biescas, a la entrada del valle de Tena, hay <b>dos dólmenes de hace unos 5.000 años</b>, levantados por pueblos de economía pastoril. Muchas de estas tumbas se reutilizaron después, ya en la Edad del Bronce.</p><p>El conjunto lo descubrió en <b>1931</b> el médico de Biescas Roque Herráiz y lo excavó en 1934 <b>Martín Almagro Basch</b>. En el primer dolmen apareció una punta de flecha de 53 mm, un colgante hecho con un diente de ciervo y un botón perforado; en el segundo, otra punta de flecha, una pieza de azabache y una cuenta de collar. Los combates de la Guerra Civil en 1937 destrozaron el lugar, y el primer dolmen se reconstruyó en 1975.</p><p>El segundo dolmen se dio por perdido durante décadas hasta que, en <b>2018</b>, la asociación cultural ERATA de Biescas lo buscó guiándose por una foto antigua y por el recuerdo de un vecino. Apareció bajo un montón de escombros de una cantera vecina, conservado «exactamente igual que en 1931».</p>"
+    },
+    "ver_alli": [
+     "Visita libre por un sendero adaptado de unos minutos desde el aparcamiento.",
+     "La cámara del primer dolmen, abierta al este, y los tres ortostatos del segundo.",
+     "Ermita y fuerte de Santa Elena, en el mismo paraje."
+    ]
+   }
+  },
+  {
+   "id": "aguas-tuertas",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Megalitismo (dolmen)",
+    "lat": 42.8322,
+    "lon": -0.6276,
+    "texto": {
+     "general": "<p>Aguas Tuertas es un amplio llano de alta montaña en la cabecera del valle de Hecho, por el que el río Aragón Subordán serpentea en meandros (de ahí el nombre de «aguas torcidas»). En medio de ese paisaje, que parece un jardín cuidado por las vacas y los caballos que pastan, se alza un <b>dolmen pirenaico de más de 4.500 años</b>.</p><p>No está solo: en estos valles se levantaron dólmenes desde el Neolítico, y en el entorno, en el valle de Guarrinza por el que se sube, se conservan otros monumentos de piedra como un <b>crómlech</b>, un círculo de piedras hincadas.</p>"
+    },
+    "ver_alli": [
+     "Ruta de unos 7 km ida y vuelta desde el barranco del Barcal (Selva de Oza).",
+     "El dolmen está a la vista en el propio llano, junto al camino.",
+     "De camino, busca el crómlech de Guarrinza junto al río."
+    ],
+    "fuentes": [
+     "https://www.senditur.com/es/ruta/aguas-tuertas/",
+     "https://www.romanicoaragones.com/Colaboraciones/2010-06-Guarrinza.pdf",
+     "https://nominatim.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "losa-mora",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Megalitismo (dolmen)",
+    "lat": 42.3057,
+    "lon": -0.0891,
+    "texto": {
+     "general": "<p>En un collado de la sierra de Guara, a unos <b>1.020 metros de altitud</b>, junto al camino que une Rodellar con los pueblos deshabitados de Otín y Nasarre, se levanta el dolmen de la Losa de la Mora. Tres grandes piedras en pie sostienen <b>una enorme losa de cubierta</b>, que es la que le da nombre; las rocas se trajeron del Tozal de Llastras, a unos 500 metros.</p><p>Se construyó hacia el <b>3000 a. C.</b>, en el Neolítico. Las piedras del túmulo que lo cubría aparecen dispersas en un círculo de unos 12 metros. Lo excavó <b>Martín Almagro</b> en 1935 y 1936, y encontró hachas pulidas, útiles de sílex y restos humanos de varios individuos.</p>"
+    },
+    "ver_alli": [
+     "Sendero señalizado desde Rodellar, con algo de desnivel.",
+     "La gran losa de cubierta y, alrededor, las piedras sueltas del antiguo túmulo.",
+     "Se puede enlazar con los pueblos abandonados de Otín y Nasarre y los barrancos de Guara."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Dolmen_Losa_de_la_Mora",
+     "https://nominatim.openstreetmap.org/"
+    ],
+    "comarca": "Bierge (Somontano de Barbastro)"
+   }
+  },
+  {
+   "id": "labitolosa",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Romano",
+    "lat": 42.1459,
+    "lon": 0.3,
+    "texto": {
+     "general": "<p>En el cerro del Calvario de La Puebla de Castro, sobre el río Ésera y frente al embalse de Barasona, están las ruinas de <b>Labitolosa</b>, una pequeña ciudad romana del Pirineo. Su vida transcurrió entre el siglo I a. C. y <b>finales del siglo II d. C.</b>, cuando fue abandonada. Sus habitantes se llamaban a sí mismos <i>cives Labitolosani</i>, como recoge una inscripción.</p><p>La gran joya es su <b>curia</b>, la sala donde se reunía el senado local, excepcionalmente conservada: los pedestales de las estatuas siguen en su sitio, con sus inscripciones. Una de ellas honra a <b>Publio Clodio Flaco</b>, un notable local al que el emperador Adriano ascendió al orden ecuestre.</p><p>Hay además <b>dos edificios termales</b>; su sistema de calefacción es de los mejor conservados, y el conjunto se considera el más complejo de su tipo en el ámbito pirenaico. Desde 1991 lo excavan cada año las universidades de Burdeos y Zaragoza.</p>"
+    },
+    "ver_alli": [
+     "Curia y termas están protegidas y abiertas al público.",
+     "En la curia, mira los pedestales de estatuas en su posición original.",
+     "En las termas, el sistema de calefacción, uno de los mejor conservados del Pirineo."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Labitolosa",
+     "https://es.wikipedia.org/wiki/Labitolosa",
+     "http://www.wikidata.org/entity/Q1799448",
+     "https://nominatim.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-jaca",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico (bóvedas tardogóticas del s. XVI)",
+    "lat": 42.5709,
+    "lon": -0.5489,
+    "texto": {
+     "general": "<p>La catedral de San Pedro de Jaca es <b>una de las primeras catedrales románicas de España</b>. Se empezó a construir en el último cuarto del siglo XI por iniciativa del rey <b>Sancho Ramírez</b>, casi a la vez que la de Santiago de Compostela, cuando Jaca era la capital del joven reino de Aragón.</p><p>Es una basílica de <b>tres naves</b> con crucero cubierto por una cúpula románica sobre trompas. De ella salió un motivo decorativo que se repetiría por todo el Camino de Santiago: el <b>ajedrezado jaqués</b>, una cenefa de tacos alternos como un tablero de ajedrez que se ve en el ábside sur. En el interior hay 28 capiteles, obra de varios escultores.</p><p>La portada occidental tiene un tímpano con un gran <b>crismón</b> flanqueado por dos leones; la sur, bajo un pórtico, reutiliza capiteles del templo original con el sacrificio de Isaac o el rey David. Tras un incendio en 1447, las naves se cubrieron en el siglo XVI con bóvedas de crucería. En el claustro está el <b>Museo Diocesano</b>, con pinturas murales románicas arrancadas de iglesias de la comarca.</p>"
+    },
+    "ver_alli": [
+     "El crismón con leones de la portada oeste.",
+     "El ajedrezado jaqués en el ábside sur, el único que se conserva íntegro.",
+     "Templo libre; el museo de pintura románica del claustro, con entrada."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_de_San_Pedro_de_Jaca",
+     "http://www.wikidata.org/entity/Q2410105",
+     "https://nominatim.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-huesca",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Gótico",
+    "lat": 42.1404,
+    "lon": -0.4081,
+    "texto": {
+     "general": "<p>Cuando Pedro I de Aragón conquistó Huesca en <b>1096</b>, la <b>mezquita mayor</b> de la ciudad se entregó al obispo y sirvió de catedral durante casi dos siglos. En <b>1273</b> se decidió sustituirla por un templo gótico: la cabecera se levantó entre 1273 y 1308, y las bóvedas de crucería estrellada se terminaron en 1511.</p><p>La <b>portada principal</b>, en la fachada oeste, se hizo entre 1302 y 1307, y la <b>torre</b> entre 1369 y 1423. Del claustro románico anterior se conserva una parte, adosada al lado norte; del gótico solo se terminó la galería sur.</p><p>Dentro, la gran pieza es el <b>retablo mayor de alabastro</b> que Damián Forment empezó a labrar a comienzos de 1520, con tres grandes escenas de la Pasión. Es una de las obras maestras de la escultura renacentista en Aragón.</p>"
+    },
+    "ver_alli": [
+     "La portada gótica de la fachada oeste, con sus arquivoltas de figuras.",
+     "El retablo de alabastro de Damián Forment en el altar mayor.",
+     "Con entrada."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_de_Huesca",
+     "http://www.wikidata.org/entity/Q2942691",
+     "https://nominatim.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-san-juan-de-la-pena",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Prerrománico y románico",
+    "lat": 42.5078,
+    "lon": -0.6727,
+    "texto": {
+     "general": "<p>El monasterio viejo de San Juan de la Peña está <b>construido bajo una enorme roca</b> que hace de techo, en un escarpe de la sierra de San Juan de la Peña. Según la leyenda, el cazador Voto cayó por el precipicio y encontró aquí una ermita dedicada a San Juan Bautista con el cuerpo del ermitaño Juan de Atarés.</p><p>El edificio tiene dos pisos: abajo, una <b>iglesia prerrománica</b>; arriba, la iglesia románica, el <b>panteón real</b> y el claustro. Durante siglos fue lugar de enterramiento de los reyes de Aragón: aquí reposan <b>Ramiro I, Sancho Ramírez y Pedro I</b> con sus esposas, aunque el aspecto actual del panteón es del siglo XVIII. En este monasterio se celebró por primera vez en Aragón la misa por el rito romano, el 22 de marzo de 1071.</p><p>El <b>claustro</b>, abierto bajo la roca, conserva capiteles de finales del siglo XI y otros del XII atribuidos al llamado Maestro de San Juan de la Peña o de Agüero. Según la tradición, aquí se custodió el <b>Santo Grial</b>, hasta que el rey Martín I lo hizo llevar a Zaragoza en 1399; hoy está en la catedral de Valencia. Tras el incendio de 1675, los monjes se mudaron al monasterio nuevo.</p>"
+    },
+    "ver_alli": [
+     "Los capiteles del claustro bajo la roca: escenas bíblicas de gran expresividad.",
+     "El panteón real y la iglesia prerrománica del piso bajo.",
+     "Con entrada; el paseo entre el monasterio viejo y el nuevo es muy bonito."
+    ],
+    "fuentes": [
+     "https://www.monasteriosanjuan.com/en/como-llegar/",
+     "https://es.wikipedia.org/wiki/Real_Monasterio_de_San_Juan_de_la_Pe%C3%B1a",
+     "http://www.wikidata.org/entity/Q1389060"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-loarre",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Románico",
+    "lat": 42.3255,
+    "lon": -0.6125,
+    "texto": {
+     "general": "<p>Sobre una peña que domina la Hoya de Huesca se alza el que se considera <b>el castillo románico mejor conservado de Europa</b>. Lo mandó levantar en la primera mitad del siglo XI <b>Sancho III el Mayor de Pamplona</b>, como avanzadilla frente a la Huesca musulmana.</p><p>Hacia 1071, el rey <b>Sancho Ramírez</b> lo amplió y fundó en él un monasterio de canónigos de San Agustín. De esa época es la <b>iglesia de San Pedro</b>, de nave única, con un ábside de capiteles fantásticos y bíblicos y una cúpula que se eleva a <b>26 metros</b>. Bajo ella, a la entrada, está la <b>cripta de Santa Quiteria</b>, famosa por su acústica.</p><p>La <b>torre del homenaje</b>, de 22 metros y cinco plantas, se comunicaba con el castillo por un puente levadizo, y la torre de la Reina protegía el acceso. En 1287 se añadió la muralla exterior, de 172 metros de perímetro con torreones semicirculares. Fue declarado Monumento Nacional en 1906.</p><p class=\"dato\"><span>¿Sabías que…?</span>Ridley Scott rodó aquí el principio y el final de <i>El reino de los cielos</i> (2005), con vecinos de Loarre como extras.</p>"
+    },
+    "ver_alli": [
+     "La iglesia de San Pedro y su cúpula de 26 metros.",
+     "La cripta de Santa Quiteria: prueba su acústica.",
+     "Con entrada; las vistas sobre la Hoya de Huesca desde lo alto son espectaculares."
+    ],
+    "fuentes": [
+     "https://castillodeloarre.es/es/visitas/",
+     "https://es.wikipedia.org/wiki/Castillo_de_Loarre",
+     "http://www.wikidata.org/entity/Q1049259",
+     "https://nominatim.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-monzon",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Románico templario, con baluartes del s. XVIII",
+    "lat": 41.909,
+    "lon": 0.1916,
+    "texto": {
+     "general": "<p>El castillo de Monzón corona un cerro sobre la ciudad y el río Cinca. Su origen es una fortaleza musulmana del siglo X; Sancho Ramírez conquistó la población en 1089 y en <b>1143</b> el castillo pasó a la <b>Orden del Temple</b>, que lo convirtió en una de sus grandes encomiendas, con murallas, torres, caballerizas, refectorio y dormitorios.</p><p>Aquí se educó el niño <b>Jaime I</b>, el futuro Conquistador, entre agosto de 1214 y junio de 1217, bajo la tutela del maestre templario <b>Guillem de Montredón</b>. Cuando se disolvió el Temple, los caballeros resistieron en Monzón el asedio de las tropas de Jaime II hasta 1309.</p><p>El castillo siguió siendo plaza militar durante siglos: sufrió asedios en la guerra de los Segadores (1642-1643), se le añadieron baluartes en el siglo XVIII y en la Guerra de la Independencia lo recuperaron los españoles en febrero de 1814 gracias a una estratagema de Juan Van Halen. Conserva edificios templarios como la iglesia de San Nicolás, la gran sala capitular o la torre del homenaje.</p>"
+    },
+    "ver_alli": [
+     "La iglesia templaria de San Nicolás, con ábside poligonal.",
+     "La sala capitular, de unos 35 metros de largo, y la torre de Jaime I.",
+     "Con entrada; desde las murallas se domina todo el valle del Cinca."
+    ],
+    "fuentes": [
+     "https://www.turismodearagon.com/ficha/monzon/",
+     "https://es.wikipedia.org/wiki/Castillo_de_Monz%C3%B3n",
+     "https://www.fascinatingspain.com/articulo/what-to-see-in-aragon/castle-of-monzon-last-templar-stronghold/20201117075945066976.html",
+     "http://www.wikidata.org/entity/Q2970084",
+     "https://nominatim.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "ainsa",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Villa medieval (románico)",
+    "lat": 42.4173,
+    "lon": 0.1383,
+    "texto": {
+     "general": "<p>Aínsa ocupa un promontorio sobre la <b>confluencia de los ríos Cinca y Ara</b>, y fue, junto con Boltaña, la capital del antiguo condado de Sobrarbe. En 1124 Alfonso I el Batallador concedió a sus vecinos el fuero de Jaca. Su casco amurallado fue declarado <b>conjunto histórico-artístico en 1965</b>.</p><p>El corazón de la villa es la <b>plaza Mayor</b>, porticada a ambos lados y presidida por el ayuntamiento, a la que desembocan las calles Mayor y Santa Cruz. A un lado se abre el portalón del <b>castillo</b>, de origen del siglo XI y obras que se prolongaron hasta el XVII, con un gran patio de armas.</p><p>La <b>iglesia de Santa María</b>, románica, se empezó en el siglo XI y se consagró en 1181; su torre, con saeteras, servía también para la defensa. Casas como la de Bielsa o la de Arnal, de los siglos XVI-XVII, completan el paseo.</p><p class=\"dato\"><span>¿Sabías que…?</span>Cada dos años, en agosto, los vecinos representan la Morisma, una obra teatral popular sobre la legendaria reconquista de la villa con una cruz de fuego.</p>"
+    },
+    "ver_alli": [
+     "La plaza Mayor porticada, una de las más bellas del Pirineo.",
+     "La iglesia románica de Santa María y su torre defensiva.",
+     "En el castillo, el Espacio del Geoparque y el Ecomuseo; acceso libre a la villa."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/A%C3%ADnsa",
+     "http://www.wikidata.org/entity/Q13049257",
+     "https://nominatim.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "alquezar",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Villa medieval; colegiata tardogótica con claustro románico",
+    "lat": 42.1722,
+    "lon": 0.0279,
+    "texto": {
+     "general": "<p>Alquézar se asoma al último cañón del río Vero, y su nombre lo dice todo: viene del árabe <b><i>al-qasr</i>, «la fortaleza»</b>. A principios del siglo IX, Jalaf ibn Rasid levantó aquí un castillo para defender Barbastro de los reinos cristianos del norte. Sancho Ramírez lo conquistó hacia 1067.</p><p>En lo alto del peñasco, el castillo-colegiata reúne la historia del lugar. En 1099 se instaló una comunidad de canónigos agustinos y se consagró una colegiata románica, sustituida en la primera mitad del siglo XVI por la actual <b>iglesia tardogótica de Santa María la Mayor</b>, obra de Juan de Segura.</p><p>Lo más valioso es el <b>claustro</b>, que conserva seis <b>capiteles románicos historiados</b> de la primera mitad del siglo XII —la creación de Adán, Caín y Abel, el Diluvio, Abraham— y paredes cubiertas de pinturas murales de los siglos XV a XVIII. El pueblo, de calles empinadas y casas colgadas sobre el barranco, es conjunto histórico-artístico desde 1982.</p>"
+    },
+    "ver_alli": [
+     "Los capiteles románicos del claustro de la colegiata.",
+     "Las pinturas murales que cubren los muros del claustro.",
+     "Colegiata con entrada; el casco urbano y las vistas al cañón del Vero, libres."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Alqu%C3%A9zar",
+     "https://es.wikipedia.org/wiki/Colegiata_de_Santa_Mar%C3%ADa_la_Mayor_(Alqu%C3%A9zar)",
+     "http://www.wikidata.org/entity/Q5776833",
+     "https://nominatim.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "iglesias-del-serrablo",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Prerrománico / primer románico",
+    "texto": {
+     "general": "<p>En el Serrablo, la comarca del Alto Gállego entre Sabiñánigo y Biescas, se conserva un grupo de pequeñas iglesias muy singulares, casi todas en la margen izquierda del río Gállego: <b>San Pedro de Lárrede</b>, considerada el prototipo, <b>San Juan de Busa</b>, San Bartolomé de Gavín, Oliván, Satué, Orós Bajo, Susín y otras: catorce en la relación habitual.</p><p>Todas siguen un mismo esquema: nave única pequeña, ábside semicircular y torre campanario. Su sello es el <b>friso de gruesos baquetones verticales</b> que remata el ábside, con arquerías ciegas debajo, y los <b>arcos de herradura</b> en las ventanas de las torres, a menudo enmarcados por un alfiz. La escultura es casi inexistente.</p><p>Su fecha se discute: el historiador Antonio Durán Gudiol y la asociación <b>Amigos de Serrablo</b> (fundada en 1971 y clave en su restauración) las consideran <b>mozárabes</b>, del siglo X; los historiadores del arte de la Universidad de Zaragoza ven en ellas un <b>primer románico del siglo XI</b> que mezcla tradición hispana e influencias lombardas. Fueron declaradas monumento en 1982, salvo Lárrede, que lo era desde 1931.</p>"
+    },
+    "ver_alli": [
+     "San Pedro de Lárrede: ventanas de herradura geminadas en la torre.",
+     "San Juan de Busa, aislada en un prado: el friso de baquetones del ábside.",
+     "Exterior libre; varias se recorren en ruta en coche desde Sabiñánigo."
+    ],
+    "fuentes": [
+     "https://www.turismodearagon.com/en/ficha/ruta-iglesias-serrablo/",
+     "https://es.wikipedia.org/wiki/Iglesias_del_Serrablo"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-de-santa-cruz-de-la-seros",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.5227,
+    "lon": -0.6743,
+    "texto": {
+     "general": "<p>Esta iglesia es lo que queda de un <b>monasterio de monjas benedictinas</b> que en el siglo XI funcionó como monasterio familiar de la casa real de Aragón. Aparece documentado en 1070, y en él vivieron o lo protegieron las infantas <b>Sancha, Teresa y Urraca</b>, hijas de Ramiro I y hermanas de Sancho Ramírez; doña Sancha dejó en su testamento de 1095 bienes para la obra de la iglesia.</p><p>El templo, de finales del siglo XI, tiene planta de cruz latina con bóveda de cañón y ábside semicircular. Destaca su <b>alta torre</b> sobre el brazo sur del crucero y una <b>cámara alta</b> sobre el crucero. En la portada oeste, el tímpano muestra un <b>crismón con leones</b>, al modo de la catedral de Jaca. En 1555 las monjas se trasladaron a Jaca y el monasterio quedó abandonado.</p><p>A pocos pasos, en el mismo pueblo, está <b>San Caprasio</b>, construida hacia 1020-1035, en tiempos de Sancho III el Mayor, por canteros de tradición lombarda: es de las iglesias lombardas más antiguas de Aragón, con sus arquillos ciegos recorriendo los muros.</p>"
+    },
+    "ver_alli": [
+     "El crismón con leones del tímpano de Santa María.",
+     "La torre y la cámara alta sobre el crucero.",
+     "San Caprasio, a la entrada del pueblo; Santa María con entrada en temporada."
+    ],
+    "fuentes": [
+     "https://www.turismodearagon.com/ficha/santa-cruz-de-la-seros/",
+     "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_(Santa_Cruz_de_la_Ser%C3%B3s)",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Caprasio_(Santa_Cruz_de_la_Ser%C3%B3s)",
+     "http://www.wikidata.org/entity/Q14912618",
+     "https://nominatim.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "san-adrian-de-sasabe",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico lombardo",
+    "lat": 42.6755,
+    "lon": -0.5902,
+    "texto": {
+     "general": "<p>En el fondo de un valle cerca de Borau, junto a la confluencia de los arroyos Cáncil y Lupán, se esconde lo que queda del monasterio de San Adrián de Sásabe, fundado a finales del siglo IX. En el siglo X fue <b>refugio de los obispos de Aragón</b>: aquí residieron Ferriolo, Fortuño o Atón, y una inscripción en la iglesia dice: «Aquí descansan tres obispos». En 1042 Ramiro I lo restauró, y la sede acabó trasladándose a Jaca.</p><p>La iglesia actual, de <b>románico lombardo</b>, se consagró en 1104. Con el tiempo quedó <b>sepultada</b> durante siglos, llena de aguas estancadas, hasta que los vecinos de Borau pidieron desenterrarla. Bajo el nivel del suelo quedó oculta una portada de tipo jaqués.</p><p class=\"dato\"><span>¿Sabías que…?</span>El agua sigue manando de sus muros: entra por la escalera y un sistema de canales la devuelve fuera. Según la tradición, aquí estuvo escondido también el Santo Grial.</p>"
+    },
+    "ver_alli": [
+     "El ábside lombardo y el desnivel entre la iglesia y el terreno que la rodeaba.",
+     "Los canales por los que todavía corre el agua.",
+     "Exterior libre; interior concertado o en horario de culto."
+    ],
+    "fuentes": [
+     "https://www.turismodearagon.com/ficha/monasterio-de-san-adrian-de-sasabe-borau-2/",
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Adri%C3%A1n_de_S%C3%A1save",
+     "https://www.pilgrimaps.com/the-surprising-grail-church-that-gushes-water/",
+     "http://www.wikidata.org/entity/Q518072"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-de-iguacel",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.647,
+    "lon": -0.4719,
+    "texto": {
+     "general": "<p>Aislada en un valle solitario por encima de Larrosa, Santa María de Iguácel es una de las iglesias románicas más antiguas y mejor documentadas de Aragón. Se empezó en los años 1040 o 1050 por orden del conde Galindo, y es de las primeras de Aragón con cabecera semicircular.</p><p>Lo que la hace única es la <b>inscripción sobre su portada</b>: dice que la obra se terminó en la «era 1110», es decir, en <b>1072</b>, por iniciativa del <b>conde Sancho y su esposa Urraca</b>, y nombra a Aznar como autor de la inscripción y a Galindo Garcés como maestro de las pinturas. En 1080 los condes donaron la iglesia a San Juan de la Peña.</p><p>Es de nave única muy alta, con techo de madera y ábside con cornisa ajedrezada. La portada tiene cinco arquivoltas y un tejaroz sobre canecillos, y el conjunto suma 22 capiteles. De las pinturas de Galindo Garcés no queda nada: las que se ven son góticas del siglo XV, con apóstoles, escenas de la Virgen y un calvario.</p>"
+    },
+    "ver_alli": [
+     "La inscripción de 1072 sobre la portada.",
+     "Los capiteles de la portada y del ábside.",
+     "Las pinturas góticas del interior; visita concertada o guiada en temporada."
+    ],
+    "fuentes": [
+     "https://www.turismodearagon.com/2026/08/05/visitas-guiadas-gratuitas-al-monasterio-de-santa-maria-de-iguacel-durante-el-mes-de-agosto/",
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_de_Igu%C3%A1cel",
+     "http://www.wikidata.org/entity/Q3573326",
+     "https://nominatim.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "san-pedro-de-siresa",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.7564,
+    "lon": -0.7539,
+    "texto": {
+     "general": "<p>San Pedro de Siresa, en el valle de Hecho, es uno de los monasterios más antiguos del Pirineo. Su primera noticia es una donación de tierras del <b>25 de noviembre de 833</b> del conde de Aragón <b>Galindo Garcés</b>, y su primer abad, Zacarías, lo organizó según las reglas carolingias fijadas en Aquisgrán en 816.</p><p>A mediados del siglo IX lo visitó <b>San Eulogio de Córdoba</b>, que quedó admirado por su <b>biblioteca</b>: encontró allí obras clásicas que ya no se conservaban en Córdoba, como la <i>Eneida</i> de Virgilio, poemas de Horacio y Juvenal o <i>La ciudad de Dios</i> de san Agustín. Siglos después se educó aquí <b>Alfonso I el Batallador</b>, que como rey confirmó sus privilegios en 1113.</p><p>La iglesia actual, de planta de cruz latina y ábside poligonal por fuera, se empezó en 1082 sobre la abadía carolingia y parece que quedó inacabada. Su interior, alto y desnudo, guarda retablos góticos, entre ellos uno de Santiago del pintor Blasco de Grañén (siglo XV), y un crucifijo del siglo XIII.</p>"
+    },
+    "ver_alli": [
+     "El volumen imponente de la iglesia, desproporcionada para el pueblo.",
+     "Los retablos góticos del interior.",
+     "Con entrada."
+    ],
+    "fuentes": [
+     "https://www.turismodearagon.com/ficha/monasterio-de-san-pedro-siresa/",
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Pedro_(Siresa)",
+     "http://www.wikidata.org/entity/Q3085596",
+     "https://nominatim.openstreetmap.org/"
+    ],
+    "comarca": "Siresa (Valle de Hecho)"
+   }
+  },
+  {
+   "id": "monasterio-de-obarra",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico lombardo",
+    "texto": {
+     "general": "<p>A la salida del congosto de Obarra, junto al río Isábena, se levanta este monasterio que en el siglo X fue el gran centro religioso del <b>condado de Ribagorza</b>. Ya en 874 se documenta a «los monjes de Ubarra», y los condes ribagorzanos, en especial Bernardo Unifredo, lo protegieron.</p><p>Su joya es la <b>basílica de Santa María</b>, construida por maestros lombardos y terminada en tiempos del abad <b>Galindo</b> (1003-1025): tres naves, la central más ancha y alta, seis tramos y <b>tres ábsides semicirculares</b> de factura lombarda. Con Sancho el Mayor pasó a ser un priorato de San Victorián.</p><p>Muy cerca, fuera del recinto, está la pequeña iglesia de <b>San Pablo</b>, del siglo XII, que probablemente atendía a los peregrinos, y las ruinas del palacio abacial, románico y reformado en el siglo XVI.</p>"
+    },
+    "ver_alli": [
+     "La cabecera con sus tres ábsides lombardos.",
+     "La pequeña iglesia de San Pablo, a unos pasos.",
+     "Exterior libre; interior concertado o en horario de culto."
+    ],
+    "fuentes": [
+     "https://www.turismodearagon.com/ficha/monasterio-de-santa-maria-de-obarra-calvera-2/",
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_de_Obarra"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-roda-de-isabena",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.2916,
+    "lon": 0.5282,
+    "texto": {
+     "general": "<p>Roda de Isábena presume de ser <b>la localidad más pequeña de España con catedral</b>. La primera catedral, levantada con el patrocinio del conde de Ribagorza, la consagró el obispo Odisendo el <b>30 de noviembre de 956</b>. Tras su destrucción en 1006 se reconstruyó, y a principios del siglo XII se terminaron las tres naves y las criptas. En 1149 la sede se trasladó a Lérida.</p><p>En la <b>cripta</b> está el sepulcro de <b>San Ramón</b>, obispo de Roda: un sarcófago románico con la Anunciación, la Visitación, el Nacimiento y la Adoración de los Reyes en el frente, y la Huida a Egipto y el santo entre dos diáconos en los laterales.</p><p>El <b>claustro</b>, de mediados del siglo XII, guarda un récord: tiene 191 inscripciones funerarias en muros y arcos, y se considera el claustro de Europa con más epitafios. Pórtico y torre son del siglo XVIII.</p>"
+    },
+    "ver_alli": [
+     "El sarcófago esculpido de San Ramón en la cripta.",
+     "Las inscripciones funerarias grabadas en los arcos del claustro.",
+     "Visita guiada; pasea también por el recinto amurallado del pueblo."
+    ],
+    "fuentes": [
+     "https://www.turismodearagon.com/ficha/catedral-de-san-vicente-roda-de-isabena-2/",
+     "https://es.hispanopedia.com/wiki/Catedral_de_Roda_de_Is%C3%A1bena",
+     "http://www.wikidata.org/entity/Q43170199",
+     "https://nominatim.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-de-alaon",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico lombardo",
+    "lat": 42.3182,
+    "lon": 0.7496,
+    "texto": {
+     "general": "<p>Junto al Noguera Ribagorzana, en Sopeira, se levanta una de las abadías más antiguas del Pirineo. Su origen quizá sea visigodo, y está documentada en <b>806</b>, cuando el conde Begón de Tolosa encargó al abad Crisógono reorganizarla.</p><p>La iglesia actual es de <b>románico lombardo</b> de finales del siglo XI, levantada sobre un templo anterior, y la consagró <b>San Ramón, obispo de Roda, el 8 de noviembre de 1123</b>. Tiene planta basilical de tres naves, ábsides con arquerías ciegas y una torre campanario cuadrada de cuatro pisos; sobre la portada, un crismón trinitario.</p><p>Tuvo vida monástica hasta la desamortización de 1836 y desde entonces es la parroquia de Sopeira. En su cripta se colocó en 1682 el cuerpo incorrupto del abad Benito Latras, origen de una leyenda local.</p>"
+    },
+    "ver_alli": [
+     "La cabecera lombarda con sus arquerías ciegas.",
+     "El crismón trinitario sobre la portada.",
+     "Exterior libre; interior concertado o en horario de culto."
+    ],
+    "fuentes": [
+     "https://www.enciclopedia.cat/catalunya-romanica/santa-maria-dalao-sopeira",
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_de_Ala%C3%B3n",
+     "http://www.wikidata.org/entity/Q1142782",
+     "https://nominatim.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "montanana",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Románico y gótico",
+    "lat": 42.1624,
+    "lon": 0.6772,
+    "texto": {
+     "general": "<p>Montañana es un <b>pueblo medieval casi intacto</b> en la Ribagorza. Aparece ya en 987 como <i>castrum de Montagnana</i> y en el siglo XI fue una plaza amurallada en la frontera con el mundo musulmán.</p><p>Un <b>puente gótico</b> de doble arcada une la parte baja y la alta, y las calles de piedra suben hasta la iglesia de <b>Santa María de Baldós</b>, de estilo románico-gótico, que corona el pueblo. Más abajo está la ermita románica de <b>San Juan</b>, y detrás una torre de guardia del siglo XVI.</p><p>Fue capital del municipio desde 1834, pero en los años sesenta del siglo XX el ayuntamiento se trasladó a Puente de Montañana y el pueblo casi se vació. Esa despoblación lo dejó tal cual: es <b>conjunto histórico-artístico desde 1984</b>.</p>"
+    },
+    "ver_alli": [
+     "La subida a Santa María de Baldós por calles empedradas.",
+     "La ermita de San Juan y el puente medieval.",
+     "Acceso libre; hay un sendero circular corto que enlaza los principales rincones."
+    ],
+    "fuentes": [
+     "https://www.turismodearagon.com/ficha/montanana-huesca/",
+     "https://es.wikipedia.org/wiki/Monta%C3%B1ana_(Huesca)",
+     "http://www.wikidata.org/entity/Q55840617",
+     "https://nominatim.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-de-muro-de-roda",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.3597,
+    "lon": 0.231,
+    "texto": {
+     "general": "<p>En lo más alto de una sierra sobre La Fueva, en el Sobrarbe, se alza el <b>recinto amurallado de Muro de Roda</b>. Su fortificación empezó en <b>1017</b>, en tiempos de Sancho III el Mayor: un recinto irregular de unos 150 metros de largo por 50 de ancho, con cuatro cubos en las esquinas, camino de ronda y un único portón de medio punto.</p><p>Dentro está la <b>iglesia de Santa María</b>, de época románica, cuya torre almenada protegía la puerta del recinto. Su carta de consagración, de <b>1107</b>, apareció en 1997 y se guarda en el Museo Diocesano de Barbastro. Junto a ella, la pequeña ermita de San Bartolomé, de 1040-1050, fue la capilla de la fortaleza.</p>"
+    },
+    "ver_alli": [
+     "La torre almenada de la iglesia, que defendía la única puerta.",
+     "El camino de ronda de la muralla.",
+     "Exterior libre; vistas sobre La Fueva y las sierras del Sobrarbe."
+    ],
+    "fuentes": [
+     "https://www.turismodearagon.com/ficha/muro-de-roda-tierrantona/",
+     "https://es.wikipedia.org/wiki/Recinto_amurallado_de_Muro_de_Roda",
+     "http://www.wikidata.org/entity/Q6102691",
+     "https://nominatim.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "santiago-de-aguero",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico tardío",
+    "lat": 42.347,
+    "lon": -0.7861,
+    "texto": {
+     "general": "<p>A las afueras de Agüero, al pie de los mallos, se levanta una iglesia románica tan grande como misteriosa: Santiago de Agüero <b>quedó inacabada</b>. Se proyectó como una gran iglesia de cruz latina con tres ábsides, pero la obra se cerró deprisa, sin completar el proyecto original.</p><p>Su escultura es obra del taller del llamado <b>Maestro de Agüero</b>, el mismo que trabajó en el claustro de San Juan de la Peña. En la portada hay escenas de músicos y bailarinas; una de ellas, probablemente <b>Salomé</b>, danza ante los músicos, y al otro lado una ménsula muestra a una mujer devorada por una bestia infernal.</p>"
+    },
+    "ver_alli": [
+     "La portada y sus relieves de músicos y bailarinas.",
+     "La cabecera con sus tres ábsides.",
+     "Exterior libre; los mallos de Agüero, al lado."
+    ],
+    "fuentes": [
+     "https://www.romanicoaragones.com/Colaboraciones/Aguero-Bozal.pdf",
+     "https://mail.sheela-na-gig.org/zxAguero.htm",
+     "https://es.wikipedia.org/wiki/Real_Monasterio_de_San_Juan_de_la_Pe%C3%B1a",
+     "http://www.wikidata.org/entity/Q43081206",
+     "https://nominatim.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "san-pedro-el-viejo-de-huesca",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 42.1382,
+    "lon": -0.4074,
+    "texto": {
+     "general": "<p>San Pedro el Viejo es uno de los grandes conjuntos románicos de Aragón. Sobre el solar hubo antes un templo romano o una necrópolis, una iglesia visigoda y, bajo el dominio musulmán, el lugar donde los mozárabes de Huesca mantuvieron su culto. Tras la conquista de 1096, Pedro I la cedió a la abadía francesa de <b>Saint-Pons-de-Thomières</b>, y en <b>1117</b> se empezaron la iglesia y el claustro actuales.</p><p>La iglesia tiene tres naves con ábsides semicirculares de la primera mitad del siglo XII. En la antigua sala capitular, la capilla de San Bartolomé, está el <b>Panteón Real</b>, con las tumbas de <b>Alfonso I el Batallador</b> y de <b>Ramiro II el Monje</b>; este último reposa en un sarcófago romano del siglo II reutilizado.</p><p>El <b>claustro</b> tiene 38 capiteles con escenas de la vida de Cristo, relacionados con el Maestro de San Juan de la Peña. Ojo: al reconstruirlo entre 1890 y 1893, veinte capiteles se sustituyeron por copias de estilo románico; los originales están en el Museo de Huesca.</p>"
+    },
+    "ver_alli": [
+     "El Panteón Real, con el sarcófago romano de Ramiro II.",
+     "Los capiteles narrativos del claustro.",
+     "Las pinturas góticas de David y Goliat en el muro norte; con entrada."
+    ],
+    "fuentes": [
+     "https://www.turismodearagon.com/ficha/iglesia-y-claustro-del-monasterio-de-san-pedro-el-viejo-huesca/",
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Pedro_el_Viejo_(Huesca)",
+     "http://www.wikidata.org/entity/Q2750400",
+     "https://nominatim.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "estacion-de-canfranc",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Clasicismo de inspiración francesa",
+    "lat": 42.7507,
+    "lon": -0.5132,
+    "texto": {
+     "general": "<p>La Estación Internacional de Canfranc se inauguró el <b>18 de julio de 1928</b> con el rey Alfonso XIII y el presidente francés Gaston Doumergue. Era la gran puerta ferroviaria entre España y Francia a través del Pirineo, conectada por el túnel de Somport, de 7.875 metros, terminado en 1915.</p><p>El edificio es enorme: <b>241 metros de largo</b> y 75 puertas a cada lado. Su aspecto, de palacio francés del siglo XIX, se debe al proyecto de Fernando Ramírez de Dampierre.</p><p>Durante la <b>Segunda Guerra Mundial</b> por aquí pasaba wolframio hacia Alemania y entraba oro procedente de Suiza, mientras el jefe de la aduana francesa, <b>Albert Le Lay</b>, ayudaba en secreto a cruzar a personas que huían de los nazis. El <b>27 de marzo de 1970</b> un tren de mercancías francés descarriló y derribó el puente de L'Estanguet, y el tráfico internacional se cortó. Desde 2023 el antiguo edificio de viajeros es un hotel.</p>"
+    },
+    "ver_alli": [
+     "La fachada de 241 metros, con sus 75 puertas por lado.",
+     "Visitas guiadas.",
+     "Paseo por la explanada de vías junto al edificio."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Estaci%C3%B3n_Internacional_de_Canfranc",
+     "https://www.publico.es/culturas/albert-le-lay-schindler-canfranc.html",
+     "http://www.wikidata.org/entity/Q800612",
+     "https://nominatim.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "ruta-orwell-en-la-sierra-de-alcubierre",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Fortificación de campaña (Guerra Civil)",
+    "lat": 41.8184,
+    "lon": -0.5089,
+    "texto": {
+     "general": "<p>En el invierno de 1937, el escritor británico <b>George Orwell</b> llegó al frente de Aragón como miliciano del <b>POUM</b>. Su primer destino fue el Monte Pucero, a unos cinco kilómetros al oeste de Alcubierre, y semanas después pasó a la posición de <b>Monte Irazo</b>, defendida por una treintena de milicianos británicos con el enemigo a unos 300 metros. Lo contó en <i>Homenaje a Cataluña</i>.</p><p>En el Monte Irazo, hoy llamado también Loma Orwell, se han <b>rehabilitado las trincheras</b>: alambradas, nichos, ramales de comunicación, abrigos y pozos de tirador, con paneles que explican la vida en el frente. Orwell dejó después esta sierra y el 20 de mayo de 1937 fue herido de un disparo en el cuello en el frente de Huesca.</p><p>La ruta se completa con otras posiciones rehabilitadas de la sierra, como las de Tres Huegas, y con el Centro de Interpretación de la Guerra Civil de Robres, a siete kilómetros de Alcubierre.</p>"
+    },
+    "ver_alli": [
+     "Desvío señalizado en el km 34,6 de la carretera A-129 (Leciñena-Alcubierre); la última pista está en mal estado, mejor dejar el coche antes.",
+     "Trincheras, alambradas y pozos de tirador rehabilitados en el Monte Irazo.",
+     "Acceso libre; el Centro de la Guerra Civil de Robres completa la visita."
+    ],
+    "fuentes": [
+     "https://www.spain.info/es/descubrir-espana/ruta-george-orwell-aragon",
+     "https://www.publico.es/politica/orwell-cogio-fusil.html",
+     "https://nominatim.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "ordesa-centro-visitantes-torla",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Geología y relieve glaciar"
+   }
+  },
+  {
+   "id": "geoparque-sobrarbe-ainsa",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Geología del Eoceno"
+   }
+  }
+ ]
+}
