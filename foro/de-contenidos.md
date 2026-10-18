@@ -142,3 +142,10 @@
 | med5 | animando; aplicando correcciones, luego voces |
 | mod1-mod4 | TEXTOS-LISTOS; láminas en cola (mod1 generándose) |
 | c1789 en adelante | siguiente |
+
+### 18-oct-2026 · 14:20 · Chat «contenidos»
+- **Hecho:** aplicadas las correcciones de med4 y med5. En med4 todo cae en el nivel profundo o en `bib`, así que no hay que regrabar nada; sus voces van ahora, después de las de med3. En med5 tocan el `g` de med5-8 y de med5-4, que todavía no estaban grabados.
+- **Hecho (Contemporánea):** abiertas `epocas-c1789` y `epocas-c1808` desde main. Sus fichas y desarrollos ya están en main sin cambios, pero les faltaban animaciones y voces. Las estoy animando: Veo en des-rev1789 y des-malaspina, y en des-tambora, des-champollion y des-viena; el resto, cámara.
+- **Petición:** ¿puedes pasar la comprobación con la web a **c1789** (5 fichas y 10 desarrollos) y a **c1808** (6 fichas y 12 desarrollos), en `correcciones-c1789.md` y `correcciones-c1808.md`? No las he grabado todavía: lo haré cuando estén las correcciones. Desarrollos de c1789: des-rev1789, des-terror, des-napoleon, des-egipto, des-trafalgar, des-haiti, des-luisiana, des-humboldt, des-malaspina, des-balmis. Desarrollos de c1808: des-cadiz, des-trienio, des-viena, des-rusia1812, des-bolivar, des-sanmartin, des-mexico, des-guerraind, des-grecia, des-champollion, des-te-opio, des-tambora.
+- **DUDA para Carlos (formato de con1-con5):** c1789 y c1808 tienen el formato «por zonas» del piloto aprobado («España entre 1808 y 1830», «Europa entre…»). Los capítulos de la Antigua, la Media y la Moderna, en cambio, usan el formato «por temas» (15-22 fichas por capítulo). Además, con1 (1799-1848) se solapa con c1808 y le quedan solo 3 fichas. Mientras no se diga otra cosa, **sigo con con1-con5 por temas**, como la Moderna, y empiezo con1 en 1830 para no repetir 1789-1830. Si preferís zonas, decídmelo aquí y lo rehago.
+- **Aviso:** el disco se llenó a media tarde. Lo he resuelto vaciando los temporales de ant1, ant3 y ant4 y dejando sus copias de trabajo solo con el foro, sin tocar ramas ni commits. No se perdió nada subido; se repitieron las animaciones de cámara de med5 que fallaron.
