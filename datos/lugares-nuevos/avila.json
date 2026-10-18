@@ -1,0 +1,679 @@
+{
+ "zona": "Ávila",
+ "nuevos": [
+  {
+   "id": "monasterio-de-santo-tomas-avila",
+   "nombre": "Real Monasterio de Santo Tomás",
+   "provincia": "Ávila",
+   "comarca": "Ávila",
+   "lat": 40.6504,
+   "lon": -4.6894,
+   "tipo": "iglesia",
+   "estilo": "Gótico isabelino",
+   "epoca": "Gótico",
+   "anio": 1482,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Fuera de las murallas, al sur de la ciudad, se alza el gran convento dominico de Santo Tomás. Lo fundó en <b>1480</b> Hernán Núñez de Arnalte, tesorero de los <b>Reyes Católicos</b>, que dejó el encargo a su esposa María Dávila y a fray <b>Tomás de Torquemada</b>. Las obras, dirigidas por Martín de Solórzano, fueron de <b>1482 a 1493</b>, y los reyes lo eligieron como residencia de verano y como lugar de enterramiento de su único hijo varón, el <b>príncipe don Juan</b>, muerto en 1497 con diecinueve años.</p><p>La iglesia, de gótico isabelino, guarda en el crucero el <b>sepulcro de mármol del príncipe</b>, esculpido en Génova en 1511-1512 por el florentino <b>Domenico Fancelli</b>. En el altar mayor está el <b>retablo de Pedro Berruguete</b>, empezado en 1494, con cinco grandes tablas de la vida de santo Tomás de Aquino, y en alto, en el coro, la sillería gótica de nogal con dos sitiales reservados a los reyes.</p><p>El monasterio llegó a tener <b>tres claustros</b>; el más antiguo, el del Noviciado, es sobrio y tiene el pozo en un lateral. Fue sede de la Inquisición, en él murió Torquemada en 1498 y entre 1576 y 1807 funcionó como universidad. Las tropas francesas mutilaron en 1809 los relieves del sepulcro y se llevaron la verja de plata que lo rodeaba.</p><p class=\"dato\"><span>¿Sabías que…?</span>Los restos del príncipe Juan fueron profanados por los franceses y hoy nadie sabe dónde están: el sepulcro está vacío.</p>"
+   },
+   "ver_alli": [
+    "La gran portada, con su arco escarzano y las bolas que se repiten por todo el edificio.",
+    "El sepulcro del príncipe don Juan en el crucero y, al fondo, el retablo de Berruguete.",
+    "La sillería del coro alto y los tres claustros."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Real_Monasterio_de_Santo_Tom%C3%A1s_(%C3%81vila)",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Real+Monasterio+de+Santo+Tom%C3%A1s,+%C3%81vila",
+    "https://www.google.com/maps/place/?q=place_id:ChIJAYVBlgjzQA0RJhbJ9h1I94s"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "convento-de-santa-teresa-avila",
+   "nombre": "Iglesia-convento de Santa Teresa",
+   "provincia": "Ávila",
+   "comarca": "Ávila",
+   "lat": 40.6555,
+   "lon": -4.7025,
+   "tipo": "iglesia",
+   "estilo": "Barroco carmelitano",
+   "epoca": "Barroco",
+   "anio": 1636,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Junto a la muralla sur, en la plaza de la Santa, los <b>carmelitas descalzos</b> levantaron a principios del siglo XVII esta iglesia sobre el solar que la tradición identifica con la <b>casa natal de santa Teresa de Jesús</b>. La terminó hacia <b>1636</b> fray Alonso de San José, arquitecto de la orden.</p><p>Su orientación es rara: la cabecera mira al <b>norte</b> y no al este, porque se quiso que el altar cayera justo sobre la habitación donde nació la santa. La fachada es sobria, con un pórtico de <b>triple arcada</b> que sigue el modelo de Francisco de Mora en el convento de San José, y dentro hay una sola nave con capillas a los lados y un retablo mayor del segundo tercio del siglo XVII.</p><p>El suelo húmedo deterioraba la piedra y obligó a repararla muchas veces; tras las exclaustraciones del siglo XIX se restauró en 1888 y de nuevo en 1982. Fue declarada <b>Monumento Nacional en 1886</b> y en 2022 recibió el título de <b>basílica menor</b>.</p>"
+   },
+   "ver_alli": [
+    "La fachada sobria de triple arcada.",
+    "La capilla levantada sobre la habitación natal de Teresa, al lado de la nave.",
+    "Desde la plaza, el lienzo sur de la muralla justo enfrente."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia-convento_de_Santa_Teresa",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Convento+de+Santa+Teresa,+%C3%81vila",
+    "https://www.google.com/maps/place/?q=place_id:ChIJgcuTRhnzQA0R2WaLOIijbJU"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-la-encarnacion-avila",
+   "nombre": "Monasterio de la Encarnación",
+   "provincia": "Ávila",
+   "comarca": "Ávila",
+   "lat": 40.6629,
+   "lon": -4.6995,
+   "tipo": "iglesia",
+   "estilo": "Renacentista y barroco",
+   "epoca": "Renacimiento",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Al norte de la ciudad, extramuros, está el convento de clausura de las <b>carmelitas</b> de la Encarnación. Su fama se debe a que en él ingresó <b>Teresa de Jesús en 1535</b>: aquí fue monja y después priora, antes de lanzarse a fundar los conventos de su reforma, los <b>Carmelitas Descalzos</b>.</p><p>La fachada es renacentista y contrasta con la gran <b>espadaña de 1715</b>. La iglesia se transformó en el siglo XVIII al gusto barroco, con planta de cruz latina, cúpula y linterna. En <b>1630</b> se levantó una capilla sobre la celda de la santa, la llamada de la Transverberación.</p><p>El pequeño museo guarda recuerdos de Teresa y un célebre <b>dibujo de san Juan de la Cruz</b> que muestra a Cristo crucificado visto desde arriba. También se visitan los <b>locutorios</b> originales donde la santa recibía visitas y donde, según la tradición, vivió momentos de éxtasis. Forma parte del Patrimonio de la Humanidad de Ávila desde 1985.</p>"
+   },
+   "ver_alli": [
+    "La espadaña de 1715 sobre la fachada sur.",
+    "La capilla de la Transverberación, levantada sobre la celda de la santa.",
+    "En el museo, el dibujo del Cristo de san Juan de la Cruz y los locutorios."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Convento_de_la_Encarnaci%C3%B3n_(%C3%81vila)",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Convento+de+la+Encarnaci%C3%B3n,+%C3%81vila",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ__9jUOLyQA0Rw0PSOMDsb34"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "ermita-de-san-segundo-avila",
+   "nombre": "Ermita de San Segundo",
+   "provincia": "Ávila",
+   "comarca": "Ávila",
+   "lat": 40.6589,
+   "lon": -4.7077,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "anio": 1150,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>A orillas del <b>Adaja</b>, al pie de la muralla occidental, esta pequeña iglesia <b>románica del siglo XII</b> está dedicada a <b>san Segundo</b>, a quien la tradición tiene por primer obispo de Ávila. Está construida en arenisca y granito, los dos materiales que dan su color a la ciudad.</p><p>Su joya exterior es la <b>portada meridional</b>, con arquivoltas de medio punto decoradas con baquetones y rosetas, y a cada lado columnas cuyos capiteles muestran figuras humanas, animales y motivos vegetales.</p><p>Dentro se conserva la <b>estatua orante del santo en alabastro</b>, obra de <b>Juan de Juni</b> en el siglo XVI, y un retablo de la misma centuria con la imagen del titular, dos esculturas más en hornacinas y el resto en pintura. Suele estar cerrada: abre en la fiesta del santo, el 2 de mayo.</p>"
+   },
+   "ver_alli": [
+    "La portada sur y sus capiteles con figuras y animales.",
+    "Si está abierta, el san Segundo orante de alabastro de Juan de Juni.",
+    "El paseo junto al Adaja, a dos pasos de los Cuatro Postes."
+   ],
+   "fuentes": [
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/ermita-san-segundo-rio-adaja",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Ermita+de+San+Segundo,+%C3%81vila",
+    "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAKzzQA0RPq8mNYIhaXc"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "torreon-de-los-guzmanes-avila",
+   "nombre": "Torreón de los Guzmanes",
+   "provincia": "Ávila",
+   "comarca": "Ávila",
+   "lat": 40.6554,
+   "lon": -4.7015,
+   "tipo": "monumento",
+   "estilo": "Renacentista",
+   "epoca": "Renacimiento",
+   "anio": 1513,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En la plaza del Corral de las Campanas, dentro de la muralla, se levanta esta casa fuerte construida en <b>1513</b> por orden de Garcibáñez de Mújica sobre una edificación anterior. Hoy es la <b>sede de la Diputación Provincial de Ávila</b>.</p><p>Lo que da nombre al edificio es su <b>torre cuadrada</b> de granito, rematada con almenas, matacanes y garitas voladas con saeteras en las esquinas: una casa noble que todavía quería parecer fortaleza. Dentro, el <b>patio porticado de doble galería</b> descansa sobre doce columnas toscanas y luce rosetas y grandes escudos.</p><p>Aquí se alojó el rey <b>Alfonso XII</b> en su visita de 1878, y el argentino Enrique Larreta ambientó en él parte de su novela <i>La gloria de don Ramiro</i> (1920). Los sótanos, antiguas cuadras, acogen una <b>exposición permanente sobre los vetones</b>, el pueblo prerromano de los castros y los verracos.</p>"
+   },
+   "ver_alli": [
+    "La torre con sus garitas en las cuatro esquinas.",
+    "El patio de doble galería, de los más bellos de la ciudad.",
+    "En los sótanos, la exposición sobre la cultura vetona."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Torre%C3%B3n_de_los_Guzmanes",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Torre%C3%B3n+de+los+Guzmanes,+%C3%81vila",
+    "https://www.google.com/maps/place/?q=place_id:ChIJkWry3jrzQA0R61NcZ43gT2M"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "los-cuatro-postes-avila",
+   "nombre": "Los Cuatro Postes",
+   "provincia": "Ávila",
+   "comarca": "Ávila",
+   "lat": 40.6599,
+   "lon": -4.7111,
+   "tipo": "monumento",
+   "estilo": "Renacentista",
+   "epoca": "Renacimiento",
+   "anio": 1566,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Al otro lado del Adaja, en un alto junto a la carretera de Salamanca, este <b>humilladero</b> es el mirador clásico de Ávila: desde aquí se ve la <b>muralla entera</b> con la ciudad detrás. Lo forman <b>cuatro columnas dóricas de cinco metros</b> que sostienen arquitrabes con las armas de la ciudad, y en el centro una <b>cruz de granito</b>.</p><p>La tradición lo une a una romería que el concejo hacía cada año a la desaparecida ermita de San Leonardo, en recuerdo de un episodio de <b>1157</b>, y el humilladero servía de descanso a las autoridades. El monumento actual es de <b>1566</b>: lo contrató el corregidor Rodrigo Dávila con el cantero Francisco de Arellano.</p><p>Según la tradición, aquí alcanzó su tío a la niña <b>Teresa de Jesús</b> y a su hermano Rodrigo cuando se escapaban a tierra de infieles para morir mártires. La cruz actual se repuso en <b>1995</b>, después de que la destrozaran unos vándalos.</p><p class=\"dato\"><span>¿Sabías que…?</span>La leyenda dice que fue aquí donde santa Teresa se sacudió las sandalias y dijo «De Ávila, ni el polvo».</p>"
+   },
+   "ver_alli": [
+    "La vista completa de la muralla, mejor por la tarde, con el sol a la espalda.",
+    "Las cuatro columnas dóricas y los escudos de la ciudad en los arquitrabes.",
+    "Al anochecer, la muralla iluminada."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Los_Cuatro_Postes",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Los+Cuatro+Postes,+%C3%81vila",
+    "https://www.google.com/maps/place/?q=place_id:ChIJJ0_VoiDzQA0R3yyJeJ_h58k"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-arevalo",
+   "nombre": "Castillo de Arévalo",
+   "provincia": "Ávila",
+   "comarca": "Arévalo",
+   "lat": 41.0696,
+   "lon": -4.7207,
+   "tipo": "castillo",
+   "estilo": "Gótico tardío, piedra y ladrillo",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En la punta de la meseta donde se juntan los ríos <b>Adaja y Arevalillo</b>, que le hacían de foso, se alza el castillo de Arévalo, también llamado de los <b>Zúñiga</b>. Ya existía a mediados del siglo XIV, pero lo mandó rehacer en la segunda mitad del XV <b>Álvaro de Zúñiga</b>, duque de Béjar, y a comienzos del XVI, en manos de los <b>Reyes Católicos</b>, se reformó hasta tomar su característica <b>planta pentagonal</b>.</p><p>La parte baja de los muros es de sillería y la alta de <b>ladrillo</b>, el material de la comarca. Domina el conjunto una colosal <b>torre del homenaje</b> de planta semicircular, y por arriba corren garitas y matacanes muy parecidos a los del castillo de Coca, por lo que se piensa que los trazó el mismo maestro.</p><p>Desde 1476 perteneció a la Corona y su uso principal fue el de <b>prisión de presos ilustres</b>. Luego fue cementerio y cantera, y a mediados del siglo XX el Ministerio de Agricultura lo restauró para usarlo como <b>silo de cereal</b> (1955). Hoy acoge un pequeño museo del cereal en la torre del homenaje.</p>"
+   },
+   "ver_alli": [
+    "La enorme torre del homenaje que mira al pueblo.",
+    "Los muros de piedra abajo y ladrillo arriba, con sus garitas.",
+    "La vista de la confluencia del Adaja y el Arevalillo desde el paseo fluvial."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Ar%C3%A9valo",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Castillo+de+Ar%C3%A9valo",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ-S3X6NPJQA0RmF1Y3xHc3s0"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "plaza-de-la-villa-de-arevalo",
+   "nombre": "Plaza de la Villa de Arévalo",
+   "provincia": "Ávila",
+   "comarca": "Arévalo",
+   "lat": 41.066,
+   "lon": -4.7194,
+   "tipo": "monumento",
+   "estilo": "Mudéjar y arquitectura popular",
+   "epoca": "Mudéjar",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>La plaza de la Villa es el corazón más antiguo de Arévalo y uno de los rincones medievales mejor conservados de Castilla: una <b>plaza porticada</b> de casas populares cerrada por dos iglesias de ladrillo, <b>San Martín</b> y <b>Santa María la Mayor</b>, y por la casa de los Sexmos.</p><p><b>San Martín</b>, llamada «de las Torres Gemelas», es del siglo XII y la fundó el linaje de los Tapia como lugar de enterramiento. Tiene un atrio románico y dos torres altas: la <b>Torre de los Ajedreces</b>, por el dibujo de damero de su cuerpo alto, y la Torre Nueva. Dejó de ser parroquia en 1911 y hoy es sala de exposiciones.</p><p><b>Santa María la Mayor</b>, de finales del siglo XII y principios del XIII, es mudéjar pura: su ábside se adorna con <b>arcos ciegos de ladrillo</b> y dentro conserva pinturas góticas del siglo XIV con un Pantocrátor. Su torre tiene un arco en la base por el que pasa la calle de Santa María.</p>"
+   },
+   "ver_alli": [
+    "Los soportales y las casas populares que cierran la plaza.",
+    "La Torre de los Ajedreces de San Martín, con su decoración de damero.",
+    "El ábside de Santa María con sus arcos ciegos y el arco bajo su torre."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Mart%C3%ADn_(Ar%C3%A9valo)",
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_la_Mayor_(Ar%C3%A9valo)",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Plaza+de+la+Villa,+Ar%C3%A9valo",
+    "https://www.google.com/maps/place/?q=place_id:ChIJezgr-tLJQA0ReVZTE_6to18"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-de-juan-ii-madrigal",
+   "nombre": "Palacio de Juan II y convento de agustinas",
+   "provincia": "Ávila",
+   "comarca": "Madrigal de las Altas Torres",
+   "lat": 41.087,
+   "lon": -4.996,
+   "tipo": "iglesia",
+   "estilo": "Mudéjar",
+   "epoca": "Mudéjar",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En Madrigal de las Altas Torres nació el <b>22 de abril de 1451</b> la futura <b>Isabel la Católica</b>, y la tradición sitúa ese nacimiento en este edificio, que fue <b>palacio del rey Juan II</b>, su padre. Más tarde se convirtió en convento de <b>monjas agustinas</b>, y otra parte del palacio pasó a ser el hospital de la Concepción.</p><p>El convento empezó a levantarse en el siglo XV y se reformó en los siglos siguientes. En él profesaron como monjas varias <b>hijas bastardas de Fernando el Católico, Carlos I y don Juan de Austria</b>.</p><p>La visita, guiada por la propia comunidad cuando está abierto, recorre salones renacentistas, la <b>escalera regia</b> y la <b>sala de cortes</b>, cubierta con un artesonado mudéjar del siglo XV.</p>"
+   },
+   "ver_alli": [
+    "La sala de cortes y su artesonado mudéjar.",
+    "La escalera regia del antiguo palacio.",
+    "A 500 metros, la muralla mudéjar y la puerta de Cantalapiedra."
+   ],
+   "fuentes": [
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/convento-agustinas-palacio-juan-ii",
+    "https://es.wikipedia.org/wiki/Madrigal_de_las_Altas_Torres",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Palacio+de+Juan+II,+Madrigal+de+las+Altas+Torres",
+    "https://www.google.com/maps/place/?q=place_id:ChIJRxEW2V2pQA0RQ-bWjX-smp0"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "murallas-de-madrigal-de-las-altas-torres",
+   "nombre": "Murallas de Madrigal de las Altas Torres",
+   "provincia": "Ávila",
+   "comarca": "Madrigal de las Altas Torres",
+   "lat": 41.0914,
+   "lon": -5.0016,
+   "tipo": "monumento",
+   "estilo": "Mudéjar",
+   "epoca": "Mudéjar",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Madrigal debe su apellido a las torres de su <b>muralla mudéjar</b>, que todavía rodea buena parte del pueblo. Es un óvalo irregular de unos <b>2.300 metros</b> que encerraba casi 40 hectáreas; tuvo <b>80 torres</b>, de las que se conservan 23, con una altura media de 12 metros y hasta 20 junto a algunas puertas.</p><p>Está hecha al modo toledano, con <b>tapial y ladrillo</b>, y conserva rasgos de origen musulmán como las torres huecas y las <b>torres albarranas</b>. Se empezó a principios del siglo XIII y en 1302 el rey Fernando IV ordenó derribarla por haberse levantado sin permiso de Arévalo, del que dependía Madrigal; la orden nunca se cumplió.</p><p>Tenía cuatro puertas, cada una con el nombre de la villa hacia la que miraba: Medina, Arévalo, Peñaranda (desaparecida) y <b>Cantalapiedra</b>, la mejor conservada, con su gran torre almenada.</p>"
+   },
+   "ver_alli": [
+    "La puerta de Cantalapiedra, al oeste, con su torre y galerías.",
+    "Un paseo por la ronda exterior para ver las torres de tapial y ladrillo.",
+    "La puerta de Arévalo, al este, camino del palacio de Juan II."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Muralla_de_Madrigal_de_las_Altas_Torres",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Puerta+de+Cantalapiedra",
+    "https://www.google.com/maps/place/?q=place_id:ChIJueWMlX-pQA0Rm8GQkfb27NI"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-arenas-de-san-pedro",
+   "nombre": "Castillo de la Triste Condesa",
+   "provincia": "Ávila",
+   "comarca": "Arenas de San Pedro",
+   "lat": 40.2094,
+   "lon": -5.0919,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1400,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En pleno casco de Arenas de San Pedro, junto al río Arenal, el condestable <b>Ruy López Dávalos</b> mandó construir este castillo en <b>1400</b> para marcar su dominio sobre las tierras que le había dado Enrique III. Curiosamente no está en alto, sino en una de las zonas más bajas de la villa: quizá porque se hizo deprisa después de que los vecinos de Mombeltrán se negaran a tenerlo en su pueblo.</p><p>En 1430 pasó como dote a <b>Juana Pimentel</b>, al casarse con el todopoderoso <b>Álvaro de Luna</b>. Cuando su marido fue decapitado en Valladolid en 1453, ella empezó a ser llamada «<b>la Triste Condesa</b>», y ese es el nombre con el que se conoce el castillo.</p><p>Es de granito, de <b>planta cuadrada de 51 metros</b> de lado, con cuatro torreones redondos en las esquinas y una <b>torre del homenaje de 26 metros</b> junto a la entrada. Fue cementerio en el siglo XIX y en 1853 pasó al ayuntamiento; restaurado, se reabrió en 2007 y la torre acoge salas de exposición.</p><p class=\"dato\"><span>¿Sabías que…?</span>Las instalaciones restauradas las inauguró en 2007 la bióloga estadounidense Lynn Margulis.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje rectangular junto a la puerta.",
+    "El adarve restaurado, sobre el río Arenal.",
+    "El escudo de la villa, que muestra el castillo en llamas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Arenas_de_San_Pedro",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Castillo+de+la+Triste+Condesa,+Arenas+de+San+Pedro",
+    "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqseKPw0RbP4l_jGU7Ac"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-mombeltran",
+   "nombre": "Castillo de Mombeltrán",
+   "provincia": "Ávila",
+   "comarca": "Mombeltrán",
+   "lat": 40.2574,
+   "lon": -5.0181,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1462,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Sobre el último rellano de la sierra, dominando todo el barranco, se alza el castillo de los <b>duques de Alburquerque</b>. Lo levantó <b>Beltrán de la Cueva</b>, primer duque de Alburquerque; por los escudos se fecha entre <b>1462 y 1474</b>, y se atribuye al arquitecto <b>Juan Guas</b> por su parecido con los castillos de Belmonte y Manzanares el Real.</p><p>Una barbacana baja con gran talud rodea el cuerpo rectangular con torres en las esquinas, todo rematado con almenas sobre filas de arquillos que son pura decoración. En el siglo XVI el segundo duque lo adaptó a residencia: rellenó el foso, quitó el puente levadizo y abrió la <b>portada renacentista</b> por la que se entra hoy.</p><p>El interior está muy deteriorado, con un patio de columnas en torno al que estaban la residencia, la capilla y la servidumbre. El castillo ha seguido en manos de la <b>casa de Alburquerque</b> hasta hoy, y se visita solo con cita.</p>"
+   },
+   "ver_alli": [
+    "La barbacana en talud y las almenas sobre arquillos.",
+    "La portada renacentista de entrada.",
+    "La torre del homenaje, con sus pisos de madera desmontables, pensada para frenar a los asaltantes."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Mombeltr%C3%A1n",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Castillo+de+Mombeltr%C3%A1n",
+    "https://www.google.com/maps/place/?q=place_id:ChIJbzpJlbR1QA0Rw_uPaXylAAw"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "calzada-del-puerto-del-pico",
+   "nombre": "Calzada del Puerto del Pico",
+   "provincia": "Ávila",
+   "comarca": "Cuevas del Valle",
+   "lat": 40.3204,
+   "lon": -5.0135,
+   "tipo": "monumento",
+   "estilo": "Calzada empedrada",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Desde el <b>Puerto del Pico</b> baja hacia Cuevas del Valle, en zigzag por la ladera sur de Gredos, un largo tramo de <b>calzada empedrada</b> en muy buen estado, de entre <b>5,5 y 8,5 metros de anchura</b>. La Junta de Castilla y León la presenta como calzada romana, aunque hay estudios que consideran que esa atribución es incorrecta y que su construcción es posterior.</p><p>Sea cual sea su origen, fue un paso clave: unía la <b>Meseta norte con el valle del Tiétar</b> y, más allá, con Toledo y Extremadura. Por aquí pasa la <b>Cañada Real Leonesa Occidental</b>, la ruta de los rebaños trashumantes que desde la Edad Media subían a la sierra al comenzar el verano y bajaban a los pastos de invierno, y fue camino habitual de arrieros y comerciantes de Andalucía, Talavera y Extremadura.</p><p>Hoy es un paseo de unos kilómetros entre el mirador del puerto y Cuevas del Valle, con vistas espectaculares del valle.</p>"
+   },
+   "ver_alli": [
+    "El empedrado y los bordillos en las curvas del zigzag.",
+    "El mirador del puerto, en lo alto de la N-502.",
+    "Si hay tiempo, bajar a pie hasta Cuevas del Valle."
+   ],
+   "fuentes": [
+    "https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/yacimientos-arqueologicos/calzada-puerto-pico",
+    "https://es.wikipedia.org/wiki/Puerto_del_Pico",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Puerto+del+Pico",
+    "https://www.google.com/maps/place/?q=place_id:ChIJS6TDdf52QA0R90qcwYRUbS0"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-de-los-duques-de-alba-piedrahita",
+   "nombre": "Palacio de los Duques de Alba",
+   "provincia": "Ávila",
+   "comarca": "Piedrahíta",
+   "lat": 40.4614,
+   "lon": -5.3258,
+   "tipo": "monumento",
+   "estilo": "Neoclásico",
+   "epoca": "Ilustración y Neoclásico",
+   "anio": 1755,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Donde hubo un castillo medieval de los Álvarez de Toledo, el duque <b>Fernando de Silva y Álvarez de Toledo</b> mandó levantar en Piedrahíta un palacio de verano. Lo trazó el arquitecto francés <b>Jaime (Jacques) Marquet</b> y se construyó a partir de <b>1755</b>; el duque había sido embajador en Francia y quiso un palacio a la francesa, de líneas neoclásicas, con <b>jardín</b> al estilo de allí.</p><p>Sus iniciales, <b>FS</b>, aparecen en el dintel de la puerta. Más tarde lo habitó su nieta, <b>María Teresa Cayetana de Silva</b>, la famosa duquesa de Alba, que recibió aquí a invitados como el pintor <b>Goya</b>.</p><p>Sufrió daños en la Guerra de la Independencia y en la Guerra Civil: el interior se quemó y fue saqueado, pero la fachada llegó intacta. El ayuntamiento lo compró en 1931; hoy es un <b>colegio</b> y sus jardines, con el llamado puente de las azucenas, son parque público.</p>"
+   },
+   "ver_alli": [
+    "La fachada principal y el patio de honor.",
+    "Las iniciales FS del duque en el dintel de la puerta.",
+    "Los jardines, abiertos al público como parque."
+   ],
+   "fuentes": [
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/palacios/palacio-duques-alba",
+    "https://en.wikipedia.org/wiki/Palace_of_the_Dukes_of_Alba",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Palacio+de+los+Duques+de+Alba,+Piedrah%C3%ADta",
+    "https://www.google.com/maps/place/?q=place_id:ChIJwaHf-JGePw0RaXdUSTrwLTc"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-la-adrada",
+   "nombre": "Castillo de La Adrada",
+   "provincia": "Ávila",
+   "comarca": "La Adrada",
+   "lat": 40.299,
+   "lon": -4.64,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Sobre un cerro del <b>valle del Tiétar</b>, el castillo de La Adrada tiene una historia poco común: se construyó <b>alrededor de una iglesia gótica del siglo XIV</b>, de la que quedan la cabecera y parte de los muros. La muralla exterior la empezó a finales del siglo XIV el condestable <b>Ruy López Dávalos</b>, a quien Enrique III había dado la villa.</p><p>Después pasó a <b>Álvaro de Luna</b>, a <b>Beltrán de la Cueva</b>, en el siglo XVII a la casa de Montijo y en el XIX a la de Alba. Sobre el ábside de la iglesia se montó una torre semicircular, y dentro del recinto quedan el aljibe y pasadizos subterráneos abovedados. Una barbacana con cubos y troneras de cerradura invertida rodea el conjunto, y un foso protegía la entrada.</p><p>Muy deteriorado, fue cedido al ayuntamiento y restaurado; hoy alberga el <b>Centro de Interpretación Histórica del Valle del Tiétar</b>.</p>"
+   },
+   "ver_alli": [
+    "El ábside de la vieja iglesia, convertido en base de una torre.",
+    "La puerta entre dos cubos y la barbacana con troneras.",
+    "La exposición sobre la historia del valle del Tiétar."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_La_Adrada",
+    "https://nominatim.openstreetmap.org/search?format=json&q=Castillo+de+la+Adrada",
+    "https://www.google.com/maps/place/?q=place_id:ChIJA3O4HwJEQA0RYijnM1BkARY"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "ulaca",
+   "campos": {
+    "lat": 40.5297,
+    "lon": -4.8855,
+    "estilo": "Castro vetón (oppidum)",
+    "texto": {
+     "general": "<p>En lo alto de un cerro granítico sobre el valle Amblés, junto a Villaviciosa (Solosancho), se extiende uno de los mayores castros de los <b>vetones</b>, el pueblo prerromano de los verracos. El <i>oppidum</i> de Ulaca alcanza unas <b>60 hectáreas</b>, muy por encima de Las Cogotas o La Mesa de Miranda, y lo cerraba una <b>muralla de más de 3 km</b>, levantada en la segunda Edad del Hierro (siglos III-II a. C.).</p><p>Dentro se han contado unas <b>250-300 viviendas</b>, muchas con la puerta abierta hacia el este, y se calcula que en su mejor momento vivieron aquí hasta <b>un millar de personas</b>. La ocupación principal fue entre los siglos VII y I a. C., aunque hay restos desde el Calcolítico hasta la Edad Media.</p><p>Lo más sorprendente está tallado en la roca: un gran <b>altar de sacrificios</b> con dos escaleras de nueve peldaños, dos cavidades y un canal para las libaciones, y la llamada <b>sauna</b>, un recinto semiexcavado en un canchal que antes se tomó por horno o fragua. Dentro del poblado hay incluso <b>canteras</b>, con las ranuras de corte de los bloques todavía visibles.</p><p class=\"dato\"><span>¿Sabías que…?</span>Ulaca fue declarada Conjunto Histórico-Artístico ya en 1931.</p>"
+    },
+    "ver_alli": [
+     "Sube a pie desde Villaviciosa por el camino del castro, con buen calzado.",
+     "Busca el altar de sacrificios, con sus dos escaleras talladas en el granito.",
+     "La sauna está en el centro del poblado, a menos de 200 m del altar.",
+     "Fíjate en las canteras con las marcas de corte y en los tramos de muralla."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castro_de_Ulaca",
+     "https://www.openstreetmap.org/?mlat=40.5291&mlon=-4.8838#map=18/40.5291/-4.8838"
+    ]
+   }
+  },
+  {
+   "id": "toros-guisando",
+   "campos": {
+    "estilo": "Escultura zoomorfa vetona",
+    "texto": {
+     "general": "<p>En un prado de El Tiemblo, alineados de norte a sur y mirando al cerro de Guisando, se alzan <b>cuatro grandes toros de granito</b> tallados por los <b>vetones</b> en la Edad del Hierro. Miden entre 2,64 y 2,77 metros de largo y entre 1,29 y 1,45 de alto. Los agujeros de la cabeza servían para encajar cuernos: por eso se interpretan como toros y no como cerdos o jabalíes. Su fecha es incierta, entre los siglos IV y I a. C.</p><p>Tampoco se sabe bien para qué servían: se ha pensado en un uso religioso o funerario, en la protección del ganado o en marcas de territorio. Dos de ellos llevan inscripciones latinas añadidas más tarde, y hasta 1548 se conocían cinco.</p><p>Junto a ellos se firmó en <b>1468</b> el <b>Tratado de los Toros de Guisando</b>: Enrique IV reconoció a su hermana Isabel como princesa de Asturias, es decir, heredera de Castilla. Fue el primer paso de Isabel la Católica hacia el trono.</p><p class=\"dato\"><span>¿Sabías que…?</span>Cervantes los cita en el Quijote («pesé los Toros de Guisando…») y Lorca los evoca en el <i>Llanto por Ignacio Sánchez Mejías</i>.</p>"
+    },
+    "ver_alli": [
+     "Mira los agujeros de la cabeza donde iban encajados los cuernos.",
+     "Busca las inscripciones latinas en dos de los toros.",
+     "Detrás corre el arroyo Tórtolas, límite con la Comunidad de Madrid.",
+     "Cerca, el monasterio de los Jerónimos de Guisando y el valle del Tiétar."
+    ]
+   }
+  },
+  {
+   "id": "prado-cruces",
+   "campos": {
+    "lat": 40.6727,
+    "lon": -4.6028,
+    "estilo": "Megalítico: sepulcro de corredor",
+    "texto": {
+     "general": "<p>En una dehesa de Bernuy-Salinero, a unos 15 km de Ávila, se conserva un <b>sepulcro de corredor</b>, la forma típica de los dólmenes del centro de la Península: una <b>cámara circular</b> a la que se llega por un <b>pasillo orientado al sureste</b>, todo ello cubierto por un <b>túmulo</b> de tierra y piedras que, en lo que se conserva, alcanza unos <b>20 metros de diámetro</b>.</p><p>Fue una tumba colectiva usada durante muchísimo tiempo: desde finales del <b>Neolítico</b> hasta comienzos de la <b>Edad del Bronce</b>, entre los últimos siglos del IV milenio y el primer tercio del II milenio a. C. Generación tras generación, las comunidades campesinas de la zona volvieron a enterrar aquí a sus muertos.</p>"
+    },
+    "ver_alli": [
+     "Acceso por un camino señalizado desde Bernuy-Salinero.",
+     "Entra por el corredor y fíjate en cómo se orienta al sureste.",
+     "Rodea el túmulo para hacerte idea de su tamaño original.",
+     "Ciudad de Ávila, a unos 15 km."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Dolmen_del_Prado_de_las_Cruces",
+     "https://www.google.com/maps/place/?q=place_id:ChIJVZ3X2FLwQA0RC1wVMQ97Y28"
+    ]
+   }
+  },
+  {
+   "id": "las-cogotas",
+   "campos": {
+    "lat": 40.7275,
+    "lon": -4.7011,
+    "estilo": "Castro vetón",
+    "texto": {
+     "general": "<p>Sobre un cerro de la margen izquierda del <b>Adaja</b>, en Cardeñosa, se levanta uno de los castros prerromanos más antiguos de la provincia. Ocupa unas <b>14,5 hectáreas</b> y se organiza en <b>dos recintos amurallados</b>, cada uno con tres entradas: una acrópolis en lo alto y un recinto inferior que baja hacia el arroyo de Rominillas. Sus murallas de granito llegan a tener hasta unos 11 metros de grosor.</p><p>Además de murallas y fosos, lo protegían <b>campos de piedras hincadas</b>, barreras de unos tres metros de ancho ante las entradas, para frenar a jinetes o a infantes. El primer recinto se fecha hacia el siglo IV a. C. y el segundo, con un gran alfar, en los siglos III-II a. C. Juan Cabré, que lo excavó desde 1927, pensó que el recinto bajo era un <b>encerradero de ganado</b>. Su necrópolis, a 240 metros al norte, guardaba <b>1.613 sepulturas</b> de incineración.</p><p>En la acrópolis hubo antes una ocupación de la Edad del Bronce, y el yacimiento dio nombre a toda una cultura de esa época, <b>Cogotas I</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>El embalse de Las Cogotas, aprobado en 1983, cubrió parte del antiguo «encerradero de ganado».</p>"
+    },
+    "ver_alli": [
+     "Sube a la acrópolis y busca los campos de piedras hincadas ante las puertas.",
+     "Recorre la muralla del recinto inferior hacia el arroyo.",
+     "Desde lo alto se ve el embalse de Las Cogotas.",
+     "Aula arqueológica en Cardeñosa, para entender el castro antes de subir."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/cogotas",
+     "https://es.wikipedia.org/wiki/Las_Cogotas",
+     "https://www.openstreetmap.org/?mlat=40.727&mlon=-4.7003#map=18/40.727/-4.7003"
+    ]
+   }
+  },
+  {
+   "id": "el-raso",
+   "campos": {
+    "lat": 40.1828,
+    "lon": -5.358,
+    "estilo": "Castro vetón",
+    "texto": {
+     "general": "<p>En la falda sur de Gredos, sobre el valle del Tiétar, en Candeleda, los vetones levantaron un gran poblado fortificado de unas <b>20 hectáreas</b>, cerrado por <b>2 km de muralla</b> de 2-3 metros de grosor, con torres y bastiones. Estuvo habitado entre <b>finales del siglo III y mediados del I a. C.</b> por unas <b>2.500-3.000 personas</b>, y se abandonó probablemente durante la conquista romana.</p><p>Antes hubo un poblado sin murallas en el llano, El Castañar, del Bronce final y comienzos del Hierro, que se ha relacionado con la campaña de Aníbal del 220 a. C. Sus habitantes acabaron trasladándose al cerro, más fácil de defender.</p><p>Lo excavó de forma sistemática Fernando Fernández Gómez desde 1970. Dos casas reconstruidas sirven hoy de <b>centro de interpretación</b>, y el llamado <b>tesoro de El Raso</b>, con monedas de plata, se expone en el Museo de Ávila.</p>"
+    },
+    "ver_alli": [
+     "Empieza por las dos casas reconstruidas del centro de interpretación.",
+     "Recorre algún tramo de la muralla con sus torres y bastiones.",
+     "El tesoro de El Raso se ve en el Museo de Ávila.",
+     "Alrededor, el valle del Tiétar y la sierra de Gredos."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/El_Raso",
+     "https://www.openstreetmap.org/?mlat=40.1828&mlon=-5.358#map=18/40.1828/-5.358"
+    ]
+   }
+  },
+  {
+   "id": "mesa-miranda",
+   "campos": {
+    "lat": 40.7208,
+    "lon": -4.9464,
+    "estilo": "Castro vetón",
+    "texto": {
+     "general": "<p>Sobre una meseta entre dos ríos, en Chamartín, con un cortado natural al norte, se alza uno de los grandes castros de los <b>vetones</b>. Encierra unas <b>30 hectáreas</b> en tres recintos: el Castillo Bajero, el Castillo Cimero y un tercero al este que, por su tamaño, quizá servía de corral para el ganado. La muralla exterior mide <b>2.832 metros</b> y tiene de media unos 5 de ancho, con puertas flanqueadas por torres.</p><p>Estuvo habitado desde finales del siglo V a. C. hasta el siglo I a. C. Al sur de las murallas está su necrópolis, <b>La Osera</b>, con <b>2.230 tumbas</b> agrupadas en zonas marcadas por estelas de piedra de hasta 1,60 metros; la estudiaron Juan Cabré y Antonio Molinero.</p><p>El yacimiento se restauró y abrió al público en 2004.</p>"
+    },
+    "ver_alli": [
+     "Entra por las puertas con torres que unen los dos recintos principales.",
+     "Baja a la necrópolis de La Osera, al sur, con sus estelas.",
+     "Aula arqueológica en Chamartín, para preparar la visita."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Castro_de_La_Mesa_de_Miranda",
+     "https://www.google.com/maps/place/?q=place_id:ChIJH5gWDRCbQA0RZKrNZ4iJXxY"
+    ]
+   }
+  },
+  {
+   "id": "sanchorreja",
+   "campos": {
+    "lat": 40.6654,
+    "lon": -4.8767,
+    "estilo": "Castro del Bronce final y primer Hierro",
+    "texto": {
+     "general": "<p>En la sierra de Ávila, sobre Sanchorreja, se encuentra un castro ocupado en el <b>Bronce final</b> y la <b>primera Edad del Hierro</b>: el mundo que precedió a los vetones. Conserva restos de su <b>recinto amurallado</b>, de la <b>zona de viviendas</b> y de la <b>necrópolis</b>.</p><p>Sus excavaciones dieron abundantes materiales que hoy guarda el <b>Museo de Ávila</b>: cerámica, armas, adornos y útiles de bronce y de hierro. Entre las piezas más vistosas están una <b>placa de cinturón</b> y una <b>ajorca con doce colgantes</b>.</p>"
+    },
+    "ver_alli": [
+     "Antes de subir, pregunta en el Ayuntamiento de Sanchorreja cómo llegar al cerro.",
+     "En lo alto, busca los restos del recinto amurallado.",
+     "La placa de cinturón y la ajorca con doce colgantes están en el Museo de Ávila."
+    ]
+   }
+  },
+  {
+   "id": "catedral-y-murallas-de-avila",
+   "campos": {
+    "lat": 40.6558,
+    "lon": -4.6972,
+    "tipo": "monumento",
+    "estilo": "Románico (murallas); románico de transición y gótico (catedral)",
+    "texto": {
+     "general": "<p>Las <b>murallas de Ávila</b> rodean la ciudad vieja con un perímetro de <b>2.515 metros</b>, <b>87 cubos</b> o torreones, unas 2.500 almenas y <b>9 puertas</b>, entre ellas las del Alcázar y de San Vicente. Sus muros tienen unos 3 metros de grosor y 12 de alto. La tradición las fecha entre 1090 y 1099, cuando Alfonso VI encargó la repoblación al conde Raimundo de Borgoña, pero muchos investigadores creen que el recinto actual es de la <b>segunda mitad del siglo XII</b>.</p><p>La catedral forma parte de la defensa: su cabecera, el <b>Cimorro</b>, construida entre 1160 y 1180, es un ábside macizo y almenado que hace de cubo de la muralla. La dirigió desde 1172 el maestro <b>Giral Fruchel</b>, en un románico de transición al gótico, y por eso se considera la <b>primera catedral gótica de España</b>. Dentro destacan la doble girola, la piedra rojiza «sangrante» del valle Amblés, el retablo mayor que empezó Pedro Berruguete en 1499 y el sepulcro del Tostado, de Vasco de la Zarza.</p><p>En los muros se reaprovecharon lápidas y estelas de una necrópolis romana. Las murallas son Monumento Nacional desde 1884 y, con la ciudad vieja y sus iglesias extramuros, Patrimonio de la Humanidad desde <b>1985</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>En la torre de la catedral se conserva la Casa del Campanero, una vivienda castellana habitada hasta los años cincuenta.</p>"
+    },
+    "ver_alli": [
+     "Sube al adarve por la Casa de las Carnicerías, el Arco del Carmen, la Puerta del Puente o la Puerta del Alcázar.",
+     "Rodea por fuera el Cimorro, la cabecera de la catedral convertida en torreón.",
+     "En la catedral, fíjate en la piedra sangrante de la girola y en el sepulcro del Tostado.",
+     "Busca las lápidas romanas reutilizadas en el lienzo este de la muralla."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Muralla_de_Ávila",
+     "https://es.wikipedia.org/wiki/Catedral_de_Ávila",
+     "https://www.openstreetmap.org/?mlat=40.6558&mlon=-4.6972#map=18/40.6558/-4.6972",
+     "https://www.google.com/maps/place/?q=place_id:ChIJYdQEbxzzQA0RpskV25srZ5A"
+    ]
+   }
+  },
+  {
+   "id": "basilica-de-san-vicente",
+   "campos": {
+    "lat": 40.658,
+    "lon": -4.696,
+    "estilo": "Románico (rematado en gótico)",
+    "texto": {
+     "general": "<p>Extramuros, frente a la puerta de su nombre, se levanta la gran basílica dedicada a los hermanos <b>Vicente, Sabina y Cristeta</b>. Según la tradición murieron mártires en el año 306, en las persecuciones contra los cristianos, y sus cuerpos se depositaron en una oquedad de la roca sobre la que se alzó el templo.</p><p>La iglesia actual se empezó hacia <b>1130</b>, se retomó a mediados del siglo XII y se remató a principios del XIV; se atribuye al maestro francés <b>Giral Fruchel</b>, el de la catedral. Tiene planta de cruz latina, tres naves y cripta. Su <b>pórtico occidental</b>, de mediados del XII, con Cristo en el parteluz flanqueado por los apóstoles, se ha comparado con el Pórtico de la Gloria; en la portada sur se ve la Anunciación.</p><p>Dentro está el <b>cenotafio</b> de los santos, un monumento conmemorativo en forma de arca con tejado a dos aguas y relieves del martirio y de la leyenda del judío arrepentido que levantó el primer templo. En la cripta se venera la Virgen de la Soterraña, patrona de la ciudad junto a santa Teresa.</p><p class=\"dato\"><span>¿Sabías que…?</span>San Vicente fue una de las tres iglesias «juraderas» de Castilla, donde se prestaban juramentos solemnes, junto con San Isidoro de León y Santa Gadea de Burgos.</p>"
+    },
+    "ver_alli": [
+     "Detente en el pórtico occidental: Cristo en el parteluz, rodeado de apóstoles.",
+     "Busca la Anunciación en la portada sur.",
+     "Rodea el cenotafio de los santos y lee sus relieves del martirio.",
+     "Baja a la cripta: la Virgen de la Soterraña y la roca de los mártires."
+    ],
+    "fuentes": [
+     "https://www.terranostrum.es/turismo/el-romanico-en-avila-basilica-de-san-vicente",
+     "https://es.wikipedia.org/wiki/Basílica_de_San_Vicente_(Ávila)",
+     "https://www.openstreetmap.org/?mlat=40.658&mlon=-4.696#map=18/40.658/-4.696"
+    ]
+   }
+  },
+  {
+   "id": "san-pedro-de-avila",
+   "campos": {
+    "lat": 40.6542,
+    "lon": -4.6952,
+    "estilo": "Románico",
+    "texto": {
+     "general": "<p>La iglesia de San Pedro preside la <b>plaza de Santa Teresa</b>, el antiguo <b>Mercado Grande</b>, justo enfrente de la puerta del Alcázar de la muralla. Es uno de los grandes templos románicos de Ávila: un documento de <b>1103</b> ya la menciona, y vuelve a aparecer en la Crónica de la Población de Ávila (1173).</p><p>Tiene planta de <b>cruz latina</b>, con <b>tres naves</b> que terminan en <b>tres ábsides</b> —la central más alta que las laterales— y tres portadas románicas. Sobre la fachada de los pies se abre su gran <b>rosetón</b>, la imagen más conocida del templo. Fue declarada monumento nacional en 1914 y forma parte del conjunto Patrimonio de la Humanidad desde 1985.</p>"
+    },
+    "ver_alli": [
+     "Mira el gran rosetón de la fachada occidental desde la plaza.",
+     "Rodea la cabecera para ver sus tres ábsides.",
+     "Compara sus tres portadas románicas.",
+     "Enfrente, la puerta del Alcázar de la muralla."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Pedro_(Ávila)",
+     "https://www.openstreetmap.org/?mlat=40.6542&mlon=-4.6953#map=18/40.6542/-4.6953"
+    ]
+   }
+  },
+  {
+   "id": "san-andres-de-avila",
+   "campos": {
+    "lat": 40.6595,
+    "lon": -4.6953,
+    "estilo": "Románico",
+    "texto": {
+     "general": "<p>Extramuros, en la plaza de su nombre, San Andrés es uno de los templos más antiguos de Ávila. Se construyó en <b>arenisca</b> a comienzos del <b>siglo XII</b> —en el primer o el segundo cuarto, según las fuentes—, contemporánea de San Vicente y San Pedro. Su cabecera de <b>tres ábsides semicirculares</b> recuerda a San Isidoro de León, y se cree que la levantaron artistas leoneses.</p><p>Tiene dos portadas, a poniente y al sur, con arquivoltas de medio punto y capiteles figurados. Dentro guarda una de las colecciones más ricas de <b>capiteles historiados</b> de la ciudad, impostas ajedrezadas, un arco polilobulado hacia el ábside de la Epístola y artesonados de madera del siglo XV. La torre, más tardía, se rehízo en granito en los años sesenta.</p>"
+    },
+    "ver_alli": [
+     "Rodea la cabecera para ver los tres ábsides de arenisca.",
+     "Fíjate en los capiteles figurados de las portadas oeste y sur.",
+     "Si está abierta, busca dentro los capiteles historiados de la capilla mayor."
+    ],
+    "fuentes": [
+     "https://www.spain.info/es/lugares-interes/iglesia-san-andres-avila/",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Andrés_(Ávila)",
+     "https://www.terranostrum.es/turismo/iglesia-de-san-andres-avila",
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-san-andres",
+     "https://www.openstreetmap.org/?mlat=40.6595&mlon=-4.6953#map=18/40.6595/-4.6953"
+    ]
+   }
+  },
+  {
+   "id": "laguna-grande-de-gredos",
+   "campos": {
+    "lat": 40.2542,
+    "lon": -5.2764,
+    "estilo": "Circo y lago glaciar",
+    "fuentes": [
+     "https://www.senditur.com/es/ruta/senda-de-la-laguna-grande/",
+     "https://www.turismocastillayleon.com/es/servicios/audioguias-casas-parque/audioguia-casa-parque-pinos-cimeros",
+     "https://es.wikipedia.org/wiki/Laguna_Grande_de_Gredos",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ63aJ78iTPw0RsPVMh1BbLDo"
+    ]
+   }
+  }
+ ]
+}
