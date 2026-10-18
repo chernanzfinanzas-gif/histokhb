@@ -1,0 +1,747 @@
+{
+ "zona": "Valladolid",
+ "nuevos": [
+  {
+   "id": "iglesia-de-san-pablo-valladolid",
+   "nombre": "Iglesia de San Pablo",
+   "provincia": "Valladolid",
+   "comarca": "Valladolid",
+   "lat": 41.657,
+   "lon": -4.7245,
+   "tipo": "iglesia",
+   "estilo": "Gótico isabelino y clasicista",
+   "epoca": "Gótico",
+   "anio": 1445,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En la plaza de San Pablo, junto al Palacio Real y pegada al Colegio de San Gregorio, se alza la iglesia del convento dominico de San Pablo, uno de los edificios más reconocibles de Valladolid. El convento lo fundó en <b>1276</b> la reina <b>Violante de Aragón</b>, esposa de Alfonso X, y la iglesia actual se levantó entre <b>1445 y 1616</b>: primero la pagó el cardenal <b>Juan de Torquemada</b>, tío del inquisidor, y después el obispo <b>fray Alonso de Burgos</b>, que costeó la parte baja de la fachada.</p><p>La fachada es un retablo de piedra en dos tiempos. La parte baja, obra de <b>Simón de Colonia</b> terminada hacia 1500, es puro <b>gótico isabelino</b>: puerta con arco conopial y, encima, la Coronación de la Virgen con fray Alonso de Burgos arrodillado. La parte alta y las dos torres se añadieron cuando el <b>duque de Lerma</b>, valido de Felipe III, se hizo patrono del templo hacia 1601; por eso aparecen sus escudos y el fondo de estrellas de los Rojas. Remata el conjunto un frontón con el escudo de los Reyes Católicos.</p><p>Dentro quedan imágenes de <b>Gregorio Fernández</b>, como su Santo Domingo y un Cristo yacente. El templo sufrió el saqueo de las tropas francesas, la desamortización, que acabó con el convento, y un incendio en 1968, y fue restaurado por completo entre 2004 y 2009.</p><p class=\"dato\"><span>¿Sabías que…?</span>Aquí fueron bautizados <b>Felipe II</b> y <b>Felipe IV</b>. Cuenta la leyenda que a Felipe II lo sacaron por una ventana del vecino Palacio de Pimentel —de la que cuelga una cadena— para que lo bautizaran en San Pablo y no en la parroquia de San Martín.</p>"
+   },
+   "ver_alli": [
+    "La fachada de abajo arriba: el gótico de Simón de Colonia y, sobre la imposta, el añadido del duque de Lerma con sus escudos.",
+    "El relieve de la Coronación de la Virgen sobre la puerta, con el obispo Alonso de Burgos arrodillado.",
+    "En la esquina de la plaza, la ventana con cadena del Palacio de Pimentel, la de la leyenda del bautizo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Pablo_(Valladolid)",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJew_PVqwSRw0RBGLHA4xqAuo"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-de-santa-cruz-valladolid",
+   "nombre": "Palacio de Santa Cruz",
+   "provincia": "Valladolid",
+   "comarca": "Valladolid",
+   "lat": 41.6516,
+   "lon": -4.7201,
+   "tipo": "monumento",
+   "estilo": "Gótico y primer Renacimiento",
+   "epoca": "Renacimiento",
+   "anio": 1491,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>El antiguo <b>Colegio Mayor de Santa Cruz</b> pasa por ser la primera muestra de arquitectura renacentista en España. Lo fundó el cardenal <b>Pedro González de Mendoza</b> con una bula de Sixto IV de <b>1479</b>; las obras empezaron en 1486 con planos góticos, pero en <b>1488</b> el cardenal, disgustado, ordenó seguir «a lo romano». El edificio se inauguró en <b>1491</b>, y el cambio de estilo probablemente se debe a <b>Lorenzo Vázquez de Segovia</b>.</p><p>Ese cambio se lee en la propia fachada: los contrafuertes, pensados para tracerías góticas, acabaron con pilastras renacentistas. La portada de medio punto lleva <b>grutescos</b>, grifos y delfines, la cruz de Jerusalén del colegio y, encima, un relieve todavía gótico del cardenal arrodillado ante santa Elena. El fondo está forrado de <b>almohadillado</b> a la italiana y una gran cornisa con balaustrada remata el conjunto.</p><p>El colegio cerró en 1838 y hoy es la sede del <b>rectorado de la Universidad de Valladolid</b>, del Museo de la Universidad y del Museo de Arte Africano Arellano Alonso. Durante la Guerra de la Independencia se alojó en él el duque de Wellington.</p>"
+   },
+   "ver_alli": [
+    "En la portada, el almohadillado y los grutescos: lo nuevo, renacentista.",
+    "El relieve del cardenal Mendoza ante santa Elena, que todavía es gótico.",
+    "El patio de tres pisos, que se puede ver al entrar."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Palacio_de_Santa_Cruz_(Valladolid)",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJZcxrWbASRw0Re4qUdOjOXYY"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-las-angustias-valladolid",
+   "nombre": "Iglesia de las Angustias",
+   "provincia": "Valladolid",
+   "comarca": "Valladolid",
+   "lat": 41.6539,
+   "lon": -4.7239,
+   "tipo": "iglesia",
+   "estilo": "Clasicismo herreriano",
+   "epoca": "Renacimiento",
+   "anio": 1597,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Frente al teatro Calderón está la iglesia penitencial de Nuestra Señora de las Angustias, sede de una de las cofradías de Semana Santa más antiguas de la ciudad, la de las Angustias, también llamada «<b>de los Cuchillos</b>». La trazó <b>Juan de Nates</b>, ayudado por Martín de Uriarte; se empezó en <b>1597</b> y se terminó en <b>1604</b>.</p><p>Es una obra del <b>estilo herreriano</b>, sobrio y de orden clásico. Su fachada superpone dos cuerpos a la manera de Palladio: el de abajo repite el esquema de un <b>arco de triunfo romano</b>, y en las hornacinas del de arriba están las figuras de la Virgen y el ángel de la Anunciación. El retablo mayor se hizo entre 1602 y 1605.</p><p>La joya está en la capilla-camarín que se empezó en 1703: la <b>Virgen de las Angustias de Juan de Juni</b>, una Dolorosa que se talló para salir en procesión.</p>"
+   },
+   "ver_alli": [
+    "La fachada en dos cuerpos, con el arco de triunfo abajo y la Anunciación arriba.",
+    "En la capilla-camarín, la Dolorosa de Juan de Juni.",
+    "A la salida, el teatro Calderón enfrente y Santa María la Antigua a dos pasos."
+   ],
+   "fuentes": [
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-angustias",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ9Va09K0SRw0RtylND1u8EbA"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-real-de-valladolid",
+   "nombre": "Palacio Real de Valladolid",
+   "provincia": "Valladolid",
+   "comarca": "Valladolid",
+   "lat": 41.6566,
+   "lon": -4.7256,
+   "tipo": "monumento",
+   "estilo": "Renacimiento",
+   "epoca": "Renacimiento",
+   "anio": 1524,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En la plaza de San Pablo está el palacio que fue residencia oficial de los reyes cuando <b>Valladolid fue capital de la Corte, entre 1601 y 1606</b>. Lo había levantado <b>Francisco de los Cobos</b>, secretario de Carlos V, según un proyecto de <b>1524</b> del arquitecto real <b>Luis de Vega</b>, alrededor de un gran patio renacentista; las obras se concluyeron hacia 1528.</p><p>Por él pasaron Carlos I, Felipe II y Felipe III. Aquí nacieron en 1605 el futuro <b>Felipe IV</b> y su hermana <b>Ana de Austria</b>, que sería reina de Francia y madre de Luis XIV. Santa Teresa se alojó en él en 1568, y en enero de 1809 lo ocupó <b>Napoleón</b>.</p><p>De sus dos patios, el primero tiene dos pisos de arcos con medallones atribuidos a <b>Esteban Jamete</b> y escudos de los territorios del Imperio; el segundo, la Galería de los Príncipes de Saboya, lleva una fuente de mármol con sirenas. La fachada actual es el resultado de reformas de los siglos XVII y XX. Desde el siglo XIX alberga mandos del Ejército de Tierra, por lo que el interior solo se visita en ocasiones señaladas.</p>"
+   },
+   "ver_alli": [
+    "La fachada a la plaza de San Pablo, con torres en los extremos.",
+    "Si hay visita, el primer patio con sus medallones y escudos imperiales.",
+    "Enfrente, la fachada de San Pablo: los dos edificios formaban los «sitios reales» de la ciudad."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Palacio_Real_de_Valladolid",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJU7XJ_KwSRw0R_MOpN8UbUk0"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "fachada-de-la-universidad-de-valladolid",
+   "nombre": "Fachada de la Universidad de Valladolid",
+   "provincia": "Valladolid",
+   "comarca": "Valladolid",
+   "lat": 41.6526,
+   "lon": -4.7217,
+   "tipo": "monumento",
+   "estilo": "Barroco",
+   "epoca": "Barroco",
+   "anio": 1715,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>La Universidad de Valladolid es una de las más antiguas de España: su fundación suele fecharse en <b>1241</b>. De su viejo edificio del siglo XV, junto a la actual plaza de la Universidad, solo queda en pie la gran <b>fachada barroca</b> que proyectó el carmelita <b>fray Pedro de la Visitación</b> y que se construyó en <b>1715</b>, cuando se amplió el edificio con un segundo claustro.</p><p>El cuerpo central lo ordenan <b>cuatro columnas gigantes</b> y lo remata una gran peineta. Los grupos de esculturas representan, en forma de alegorías, las materias que se enseñaban allí, y en la balaustrada hay cuatro estatuas de los <b>reyes que favorecieron a la universidad</b>.</p><p>En 1909 se derribó, con mucha polémica, el antiguo edificio para levantar uno nuevo, y de aquel derribo solo se salvó esta fachada, que hoy da paso a la Facultad de Derecho. Muy cerca están la catedral y Santa María la Antigua.</p>"
+   },
+   "ver_alli": [
+    "Las cuatro columnas gigantes del centro y la peineta que lo corona.",
+    "Las alegorías de las materias, cada una con sus atributos.",
+    "Los cuatro reyes de la balaustrada."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Universidad_de_Valladolid",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJq4Y_k7ESRw0RcUkH-tn76XQ"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santa-maria-de-mediavilla-medina-de-rioseco",
+   "nombre": "Santa María de Mediavilla",
+   "provincia": "Valladolid",
+   "comarca": "Medina de Rioseco",
+   "lat": 41.8832,
+   "lon": -5.0428,
+   "tipo": "iglesia",
+   "estilo": "Gótico y Renacimiento",
+   "epoca": "Gótico",
+   "anio": 1516,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Medina de Rioseco tiene en Santa María de Mediavilla su gran templo gótico. Se empezó hacia 1490-1496 y la terminó en <b>1516</b> el arquitecto <b>Gaspar de Solórzano</b>: tres naves con bóvedas de crucería; la torre, en cambio, es barroca, de Pedro de Sierra.</p><p>El retablo mayor lo empezó <b>Gaspar Becerra</b>, lo continuó <b>Juan de Juni</b> y lo terminó <b>Esteban Jordán</b> en 1590. El órgano es de 1732, obra de Francisco Ortega.</p><p>Pero lo que trae aquí a la gente es la <b>capilla de los Benavente</b>, mandada hacer en <b>1543</b> por Álvaro de Benavente como panteón familiar y decorada por los hermanos <b>Corral de Villalpando</b>, con un retablo de Juan de Juni. Su riquísima decoración de esculturas y pinturas le ha valido el apodo de «<b>Capilla Sixtina de Castilla</b>».</p>"
+   },
+   "ver_alli": [
+    "La capilla de los Benavente, con su decoración de los Corral de Villalpando y el retablo de Juni.",
+    "El retablo mayor de Becerra, Juni y Jordán.",
+    "Por fuera, la torre barroca que domina el caserío."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_de_Mediavilla",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ5-HUlbaARw0Ruso9LOV-OuI"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "uruena",
+   "nombre": "Urueña",
+   "provincia": "Valladolid",
+   "comarca": "Urueña",
+   "lat": 41.727,
+   "lon": -5.2035,
+   "tipo": "poblacion",
+   "estilo": "Villa amurallada medieval",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Sobre una loma de los Montes Torozos, Urueña conserva uno de los cascos urbanos mejor conservados de la provincia: desde fuera parece una pequeña ciudad medieval encerrada en su <b>muralla</b>, de la que quedan gran parte de los lienzos y dos puertas, además de restos del castillo. Fue declarada <b>conjunto histórico-artístico en 1975</b>, junto con su ermita de la Anunciada.</p><p>Su posición le dio historia: fue cabeza del <b>Infantado de Valladolid</b> entre los siglos XII y XIV, y la fortificó <b>Sancho III</b> tras la división de los reinos en 1157, porque quedaba justo en la <b>frontera entre León y Castilla</b>. En el siglo XV Juan II la donó a Pedro Girón.</p><p>Hoy Urueña es conocida como la primera <b>Villa del Libro</b> de España (desde 2007), con librerías por todas partes, y por sus museos, entre ellos el centro etnográfico de <b>Joaquín Díaz</b>. A las afueras está la ermita de la <b>Anunciada</b>, uno de los mejores ejemplos del románico de la meseta.</p>"
+   },
+   "ver_alli": [
+    "Un paseo por el adarve de la muralla, con la Tierra de Campos a los pies.",
+    "Las puertas de la muralla y lo que queda del castillo, hoy cementerio.",
+    "Bajando del pueblo, la ermita románica de la Anunciada."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Urue%C3%B1a",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ1R35WHSGOA0ROJO4YCDEtOw"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-fuensaldana",
+   "nombre": "Castillo de Fuensaldaña",
+   "provincia": "Valladolid",
+   "comarca": "Fuensaldaña",
+   "lat": 41.7062,
+   "lon": -4.7676,
+   "tipo": "castillo",
+   "estilo": "Gótico (escuela de Valladolid)",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1452,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>A seis kilómetros de Valladolid, el castillo de Fuensaldaña es un castillo de llanura construido como <b>residencia señorial</b> y no como fortaleza militar. Lo empezó en <b>1452</b> <b>Alonso Pérez de Vivero</b>, contador mayor de Juan II, y lo terminó su nieto Alonso de Vivero, el que protegió la boda secreta de los <b>Reyes Católicos</b>, que según la tradición pasaron aquí su luna de miel.</p><p>Sigue el modelo de la llamada <b>escuela de Valladolid</b>: un recinto cuadrado con cubos en las esquinas y una gran <b>torre del homenaje de 34 metros</b>, a la que se entraba por un puente levadizo. Por dentro tiene tres pisos y un sótano con una estancia abovedada por planta, unidos por una escalera de caracol que sube hasta la terraza, con cuatro garitas en las esquinas.</p><p>Nunca tuvo gran guarnición, y los comuneros lo tomaron con facilidad. Restaurado en 1983, fue <b>sede de las Cortes de Castilla y León</b> hasta 2007, con el hemiciclo levantado en el patio de armas, y hoy acoge un centro dedicado a los castillos de la provincia.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje con sus cuatro garitas, que bajan hasta el suelo como finas torretas.",
+    "El recinto cuadrado con cubos en las esquinas.",
+    "Dentro, la exposición sobre los castillos vallisoletanos y la familia Vivero."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Fuensalda%C3%B1a",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJsSVayQBzRw0RIo0yJ7EDsN4"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-simancas",
+   "nombre": "Castillo de Simancas (Archivo General)",
+   "provincia": "Valladolid",
+   "comarca": "Simancas",
+   "lat": 41.5919,
+   "lon": -4.8289,
+   "tipo": "castillo",
+   "estilo": "Medieval y herreriano",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1540,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Desde <b>1540</b> el castillo de Simancas guarda el <b>Archivo General de Simancas</b>, uno de los archivos más importantes de Europa, con millones de documentos de la monarquía. Antes fue fortaleza de los <b>Enríquez</b>, almirantes de Castilla, que en el siglo XV rehicieron una vieja fortaleza árabe, y después prisión de Estado de los Reyes Católicos.</p><p>De finales del siglo XV son el muro que lo rodea, los cubos, las almenas, el foso, la entrada y los dos puentes. El castillo propiamente dicho se debe a las reformas del siglo XVI, cuando <b>Felipe II</b> lo convirtió en archivo con trazas de <b>Juan de Herrera</b> y Francisco de Mora. La capilla conserva una bóveda estrellada pintada con las armas de Alonso Enríquez y María de Velasco.</p><p>Sus muros vieron episodios duros: en <b>1521</b> fue ejecutado aquí a garrote el obispo de Zamora <b>Antonio de Acuña</b>, capitán comunero, en el cubo que hoy se llama <b>Torre del Obispo</b>, y en 1522 murió en él el mariscal navarro Pedro de Navarra.</p>"
+   },
+   "ver_alli": [
+    "El foso y los dos puentes de acceso, de época medieval.",
+    "La Torre del Obispo, con su linterna acampanada.",
+    "La capilla, con su bóveda estrellada pintada con los escudos de los Enríquez."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Simancas",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ9_vXWLhuRw0RANbMXz4kHJw"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-torrelobaton",
+   "nombre": "Castillo de Torrelobatón",
+   "provincia": "Valladolid",
+   "comarca": "Torrelobatón",
+   "lat": 41.6506,
+   "lon": -5.0256,
+   "tipo": "castillo",
+   "estilo": "Gótico (escuela de Valladolid)",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Visible desde kilómetros en los Montes Torozos, el castillo de Torrelobatón es uno de los mejor conservados de Castilla y León. Perteneció a los <b>Enríquez, almirantes de Castilla</b>, cuyos escudos aparecen en la torre, y su forma actual es de mediados del siglo XV, según el modelo de la <b>escuela de Valladolid</b>.</p><p>Es un cuadrado de altos muros con <b>cubos circulares en tres esquinas</b> y, en la cuarta, una torre del homenaje cuadrada de unos <b>40 metros de altura</b>, coronada por ocho torreoncillos. Lo rodean restos de foso y de una barbacana.</p><p>Su gran momento llegó en la <b>guerra de las Comunidades</b>: en febrero de 1521 los comuneros lo tomaron tras ocho días de asedio. Fue su última plaza antes de partir hacia Toro el 23 de abril y ser derrotados en <b>Villalar</b>. Desde 2007 alberga el <b>Centro de Interpretación de la Guerra de las Comunidades</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>En este castillo se rodaron escenas de la película «El Cid», con Charlton Heston: hacía de Vivar, el pueblo del Campeador.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje con sus ocho torreoncillos y los escudos de los Enríquez.",
+    "Las almenas «de buzón», fruto de la reparación de 1535 tras el asedio comunero.",
+    "Dentro, la exposición sobre la guerra de las Comunidades."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Torrelobat%C3%B3n",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJc3qXL9NiRw0RnTiBchBv-ko"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-portillo",
+   "nombre": "Castillo de Portillo",
+   "provincia": "Valladolid",
+   "comarca": "Portillo",
+   "lat": 41.4791,
+   "lon": -4.5878,
+   "tipo": "castillo",
+   "estilo": "Gótico (escuela de Valladolid)",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1465,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En lo alto de un cerro que domina la Tierra de Pinares, el castillo de Portillo —o de los Condes de Benavente— es una de las fortalezas señoriales de la <b>escuela de Valladolid</b> del siglo XV, levantadas para mostrar el poder de sus señores. Lo que se ve es fruto de la restauración que pidió <b>Enrique IV en 1465</b> sobre una fábrica anterior del siglo XIV; después <b>Alonso Pimentel</b>, conde de Benavente, añadió el adarve, el foso y el pozo.</p><p>Es de <b>planta cuadrada</b>, con la torre del homenaje en un ángulo, barbacana y tres puertas defendidas por cubos con matacanes. En el centro del patio de armas hay un <b>pozo de más de 30 metros</b> de profundidad al que se baja por una escalera de caracol.</p><p>Su episodio más famoso es la prisión de <b>don Álvaro de Luna</b>, el todopoderoso valido de Juan II, que estuvo encerrado aquí antes de ser llevado a Valladolid para su ejecución. Fue declarado monumento histórico-artístico en 1931.</p>"
+   },
+   "ver_alli": [
+    "El pozo del patio de armas, con su escalera de caracol hacia el fondo.",
+    "La subida a la torre del homenaje y la vista sobre los pinares.",
+    "Las puertas defendidas por cubos con matacanes."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Portillo",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJnRf78Bk9Rw0RYmiwUeIVwDQ"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-santa-maria-de-retuerta",
+   "nombre": "Monasterio de Santa María de Retuerta",
+   "provincia": "Valladolid",
+   "comarca": "Sardón de Duero",
+   "lat": 41.6167,
+   "lon": -4.4109,
+   "tipo": "iglesia",
+   "estilo": "Tardorrománico",
+   "epoca": "Románico",
+   "anio": 1146,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En la orilla izquierda del Duero, cerca de Sardón, está Retuerta, la <b>primera fundación premostratense de España</b> y casa madre de la orden en Castilla. Su origen está en la donación que en <b>1146</b> hizo <b>Mayor Pérez</b>, hija del conde Ansúrez, señor de Valladolid; en 1148 confirmó que lo regirían los canónigos de Prémontré, y en 1185 se le reconoció la primacía sobre su hermano de La Vid.</p><p>La iglesia es <b>tardorrománica</b>. Iba a tener tres naves, pero la obra se detuvo tras los ábsides, el crucero y un tramo de nave; en el siglo XV se alargó la central para el coro. Por fuera destacan los <b>tres ábsides</b>, el central con ventanas de columnas y capiteles corintios muy bien labrados, y la espadaña de 1655. Se entra al conjunto por un arco de 1678.</p><p>Tras la desamortización llegó al siglo XX en buen estado porque lo habitaron colonos. En 1988 lo compró el grupo Novartis (Abadía Retuerta), que lo restauró, y hoy es un <b>hotel</b>.</p>"
+   },
+   "ver_alli": [
+    "Los tres ábsides románicos, el central con sus ventanas de capiteles corintios.",
+    "La espadaña barroca de 1655 sobre el ábside sur.",
+    "El arco de entrada de 1678 que da paso al compás. Es un hotel: conviene informarse antes de ir."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_de_Retuerta",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJU3SjLJMdRw0RCT4YgHc37_4"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-la-santa-espina",
+   "nombre": "Monasterio de La Santa Espina",
+   "provincia": "Valladolid",
+   "comarca": "Castromonte",
+   "lat": 41.7326,
+   "lon": -5.0992,
+   "tipo": "iglesia",
+   "estilo": "Románico, gótico, renacentista y barroco",
+   "epoca": "Románico",
+   "anio": 1147,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En el valle del Bajoz, en los Montes Torozos, el monasterio cisterciense de La Santa Espina debe su nombre a una reliquia: una <b>espina de la corona de Cristo</b> que la infanta <b>Sancha Raimúndez</b>, hermana de Alfonso VII, recibió en París de Luis VII de Francia. Para guardarla fundó el monasterio en <b>1147</b>, y los primeros monjes llegaron ese mismo año desde <b>Claraval</b>, enviados por san Bernardo.</p><p>El conjunto mezcla épocas. La <b>sala capitular</b> y la sacristía son de los orígenes, de un románico tardío de finales del XII y comienzos del XIII; la iglesia conserva naves protogóticas del siglo XIII y un crucero renacentista; los claustros son de los siglos XVI y XVII, y la fachada, con dos <b>torres gemelas</b>, se añadió en el XVIII en la línea de <b>Ventura Rodríguez</b>. La reliquia se guarda hoy en la capilla de las Reliquias, obra de Francisco de Praves.</p><p>Tras la desamortización fue escuela agrícola de los Hermanos de La Salle desde 1886, y entre 1937 y 1939 sus terrenos sirvieron de <b>campo de concentración</b> para presos republicanos. Hoy sigue siendo un centro de formación agraria.</p>"
+   },
+   "ver_alli": [
+    "La fachada barroca con sus dos torres gemelas.",
+    "La sala capitular cisterciense, de las mejor conservadas de España.",
+    "Junto al altar mayor, la estatua orante de la infanta Sancha, la fundadora."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_(La_Santa_Espina)",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ46VQKoKBOA0Ryia9H7ufx2g"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-san-benito-el-real-valladolid",
+   "nombre": "Iglesia de San Benito el Real",
+   "provincia": "Valladolid",
+   "comarca": "Valladolid",
+   "lat": 41.6543,
+   "lon": -4.7293,
+   "tipo": "iglesia",
+   "estilo": "Gótico",
+   "epoca": "Gótico",
+   "anio": 1499,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>San Benito el Real, casa principal de los <b>benedictinos</b> en Castilla, se levantó sobre el solar del antiguo <b>Alcázar Real</b> de Valladolid. La iglesia se construyó entre <b>1499 y 1515</b> con planos de <b>Juan de Arandia y García de Olave</b>, toda en piedra caliza de canteras cercanas.</p><p>Es una gran <b>iglesia de salón</b>: tres naves casi de la misma altura que terminan en tres ábsides, sin crucero, cubiertas con bóvedas de crucería. Desde la calle impresiona su <b>fachada-pórtico en forma de torre</b>, diseñada por <b>Rodrigo Gil de Hontañón</b> en 1569; fue mucho más alta, pero los dos cuerpos de campanas se derribaron en el siglo XIX porque amenazaban ruina.</p><p>Atesoró obras de primer orden: el gran retablo mayor y la sillería de coro de <b>Andrés de Nájera</b> (1528), en la que cada abad benedictino encontraba su asiento por el santo del respaldo. Tras la desamortización de 1835 el monasterio fue cuartel, y buena parte de aquellos tesoros están hoy en el Museo Nacional de Escultura. El retablo mayor actual, barroco, llegó en 1922 desde la catedral.</p>"
+   },
+   "ver_alli": [
+    "La gran torre-pórtico de Rodrigo Gil de Hontañón.",
+    "El interior de salón, con las tres naves casi a la misma altura.",
+    "La reja de Tomás Celma (1571) que separaba la parte de los fieles de la de los monjes."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_del_monasterio_de_San_Benito_el_Real",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJN6bQm1JtRw0RUrXuTJMLg4U"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "colegiata-de-san-antolin-medina-del-campo",
+   "nombre": "Colegiata de San Antolín",
+   "provincia": "Valladolid",
+   "comarca": "Medina del Campo",
+   "lat": 41.3077,
+   "lon": -4.9153,
+   "tipo": "iglesia",
+   "estilo": "Gótico final y Renacimiento",
+   "epoca": "Gótico",
+   "anio": 1503,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En la Plaza Mayor de Medina del Campo, la colegiata de San Antolín es, con el castillo de La Mota, el gran edificio histórico de la villa. La parroquia la fundaron en el siglo XII repobladores llegados de <b>Palencia</b>, que le dieron el nombre del patrón de su ciudad; en <b>1480</b> el papa Sixto IV la elevó a colegiata a petición de los <b>Reyes Católicos</b>.</p><p>El templo actual es sobre todo del siglo XVI, de <b>gótico final y Renacimiento</b>: en 1503 se documenta su ampliación y en 1521 figura como maestro <b>Juan Gil de Hontañón</b>. Se le fueron añadiendo capillas barrocas, la de las Angustias con una cúpula muy decorada, y en el XVIII una portada de piedra que contrasta con el ladrillo del resto. Tenía incluso un altar en un balcón para que los mercaderes de las grandes <b>ferias de Medina</b> oyeran misa sin dejar sus puestos.</p><p>Dentro, lo mejor es el <b>retablo mayor</b>, pagado con la fundación de Catalina de Sedeño (1539) y labrado por Cornelis de Holanda, Juan Rodríguez y otros escultores del círculo de Berruguete.</p><p class=\"dato\"><span>¿Sabías que…?</span>En el reloj de la torre, dos <b>carneros</b> entrechocan sus cabezas para dar los cuartos, y en lo alto una pareja de <b>maragatos</b> de dos metros flanquea la campana que da las horas.</p>"
+   },
+   "ver_alli": [
+    "El reloj de la torre: espera a los cuartos para ver a los carneros.",
+    "El retablo mayor plateresco, con casi un centenar de escenas.",
+    "Desde la Plaza Mayor, el balcón del altar de las ferias."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Colegiata_de_San_Antol%C3%ADn",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ31OYNQRRRw0RDjx08u9uPKI"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "casas-del-tratado-tordesillas",
+   "nombre": "Casas del Tratado",
+   "provincia": "Valladolid",
+   "comarca": "Tordesillas",
+   "lat": 41.4999,
+   "lon": -5.0011,
+   "tipo": "museo",
+   "estilo": "Palacios de los siglos XV y XVII",
+   "epoca": "Renacimiento",
+   "anio": 1494,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Junto al Duero, en Tordesillas, dos palacios unidos guardan la memoria de uno de los acuerdos que cambiaron el mapa del mundo. Aquí negociaron durante meses los embajadores de los <b>Reyes Católicos</b> y de <b>Juan II de Portugal</b> el <b>Tratado de Tordesillas</b>, firmado el <b>7 de junio de 1494</b>, que repartió entre ambas coronas las tierras recién descubiertas.</p><p>El acuerdo nació porque las bulas del papa Alejandro VI, muy favorables a Castilla, dejaban a Portugal casi fuera de las empresas americanas, y ambas coronas prefirieron negociar un tratado entre ellas. El cronista portugués García de Resende contaba que los embajadores lusos recibían desde Lisboa informes secretos sobre lo que iban a proponer los castellanos.</p><p>El palacio más antiguo es de finales del siglo XV y aún luce en la fachada el <b>escudo de los Reyes Católicos</b>; el otro es de mediados del XVII. Se restauraron en 1994, en el quinto centenario, y hoy acogen el <b>Museo del Tratado de Tordesillas</b>.</p>"
+   },
+   "ver_alli": [
+    "El escudo de los Reyes Católicos en la fachada del palacio más antiguo.",
+    "Dentro, el museo que explica la negociación y el reparto del mundo.",
+    "A la salida, el río Duero y el puente, a pocos pasos."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Casas_del_Tratado_de_Tordesillas",
+    "https://nominatim.openstreetmap.org/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJtYTHx9JhRw0RkFVFHXzKK38"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "pintia",
+   "campos": {
+    "lat": 41.6182,
+    "lon": -4.1696,
+    "estilo": "Vacceo (Segunda Edad del Hierro)",
+    "texto": {
+     "general": "<p>Junto a Padilla de Duero, en la ribera del Duero, estuvo <b>Pintia</b>, una de las ciudades de los <b>vacceos</b>, el pueblo prerromano que ocupó el centro del valle del Duero y el curso bajo del Pisuerga. Durante mucho tiempo se creyó que Pintia era la actual Valladolid, pero ni las distancias de los caminos romanos ni la arqueología lo permiten: la ciudad estaba aquí. El yacimiento, <b>Bien de Interés Cultural desde 1993</b>, reúne la ciudad de <b>Las Quintanas</b>, su gran cementerio de <b>Las Ruedas</b> y, al otro lado del río, el barrio alfarero de <b>Carralaceña</b>, con hornos excepcionales por su tamaño.</p><p>La necrópolis de <b>Las Ruedas</b>, en uso desde el <b>siglo IV a.&nbsp;C.</b>, ocupa más de cuatro hectáreas. Allí los vacceos incineraban a sus muertos y enterraban las cenizas con ricos <b>ajuares</b> de guerreros, mujeres y niños; algunas tumbas tenían más de cien piezas, y los especialistas las cuentan entre las más ricas de la Edad del Hierro peninsular. Las tumbas se señalaban con <b>estelas</b> de caliza: se calcula que hubo medio millar.</p><p>La ciudad acabó romanizada y, mucho después, los <b>visigodos</b> instalaron su propio cementerio sobre sus ruinas. Hoy la investiga la Universidad de Valladolid desde el Centro de Estudios Vacceos «Federico Wattenberg», y parte de lo hallado se expone en el Museo de Valladolid.</p><p class=\"dato\"><span>¿Sabías que…?</span>Las excavaciones han sacado unas doscientas tumbas, que según los arqueólogos son apenas un 0,2&nbsp;% de lo que guarda el cementerio.</p>"
+    },
+    "ver_alli": [
+     "En Las Ruedas, fíjate en las estelas de piedra hincadas que marcaban las tumbas.",
+     "Las visitas guiadas salen del Centro de Estudios Vacceos «Federico Wattenberg», en Padilla de Duero.",
+     "Completa la visita con los ajuares del Museo de Valladolid y con el castillo de Peñafiel, muy cerca."
+    ],
+    "fuentes": [
+     "https://www.pintiavaccea.es/en/seccion/guided-tours",
+     "https://es.wikipedia.org/wiki/Pintia",
+     "https://uvadoc.uva.es/bitstream/handle/10324/3306/054_Rehabilitar_necropolis.pdf?sequence=1",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Necr%C3%B3polis%20de%20Las%20Ruedas",
+     "https://www.google.com/maps/place/?q=place_id:ChIJJ1gDXwDvRg0R3E4-PMIHjjA"
+    ]
+   }
+  },
+  {
+   "id": "almenara-puras",
+   "campos": {
+    "lat": 41.194,
+    "lon": -4.6688,
+    "estilo": "Villa romana bajoimperial",
+    "texto": {
+     "general": "<p>En la margen derecha del río Adaja, entre Almenara de Adaja y Puras, se levantó en el <b>siglo IV</b> una lujosa casa de campo romana, construida sobre otra villa más pequeña del siglo III. Estuvo habitada durante todo el siglo IV y parte del V, y luego se fue abandonando poco a poco. Bajo las tierras de labranza se intuía desde 1887; las primeras excavaciones las dirigió Gratiniano Nieto en <b>1942</b>.</p><p>La casa ocupaba unos <b>2.500&nbsp;m²</b> y tenía <b>30 estancias</b> repartidas en torno a <b>dos patios</b> con columnas. Conserva unos <b>400&nbsp;m² de mosaicos</b>, casi todos en muy buen estado. El más famoso, en el salón de la zona familiar, representa a <b>Pegaso</b> junto a una fuente, donde dos ninfas lo bañan.</p><p>En 1996 los restos se cubrieron con un edificio que permite verlos desde pasarelas, y al lado se abrió el <b>Museo de las Villas Romanas</b>. La obra recibió el premio <b>Europa Nostra</b> en 2004, y el yacimiento es Bien de Interés Cultural desde 1994.</p>"
+    },
+    "ver_alli": [
+     "Busca el mosaico de Pegaso con las dos ninfas, en el salón de la parte sur.",
+     "Recorre las pasarelas para ver la planta de la casa con sus dos patios.",
+     "Al final del recorrido, las termas, con una sala de planta trilobulada.",
+     "El Museo de las Villas Romanas, adosado al yacimiento, explica cómo se vivía en estas casas."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/villa-romana-almenara-puras",
+     "https://es.wikipedia.org/wiki/Villa_romana_de_Almenara-Puras",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Villa%20Romana%20de%20Almenara-Puras",
+     "https://www.google.com/maps/place/?q=place_id:ChIJrZCa_cg0Rw0R2w2EwAEK3A0"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-penafiel",
+   "campos": {
+    "lat": 41.5967,
+    "lon": -4.1143,
+    "estilo": "Gótico militar (reconstrucción del siglo XV)",
+    "texto": {
+     "general": "<p>Sobre un cerro estrecho y alargado que domina Peñafiel se estira este castillo con forma de <b>barco</b>: mide casi <b>200 metros de largo</b> y apenas unos 35 de ancho. La fortaleza ya existía en el siglo X; la tomó <b>Almanzor</b> en 983 y la recuperó en <b>1013</b> el conde Sancho García, a quien la tradición atribuye el nombre: «desde hoy en adelante esta será la peña más fiel de Castilla».</p><p>En la primera mitad del siglo XIV el infante <b>don Juan Manuel</b> la reedificó. En 1451 Juan II la tomó y mandó derribarla, y en 1456 encargó reconstruirla a <b>Pedro Téllez Girón</b>, maestre de Calatrava, cuyo escudo luce en la torre del homenaje. De esa obra salió lo que vemos: un recinto con <b>28 cubos</b> almenados y, en medio, una torre del homenaje de unos <b>34 metros</b>.</p><p>Monumento Nacional desde 1917, desde 1999 alberga el <b>Museo Provincial del Vino</b>, en plena Ribera del Duero.</p>"
+    },
+    "ver_alli": [
+     "La torre del homenaje, en el centro, con el escudo de los Girón.",
+     "Recorre el adarve para entender la planta en forma de barco y ver la Ribera del Duero.",
+     "El Museo Provincial del Vino ocupa parte del castillo."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Pe%C3%B1afiel",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Castillo%20de%20Pe%C3%B1afiel",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ5zyFpZzrRg0Rm1WWO8O_J64"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-la-mota",
+   "campos": {
+    "lat": 41.309,
+    "lon": -4.9086,
+    "estilo": "Gótico militar en ladrillo",
+    "texto": {
+     "general": "<p>El castillo de la Mota se alza sobre el cerro donde nació Medina del Campo, la gran villa de ferias de Castilla. Está hecho de <b>ladrillo</b> rojizo de la zona, y la piedra solo aparece en detalles como troneras y escudos. Las obras importantes empezaron en el siglo XV: el infante Juan de Aragón ya hacía trabajos hacia 1433, y hacia <b>1460 Enrique IV</b> mandó levantar la gran torre del homenaje, de unos <b>38 metros</b> y cinco plantas.</p><p>Los <b>Reyes Católicos</b> lo convirtieron en una fortaleza moderna, preparada para la artillería: entre 1476 y <b>1483</b> construyeron la barrera exterior rodeada de grandes fosos, cuyos muros llegan a unos 20 metros desde el fondo del foso. La fecha de 1483 está en el escudo de la puerta.</p><p>Fue también prisión de Estado. Su preso más célebre, <b>César Borgia</b>, se descolgó de la torre del homenaje la noche del <b>25 de octubre de 1506</b> y huyó hasta Navarra. En el siglo XX fue escuela de la Sección Femenina, y hoy pertenece a la Junta de Castilla y León.</p>"
+    },
+    "ver_alli": [
+     "Rodea el foso para ver la barrera de los Reyes Católicos y su altura.",
+     "Sobre la puerta, busca el escudo con la fecha de 1483.",
+     "La torre del homenaje, desde donde se fugó César Borgia; su interior se visita en grupo guiado."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_la_Mota",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Castillo%20de%20la%20Mota",
+     "https://www.google.com/maps/place/?q=place_id:ChIJXbEA1z5QRw0RJRXB14j6Rxs"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-santa-clara-de-tordesillas",
+   "campos": {
+    "lat": 41.4998,
+    "lon": -4.9975,
+    "estilo": "Mudéjar",
+    "texto": {
+     "general": "<p>Antes de ser convento fue un <b>palacio mudéjar</b>. Lo mandó construir <b>Alfonso XI</b> hacia <b>1340</b> para celebrar su victoria en la <b>batalla del Salado</b>, y se pagó con el botín de esa batalla. Su hijo <b>Pedro I</b> terminó las obras y en <b>1363</b> lo cedió a sus hijas Beatriz e Isabel para que lo convirtieran en convento de clarisas.</p><p>Del palacio quedan joyas: la <b>fachada</b>, con una inscripción en caracteres árabes y una lápida que cuenta la batalla del Salado; el <b>patio mudéjar</b>, con arcos lobulados y de herradura y yeserías vegetales; la llamada capilla dorada, con una cúpula de nervios entrecruzados, y los <b>baños árabes</b> del palacio.</p><p>La iglesia del convento conserva en la capilla mayor una armadura de madera mudéjar considerada de las mejores de España. El coro ocupa el que fue salón principal del palacio, y la <b>capilla de los Saldaña</b>, de 1430, guarda cuatro sepulcros y un retablo en tríptico.</p>"
+    },
+    "ver_alli": [
+     "En la fachada, la inscripción árabe y la lápida que narra la batalla del Salado.",
+     "El patio mudéjar, con sus arcos de herradura y lobulados.",
+     "Mira hacia arriba en la capilla mayor de la iglesia: su armadura mudéjar es lo mejor del conjunto.",
+     "La visita es guiada; los baños árabes forman parte del recorrido del palacio."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Real_Monasterio_de_Santa_Clara_(Tordesillas)",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Real%20Monasterio%20de%20Santa%20Clara",
+     "https://www.google.com/maps/place/?q=place_id:ChIJBVTbmphgRw0RK-H_D6JYQEE"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-de-wamba",
+   "campos": {
+    "estilo": "Mozárabe y románico",
+    "texto": {
+     "general": "<p>En la iglesia de Wamba conviven dos épocas. La cabecera y el crucero son <b>mozárabes, del siglo X</b>: arcos de herradura sobre pilares y, en la capilla mayor, restos de pintura mural de ese siglo. Se relacionan con el monasterio que fundó el obispo Frunimio hacia 928. La tradición dice además que aquí fue enterrado el rey visigodo <b>Recesvinto</b>, cuyo sucesor Wamba dio nombre al pueblo.</p><p>En <b>1140</b> la infanta Sancha donó el monasterio a la <b>Orden de San Juan de Jerusalén</b>, que a finales del siglo XII rehízo y amplió las naves en estilo <b>románico</b>. El tímpano de la portada lleva la fecha de la era 1233, es decir, el año <b>1195</b>. Aquí está enterrada la reina <b>Urraca de Portugal</b>, esposa de Fernando II de León y madre de Alfonso IX.</p><p>Lo que más impresiona es su <b>osario</b>: <b>más de 3.000 calaveras</b> y huesos de monjes y vecinos depositados entre la Edad Media y el siglo XVIII, apilados en las paredes.</p><p class=\"dato\"><span>¿Sabías que…?</span>En la pared del osario se lee un epitafio que empieza «Como te ves, yo me vi»: un recordatorio de que todos acabamos igual.</p>"
+    },
+    "ver_alli": [
+     "Entra hasta la cabecera para ver los arcos de herradura mozárabes del siglo X.",
+     "En la portada, busca la inscripción con la fecha de 1195.",
+     "El osario, con miles de calaveras, y el epitafio «Como te ves, yo me vi»."
+    ],
+    "fuentes": [
+     "https://www.wikidata.org/wiki/Q14516254",
+     "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_(Wamba)",
+     "https://atlasobscura.com/places/wamba-ossuary"
+    ]
+   }
+  },
+  {
+   "id": "san-cebrian-de-mazote",
+   "campos": {
+    "lat": 41.6809,
+    "lon": -5.147,
+    "estilo": "Mozárabe (prerrománico de repoblación)",
+    "texto": {
+     "general": "<p>La iglesia de San Cipriano es el <b>mayor ejemplo conservado</b> de la arquitectura mozárabe o de repoblación. Según un documento de 952, en el año <b>916</b> unos monjes llegados de <b>Córdoba</b>, con el abad Martín al frente, se instalaron en este lugar, entonces llamado Monzoute, y levantaron la basílica que vemos. Es posible que antes hubiera aquí una iglesia visigoda.</p><p>Es una basílica de <b>tres naves</b> separadas por arcos de <b>herradura</b>, con crucero, tres ábsides de herradura y un pórtico a los pies. Guarda <b>38 capiteles</b>, muchos reaprovechados de edificios anteriores: los más antiguos, del siglo IV, sostienen el cimborrio y el ábside central, y otros son visigodos del siglo VII. Es el mayor conjunto de capiteles de una iglesia prerrománica de la península.</p><p>La iglesia llegó al siglo XX muy dañada. Se restauró en 1932-1934 y en 1941-1944, cuando se rehicieron bóvedas y cimborrio en ladrillo para distinguir lo nuevo de lo original.</p>"
+    },
+    "ver_alli": [
+     "Recorre las naves para ver la sucesión de arcos de herradura.",
+     "Compara los capiteles: los hay romanos, visigodos y mozárabes.",
+     "Busca el relieve del siglo X con una puerta de herradura y dos figuras, una bendiciendo.",
+     "Las partes de ladrillo son de la restauración del siglo XX; la piedra es la original."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Cipriano_(San_Cebri%C3%A1n_de_Mazote)",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%20de%20San%20Cipriano",
+     "https://www.google.com/maps/place/?q=place_id:ChIJyYEct9-FOA0RxLNBQ513EfU"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-la-antigua-de-valladolid",
+   "campos": {
+    "lat": 41.654,
+    "lon": -4.7228,
+    "estilo": "Románico (torre y pórtico) y gótico",
+    "texto": {
+     "general": "<p>Santa María la Antigua es uno de los símbolos de Valladolid. La fundó a finales del siglo XI el conde <b>Pedro Ansúrez</b>, repoblador de la villa, junto a uno de los ramales del río Esgueva. De aquella primera iglesia no queda nada: lo más antiguo hoy es románico tardío, de hacia <b>1200</b>.</p><p>De esa época son la <b>torre</b>, esbelta, de planta cuadrada y <b>cuatro cuerpos</b>, rematada por un chapitel puntiagudo, y el <b>pórtico</b> o galería porticada, abierta a tres lados. El resto de la iglesia se rehízo en estilo <b>gótico</b> en la primera mitad del siglo XIV.</p><p>Las aguas del Esgueva dañaron el edificio durante siglos, y a comienzos del XX amenazaba con hundirse. Entre 1900 y la década de 1910 se reconstruyó casi entera, con un aire neogótico. Fue declarada monumento en 1897.</p>"
+    },
+    "ver_alli": [
+     "La torre románica de cuatro cuerpos, con su chapitel puntiagudo.",
+     "El pórtico románico, con su galería de arcos.",
+     "Desde la plaza se ve también la catedral, a pocos pasos."
+    ],
+    "fuentes": [
+     "https://www.terranostrum.es/turismo/valladolid/valladolid-y-alfoz/valladolid-capital/iglesia-de-santa-maria-de-la-antigua-valladolid",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Iglesia%20de%20Santa%20Mar%C3%ADa%20de%20la%20Antigua",
+     "https://www.google.com/maps/place/?q=place_id:ChIJvU9F_60SRw0RjoORkHz4MN4"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-valbuena",
+   "campos": {
+    "estilo": "Cisterciense, del románico al gótico",
+    "texto": {
+     "general": "<p>El monasterio de Santa María de Valbuena lo fundó el <b>15 de febrero de 1143</b> la condesa <b>Estefanía Armengol</b>, hija del conde de Urgel. Sus primeros monjes llegaron en 1151 desde la abadía francesa de <b>Berdoues</b>, de la orden del <b>Císter</b>, y lo convirtieron en uno de los grandes monasterios cistercienses de la Ribera del Duero.</p><p>La iglesia tomó forma a lo largo del siglo XII, ya con bóvedas de crucería y arcos apuntados: es una obra de <b>transición del románico al gótico</b>. El claustro tiene dos pisos, el bajo del siglo XIII y el alto del XVI, y una capilla gótica del siglo XIII conserva <b>pinturas murales</b> con una escena cortesana y una batalla entre moros y cristianos.</p><p>Tras la desamortización de Mendizábal pasó a manos privadas. A finales de los años noventa se convirtió en sede de la <b>Fundación Las Edades del Hombre</b>, y hoy parte del conjunto es un hotel balneario.</p>"
+    },
+    "ver_alli": [
+     "La iglesia, con sus bóvedas de crucería de tradición cisterciense.",
+     "El claustro de dos pisos: abajo medieval, arriba renacentista.",
+     "Las pinturas murales góticas de la capilla del siglo XIII."
+    ],
+    "fuentes": [
+     "https://www.wikidata.org/wiki/Q1126118",
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_de_Valbuena"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-valladolid",
+   "campos": {
+    "lat": 41.6526,
+    "lon": -4.7234,
+    "estilo": "Herreriano (clasicismo renacentista)",
+    "texto": {
+     "general": "<p>Juan de Herrera, el arquitecto de El Escorial, la proyectó en 1580 como una catedral enorme y sobria, la más «herreriana» de todas, pero se quedó a medio construir por falta de dinero. Solo se levantó parte de lo previsto, y la fachada la terminó Alberto de Churriguera en el siglo XVIII.</p><p>Ocupa el lugar de la antigua <b>colegiata de Santa María la Mayor</b>, consagrada en <b>1095</b> por el conde Pedro Ansúrez. Valladolid fue sede episcopal en <b>1595</b>, y las obras siguieron a trompicones: hoy está construido solo un <b>40-45&nbsp;%</b> del proyecto. En la fachada, el cuerpo bajo es de Herrera, un arco de triunfo dórico; el alto sigue trazas de Churriguera y se terminó en 1733.</p><p>Una de las dos torres se levantó a principios del siglo XVIII y se derrumbó en <b>1841</b>; la que vemos se construyó entre 1880 y 1890. Dentro, el retablo mayor es obra de <b>Juan de Juni</b>, hecho para Santa María la Antigua y trasladado aquí en 1922, y en las capillas de la vieja colegiata está el Museo Diocesano.</p>"
+    },
+    "ver_alli": [
+     "En la fachada, distingue el cuerpo bajo de Herrera del alto barroco de Churriguera.",
+     "El retablo mayor de Juan de Juni, traído de Santa María la Antigua.",
+     "Rodea el edificio: los muros a medio hacer muestran lo que no llegó a construirse.",
+     "Los restos de la colegiata medieval, junto al Museo Diocesano."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_de_Valladolid",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Catedral%20de%20Nuestra%20Se%C3%B1ora%20de%20la%20Asunci%C3%B3n",
+     "https://www.google.com/maps/place/?q=place_id:ChIJywRlLrISRw0Rgz4NbFcK4WU"
+    ]
+   }
+  },
+  {
+   "id": "plaza-mayor-de-valladolid",
+   "campos": {
+    "lat": 41.6521,
+    "lon": -4.7286,
+    "estilo": "Renacentista (trazado regular)",
+    "texto": {
+     "general": "<p>El <b>21 de septiembre de 1561</b> estalló en Valladolid un incendio que durante tres días destruyó al menos <b>440 casas</b> del centro. Felipe II, nacido en la ciudad, ordenó reconstruirla con calles rectas y una traza nueva, y el arquitecto <b>Francisco de Salamanca</b> diseñó una plaza regular, rectangular, rodeada de <b>soportales</b> sobre columnas de granito.</p><p>Su modelo de plaza regular y porticada hizo escuela: las plazas mayores de <b>Madrid</b> (1617) y <b>Salamanca</b> (1729) muestran claramente su influencia. Antes se llamaba plaza del Mercado; el nombre de Plaza Mayor se usa desde comienzos del siglo XVI.</p><p>El ayuntamiento actual, de estilo ecléctico, se terminó en 1908, y en el centro está desde 1903 la estatua de bronce del <b>conde Pedro Ansúrez</b>, el repoblador de la villa. El color rojo de las fachadas se recuperó en 1996, al quitar el cemento que en el siglo XIX había tapado el ladrillo.</p>"
+    },
+    "ver_alli": [
+     "Pasea bajo los soportales para ver la traza regular de 1561.",
+     "La estatua del conde Ansúrez, en el centro.",
+     "El ayuntamiento de 1908, en el lado norte."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Plaza_Mayor_de_Valladolid",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Plaza%20Mayor%2C%20Valladolid",
+     "https://www.google.com/maps/place/?q=place_id:ChIJkx9RNQBtRw0R5wpqOkCmba0"
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-de-escultura-colegio-de-s",
+   "campos": {
+    "lat": 41.6573,
+    "lon": -4.7235,
+    "estilo": "Gótico isabelino (hispanoflamenco)",
+    "texto": {
+     "general": "<p>El colegio de San Gregorio, con su fachada gótica isabelina, guarda la mejor colección de escultura en madera policromada: Berruguete, Juni y Gregorio Fernández.</p><p>Lo fundó el dominico fray <b>Alonso de Burgos</b>, confesor de los Reyes Católicos, y se construyó entre <b>1488 y 1496</b>. Su fachada, relacionada con el taller de Gil de Siloé, es un tapiz de piedra; dentro destacan el <b>patio</b> de dos pisos con pilares retorcidos y una escalera con artesonado mudéjar.</p><p>El museo nació en <b>1842</b> como Museo Provincial de Bellas Artes, con obras de los conventos desamortizados, y en <b>1933</b> pasó a ser Museo Nacional de Escultura y a ocupar este colegio. Hoy se extiende también al palacio de Villena y a la Casa del Sol. Entre sus tesoros están el <b>retablo de San Benito</b> de Alonso de Berruguete (1526-1532), el <b>Entierro de Cristo</b> de Juan de Juni y los pasos procesionales de <b>Gregorio Fernández</b>, como la Sexta Angustia o Camino del Calvario.</p>"
+    },
+    "ver_alli": [
+     "Detente ante la fachada para descubrir escudos, salvajes y ramajes tallados.",
+     "El patio de dos pisos con sus pilares helicoidales.",
+     "El retablo de San Benito de Berruguete y el Entierro de Cristo de Juni.",
+     "Los pasos de Semana Santa de Gregorio Fernández."
+    ],
+    "fuentes": [
+     "https://www.culturaydeporte.gob.es/mnescultura/inicio.html",
+     "https://es.wikipedia.org/wiki/Colegio_de_San_Gregorio",
+     "https://es.wikipedia.org/wiki/Museo_Nacional_de_Escultura",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Museo%20de%20Escultura%20Colegio%20de%20San%20Gregorio",
+     "https://www.google.com/maps/place/?q=place_id:ChIJiwE3OKwSRw0RL_-om4iqNRs"
+    ]
+   }
+  },
+  {
+   "id": "museo-oriental-de-valladolid",
+   "campos": {
+    "lat": 41.644,
+    "lon": -4.7295,
+    "estilo": "Edificio neoclásico (Ventura Rodríguez)",
+    "ver_alli": [
+     "Paseo de Filipinos, 7, en el edificio neoclásico del Colegio de los Agustinos Filipinos, junto al Campo Grande.",
+     "Salas de China, Japón y Filipinas, con bronces, porcelana, pintura, monedas y arte religioso.",
+     "En las salas de China, busca los bronces rituales y la colección de monedas."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/museo-oriental",
+     "https://www.spain.info/es/lugares-interes/museo-oriental/",
+     "https://icomon.mini.icom.museum/wp-content/uploads/sites/20/2018/12/Chinese_Money_in_the_Museo_Oriental.pdf",
+     "https://es.wikipedia.org/wiki/Museo_Oriental_de_Valladolid",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Museo%20Oriental",
+     "https://www.google.com/maps/place/?q=place_id:ChIJBWkig0ptRw0Ry--48A0WfvQ"
+    ]
+   }
+  }
+ ]
+}
