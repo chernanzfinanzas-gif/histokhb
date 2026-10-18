@@ -20,4 +20,14 @@ grabar voces de ant2. Si alguna voz ya está grabada, rehacer solo ese nivel
 | ant2-12 | p (biblio) | Wood → «(1985; ed. esp. Crítica, 2013)»; Finley → «(1954; ed. esp. Fondo de Cultura Económica)». |
 | ant2-14 | p (biblio) | Ebrey: no hay edición española «Historia de China» verificable → «Patricia Buckley Ebrey, The Cambridge Illustrated History of China (1996)». |
 
-Desarrollos (des-hattusa, des-tutankamon, des-akrotiri, des-uluburun, des-motilla): ver más abajo cuando se añadan.
+## Desarrollos
+
+| Desarrollo | Cambio |
+|---|---|
+| des-tutankamon | ERROR: el 5-nov-1922 solo se despejaron 12 peldaños → «Al día siguiente habían limpiado doce peldaños, que dejaban ver la parte alta de una puerta tapiada y sellada; la escalera completa, de dieciséis, se despejó semanas después.» |
+| des-tutankamon | «Carnarvon pagaba las excavaciones desde 1917» → «le financiaba desde 1907 y pagaba las excavaciones en el Valle desde 1917». |
+| des-motilla | ERROR bibliografía: «Las motillas del Bronce de La Mancha: treinta años de investigación arqueológica» es de **Luis Benítez de Lugo Enrich (2011)**, no de Nájera y Molina (2004). |
+| des-uluburun | «más de 18.000 objetos» → «más de 15.000 objetos» (Pulak 2008). |
+| des-uluburun | Castillo de San Pedro «en 1406» → «hacia 1402». |
+
+Sin cambios (comprobado): Hattusa, Akrotiri y el resto de cifras de los cinco desarrollos.
