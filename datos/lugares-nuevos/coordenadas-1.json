@@ -1,0 +1,919 @@
+{
+ "zona": "Coordenadas corregidas (España, fuera de Palencia)",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "abadia-de-san-quirce",
+   "campos": {
+    "lat": 42.191,
+    "lon": -3.597,
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/monasterios/abadia-san-quirce",
+     "https://www.wikidata.org/wiki/Q43088148"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 20.87 km del monumento; Wikidata (Q43088148) y OpenStreetMap coinciden a 30 m entre sí."
+  },
+  {
+   "id": "ciudad-de-vascos",
+   "campos": {
+    "lat": 39.7559,
+    "lon": -5.0873,
+    "fuentes": [
+     "https://www.spain.info/es/lugares-interes/ruinas-ciudad-vascos/",
+     "https://www.wikidata.org/wiki/Q5770832"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 12.3 km del monumento; Wikidata (Q5770832) y OpenStreetMap coinciden a 41 m entre sí."
+  },
+  {
+   "id": "santa-maria-de-wamba",
+   "campos": {
+    "lat": 41.6762,
+    "lon": -4.9177,
+    "fuentes": [
+     "https://www.wikidata.org/wiki/Q14516254"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 11.37 km del monumento; Wikidata (Q14516254) y OpenStreetMap coinciden a 7 m entre sí."
+  },
+  {
+   "id": "motilla-azuer",
+   "campos": {
+    "lat": 39.0433,
+    "lon": -3.4974,
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Motilla_del_Azuer",
+     "https://www.wikidata.org/wiki/Q15813894"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 11.34 km del monumento; Wikidata (Q15813894) y OpenStreetMap coinciden a 13 m entre sí."
+  },
+  {
+   "id": "noheda",
+   "campos": {
+    "lat": 40.1835,
+    "lon": -2.2594,
+    "fuentes": [
+     "https://visitacuenca.es/en/content/what-see-art-and-culture-romes-memory/villa-romana-de-noheda",
+     "https://www.wikidata.org/wiki/Q6162509"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 8.84 km del monumento; Wikidata (Q6162509) y OpenStreetMap coinciden a 9 m entre sí."
+  },
+  {
+   "id": "los-banales",
+   "campos": {
+    "lat": 42.2878,
+    "lon": -1.231,
+    "fuentes": [
+     "https://www.ultimahora.es/noticias/comunidades/2026/08/02/2681911/fundacion-banales-ofrece-visitas-guiadas-ciudad-romana-uncastillo-zaragoza-este-mes-agosto.html",
+     "https://www.wikidata.org/wiki/Q52144654"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 7.93 km del monumento; Wikidata (Q52144654) y OpenStreetMap coinciden a 101 m entre sí."
+  },
+  {
+   "id": "fuente-alamo",
+   "campos": {
+    "lat": 37.4174,
+    "lon": -4.7253,
+    "fuentes": [
+     "https://andalucia.org/en/puente-genil-cultural-tourism-villa-romana-de-fuente-alamo",
+     "https://www.wikidata.org/wiki/Q43589960"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 7.93 km del monumento; Wikidata (Q43589960) y OpenStreetMap coinciden a 11 m entre sí."
+  },
+  {
+   "id": "chao-samartin",
+   "campos": {
+    "lat": 43.1985,
+    "lon": -6.9259,
+    "fuentes": [
+     "https://www.turismoasturias.es/es/descubre/cultura/museos-y-espacios-culturales/colecciones-museograficas/museo-castro-de-chao-de-samartin",
+     "https://www.wikidata.org/wiki/Q609760"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 7.78 km del monumento; Wikidata (Q609760) y OpenStreetMap coinciden a 10 m entre sí."
+  },
+  {
+   "id": "san-chuis",
+   "campos": {
+    "lat": 43.2318,
+    "lon": -6.5964,
+    "fuentes": [
+     "https://www.turismoasturias.es/en/descubre/cultura/museos-y-espacios-culturales/castros-y-espacios-arqueologicos/castro-de-san-chuis",
+     "https://www.wikidata.org/wiki/Q20013929"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 7.14 km del monumento; Wikidata (Q20013929) y OpenStreetMap coinciden a 50 m entre sí."
+  },
+  {
+   "id": "bateria-de-castillitos",
+   "campos": {
+    "lat": 37.54,
+    "lon": -1.1209,
+    "fuentes": [
+     "https://www.wikidata.org/wiki/Q5723507"
+    ],
+    "tipo": "monumento"
+   },
+   "motivo": "Coordenada a 6.88 km del monumento; Wikidata (Q5723507) y OpenStreetMap coinciden a 74 m entre sí."
+  },
+  {
+   "id": "ategua",
+   "campos": {
+    "lat": 37.7555,
+    "lon": -4.575,
+    "fuentes": [
+     "https://www.juntadeandalucia.es/aaiicc/enclaves/enclave-arqueologico-ategua",
+     "https://www.wikidata.org/wiki/Q5710505"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 6.5 km del monumento; Wikidata (Q5710505) y OpenStreetMap coinciden a 184 m entre sí."
+  },
+  {
+   "id": "ercavica",
+   "campos": {
+    "lat": 40.431,
+    "lon": -2.6694,
+    "fuentes": [
+     "https://www.eldebate.com/espana/castilla-la-mancha/20260728/ciudad-romana-cuenca-acuno-propia-moneda-resurge-junto-embalse-buendia_444182.html",
+     "https://www.wikidata.org/wiki/Q1348600"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 6.47 km del monumento; Wikidata (Q1348600) y OpenStreetMap coinciden a 86 m entre sí."
+  },
+  {
+   "id": "dolmen-soto",
+   "campos": {
+    "lat": 37.3522,
+    "lon": -6.7515,
+    "fuentes": [
+     "https://rupestre.art/es/caves/dolmen-de-soto",
+     "https://www.wikidata.org/wiki/Q5812504"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 6.39 km del monumento; Wikidata (Q5812504) y OpenStreetMap coinciden a 12 m entre sí."
+  },
+  {
+   "id": "palacio-de-riofrio",
+   "campos": {
+    "lat": 40.8741,
+    "lon": -4.1518,
+    "fuentes": [
+     "https://www.wikidata.org/wiki/Q1972987"
+    ],
+    "tipo": "monumento"
+   },
+   "motivo": "Coordenada a 6.38 km del monumento; Wikidata (Q1972987) y OpenStreetMap coinciden a 103 m entre sí."
+  },
+  {
+   "id": "calatrava-la-vieja",
+   "campos": {
+    "lat": 39.0742,
+    "lon": -3.8332,
+    "fuentes": [
+     "https://www.spain.info/es/lugares-interes/parque-arqueologico-calatrava-vieja/",
+     "https://www.wikidata.org/wiki/Q371063"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 6.3 km del monumento; Wikidata (Q371063) y OpenStreetMap coinciden a 59 m entre sí."
+  },
+  {
+   "id": "torre-sant-josep",
+   "campos": {
+    "lat": 38.5164,
+    "lon": -0.1971,
+    "fuentes": [
+     "https://www.comunitatvalenciana.com/es/alacant-alicante/la-vila-joiosa-villajoyosa/monuments/torre-de-sant-josep",
+     "https://www.wikidata.org/wiki/Q2444564"
+    ],
+    "tipo": "monumento"
+   },
+   "motivo": "Coordenada a 5.0 km del monumento; Wikidata (Q2444564) y OpenStreetMap coinciden a 3 m entre sí."
+  },
+  {
+   "id": "la-serreta",
+   "campos": {
+    "lat": 38.6899,
+    "lon": -0.4314,
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Plomo_de_La_Serreta",
+     "https://www.wikidata.org/wiki/Q6169550"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 4.89 km del monumento; Wikidata (Q6169550) y OpenStreetMap coinciden a 18 m entre sí."
+  },
+  {
+   "id": "santa-maria-de-siones",
+   "campos": {
+    "lat": 43.0673,
+    "lon": -3.319,
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Church_of_Santa_Maria_de_Siones,_Burgos",
+     "https://www.wikidata.org/wiki/Q5911712"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 4.58 km del monumento; Wikidata (Q5911712) y OpenStreetMap coinciden a 20 m entre sí."
+  },
+  {
+   "id": "capocorb",
+   "campos": {
+    "lat": 39.3976,
+    "lon": 2.8245,
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Poblado_prehist%C3%B3rico_de_Capocorb_Vell",
+     "https://www.wikidata.org/wiki/Q1034758"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 4.35 km del monumento; Wikidata (Q1034758) y OpenStreetMap coinciden a 18 m entre sí."
+  },
+  {
+   "id": "monasterio-de-iranzu",
+   "campos": {
+    "lat": 42.7508,
+    "lon": -2.0385,
+    "fuentes": [
+     "https://www.wikidata.org/wiki/Q837979"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 4.34 km del monumento; Wikidata (Q837979) y OpenStreetMap coinciden a 35 m entre sí."
+  },
+  {
+   "id": "pendia",
+   "campos": {
+    "lat": 43.432,
+    "lon": -6.7724,
+    "fuentes": [
+     "https://castrosdeasturias.es/descargas/209-villa-valdes--rodriguez-del-cueto-2006.-castro-de-pendia.-folleto-turistico.pdf",
+     "https://www.wikidata.org/wiki/Q8342724"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 4.01 km del monumento; Wikidata (Q8342724) y OpenStreetMap coinciden a 2 m entre sí."
+  },
+  {
+   "id": "san-miguel-de-escalada",
+   "campos": {
+    "lat": 42.5713,
+    "lon": -5.3029,
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/monasterio-san-miguel-escalada",
+     "https://www.wikidata.org/wiki/Q203741"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 3.98 km del monumento; Wikidata (Q203741) y OpenStreetMap coinciden a 24 m entre sí."
+  },
+  {
+   "id": "andelos",
+   "campos": {
+    "lat": 42.6,
+    "lon": -1.8596,
+    "fuentes": [
+     "https://www.spain.info/fr/curiosites/ruines-romaines-andelos-mendigorria/",
+     "https://www.wikidata.org/wiki/Q3615328"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 3.77 km del monumento; Wikidata (Q3615328) y OpenStreetMap coinciden a 101 m entre sí."
+  },
+  {
+   "id": "carranque",
+   "campos": {
+    "lat": 40.1883,
+    "lon": -3.9565,
+    "fuentes": [
+     "https://www.eldebate.com/espana/castilla-la-mancha/20260425/agricultor-encontro-toledo-llevaba-1700-anos-esperando-bajo-tierra_410389.html",
+     "https://www.wikidata.org/wiki/Q766555"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 3.49 km del monumento; Wikidata (Q766555) y OpenStreetMap coinciden a 102 m entre sí."
+  },
+  {
+   "id": "santa-maria-de-retortillo",
+   "campos": {
+    "lat": 42.9856,
+    "lon": -4.1136,
+    "fuentes": [
+     "https://www.wikidata.org/wiki/Q3585405"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 3.34 km del monumento; Wikidata (Q3585405) y OpenStreetMap coinciden a 27 m entre sí."
+  },
+  {
+   "id": "monasterio-de-sacramenia",
+   "campos": {
+    "lat": 41.4983,
+    "lon": -3.925,
+    "fuentes": [
+     "https://www.wikidata.org/wiki/Q10911094"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 3.22 km del monumento; Wikidata (Q10911094) y OpenStreetMap coinciden a 78 m entre sí."
+  },
+  {
+   "id": "colegiata-de-arbas",
+   "campos": {
+    "lat": 42.9933,
+    "lon": -5.7446,
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-santa-maria-arbas",
+     "https://www.wikidata.org/wiki/Q5776830"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 3.18 km del monumento; Wikidata (Q5776830) y OpenStreetMap coinciden a 43 m entre sí."
+  },
+  {
+   "id": "mohias",
+   "campos": {
+    "lat": 43.5498,
+    "lon": -6.7472,
+    "fuentes": [
+     "https://boe.es/boe/dias/2013/05/22/pdfs/BOE-A-2013-5365.pdf",
+     "https://www.wikidata.org/wiki/Q20550556"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 3.13 km del monumento; Wikidata (Q20550556) y OpenStreetMap coinciden a 29 m entre sí."
+  },
+  {
+   "id": "coana",
+   "campos": {
+    "lat": 43.5109,
+    "lon": -6.7497,
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castro_de_Coa%C3%B1a",
+     "https://www.wikidata.org/wiki/Q1049918"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 3.12 km del monumento; Wikidata (Q1049918) y OpenStreetMap coinciden a 21 m entre sí."
+  },
+  {
+   "id": "cabaleiros",
+   "campos": {
+    "lat": 43.0969,
+    "lon": -8.5504,
+    "fuentes": [
+     "https://gl.wikipedia.org/wiki/Dolmen_de_Cabaleiros",
+     "https://www.wikidata.org/wiki/Q14826246"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 3.06 km del monumento; Wikidata (Q14826246) y OpenStreetMap coinciden a 4 m entre sí."
+  },
+  {
+   "id": "presa-consuegra",
+   "campos": {
+    "lat": 39.4296,
+    "lon": -3.6548,
+    "fuentes": [
+     "https://www.eldebate.com/espana/castilla-la-mancha/20260322/pueblo-toledo-esconde-presa-romana-larga-europa-casi-nadie-conoce_396601_amp.html",
+     "https://www.wikidata.org/wiki/Q1128365"
+    ],
+    "tipo": "monumento"
+   },
+   "motivo": "Coordenada a 2.99 km del monumento; Wikidata (Q1128365) y OpenStreetMap coinciden a 9 m entre sí."
+  },
+  {
+   "id": "trampal",
+   "campos": {
+    "lat": 39.1528,
+    "lon": -6.2226,
+    "fuentes": [
+     "https://admin.turismoextremadura.juntaex.es/en/explora/Basilica-of-Santa-Lucia-del-Trampal",
+     "https://www.wikidata.org/wiki/Q1518317"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 2.99 km del monumento; Wikidata (Q1518317) y OpenStreetMap coinciden a 4 m entre sí."
+  },
+  {
+   "id": "el-ceremeno",
+   "campos": {
+    "lat": 40.8868,
+    "lon": -1.966,
+    "fuentes": [
+     "https://celtiberiahistorica.es/en/exposicion-viva/el-ceremeno-herreria",
+     "https://www.wikidata.org/wiki/Q5821349"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 2.87 km del monumento; Wikidata (Q5821349) y OpenStreetMap coinciden a 15 m entre sí."
+  },
+  {
+   "id": "valeria",
+   "campos": {
+    "lat": 39.8061,
+    "lon": -2.1501,
+    "fuentes": [
+     "https://visitacuenca.es/sites/cuenca/files/yacimiento_valeria.pdf",
+     "https://www.wikidata.org/wiki/Q6158926"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 2.65 km del monumento; Wikidata (Q6158926) y OpenStreetMap coinciden a 250 m entre sí."
+  },
+  {
+   "id": "santo-adriano-de-tunon",
+   "campos": {
+    "lat": 43.2919,
+    "lon": -5.9815,
+    "fuentes": [
+     "https://www.wikidata.org/wiki/Q942130"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 2.63 km del monumento; Wikidata (Q942130) y OpenStreetMap coinciden a 12 m entre sí."
+  },
+  {
+   "id": "arco-cabanes",
+   "campos": {
+    "lat": 40.1656,
+    "lon": 0.0148,
+    "fuentes": [
+     "https://www.comunitatvalenciana.com/es/castello-castellon/cabanes/monumentos/arco-romano",
+     "https://www.wikidata.org/wiki/Q930753"
+    ],
+    "tipo": "monumento"
+   },
+   "motivo": "Coordenada a 2.63 km del monumento; Wikidata (Q930753) y OpenStreetMap coinciden a 7 m entre sí."
+  },
+  {
+   "id": "necropolis-de-arteara",
+   "campos": {
+    "lat": 27.8456,
+    "lon": -15.5693,
+    "fuentes": [
+     "https://www.wikidata.org/wiki/Q6039283"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 2.56 km del monumento; Wikidata (Q6039283) y OpenStreetMap coinciden a 5 m entre sí."
+  },
+  {
+   "id": "sant-pere-de-casserres",
+   "campos": {
+    "lat": 42.0015,
+    "lon": 2.3407,
+    "fuentes": [
+     "https://www.enciclopedia.cat/gran-enciclopedia-catalana/monestir-de-casserres",
+     "https://www.wikidata.org/wiki/Q1738829"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 2.5 km del monumento; Wikidata (Q1738829) y OpenStreetMap coinciden a 43 m entre sí."
+  },
+  {
+   "id": "ermita-de-san-frutos",
+   "campos": {
+    "lat": 41.3246,
+    "lon": -3.8792,
+    "fuentes": [
+     "https://www.terranostrum.es/turismo/ermita-de-san-frutos",
+     "https://www.wikidata.org/wiki/Q5836090"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 2.46 km del monumento; Wikidata (Q5836090) y OpenStreetMap coinciden a 20 m entre sí."
+  },
+  {
+   "id": "monasterio-de-valbuena",
+   "campos": {
+    "lat": 41.6296,
+    "lon": -4.2614,
+    "fuentes": [
+     "https://www.wikidata.org/wiki/Q1126118"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 2.25 km del monumento; Wikidata (Q1126118) y OpenStreetMap coinciden a 14 m entre sí."
+  },
+  {
+   "id": "monasterio-de-veruela",
+   "campos": {
+    "lat": 41.8124,
+    "lon": -1.6934,
+    "fuentes": [
+     "https://zaragozala.com/aragon/el-monasterio-de-veruela-adapta-su-horario-a-la-temporada-otono-invierno/",
+     "https://www.wikidata.org/wiki/Q125335"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 2.1 km del monumento; Wikidata (Q125335) y OpenStreetMap coinciden a 49 m entre sí."
+  },
+  {
+   "id": "juliobriga",
+   "campos": {
+    "lat": 42.9871,
+    "lon": -4.1111,
+    "fuentes": [
+     "https://www.hoteles.net/cantabria/reinosa/juliobriga-ciudad-romana-en-cantabria.html",
+     "https://www.wikidata.org/wiki/Q3189896"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 2.04 km del monumento; Wikidata (Q3189896) y OpenStreetMap coinciden a 111 m entre sí."
+  },
+  {
+   "id": "santa-maria-de-covet",
+   "campos": {
+    "lat": 42.0874,
+    "lon": 1.0701,
+    "fuentes": [
+     "https://museucatedralseudurgell.org/en/territori/santa-maria-de-covet",
+     "https://www.wikidata.org/wiki/Q3585188"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 2.03 km del monumento; Wikidata (Q3585188) y OpenStreetMap coinciden a 2 m entre sí."
+  },
+  {
+   "id": "veranes",
+   "campos": {
+    "lat": 43.4841,
+    "lon": -5.7537,
+    "fuentes": [
+     "https://asturias.com/villa-romana-de-veranes-gijon/",
+     "https://www.wikidata.org/wiki/Q9093964"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 2.02 km del monumento; Wikidata (Q9093964) y OpenStreetMap coinciden a 1 m entre sí."
+  },
+  {
+   "id": "fazouro",
+   "campos": {
+    "lat": 43.6038,
+    "lon": -7.2987,
+    "fuentes": [
+     "https://www.ancient-history-sites.com/?p=123585",
+     "https://www.wikidata.org/wiki/Q8342716"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 2.0 km del monumento; Wikidata (Q8342716) y OpenStreetMap coinciden a 56 m entre sí."
+  },
+  {
+   "id": "toros-guisando",
+   "campos": {
+    "lat": 40.3607,
+    "lon": -4.4416,
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Toros_de_Guisando",
+     "https://www.wikidata.org/wiki/Q2454775"
+    ],
+    "tipo": "monumento"
+   },
+   "motivo": "Coordenada a 1.97 km del monumento; Wikidata (Q2454775) y OpenStreetMap coinciden a 3 m entre sí."
+  },
+  {
+   "id": "santuario-de-estibaliz",
+   "campos": {
+    "lat": 42.8483,
+    "lon": -2.5703,
+    "fuentes": [
+     "https://www.euskadi.eus/santuario-de-estibaliz/villafranca-vitoria/web01-a4donjak/es/",
+     "https://www.wikidata.org/wiki/Q1139113"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 1.82 km del monumento; Wikidata (Q1139113) y OpenStreetMap coinciden a 10 m entre sí."
+  },
+  {
+   "id": "santa-maria-de-yermo",
+   "campos": {
+    "lat": 43.3081,
+    "lon": -4.0823,
+    "fuentes": [
+     "https://www.monestirs.cat/monst/annex/espa/canta/eyermo.htm",
+     "https://www.wikidata.org/wiki/Q6447049"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 1.81 km del monumento; Wikidata (Q6447049) y OpenStreetMap coinciden a 2 m entre sí."
+  },
+  {
+   "id": "pazo-de-oca",
+   "campos": {
+    "lat": 42.7463,
+    "lon": -8.3949,
+    "fuentes": [
+     "https://www.wikidata.org/wiki/Q14568091"
+    ],
+    "tipo": "monumento"
+   },
+   "motivo": "Coordenada a 1.78 km del monumento; Wikidata (Q14568091) y OpenStreetMap coinciden a 37 m entre sí."
+  },
+  {
+   "id": "san-antolin-de-bedon",
+   "campos": {
+    "lat": 43.438,
+    "lon": -4.869,
+    "fuentes": [
+     "https://www.wikidata.org/wiki/Q7413275"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 1.75 km del monumento; Wikidata (Q7413275) y OpenStreetMap coinciden a 2 m entre sí."
+  },
+  {
+   "id": "santiago-de-penalba",
+   "campos": {
+    "lat": 42.4273,
+    "lon": -6.5408,
+    "fuentes": [
+     "https://www.ponferrada.org/turismo/en/servicios/qr-info.files/128663-folleto%20pe%C3%B1alba-iglesia.pdf",
+     "https://www.wikidata.org/wiki/Q1548845"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 1.61 km del monumento; Wikidata (Q1548845) y OpenStreetMap coinciden a 4 m entre sí."
+  },
+  {
+   "id": "azaila",
+   "campos": {
+    "lat": 41.2859,
+    "lon": -0.5081,
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Azaila",
+     "https://www.wikidata.org/wiki/Q2932315"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 1.57 km del monumento; Wikidata (Q2932315) y OpenStreetMap coinciden a 23 m entre sí."
+  },
+  {
+   "id": "acinipo",
+   "campos": {
+    "lat": 36.8323,
+    "lon": -5.2395,
+    "fuentes": [
+     "https://www.juntadeandalucia.es/aaiicc/enclaves/enclave-arqueologico-acinipo",
+     "https://www.wikidata.org/wiki/Q4674175"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 1.55 km del monumento; Wikidata (Q4674175) y OpenStreetMap coinciden a 62 m entre sí."
+  },
+  {
+   "id": "torreparedones",
+   "campos": {
+    "lat": 37.7544,
+    "lon": -4.3776,
+    "fuentes": [
+     "https://www.upo.es/patio-colorado/2022/05/27/parque-arqueologico-de-torreparedones-la-pompeya-cordobesa/",
+     "https://www.wikidata.org/wiki/Q2884288"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 1.52 km del monumento; Wikidata (Q2884288) y OpenStreetMap coinciden a 175 m entre sí."
+  },
+  {
+   "id": "san-pedro-de-villanueva",
+   "campos": {
+    "lat": 43.367,
+    "lon": -5.1511,
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Monastery_of_San_Pedro_de_Villanueva",
+     "https://www.wikidata.org/wiki/Q5195307"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 1.44 km del monumento; Wikidata (Q5195307) y OpenStreetMap coinciden a 70 m entre sí."
+  },
+  {
+   "id": "santa-maria-de-porqueres",
+   "campos": {
+    "lat": 42.1218,
+    "lon": 2.7487,
+    "fuentes": [
+     "https://www.enciclopedia.cat/catalunya-romanica/santa-maria-de-porqueres",
+     "https://www.wikidata.org/wiki/Q22893362"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 1.41 km del monumento; Wikidata (Q22893362) y OpenStreetMap coinciden a 68 m entre sí."
+  },
+  {
+   "id": "los-letreros",
+   "campos": {
+    "lat": 37.6755,
+    "lon": -2.096,
+    "fuentes": [
+     "https://andalucia.org/en/velez-blanco-cultural-tourism-cueva-de-los-letreros",
+     "https://rupestre.art/es/caves/cueva-ambrosio",
+     "https://www.wikidata.org/wiki/Q15109106"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 1.36 km del monumento; Wikidata (Q15109106) y OpenStreetMap coinciden a 37 m entre sí."
+  },
+  {
+   "id": "tutugi",
+   "campos": {
+    "lat": 37.7473,
+    "lon": -2.5419,
+    "fuentes": [
+     "https://cdn.juntadeandalucia.es/sites/default/files/2021-02/FOLLETO_TUTUGI_WEB_ESP.pdf",
+     "https://www.wikidata.org/wiki/Q30901592"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 1.34 km del monumento; Wikidata (Q30901592) y OpenStreetMap coinciden a 281 m entre sí."
+  },
+  {
+   "id": "calatrava-la-nueva",
+   "campos": {
+    "lat": 38.6659,
+    "lon": -3.8453,
+    "fuentes": [
+     "https://www.elespanol.com/eldigitalcastillalamancha/vivir/turismo/20260511/castillo-convento-espectacular-espana-joya-siglo-xiii-perfecto-escapada-trt/1003744240719_0.html",
+     "https://www.wikidata.org/wiki/Q2933633"
+    ],
+    "tipo": "castillo"
+   },
+   "motivo": "Coordenada a 1.32 km del monumento; Wikidata (Q2933633) y OpenStreetMap coinciden a 42 m entre sí."
+  },
+  {
+   "id": "laja-alta",
+   "campos": {
+    "lat": 36.4406,
+    "lon": -5.511,
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Cueva_de_la_Laja_Alta",
+     "https://www.wikidata.org/wiki/Q97620324"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 1.3 km del monumento; Wikidata (Q97620324) y OpenStreetMap coinciden a 0 m entre sí."
+  },
+  {
+   "id": "santa-maria-de-piasca",
+   "campos": {
+    "lat": 43.1194,
+    "lon": -4.5801,
+    "fuentes": [
+     "https://www.spain.info/es/lugares-interes/iglesia-santa-maria-piasca/",
+     "https://www.wikidata.org/wiki/Q5399718"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 1.27 km del monumento; Wikidata (Q5399718) y OpenStreetMap coinciden a 9 m entre sí."
+  },
+  {
+   "id": "castellon-alto",
+   "campos": {
+    "lat": 37.7401,
+    "lon": -2.5656,
+    "fuentes": [
+     "https://cdn.juntadeandalucia.es/sites/default/files/2021-02/Folleto_CastellonAlto_es.pdf",
+     "https://www.wikidata.org/wiki/Q5821278"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 1.21 km del monumento; Wikidata (Q5821278) y OpenStreetMap coinciden a 14 m entre sí."
+  },
+  {
+   "id": "ojo-guarena",
+   "campos": {
+    "lat": 43.035,
+    "lon": -3.663,
+    "fuentes": [
+     "https://rupestre.art/es/caves/ojo-guarena",
+     "https://www.wikidata.org/wiki/Q12265047"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 1.17 km del monumento; Wikidata (Q12265047) y OpenStreetMap coinciden a 60 m entre sí."
+  },
+  {
+   "id": "santa-maria-de-la-piscina",
+   "campos": {
+    "lat": 42.5781,
+    "lon": -2.7259,
+    "fuentes": [
+     "https://www.spain.info/es/lugares-interes/iglesia-santa-maria-piscina/",
+     "https://www.wikidata.org/wiki/Q613742"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 1.14 km del monumento; Wikidata (Q613742) y OpenStreetMap coinciden a 9 m entre sí."
+  },
+  {
+   "id": "carteia",
+   "campos": {
+    "lat": 36.1851,
+    "lon": -5.4096,
+    "fuentes": [
+     "https://www.juntadeandalucia.es/aaiicc/enclaves/enclave-arqueologico-carteia",
+     "https://www.wikidata.org/wiki/Q97616842"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 1.13 km del monumento; Wikidata (Q97616842) y OpenStreetMap coinciden a 242 m entre sí."
+  },
+  {
+   "id": "santa-eulalia-d-erill-la-vall",
+   "campos": {
+    "lat": 42.5248,
+    "lon": 0.8255,
+    "fuentes": [
+     "https://www.centreromanic.com/en/visit/",
+     "https://www.wikidata.org/wiki/Q1589509"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 1.11 km del monumento; Wikidata (Q1589509) y OpenStreetMap coinciden a 10 m entre sí."
+  },
+  {
+   "id": "el-saucedo",
+   "campos": {
+    "lat": 39.9441,
+    "lon": -4.8889,
+    "fuentes": [
+     "https://castillalamancha.es/print/396881",
+     "https://www.wikidata.org/wiki/Q6122143"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 1.11 km del monumento; Wikidata (Q6122143) y OpenStreetMap coinciden a 48 m entre sí."
+  },
+  {
+   "id": "monasterio-de-san-pedro-de-arlanza",
+   "campos": {
+    "lat": 42.0485,
+    "lon": -3.4669,
+    "fuentes": [
+     "https://www.terranostrum.es/turismo/monasterio-san-pedro-de-arlanza",
+     "https://www.wikidata.org/wiki/Q5550569"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 1.1 km del monumento; Wikidata (Q5550569) y OpenStreetMap coinciden a 17 m entre sí."
+  },
+  {
+   "id": "illeta-banyets",
+   "campos": {
+    "lat": 38.432,
+    "lon": -0.3814,
+    "fuentes": [
+     "https://www.valenciabonita.es/2024/10/18/parque-arqueologico-illeta-dels-banyets/",
+     "https://www.wikidata.org/wiki/Q1590778"
+    ],
+    "tipo": "yacimiento"
+   },
+   "motivo": "Coordenada a 1.03 km del monumento; Wikidata (Q1590778) y OpenStreetMap coinciden a 2 m entre sí."
+  },
+  {
+   "id": "monasterio-de-obarra",
+   "campos": {
+    "lat": 42.3979,
+    "lon": 0.5975,
+    "fuentes": [
+     "https://www.turismodearagon.com/ficha/monasterio-de-santa-maria-de-obarra-calvera-2/",
+     "https://www.wikidata.org/wiki/Q1584990"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 1.03 km del monumento; Wikidata (Q1584990) y OpenStreetMap coinciden a 10 m entre sí."
+  },
+  {
+   "id": "monasterio-de-yuste-cuacos-de-yuste",
+   "campos": {
+    "lat": 40.114,
+    "lon": -5.7378,
+    "fuentes": [
+     "https://www.patrimonionacional.es/visita/monasterio-de-san-jeronimo-de-yuste",
+     "https://www.wikidata.org/wiki/Q936453"
+    ],
+    "tipo": "iglesia"
+   },
+   "motivo": "Coordenada a 1.02 km del monumento; Wikidata (Q936453) y OpenStreetMap coinciden a 97 m entre sí."
+  }
+ ]
+}
