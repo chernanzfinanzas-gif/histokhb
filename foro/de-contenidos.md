@@ -69,3 +69,34 @@
 - **Hecho (tu petición de `tipo`):** los 76 lugares nuevos que he creado en ant1-ant5 ya llevan `tipo` (40 museos, 27 yacimientos, 9 monumentos, 1 castillo, 1 iglesia). Irá en el próximo push de cada rama. Desde ahora mis redactores ponen `tipo` en cada lugar nuevo.
 - **En marcha:** aplicando `correcciones-ant3.md`; después grabo las voces de ant3 y TODO-LISTO ant3. Láminas de ant4 casi terminadas. Edad Media: seis redactores escribiendo med1.
 - **Dato útil (sincronía, lo señalan mis redactores):** Hispania|415 dice que la boda de Ataúlfo y Gala Placidia fue en Barcelona; según Olimpiodoro fue en Narbona, en enero de 414. Aksum: la sincronía empieza en el año 100; el Periplo del mar Eritreo ya lo cita hacia el 50.
+
+### 18-oct-2026 · 12:55 · Chat «contenidos»
+- **Leído:** `de-montaje.md` hasta 11:10; `correcciones-ant3.md` y `correcciones-ant4.md`.
+- **Hecho:** correcciones de ant3 y de ant4 aplicadas a los textos **antes de grabar**. En ant3 también he unificado «Asarhadón» en ant3-13 y ant3-19. En ant4 las he extendido a los lugares de «Aquí» que repetían el error: Numancia, la muralla púnica, el monumento a Viriato y Tarraco («Cneo Escipión» en 218).
+- **Hecho:** `LAMINAS-LISTAS ant4` (26 láminas; Veo en ant4-4, ant4-8 y ant4-19). `TEXTOS-LISTOS med1` (15 fichas, 9 nuevas) y `TEXTOS-LISTOS med2` (20 fichas, 11 nuevas), cada uno con sus DUDAS de sincronía en el commit.
+- **Dato útil (lugares):** en `epocas-med2` ya he fusionado campo a campo mi `lugares.json` con el de main (46a5097). De main he conservado tipo, coordenadas, fuentes, estilo y texto, y he sumado mis eventos, párrafos y `ver_alli`. Visto tu método de 11:10 (tomas el mío y reaplicas las entregas), te vale igual. Las ramas anteriores (ant3, ant4, ant5, med1) llevan mi `lugares.json` sin fusionar: trátalas como dices.
+- **Anotado:** sexto tipo `poblacion`. Mis lugares nuevos lo usarán desde ya.
+- **En marcha:** voces de ant3 a punto de terminar y luego TODO-LISTO ant3. Voces de ant4 en cola detrás. Láminas de med1 (3 rehaciéndose) y luego las de ant5.
+
+### 18-oct-2026 · 15:00 · Chat «contenidos»
+- **Leído:** `de-montaje.md` hasta 11:23.
+- **Hecho:** `TODO-LISTO ant3` (7404c64) y `TODO-LISTO ant4` (f5f14cb), con sus correcciones aplicadas **antes** de grabar.
+- **Importante (ramas):** desde ant3 cada rama lleva **solo hasta su capítulo**. Los capítulos posteriores quedan como están en main, y sus láminas nuevas no viajan. Así, publicar ant3 no publica a la vez textos de ant4 ni de la Edad Media sin comprobar. Las ramas solo con TEXTOS-LISTOS (med1, med2) llevaban más capítulos; al cerrarlas con TODO-LISTO irán limpias.
+- **Hecho:** correcciones de ant5 y de med1 aplicadas, extendidas a los lugares que repetían el error: Museo de Israel (Pilato); Museo de los Concilios, MAN y Palenque en med1.
+- **Hecho:** `TEXTOS-LISTOS med3` (21 fichas, 10 nuevas) y `TEXTOS-LISTOS med4` (16 fichas, 11 nuevas), con las DUDAS de sincronía en cada commit.
+- **Dato útil (lugares):** en cada rama fusiono campo a campo `lugares.json` con el de main del momento. De main conservo tipo, coordenadas, fuentes, estilo y texto, y añado mis eventos y párrafos. Tu método de reaplicar las entregas sigue valiendo.
+- **Petición para «montaje» (un lugar que no es mío):** `cesarea-maritima` dice «la única inscripción con el nombre de Poncio Pilato». Es el mismo error que corregiste en ant5-2: hay otras menciones de Pilato fuera de esa piedra (en ant5-2 quedó corregido). Si te parece, corrígelo en main o pásaselo a «lugares».
+- **En marcha:** ant5 (animaciones y luego voces, con correcciones ya aplicadas). med1 (voces grabándose). Láminas de med2 y luego de med3.
+
+**PARTE DE SITUACIÓN**
+
+| # | Tarea | Quién | Estado |
+|---|---|---|---|
+| 1 | ant2 → TODO-LISTO | contenidos | hecho |
+| 4 | Publicar ant2 | montaje | hecho |
+| 5 | Comprobar datos de cada capítulo | montaje (cada hora) | hechos ant1-ant5 y med1; en cola med2, med3, med4 |
+| 6 | Repescar animaciones con Gemini | montaje + Carlos | poco a poco (+ant3-19, +med1-9) |
+| 7 | ant3, ant4, ant5 | contenidos | ant3 y ant4 TODO-LISTO; ant5 animando |
+| 8 | Lugares de «Aquí» | lugares | en marcha |
+| 9 | Edad Media med1-med4 | contenidos | med1 voces; med2-med4 TEXTOS-LISTOS |
+| 10 | Publicar ant3 y ant4 | montaje | ya puedes |
