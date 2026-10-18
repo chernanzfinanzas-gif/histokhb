@@ -1,0 +1,906 @@
+{
+ "zona": "Irak, Irán y Golfo",
+ "nuevos": [
+  {
+   "id": "arg-e-bam",
+   "nombre": "Ciudadela de Bam (Arg-e Bam)",
+   "provincia": "Irán",
+   "comarca": "Bam (Kermán)",
+   "lat": 29.1156,
+   "lon": 58.3693,
+   "tipo": "castillo",
+   "estilo": "Ciudad fortificada de adobe",
+   "epoca": "Timúridas y safávidas",
+   "regiones_sincronia": [
+    "Persia"
+   ],
+   "texto": {
+    "general": "<p>La ciudadela de Bam era, antes de 2003, probablemente <b>el mayor edificio de adobe del mundo</b>: una ciudad entera de barro sin cocer, de unas 18 hectáreas, encerrada en murallas de 6 a 7 metros de alto y casi dos kilómetros de perímetro, con 38 torres de vigilancia, cuatro puertas y un foso. En lo alto de una roca, tras una doble muralla, estaba el barrio del gobernador.</p><p>Sus orígenes se remontan al menos a la época aqueménida, pero su gran momento llegó entre los siglos VII y XI, cuando Bam era un cruce de la <b>Ruta de la Seda</b> famoso por sus tejidos de algodón y de seda, sus bazares y sus palmeras. Los safávidas la ampliaron, los qayares la convirtieron en cuartel y sus vecinos la fueron abandonando hasta que, en 1932, se fue también la guarnición.</p><p>El <b>26 de diciembre de 2003</b>, un terremoto de magnitud 6,6 con el epicentro bajo la propia ciudad mató a unas 26.000 personas y dejó la ciudadela casi destruida. Al año siguiente la UNESCO la declaró Patrimonio Mundial, dentro de «Bam y su paisaje cultural», y la mantuvo en la lista en peligro hasta 2013 mientras se reconstruía.</p>"
+   },
+   "ver_alli": [
+    "La ciudadela está junto a la ciudad moderna de Bam, en el sureste de Irán.",
+    "Se recorre por los callejones del antiguo barrio residencial hasta el bazar y la mezquita, y se sube hacia la casa del gobernador.",
+    "Buena parte de lo que se ve es reconstrucción posterior al terremoto de 2003."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Arg-e_Bam",
+    "https://whc.unesco.org/en/list/1208",
+    "https://www.openstreetmap.org/search?query=%D8%A7%D8%B1%DA%AF%20%D8%A8%D9%85"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "jardin-de-fin",
+   "nombre": "Jardín de Fin",
+   "provincia": "Irán",
+   "comarca": "Kashán (Isfahán)",
+   "lat": 33.9462,
+   "lon": 51.3724,
+   "tipo": "monumento",
+   "estilo": "Jardín persa safávida",
+   "epoca": "Timúridas y safávidas",
+   "anio": 1590,
+   "regiones_sincronia": [
+    "Persia"
+   ],
+   "texto": {
+    "general": "<p>El jardín de Fin, a las afueras de Kashán, es el modelo del <b>jardín persa</b>: un recinto amurallado con cuatro torres redondas, dividido por canales y estanques de agua corriente, con un pabellón en el centro. Se terminó en <b>1590</b>, en el reinado de <b>Abás el Grande</b>, aunque el lugar ya tenía jardines antes de los safávidas.</p><p>Su secreto es el agua. Llega del <b>qanat de Soleymanieh</b>, un canal subterráneo que nace dos kilómetros más arriba, y corre por todo el jardín sin bombas, solo por la pendiente del terreno, llenando fuentes y acequias.</p><p>En sus baños fue asesinado en <b>1852</b>, por orden del sha Naser al-Din, <b>Amir Kabir</b>, el gran ministro reformador de la dinastía qayar, que hoy es un héroe nacional en Irán. Desde 2011 es Patrimonio Mundial dentro del conjunto «El jardín persa».</p>"
+   },
+   "ver_alli": [
+    "Está a las afueras de Kashán, al suroeste de la ciudad.",
+    "Se pasea entre los canales y el pabellón central, y se visita el baño donde murió Amir Kabir."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Fin_Garden"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "mezquita-de-nasir-al-molk",
+   "nombre": "Mezquita de Nasir al-Molk (Mezquita Rosa)",
+   "provincia": "Irán",
+   "comarca": "Shiraz (Fars)",
+   "lat": 29.6086,
+   "lon": 52.5485,
+   "tipo": "iglesia",
+   "estilo": "Arquitectura qayar",
+   "epoca": "Oriente Medio contemporáneo",
+   "anio": 1888,
+   "regiones_sincronia": [
+    "Persia"
+   ],
+   "texto": {
+    "general": "<p>La llaman la <b>Mezquita Rosa</b> por el color de sus azulejos, pero su fama viene de la luz. Su sala de oración de invierno se abre al patio por siete puertas de madera con <b>vidrieras de colores</b> (orsi): por la mañana el sol las atraviesa y llena de manchas rojas, azules, amarillas y verdes las alfombras y las columnas.</p><p>La encargó <b>Mirza Hasan Ali Nasir al-Molk</b>, un aristócrata de Shiraz, y se construyó entre 1876 y 1888, en tiempos de los qayares. La diseñó Mohammad Hasan Memar, el mismo arquitecto del jardín de Eram, con azulejos azules, amarillos, rosas y blancos.</p><p>Las vidrieras persas no cuentan historias como las de las catedrales: sirven para tamizar la luz, que en el islam es símbolo de Dios. Está protegida como monumento nacional desde 1955 y es hoy una de las imágenes más fotografiadas de Irán.</p>"
+   },
+   "ver_alli": [
+    "Está en el barrio viejo de Shiraz, junto a la mezquita de Shah Cheragh.",
+    "Lo mejor es llegar a primera hora de la mañana, cuando el sol entra por las vidrieras de la sala de invierno.",
+    "Sigue siendo una mezquita en uso: hay que vestir con recato."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Nasir-ol-Molk_Mosque"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "borsippa-birs-nimrud",
+   "nombre": "Borsippa (Birs Nimrud)",
+   "provincia": "Irak",
+   "comarca": "Babil (al suroeste de Babilonia)",
+   "lat": 32.3917,
+   "lon": 44.3416,
+   "tipo": "yacimiento",
+   "estilo": "Zigurat babilónico",
+   "epoca": "Mesopotamia antigua",
+   "regiones_sincronia": [
+    "Mesopotamia"
+   ],
+   "texto": {
+    "general": "<p>Borsippa era la «ciudad hermana» de Babilonia, a unos 18 km al suroeste, y su silueta es inconfundible: un enorme cerro de ladrillo con los restos del <b>zigurat de Nabu</b>, el dios de los escribas e hijo de Marduk. Es uno de los zigurats que mejor se reconocen hoy.</p><p>Nabucodonosor II lo restauró y lo llamó en sus inscripciones la «torre de Borsippa», y por eso la tradición árabe posterior lo identificó con la <b>Torre de Babel</b>, y la llamó Birs Nimrud, por el rey Nimrod de la Biblia. Ya el Código de Hammurabi citaba la ciudad y su templo, el <b>Ezida</b>, que fue destruido en 484 a. C. al aplastar Jerjes una revuelta babilonia.</p><p>Rawlinson encontró aquí en 1854 los cilindros de fundación de Nabucodonosor, y después excavaron Hormuzd Rassam, Robert Koldewey y, entre 1980 y 2003, un equipo de la Universidad de Innsbruck. En el siglo I a. C. la ciudad aún tenía una gran escuela de escribas.</p>"
+   },
+   "ver_alli": [
+    "Está a unos 18 km al suroeste de Babilonia, y se suelen visitar juntas.",
+    "Se puede subir al cerro del zigurat, desde donde se ve el campo alrededor.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Borsippa"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "fortaleza-de-ujaidir",
+   "nombre": "Fortaleza de Ujaidir",
+   "provincia": "Irak",
+   "comarca": "Kerbala",
+   "lat": 32.4406,
+   "lon": 43.6023,
+   "tipo": "castillo",
+   "estilo": "Arquitectura abasí",
+   "epoca": "Islámico medieval",
+   "anio": 775,
+   "regiones_sincronia": [
+    "Mesopotamia"
+   ],
+   "texto": {
+    "general": "<p>En pleno desierto, a unos 50 km al sur de Kerbala, se levanta un enorme rectángulo de murallas con torres: el palacio-fortaleza de <b>Ujaidir</b>, construido hacia el <b>775</b> por <b>Isa ibn Musa</b>, sobrino del primer califa abasí, as-Saffah.</p><p>Es uno de los mejores ejemplos que quedan de la arquitectura de los primeros <b>abasíes</b>, de cuya Bagdad no queda nada: patios, viviendas, una mezquita, una gran sala de audiencias con <b>iwán</b> y una sala de recepción, todo dentro de un recinto defensivo. Su tamaño colosal contrasta con lo estrecho de las habitaciones, reflejo de una corte poderosa y amante del lujo.</p><p>Fue una parada en las rutas de caravanas de la región. A comienzos del siglo XX la estudió la viajera y arqueóloga británica <b>Gertrude Bell</b>, que publicó el primer gran trabajo sobre el edificio. Desde 2000 está en la lista indicativa de la UNESCO.</p>"
+   },
+   "ver_alli": [
+    "Está aislada en el desierto, a unos 50 km al sur de Kerbala: hace falta coche.",
+    "Se recorren los patios, los largos corredores y las escaleras de las murallas.",
+    "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Al-Ukhaidir_Fortress"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "al-zubarah",
+   "nombre": "Al Zubarah",
+   "provincia": "Catar",
+   "comarca": "Al Shamal (costa noroeste)",
+   "lat": 25.979,
+   "lon": 51.0265,
+   "tipo": "yacimiento",
+   "estilo": "Ciudad perlera de los siglos XVIII-XIX",
+   "epoca": "Oriente Medio contemporáneo",
+   "regiones_sincronia": [
+    "Levante"
+   ],
+   "texto": {
+    "general": "<p>Al Zubarah fue una de las grandes ciudades del golfo Pérsico en el siglo XVIII: un puerto de <b>pesca de perlas</b> y comercio en la costa noroeste de Catar, a medio camino entre el estrecho de Ormuz y el fondo del Golfo. La fundaron hacia la década de 1760 familias de la confederación de los Bani Utbah, entre ellas los Al Khalifa, que después se harían con Baréin.</p><p>La ciudad tenía muralla interior y exterior, puerto, un canal hacia el mar y el fuerte de Murair. Fue ocupada por los wahabíes en 1809 y quedó abandonada poco después de 1811. Por eso su trazado se ha conservado como el de ninguna otra ciudad del Golfo: es la mejor ventana a la vida urbana de la región <b>antes del petróleo</b>.</p><p>Es <b>Patrimonio Mundial desde 2013</b>. La excava desde 2009 un proyecto de los museos de Catar y la Universidad de Copenhague. Junto a ella se alza el <b>fuerte de Al Zubara</b>, de planta cuadrada y torres en las esquinas, terminado en 1938, mucho después del esplendor de la ciudad.</p>"
+   },
+   "ver_alli": [
+    "Está a unos 105 km al noroeste de Doha.",
+    "La ciudad en ruinas está junto al mar, dentro de un recinto vallado; el fuerte de 1938 queda a unos 2 km tierra adentro.",
+    "Se recorre por una pasarela con paneles entre las casas y las murallas excavadas."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Zubarah",
+    "https://www.openstreetmap.org/search?query=Al%20Zubarah"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "uruk-warka",
+   "campos": {
+    "estilo": "Ciudad sumeria de adobe",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Uruk"
+    ]
+   }
+  },
+  {
+   "id": "cueva-de-shanidar",
+   "campos": {
+    "estilo": "Cueva con yacimiento paleolítico",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Shanidar_Cave"
+    ]
+   }
+  },
+  {
+   "id": "jarmo",
+   "campos": {
+    "lat": 35.5558,
+    "lon": 44.9303,
+    "estilo": "Aldea neolítica",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Jarmo",
+     "https://www.openstreetmap.org/search?query=Jarmo%20Chamchamal"
+    ]
+   }
+  },
+  {
+   "id": "ur-y-su-zigurat",
+   "campos": {
+    "estilo": "Zigurat neosumerio",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ziggurat_of_Ur"
+    ]
+   }
+  },
+  {
+   "id": "eridu",
+   "campos": {
+    "estilo": "Tell sumerio",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Eridu"
+    ]
+   }
+  },
+  {
+   "id": "nippur",
+   "campos": {
+    "estilo": "Tell sumerio",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Nippur"
+    ]
+   }
+  },
+  {
+   "id": "girsu-tello",
+   "campos": {
+    "lat": 31.562,
+    "lon": 46.1766,
+    "estilo": "Tell sumerio",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Girsu"
+    ]
+   }
+  },
+  {
+   "id": "marismas-del-sur-de-irak-ahwar",
+   "campos": {
+    "lat": 31.0141,
+    "lon": 47.037,
+    "estilo": "Paisaje de marismas con casas de caña (mudhif)",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Mesopotamian_Marshes"
+    ]
+   }
+  },
+  {
+   "id": "babilonia",
+   "campos": {
+    "lat": 32.5423,
+    "lon": 44.4209,
+    "estilo": "Arquitectura neobabilónica de ladrillo",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Babylon"
+    ]
+   }
+  },
+  {
+   "id": "ninive",
+   "campos": {
+    "estilo": "Arquitectura asiria",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Nineveh"
+    ]
+   }
+  },
+  {
+   "id": "nimrud",
+   "campos": {
+    "estilo": "Arquitectura asiria",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Nimrud"
+    ]
+   }
+  },
+  {
+   "id": "asur",
+   "campos": {
+    "estilo": "Arquitectura asiria",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Assur"
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-de-irak",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo arqueológico",
+    "ver_alli": [
+     "Está en el barrio de Karj, en el centro de Bagdad.",
+     "Las salas siguen la historia de Mesopotamia desde la prehistoria: lo sumerio, lo asirio con sus toros alados y lo islámico.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Iraq_Museum"
+    ]
+   }
+  },
+  {
+   "id": "hatra",
+   "campos": {
+    "estilo": "Arquitectura parta",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Hatra"
+    ]
+   }
+  },
+  {
+   "id": "arco-de-ctesifonte-taq-kasra",
+   "campos": {
+    "estilo": "Arquitectura sasánida",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Taq_Kasra"
+    ]
+   }
+  },
+  {
+   "id": "gran-mezquita-y-alminar-de-samarra",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura abasí",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Great_Mosque_of_Samarra"
+    ]
+   }
+  },
+  {
+   "id": "santuario-del-iman-husein",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Santuario chií de cúpula dorada",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Imam_Husayn_Shrine"
+    ]
+   }
+  },
+  {
+   "id": "madraza-al-mustansiriya",
+   "campos": {
+    "lat": 33.3385,
+    "lon": 44.3896,
+    "tipo": "monumento",
+    "estilo": "Arquitectura abasí",
+    "ver_alli": [
+     "Está en la orilla izquierda del Tigris, en el barrio de Rusafa, junto al puente Shuhada.",
+     "Se recorre el patio con sus galerías de dos pisos y sus antiguas aulas.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Mustansiriyya_Madrasa"
+    ]
+   }
+  },
+  {
+   "id": "ciudadela-de-erbil",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Tell con ciudad otomana",
+    "ver_alli": [
+     "La ciudadela domina el centro de Erbil; se sube a pie desde la plaza y el bazar que la rodean.",
+     "Desde lo alto se ve toda la ciudad nueva extendida alrededor del montículo."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Citadel_of_Erbil"
+    ]
+   }
+  },
+  {
+   "id": "susa",
+   "campos": {
+    "estilo": "Arquitectura elamita y aqueménida",
+    "ver_alli": [
+     "Las ruinas están junto a la ciudad de Shush, al pie del castillo que levantaron los arqueólogos franceses.",
+     "Junto al yacimiento hay un pequeño museo; la tumba de Daniel está a pocos minutos a pie."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Susa"
+    ]
+   }
+  },
+  {
+   "id": "chogha-zanbil",
+   "campos": {
+    "estilo": "Zigurat elamita",
+    "ver_alli": [
+     "Está en pleno campo, a unos 40 km de Susa: conviene combinar las dos visitas.",
+     "Se rodea el zigurat por sus murallas y se ven los ladrillos con inscripciones cuneiformes."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Chogha_Zanbil"
+    ]
+   }
+  },
+  {
+   "id": "shahr-e-sukhteh-la-ciudad-quemada",
+   "campos": {
+    "estilo": "Ciudad de la Edad del Bronce",
+    "ver_alli": [
+     "Está en el desierto de Sistán, en el extremo oriental de Irán, muy lejos de las rutas habituales.",
+     "Junto al yacimiento hay un pequeño museo con réplicas de los hallazgos más famosos."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Shahr-e_Sukhteh"
+    ]
+   }
+  },
+  {
+   "id": "pasargada-y-la-tumba-de-ciro",
+   "campos": {
+    "estilo": "Arquitectura aqueménida",
+    "ver_alli": [
+     "La tumba de Ciro está al principio del recinto; los palacios y el jardín quedan a un paseo.",
+     "Está a una hora larga en coche al norte de Persépolis, y se suelen visitar el mismo día."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Tomb_of_Cyrus"
+    ]
+   }
+  },
+  {
+   "id": "persepolis",
+   "campos": {
+    "estilo": "Arquitectura aqueménida",
+    "ver_alli": [
+     "Se sube a la terraza por la gran escalinata y se entra por la Puerta de Todas las Naciones.",
+     "Mejor a primera hora, por el calor y la luz sobre los relieves.",
+     "Las tumbas de Naqsh-e Rustam están a unos 6 km."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Persepolis"
+    ]
+   }
+  },
+  {
+   "id": "naqsh-e-rustam",
+   "campos": {
+    "estilo": "Tumbas rupestres aqueménidas y relieves sasánidas",
+    "ver_alli": [
+     "El acantilado está a unos 6 km al norte de Persépolis.",
+     "Las cuatro tumbas y los relieves sasánidas se ven desde el pie de la roca."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Naqsh-e_Rostam"
+    ]
+   }
+  },
+  {
+   "id": "bisutun",
+   "campos": {
+    "estilo": "Relieve e inscripción rupestre aqueménida",
+    "ver_alli": [
+     "El relieve de Darío está alto en la pared de roca: se ve desde abajo, mejor con prismáticos.",
+     "Al pie del camino está el Heracles reclinado de época seléucida."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Behistun_Inscription"
+    ]
+   }
+  },
+  {
+   "id": "ecbatana-hamadan",
+   "campos": {
+    "lat": 34.8056,
+    "lon": 48.5178,
+    "estilo": "Tell medo y aqueménida",
+    "ver_alli": [
+     "La colina de Hegmataneh está en el centro de Hamadán, junto al bazar.",
+     "Un pequeño museo dentro del recinto muestra los hallazgos medos y aqueménidas."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ecbatana"
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-de-iran",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo arqueológico",
+    "ver_alli": [
+     "Está en el centro de Teherán, a poco más de un kilómetro del palacio de Golestán.",
+     "Tiene dos edificios: el del Irán antiguo y el de la época islámica."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/National_Museum_of_Iran"
+    ]
+   }
+  },
+  {
+   "id": "yazd-templo-del-fuego-y-torres-del-silen",
+   "campos": {
+    "lat": 31.8811,
+    "lon": 54.3733,
+    "tipo": "iglesia",
+    "estilo": "Templo zoroástrico",
+    "ver_alli": [
+     "El templo del fuego está en la ciudad; la llama se ve tras un cristal.",
+     "Las torres del silencio están en dos colinas a las afueras, al sur de la ciudad.",
+     "La ciudad vieja de adobe se recorre a pie."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Yazd_Atash_Behram",
+     "https://www.openstreetmap.org/search?query=%D8%A2%D8%AA%D8%B4%DA%A9%D8%AF%D9%87%20%DB%8C%D8%B2%D8%AF"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-ardacher-y-firuzabad",
+   "campos": {
+    "lat": 28.8981,
+    "lon": 52.5394,
+    "estilo": "Arquitectura sasánida",
+    "ver_alli": [
+     "El palacio está junto a un estanque al norte de Firuzabad.",
+     "La ciudad redonda de Gur y los relieves de Ardacher en el desfiladero quedan a pocos kilómetros."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Palace_of_Ardashir"
+    ]
+   }
+  },
+  {
+   "id": "bishapur",
+   "campos": {
+    "estilo": "Arquitectura sasánida",
+    "ver_alli": [
+     "Las ruinas de la ciudad están junto a la carretera de Kazerun.",
+     "Los relieves de Sapor están en el desfiladero cercano, y la cueva con su estatua gigante requiere una subida dura de más de una hora."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Bishapur"
+    ]
+   }
+  },
+  {
+   "id": "taq-e-bostan",
+   "campos": {
+    "estilo": "Relieves rupestres sasánidas",
+    "ver_alli": [
+     "Está a las afueras de Kermanshah, junto a un estanque al pie de la montaña.",
+     "Las dos grutas talladas se ven desde el borde del agua."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Taq-e_Bostan"
+    ]
+   }
+  },
+  {
+   "id": "takht-e-soleyman",
+   "campos": {
+    "estilo": "Arquitectura sasánida e iljaní",
+    "ver_alli": [
+     "Está en las montañas del noroeste de Irán, lejos de las grandes ciudades.",
+     "Se pasea alrededor del lago del cráter entre los restos del templo del fuego.",
+     "Al lado se puede subir al Zendan-e Soleyman, un antiguo cono volcánico."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Takht-e_Soleyman"
+    ]
+   }
+  },
+  {
+   "id": "sistema-hidraulico-de-shushtar",
+   "campos": {
+    "lat": 32.0441,
+    "lon": 48.8583,
+    "tipo": "monumento",
+    "estilo": "Ingeniería hidráulica sasánida",
+    "ver_alli": [
+     "Los molinos y cascadas están en el borde de la ciudad de Shushtar, junto al río Karún.",
+     "Hay escaleras y miradores para bajar entre los molinos."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Shushtar_Historical_Hydraulic_System"
+    ]
+   }
+  },
+  {
+   "id": "mezquita-del-viernes-de-isfahan",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura selyúcida",
+    "ver_alli": [
+     "Está en el norte del casco antiguo de Isfahán, al final del gran bazar que sale de la plaza Naqsh-e Jahan.",
+     "No hay que perderse la cúpula de Taj al-Mulk ni la sala de oración de Oljeitu."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Jameh_Mosque_of_Isfahan"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-alamut",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Fortaleza nizarí medieval",
+    "ver_alli": [
+     "Se sube a pie por una escalera empinada desde el pueblo de Gazor Jan.",
+     "Desde arriba se domina todo el valle de Alamut."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Alamut_Castle"
+    ]
+   }
+  },
+  {
+   "id": "tumba-de-ferdousi",
+   "campos": {
+    "lat": 36.4861,
+    "lon": 59.5175,
+    "tipo": "monumento",
+    "estilo": "Arquitectura neoaqueménida",
+    "ver_alli": [
+     "Está en Tus, a unos 20 km al norte de Mashhad.",
+     "En la cripta hay relieves con escenas del Shahnameh, y junto al mausoleo un pequeño museo."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Tomb_of_Ferdowsi"
+    ]
+   }
+  },
+  {
+   "id": "tumba-de-hafez",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Pabellón persa del siglo XX",
+    "ver_alli": [
+     "Está en los jardines de Musalla, al norte del centro de Shiraz.",
+     "Al atardecer se llena de gente que recita sus versos.",
+     "La tumba de Saadí está a pocos kilómetros."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Tomb_of_Hafez"
+    ]
+   }
+  },
+  {
+   "id": "mausoleo-de-oljeitu-en-soltaniyeh",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura iljaní",
+    "ver_alli": [
+     "Está en Soltaniyeh, entre Zanyán y Qazvín.",
+     "Por dentro se aprecia la decoración de ladrillo, azulejo y estuco bajo la gran cúpula."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Dome_of_Soltaniyeh"
+    ]
+   }
+  },
+  {
+   "id": "santuario-del-iman-ali",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Santuario chií de cúpula dorada",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Imam_Ali_Shrine"
+    ]
+   }
+  },
+  {
+   "id": "plaza-naqsh-e-jahan",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura safávida",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Naqsh-e_Jahan_Square"
+    ]
+   }
+  },
+  {
+   "id": "puente-de-si-o-se-pol",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura safávida",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Si-o-se-pol"
+    ]
+   }
+  },
+  {
+   "id": "mausoleo-de-omar-jayam",
+   "campos": {
+    "lat": 36.1659,
+    "lon": 58.8222,
+    "tipo": "monumento",
+    "estilo": "Arquitectura moderna iraní",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Tomb_of_Omar_Khayyam",
+     "https://www.openstreetmap.org/search?query=%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87%20%D8%AE%DB%8C%D8%A7%D9%85"
+    ]
+   }
+  },
+  {
+   "id": "santuario-del-jeque-safi-al-din",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura safávida",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Sheikh_Safi_al-Din_Kh%C4%81neg%C4%81h_and_Shrine_Ensemble"
+    ]
+   }
+  },
+  {
+   "id": "santuario-del-iman-reza",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura timúrida y safávida",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Imam_Reza_shrine"
+    ]
+   }
+  },
+  {
+   "id": "gonbad-e-qabus",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Torre funeraria ziyárida de ladrillo",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Gonbad-e_Qabus_(tower)"
+    ]
+   }
+  },
+  {
+   "id": "bazar-de-tabriz",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Bazar cubierto persa",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Tabriz_Historic_Bazaar_Complex"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-arte-islamico-de-doha",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arquitectura moderna (I. M. Pei)",
+    "ver_alli": [
+     "Está sobre una isla artificial al borde de la Corniche de Doha.",
+     "Desde su parque se ve el perfil de rascacielos de la bahía."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Museum_of_Islamic_Art,_Doha"
+    ]
+   }
+  },
+  {
+   "id": "fuerte-de-masmak",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Arquitectura najdí de adobe",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Masmak_fort"
+    ]
+   }
+  },
+  {
+   "id": "at-turaif-de-diriyah",
+   "campos": {
+    "estilo": "Arquitectura najdí de adobe",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/At-Turaif"
+    ]
+   }
+  },
+  {
+   "id": "ithra-y-el-pozo-de-la-prosperidad",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arquitectura contemporánea",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/King_Abdulaziz_Center_for_World_Culture"
+    ]
+   }
+  },
+  {
+   "id": "torres-de-kuwait",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura contemporánea",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Kuwait_Towers"
+    ]
+   }
+  },
+  {
+   "id": "burj-khalifa",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Rascacielos contemporáneo",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Burj_Khalifa"
+    ]
+   }
+  },
+  {
+   "id": "gran-mezquita-sheikh-zayed",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura islámica contemporánea",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Sheikh_Zayed_Grand_Mosque"
+    ]
+   }
+  },
+  {
+   "id": "monumento-de-halabja",
+   "campos": {
+    "lat": 35.186,
+    "lon": 45.9735,
+    "tipo": "monumento",
+    "estilo": "Memorial contemporáneo",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Halabja_Monument",
+     "https://www.openstreetmap.org/search?query=Halabja%20Monument"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-golestan",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura qayar",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Golestan_Palace"
+    ]
+   }
+  },
+  {
+   "id": "complejo-palaciego-de-saadabad",
+   "campos": {
+    "lat": 35.8162,
+    "lon": 51.424,
+    "tipo": "monumento",
+    "estilo": "Palacios qayares y pahlavíes",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Sa%27dabad_Complex"
+    ]
+   }
+  },
+  {
+   "id": "torre-azadi",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura moderna iraní",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Azadi_Tower"
+    ]
+   }
+  },
+  {
+   "id": "mausoleo-de-jomeini",
+   "campos": {
+    "lat": 35.549,
+    "lon": 51.3666,
+    "tipo": "monumento",
+    "estilo": "Arquitectura islámica contemporánea",
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Mausoleum_of_Ruhollah_Khomeini"
+    ]
+   }
+  },
+  {
+   "id": "antigua-embajada-de-ee-uu",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Edificio diplomático del siglo XX",
+    "ver_alli": [
+     "El edificio está en la calle Taleghani, en el centro de Teherán; sus muros exteriores tienen murales antiestadounidenses.",
+     "Antes de viajar, consulta las recomendaciones de viaje del Ministerio de Asuntos Exteriores para la zona."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Embassy_of_the_United_States,_Tehran"
+    ]
+   }
+  },
+  {
+   "id": "qalat-al-bahrain",
+   "campos": {
+    "estilo": "Tell de Dilmún con fuerte portugués",
+    "ver_alli": [
+     "Se recorre el montículo con sus excavaciones y el fuerte, con paneles explicativos.",
+     "El museo del yacimiento, inaugurado en 2008, expone hallazgos de Dilmún y de las épocas posteriores.",
+     "Al atardecer se ve desde la costa el contorno del fuerte iluminado."
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-de-barein",
+   "campos": {
+    "estilo": "Museo arqueológico",
+    "ver_alli": [
+     "Exposición permanente con salas de arqueología, tumbas de Dilmún y tradiciones de Baréin.",
+     "Fuera de Manama se pueden visitar los campos de túmulos de A'ali y el templo de Barbar."
+    ]
+   }
+  },
+  {
+   "id": "hegra-al-hijr",
+   "campos": {
+    "estilo": "Tumbas rupestres nabateas"
+   }
+  }
+ ]
+}

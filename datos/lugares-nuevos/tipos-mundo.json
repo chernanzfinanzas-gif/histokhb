@@ -1,0 +1,4854 @@
+{
+ "zona": "Tipos del mundo",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "museo-nacional-de-etiopia-lucy",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-nacional-de-nairobi-el-nino-de-tur",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-neandertal",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-nacional-etrusco-de-villa-giulia",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museos-capitolinos",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-arqueologico-nacional-de-napoles",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "mausoleo-de-gala-placidia",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "mausoleo-de-teodorico",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-de-nubia",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "gran-museo-egipcio",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-egipcio-de-el-cairo",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "biblioteca-de-alejandria-bibliotheca-ale",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "monasterio-de-san-antonio",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterios-de-wadi-natrun",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-santa-catalina",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "mezquita-de-amr-ibn-al-as",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "mezquita-de-ibn-tulun",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "mezquita-de-al-azhar",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "ciudadela-de-saladino",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "mezquita-madraza-del-sultan-hasan",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "ciudad-de-los-muertos-y-mausoleo-de-qait",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "fortaleza-de-qaitbay",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "museo-de-arte-cicladico",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-arqueologico-de-heraclion",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-la-acropolis",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-arqueologico-nacional-de-atenas",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "santa-sofia",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "cisterna-basilica",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "murallas-de-teodosio",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "iglesia-de-san-salvador-de-chora",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "iglesias-de-tesalonica",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-hosios-lukas",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-dafni",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "museo-nacional-de-irak",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-del-louvre-antiguedades-de-mesopot",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-britanico-asiria-y-ur",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-pergamo-puerta-de-ishtar",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "gran-mezquita-y-alminar-de-samarra",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santuario-del-iman-husein",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "museo-nacional-de-iran",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "mezquita-del-viernes-de-isfahan",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "castillo-de-alamut",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "tumba-de-ferdousi",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "tumba-de-hafez",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "mausoleo-de-oljeitu-en-soltaniyeh",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-de-jordania-y-ciudadela-de-aman",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "sidon-castillo-del-mar",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "museo-de-israel-los-rollos-del-mar-muert",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-del-bardo",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "basilica-del-santo-sepulcro",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "basilica-de-la-natividad",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "cupula-de-la-roca-y-mezquita-de-al-aqsa",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "gran-mezquita-de-los-omeyas",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "krak-de-los-caballeros",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-kerak",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "ciudadela-de-alepo",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "gran-mezquita-de-kairuan",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "museo-de-la-cueva-de-xianrendong",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-nacional-de-china",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-sanxingdui",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-shanghai",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-historia-de-shaanxi",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "gran-muralla-de-mutianyu",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "fortaleza-de-jiayuguan",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "pagoda-de-la-gran-oca-salvaje",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "muralla-de-xi-an",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "templo-shaolin",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "puente-de-zhaozhou",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "gran-canal-en-yangzhou",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "kaifeng-pagoda-de-hierro",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "pagoda-de-madera-de-yingxian",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "palacio-del-potala-y-templo-de-jokhang",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "ciudad-prohibida",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "templo-del-cielo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "murallas-y-mausoleo-xiaoling-de-nankin",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "tumba-de-matteo-ricci",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-nacional-de-nueva-delhi",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-mathura",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "templo-brihadishvara-de-thanjavur",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "templos-de-khajuraho",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "templo-del-sol-de-konark",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "templo-de-somnath",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "qutb-minar",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "tughlaqabad-y-fuerte-de-daulatabad",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "tumba-de-humayun",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "fuerte-de-agra",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "fuerte-rojo-de-delhi",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "fuerte-y-mezquita-badshahi-de-lahore",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "templo-dorado",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "fuerte-de-raigad",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "museo-nacional-de-tokio",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "santuario-de-itsukushima",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "muralla-anti-mongola-de-hakata",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "castillo-de-himeji",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-osaka",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-sekigahara",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "santuario-tosho-gu-de-nikko",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "castillo-de-hara-shimabara",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "templo-sengaku-ji",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "museo-sumida-hokusai",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-la-prehistoria-de-jeongok",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-nacional-de-corea",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "palacio-gyeongbokgung",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "santuario-de-jongmyo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "fortaleza-de-namhansanseong",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "fortaleza-hwaseong-de-suwon",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "museo-nacional-de-antropologia",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "parque-museo-la-venta",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-antropologia-de-xalapa",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-tumbas-reales-de-sipan",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-nacional-sican",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-larco",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-arqueologia-de-alta-montana",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-san-miguel-de-azapa",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-del-oro",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museu-paraense-emilio-goeldi",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "weltmuseum-de-viena",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "fasil-ghebbi-castillos-de-gondar",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "galeria-de-faras-museo-nacional-de-varso",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "mezquitas-de-tombuctu",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "tumba-de-askia",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "castillo-de-elmina",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-cape-coast",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "palacio-de-manhyia",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacios-reales-de-abomey",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-nacional-de-lagos",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "ciudad-de-benin-museo-y-palacio",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "murallas-de-kano-y-tintes-de-kofar-mata",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-britanico-arte-de-benin-e-ife",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-del-quai-branly",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "fortaleza-de-sao-miguel-y-la-reina-njing",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "museo-real-de-africa-central",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "fuerte-jesus",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "ciudad-vieja-de-lamu",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "castillo-de-buena-esperanza",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "museo-bartolomeu-dias-y-cabo-de-buena-es",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-nacional-de-namibia",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-isandlwana",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "pequena-santa-sofia",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "iglesia-de-santa-irene",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "museo-de-los-mosaicos-del-gran-palacio",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "monasterio-del-pantocrator",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "museo-arqueologico-de-estambul",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "palacio-del-porfirogeneta-tekfur",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "iglesia-de-la-pammakaristos",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "iglesias-rupestres-de-goreme",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-sofia-de-nicea-y-murallas-de-iznik",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-sofia-de-trebisonda",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-sumela",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "iglesia-de-san-nicolas-de-mira",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "museo-bizantino-y-cristiano",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "monasterio-de-san-juan-de-patmos",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "iglesias-de-kastoria",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "castillo-de-livadia",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "iglesias-pintadas-de-troodos",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "ohrid-san-clemente-y-santa-sofia",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "iglesia-de-boyana",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santa-sofia-de-kiev",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "ravena-san-vital-y-gala-placidia",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "basilica-de-san-marcos",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "biblioteca-marciana",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "basilica-de-torcello",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "capilla-palatina-de-palermo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-monreale",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "basilica-de-san-nicolas-de-bari",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "templo-malatestiano",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "mezquita-de-soliman-suleymaniye",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "palacio-de-topkap",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "mezquita-azul-sultanahmet",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "museo-de-arte-turco-e-islamico",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "mezquita-selimiye",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "bursa-ulu-camii-y-mezquita-verde",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "mausoleo-de-rumi-museo-mevlana",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "gran-mezquita-y-hospital-de-divrigi",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "fortaleza-y-torre-roja-de-alanya",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "puente-viejo-de-mostar",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "puente-de-mehmed-pasa-sokolovic",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "santuario-del-iman-ali",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "plaza-naqsh-e-jahan",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "puente-de-si-o-se-pol",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "mausoleo-de-omar-jayam",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "santuario-del-jeque-safi-al-din",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santuario-del-iman-reza",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "gur-e-amir-la-tumba-de-tamerlan",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "mausoleo-de-los-samanidas",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "minarete-kalon",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "torre-hasan",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "mezquita-de-tinmel",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "medina-de-tetuan",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "medina-de-tunez-y-mezquita-zaytuna",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "museo-de-arte-islamico-de-doha",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-nacional-de-camboya",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-sangiran",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "ciudad-vieja-de-yakarta-batavia",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "gran-palacio-y-buda-de-esmeralda",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-de-escultura-cham",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "ciudadela-imperial-de-hue",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "ciudadela-imperial-de-thang-long",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "lago-hoan-kiem-y-templo-ngoc-son",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "fort-canning-y-el-desembarco-de-raffles",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "intramuros-y-fuerte-santiago",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "iglesia-de-san-agustin-de-manila",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "cruz-de-magallanes-y-basilica-del-santo-",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "santuario-de-lapu-lapu",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "ciudad-historica-de-vigan",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "iglesia-de-paoay",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "museo-nacional-de-filipinas",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-guimet",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "opera-de-sidney-bennelong-point",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-de-myall-creek",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "sovereign-hill-y-museo-de-eureka",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-nacional-de-australia",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-los-naufragios-de-fremantle",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-auckland",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "palacio-iolani",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "hagatna-plaza-de-espana-y-piedras-latte",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-saratoga",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-yorktown",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "ciudad-vieja-de-quebec-y-las-llanuras-de",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "fortaleza-de-louisbourg",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-san-marcos",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "mision-san-xavier-del-bac",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "misiones-de-san-antonio-y-el-alamo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "palacio-de-los-gobernadores-de-santa-fe",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "fuerte-barrancas",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "fuerte-mchenry",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-gettysburg",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-nacional-de-historia-y-cultura-afr",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-del-aire-y-del-espacio",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "estatua-de-la-libertad-y-ellis-island",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-de-los-hermanos-wright",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-henry-ford",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "presa-hoover",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-de-pearl-harbor",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "montgomery-museo-de-rosa-parks-y-memoria",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-nacional-de-los-derechos-civiles",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-del-sexto-piso-dealey-plaza",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "memorial-y-museo-del-11-s",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-historia-de-la-computacion",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-canadiense-de-historia",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museoparc-alesia",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "abadia-de-cluny",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "abadia-de-fontevraud",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "basilica-de-saint-denis",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-chartres",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-notre-dame-de-paris",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "sainte-chapelle",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-reims",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "mont-saint-michel",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "ciudad-de-carcasona",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "castillo-de-montsegur",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "palacio-de-los-papas-de-avinon",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "plaza-del-viejo-mercado-y-catedral-de-ru",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "fortaleza-real-de-chinon",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-chambord",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-del-clos-luce-y-castillo-de-amb",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "palacio-de-fontainebleau",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-de-versalles",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "esclusas-de-fonserannes-canal-du-midi",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-del-louvre",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-carnavalet",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "los-invalidos-y-la-tumba-de-napoleon",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "arco-de-triunfo",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "torre-eiffel",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-de-orsay",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "casa-y-jardines-de-monet",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-pasteur",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-curie",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "playas-del-desembarco-y-cementerio-ameri",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-de-la-shoah",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-del-campo-de-rivesaltes-y-mater",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-charles-de-gaulle",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "abadia-de-iona",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "centro-vikingo-jorvik",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "catedral-y-ciudad-de-winchester",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-hastings-y-battle-ab",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "torre-de-londres",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "catedral-de-canterbury",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-salisbury-y-la-carta-magna",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "abadia-de-westminster",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "palacio-de-westminster",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "castillo-de-caernarfon",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-stirling-y-monumento-a-walla",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-edimburgo",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "colegios-de-oxford-y-biblioteca-bodleian",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-de-hampton-court",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-del-mary-rose",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "casa-natal-de-shakespeare",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-de-hatfield",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "catedral-de-san-pablo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "casa-de-woolsthorpe",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-culloden",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-nacional-del-ferrocarril",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-internacional-de-la-esclavitud",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "palacio-de-buckingham",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-victoria-y-alberto",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-historia-natural-de-londres",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "down-house-casa-de-darwin",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-britanico",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-la-hambruna-strokestown",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-imperial-de-la-guerra",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "cuarteles-de-guerra-de-churchill",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "palacio-de-blenheim",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-del-laboratorio-de-fleming",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "parlamento-escoces",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-y-parque-de-kalkriese",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "catedral-de-aquisgran",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-magdeburgo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-colonia",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "castillo-de-wartburg",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "museo-gutenberg",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "catedral-de-worms",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "castillo-de-malbork",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castillo-de-praga-y-puente-de-carlos",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "plaza-de-la-ciudad-vieja-de-praga",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "cracovia-plaza-del-mercado-y-castillo-de",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "palacio-de-wilanow",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-de-schonbrunn",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "catedral-de-san-esteban-de-viena",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "museo-de-historia-militar-de-viena",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "casa-natal-de-mozart",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "casa-de-beethoven",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "iglesia-de-santo-tomas-y-museo-bach",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "palacio-de-sanssouci",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-del-ferrocarril-de-nuremberg",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-mercedes-benz",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-freud",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "casa-de-einstein",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "puerta-de-brandeburgo",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-del-muro-de-berlin",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "monumento-a-los-judios-asesinados-de-eur",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "casa-de-la-conferencia-de-wannsee",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "memorial-de-dachau",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "polin-museo-de-la-historia-de-los-judios",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "monumento-al-puente-aereo-de-tempelhof",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "casa-de-la-historia-de-bonn",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "casa-del-terror",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "parlamento-de-budapest",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "basilica-de-san-esteban-de-budapest",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-esztergom",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "plaza-de-wenceslao",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "casa-natal-de-juan-pablo-ii",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "basilica-de-san-francisco-de-asis",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "plaza-de-los-milagros-de-pisa",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "iglesia-del-santo-espiritu-de-palermo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-palermo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "tumba-de-dante",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "catedral-de-florencia-y-cupula-de-brunel",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "galeria-de-los-uffizi",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "capillas-mediceas-y-basilica-de-san-lore",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "galeria-de-la-academia",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "basilica-de-santa-croce",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "museo-galileo",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "palacio-real-de-caserta",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-real-y-teatro-de-san-carlos",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "capilla-sixtina-y-museos-vaticanos",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "basilica-y-plaza-de-san-pedro",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "galeria-borghese",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "catedral-de-milan",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-trento",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "palacio-ducal-de-venecia",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "arsenal-de-venecia-y-museo-naval",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "palacio-ducal-de-mantua",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "templo-voltiano",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-del-risorgimento-de-turin",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "monumento-a-victor-manuel-ii",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-de-redipuglia",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-marconi-villa-griffone",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "foro-italico-y-barrio-eur",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "mausoleo-de-las-fosas-ardeatinas",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "abadia-de-montecassino",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "no-mafia-memorial",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "puerta-de-oro-de-kiev",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "plaza-de-la-independencia-maidan",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-nacional-del-holodomor",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-del-campo-de-batalla-de-poltava",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "kremlin-de-moscu",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "plaza-roja-y-catedral-de-san-basilio",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "mausoleo-de-lenin",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "galeria-tretiakov",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "monasterio-de-la-trinidad-y-san-sergio",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "kremlin-de-novgorod",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "kremlin-de-kazan",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-borodino",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "teatro-bolshoi",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "convento-y-cementerio-de-novodevichi",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "museo-de-la-cosmonautica",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-historia-del-gulag",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "fortaleza-de-san-pedro-y-san-pablo",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "museo-del-hermitage-y-palacio-de-inviern",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "palacio-de-peterhof",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-de-catalina-en-tsarskoye-selo",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "iglesia-del-salvador-sobre-la-sangre-der",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "museo-apartamento-de-pushkin",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-dostoievski",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "palacio-yusupov",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "cementerio-memorial-de-piskariovskoye",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "iglesia-sobre-la-sangre-de-ekaterimburgo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "casa-museo-de-chaikovski",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "kremlin-de-tobolsk",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "estacion-de-vladivostok",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "casco-antiguo-de-vilna",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "zocalo-y-catedral-metropolitana",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "palacio-nacional-y-murales-de-diego-rive",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "castillo-de-chapultepec",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "capilla-del-rosario-de-puebla",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "cerro-de-las-campanas-y-teatro-de-la-rep",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-casa-de-villa",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "fuerte-de-san-diego",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "murallas-de-campeche",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "san-cristobal-de-las-casas",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "panama-viejo-y-casco-antiguo",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "esclusas-de-miraflores-canal-de-panama",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "catedral-de-san-salvador-y-tumba-de-rome",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "puerta-del-conde-y-altar-de-la-patria",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-memorial-de-la-resistencia-dominic",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "cuartel-moncada-y-cementerio-de-santa-if",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-de-la-revolucion",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-playa-giron",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "viejo-san-juan-y-el-morro",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "ciudadela-laferriere",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "murallas-y-castillo-de-san-felipe-de-car",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "quinta-de-san-pedro-alejandrino",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "puente-de-boyaca",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-de-la-independencia-casa-del-flore",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "casa-museo-gabriel-garcia-marquez",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "centro-historico-de-quito",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "centro-historico-de-lima",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "museo-de-la-inquisicion-y-del-congreso",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "monasterio-de-santa-catalina-ib",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "casa-de-la-moneda-y-cerro-rico-de-potosi",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "casa-de-la-libertad",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-de-la-moneda",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-de-la-memoria-y-los-derechos-human",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "casa-de-neruda-en-isla-negra",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-gabriela-mistral",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "santuario-del-buen-jesus-de-congonhas",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "parque-memorial-quilombo-dos-palmares",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-imperial-de-petropolis",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "palacio-del-catete",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "teatro-amazonas",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-pele",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "plaza-de-mayo-cabildo-y-casa-rosada",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "monumento-a-la-bandera",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-evita",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-sitio-de-memoria-esma",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "cementerio-de-la-recoleta",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "la-boca-caminito-y-museo-casa-carlos-gar",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "estadio-centenario-y-museo-del-futbol",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-de-las-memorias",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "palacio-de-verano",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-de-la-guerra-del-opio-en-humen",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "ruinas-de-san-pablo-y-centro-historico-d",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "museo-de-historia-de-hong-kong",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "mausoleo-de-sun-yat-sen",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-de-la-masacre-de-nankin",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "plaza-de-tiananmen-y-mausoleo-de-mao",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-imperial-de-manchukuo",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "casa-natal-de-mao-en-shaoshan",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-lu-xun-de-shanghai",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-los-examenes-imperiales",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "memorial-de-chiang-kai-shek",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-del-palacio-nacional-de-taipei",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "santuario-meiji",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "fabrica-de-seda-de-tomioka",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-reimeikan-y-shiroyama",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "parque-y-museo-de-la-paz-de-hiroshima",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-la-bomba-atomica-de-nagasaki",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "parque-memorial-de-la-paz-de-okinawa",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "santuario-yasukuni-y-museo-yushukan",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "museo-del-barco-daigo-fukuryu-maru",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "torre-del-sol-y-parque-de-la-expo",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-edo-tokio",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-memorial-del-tsunami-de-rikuzentak",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-del-ferrocarril",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "memorial-de-la-guerra-de-corea",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-de-ahn-jung-geun",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "cementerio-nacional-del-18-de-mayo",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "santuario-de-los-martires-de-jeoldusan",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "museo-hamel",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "palacio-deoksugung",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "victoria-memorial",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "estacion-chhatrapati-shivaji",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "puerta-de-la-india-y-hotel-taj-mahal-pal",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-de-la-particion",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "fuerte-de-jhansi",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "memorial-de-indira-gandhi",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-de-dolmabahce",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-de-y-ld-z",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "an-tkabir-mausoleo-de-ataturk",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-del-genocidio-armenio",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-de-la-guerra-de-independencia-prim",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "plaza-rabin-y-memorial",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-yasir-arafat",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-nacional-de-beirut",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "deir-al-qamar-y-palacio-de-beiteddine",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "fuerte-de-masmak",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "torres-de-kuwait",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "gran-mezquita-sheikh-zayed",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monumento-de-halabja",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-de-golestan",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "torre-azadi",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "mausoleo-de-jomeini",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "port-said-y-el-canal-de-suez",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "presa-alta-de-asuan",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-y-cementerios-de-el-alamein",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "plaza-tahrir",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "monumento-al-soldado-desconocido",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "casa-de-howard-carter",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "casa-de-la-nacion-de-saad-zaghlul",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "mausoleo-de-mohamed-v",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "mezquita-hassan-ii",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monumento-de-los-martires-maqam-echahid",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "mausoleo-de-bourguiba",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "tumba-del-mahdi",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "catedral-de-san-jorge-de-addis-abeba",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "catedral-de-la-santisima-trinidad",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "museo-de-los-martires-del-terror-rojo",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "mausoleo-de-kwame-nkrumah",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "cementerio-de-thiaroye",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "monumento-al-renacimiento-africano",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-thomas-sankara",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-de-livingstone-en-ujiji",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-maji-maji",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "mausoleo-de-kenyatta",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-del-genocidio-de-kigali",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-de-murambi",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-nyerere-de-butiama",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "monumento-a-lumumba",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-de-gbadolite",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-del-apartheid",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "calle-vilakazi-y-memorial-hector-pieters",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-de-sharpeville",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "monumento-voortrekker",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-del-distrito-seis",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "memorial-de-rhodes",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-de-la-guerra-anglo-boer",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "shark-island-y-memorial-de-waterberg",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "mausoleo-de-ho-chi-minh",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-dien-bien-phu",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "puente-de-hien-luong",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-de-la-independencia",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-de-los-restos-de-la-guerra",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "memorial-de-son-my-my-lai",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "catedral-de-notre-dame-y-correos-de-saig",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "pagoda-thien-mu",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "opera-de-hanoi",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-del-genocidio-de-tuol-sleng",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "monumento-a-la-independencia-de-phnom-pe",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palacio-real-de-phnom-penh",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-de-las-minas-de-camboya",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "palacio-real-de-luang-prabang",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "puente-sobre-el-rio-kwai",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "cementerio-de-guerra-de-kanchanaburi",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "monumento-a-la-democracia",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "estatua-ecuestre-de-chulalongkorn",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "wat-benchamabophit-templo-de-marmol",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "wat-bowonniwet",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "palacio-de-mandalay",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-bogyoke-aung-san",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "mausoleo-de-los-martires",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "plaza-de-la-independencia-dataran-merdek",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "monumento-nacional-tugu-negara",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-de-la-proclamacion-de-la-indepe",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "capilla-y-museo-de-changi",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "antigua-fabrica-ford",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-de-guerra-de-kranji",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-nacional-de-singapur",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "monumento-nacional-monas",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "monumento-pancasila-sakti-lubang-buaya",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "gran-mezquita-baiturrahman",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "museo-del-tsunami-de-aceh",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "plaza-puputan-badung",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "monumento-del-atentado-de-bali",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "casa-de-destierro-de-sukarno",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-de-la-conferencia-asia-africa",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-kartini-de-jepara",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "santuario-de-aguinaldo",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "monumento-a-bonifacio",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "quezon-memorial-circle",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "parque-del-desembarco-de-macarthur",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "santuario-del-valor-del-monte-samat",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "santuario-edsa-y-monumento-del-poder-pop",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "museo-marcos-de-batac",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "iglesia-de-barasoain",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "iglesia-de-baler",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "cementerio-de-santa-cruz",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-de-guerra-de-australia",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "antiguo-parlamento-de-canberra",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "parlamento-de-australia",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "puente-del-puerto-de-sidney",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "santuario-del-recuerdo",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "estacion-del-telegrafo-de-alice-springs",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-nacional-australiano-de-villers",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "estatua-de-edmund-hillary-en-aoraki",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "parlamento-de-nueva-zelanda-beehive",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "memorial-del-sufragio-kate-sheppard",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "catedral-de-carton-de-christchurch",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "memorial-del-rainbow-warrior",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "iglesia-de-kawaiaha-o",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "museo-bishop",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "tumba-del-rey-pomare-v",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-robert-louis-stevenson-vailima",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "memorial-estadounidense-de-guadalcanal",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "parlamento-de-papua-nueva-guinea",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "museo-de-fiyi",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-lyme-regis-mary-anning",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-geologico-de-fundy",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-del-meteorito-progreso",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-solnhofen",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "jura-museum-eichstatt",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "senckenberg-frankfurt",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "amnh-nueva-york",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-historia-natural-michigan",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "calvert-marine-museum",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-la-plata",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-arqueologia-nacional-saint-germain",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "lvr-landesmuseum-bonn",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-arqueologico-de-sanliurfa",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-civilizaciones-anatolia",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-arqueologico-de-varna",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-de-la-ciudad-de-liubliana",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-arqueologico-de-cracovia",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "museo-arte-eneolitico-cucuteni",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "salisbury-museum",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "rumeli-hisar",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castel-sant-angelo",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castel-del-monte",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "castel-nuovo-de-napoles",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "fuertes-de-loreto-y-guadalupe",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "ribat-de-monastir",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "srirangapatna",
+   "campos": {
+    "tipo": "castillo"
+   }
+  },
+  {
+   "id": "lavra-de-las-cuevas-de-kiev",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monte-athos",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "meteora",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "nea-moni-de-quios",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "panagia-parigoritissa-de-arta",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "pagoda-shwedagon",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "templo-mansion-y-cementerio-de-confucio",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "templo-del-caballo-blanco",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "gran-santuario-de-ise",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "horyu-ji",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "todai-ji-y-el-gran-buda-de-nara",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "byodo-in",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "chuson-ji-hiraizumi",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "kinkaku-ji-el-pabellon-de-oro",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "ryoan-ji",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monte-koya",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "bulguksa-y-seokguram",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "haeinsa-y-la-tripitaka-koreana",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "bodh-gaya-templo-de-mahabodhi",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "belur-math",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "deekshabhoomi",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "templo-de-la-literatura",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "templo-de-las-hermanas-trung",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "iglesias-de-lalibela",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterio-de-debre-damo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "monasterios-del-lago-tana",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "mezquita-de-negash",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "kutubia",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "mision-de-carmel",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "cripta-imperial-de-los-capuchinos",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "gran-buda-de-kamakura",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "la-ultima-cena-de-leonardo",
+   "campos": {
+    "tipo": "iglesia"
+   }
+  },
+  {
+   "id": "acueducto-de-valente",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "hipodromo-de-constantinopla",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "gran-bazar-de-estambul",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "caravasar-de-sultanhan",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "bazar-de-tabriz",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "qasr-al-jarana",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "gonbad-e-qabus",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "registan-de-samarcanda",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "observatorio-de-ulugh-beg",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "nilometro-de-roda",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "complejo-de-qalawun",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "madraza-al-mustansiriya",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "columna-de-hierro-de-delhi",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "gol-gumbaz",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "taj-mahal",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "residencia-de-montana-de-chengde",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "estadio-nacional-nido-de-pajaro",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "india-gate-y-el-eje-de-nueva-delhi",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "raj-ghat-y-gandhi-smriti",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "jallianwala-bagh",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "monte-herzl",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "burj-khalifa",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "complejo-palaciego-de-saadabad",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "sede-de-la-union-africana-y-africa-hall",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "freedom-park-de-lagos",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "camaras-de-tortura-de-mengo",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "patuxai",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "edificio-de-la-secretaria",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "bantayog-ng-mga-bayani",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "edificio-real-de-exposiciones",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "trades-hall-de-melbourne",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "prision-de-fremantle",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "mision-de-kerikeri-y-stone-store",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "independence-hall-y-la-campana-de-la-lib",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "mount-vernon",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "monticello",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "harvard-yard",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "national-mall-lincoln-washington-y-vietn",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "monte-rushmore",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "panteon-de-paris",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "conciergerie",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "osario-de-douaumont-y-campo-de-verdun",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "king-s-college-de-cambridge",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "globo-de-shakespeare",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "murales-y-muros-de-la-paz-de-belfast",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "hofburg-y-tesoro-imperial",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "reichstag",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "estadio-olimpico-de-berlin",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "archiginnasio-de-bolonia",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "palazzo-vecchio",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "mamayev-kurgan",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "cosmodromo-de-baikonur",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "hospicio-cabanas",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "panteon-nacional-de-venezuela",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "cristo-redentor-del-corcovado",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "estadio-de-maracana",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "tumbas-de-kasubi",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "pilar-de-vasco-da-gama",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "buda-gigante-de-leshan",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "necropolis-de-shah-i-zinda",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "kraton-de-yogyakarta",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "mary-mackillop-place",
+   "campos": {
+    "tipo": "monumento"
+   }
+  },
+  {
+   "id": "sede-del-primer-congreso-del-partido-com",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "ashram-de-sabarmati",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "sala-de-la-independencia",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "yad-vashem",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "antigua-embajada-de-ee-uu",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "constitution-hill",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "liliesleaf",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "prision-de-hoa-lo",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "antigua-carcel-de-melbourne",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "centro-cultural-tjibaou",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "te-papa-tongarewa",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "centro-espacial-kennedy",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "instituto-lumiere",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "tapiz-de-bayeux",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "libro-de-kells-trinity-college",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "arsenal-historico-de-portsmouth-hms-vict",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "carcel-de-kilmainham",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "titanic-belfast",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "bletchley-park",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "the-beatles-story-y-the-cavern",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "topografia-del-terror",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "auschwitz-birkenau",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "centro-de-documentacion-del-obersalzberg",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "centro-europeo-de-solidaridad",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "compendio-garibaldino-de-caprera",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "crucero-aurora",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "yasnaya-poliana",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "casa-azul-de-frida-kahlo",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "alhondiga-de-granaditas",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "casa-historica-de-la-independencia",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "carcel-de-seodaemun",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "lugar-de-la-memoria-lum",
+   "campos": {
+    "tipo": "museo"
+   }
+  },
+  {
+   "id": "el-bund-de-shanghai",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "santiniketan",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "ciudad-blanca-de-tel-aviv",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "kibutz-degania",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "casbah-de-argel",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "asmara-modernista",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "the-rocks-y-hyde-park-barracks",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "colonial-williamsburg",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "wittenberg-de-lutero",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "fuggerei",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "riga-modernista",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "casco-medieval-de-tallin",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "dolores-hidalgo",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "zacatecas",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "antigua-guatemala",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "zona-colonial-de-santo-domingo",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "la-habana-vieja-y-sus-fortificaciones",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "trinidad-y-el-valle-de-los-ingenios",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "pelourinho-de-salvador-de-bahia",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "ouro-preto",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "olinda",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "paraty",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "brasilia",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "colonia-del-sacramento",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "isla-de-goree",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "stone-town-de-zanzibar",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "isla-de-mozambique",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "harar-jugol",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "luang-prabang",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "hoi-an",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "malaca-historica",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "levuka",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "ciudad-medieval-de-rodas",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "monemvasia",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "ortigia",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "itchan-kala-de-jiva",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "fez-el-bali-y-al-qarawiyyin",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "mequinez",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "chauen-chefchaouen",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "testour",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "mahdia",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "acre-akko",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "el-cairo-copto",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "calle-al-muizz-y-el-cairo-islamico",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "taos-pueblo",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "djenne-y-jenne-jeno",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "bagamoyo",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "russell-kororareka-y-la-colina-del-masti",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "vladimir-y-suzdal",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  },
+  {
+   "id": "kronstadt",
+   "campos": {
+    "tipo": "poblacion"
+   }
+  }
+ ]
+}

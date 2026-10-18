@@ -1,0 +1,1166 @@
+{
+ "zona": "Europa central y del norte",
+ "nuevos": [
+  {
+   "id": "porta-nigra",
+   "nombre": "Porta Nigra",
+   "provincia": "Alemania",
+   "comarca": "Tréveris (Renania-Palatinado)",
+   "lat": 49.7596,
+   "lon": 6.6442,
+   "tipo": "monumento",
+   "estilo": "Puerta romana de arenisca",
+   "epoca": "Romano",
+   "anio": 170,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>La <b>Porta Nigra</b>, la «puerta negra», era la entrada norte de Augusta Treverorum, la Tréveris romana, una de las grandes ciudades del Imperio al norte de los Alpes. Se empezó a levantar <b>después del año 170</b> con grandes bloques de arenisca gris, y tenía dos torres de cuatro pisos a los lados del paso.</p><p>Se salvó porque se convirtió en iglesia. Después de 1028 se encerró en sus ruinas como ermitaño un monje griego, <b>Simeón</b>; cuando murió, en 1035, fue proclamado santo y junto a la puerta se fundó un monasterio en su honor. En 1802 Napoleón suprimió la iglesia y el monasterio y, en su visita de 1804, ordenó devolver a la puerta su aspecto romano. Forma parte del conjunto romano de Tréveris, Patrimonio Mundial desde 1986.</p>"
+   },
+   "ver_alli": [
+    "Se puede subir al interior de la puerta, con vistas sobre el centro de Tréveris.",
+    "A unos 700 metros al sur está la basílica de Constantino, y el centro de Tréveris conserva también termas y un anfiteatro romanos."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Porta_Nigra",
+    "https://www.google.com/maps/place/?q=place_id:ChIJq3oH0pF8lUcR_dsvKfOvlo0",
+    "https://www.openstreetmap.org/relation/1739171"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "residencia-de-wurzburgo",
+   "nombre": "Residencia de Wurzburgo",
+   "provincia": "Alemania",
+   "comarca": "Wurzburgo (Baviera)",
+   "lat": 49.7927,
+   "lon": 9.9391,
+   "tipo": "monumento",
+   "estilo": "Barroco",
+   "epoca": "Barroco",
+   "anio": 1720,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>El palacio de los príncipes-obispos de Wurzburgo lo impulsaron dos hermanos de la familia <b>Schönborn</b>. La primera piedra se puso el 22 de mayo de <b>1720</b>; el edificio principal se terminó en 1744 y la decoración interior, en 1780. Su arquitecto fue <b>Balthasar Neumann</b>, arquitecto de la corte del príncipe-obispo.</p><p>Sobre la escalera principal, el veneciano <b>Giovanni Battista Tiepolo</b> y su hijo Giovanni Domenico pintaron en 1752-1753 un fresco de unos 580 m², considerado el mayor fresco continuo de techo del mundo. Un bombardeo británico del 16 de marzo de 1945 casi la redujo a cenizas: solo resistió el cuerpo central, sin sus tejados. Restaurada después, es Patrimonio Mundial desde 1981.</p>"
+   },
+   "ver_alli": [
+    "La visita recorre la escalera de Tiepolo y numerosas salas restauradas después de la guerra.",
+    "Detrás del palacio se extiende el jardín de la corte, el Hofgarten."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/W%C3%BCrzburg_Residence",
+    "https://www.google.com/maps/place/?q=place_id:ChIJIXAT0C2QokcRP7mt9f4E7NA",
+    "https://www.openstreetmap.org/relation/7074"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-neuschwanstein",
+   "nombre": "Castillo de Neuschwanstein",
+   "provincia": "Alemania",
+   "comarca": "Schwangau (Baviera)",
+   "lat": 47.5576,
+   "lon": 10.7498,
+   "tipo": "castillo",
+   "estilo": "Neorrománico (historicismo)",
+   "epoca": "Siglo XIX",
+   "anio": 1869,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>El rey <b>Luis II de Baviera</b> mandó levantar este castillo de cuento sobre un peñasco de los Alpes; la primera piedra se puso el 5 de septiembre de <b>1869</b>. No era una fortaleza, sino un sueño romántico de la Edad Media, en estilo neorrománico, construido en parte como homenaje a su admirado <b>Richard Wagner</b>: sus salas se decoraron con escenas de óperas como <i>Tannhäuser</i>, <i>Lohengrin</i> y <i>Parsifal</i>.</p><p>Luis II murió en 1886, con el castillo sin terminar, y apenas seis semanas después el príncipe regente Luitpoldo lo abrió al público. Hoy lo visitan más de un millón de personas al año, y sirvió de modelo a los castillos de la Bella Durmiente y de Cenicienta de Disney. Desde 2025 es Patrimonio Mundial, junto con los otros palacios de Luis II.</p>"
+   },
+   "ver_alli": [
+    "La visita del interior es guiada y con hora fija; en verano conviene reservar con mucha antelación.",
+    "Desde el aparcamiento del pueblo se sube a pie por una cuesta de unos 2 km; cerca está el puente de María, con vistas sobre el castillo."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Neuschwanstein_Castle",
+    "https://www.google.com/maps/place/?q=place_id:ChIJXaNOxMr3nEcRo7ud02uGpsg",
+    "https://www.openstreetmap.org/way/221601969"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "memorium-juicios-de-nuremberg",
+   "nombre": "Memorial de los Juicios de Núremberg (Sala 600)",
+   "provincia": "Alemania",
+   "comarca": "Núremberg (Baviera)",
+   "lat": 49.4544,
+   "lon": 11.0482,
+   "tipo": "museo",
+   "estilo": "Centro de documentación en el Palacio de Justicia",
+   "epoca": "Siglo XX",
+   "anio": 1945,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>En la <b>Sala 600</b> del Palacio de Justicia de Núremberg, el Tribunal Militar Internacional juzgó a los principales dirigentes nazis entre el <b>20 de noviembre de 1945</b> y el <b>1 de octubre de 1946</b>. Se eligió Núremberg porque estaba en la zona de ocupación estadounidense, porque el palacio había quedado casi intacto y tenía una cárcel al lado, y por su simbolismo: era la ciudad de los grandes congresos del partido nazi.</p><p>De los 24 acusados, 22 fueron juzgados y <b>12 condenados a muerte</b>; diez fueron ahorcados el 16 de octubre y Göring se suicidó la víspera. El Memorium, en el último piso del palacio, explica el proceso, los juicios posteriores de 1946-1949 y cómo nació de aquí el derecho penal internacional.</p>"
+   },
+   "ver_alli": [
+    "La Sala 600 se visita como parte de la exposición, con una instalación audiovisual; puede cerrarse algunos días por actos.",
+    "Hay audioguía en varios idiomas; está junto a la estación de metro Bärenschanze."
+   ],
+   "fuentes": [
+    "https://museums.nuernberg.de/memorium-nuremberg-trials/",
+    "https://en.wikipedia.org/wiki/Nuremberg_trials",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ_d3zJlpWn0cRvHffruH1lvo",
+    "https://www.openstreetmap.org/node/1529939905"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "bauhaus-dessau",
+   "nombre": "Edificio de la Bauhaus de Dessau",
+   "provincia": "Alemania",
+   "comarca": "Dessau-Roßlau (Sajonia-Anhalt)",
+   "lat": 51.8391,
+   "lon": 12.2274,
+   "tipo": "monumento",
+   "estilo": "Movimiento moderno (Bauhaus)",
+   "epoca": "Siglo XX",
+   "anio": 1926,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>La <b>Bauhaus</b>, la escuela que cambió el diseño y la arquitectura del siglo XX, tuvo que dejar Weimar en 1925 por las presiones políticas y se instaló en Dessau. Allí <b>Walter Gropius</b> le construyó este edificio, inaugurado el 4 de diciembre de <b>1926</b>, que reunía talleres, aulas y residencia de estudiantes.</p><p>A petición de los nazis, el ayuntamiento de Dessau votó el 22 de agosto de 1932 el cierre del edificio, y en 1933 la escuela fue obligada a cerrar. Cerca, Gropius levantó también las <b>Casas de los Maestros</b>, viviendas modelo para los profesores. El edificio y las casas son Patrimonio Mundial desde 1996.</p>"
+   },
+   "ver_alli": [
+    "Parte del edificio se recorre libremente y hay visitas guiadas que incluyen las Casas de los Maestros.",
+    "Se puede dormir en una de las antiguas habitaciones de estudiantes."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Bauhaus_Dessau",
+    "https://www.google.com/maps/place/?q=place_id:ChIJG5g_QSURpkcRH2Tb0lmVuhc",
+    "https://www.openstreetmap.org/relation/14318571"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "fuerte-romano-de-saalburg",
+   "nombre": "Fuerte romano de Saalburg (limes germánico)",
+   "provincia": "Alemania",
+   "comarca": "Bad Homburg (Hesse)",
+   "lat": 50.2717,
+   "lon": 8.5666,
+   "tipo": "castillo",
+   "estilo": "Fuerte romano reconstruido",
+   "epoca": "Romano",
+   "anio": 135,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>En las colinas del Taunus pasaba el <b>limes</b>, la frontera fortificada que separaba el Imperio romano de Germania. Hacia el año <b>135</b>, al final del reinado de Adriano, se levantó aquí un fuerte para una cohorte, en lugar de otro más pequeño de hacia el año 90.</p><p>Es un fuerte reconstruido: el káiser <b>Guillermo II</b> ordenó su reconstrucción en 1897, y en 1900 se puso la primera piedra del cuartel general. Hoy es el Museo de Saalburg, con murallas, puertas y edificios levantados sobre los cimientos antiguos. Desde 2005 forma parte del Patrimonio Mundial «Fronteras del Imperio romano».</p>"
+   },
+   "ver_alli": [
+    "Dentro de los edificios reconstruidos se exponen los hallazgos arqueológicos del fuerte.",
+    "Hay exposiciones y actividades de recreación sobre la vida de los soldados, muy pensadas para niños."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Saalburg",
+    "https://www.google.com/maps/place/?q=place_id:ChIJO08n1oSpvUcRohFEpbjfF-k",
+    "https://www.openstreetmap.org/way/8655395"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "kunsthistorisches-museum-viena",
+   "nombre": "Museo de Historia del Arte de Viena",
+   "provincia": "Austria",
+   "comarca": "Viena",
+   "lat": 48.2038,
+   "lon": 16.3618,
+   "tipo": "museo",
+   "estilo": "Historicismo neorrenacentista",
+   "epoca": "Siglo XIX",
+   "anio": 1891,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>El emperador <b>Francisco José</b> encargó a Gottfried Semper y Karl von Hasenauer un gran museo para las colecciones de arte de los Habsburgo. Se construyó entre 1871 y <b>1891</b>, frente a un edificio gemelo, el Museo de Historia Natural, en la plaza de María Teresa.</p><p>Entre sus tesoros están el <b>salero de Cellini</b> (robado en 2003 y recuperado en 2006), <i>El arte de la pintura</i> de <b>Vermeer</b>, la <i>Virgen del prado</i> de Rafael, <i>Las estaciones</i> de Arcimboldo y obras de <b>Bruegel</b> como <i>La torre de Babel</i>. En la escalera hay pinturas de <b>Gustav Klimt</b>, con su hermano Ernst y Franz Matsch, junto a otras de Hans Makart y Mihály Munkácsy.</p>"
+   },
+   "ver_alli": [
+    "La pinacoteca está en la primera planta, con las salas de pintura flamenca, holandesa e italiana.",
+    "Enfrente está el Museo de Historia Natural, con la Venus de Willendorf, y a un paso el palacio imperial de Hofburg."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Kunsthistorisches_Museum",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ8XfPY5oHbUcRQbimbLVSYG8",
+    "https://www.openstreetmap.org/relation/20165"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "carnuntum",
+   "nombre": "Carnuntum",
+   "provincia": "Austria",
+   "comarca": "Petronell-Carnuntum (Baja Austria)",
+   "lat": 48.1125,
+   "lon": 16.8585,
+   "tipo": "yacimiento",
+   "estilo": "Ciudad romana",
+   "epoca": "Romano",
+   "anio": 50,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>A orillas del Danubio, en la frontera del Imperio, Carnuntum fue un campamento legionario desde el año <b>50</b> y luego la capital de la provincia de Panonia Superior, una gran ciudad de unos 50.000 habitantes. El emperador <b>Marco Aurelio</b> vivió aquí entre 172 y 175, durante la guerra contra los marcomanos, y escribió parte de sus <i>Meditaciones</i>.</p><p>Aquí sus soldados proclamaron emperador a <b>Septimio Severo</b> en 193, y en 308 Diocleciano reunió a Maximiano y Galerio en la conferencia de Carnuntum para salvar la Tetrarquía. Hoy el parque arqueológico tiene casas y termas reconstruidas con técnicas romanas; la casa de Lucio abrió en 2006.</p>"
+   },
+   "ver_alli": [
+    "La Ciudad Romana de Petronell tiene casas, termas y calles reconstruidas sobre las ruinas originales.",
+    "A 1 km al sur, en medio del campo, se alza el Heidentor, un arco del siglo IV levantado probablemente por Constancio II."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Carnuntum",
+    "https://www.google.com/maps/place/?q=place_id:ChIJzXBoYVlfbEcR3GJmCrpPkWI",
+    "https://www.google.com/maps/place/?q=place_id:ChIJAyNFDJZfbEcRcVZtZdDaAuQ",
+    "https://www.openstreetmap.org/way/29658520"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "mina-de-sal-de-wieliczka",
+   "nombre": "Mina de sal de Wieliczka",
+   "provincia": "Polonia",
+   "comarca": "Wieliczka (Pequeña Polonia)",
+   "lat": 49.9835,
+   "lon": 20.0552,
+   "tipo": "yacimiento",
+   "estilo": "Mina de sal con capillas talladas",
+   "epoca": "Edad Media",
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>Desde el <b>siglo XIII</b> se excavaron aquí pozos para sacar sal gema. La explotación comercial duró hasta <b>1996</b>, cuando la bajada del precio de la sal y las inundaciones la hicieron inviable.</p><p>La mina llega a 327 metros de profundidad y tiene más de 287 km de galerías y cámaras. Los mineros tallaron en la propia sal estatuas y capillas, entre ellas la gran <b>capilla de Santa Cunegunda</b> (Kinga), tallada en la sal. Fue uno de los primeros lugares inscritos en la lista del Patrimonio Mundial, en 1978, y la visitan cerca de 1,2 millones de personas al año.</p>"
+   },
+   "ver_alli": [
+    "La ruta turística guiada empieza en el pozo Daniłowicz: se bajan unos 800 escalones y se sube en ascensor.",
+    "Está a unos 12 km del centro de Cracovia; hay tren hasta la estación Wieliczka Rynek-Kopalnia."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Wieliczka_Salt_Mine",
+    "https://www.google.com/maps/place/?q=place_id:ChIJS46BBdhDFkcRFbST_a5JJZc",
+    "https://www.openstreetmap.org/way/1078429469"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "plaza-del-mercado-de-la-ciudad-vieja-de-varsovia",
+   "nombre": "Ciudad Vieja de Varsovia",
+   "provincia": "Polonia",
+   "comarca": "Varsovia",
+   "lat": 52.2498,
+   "lon": 21.0121,
+   "tipo": "poblacion",
+   "estilo": "Reconstrucción de casas burguesas de los siglos XVII-XVIII",
+   "epoca": "Siglo XX",
+   "anio": 1953,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>La plaza del Mercado de la Ciudad Vieja nació a finales del siglo XIII, a la vez que la ciudad. En agosto de 1944, tras el <b>Levantamiento de Varsovia</b>, las tropas alemanas volaron sistemáticamente el barrio: más del 85 % del centro histórico quedó destruido.</p><p>Después de la guerra los polacos lo <b>reconstruyeron</b>: la plaza se rehízo entre 1948 y 1953 con el aspecto que tenía en el siglo XVII. La UNESCO lo inscribió en 1980 como ejemplo excepcional de reconstrucción de una ciudad destruida a conciencia. En el centro de la plaza está la <b>Sirena</b> de bronce de Konstanty Hegel, símbolo de Varsovia.</p>"
+   },
+   "ver_alli": [
+    "La plaza está rodeada de casas de colores reconstruidas, con terrazas de restaurantes.",
+    "A unos 400 metros al noroeste está la plaza del Mercado de la Ciudad Nueva, también reconstruida tras la guerra."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Old_Town_Market_Place,_Warsaw",
+    "https://whc.unesco.org/en/list/30/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJjco3ZQDNHkcRrmBUW-XQaBU",
+    "https://www.openstreetmap.org/relation/6458642"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-santa-barbara-kutna-hora",
+   "nombre": "Iglesia de Santa Bárbara de Kutná Hora",
+   "provincia": "Chequia",
+   "comarca": "Kutná Hora (Bohemia Central)",
+   "lat": 49.9449,
+   "lon": 15.2636,
+   "tipo": "iglesia",
+   "estilo": "Gótico tardío",
+   "epoca": "Gótico",
+   "anio": 1388,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>Kutná Hora se hizo rica con sus <b>minas de plata</b>, y la construcción de su gran iglesia dependió de esa prosperidad; está dedicada a santa Bárbara, patrona de los mineros. Se empezó en <b>1388</b>, probablemente con Johann Parler; la obra se retomó en 1481 con Matěj Rejsek y Benedikt Rejt.</p><p>Sus altas bóvedas y sus vidrieras la convierten en una de las grandes iglesias góticas de Europa central. No se terminó del todo hasta <b>1905</b>. Desde 1995 es Patrimonio Mundial junto con el centro histórico de la ciudad y la catedral de Sedlec.</p>"
+   },
+   "ver_alli": [
+    "Está algo apartada del centro del casco histórico, desde donde se llega a pie.",
+    "En el barrio de Sedlec, a las afueras, están la catedral de Nuestra Señora y el famoso osario."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/St._Barbara%27s_Church,_Kutn%C3%A1_Hora",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ6QpxzaZBDEcR26HsPg_tnKE",
+    "https://www.openstreetmap.org/way/103176953"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-cesky-krumlov",
+   "nombre": "Castillo de Český Krumlov",
+   "provincia": "Chequia",
+   "comarca": "Český Krumlov (Bohemia del Sur)",
+   "lat": 48.8128,
+   "lon": 14.3145,
+   "tipo": "castillo",
+   "estilo": "Gótico, Renacimiento y Barroco",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1253,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>Sobre la roca que domina el río, la familia de los <b>Vítkovci</b> levantó en 1253 el primer castillo. Lo heredaron después los poderosos <b>Rosenberg</b>, que lo transformaron en palacio renacentista, y más tarde los Eggenberg y, desde 1717, los <b>Schwarzenberg</b>, hasta que pasó al Estado checoslovaco en 1950.</p><p>Es el segundo mayor conjunto de castillo y palacio de Chequia, después del de Praga. Guarda un <b>teatro barroco de 1767</b>, uno de los mejor conservados del mundo, y un foso donde todavía se tienen osos. El castillo y la pequeña ciudad medieval que lo rodea son Patrimonio Mundial desde 1992.</p>"
+   },
+   "ver_alli": [
+    "El recorrido pasa por los patios, el foso de los osos y los jardines.",
+    "Desde lo alto del castillo se ven la ciudad y el río."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_Krumlov_Castle",
+    "https://www.google.com/maps/place/?q=place_id:ChIJV71mh51dc0cRhlWWvtEL6_8",
+    "https://www.openstreetmap.org/way/797155316"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "abadia-de-pannonhalma",
+   "nombre": "Archiabadía de Pannonhalma",
+   "provincia": "Hungría",
+   "comarca": "Pannonhalma (Győr-Moson-Sopron)",
+   "lat": 47.5529,
+   "lon": 17.7604,
+   "tipo": "iglesia",
+   "estilo": "Gótico temprano, con añadidos barrocos y neoclásicos",
+   "epoca": "Prerrománico y Alta Edad Media",
+   "anio": 996,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>En <b>996</b>, el príncipe <b>Geza</b>, padre de san Esteban, entregó esta colina a los monjes benedictinos, que fundaron aquí el primer monasterio de Hungría; su primer abad fue Astrik. Mil años después sigue siendo una abadía benedictina viva.</p><p>La basílica actual es una obra del gótico temprano de comienzos del siglo XIII, con un muro románico del XII y añadidos de la época del rey Matías, del barroco y del siglo XIX. Su biblioteca guarda unos 400.000 volúmenes, y en su archivo se conserva la <b>carta de fundación de la abadía de Tihany</b> (1055), el documento más antiguo que se conserva con palabras en húngaro. Es Patrimonio Mundial desde 1996.</p>"
+   },
+   "ver_alli": [
+    "Desde el aparcamiento se sube a pie, por un camino arbolado, hasta la entrada de la abadía.",
+    "Hay visitas guiadas por la basílica y la gran biblioteca; alrededor hay jardines."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Pannonhalma_Archabbey",
+    "https://www.google.com/maps/place/?q=place_id:ChIJQfXB5YvFa0cROWiTk0ElufM"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-real-de-buda",
+   "nombre": "Castillo y Palacio Real de Buda",
+   "provincia": "Hungría",
+   "comarca": "Budapest",
+   "lat": 47.4961,
+   "lon": 19.0396,
+   "tipo": "castillo",
+   "estilo": "Barroco reconstruido",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1265,
+   "regiones_sincronia": [
+    "Europa central"
+   ],
+   "texto": {
+    "general": "<p>Sobre la colina de Buda, junto al Danubio, el rey <b>Béla IV</b> levantó la primera residencia real entre 1247 y 1265. Dos siglos después, <b>Matías Corvino</b> la convirtió en una de las primeras cortes del Renacimiento fuera de Italia, con su famosa biblioteca, la <b>Corviniana</b>.</p><p>Los otomanos ocuparon Buda en 1541 y el palacio se arruinó; el asedio cristiano de 1686 destruyó lo que quedaba. Los Habsburgo construyeron un nuevo palacio barroco entre 1749 y 1769, que volvió a quedar en ruinas en el sitio de Budapest de 1944-1945 y se rehízo de forma simplificada hasta 1966. Hoy alberga la Galería Nacional Húngara, el Museo de Historia de Budapest y la Biblioteca Nacional Széchényi. Forma parte del Patrimonio Mundial de Budapest desde 1987.</p>"
+   },
+   "ver_alli": [
+    "Se sube en el funicular histórico de la colina del Castillo, o a pie por escaleras y ascensores.",
+    "Desde las terrazas se ve todo Pest, con el Parlamento al otro lado del río; muy cerca están la iglesia de Matías y el Bastión de los Pescadores."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Buda_Castle",
+    "https://www.google.com/maps/place/?q=place_id:ChIJDw826jzcQUcRdiUBqV86zj0",
+    "https://www.openstreetmap.org/relation/6486918"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "piedras-runicas-de-jelling",
+   "nombre": "Túmulos, piedras rúnicas e iglesia de Jelling",
+   "provincia": "Dinamarca",
+   "comarca": "Jelling (Jutlandia)",
+   "lat": 55.7566,
+   "lon": 9.4196,
+   "tipo": "yacimiento",
+   "estilo": "Piedras rúnicas vikingas",
+   "epoca": "Prerrománico y Alta Edad Media",
+   "regiones_sincronia": [
+    "Europa"
+   ],
+   "texto": {
+    "general": "<p>Jelling fue la sede de los primeros reyes de Dinamarca en el siglo X. Aquí se conservan dos grandes túmulos, una pequeña iglesia y dos <b>piedras rúnicas</b>. La menor la levantó el rey <b>Gorm el Viejo</b> en memoria de su esposa Thyra.</p><p>La mayor la mandó tallar su hijo <b>Harald Diente Azul</b> en memoria de sus padres; su inscripción dice que Harald «ganó para sí toda Dinamarca y Noruega e hizo cristianos a los daneses». Por eso se la llama la <b>partida de bautismo de Dinamarca</b>, y una copia de su imagen de Cristo crucificado aparece en el pasaporte danés. El conjunto es Patrimonio Mundial desde 1994.</p>"
+   },
+   "ver_alli": [
+    "Las piedras rúnicas están delante de la iglesia, entre los dos túmulos.",
+    "Junto al recinto, un centro de visitantes explica la época vikinga; desde su terraza se ve todo el conjunto."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Jelling_stones",
+    "https://www.google.com/maps/place/?q=place_id:ChIJYXY4BoN-S0YRRhzI05pbuT0",
+    "https://www.openstreetmap.org/way/95792355"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-vasa",
+   "nombre": "Museo Vasa",
+   "provincia": "Suecia",
+   "comarca": "Estocolmo",
+   "lat": 59.328,
+   "lon": 18.0914,
+   "tipo": "museo",
+   "estilo": "Barco de guerra del siglo XVII",
+   "epoca": "Barroco",
+   "anio": 1628,
+   "regiones_sincronia": [
+    "Europa"
+   ],
+   "texto": {
+    "general": "<p>El rey <b>Gustavo II Adolfo</b> mandó construir el <b>Vasa</b>, un gran buque de guerra, para su guerra contra Polonia-Lituania. El 10 de agosto de <b>1628</b> zarpó en su viaje inaugural ante la gente de Estocolmo y, tras navegar apenas unos 1.300 metros, volcó y se hundió: tenía demasiado peso en la parte alta y casi ninguna estabilidad.</p><p>Tras 333 años en el fondo, se reflotó en <b>1961</b>, y desde 1990 se expone en un museo construido a su alrededor. Más de 45 millones de personas lo han visitado.</p>"
+   },
+   "ver_alli": [
+    "El barco se ve desde varios pisos, de la quilla a los mástiles; hay visitas guiadas cortas y películas sobre el rescate.",
+    "Está en la isla de Djurgården, en el centro de Estocolmo."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Vasa_(ship)",
+    "https://www.google.com/maps/place/?q=place_id:ChIJrymDbVSdX0YRQTLBtPGa8M8",
+    "https://www.openstreetmap.org/way/27288534"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "museo-de-neandertal",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de la evolución humana",
+    "ver_alli": [
+     "Está en el valle de Neander, entre Düsseldorf y Mettmann, cerca del lugar donde estaba la cueva Feldhofer, hoy desaparecida.",
+     "Expone reconstrucciones a tamaño real de neandertales y de otros humanos antiguos; el esqueleto original de 1856 está en el LVR-LandesMuseum de Bonn."
+    ],
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJjR7gxgfOuEcRZ0oEevkhrjw",
+     "https://en.wikipedia.org/wiki/Neanderthal_1"
+    ],
+    "texto": {
+     "general": "<p>En 1856, en una cantera del valle de Neander, cerca de Düsseldorf, aparecieron los huesos que dieron nombre a los neandertales. Un museo cuenta su historia y la de la evolución humana, junto al lugar del hallazgo.</p><p>Los huesos aparecieron en agosto de 1856 en la cueva Feldhofer, al vaciarla unos canteros. El maestro Johann Carl Fuhlrott los rescató y en 1864 la especie recibió el nombre de <i>Homo neanderthalensis</i>. Del mismo individuo se leyó en 1997 el primer fragmento de ADN neandertal, el comienzo del trabajo por el que Svante Pääbo recibió el Nobel en 2022 y que ha mostrado que muchas personas actuales llevamos alrededor de un 2 % de genes neandertales.</p>"
+    }
+   }
+  },
+  {
+   "id": "cuevas-del-jura-de-suabia-y-la-venus-de-",
+   "campos": {
+    "estilo": "Arte paleolítico auriñaciense",
+    "lat": 48.3797,
+    "lon": 9.7524,
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJr6Ek3bF-mUcRxT9TudiQ-BM",
+     "https://www.openstreetmap.org/node/295444342",
+     "https://www.google.com/maps/place/?q=place_id:ChIJkZv6itl7mUcRRWSUmzXUWgY"
+    ],
+    "ver_alli": [
+     "La cueva de Hohle Fels, en Schelklingen, se visita en temporada; su gran sala puede cerrarse en algunas épocas para proteger a los murciélagos.",
+     "La Venus y otras piezas originales están en el Museo de Prehistoria de Blaubeuren, a unos 4 km; el hombre-león, en el museo de Ulm."
+    ]
+   }
+  },
+  {
+   "id": "venus-de-willendorf",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arte paleolítico gravetiense",
+    "ver_alli": [
+     "Está en el Museo de Historia Natural de Viena, en el Ring, frente al Museo de Historia del Arte.",
+     "La Venus tiene una pequeña sala propia dentro de las salas de prehistoria."
+    ],
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJnQAHwZAHbUcRycXUTr8uocQ"
+    ]
+   }
+  },
+  {
+   "id": "dolni-vestonice",
+   "campos": {
+    "estilo": "Arte paleolítico gravetiense",
+    "lat": 48.8778,
+    "lon": 16.6522,
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJQ1Ew2zHMEkcRKlnecIKU0TY",
+     "https://en.wikipedia.org/wiki/Doln%C3%AD_V%C4%9Bstonice_(archaeological_site)",
+     "https://www.google.com/maps/place/?q=place_id:ChIJjQFJWdDNEkcR7k6_venEGYQ"
+    ],
+    "ver_alli": [
+     "El yacimiento está al pie de las colinas de Pálava, entre los pueblos de Dolní Věstonice y Pavlov.",
+     "A 1,6 km, el Archeopark de Pavlov, un museo construido sobre otro campamento de cazadores de mamuts, cuenta la historia de estos yacimientos."
+    ]
+   }
+  },
+  {
+   "id": "museo-de-pergamo-puerta-de-ishtar",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arte neobabilónico (ladrillo vidriado)",
+    "ver_alli": [
+     "El museo reabrirá en parte en junio de 2027, pero el ala de la Puerta de Ishtar seguirá cerrada hasta la reapertura completa, prevista para 2037.",
+     "Mientras tanto, al lado, en Am Kupfergraben, el Panorama de Pérgamo muestra una gran recreación de la ciudad antigua."
+    ],
+    "fuentes": [
+     "https://www.wsls.com/entertainment/2026/05/04/berlins-pergamon-museum-will-reopen-in-mid-2027-as-a-lengthy-restoration-moves-forward/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJQ18KmuVRqEcR1FOxCIqMflU"
+    ],
+    "texto": {
+     "general": "<p>La Puerta de Ishtar y parte de la Vía Procesional de Babilonia, reconstruidas con los ladrillos vidriados originales. El museo está cerrado por obras: reabrirá en parte en junio de 2027, pero el ala de la Puerta de Ishtar seguirá cerrada hasta la reapertura completa, prevista para 2037.</p><p>La puerta la mandó levantar <b>Nabucodonosor II</b> y se terminó hacia 575 a.C. El arquitecto Robert Koldewey la desenterró entre 1899 y 1917; desde 1927 sus fragmentos llegaron a Berlín en cientos de cajas, se lavaron durante meses para quitarles la sal y se recompusieron, completados con ladrillos nuevos. En 1930 se inauguró aquí la parte delantera de la puerta, de unos 14 metros de alto, con la Vía Procesional y sus leones. La puerta trasera, mucho mayor, no cabía y sigue en los almacenes.</p>"
+    }
+   }
+  },
+  {
+   "id": "weltmuseum-de-viena",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo etnológico"
+   }
+  },
+  {
+   "id": "galeria-de-faras-museo-nacional-de-varso",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Pintura mural nubia cristiana",
+    "ver_alli": [
+     "La Galería de Faras está dentro del Museo Nacional de Varsovia, en la avenida Jerozolimskie, en el centro de la ciudad.",
+     "El museo guarda también la gran pintura de la batalla de Grunwald, de Jan Matejko."
+    ],
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJK6UEcvfMHkcR0iGDJoZsIgc"
+    ]
+   }
+  },
+  {
+   "id": "museo-y-parque-de-kalkriese",
+   "campos": {
+    "estilo": "Campo de batalla romano"
+   }
+  },
+  {
+   "id": "catedral-de-aquisgran",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Carolingio"
+   }
+  },
+  {
+   "id": "catedral-de-magdeburgo",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Gótico"
+   }
+  },
+  {
+   "id": "catedral-de-colonia",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Gótico"
+   }
+  },
+  {
+   "id": "castillo-de-wartburg",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Románico y medieval"
+   }
+  },
+  {
+   "id": "wittenberg-de-lutero",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Gótico tardío y Renacimiento"
+   }
+  },
+  {
+   "id": "museo-gutenberg",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de la imprenta",
+    "lat": 50.0038,
+    "lon": 8.2706,
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJp1988BqXvUcRtwl0aS00naM",
+     "https://www.openstreetmap.org/node/264527030",
+     "https://www.mainz.de/en/microsite/gutenberg-museum/Museum/interimsplanungen"
+    ],
+    "ver_alli": [
+     "Mientras se construye el nuevo museo en la Liebfrauenplatz, la exposición está de forma provisional en el antiguo convento de las clarisas de la Reichklarastraße, que comparte con el Museo de Historia Natural.",
+     "La catedral románica de Maguncia está a unos 600 metros."
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-worms",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico"
+   }
+  },
+  {
+   "id": "fuggerei",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Renacimiento"
+   }
+  },
+  {
+   "id": "castillo-de-malbork",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Gótico de ladrillo"
+   }
+  },
+  {
+   "id": "castillo-de-praga-y-puente-de-carlos",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Gótico"
+   }
+  },
+  {
+   "id": "plaza-de-la-ciudad-vieja-de-praga",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Gótico y Barroco"
+   }
+  },
+  {
+   "id": "cracovia-plaza-del-mercado-y-castillo-de",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Gótico y Renacimiento"
+   }
+  },
+  {
+   "id": "palacio-de-wilanow",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Barroco",
+    "lat": 52.1652,
+    "lon": 21.0905,
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ6xic6UAtGUcRIVWoCEyUf1A",
+     "https://www.openstreetmap.org/way/8106732"
+    ]
+   }
+  },
+  {
+   "id": "hofburg-y-tesoro-imperial",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Barroco"
+   }
+  },
+  {
+   "id": "palacio-de-schonbrunn",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Barroco y Rococó"
+   }
+  },
+  {
+   "id": "cripta-imperial-de-los-capuchinos",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Barroco"
+   }
+  },
+  {
+   "id": "catedral-de-san-esteban-de-viena",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Gótico"
+   }
+  },
+  {
+   "id": "museo-de-historia-militar-de-viena",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Historicismo neobizantino"
+   }
+  },
+  {
+   "id": "casa-natal-de-mozart",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Casa burguesa barroca"
+   }
+  },
+  {
+   "id": "casa-de-beethoven",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Casa barroca"
+   }
+  },
+  {
+   "id": "iglesia-de-santo-tomas-y-museo-bach",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Gótico tardío"
+   }
+  },
+  {
+   "id": "palacio-de-sanssouci",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Rococó"
+   }
+  },
+  {
+   "id": "museo-del-ferrocarril-de-nuremberg",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo del ferrocarril",
+    "lat": 49.4457,
+    "lon": 11.0739,
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ960t2QdXn0cR-u-OLSpUwM0",
+     "https://www.openstreetmap.org/node/1539285608"
+    ]
+   }
+  },
+  {
+   "id": "museo-mercedes-benz",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arquitectura contemporánea"
+   }
+  },
+  {
+   "id": "museo-freud",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Casa-museo"
+   }
+  },
+  {
+   "id": "reichstag",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Neorrenacimiento con cúpula de vidrio",
+    "ver_alli": [
+     "La subida a la cúpula exige reserva previa en la web del Bundestag y pasar un control de seguridad con documento de identidad.",
+     "Desde la terraza del tejado se ven el Tiergarten y la Puerta de Brandeburgo."
+    ],
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJbVDuQcdRqEcR5X3xq9NSG2Q"
+    ]
+   }
+  },
+  {
+   "id": "puerta-de-brandeburgo",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Neoclásico"
+   }
+  },
+  {
+   "id": "memorial-del-muro-de-berlin",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Memorial de la Guerra Fría",
+    "ver_alli": [
+     "Desde la torre del centro de documentación, en la calle Bernauer, se ve todo el conjunto, con la franja de la muerte conservada.",
+     "El memorial se extiende a lo largo de 1,4 km de la antigua frontera."
+    ],
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJZ0KxF_JRqEcRrLHB-4r-U-o"
+    ]
+   }
+  },
+  {
+   "id": "monumento-a-los-judios-asesinados-de-eur",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Memorial contemporáneo",
+    "ver_alli": [
+     "Se puede entrar por cualquier lado del campo de bloques; los pasillos bajan y el suelo es irregular.",
+     "En el centro de información subterráneo, la Sala de los Nombres lee una a una las biografías de las víctimas."
+    ],
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJW2oZB8ZRqEcRyFvuEpCnNBQ"
+    ]
+   }
+  },
+  {
+   "id": "topografia-del-terror",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Centro de documentación",
+    "ver_alli": [
+     "La exposición al aire libre recorre los restos de los sótanos de la antigua sede de la Gestapo, junto al tramo de Muro de la calle Niederkirchner.",
+     "Dentro, la exposición permanente sigue la historia del régimen nazi desde 1933 hasta la posguerra."
+    ],
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJx3iXOMxRqEcRSGbJBczVSzc"
+    ]
+   }
+  },
+  {
+   "id": "casa-de-la-conferencia-de-wannsee",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Villa neoclásica",
+    "ver_alli": [
+     "La villa está a orillas del Gran Wannsee, en el suroeste de Berlín, rodeada de jardines.",
+     "Se ven la sala de la reunión y una exposición permanente; en el piso alto hay una gran biblioteca sobre el Holocausto."
+    ],
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ4SjHU_pYqEcREdAt9al8CEA"
+    ]
+   }
+  },
+  {
+   "id": "auschwitz-birkenau",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Campo de concentración y exterminio"
+   }
+  },
+  {
+   "id": "memorial-de-dachau",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Campo de concentración",
+    "ver_alli": [
+     "Está a unos 20 km de Múnich; se llega en el tren de cercanías S2 hasta Dachau y luego en autobús.",
+     "En el centro de visitantes se puede contratar una visita guiada o una audioguía."
+    ],
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJqQA5yIp6nkcRBqS5F0ROeRY"
+    ]
+   }
+  },
+  {
+   "id": "centro-de-documentacion-del-obersalzberg",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Centro de documentación"
+   }
+  },
+  {
+   "id": "estadio-olimpico-de-berlin",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura monumental nazi"
+   }
+  },
+  {
+   "id": "polin-museo-de-la-historia-de-los-judios",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arquitectura contemporánea"
+   }
+  },
+  {
+   "id": "monumento-al-puente-aereo-de-tempelhof",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Memorial de la Guerra Fría",
+    "lat": 52.4841,
+    "lon": 13.3873,
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJAVWDlSBQqEcRUKRG2dnce3s",
+     "https://www.openstreetmap.org/node/27431777"
+    ]
+   }
+  },
+  {
+   "id": "casa-de-la-historia-de-bonn",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de historia contemporánea"
+   }
+  },
+  {
+   "id": "casa-del-terror",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de historia contemporánea"
+   }
+  },
+  {
+   "id": "parlamento-de-budapest",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Neogótico"
+   }
+  },
+  {
+   "id": "basilica-de-san-esteban-de-budapest",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Neoclásico"
+   }
+  },
+  {
+   "id": "catedral-de-esztergom",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Neoclásico"
+   }
+  },
+  {
+   "id": "plaza-de-wenceslao",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Plaza-bulevar del siglo XIX"
+   }
+  },
+  {
+   "id": "centro-europeo-de-solidaridad",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Arquitectura contemporánea"
+   }
+  },
+  {
+   "id": "casa-natal-de-juan-pablo-ii",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Casa-museo"
+   }
+  },
+  {
+   "id": "casco-antiguo-de-vilna",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Barroco de Vilna"
+   }
+  },
+  {
+   "id": "riga-modernista",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Modernismo (Jugendstil)"
+   }
+  },
+  {
+   "id": "casco-medieval-de-tallin",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Gótico hanseático"
+   }
+  },
+  {
+   "id": "museo-de-solnhofen",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo paleontológico",
+    "ver_alli": [
+     "El museo, que nació de la colección del alcalde Friedrich Müller, expone originales de Archaeopteryx en su «sala de los iconos», junto al dinosaurio con plumas Sciurumimus.",
+     "La planta alta explica la litografía, que se hacía con esta piedra.",
+     "Cerca hay canteras donde el público puede buscar fósiles."
+    ]
+   }
+  },
+  {
+   "id": "jura-museum-eichstatt",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo paleontológico"
+   }
+  },
+  {
+   "id": "grube-messel",
+   "campos": {
+    "estilo": "Yacimiento paleontológico del Eoceno",
+    "ver_alli": [
+     "Centro de visitantes junto al pozo, con exposición y visitas guiadas al fondo, al que solo se baja con guía.",
+     "Mirador sobre el pozo, accesible a pie desde el aparcamiento.",
+     "En el pueblo, el Museo de Fósiles e Historia Local (Langgasse 2) completa la visita."
+    ]
+   }
+  },
+  {
+   "id": "senckenberg-frankfurt",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de historia natural"
+   }
+  },
+  {
+   "id": "lvr-landesmuseum-bonn",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo arqueológico y de arte",
+    "ver_alli": [
+     "Museo en la Colmantstraße 14-16, cerca de la estación central de Bonn.",
+     "Área de la Edad de Piedra, con los restos de Oberkassel y del Neandertal 1."
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-ciudad-de-liubliana",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de historia",
+    "ver_alli": [
+     "La rueda y su eje se exponen en la exposición permanente sobre la historia de la ciudad, en Gosposka 15.",
+     "Al sur de la ciudad, el pantano de Liubliana tiene rutas por la zona de los palafitos."
+    ]
+   }
+  },
+  {
+   "id": "museo-arqueologico-de-cracovia",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo arqueológico"
+   }
+  },
+  {
+   "id": "museo-arte-eneolitico-cucuteni",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Cerámica pintada cucuteni",
+    "lat": 46.9334,
+    "lon": 26.3685,
+    "fuentes": [
+     "https://ghidulmuzeelor.cimec.ro/idEN.asp?k=1774",
+     "https://zilesinopti.ro/locuri/muzeul-de-arta-eneolitica-cucuteni/",
+     "https://www.antiquity.ac.uk/projgall/weller306/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJb2jryctVNUcRicGCWlPw73k",
+     "https://www.openstreetmap.org/way/364305385"
+    ],
+    "ver_alli": [
+     "Unas 800 piezas de la cultura Cucuteni en dos plantas, en la calle Ștefan cel Mare 3.",
+     "Está junto a la Corte Principesca, la iglesia de San Juan y su torre campanario."
+    ]
+   }
+  },
+  {
+   "id": "salzwelten-hallstatt",
+   "campos": {
+    "estilo": "Mina de sal prehistórica"
+   }
+  },
+  {
+   "id": "hortobagy-kurganes",
+   "campos": {
+    "estilo": "Túmulos (kurganes) de la estepa"
+   }
+  },
+  {
+   "id": "neues-museum-berlin",
+   "campos": {
+    "estilo": "Arte egipcio de Amarna"
+   }
+  },
+  {
+   "id": "museo-prehistoria-halle",
+   "campos": {
+    "estilo": "Museo arqueológico"
+   }
+  },
+  {
+   "id": "mittelberg-arche-nebra",
+   "campos": {
+    "estilo": "Lugar de hallazgo de la Edad del Bronce"
+   }
+  },
+  {
+   "id": "basilica-de-constantino-treveris",
+   "campos": {
+    "estilo": "Arquitectura romana tardía",
+    "ver_alli": [
+     "Junto al palacio electoral y sus jardines, en el centro de Tréveris.",
+     "Se visita fuera de las horas de culto y de conciertos; su órgano tiene más de 6.000 tubos.",
+     "Tréveris conserva también la Porta Nigra, termas imperiales y un anfiteatro romanos."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Aula_Palatina",
+     "https://structurae.net/en/structures/aula-palatina",
+     "https://vici.org/vici/23655",
+     "https://www.google.com/maps/place/?q=place_id:ChIJF3nvJJt8lUcRbhGTygQ1was"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-barcos-vikingos-de-roskilde",
+   "campos": {
+    "estilo": "Barcos vikingos"
+   }
+  },
+  {
+   "id": "birka",
+   "campos": {
+    "estilo": "Ciudad vikinga"
+   }
+  },
+  {
+   "id": "brattahlid-qassiarsuk",
+   "campos": {
+    "estilo": "Granjas nórdicas medievales"
+   }
+  },
+  {
+   "id": "catedral-de-espira",
+   "campos": {
+    "estilo": "Románico"
+   }
+  },
+  {
+   "id": "eibingen-santa-hildegarda",
+   "campos": {
+    "estilo": "Neogótico",
+    "lat": 49.9859,
+    "lon": 7.9284,
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/St._Hildegard,_Eibingen",
+     "https://en.wikipedia.org/wiki/Eibingen_Abbey",
+     "https://www.ruedesheim.de/en/tours/st-hildegard-catholic-parish-church/poi.html",
+     "https://www.google.com/maps/place/?q=place_id:ChIJcXyruTHvvUcR5touQW1Na5Y",
+     "https://www.openstreetmap.org/way/237487556"
+    ]
+   }
+  },
+  {
+   "id": "disibodenberg",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Ruinas de monasterio románico",
+    "lat": 49.7769,
+    "lon": 7.7009,
+    "fuentes": [
+     "https://www.disibodenberg.de/welcome-to-the-disibodenberg.html",
+     "https://winesofgermany.com/our-regions/highlight-of-wine-culture/358/klosterruine-disibodenberg",
+     "https://www.google.com/maps/place/?q=place_id:ChIJm2FheWn_vUcR1YiI2NSI1S8",
+     "https://www.openstreetmap.org/node/450184716"
+    ]
+   }
+  },
+  {
+   "id": "museo-europeo-de-la-hansa-lubeck",
+   "campos": {
+    "estilo": "Arquitectura contemporánea"
+   }
+  }
+ ]
+}

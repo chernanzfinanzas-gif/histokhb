@@ -1,0 +1,1033 @@
+{
+ "zona": "Japón y Corea",
+ "nuevos": [
+  {
+   "id": "castillo-de-nijo",
+   "nombre": "Castillo de Nijō",
+   "provincia": "Japón",
+   "comarca": "Kioto",
+   "lat": 35.0133,
+   "lon": 135.7502,
+   "tipo": "castillo",
+   "estilo": "Castillo-palacio del periodo Edo (estilo shoin)",
+   "epoca": "Japón de los samuráis",
+   "anio": 1626,
+   "regiones_sincronia": [
+    "Japón"
+   ],
+   "texto": {
+    "general": "<p>El castillo de Nijō fue la residencia en Kioto de los <b>shōgun Tokugawa</b>, los samuráis que gobernaban Japón mientras el emperador reinaba sin poder. En <b>1601</b> <b>Tokugawa Ieyasu</b> ordenó a los señores del oeste del país que contribuyeran a levantarlo, y las obras terminaron en <b>1626</b>, con su nieto <b>Iemitsu</b>. Fosos, murallas y puertas lo protegían en pleno centro de la capital imperial.</p><p>Su joya es el <b>palacio de Ninomaru</b>, de unos 3.300 metros cuadrados: seis edificios unidos, casi todos de madera de ciprés, cuyas paredes y puertas correderas pintaron artistas de la <b>escuela Kanō</b>. Sus pasillos tienen los famosos «suelos de ruiseñor», que pían al pisarlos; no eran una alarma contra intrusos, como se suele decir, sino el roce de las grapas contra los clavos.</p><p>En este mismo palacio, en <b>1867</b>, el último shōgun, <b>Tokugawa Yoshinobu</b>, anunció que devolvía el poder a la corte imperial: allí terminaron más de dos siglos y medio de gobierno Tokugawa. El castillo forma parte de los Monumentos Históricos de la Antigua Kioto, Patrimonio Mundial.</p>"
+   },
+   "ver_alli": [
+    "Está en el centro de Kioto, junto a la estación de metro de Nijōjō-mae.",
+    "Se recorre el interior del palacio de Ninomaru descalzo, escuchando los suelos de ruiseñor, y después los jardines y las murallas de la ciudadela interior."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Nij%C5%8D_Castle",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ2bRFGtUHAWARTa_El2j7Chg",
+    "https://www.openstreetmap.org/way/57111281"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-shuri",
+   "nombre": "Castillo de Shuri",
+   "provincia": "Japón",
+   "comarca": "Naha (Okinawa)",
+   "lat": 26.217,
+   "lon": 127.7195,
+   "tipo": "castillo",
+   "estilo": "Gusuku (castillo de Ryūkyū); palacio reconstruido",
+   "epoca": "Japón de los samuráis",
+   "anio": 1429,
+   "regiones_sincronia": [
+    "Japón"
+   ],
+   "texto": {
+    "general": "<p>Antes de ser japonesa, Okinawa fue el centro del <b>reino de Ryūkyū</b>, un reino de comerciantes que vivía entre China, Japón y el sureste asiático. Su palacio fue el castillo de Shuri, en lo alto de una colina sobre el puerto de Naha: desde <b>1429</b> hasta <b>1879</b>, unos 450 años, fue la corte real y la sede del gobierno. No se sabe cuándo se construyó, pero ya funcionaba como castillo en la época de los tres reinos de la isla (1322-1429).</p><p>Sus murallas de piedra y sus salas pintadas de rojo bermellón son muy distintas de los castillos del Japón principal. En <b>1879</b> Japón se anexionó el reino y el rey tuvo que abandonar Shuri. En <b>1945</b>, durante la batalla de Okinawa, el castillo quedó casi totalmente destruido.</p><p>Desde <b>1992</b> se reconstruyó sobre el sitio original, y en <b>2000</b> sus restos entraron en el Patrimonio Mundial junto con otros castillos (<i>gusuku</i>) de Ryūkyū. El <b>31 de octubre de 2019</b> un incendio volvió a destruir los edificios del patio principal; su reconstrucción debía terminar en otoño de 2026.</p>"
+   },
+   "ver_alli": [
+    "Está en el barrio de Shuri, en Naha, a unos 15-20 minutos a pie de la estación del monorraíl.",
+    "Se pasa por varias puertas y murallas hasta el patio del palacio principal; tras el incendio de 2019, conviene comprobar qué partes están abiertas.",
+    "El museo de la prefectura de Okinawa, en Naha, ayuda a entender la historia del reino."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Shuri_Castle",
+    "https://www.google.com/maps/place/?q=place_id:ChIJZ9v0bP5r5TQRi0-esrqficA",
+    "https://www.openstreetmap.org/node/4828423125"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "minas-de-plata-de-iwami-ginzan",
+   "nombre": "Minas de plata de Iwami Ginzan",
+   "provincia": "Japón",
+   "comarca": "Ōda (Shimane)",
+   "lat": 35.0998,
+   "lon": 132.4288,
+   "tipo": "yacimiento",
+   "estilo": "Minería y pueblo minero de los siglos XVI-XIX",
+   "epoca": "Japón de los samuráis",
+   "anio": 1526,
+   "regiones_sincronia": [
+    "Japón"
+   ],
+   "texto": {
+    "general": "<p>En estas montañas boscosas del oeste de Japón se sacó buena parte de la plata que movió el comercio de Asia en los siglos XVI y XVII. La mina la descubrió y empezó a explotar en <b>1526</b> un comerciante, <b>Kamiya Jutei</b>, que introdujo después un método de refinado llegado de Corea. A comienzos del siglo XVII la mina producía en su mejor momento unas <b>38 toneladas</b> de plata al año.</p><p>Japón llegó a producir entonces unas <b>200 toneladas</b> anuales, <b>un tercio de la plata del mundo</b>, y esa plata japonesa, junto con la americana que llegaba a Manila en el galeón español, alimentaba el comercio con China. Por eso los grandes señores de la guerra y después los shōgun Tokugawa se disputaron y controlaron la mina.</p><p>La explotación terminó en <b>1923</b>. En <b>2007</b> las minas, el pueblo minero de <b>Ōmori</b> y los caminos y puertos por los que salía la plata fueron declarados Patrimonio Mundial, entre los catorce elementos del conjunto.</p>"
+   },
+   "ver_alli": [
+    "La galería de Ryūgenji se puede recorrer por dentro en un circuito corto; está a unos kilómetros del pueblo de Ōmori, a pie o en bicicleta.",
+    "El pueblo de Ōmori conserva casas de comerciantes y samuráis a lo largo de una calle.",
+    "Conviene empezar por el centro de visitantes del Patrimonio Mundial, que explica la historia de la mina."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Iwami_Ginzan_Silver_Mine",
+    "https://www.google.com/maps/place/?q=place_id:ChIJe8RXfwYPWjURVs60nKcaTLg",
+    "https://www.openstreetmap.org/node/13091382540"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-de-heijo",
+   "nombre": "Palacio de Heijō",
+   "provincia": "Japón",
+   "comarca": "Nara",
+   "lat": 34.6939,
+   "lon": 135.7942,
+   "tipo": "yacimiento",
+   "estilo": "Palacio imperial del periodo Nara (edificios reconstruidos)",
+   "epoca": "Japón antiguo",
+   "anio": 710,
+   "regiones_sincronia": [
+    "Japón"
+   ],
+   "texto": {
+    "general": "<p>En <b>710</b> la corte japonesa fundó una nueva capital, <b>Heijō-kyō</b>, la actual Nara, trazada en cuadrícula a imitación de Chang'an, la capital de la China de los Tang. La ciudad medía unos 6 kilómetros de este a oeste y 5 de norte a sur, y en su extremo norte estaba el palacio imperial, con la residencia del emperador y los edificios del gobierno. Fue la capital durante el <b>periodo Nara</b> (710-784), los años del Gran Buda del Tōdai-ji.</p><p>Cuando la corte se marchó, el palacio desapareció y su solar quedó convertido en campos. Las excavaciones han sacado a la luz sus cimientos, y sobre ellos se han reconstruido la gran puerta de <b>Suzaku</b>, abierta en <b>1998</b>, y la <b>Gran Sala de Audiencias</b> (Daigokuden), terminada en <b>2010</b>, donde se celebraban las ceremonias más solemnes, como la subida al trono.</p><p>Los restos del palacio forman parte desde <b>1998</b> de los Monumentos Históricos de la Antigua Nara, Patrimonio Mundial.</p>"
+   },
+   "ver_alli": [
+    "El recinto es un enorme espacio abierto entre el centro de Nara y la estación de Yamato-Saidaiji.",
+    "La Gran Sala de Audiencias reconstruida, con una réplica del trono, está en la zona norte; la puerta de Suzaku, en el extremo sur."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Heij%C5%8D_Palace",
+    "https://www.google.com/maps/place/?q=place_id:ChIJAQAQWp87AWARJ-YLNAx_A0k",
+    "https://www.openstreetmap.org/way/105145325"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-changdeokgung",
+   "nombre": "Palacio Changdeokgung",
+   "provincia": "Corea del Sur",
+   "comarca": "Seúl",
+   "lat": 37.5794,
+   "lon": 126.9919,
+   "tipo": "monumento",
+   "estilo": "Arquitectura palaciega Joseon con jardín",
+   "epoca": "Corea Goryeo y Joseon",
+   "anio": 1405,
+   "regiones_sincronia": [
+    "Corea"
+   ],
+   "texto": {
+    "general": "<p>El rey <b>Taejong</b> mandó levantar Changdeokgung como palacio secundario de Seúl, y quedó terminado en <b>1405</b>. A diferencia del gran palacio de Gyeongbokgung, trazado en línea recta, sus edificios se adaptan a las colinas y al bosque. En <b>1592</b>, durante la invasión japonesa, todos los palacios de la ciudad ardieron; en <b>1610</b> terminó la primera fase de su restauración, y Changdeokgung se convirtió durante siglos en el palacio principal de la dinastía Joseon, hasta que la familia del rey Gojong se trasladó en 1868.</p><p>La sala del trono, <b>Injeongjeon</b>, Tesoro Nacional, es donde se celebraban las coronaciones; reconstruida varias veces, la actual es de 1804. Detrás del palacio se extiende el <b>Huwon</b>, el «jardín secreto», con estanques y pabellones entre los árboles, que los reyes usaban para descansar, para ceremonias y para los exámenes de los funcionarios.</p><p>Es Patrimonio Mundial desde <b>1997</b>, como un ejemplo sobresaliente de palacio y jardín del Extremo Oriente.</p>"
+   },
+   "ver_alli": [
+    "Está en el centro de Seúl, a unos minutos a pie de la estación de Anguk, y un puente lo une con el santuario de Jongmyo.",
+    "El jardín secreto se visita aparte y algunas zonas solo con visita guiada, que conviene reservar."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Changdeokgung",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ4wh0zluifDURaFBW2pdrKf8",
+    "https://www.openstreetmap.org/way/789965985"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "aldea-de-hahoe",
+   "nombre": "Aldea de Hahoe",
+   "provincia": "Corea del Sur",
+   "comarca": "Andong (Gyeongsang del Norte)",
+   "lat": 36.539,
+   "lon": 128.5181,
+   "tipo": "poblacion",
+   "estilo": "Aldea tradicional Joseon (casas hanok)",
+   "epoca": "Corea Goryeo y Joseon",
+   "regiones_sincronia": [
+    "Corea"
+   ],
+   "texto": {
+    "general": "<p>Hahoe es una aldea tradicional fundada entre los siglos XIV y XV en la que todavía vive gente en casas de madera con tejados de teja y de paja. Su nombre significa algo así como «el río que da la vuelta», porque el río la rodea casi por completo. La fundó el clan <b>Ryu de Pungsan</b>, y una de sus ramas desciende de <b>Yu Seong-ryong</b>, primer ministro del rey Seonjo.</p><p>Las casas de los nobles, con sus patios y pabellones, conviven con las de los campesinos y muestran cómo se organizaba la sociedad confuciana de la época Joseon. La aldea es famosa por su <b>danza de máscaras</b>, el <i>byeolsin-gut</i>, un rito dedicado a los dioses del pueblo; es Patrimonio Cultural Inmaterial de Corea.</p><p>En <b>2010</b> entró en el Patrimonio Mundial junto con la aldea de Yangdong, como «Aldeas históricas de Corea». En <b>1999</b> la visitó la reina <b>Isabel II</b> de Inglaterra, y los vecinos celebraron allí su cumpleaños.</p>"
+   },
+   "ver_alli": [
+    "Está al oeste de la ciudad de Andong; desde el aparcamiento y la taquilla un autobús lleva hasta la aldea.",
+    "Las casas están habitadas: se pasea por las calles y se ven desde fuera, con respeto."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Hahoe_Folk_Village",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ70lL5f4iZDURou4DxhPonPA",
+    "https://www.openstreetmap.org/way/548195691"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "cementerio-de-la-onu-en-busan",
+   "nombre": "Cementerio Memorial de las Naciones Unidas",
+   "provincia": "Corea del Sur",
+   "comarca": "Busan",
+   "lat": 35.1278,
+   "lon": 129.096,
+   "tipo": "monumento",
+   "estilo": "Cementerio memorial",
+   "epoca": "Corea contemporánea",
+   "anio": 1951,
+   "regiones_sincronia": [
+    "Corea"
+   ],
+   "texto": {
+    "general": "<p>Durante la <b>guerra de Corea</b> (1950-1953), soldados de muchos países lucharon bajo la bandera de las Naciones Unidas para defender Corea del Sur. En <b>enero de 1951</b>, cuando Busan era la capital provisional de Corea del Sur, se empezó a construir aquí un cementerio militar para ellos, consagrado el 6 de abril de ese año. En 2011 el secretario general Ban Ki-moon lo llamó «el único cementerio de las Naciones Unidas del mundo».</p><p>Hoy tiene unas <b>2.300 tumbas</b>, de soldados y de unos pocos civiles, repartidas por países entre jardines muy cuidados. El <b>Muro del Recuerdo</b>, terminado en <b>2006</b>, recoge en 140 paneles de mármol los nombres de <b>40.896</b> soldados de la ONU muertos o desaparecidos en la guerra.</p>"
+   },
+   "ver_alli": [
+    "Está en el distrito de Nam, en Busan, junto a otros museos y memoriales de la paz.",
+    "Hay una capilla con un vídeo que cuenta su historia, y voluntarios que hacen visitas guiadas."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/United_Nations_Memorial_Cemetery",
+    "https://www.google.com/maps/place/?q=place_id:ChIJ1WBtuBHsaDURHweTBgdwaKU",
+    "https://www.openstreetmap.org/way/476626810"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "sannai-maruyama",
+   "campos": {
+    "estilo": "Poblado de la cultura jōmon",
+    "ver_alli": [
+     "El yacimiento está a las afueras de la ciudad de Aomori, con autobús desde la estación.",
+     "Se recorren las casas y la gran torre de seis pilares reconstruidas, zonas de excavación abiertas y un museo con la cerámica y las figurillas halladas."
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-de-tokio",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de arte y arqueología",
+    "ver_alli": [
+     "Está dentro del parque de Ueno, a pocos minutos a pie de la estación.",
+     "Tiene varios edificios: el principal, el Honkan, recorre el arte japonés, y la Galería de los Tesoros del Hōryū-ji guarda los objetos del siglo VII.",
+     "Es muy grande: conviene elegir antes qué salas ver."
+    ]
+   }
+  },
+  {
+   "id": "yoshinogari",
+   "campos": {
+    "estilo": "Poblado fortificado de la cultura yayoi",
+    "ver_alli": [
+     "El parque histórico está en la llanura de Saga, en el norte de Kiusiu, y es muy extenso: hay que caminar bastante.",
+     "Se recorren fosos, empalizadas, torres y graneros reconstruidos, además del cementerio de tinajas funerarias."
+    ],
+    "lat": 33.3254,
+    "lon": 130.3844,
+    "fuentes": [
+     "https://www.openstreetmap.org/node/12871663876",
+     "https://www.google.com/maps/place/?q=place_id:ChIJX-D2_AG6QTURNFKdK0BI3Vk"
+    ]
+   }
+  },
+  {
+   "id": "tumulo-de-daisen-nintoku",
+   "campos": {
+    "estilo": "Kofun en forma de ojo de cerradura",
+    "ver_alli": [
+     "No se puede entrar en el túmulo, que está rodeado de fosos y cubierto de bosque: desde el suelo solo se ve una muralla verde.",
+     "La mejor vista es desde el mirador del piso 21 del ayuntamiento de Sakai.",
+     "Se puede dar la vuelta completa a pie por fuera de los fosos."
+    ]
+   }
+  },
+  {
+   "id": "gran-santuario-de-ise",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura sintoísta (estilo shinmei-zukuri)",
+    "ver_alli": [
+     "El santuario interior, el Naikū, se alcanza cruzando el puente de madera de Uji sobre el río Isuzu.",
+     "El santuario exterior, el Gekū, está a unos kilómetros, en el centro de Ise; la tradición es visitarlo primero.",
+     "El edificio principal queda tras una valla: solo se ven sus tejados."
+    ]
+   }
+  },
+  {
+   "id": "horyu-ji",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura budista del periodo Asuka",
+    "ver_alli": [
+     "Está en Ikaruga, al suroeste de Nara, con tren y autobús desde la ciudad.",
+     "El recinto occidental, con la pagoda y la sala dorada, el recinto oriental y la galería de tesoros pueden ocupar medio día."
+    ]
+   }
+  },
+  {
+   "id": "todai-ji-y-el-gran-buda-de-nara",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura budista de Nara (sala reconstruida en 1709)",
+    "ver_alli": [
+     "Está en el parque de Nara, a un paseo desde las estaciones; los ciervos se acercan pidiendo galletas.",
+     "Antes de la sala del Gran Buda se pasa la gran puerta Nandaimon, con dos enormes guardianes de madera."
+    ]
+   }
+  },
+  {
+   "id": "monte-koya",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Monasterio budista shingon",
+    "ver_alli": [
+     "Se sube en tren y funicular desde Osaka; arriba, el pueblo de templos se recorre en autobús o a pie.",
+     "Muchos templos ofrecen alojamiento con comida vegetariana budista y la oración de la mañana.",
+     "El camino al mausoleo de Kūkai, entre las tumbas y cedros de Okunoin, es más bonito al atardecer."
+    ]
+   }
+  },
+  {
+   "id": "byodo-in",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura budista del periodo Heian (Tierra Pura)",
+    "ver_alli": [
+     "Está en Uji, a unos diez minutos a pie de la estación, por una calle llena de tiendas de té verde.",
+     "El interior del Pabellón del Fénix se visita aparte, en pequeños grupos.",
+     "El museo Hōshōkan, junto al estanque, guarda las figuras originales."
+    ]
+   }
+  },
+  {
+   "id": "santuario-de-itsukushima",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura sintoísta sobre el agua (estilo shinden)",
+    "ver_alli": [
+     "Se llega en ferri a la isla de Miyajima desde Miyajimaguchi o desde Hiroshima.",
+     "Con marea alta la puerta torii parece flotar; con marea baja se puede caminar hasta ella.",
+     "Un teleférico sube al monte Misen, con vistas sobre el mar interior."
+    ]
+   }
+  },
+  {
+   "id": "gran-buda-de-kamakura",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Escultura budista en bronce (periodo Kamakura)",
+    "ver_alli": [
+     "El Buda está en el templo Kōtoku-in, en el barrio de Hase, a unos minutos a pie de la estación del tren Enoden.",
+     "Se puede entrar en el interior hueco de la estatua para ver cómo se fundió."
+    ]
+   }
+  },
+  {
+   "id": "chuson-ji-hiraizumi",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura budista del final de Heian",
+    "ver_alli": [
+     "El templo está en lo alto de una colina en Hiraizumi, subiendo una avenida de cedros.",
+     "El pabellón dorado, el Konjikidō, está protegido dentro de un edificio de hormigón y se ve tras un cristal.",
+     "Cerca está el jardín de Mōtsū-ji, del mismo conjunto Patrimonio Mundial."
+    ]
+   }
+  },
+  {
+   "id": "muralla-anti-mongola-de-hakata",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Muro defensivo de piedra (periodo Kamakura)",
+    "ver_alli": [
+     "El tramo de Nishijin está en un pequeño parque del barrio, cerca de la estación de metro de Nishijin.",
+     "El tramo mejor conservado y más largo está en la playa de Iki-no-Matsubara, en el oeste de Fukuoka, con paneles que explican la defensa."
+    ],
+    "lat": 33.5841,
+    "lon": 130.3528,
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJKUHt56aTQTURAxKRPAoYL78",
+     "https://www.openstreetmap.org/way/1375997204",
+     "https://www.google.com/maps/place/?q=place_id:ChIJcSqyHjmTQTURry2S86Iy0zQ"
+    ]
+   }
+  },
+  {
+   "id": "kinkaku-ji-el-pabellon-de-oro",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura de Muromachi (cultura Kitayama)",
+    "ver_alli": [
+     "Está en el norte de Kioto, en autobús desde el centro.",
+     "El pabellón no se visita por dentro: se rodea el estanque por un camino que pasa por el jardín.",
+     "Muy concurrido; a primera hora hay algo menos de gente."
+    ]
+   }
+  },
+  {
+   "id": "ryoan-ji",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Jardín seco zen (karesansui)",
+    "ver_alli": [
+     "Está en el noroeste de Kioto, a un paseo del Kinkaku-ji.",
+     "El jardín de piedras se contempla sentado desde la galería de madera del edificio del abad; alrededor hay un gran estanque y jardines de musgo."
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-himeji",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Castillo japonés de llano y colina",
+    "ver_alli": [
+     "Se ve ya desde la estación de Himeji, a unos 15 minutos a pie por una avenida recta.",
+     "Para subir a la torre principal hay que descalzarse y llevar los zapatos en una bolsa; las escaleras son muy empinadas.",
+     "Al lado está el jardín Kōko-en."
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-osaka",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Castillo japonés; torre reconstruida en hormigón (1931)",
+    "ver_alli": [
+     "El castillo está en un gran parque en el centro de Osaka, rodeado de fosos y murallas de enormes piedras.",
+     "La torre es un museo con un mirador en el último piso."
+    ]
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-sekigahara",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Campo de batalla y museo",
+    "ver_alli": [
+     "El museo memorial está a un paseo de la estación de Sekigahara.",
+     "Desde su mirador se ve todo el campo; por los alrededores se reparten los puestos de mando de los generales, señalados con banderas, que se pueden recorrer a pie o en bicicleta."
+    ]
+   }
+  },
+  {
+   "id": "santuario-tosho-gu-de-nikko",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura sintoísta gongen-zukuri (periodo Edo)",
+    "ver_alli": [
+     "Está en el bosque de cedros de Nikkō, en autobús desde las estaciones.",
+     "Hay que subir bastantes escaleras, sobre todo hasta la tumba de Ieyasu, en lo alto.",
+     "Se combina con el puente rojo de Shinkyō y los templos vecinos de Rinnō-ji y Futarasan."
+    ]
+   }
+  },
+  {
+   "id": "nagasaki-martires-y-dejima",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Factoría comercial holandesa reconstruida",
+    "ver_alli": [
+     "Dejima está en el centro de Nagasaki; ya no es una isla, pero se recorren sus almacenes y casas reconstruidos.",
+     "La colina de los 26 mártires, con el monumento y su museo, está junto a la estación de Nagasaki."
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-hara-shimabara",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Ruinas de castillo japonés",
+    "ver_alli": [
+     "Está en la costa sur de la península de Shimabara, lejos de las ciudades: se llega mejor en coche.",
+     "Quedan restos de murallas y terrazas cubiertos de hierba, con vistas al mar."
+    ]
+   }
+  },
+  {
+   "id": "templo-sengaku-ji",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Templo budista zen sōtō",
+    "ver_alli": [
+     "Está junto a la estación de metro de Sengakuji, en el sur de Tokio.",
+     "Las tumbas de los 47 rōnin están en un patio al que se sube por una escalera; la gente sigue dejando incienso."
+    ]
+   }
+  },
+  {
+   "id": "monte-fuji",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Volcán sagrado y lugar de peregrinación",
+    "ver_alli": [
+     "La subida a la cima solo se hace en la temporada de verano, por cuatro rutas que parten de las estaciones de la mitad de la montaña.",
+     "Es una subida dura; muchos la hacen de noche para ver amanecer arriba.",
+     "Fuera de temporada se ve mejor desde los lagos del norte o desde Hakone."
+    ],
+    "texto": {
+     "general": "<p>El volcán sagrado, de 3.776 metros, que entró en erupción por última vez en 1707. Ha sido lugar de peregrinación y tema de Hokusai y Hiroshige. Patrimonio Mundial como lugar cultural. Sus laderas tienen santuarios, lagos y el mar de árboles de Aokigahara. Hasta 1872 las mujeres tenían prohibido subir a la cima.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Mount_Fuji"
+    ]
+   }
+  },
+  {
+   "id": "museo-sumida-hokusai",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de arte en edificio contemporáneo (Kazuyo Sejima)",
+    "ver_alli": [
+     "Está en el barrio de Sumida, a pocos minutos a pie de la estación de Ryōgoku.",
+     "Las obras más famosas se exponen por turnos: conviene mirar qué exposición hay antes de ir."
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-prehistoria-de-jeongok",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de prehistoria",
+    "ver_alli": [
+     "Está en Jeongok, en el norte de la provincia de Gyeonggi, cerca de la frontera con Corea del Norte.",
+     "Alrededor hay un parque en el yacimiento donde aparecieron las hachas de mano."
+    ],
+    "lat": 38.0114,
+    "lon": 127.0637,
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJzbZGqmcnfTURFt0uTu8KzaA",
+     "https://www.openstreetmap.org/way/1273850353"
+    ]
+   }
+  },
+  {
+   "id": "petroglifos-de-bangudae",
+   "campos": {
+    "estilo": "Arte rupestre prehistórico (petroglifos)",
+    "ver_alli": [
+     "Los grabados están en un acantilado junto al río Daegok, en el campo, al oeste de Ulsan.",
+     "Se ven desde un mirador al otro lado del agua, a cierta distancia: unos prismáticos ayudan.",
+     "Cerca está el Museo de Petroglifos de Ulsan, con un sendero junto al río que lleva hasta el mirador."
+    ],
+    "lat": 35.6039,
+    "lon": 129.1778,
+    "fuentes": [
+     "https://www.openstreetmap.org/node/5923867887",
+     "https://www.google.com/maps/place/?q=place_id:ChIJHfLA-0EwZjURT184gHiJrjA"
+    ]
+   }
+  },
+  {
+   "id": "dolmenes-de-gochang",
+   "campos": {
+    "estilo": "Dólmenes de la Edad del Bronce",
+    "ver_alli": [
+     "Los dólmenes se reparten por una ladera en Jungnim-ri, a las afueras de Gochang, en un parque que se recorre a pie.",
+     "El museo de los dólmenes está a la entrada; el recorrido completo lleva un par de horas."
+    ],
+    "lat": 35.4458,
+    "lon": 126.6422,
+    "fuentes": [
+     "https://www.openstreetmap.org/way/567037257",
+     "https://www.google.com/maps/place/?q=place_id:ChIJsd8Nip6fcTUR1nT1h2wNymE"
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-de-corea",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo nacional de historia y arte",
+    "ver_alli": [
+     "Está en el barrio de Yongsan, junto a la estación de Ichon, rodeado de un gran parque con un estanque.",
+     "Es enorme; conviene empezar por la sala de los bodhisattvas pensativos y por la historia antigua."
+    ]
+   }
+  },
+  {
+   "id": "tumbas-y-museo-de-gyeongju",
+   "campos": {
+    "estilo": "Túmulos reales de Silla",
+    "ver_alli": [
+     "El parque de Daereungwon está en el centro de Gyeongju y se pasea entre los grandes túmulos de hierba.",
+     "El Museo Nacional de Gyeongju, con la campana del rey Seongdeok, está a un paseo, pasando por el observatorio de Cheomseongdae."
+    ]
+   }
+  },
+  {
+   "id": "bulguksa-y-seokguram",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura budista de Silla unificada",
+    "ver_alli": [
+     "Bulguksa está a unos 15 km del centro de Gyeongju, con autobús directo.",
+     "La gruta de Seokguram está más arriba, en el monte Toham; se sube por un sendero o en autobús.",
+     "El Buda de la gruta se ve tras un cristal y no se pueden hacer fotos."
+    ]
+   }
+  },
+  {
+   "id": "zonas-historicas-de-baekje",
+   "campos": {
+    "estilo": "Capitales, fortalezas y tumbas reales de Baekje",
+    "ver_alli": [
+     "En Gongju, la fortaleza de Gongsanseong tiene un paseo por la muralla sobre el río Geum.",
+     "Las tumbas reales, con la del rey Muryeong, están a 1 km al oeste; al lado hay un museo con una reproducción de la tumba.",
+     "Buyeo, la otra capital, está a unos 30 km al suroeste."
+    ],
+    "lat": 36.4646,
+    "lon": 127.1249,
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJJ5tjA3-3ejUR-AmQcead1_A",
+     "https://www.openstreetmap.org/way/157482752"
+    ]
+   }
+  },
+  {
+   "id": "haeinsa-y-la-tripitaka-koreana",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Monasterio budista coreano",
+    "ver_alli": [
+     "Está en las montañas del parque nacional de Gayasan, con autobús desde Daegu.",
+     "Los edificios de las tablas se ven desde fuera, a través de las ventanas de listones."
+    ]
+   }
+  },
+  {
+   "id": "cheongju-el-jikji",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de la imprenta",
+    "ver_alli": [
+     "El museo está en Cheongju, junto al solar del templo de Heungdeok, donde se imprimió el Jikji.",
+     "Explica cómo se fundían los tipos de metal y al final se puede probar a imprimir."
+    ],
+    "lat": 36.644,
+    "lon": 127.4715,
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJpWUacdcnZTURdVMYFWeOG4Q",
+     "https://www.openstreetmap.org/way/463184501"
+    ]
+   }
+  },
+  {
+   "id": "palacio-gyeongbokgung",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura palaciega Joseon",
+    "ver_alli": [
+     "Está en el centro de Seúl, tras la puerta de Gwanghwamun, junto a la estación de metro del mismo nombre.",
+     "Varias veces al día se representa el cambio de guardia ante la puerta principal.",
+     "Dentro del recinto están el Museo Nacional del Folclore y el Museo Nacional del Palacio."
+    ]
+   }
+  },
+  {
+   "id": "santuario-de-jongmyo",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Santuario confuciano Joseon",
+    "ver_alli": [
+     "Está en el centro de Seúl, a pocos minutos de la estación de Jongno 3-ga.",
+     "Algunos días solo se visita con guía; un puente lo une con el palacio de Changdeokgung."
+    ]
+   }
+  },
+  {
+   "id": "fortaleza-de-namhansanseong",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Fortaleza de montaña Joseon",
+    "ver_alli": [
+     "Está al sureste de Seúl, en autobús desde el metro.",
+     "En el centro está el palacio provisional del rey; desde allí se puede recorrer a pie la muralla por la cresta, con buenas vistas."
+    ]
+   }
+  },
+  {
+   "id": "isla-de-hansan",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Santuario conmemorativo Joseon",
+    "ver_alli": [
+     "Se llega en barco desde el puerto de Tongyeong, en una media hora.",
+     "Del embarcadero se va a pie hasta el santuario de Jeseungdang, con el retrato de Yi Sun-sin y el pabellón desde donde vigilaba el mar."
+    ],
+    "lat": 34.7943,
+    "lon": 128.4719,
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ-_V9MxC4bjURoE96gApX1LQ",
+     "https://www.openstreetmap.org/way/860298048"
+    ]
+   }
+  },
+  {
+   "id": "fortaleza-hwaseong-de-suwon",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Fortaleza Joseon de finales del siglo XVIII",
+    "ver_alli": [
+     "La muralla rodea el centro antiguo de Suwon y se puede recorrer entera a pie en unas horas.",
+     "En el centro está el palacio provisional de Hwaseong Haenggung, donde se alojaba el rey Jeongjo.",
+     "La gran puerta sur, Paldalmun, está hoy en medio de una rotonda junto al mercado."
+    ],
+    "lat": 37.282,
+    "lon": 127.0137,
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJZ3YTCjRDezUROWCZyAEmL2k",
+     "https://www.openstreetmap.org/relation/18722519"
+    ]
+   }
+  },
+  {
+   "id": "santuario-meiji",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura sintoísta",
+    "ver_alli": [
+     "La entrada principal está junto a la estación de Harajuku; desde allí se camina un rato por el bosque hasta el santuario.",
+     "Se combina con el barrio juvenil de Harajuku, al lado."
+    ]
+   }
+  },
+  {
+   "id": "fabrica-de-seda-de-tomioka",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura industrial de ladrillo (periodo Meiji)",
+    "ver_alli": [
+     "Está en el centro de Tomioka, a un paseo de la estación.",
+     "Los edificios de ladrillo se conservan tal cual, con la sala de las devanadoras y los almacenes de capullos."
+    ]
+   }
+  },
+  {
+   "id": "parque-de-perry-en-kurihama",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Monumento conmemorativo y parque",
+    "ver_alli": [
+     "El parque está junto a la playa de Kurihama, en Yokosuka, al sur de Tokio.",
+     "Además del gran monumento de piedra, tiene un pequeño museo sobre la llegada de Perry.",
+     "En Shimoda, en la península de Izu, se celebra cada mayo el Festival de los Barcos Negros."
+    ],
+    "lat": 35.2243,
+    "lon": 139.712,
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJP2F12t8VGGARRAjXd7qma4Y",
+     "https://www.openstreetmap.org/way/378595077"
+    ]
+   }
+  },
+  {
+   "id": "museo-reimeikan-y-shiroyama",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de historia",
+    "ver_alli": [
+     "El museo ocupa el solar del antiguo castillo de Tsurumaru, al pie de la colina de Shiroyama.",
+     "Desde el mirador de Shiroyama se ve la ciudad y el volcán Sakurajima, en erupción casi constante."
+    ]
+   }
+  },
+  {
+   "id": "parque-y-museo-de-la-paz-de-hiroshima",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Parque memorial",
+    "ver_alli": [
+     "El parque está en el centro de Hiroshima: la Cúpula de la Bomba Atómica a un extremo y el museo al otro, unidos por el cenotafio.",
+     "La visita al museo es muy emotiva y lleva un par de horas."
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-bomba-atomica-de-nagasaki",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo memorial",
+    "ver_alli": [
+     "Está en el barrio de Urakami, al norte del centro, con tranvía.",
+     "Se combina con el Parque de la Paz, el hipocentro y la catedral de Urakami, todos cerca."
+    ]
+   }
+  },
+  {
+   "id": "parque-memorial-de-la-paz-de-okinawa",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Parque memorial",
+    "ver_alli": [
+     "Está en la colina de Mabuni, en el extremo sur de Okinawa, frente al mar.",
+     "El museo de la paz de la prefectura está dentro del parque.",
+     "Cerca están las cuevas donde se refugiaba la población."
+    ]
+   }
+  },
+  {
+   "id": "santuario-yasukuni-y-museo-yushukan",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Arquitectura sintoísta",
+    "ver_alli": [
+     "Está en el barrio de Kudan, cerca del palacio imperial, junto a la estación de Kudanshita.",
+     "El museo Yūshūkan está al lado del santuario.",
+     "Es una visita útil para entender un debate muy vivo en Asia."
+    ]
+   }
+  },
+  {
+   "id": "museo-del-barco-daigo-fukuryu-maru",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo memorial",
+    "ver_alli": [
+     "Está en el parque de Yumenoshima, en la bahía de Tokio.",
+     "El barco atunero original se ve entero dentro del edificio."
+    ]
+   }
+  },
+  {
+   "id": "torre-del-sol-y-parque-de-la-expo",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Escultura monumental (Tarō Okamoto)",
+    "ver_alli": [
+     "Está en el Parque Conmemorativo de la Expo 70, en Suita, al norte de Osaka, con monorraíl.",
+     "La visita al interior requiere reserva."
+    ]
+   }
+  },
+  {
+   "id": "isla-de-hashima-gunkanjima",
+   "campos": {
+    "estilo": "Ciudad minera abandonada de hormigón",
+    "ver_alli": [
+     "Se visita en barco desde el puerto de Nagasaki, con empresas autorizadas.",
+     "Solo se desembarca si el mar lo permite, y solo en una zona con pasarelas; si no, el barco da la vuelta a la isla."
+    ]
+   }
+  },
+  {
+   "id": "museo-edo-tokio",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de historia",
+    "ver_alli": [
+     "Está en Ryōgoku, junto a la estación y al estadio de sumo.",
+     "Tiene maquetas a tamaño real y a escala de la ciudad de Edo; la visita completa lleva varias horas."
+    ]
+   }
+  },
+  {
+   "id": "museo-memorial-del-tsunami-de-rikuzentak",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo memorial",
+    "ver_alli": [
+     "Está en el parque memorial de Takata-Matsubara, junto al gran dique nuevo frente al mar.",
+     "El «pino milagroso» se ve a un paseo del museo; cerca se conserva también una escuela dañada por el tsunami."
+    ]
+   }
+  },
+  {
+   "id": "museo-del-ferrocarril",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo del ferrocarril",
+    "ver_alli": [
+     "Está en Ōmiya (Saitama), a unos 30 minutos de Tokio, con una línea que lo deja en la puerta.",
+     "Se puede entrar en muchos vagones y probar los simuladores, que suelen pedir reserva en la aplicación del museo."
+    ]
+   }
+  },
+  {
+   "id": "zona-desmilitarizada-y-panmunjom",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Zona fronteriza militar",
+    "ver_alli": [
+     "Solo se visita en excursión organizada y con pasaporte; puede cerrarse por tensiones.",
+     "Las excursiones a la zona desmilitarizada suelen incluir túneles y miradores hacia el norte; Panmunjom tiene visitas propias."
+    ]
+   }
+  },
+  {
+   "id": "memorial-de-la-guerra-de-corea",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo militar y memorial",
+    "ver_alli": [
+     "Está en Yongsan, junto a la estación de Samgakji.",
+     "Fuera se exponen aviones, tanques y barcos; dentro, salas sobre todas las guerras de Corea."
+    ]
+   }
+  },
+  {
+   "id": "carcel-de-seodaemun",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Prisión de ladrillo convertida en museo",
+    "ver_alli": [
+     "Está junto a la estación de Dongnimmun, en el parque de la Independencia.",
+     "Junto a ella está la Puerta de la Independencia, de 1897."
+    ]
+   }
+  },
+  {
+   "id": "memorial-de-ahn-jung-geun",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo memorial",
+    "ver_alli": [
+     "Está en la ladera del monte Namsan, en el centro de Seúl.",
+     "Desde allí se sube a pie o en teleférico a la Torre N de Seúl."
+    ]
+   }
+  },
+  {
+   "id": "cementerio-nacional-del-18-de-mayo",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Cementerio memorial",
+    "ver_alli": [
+     "Está en las afueras del norte de Gwangju, con autobús desde el centro.",
+     "Junto a las tumbas hay una sala de exposición sobre el levantamiento.",
+     "En el centro de la ciudad, el antiguo edificio del gobierno provincial es otro lugar de memoria."
+    ],
+    "lat": 35.2353,
+    "lon": 126.9401,
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJX5A8V8SScTURMFA8iLTgCLw",
+     "https://www.openstreetmap.org/way/765152327"
+    ]
+   }
+  },
+  {
+   "id": "santuario-de-los-martires-de-jeoldusan",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Santuario católico",
+    "ver_alli": [
+     "Está en lo alto de una colina sobre el río Han, a unos 15 minutos a pie de la estación de Hapjeong.",
+     "Tiene una capilla, un museo de la Iglesia coreana y un pequeño parque con el vía crucis.",
+     "Cerca está el cementerio de los extranjeros de Yanghwajin."
+    ]
+   }
+  },
+  {
+   "id": "museo-hamel",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo memorial",
+    "ver_alli": [
+     "Está en Byeongyeong, en el municipio de Gangjin, junto a las murallas de la antigua fortaleza militar de Jeolla, donde vivieron los holandeses.",
+     "En el pueblo se conservan viejos muros de piedra y un gran ginkgo que se relacionan con la estancia de Hamel.",
+     "En Yeosu, en la costa, hay otro pequeño museo de Hamel, junto al faro que lleva su nombre."
+    ],
+    "lat": 34.7196,
+    "lon": 126.8186,
+    "texto": {
+     "general": "<p>Un museo en Byeongyeong (Gangjin), el pueblo donde Hendrick Hamel y sus compañeros pasaron siete años de su cautiverio, que cuenta su naufragio, su vida en Corea y su huida, con objetos holandeses. Está junto a la antigua fortaleza militar de la provincia de Jeolla, donde estuvieron retenidos, y en el municipio hay una estatua de Hamel parecida a la de Gorinchem, su ciudad natal en Holanda.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJOyI9v3hGcjURSpv40IwKCMM",
+     "https://www.openstreetmap.org/node/4627948815",
+     "https://en.wikipedia.org/wiki/Hendrick_Hamel",
+     "https://www.ktriptips.com/kor/course/1856920"
+    ]
+   }
+  },
+  {
+   "id": "palacio-deoksugung",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura palaciega Joseon y edificios de estilo occidental",
+    "ver_alli": [
+     "Está en pleno centro de Seúl, frente al ayuntamiento.",
+     "Hay cambio de guardia tradicional varias veces al día ante la puerta Daehanmun.",
+     "De noche los edificios se iluminan y la visita es especialmente bonita."
+    ]
+   }
+  },
+  {
+   "id": "ishiyama-dera",
+   "campos": {
+    "estilo": "Templo budista (edificios de Heian y Kamakura)",
+    "ver_alli": [
+     "A unos diez minutos a pie de la estación Ishiyamadera, de la línea Keihan.",
+     "Pabellón principal con la sala de Genji y pagoda de 1194.",
+     "Jardines con ciruelos, glicinas y arces."
+    ]
+   }
+  },
+  {
+   "id": "rozan-ji",
+   "campos": {
+    "estilo": "Templo budista con jardín seco",
+    "ver_alli": [
+     "En la calle Teramachi, al este del parque del palacio imperial de Kioto.",
+     "Jardín de Genji y una piedra que recuerda a Murasaki Shikibu."
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-historia-de-genji-uji",
+   "campos": {
+    "estilo": "Museo de literatura e historia",
+    "ver_alli": [
+     "En la orilla este del río Uji, a unos quince minutos a pie del Byōdō-in.",
+     "Reconstrucciones de la vida en la corte y sala de proyecciones."
+    ]
+   }
+  },
+  {
+   "id": "engaku-ji",
+   "campos": {
+    "estilo": "Templo zen rinzai (periodo Kamakura)",
+    "ver_alli": [
+     "Junto a la estación de Kita-Kamakura.",
+     "Puerta principal, salas zen y campana en lo alto de una escalinata."
+    ]
+   }
+  },
+  {
+   "id": "santuario-de-hakozaki",
+   "campos": {
+    "estilo": "Santuario sintoísta",
+    "ver_alli": [
+     "A pocos minutos a pie de la estación de metro de Hakozaki-miyamae.",
+     "Puerta principal con la tablilla y sala principal del santuario."
+    ]
+   }
+  },
+  {
+   "id": "centro-arqueologico-de-takashima",
+   "campos": {
+    "estilo": "Museo de arqueología subacuática",
+    "ver_alli": [
+     "En la isla de Takashima, unida por puente a Kiusiu, nada más cruzar el puente de Takashima-Hizen.",
+     "Objetos de la flota hundida en 1281 y explicación de las excavaciones submarinas."
+    ],
+    "lat": 33.4366,
+    "lon": 129.7624,
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Takashima_K%C5%8Dzaki_Site",
+     "https://sitereports.nabunken.go.jp/event/94",
+     "https://www.nippon.com/en/japan-topics/c13704/",
+     "https://www.google.com/maps/place/?q=place_id:ChIJYyxXWURiajUR7P-zZLLbMGI",
+     "https://www.openstreetmap.org/node/1423806680"
+    ]
+   }
+  }
+ ]
+}
