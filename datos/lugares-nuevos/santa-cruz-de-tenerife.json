@@ -1,0 +1,608 @@
+{
+ "zona": "Santa Cruz de Tenerife",
+ "nuevos": [
+  {
+   "id": "catedral-de-la-laguna",
+   "nombre": "Catedral de La Laguna",
+   "provincia": "Santa Cruz de Tenerife",
+   "comarca": "San Cristóbal de La Laguna (Tenerife)",
+   "lat": 28.4889,
+   "lon": -16.3161,
+   "tipo": "iglesia",
+   "estilo": "Fachada neoclásica; templo del siglo XX",
+   "epoca": "Siglo XX",
+   "anio": 1904,
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>La catedral de Nuestra Señora de los Remedios empezó siendo una sencilla ermita, levantada en <b>1511</b> por orden del conquistador <b>Alonso Fernández de Lugo</b>, cuyos restos reposan hoy en el templo. Cuando se dividió el obispado de Canarias, el papa Pío VII la elevó a catedral el <b>21 de diciembre de 1819</b>.</p><p>Su fachada, de <b>1820</b>, se hizo siguiendo los planos de la catedral de Pamplona. El resto del edificio es mucho más moderno: el templo actual se construyó entre <b>1904 y 1915</b>. Por problemas en su estructura se cerró en 2002 y no volvió a abrir hasta el <b>25 de enero de 2014</b>, con una cúpula nueva de <b>41,5 metros</b> de altura.</p><p>Dentro destaca el <b>retablo de los Remedios</b>, una gran obra barroca de la primera mitad del siglo XVIII y el retablo más grande de Canarias.</p>"
+   },
+   "ver_alli": [
+    "La fachada neoclásica de 1820.",
+    "El gran retablo barroco de los Remedios.",
+    "La tumba de Alonso Fernández de Lugo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_de_San_Crist%C3%B3bal_de_La_Laguna"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "basilica-de-candelaria",
+   "nombre": "Basílica de Nuestra Señora de Candelaria",
+   "provincia": "Santa Cruz de Tenerife",
+   "comarca": "Candelaria (Tenerife)",
+   "lat": 28.3513,
+   "lon": -16.3697,
+   "tipo": "iglesia",
+   "estilo": "Arquitectura del siglo XX",
+   "epoca": "Siglo XX",
+   "anio": 1959,
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>Junto al mar, en Candelaria, está el santuario de la <b>Virgen de Candelaria</b>, patrona de Canarias. Según la tradición, la imagen la encontraron dos pastores guanches hacia <b>1390</b>, antes de la conquista. La imagen original desapareció en un fuerte temporal el <b>7 de noviembre de 1826</b>, y los frailes encargaron una nueva a <b>Fernando Estévez</b>, bendecida en 1830.</p><p>El edificio actual lo proyectó el arquitecto <b>José Enrique Marrero Regalado</b>. Las obras empezaron en 1949, duraron casi una década y el templo se consagró el <b>1 de febrero de 1959</b>. En 2011 Benedicto XVI le dio el título de basílica menor.</p><p>En la plaza de la Patrona de Canarias, frente al mar, se alinean las estatuas de bronce de los <b>nueve menceyes</b>, los reyes guanches de Tenerife. Detrás de la basílica está la <b>cueva de Achbinico</b>, considerada el primer santuario cristiano de peregrinación de Canarias.</p>"
+   },
+   "ver_alli": [
+    "Las estatuas de los nueve menceyes en la plaza.",
+    "La imagen de la Virgen de Candelaria.",
+    "La cueva de Achbinico, detrás de la basílica."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_de_la_Candelaria"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "piramides-de-guimar",
+   "nombre": "Pirámides de Güímar",
+   "provincia": "Santa Cruz de Tenerife",
+   "comarca": "Güímar (Tenerife)",
+   "lat": 28.3212,
+   "lon": -16.4137,
+   "tipo": "monumento",
+   "estilo": "Construcciones escalonadas de piedra seca",
+   "epoca": "Siglo XIX",
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>En Güímar hay <b>seis construcciones</b> de piedra en forma de pirámide escalonada que han dado mucho que hablar. Están hechas con <b>rocas de lava</b> y no con piedras de los campos cercanos, y el conjunto principal está orientado a los <b>solsticios</b>: marca la puesta de sol en el de verano y la salida en el de invierno.</p><p>En <b>1991</b> las estudió el explorador noruego <b>Thor Heyerdahl</b>, que defendía contactos antiguos entre los pueblos a ambos lados del Atlántico. Sin embargo, su fecha sigue en debate: las pruebas arqueológicas les dan una antigüedad de no más de 200 años, y la teoría más aceptada las sitúa en el <b>siglo XIX</b>.</p><p>En <b>1998</b> los 65.000 m² del lugar se abrieron al público como parque etnográfico.</p><p class=\"dato\"><span>¿Sabías que…?</span>La visita es tan interesante por las pirámides como por el debate: el parque explica las distintas teorías sobre quién las hizo y para qué.</p>"
+   },
+   "ver_alli": [
+    "Las seis pirámides escalonadas de piedra volcánica.",
+    "La orientación hacia los solsticios del conjunto principal.",
+    "Los paneles que explican las distintas teorías sobre su origen."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Pir%C3%A1mides_de_G%C3%BC%C3%ADmar"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-la-concepcion-santa-cruz",
+   "nombre": "Iglesia de Nuestra Señora de la Concepción",
+   "provincia": "Santa Cruz de Tenerife",
+   "comarca": "Santa Cruz de Tenerife",
+   "lat": 28.4644,
+   "lon": -16.249,
+   "tipo": "iglesia",
+   "estilo": "Barroco colonial canario",
+   "epoca": "Barroco",
+   "anio": 1653,
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>Es la iglesia más importante de Santa Cruz de Tenerife y está en el lugar de la primera capilla que levantaron los conquistadores castellanos. En <b>1500</b> se empezó aquí un templo dedicado a la <b>Santa Cruz</b>, que en 1638 tomó el nombre de la Concepción. Un incendio lo destruyó en <b>1652</b> y se reconstruyó al año siguiente; la torre actual es de <b>1786</b>.</p><p>El edificio, de los siglos XVII y XVIII, es la <b>única iglesia de Canarias con cinco naves</b>. Su torre es el elemento más reconocible del templo.</p><p>Guarda la <b>Cruz de la Conquista</b>, la que trajo Alonso Fernández de Lugo cuando desembarcó en la isla en <b>1494</b> y que dio nombre a la ciudad. Es Bien de Interés Cultural.</p>"
+   },
+   "ver_alli": [
+    "La torre de 1786.",
+    "Las cinco naves del interior.",
+    "La Cruz de la Conquista."
+   ],
+   "fuentes": [
+    "https://www.webtenerife.co.uk/tenerife/art-and-culture/architecture/traditional/church-concepcion-santa-cruz",
+    "https://en.wikipedia.org/wiki/Iglesia_de_la_Concepci%C3%B3n_(Santa_Cruz_de_Tenerife)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-san-juan-bautista",
+   "nombre": "Castillo de San Juan Bautista (Castillo Negro)",
+   "provincia": "Santa Cruz de Tenerife",
+   "comarca": "Santa Cruz de Tenerife",
+   "lat": 28.4554,
+   "lon": -16.2524,
+   "tipo": "castillo",
+   "estilo": "Fortificación del siglo XVII",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1641,
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>Este pequeño castillo de la costa de Santa Cruz se construyó entre <b>1641 y 1643</b>. Se le llama popularmente <b>Castillo Negro</b> por la cercana Caleta de los Negros. Tiene una <b>torre circular</b> frente al mar y una explanada con parapetos y troneras para cinco cañones.</p><p>Está ligado al recuerdo del fallido intento del almirante británico <b>Horatio Nelson</b> de tomar la ciudad, que Santa Cruz rememora cada julio en la Gesta del <b>25 de julio</b>.</p><p>El puesto de alcaide era muy codiciado por la nobleza: servía para probar la hidalguía y traía privilegios sobre la sanidad del puerto, la pesca y el cobro de impuestos sobre la sal y la harina. Es Bien de Interés Cultural desde 1993.</p>"
+   },
+   "ver_alli": [
+    "La torre circular de piedra volcánica.",
+    "Las troneras de la explanada.",
+    "Las dos salas abovedadas, con muros de 1,5 metros."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_San_Juan_Bautista_(Santa_Cruz_de_Tenerife)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-san-felipe-puerto-de-la-cruz",
+   "nombre": "Castillo de San Felipe",
+   "provincia": "Santa Cruz de Tenerife",
+   "comarca": "Puerto de la Cruz (Tenerife)",
+   "lat": 28.4144,
+   "lon": -16.5585,
+   "tipo": "castillo",
+   "estilo": "Fortificación de planta pentagonal",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1604,
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>A unos 900 metros del casco de Puerto de la Cruz, junto a Playa Jardín, este castillo era uno de los <b>cuatro fortines</b> que defendían la ciudad de los corsarios. Según su ficha, empezó a construirse en <b>1599</b> y se terminó en <b>1604</b>.</p><p>Tiene <b>planta pentagonal</b> y al principio estaba rodeado por un foso con puente levadizo, sustituido después por una pasarela fija. Tenía dos plantas, con sitio para unos 35 soldados, y tres cañones de hierro. En 1878 se retiraron los cañones y en 1924 el Ejército lo cerró.</p><p>Después fue lazareto, depósito, sociedad de tiro y restaurante. Hoy, remodelado por el ayuntamiento, es un <b>centro cultural</b> con conciertos y exposiciones.</p><p class=\"dato\"><span>¿Sabías que…?</span>A unos 50 metros del castillo se conserva su antiguo polvorín.</p>"
+   },
+   "ver_alli": [
+    "La planta pentagonal y el antiguo foso.",
+    "El polvorín, a unos 50 metros.",
+    "Las exposiciones del centro cultural."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_San_Felipe_(Puerto_de_la_Cruz)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-san-marcos-icod",
+   "nombre": "Iglesia de San Marcos",
+   "provincia": "Santa Cruz de Tenerife",
+   "comarca": "Icod de los Vinos (Tenerife)",
+   "lat": 28.3672,
+   "lon": -16.7216,
+   "tipo": "iglesia",
+   "estilo": "Manierismo y mudéjar",
+   "epoca": "Renacimiento",
+   "anio": 1515,
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>La ermita original se levantó hacia <b>1500</b> y en <b>1515</b> ya era parroquia. Su <b>portada</b> de piedra, con arco de medio punto almohadillado, dos columnas toscanas y frontón curvo, es uno de los mejores ejemplos del <b>manierismo</b> en Canarias.</p><p>Las naves y capillas se cubren con <b>artesonados mudéjares</b> de madera; los mejores están en la nave central, la capilla de las Ánimas y el presbiterio.</p><p>Guarda dos piezas venidas de América. El <b>Señor Difunto</b> está hecho en <b>pasta de maíz</b> por indios tarascos de Michoacán (México) y llegó antes de 1578. Y la gran <b>cruz de filigrana de plata</b>, encargada por el deán de la catedral de Santiago de Cuba, Nicolás Estévez Borges, pasa por ser la mayor del mundo en su género. Es Bien de Interés Cultural desde 2006.</p>"
+   },
+   "ver_alli": [
+    "La portada manierista de piedra.",
+    "Los artesonados mudéjares de la nave central.",
+    "La cruz de filigrana de plata y el Señor Difunto."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Marcos_(Icod_de_los_Vinos)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-el-salvador-la-palma",
+   "nombre": "Iglesia de El Salvador",
+   "provincia": "Santa Cruz de Tenerife",
+   "comarca": "Santa Cruz de La Palma",
+   "lat": 28.6836,
+   "lon": -17.7649,
+   "tipo": "iglesia",
+   "estilo": "Renacimiento y mudéjar",
+   "epoca": "Renacimiento",
+   "anio": 1500,
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>En la plaza de España de Santa Cruz de La Palma se levanta la iglesia matriz de la isla. Se empezó a construir a <b>comienzos del siglo XVI</b>, hacia 1500, y el edificio actual es fruto de varias ampliaciones posteriores.</p><p>Por fuera destaca la <b>portada renacentista</b>, con forma de arco de triunfo romano como símbolo del triunfo de Cristo, y la torre de sillería volcánica. Dentro tiene tres naves cubiertas con <b>artesonados mudéjares</b>. El retablo mayor, neoclásico, enmarca una pintura de la <b>Transfiguración</b> del pintor sevillano Antonio María Esquivel, del siglo XIX.</p><p class=\"dato\"><span>¿Sabías que…?</span>En la escalinata hay una estatua de bronce del «cura Díaz», Manuel Díaz Hernández, que murió en ese mismo lugar el 5 de abril de 1863.</p>"
+   },
+   "ver_alli": [
+    "La portada renacentista en forma de arco de triunfo.",
+    "Los artesonados mudéjares de las tres naves.",
+    "La estatua del cura Díaz en la escalinata."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Iglesia_de_El_Salvador,_Santa_Cruz_de_La_Palma",
+    "https://spain.info/en/places-of-interest/church-salvador-santa-cruz-palma"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santuario-de-las-nieves",
+   "nombre": "Real Santuario de Nuestra Señora de las Nieves",
+   "provincia": "Santa Cruz de Tenerife",
+   "comarca": "Santa Cruz de La Palma",
+   "lat": 28.6943,
+   "lon": -17.7821,
+   "tipo": "iglesia",
+   "estilo": "Arquitectura canaria del siglo XVII",
+   "epoca": "Barroco",
+   "anio": 1646,
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>En una ladera por encima de Santa Cruz de La Palma está el santuario de la <b>Virgen de las Nieves</b>, patrona de la isla. El primer documento con el nombre de «Santa María de las Nieves» es de <b>1507</b>; en 1517 ya existía un templo, que se amplió en 1525 y fue sustituido por el actual en <b>1646</b>. En 1657 se convirtió en parroquia.</p><p>La gran joya es la imagen de la Virgen: una <b>talla gótica del siglo XIV</b>, modelada en <b>terracota</b> y policromada. Está en el barrio de Las Nieves, a las afueras de la capital.</p>"
+   },
+   "ver_alli": [
+    "La imagen gótica de terracota de la Virgen.",
+    "El interior con su retablo.",
+    "La plaza y las vistas sobre la capital."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Real_Santuario_Insular_de_Nuestra_Se%C3%B1ora_de_las_Nieves"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-santa-catalina-la-palma",
+   "nombre": "Castillo de Santa Catalina",
+   "provincia": "Santa Cruz de Tenerife",
+   "comarca": "Santa Cruz de La Palma",
+   "lat": 28.6868,
+   "lon": -17.7605,
+   "tipo": "castillo",
+   "estilo": "Fortificación abaluartada",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1685,
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>Tras el ataque de los piratas franceses del <b>21 de julio de 1553</b>, Santa Cruz de La Palma se fortificó. El primer castillo se hizo entre 1554 y 1560 y en 1585 lo rediseñó <b>Leonardo Torriani</b>, pero el mar y las crecidas del barranco lo arruinaron y acabó derribado.</p><p>El castillo actual se construyó entre <b>1685 y 1692</b>, un poco más atrás. Es de planta cuadrada, con <b>baluartes triangulares</b> en las esquinas y un foso que se cruza por un puente de madera. Es la <b>única fortificación de la época de los Austrias</b> que se conserva en Canarias.</p><p>En 1949 se vendió en subasta para derribarlo y hacer casas, pero un decreto de protección de los castillos de ese mismo año lo salvó. Es monumento desde 1951 y se puede visitar desde 2015.</p>"
+   },
+   "ver_alli": [
+    "Los baluartes triangulares de las esquinas.",
+    "El foso y el puente de madera.",
+    "La vista del mar desde lo alto del castillo."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Castillo_de_Santa_Catalina_(La_Palma)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-la-asuncion-la-gomera",
+   "nombre": "Iglesia de la Asunción",
+   "provincia": "Santa Cruz de Tenerife",
+   "comarca": "San Sebastián de La Gomera",
+   "lat": 28.0926,
+   "lon": -17.1111,
+   "tipo": "iglesia",
+   "estilo": "Gótico, mudéjar y barroco",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>La iglesia matriz de La Gomera nació como una <b>ermita del siglo XV</b>, de la que procede su nave central. La tradición dice que aquí rezó <b>Cristóbal Colón</b> por última vez antes de partir en 1492, y hasta hace unas décadas una cartela decía «Aquí oró Colón»; pero es más leyenda que dato documentado.</p><p>Mezcla <b>gótico, mudéjar y barroco</b>. La fachada, con arcos apuntados y un arco de cordón en la puerta, recuerda al <b>estilo manuelino</b> portugués de hacia 1520, y la pila bautismal es del mismo estilo. En el siglo XVIII se amplió varias veces tras los ataques ingleses y de piratas norteafricanos.</p><p>Tras rechazar un ataque inglés del siglo XVIII, los gomeros levantaron la <b>capilla del Pilar</b>, con un gran <b>fresco</b> que representa la batalla contra la flota del almirante Charles Windham.</p><p class=\"dato\"><span>¿Sabías que…?</span>Cada cinco años la iglesia acoge a la Virgen de Guadalupe, patrona de La Gomera, en su bajada lustral.</p>"
+   },
+   "ver_alli": [
+    "La portada de influencia manuelina.",
+    "El fresco de la batalla en la capilla del Pilar.",
+    "La pila bautismal manuelina."
+   ],
+   "fuentes": [
+    "https://www.escapadarural.com/que-hacer/san-sebastian-de-la-gomera/iglesia-matriz-de-la-asuncion",
+    "https://back.alfayomega.es/wp-content/uploads/2022/04/1259_patrimonio_Gomera.pdf",
+    "https://www.eldiario.es/lagomeraahora/cultura/iglesia-Asuncion-verdadero-museo-sacro_0_259324582.html"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-la-concepcion-valverde",
+   "nombre": "Iglesia de Nuestra Señora de la Concepción",
+   "provincia": "Santa Cruz de Tenerife",
+   "comarca": "Valverde (El Hierro)",
+   "lat": 27.8076,
+   "lon": -17.9146,
+   "tipo": "iglesia",
+   "estilo": "Barroco con rasgos clásicos",
+   "epoca": "Barroco",
+   "anio": 1767,
+   "regiones_sincronia": [
+    "Canarias"
+   ],
+   "texto": {
+    "general": "<p>Es el templo más grande de El Hierro y preside Valverde, la capital de la isla. Se construyó entre <b>1767 y 1820</b>, en un estilo <b>barroco</b> con elementos clásicos del siglo XVIII, y tiene tres naves con techo de <b>madera de pino</b>.</p><p>Su <b>torre</b> es de planta cuadrada con dos cuerpos: el de arriba es octogonal, con cuatro arcos para las campanas, y se remata con una pequeña cúpula de aire mudéjar. Tiene la <b>campana más grande de Canarias</b> y un reloj francés donado en 1867. Desde arriba, con buen tiempo, se ve La Gomera.</p><p>Fue declarada Bien de Interés Cultural en 2004.</p>"
+   },
+   "ver_alli": [
+    "La torre con su cuerpo octogonal y la cupulita.",
+    "El techo de madera de pino de las naves.",
+    "Las vistas hacia La Gomera desde la torre."
+   ],
+   "fuentes": [
+    "https://ninos.kiddle.co/Iglesia_de_Nuestra_Se%C3%B1ora_de_la_Concepci%C3%B3n_(Valverde)",
+    "https://hellocanaryislands.com/museums-and-places-of-interest/el-hierro/iglesia-de-nuestra-senora-de-la-concepcion"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "museo-de-la-naturaleza-y-arqueologia",
+   "campos": {
+    "lat": 28.4639,
+    "lon": -16.2495,
+    "estilo": "Neoclásico (antiguo Hospital Civil); museo de arqueología y ciencias naturales",
+    "texto": {
+     "general": "<p>El <b>MUNA</b>, Museo de Naturaleza y Arqueología de Santa Cruz de Tenerife, ocupa el antiguo <b>Hospital Civil</b>, un destacado edificio de la arquitectura neoclásica de las islas, rehabilitado con patios, jardines, biblioteca y centro de documentación.</p><p>Guarda la mayor colección que existe sobre la cultura de los <b>guanches</b>, los antiguos habitantes de Tenerife: herramientas de piedra y hueso, cerámica, objetos de la vida diaria y una sección sobre sus prácticas funerarias, con <b>momias guanches</b> y otros restos humanos y la explicación de las técnicas para conservarlos.</p><p>La otra mitad del museo explica la naturaleza de Canarias: cómo se forma una isla volcánica, qué ocurre en una erupción y la flora y fauna propias del archipiélago.</p>"
+    },
+    "ver_alli": [
+     "La sala de las momias guanches es la más impactante; puede afectar a niños o personas sensibles.",
+     "No perderse la exposición sobre el origen volcánico de las islas.",
+     "Fijarse en los patios del antiguo hospital."
+    ],
+    "fuentes": [
+     "https://www.spain.info/es/lugares-interes/museo-naturaleza-arqueologia-tenerife/",
+     "https://www.webtenerife.co.uk/what-see/museums/muna-museo-naturaleza-arqueologia",
+     "https://www.openstreetmap.org/node/5752482281",
+     "https://www.google.com/maps/place/?q=place_id:ChIJjffr1nzLQQwRQLYrmxL1_cY"
+    ]
+   }
+  },
+  {
+   "id": "parque-arqueologico-de-belmaco",
+   "campos": {
+    "lat": 28.578,
+    "lon": -17.7768,
+    "estilo": "Grabados rupestres aborígenes en cueva",
+    "texto": {
+     "general": "<p>La <b>Cueva de Belmaco</b>, en Villa de Mazo, es una gran cueva natural de los <b>benahoaritas</b>, los antiguos habitantes de La Palma. En las piedras de su entrada y alrededores hay <b>grabados</b> de espirales, círculos y meandros.</p><p>Según la tradición era la residencia de los jefes del cantón de <b>Tigalate</b>, los hermanos Jariguo y Garehagua, sus últimos habitantes antes de la conquista castellana. En <b>1752</b> la visitó el gobernador militar de la isla, Domingo Van de Walle de Cervellón: fue el primer yacimiento arqueológico canario «redescubierto» por los europeos, y sus grabados los primeros de las islas de los que quedó noticia.</p><p>La excavaron Luis Diego Cuscoy (1959 y 1961) y Mauro Hernández (1974 y 1979). Fue declarada monumento histórico-artístico en 1984 y el parque arqueológico se inauguró en 1999.</p>"
+    },
+    "ver_alli": [
+     "Empezar por el pequeño museo, con las piezas halladas en la cueva.",
+     "Seguir el sendero circular hasta la cueva y buscar las piedras con espirales grabadas.",
+     "Los paneles exteriores ayudan a imaginar la vida de los antiguos palmeros."
+    ],
+    "fuentes": [
+     "https://showcaves.com/english/es/showcaves/Belmaco.html",
+     "https://atlasobscura.com/places/belmaco-cave",
+     "https://www.openstreetmap.org/node/2577977410",
+     "https://www.google.com/maps/place/?q=place_id:ChIJKwKzTVuTawwR28U-iGHWlPQ"
+    ]
+   }
+  },
+  {
+   "id": "la-zarza-y-la-zarcita",
+   "campos": {
+    "lat": 28.8024,
+    "lon": -17.9069,
+    "estilo": "Grabados rupestres aborígenes",
+    "texto": {
+     "general": "<p>En el norte de La Palma, en Garafía, dos pequeños barrancos cubiertos de <b>laurisilva</b>, La Zarza y La Zarcita, guardan uno de los mayores conjuntos de <b>grabados rupestres</b> de la isla, obra de los <b>benahoaritas</b>. Los yacimientos se dieron a conocer en <b>1941</b>.</p><p>La Zarza tiene <b>29 paneles</b> grabados y La Zarcita, 18. Los motivos son geométricos: <b>espirales</b>, círculos, meandros y líneas. Alrededor hay también restos de asentamientos pastoriles y cuevas.</p><p>Un parque cultural con centro de interpretación, inaugurado en 1998, explica la vida de los antiguos pobladores de la isla. Es Bien de Interés Cultural.</p>"
+    },
+    "ver_alli": [
+     "Empezar por el centro de interpretación, junto a la carretera LP-1, a unos 350 m de los grabados.",
+     "Seguir el sendero entre la laurisilva hasta los paneles; muchos grabados están cubiertos de musgo y se ven mejor con luz rasante.",
+     "Es un paseo de una hora aproximadamente, a la sombra y con humedad."
+    ],
+    "fuentes": [
+     "https://www.eldiario.es/canariasahora/lapalmaahora/municipios/garafia/garafia-atesora-recursos-arqueologicos-importantes-canarias-zarza-zarcita_1_8611321.html",
+     "https://www.hellocanaryislands.com/museums-and-places-of-interest/la-palma/parque-cultural-la-zarza-arqueologia/",
+     "https://www.openstreetmap.org/node/937135030",
+     "https://www.google.com/maps/place/?q=place_id:ChIJr6QZ86r7awwRVDiO9DZ1bQM"
+    ]
+   }
+  },
+  {
+   "id": "los-letreros-de-el-julan",
+   "campos": {
+    "lat": 27.701,
+    "lon": -18.0602,
+    "estilo": "Inscripciones y grabados rupestres aborígenes",
+    "texto": {
+     "general": "<p>En la ladera de <b>El Julan</b>, en el sur de El Hierro, frente al Mar de las Calmas, los <b>bimbaches</b>, los antiguos herreños, grabaron sobre las coladas de lava extensos paneles de <b>inscripciones alfabéticas</b> de tipo líbico-bereber y grabados geométricos. Es uno de los conjuntos de escritura antigua más importantes de Canarias y aún no se ha podido descifrar.</p><p>Los dio a conocer hacia 1870 el sacerdote herreño <b>Aquilino Padrón</b>, que copió las inscripciones; sus hallazgos llegaron a la Sociedad de Geografía de París (1875) y a la de Madrid (1876).</p><p>Cerca están el <b>Tagoror</b>, un antiguo lugar de reunión que sirve de punto de partida de la visita, y un <b>conchero</b>, un montón de conchas que muestra la importancia del marisco en la dieta de los bimbaches.</p>"
+    },
+    "ver_alli": [
+     "Los grabados solo se visitan con guía y reserva previa; la excursión es larga y sale temprano.",
+     "El Centro de Interpretación del Parque Cultural El Julan, junto a la carretera HI-400, a unos 1,5 km de los grabados, explica la cultura bimbache.",
+     "Llevar calzado de montaña y agua: el camino baja por la ladera de lava.",
+     "La carretera de acceso es estrecha y con muchas curvas."
+    ],
+    "fuentes": [
+     "https://www.vozpopuli.com/espana/canarias/el-arqueologo-herreno-profugo-del-colera-que-reescribio-la-historia-de-canarias.html",
+     "https://es.wikipedia.org/wiki/El_Julan",
+     "https://elhierro.travel/en/what-to-do/parque-cultural-de-el-julan",
+     "https://www.openstreetmap.org/node/3499861803",
+     "https://www.google.com/maps/place/?q=place_id:ChIJwYRPhWKnbAwRITW70nTo8-A"
+    ]
+   }
+  },
+  {
+   "id": "alto-de-garajonay",
+   "campos": {
+    "lat": 28.1097,
+    "lon": -17.2484,
+    "estilo": "Santuario aborigen de cumbre",
+    "texto": {
+     "general": "<p>El <b>Alto de Garajonay</b>, de unos 1.485 metros, es el punto más alto de La Gomera, en el corazón del <b>Parque Nacional de Garajonay</b>, un bosque de laurisilva. En días claros se ven desde aquí otras islas del archipiélago.</p><p>Fue un gran <b>santuario</b> de los antiguos gomeros: en la cumbre se descubrieron <b>aras</b> o pireos donde se sacrificaban animales en ofrenda, y los investigadores lo consideran el principal centro religioso de la isla.</p><p>Según una leyenda popular, aquí se quitaron la vida <b>Gara</b>, princesa gomera, y <b>Jonay</b>, joven de Tenerife, cuyo amor estaba prohibido, y de sus nombres vendría el de la montaña. El filólogo Maximiano Trapero cree que fue al revés: la leyenda se inventó para explicar el topónimo.</p>"
+    },
+    "ver_alli": [
+     "Desde el aparcamiento más cercano se sube a pie en una media hora.",
+     "En la cumbre, recordar que fue el principal santuario de los antiguos gomeros.",
+     "Con buen tiempo se ven el Teide y otras islas; a menudo hay nubes."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Alto_de_Garajonay",
+     "https://www.openstreetmap.org/node/2361042960",
+     "https://www.google.com/maps/place/?q=place_id:ChIJycsi89niagwRzuoRmXq6RNk"
+    ]
+   }
+  },
+  {
+   "id": "torre-del-conde",
+   "campos": {
+    "lat": 28.0907,
+    "lon": -17.1117,
+    "tipo": "castillo",
+    "estilo": "Gótico tardío (arquitectura militar)",
+    "texto": {
+     "general": "<p>La <b>Torre del Conde</b> la mandó levantar entre <b>1447 y 1450</b> Hernán Peraza el Viejo, señor de La Gomera, en San Sebastián. Es una torre fuerte de <b>gótico tardío</b>, de planta cuadrada, unos <b>15 metros</b> de altura y gruesos muros, y la única torre de la conquista de Canarias que se conserva.</p><p>Servía a la vez de defensa frente a los gomeros y de símbolo del poder de los señores de la isla. En <b>1488</b>, tras la muerte de su marido, Hernán Peraza el Joven, a manos de los gomeros, <b>Beatriz de Bobadilla</b> se refugió aquí con sus hijos y algunos vecinos durante la rebelión.</p><p>Fue declarada monumento histórico-artístico en 1990 y es Bien de Interés Cultural. Hoy está rodeada por el parque de la Torre.</p>"
+    },
+    "ver_alli": [
+     "Rodear la torre por el parque para ver sus muros de piedra y la puerta.",
+     "Cuando está abierta se puede ver su interior.",
+     "Está a pocos minutos a pie del puerto de San Sebastián."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Torre_del_Conde_(Canarias)",
+     "https://www.jardin-tecina.com/?p=8680",
+     "https://www.openstreetmap.org/way/28960205",
+     "https://www.google.com/maps/place/?q=place_id:ChIJn-OkPYPlagwRxGwmjCR5VeQ"
+    ]
+   }
+  },
+  {
+   "id": "san-cristobal-de-la-laguna",
+   "campos": {
+    "lat": 28.4877,
+    "lon": -16.3135,
+    "estilo": "Urbanismo renacentista y arquitectura tradicional canaria",
+    "texto": {
+     "general": "<p><b>San Cristóbal de La Laguna</b> la fundó entre 1496 y 1497 el Adelantado <b>Alonso Fernández de Lugo</b>. Se trazó sin murallas y con calles rectas: es el primer ejemplo de ciudad no fortificada y fue precedente directo de muchas ciudades que se fundaron en <b>América</b>.</p><p>Su casco guarda la <b>catedral</b> de Nuestra Señora de los Remedios, de estilo neoclásico; la iglesia de la Concepción, cuya <b>torre</b> renacentista de piedra es el símbolo de la ciudad; conventos como el de Santa Clara, el primero femenino de Canarias, y el de Santa Catalina; y palacios con balcones de madera como los de Nava y Salazar.</p><p>Fue la capital de hecho del archipiélago hasta 1833 y tiene la primera universidad fundada en Canarias. La UNESCO declaró su casco <b>Patrimonio Mundial</b> el 2 de diciembre de 1999.</p>"
+    },
+    "ver_alli": [
+     "Recorrer a pie las calles rectas del casco entre la catedral y la iglesia de la Concepción.",
+     "Buscar la torre renacentista de piedra de la Concepción, símbolo de la ciudad.",
+     "Fijarse en los patios y balcones de madera de los palacios de Nava y Salazar."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/San_Crist%C3%B3bal_de_La_Laguna",
+     "https://www.openstreetmap.org/way/78229891",
+     "https://www.google.com/maps/place/?q=place_id:ChIJrXlVLrnNQQwR-dpEbbzeA64",
+     "https://www.openstreetmap.org/search?query=Plaza%20del%20Adelantado%20La%20Laguna"
+    ]
+   }
+  },
+  {
+   "id": "santa-cruz-de-la-palma",
+   "campos": {
+    "lat": 28.6849,
+    "lon": -17.7628,
+    "estilo": "Renacentista y arquitectura tradicional canaria",
+    "texto": {
+     "general": "<p>La capital de La Palma la fundó el <b>3 de mayo de 1493</b> el Adelantado Alonso Fernández de Lugo, con el nombre de Villa de Apurón. Creció gracias a su <b>puerto</b>, el último en la ruta hacia América, por donde salía el azúcar, y en el siglo XVI fue uno de los grandes puertos del Atlántico. En 1553 la destruyó el pirata francés <b>François Le Clerc</b>, «Pata de Palo», y hubo que reconstruirla y fortificarla.</p><p>En la plaza de España están el <b>ayuntamiento renacentista</b> y la iglesia de <b>El Salvador</b>, documentada desde 1512. Las calles O'Daly y Anselmo Pérez de Brito forman la llamada <b>calle Real</b>, y la avenida Marítima muestra las famosas casas de <b>balcones de madera</b> de colores.</p><p>Al final de la calle Real, junto a la avenida de Las Nieves, el <b>Barco de la Virgen</b> es una réplica de la nao Santa María construida en 1940, hoy museo naval.</p>"
+    },
+    "ver_alli": [
+     "Empezar en la plaza de España, con la iglesia de El Salvador y el ayuntamiento.",
+     "Recorrer la calle Real y bajar a la avenida Marítima para ver los balcones de colores.",
+     "Visitar el Barco de la Virgen, con un pequeño museo naval en su interior."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Santa_Cruz_de_La_Palma",
+     "https://www.atlasobscura.com/places/the-naval-museum-of-santa-cruz-de-la-palma",
+     "https://www.openstreetmap.org/way/382279225",
+     "https://www.google.com/maps/place/?q=place_id:ChIJc7TilADsawwRb3TbnOhKidU",
+     "https://www.openstreetmap.org/search?query=Balcones%20t%C3%ADpicos%20Santa%20Cruz%20de%20La%20Palma"
+    ]
+   }
+  },
+  {
+   "id": "la-orotava",
+   "campos": {
+    "lat": 28.3883,
+    "lon": -16.5258,
+    "estilo": "Barroco y arquitectura tradicional canaria",
+    "texto": {
+     "general": "<p>La villa de <b>La Orotava</b> está en el valle del mismo nombre, el antiguo menceyato de <b>Taoro</b>, cuya derrota puso fin a la conquista de Tenerife. Su casco, de calles empinadas con casonas, palacios y conventos, fue declarado conjunto histórico-artístico en 1976.</p><p>La <b>Casa de los Balcones</b> o Casa Fonseca, terminada en 1632 según la web oficial de turismo de Tenerife, tiene balcones y galerías de madera de tea y un patio con un lagar de vino; hoy alberga un centro de artesanía. La iglesia de la Concepción es barroca.</p><p>En la fiesta del <b>Corpus</b> se hacen alfombras con tierras volcánicas de colores.</p>"
+    },
+    "ver_alli": [
+     "Subir por la calle San Francisco hasta la Casa de los Balcones y entrar en su patio.",
+     "Ver la iglesia de la Concepción y la plaza del Ayuntamiento.",
+     "Pasear hasta los jardines del Marquesado de la Quinta Roja."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/La_Orotava",
+     "https://www.webtenerife.co.uk/tenerife/the-island/municipalities/orotava/places-interest/casa-balcones/",
+     "https://www.openstreetmap.org/way/195835265",
+     "https://www.google.com/maps/place/?q=place_id:ChIJdzj4fq4qQAwRx47OS-KAg8Q"
+    ]
+   }
+  },
+  {
+   "id": "garachico",
+   "campos": {
+    "lat": 28.3732,
+    "lon": -16.7661,
+    "estilo": "Arquitectura tradicional canaria",
+    "texto": {
+     "general": "<p>En los siglos XVI y XVII <b>Garachico</b> fue el principal puerto de Tenerife: de aquí salían barcos cargados de <b>vino</b> y azúcar hacia América y Europa, y la villa se llenó de conventos de franciscanos, dominicos y agustinos.</p><p>El <b>5 de mayo de 1706</b> las lavas del volcán de Trevejo, o de Arenas Negras, sepultaron gran parte de la villa y su puerto, sin causar víctimas. Garachico perdió su papel comercial, pero quedaron el <b>castillo de San Miguel</b>, la iglesia de Santa Ana y el antiguo convento de San Francisco, hoy biblioteca y museos.</p><p>Al llegar al mar, la lava formó las <b>piscinas naturales</b> de El Caletón. Frente a la villa está el Roque de Garachico, y el casco es Bien de Interés Cultural como conjunto histórico desde 1994.</p>"
+    },
+    "ver_alli": [
+     "Ver el castillo de San Miguel junto al mar y las piscinas de lava de El Caletón.",
+     "Pasear por la plaza de la Libertad y el antiguo convento de San Francisco.",
+     "En la iglesia de Santa Ana, buscar el Cristo de la Misericordia, hecho en caña de maíz por indígenas de México."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Garachico",
+     "https://www.openstreetmap.org/way/195580026",
+     "https://www.google.com/maps/place/?q=place_id:ChIJv4-dwX5jagwR4n9Awj5ZlXM"
+    ]
+   }
+  },
+  {
+   "id": "teide-el-portillo",
+   "campos": {
+    "estilo": "Paisaje volcánico",
+    "ver_alli": [
+     "Centro de Visitantes El Portillo (TF-21), con museo de geología y un jardín botánico de flora de alta montaña.",
+     "Centro de Visitantes Cañada Blanca, frente a los Roques de García.",
+     "Para subir a la cima por el último sendero hace falta un permiso del parque."
+    ],
+    "fuentes": [
+     "https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/teide/guia-visitante/centros.html",
+     "https://www.birdingplaces.eu/birdingplaces/spain/centro-de-interpretacion-el-portillo",
+     "https://en.wikipedia.org/wiki/Geology_of_the_Canary_Islands",
+     "https://www.openstreetmap.org/way/131179635",
+     "https://www.google.com/maps/place/?q=place_id:ChIJBZ06LomBagwRAWz9RawyYsA"
+    ]
+   }
+  },
+  {
+   "id": "geoparque-el-hierro-el-pinar",
+   "campos": {
+    "estilo": "Paisaje volcánico",
+    "ver_alli": [
+     "Centro de Interpretación del Geoparque, junto a la carretera de La Restinga: explica el volcanismo canario y recrea la erupción submarina de 2011.",
+     "Miradores sobre El Golfo y rutas por el sur volcánico de la isla."
+    ],
+    "fuentes": [
+     "https://elhierro.travel/en/what-to-do/centro-de-interpretacion-vulcanologico",
+     "https://www.mintur.gob.es/es-es/gabineteprensa/notasprensa/2013/documents/npelhierrogeoparque230914.pdf",
+     "https://www.openstreetmap.org/way/480496354",
+     "https://www.google.com/maps/place/?q=place_id:ChIJaRN7MNRZawwRHm7liRWUWYw"
+    ]
+   }
+  },
+  {
+   "id": "volcan-tajogaite",
+   "campos": {
+    "estilo": "Volcán de la erupción de 2021",
+    "ver_alli": [
+     "Visitas guiadas por empresas autorizadas desde el Llano del Jable, que llegan a unos 300 metros del cono; no se puede ir por libre.",
+     "Miradores sobre las coladas en el valle de Aridane.",
+     "Respeta las indicaciones: es una zona con gases vigilados y con vecinos que lo perdieron todo."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Erupci%C3%B3n_volc%C3%A1nica_de_La_Palma_de_2021",
+     "https://en.wikipedia.org/wiki/Tajogaite",
+     "https://forbes.es/?p=483973",
+     "https://www.openstreetmap.org/node/9106962376",
+     "https://www.google.com/maps/place/?q=place_id:ChIJG_nAKy2TawwRxt7mqvu46LM"
+    ]
+   }
+  }
+ ]
+}

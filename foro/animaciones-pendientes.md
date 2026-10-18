@@ -193,6 +193,31 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] des-naranco · Santa María del Naranco
 - [ ] des-anse · L'Anse aux Meadows
 
+### Edad Media · capítulo 3
+- [ ] med3-9 · El Japón de los samuráis
+- [ ] med3-4 · Bizancio: esplendor y la Cuarta Cruzada
+- [ ] med3-8 · China Song y la revolución de los inventos
+- [ ] med3-1 · El Sacro Imperio y el Papado
+- [ ] med3-0 · El feudalismo y el despegue de Europa
+- [ ] med3-13 · El románico: de Jaca y Frómista al Pórtico de la Gloria
+- [ ] med3-20 · Murasaki Shikibu y el Genji
+- [ ] med3-6 · La Reconquista (II): de las taifas a Las Navas de Tolosa
+- [ ] med3-14 · Almorávides y almohades
+- [ ] med3-11 · El Cid, entre la historia y el cantar
+- [ ] med3-17 · Cahokia, la ciudad del Misisipi
+- [ ] med3-2 · Inglaterra y Francia: Hastings y la Carta Magna
+- [ ] med3-3 · Las Cruzadas y el choque con el Islam
+- [ ] med3-15 · Hildegarda de Bingen
+- [ ] med3-16 · Angkor Wat
+- [ ] med3-18 · Averroes y Maimónides
+- [ ] med3-12 · La Escuela de Traductores de Toledo
+- [ ] med3-19 · Leonor de Aquitania
+- [ ] med3-10 · Y mientras tanto…
+- [ ] des-catedral-burgos · La catedral de Burgos
+- [ ] des-giralda · La Giralda
+- [ ] des-portico · El Pórtico de la Gloria
+- [ ] des-angkor-wat · Angkor Wat
+
 ## Hechos con Gemini
 
 - [x] ant1-8 (al final con Veo; el de Gemini también salió bien) · Sargón de Acad, el primer imperio
