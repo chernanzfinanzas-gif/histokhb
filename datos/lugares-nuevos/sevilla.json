@@ -1,0 +1,899 @@
+{
+ "zona": "Sevilla",
+ "nuevos": [
+  {
+   "id": "antiquarium-de-sevilla",
+   "nombre": "Antiquarium de Sevilla",
+   "provincia": "Sevilla",
+   "comarca": "Sevilla (plaza de la Encarnación)",
+   "lat": 37.3937,
+   "lon": -5.9921,
+   "tipo": "yacimiento",
+   "estilo": "Restos romanos y almohades",
+   "epoca": "Romano",
+   "anio": 2011,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Bajo las enormes «setas» de madera del <b>Metropol Parasol</b>, en la plaza de la Encarnación, hay un barrio entero de la Sevilla romana. Los restos aparecieron en los <b>años noventa</b>, cuando se excavó la plaza para hacer un aparcamiento; el aparcamiento se abandonó y el proyecto del arquitecto <b>Jürgen Mayer</b>, premiado en 2004, integró las ruinas en su planta baja.</p><p>El <b>Antiquarium</b> se inauguró el <b>27 de marzo de 2011</b> y ocupa una sala diáfana de casi 4.900 metros cuadrados. Se recorre sobre pasarelas por encima de las casas romanas de los siglos I al VI: la <b>Casa de la Columna</b>, con el mosaico de la Medusa, la Casa de Baco, la Casa de la Ninfa, la Casa del Sigma o el Hospitium de los Delfines, entre otras.</p><p>Junto a ellas se conservan los restos de una <b>casa almohade</b> de los siglos XII-XIII, de modo que en pocos metros se lee la historia de la ciudad de la romana a la almohade. Lo gestiona el Patronato del Real Alcázar.</p><p class=\"dato\"><span>¿Sabías que…?</span>En el Patio del Océano se conserva un mural romano de tres metros.</p>"
+   },
+   "ver_alli": [
+    "El mosaico de la Medusa de la Casa de la Columna.",
+    "El mural de tres metros del Patio del Océano.",
+    "La casa almohade, junto a las romanas, y al salir, las setas del Metropol Parasol."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Antiquarium_(Sevilla)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "basilica-de-la-macarena",
+   "nombre": "Basílica de la Macarena",
+   "provincia": "Sevilla",
+   "comarca": "Sevilla (barrio de la Macarena)",
+   "lat": 37.4025,
+   "lon": -5.9894,
+   "tipo": "iglesia",
+   "estilo": "Neobarroco",
+   "epoca": "Siglo XX",
+   "anio": 1949,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Junto al arco y las murallas de la Macarena se alza la <b>basílica de la Esperanza Macarena</b>, casa de una de las imágenes más queridas de Sevilla. La hermandad tenía su capilla en la vecina parroquia de San Gil, que ardió en 1936, y por eso levantó un templo nuevo: las obras empezaron en <b>1941</b> y terminaron en <b>1949</b>, con proyecto del arquitecto sevillano <b>Aurelio Gómez Millán</b>.</p><p>Es un edificio de una sola nave con capillas laterales, vestido al gusto <b>neobarroco</b>. En el altar mayor, dentro de un retablo de 12 metros realizado en 1949 con imaginería de <b>Luis Ortega Bru</b>, está la <b>Virgen de la Esperanza Macarena</b>, talla anónima de finales del siglo XVII o comienzos del XVIII. En la primera capilla del lado izquierdo se venera <b>Nuestro Padre Jesús de la Sentencia</b>, obra de Felipe de Morales de 1654.</p><p>Desde aquí sale la hermandad en la <b>Madrugada del Viernes Santo</b>, el momento cumbre de la Semana Santa sevillana.</p><p class=\"dato\"><span>¿Sabías que…?</span>En 1966 el papa Pablo VI le concedió el título de basílica menor: fue el primer templo de Sevilla en tenerlo.</p>"
+   },
+   "ver_alli": [
+    "El camarín de la Esperanza, con su embocadura de plata que imita el frente de un paso de palio.",
+    "La capilla del Señor de la Sentencia, a la izquierda según se entra.",
+    "Al salir, el arco y las murallas de la Macarena, justo al lado."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_la_Macarena"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-alcala-de-guadaira",
+   "nombre": "Castillo de Alcalá de Guadaíra",
+   "provincia": "Sevilla",
+   "comarca": "Alcalá de Guadaíra",
+   "lat": 37.3354,
+   "lon": -5.8553,
+   "tipo": "castillo",
+   "estilo": "Almohade, con reformas cristianas",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1172,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>En lo alto de un cerro sobre el río Guadaíra se extiende uno de los grandes recintos fortificados almohades de Andalucía. El lugar ya estuvo habitado por un <b>asentamiento ibérico</b>, pero la fortaleza que vemos tomó forma entre la segunda mitad del siglo XII y el primer tercio del XIII; los años <b>1162 y 1172</b>, en tiempos del califa <b>Abu Yacub Yusuf</b>, pudieron ser los de las obras principales.</p><p>Es un castillo enorme: <b>once torres</b> y <b>tres recintos interiores</b> independientes. En el tercero, cerrado por tres torres, se alza la <b>torre del Homenaje</b>. Dentro se conservan los <b>silos</b> del llamado patio de los Silos.</p><p>Los cristianos tomaron Alcalá en <b>1246</b>, dos años antes que Sevilla. Entre 1471 y 1477, durante la ocupación del marqués de Cádiz, el castillo se reformó. Desde 1998 se ha ido restaurando por fases, lo que hoy permite recorrer sus adarves.</p>"
+   },
+   "ver_alli": [
+    "Los adarves restaurados, con vistas al río y a la ciudad.",
+    "La torre del Homenaje, en el recinto más alto.",
+    "El patio de los Silos."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Alcal%C3%A1_de_Guada%C3%ADra"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-luna-mairena-del-alcor",
+   "nombre": "Castillo de Luna (Mairena del Alcor)",
+   "provincia": "Sevilla",
+   "comarca": "Mairena del Alcor",
+   "lat": 37.3723,
+   "lon": -5.7454,
+   "tipo": "castillo",
+   "estilo": "Almohade y mudéjar",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1902,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>En el borde de los Alcores, la cornisa que domina la vega de Sevilla, Mairena conserva su castillo, una fortaleza de aire <b>almohade y mudéjar</b> cuya construcción se inició a mediados del <b>siglo XIV</b>. Perteneció a la <b>casa de Arcos</b>, y su nombre vendría, al parecer, de la boda de Pedro Ponce de León con una hija de <b>Álvaro de Luna</b>.</p><p>Tiene cuatro torres cuadradas con nombre propio: la <b>Ruida</b> (parcialmente rota), la <b>Mocha</b>, la del <b>Duque</b> y la <b>Campanilla</b>, que todavía conserva su campana.</p><p>Su historia moderna está ligada a un personaje singular: el arqueólogo inglés <b>George Bonsor</b>, que compró el castillo en <b>1902</b>, lo reconstruyó como residencia y reunió en él una colección con lo que excavaba en la comarca. Por eso también se le conoce como <b>Casa-Museo Bonsor</b>.</p>"
+   },
+   "ver_alli": [
+    "Las cuatro torres: la Ruida, la Mocha, la del Duque y la Campanilla, que aún tiene campana.",
+    "El ambiente de casa-museo que dejó George Bonsor.",
+    "Las vistas desde los Alcores sobre la vega."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Luna_(Mairena_del_Alcor)",
+    "https://www.andalucia.com/province/sevilla/mairena-del-alcor/home"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-san-jorge-sevilla",
+   "nombre": "Castillo de San Jorge (Triana)",
+   "provincia": "Sevilla",
+   "comarca": "Sevilla (Triana)",
+   "lat": 37.3857,
+   "lon": -6.0031,
+   "tipo": "castillo",
+   "estilo": "Restos medievales musealizados",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1481,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Al cruzar el puente de Triana, bajo el mercado del barrio, se esconden los restos de un castillo con una historia sombría. Ya los visigodos habían levantado una fortificación en esta orilla, junto al río.</p><p>En <b>1481</b> el castillo se convirtió en <b>sede de la Inquisición española</b>. Entre <b>1800 y 1803</b> fue demolido, y en <b>1823</b> se instaló en su solar el <b>mercado de Triana</b>.</p><p>Las numerosas excavaciones arqueológicas hechas bajo el mercado sacaron a la luz sus restos, que se han musealizado. En <b>2009</b> el Ayuntamiento de Sevilla inauguró el centro del Castillo de San Jorge, que permite recorrerlos y conocer la historia de la Inquisición.</p>"
+   },
+   "ver_alli": [
+    "Los cimientos del castillo, bajo el mercado de Triana.",
+    "Los paneles sobre la Inquisición y las personas que juzgó.",
+    "Al salir, el puente de Triana sobre el Guadalquivir."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_San_Jorge_(Sevilla)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-san-juan-bautista-marchena",
+   "nombre": "Iglesia de San Juan Bautista (Marchena)",
+   "provincia": "Sevilla",
+   "comarca": "Marchena",
+   "lat": 37.3322,
+   "lon": -5.4168,
+   "tipo": "iglesia",
+   "estilo": "Gótico-mudéjar",
+   "epoca": "Mudéjar",
+   "anio": 1490,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Marchena fue desde 1309 villa de los <b>Ponce de León</b>, y su gran parroquia refleja el poder de aquel linaje. De la iglesia primitiva, fundada poco después de la conquista cristiana, solo queda la capilla bajo la torre; el resto, con las naves centrales y la cabecera, se levantó a partir de <b>1490</b>, y las naves laterales hacia mediados del siglo XVI.</p><p>Por dentro sorprende su amplitud: <b>cinco naves</b> separadas por pilares, de altura decreciente, con estructura <b>gótico-mudéjar</b> y algún detalle renacentista. Al fondo brilla el <b>retablo mayor</b> de Jorge y Alejo Fernández, realizado entre <b>1521 y 1533</b>. El coro, tallado por Juan Valencia, es de 1719-1722, y la custodia de plata, de Francisco de Alfaro (1575-1580).</p><p>La iglesia alberga además el <b>museo municipal</b>, con una joya inesperada en un pueblo: hasta <b>nueve cuadros de Zurbarán</b>, junto a varias esculturas de <b>Alonso Cano</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>La torre se contrató con el maestro Diego Velasco en 1580.</p>"
+   },
+   "ver_alli": [
+    "El retablo mayor de Jorge y Alejo Fernández.",
+    "Las cinco naves de altura escalonada.",
+    "El museo con los lienzos de Zurbarán y las esculturas de Alonso Cano."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Juan_Bautista_(Marchena)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-santa-ana-triana",
+   "nombre": "Iglesia de Santa Ana (Triana)",
+   "provincia": "Sevilla",
+   "comarca": "Sevilla (Triana)",
+   "lat": 37.3828,
+   "lon": -6.0005,
+   "tipo": "iglesia",
+   "estilo": "Gótico, con torre mudéjar",
+   "epoca": "Gótico",
+   "anio": 1280,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>En Triana la llaman con orgullo <b>«la catedral de Triana»</b>. Según la tradición, <b>Alfonso X</b> la fundó en agradecimiento por la curación milagrosa de una enfermedad de los ojos, y su construcción debió empezar entre el otoño de <b>1279</b> y comienzos de <b>1280</b>.</p><p>Es un templo <b>gótico</b> con una torre de tipo mudéjar de la primera mitad del siglo XIV; desde 1629 Martín Izquierdo le añadió el segundo cuerpo y el chapitel, con cerámica vidriada blanca y azul, según diseño de Diego López Bueno. El <b>terremoto de 1755</b> la dañó seriamente y la remodeló el arquitecto Pedro de Silva.</p><p>Dentro destaca el <b>retablo mayor</b> renacentista, contratado en 1542 con Nufro Ortega; en sus pinturas trabajó, entre otros, el flamenco <b>Pedro de Campaña</b>. Se restauró durante dos años y la restauración terminó en 2010.</p>"
+   },
+   "ver_alli": [
+    "La torre con su chapitel de cerámica blanca y azul.",
+    "El retablo mayor renacentista con las pinturas de Pedro de Campaña.",
+    "El barrio de Triana alrededor, a un paso del río."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Ana_(Sevilla)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-santa-maria-carmona",
+   "nombre": "Iglesia prioral de Santa María (Carmona)",
+   "provincia": "Sevilla",
+   "comarca": "Carmona",
+   "lat": 37.4736,
+   "lon": -5.6374,
+   "tipo": "iglesia",
+   "estilo": "Gótico tardío andaluz",
+   "epoca": "Gótico",
+   "anio": 1424,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>La gran iglesia de Carmona se empezó a levantar en <b>1424</b> sobre la <b>antigua mezquita mayor</b> de la ciudad, de la que conserva su recuerdo más vivo: el <b>patio de los Naranjos</b>, que fue el patio de abluciones. Una de sus columnas lleva una <b>inscripción visigoda</b>, señal de que los constructores aprovecharon piezas aún más antiguas.</p><p>Las obras fueron largas. La primera fase terminó en 1518 con maestros como Rodrigo Gibaja, Alonso Rodríguez, Antón Gallego y Juan de Matienzo; en 1525 <b>Diego de Riaño</b> abovedó el cimborrio, en 1566 intervino <b>Hernán Ruiz</b> y en 1578 Pedro Díaz de Palacios cerró la etapa. El resultado es un buen ejemplo del <b>gótico tardío andaluz</b>.</p><p>Preside el templo un gigantesco <b>retablo mayor</b> renacentista de <b>Nufro Ortega</b> y <b>Juan Bautista Vázquez el Viejo</b>, con banco, cuatro cuerpos de cinco calles y ático. Entre otras joyas, guarda el retablo del Nacimiento de Gaspar del Águila (1580) y la imagen de San Teodomiro, tallada por Juan de Arce y policromada por Valdés Leal.</p><p class=\"dato\"><span>¿Sabías que…?</span>La portada principal, a los pies, parece medieval pero es neogótica, del siglo XIX.</p>"
+   },
+   "ver_alli": [
+    "El patio de los Naranjos y la columna con la inscripción visigoda.",
+    "El retablo mayor de Nufro Ortega y Juan Bautista Vázquez.",
+    "La capilla del Cristo de los Martirios y el coro manierista."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_(Carmona)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-santa-maria-de-la-oliva-lebrija",
+   "nombre": "Iglesia de Santa María de la Oliva (Lebrija)",
+   "provincia": "Sevilla",
+   "comarca": "Lebrija",
+   "lat": 36.9198,
+   "lon": -6.0808,
+   "tipo": "iglesia",
+   "estilo": "Gótico, renacentista y barroco",
+   "epoca": "Gótico",
+   "anio": 1475,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>La gran parroquia de Lebrija se construyó en tiempos de <b>Alfonso X el Sabio</b>, en la segunda mitad del siglo XIII, y fue creciendo durante siglos: por eso mezcla capiteles de inspiración románica, gótica y almohade con obras renacentistas y barrocas. Entre 1475 y 1503 el maestro mayor del arzobispado, Francisco Rodríguez, rehízo la cabecera; la <b>sacristía renacentista</b> la diseñó <b>Hernán Ruiz II</b> en 1568.</p><p>Su mayor tesoro es el <b>retablo mayor</b>, obra de <b>Alonso Cano</b> entre <b>1629 y 1631</b>, con pinturas de Pablo Legot. Lo preside la imagen de la <b>Virgen de la Oliva</b>, que muchos consideran la mejor escultura de Cano. En la capilla de la Vela hay obras de Juan Bautista Vázquez el Viejo y un mural de San Cristóbal del siglo XV.</p><p>El campanario anterior se hundió con el <b>terremoto de Lisboa de 1755</b>. La torre nueva, levantada en la segunda mitad del siglo XVIII, imita a la Giralda, y en el pueblo la llaman cariñosamente <b>«la Giraldilla»</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>La pila bautismal de la iglesia vino de Flandes.</p>"
+   },
+   "ver_alli": [
+    "El retablo mayor de Alonso Cano y la Virgen de la Oliva.",
+    "La sacristía renacentista de Hernán Ruiz II.",
+    "Por fuera, la torre «Giraldilla», inspirada en la Giralda."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Santa_Mar%C3%ADa_de_la_Oliva_(Lebrija)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-del-salvador-sevilla",
+   "nombre": "Iglesia del Salvador",
+   "provincia": "Sevilla",
+   "comarca": "Sevilla (casco antiguo)",
+   "lat": 37.39,
+   "lon": -5.9926,
+   "tipo": "iglesia",
+   "estilo": "Barroco",
+   "epoca": "Barroco",
+   "anio": 1712,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Después de la catedral, el <b>Salvador</b> es el templo más grande del centro de Sevilla, y bajo sus pies hay mil doscientos años de historia. Aquí se levantó entre el 829 y el 830 la <b>mezquita de Ibn Adabbás</b>, la principal de la ciudad hasta que los almohades inauguraron en 1182 la nueva mezquita mayor (la actual catedral). Tras la conquista de 1248 se convirtió en iglesia del Divino Salvador y en el siglo XV pasó a ser colegiata.</p><p>El viejo edificio estaba tan hundido que, según las crónicas, había que bajar unos veinte escalones para entrar. Se derribó en 1671; el primer templo nuevo se vino abajo en 1679 y hubo que empezar otra vez. Las fachadas las diseñó en 1682 <b>José Granados de la Barrera</b>, y <b>Leonardo de Figueroa</b> cerró las bóvedas y levantó la cúpula, obras que acabaron en <b>1712</b>.</p><p>Dentro deslumbran sus <b>catorce retablos</b>: el mayor, de <b>Cayetano de Acosta</b> (1770-1778), representa la Transfiguración. También guarda el <b>Jesús de la Pasión</b> de Juan Martínez Montañés (1615) y el <b>Cristo del Amor</b> de Juan de Mesa (1620). Tras una gran restauración (2003-2008) se reabrió en octubre de 2008.</p><p class=\"dato\"><span>¿Sabías que…?</span>La base del campanario es el antiguo alminar de la mezquita del siglo IX.</p>"
+   },
+   "ver_alli": [
+    "El retablo mayor de Cayetano de Acosta, una explosión de oro y ángeles.",
+    "La capilla sacramental, con el Jesús de la Pasión de Martínez Montañés.",
+    "Por fuera, la base del campanario: es el antiguo alminar de la mezquita del siglo IX."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_del_Salvador_(Sevilla)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-la-cartuja-sevilla",
+   "nombre": "Monasterio de la Cartuja de Santa María de las Cuevas",
+   "provincia": "Sevilla",
+   "comarca": "Sevilla (isla de la Cartuja)",
+   "lat": 37.3981,
+   "lon": -6.0076,
+   "tipo": "iglesia",
+   "estilo": "Gótico y mudéjar, con fábrica de loza del siglo XIX",
+   "epoca": "Gótico",
+   "anio": 1400,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>En esta orilla del Guadalquivir los alfareros almohades excavaban cuevas para sacar arcilla. La leyenda cuenta que en una de ellas apareció una imagen de la Virgen, y así nació la ermita de <b>Santa María de las Cuevas</b>. En <b>1400</b> llegaron monjes cartujos desde El Paular, y el arzobispo Gonzalo de Mena les entregó el lugar para fundar un monasterio.</p><p>La Cartuja fue muy cercana a <b>Cristóbal Colón</b>: era amigo del monje fray Gaspar Gorricio, consultó su biblioteca y se alojaba aquí cuando estaba en Sevilla. Tras su muerte, sus restos se trajeron al monasterio en <b>1509</b> y reposaron en la capilla de Santa Ana antes de viajar a Santo Domingo.</p><p>La historia dio después un giro industrial. Tras la ocupación francesa y la desamortización, el comerciante <b>Carlos Pickman</b> compró el edificio en 1838 y lo convirtió en <b>fábrica de loza</b> en 1841; de entonces son los hornos con chimeneas en forma de botella. Restaurado para la <b>Expo 92</b>, donde acogió el pabellón Real, hoy es sede del <b>Centro Andaluz de Arte Contemporáneo</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>Según la tradición, Colón plantó aquí un ombú que todavía puede verse en el conjunto.</p>"
+   },
+   "ver_alli": [
+    "Las chimeneas y hornos de botella de la antigua fábrica Pickman, junto a la iglesia gótica.",
+    "El pequeño claustro mudéjar del siglo XV.",
+    "La capilla de Santa Ana, donde estuvo enterrado Colón, y la sala capitular con los sepulcros de los Ribera."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_la_Cartuja_(Sevilla)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-san-isidoro-del-campo",
+   "nombre": "Monasterio de San Isidoro del Campo",
+   "provincia": "Sevilla",
+   "comarca": "Santiponce",
+   "lat": 37.4339,
+   "lon": -6.0367,
+   "tipo": "iglesia",
+   "estilo": "Gótico y mudéjar",
+   "epoca": "Gótico",
+   "anio": 1301,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>A un paso de Itálica, este monasterio fortificado lo fundaron en <b>1301</b> <b>Alonso Pérez de Guzmán, «Guzmán el Bueno»</b>, y su esposa <b>María Alonso Coronel</b>, como panteón de su familia, la futura casa de Medina Sidonia. Lo ocuparon primero los <b>cistercienses</b>, hasta 1431, y desde 1568 los <b>jerónimos</b>; llegó a ser el monasterio cisterciense más meridional de Europa.</p><p>Su rasgo más curioso son sus <b>dos iglesias gemelas</b>, de nave gótica: la primera la levantó Guzmán el Bueno y la segunda, adosada a ella, su hijo Juan Alonso. En una de ellas, el retablo de <b>Juan Martínez Montañés</b> está presidido por un San Jerónimo penitente, con las figuras orantes de los fundadores a los lados.</p><p>Los muros guardan un extraordinario conjunto de <b>pinturas murales</b>: lacerías mudéjares en el claustro de los Muertos, frescos del siglo XV en la sala del Evangelista y una Sagrada Cena en el refectorio.</p><p class=\"dato\"><span>¿Sabías que…?</span>De este monasterio salió Casiodoro de Reina, autor de la primera Biblia completa en castellano (1569), revisada en 1602 por Cipriano de Valera, otro antiguo monje de la casa.</p>"
+   },
+   "ver_alli": [
+    "Las dos iglesias gemelas, una junto a otra.",
+    "El retablo de Martínez Montañés con San Jerónimo penitente.",
+    "Las pinturas murales del claustro de los Muertos y la Sagrada Cena del refectorio."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Isidoro_del_Campo"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-de-bellas-artes-de-sevilla",
+   "nombre": "Museo de Bellas Artes de Sevilla",
+   "provincia": "Sevilla",
+   "comarca": "Sevilla (casco antiguo)",
+   "lat": 37.3925,
+   "lon": -6.0001,
+   "tipo": "museo",
+   "estilo": "Convento manierista y barroco",
+   "epoca": "Barroco",
+   "anio": 1841,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Es una de las pinacotecas más importantes de España y el mejor lugar para entender la <b>escuela sevillana de pintura</b>. Nació con la desamortización: una Real Orden de 1835 creó un «Museo de Pinturas» para reunir las obras de los conventos suprimidos, y en 1839 se eligió como sede el antiguo <b>convento de la Merced</b>. Se inauguró oficialmente en <b>1841</b>.</p><p>El propio edificio es una joya. Lo trazó <b>Juan de Oviedo</b> a partir de 1603 en torno a tres patios unidos por una gran escalera, y <b>Leonardo de Figueroa</b> reformó en 1724 el piso alto del claustro mayor. La antigua iglesia, terminada en 1612 y con pinturas murales de Domingo Martínez, es hoy la sala estrella.</p><p>Allí reina <b>Murillo</b>, acompañado de <b>Zurbarán</b> y <b>Valdés Leal</b>: el gran Siglo de Oro sevillano. La colección sigue con la pintura andaluza del siglo XIX y se completa con azulejos, orfebrería y muebles.</p><p class=\"dato\"><span>¿Sabías que…?</span>La estatua de Murillo de la plaza, obra de Sabino de Medina, tiene una réplica exacta frente al Museo del Prado.</p>"
+   },
+   "ver_alli": [
+    "La antigua iglesia (sala V), con los grandes lienzos de Murillo.",
+    "Las salas de Zurbarán y de Valdés Leal, con obras como «San Hugo en el refectorio».",
+    "Los claustros, decorados con azulejos de otros conventos desamortizados."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Bellas_Artes_de_Sevilla"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-de-las-duenas",
+   "nombre": "Palacio de las Dueñas",
+   "provincia": "Sevilla",
+   "comarca": "Sevilla (casco antiguo)",
+   "lat": 37.3951,
+   "lon": -5.9894,
+   "tipo": "monumento",
+   "estilo": "Gótico-mudéjar y renacentista",
+   "epoca": "Mudéjar",
+   "anio": 1496,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Detrás de una portada discreta se esconde uno de los palacios más bellos de Sevilla, propiedad de la <b>casa de Alba</b>. Se construyó en el <b>siglo XV</b> y se reformó entre finales de ese siglo y comienzos del XVI, mezclando el <b>gótico-mudéjar</b> con el <b>Renacimiento</b>. Las casas eran de la familia Pineda hasta que en <b>1496</b> se las vendieron a Catalina de Ribera, la misma familia que levantó la Casa de Pilatos.</p><p>El conjunto ocupa unos 9.000 metros cuadrados. Tiene dos patios, el principal y el del Aceite, y cuatro jardines, ajardinados tal como hoy se ven entre 1910 y 1920. Dentro se reúne una gran colección de pintura, escultura y artes decorativas de los siglos XVI al XX.</p><p>Aquí nació el poeta <b>Antonio Machado</b>, en 1875, cuando su familia vivía en una de las viviendas del palacio; se quedaron hasta 1879. El palacio se abrió a las visitas turísticas en <b>2016</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>La portada actual del palacio es de 1771 y la mandó levantar el XII duque de Alba.</p>"
+   },
+   "ver_alli": [
+    "El patio principal, con sus arcos y yeserías mudéjares.",
+    "Los jardines, ajardinados a comienzos del siglo XX.",
+    "Las salas con la colección de pintura y artes decorativas de la casa de Alba."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Palacio_de_las_Due%C3%B1as_(Sevilla)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "puerta-de-sevilla-carmona",
+   "nombre": "Puerta y Alcázar de Sevilla (Carmona)",
+   "provincia": "Sevilla",
+   "comarca": "Carmona",
+   "lat": 37.4711,
+   "lon": -5.6412,
+   "tipo": "castillo",
+   "estilo": "Púnico, romano y almohade",
+   "epoca": "Castillos y fortalezas",
+   "anio": -237,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Quien llegaba a Carmona por el camino de Sevilla se topaba con esta mole: una puerta fortificada que es, a la vez, un pequeño alcázar, el llamado <b>Alcázar de Abajo</b>. Pocos monumentos de España resumen tantos siglos en tan poco espacio. Los <b>cartagineses</b> empezaron a levantar la fortaleza actual entre el <b>237 y el 206 a. C.</b>, y los romanos la reformaron y le abrieron la gran entrada, un sencillo <b>arco de medio punto</b>.</p><p>Entre los siglos XI y XII los andalusíes añadieron <b>arcos de herradura</b>, aljibes, muros y barbacanas. En el patio de los Aljibes se conserva un depósito excavado en la roca con seis lumbreras. La torre más alta recibe el apodo de <b>Torre del Oro</b>, como la de Sevilla.</p><p>Ya en época cristiana, el salón de los Presos se modificó en los siglos XIV y XV; según la tradición aquí estuvo preso el alcaide de Málaga, Amet el Zegrí, tras la conquista de esa ciudad por los Reyes Católicos. El conjunto se restauró por completo entre 1973 y 1975.</p><p class=\"dato\"><span>¿Sabías que…?</span>En lo más alto de la ciudad hay otro alcázar, el del Rey Don Pedro; por eso a este se le llama «de Abajo».</p>"
+   },
+   "ver_alli": [
+    "El paso de la puerta: arco romano de medio punto y, detrás, arcos de herradura andalusíes.",
+    "El patio de los Aljibes, con el depósito tallado en la roca.",
+    "La subida a la Torre del Oro, con vistas sobre la vega."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Puerta_de_Sevilla_(Carmona)"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "torre-de-la-victoria-estepa",
+   "nombre": "Torre de la Victoria y cerro del castillo (Estepa)",
+   "provincia": "Sevilla",
+   "comarca": "Estepa",
+   "lat": 37.29,
+   "lon": -4.8775,
+   "tipo": "monumento",
+   "estilo": "Barroco",
+   "epoca": "Barroco",
+   "anio": 1765,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>La silueta de Estepa se reconoce desde lejos por su torre más esbelta, la de <b>la Victoria</b>. Es todo lo que queda en pie del convento de los <b>mínimos</b>, fundado en <b>1562</b> por Marco Centurión. Su iglesia, comenzada en 1604, se reconstruyó en el siglo XVIII: las obras empezaron en 1747 y terminaron con la torre en <b>1765</b>.</p><p>La iglesia se derribó en 1939 por su mal estado y solo se conservaron la torre y restos de los muros; su portada se trasladó a la iglesia de San Sebastián del pueblo. La torre es Bien de Interés Cultural desde 1955.</p><p>A dos pasos, en el punto más alto del municipio, están las <b>ruinas del alcázar</b>, levantado sobre la vieja Ostippo. Sus primeras murallas son del siglo X, se reformaron tras la llegada de los almohades en el XII, y la <b>Orden de Santiago</b> levantó después la torre del Homenaje. Es Bien de Interés Cultural desde 1993.</p><p class=\"dato\"><span>¿Sabías que…?</span>En 1821 se reunieron en este convento frailes de Osuna y Olvera, hasta formar una comunidad de 26 mínimos.</p>"
+   },
+   "ver_alli": [
+    "La torre de la Victoria, aislada sobre la plaza, con su remate barroco.",
+    "Subir al cerro: torre del Homenaje y restos de la muralla del alcázar.",
+    "Las vistas sobre la campiña de olivos desde lo alto."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Convento_de_la_Victoria_(Estepa)",
+    "https://es.wikipedia.org/wiki/Antiguo_Alc%C3%A1zar_de_Estepa"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "valencina",
+   "campos": {
+    "lat": 37.4132,
+    "lon": -6.0646,
+    "estilo": "Megalitismo calcolítico (sepulcros de corredor y tholoi)",
+    "ver_alli": [
+     "Entra en el tholos de La Pastora: un corredor larguísimo y muy bajo, cubierto con losas, que termina en una cámara de falsa cúpula.",
+     "El dolmen de Montelirio está a pocos cientos de metros, ya en Castilleja de Guzmán.",
+     "En el museo municipal de Valencina se entiende el conjunto antes de ir a los dólmenes; las visitas a los sepulcros se reservan allí."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Valencina_de_la_Concepci%C3%B3n",
+     "https://www.openstreetmap.org/?mlat=37.4132&mlon=-6.0646#map=18/37.4132/-6.0646",
+     "https://www.google.com/maps/place/?q=place_id:ChIJaYqaQkxrEg0RCDADDpqAFq0"
+    ]
+   }
+  },
+  {
+   "id": "setefilla",
+   "campos": {
+    "lat": 37.7362,
+    "lon": -5.4808,
+    "estilo": "Protohistórico (túmulos orientalizantes); castillo andalusí",
+    "texto": {
+     "general": "<p>La <b>Mesa de Setefilla</b>, una plataforma rocosa sobre la vega del Guadalquivir cerca de Lora del Río, estuvo habitada desde el segundo milenio a. C. hasta el siglo IV a. C. Las excavaciones de 1976-1979 en el cerro del castillo comprobaron una ocupación continuada que atraviesa etapas poco conocidas en Andalucía occidental, como el Bronce Pleno y el <b>Bronce Final</b>.</p><p>Su gran tesoro es la <b>necrópolis de túmulos</b>. En la primera excavación, en 1926-1927, se exhumaron diez túmulos con sepulturas de incineración e inhumación, todos del <b>periodo orientalizante</b> (hacia 700-500 a. C.), el de Tartessos y el comercio con los fenicios; en 1973 y 1975 aparecieron nuevos enterramientos.</p><p>Encima del poblado antiguo se levantó un <b>castillo andalusí</b>, la Chant-Fila de las fuentes árabes, construido entre 888 y 912, que se habitó hasta su abandono en 1539. A su lado está la <b>ermita de Nuestra Señora de Setefilla</b>, cuya primera construcción se remonta a 1280. La Junta de Andalucía declaró Bien de Interés Cultural el yacimiento, como zona arqueológica de 175 hectáreas, y la ermita.</p>"
+    },
+    "ver_alli": [
+     "Sube al castillo: se ven sus dos recintos, el aljibe abovedado del patio de armas y la torre del Homenaje.",
+     "Desde el borde de la mesa se domina la vega del Guadalquivir, la razón de que aquí se viviera durante milenios.",
+     "Visita la ermita de Setefilla, junto al castillo, con su colección de exvotos.",
+     "Los túmulos no son espectaculares a simple vista: conviene informarse antes en Lora del Río."
+    ],
+    "fuentes": [
+     "https://www.juntadeandalucia.es/consejo/2250902.htm",
+     "https://www.openstreetmap.org/?mlat=37.7362&mlon=-5.4808#map=18/37.7362/-5.4808",
+     "https://www.google.com/maps/place/?q=place_id:ChIJF3qpzCfkEg0RYkbHB6bSHZU"
+    ]
+   }
+  },
+  {
+   "id": "italica",
+   "campos": {
+    "lat": 37.4442,
+    "lon": -6.0444,
+    "estilo": "Romano (ciudad de época de Trajano y Adriano)",
+    "ver_alli": [
+     "El anfiteatro, uno de los mayores del Imperio, con sitio para unas 25.000 personas.",
+     "Recorre la ciudad nueva de Adriano, con sus calles anchas y los mosaicos de las casas.",
+     "El teatro romano está aparte, en el casco de Santiponce.",
+     "Lleva agua y gorra: casi no hay sombra."
+    ],
+    "fuentes": [
+     "https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/espacios/conjunto-arqueologico-de-italica",
+     "https://www.openstreetmap.org/?mlat=37.4442&mlon=-6.0444#map=18/37.4442/-6.0444",
+     "https://www.google.com/maps/place/?q=place_id:ChIJrUvqKeBqEg0RSzTe-ZzryaE"
+    ]
+   }
+  },
+  {
+   "id": "carmona-necropolis",
+   "campos": {
+    "lat": 37.4686,
+    "lon": -5.6513,
+    "estilo": "Romano (necrópolis excavada en la roca)",
+    "texto": {
+     "general": "<p>A las afueras de Carmona, la antigua Carmo, se extiende uno de los grandes <b>cementerios romanos</b> de Hispania, usado sobre todo en los siglos I y II d. C. Lo más habitual era la incineración: los cadáveres se quemaban en quemaderos excavados en la roca y las cenizas se guardaban en <b>mausoleos familiares</b>, cámaras subterráneas con nichos para las urnas.</p><p>Se descubrió por casualidad en <b>1868-1869</b>, durante unas obras, y enseguida empezó el expolio. En <b>1881</b> Juan Fernández López y <b>Jorge Bonsor</b> compraron los terrenos e iniciaron excavaciones científicas; en 1885 abrieron al público el museo de la necrópolis con un circuito de visita. En 1930 el conjunto se cedió al Estado.</p><p>Destacan dos tumbas espectaculares: la <b>del Elefante</b>, llamada así por la escultura de un elefante que se halló en ella, y la <b>de Servilia</b>, enorme, con un patio que recuerda al de una casa romana. Es además uno de los yacimientos de la Península que conserva <b>más pinturas funerarias</b>.</p>"
+    },
+    "ver_alli": [
+     "Baja a alguna de las cámaras familiares y fíjate en los nichos para las urnas.",
+     "No te pierdas la tumba de Servilia, con su gran patio porticado, ni la del Elefante.",
+     "Busca restos de pintura en las paredes de las cámaras.",
+     "El anfiteatro de Carmo queda justo enfrente."
+    ],
+    "fuentes": [
+     "https://www.juntadeandalucia.es/organismos/culturaydeporte/servicios/directorio-instituciones/detalle/2587.html",
+     "https://romeartlover.it/Carmona2.html",
+     "https://www.openstreetmap.org/?mlat=37.4686&mlon=-5.6513#map=18/37.4686/-5.6513",
+     "https://www.google.com/maps/place/?q=place_id:ChIJsxAJQLyLEg0RNszga98OhO0"
+    ]
+   }
+  },
+  {
+   "id": "munigua",
+   "campos": {
+    "lat": 37.7132,
+    "lon": -5.7408,
+    "estilo": "Romano (santuario en terrazas de época flavia)",
+    "texto": {
+     "general": "<p><b>Munigua</b>, hoy también llamada Mulva, es una pequeña ciudad romana perdida en plena Sierra Norte de Sevilla, a unos ocho kilómetros de Villanueva del Río y Minas. Sus orígenes son prerromanos y su riqueza venía de las <b>minas de cobre y de hierro</b> de la zona, ya explotadas en el siglo I a. C.</p><p>Vivió su gran momento cuando <b>Vespasiano</b> le dio el rango de municipio, en el último tercio del siglo I d. C. Entonces se levantaron sus edificios públicos, empezando por un <b>santuario en terrazas</b>, de hacia el año 70, sobre la colina, que recuerda a los grandes santuarios italianos de Fortuna en Palestrina y de Hércules en Tívoli. A finales de ese siglo se construyó el <b>foro</b>, con su templo, la curia y la basílica, y se reformaron las termas.</p><p>A finales del siglo III un <b>terremoto</b> dañó casas, foro y pórticos y marcó el comienzo de su declive. Desde 1956 la excava el <b>Instituto Arqueológico Alemán</b>, y está protegida como monumento desde 1931.</p>"
+    },
+    "ver_alli": [
+     "El santuario en terrazas, en lo alto: sube por sus rampas y escaleras y mira el valle.",
+     "Junto a él, el foro con su templo y el pórtico de dos pisos.",
+     "En las termas se conservan restos de pintura mural.",
+     "Lleva calzado cómodo y agua: el último tramo se hace a pie por una pista de campo."
+    ],
+    "fuentes": [
+     "https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/espacios/enclave-arqueologico-de-munigua",
+     "https://es.wikipedia.org/wiki/Munigua",
+     "https://www.openstreetmap.org/?mlat=37.7132&mlon=-5.7408#map=18/37.7132/-5.7408",
+     "https://www.google.com/maps/place/?q=place_id:ChIJD4n4nzJWEg0RC9UVksOW58E"
+    ]
+   }
+  },
+  {
+   "id": "ecija-museo",
+   "campos": {
+    "lat": 37.5394,
+    "lon": -5.0798,
+    "estilo": "Barroco (palacio); colecciones romanas",
+    "texto": {
+     "general": "<p>Écija fue <b>Astigi</b>, la Colonia Augusta Firma fundada hacia el 14 a. C. junto a un poblado turdetano, una de las grandes ciudades del aceite de la Bética. Su historia se cuenta en el <b>Museo Histórico Municipal</b>, instalado en el <b>palacio de Benamejí</b>, un ejemplo de la arquitectura civil barroca empezado a principios del siglo XVIII.</p><p>La colección romana es excepcional. Hay <b>seis grandes mosaicos</b> aparecidos en excavaciones de la ciudad, entre ellos el de los océanos, el del triunfo de Baco o el de las estaciones, y la <b>Amazona herida</b>, una escultura de unos dos metros que conserva restos de su pintura original. Se halló en febrero de 2002 en la plaza de España, que fue parte del foro de Astigi, durante las obras de un aparcamiento.</p><p>El museo reúne también piezas metálicas prehistóricas, tres estelas de guerrero, la «Placa de Écija», de orfebrería tartésica, y material doméstico de época islámica; en las antiguas caballerizas se exponen carruajes y arreos.</p>"
+    },
+    "ver_alli": [
+     "La Amazona herida: fíjate en los restos de color sobre el mármol.",
+     "La sala de los mosaicos, con el del triunfo de Baco y el de las estaciones.",
+     "El patio del palacio y la doble escalera de entrada.",
+     "Sube a las torres-mirador para ver las torres barrocas de la ciudad."
+    ],
+    "fuentes": [
+     "https://andalucia.org/en/ecija-cultural-tourism-museo-historico-municipal-de-ecija",
+     "https://es.hispanopedia.com/wiki/Museo_Hist%C3%B3rico_Municipal_de_%C3%89cija",
+     "https://www.spain.info/es/lugares-interes/museo-historico-municipal-ecija/",
+     "https://es.wikipedia.org/wiki/%C3%89cija",
+     "https://www.openstreetmap.org/?mlat=37.5394&mlon=-5.0798#map=18/37.5394/-5.0798",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ0zYRuaLKEg0R9j6JXWfrnvM"
+    ]
+   }
+  },
+  {
+   "id": "giralda-y-catedral-de-sevilla",
+   "campos": {
+    "lat": 37.3862,
+    "lon": -5.9926,
+    "estilo": "Almohade, gótico y renacentista",
+    "ver_alli": [
+     "Sube a la Giralda por sus rampas: son anchas porque estaban pensadas para bestias de carga.",
+     "Mira desde el Patio de los Naranjos los rombos de ladrillo (sebka) del antiguo alminar.",
+     "Dentro, la tumba de Colón y la Capilla Real, con la urna de Fernando III.",
+     "En la Puerta del Lagarto cuelga el cocodrilo de madera."
+    ],
+    "fuentes": [
+     "https://www.catedraldesevilla.es/en/cultural-visit/schedules-and-rates/",
+     "https://www.openstreetmap.org/?mlat=37.3862&mlon=-5.9926#map=18/37.3862/-5.9926",
+     "https://www.google.com/maps/place/?q=place_id:ChIJK9S3HhpsEg0RR3Jr5EfWT50"
+    ],
+    "texto": {
+     "general": "<p>La Giralda fue el alminar de la mezquita almohade (1184-1198); el campanario renacentista se añadió en 1568. Sobre la mezquita se construyó desde 1401 la mayor catedral gótica del mundo, donde está la tumba de Colón.</p><p>Cuando <b>Fernando III</b> entró en Sevilla el 22 de diciembre de 1248, tras quince meses de cerco, la gran mezquita almohade se consagró como catedral y su alminar, la Giralda, se convirtió en campanario. El rey murió en la ciudad en 1252 y su cuerpo se conserva en una urna de plata en la <b>Capilla Real</b> de la catedral, donde también están enterrados su hijo Alfonso X y su esposa, Beatriz de Suabia.</p><p>Los almohades, que hicieron de Sevilla su capital en al-Ándalus, empezaron aquí en 1172 una nueva mezquita mayor; su patio es hoy el Patio de los Naranjos. El alminar lo comenzó en 1184 el arquitecto <b>Ahmad ibn Baso</b> y se terminó en 1198, cuando se coronó con cuatro grandes esferas de bronce dorado para celebrar la victoria de Alarcos. Por dentro se sube por rampas, anchas para que pudieran subir bestias con los ladrillos, y por fuera lo decoran los rombos de ladrillo de la <b>sebka</b>.</p><p>A la entrada de la catedral por el Patio de los Naranjos, la Puerta del Lagarto, cuelga un cocodrilo de madera. La tradición sevillana dice que recuerda al que llegó con una embajada del sultán de Egipto a Alfonso X, que según la crónica del rey traía regalos exóticos, como un elefante y una jirafa. En el mismo conjunto está la <b>Biblioteca Colombina</b>, que guarda el ejemplar latino del libro de <b>Marco Polo</b> que leyó y anotó Cristóbal Colón, con cientos de notas sobre el oro, las especias y el Gran Kan.</p><p><b>Alfonso X el Sabio</b> murió en Sevilla el 4 de abril de 1284. En la guerra con su hijo Sancho, la ciudad fue una de las pocas que le siguieron fieles, y aquí fue enterrado, en la antigua mezquita aljama convertida en catedral, junto a su padre, Fernando III. Hoy sus restos están en la <b>Capilla Real</b> de la catedral gótica. Según una tradición documentada mucho después, el lema de la ciudad, NO8DO, «no me ha dejado», sería un agradecimiento del rey.</p>"
+    }
+   }
+  },
+  {
+   "id": "real-alcazar-de-sevilla",
+   "campos": {
+    "lat": 37.3832,
+    "lon": -5.9902,
+    "estilo": "Mudéjar, con restos almohades y añadidos renacentistas",
+    "texto": {
+     "general": "<p>El corazón del Real Alcázar es el <b>palacio de Pedro I</b>, la gran obra del arte mudéjar. Se empezó en 1356 y se terminó hacia 1366; la inscripción de su portada da la fecha de 1364. Trabajaron en él artesanos de Toledo, Granada y Sevilla, que llenaron los zócalos de letras árabes, como la que alaba al «sultán Don Pedro».</p><p>Se levantó sobre los <b>alcázares islámicos</b>. De época almohade, finales del siglo XII, quedan el Patio del Yeso y el Patio del Crucero, y la muralla se ha fechado por carbono 14 hacia 1090. En el palacio destacan el <b>Patio de las Doncellas</b>, de 21 por 15 metros, y el <b>Salón de Embajadores</b>, con una cúpula dorada que hizo Diego Ruiz en 1427.</p><p>Los Reyes Católicos instalaron aquí la Casa de Contratación en 1503, y Carlos V se casó en Sevilla en 1526 con Isabel de Portugal, ocasión para la que se hizo el Jardín de las Damas. Sigue siendo residencia de la familia real cuando visita Sevilla, el <b>palacio real en uso más antiguo de Europa</b>, y es Patrimonio Mundial desde 1987.</p><p class=\"dato\"><span>¿Sabías que…?</span>Las fechas varían según la fuente: antes se decía 1364-1366, pero las obras empezaron en 1356; 1364 es el año de la inscripción de la fachada.</p>"
+    },
+    "ver_alli": [
+     "La fachada del palacio de Pedro I, con su inscripción en letras góticas y árabes.",
+     "El Patio de las Doncellas y la cúpula dorada del Salón de Embajadores.",
+     "Los jardines: el Estanque de Mercurio, la Galería de Grutescos y el Pabellón de Carlos V.",
+     "Conviene reservar la entrada con antelación."
+    ],
+    "fuentes": [
+     "https://alcazarsevilla.org/prepara-la-visita/",
+     "https://es.wikipedia.org/wiki/Real_Alc%C3%A1zar_de_Sevilla",
+     "https://www.openstreetmap.org/?mlat=37.3832&mlon=-5.9902#map=18/37.3832/-5.9902",
+     "https://www.google.com/maps/place/?q=place_id:ChIJS6JBjBlsEg0Rh_7Brr92qbo"
+    ]
+   }
+  },
+  {
+   "id": "torre-del-oro",
+   "campos": {
+    "lat": 37.3824,
+    "lon": -5.9963,
+    "estilo": "Almohade",
+    "ver_alli": [
+     "Rodea la torre junto al río: fue la pieza que cerraba el paso del Guadalquivir.",
+     "Dentro está el museo naval, con maquetas, cartas y grabados.",
+     "Sube a la terraza para ver el río y Triana, la orilla a la que llegaba la cadena."
+    ],
+    "fuentes": [
+     "https://armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/cienciaorgano/prefLang-es/01cienciamuseo--09museosfiliales--05museotoro--01informacion-general",
+     "https://www.openstreetmap.org/?mlat=37.3824&mlon=-5.9963#map=18/37.3824/-5.9963",
+     "https://www.google.com/maps/place/?q=place_id:ChIJZdsRrxZsEg0R5U_Sd56ZBHU"
+    ]
+   }
+  },
+  {
+   "id": "murallas-de-la-macarena",
+   "campos": {
+    "lat": 37.402,
+    "lon": -5.9866,
+    "estilo": "Almorávide y almohade (tapial)",
+    "texto": {
+     "general": "<p>Entre la <b>Puerta de la Macarena</b>, frente a la basílica, y la <b>Puerta de Córdoba</b>, frente al convento de los Capuchinos, se conserva el tramo más largo y mejor conservado de la muralla islámica de Sevilla. Tiene <b>siete torreones cuadrados y uno octogonal</b>, entre ellos la Torre Blanca, y delante la barbacana, un muro más bajo que obligaba al enemigo a superar dos líneas.</p><p>Este sector corresponde a la ampliación de la ciudad en época <b>almorávide</b>, y los <b>almohades</b> la reforzaron en la segunda mitad del siglo XII y principios del XIII. Está hecha de <b>tapial</b>, tierra y cal apisonadas en encofrados, con un muro de 1,90 metros de grosor. En época almohade el recinto completo tenía unos siete kilómetros, con 166 torreones y trece puertas; hoy apenas quedan unos tramos y cuatro puertas.</p><p>La Puerta de Córdoba conserva su entrada en recodo, pensada para frenar a los atacantes, mientras que la de la Macarena se remodeló en 1795. El tramo fue declarado Monumento Nacional en 1908.</p>"
+    },
+    "ver_alli": [
+     "Pasea por el jardín junto a la muralla, desde el Arco de la Macarena hasta la Puerta de Córdoba.",
+     "Fíjate en las marcas horizontales del encofrado del tapial y en la barbacana, delante del muro principal.",
+     "Cuenta las torres: siete son cuadradas y una octogonal.",
+     "Junto a la muralla hay una placa en memoria de los fusilados en este lugar."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Murallas_de_Sevilla",
+     "https://www.openstreetmap.org/?mlat=37.4015&mlon=-5.986#map=18/37.4015/-5.986",
+     "https://www.google.com/maps/place/?q=place_id:ChIJZz7DOgBrEg0RA4sClonfb8c"
+    ]
+   }
+  },
+  {
+   "id": "ayuntamiento-de-sevilla",
+   "campos": {
+    "lat": 37.3887,
+    "lon": -5.9945,
+    "estilo": "Plateresco y neoclásico",
+    "anio": 1526,
+    "texto": {
+     "general": "<p>La Casa Consistorial de Sevilla es, según su ficha de Wikipedia, el primer edificio de <b>estilo plateresco</b> de España. Las obras empezaron a finales de <b>1526</b> bajo la dirección del maestro mayor <b>Diego de Riaño</b>; a su muerte, en 1534, siguió Juan Sánchez, y el conjunto se fue completando hasta 1573.</p><p>La fachada antigua, hacia la plaza de San Francisco, está cubierta de relieves: <b>Hércules y Julio César</b>, considerados fundadores de la ciudad, las columnas de Hércules con el lema <i>Plus Ultra</i>, personajes de la mitología, escudos y figuras fantásticas. El arquillo daba paso al desaparecido convento de San Francisco. Dentro, la sala capitular baja tiene una bóveda con 36 casetones de reyes y reinas de España.</p><p>La fachada hacia la <b>plaza Nueva</b> es del siglo XIX: es neoclásica, de Balbino Marrón, y se terminó en 1867, cuando la plaza ocupaba ya el solar del convento, derribado tras la desamortización.</p><p class=\"dato\"><span>¿Sabías que…?</span>A menudo se da 1527 como fecha de inicio: es cuando empezaron a llegar los cargamentos de piedra, pero las obras comenzaron en el último trimestre de 1526.</p>"
+    },
+    "ver_alli": [
+     "La fachada plateresca de la plaza de San Francisco: busca a Hércules y a Julio César junto al arquillo.",
+     "Compara con la fachada neoclásica de la plaza Nueva, al otro lado.",
+     "Si haces la visita guiada, mira la bóveda de casetones de la sala capitular baja."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Casa_Consistorial_de_Sevilla",
+     "https://www.openstreetmap.org/?mlat=37.3887&mlon=-5.9945#map=18/37.3887/-5.9945",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ40oAihBsEg0R0S3uDp5m10o"
+    ]
+   }
+  },
+  {
+   "id": "casa-de-pilatos",
+   "campos": {
+    "lat": 37.3901,
+    "lon": -5.9872,
+    "estilo": "Mudéjar, gótico y renacentista",
+    "texto": {
+     "general": "<p>Este palacio nació en <b>1483</b>, cuando Pedro Enríquez y su esposa <b>Catalina de Ribera</b> compraron unas casas en la collación de San Esteban; ella dirigió la mayor parte de las obras hasta su muerte en 1505. Su hijo <b>Fadrique Enríquez de Ribera</b>, primer marqués de Tarifa, lo convirtió en uno de los grandes palacios de Sevilla.</p><p>Fadrique peregrinó a Tierra Santa entre 1518 y 1520, y a la vuelta instauró un <b>vía crucis</b> desde su palacio hasta la Cruz del Campo. La tradición de que su primera estación correspondía a la casa de Pilatos en Jerusalén dio al edificio su nombre, documentado ya en el siglo XVIII. Por eso mezcla el <b>mudéjar</b> y el <b>gótico</b> con el <b>Renacimiento italiano</b>: la fuente del patio se labró en Génova en 1529.</p><p>Los <b>azulejos</b> del patio, de más de 150 diseños, los hicieron los alfareros trianeros Diego y Juan Pulido entre 1536 y 1539. Per Afán de Ribera, virrey de Nápoles, reunió una colección de <b>estatuas romanas</b>, como la Palas Atenea del patio. Hoy pertenece a la Casa de Medinaceli.</p>"
+    },
+    "ver_alli": [
+     "El patio principal: arcos mudéjares, fuente genovesa y estatuas romanas en las esquinas.",
+     "Mira de cerca los zócalos de azulejos de los Pulido, cada tramo con un dibujo distinto.",
+     "Los jardines, con más esculturas antiguas.",
+     "En la portada busca la inscripción que recuerda la entrada de Fadrique en Jerusalén en 1519."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Casa_de_Pilatos_(Sevilla)",
+     "https://www.openstreetmap.org/?mlat=37.3901&mlon=-5.9872#map=18/37.3901/-5.9872",
+     "https://www.google.com/maps/place/?q=place_id:ChIJNbFm6xxsEg0Rq59iZILsBgo"
+    ]
+   }
+  },
+  {
+   "id": "archivo-de-indias",
+   "campos": {
+    "lat": 37.3847,
+    "lon": -5.9931,
+    "estilo": "Renacentista herreriano",
+    "texto": {
+     "general": "<p>Nació como <b>Casa Lonja</b>. Los mercaderes de Sevilla cerraban sus tratos en las gradas de la catedral, y en 1572 el arzobispo se quejó a Felipe II. El rey encargó los planos a <b>Juan de Herrera</b>, el arquitecto de El Escorial, y las obras empezaron en 1584 (la Wikipedia en español da 1583) dirigidas por Juan de Minjares. No se terminaron hasta 1646.</p><p>En 1785, por deseo de <b>Carlos III</b> e impulso de su ministro José de Gálvez, se convirtió en el archivo que reúne los documentos de la administración española en <b>América y Filipinas</b>. El cronista Juan Bautista Muñoz se encargó de clasificarlos. Guarda unos <b>43.000 legajos</b>, unos ochenta millones de páginas y unos 8.000 mapas y dibujos, en más de nueve kilómetros de estanterías.</p><p>Es <b>Patrimonio Mundial</b> desde 1987, junto con la catedral y el Real Alcázar.</p><p class=\"dato\"><span>¿Sabías que…?</span>Herrera no lo «diseñó en 1584», como decía antes esta ficha: hizo los planos entre 1572 y 1583, y 1584 es el año en que empezaron las obras.</p>"
+    },
+    "ver_alli": [
+     "La fachada sobria, de dos pisos, típica del estilo de Herrera.",
+     "Dentro, la escalera monumental que comunica las dos plantas abovedadas.",
+     "Recorre las galerías en torno al patio, solado de mármol en el siglo XVIII."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Archivo_General_de_Indias",
+     "https://en.wikipedia.org/wiki/General_Archive_of_the_Indies",
+     "https://www.openstreetmap.org/?mlat=37.3847&mlon=-5.9931#map=18/37.3847/-5.9931",
+     "https://www.google.com/maps/place/?q=place_id:ChIJoTi1VRdsEg0R5jpl5ezvMEM"
+    ]
+   }
+  },
+  {
+   "id": "hospital-de-la-caridad",
+   "campos": {
+    "lat": 37.384,
+    "lon": -5.9953,
+    "estilo": "Barroco",
+    "texto": {
+     "general": "<p>La Hermandad de la Santa Caridad, nacida a mediados del siglo XV, recibió en 1662 a <b>Miguel de Mañara</b>, un noble que según la leyenda había llevado una vida de donjuán, y desde <b>1663</b>, como hermano mayor, la transformó: terminó la iglesia y levantó un hospital para pobres y enfermos abandonados.</p><p>La iglesia, proyectada en 1644 por Pedro Sánchez Falconete y rematada por Leonardo de Figueroa, se inauguró en 1674. Es un programa pensado como un sermón. A los pies están las <b>«Postrimerías»</b> de <b>Valdés Leal</b>, <i>In ictu oculi</i> y <i>Finis gloriae mundi</i> (1672), que recuerdan que la muerte llega para todos. En el retablo mayor, el <b>Entierro de Cristo</b> de Pedro Roldán.</p><p><b>Murillo</b> pintó seis lienzos sobre las obras de misericordia; cuatro se los llevó el mariscal Soult en 1810 y hoy están en Ottawa, Washington, Londres y San Petersburgo. Siguen aquí <i>San Juan de Dios con un enfermo</i> y <i>Santa Isabel de Hungría curando a los tiñosos</i>.</p><p class=\"dato\"><span>¿Sabías que…?</span>La ficha decía que Mañara lo convirtió en hospital «desde 1664»; según Wikipedia fue hermano mayor desde 1663.</p>"
+    },
+    "ver_alli": [
+     "Las dos «Postrimerías» de Valdés Leal, a los pies de la iglesia.",
+     "Los Murillo de los muros laterales y el Entierro de Cristo de Pedro Roldán en el retablo.",
+     "La fachada de la iglesia, con paneles de azulejos de San Jorge, Santiago y las virtudes."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Hospital_de_la_Caridad_(Sevilla)",
+     "https://www.openstreetmap.org/?mlat=37.384&mlon=-5.9953#map=18/37.384/-5.9953",
+     "https://www.google.com/maps/place/?q=place_id:ChIJRxK7ERdsEg0R_s1khDCpLIc"
+    ]
+   }
+  },
+  {
+   "id": "hospital-de-los-venerables",
+   "campos": {
+    "lat": 37.3852,
+    "lon": -5.9902,
+    "estilo": "Barroco",
+    "anio": 1676,
+    "texto": {
+     "general": "<p>En pleno barrio de Santa Cruz, el canónigo <b>Justino de Neve</b> impulsó desde 1673 una residencia para <b>sacerdotes ancianos y pobres</b>. Las obras empezaron el 13 de abril de <b>1676</b>, los sacerdotes se mudaron en 1679 y el edificio quedó terminado en 1699, cuando se inauguró la iglesia; en la última etapa dirigió las obras Leonardo de Figueroa.</p><p>La <b>iglesia</b> está pintada al fresco: <b>Juan de Valdés Leal</b>, con ayuda de su hijo, decoró el presbiterio, la cúpula y la sacristía en la década de 1680, y <b>Lucas Valdés</b> pintó el resto de la nave. El patio, cuadrado, tiene galerías sobre columnas de mármol y una fuente en el centro.</p><p>Desde 1991 es sede de la Fundación Focus, que alberga el <b>Centro Velázquez</b>, con obras de Velázquez, como la <i>Santa Rufina</i> comprada en 2007, y de otros maestros del Siglo de Oro, como el <i>San Pedro penitente</i> de Murillo.</p><p class=\"dato\"><span>¿Sabías que…?</span>La ficha daba 1675 como inicio; según Wikipedia las obras empezaron en abril de 1676.</p>"
+    },
+    "ver_alli": [
+     "La iglesia, con las pinturas murales de Valdés Leal y su hijo Lucas en la cúpula y las paredes.",
+     "El patio cuadrado, con su fuente central, y la escalera con cúpula.",
+     "En el Centro Velázquez, la Santa Rufina."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Hospital_de_los_Venerables",
+     "https://www.openstreetmap.org/?mlat=37.3852&mlon=-5.9902#map=18/37.3852/-5.9902",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ_cbfaBlsEg0RKQACH8BnKeo"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-san-telmo",
+   "campos": {
+    "lat": 37.3802,
+    "lon": -5.9935,
+    "estilo": "Barroco",
+    "texto": {
+     "general": "<p>Se empezó en <b>1682</b>, tras una real cédula de Carlos II, como sede de la <b>Universidad de Mareantes</b>, una escuela para formar a los pilotos y marinos de la Carrera de Indias. A partir de 1722 continuó las obras <b>Leonardo de Figueroa</b>, y a su muerte, en 1730, su hijo Matías terminó sus proyectos.</p><p>Su gran <b>portada barroca</b>, terminada en 1734, está llena de columnas y figuras: atlantes que sostienen el balcón y doce doncellas que representan las ciencias de la navegación, como la Náutica o la Astronomía. La universidad se suprimió en 1793.</p><p>En 1849 se instalaron aquí los <b>duques de Montpensier</b>, que hicieron del edificio un palacio; para la fachada norte, terminada en 1895, Antonio Susillo esculpió doce estatuas de <b>sevillanos ilustres</b>. Luego fue seminario, desde 1901, y desde 1992 es la sede de la <b>Presidencia de la Junta de Andalucía</b>.</p>"
+    },
+    "ver_alli": [
+     "La portada principal: busca los atlantes y las doncellas que representan las ciencias náuticas.",
+     "Rodea el edificio hasta la fachada norte para ver las doce estatuas de sevillanos ilustres.",
+     "Se puede entrar con visitas guiadas, que conviene reservar."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_de_San_Telmo",
+     "https://www.openstreetmap.org/?mlat=37.3802&mlon=-5.9935#map=18/37.3802/-5.9935",
+     "https://www.google.com/maps/place/?q=place_id:ChIJSw3LVD1sEg0RUuT5-RrzNuY"
+    ]
+   }
+  },
+  {
+   "id": "real-fabrica-de-tabacos",
+   "campos": {
+    "lat": 37.381,
+    "lon": -5.9904,
+    "estilo": "Clasicista de aire herreriano, con portada barroca",
+    "texto": {
+     "general": "<p>La <b>Real Fábrica de Tabacos</b> es uno de los mayores edificios industriales del siglo XVIII. Se empezó en <b>1728</b> y se terminó en 1770, aunque la producción comenzó en 1758; el ingeniero más importante de la obra fue Sebastián Van der Borcht. Ocupa un rectángulo de 185 por 147 metros: en España solo El Escorial es más grande. Richard Ford lo llamó el «Escorial tabaquero».</p><p>El tabaco era un monopolio del Estado, y la fábrica llegó a dar trabajo a unas 6.000 personas en el siglo XIX, sobre todo a las <b>cigarreras</b>, que liaban los cigarros a mano. Una de ellas es la <b>Carmen</b> de la novela de Prosper Mérimée (1845), que inspiró la ópera de Bizet.</p><p>Entre 1954 y 1956 se adaptó para la <b>Universidad de Sevilla</b>, y desde entonces alberga su rectorado.</p>"
+    },
+    "ver_alli": [
+     "La gran portada principal y el foso que rodea el edificio.",
+     "Se puede entrar libremente: recorre los patios y las grandes escaleras.",
+     "Busca la vieja máquina de liar cigarros que se conserva dentro."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Real_F%C3%A1brica_de_Tabacos_de_Sevilla",
+     "https://en.wikipedia.org/wiki/Royal_Tobacco_Factory",
+     "https://en.wikipedia.org/wiki/Carmen_(novella)",
+     "https://www.openstreetmap.org/?mlat=37.381&mlon=-5.9904#map=18/37.381/-5.9904",
+     "https://www.google.com/maps/place/?q=place_id:ChIJH7qRgRhsEg0R8V8j7TaEYFE"
+    ]
+   }
+  },
+  {
+   "id": "ecija-la-ciudad-de-las-torres",
+   "campos": {
+    "lat": 37.541,
+    "lon": -5.0792,
+    "estilo": "Barroco",
+    "texto": {
+     "general": "<p>Écija es conocida como la <b>«ciudad de las torres»</b> y también como la «ciudad del sol» o la «sartén de Andalucía», por el calor de sus veranos. Tiene <b>once torres</b> de iglesia de marcado acento barroco, de ladrillo visto y decoradas con piedra, estuco, pintura y <b>azulejos</b> de colores, y numerosas espadañas.</p><p>Muchas se levantaron o rehicieron en el siglo XVIII. En 1755 el <b>terremoto de Lisboa</b> dañó las torres de la ciudad, y los arquitectos reinterpretaron entonces el modelo de la Giralda: la de Santiago es de 1757-1766, la de Santa Cruz se terminó en 1783; otras, como la de Santa María (1725) o la de San Juan (1745), son anteriores al seísmo.</p><p>La nobleza local rivalizó con grandes palacios. El de <b>Peñaflor</b>, de hacia 1770, es el «palacio de los balcones largos», con un balcón corrido de más de 50 metros y la fachada pintada. El de <b>Benamejí</b>, del siglo XVIII, alberga el museo histórico. La ciudad es Conjunto Histórico desde 1966.</p><p class=\"dato\"><span>¿Sabías que…?</span>La ficha decía «quince espadañas»; no hemos encontrado una fuente que confirme esa cifra exacta.</p>"
+    },
+    "ver_alli": [
+     "La torre de San Juan, con sus azulejos azules, es de las más fotografiadas.",
+     "La fachada pintada y el largo balcón del palacio de Peñaflor.",
+     "La plaza de España, el «Salón», centro de la ciudad.",
+     "Sube a las torres del palacio de Benamejí para ver las torres de la ciudad desde arriba."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Torres_de_%C3%89cija",
+     "https://www.upo.es/patio-colorado/2022/07/01/ecija-y-sus-palacios-barrocos",
+     "https://es.wikipedia.org/wiki/%C3%89cija",
+     "https://www.openstreetmap.org/?mlat=37.541&mlon=-5.0792#map=18/37.541/-5.0792",
+     "https://www.google.com/maps/place/?q=place_id:ChIJRx9NOL3KEg0Rl7b9u_AhHhw"
+    ]
+   }
+  },
+  {
+   "id": "osuna-monumental",
+   "campos": {
+    "lat": 37.2375,
+    "lon": -5.1008,
+    "estilo": "Renacimiento y barroco",
+    "texto": {
+     "general": "<p>Osuna creció a la sombra de los <b>Téllez-Girón</b>, condes de Ureña y luego duques de Osuna, uno de los linajes más poderosos de España. En lo alto del pueblo, <b>Juan Téllez-Girón</b>, IV conde de Ureña, levantó la <b>Colegiata</b>, empezada hacia 1531 y terminada hacia 1539; en 1534 una bula del papa Paulo III la convirtió en colegiata. Es un ejemplo destacado de la arquitectura del Renacimiento.</p><p>Bajo el presbiterio, construido a partir de 1545, está el <b>panteón ducal</b> o Santo Sepulcro, una de las joyas del Renacimiento andaluz. La colegiata guarda <b>cinco cuadros de José de Ribera</b>: cuatro pintados en Nápoles entre 1617 y 1619 para el III duque, como el <i>Martirio de san Bartolomé</i>, y un <i>Calvario</i> de 1618.</p><p>Al lado está la antigua <b>Universidad</b>, que funcionó de 1548 a 1824, un edificio renacentista con torres en las esquinas cubiertas de cerámica azul y blanca. En la villa, calles como la de San Pedro tienen palacios barrocos con grandes portadas.</p>"
+    },
+    "ver_alli": [
+     "En la Colegiata, la sacristía de azulejos con los cuadros de Ribera y el panteón ducal bajo el altar.",
+     "La antigua Universidad, con sus torres de chapiteles de cerámica azul y blanca.",
+     "Baja por la calle San Pedro para ver las portadas de los palacios barrocos."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Colegiata_de_Osuna",
+     "https://en.wikipedia.org/wiki/University_of_Osuna",
+     "https://www.openstreetmap.org/?mlat=37.2375&mlon=-5.1008#map=18/37.2375/-5.1008",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ6T1DbwerEg0RZpu-79RBTD4"
+    ]
+   }
+  },
+  {
+   "id": "plaza-de-espana-de-sevilla",
+   "campos": {
+    "lat": 37.3771,
+    "lon": -5.9869,
+    "estilo": "Regionalismo (neorrenacentista y neomudéjar)",
+    "texto": {
+     "general": "<p>Es la construcción más grande de la <b>Exposición Iberoamericana de 1929</b>. La proyectó <b>Aníbal González</b>, que ganó el concurso en 1911 y se inspiró en el Renacimiento español, con artesonados neomudéjares y abundante cerámica. Las obras empezaron en 1914 y la exposición se inauguró aquí el 9 de mayo de 1929; González había dimitido en 1926 y otros arquitectos terminaron el conjunto.</p><p>El gran edificio en <b>semicírculo</b> abraza una plaza de unos 50.000 metros cuadrados, con una <b>ría</b> de 500 metros cruzada por cuatro puentes dedicados a los antiguos reinos de Aragón, Castilla, León y Navarra. Las dos torres miden 70 metros.</p><p>A lo largo de la fachada hay <b>48 bancos de azulejos</b> dedicados a las provincias españolas. La plaza ha salido en películas como <i>Lawrence de Arabia</i> (1962) y <i>Star Wars: Episodio II</i> (2002).</p>"
+    },
+    "ver_alli": [
+     "Recorre los bancos de azulejos de las provincias y busca el de la tuya.",
+     "Cruza alguno de los cuatro puentes sobre la ría.",
+     "Mira los medallones con personajes históricos sobre los arcos.",
+     "El Parque de María Luisa está al lado."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Plaza_de_Espa%C3%B1a_(Sevilla)",
+     "https://www.openstreetmap.org/?mlat=37.377&mlon=-5.9869#map=18/37.377/-5.9869",
+     "https://www.google.com/maps/place/?q=place_id:ChIJD7G2bqduEg0ROdrTdOj1Jok"
+    ]
+   }
+  },
+  {
+   "id": "isla-de-la-cartuja-y-la-expo-92",
+   "campos": {
+    "lat": 37.3942,
+    "lon": -6.0079,
+    "estilo": "Gótico-mudéjar (monasterio) y arquitectura contemporánea",
+    "texto": {
+     "general": "<p>La isla de la Cartuja, entre dos brazos del Guadalquivir, debe su nombre al <b>monasterio cartujo de Santa María de las Cuevas</b>, del siglo XV. En él estuvieron enterrados un tiempo los restos de <b>Cristóbal Colón</b>, antes de que en 1542 se trasladaran a Santo Domingo.</p><p>En 1839 el inglés <b>Charles Pickman</b> compró el monasterio y en 1841 abrió en él una fábrica de loza, que funcionó hasta 1984: de entonces quedan los <b>hornos en forma de botella</b> y la alta chimenea. Restaurado para la Expo, desde 1997 es la sede del Centro Andaluz de Arte Contemporáneo.</p><p>Del 20 de abril al 12 de octubre de 1992 la isla acogió la <b>Exposición Universal</b>, dedicada a «La era de los descubrimientos» en el quinto centenario del viaje de Colón. Participaron más de cien países y hubo casi 42 millones de visitas en un recinto de 215 hectáreas. Para ella se construyeron cinco puentes, como el del Alamillo o el de la Barqueta, y llegó el primer AVE, Madrid-Sevilla. Muchos pabellones forman hoy el Parque Científico y Tecnológico Cartuja, y parte del recinto es el parque temático Isla Mágica.</p>"
+    },
+    "ver_alli": [
+     "En el monasterio, mira los hornos de botella de la antigua fábrica de loza junto al claustro.",
+     "Pasea por las avenidas de la Expo: aún quedan pabellones como el de la Navegación o el de Marruecos.",
+     "Desde el norte de la isla se ve el puente del Alamillo, construido para la Expo."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Monastery_of_Santa_Maria_de_las_Cuevas",
+     "https://en.wikipedia.org/wiki/Seville_Expo_%2792",
+     "https://www.openstreetmap.org/?mlat=37.3984&mlon=-6.0076#map=18/37.3984/-6.0076",
+     "https://www.google.com/maps/place/?q=place_id:ChIJB7wizXVsEg0RqA7hZl5BaOU"
+    ]
+   }
+  }
+ ]
+}
