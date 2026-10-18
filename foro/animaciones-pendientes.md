@@ -387,5 +387,7 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 
 ## Hechos con Gemini
 
+- [x] des-ishtar (Gemini Flash, 18-oct) · La puerta de Ishtar
+
 - [x] ant1-8 (al final con Veo; el de Gemini también salió bien) · Sargón de Acad, el primer imperio
 - [x] des-caral · Caral: una ciudad sin guerra (recortado a 5 s en ida y vuelta: Gemini arrastró el zigurat del vídeo anterior)
