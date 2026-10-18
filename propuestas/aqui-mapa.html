@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<title>HistoKHB · Aquí con mapa (propuesta)</title>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>
+:root{--bg:#fbf6ec;--card:#fff;--ink:#2e2a40;--muted:#7d7790;--line:#ece4d6;--accent:#e08a3c;--mon:#c0533a;--yac:#b8862b;--mus:#3b6ea8}
+*{box-sizing:border-box}html,body{margin:0;background:var(--bg);color:var(--ink);font-family:Nunito,system-ui,sans-serif}
+header{position:sticky;top:0;z-index:1000;background:var(--bg);padding:10px 14px 8px;border-bottom:1px solid var(--line)}
+h1{font-family:Fredoka;font-size:20px;margin:0 0 8px}
+.row{display:flex;gap:8px}
+input{flex:1;min-width:0;border:1.5px solid var(--line);border-radius:12px;padding:10px 12px;font:inherit;font-size:16px;background:#fff}
+button{font-family:Fredoka;font-weight:600;border:0;border-radius:12px;padding:10px 12px;background:var(--accent);color:#fff;font-size:15px;cursor:pointer}
+button.s{background:#fff;color:var(--ink);border:1.5px solid var(--line)}
+.demos{display:flex;gap:6px;margin-top:8px;overflow-x:auto}.demos button{flex:0 0 auto;padding:6px 10px;font-size:13px}
+#msg{font-size:13px;color:var(--muted);margin-top:6px;min-height:1em}
+#map{height:56vh;min-height:300px;width:100%;border-bottom:1px solid var(--line)}
+.chips{display:flex;gap:6px;padding:8px 14px;flex-wrap:wrap}
+.chip{display:flex;align-items:center;gap:6px;border:1.5px solid var(--line);background:#fff;border-radius:999px;padding:5px 10px;font-family:Fredoka;font-weight:600;font-size:14px;cursor:pointer;color:var(--ink)}
+.chip.off{opacity:.4}
+.dot{width:22px;height:22px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:12px;color:#fff;border:2px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.35)}
+.mk{width:30px;height:30px;font-size:15px}
+.mon{background:var(--mon)}.yac{background:var(--yac)}.mus{background:var(--mus)}
+.leaflet-popup-content{font-family:Nunito;font-size:14px;margin:12px 14px;max-width:260px}
+.pp h3{font-family:Fredoka;margin:0 0 4px;font-size:16px}.pp .k{color:var(--muted);font-size:12.5px;margin-bottom:6px}
+.pp a{display:block;margin-top:6px;color:var(--accent);font-weight:700;text-decoration:none}
+.ring{font-family:Fredoka;font-weight:600;font-size:11px;color:#7a5a2a;background:rgba(255,255,255,.85);padding:1px 6px;border-radius:8px;white-space:nowrap}
+main{max-width:720px;margin:0 auto;padding:6px 14px 40px}
+.sec{font-family:Fredoka;font-weight:700;font-size:18px;margin:16px 0 4px}
+.sub{font-size:13px;color:var(--muted);margin:0 0 8px}
+.era{font-family:Fredoka;font-weight:600;color:var(--muted);font-size:14px;margin:14px 0 4px;border-bottom:1px solid var(--line);padding-bottom:3px}
+.tl{display:flex;gap:10px;align-items:flex-start;padding:7px 0;border-bottom:1px dashed var(--line);text-decoration:none;color:inherit}
+.tl .y{flex:0 0 86px;font-family:Fredoka;font-weight:600;font-size:13px;color:var(--accent);text-align:right;padding-top:1px}
+.tl .t{flex:1;font-size:15px;line-height:1.35}.tl .t small{display:block;color:var(--muted);font-size:12px}
+.near{display:flex;gap:8px;align-items:center;padding:8px 0;border-bottom:1px solid var(--line);cursor:pointer}
+.near .n{flex:1}.near b{font-family:Fredoka;font-weight:600}.near small{display:block;color:var(--muted)}
+.note{background:#fff3d6;border-radius:12px;padding:10px 12px;font-size:13.5px;margin:10px 0}
+</style></head><body>
+<header>
+ <h1>📍 Aquí <small style="font-family:Nunito;font-weight:600;font-size:12px;color:var(--muted)">· propuesta con mapa</small></h1>
+ <form class="row" id="f"><input id="q" placeholder="Pueblo, ciudad o provincia…" autocomplete="off"><button>Buscar</button><button type="button" class="s" id="geo" title="Localizarme">🎯</button></form>
+ <div class="demos"><button type="button" class="s" data-p="42.338,-4.603" data-n="Carrión de los Condes">Carrión</button><button type="button" class="s" data-p="40.416,-3.703" data-n="Madrid">Madrid</button><button type="button" class="s" data-p="41.39,2.17" data-n="Barcelona">Barcelona</button><button type="button" class="s" data-p="37.39,-5.99" data-n="Sevilla">Sevilla</button><button type="button" class="s" data-p="43.36,-8.41" data-n="A Coruña">A Coruña</button></div>
+ <div id="msg"></div>
+</header>
+<div id="map"></div>
+<div class="chips">
+ <span class="chip" data-t="mon"><span class="dot mon">🏰</span>Monumentos <span id="c-mon"></span></span>
+ <span class="chip" data-t="yac"><span class="dot yac">⛏️</span>Yacimientos <span id="c-yac"></span></span>
+ <span class="chip" data-t="mus"><span class="dot mus">🏛️</span>Museos <span id="c-mus"></span></span>
+</div>
+<main>
+ <div class="note">Prueba: los iconos se clasifican por el nombre del lugar (museo, iglesia, castillo…). En la app real cada lugar llevará su tipo fijo.</div>
+ <div id="hist"></div>
+ <div id="cerca"></div>
+</main>
+<script>
+const $=s=>document.querySelector(s), esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const fy=y=>y<0?(-y).toLocaleString('es-ES')+' a.C.':String(y);
+const km=(a,b)=>{const R=6371,t=x=>x*Math.PI/180;const d1=t(b[0]-a[0]),d2=t(b[1]-a[1]);const h=Math.sin(d1/2)**2+Math.cos(t(a[0]))*Math.cos(t(b[0]))*Math.sin(d2/2)**2;return 2*R*Math.asin(Math.sqrt(h));};
+const strip=h=>{const d=document.createElement('div');d.innerHTML=h||'';return d.textContent;};
+const APP='../index.html';
+const ICON={mon:'🏰',yac:'⛏️',mus:'🏛️'}, NOMT={mon:'Monumento',yac:'Yacimiento',mus:'Museo'};
+const RE_MON=/iglesia|catedral|castillo|monasterio|palacio|puente|acueducto|muralla|ermita|torre|colegiata|bas[ií]lica|alc[aá]zar|mezquita|sinagoga|convento|teatro|anfiteatro|arco|capilla|abad[ií]a|fortaleza|alcazaba|santuario|claustro|catedral/i;
+const EP_YAC=/paleol|neol|bronce|hierro|cobre|íberos|iberos|romano|griegos|cenozoico|mesozoico|paleozoico|arte levantino|prehisp|megal|celt|talay|tartes|fenici|egipto|mesopotamia|persia|nubia|canarias prehisp/i;
+const RE_YAC=/yacimiento|cueva|abrigo|dolmen|d[oó]lmenes|menhir|castro|necr[oó]polis|villa romana|ciudad romana|oppidum|poblado|huellas|icnitas|cantera|túmulo|tumulo|cromlech|naveta|talayot|taula|ruinas/i;
+const tipo=l=>/museo|centro de interpret|aula arqueol|exposici/i.test(l.nombre)?'mus':RE_YAC.test(l.nombre)?'yac':(RE_MON.test(l.nombre)||/^(san|santa|santo|santiago|nuestra se)/i.test(l.nombre))?'mon':(l.epoca&&!EP_YAC.test(l.epoca))?'mon':'yac';
+let LUG=[],ETQ={},IDX=null,SINC=null,PT=null,ON={mon:1,yac:1,mus:1};
+const M=window.L.map('map',{zoomControl:true}).setView([40.2,-3.7],6);
+window.L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18,attribution:'© OpenStreetMap'}).addTo(M);
+const layer=window.L.layerGroup().addTo(M), rings=window.L.layerGroup().addTo(M);
+function popup(l){const d=PT?km(PT,[l.lat,l.lon]):null;
+ const f=(l.eventos||[]).filter(e=>e.startsWith('f:')).map(e=>e.slice(2)).filter(k=>IDX.fichas[k]).slice(0,3);
+ const tx=strip(l.texto&&(l.texto.general||Object.values(l.texto)[0])).slice(0,190);
+ return `<div class="pp"><h3>${ICON[l.t]} ${esc(l.nombre)}</h3><div class="k">${NOMT[l.t]}${l.epoca?' · '+esc(l.epoca):''} · ${esc(l.provincia||'')}${d!=null?' · '+(d<1?'aquí':Math.round(d)+' km'):''}</div>${esc(tx)}…
+ <a href="${APP}#/l/${l.id}">Ver el lugar completo ›</a>${f.map(k=>`<a href="${APP}#/f/${k}">📖 ${esc(IDX.fichas[k].t)}</a>`).join('')}</div>`;}
+function draw(){layer.clearLayers(); const b=M.getBounds().pad(.2), z=M.getZoom(); let n=0; const cnt={mon:0,yac:0,mus:0};
+ LUG.forEach(l=>{if(!b.contains([l.lat,l.lon]))return; cnt[l.t]++; if(!ON[l.t])return;
+  const big=z>=10; const ic=window.L.divIcon({className:'',html:`<span class="dot ${l.t} ${big?'mk':''}">${big?ICON[l.t]:''}</span>`,iconSize:big?[30,30]:[14,14],iconAnchor:big?[15,15]:[7,7]});
+  if(!big){ic.options.html=`<span class="dot ${l.t}" style="width:14px;height:14px;border-width:1.5px"></span>`;}
+  window.L.marker([l.lat,l.lon],{icon:ic}).bindPopup(()=>popup(l)).addTo(layer); n++;});
+ for(const t in cnt)$('#c-'+t).textContent=cnt[t]?'· '+cnt[t]:'';}
+M.on('moveend zoomend',draw);
+document.querySelectorAll('.chip').forEach(c=>c.onclick=()=>{ON[c.dataset.t]=!ON[c.dataset.t];c.classList.toggle('off',!ON[c.dataset.t]);draw();});
+function at(pt,label){PT=pt; $('#msg').textContent='📍 '+label; rings.clearLayers();
+ window.L.circleMarker(pt,{radius:7,color:'#fff',weight:3,fillColor:'#e0463c',fillOpacity:1}).addTo(rings);
+ [[5,'5 km'],[25,'25 km'],[50,'50 km']].forEach(([r,t])=>{window.L.circle(pt,{radius:r*1000,color:'#b07a2a',weight:1.5,dashArray:'5 6',fill:false}).addTo(rings);
+  window.L.marker([pt[0]+r/111,pt[1]],{icon:window.L.divIcon({className:'',html:`<span class="ring">${t}</span>`,iconSize:[44,16],iconAnchor:[22,8]}),interactive:false}).addTo(rings);});
+ M.setView(pt,10); history(pt,label); cerca(pt);}
+function history(pt,label){
+ const P=Object.entries(ETQ).map(([n,v])=>({n,d:km(pt,[v[0],v[1]]),f:v[4]||[],m:new Set(v[5]||[])})).filter(p=>p.d<=30).sort((a,b)=>a.d-b.d);
+ const seen=new Set(), rows=[];
+ P.forEach(p=>p.f.forEach(id=>{if(seen.has(id)||p.m.has(id))return; seen.add(id);
+  if(id.startsWith('f:')){const k=id.slice(2),f=IDX.fichas[k]; if(f)rows.push({y:f.y??-1e9,t:f.t,sub:f.d,href:`${APP}#/f/${k}`,pl:p.n,ic:f.ic?'📖':''});}
+  else{const key=id.slice(2),r=key.slice(0,key.lastIndexOf('|')),y=+key.split('|').pop(),e=(SINC.ev[r]||[]).find(e=>e[0]===y); if(e)rows.push({y,t:e[1],sub:r,href:`${APP}#/s/${encodeURIComponent(key)}`,pl:p.n});}}));
+ rows.sort((a,b)=>a.y-b.y);
+ const era=y=>y<-3500?'Prehistoria':y<476?'Edad Antigua':y<1492?'Edad Media':y<1789?'Edad Moderna':'Edad Contemporánea';
+ let h=`<div class="sec">📜 La historia de ${esc(label)}</div><p class="sub">Lo que pasó en un radio de 30 km, ordenado en el tiempo. Toca una línea para abrir su ficha.</p>`, cur='';
+ if(!rows.length)h+='<p class="sub">Todavía no hay historia etiquetada cerca de aquí.</p>';
+ rows.forEach(r=>{const e=r.y<=-1e8?'Prehistoria':era(r.y); if(e!==cur){cur=e;h+=`<div class="era">${e}</div>`;}
+  h+=`<a class="tl" href="${r.href}"><span class="y">${r.y<=-1e8?'':fy(r.y)}</span><span class="t">${esc(r.t)}<small>${esc(r.sub)} · 📍 ${esc(r.pl)}</small></span></a>`;});
+ $('#hist').innerHTML=h;}
+function cerca(pt){const N=LUG.map(l=>[l,km(pt,[l.lat,l.lon])]).filter(x=>x[1]<=50).sort((a,b)=>a[1]-b[1]).slice(0,25);
+ $('#cerca').innerHTML=`<div class="sec">🧭 Para visitar cerca · ${N.length}</div><p class="sub">Los 25 más cercanos (máx. 50 km). Toca uno para verlo en el mapa.</p>`+
+  N.map(([l,d])=>`<div class="near" data-id="${l.id}"><span class="dot ${l.t} mk">${ICON[l.t]}</span><span class="n"><b>${esc(l.nombre)}</b><small>${NOMT[l.t]}${l.epoca?' · '+esc(l.epoca):''} · ${d<1?'aquí':Math.round(d)+' km'}</small></span></div>`).join('');
+ document.querySelectorAll('.near').forEach(el=>el.onclick=()=>{const l=LUG.find(x=>x.id===el.dataset.id); M.setView([l.lat,l.lon],14); window.scrollTo({top:0,behavior:'smooth'}); setTimeout(()=>window.L.popup().setLatLng([l.lat,l.lon]).setContent(popup(l)).openOn(M),400);});}
+$('#f').onsubmit=async e=>{e.preventDefault(); const q=$('#q').value.trim(); if(!q)return; $('#msg').textContent='Buscando «'+q+'»…';
+ try{const r=await fetch('https://nominatim.openstreetmap.org/search?format=json&limit=1&accept-language=es&q='+encodeURIComponent(q)); const j=await r.json();
+  if(j&&j[0]){at([+j[0].lat,+j[0].lon],j[0].display_name.split(',').slice(0,2).join(','));return;}}catch(e){}
+ $('#msg').textContent='No encuentro «'+q+'».';};
+$('#geo').onclick=()=>{$('#msg').textContent='Buscando tu posición…'; navigator.geolocation?navigator.geolocation.getCurrentPosition(p=>at([p.coords.latitude,p.coords.longitude],'tu posición'),()=>$('#msg').textContent='No he podido localizarte.'):0;};
+document.querySelectorAll('.demos button').forEach(b=>b.onclick=()=>at(b.dataset.p.split(',').map(Number),b.dataset.n));
+Promise.all(['lugares','etiquetas','indice','sinc-eventos'].map(f=>fetch('../datos/'+f+'.json').then(r=>r.json()))).then(([lu,et,ix,si])=>{
+ LUG=lu.lugares.filter(l=>l.lat!=null).map(l=>(l.t=tipo(l),l)); ETQ=et; IDX=ix; SINC=si; draw();
+ const p=new URLSearchParams(location.search).get('p'); if(p){const [a,b]=p.split(',').map(Number);at([a,b],'el sitio indicado');} else at([42.338,-4.603],'Carrión de los Condes');});
+</script>
+</body></html>
