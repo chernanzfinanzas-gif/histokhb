@@ -2790,7 +2790,7 @@
   },
   "mod2-14": {
    "viva": "img/vivas/mod2-14.mp4",
-   "viva_tipo": "veo"
+   "viva_tipo": "camara"
   },
   "des-galeon-manila": {
    "viva": "img/vivas/des-galeon-manila.mp4",
@@ -2798,7 +2798,103 @@
   },
   "des-isfahan": {
    "viva": "img/vivas/des-isfahan.mp4",
-   "viva_tipo": "veo"
+   "viva_tipo": "camara"
+  },
+  "des-escorial": {
+   "viva": "img/vivas/des-escorial.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-globe": {
+   "viva": "img/vivas/des-globe.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-taj-mahal": {
+   "viva": "img/vivas/des-taj-mahal.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod2-0": {
+   "viva": "img/vivas/mod2-0.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod2-1": {
+   "viva": "img/vivas/mod2-1.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod2-10": {
+   "viva": "img/vivas/mod2-10.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod2-11": {
+   "viva": "img/vivas/mod2-11.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod2-12": {
+   "viva": "img/vivas/mod2-12.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod2-13": {
+   "viva": "img/vivas/mod2-13.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod2-15": {
+   "viva": "img/vivas/mod2-15.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod2-16": {
+   "viva": "img/vivas/mod2-16.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod2-17": {
+   "viva": "img/vivas/mod2-17.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod2-18": {
+   "viva": "img/vivas/mod2-18.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod2-19": {
+   "viva": "img/vivas/mod2-19.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod2-2": {
+   "viva": "img/vivas/mod2-2.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod2-20": {
+   "viva": "img/vivas/mod2-20.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod2-21": {
+   "viva": "img/vivas/mod2-21.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod2-3": {
+   "viva": "img/vivas/mod2-3.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod2-4": {
+   "viva": "img/vivas/mod2-4.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod2-5": {
+   "viva": "img/vivas/mod2-5.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod2-6": {
+   "viva": "img/vivas/mod2-6.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod2-7": {
+   "viva": "img/vivas/mod2-7.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod2-8": {
+   "viva": "img/vivas/mod2-8.mp4",
+   "viva_tipo": "camara"
+  },
+  "mod2-9": {
+   "viva": "img/vivas/mod2-9.mp4",
+   "viva_tipo": "camara"
   }
  }
 }
