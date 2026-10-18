@@ -1,0 +1,14 @@
+{
+ "zona": "montaje-5",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "torre-eiffel",
+   "campos": {
+    "texto": {
+     "general": "<p>La torre de hierro de 300 metros (hoy 330 con sus antenas) construida por Gustave Eiffel para la Exposición Universal de 1889, en el centenario de la Revolución. Iba a desmontarse en 20 años, pero se salvó por su utilidad para la radio. Fue el edificio más alto del mundo hasta 1930.</p>"
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,739 @@
+{
+ "zona": "Jaén",
+ "nuevos": [
+  {
+   "id": "catedral-de-baeza",
+   "nombre": "Catedral de Baeza",
+   "provincia": "Jaén",
+   "comarca": "Baeza",
+   "lat": 37.99,
+   "lon": -3.4689,
+   "tipo": "iglesia",
+   "estilo": "Mudéjar, gótico y renacentista",
+   "epoca": "Renacimiento",
+   "anio": 1593,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Se alza, según la tradición, sobre la <b>mezquita mayor</b>: Fernando III la consagró a la Virgen tras conquistar Baeza en 1227, y fue sede del obispado hasta 1249. Una catedral plateresca empezada en 1529 se hundió en 1567; el nuevo templo lleva el sello de <b>Andrés de Vandelvira</b> y se terminó en 1593.</p><p>Es un libro de estilos: la <b>Puerta de la Luna</b> mudéjar del siglo XIII con arco de herradura y rosetón gótico, las bóvedas góticas de la cabecera, el cuerpo renacentista y la portada principal que trazó el jesuita Villalpando en 1587. La base de la torre fue alminar de la mezquita.</p><p>Su tesoro es la <b>custodia procesional</b> barroca de Gaspar Núñez de Castro (1700-1714), de plata, 2,20 m de altura y 72 columnas.</p>"
+   },
+   "ver_alli": [
+    "La Puerta de la Luna, en la fachada oeste.",
+    "La custodia de plata de 1714.",
+    "El claustro con capillas mudéjares."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_de_Baeza",
+    "https://www.openstreetmap.org/?mlat=37.99&mlon=-3.4689#map=18/37.99/-3.4689"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-de-jabalquinto",
+   "nombre": "Palacio de Jabalquinto",
+   "provincia": "Jaén",
+   "comarca": "Baeza",
+   "lat": 37.9913,
+   "lon": -3.4688,
+   "tipo": "monumento",
+   "estilo": "Gótico isabelino con patio renacentista",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Lo mandó construir en la segunda mitad del siglo XV <b>Juan Alfonso de Benavides</b>, señor de Jabalquinto. Su fachada es una de las mejores del <b>gótico isabelino</b>: puntas de diamante, clavos de piña, pináculos, escudos y una puerta en arco conopial. Se ha atribuido a Juan Guas, y también a Enrique Egas.</p><p>Dentro cambia de época: un <b>patio renacentista</b> de doble arcada con columnas de mármol, con las fechas 1599 y 1600 en dos claves, y una monumental <b>escalera barroca</b> que se abre como un arco de triunfo.</p><p>Hoy es sede Antonio Machado de la Universidad Internacional de Andalucía.</p><p class=\"dato\"><span>¿Sabías que…?</span>Por dos troncos de la portada trepan catorce figurillas humanas.</p>"
+   },
+   "ver_alli": [
+    "La fachada de puntas de diamante.",
+    "Las figurillas que trepan por la portada.",
+    "El patio renacentista y la escalera barroca."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Palacio_de_Jabalquinto",
+    "https://www.openstreetmap.org/?mlat=37.9913&mlon=-3.4688#map=18/37.9913/-3.4688"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-la-yedra",
+   "nombre": "Castillo de la Yedra",
+   "provincia": "Jaén",
+   "comarca": "Cazorla",
+   "lat": 37.9076,
+   "lon": -3.0012,
+   "tipo": "castillo",
+   "estilo": "Andalusí y gótico",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Domina Cazorla desde lo alto. Su primera fase es <b>andalusí</b>, probablemente de los siglos XI-XII; los cristianos lo reforzaron en la segunda mitad del XII y el arzobispo <b>Pedro Tenorio</b> (1357-1399) lo transformó, con el alcazarejo en la parte alta.</p><p>La pieza principal es la <b>torre del homenaje</b>: 30,5 m de altura, unos 13 m de lado y muros de 4 m de grosor en la base, con un aljibe abajo y tres salas superpuestas. En la puerta del recinto figura la fecha 1606, de unas reparaciones.</p><p>Desde 1973 alberga el <b>Museo de Artes y Costumbres del Alto Guadalquivir</b>.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje y sus vistas desde arriba.",
+    "El escudo y la fecha de 1606 en la puerta.",
+    "El museo de artes y costumbres."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_la_Yedra",
+    "https://www.openstreetmap.org/?mlat=37.9076&mlon=-3.0012#map=18/37.9076/-3.0012"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-segura-de-la-sierra",
+   "nombre": "Castillo de Segura de la Sierra",
+   "provincia": "Jaén",
+   "comarca": "Segura de la Sierra",
+   "lat": 38.2992,
+   "lon": -2.6496,
+   "tipo": "castillo",
+   "estilo": "Andalusí y cristiano",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>En lo más alto del pueblo, este castillo se levantó sobre una fortaleza anterior; su torre de entrada en codo está documentada en el siglo XI. Tras la conquista, la <b>Orden de Santiago</b> hizo de él el centro de su encomienda, y a finales del siglo XV llegó a ser residencia del Gran Maestre.</p><p>La <b>torre del homenaje</b> mide 18,4 m y tiene tres plantas y terraza. Conserva una <b>capilla mudéjar</b> del siglo XIII, de nave única y ábside semicircular, unos baños de vapor islámicos y los aljibes que permitían aguantar los asedios.</p><p>Una restauración en los años sesenta lo abrió al público.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje.",
+    "La capilla mudéjar del siglo XIII.",
+    "Los baños y aljibes del interior."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Segura_de_la_Sierra",
+    "https://www.openstreetmap.org/?mlat=38.2992&mlon=-2.6496#map=18/38.2992/-2.6496"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-alcaudete",
+   "nombre": "Castillo de Alcaudete",
+   "provincia": "Jaén",
+   "comarca": "Alcaudete",
+   "lat": 37.5905,
+   "lon": -4.0885,
+   "tipo": "castillo",
+   "estilo": "Andalusí y calatravo",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1240,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Sobre un cerro de 713 m, este castillo lo construyeron los árabes sobre restos de una fortificación romana. Los cristianos lo tomaron por primera vez en 1085 y definitivamente en <b>1240</b>; Fernando III lo cedió a la <b>Orden de Calatrava</b>, y quedó en la frontera con el reino nazarí.</p><p>Tiene tres recintos y seis torres. La <b>torre del homenaje</b>, aislada en el punto más alto como último reducto, mide 20 m de altura con muros de unos 3 m. En la sala capitular, un techo de madera recogía el agua de lluvia y la llevaba al aljibe mayor.</p><p>Está restaurado y dentro tiene un centro de interpretación sobre la vida de los caballeros de Calatrava y la guerra de frontera.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje en lo alto del cerro.",
+    "El centro de interpretación de la Orden de Calatrava.",
+    "Las réplicas de máquinas de asedio."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Alcaudete",
+    "https://www.openstreetmap.org/?mlat=37.5905&mlon=-4.0885#map=18/37.5905/-4.0885"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "sabiote",
+   "nombre": "Sabiote",
+   "provincia": "Jaén",
+   "comarca": "Sabiote",
+   "lat": 38.07,
+   "lon": -3.304,
+   "tipo": "poblacion",
+   "estilo": "Renacimiento",
+   "epoca": "Renacimiento",
+   "anio": 1538,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Sabiote forma con Baeza y Úbeda el «triángulo renacentista». En 1257 Alfonso X la entregó a la Orden de Calatrava, y en 1537 la compró <b>Francisco de los Cobos</b>, secretario de Carlos V, que transformó entre 1538 y 1549 el castillo en <b>palacio-fortaleza renacentista</b>, con <b>Andrés de Vandelvira</b>.</p><p>El castillo, con torres pentagonales y baluartes, se considera el ejemplo más antiguo conservado de castillo abaluartado del Renacimiento. La iglesia de <b>San Pedro Apóstol</b>, comenzada hacia 1500, y una larga lista de casonas completan el casco, declarado conjunto histórico-artístico en 1972.</p><p>De las seis puertas de su muralla se conservan el Arco Nuevo y las puertas de Granada y de los Santos.</p>"
+   },
+   "ver_alli": [
+    "El castillo-palacio de Francisco de los Cobos.",
+    "La iglesia de San Pedro Apóstol.",
+    "Las puertas de la muralla y las casonas renacentistas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Sabiote",
+    "https://www.openstreetmap.org/?mlat=38.07&mlon=-3.304#map=18/38.07/-3.304"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iznatoraf",
+   "nombre": "Iznatoraf",
+   "provincia": "Jaén",
+   "comarca": "Iznatoraf",
+   "lat": 38.1577,
+   "lon": -3.0322,
+   "tipo": "poblacion",
+   "estilo": "Casco medieval",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Su nombre árabe, <b>hisn at-turab</b>, significa «fortaleza de la tierra». El pueblo se encarama a un cerro que la muralla del siglo XI reforzaba, y desde sus miradores se ve un mar de olivos.</p><p>Fernando III no la tomó por las armas, sino por pacto con sus vecinos; en 1252 Alfonso X la cedió al arzobispado de Toledo. La iglesia de la <b>Asunción</b>, quizá sobre la antigua mezquita mayor, se construyó entre 1583 y 1591 bajo la dirección de Alonso Barba, discípulo de Vandelvira.</p><p>El casco antiguo es <b>conjunto histórico</b> desde 2012.</p>"
+   },
+   "ver_alli": [
+    "La iglesia de la Asunción en la plaza de San Fernando.",
+    "Los restos de la muralla y las calles empinadas.",
+    "Los miradores sobre los olivares."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iznatoraf",
+    "https://www.openstreetmap.org/?mlat=38.1577&mlon=-3.0322#map=18/38.1577/-3.0322"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "oppidum-de-giribaile",
+   "nombre": "Oppidum de Giribaile",
+   "provincia": "Jaén",
+   "comarca": "Vilches",
+   "lat": 38.1176,
+   "lon": -3.487,
+   "tipo": "yacimiento",
+   "estilo": "Ibérico",
+   "epoca": "Íberos",
+   "anio": -400,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Sobre una meseta entre embalses, Giribaile fue una gran ciudad fortificada <b>ibérica</b> de 14,5 hectáreas, parte del territorio de <b>Cástulo</b> en el siglo IV a.C. Su final llegó con un incendio violento, quizá en una campaña de castigo durante la Segunda Guerra Púnica.</p><p>Siglos después, entre los VI y VII d.C., sus habitantes ampliaron las cuevas naturales del farallón oriental para vivir en ellas. En época andalusí se levantó un castillo, reforzado por los almohades; los castellanos lo conquistaron en 1227 y perdió su papel militar.</p><p>Aún se ven restos de la gran muralla ibérica, las cuevas excavadas y dos torres de tapial del castillo. La visita se concierta con el centro de interpretación de Vilches.</p>"
+   },
+   "ver_alli": [
+    "Los restos de la muralla ibérica en la meseta.",
+    "Las cuevas excavadas en la roca.",
+    "Las torres de tapial del castillo medieval."
+   ],
+   "fuentes": [
+    "https://www.jaenparaisointerior.es/en/w/castle-at-giribaile",
+    "https://www.jaenparaisointerior.es/en/w/centro-de-interpretacion-ciudad-fortificada-de-giribaile",
+    "https://www.openstreetmap.org/?mlat=38.1176&mlon=-3.487#map=18/38.1176/-3.487"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santuario-iberico-collado-de-los-jardines",
+   "nombre": "Santuario ibérico de Collado de los Jardines",
+   "provincia": "Jaén",
+   "comarca": "Santa Elena",
+   "lat": 38.3901,
+   "lon": -3.4942,
+   "tipo": "yacimiento",
+   "estilo": "Ibérico",
+   "epoca": "Íberos",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>En pleno Despeñaperros, entre grandes bloques de piedra, se abre la <b>Cueva de los Muñecos</b>, corazón de uno de los grandes santuarios <b>ibéricos</b> de Jaén. Debe su nombre a los <b>exvotos de bronce</b> hallados aquí: más de 2.500 figuritas de hombres, mujeres y guerreros que enseñan cómo vestían, se peinaban y se armaban los íberos.</p><p>Entre las ofrendas hay también exvotos anatómicos —piernas, ojos, brazos—, señal de que se venía a pedir salud. Casi todas estas piezas se guardan hoy en el <b>Museo Arqueológico Nacional</b> de Madrid.</p><p>Un sendero público lleva desde el collado hasta el santuario y a un mirador en el Cerro del Castillo, donde se ha documentado un poblado.</p>"
+   },
+   "ver_alli": [
+    "La Cueva de los Muñecos, con su manantial interior.",
+    "El sendero hasta el mirador del Cerro del Castillo.",
+    "Las vistas de Despeñaperros."
+   ],
+   "fuentes": [
+    "https://www.jaenparaisointerior.es/en/w/cueva-de-los-munecos-1",
+    "https://repositorio.uam.es/handle/10486/678820",
+    "https://www.openstreetmap.org/?mlat=38.3901&mlon=-3.4942#map=18/38.3901/-3.4942"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santuario-virgen-de-la-cabeza",
+   "nombre": "Santuario de la Virgen de la Cabeza",
+   "provincia": "Jaén",
+   "comarca": "Andújar",
+   "lat": 38.1793,
+   "lon": -4.0351,
+   "tipo": "iglesia",
+   "estilo": "Santuario mariano",
+   "epoca": "Guerra Civil",
+   "anio": 1937,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>En lo alto del cerro de la Cabeza, en plena Sierra de Andújar, se levantó entre <b>1287 y 1304</b> este santuario, ligado a la tradición de la aparición de la Virgen a un pastor en 1227. Su romería, documentada desde 1505, pasa por ser una de las más antiguas de España.</p><p>En la Guerra Civil fue escenario de un largo <b>asedio</b>: unos 200 guardias civiles con el capitán <b>Santiago Cortés</b> resistieron nueve meses con sus familias. Cuando cayó, el 1 de mayo de 1937, el santuario estaba reducido a escombros y se había perdido la imagen primitiva.</p><p>Reconstruido después, es <b>basílica menor</b> desde 2010.</p><p class=\"dato\"><span>¿Sabías que…?</span>El asedio inspiró la película El santuario no se rinde (1949).</p>"
+   },
+   "ver_alli": [
+    "La basílica en la cima del cerro.",
+    "Las vistas sobre Sierra Morena.",
+    "El poblado de romeros al pie del santuario."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Santuario_de_la_Virgen_de_la_Cabeza",
+    "https://www.openstreetmap.org/?mlat=38.1793&mlon=-4.0351#map=18/38.1793/-4.0351"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-la-iruela",
+   "nombre": "Castillo de La Iruela",
+   "provincia": "Jaén",
+   "comarca": "La Iruela",
+   "lat": 37.921,
+   "lon": -2.9901,
+   "tipo": "castillo",
+   "estilo": "Almohade y cristiano",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1378,
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>Encaramado sobre la peña de El Picacho, es una de las estampas más espectaculares de la Sierra de Cazorla. Sus murallas y fortaleza se levantaron hacia el último tercio del siglo XII, en época <b>almohade</b>; en 1231 Fernando III conquistó la zona y la entregó al arzobispo de Toledo.</p><p>Cuando La Iruela logró su independencia en <b>1378</b>, gracias a Pedro Tenorio, se empezaron la <b>torre del homenaje</b> y la torre-puerta. El conjunto se escalona en tres niveles, con entrada en codo y un amplio aljibe.</p><p>Dentro del recinto están las ruinas de la iglesia de Santo Domingo, que mandó construir Francisco de los Cobos y que los franceses incendiaron el 4 de junio de 1810.</p><p class=\"dato\"><span>¿Sabías que…?</span>Aquí se rodó la serie Curro Jiménez.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje sobre la roca.",
+    "Las ruinas de la iglesia de Santo Domingo.",
+    "Las vistas sobre el valle del Guadalquivir."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_La_Iruela",
+    "https://www.openstreetmap.org/?mlat=37.921&mlon=-2.9901#map=18/37.921/-2.9901"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-lopera",
+   "nombre": "Castillo de Lopera",
+   "provincia": "Jaén",
+   "comarca": "Lopera",
+   "lat": 37.9437,
+   "lon": -4.2137,
+   "tipo": "castillo",
+   "estilo": "Gótico militar",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Al-Ándalus / Andalucía-Murcia"
+   ],
+   "texto": {
+    "general": "<p>En pleno centro de Lopera, este castillo de recinto <b>pentagonal</b> se fecha en la segunda mitad del siglo XIII, en la época de la conquista castellana, con reformas importantes en los siglos siguientes.</p><p>Tiene dos torres del homenaje: la de <b>Santa María</b>, almenada, y la de <b>San Miguel</b>, desmochada. La entrada, al oeste, está defendida por dos matacanes de ladrillo, y en las esquinas se alzan torreones de formas distintas: circular, cuadrado y en L.</p><p>Es Bien de Interés Cultural y está restaurado.</p>"
+   },
+   "ver_alli": [
+    "Las torres de Santa María y San Miguel.",
+    "La entrada con sus dos matacanes.",
+    "El torreón circular con balcón amatacanado."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Lopera",
+    "https://www.openstreetmap.org/?mlat=37.9437&mlon=-4.2137#map=18/37.9437/-4.2137"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "castulo",
+   "campos": {
+    "lat": 38.0402,
+    "lon": -3.6251,
+    "estilo": "Ibérico y romano",
+    "texto": {
+     "general": "<p>Cástulo fue la capital de la <b>Oretania</b>, la región ibérica del alto Guadalquivir, y según las crónicas de aquí era <b>Himilce</b>, la princesa íbera que se casó con Aníbal. Su riqueza venía de los filones de Sierra Morena, explotados ya en la Edad del Bronce: cobre, plomo y plata.</p><p>En la Segunda Guerra Púnica fue aliada de Cartago, hasta que a finales del siglo III a. C. pactó con Escipión. Con Roma llegó a ser municipio de derecho latino. Decayó poco a poco y quedó definitivamente abandonada en el siglo XV, tras dos intentos fallidos de repoblarla.</p><p>Desde 2011 es Conjunto Arqueológico. De aquí salieron el <b>león de Cástulo</b>, de 1,20 por 0,90 metros y una tonelada, considerado el mejor conservado de la península, y una patena de vidrio del siglo IV. Su hallazgo más vistoso es un mosaico de más de 750.000 teselas con el juicio de Paris y el mito de Selene y Endimión, el llamado <b>mosaico de los Amores</b>.</p>"
+    },
+    "ver_alli": [
+     "Empezar por el centro de recepción de visitantes y seguir hasta el edificio que protege el mosaico de los Amores.",
+     "Pasear por la meseta para hacerse una idea de la extensión del oppidum, uno de los mayores de la península.",
+     "Completar la visita en el Museo Arqueológico de Linares, monográfico de Cástulo."
+    ],
+    "fuentes": [
+     "https://andalucia.org/en/linares-cultural-tourism-conjunto-arqueologico-de-castulo",
+     "https://es.wikipedia.org/wiki/C%C3%A1stulo",
+     "https://www.google.com/maps/place/?q=place_id:ChIJT1ri5EyEbg0RAQs1FK7FE9Y",
+     "https://www.openstreetmap.org/?mlat=38.0402&mlon=-3.6251#map=18/38.0402/-3.6251"
+    ]
+   }
+  },
+  {
+   "id": "puente-tablas",
+   "campos": {
+    "lat": 37.8118,
+    "lon": -3.7456,
+    "estilo": "Ibérico (oppidum)",
+    "texto": {
+     "general": "<p>A las afueras de Jaén se conserva uno de los oppida ibéricos mejor estudiados. Entre los siglos IX y VII a. C. ya había aquí un poblado sin murallas; la ciudad ibera se desarrolló desde el siglo VII hasta finales del III a. C. En el 207 a. C. Lucio Escipión conquistó Auringis, la ciudad con la que se relaciona este oppidum.</p><p>La <b>muralla</b>, de piedra con un cuerpo superior de adobe y reforzada con bastiones, empezó a levantarse en la segunda mitad del siglo VII a. C. En el siglo V a. C. se abrió la <b>Puerta del Sol</b>, en forma de embudo y flanqueada por dos pequeñas torres, orientada a la salida del sol. Junto a ella, el <b>santuario</b>, de la primera mitad del siglo IV a. C., está pensado para que en cada equinoccio la luz alcance directamente la imagen de la diosa.</p><p>Dentro se recorren el <b>palacio</b> del príncipe, del siglo VI a. C., con un patio de columnas de madera de las que quedan las basas de piedra, y calles de unos 3 metros de ancho con casas rectangulares de unos 100 m², algunas con huellas de escalera hacia un segundo piso.</p>"
+    },
+    "ver_alli": [
+     "La Puerta del Sol y el santuario; en torno a los equinoccios suele haber actividades especiales.",
+     "El palacio, con las basas de piedra de las columnas de su patio.",
+     "Las calles y manzanas de casas, con huellas de escaleras.",
+     "Empezar por el centro de recepción de visitantes, a la entrada del yacimiento."
+    ],
+    "fuentes": [
+     "https://www.juntadeandalucia.es/aaiicc/enclaves/enclave-arqueologico-puente-tablas",
+     "https://caai.ujaen.es/print/pdf/node/68",
+     "https://www.google.com/maps/place/?q=place_id:ChIJKT8ZNiDWbQ0R0o6kkFhh6nA",
+     "https://www.openstreetmap.org/?mlat=37.8118&mlon=-3.7456#map=18/37.8118/-3.7456"
+    ]
+   }
+  },
+  {
+   "id": "cerrillo-blanco",
+   "campos": {
+    "lat": 37.8873,
+    "lon": -4.1791,
+    "estilo": "Ibérico (escultura) sobre necrópolis tartésica",
+    "texto": {
+     "general": "<p>En este cerro de Porcuna apareció en 1975 un gran conjunto de esculturas ibéricas del siglo V a. C.: guerreros en combate, cazadores, grifos y otros animales fantásticos, luchas con fieras y personajes hieráticos, en unos <b>1.400 fragmentos</b>. Se calcula que eran unas 60 figuras, de las que se han recuperado unas 40. Es una de las joyas del arte ibérico.</p><p>Todas fueron <b>destrozadas a propósito</b> muy poco después de tallarse —apenas están erosionadas— y enterradas en zanjas cubiertas con grandes losas. El porqué sigue en debate; se ha propuesto una crisis social que acabó con el poder de quienes las encargaron.</p><p>Las esculturas se enterraron en una necrópolis mucho más antigua, del siglo VII a. C., de época tartésica: un túmulo con 24 tumbas individuales en fosa y una tumba megalítica con dos individuos.</p>"
+    },
+    "ver_alli": [
+     "Centro de visitantes en el yacimiento, con reserva previa.",
+     "Las esculturas, en el Museo de Jaén y el Museo Íbero de Jaén.",
+     "Museo de Porcuna, en la Torre de Boabdil."
+    ],
+    "fuentes": [
+     "https://www.jaenparaisointerior.es/en/w/necropolis-dinastica-de-cerrilo-blanco",
+     "https://www.ucm.es/tribunacomplutense/94/art1444.php",
+     "https://www.google.com/maps/place/?q=place_id:ChIJxeSJUDyzbQ0RwY3cV-A8Lww",
+     "https://www.openstreetmap.org/?mlat=37.8873&mlon=-4.1806#map=18/37.8873/-4.1806"
+    ]
+   }
+  },
+  {
+   "id": "museo-ibero",
+   "campos": {
+    "lat": 37.7761,
+    "lon": -3.79,
+    "estilo": "Edificio contemporáneo; colecciones ibéricas",
+    "texto": {
+     "general": "<p>El Museo Íbero abrió el 11 de diciembre de 2017 en el Paseo de la Estación de Jaén, en el solar de la antigua Prisión Provincial, como gran centro dedicado a la cultura ibérica. A unos 200 metros está el Museo de Jaén, con el resto del conjunto escultórico de Porcuna.</p><p>Su exposición <b>«La Dama, el Príncipe, el Héroe y la Diosa»</b>, que empezó como temporal y quedó como permanente, cuenta el mundo ibero a través de cuatro personajes inspirados en las cráteras griegas de la necrópolis de Piquía (Arjona). Las piezas proceden sobre todo del Museo de Jaén y de yacimientos como <b>Cerrillo Blanco</b>, Cástulo, Puente Tablas, el Cortijo del Pajarillo (Huelma) o la cámara sepulcral de Toya.</p><p>Una sala didáctica compara la excavación científica de una tumba de Castellones de Ceal con el fondo Ricardo Marsal, de 108.000 piezas y documentos reunidos sin excavaciones controladas: una lección sobre todo lo que se pierde con el expolio.</p>"
+    },
+    "ver_alli": [
+     "La exposición «La Dama, el Príncipe, el Héroe y la Diosa».",
+     "Las esculturas de Cerrillo Blanco (Porcuna) y del Pajarillo (Huelma).",
+     "Museo de Jaén, a unos 200 m, y oppidum de Puente Tablas, a unos 6 km."
+    ],
+    "fuentes": [
+     "https://www.spain.info/es/lugares-interes/museo-ibero-jaen/",
+     "https://es.wikipedia.org/wiki/Museo_%C3%8Dbero",
+     "https://www.google.com/maps/place/?q=place_id:ChIJc9Xnyg7XbQ0RXWPB0d34foo",
+     "https://www.openstreetmap.org/?mlat=37.7761&mlon=-3.79#map=18/37.7761/-3.79"
+    ]
+   }
+  },
+  {
+   "id": "castellar-lobera",
+   "campos": {
+    "lat": 38.2621,
+    "lon": -3.1108,
+    "estilo": "Ibérico (santuario rupestre)",
+    "texto": {
+     "general": "<p>Bajo un saliente rocoso de Castellar, junto a la vía Heraclea que marcaba la frontera del territorio oretano de Cástulo, hubo un <b>santuario ibérico</b> desde mediados del siglo IV a. C. Aprovechaba tres cuevas naturales —la principal, la Cueva de la Lobera— con varias terrazas artificiales delante para los ritos.</p><p>La gente dejaba allí exvotos de bronce: <b>miles de figuritas</b> de hombres y mujeres que ofrecían, rezaban o pedían curación. El culto siguió hasta el siglo II d. C., ya limitado a la cueva en época romana. Los exvotos circularon en colecciones privadas desde el siglo XIX y el expolio duró buena parte del XX, así que muchos están hoy en museos de toda Europa.</p><p>Alrededor de los equinoccios, al atardecer, la luz entra por una abertura del extremo occidental de la cueva e ilumina un momento su parte más interna. Un estudio de 2014 propone que los iberos lo vivían como una manifestación de la divinidad, y que la forma de la mancha de luz recuerda motivos de los propios exvotos.</p>"
+    },
+    "ver_alli": [
+     "Museo de exvotos en el pueblo y sendero hasta la cueva, a menos de 1 km.",
+     "En la cueva, localizar la abertura occidental por la que entra el sol en los equinoccios.",
+     "Ruta «Viaje al tiempo de los íberos»."
+    ],
+    "fuentes": [
+     "https://www.jaenparaisointerior.es/en/w/castellar-iberico",
+     "https://andalucia.org/en/iberian-sanctuaries-in-jaen-la-cueva-de-la-lobera",
+     "https://iac.es/es/ciencia-y-tecnologia/publicaciones/una-hierofania-solar-en-el-santuario-iberico-de-castellar-jaen",
+     "https://caai.ujaen.es/print/pdf/node/172",
+     "https://www.google.com/maps/place/?q=place_id:ChIJHUINAwDhbg0RQ--2oQs71Xo",
+     "https://www.openstreetmap.org/?mlat=38.2621&mlon=-3.1108#map=18/38.2621/-3.1108"
+    ]
+   }
+  },
+  {
+   "id": "brunel",
+   "campos": {
+    "lat": 37.8855,
+    "lon": -3.0792,
+    "estilo": "Romano",
+    "texto": {
+     "general": "<p>En Bruñel, en el término de Quesada, fueron los vecinos quienes dieron a conocer los restos de esta villa romana, que se investiga desde 1965 con ocho campañas de excavación. Se ocupó entre los siglos II y IV, en tres fases, en un lugar donde había una necrópolis ibérica del siglo IV a. C.</p><p>La fase de mayor esplendor fue la del siglo III: una gran villa organizada en torno a un <b>peristilo</b>, el patio porticado al que se abría la mayor parte de las habitaciones, con suelos de opus signinum y de <b>mosaico</b>, casi todos geométricos. Uno, que quizá representa a la nereida Tetis, está en el Museo de Jaén.</p><p>En el siglo IV la villa se redujo a un edificio rectangular más modesto, cuyas vigas aparecieron carbonizadas por el <b>incendio</b> que lo arrasó.</p>"
+    },
+    "ver_alli": [
+     "Estaba CERRADA por obras de adecuación; conviene confirmar si ha reabierto.",
+     "Museo Arqueológico de Quesada.",
+     "El mosaico de la posible nereida Tetis, en el Museo de Jaén."
+    ],
+    "fuentes": [
+     "https://www.visit-andalucia.com/villa-romana-del-brunel-quesada/",
+     "https://es.wikipedia.org/wiki/Villa_romana_de_Bru%C3%B1el",
+     "https://www.google.com/maps/place/?q=place_id:ChIJG11BNT2rbw0RXMPILxf0uk0",
+     "https://www.openstreetmap.org/?mlat=37.8855&mlon=-3.0792#map=18/37.8855/-3.0792"
+    ]
+   }
+  },
+  {
+   "id": "banos-arabes-de-jaen",
+   "campos": {
+    "lat": 37.7712,
+    "lon": -3.7939,
+    "estilo": "Andalusí",
+    "texto": {
+     "general": "<p>Bajo el palacio de Villardompardo se esconden unos baños árabes del siglo XI de <b>450 m²</b>, retocados a finales del XII, como muestran restos de decoración almohade. Siguieron en uso tras la conquista cristiana de 1246, hasta que entre los siglos XIV y XV se instalaron curtidurías en sus salas.</p><p>A finales del siglo XVI, Fernando de Torres y Portugal, conde de Villardompardo y virrey del Perú, construyó su palacio encima, y los baños quedaron ocultos entre cimientos y sótanos. En 1913 Enrique Romero de Torres descubrió una pequeña parte; en 1931 fueron declarados Monumento Nacional y, tras unas obras cortadas por la Guerra Civil, se restauraron entre 1970 y 1984, trabajo premiado ese año con la Medalla de Honor de Europa Nostra.</p><p>Se recorren el vestíbulo, con 18 lucernarios en forma de estrella, y las salas fría, templada y caliente. La <b>sala templada</b>, de 11,30 metros de lado, tiene una cúpula central sobre arcos de herradura y ocho columnas. El palacio alberga además el Museo de Artes y Costumbres Populares y el Museo Internacional de Arte Naïf «Manuel Moral».</p>"
+    },
+    "ver_alli": [
+     "La sala templada, con su cúpula central sobre columnas.",
+     "Los lucernarios en forma de estrella de las bóvedas.",
+     "Museo de Arte Naïf y Museo de Artes y Costumbres Populares, en el mismo palacio."
+    ],
+    "fuentes": [
+     "https://www.jaenparaisointerior.es/en/w/banos-arabes",
+     "https://www.google.com/maps/place/?q=place_id:ChIJmZ9_Yg3XbQ0Rdtze9375U6E",
+     "https://www.openstreetmap.org/?mlat=37.7712&mlon=-3.7939#map=18/37.7712/-3.7939"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-santa-catalina",
+   "campos": {
+    "lat": 37.7675,
+    "lon": -3.7995,
+    "estilo": "Fortaleza cristiana sobre base andalusí",
+    "texto": {
+     "general": "<p>En la cima del cerro de Santa Catalina hubo fortificaciones islámicas desde el siglo VIII, que alcanzaron su mayor tamaño en los siglos XII y XIII. Fernando III tomó Jaén en 1246 al rey de Granada, Muhammad ibn Nasr, y mandó levantar un <b>alcázar nuevo</b> que terminaron Alfonso X y Fernando IV.</p><p>En el siglo XV el condestable Miguel Lucas de Iranzo unió ese alcázar con el recinto del Abrehuí y se alzó la <b>torre del homenaje</b>, de unos 15 metros de lado y más de 30 de altura. La capilla gótica de Santa Catalina, de los siglos XIII-XIV, dio nombre al castillo.</p><p>El alcázar viejo desapareció bajo el Parador, construido en 1965 sobre los restos de las otras fortalezas. Junto al castillo, en el punto más alto de la ciudad, se alza una gran cruz donada en 1951 que lleva grabado un soneto de Antonio Almendros Aguilar.</p>"
+    },
+    "ver_alli": [
+     "Torre del homenaje, donde empieza la visita con un audiovisual.",
+     "La capilla gótica de Santa Catalina y la Torre de las Damas, con piezas halladas en el recinto.",
+     "La cruz del mirador, con vistas sobre Jaén y los olivares."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Santa_Catalina_(Ja%C3%A9n)",
+     "https://www.google.com/maps/place/?q=place_id:ChIJWSzkFGvXbQ0Rh6tGYjLLYII",
+     "https://www.openstreetmap.org/?mlat=37.7675&mlon=-3.7995#map=18/37.7675/-3.7995"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-burgalimar",
+   "campos": {
+    "lat": 38.1702,
+    "lon": -3.7755,
+    "estilo": "Andalusí (tapial)",
+    "texto": {
+     "general": "<p>Sobre el cerro del Cueto, dominando Baños de la Encina, se levanta uno de los castillos andalusíes mejor conservados: un recinto ovalado de 100 por 46 metros, de unos 2.700 m², cercado por una muralla de <b>tapial</b> con catorce torres cuadradas. Se entra por un arco de herradura entre dos torres.</p><p>Una lápida que estuvo en esa puerta lo fechaba en el 968 (año 357 de la Hégira), en tiempos del califa <b>al-Hakam II</b>, y así se ha repetido durante mucho tiempo. Las excavaciones, sin embargo, apuntan a que la lápida no sería fundacional y sitúan la obra entre finales del siglo XI e inicios del XII.</p><p>Fue tierra de frontera: lo tomó Alfonso VII en 1147, se perdió tras su muerte, lo recuperaron Alfonso VIII y Alfonso IX en 1189 y pasó definitivamente a Castilla con Fernando III en 1225. Por eso lo llaman la «fortaleza de los siete reyes». En el siglo XV una de sus torres se transformó en la torre del homenaje, de piedra. Es Monumento Nacional desde 1931.</p>"
+    },
+    "ver_alli": [
+     "Visita guiada.",
+     "Recorrer el adarve entre las catorce torres de tapial.",
+     "Subir a la torre del homenaje para ver el pueblo y Sierra Morena.",
+     "La puerta en arco de herradura entre dos torres, donde estaba la lápida."
+    ],
+    "fuentes": [
+     "https://www.inspain.org/es/jaen/banos-de-la-encina/castillo-de-burgalimar-bury-al-hamma/",
+     "https://es.wikipedia.org/wiki/Castillo_de_Burgalimar",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ-5X-FC0nbA0Rp2dmAUAd1eo",
+     "https://www.openstreetmap.org/?mlat=38.1702&mlon=-3.7755#map=18/38.1702/-3.7755"
+    ]
+   }
+  },
+  {
+   "id": "fortaleza-de-la-mota",
+   "campos": {
+    "lat": 37.4603,
+    "lon": -3.9297,
+    "estilo": "Andalusí y cristiano; iglesia abacial",
+    "texto": {
+     "general": "<p>El cerro de La Mota fue en el siglo XII la <b>Qal'at Banu Sa'id</b>, la «fortaleza de los Banu Sa'id»; de <i>al-Qal'a</i>, «la fortaleza», viene el nombre de Alcalá. Fue plaza clave de la frontera nazarí hasta que Alfonso XI la sitió en 1340 y en 1341 la ciudad capituló, vencida por el hambre.</p><p>El conjunto tiene varios recintos. La alcazaba ocupaba la cumbre y fue el solar de la ciudad original; en lo más alto, el alcázar reunía la torre del homenaje, la de la Campana y la Mocha. De las siete puertas del acceso principal se conservan tres, entre ellas la <b>puerta de la Imagen</b>, con un doble arco muy parecido a la puerta de la Justicia de la Alhambra.</p><p>En el centro se alza la <b>iglesia Mayor abacial</b>. Durante la ocupación francesa el recinto se fortificó; en 1812 la iglesia ardió cuando servía de almacén y un polvorín estalló y destruyó la torre de la Cárcel. La población fue bajando al llano y la Mota quedó vacía; hoy la restaura la Junta de Andalucía.</p>"
+    },
+    "ver_alli": [
+     "La puerta de la Imagen, con su doble arco.",
+     "La iglesia Mayor abacial, en el centro del recinto.",
+     "Torre del homenaje y murallas, con vistas sobre Alcalá la Real.",
+     "En verano, llevar agua y sombrero: el recinto es amplio y está muy expuesto al sol."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Fortaleza_de_la_Mota",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ____uxPvbQ0Rzt2N3E4RC0M",
+     "https://www.openstreetmap.org/?mlat=37.4603&mlon=-3.9297#map=18/37.4603/-3.9297"
+    ]
+   }
+  },
+  {
+   "id": "iglesia-de-santa-cruz-de-baeza",
+   "campos": {
+    "lat": 37.9914,
+    "lon": -3.4681,
+    "estilo": "Románico tardío",
+    "texto": {
+     "general": "<p>Es una de las pocas iglesias <b>románicas</b> que se conservan en Andalucía, en una ciudad conocida sobre todo por su Renacimiento. Se fecha a finales del siglo XIII y se levantó a raíz de la conquista de Baeza por Fernando III.</p><p>Es un templo sencillo, de muros austeros y con un <b>ábside semicircular</b>. Su portada principal no es la original: procede de la desaparecida iglesia de San Juan Bautista. La portada norte se perdió en el siglo XV, cuando se construyó una capilla sobre ella.</p><p>En el ábside se conservan <b>pinturas al fresco</b> de principios del siglo XVI. En el siglo XX la Dirección General de Bellas Artes la restauró y le quitó los añadidos clasicistas; antes, su techo mudéjar, muy deteriorado, se había sustituido por el actual.</p>"
+    },
+    "ver_alli": [
+     "Acceso libre.",
+     "Las pinturas al fresco del ábside.",
+     "La portada de arcos de medio punto traída de la iglesia de San Juan Bautista."
+    ],
+    "fuentes": [
+     "https://www.jaenparaisointerior.es/en/w/iglesia-de-la-santa-cruz",
+     "https://www.google.com/maps/place/?q=place_id:ChIJvU3EcJiLbg0RdTawKonsZ-I",
+     "https://www.openstreetmap.org/?mlat=37.9914&mlon=-3.4681#map=18/37.9914/-3.4681"
+    ]
+   }
+  },
+  {
+   "id": "sacra-capilla-del-salvador",
+   "campos": {
+    "lat": 38.0081,
+    "lon": -3.3665,
+    "estilo": "Renacimiento",
+    "texto": {
+     "general": "<p>Francisco de los Cobos, secretario de Carlos V, la mandó construir en 1536 como panteón junto a su palacio de Úbeda. El proyecto se encargó a <b>Diego de Siloé</b> y desde 1540 dirigió la obra <b>Andrés de Vandelvira</b>; se consagró en 1559. Úbeda y Baeza son Patrimonio Mundial desde 2003.</p><p>La <b>portada</b>, labrada por Esteban Jamete, mezcla dioses clásicos —Eolo, Neptuno, Vulcano—, escenas del Éxodo y los trabajos de Hércules, presentado como anticipo de Cristo, en torno a un relieve de la Transfiguración. Dentro, la rotonda de la cabecera, el espacio funerario, se separa de la nave por una reja de Francisco de Villalpando fundida en 1555.</p><p>La <b>sacristía</b>, de Vandelvira con esculturas de Jamete sobre vicios y virtudes, es una de las obras clave del Renacimiento español. El gran retablo de Alonso Berruguete con la Transfiguración ardió en la Guerra Civil; solo se salvó el Cristo central, restaurado por Juan Luis Vassallo.</p>"
+    },
+    "ver_alli": [
+     "La portada principal: buscar a Hércules y a los dioses del viento, del mar y del fuego.",
+     "La sacristía de Vandelvira.",
+     "La rotonda con el Cristo de la Transfiguración y la reja de Villalpando."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Sacra_Capilla_del_Salvador",
+     "https://www.google.com/maps/place/?q=place_id:ChIJGw8F43D0bg0Rtyy2vAOACwE",
+     "https://www.openstreetmap.org/?mlat=38.0081&mlon=-3.3665#map=18/38.0081/-3.3665"
+    ]
+   }
+  },
+  {
+   "id": "plaza-vazquez-de-molina",
+   "campos": {
+    "lat": 38.0076,
+    "lon": -3.3681,
+    "estilo": "Renacimiento",
+    "texto": {
+     "general": "<p>El corazón renacentista de Úbeda es esta plaza alargada rodeada de palacios e iglesias. Su nombre viene de <b>Juan Vázquez de Molina</b>, sobrino de Francisco de los Cobos y secretario de Estado, que mandó construir el <b>palacio de las Cadenas</b>, atribuido a Andrés de Vandelvira y hoy Ayuntamiento.</p><p>En la plaza se alza la <b>Sacra Capilla del Salvador</b>, panteón de los Cobos, y junto a ella el palacio del Deán Ortega, primer capellán de la Sacra Capilla, hoy Parador. Están también el palacio del Marqués de Mancera, del siglo XVI, y la iglesia de Santa María de los Reales Alcázares, levantada sobre la antigua mezquita mayor.</p><p>Completa el conjunto el pósito, del siglo XVII, que el concejo construyó para guardar grano. Pocos lugares de España reúnen tanto Renacimiento junto; Úbeda y Baeza son Patrimonio Mundial desde 2003.</p>"
+    },
+    "ver_alli": [
+     "Acceso libre.",
+     "La fachada del palacio de las Cadenas, hoy Ayuntamiento.",
+     "La portada de la Sacra Capilla del Salvador.",
+     "Santa María de los Reales Alcázares, levantada sobre la antigua mezquita."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Plaza_V%C3%A1zquez_de_Molina",
+     "https://es.hispanopedia.com/wiki/Andr%C3%A9s_de_Vandelvira",
+     "https://www.google.com/maps/place/?q=place_id:ChIJexC48nD0bg0RswLWoFKfAOQ",
+     "https://www.openstreetmap.org/?mlat=38.0076&mlon=-3.3681#map=18/38.0076/-3.3681"
+    ]
+   }
+  },
+  {
+   "id": "hospital-de-santiago",
+   "campos": {
+    "lat": 38.0122,
+    "lon": -3.3764,
+    "estilo": "Renacimiento",
+    "texto": {
+     "general": "<p>El obispo de Jaén <b>Diego de los Cobos</b> lo encargó como hospital para pobres enfermos, y a la vez como iglesia-panteón y palacio. El proyecto de <b>Andrés de Vandelvira</b> es de 1562 y la obra se terminó en 1575, según consta en la escalera.</p><p>La fachada, sobria, se enmarca entre dos torres con cubiertas de cerámica vidriada, y sobre la puerta luce un relieve de <b>Santiago Matamoros</b>, a quien se dedica. Dentro hay un patio de dos pisos con columnas de mármol blanco de Carrara y una <b>escalera</b> monumental con bóveda «colgada» y pinturas al fresco atribuidas a Pedro de Raxis y Gabriel Rosales. La capilla tiene planta en forma de H.</p><p>Por su sobriedad y su forma a veces lo han llamado «El Escorial de Andalucía». Hoy es centro cultural, de exposiciones y congresos, y biblioteca.</p>"
+    },
+    "ver_alli": [
+     "Acceso libre al patio.",
+     "El relieve de Santiago Matamoros sobre la portada.",
+     "La escalera, con su bóveda y sus pinturas al fresco."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Hospital_de_Santiago_(%C3%9Abeda)",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ_WXF_n70bg0RPwP8QiydZyc",
+     "https://www.openstreetmap.org/?mlat=38.0122&mlon=-3.3764#map=18/38.0122/-3.3764"
+    ]
+   }
+  },
+  {
+   "id": "conjunto-renacentista-de-baeza",
+   "campos": {
+    "lat": 37.9916,
+    "lon": -3.4704,
+    "estilo": "Renacimiento",
+    "texto": {
+     "general": "<p>Baeza conserva uno de los conjuntos renacentistas más completos de Andalucía, Patrimonio Mundial junto a Úbeda desde 2003. Su catedral es un templo gótico que <b>Andrés de Vandelvira</b> modernizó al estilo del Renacimiento.</p><p>El <b>palacio de Jabalquinto</b> lo mandó construir en la segunda mitad del siglo XV Juan Alfonso de Benavides Manrique, señor de Jabalquinto. Su fachada, atribuida a Juan Guas o a Enrique Egas, está cubierta de <b>puntas de diamante</b>, clavos y escudos; dentro tiene un patio renacentista y una escalera barroca. Hoy es sede Antonio Machado de la Universidad Internacional de Andalucía.</p><p>La plaza del Pópulo, con la <b>fuente de los Leones</b>, abre el recorrido, y la antigua Universidad recuerda al poeta <b>Antonio Machado</b>, que dio clase en Baeza.</p>"
+    },
+    "ver_alli": [
+     "Acceso libre a calles; monumentos con entrada.",
+     "La fachada de puntas de diamante del palacio de Jabalquinto y su escalera barroca.",
+     "La plaza del Pópulo con la fuente de los Leones.",
+     "La antigua Universidad, donde enseñó Antonio Machado."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_de_Jabalquinto",
+     "https://es.wikipedia.org/wiki/Conjuntos_monumentales_renacentistas_de_%C3%9Abeda_y_Baeza",
+     "https://es.hispanopedia.com/wiki/Andr%C3%A9s_de_Vandelvira",
+     "https://www.google.com/maps/place/?q=place_id:ChIJhU7W85eLbg0RO-dAxDAgngQ",
+     "https://www.openstreetmap.org/?mlat=37.9916&mlon=-3.4704#map=18/37.9916/-3.4704"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-jaen",
+   "campos": {
+    "lat": 37.7651,
+    "lon": -3.7898,
+    "estilo": "Renacimiento (fachada barroca)",
+    "texto": {
+     "general": "<p>La catedral de Jaén se levantó entre los siglos XVI y XVIII sobre la antigua mezquita aljama y una catedral gótica anterior, con un proyecto renacentista de <b>Andrés de Vandelvira</b>, maestro mayor de la obra desde 1553. Sus sucesores apenas cambiaron su idea, salvo en detalles decorativos.</p><p>La monumental fachada es de <b>Eufrasio López de Rojas</b>, que la empezó en 1660; las obras de las capillas y el interior no terminaron hasta 1724. La sala capitular y la sacristía, de Vandelvira, son obras maestras del Renacimiento español.</p><p>Guarda el <b>Santo Rostro</b>, un lienzo que según la tradición usó la Verónica para enjugar la cara de Cristo y que se muestra a los fieles los viernes, en Viernes Santo y en la Asunción. En 2012 entró en la Lista Indicativa española del Patrimonio Mundial por haber servido de modelo a otras catedrales de España y América.</p>"
+    },
+    "ver_alli": [
+     "La fachada barroca, desde la plaza de Santa María.",
+     "La sacristía y la sala capitular de Vandelvira.",
+     "La capilla mayor, donde se guarda el Santo Rostro."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ja%C3%A9n_Cathedral",
+     "https://www.spain.info/es/lugares-interes/catedral-jaen/",
+     "https://es.hispanopedia.com/wiki/Andr%C3%A9s_de_Vandelvira",
+     "https://www.google.com/maps/place/?q=place_id:ChIJddn4w3PXbQ0RnXURpHiguIY",
+     "https://www.openstreetmap.org/?mlat=37.7651&mlon=-3.7898#map=18/37.7651/-3.7898"
+    ]
+   }
+  },
+  {
+   "id": "la-carolina",
+   "campos": {
+    "lat": 38.2758,
+    "lon": -3.6167,
+    "estilo": "Urbanismo ilustrado y neoclásico",
+    "texto": {
+     "general": "<p>La Carolina nació en 1767 como capital de las <b>Nuevas Poblaciones de Sierra Morena</b>, el proyecto ilustrado del reinado de Carlos III, ideado por Campomanes y encomendado a <b>Pablo de Olavide</b>. Se trataba de asegurar el Camino Real de Andalucía, amenazado por el bandolerismo, y de poner en cultivo tierras vacías. En 1770 la construcción ya estaba terminada.</p><p>Llegaron unos 6.000 colonos católicos de Centroeuropa, sobre todo alemanes, flamencos y suizos; el primer grupo lo trajo el aventurero bávaro Johann Kaspar Thürriegel. Las colonias tuvieron fuero propio hasta 1835 y se las llegó a llamar la «quinta provincia andaluza». Sus calles son rectas y forman cuadrículas.</p><p>En la plaza de la Iglesia están el palacio del Intendente Olavide, neoclásico, de 1775, y la iglesia de la Inmaculada Concepción, empezada para un convento carmelita de La Peñuela y bendecida como parroquia en 1769. En el siglo XIX la ciudad vivió de las minas de plomo del distrito Linares-La Carolina.</p>"
+    },
+    "ver_alli": [
+     "Acceso libre.",
+     "Plaza de la Iglesia: palacio de Olavide e iglesia de la Inmaculada.",
+     "Pasear por el trazado ordenado del centro, típico de las fundaciones ilustradas.",
+     "Cerca está el paraje de las Navas de Tolosa, escenario de la batalla de 1212."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/La_Carolina",
+     "https://es.wikipedia.org/wiki/Nuevas_Poblaciones_de_Andaluc%C3%ADa_y_Sierra_Morena",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ7SmPs46ibg0ReIi4aTey9aM",
+     "https://www.openstreetmap.org/?mlat=38.2756&mlon=-3.6167#map=18/38.2756/-3.6167"
+    ]
+   }
+  },
+  {
+   "id": "monumento-y-museo-de-la-batalla-de-baile",
+   "campos": {
+    "lat": 38.0947,
+    "lon": -3.7793,
+    "estilo": "Museo histórico",
+    "texto": {
+     "general": "<p>El 19 de julio de 1808, junto a Bailén, el ejército español de Andalucía, mandado por el general <b>Castaños</b> y con las tropas de Granada de Teodoro Reding, derrotó al ejército francés del general <b>Dupont</b>, de unos 20.000 hombres, y lo obligó a rendirse.</p><p>Fue la <b>primera derrota en campo abierto</b> de los ejércitos de Napoleón. Unos 17.600 soldados franceses entregaron las armas, y el 28 de julio José I tuvo que abandonar Madrid camino de Vitoria. La victoria rompió la imagen de invencibilidad francesa.</p><p>La tradición recuerda a <b>María Bellido</b>, una aguadora que dio de beber a los soldados con un cántaro agujereado por una bala, quizá símbolo de la ayuda de todo el pueblo. En Bailén hay un museo dedicado a la batalla y un monumento a la victoria al final del paseo de las Palmeras.</p>"
+    },
+    "ver_alli": [
+     "Museo con entrada; monumentos libres.",
+     "Museo de la Batalla de Bailén: uniformes, pinturas y objetos de la época.",
+     "Monumento a la Victoria, al final del paseo de las Palmeras."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Batalla_de_Bail%C3%A9n",
+     "https://www.google.com/maps/place/?q=place_id:ChIJe3pWztMnbA0RAGEDmPllluQ",
+     "https://www.google.com/maps/place/?q=place_id:ChIJy5hTc9QnbA0R5sxSFAp9IKg",
+     "https://www.openstreetmap.org/?mlat=38.0947&mlon=-3.7793#map=18/38.0947/-3.7793"
+    ]
+   }
+  }
+ ]
+}
