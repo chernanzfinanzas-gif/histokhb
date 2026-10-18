@@ -1,0 +1,777 @@
+{
+ "zona": "Badajoz",
+ "nuevos": [
+  {
+   "id": "puente-romano-de-merida",
+   "nombre": "Puente romano de Mérida",
+   "provincia": "Badajoz",
+   "comarca": "Mérida",
+   "lat": 38.9135,
+   "lon": -6.3505,
+   "tipo": "monumento",
+   "estilo": "Ingeniería romana",
+   "epoca": "Romano",
+   "anio": -25,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>El puente sobre el <b>Guadiana</b> nació con la propia ciudad: se construyó en las últimas décadas del siglo I a.C., cuando se fundó Augusta Emerita en el año 25 a.C. Mide unos <b>790 metros</b> y se apoya en <b>sesenta arcos</b>, tres de los cuales estuvieron ocultos hasta finales de los años noventa. Una isla natural divide el cauce en dos.</p><p>Veinte siglos de riadas y guerras han dejado su huella: hay reparaciones documentadas en época visigoda (483), el emir Muhammad I destruyó una pila en el siglo IX, una crecida de 1603 obligó a rehacer el tramo central —terminado en 1611— y durante la guerra de la Independencia se volaron varios arcos para frenar a los franceses.</p><p>Fue paso de vehículos hasta el <b>10 de diciembre de 1991</b>, cuando se abrió el puente Lusitania; desde entonces es peatonal. Es monumento nacional desde 1912 y parte del conjunto arqueológico de Mérida, Patrimonio de la Humanidad.</p>"
+   },
+   "ver_alli": [
+    "La larga fila de arcos de granito sobre el Guadiana.",
+    "El tramo central reconstruido a comienzos del siglo XVII.",
+    "La vista del puente desde la Alcazaba."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Puente_romano_de_Mérida",
+    "https://www.openstreetmap.org/?mlat=38.9135&mlon=-6.3505#map=18/38.9135/-6.3505"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "acueducto-de-los-milagros",
+   "nombre": "Acueducto de los Milagros",
+   "provincia": "Badajoz",
+   "comarca": "Mérida",
+   "lat": 38.9239,
+   "lon": -6.3479,
+   "tipo": "monumento",
+   "estilo": "Ingeniería romana",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Los arcos del acueducto de los Milagros cruzan el valle del río <b>Albarregas</b> a la entrada de Mérida. Formaban parte de la conducción que traía el agua desde la zona de <b>Proserpina</b>, a unos 10 u 11 kilómetros. Su fecha se discute: se suele situar en el siglo I, aunque hay indicios de una reconstrucción hacia el año 290.</p><p>El tramo de arcos conservado mide <b>830 metros</b> y alcanza <b>25 metros</b> de altura en lo más hondo del valle. Quedan <b>73 pilares</b>, con una técnica muy reconocible: hiladas de sillares de granito alternadas con hiladas de ladrillo, sobre un núcleo de hormigón romano.</p><p class=\"dato\"><span>¿Sabías que…?</span>La tradición dice que el nombre de «los Milagros» viene del asombro de los emeritenses ante una obra que seguía en pie tras tantos siglos.</p>"
+   },
+   "ver_alli": [
+    "Las hiladas alternas de granito y ladrillo de los pilares.",
+    "Los arcos más altos, sobre el cauce del Albarregas.",
+    "El pequeño puente romano que corre junto a los arcos."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Acueducto_de_los_Milagros",
+    "https://www.openstreetmap.org/?mlat=38.9239&mlon=-6.3479#map=18/38.9239/-6.3479"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "circo-romano-de-merida",
+   "nombre": "Circo romano de Mérida",
+   "provincia": "Badajoz",
+   "comarca": "Mérida",
+   "lat": 38.9203,
+   "lon": -6.3326,
+   "tipo": "yacimiento",
+   "estilo": "Arquitectura romana",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Las carreras de carros eran el espectáculo de masas de Roma, y Augusta Emerita tuvo uno de los grandes circos del Imperio. Se empezó a principios del siglo I d.C., en tiempos de <b>Tiberio</b>, y mide unos <b>440 metros de largo por 115 de ancho</b>, con capacidad para unos <b>30.000 espectadores</b>.</p><p>En el centro corría la <b>spina</b>, una plataforma de unos 240 metros con las metas en sus extremos; de sus obeliscos y estatuas solo quedan los cimientos. En un extremo estaban las <b>doce cocheras</b> de salida, seis a cada lado de la puerta de entrada del desfile. Una inscripción recuerda una reforma de entre 337 y 340, en tiempos de un hijo de Constantino.</p><p class=\"dato\"><span>¿Sabías que…?</span>Cayo Apuleyo Diocles, considerado el mejor auriga de la Antigua Roma, era lusitano y seguramente empezó su carrera en este circo.</p>"
+   },
+   "ver_alli": [
+    "La enorme pista y el trazado de la spina.",
+    "Los restos de las cocheras de salida de los carros.",
+    "El emplazamiento de las metas en los extremos de la spina."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Circo_romano_de_Mérida",
+    "https://www.openstreetmap.org/?mlat=38.9203&mlon=-6.3326#map=18/38.9203/-6.3326"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "templo-de-diana-merida",
+   "nombre": "Templo de Diana (Mérida)",
+   "provincia": "Badajoz",
+   "comarca": "Mérida",
+   "lat": 38.9165,
+   "lon": -6.3443,
+   "tipo": "monumento",
+   "estilo": "Arquitectura romana",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>A pesar del nombre, este templo nunca estuvo dedicado a Diana: lo bautizó así el historiador Bernabé Moreno de Vargas en el siglo XVII. Era un templo de <b>culto imperial</b> que presidía el foro municipal de Augusta Emerita, construido en el siglo I d.C., probablemente en tiempos de <b>Tiberio</b>.</p><p>Es un templo períptero con seis columnas en la fachada y once en cada lado, sobre un podio de más de tres metros. Mide <b>32 × 18,5 metros</b> y sus columnas de <b>granito</b> local, de 8 metros, iban recubiertas de estuco. Se conserva algo más de la mitad.</p><p>Se salvó gracias a que en el siglo XVI se construyó dentro de él el <b>palacio de los Corbos</b>, aprovechando materiales romanos y visigodos. Desde 2018 el palacio acoge un centro de interpretación.</p>"
+   },
+   "ver_alli": [
+    "Las columnas de granito sobre el alto podio.",
+    "El palacio renacentista de los Corbos, incrustado en la cella.",
+    "El templo iluminado por la noche desde la plaza."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Templo_de_Diana_(Mérida)",
+    "https://www.openstreetmap.org/?mlat=38.9165&mlon=-6.3443#map=18/38.9165/-6.3443"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "casa-del-mitreo",
+   "nombre": "Casa del Mitreo",
+   "provincia": "Badajoz",
+   "comarca": "Mérida",
+   "lat": 38.9112,
+   "lon": -6.3411,
+   "tipo": "yacimiento",
+   "estilo": "Domus romana",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Esta gran casa romana, a las afueras de la ciudad antigua, se construyó a finales del siglo I o principios del II y estuvo habitada, con varias reformas, hasta finales del siglo IV. Debe su nombre al cercano <b>santuario de Mitra</b> del cerro de San Albín, con el que pudo estar relacionada.</p><p>Se organizaba en torno a un <b>atrio</b> con columnas de granito en las esquinas y dos <b>peristilos</b>: el primero con un estanque rectangular y el segundo, más grande, con un canal de agua y una cisterna. Junto al atrio está la estancia del llamado <b>mosaico cosmogónico</b>.</p><p>Es Bien de Interés Cultural, como zona arqueológica, desde 1990.</p>"
+   },
+   "ver_alli": [
+    "El mosaico cosmogónico.",
+    "El atrio y los dos peristilos con sus estanques.",
+    "La cercanía del cerro de San Albín, donde estaba el santuario de Mitra."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Casa_del_Mitreo",
+    "https://www.openstreetmap.org/?mlat=38.9112&mlon=-6.3411#map=18/38.9112/-6.3411"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "embalse-de-proserpina",
+   "nombre": "Presa romana de Proserpina",
+   "provincia": "Badajoz",
+   "comarca": "Mérida",
+   "lat": 38.9696,
+   "lon": -6.3664,
+   "tipo": "monumento",
+   "estilo": "Ingeniería hidráulica romana",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>A pocos kilómetros al norte de Mérida, la presa de Proserpina sigue embalsando agua dos mil años después. Se cree que se empezó en época romana y se amplió en el siglo II d.C., aunque partes de la obra son medievales o posteriores.</p><p>La presa mide unos <b>428 metros</b> de largo y <b>21,6 metros</b> de altura sobre los cimientos. Es de tierra con una pantalla impermeable de fábrica aguas arriba, reforzada por <b>nueve contrafuertes</b>. En la cara de aguas abajo se alzan <b>dos torres</b> que regulaban la salida del agua; una hipótesis las relaciona con el acueducto de los Milagros.</p><p class=\"dato\"><span>¿Sabías que…?</span>Antes se llamaba «Charca de la Albuera»; su nombre actual viene de una lápida, hallada en el siglo XVIII, que invocaba a la diosa Ataecina-Proserpina.</p>"
+   },
+   "ver_alli": [
+    "El muro de la presa con sus contrafuertes.",
+    "Las dos torres de toma de agua.",
+    "El paseo alrededor del embalse, muy popular en verano."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Embalse_de_Proserpina",
+    "https://www.openstreetmap.org/?mlat=38.9696&mlon=-6.3664#map=18/38.9696/-6.3664"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "arco-de-trajano-merida",
+   "nombre": "Arco de Trajano (Mérida)",
+   "provincia": "Badajoz",
+   "comarca": "Mérida",
+   "lat": 38.9178,
+   "lon": -6.3464,
+   "tipo": "monumento",
+   "estilo": "Arquitectura romana",
+   "epoca": "Romano",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Este gran arco de granito se levanta en una calle del centro de Mérida. Mide unos <b>15 metros</b> de altura —dos de ellos hoy bajo el suelo— y casi <b>9 metros</b> de luz. Sus sillares iban recubiertos de mármol, como delatan los agujeros de anclaje que aún se ven.</p><p>Se pensó que era un arco de triunfo, pero la hipótesis más extendida es que daba acceso a un recinto sagrado de <b>culto imperial</b>, quizá un foro provincial. Al perderse el revestimiento y sus inscripciones, es muy difícil fecharlo.</p><p class=\"dato\"><span>¿Sabías que…?</span>Lo de «Trajano» es pura tradición local: no hay nada que lo relacione con ese emperador.</p>"
+   },
+   "ver_alli": [
+    "Las enormes dovelas de granito del arco.",
+    "Los orificios donde se anclaba el revestimiento de mármol.",
+    "Su altura, con parte de la base enterrada bajo la calle."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Arco_de_Trajano_(Mérida)",
+    "https://www.openstreetmap.org/?mlat=38.9178&mlon=-6.3464#map=18/38.9178/-6.3464"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "alcazar-de-zafra",
+   "nombre": "Alcázar de los Duques de Feria (Zafra)",
+   "provincia": "Badajoz",
+   "comarca": "Zafra",
+   "lat": 38.4242,
+   "lon": -6.4169,
+   "tipo": "castillo",
+   "estilo": "Gótico y renacentista",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1437,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En <b>1437</b> Lorenzo II Suárez de Figueroa, señor y primer conde de Feria, mandó levantar este alcázar en Zafra; las obras duraron unos seis años, y el permiso real de Juan II llegó en 1441, con el edificio ya muy avanzado. Su torre del homenaje simbolizaba el poder de la casa de Feria.</p><p>Por dentro guarda la <b>sala dorada</b> y una capilla con techumbre mudéjar, de la época del segundo conde, y un elegante <b>patio de mármol</b> renacentista de la época del segundo duque (1571-1609), atribuido durante mucho tiempo, sin razón, a Juan de Herrera.</p><p>Las obras para convertirlo en <b>Parador de Turismo</b> empezaron en 1965.</p>"
+   },
+   "ver_alli": [
+    "El patio renacentista de mármol.",
+    "La sala dorada y la techumbre mudéjar de la capilla.",
+    "La torre del homenaje de los condes de Feria."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Palacio_de_los_Duques_de_Feria_(Zafra)",
+    "https://www.openstreetmap.org/?mlat=38.4242&mlon=-6.4169#map=18/38.4242/-6.4169"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "jerez-de-los-caballeros",
+   "nombre": "Jerez de los Caballeros",
+   "provincia": "Badajoz",
+   "comarca": "Jerez de los Caballeros",
+   "lat": 38.3191,
+   "lon": -6.7703,
+   "tipo": "poblacion",
+   "estilo": "Villa medieval con torres barrocas",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Conocida como la «ciudad de las cuatro torres», Jerez de los Caballeros fue declarada conjunto histórico-artístico en <b>1966</b>. Su corazón es el <b>castillo templario</b>, levantado sobre una alcazaba musulmana: murallas y torres del siglo XIII con añadidos de la Orden de Santiago. De las seis puertas originales solo quedan la de Burgos y la de la Villa.</p><p>Uno de sus baluartes es la <b>Torre Sangrienta</b>. Cuenta la leyenda que allí fueron degollados los templarios que se resistieron a la disolución de la orden en 1312.</p><p>Sobre los tejados destacan las torres barrocas de sus iglesias: la de <b>San Miguel</b> (1749), la de <b>San Bartolomé</b> (1759), la de <b>Santa Catalina</b> (1762) y la de Santa María. La villa está ligada a <b>Vasco Núñez de Balboa</b>, que tiene aquí una casa-museo.</p>"
+   },
+   "ver_alli": [
+    "La Torre Sangrienta y el recinto del castillo templario.",
+    "Las cuatro torres barrocas de las iglesias.",
+    "Las puertas de Burgos y de la Villa.",
+    "La casa-museo de Vasco Núñez de Balboa."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Jerez_de_los_Caballeros",
+    "https://www.openstreetmap.org/?mlat=38.3191&mlon=-6.7703#map=18/38.3191/-6.7703"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-olivenza",
+   "nombre": "Castillo de Olivenza",
+   "provincia": "Badajoz",
+   "comarca": "Olivenza",
+   "lat": 38.6853,
+   "lon": -7.099,
+   "tipo": "castillo",
+   "estilo": "Fortaleza medieval portuguesa",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1488,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Olivenza fue portuguesa durante cinco siglos: desde el tratado de Alcañices (<b>1297</b>) hasta la guerra de las Naranjas (<b>1801</b>), cuando la ocupó España, que la retuvo por el tratado de Badajoz de ese mismo año. Su castillo es la mejor huella de aquella frontera.</p><p>Se levantó en tiempos de Alfonso IV de Portugal y en <b>1488</b> Juan II de Portugal lo reforzó con una formidable <b>torre del homenaje</b> de 36 metros de altura y 18 de lado. Por dentro no se sube por escaleras: <b>diecisiete rampas</b> abovedadas recorren sus tres plantas.</p><p>A pocos pasos del castillo se alza la iglesia parroquial de Santa María Magdalena.</p>"
+   },
+   "ver_alli": [
+    "La subida por las rampas abovedadas de la torre.",
+    "Las vistas desde lo alto de la torre del homenaje.",
+    "La iglesia de Santa María Magdalena, al lado del castillo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Olivenza",
+    "https://www.openstreetmap.org/?mlat=38.6853&mlon=-7.099#map=18/38.6853/-7.099"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-feria",
+   "nombre": "Castillo de Feria",
+   "provincia": "Badajoz",
+   "comarca": "Feria",
+   "lat": 38.515,
+   "lon": -6.5678,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1513,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>El castillo de Feria corona el cerro sobre el que se asienta el pueblo. La primera torre y el conjunto principal los mandó construir a mediados del <b>siglo XV</b> Lorenzo Suárez de Figueroa; en 1460 se hicieron reformas importantes, que su nieto terminó en <b>1513</b>.</p><p>Su gran pieza es la <b>torre del homenaje</b>: de planta cuadrada con las <b>esquinas redondeadas</b>, alcanza <b>40 metros</b> de altura y 18 de lado. Su primera planta se ha restaurado.</p><p>En 1394 Enrique III había entregado la villa a Gomes Suárez de Figueroa, maestre de Santiago, origen del linaje de los Feria.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje de esquinas redondeadas.",
+    "Las vistas sobre la comarca desde el cerro.",
+    "El recinto amurallado que rodea la torre."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Feria",
+    "https://www.openstreetmap.org/?mlat=38.515&mlon=-6.5678#map=18/38.515/-6.5678"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-alburquerque",
+   "nombre": "Castillo de Luna (Alburquerque)",
+   "provincia": "Badajoz",
+   "comarca": "Alburquerque",
+   "lat": 39.2172,
+   "lon": -7.0023,
+   "tipo": "castillo",
+   "estilo": "Gótico",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1445,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Sobre un risco de la sierra de San Pedro, el castillo de Alburquerque vigila la raya de Portugal. Su construcción original es de 1276, en una tierra que los cristianos ganaron definitivamente en 1217. Entre <b>1445 y 1453</b> <b>Álvaro de Luna</b>, el valido de Juan II, levantó la gran torre del homenaje y el puente de arco apuntado que lleva a sus pisos altos.</p><p>Desde 1465 <b>Beltrán de la Cueva</b>, primer duque de Alburquerque, añadió estancias palaciegas, nuevas barbacanas y la pentagonal <b>torre de las Cinco Puntas</b>, unida a la del homenaje por un puente de un solo arco que podía aislarse con un puente levadizo de madera.</p><p>Portugal ocupó la villa entre 1705 y 1716 y le añadió una línea de baluartes. El castillo es Bien de Interés Cultural desde 1933.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje de Álvaro de Luna.",
+    "El puente de un arco hacia la torre de las Cinco Puntas.",
+    "El barrio de Villa Adentro, dentro de la muralla."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Alburquerque",
+    "https://www.openstreetmap.org/?mlat=39.2172&mlon=-7.0023#map=18/39.2172/-7.0023"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-tentudia",
+   "nombre": "Monasterio de Tentudía",
+   "provincia": "Badajoz",
+   "comarca": "Calera de León",
+   "lat": 38.0543,
+   "lon": -6.3385,
+   "tipo": "iglesia",
+   "estilo": "Mudéjar",
+   "epoca": "Mudéjar",
+   "anio": 1514,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En la cumbre más alta de la provincia de Badajoz, a <b>1.104 metros</b>, se esconde este monasterio de la Orden de Santiago. La leyenda cuenta que en una batalla contra los musulmanes, en tiempos de Fernando III, el maestre <b>Pelay Pérez Correa</b> gritó «¡Santa María, detén tu día!»; el sol se detuvo y los cristianos ganaron. De ahí viene el nombre de Tentudía.</p><p>En agradecimiento se levantó un eremitorio, que el papa León X elevó a monasterio en <b>1514</b>. Es una de las mejores muestras del mudéjar español.</p><p>Su tesoro es el <b>retablo de azulejos</b> de <b>Francisco Niculoso Pisano</b>, firmado en 1518. Junto al presbiterio está el sepulcro de Pelay Pérez Correa, también revestido de azulejos policromados.</p>"
+   },
+   "ver_alli": [
+    "El retablo de azulejos de Niculoso Pisano (1518).",
+    "El sepulcro de Pelay Pérez Correa, revestido de azulejos.",
+    "Las vistas desde la cima de la sierra de Tentudía."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Tentudía",
+    "https://www.openstreetmap.org/?mlat=38.0543&mlon=-6.3385#map=18/38.0543/-6.3385"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-la-granada-llerena",
+   "nombre": "Iglesia de Nuestra Señora de la Granada (Llerena)",
+   "provincia": "Badajoz",
+   "comarca": "Llerena",
+   "lat": 38.2376,
+   "lon": -6.015,
+   "tipo": "iglesia",
+   "estilo": "Gótico-mudéjar, renacentista y barroco",
+   "epoca": "Mudéjar",
+   "anio": 1385,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>La iglesia mayor de Llerena preside la plaza de España con una fachada muy poco habitual. La fundó entre <b>1385 y 1387</b> Garcí Fernández de Villagarcía, maestre de Santiago, en estilo gótico-mudéjar sobre una ermita del siglo XIII.</p><p>En el siglo XVI se le añadieron soportales y arcos en la fachada que da a la plaza, y la torre recibió un cuerpo alto renacentista sobre la base mudéjar. La galería superior de la fachada, del siglo XVIII, servía de palco para los actos que se celebraban en la plaza. En 1744, con el templo en ruinas, se encargó su reconstrucción a <b>José de Hermosilla</b>.</p><p>El retablo mayor original se perdió en la Guerra Civil. De la obra primitiva se conservan la capilla de San Juan, de la familia Zapata, y la capilla del Prior, de 1580.</p>"
+   },
+   "ver_alli": [
+    "La fachada de doble arquería abierta a la plaza.",
+    "La torre: base mudéjar y cuerpo alto renacentista.",
+    "Las capillas de San Juan y del Prior."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_Nuestra_Señora_de_la_Granada_(Llerena)",
+    "https://www.openstreetmap.org/?mlat=38.2376&mlon=-6.015#map=18/38.2376/-6.015"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-fregenal-de-la-sierra",
+   "nombre": "Castillo templario de Fregenal de la Sierra",
+   "provincia": "Badajoz",
+   "comarca": "Fregenal de la Sierra",
+   "lat": 38.1705,
+   "lon": -6.6529,
+   "tipo": "castillo",
+   "estilo": "Fortaleza medieval",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1283,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Pocos castillos tienen dentro una plaza de toros y un mercado. En <b>1283</b> Alfonso X concedió Fregenal a la <b>Orden del Temple</b>, que ocupó el castillo hasta 1308. Su recinto tiene <b>siete torres</b>: seis cuadradas y una pentagonal.</p><p>En el antiguo patio de armas se construyó a finales del siglo XVIII una <b>plaza de toros</b>, ampliada a comienzos del XX. Entre 1914 y 1915, derribando un lienzo de muralla, se levantó además el <b>mercado de abastos</b>.</p><p>Una de las torres es compartida con la vecina iglesia de Santa María, que queda unida al castillo.</p>"
+   },
+   "ver_alli": [
+    "La plaza de toros dentro del patio de armas.",
+    "El mercado de abastos dentro del recinto.",
+    "El paseo por la muralla y sus siete torres."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Fregenal_de_la_Sierra",
+    "https://www.openstreetmap.org/?mlat=38.1705&mlon=-6.6529#map=18/38.1705/-6.6529"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "puerta-de-palmas",
+   "nombre": "Puerta de Palmas (Badajoz)",
+   "provincia": "Badajoz",
+   "comarca": "Badajoz",
+   "lat": 38.8806,
+   "lon": -6.9756,
+   "tipo": "monumento",
+   "estilo": "Renacentista",
+   "epoca": "Renacimiento",
+   "anio": 1551,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Quien llegaba a Badajoz desde el puente sobre el Guadiana entraba por esta puerta, terminada en <b>1551</b>. Es hoy el símbolo de la ciudad: un arco de traza <b>renacentista</b> que imita los arcos de triunfo romanos, flanqueado por dos torreones cilíndricos.</p><p>Sobre el arco exterior luce el <b>escudo de Carlos V</b>. Además de entrada fortificada, fue punto de vigilancia y, más tarde, control de aduanas y de impuestos. Sus torreones sirvieron de <b>prisión real</b> hasta finales del siglo XIX.</p>"
+   },
+   "ver_alli": [
+    "El escudo de Carlos V sobre el arco.",
+    "Los dos torreones cilíndricos que flanquean el paso.",
+    "La vista de la puerta desde el puente de Palmas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Puerta_de_Palmas",
+    "https://www.openstreetmap.org/?mlat=38.8806&mlon=-6.9756#map=18/38.8806/-6.9756"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "catedral-de-badajoz",
+   "nombre": "Catedral de San Juan Bautista (Badajoz)",
+   "provincia": "Badajoz",
+   "comarca": "Badajoz",
+   "lat": 38.8784,
+   "lon": -6.9698,
+   "tipo": "iglesia",
+   "estilo": "Gótico, con añadidos renacentistas y barrocos",
+   "epoca": "Gótico",
+   "anio": 1276,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Tras la conquista de Badajoz por Alfonso IX de León en 1230, las obras de la catedral empezaron a mediados del siglo XIII y fue consagrada en <b>1276</b>, aunque no se terminó por completo hasta el siglo XVIII. Por su carácter fronterizo parece una <b>fortaleza</b>: muros fuertes, almenas y una torre sobria y poderosa.</p><p>La torre mide <b>41 metros</b>; su cuerpo de campanas lo terminó Gaspar Méndez en 1542, el mismo que labró en 1546 la portada sur renacentista. El coro es obra de <b>Jerónimo de Valencia</b>, discípulo de Berruguete, entre 1555 y 1559, y el claustro (1509-1520) forma parte hoy del museo catedralicio.</p><p>Es monumento histórico-artístico desde 1931.</p>"
+   },
+   "ver_alli": [
+    "La torre de 41 metros y el aspecto de fortaleza del exterior.",
+    "La sillería del coro de Jerónimo de Valencia.",
+    "El claustro y el museo catedralicio."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Catedral_de_Badajoz",
+    "https://www.openstreetmap.org/?mlat=38.8784&mlon=-6.9698#map=18/38.8784/-6.9698"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "cancho-roano",
+   "campos": {
+    "lat": 38.701,
+    "lon": -5.686,
+    "estilo": "Tartésico (orientalizante)",
+    "ver_alli": [
+     "Recorre el edificio y su foso; el centro de interpretación está al lado del yacimiento.",
+     "Fíjate en los muros de adobe sobre zócalo de pizarra y en la entrada entre dos torres.",
+     "Muchas piezas halladas aquí están en el Museo Arqueológico Provincial de Badajoz.",
+     "Zalamea de la Serena, con su dístilo romano, queda cerca."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Cancho_Roano",
+     "https://es.wikipedia.org/wiki/Cancho_Roano",
+     "https://www.openstreetmap.org/?mlat=38.701&mlon=-5.686#map=18/38.701/-5.686"
+    ]
+   }
+  },
+  {
+   "id": "lacara",
+   "campos": {
+    "lat": 39.0498,
+    "lon": -6.4209,
+    "estilo": "Megalítico",
+    "comarca": "La Nava de Santiago (cerca de Mérida)",
+    "texto": {
+     "general": "<p>El dolmen del Prado de Lácara es uno de los grandes <b>sepulcros de corredor</b> de la Península y el mayor documentado en Extremadura. Se levantó a finales del IV milenio o comienzos del III a. C., hacia el 3000 a. C., en un pequeño cerro de dehesa junto al río Lácara.</p><p>La cámara, casi circular, mide unos <b>5 metros de diámetro</b>; la cámara y el corredor suman casi <b>20 metros de largo</b>. Una de sus losas, la única que resistió una voladura con dinamita, mide <b>5,2 metros</b> y da idea de lo enorme que era. El corredor se divide en tres tramos: un atrio y dos antecámaras.</p><p>Por su monumentalidad fue declarado Monumento Nacional en 1931.</p>"
+    },
+    "ver_alli": [
+     "Aparca junto a la carretera EX-214 y sigue unos 500 m un sendero señalizado entre encinas.",
+     "La losa de 5,2 metros junto a la entrada de la cámara.",
+     "Recorre el corredor y sus tramos, marcados por parejas de losas.",
+     "Mérida está a unos 20 km."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Dolmen_del_prado_de_L%C3%A1cara",
+     "https://es.wikipedia.org/wiki/Dolmen_del_prado_de_L%C3%A1cara",
+     "https://www.openstreetmap.org/?mlat=39.0498&mlon=-6.4209#map=18/39.0498/-6.4209",
+     "https://www.google.com/maps/place/?q=place_id:ChIJJT5NYhCCFg0RKjcoYdUtb-0"
+    ]
+   }
+  },
+  {
+   "id": "torinuelo",
+   "campos": {
+    "lat": 38.3321,
+    "lon": -6.7139,
+    "estilo": "Megalítico (tholos)",
+    "texto": {
+     "general": "<p>El dolmen de Toriñuelo, en la granja del mismo nombre, cerca de Jerez de los Caballeros, es un sepulcro de la <b>Edad del Cobre</b>. Tiene una cámara casi circular, de unos 3,8 por 3,5 metros, cerrada por trece losas y cubierta en su día por una <b>falsa cúpula</b>, todo ello dentro de una colina artificial de arcilla y piedras.</p><p>Se entra por un <b>corredor de unos 25 metros</b>, con un pequeño nicho en un lateral. Tres de sus piedras tienen <b>grabados</b> de círculos, rayos y serpientes; las pinturas que también lo decoraban se han perdido.</p><p>Fue declarado Monumento Nacional en 1926 y desde 2009 es de titularidad pública.</p>"
+    },
+    "ver_alli": [
+     "La visita al interior se concierta antes en la oficina de turismo de Jerez de los Caballeros.",
+     "Recorre el largo corredor de unos 25 metros.",
+     "Busca los grabados de círculos y serpientes en las losas de la cámara.",
+     "Jerez de los Caballeros, ciudad templaria, está muy cerca."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Dolmen_de_Tori%C3%B1uelo",
+     "https://es.wikipedia.org/wiki/Dolmen_de_Tori%C3%B1uelo",
+     "https://www.openstreetmap.org/?mlat=38.3321&mlon=-6.7139#map=18/38.3321/-6.7139",
+     "https://www.google.com/maps/place/?q=place_id:ChIJre5apFNIEQ0R5J1KxxFlOQU"
+    ]
+   }
+  },
+  {
+   "id": "magacela",
+   "campos": {
+    "lat": 38.9012,
+    "lon": -5.7294,
+    "estilo": "Megalítico",
+    "texto": {
+     "general": "<p>El dolmen de Magacela, también llamado de la Cerca del Marzo, es un sepulcro de la <b>Edad del Cobre</b>. Conserva una cámara circular de unos <b>5 metros</b> de diámetro formada por <b>doce losas de granito</b> de casi dos metros de alto; el corredor no se ha conservado.</p><p>Cinco de sus piedras tienen grabados por dentro. Una lleva un <b>sol de once rayos</b>, una serpiente y un motivo vertical en forma de pluma que no tiene paralelo en los grabados megalíticos de la Península; otras muestran cazoletas y surcos.</p><p>La Serena, la comarca donde está, es muy rica en dólmenes, estelas y grabados rupestres.</p>"
+    },
+    "ver_alli": [
+     "Busca en el interior de las losas el sol de once rayos y el motivo en forma de pluma.",
+     "La visita es corta: unos minutos bastan para recorrerlo.",
+     "Sube después al pueblo y al castillo de Magacela, sobre un cerro."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Dolmen_de_Magacela",
+     "https://www.openstreetmap.org/?mlat=38.9012&mlon=-5.7294#map=18/38.9012/-5.7294",
+     "https://www.google.com/maps/place/?q=place_id:ChIJIwWVJIj1FA0RoXsmowoa6J4"
+    ]
+   }
+  },
+  {
+   "id": "capote",
+   "campos": {
+    "lat": 38.1018,
+    "lon": -6.6888,
+    "estilo": "Castreño de la Edad del Hierro",
+    "texto": {
+     "general": "<p>El Castrejón de Capote es un poblado fortificado de los <b>célticos de la Beturia</b>, los celtas del suroeste. Ocupa un espolón sobre la confluencia de los ríos Sillo y Álamo, al sur de Higuera la Real, y sus restos van del siglo V al I a. C., hasta las guerras de la conquista romana.</p><p>Lo cerraba una muralla con torres, y su puerta principal tenía torreones de unos nueve metros de altura. Una calle central se abre en «Y» entre casas rectangulares adosadas. En el centro del poblado, abierto a la calle principal, hay un <b>santuario</b> con altar y banco corrido, clave para conocer la religión de estos pueblos.</p><p>El yacimiento se descubrió en 1985 y desde 2006 tiene un centro de interpretación.</p>"
+    },
+    "ver_alli": [
+     "Empieza por el centro de interpretación, a unos 400 metros del castro, y sigue el sendero señalizado.",
+     "El santuario, en el centro del poblado.",
+     "La puerta principal con sus torreones y la calle central en forma de «Y».",
+     "Hay visitas guiadas con reserva."
+    ],
+    "fuentes": [
+     "https://admin.turismoextremadura.juntaex.es/en/explora/Centro-de-Interpretacion-del-Castrejon-de-Capote-00001/?lang=en",
+     "https://turismoapps.dip-badajoz.es/en/node/3884",
+     "https://www.openstreetmap.org/?mlat=38.1018&mlon=-6.6888#map=18/38.1018/-6.6888",
+     "https://www.google.com/maps/place/?q=place_id:ChIJD953JERqEQ0RGl4aEqOn8lw",
+     "https://zenon.dainst.org/Record/000078951"
+    ]
+   }
+  },
+  {
+   "id": "la-mata",
+   "campos": {
+    "lat": 38.8702,
+    "lon": -5.6781,
+    "estilo": "Tartésico (orientalizante)",
+    "ver_alli": [
+     "Recorre la casa fuerte, que conserva muros de tapial y varias estancias.",
+     "Hay visitas guiadas; conviene consultar antes las condiciones de visita.",
+     "Cancho Roano está a unos 18 km."
+    ],
+    "fuentes": [
+     "https://ninos.kiddle.co/Yacimiento_arqueol%C3%B3gico_de_La_Mata",
+     "https://es.wikipedia.org/wiki/Yacimiento_arqueol%C3%B3gico_de_La_Mata",
+     "https://www.openstreetmap.org/?mlat=38.8702&mlon=-5.6781#map=18/38.8702/-5.6781",
+     "https://www.google.com/maps/place/?q=place_id:ChIJZXaBWt30FA0RCkPoOerRkj8"
+    ]
+   }
+  },
+  {
+   "id": "turunuelo",
+   "campos": {
+    "lat": 38.9495,
+    "lon": -6.0648,
+    "estilo": "Tartésico (orientalizante)",
+    "fuentes": [
+     "https://www.eldiario.es/extremadura/cultura/cupula-protegera-yacimiento-tartesico-turunuelo-estara-finalizada-proximo-verano_1_12637547.html",
+     "https://www.openstreetmap.org/?mlat=38.9495&mlon=-6.0648#map=18/38.9495/-6.0648",
+     "https://www.google.com/maps/place/?q=place_id:ChIJQWhpcABHFA0R2SUA8I9R6P8"
+    ]
+   }
+  },
+  {
+   "id": "merida",
+   "campos": {
+    "lat": 38.9153,
+    "lon": -6.3385,
+    "estilo": "Romano",
+    "ver_alli": [
+     "El teatro y el anfiteatro, uno junto al otro.",
+     "Cruza el puente romano sobre el Guadiana y busca el acueducto de Los Milagros.",
+     "El Museo Nacional de Arte Romano, en el edificio de Moneo; una entrada conjunta del Consorcio abre varios monumentos.",
+     "La colección visigoda (Santa Clara) y la cripta de Santa Eulalia; en verano, el Festival de Teatro Clásico."
+    ],
+    "fuentes": [
+     "https://turismoextremadura.juntaex.es/en/explora/Roman-theatre-of-Merida",
+     "https://www.cultura.gob.es/mnromano/informacion/horarios-tarifas.html",
+     "https://es.wikipedia.org/wiki/Teatro_romano_de_M%C3%A9rida",
+     "https://www.openstreetmap.org/?mlat=38.9153&mlon=-6.3385#map=18/38.9153/-6.3385",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ-ZWdVcAmFA0Rd2pazV9qErY"
+    ]
+   }
+  },
+  {
+   "id": "torre-aguila",
+   "campos": {
+    "lat": 38.8681,
+    "lon": -6.6028,
+    "estilo": "Romano",
+    "texto": {
+     "general": "<p>Torre Águila es una gran <b>villa agrícola romana</b> a orillas del Guadiana, en Barbaño (Montijo), nacida al amparo de Augusta Emerita. Se descubrió en marzo de 1984 al allanar unas tierras de cultivo. Empezó en la primera mitad del siglo I y estuvo en uso hasta el siglo VIII: más de siete siglos.</p><p>Quizá su primer dueño fue un veterano del ejército que vivía en Emerita. Tenía una parte señorial, con patios porticados y estancias con calefacción, y otra de trabajo, con talleres, granero, <b>almazara</b>, <b>lagares</b> y <b>bodega</b>; en el siglo VI se añadieron unas <b>termas</b> y una sala octogonal. Los restos más abundantes son de los siglos II y III, cuando la villa vivía sobre todo del aceite.</p><p>Ocupa unas tres hectáreas y en 2024 se adaptó con rampas y miradores para hacerla accesible.</p>"
+    },
+    "ver_alli": [
+     "Las rampas y plataformas permiten ver todo el yacimiento desde arriba.",
+     "Busca la zona de lagares y la almazara, el corazón económico de la villa.",
+     "El área termal y la sala octogonal de la última fase.",
+     "Visita guiada con cita en el Ayuntamiento de Barbaño."
+    ],
+    "fuentes": [
+     "https://admin.turismoextremadura.juntaex.es/en/explora/Torreaguila-Roman-site",
+     "https://es.wikipedia.org/wiki/Villa_romana_de_Torre%C3%A1guila",
+     "https://www.guiarepsol.com/es/fichas/monumento/villa-romana-de-torreaguila-182402/",
+     "https://www.juntaex.es/w/premio-otaex-accesibilidad-yacimiento-torreaguila",
+     "https://www.openstreetmap.org/?mlat=38.8681&mlon=-6.6028#map=18/38.8681/-6.6028",
+     "https://www.google.com/maps/place/?q=place_id:ChIJe1lBKz-XFg0R0c36ZyU19H8"
+    ]
+   }
+  },
+  {
+   "id": "regina",
+   "campos": {
+    "lat": 38.2033,
+    "lon": -5.9535,
+    "estilo": "Romano",
+    "texto": {
+     "general": "<p>Regina fue una ciudad romana del siglo I, de unas <b>40 hectáreas</b>, junto a la vía que unía Emerita con Astigi (Écija) y, por ella, la capital de Lusitania con Córdoba y Sevilla. Vivió su apogeo en época de los Flavios, cuando obtuvo el rango de municipio.</p><p>Su edificio más emblemático es el <b>teatro</b>, conocido desde antiguo como «Los Paredones» por las grandes moles de hormigón que asomaban del suelo; tiene una orquesta de 16,4 metros de diámetro. Se han excavado también una <b>basílica</b> y un templo de tres capillas dedicado a la Pietas, de época de Domiciano.</p><p>Desde las ruinas se divisa, en lo alto de un cerro, la <b>alcazaba de Reina</b>, levantada por los musulmanes en el siglo XII.</p>"
+    },
+    "ver_alli": [
+     "El teatro, restaurado y aún usado para representaciones de teatro clásico en verano.",
+     "Recorre la basílica y el templo de la Pietas junto al cardo.",
+     "El centro de interpretación, a la entrada, explica la ciudad.",
+     "Conviene consultar antes las condiciones de visita; la alcazaba de Reina queda muy cerca."
+    ],
+    "fuentes": [
+     "https://turismoapps.dip-badajoz.es/sites/default/files/2026-07/LF%20%E2%80%94%20Entrada%20Casas%20de%20Reina.pdf",
+     "https://es.wikipedia.org/wiki/Regina_Turdulorum",
+     "https://es.hispanopedia.com/wiki/Regina_Turdulorum",
+     "https://turismoapps.dip-badajoz.es/sites/default/files/2026-07/LF%20%E2%80%94%20Alcazaba%20de%20Reina.pdf",
+     "https://www.openstreetmap.org/?mlat=38.2033&mlon=-5.9535#map=18/38.2033/-5.9535",
+     "https://www.google.com/maps/place/?q=place_id:ChIJi8TYhVmWEw0RdUut_0l727c"
+    ]
+   }
+  },
+  {
+   "id": "medellin-teatro",
+   "campos": {
+    "lat": 38.9662,
+    "lon": -5.956,
+    "estilo": "Romano",
+    "texto": {
+     "general": "<p>El teatro de <b>Metellinum</b>, la Medellín romana, ocupa la ladera sur del cerro del Castillo, dentro de un yacimiento cuyos orígenes se remontan al Bronce Final. Se construyó a finales de la República o comienzos de la época de Augusto y se reformó en época de Claudio y en el siglo XII. Tenía sitio para unos <b>3.200 espectadores</b>.</p><p>Se excava desde 2007. Las campañas han sacado a la luz el graderío, en estado excepcional, y el escenario, además de esculturas, columnas y el revestimiento de mármol del frente del escenario.</p><p>Sobre él se alza el castillo medieval, y a sus pies el puente del siglo XVII sobre el Guadiana.</p>"
+    },
+    "ver_alli": [
+     "El graderío, excepcionalmente conservado, con el castillo encima.",
+     "El centro museográfico, con las piezas halladas en las excavaciones.",
+     "Entrada conjunta con el centro museográfico y el castillo.",
+     "El puente sobre el Guadiana, a los pies del cerro."
+    ],
+    "fuentes": [
+     "https://www.hoteles.net/badajoz/teatro-romano-medellin-badajoz.html",
+     "https://es.wikipedia.org/wiki/Medell%C3%ADn_(Espa%C3%B1a)",
+     "https://www.openstreetmap.org/?mlat=38.9662&mlon=-5.956#map=18/38.9662/-5.956",
+     "https://www.google.com/maps/place/?q=place_id:ChIJgbYdQidFFA0Rp16dixrCKSk"
+    ]
+   }
+  },
+  {
+   "id": "alcazaba-de-merida",
+   "campos": {
+    "lat": 38.9147,
+    "lon": -6.3466,
+    "estilo": "Andalusí (emiral)",
+    "ver_alli": [
+     "Baja por la escalera al aljibe, hecho con piezas romanas y visigodas.",
+     "Pasea por las murallas: hay vistas al Guadiana y al puente romano.",
+     "Busca la réplica de la lápida fundacional de Abderramán II.",
+     "Se visita con la entrada conjunta de los monumentos de Mérida."
+    ],
+    "fuentes": [
+     "https://www.consorciomerida.org/conjunto/visita/entradas",
+     "https://www.openstreetmap.org/?mlat=38.9147&mlon=-6.3466#map=18/38.9147/-6.3466",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ3fDdnUknFA0RTETj0Wodww0"
+    ]
+   }
+  },
+  {
+   "id": "alcazaba-de-badajoz",
+   "campos": {
+    "lat": 38.8835,
+    "lon": -6.9684,
+    "estilo": "Andalusí (almohade)",
+    "texto": {
+     "general": "<p>Badajoz nació en el año 875, cuando el rebelde <b>Ibn Marwan</b>, con permiso del emir de Córdoba, fundó la ciudad sobre el cerro que domina el Guadiana. Aquella primera cerca se rehízo varias veces, y la alcazaba que vemos hoy es en su mayor parte <b>almohade</b>, levantada poco después de 1169 por el califa Abu Yaqub Yusuf. En los siglos XI y XII fue residencia de los reyes de la taifa de Badajoz.</p><p>Encierra unas <b>8 hectáreas</b> y conserva unos 1.300 metros de muralla, lo que la sitúa entre las mayores alcazabas de Europa. Su torre más famosa es la de <b>Espantaperros</b>, octogonal y de época almohade, considerada precedente de la Torre del Oro de Sevilla.</p><p>Dentro están el palacio de los Duques de la Roca, sede del Museo Arqueológico Provincial, y edificios de la Universidad de Extremadura.</p>"
+    },
+    "ver_alli": [
+     "La torre de Espantaperros, octogonal, con La Galera adosada.",
+     "Recorre el adarve: hay buenas vistas de Badajoz y del Guadiana.",
+     "La Puerta del Capitel y los capiteles visigodos reaprovechados en los muros.",
+     "El Museo Arqueológico Provincial, en el palacio de los Duques de la Roca."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Alcazaba_de_Badajoz",
+     "https://www.openstreetmap.org/?mlat=38.8835&mlon=-6.9684#map=18/38.8835/-6.9684",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ1S-z7jXkFg0Rkd-c4LQx554"
+    ]
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-la-albuera",
+   "campos": {
+    "lat": 38.7165,
+    "lon": -6.822,
+    "estilo": "Campo de batalla (siglo XIX)",
+    "texto": {
+     "general": "<p>El <b>16 de mayo de 1811</b>, en plena Guerra de la Independencia, un ejército aliado español, británico y portugués al mando del general Beresford se enfrentó aquí a los franceses del mariscal <b>Soult</b>, que intentaban levantar el asedio de Badajoz. Tras seis o siete horas de combate, el resultado quedó indeciso y los franceses se retiraron el día 18.</p><p>En proporción a los soldados que lucharon, fue <b>la batalla más sangrienta de toda la guerra</b>. Un regimiento británico, el 57.º, ganó aquí su apodo de «los Duros de Matar» (<i>The Die-Hards</i>).</p><p>El pueblo tiene un <b>centro de interpretación</b> y cada mes de mayo celebra una <b>recreación</b> de la batalla.</p>"
+    },
+    "ver_alli": [
+     "El centro de interpretación, en el pueblo, explica el desarrollo de la batalla.",
+     "Cada mes de mayo se celebra una recreación histórica con cientos de participantes.",
+     "Pasea por los alrededores del pueblo: el campo de batalla se extiende por las lomas cercanas."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Batalla_de_La_Albuera",
+     "https://www.juntaex.es/w/20240516-la-junta-subraya-el-potencial-de-fiestas-de-interes-turistico-como-la-batalla-de-la-albuera-para-atraer-viajeros-a-extremadura",
+     "https://www.openstreetmap.org/?mlat=38.7165&mlon=-6.822#map=18/38.7165/-6.822",
+     "https://www.google.com/maps/place/?q=place_id:ChIJyyYA0U3BFg0RJzNb9IjaJ80"
+    ]
+   }
+  }
+ ]
+}
