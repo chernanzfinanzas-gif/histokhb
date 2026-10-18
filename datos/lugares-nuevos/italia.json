@@ -1,0 +1,1717 @@
+{
+ "zona": "Italia, Vaticano y Malta",
+ "nuevos": [
+  {
+   "id": "catedral-de-siena",
+   "nombre": "Catedral de Siena",
+   "provincia": "Italia",
+   "comarca": "Siena (Toscana)",
+   "lat": 43.3177,
+   "lon": 11.329,
+   "tipo": "iglesia",
+   "estilo": "Gótico italiano sobre base románica toscana",
+   "epoca": "Gótico",
+   "anio": 1264,
+   "regiones_sincronia": [
+    "Italia"
+   ],
+   "texto": {
+    "general": "<p>La catedral de Santa María de la Asunción es el gran orgullo de la <b>Siena medieval</b>, rival de Florencia. La obra quedó en manos de la Obra de Santa María en <b>1196</b>, y la cúpula se terminó en <b>1264</b>. Por dentro y por fuera la cubren franjas de mármol blanco y verde oscuro, y su fachada, empezada hacia <b>1284</b> por <b>Giovanni Pisano</b>, es una de las obras maestras del gótico italiano.</p><p>Dentro están el púlpito que <b>Nicola Pisano</b> labró entre 1265 y 1268 con ayuda de su hijo Giovanni, y un suelo de mármol con escenas que se fue haciendo entre los siglos XIV y XVI. La <b>Biblioteca Piccolomini</b>, encargada en 1492, tiene las paredes y el techo pintados por <b>Pinturicchio</b> entre 1502 y 1507.</p><p>En <b>1339</b> Siena quiso más que duplicar el templo con una nave nueva gigantesca. La <b>Peste Negra de 1348</b> paró las obras, que se abandonaron en 1355: sus muros sin terminar, el «Facciatone», siguen en pie junto a la catedral.</p>"
+   },
+   "ver_alli": [
+    "Está en la plaza del Duomo, en lo alto de Siena, a unos 250 m de la Piazza del Campo.",
+    "El Museo de la Obra, en las naves de la ampliación inacabada, está pegado a la catedral, a unos 60 m.",
+    "El suelo de mármol solo se descubre entero algunas semanas al año; el resto del tiempo está protegido."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Siena_Cathedral",
+    "https://es.wikipedia.org/wiki/Catedral_de_Siena",
+    "https://www.openstreetmap.org/way/418912842"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "san-gimignano",
+   "nombre": "San Gimignano",
+   "provincia": "Italia",
+   "comarca": "San Gimignano (Toscana)",
+   "lat": 43.4674,
+   "lon": 11.0438,
+   "tipo": "poblacion",
+   "estilo": "Villa medieval de torres",
+   "epoca": "Villas y cascos medievales",
+   "regiones_sincronia": [
+    "Italia"
+   ],
+   "texto": {
+    "general": "<p>Un pueblo amurallado en lo alto de una colina toscana, entre Siena y Florencia, famoso por sus <b>torres medievales</b>. Llegó a tener <b>72</b>, levantadas por las familias ricas que competían por tener la más alta, como muestra de poder; hoy se conservan unas <b>15</b>, y su perfil parece un pequeño Manhattan de piedra.</p><p>Su riqueza venía de estar en la <b>Vía Francígena</b>, el camino de los peregrinos que iban a Roma. La <b>Peste Negra de 1348</b> lo arruinó y lo obligó a someterse a Florencia; desde entonces casi no creció, y por eso llegó intacto hasta hoy. En el Palacio Comunal, la Sala de Dante guarda una <b>Maestà</b> pintada al fresco por Lippo Memmi. Es Patrimonio Mundial desde <b>1990</b>.</p>"
+   },
+   "ver_alli": [
+    "La coordenada está en la plaza de la Cisterna, el corazón del pueblo; el centro se recorre a pie desde las puertas de la muralla.",
+    "Junto a ella, en la plaza del Duomo, están la colegiata y el Palacio Comunal, desde cuya torre se ve todo el pueblo.",
+    "Por la tarde, cuando se van los autobuses de excursiones, el pueblo está mucho más tranquilo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/San_Gimignano",
+    "https://www.openstreetmap.org/relation/42458"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "sassi-de-matera",
+   "nombre": "Sassi de Matera",
+   "provincia": "Italia",
+   "comarca": "Matera (Basilicata)",
+   "lat": 40.6635,
+   "lon": 16.6116,
+   "tipo": "poblacion",
+   "estilo": "Viviendas e iglesias excavadas en la roca",
+   "epoca": "Neolítico",
+   "regiones_sincronia": [
+    "Italia"
+   ],
+   "texto": {
+    "general": "<p>Los <b>Sassi</b> son dos barrios de casas, cuevas e iglesias excavadas en la caliza de un barranco, en Matera, en el sur de Italia. Es uno de los lugares habitados más antiguos de Europa: hay gente aquí al menos desde el <b>Paleolítico</b>, y en el <b>Neolítico</b> sus pobladores ya se atrincheraban en estas laderas. Entre las casas hay un gran conjunto de <b>iglesias rupestres</b>.</p><p>En el siglo XX los Sassi se volvieron símbolo de la miseria del sur. El escritor <b>Carlo Levi</b>, desterrado por el fascismo, contó en <i>Cristo se paró en Éboli</i> cómo vivían allí, en condiciones higiénicas precarias, unas quince mil personas: la mitad de la ciudad. La mortalidad infantil cuadruplicaba la media de Italia, y una ley del <b>17 de mayo de 1952</b> ordenó trasladar a sus habitantes a barrios nuevos.</p><p>En <b>1993</b> fueron el primer Patrimonio Mundial del sur de Italia. Su aspecto de ciudad antigua ha atraído al cine: aquí rodaron Pasolini <i>El Evangelio según San Mateo</i> (1964) y Mel Gibson <i>La Pasión de Cristo</i> (2004).</p>"
+   },
+   "ver_alli": [
+    "La coordenada está en el Sasso Caveoso, junto a la iglesia de San Pietro Caveoso; el otro barrio, el Sasso Barisano, queda al norte.",
+    "Se recorren a pie por escaleras y callejones empinados: conviene calzado firme.",
+    "Desde el mirador de la Murgia, al otro lado del barranco, se ve toda la ciudad excavada."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Sassi_de_Matera",
+    "https://www.openstreetmap.org/way/326515081"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-egipcio-de-turin",
+   "nombre": "Museo Egipcio de Turín",
+   "provincia": "Italia",
+   "comarca": "Turín (Piamonte)",
+   "lat": 45.0684,
+   "lon": 7.6844,
+   "tipo": "museo",
+   "estilo": "Palacio barroco de Guarino Guarini",
+   "epoca": "Egipto faraónico",
+   "anio": 1824,
+   "regiones_sincronia": [
+    "Egipto"
+   ],
+   "texto": {
+    "general": "<p>Es el <b>museo más antiguo dedicado solo al antiguo Egipto</b> y la colección egipcia más importante del mundo después de la de El Cairo. Nació en <b>1824</b>, cuando el rey <b>Carlos Félix de Saboya</b> compró la colección que había reunido en Egipto el cónsul francés Bernardino Drovetti: 5.268 piezas, entre ellas cien estatuas y 170 papiros. Ese mismo año <b>Champollion</b> vino a estudiar sus papiros para poner a prueba su desciframiento de los jeroglíficos.</p><p>Entre sus tesoros están el <b>Canon Real de Turín</b>, un papiro con la lista de los reyes de Egipto; la estatua de <b>Ramsés II</b>; y la <b>tumba de Kha y su esposa Merit</b>, que Ernesto Schiaparelli encontró intacta en 1906 y trasladó entera al museo. En los años sesenta Egipto regaló a Italia el pequeño templo de <b>Ellesiya</b>, en agradecimiento por su ayuda para salvar los monumentos de Nubia.</p><p>Ocupa el palacio de la Academia de las Ciencias, que Guarino Guarini proyectó en 1678 como colegio de nobles.</p>"
+   },
+   "ver_alli": [
+    "Está en la calle Accademia delle Scienze, en el centro de Turín, a unos 140 m del palacio Carignano y su Museo del Risorgimento.",
+    "Es grande: conviene dedicarle al menos tres horas y reservar en temporada alta."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Museo_Egizio",
+    "https://es.wikipedia.org/wiki/Museo_Egipcio_de_Tur%C3%ADn",
+    "https://www.openstreetmap.org/node/246516587"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "palacio-ducal-de-urbino",
+   "nombre": "Palacio Ducal de Urbino",
+   "provincia": "Italia",
+   "comarca": "Urbino (Marcas)",
+   "lat": 43.7243,
+   "lon": 12.6363,
+   "tipo": "monumento",
+   "estilo": "Renacimiento",
+   "epoca": "Renacimiento",
+   "regiones_sincronia": [
+    "Italia"
+   ],
+   "texto": {
+    "general": "<p>El palacio que el condotiero <b>Federico da Montefeltro</b>, duque de Urbino, se hizo construir desde mediados del siglo XV es uno de los grandes símbolos del <b>Renacimiento</b>: no una fortaleza, sino una residencia de príncipe humanista. Desde los años 1460 el arquitecto dálmata <b>Luciano Laurana</b> diseñó la fachada, el famoso patio y las escaleras, y tras su marcha en 1472 siguió las obras <b>Francesco di Giorgio Martini</b>. A la muerte de Federico, en 1482, quedó en parte sin terminar.</p><p>Su joya es el <b>studiolo</b> del duque, un gabinete de apenas 3,60 por 3,35 metros forrado de taraceas de madera que fingen armarios entreabiertos, libros e instrumentos de las artes liberales. Hoy el palacio alberga la <b>Galería Nacional de las Marcas</b>, con la <b>Flagelación</b> de Piero della Francesca y obras de Rafael. El centro histórico de Urbino es Patrimonio Mundial desde 1998.</p>"
+   },
+   "ver_alli": [
+    "Está en el centro de Urbino, entre la plaza del Duque Federico y la plaza Rinascimento.",
+    "Desde el valle se ve su fachada de los torreones, la imagen más conocida de la ciudad."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Palacio_Ducal_de_Urbino",
+    "https://en.wikipedia.org/wiki/Palazzo_Ducale,_Urbino",
+    "https://www.openstreetmap.org/relation/1794516"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "grabados-rupestres-de-valcamonica",
+   "nombre": "Grabados rupestres de Valcamonica (Naquane)",
+   "provincia": "Italia",
+   "comarca": "Capo di Ponte (Lombardía)",
+   "lat": 46.0258,
+   "lon": 10.35,
+   "tipo": "yacimiento",
+   "estilo": "Petroglifos prehistóricos",
+   "epoca": "Edad del Hierro",
+   "regiones_sincronia": [
+    "Italia"
+   ],
+   "texto": {
+    "general": "<p>En el valle Camonica, en los Alpes de Lombardía, miles de rocas están cubiertas de <b>grabados</b> prehistóricos: figuras humanas, animales y símbolos. La UNESCO reconoció más de <b>140.000</b> figuras, y los catálogos recientes hablan de entre 200.000 y 300.000. Fue el <b>primer Patrimonio Mundial de Italia</b>, en <b>1979</b>.</p><p>Se fueron grabando durante unos <b>ocho mil años</b> antes de la Edad del Hierro, y siguieron después, en época romana y medieval. Pero la mayoría, entre el 70 y el 80 %, son obra de los <b>camunos</b>, el pueblo que habitaba el valle en la Edad del Hierro y que le dio nombre. Uno de sus signos, la «<b>rosa camuna</b>», es hoy el símbolo oficial de la región de Lombardía.</p>"
+   },
+   "ver_alli": [
+    "La coordenada está en el Parque Nacional de los Grabados Rupestres de Naquane, sobre el pueblo de Capo di Ponte.",
+    "Un sendero por el bosque lleva de roca en roca; los grabados se ven mejor con luz rasante, por la mañana o al final de la tarde.",
+    "Conviene calzado cómodo: el recorrido tiene cuestas."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/Rock_Drawings_in_Valcamonica",
+    "https://www.openstreetmap.org/way/717855889"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "la-valeta",
+   "nombre": "La Valeta",
+   "provincia": "Malta",
+   "comarca": "La Valeta",
+   "lat": 35.8977,
+   "lon": 14.5125,
+   "tipo": "poblacion",
+   "estilo": "Ciudad fortificada manierista y barroca",
+   "epoca": "Renacimiento",
+   "anio": 1566,
+   "regiones_sincronia": [
+    "Italia"
+   ],
+   "texto": {
+    "general": "<p>La capital de Malta es una ciudad nueva del siglo XVI, nacida de una victoria. En 1565 los <b>caballeros de la Orden de San Juan</b>, con su gran maestre <b>Jean Parisot de La Valette</b>, resistieron el asedio de un enorme ejército otomano. Al año siguiente, el <b>28 de marzo de 1566</b>, La Valette puso la primera piedra de una nueva ciudad fortificada, que lleva su nombre.</p><p>La trazó el ingeniero militar italiano <b>Francesco Laparelli</b>, con calles rectas entre grandes bastiones, y la terminó su ayudante maltés <b>Girolamo Cassar</b>. Cassar construyó también entre 1573 y 1578 la iglesia de la Orden, hoy <b>concatedral de San Juan</b>: su interior barroco, pintado por Mattia Preti, tiene el suelo cubierto con las lápidas de unos 375 caballeros y guarda la <b>Decapitación de san Juan Bautista</b> que <b>Caravaggio</b> pintó en 1608, el único cuadro que firmó.</p><p>En la Segunda Guerra Mundial la ciudad sufrió duros bombardeos alemanes e italianos. Es Patrimonio Mundial desde 1980.</p>"
+   },
+   "ver_alli": [
+    "La coordenada está en la concatedral de San Juan, en el centro de la ciudad; La Valeta es pequeña y se recorre a pie.",
+    "Desde los jardines de la Alta Barrakka se ven el Gran Puerto y las Tres Ciudades, donde resistieron los caballeros en 1565.",
+    "Para entrar en la concatedral se pide ropa que cubra hombros y rodillas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/La_Valeta",
+    "https://en.wikipedia.org/wiki/St._John%27s_Co-Cathedral",
+    "https://www.openstreetmap.org/way/23352829"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "templos-de-hagar-qim-y-mnajdra",
+   "nombre": "Templos de Ħaġar Qim y Mnajdra",
+   "provincia": "Malta",
+   "comarca": "Qrendi",
+   "lat": 35.8278,
+   "lon": 14.4422,
+   "tipo": "yacimiento",
+   "estilo": "Templos megalíticos neolíticos",
+   "epoca": "Neolítico",
+   "anio": -3400,
+   "regiones_sincronia": [
+    "Italia"
+   ],
+   "texto": {
+    "general": "<p>Sobre un acantilado de la costa sur de Malta, mirando al mar, se alzan los templos de <b>Ħaġar Qim</b>, construidos en la fase de Ġgantija, entre el 3600 y el 3200 a. C. En su fachada está la <b>mayor piedra</b> usada en los templos megalíticos de Malta, de unas <b>57 toneladas</b>, y un menhir de 5,2 metros de alto.</p><p>Se exploraron por primera vez en <b>1839</b>, y en sus salas aparecieron figuras de piedra de mujeres corpulentas, como la llamada «Venus de Malta», hallada en 1950. Un orificio en uno de sus muros, el «agujero del oráculo», se ha relacionado con la luz del solsticio de verano. Más abajo, hacia el mar, está el conjunto de <b>Mnajdra</b>. Desde 2009 los templos están bajo grandes carpas que los protegen de la lluvia y el sol. Son Patrimonio Mundial con los demás templos megalíticos de Malta.</p>"
+   },
+   "ver_alli": [
+    "El centro de visitantes, con un pequeño museo, está a unos 150 m del templo, en la carretera entre Qrendi y Wied iż-Żurrieq.",
+    "Desde Ħaġar Qim un camino baja por la ladera hasta Mnajdra, con vistas al islote de Filfla.",
+    "En la costa hay poca sombra fuera de las carpas: conviene llevar agua."
+   ],
+   "fuentes": [
+    "https://en.wikipedia.org/wiki/%C4%A6a%C4%A1ar_Qim",
+    "https://www.openstreetmap.org/way/112265657"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "templos-megaliticos-de-ggantija",
+   "campos": {
+    "estilo": "Templos megalíticos neolíticos",
+    "ver_alli": [
+     "Los templos están en lo alto de la meseta de Xagħra, en la isla de Gozo, a la que se llega en ferri desde Malta.",
+     "Se recorren por pasarelas tras pasar por un centro de visitantes con los hallazgos del lugar, a unos 200 m."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/%C4%A0gantija"
+    ]
+   }
+  },
+  {
+   "id": "hipogeo-de-al-saflieni",
+   "campos": {
+    "estilo": "Hipogeo neolítico excavado en la roca",
+    "ver_alli": [
+     "Está bajo una calle de Paola, al sur de La Valeta.",
+     "Las visitas son en grupos muy pequeños para proteger el aire del hipogeo: conviene reservar con mucha antelación.",
+     "No se permiten fotos en el interior."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/%C4%A6al_Saflieni_Hypogeum"
+    ]
+   }
+  },
+  {
+   "id": "otzi-el-hombre-del-hielo",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo arqueológico",
+    "ver_alli": [
+     "El museo está en pleno centro de Bolzano, en la calle del Museo.",
+     "La momia se ve por una pequeña ventana de su cámara refrigerada; el resto del museo explica su vida y su equipo.",
+     "El lugar del hallazgo, en el valle de Senales, tiene su propio museo al aire libre, el archeoParc."
+    ],
+    "texto": {
+     "general": "<p>Momia de un hombre de la Edad del Cobre, muerto hace unos 5.300 años en los Alpes por una flecha. Apareció en un glaciar en 1991, con su ropa, su hacha de cobre y su arco. Se expone en el Museo Arqueológico del Tirol del Sur.</p><p>Ötzi vive desde 1998 en el <b>Museo Arqueológico del Tirol del Sur</b> (calle del Museo, 43), el único lugar donde se ve el cuerpo original: descansa en una cámara a 6 grados bajo cero y 98 % de humedad, y se le contempla por una pequeña ventana. Junto a él se exponen su hacha de cobre, su arco sin terminar, el carcaj, el puñal de sílex, la mochila, los zapatos rellenos de heno y el gorro de piel de oso, y al final espera la reconstrucción de su aspecto que hicieron en 2011 los hermanos Kennis.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/South_Tyrol_Museum_of_Archaeology"
+    ]
+   }
+  },
+  {
+   "id": "su-nuraxi",
+   "campos": {
+    "estilo": "Nuraga de la Edad del Bronce",
+    "ver_alli": [
+     "Está a las afueras de Barumini, en el centro-sur de Cerdeña.",
+     "El nuraga solo se recorre con visita guiada; en el pueblo hay un centro de interpretación."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Su_Nuraxi_%28Barumini%29"
+    ]
+   }
+  },
+  {
+   "id": "necropolis-de-la-banditaccia",
+   "campos": {
+    "estilo": "Necrópolis etrusca de túmulos",
+    "ver_alli": [
+     "Está a unos 2 km del centro de Cerveteri, en el norte del Lacio.",
+     "Se pasea entre túmulos y se puede bajar al interior de varias tumbas.",
+     "Las piezas más famosas halladas aquí están en el Museo de Villa Giulia, en Roma."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Cerveteri"
+    ]
+   }
+  },
+  {
+   "id": "tumbas-pintadas-de-tarquinia",
+   "campos": {
+    "estilo": "Tumbas etruscas pintadas",
+    "ver_alli": [
+     "La necrópolis de Monterozzi está en una loma junto a Tarquinia, en el norte del Lacio.",
+     "Se baja por escaleras a las tumbas, cuyas pinturas se ven tras un cristal.",
+     "En el centro de Tarquinia, el Museo Nacional guarda los caballos alados de terracota."
+    ],
+    "lat": 42.2497,
+    "lon": 11.7699,
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Monterozzi_necropolis",
+     "https://www.openstreetmap.org/relation/1537040"
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-etrusco-de-villa-giulia",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Villa manierista del siglo XVI",
+    "ver_alli": [
+     "Está en el borde del parque de Villa Borghese, en Roma.",
+     "Los jardines y el ninfeo de la villa forman parte de la visita."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/National_Etruscan_Museum_of_Villa_Giulia"
+    ]
+   }
+  },
+  {
+   "id": "paestum",
+   "campos": {
+    "estilo": "Templos dóricos",
+    "ver_alli": [
+     "Los templos se alzan en llano junto a la carretera, a pocos kilómetros de la costa al sur de Salerno.",
+     "El museo, frente al recinto, guarda la Tumba del Nadador."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Paestum"
+    ]
+   }
+  },
+  {
+   "id": "valle-de-los-templos",
+   "campos": {
+    "estilo": "Templos dóricos",
+    "ver_alli": [
+     "La coordenada está sobre el templo de la Concordia, el mejor conservado; el parque se extiende a lo largo de una loma bajo Agrigento.",
+     "Se recorre a pie de un extremo a otro por la antigua Vía Sacra.",
+     "El Museo Arqueológico Regional, junto al parque, completa la visita."
+    ],
+    "lat": 37.2897,
+    "lon": 13.5921,
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Valle_dei_Templi",
+     "https://www.openstreetmap.org/way/255793167"
+    ]
+   }
+  },
+  {
+   "id": "neapolis-de-siracusa",
+   "campos": {
+    "estilo": "Teatro griego y anfiteatro romano",
+    "ver_alli": [
+     "Está en el barrio de la Neápolis, en la Siracusa continental, a unos 2 km de Ortigia.",
+     "El recorrido une el teatro griego, la Oreja de Dionisio en las latomías y el anfiteatro romano.",
+     "En el teatro se representan tragedias griegas en primavera y verano."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/way/214610849"
+    ]
+   }
+  },
+  {
+   "id": "ortigia",
+   "campos": {
+    "tipo": "poblacion",
+    "estilo": "Casco histórico griego, medieval y barroco",
+    "ver_alli": [
+     "Ortigia es una isla unida a la Siracusa moderna por puentes; se recorre a pie.",
+     "En la plaza del Duomo se ven las columnas dóricas del templo de Atenea en los muros de la catedral.",
+     "La fuente de Aretusa está en el paseo marítimo del lado oeste."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ortygia"
+    ]
+   }
+  },
+  {
+   "id": "segesta",
+   "campos": {
+    "estilo": "Templo dórico y teatro griego",
+    "ver_alli": [
+     "El templo está en una colina aislada del oeste de Sicilia, cerca de Calatafimi.",
+     "Al teatro, en lo alto del monte Bárbaro, se sube a pie o en lanzadera desde el aparcamiento."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Segesta"
+    ]
+   }
+  },
+  {
+   "id": "selinunte",
+   "campos": {
+    "estilo": "Templos dóricos",
+    "ver_alli": [
+     "El parque arqueológico está junto al mar, cerca de Marinella di Selinunte.",
+     "La coordenada está sobre la acrópolis; los grandes templos de la colina oriental quedan junto al centro de visitantes, a cerca de 1 km.",
+     "Es muy extenso y con poca sombra: hay trenecillo y lanzaderas entre las zonas."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Selinunte"
+    ]
+   }
+  },
+  {
+   "id": "bronces-de-riace",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo arqueológico; bronces griegos clásicos",
+    "ver_alli": [
+     "Los bronces se exponen en el Museo Arqueológico Nacional de Reggio Calabria, en la plaza De Nava.",
+     "Antes de entrar en su sala hay que pasar unos minutos en una cámara de filtrado de aire.",
+     "El museo guarda también una gran colección de la Magna Grecia."
+    ],
+    "lat": 38.1146,
+    "lon": 15.6511,
+    "fuentes": [
+     "https://www.openstreetmap.org/way/443732597"
+    ]
+   }
+  },
+  {
+   "id": "antro-de-la-sibila-de-cumas",
+   "campos": {
+    "estilo": "Galería trapezoidal excavada en la toba",
+    "ver_alli": [
+     "Está en el parque arqueológico de Cumas, al oeste de Pozzuoli, en los Campos Flégreos.",
+     "Desde el antro se sube a la acrópolis, con restos de templos y vistas al mar."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Cumaean_Sibyl",
+     "https://www.openstreetmap.org/way/118640919"
+    ]
+   }
+  },
+  {
+   "id": "teatro-de-taormina",
+   "campos": {
+    "estilo": "Teatro grecorromano",
+    "ver_alli": [
+     "Está en lo alto de Taormina, a pocos minutos a pie del corso Umberto.",
+     "Desde la gradería se ven el mar y, en días claros, el Etna.",
+     "En verano acoge conciertos y festivales."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ancient_theatre_of_Taormina"
+    ]
+   }
+  },
+  {
+   "id": "foro-romano-y-palatino",
+   "campos": {
+    "estilo": "Arquitectura romana",
+    "ver_alli": [
+     "El Foro y el Palatino forman un solo recinto arqueológico junto al Coliseo.",
+     "Desde los jardines del Palatino y desde el Capitolio se ve todo el Foro desde arriba.",
+     "Conviene llevar calzado cómodo: el suelo es irregular."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Roman_Forum"
+    ]
+   }
+  },
+  {
+   "id": "coliseo",
+   "campos": {
+    "estilo": "Anfiteatro romano",
+    "ver_alli": [
+     "Está en el centro de Roma, junto a la estación de metro Colosseo.",
+     "El Arco de Constantino y la entrada al Foro Romano están a pocos pasos.",
+     "Conviene reservar la visita con antelación."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Colosseum"
+    ]
+   }
+  },
+  {
+   "id": "panteon",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Templo romano con cúpula de hormigón",
+    "ver_alli": [
+     "Está en la plaza de la Rotonda, en el centro histórico de Roma.",
+     "Sigue siendo una iglesia: dentro están las tumbas de Rafael y de los primeros reyes de Italia.",
+     "Cuando llueve, el agua entra por el óculo y se va por los desagües del suelo."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Pantheon%2C_Rome"
+    ]
+   }
+  },
+  {
+   "id": "ara-pacis",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Altar augústeo",
+    "ver_alli": [
+     "El altar está dentro del museo de cristal de Richard Meier, junto al río Tíber.",
+     "Al lado está el Mausoleo de Augusto.",
+     "Parte del altar se ve desde la calle a través de los ventanales."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ara_Pacis"
+    ]
+   }
+  },
+  {
+   "id": "foros-imperiales-y-columna-de-trajano",
+   "campos": {
+    "estilo": "Arquitectura imperial romana",
+    "ver_alli": [
+     "Los foros se ven desde la vía de los Foros Imperiales, entre el Coliseo y la plaza Venecia.",
+     "La Columna de Trajano se contempla de cerca desde la calle.",
+     "Los Mercados de Trajano tienen museo propio, con vistas sobre el foro."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Trajan%27s_Column"
+    ]
+   }
+  },
+  {
+   "id": "termas-de-caracalla",
+   "campos": {
+    "estilo": "Termas imperiales romanas",
+    "ver_alli": [
+     "Están al sur del Palatino, junto al viale delle Terme di Caracalla.",
+     "Se recorren los enormes muros de ladrillo y se conservan restos de mosaicos.",
+     "En verano el recinto acoge la temporada de ópera al aire libre."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Baths_of_Caracalla"
+    ]
+   }
+  },
+  {
+   "id": "castel-sant-angelo",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Mausoleo romano convertido en fortaleza",
+    "ver_alli": [
+     "Está a orillas del Tíber, frente al puente de Sant'Angelo y a unos minutos del Vaticano.",
+     "Se sube por la rampa del antiguo mausoleo hasta la terraza del ángel, con vistas de Roma.",
+     "El Passetto, un corredor elevado, lo une con el Vaticano."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Castel_Sant%27Angelo"
+    ]
+   }
+  },
+  {
+   "id": "via-apia-y-catacumbas",
+   "campos": {
+    "estilo": "Calzada romana y catacumbas paleocristianas",
+    "ver_alli": [
+     "La coordenada está en las catacumbas de San Calixto, junto a la Vía Apia Antigua.",
+     "El parque regional de la Vía Apia se recorre a pie o en bicicleta, con tumbas a ambos lados.",
+     "Las catacumbas solo se visitan con guía."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Appian_Way_Regional_Park",
+     "https://www.openstreetmap.org/way/27351933"
+    ]
+   }
+  },
+  {
+   "id": "museos-capitolinos",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Plaza renacentista de Miguel Ángel",
+    "ver_alli": [
+     "Están en la plaza del Campidoglio, en lo alto del Capitolio.",
+     "Un pasadizo subterráneo une los dos palacios y se asoma al Foro Romano desde el Tabulario."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Capitoline_Museums"
+    ]
+   }
+  },
+  {
+   "id": "ostia-antica",
+   "campos": {
+    "estilo": "Ciudad romana",
+    "ver_alli": [
+     "Está a unos 25 km del centro de Roma, cerca de Fiumicino; se llega en tren de cercanías.",
+     "Es muy extensa: conviene dedicarle medio día y llevar calzado cómodo.",
+     "Hay un pequeño museo con estatuas y relieves de la ciudad."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ostia_Antica"
+    ]
+   }
+  },
+  {
+   "id": "pompeya",
+   "campos": {
+    "estilo": "Ciudad romana",
+    "ver_alli": [
+     "Las ruinas están junto a la ciudad moderna de Pompeya; se llega en el tren Circumvesuviana desde Nápoles.",
+     "Se necesita al menos medio día; hay poca sombra.",
+     "Muchas pinturas y objetos están en el Museo Arqueológico Nacional de Nápoles."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Pompeii"
+    ]
+   }
+  },
+  {
+   "id": "herculano",
+   "campos": {
+    "estilo": "Ciudad romana",
+    "ver_alli": [
+     "Está en el centro de Ercolano, a pocos minutos de la estación de la Circumvesuviana.",
+     "Las ruinas se ven desde lo alto, a unos veinte metros por debajo de la ciudad actual.",
+     "Es más pequeña y abarcable que Pompeya."
+    ],
+    "texto": {
+     "general": "<p>Ciudad más pequeña que Pompeya, sepultada por avalanchas de gas ardiente y material volcánico (no de lodo, como se creyó durante mucho tiempo), que conservaron madera, muebles y hasta comida. En los almacenes del puerto aparecieron unos 300 esqueletos.</p><p>Herculano recibió poca piedra pómez, y muchos vecinos tuvieron tiempo de marcharse. Hacia la medianoche llegó la primera avalancha de gas ardiente, y la ciudad quedó bajo unos veinte metros de material. Más de 300 personas que esperaban un rescate por mar murieron en la playa y en los cobertizos de las barcas. Aquí empezó en 1738 la excavación que el rey Carlos de Borbón, futuro Carlos III de España, encargó al ingeniero zaragozano Roque Joaquín de Alcubierre.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Herculaneum"
+    ]
+   }
+  },
+  {
+   "id": "museo-arqueologico-nacional-de-napoles",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo arqueológico",
+    "ver_alli": [
+     "Está en el centro de Nápoles, junto a la estación de metro Museo.",
+     "Conviene visitarlo antes o después de Pompeya y Herculano.",
+     "El «gabinete secreto» tiene sala propia."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/National_Archaeological_Museum%2C_Naples"
+    ]
+   }
+  },
+  {
+   "id": "villa-adriana",
+   "campos": {
+    "estilo": "Villa imperial romana",
+    "ver_alli": [
+     "Está en la llanura bajo Tívoli, a unos 30 km al este de Roma.",
+     "Es enorme: conviene dedicarle medio día y seguir el plano.",
+     "En Tívoli está también la Villa de Este, con sus fuentes renacentistas."
+    ],
+    "lat": 41.946,
+    "lon": 12.7727,
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Hadrian%27s_Villa"
+    ]
+   }
+  },
+  {
+   "id": "arena-de-verona",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Anfiteatro romano",
+    "ver_alli": [
+     "Está en la plaza Bra, en el centro de Verona.",
+     "En verano acoge el festival de ópera, con representaciones nocturnas.",
+     "Desde lo alto de las gradas se ve el centro de la ciudad."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Verona_Arena"
+    ]
+   }
+  },
+  {
+   "id": "aquilea",
+   "campos": {
+    "estilo": "Ciudad romana y basílica paleocristiana",
+    "ver_alli": [
+     "La basílica y las ruinas están en el pequeño pueblo de Aquilea, cerca de la laguna de Grado.",
+     "Los mosaicos del suelo de la basílica se ven desde pasarelas de cristal.",
+     "El foro, el puerto fluvial y el museo arqueológico se recorren a pie."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Aquileia"
+    ]
+   }
+  },
+  {
+   "id": "augusta-praetoria-aosta",
+   "campos": {
+    "estilo": "Ciudad romana",
+    "ver_alli": [
+     "Los restos romanos están repartidos por el centro de Aosta: la Porta Pretoria, el arco de Augusto y la gran fachada del teatro.",
+     "Se recorren a pie en poco tiempo."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Aosta"
+    ]
+   }
+  },
+  {
+   "id": "anfiteatro-de-capua",
+   "campos": {
+    "estilo": "Anfiteatro romano",
+    "ver_alli": [
+     "Está en Santa Maria Capua Vetere, la antigua Capua, a pocos kilómetros de Caserta.",
+     "Se puede bajar a los pasillos subterráneos bajo la arena.",
+     "El museo de los gladiadores está junto al anfiteatro."
+    ],
+    "lat": 41.0859,
+    "lon": 14.2503,
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Amphitheatre_of_ancient_Capua",
+     "https://www.openstreetmap.org/relation/18389981"
+    ]
+   }
+  },
+  {
+   "id": "villa-romana-del-casale",
+   "campos": {
+    "estilo": "Villa romana tardoantigua con mosaicos",
+    "ver_alli": [
+     "Está en el campo, a unos 5 km de Piazza Armerina, en el centro de Sicilia.",
+     "Los mosaicos se recorren por pasarelas elevadas bajo una cubierta protectora."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Villa_Romana_del_Casale"
+    ]
+   }
+  },
+  {
+   "id": "mausoleo-de-gala-placidia",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Paleocristiano con mosaicos",
+    "ver_alli": [
+     "Está en el mismo recinto que la basílica de San Vital, en el centro de Rávena.",
+     "Es muy pequeño y la luz es tenue: hay que dejar que los ojos se acostumbren para ver el cielo de estrellas."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Mausoleum_of_Galla_Placidia"
+    ]
+   }
+  },
+  {
+   "id": "mausoleo-de-teodorico",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Mausoleo ostrogodo de sillería",
+    "ver_alli": [
+     "Está en un parque a las afueras del centro histórico de Rávena, a unos 20 minutos a pie.",
+     "En el piso superior se conserva una bañera de pórfido usada como sarcófago."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Mausoleum_of_Theodoric",
+     "https://www.openstreetmap.org/relation/19514766"
+    ]
+   }
+  },
+  {
+   "id": "campo-de-batalla-de-cannas",
+   "campos": {
+    "estilo": "Campo de batalla y poblado medieval",
+    "ver_alli": [
+     "El parque arqueológico está en una colina sobre el valle del Ofanto, entre Barletta y Canosa.",
+     "Desde lo alto se domina la llanura donde se cree que se libró la batalla.",
+     "El antiquarium expone hallazgos del lugar."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Cannae"
+    ]
+   }
+  },
+  {
+   "id": "lago-trasimeno",
+   "campos": {
+    "estilo": "Campo de batalla",
+    "ver_alli": [
+     "La coordenada está en Tuoro sul Trasimeno, donde empieza el recorrido histórico señalizado de la batalla.",
+     "El itinerario tiene paneles y miradores sobre la llanura y la orilla norte del lago; el mirador de Malpasso está a unos 3,5 km."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Battle_of_Lake_Trasimene"
+    ]
+   }
+  },
+  {
+   "id": "ravena-san-vital-y-gala-placidia",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Bizantino con mosaicos",
+    "ver_alli": [
+     "San Vital y el mausoleo de Gala Placidia comparten recinto en el centro de Rávena.",
+     "Hay un pase conjunto para los monumentos de la ciudad.",
+     "San Apolinar en Clase está a unos 5 km del centro."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Basilica_of_San_Vitale"
+    ]
+   }
+  },
+  {
+   "id": "basilica-de-san-marcos",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Bizantino veneciano",
+    "ver_alli": [
+     "Está en la plaza de San Marcos, junto al Palacio Ducal.",
+     "Los caballos originales están en el museo de la basílica; los de la fachada son copias.",
+     "Para entrar se exige ropa que cubra hombros y rodillas."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/St_Mark%27s_Basilica"
+    ]
+   }
+  },
+  {
+   "id": "biblioteca-marciana",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Renacimiento (Sansovino)",
+    "ver_alli": [
+     "Está en la Piazzetta, frente al Palacio Ducal.",
+     "Su salón histórico se visita junto con el Museo Correr."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Biblioteca_Marciana"
+    ]
+   }
+  },
+  {
+   "id": "basilica-de-torcello",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Véneto-bizantino",
+    "ver_alli": [
+     "Torcello es una isla casi deshabitada del norte de la laguna, a la que se llega en vaporetto desde Venecia.",
+     "Se puede subir al campanario, con vistas a la laguna."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Torcello_Cathedral"
+    ]
+   }
+  },
+  {
+   "id": "capilla-palatina-de-palermo",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Árabe-normando-bizantino",
+    "ver_alli": [
+     "Está en el primer piso del Palacio de los Normandos, sede del parlamento siciliano.",
+     "Se combina con la catedral, a pocos minutos a pie."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Cappella_Palatina"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-monreale",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Árabe-normando-bizantino",
+    "ver_alli": [
+     "Está en lo alto de Monreale, a unos 8 km de Palermo.",
+     "Se puede subir a las terrazas y visitar el claustro.",
+     "Desde el mirador junto al claustro se ve la llanura de la Conca d'Oro y Palermo."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Monreale_Cathedral"
+    ]
+   }
+  },
+  {
+   "id": "basilica-de-san-nicolas-de-bari",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico de Apulia",
+    "ver_alli": [
+     "Está en el casco antiguo de Bari, cerca del puerto.",
+     "En la cripta se venera la tumba del santo; hay también un altar para el culto ortodoxo."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Basilica_of_Saint_Nicholas%2C_Bari"
+    ]
+   }
+  },
+  {
+   "id": "templo-malatestiano",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Renacimiento (Alberti) sobre iglesia gótica",
+    "ver_alli": [
+     "Está en el centro de Rímini y sigue siendo la catedral de la ciudad.",
+     "Dentro hay un crucifijo de Giotto y un fresco de Piero della Francesca."
+    ],
+    "texto": {
+     "general": "<p>Iglesia gótica de San Francisco que Segismundo Malatesta transformó en templo renacentista, con fachada de León Battista Alberti. En uno de sus laterales está el sarcófago con los restos del filósofo bizantino Pletón. Nunca se terminó: Malatesta cayó en desgracia y la cúpula proyectada no se construyó.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Tempio_Malatestiano"
+    ]
+   }
+  },
+  {
+   "id": "archiginnasio-de-bolonia",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Renacimiento",
+    "ver_alli": [
+     "Está junto a la plaza Mayor de Bolonia, bajo los soportales.",
+     "Se visitan el Teatro Anatómico y la sala Stabat Mater; el resto es biblioteca municipal."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Archiginnasio_of_Bologna"
+    ]
+   }
+  },
+  {
+   "id": "basilica-de-san-francisco-de-asis",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico y gótico",
+    "ver_alli": [
+     "Está en el extremo oeste de Asís, sobre el valle.",
+     "Se entra primero en la basílica inferior y la cripta; la superior se abre a la explanada de arriba.",
+     "En el pueblo están también la basílica de Santa Clara y la catedral de San Rufino."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Basilica_of_Saint_Francis_of_Assisi"
+    ]
+   }
+  },
+  {
+   "id": "plaza-de-los-milagros-de-pisa",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Románico pisano",
+    "ver_alli": [
+     "La plaza está en el borde norte del casco antiguo de Pisa, junto a la muralla.",
+     "Para subir a la torre hay que reservar hora.",
+     "El camposanto y el museo de la catedral están en la misma plaza."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Piazza_dei_Miracoli",
+     "https://www.openstreetmap.org/way/975284945"
+    ]
+   }
+  },
+  {
+   "id": "iglesia-del-santo-espiritu-de-palermo",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Normando",
+    "ver_alli": [
+     "Está dentro del cementerio de Santa Úrsula, al sur del centro de Palermo.",
+     "Es pequeña y poco visitada; conviene combinarla con la catedral y el Palacio de los Normandos."
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-palermo",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Árabe-normando, gótico y neoclásico",
+    "ver_alli": [
+     "Está en la calle Vittorio Emanuele, entre el Palacio de los Normandos y los Quattro Canti.",
+     "Se puede subir a los tejados y visitar la cripta y el tesoro."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Palermo_Cathedral"
+    ]
+   }
+  },
+  {
+   "id": "castel-del-monte",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Gótico suabo de planta octogonal",
+    "ver_alli": [
+     "Está en lo alto de una colina aislada de las Murgias, a unos 18 km de Andria.",
+     "Se sube a pie o en lanzadera desde el aparcamiento."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Castel_del_Monte%2C_Apulia"
+    ]
+   }
+  },
+  {
+   "id": "tumba-de-dante",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Neoclásico",
+    "ver_alli": [
+     "Está junto a la iglesia de San Francisco, en el centro de Rávena.",
+     "Al lado, el Museo Dante y el túmulo donde se escondieron los restos en la Segunda Guerra Mundial."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/way/158269535"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-florencia-y-cupula-de-brunel",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Gótico florentino y cúpula renacentista",
+    "ver_alli": [
+     "Está en la plaza del Duomo, en el centro de Florencia.",
+     "Hay un pase conjunto para la catedral, la cúpula, el campanario, el baptisterio y el museo.",
+     "La subida a la cúpula exige reservar hora."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Florence_Cathedral"
+    ]
+   }
+  },
+  {
+   "id": "galeria-de-los-uffizi",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Manierismo (Vasari)",
+    "ver_alli": [
+     "Está entre la plaza de la Señoría y el río Arno.",
+     "Conviene reservar con antelación.",
+     "El Corredor Vasariano la une con el Palacio Pitti, al otro lado del río."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Uffizi"
+    ]
+   }
+  },
+  {
+   "id": "capillas-mediceas-y-basilica-de-san-lore",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Renacimiento (Brunelleschi y Miguel Ángel)",
+    "ver_alli": [
+     "Están detrás del mercado de San Lorenzo, en el centro de Florencia.",
+     "Las Capillas Mediceas se visitan por la parte trasera de la basílica.",
+     "La Biblioteca Laurenciana, también de Miguel Ángel, está en el claustro."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Medici_Chapels"
+    ]
+   }
+  },
+  {
+   "id": "galeria-de-la-academia",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de escultura y pintura",
+    "ver_alli": [
+     "Está en la calle Ricasoli, a pocos minutos a pie de la catedral.",
+     "Las colas son largas: conviene reservar."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Galleria_dell%27Accademia"
+    ]
+   }
+  },
+  {
+   "id": "basilica-de-santa-croce",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Gótico florentino",
+    "ver_alli": [
+     "Está en la gran plaza de Santa Croce, al este del centro de Florencia.",
+     "En el claustro está la capilla Pazzi, de Brunelleschi."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Santa_Croce%2C_Florence"
+    ]
+   }
+  },
+  {
+   "id": "palazzo-vecchio",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Gótico civil florentino",
+    "ver_alli": [
+     "Está en la plaza de la Señoría, en el centro de Florencia.",
+     "Se puede subir a la torre de Arnolfo.",
+     "Hay visitas a los pasadizos secretos del palacio."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Palazzo_Vecchio"
+    ]
+   }
+  },
+  {
+   "id": "museo-galileo",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo de historia de la ciencia",
+    "ver_alli": [
+     "Está junto a los Uffizi, a orillas del Arno.",
+     "Es una visita tranquila, con instrumentos científicos de los Médici."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Museo_Galileo"
+    ]
+   }
+  },
+  {
+   "id": "castel-nuovo-de-napoles",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Gótico y arco renacentista",
+    "ver_alli": [
+     "Está frente al puerto de Nápoles, junto a la plaza del Municipio.",
+     "Bajo un suelo de cristal se ven restos romanos y medievales.",
+     "Desde sus torres se ve el Vesubio."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Castel_Nuovo",
+     "https://www.openstreetmap.org/relation/15009683"
+    ]
+   }
+  },
+  {
+   "id": "palacio-real-de-caserta",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Barroco tardío (Vanvitelli)",
+    "ver_alli": [
+     "Está frente a la estación de Caserta, a unos 35 km al norte de Nápoles.",
+     "El parque mide unos 3 km de largo: hay lanzaderas y alquiler de bicicletas.",
+     "Se necesita casi un día para verlo todo."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Royal_Palace_of_Caserta"
+    ]
+   }
+  },
+  {
+   "id": "palacio-real-y-teatro-de-san-carlos",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Barroco y neoclásico",
+    "ver_alli": [
+     "El palacio da a la plaza del Plebiscito; el teatro está en su lado norte.",
+     "La fachada del palacio tiene estatuas de los reyes de Nápoles, entre ellos Alfonso V y Carlos III."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Royal_Palace_of_Naples"
+    ]
+   }
+  },
+  {
+   "id": "capilla-sixtina-y-museos-vaticanos",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Renacimiento",
+    "ver_alli": [
+     "La coordenada está sobre la Capilla Sixtina; el acceso a los Museos Vaticanos está en el viale Vaticano, a unos 350 m.",
+     "Conviene reservar; la Sixtina está al final del recorrido.",
+     "En la Sixtina no se pueden hacer fotos."
+    ],
+    "lat": 41.9029,
+    "lon": 12.4545,
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Sistine_Chapel"
+    ]
+   }
+  },
+  {
+   "id": "basilica-y-plaza-de-san-pedro",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Renacimiento y barroco",
+    "ver_alli": [
+     "La plaza está abierta; para entrar en la basílica hay control de seguridad y de vestimenta.",
+     "Se puede subir a la cúpula de Miguel Ángel.",
+     "Bajo la basílica están las grutas vaticanas, con tumbas de papas."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/St._Peter%27s_Basilica"
+    ]
+   }
+  },
+  {
+   "id": "galeria-borghese",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Villa barroca",
+    "ver_alli": [
+     "Está dentro del parque de Villa Borghese, en Roma.",
+     "Solo se entra con reserva y por turnos."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Galleria_Borghese"
+    ]
+   }
+  },
+  {
+   "id": "la-ultima-cena-de-leonardo",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Renacimiento",
+    "ver_alli": [
+     "Está en el antiguo refectorio del convento de Santa María de las Gracias, en Milán.",
+     "Se ve en grupos pequeños y por poco tiempo, con reserva hecha mucho antes.",
+     "La iglesia de Santa María de las Gracias, con la tribuna de Bramante, está al lado."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Santa_Maria_delle_Grazie%2C_Milan"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-milan",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Gótico",
+    "ver_alli": [
+     "Está en la plaza del Duomo, en el centro de Milán.",
+     "Se sube a las terrazas a pie o en ascensor.",
+     "Junto a ella está la Galería Víctor Manuel II."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Milan_Cathedral"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-trento",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "ver_alli": [
+     "Está en la plaza del Duomo de Trento.",
+     "Bajo el suelo se visitan los restos de la basílica paleocristiana.",
+     "Cerca están el Museo Diocesano y el castillo del Buonconsiglio."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Trento_Cathedral"
+    ]
+   }
+  },
+  {
+   "id": "palacio-ducal-de-venecia",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Gótico veneciano",
+    "ver_alli": [
+     "Está junto a la basílica de San Marcos, frente a la laguna.",
+     "Hay visitas a los «itinerarios secretos».",
+     "Por el Puente de los Suspiros se pasa a las prisiones."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Doge%27s_Palace"
+    ]
+   }
+  },
+  {
+   "id": "arsenal-de-venecia-y-museo-naval",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura naval veneciana",
+    "ver_alli": [
+     "El Arsenal está en el barrio de Castello, al este de San Marcos.",
+     "Parte del Arsenal se abre durante la Bienal de arte.",
+     "El Museo Histórico Naval está en la riva San Biagio, a unos 250 m de la puerta del Arsenal."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Venetian_Arsenal"
+    ]
+   }
+  },
+  {
+   "id": "palacio-ducal-de-mantua",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Gótico y Renacimiento",
+    "ver_alli": [
+     "Está en la plaza Sordello, en el centro de Mantua.",
+     "Se combina con el palacio del Te, de Giulio Romano."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ducal_Palace%2C_Mantua"
+    ]
+   }
+  },
+  {
+   "id": "templo-voltiano",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Neoclásico",
+    "ver_alli": [
+     "Está junto al paseo del lago, en el centro de Como.",
+     "Es un museo pequeño que se ve en poco tiempo."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Tempio_Voltiano"
+    ]
+   }
+  },
+  {
+   "id": "museo-del-risorgimento-de-turin",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Barroco (Guarini)",
+    "ver_alli": [
+     "Está en el palacio Carignano, en el centro de Turín.",
+     "Se visita la sala del primer parlamento italiano.",
+     "Turín fue la primera capital de Italia."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Museum_of_the_Risorgimento",
+     "https://www.openstreetmap.org/relation/10794761"
+    ]
+   }
+  },
+  {
+   "id": "compendio-garibaldino-de-caprera",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Casa-museo",
+    "ver_alli": [
+     "Se llega a Caprera desde La Maddalena por un puente.",
+     "La tumba de Garibaldi está en el jardín de la casa."
+    ],
+    "lat": 41.2163,
+    "lon": 9.4615,
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Caprera",
+     "https://www.openstreetmap.org/node/4423657054"
+    ]
+   }
+  },
+  {
+   "id": "monumento-a-victor-manuel-ii",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Neoclásico monumental",
+    "ver_alli": [
+     "Está en la plaza Venecia, al pie del Capitolio.",
+     "Desde su terraza se ve todo el centro de Roma.",
+     "Dentro está el Museo Central del Risorgimento."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/relation/1849830"
+    ]
+   }
+  },
+  {
+   "id": "memorial-de-redipuglia",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Arquitectura conmemorativa fascista",
+    "ver_alli": [
+     "Está junto a la carretera, en Fogliano Redipuglia, cerca de Gorizia.",
+     "Cerca hay senderos por las trincheras del Carso."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Redipuglia_War_Memorial"
+    ]
+   }
+  },
+  {
+   "id": "museo-marconi-villa-griffone",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Villa rural",
+    "ver_alli": [
+     "Está en Pontecchio Marconi, en las colinas al sur de Bolonia.",
+     "Las visitas son guiadas y con reserva.",
+     "El mausoleo de Marconi está en el jardín de la villa."
+    ],
+    "lat": 44.4314,
+    "lon": 11.2676,
+    "fuentes": [
+     "https://www.openstreetmap.org/way/152533606"
+    ]
+   }
+  },
+  {
+   "id": "foro-italico-y-barrio-eur",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Racionalismo y arquitectura fascista",
+    "ver_alli": [
+     "La coordenada está en el Estadio de los Mármoles del Foro Itálico, en el norte de Roma; el EUR está en el sur, a unos 12 km.",
+     "El «Coliseo cuadrado» del EUR es hoy sede de una firma de moda."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Foro_Italico"
+    ]
+   }
+  },
+  {
+   "id": "mausoleo-de-las-fosas-ardeatinas",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Memorial de posguerra",
+    "ver_alli": [
+     "Está en la Vía Ardeatina, cerca de las catacumbas de San Calixto.",
+     "Se recorren las galerías de la antigua cantera y el mausoleo con las tumbas."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ardeatine_massacre"
+    ]
+   }
+  },
+  {
+   "id": "abadia-de-montecassino",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Reconstrucción del monasterio barroco",
+    "ver_alli": [
+     "Está en lo alto del monte, sobre Cassino; se sube por una carretera de curvas.",
+     "En la basílica está la tumba de san Benito.",
+     "Abajo se ven los cementerios militares, entre ellos el polaco."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Monte_Cassino"
+    ]
+   }
+  },
+  {
+   "id": "no-mafia-memorial",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Centro de documentación",
+    "ver_alli": [
+     "Está en la calle Vittorio Emanuele, en el centro histórico de Palermo.",
+     "Delante de la casa de Falcone, en la calle Notarbartolo, está el «árbol Falcone»."
+    ],
+    "fuentes": [
+     "https://www.openstreetmap.org/node/9893560862"
+    ]
+   }
+  },
+  {
+   "id": "garganta-del-bottaccione-gubbio",
+   "campos": {
+    "estilo": "Sección geológica"
+   }
+  },
+  {
+   "id": "archeoparc-val-senales",
+   "campos": {
+    "tipo": "museo",
+    "estilo": "Museo al aire libre",
+    "ver_alli": [
+     "Museo al aire libre con casas reconstruidas, demostraciones de fuego, tiro con arco y canoa.",
+     "Abre en la temporada de primavera a otoño; en invierno solo recibe grupos concertados.",
+     "El Museo Arqueológico de Bolzano, donde está Ötzi, queda a algo más de una hora en coche."
+    ],
+    "fuentes": [
+     "https://museums.province.bz.it/en/museums-in-south-tyrol/archeoparc-val-senales",
+     "https://suedtirolerland.it/en/highlights/museums-and-exhibitions/archeoparc-val-senales",
+     "https://familienausflug.info/it/destinazione-escursione/archeoparc-schnalstal-2",
+     "https://www.openstreetmap.org/node/1739076436"
+    ]
+   }
+  },
+  {
+   "id": "isla-de-mozia",
+   "campos": {
+    "estilo": "Ciudad fenicia",
+    "fuentes": [
+     "https://cultura.gov.it/luogo/museo-giuseppe-whitaker",
+     "https://www.unipa.it/dipartimenti/cultureesocieta/Missioni-Archeologiche/Missioni-in-Sicilia/Mozia/index.html",
+     "https://fondoambiente.it/luoghi/isola-di-mozia?ldc",
+     "https://en.wikipedia.org/wiki/Motya",
+     "https://www.openstreetmap.org/way/10364819"
+    ]
+   }
+  },
+  {
+   "id": "museos-vaticanos-relieves-asirios",
+   "campos": {
+    "estilo": "Relieves asirios",
+    "ver_alli": [
+     "La sala IX forma parte del recorrido del Museo Gregoriano Egipcio, dentro de la visita general de los Museos Vaticanos.",
+     "Conviene reservar la visita a los Museos Vaticanos."
+    ],
+    "fuentes": [
+     "https://www.museivaticani.va/content/museivaticani/es/collezioni/musei/museo-gregoriano-egizio/sala-ix--rilievi-e-iscrizioni-dei-palazzi-assiri/sala-ix--rilievi-e-iscrizioni-dei-palazzi-assiri.html",
+     "https://www.museivaticani.va/content/museivaticani/it/collezioni/musei/museo-gregoriano-egizio/sala-ix--rilievi-e-iscrizioni-dei-palazzi-assiri/rilievo-con-tende-degli-arabi-date-alle-fiamme.html",
+     "https://en.wikipedia.org/wiki/Vatican_Museums"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-pitecusa-villa-arbusto",
+   "campos": {
+    "estilo": "Museo arqueológico en villa del siglo XVIII",
+    "ver_alli": [
+     "El museo está en Villa Arbusto, una villa del siglo XVIII con jardines sobre el mar, en Lacco Ameno.",
+     "La copa de Néstor se expone junto a otros ajuares de la necrópolis de San Montano.",
+     "A Ischia se llega en barco desde Nápoles o Pozzuoli."
+    ],
+    "lat": 40.7526,
+    "lon": 13.883,
+    "fuentes": [
+     "https://fondoambiente.it/luoghi/villa-arbusto-museo-di-pithecusae",
+     "https://ischia.discovercampania.it/en/events/user/2299-museo-di-villa-arbusto",
+     "https://en.wikipedia.org/wiki/Ischia",
+     "https://www.openstreetmap.org/way/303038780"
+    ]
+   }
+  },
+  {
+   "id": "area-sacra-de-largo-argentina",
+   "campos": {
+    "estilo": "Templos republicanos romanos",
+    "ver_alli": [
+     "Los templos se ven desde la barandilla de la plaza; también se puede bajar y recorrerlos por pasarelas.",
+     "Junto a los templos vive una colonia de gatos cuidada por voluntarios.",
+     "A pocos minutos a pie del Panteón."
+    ],
+    "fuentes": [
+     "https://www.nbcwashington.com/news/national-international/ancient-roman-temple-complex-with-ruins-of-building-where-caesar-was-stabbed-opens-to-tourists/3370279/",
+     "https://lavocedinewyork.com/en/travel/2023/06/25/spot-where-julius-caesar-was-murdered-reopens-to-tourists-you-can-stand-on-it",
+     "https://en.wikipedia.org/wiki/Largo_di_Torre_Argentina"
+    ]
+   }
+  },
+  {
+   "id": "mausoleo-de-augusto",
+   "campos": {
+    "estilo": "Mausoleo romano circular",
+    "fuentes": [
+     "https://www.turismoroma.it/en/news/mausoleum-augustus-reopens-public-after-14-years",
+     "https://www.wantedinrome.com/news/rome-reopens-mausoleum-of-augustus-a-dream-becomes-reality.html",
+     "https://en.wikipedia.org/wiki/Mausoleum_of_Augustus"
+    ]
+   }
+  },
+  {
+   "id": "oplontis-villa-de-popea",
+   "campos": {
+    "estilo": "Villa romana con pinturas murales",
+    "ver_alli": [
+     "Pertenece al Parque Arqueológico de Pompeya y forma parte del Patrimonio Mundial desde 1997.",
+     "Está a pocos minutos a pie de la estación de Torre Annunziata del tren Circumvesuviana.",
+     "Es mucho menos concurrida que Pompeya."
+    ],
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Oplontis",
+     "https://atlas.landscapefor.eu/category/storia-antica/poi/13470-torre-annunziata-area-archeologica-di-villa-poppaea/",
+     "https://en.wikipedia.org/wiki/Villa_Poppaea"
+    ]
+   }
+  },
+  {
+   "id": "vesubio-gran-cono",
+   "campos": {
+    "estilo": "Volcán",
+    "ver_alli": [
+     "Parque Nacional del Vesubio: el sendero del Gran Cono sube hasta el borde del cráter en un paseo de unos 4 kilómetros entre ida y vuelta; su arranque está a unos 800 m del centro del cráter.",
+     "Hay que reservar la subida por internet, y el acceso se cierra con mal tiempo o por motivos de seguridad.",
+     "Lleva calzado firme, agua y abrigo: arriba hace viento."
+    ],
+    "fuentes": [
+     "https://www.parconazionaledelvesuvio.it/visita-il-parco/i-sentieri-del-vesuvio/il-gran-cono-old-2026/",
+     "https://www.parconazionaledelvesuvio.it/en/?p=11143",
+     "https://en.wikipedia.org/wiki/Mount_Vesuvius"
+    ]
+   }
+  },
+  {
+   "id": "arco-de-constantino",
+   "campos": {
+    "estilo": "Arco de triunfo romano",
+    "ver_alli": [
+     "Se ve desde la calle, entre el Coliseo y el Palatino.",
+     "Las vallas impiden acercarse al pie del arco, pero los relieves se distinguen bien desde fuera.",
+     "A pocos pasos están el Coliseo y la entrada al Foro Romano."
+    ],
+    "fuentes": [
+     "https://pleiades.stoa.org/places/874299107/location-of-arch-of-constantine",
+     "https://term.museum-digital.de/md-de/place/3106?lang=en",
+     "https://en.wikipedia.org/wiki/Arch_of_Constantine"
+    ]
+   }
+  },
+  {
+   "id": "san-apolinar-nuevo-ravena",
+   "campos": {
+    "estilo": "Paleocristiano y bizantino",
+    "ver_alli": [
+     "En la Via di Roma, en el centro de Rávena.",
+     "Forma parte del pase conjunto de los monumentos de la diócesis, con San Vital y el mausoleo de Gala Placidia."
+    ]
+   }
+  },
+  {
+   "id": "abadia-de-san-colombano-bobbio",
+   "campos": {
+    "estilo": "Renacimiento sobre cripta medieval",
+    "ver_alli": [
+     "La basílica y su cripta se visitan fuera de las horas de culto.",
+     "El Museo de la Abadía está junto a la basílica.",
+     "El pueblo conserva el puente medieval llamado Ponte Gobbo."
+    ],
+    "fuentes": [
+     "https://cultura.gov.it/luogo/museo-dell-abbazia-di-san-colombano",
+     "https://www.italia.it/it/emilia-romagna/abbazia-di-s-colombano",
+     "https://en.wikipedia.org/wiki/Bobbio_Abbey"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-canossa",
+   "campos": {
+    "estilo": "Castillo medieval en ruinas",
+    "ver_alli": [
+     "Ruinas del castillo en lo alto de la peña, con un museo nacional junto a ellas.",
+     "El acceso final es a pie por un camino en cuesta.",
+     "Desde arriba se ven las colinas y otros castillos de la zona de Matilde."
+    ],
+    "fuentes": [
+     "https://cultura.gov.it/luogo/castello-di-canossa-e-museo-nazionale-naborre-campanini",
+     "https://musei.emiliaromagna.beniculturali.it/en/our-museums/castello-di-canossa-and-museo-nazionale-naborre-campanini",
+     "https://en.wikipedia.org/wiki/Canossa_Castle"
+    ]
+   }
+  },
+  {
+   "id": "capilla-de-los-scrovegni",
+   "campos": {
+    "estilo": "Gótico; frescos de Giotto",
+    "ver_alli": [
+     "La visita se reserva con hora: unos quince minutos en una sala que estabiliza el aire y otros quince dentro de la capilla.",
+     "La visita suele combinarse con los Museos Cívicos Eremitani, al lado.",
+     "Muy cerca está la iglesia de los Eremitani, con restos de frescos de Mantegna."
+    ]
+   }
+  },
+  {
+   "id": "palacio-publico-de-siena",
+   "campos": {
+    "estilo": "Gótico civil sienés",
+    "ver_alli": [
+     "El Museo Cívico y la Torre del Mangia se visitan por separado; la subida a la torre es por turnos.",
+     "La Piazza del Campo, donde se corre el Palio cada verano, se recorre libremente."
+    ],
+    "fuentes": [
+     "https://visittuscany.com/en/attractions/the-civic-museum",
+     "https://latitude.to/articles-by-country/it/italy/13872/piazza-del-campo",
+     "https://en.wikipedia.org/wiki/Palazzo_Pubblico"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-opera-del-duomo-de-siena",
+   "campos": {
+    "estilo": "Gótico sienés",
+    "ver_alli": [
+     "Se visita con el pase combinado del conjunto de la catedral.",
+     "Desde el museo se sube al «Panorama», el muro inacabado de la ampliación, con vistas sobre Siena."
+    ],
+    "fuentes": [
+     "https://www.museionline.info/musei/museo-dell-opera-del-duomo-di-siena",
+     "https://www.reidsitaly.com/destinations/tuscany/siena/sights/museo-metropolitana.html",
+     "https://en.wikipedia.org/wiki/Museo_dell%27Opera_del_Duomo_%28Siena%29"
+    ]
+   }
+  },
+  {
+   "id": "museo-nacional-del-bargello",
+   "campos": {
+    "estilo": "Palacio gótico",
+    "fuentes": [
+     "https://www.firenzemadeintuscany.com/it/articolo/al-bargello-primo-ritratto-di-dante-della-storia/",
+     "https://cultura.gov.it/evento/il-bargello-per-dante",
+     "https://en.wikipedia.org/wiki/Bargello"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-los-inocentes-florencia",
+   "campos": {
+    "estilo": "Renacimiento (Brunelleschi)",
+    "ver_alli": [
+     "En la plaza de la Santísima Anunciada, a pocos minutos a pie de la catedral.",
+     "La galería de Brunelleschi se ve libremente desde la plaza.",
+     "Desde la cafetería de la azotea se ve la cúpula de la catedral."
+    ],
+    "fuentes": [
+     "https://www.italia.it/en/tuscany/florence/museo-innocenti",
+     "https://firenzecard.it/en/node/8046",
+     "https://en.wikipedia.org/wiki/Ospedale_degli_Innocenti"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-obra-del-duomo-de-florencia",
+   "campos": {
+    "estilo": "Museo de escultura",
+    "ver_alli": [
+     "En la plaza del Duomo, detrás de la cabecera de la catedral.",
+     "El pase conjunto de los monumentos del Duomo incluye el museo.",
+     "Conviene combinarlo con la subida a la cúpula, que exige reserva de hora."
+    ],
+    "fuentes": [
+     "https://duomo.firenze.it/en/discover/opera-duomo-museum/the-halls/galleria-della-cupola/8639/filippo-brunelleschi-modello-architettonico-della-lanterna",
+     "https://www.visittuscany.com/it/attrazioni/il-museo-dellopera-del-duomo-di-firenze/",
+     "https://en.wikipedia.org/wiki/Museo_dell%27Opera_del_Duomo_%28Florence%29"
+    ]
+   }
+  }
+ ]
+}
