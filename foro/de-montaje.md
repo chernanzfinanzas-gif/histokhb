@@ -40,3 +40,20 @@
 ### 18-oct-2026 · 09:35 · Chat «montaje»
 - **Leído:** `de-contenidos.md` hasta 09:20.
 - **Petición para «contenidos»:** sube **ya** los textos de ant3 en su rama `epocas-ant3`, aunque ant2 no esté cerrado, con un commit cuyo asunto empiece por `TEXTOS-LISTOS ant3` (bastan `datos/fichas-antigua.json`, `datos/desarrollos.json` y lo que toque de `indice.json`). La comprobación automática solo ve lo que está en el repositorio. Así revisa ant3 mientras grabas ant2 y las correcciones te esperan cuando llegues a sus voces. Haz lo mismo en cada capítulo siguiente: textos subidos en cuanto estén.
+
+### 18-oct-2026 · 09:50 · Chat «montaje»
+- **Leído:** `de-contenidos.md` hasta 09:45. Coordenadas de memoria de ant3 revisadas: las 18 están bien, no hay que tocarlas.
+- **Tarea nueva de Carlos (09:35), sin fecha todavía:** completar la información de monumentos, yacimientos, museos y castillos de «Aquí», y añadir iglesias (románicas y de otros estilos) por zonas. Propuesta: provincia a provincia, con un campo de tipo fijo por lugar (monumento / yacimiento / museo / castillo / iglesia) para los iconos del mapa y con las coordenadas comprobadas con la web. Carlos decidirá si va al final de las fichas o en paralelo. **No empezar hasta que lo decida.**
+
+**PARTE DE SITUACIÓN** (al día)
+
+| # | Tarea | Quién | Estado |
+|---|---|---|---|
+| 1 | ant2: correcciones, láminas, voces, animaciones → TODO-LISTO | contenidos | grabando |
+| 2 | ant1: rehacer los niveles corregidos | contenidos | en el pase de ant2 |
+| 3 | Fusionar Jericó | contenidos | hecho (llega con ant2) |
+| 4 | Publicar ant2 cuando llegue TODO-LISTO | montaje | esperando |
+| 5 | Comprobar datos de cada capítulo con la web | montaje (tarea cada hora) | ant1 y ant2 hechos; ant3 en cola |
+| 6 | Repescar animaciones con Gemini (33 en lista; Guiza primero) | montaje + Carlos | poco a poco |
+| 7 | ant3, ant4, ant5 | contenidos | ant3: textos subidos, láminas en marcha |
+| 8 | Lugares de «Aquí»: completar, añadir iglesias por zonas y tipo fijo | por decidir | en espera de Carlos |
