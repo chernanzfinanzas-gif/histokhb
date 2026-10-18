@@ -1,0 +1,512 @@
+{
+ "zona": "Pontevedra",
+ "nuevos": [
+  {
+   "id": "basilica-de-santa-maria-la-mayor-pontevedra",
+   "nombre": "Basílica de Santa María la Mayor",
+   "provincia": "Pontevedra",
+   "comarca": "Pontevedra",
+   "lat": 42.4338,
+   "lon": -8.6475,
+   "tipo": "iglesia",
+   "estilo": "Gótico tardío y plateresco",
+   "epoca": "Gótico",
+   "anio": 1541,
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>En el casco antiguo de Pontevedra se levanta la iglesia que pagaron, en buena parte, los pescadores: el <b>gremio de mareantes</b> contribuyó a su construcción con el producto de su trabajo en el mar, junto a los arzobispos Fonseca y las familias nobles de la villa.</p><p>Se construyó en el <b>siglo XVI</b>, con trazas de Juan de los Cuetos y Diego Gil, entre otros maestros. Mezcla el <b>gótico tardío</b> con influencias del manuelino portugués, y su gran fachada occidental, terminada en <b>1541</b> y atribuida a Cornielis de Holanda y Juan Noble, es un auténtico <b>retablo de piedra plateresco</b> en tres cuerpos. La última bóveda se cerró en 1559 y la torre se añadió en 1605.</p><p>El papa Juan XXIII le concedió el título de <b>basílica</b> en 1962. Es monumento histórico-artístico desde 1931.</p>"
+   },
+   "ver_alli": [
+    "La fachada-retablo de 1541 y sus tres cuerpos de figuras.",
+    "La crestería de aire manuelino que la corona.",
+    "Las bóvedas de crucería del interior."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Basílica_de_Santa_María_la_Mayor_(Pontevedra)",
+    "https://www.google.com/maps/place/?q=place_id:ChIJJeZW4cRxLw0RB1sbw6liRBQ",
+    "https://www.openstreetmap.org/search?query=Basilica%20de%20Santa%20Maria%20Pontevedra"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santuario-de-la-peregrina",
+   "nombre": "Santuario de la Virgen Peregrina",
+   "provincia": "Pontevedra",
+   "comarca": "Pontevedra",
+   "lat": 42.4308,
+   "lon": -8.6437,
+   "tipo": "iglesia",
+   "estilo": "Barroco tardío y neoclásico",
+   "epoca": "Barroco",
+   "anio": 1778,
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>Es el símbolo de Pontevedra: una iglesia con <b>planta en forma de vieira</b>, la concha de los peregrinos, levantada al pie del <b>Camino Portugués</b> a Santiago. Está dedicada a la Virgen que, según la tradición, guiaba a los peregrinos, y su imagen es patrona de la provincia y del Camino Portugués.</p><p>La primera piedra se puso el <b>18 de junio de 1778</b>, con planos del maestro de obras Antonio Souto, y la terminó Isidro Martínez. Se bendijo el 2 de agosto de 1794, tras dieciséis años de obras. Mezcla el <b>barroco tardío</b> con formas neoclásicas, como su retablo mayor de 1789; su forma circular recuerda a los templos portugueses de la época.</p><p>Es Bien de Interés Cultural desde 2011.</p>"
+   },
+   "ver_alli": [
+    "La fachada curva con sus dos torres.",
+    "La planta en forma de concha, que se aprecia desde dentro.",
+    "El retablo mayor de 1789 con la imagen de la Peregrina."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_la_Virgen_Peregrina",
+    "https://www.google.com/maps/place/?q=place_id:ChIJIT6nCQBxLw0RbSiOEmahds8",
+    "https://www.openstreetmap.org/search?query=Capela%20da%20Virxe%20Peregrina%20Pontevedra"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-poio",
+   "nombre": "Monasterio de San Xoán de Poio",
+   "provincia": "Pontevedra",
+   "comarca": "Poio",
+   "lat": 42.4464,
+   "lon": -8.6849,
+   "tipo": "iglesia",
+   "estilo": "Renacentista y barroco",
+   "epoca": "Barroco",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>Frente a Pontevedra, al otro lado del Lérez, se extiende uno de los grandes monasterios de las Rías Baixas. La tradición atribuye su fundación a <b>san Fructuoso de Braga</b> en el siglo VII; el documento más antiguo que se conserva es del año <b>942</b>.</p><p>Fue benedictino hasta el siglo XIX, y desde <b>1890</b> lo ocupan los <b>mercedarios</b>. La iglesia, con planos de fray Gabriel de Casas, se levantó sobre todo entre 1600 y 1612, y su fachada barroca se contrató en 1691 con Pedro de Monteagudo.</p><p>Tiene dos claustros: el de las <b>Procesiones</b>, del siglo XVI, dirigido por Mateo López, y el de los <b>Naranjos</b>, de 1747-1749. Tras el edificio se encuentra un hórreo de gran tamaño. Es Bien de Interés Cultural desde 1971.</p>"
+   },
+   "ver_alli": [
+    "La fachada barroca de la iglesia.",
+    "El claustro de las Procesiones, del siglo XVI.",
+    "El gran hórreo detrás del monasterio."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Poio",
+    "https://www.google.com/maps/place/?q=place_id:ChIJm40Vm21uLw0RmrDp0m4GmAg",
+    "https://www.openstreetmap.org/search?query=Mosteiro%20de%20Poio"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-soutomaior",
+   "nombre": "Castillo de Soutomaior",
+   "provincia": "Pontevedra",
+   "comarca": "Soutomaior",
+   "lat": 42.3296,
+   "lon": -8.5683,
+   "tipo": "castillo",
+   "estilo": "Medieval y neogótico",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>Sobre una colina del valle del Verdugo, este castillo fue la casa de uno de los personajes más temidos de la Galicia del siglo XV: <b>Pedro Madruga</b> (1430-1486). La tradición sitúa su origen en el siglo XII, aunque no hay documentos que lo prueben; Madruga lo reconstruyó y amplió, con una <b>doble muralla</b> y troneras para cañones.</p><p>En el siglo XIX los marqueses de la <b>Vega de Armijo</b> lo convirtieron en palacio de verano de estética <b>neogótica</b>. La <b>Diputación de Pontevedra</b> lo compró en 1982, y en 2018 reabrió como museo.</p><p>Lo rodea un jardín de unos <b>15.700 m²</b> con 175 especies de árboles y más de 300 camelias; en 2012 la Sociedad Internacional de la Camelia lo nombró <b>Jardín de Excelencia Internacional</b>.</p>"
+   },
+   "ver_alli": [
+    "La doble muralla y las troneras de Pedro Madruga.",
+    "Las salas del museo sobre la historia del castillo.",
+    "El jardín de camelias y los árboles centenarios."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Sotomayor",
+    "https://www.google.com/maps/place/?q=place_id:ChIJb9jslmB5Lw0RsMgSPrz3iuk",
+    "https://www.openstreetmap.org/search?query=Castelo%20de%20Soutomaior"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "combarro",
+   "nombre": "Combarro",
+   "provincia": "Pontevedra",
+   "comarca": "Poio",
+   "lat": 42.4333,
+   "lon": -8.7052,
+   "tipo": "poblacion",
+   "estilo": "Arquitectura popular marinera",
+   "epoca": "Barroco",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>Combarro es la estampa más conocida de las Rías Baixas: un pueblo marinero de granito donde los <b>hórreos</b> se asoman al agua de la ría de Pontevedra. Su núcleo urbano fue declarado <b>conjunto histórico-artístico en 1972</b>, y hoy es Bien de Interés Cultural como conjunto histórico y sitio histórico.</p><p>En su casco viejo se concentra una gran cantidad de hórreos y <b>cruceiros</b> de granito, casi todos de los siglos XVIII y XIX; uno de los más antiguos, el de la Praza da Fonte, es de <b>1771</b>. Las casas marineras tienen dos plantas: la baja para los aperos de pesca y la alta para vivir.</p>"
+   },
+   "ver_alli": [
+    "La hilera de hórreos sobre la orilla, vista desde la Rúa do Mar.",
+    "El cruceiro de la Praza da Fonte, de 1771.",
+    "Las casas marineras de dos plantas de la calle San Roque."
+   ],
+   "fuentes": [
+    "https://www.inclusion.gob.es/web/cartaespana/w/combarro-el-pueblo-de-los-horreos",
+    "https://es.wikipedia.org/wiki/Combarro_(Poyo)",
+    "https://www.google.com/maps/place/?q=place_id:ChIJx-0f8vVuLw0RopupxwF_ATs",
+    "https://www.openstreetmap.org/search?query=Combarro,%20Poio"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "fortaleza-de-monterreal",
+   "nombre": "Fortaleza de Monterreal",
+   "provincia": "Pontevedra",
+   "comarca": "Baiona",
+   "lat": 42.1252,
+   "lon": -8.849,
+   "tipo": "castillo",
+   "estilo": "Medieval y moderno",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>La península de Monte Boi, que cierra la bahía de Baiona, está rodeada por las murallas de la fortaleza de Monterreal. En el siglo XV vivían doscientas familias dentro de ellas, y en <b>1474</b> Pedro Madruga levantó aquí una torre de la que aún quedan restos.</p><p>A Baiona llegó el <b>1 de marzo de 1493</b> la carabela <b>La Pinta</b>, de regreso del primer viaje de Colón. Desde <b>1966</b> el recinto alberga el <b>Parador Conde de Gondomar</b>.</p>"
+   },
+   "ver_alli": [
+    "El paseo alrededor de la península siguiendo la muralla.",
+    "Las vistas sobre la bahía de Baiona.",
+    "Los restos de las torres medievales."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Monterreal",
+    "https://www.google.com/maps/place/?q=place_id:ChIJR88l-fjzJQ0Rzv1YAMHt858",
+    "https://www.openstreetmap.org/search?query=Castelo%20de%20Monterreal%20Baiona"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-oia",
+   "nombre": "Monasterio de Santa María de Oia",
+   "provincia": "Pontevedra",
+   "comarca": "Oia",
+   "lat": 42.0031,
+   "lon": -8.8766,
+   "tipo": "iglesia",
+   "estilo": "Románico, gótico y barroco",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>Este monasterio se alza literalmente a pie de mar, en la costa de Oia. Se empezó a mediados del <b>siglo XII</b>, en tiempos de Alfonso VII, y en <b>1185</b> se incorporó a la orden del <b>Císter</b>.</p><p>Su posición en la costa le dio un papel en la defensa: en <b>1624</b> los monjes frustraron un ataque de la flota turca, y por ello Felipe IV le concedió el título de <b>«Real»</b>. La iglesia, de tres naves en cruz latina, combina elementos románicos, góticos y barrocos; la fachada es barroca de finales del siglo XVIII.</p><p>Tras la desamortización de 1835 el monasterio pasó a manos privadas, pero la iglesia sigue siendo parroquial.</p>"
+   },
+   "ver_alli": [
+    "La fachada barroca frente al mar.",
+    "El contraste entre la iglesia medieval y el oleaje a sus pies.",
+    "El coro del siglo XVII."
+   ],
+   "fuentes": [
+    "https://www.turismo.gal/recurso/-/detalle/4605/",
+    "https://www.google.com/maps/place/?q=place_id:ChIJN8KejzHtJQ0RJ9NesaJNt8M",
+    "https://www.openstreetmap.org/search?query=Mosteiro%20de%20Oia"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-acibeiro",
+   "nombre": "Monasterio de Santa María de Acibeiro",
+   "provincia": "Pontevedra",
+   "comarca": "Forcarei",
+   "lat": 42.6177,
+   "lon": -8.3015,
+   "tipo": "iglesia",
+   "estilo": "Románico tardío",
+   "epoca": "Románico",
+   "anio": 1135,
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>En las tierras altas de Forcarei, este monasterio cisterciense se fundó posiblemente el <b>4 de febrero de 1135</b>, según una inscripción de la iglesia, con doce religiosos llegados de <b>Claraval</b> a llamada del rey <b>Alfonso VII</b>.</p><p>La iglesia es <b>románica tardía</b>, de poca decoración e inspirada en la catedral de Santiago; su fachada actual se terminó en 1792. La comunidad desapareció con la desamortización de 1835 y sus bienes se subastaron en 1842.</p><p>Hoy la iglesia sigue abierta al culto como parroquia, y las dependencias monásticas, restauradas en 2005, funcionan como hospedería. Es monumento histórico-artístico desde 1931.</p>"
+   },
+   "ver_alli": [
+    "La fachada de 1792 sobre la iglesia románica.",
+    "La sobriedad de la cabecera y la nave cistercienses.",
+    "El entorno de monte de la Terra de Montes."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Santa_María_de_Aciveiro",
+    "https://www.google.com/maps/place/?q=place_id:ChIJDbJSuvW9Lw0Rh7yKCAZj94I",
+    "https://www.openstreetmap.org/search?query=Mosteiro%20de%20Aciveiro"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "pazo-de-fefinans",
+   "nombre": "Pazo de Fefiñáns",
+   "provincia": "Pontevedra",
+   "comarca": "Cambados",
+   "lat": 42.5191,
+   "lon": -8.8132,
+   "tipo": "monumento",
+   "estilo": "Renacimiento",
+   "epoca": "Renacimiento",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>El pazo de Fefiñáns da nombre a la plaza más destacada de Cambados. Lo edificó en el <b>siglo XVI</b> <b>Juan Sarmiento Valladares</b>, consejero de Felipe II, y en el XVII su descendiente Gonzalo de Valladares, vizconde de Fefiñanes, le añadió nuevas partes.</p><p>Forma conjunto con una torre del homenaje, una arcada y la vecina iglesia de San Benito, cerrando una gran plaza de granito. En su planta baja funciona la bodega del Palacio de Fefiñanes, la primera en embotellar vino de la zona con la marca <b>«Albariño de Fefiñanes»</b>, registrada en 1928.</p>"
+   },
+   "ver_alli": [
+    "La plaza de Fefiñáns, cerrada por el pazo, la arcada y la iglesia.",
+    "La torre del homenaje en la esquina del pazo.",
+    "La bodega de la planta baja, histórica del albariño."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Pazo_de_Fefiñanes",
+    "https://www.google.com/maps/place/?q=place_id:ChIJXTWM88lqLw0Rua9cVz3tAS0",
+    "https://www.openstreetmap.org/search?query=Pazo%20de%20Fefinans"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castro-de-vigo",
+   "nombre": "Castro de Vigo",
+   "provincia": "Pontevedra",
+   "comarca": "Vigo",
+   "lat": 42.2323,
+   "lon": -8.7278,
+   "tipo": "yacimiento",
+   "estilo": "Castreño",
+   "epoca": "Edad del Hierro",
+   "regiones_sincronia": [
+    "Galicia"
+   ],
+   "texto": {
+    "general": "<p>En la ladera del monte do Castro, en pleno centro de Vigo, se conservan los restos del poblado del que nació la ciudad. Estuvo habitado <b>entre el siglo II a. C. y el siglo III d. C.</b>, desde la Edad del Hierro hasta bien entrada la época romana.</p><p>Se han reconstruido <b>tres construcciones</b>: una vivienda circular con vestíbulo, un almacén y una casa cuadrangular posterior a la conquista romana, que muestran cómo cambió la forma de vivir con Roma. El poblado se abandonó de forma pacífica, probablemente porque sus habitantes bajaron a vivir junto al mar, en la zona del Areal.</p>"
+   },
+   "ver_alli": [
+    "Las tres casas reconstruidas, la circular y la cuadrada.",
+    "Los paneles que explican el poblado.",
+    "Las vistas sobre la ría de Vigo desde lo alto del monte."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castro_de_Vigo",
+    "https://www.google.com/maps/place/?q=place_id:ChIJcbZxaxNiLw0R2S5XcrbyYNk",
+    "https://www.openstreetmap.org/search?query=Parque%20do%20Castro%20Vigo"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "campo-lameiro",
+   "campos": {
+    "lat": 42.5419,
+    "lon": -8.5303,
+    "tipo": "yacimiento",
+    "estilo": "Arte rupestre (petroglifos)",
+    "texto": {
+     "general": "<p>Campo Lameiro es la capital gallega del arte rupestre. Su Parque Arqueológico, inaugurado el <b>6 de julio de 2011</b>, protege unas <b>21,8 hectáreas</b> de monte con cerca de <b>cien rocas grabadas</b>, uno de los conjuntos de arte rupestre al aire libre más relevantes de Europa.</p><p>Los grabados se hicieron en la <b>Edad del Cobre y del Bronce</b>, hace unos 4.000 años. Se repiten los <b>círculos y combinaciones circulares</b>, los <b>ciervos</b> —algunos con lanzas clavadas en el lomo—, las armas, los jinetes a caballo y figuras <b>laberínticas</b> como la del Outeiro da Pena Furada.</p><p>Un recorrido de más de 4 kilómetros enlaza las rocas más importantes, como la Laxe dos Carballos o el Outeiro dos Cogoludos. El parque tiene además un gran <b>centro de interpretación</b> y una <b>aldea de la Edad del Bronce</b> reconstruida a tamaño real, con cabañas, graneros y corrales.</p><p class=\"dato\"><span>¿Sabías que…?</span>Los grabados se ven mucho mejor con luz rasante, a primera hora de la mañana o al atardecer.</p>"
+    },
+    "ver_alli": [
+     "Recorrido señalizado por las rocas grabadas: no te pierdas la Laxe dos Carballos y el laberinto del Outeiro da Pena Furada.",
+     "Centro de interpretación y poblado de la Edad del Bronce reconstruido.",
+     "Ve temprano o a última hora: con luz rasante los surcos se leen mucho mejor."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Parque_Arqueol%C3%B3gico_del_Arte_Rupestre_de_Campo_Lameiro",
+     "https://es.hispanopedia.com/wiki/Parque_arqueol%C3%B3gico_de_Campo_Lameiro",
+     "https://blog.turismo.gal/?p=12893",
+     "https://www.turismoriasbaixas.com/en/search/parque-arqueologico-del-arte-rupestre-de-campolameiro",
+     "https://www.openstreetmap.org/search?query=Parque%20Arqueoloxico%20Campo%20Lameiro"
+    ]
+   }
+  },
+  {
+   "id": "santa-trega",
+   "campos": {
+    "lat": 41.8922,
+    "lon": -8.8696,
+    "tipo": "yacimiento",
+    "estilo": "Cultura castreña",
+    "anio": -100,
+    "texto": {
+     "general": "<p>En la ladera del monte de Santa Trega (341 metros), en A Guarda, sobre la desembocadura del Miño, se extiende <b>uno de los castros más espectaculares de Galicia</b>: un poblado de construcciones de piedra casi todas <b>circulares u ovaladas</b>, dentro de una muralla que encierra un recinto de unos 700 por 300 metros (medidas no confirmadas).</p><p>Según las excavaciones más recientes estuvo habitado entre el <b>siglo I a. C. y el I d. C.</b>, en plena romanización. Lo excavó primero Ignacio Calvo, desde 1914, y después Cayetano de Mergelina entre 1928 y 1933. Fue declarado Monumento Histórico-Artístico en 1931.</p><p>Junto a la carretera hay <b>dos casas reconstruidas</b> (1965 y 1972), útiles para imaginar el poblado aunque su fidelidad es discutida. En la cima, el museo de la Sociedad Pro-Monte, abierto en 1953 en un edificio de <b>Antonio Palacios</b>, guarda piezas del castro.</p><p class=\"dato\"><span>¿Sabías que…?</span>En el monte hay también petroglifos unos 2.000 años más antiguos que el castro.</p>"
+    },
+    "ver_alli": [
+     "Recorrido por el castro y museo arqueológico en la cima.",
+     "Entra en las casas circulares reconstruidas para hacerte una idea del poblado.",
+     "Vistas sobre el Miño, Portugal y el Atlántico."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castro_de_Santa_Tecla",
+     "https://en.wikipedia.org/wiki/Castro_of_Santa_Trega",
+     "https://www.openstreetmap.org/search?query=Castro%20de%20Santa%20Trega"
+    ]
+   }
+  },
+  {
+   "id": "chan-arquina",
+   "campos": {
+    "lat": 42.32,
+    "lon": -8.6981,
+    "tipo": "yacimiento",
+    "estilo": "Megalitismo (dolmen de corredor)",
+    "texto": {
+     "general": "<p>En un bosque de castaños y robles sobre Domaio, en Moaña, a unos 550 metros de altitud en la ladera del monte Xaxán, se conserva este <b>dolmen de corredor</b> levantado hace <b>más de 5.000 años</b>, en el Neolítico.</p><p>Está parcialmente enterrado en su <b>mámoa</b>, el túmulo de tierra y piedras que lo cubría, lo que permite ver bien su estructura: una <b>cámara poligonal de once losas</b> verticales y un <b>corredor de cinco</b> que servía de entrada a la tumba.</p><p>Es <b>Bien de Interés Cultural</b> y su estado de conservación es bueno. El entorno se ha acondicionado como área recreativa, con sendas que permiten asomarse a la <b>ría de Vigo</b>.</p>"
+    },
+    "ver_alli": [
+     "Visita libre.",
+     "Fíjate en la cámara de once losas y en el corredor de entrada, que asoman del túmulo.",
+     "Ría de Vigo y península del Morrazo."
+    ],
+    "fuentes": [
+     "https://turismoriasbaixas.com/en/search/dolmen-de-chan-da-arquina",
+     "https://www.openstreetmap.org/search?query=Chan%20da%20Arquina"
+    ]
+   }
+  },
+  {
+   "id": "a-lanzada",
+   "campos": {
+    "lat": 42.4298,
+    "lon": -8.8777,
+    "tipo": "yacimiento",
+    "estilo": "Castreño, romano, medieval y románico",
+    "texto": {
+     "general": "<p>En el extremo de la playa de A Lanzada, en Sanxenxo, un pequeño promontorio reúne <b>miles de años de historia</b>: un <b>castro</b>, restos de época romana, una <b>torre defensiva medieval</b> y una <b>ermita románica</b>.</p><p>Las investigaciones recientes indican que en época romana hubo aquí un <b>gran centro dedicado al comercio</b>. Las excavaciones sacaron a la luz una <b>necrópolis</b> con trece niños de menos de un año, de los siglos I-II d. C., y tres adultos, entre ellos una mujer del siglo V a la que llaman «Cornelia», además de alfileres, monedas y cerámica castreña.</p><p>La <b>torre</b>, del siglo X, formaba parte de un sistema defensivo de la costa contra las incursiones de <b>vikingos y normandos</b>; hoy solo quedan un par de muros. La <b>ermita de Nosa Señora da Lanzada</b>, de finales del siglo XII y comienzos del XIII, conserva su nave única y su ábside semicircular.</p><p class=\"dato\"><span>¿Sabías que…?</span>Según la tradición, las ofrendas en la «cama de la Virgen», una roca entre las olas junto a la ermita, ponían fin a la infertilidad femenina.</p>"
+    },
+    "ver_alli": [
+     "Visita libre del paraje.",
+     "Junto a la ermita, busca los muros que quedan de la torre medieval.",
+     "Entra en la ermita románica y mira su ábside semicircular y el rosetón de la fachada.",
+     "Playa de A Lanzada."
+    ],
+    "fuentes": [
+     "https://blog.turismo.gal/archaeological-site-of-a-lanzada-a-magical-and-historical-enclave/",
+     "https://turismoriasbaixas.com/en/search/torre-de-lanzada",
+     "https://es.hispanopedia.com/wiki/Torre_de_la_Lanzada",
+     "https://www.openstreetmap.org/search?query=Ermida%20da%20Lanzada"
+    ]
+   }
+  },
+  {
+   "id": "toralla",
+   "campos": {
+    "lat": 42.1963,
+    "lon": -8.7951,
+    "tipo": "yacimiento",
+    "estilo": "Romano bajoimperial",
+    "texto": {
+     "general": "<p>Frente a la isla de Toralla, en la costa de Vigo, se conservan los restos de una <b>villa romana marítima</b> de los <b>siglos IV y V</b>. Sus primeros restos los encontró la familia Mirambell en la década de 1920.</p><p>Se recorren las distintas estancias de la casa, una <b>salina</b> para producir sal junto al mar y un complejo <b>sistema de termas</b>, señal del alto rango social de sus dueños.</p><p>Es la <b>única villa romana de Galicia excavada por completo</b> y abierta a la visita, protegida hoy dentro de un centro arqueológico.</p>"
+    },
+    "ver_alli": [
+     "Visita guiada con reserva (tel. 010).",
+     "Fíjate en las balsas de la salina y en las salas de las termas.",
+     "Desde el yacimiento, vistas a la isla de Toralla y a la ría de Vigo."
+    ],
+    "fuentes": [
+     "https://turismodevigo.org/en/node/2231",
+     "https://www.openstreetmap.org/search?query=Vila%20Romana%20de%20Toralla"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-tui",
+   "campos": {
+    "lat": 42.046,
+    "lon": -8.6444,
+    "tipo": "iglesia",
+    "estilo": "Románico y gótico",
+    "texto": {
+     "general": "<p>Encaramada sobre el Miño, frente a Portugal, la catedral de Santa María de Tui tiene aspecto de <b>catedral-fortaleza</b>, con torres defensivas añadidas en el siglo XV. Las obras empezaron en <b>1120</b> en estilo románico, y el gótico llegó ya a finales del siglo XII en la nave y las bóvedas. El obispo Esteban Egea la consagró en <b>1225</b>.</p><p>Su <b>portada occidental</b>, terminada ese año, se considera <b>el primer conjunto escultórico gótico de la península ibérica</b>, obra de canteros relacionados con las catedrales francesas de Laon, Sens y Chartres. En las jambas aparecen Moisés, Isaías, san Pedro o san Juan Bautista, y en el tímpano escenas de la Natividad, como la Adoración de los Reyes.</p><p>El <b>claustro</b>, gótico cisterciense de la segunda mitad del siglo XIII, es <b>el único claustro medieval que conservan las catedrales gallegas</b>. La capilla de San Telmo (1579) guarda los restos de este santo dominico.</p><p class=\"dato\"><span>¿Sabías que…?</span>Fue declarada monumento en 1931.</p>"
+    },
+    "ver_alli": [
+     "Empieza por la portada occidental gótica y sus estatuas columna.",
+     "Recorre el claustro medieval y asómate al Miño desde el jardín.",
+     "Sube a la torre para ver la ciudad y Portugal."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_de_Tuy",
+     "https://www.openstreetmap.org/search?query=Catedral%20de%20Tui"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-carboeiro",
+   "campos": {
+    "lat": 42.7555,
+    "lon": -8.2462,
+    "tipo": "iglesia",
+    "estilo": "Románico de transición al gótico",
+    "texto": {
+     "general": "<p>En un recodo boscoso del <b>río Deza</b>, en Silleda, se levanta San Lourenzo de Carboeiro. Lo fundaron en <b>939</b> los condes Gonzalo Betótez y Teresa Ériz sobre una ermita, como monasterio benedictino, y vivió su esplendor en los siglos XII y XIII.</p><p>Una inscripción latina en su interior da la fecha de <b>1171</b>, cuando el abad Fernando emprendió la iglesia actual, joya del <b>románico de transición</b>, ligada a los discípulos del <b>Maestro Mateo</b> por su parecido con la catedral de Santiago y el Pórtico de la Gloria.</p><p>El desnivel sobre el río obligó a construir una <b>cripta</b> bajo la cabecera, que sirve de gran pedestal a sus tres capillas absidales. Tras la desamortización del siglo XIX pasó a manos privadas y perdió la techumbre; fue declarado Monumento Histórico-Artístico en <b>1931</b>.</p><p class=\"dato\"><span>¿Sabías que…?</span>Según la leyenda, el cercano Ponte do Demo lo construyó el diablo a cambio del alma de quien lo cruzase en domingo.</p>"
+    },
+    "ver_alli": [
+     "Baja a la cripta (con la linterna del móvil) y fíjate en cómo sostiene la cabecera.",
+     "Mira desde fuera las tres capillas absidales de la cabecera.",
+     "Baja después por el sendero hasta el Ponte do Demo, sobre el Deza."
+    ],
+    "fuentes": [
+     "https://blog.turismo.gal/saint-lawrence-of-carboeiro-a-jewel-in-the-heart-of-the-deza/",
+     "https://blog.turismo.gal/?p=12883",
+     "https://turismoriasbaixas.com/en/search/monasterio-de-san-lourenzo-de-carboeiro",
+     "https://es.hispanopedia.com/wiki/Monasterio_de_San_Lorenzo_(Carboeiro)",
+     "https://www.openstreetmap.org/search?query=Mosteiro%20de%20Carboeiro"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-armenteira",
+   "campos": {
+    "lat": 42.4633,
+    "lon": -8.7419,
+    "tipo": "iglesia",
+    "estilo": "Cisterciense, románico de transición",
+    "texto": {
+     "general": "<p>En A Armenteira, en Meis, Santa María de Armenteira fue fundada hacia <b>1149</b> por el noble <b>Ero</b>, que en 1162 tomó el hábito del <b>Císter</b>. La iglesia se empezó hacia 1167 y se terminó en 1225; en su fachada oeste luce un <b>gran rosetón</b>, comparado con el de Meira.</p><p>La tradición cuenta que <b>San Ero</b>, paseando absorto en el monte, se quedó escuchando el canto de un pájaro; cuando volvió al monasterio, los monjes eran otros: habían pasado <b>siglos</b> sin que él lo notara.</p><p>El claustro se construyó en los siglos XVI y XVII. Abandonado tras la desamortización de 1837, empezó a recuperarse con la asociación de amigos fundada en 1963, y desde <b>1989</b> vive en él una comunidad de monjas cistercienses.</p>"
+    },
+    "ver_alli": [
+     "Fíjate en el rosetón de la fachada y en la cúpula del crucero.",
+     "Recorre el claustro de los siglos XVI-XVII.",
+     "Desde el monasterio sale la Ruta da Pedra e da Auga, junto a antiguos molinos."
+    ],
+    "fuentes": [
+     "https://turismoriasbaixas.com/en/search/monasterio-de-santa-maria-de-armenteira",
+     "https://es.wikipedia.org/wiki/Monasterio_de_Armenteira",
+     "https://www.openstreetmap.org/search?query=Mosteiro%20de%20Armenteira"
+    ]
+   }
+  },
+  {
+   "id": "pazo-de-oca",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Barroco",
+    "texto": {
+     "general": "<p>En A Estrada, el Pazo de Oca hunde sus raíces en el siglo XIII, pero lo que hoy vemos es obra del <b>siglo XVIII</b>, impulsada por Fernando Gayoso Arias Ozores, conde de Amarante y señor de Oca. Con su capilla, su torre y sus jardines lo llaman <b>«el Versalles gallego»</b> o «el Generalife del norte».</p><p>La iglesia de <b>San Antonio de Padua</b> se construyó entre 1731 y 1752. Detrás se abren los jardines, con <b>setos de boj</b> —algunos recortados con la forma de la cruz de Santiago—, camelias y dos grandes <b>estanques</b>, el de las Virtudes y el de las Vanidades, separados por un puente.</p><p>En uno de ellos flota una <b>barca de piedra</b>, una isla artificial con hortensias, jarrones y dos marineros con cañones. El jardín lo amplió en el siglo XIX François Viet, jardinero del Campo del Moro de Madrid. Hoy pertenece a la Fundación Casa de Medinaceli.</p>"
+    },
+    "ver_alli": [
+     "Recorre los jardines hasta los estanques y busca la barca de piedra con sus marineros.",
+     "Fíjate en los setos de boj recortados con la cruz de Santiago.",
+     "No pases por alto la iglesia barroca de San Antonio de Padua (1731-1752)."
+    ],
+    "fuentes": [
+     "https://www.wikidata.org/wiki/Q14568091",
+     "https://es.wikipedia.org/wiki/Pazo_de_Oca"
+    ]
+   }
+  },
+  {
+   "id": "puente-de-pontesampaio",
+   "campos": {
+    "lat": 42.346,
+    "lon": -8.6068,
+    "tipo": "monumento",
+    "estilo": "Medieval, con reformas de los siglos XVI y XVII",
+    "texto": {
+     "general": "<p>Sobre la desembocadura del río Verdugo, en el fondo de la ría de Vigo, el puente de Pontesampaio cruza el agua con <b>diez arcos</b> de piedra y casi <b>150 metros</b> de longitud. Tuvo un precedente romano, del que apenas quedan restos; el actual es <b>medieval</b>, con reformas en los siglos XVI y XVII, y hoy lo recorren los peregrinos del Camino Portugués.</p><p>Aquí se libró, los días <b>7 y 8 de junio de 1809</b>, la batalla de Puente Sampayo. Milicias y campesinos gallegos, junto con tropas regulares mandadas por Pablo Morillo, <b>cortaron dos arcos</b> del puente y se atrincheraron en la orilla sur. Frenaron al ejército del <b>mariscal Ney</b>, que se retiró hacia Lugo.</p><p>Poco después, en julio de 1809, los franceses abandonaron Galicia definitivamente. Un monumento en la plaza de España de Pontevedra, obra de Julio González Pola, recuerda a los «Héroes de Puente Sampayo».</p>"
+    },
+    "ver_alli": [
+     "Cruza el puente a pie y cuenta sus diez arcos.",
+     "Desde la orilla, junto a la playa fluvial cercana, se ve bien todo el perfil del puente.",
+     "Es paso del Camino Portugués: es fácil coincidir con peregrinos."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Batalla_de_Puentesampayo",
+     "https://www.paxinasgalegas.es/fiestas/puente-de-pontesampaio-pontevedra-22891.html",
+     "https://www.gronze.com/galicia/pontevedra/pontesampaio"
+    ]
+   }
+  }
+ ]
+}
