@@ -1,0 +1,192 @@
+{
+ "zona": "Ampliar portugal",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "castelo-de-almourol",
+   "campos": {
+    "texto": {
+     "general": "<p>Un castillo sobre un islote de granito en mitad del <b>Tajo</b>, cerca de la desembocadura del Zêzere: pocas imágenes son tan de cuento. La isla mide unos 310 por 75 metros y la roca se alza unos 18 metros sobre el agua. Los cristianos de <b>Alfonso Henriques</b> conquistaron el lugar en <b>1129</b> y lo entregaron a los <b>templarios</b>.</p><p>Su maestre en Portugal, <b>Gualdim Pais</b>, natural de Braga y veterano de las cruzadas en Oriente, lo reconstruyó como parte de la línea de castillos que defendía el Tajo durante la Reconquista, junto con Tomar, Pombal o Cardiga. Una inscripción sobre la puerta fecha las obras en <b>1171</b>. El río servía además de frontera y aduana entre el norte y el sur.</p><p>Perdido su valor militar, se arruinó y los románticos del siglo XIX lo «reinventaron». Entre 1939 y los años cincuenta el Estado Novo lo restauró, con almenas añadidas, para servir de residencia oficial de la República. Es Monumento Nacional desde 1910. Hoy se ve un recinto de planta irregular con <b>nueve torres circulares</b> y, en lo alto, la <b>torre del homenaje</b> cuadrada de tres pisos, con una cruz templaria sobre una ventana.</p><p class=\"dato\"><span>¿Sabías que…?</span>Aquí sitúa la novela de caballerías <i>Palmerín de Inglaterra</i> el combate ante el castillo del gigante Almourol.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Castle_of_Almourol",
+     "https://www.openstreetmap.org/relation/9331267",
+     "https://pt.wikipedia.org/wiki/Castelo_de_Almourol",
+     "https://es.wikipedia.org/wiki/Castillo_de_Almourol"
+    ]
+   }
+  },
+  {
+   "id": "convento-de-cristo",
+   "campos": {
+    "texto": {
+     "general": "<p>En lo alto de Tomar, dentro de las murallas de su castillo, el <b>Convento de Cristo</b> reúne cinco siglos de arquitectura portuguesa, del románico al barroco. Es <b>Patrimonio Mundial</b> desde 1983. Su corazón es la <b>Charola</b>, la iglesia redonda de los templarios.</p><p>Tomar fue la casa principal de los templarios en Portugal desde que <b>Gualdim Pais</b> levantó aquí el castillo en <b>1160</b>; la Charola, un polígono de 16 lados, se inspiró en las iglesias de Jerusalén. En 1190 el castillo resistió el asedio del califa almohade al-Mansur. Cuando el papa suprimió el Temple en 1312, el rey <b>Dinis</b> no dejó que sus bienes salieran del reino: en 1319 consiguió del papa Juan XXII la fundación de la <b>Orden de Cristo</b>, que heredó caballeros y propiedades y en 1357 trasladó su sede a Tomar. El infante <b>Enrique el Navegante</b> gobernó la orden, y sus rentas ayudaron a pagar los viajes de los navegantes portugueses. En 1581 la nobleza reunida aquí reconoció a <b>Felipe II</b> como rey de Portugal.</p><p>Manuel I amplió la iglesia desde 1510 en el estilo que lleva su nombre: <b>Diogo de Arruda</b> esculpió la célebre <b>ventana de la sala capitular</b> (1510-1513). El convento tiene ocho claustros; el de <b>João III</b>, iniciado por Diogo de Torralva en 1557 y terminado por Filippo Terzi en 1591, es una obra maestra del manierismo.</p>"
+    },
+    "fuentes": [
+     "https://www.museusemonumentos.pt/pt/museus-e-monumentos/convento-de-cristo",
+     "https://en.wikipedia.org/wiki/Convent_of_Christ_(Tomar)",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Charola%20Tomar",
+     "https://www.google.com/maps/place/?q=place_id:ChIJv9GHO6J-GA0RDe7t2iI9dPo",
+     "https://whc.unesco.org/en/list/265/"
+    ]
+   }
+  },
+  {
+   "id": "sinagoga-de-tomar",
+   "campos": {
+    "texto": {
+     "general": "<p>Es uno de los grandes testimonios de la presencia judía en el Portugal medieval. Se levantó entre 1430 y <b>1460</b>: por fuera, una casa encalada como las vecinas; por dentro, una sala de unos 9,5 por 8,25 metros con bóvedas <b>góticas</b> sobre <b>cuatro columnas</b>, que se han interpretado como las cuatro matriarcas, y doce ménsulas por las doce tribus de Israel.</p><p>La comunidad rezó aquí hasta <b>1496</b>, cuando <b>Manuel I</b> ordenó la conversión forzosa o la expulsión de los judíos. Después fue cárcel, ermita de São Bartolomeu, pajar y almacén de vino y comestibles. Monumento Nacional desde 1921, en <b>1923</b> la compró el ingeniero e investigador judío polaco <b>Samuel Schwarz</b>, que la restauró, hizo las primeras excavaciones y en 1939 la donó al Estado con la condición de que fuese museo: el <b>Museo Luso-Hebraico Abraham Zacuto</b>. A cambio, él y su esposa recibieron la nacionalidad portuguesa, que los protegió durante el Holocausto.</p><p>Fíjese en los capiteles con motivos geométricos y vegetales y en la puerta original, un arco apuntado hacia el este; la entrada actual, al norte, no existía en la Edad Media. En 1985, en el edificio contiguo, aparecieron los restos de un <b>miqvé</b>, el baño ritual judío.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Synagogue_of_Tomar",
+     "https://www.openstreetmap.org/way/462190532"
+    ],
+    "ver_alli": [
+     "Las cuatro columnas, las bóvedas góticas y las doce ménsulas.",
+     "Los capiteles con motivos geométricos y vegetales.",
+     "El arco apuntado de la antigua puerta, orientado al este.",
+     "El Museo Luso-Hebraico Abraham Zacuto que alberga."
+    ]
+   }
+  },
+  {
+   "id": "dume",
+   "campos": {
+    "texto": {
+     "general": "<p>En la parroquia de Dume, a las afueras de Braga, se conservan los restos de la basílica y el monasterio que fundó <b>Martín de Dumio</b>, el «apóstol de los suevos», hacia el 550-560. Debajo hay una historia aún más antigua: una <b>villa romana</b> de planta octogonal del siglo I, con termas añadidas en el siglo III.</p><p>El monje <b>Martín</b>, nacido en Panonia (la actual Hungría) y peregrino en Tierra Santa, llegó hacia 550 y fundó aquí un monasterio junto a Braga, la capital del reino de los <b>suevos</b>. Desde Dume trabajó para que el rey y su pueblo dejaran el arrianismo y se hicieran católicos, y lo consiguió antes de 561, casi treinta años antes que los visigodos. Fue abad, obispo de Dume hacia 556 y, desde 569, también de Braga; presidió el II Concilio de Braga (572) y escribió <i>De correctione rusticorum</i>, un sermón para enseñar a los campesinos a dejar sus antiguas costumbres paganas. Murió hacia 579-580 y fue enterrado en su monasterio. El reino suevo duró hasta 585.</p><p>Las excavaciones, iniciadas en los años noventa, han sacado a la luz una basílica de granito en forma de cruz latina, una necrópolis de doce tumbas, mosaicos, monedas y la tapa de un sarcófago. Muchas piezas están en el <b>Museu D. Diogo de Sousa</b>, en Braga.</p><p class=\"dato\"><span>¿Sabías que…?</span>Los días de la semana en portugués (<i>segunda-feira</i>, <i>terça-feira</i>…) siguen la propuesta de Martín de quitarles los nombres de dioses paganos.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Monastery_of_Dumio",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=S%C3%A3o%20Martinho%20de%20Dume",
+     "https://www.google.com/maps/place/?q=place_id:ChIJY2AM2f7-JA0RFpLvmJSqMFo",
+     "https://es.wikipedia.org/wiki/Mart%C3%ADn_de_Braga"
+    ]
+   }
+  },
+  {
+   "id": "se-de-braga",
+   "campos": {
+    "texto": {
+     "general": "<p>La catedral de Braga, sede de su arzobispado, es la más antigua de Portugal: es anterior al propio reino. El obispo <b>Pedro</b>, que restauró la diócesis hacia 1071, empezó la iglesia y la consagró a la Virgen el 28 de agosto de <b>1089</b>. Sobre esa base <b>románica</b>, inspirada en la borgoñona de Cluny, se fueron sumando capillas góticas, una galilea o pórtico de entrada de finales del siglo XV, una capilla mayor manuelina de João de Castilho (1509) y una gran reforma <b>barroca</b> del arzobispo Rodrigo de Moura Teles (1704-1728).</p><p>En la <b>capilla de los Reyes</b> (1374) reposan <b>Enrique de Borgoña</b> y <b>Teresa de León</b>, condes de Portugal y padres del primer rey, Alfonso I. En la gótica <b>capilla de la Gloria</b> (1326-1348) yace el arzobispo Gonçalo Pereira, con su estatua yacente sobre un sepulcro custodiado por seis leones. En la nave, una tumba de bronce del siglo XV guarda al infante Afonso, hijo de Juan I, muerto niño en 1400.</p><p>No se pierda los dos <b>órganos barrocos</b> gemelos de fray Simón Fontanes (1737 y 1739), con talla dorada de Marceliano de Araújo, ni el portal románico con relieves de animales. El <b>Tesoro</b> guarda el cáliz de San Geraldo, del siglo X, y una arqueta árabe de marfil del siglo XI.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_de_Braga",
+     "https://www.openstreetmap.org/way/22746378",
+     "https://en.wikipedia.org/wiki/Braga_Cathedral"
+    ]
+   }
+  },
+  {
+   "id": "ponte-luis-i",
+   "campos": {
+    "texto": {
+     "general": "<p>El gran arco de hierro que une Oporto con Vila Nova de Gaia sobre el Duero es la imagen de la ciudad. Las obras empezaron en 1881 y el tablero superior se inauguró el 31 de octubre de <b>1886</b>; el inferior, al año siguiente. Lleva el nombre del rey <b>Luis I</b> y relevó al viejo puente colgante, la Ponte Pênsil.</p><p>Lo proyectó el ingeniero <b>Théophile Seyrig</b>, antiguo socio de <b>Gustave Eiffel</b>, y lo construyó la empresa belga Société de Willebroeck, que ganó el concurso convocado en 1879 (la propuesta de la casa Eiffel fue rechazada). Seyrig había diseñado también el cercano puente de María Pía, y de ahí su parecido. Durante décadas se pagó peaje para cruzarlo, hasta 1944, y por arriba pasaron tranvías y trolebuses.</p><p>Su arco salva unos <b>172 metros</b> y sostiene <b>dos tableros</b>: el inferior, de unos 174 metros, a ras del muelle de la Ribeira, y el superior, de unos 395 metros, por donde desde 2005 pasa la línea D del metro de Oporto y se cruza a pie con el río a vista de pájaro. Forma parte del conjunto declarado <b>Patrimonio Mundial</b> en 1996 junto al centro histórico de Oporto y el monasterio de la Serra do Pilar.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Puente_Don_Luis_I",
+     "https://www.openstreetmap.org/way/98835981",
+     "https://en.wikipedia.org/wiki/Dom_Lu%C3%ADs_I_Bridge"
+    ]
+   }
+  },
+  {
+   "id": "palacio-da-bolsa",
+   "campos": {
+    "texto": {
+     "general": "<p>Junto a la iglesia de San Francisco, en pleno centro histórico de Oporto, la <b>Asociación Comercial</b> de la ciudad levantó su sede y su Bolsa. Lo hizo sobre los claustros del convento franciscano, destruidos por un incendio en <b>1832</b> durante las guerras liberales; la reina <b>María II</b> cedió las ruinas a los comerciantes en 1841.</p><p>Las obras empezaron en <b>1842</b> según el proyecto <b>neoclásico</b> de <b>Joaquim da Costa Lima Júnior</b>; la estructura estaba lista hacia 1850, pero la decoración interior no se completó hasta 1910. Trabajaron en él otros arquitectos: Tomás Soler diseñó la cúpula del patio y <b>Gustavo Adolfo Gonçalves e Sousa</b>, la escalera noble (1868), decorada con bustos de Soares dos Reis y Teixeira Lopes. La Asociación Comercial sigue teniendo aquí su sede, y es Monumento Nacional desde 1982.</p><p>Se entra al <b>Patio de las Naciones</b>, cubierto por una cúpula octogonal de hierro y vidrio con los escudos de los países que comerciaban con Portugal. Siguen la sala del Tribunal, la sala Dorada y la de Asambleas. El final de la visita es el <b>Salón Árabe</b> (1862-1880), también de Gonçalves e Sousa, un derroche <b>neomorisco</b> de estucos dorados con inscripciones árabes que todavía sirve para recibir a jefes de Estado.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Pal%C3%A1cio_da_Bolsa",
+     "https://www.openstreetmap.org/relation/5424595",
+     "https://pt.wikipedia.org/wiki/Pal%C3%A1cio_da_Bolsa"
+    ],
+    "ver_alli": [
+     "El Patio de las Naciones y su cúpula de hierro y cristal.",
+     "La escalera noble, con bustos de Soares dos Reis y Teixeira Lopes.",
+     "El Salón Árabe, al final de la visita guiada.",
+     "Al salir, la iglesia de San Francisco, justo al lado."
+    ]
+   }
+  },
+  {
+   "id": "capela-dos-ossos-evora",
+   "campos": {
+    "texto": {
+     "general": "<p>Junto a la entrada de la iglesia de San Francisco de Évora, un fraile franciscano levantó en el <b>siglo XVI</b>, en pleno espíritu de la Contrarreforma, una capilla para hacer pensar a sus hermanos en lo breve y pasajero de la vida. Sus muros y sus ocho columnas están cubiertos con los huesos de unas <b>5.000 personas</b>, sacados de los cementerios de las iglesias cercanas y fijados con cemento.</p><p>La sala, de tres tramos, mide 18,7 por 11 metros y apenas recibe luz por tres pequeñas aberturas del lado izquierdo. A la entrada, una inscripción avisa al visitante: <b>«Nós ossos que aqui estamos pelos vossos esperamos»</b> («Nosotros, los huesos que aquí estamos, por los vuestros esperamos»). En el techo de ladrillo blanco, pintado con motivos de la muerte, se lee una frase del Eclesiastés: <i>Melior est dies mortis die nativitatis</i> («Mejor es el día de la muerte que el día del nacimiento»).</p><p>Además de las columnas forradas de cráneos, busque los <b>dos cadáveres desecados</b>, uno de ellos de un niño, y el poema enmarcado en un pilar, obra del padre António da Ascenção, párroco de São Pedro entre 1845 y 1848, que invita a detenerse y reflexionar sobre la propia existencia.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Capilla_de_los_Huesos_(%C3%89vora)",
+     "https://en.wikipedia.org/wiki/Capela_dos_Ossos",
+     "https://www.openstreetmap.org/node/6763794307"
+    ]
+   }
+  },
+  {
+   "id": "anta-grande-do-zambujeiro",
+   "campos": {
+    "texto": {
+     "general": "<p>Es un dolmen de dimensiones colosales cerca de Valverde, en el municipio de Évora, y uno de los mayores de la península ibérica. Se levantó entre el <b>4000 y el 3000 a. C.</b>, en la misma época que los demás megalitos de Évora, como el cercano crómlech de los Almendres. Era una tumba colectiva.</p><p>Tiene una <b>cámara poligonal</b> de siete losas de unos <b>8 metros</b> de alto, a la que se llega, desde el este, por un corredor de unos 12 metros de largo y 1,5 de ancho, flanqueado por losas de unos 2 metros. La gran losa de cubierta, de unos 7 metros, está hoy rota y caída sobre el <b>túmulo</b> de tierra que todavía envuelve casi toda la tumba. Las excavaciones de <b>Henrique Leonor Pina</b> en 1965, polémicas por sus métodos, sacaron placas de pizarra, collares, báculos, objetos de cobre y cerámica, que se llevaron al <b>Museo de Évora</b>. Monumento Nacional desde 1971.</p><p>Hoy un cercado metálico, construido en 1983, protege el monumento, cuyo estado preocupa a los arqueólogos. Junto a la entrada yace tendido el gran <b>menhir</b> decorado con cazoletas que la señalaba.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Anta_Grande_do_Zambujeiro",
+     "https://www.openstreetmap.org/node/1587734446",
+     "https://pt.wikipedia.org/wiki/Anta_Grande_do_Zambujeiro"
+    ]
+   }
+  },
+  {
+   "id": "valle-coa",
+   "campos": {
+    "texto": {
+     "general": "<p>Miles de grabados paleolíticos al aire libre a lo largo de los últimos 17 km del río Côa, afluente del Duero, de hace entre unos 25.000 y 10.000 años. El prehistoriador Jean Clottes lo llamó el mayor conjunto de arte paleolítico al aire libre de Europa, si no del mundo. Son <b>Patrimonio de la Humanidad</b> desde 1998, ampliado en 2010 con el yacimiento español de <b>Siega Verde</b>.</p><p>Se descubrieron a comienzos de los años noventa, mientras se construía una presa que iba a inundarlos. Siguió una gran polémica: un movimiento ciudadano lanzó el lema <i>«As gravuras não sabem nadar»</i> («Los grabados no saben nadar»), y en noviembre de <b>1995</b> el nuevo primer ministro, <b>António Guterres</b>, paró la obra. Los grabados, hechos por picado, incisión fina o raspado, son un álbum de los animales del oeste de la península durante la última glaciación: sobre todo caballos, uros, cabras monteses y ciervos, con algún pez. Miden entre 15 y 180 cm. El valle siguió grabándose después, hasta dibujos de barcos, trenes y aviones de los siglos XVII al XX.</p><p>Junto con Siega Verde, permiten imaginar el paisaje abierto y frío de la Edad de Hielo ibérica y la vida de los cazadores que lo recorrían.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Sitios_de_arte_rupestre_prehist%C3%B3rico_del_valle_del_Coa_y_de_Siega_Verde",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=N%C3%BAcleo%20de%20Arte%20Rupestre%20da%20Penascosa",
+     "https://www.google.com/maps/place/?q=place_id:ChIJ181VPpeAPA0R2douGt872vo",
+     "https://en.wikipedia.org/wiki/Prehistoric_Rock_Art_Sites_in_the_C%C3%B4a_Valley_and_Siega_Verde"
+    ]
+   }
+  },
+  {
+   "id": "biblioteca-joanina",
+   "campos": {
+    "texto": {
+     "general": "<p>Entre <b>1717 y 1728</b>, en tiempos de <b>João V</b>, la Universidad de Coimbra levantó esta biblioteca barroca, la antigua «Casa da Livraria», que recibió sus primeros libros en 1750. Forma parte del conjunto de la Universidad de Coimbra, Alta y Sofía, <b>Patrimonio Mundial</b> desde 2013.</p><p>Por fuera es sobria; dentro, <b>tres salas</b> separadas por arcos decorados están forradas de estanterías de dos pisos, doradas o pintadas con motivos <b>chinescos</b>, sobre maderas exóticas, sobre todo de Brasil, bajo techos pintados por los lisboetas Simões Ribeiro y Vicente Nunes. Al fondo preside un retrato monumental del rey pintado por Domenico Duprà en 1725.</p><p>El edificio está pensado para proteger los libros: muros de unos 2,11 m de grosor y una puerta de teca mantienen la temperatura entre 18 y 20 °C, con una humedad cercana al 60 %, y la madera de roble ahuyenta a los insectos. Y, como en Mafra, una colonia de <b>murciélagos</b> sale de noche a comerse los insectos que quedan; por eso cada noche se cubren los muebles con cuero y por la mañana se limpian sus excrementos.</p><p class=\"dato\"><span>¿Sabías que…?</span>La Joanina y la biblioteca del palacio de Mafra son las dos únicas del mundo protegidas así por murciélagos.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Biblioteca_Joanina",
+     "https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&q=Biblioteca%20Joanina",
+     "https://www.google.com/maps/place/?q=place_id:ChIJI07yBaf5Ig0Re5djdGDEF2E",
+     "https://whc.unesco.org/en/list/1387/"
+    ]
+   }
+  },
+  {
+   "id": "museu-nacional-do-azulejo",
+   "campos": {
+    "texto": {
+     "general": "<p>El museo, creado en <b>1965</b> y nacional desde 1980, ocupa el convento de <b>Madre de Deus</b>, fundado en <b>1509</b> por la reina <b>Leonor</b>, viuda de Juan II. Es el lugar para entender por qué Portugal vive revestido de azulejos: unas <b>7.000 piezas</b> componen su colección, portuguesas sobre todo, pero también españolas, holandesas, inglesas, alemanas o belgas, desde la segunda mitad del siglo XV hasta hoy. Está considerado una de las mejores colecciones de cerámica del mundo.</p><p>El recorrido empieza por los materiales y las técnicas y sigue en orden cronológico. La pieza estrella es la <b>Gran Vista de Lisboa</b>, un panel de hacia 1700 que muestra la ciudad a lo largo del río antes del <b>terremoto de 1755</b>. Otras joyas son el retablo de mayólica renacentista de <b>Nossa Senhora da Vida</b>, del siglo XVI, con una Adoración de los pastores, la <i>Sala de Caza</i> (1680) y la <i>Alegoría eucarística</i> (hacia 1660).</p><p>La visita incluye la iglesia del convento, que recibió su rica decoración barroca bajo Juan V y un altar rococó tras el terremoto, su coro alto de talla dorada, el pequeño claustro manuelino con azulejos geométricos del siglo XVII y la capilla de San Antonio, con su decorado barroco del siglo XVIII y lienzos de André Gonçalves.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Museo_Nacional_del_Azulejo",
+     "https://en.wikipedia.org/wiki/National_Azulejo_Museum",
+     "https://www.openstreetmap.org/way/1451054092"
+    ]
+   }
+  },
+  {
+   "id": "castelo-de-marvao",
+   "campos": {
+    "texto": {
+     "general": "<p>Encaramado a <b>867 metros</b> en la sierra de São Mamede, a un paso de la frontera, Marvão es un nido de águilas. Su origen se atribuye al caudillo islámico <b>Ibn Marwan</b>, que se hizo fuerte aquí hacia 876-877. Los cristianos de Alfonso I tomaron la zona entre 1160 y 1166, y en 1226 Sancho II le dio fuero para poblarla y mantenerla como centinela frente a Castilla.</p><p>En 1299 las tropas del rey <b>Dinis</b> tomaron la villa; hacia 1300 el rey reforzó las defensas y levantó la torre del homenaje. Las murallas abrazan todo el pueblo, y las puertas en recodo y los pasos estrechos frenaban a los asaltantes. En las guerras de la Restauración (1640-1662) resistió ataques españoles en 1641 y 1648 y fue reparada. En las guerras liberales, los liberales la ocuparon en diciembre de 1833. Es Monumento Nacional desde 1922.</p><p>Dentro, una gran <b>cisterna</b> abovedada, con diez nervios de piedra, recogía la lluvia para resistir los asedios. Pasee por el adarve y suba a la torre del homenaje: las vistas alcanzan hasta España.</p><p class=\"dato\"><span>¿Sabías que…?</span>Según la tradición, una voz de mujer gritó «¡A las armas!» para avisar a la guarnición de un ataque castellano.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Castle_of_Marv%C3%A3o",
+     "https://www.openstreetmap.org/node/372865739",
+     "https://pt.wikipedia.org/wiki/Castelo_de_Marv%C3%A3o"
+    ]
+   }
+  }
+ ]
+}
