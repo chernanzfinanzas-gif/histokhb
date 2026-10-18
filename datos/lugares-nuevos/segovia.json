@@ -1,0 +1,1140 @@
+{
+ "zona": "Segovia",
+ "nuevos": [
+  {
+   "id": "monasterio-de-el-parral",
+   "nombre": "Monasterio de Santa María del Parral",
+   "provincia": "Segovia",
+   "comarca": "Segovia",
+   "lat": 40.9558,
+   "lon": -4.1264,
+   "tipo": "iglesia",
+   "estilo": "Gótico, mudéjar y plateresco",
+   "epoca": "Gótico",
+   "anio": 1447,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Fuera de las murallas, en la orilla derecha del <b>Eresma</b> y frente al Alcázar, se levanta el monasterio de El Parral, que sigue en manos de los <b>monjes jerónimos</b> desde su fundación. Lo mandó construir <b>Enrique IV</b> en <b>1447</b>, siendo todavía príncipe, y por eso lo hizo a nombre de su valido <b>Juan Pacheco</b>, marqués de Villena. Allí había una ermita de la Virgen cubierta por una parra antigua, de la que el propio rey contaba haber comido uvas de niño: de ahí el nombre.</p><p>El primer maestro de obras fue el segoviano <b>Juan Gallego</b>, que trazó la iglesia al abrigo de las peñas y los claustros a su alrededor. La fachada quedó <b>inacabada</b>, desnuda salvo la portada y la torre renacentista; dentro, el coro de 1494 y la capilla mayor llevan los escudos de los marqueses de Villena, cuyos sepulcros están junto al altar.</p><p>Preside la iglesia un gran <b>retablo renacentista</b> del siglo XVI, obra de Juan Rodríguez y un grupo de escultores abulenses, con la imagen románica de la Virgen del Parral heredada de la vieja ermita. Junto con Santa Cruz la Real, El Parral forma parte de lo mejor de la arquitectura segoviana del siglo XV.</p>"
+   },
+   "ver_alli": [
+    "La fachada sin terminar, con su portada y la torre renacentista a un lado.",
+    "El retablo mayor y, a sus lados, los sepulcros de los marqueses de Villena.",
+    "Desde el paseo del Eresma, la vista del Alcázar sobre la peña de enfrente."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_del_Parral",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-san-antonio-el-real",
+   "nombre": "Monasterio de San Antonio el Real",
+   "provincia": "Segovia",
+   "comarca": "Segovia",
+   "lat": 40.9425,
+   "lon": -4.1107,
+   "tipo": "iglesia",
+   "estilo": "Gótico isabelino y mudéjar",
+   "epoca": "Gótico",
+   "anio": 1455,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Empezó siendo un <b>palacio de recreo</b>: en <b>1455</b> Enrique IV mandó construirlo en la finca de El Campillo, a las afueras de Segovia. Poco después lo cedió a los franciscanos y en <b>1468</b> pasó a las <b>clarisas</b>, que lo han mantenido como convento de clausura hasta hoy. Una inscripción en el coro lo resume: «hizo este monasterio el Rey Don Enrique IV y dotolo la Reina Doña Isabel».</p><p>Por fuera es sobrio, pero dentro sorprende por su decoración <b>mudéjar</b>. La capilla mayor se cubre con una <b>armadura de madera ochavada</b> de lazo, dorada y policromada, con la heráldica del rey y su ramo de granadas. La portada de la iglesia es gótica, de la escuela de Juan Guas.</p><p>Parte del monasterio se visita como museo: el claustro, con techos mudéjares y racimos de mocárabes dorados, y una colección de <b>trípticos flamencos</b> de barro policromado y un calvario flamenco del siglo XV en el retablo de la iglesia.</p>"
+   },
+   "ver_alli": [
+    "La armadura mudéjar de la capilla mayor, mirando hacia arriba con calma.",
+    "Los trípticos flamencos de barro policromado del claustro.",
+    "Los escudos de Enrique IV en la portada gótica."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_San_Antonio_el_Real",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "museo-de-segovia",
+   "nombre": "Museo de Segovia (Casa del Sol)",
+   "provincia": "Segovia",
+   "comarca": "Segovia",
+   "lat": 40.9503,
+   "lon": -4.1289,
+   "tipo": "museo",
+   "estilo": "Arqueología, etnología y bellas artes",
+   "epoca": "Edad del Hierro",
+   "anio": 1842,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Encaramado a un espolón de la <b>muralla medieval</b>, en el lado oeste de la ciudad, el Museo de Segovia ocupa la <b>Casa del Sol</b>, el antiguo matadero municipal, reformado entre 1986 y 2006. La institución es mucho más vieja: nació en <b>1842</b> como museo de pinturas en el palacio episcopal y pasó por varias sedes antes de instalarse aquí.</p><p>Reúne unas <b>1.500 piezas</b> de la provincia y cuenta su historia de principio a fin: geología y paisaje, primeros pobladores, piezas <b>celtibéricas, romanas y visigodas</b>, la Baja Edad Media con el románico, el gótico y el mudéjar, la Segovia de los Austrias con su ceca y la de los Borbones con las Reales Fábricas de La Granja y Valsaín.</p><p>Es la mejor introducción a todo lo que se ve después por la provincia. Desde el edificio se sale al adarve de la muralla, con vista de la ciudad hacia el norte.</p>"
+   },
+   "ver_alli": [
+    "La sala de los primeros pobladores al mundo visigodo, en la planta baja.",
+    "El lapidario del patio, con piedras labradas antiguas y medievales.",
+    "La salida al adarve de la muralla, con vista hacia el norte."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Museo_de_Segovia",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "casa-de-los-picos",
+   "nombre": "Casa de los Picos",
+   "provincia": "Segovia",
+   "comarca": "Segovia",
+   "lat": 40.9481,
+   "lon": -4.1204,
+   "tipo": "monumento",
+   "estilo": "Gótico tardío y renacentista",
+   "epoca": "Gótico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Basta verla una vez para no olvidarla: su fachada está cubierta por <b>617 picos de granito</b>, como un erizo de piedra en plena calle de Juan Bravo. Se levantó en el último tercio del <b>siglo XV</b> como <b>casa-fuerte</b> de Pedro López de Ayala, para defender la cercana puerta de San Martín de la muralla, derribada en 1883.</p><p>Después pasó a Alonso González de la Hoz, contador mayor del reino, y a su familia, cuyos escudos están en los dinteles de los balcones y de la puerta. Dentro tiene un <b>patio renacentista</b> y un zaguán decorado con <b>azulejos de Talavera</b> que muestran edificios de Segovia.</p><p>Desde 1977 es la sede de la <b>Escuela de Arte y Superior de Diseño</b>. Recuerda a otras fachadas «de puntas» de Europa, como la Casa de las Conchas de Salamanca, el Palazzo dei Diamanti de Ferrara o la Casa dos Bicos de Lisboa.</p>"
+   },
+   "ver_alli": [
+    "La fachada de picos de granito, mejor con luz rasante.",
+    "Los escudos de los de la Hoz sobre la puerta y los balcones.",
+    "Si está abierto, el zaguán con azulejos de Talavera y el patio."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Casa_de_los_Picos",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "real-casa-de-la-moneda-de-segovia",
+   "nombre": "Real Casa de la Moneda de Segovia",
+   "provincia": "Segovia",
+   "comarca": "Segovia",
+   "lat": 40.9543,
+   "lon": -4.1285,
+   "tipo": "monumento",
+   "estilo": "Renacimiento (arquitectura industrial)",
+   "epoca": "Renacimiento",
+   "anio": 1583,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>A orillas del Eresma, junto a El Parral, está una de las <b>fábricas más antiguas de Europa</b> que se conservan. En <b>1583 Felipe II</b> ordenó construir aquí la primera <b>ceca mecanizada</b> de España, el Real Ingenio, para acuñar moneda con <b>rodillos movidos por ruedas hidráulicas</b>, una técnica inventada en Augsburgo. La maquinaria vino de Hall in Tirol (Austria) y el diseño se encargó a <b>Juan de Herrera</b>.</p><p>La primera moneda salió en <b>1586</b>: reales de plata. En 1607 llegaron las primeras de oro. Más tarde se pasó a la prensa de volante (1772) y, al final, a la prensa automática, hasta que en <b>1869</b> se acuñó la última pieza. Después fue fábrica de harinas hasta 1968.</p><p>Restaurada, desde <b>2012</b> alberga el <b>Museo de la Real Casa de Moneda</b>, que explica el proceso de fabricar dinero y la historia monetaria de una ciudad que ya acuñaba ases de bronce con su nombre en época romana.</p>"
+   },
+   "ver_alli": [
+    "Las ruedas hidráulicas y los canales que movían la maquinaria.",
+    "El conjunto de edificios junto al río, visto desde el paseo del Eresma."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Real_Casa_de_la_Moneda_(Segovia)",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-san-justo-segovia",
+   "nombre": "Iglesia de San Justo (Segovia)",
+   "provincia": "Segovia",
+   "comarca": "Segovia",
+   "lat": 40.9479,
+   "lon": -4.1155,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Al otro lado del acueducto, cerca del Azoguejo, esta iglesia <b>románica del siglo XII</b> guarda una sorpresa en su cabecera. En una restauración de comienzos de los años <b>1960</b> aparecieron, bajo capas posteriores, unas <b>pinturas murales románicas</b> que cubren buena parte del ábside.</p><p>Muestran los temas clásicos: el <b>Pantocrátor</b> en su mandorla rodeado del Tetramorfos, la Última Cena, el Prendimiento, la Crucifixión y el Descendimiento. Entre ellos asoman motivos de aire oriental, como <b>elefantes</b>, aves y arabescos.</p><p>Por fuera destaca una de las <b>torres más airosas</b> de Segovia y una portada tardorrománica policromada. Dentro se venera el <b>Cristo de los Gascones</b>, una talla románica de brazos articulados que, según la leyenda, llegó de Francia haciendo milagros de lluvia.</p>"
+   },
+   "ver_alli": [
+    "Las pinturas del ábside, con el Pantocrátor y los elefantes.",
+    "La torre, con sus vanos con columnas.",
+    "El Cristo de los Gascones, de brazos articulados."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_los_Santos_Justo_y_Pastor_(Segovia)",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-la-trinidad-segovia",
+   "nombre": "Iglesia de la Santísima Trinidad (Segovia)",
+   "provincia": "Segovia",
+   "comarca": "Segovia",
+   "lat": 40.9513,
+   "lon": -4.1224,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En pleno casco antiguo, la Trinidad es uno de los templos <b>románicos</b> mejor conservados de Segovia. La iglesia actual es del <b>siglo XII</b> y sustituyó a otra más antigua de finales del XI, cuyos restos aparecieron en 1984 al derribar una capilla barroca.</p><p>Tiene lo típico del románico segoviano: una <b>galería porticada</b> al sur, con arcos sobre columnas dobles, y un ábside dividido en tres paños con ventanas y canecillos de figuras fantásticas. Lo mejor está dentro: en la cabecera, <b>dos pisos de arquerías superpuestas</b> con capiteles historiados, vegetales y de bichas, que aún conservan restos de color.</p><p>Con el tiempo se le añadieron piezas de otras épocas, como la capilla de los Campo de <b>1513</b>, con portada de <b>gótico isabelino</b>, y yeserías barrocas del siglo XVII.</p>"
+   },
+   "ver_alli": [
+    "Las dos alturas de arquerías del ábside, por dentro.",
+    "La galería porticada del lado sur.",
+    "La portada isabelina de la capilla de los Campo."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_la_Sant%C3%ADsima_Trinidad_(Segovia)",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "puerta-de-san-andres-segovia",
+   "nombre": "Puerta de San Andrés (murallas de Segovia)",
+   "provincia": "Segovia",
+   "comarca": "Segovia",
+   "lat": 40.9498,
+   "lon": -4.1271,
+   "tipo": "monumento",
+   "estilo": "Medieval",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>De las puertas de la <b>muralla de Segovia</b>, la de San Andrés es la que mejor conserva su aire defensivo. Está en el lado sur del recinto, dominando el valle del <b>Clamores</b>, y se la conoció también como puerta de la <b>Judería</b> o del Socorro.</p><p>La flanquean <b>dos torres</b>, una cuadrada y otra poligonal, con un arco peraltado, galería de ventanas, saeteras en cruz, almenas piramidales y escudos. Se ha especulado con que interviniera el maestro <b>Juan Guas</b>. A finales del siglo XIX la torre poligonal estaba muy dañada; se restauró después para devolverle su aspecto.</p><p>Fue declarada monumento histórico-artístico en <b>1931</b>.</p>"
+   },
+   "ver_alli": [
+    "Las dos torres distintas, cuadrada y poligonal.",
+    "Las saeteras en cruz y las almenas.",
+    "La vista sobre el valle del Clamores desde el exterior."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Puerta_de_San_Andr%C3%A9s",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "convento-de-santa-cruz-la-real",
+   "nombre": "Convento de Santa Cruz la Real",
+   "provincia": "Segovia",
+   "comarca": "Segovia",
+   "lat": 40.9529,
+   "lon": -4.1188,
+   "tipo": "iglesia",
+   "estilo": "Gótico isabelino",
+   "epoca": "Gótico",
+   "anio": 1218,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Fue el <b>primer convento dominico</b> fundado en España: lo estableció el propio <b>santo Domingo de Guzmán</b> en <b>1218</b> sobre unas casas que le donó la ciudad, en el barrio de San Lorenzo, al norte del casco.</p><p>Nació románico, pero los <b>Reyes Católicos</b> lo remodelaron a fondo y le dieron el título de «real». La iglesia es obra de <b>Juan Guas</b> y en la fachada sigue grabado el lema de los monarcas, el famoso «<b>Tanto monta</b>». Entregaron al convento una reliquia del <i>lignum crucis</i> que les había regalado Boabdil, el último rey de Granada.</p><p>Con la desamortización del siglo XIX sus obras de arte se dispersaron: varias tablas acabaron en el Museo del Prado. Hoy sus dependencias forman el campus segoviano de la IE University.</p>"
+   },
+   "ver_alli": [
+    "La portada isabelina con los escudos y el lema «Tanto monta».",
+    "El edificio desde el paseo de Santo Domingo de Guzmán, frente a la muralla."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Convento_de_Santa_Cruz_la_Real",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-cuellar",
+   "nombre": "Castillo de Cuéllar",
+   "provincia": "Segovia",
+   "comarca": "Cuéllar",
+   "lat": 41.4009,
+   "lon": -4.3201,
+   "tipo": "castillo",
+   "estilo": "Gótico y renacentista",
+   "epoca": "Castillos y fortalezas",
+   "anio": 1306,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En lo más alto de Cuéllar, cerrando el recinto amurallado, se alza el castillo de los <b>duques de Alburquerque</b>. Las murallas ya aparecen en documentos de 1264 y el castillo se cita como tal en <b>1306</b>, cuando Fernando IV destinó multas a su reparación; en una restauración aparecieron incluso restos de muralla del siglo XI.</p><p>Fue fortaleza y luego, desde el siglo XVI, <b>palacio</b>. Mezcla estilos del XIII al XVIII, sobre todo gótico y renacentista, y en él trabajaron maestros como <b>Juan Guas, Hanequin de Bruselas o Rodrigo Gil de Hontañón</b>. Fue de <b>Álvaro de Luna</b> y de <b>Beltrán de la Cueva</b>; aquí murió la reina Leonor, esposa de Juan I, y se refugió María de Molina. Durante la guerra de la Independencia se acuarteló en él el <b>duque de Wellington</b>.</p><p>Su historia reciente es menos noble: desde 1938 fue <b>penal</b> para presos políticos y sanatorio de presos tuberculosos, hasta 1966. Restaurado desde 1972, hoy alberga un instituto de secundaria.</p><p class=\"dato\"><span>¿Sabías que…?</span>El poeta José de Espronceda figura entre los huéspedes ilustres que pasaron por el castillo.</p>"
+   },
+   "ver_alli": [
+    "La torre del homenaje, de unos 20 metros, el punto más alto.",
+    "La puerta mudéjar de la fachada sur, de finales del XII o comienzos del XIII.",
+    "Las trazas de palacio renacentista superpuestas a la fortaleza medieval."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Cu%C3%A9llar",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-san-martin-cuellar",
+   "nombre": "Iglesia de San Martín de Cuéllar (Centro del Mudéjar)",
+   "provincia": "Segovia",
+   "comarca": "Cuéllar",
+   "lat": 41.4009,
+   "lon": -4.3181,
+   "tipo": "iglesia",
+   "estilo": "Mudéjar",
+   "epoca": "Mudéjar",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Frente al castillo de Cuéllar, en la explanada que fue la ciudadela medieval, San Martín es un ejemplo excelente del arte <b>mudéjar</b> de ladrillo. Se construyó en el <b>siglo XII</b>, dentro de la primera muralla, y en <b>abril de 1354</b> fue escenario de la boda de <b>Pedro I de Castilla</b> con Juana de Castro.</p><p>Tiene tres naves y una cabecera de <b>tres ábsides</b>, poligonales por fuera, decorados con <b>arcos ciegos de ladrillo</b> doblados, recuadros y frisos de esquinillas. Las portadas norte y sur, también de ladrillo, se enmarcan con alfiz. Dentro quedan pinturas murales mudéjares y una capilla con yeserías.</p><p>Tras la desamortización llegó a convertirse en <b>viviendas</b>. La recuperó una escuela taller en los años 1980 y hoy alberga el <b>Centro de Interpretación del Arte Mudéjar</b>, que explica con luz e imágenes este arte de alarifes.</p>"
+   },
+   "ver_alli": [
+    "Los tres ábsides de ladrillo con sus arcos ciegos, por fuera.",
+    "Las portadas de ladrillo con alfiz.",
+    "Dentro, las pinturas murales y el montaje del centro de interpretación."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Mart%C3%ADn_(Cu%C3%A9llar)",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-castilnovo",
+   "nombre": "Castillo de Castilnovo",
+   "provincia": "Segovia",
+   "comarca": "Condado de Castilnovo (Villafranca del Condado)",
+   "lat": 41.2368,
+   "lon": -3.7596,
+   "tipo": "castillo",
+   "estilo": "Mudéjar",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En el valle del río San Juan, entre Villafranca del Condado y Valdesaz, aparece este castillo-palacio de <b>ladrillo y piedra</b>, con seis torres —tres cuadradas y tres redondas— salpicadas de ventanas y balcones. Su origen es oscuro: se le atribuye a Abderramán I o a Almanzor, pero <b>no se han hallado restos</b> de esa época; los arcos apuntados del patio de armas son de los siglos XII-XIII.</p><p>Por él pasaron grandes nombres: Juan II lo dio a su valido <b>Álvaro de Luna</b>, Enrique IV a <b>Juan Pacheco</b>, y después lo compró <b>Fernando el Católico</b>, que lo dio en dote a su hija natural Juana de Aragón. Tras la muerte de Felipe el Hermoso en 1506, la reina <b>Juana la Loca</b> se alojó aquí con su media hermana.</p><p>Hacia 1528 los Velasco custodiaron en él a los <b>hijos del rey Francisco I de Francia</b>, rehenes tras el Tratado de Madrid, antes de llevarlos a Pedraza. Hoy es de propiedad privada.</p>"
+   },
+   "ver_alli": [
+    "La mezcla de sillería, ladrillo y calicanto en las torres.",
+    "Las ventanas con alfiz y arcos de herradura, conopiales y apuntados.",
+    "El patio de armas con sus arcos apuntados medievales."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Castillo_de_Castilnovo",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-la-soterrana-nieva",
+   "nombre": "Monasterio de Nuestra Señora de la Soterraña",
+   "provincia": "Segovia",
+   "comarca": "Santa María la Real de Nieva",
+   "lat": 41.0697,
+   "lon": -4.4067,
+   "tipo": "iglesia",
+   "estilo": "Gótico",
+   "epoca": "Gótico",
+   "anio": 1393,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Cuenta la tradición que en un descampado de Nieva apareció enterrada una imagen de la Virgen, la <b>Soterraña</b> («la de bajo tierra»). La reina <b>Catalina de Lancáster</b> se empeñó en levantarle un templo allí mismo, y en <b>1393</b> obtuvo del papa las bulas necesarias. Alrededor nació la villa de Santa María la Real de Nieva, y en 1399 el santuario se entregó a los <b>dominicos</b>.</p><p>La iglesia se amplió entre <b>1414 y 1432</b>, como recuerdan inscripciones en las columnas del crucero. Su <b>portada</b> es un libro de piedra: en el tímpano, Cristo entronizado entre dos figuras que serían los fundadores, y debajo diecisiete escenas de la <b>Pasión</b>. En la capilla mayor fue enterrada en <b>1441</b> la reina <b>Blanca de Navarra</b>, y en <b>1473</b> Enrique IV reunió aquí las Cortes de Castilla.</p><p>La joya es el <b>claustro</b>, cuyos capiteles, labrados por las cuatro caras, retratan la vida medieval: el año agrícola, animales, criaturas fantásticas, escenas bíblicas y escudos.</p>"
+   },
+   "ver_alli": [
+    "Los capiteles del claustro, sobre todo la serie del año agrícola.",
+    "La portada de la iglesia, con las escenas de la Pasión.",
+    "El salón donde Enrique IV reunió las Cortes en 1473."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_monasterio_de_Nuestra_Se%C3%B1ora_de_la_Soterra%C3%B1a",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "ermita-de-la-vera-cruz-maderuelo",
+   "nombre": "Ermita de la Vera Cruz de Maderuelo",
+   "provincia": "Segovia",
+   "comarca": "Maderuelo",
+   "lat": 41.4851,
+   "lon": -3.5189,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En Maderuelo, junto al embalse de Linares, queda una pequeña ermita <b>románica</b> que guardó uno de los conjuntos de pintura más famosos de España. Sus muros estaban cubiertos de <b>pinturas murales</b> de la primera mitad del <b>siglo XII</b>, tan valoradas que en 1924 se declaró la ermita monumento por ellas.</p><p>Cuando se construyó el <b>embalse de Linares</b> y hubo riesgo de que el agua dañara el edificio, en <b>1947</b> las pinturas se arrancaron y se trasladaron al <b>Museo del Prado</b>.</p><p>En la ermita se pueden ver hoy unas <b>réplicas</b> que permiten imaginar cómo era el interior pintado en su lugar original.</p>"
+   },
+   "ver_alli": [
+    "Las réplicas de las pinturas en el interior.",
+    "El edificio junto al embalse, con la villa de Maderuelo en lo alto.",
+    "Si se viaja a Madrid, los originales en el Museo del Prado."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Ermita_de_la_Vera_Cruz_(Maderuelo)",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-el-salvador-sepulveda",
+   "nombre": "Iglesia de El Salvador (Sepúlveda)",
+   "provincia": "Segovia",
+   "comarca": "Sepúlveda",
+   "lat": 41.2979,
+   "lon": -3.7505,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "anio": 1093,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En lo alto de un cerro sobre Sepúlveda, El Salvador es una de las <b>iglesias románicas más antiguas</b> de la provincia: una inscripción en el exterior del ábside, en el lado norte, da la fecha de <b>1093</b>.</p><p>Es de nave única con bóveda de cañón y ábside de medio tambor. Tiene una <b>galería porticada</b> románica abierta al sur, con ocho arcos sobre capiteles con columnas o pilastras. La <b>torre</b>, separada del templo, tiene tres cuerpos y ventanas ajimezadas en el último.</p><p>Fue declarada monumento histórico-artístico en 1931, junto con otras dos iglesias de la villa: San Justo y la Virgen de la Peña.</p>"
+   },
+   "ver_alli": [
+    "La galería porticada y sus capiteles.",
+    "La inscripción con la fecha en el ábside, lado norte.",
+    "La torre exenta y las vistas sobre la villa."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Salvador_(Sep%C3%BAlveda)",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "santuario-de-la-virgen-de-la-pena-sepulveda",
+   "nombre": "Santuario de la Virgen de la Peña (Sepúlveda)",
+   "provincia": "Segovia",
+   "comarca": "Sepúlveda",
+   "lat": 41.3021,
+   "lon": -3.7505,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En el extremo norte del casco de Sepúlveda, sobre las hoces del Duratón, se alza este santuario mariano. La iglesia es <b>románica</b> y su torre se remonta al <b>siglo XII</b>; el retablo, en cambio, es <b>barroco</b>.</p><p>Fue declarada monumento histórico-artístico el <b>3 de junio de 1931</b>, en los primeros meses de la Segunda República, a la vez que El Salvador y San Justo, las otras dos grandes iglesias de la villa.</p><p>Junto a ella hay un mirador sobre el cañón del río: uno de los lugares con más encanto de Sepúlveda para entender su emplazamiento sobre las hoces.</p>"
+   },
+   "ver_alli": [
+    "La portada y la torre románicas.",
+    "El retablo barroco de la Virgen.",
+    "El mirador sobre la hoz del Duratón, al lado."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_la_Virgen_de_la_Pe%C3%B1a_(Sep%C3%BAlveda)",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-san-vicente-pelayos-del-arroyo",
+   "nombre": "Iglesia de San Vicente Mártir (Pelayos del Arroyo)",
+   "provincia": "Segovia",
+   "comarca": "Pelayos del Arroyo",
+   "lat": 41.0513,
+   "lon": -3.9401,
+   "tipo": "iglesia",
+   "estilo": "Románico",
+   "epoca": "Románico",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En un pequeño pueblo del piedemonte de la sierra, cerca de Sotosalbos, se esconde esta iglesia <b>románica</b> de los siglos <b>XII-XIII</b>. Por fuera es modesta, pero dentro guarda dos tesoros que justificaron su declaración como monumento en <b>1981</b>.</p><p>El primero son sus <b>pinturas murales románicas</b>. El segundo, la arquería con capiteles que la declaración oficial describió como «bellísimos», decorados con <b>aves con cabeza de mujer</b> (arpías) y animales monstruosos.</p><p>Es una buena parada para quien recorre el románico de la sierra segoviana, entre Sotosalbos, Collado Hermoso y Torrecaballeros.</p>"
+   },
+   "ver_alli": [
+    "Las pinturas murales románicas del interior.",
+    "Los capiteles con arpías y animales fantásticos."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Vicente_M%C3%A1rtir_(Pelayos_del_Arroyo)",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "castillo-de-pedraza",
+   "nombre": "Castillo de Pedraza",
+   "provincia": "Segovia",
+   "comarca": "Pedraza",
+   "lat": 41.1327,
+   "lon": -3.8143,
+   "tipo": "castillo",
+   "estilo": "Medieval y renacentista",
+   "epoca": "Castillos y fortalezas",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En el extremo occidental de la villa amurallada de Pedraza, el castillo se asoma a los barrancos que la rodean. Tiene <b>planta poligonal</b>, doble recinto con cubos y torres cuadradas y un <b>foso excavado en la roca</b>; aprovecha parte de la muralla, con restos románicos, y su torre del homenaje tiene una fábrica distinta del resto.</p><p>Perteneció a los <b>Herrera</b> y después a los <b>Velasco</b>, duques de Frías. Su episodio más célebre llegó tras el Tratado de Madrid (1526): los <b>hijos del rey Francisco I de Francia</b> —entre ellos el futuro Enrique II— estuvieron aquí retenidos como rehenes del emperador Carlos V.</p><p>En <b>1926</b> lo compró el pintor <b>Ignacio Zuloaga</b>, que restauró una torre y puso en ella su taller. Hoy el torreón alberga un museo con obra suya y piezas de su colección.</p>"
+   },
+   "ver_alli": [
+    "El foso tallado en la roca y la puerta de acceso.",
+    "La torre del homenaje.",
+    "El museo Zuloaga en el torreón."
+   ],
+   "fuentes": [
+    "https://www.turismocastillayleon.com/es/patrimonio-cultura/castillo-pedraza",
+    "https://www.spain.info/es/lugares-interes/museo-ignacio-zuloaga/",
+    "https://es.wikipedia.org/wiki/Castillo_de_Castilnovo",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "cueva-de-los-enebralejos",
+   "nombre": "Cueva de los Enebralejos",
+   "provincia": "Segovia",
+   "comarca": "Prádena",
+   "lat": 41.1464,
+   "lon": -3.6773,
+   "tipo": "yacimiento",
+   "estilo": "Necrópolis prehistórica en cueva",
+   "epoca": "Edad del Bronce",
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>A un kilómetro de Prádena se abre la <b>cueva más importante de la provincia</b>. La descubrieron por casualidad en <b>1932</b> tres vecinos que excavaban un pozo para el ganado y provocaron el hundimiento de una galería. Topografías posteriores le han medido unos <b>3.670 metros</b> de galerías.</p><p>Desde el principio se vio su valor arqueológico. Las excavaciones, iniciadas en 1964 por Isabel Burdiel, mostraron que fue un <b>lugar de enterramiento</b>: en la primera sala hay pozos que servían de <b>osarios</b>, con grandes vasijas de barro con huesos humanos. Los estudios la definen como una <b>necrópolis de principios de la Edad del Bronce</b>, y en sus paredes hay pinturas y grabados.</p><p>Se formó por la disolución de la caliza durante millones de años, y está llena de estalactitas y estalagmitas. Abrió al público en <b>1995</b> y solo se visita con guía.</p><p class=\"dato\"><span>¿Sabías que…?</span>Su nombre viene de las sabinas de la zona, a las que los vecinos llaman «enebros».</p>"
+   },
+   "ver_alli": [
+    "Los osarios prehistóricos de la primera sala.",
+    "Los grabados y pinturas de las paredes.",
+    "Las formaciones de estalactitas y coladas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Cueva_de_los_Enebralejos",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "monasterio-de-santa-maria-de-la-sierra",
+   "nombre": "Monasterio de Santa María de la Sierra",
+   "provincia": "Segovia",
+   "comarca": "Collado Hermoso",
+   "lat": 41.0267,
+   "lon": -3.9134,
+   "tipo": "iglesia",
+   "estilo": "Románico y cisterciense",
+   "epoca": "Románico",
+   "anio": 1133,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>En la falda de la sierra de Guadarrama, cerca de Collado Hermoso, quedan las <b>ruinas</b> de un monasterio que fue benedictino y luego <b>cisterciense</b>. En <b>1133</b> el obispo de Segovia, Pedro de Agén, donó tierras a sus monjes, y hacia <b>1219</b> ya pertenecía al Císter.</p><p>Lo que sigue en pie es la iglesia cisterciense, de tres naves y cinco tramos, probablemente de comienzos del siglo XIII. Destaca la fachada occidental, con una portada de <b>arquivoltas apuntadas</b> con dientes de sierra y puntas de diamante y, encima, un <b>rosetón</b> abierto al cielo. Los capiteles de las primeras naves tienen animales de tradición románica; hacia los pies se vuelven vegetales.</p><p>En <b>1470</b> Enrique IV se reunió aquí con su hija <b>Juana</b> para preparar su boda con el duque de Guyena. Decayó desde 1504 y acabó desamortizado en el siglo XIX.</p><p class=\"dato\"><span>¿Sabías que…?</span>La Virgen de la Sierra, talla románica del siglo XIII que presidía el altar, se guarda hoy en la parroquia de Sotosalbos.</p>"
+   },
+   "ver_alli": [
+    "La portada occidental con el rosetón sin cristal.",
+    "Los capiteles de animales de los primeros tramos.",
+    "El paisaje de la sierra alrededor de las ruinas."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_de_la_Sierra",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  },
+  {
+   "id": "iglesia-de-san-miguel-segovia",
+   "nombre": "Real Iglesia de San Miguel (Segovia)",
+   "provincia": "Segovia",
+   "comarca": "Segovia",
+   "lat": 40.9501,
+   "lon": -4.1233,
+   "tipo": "iglesia",
+   "estilo": "Gótico",
+   "epoca": "Gótico",
+   "anio": 1532,
+   "regiones_sincronia": [
+    "Hispania · Castilla · España"
+   ],
+   "texto": {
+    "general": "<p>Junto a la Plaza Mayor de Segovia, esta iglesia está ligada a un momento clave de la historia de España. Junto a la primitiva iglesia románica de San Miguel, que ocupaba parte de la actual plaza, fue <b>proclamada reina de Castilla Isabel la Católica</b> el <b>13 de diciembre de 1474</b>.</p><p>Aquella iglesia se derribó en <b>1532</b> para ampliar la plaza y se empezó la actual, con una gran nave <b>gótica</b> muy alta, crucero amplio y capillas laterales. En la fachada se reaprovechó la <b>portada románica</b> del templo antiguo, con relieves de San Miguel, San Pedro y San Pablo.</p><p>Dentro destaca el retablo mayor, terminado en <b>1572</b>, y la capilla de los Laguna, donde está enterrado el médico y humanista segoviano <b>Andrés Laguna</b>. En 2024, en el 550 aniversario de la proclamación, recibió el título de «real».</p>"
+   },
+   "ver_alli": [
+    "La portada románica reaprovechada y los tres relieves del muro sur.",
+    "La altura de la nave gótica.",
+    "La capilla de los Laguna, con la sepultura de Andrés Laguna."
+   ],
+   "fuentes": [
+    "https://es.wikipedia.org/wiki/Iglesia_de_San_Miguel_(Segovia)",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "creada": "2026-10-18"
+  }
+ ],
+ "cambios": [
+  {
+   "id": "domingo-garcia",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Arte rupestre paleolítico al aire libre",
+    "lat": 41.1071,
+    "lon": -4.3706,
+    "texto": {
+     "general": "<p>En plena campiña segoviana, el <b>cerro de San Isidro</b> de Domingo García es un pequeño otero de pizarra oscura que guarda uno de los conjuntos de <b>arte rupestre paleolítico al aire libre</b> más importantes de la Meseta. No hay cueva: los grabados están a cielo abierto, sobre las lajas de roca, y se descubrieron en <b>1970</b>.</p><p>Las figuras más antiguas se hicieron a finales del Paleolítico Superior, en el <b>Magdaleniense</b>: unos 14.000 años según unas fuentes, y entre el 17.000 y el 15.000 a. C. según la Junta de Castilla y León. Con <b>trazo fino y piqueteado</b> se dibujaron caballos —el más famoso es un caballo de gran tamaño—, ciervos, uros e íbices.</p><p>Miles de años después, desde la Edad Media, otros vecinos volvieron a grabar las mismas rocas con escenas de <b>lucha, caza y pastoreo</b>, de modo que en el mismo cerro conviven dos mundos muy distintos. Lo corona una ermita en ruinas con mirador.</p>"
+    },
+    "ver_alli": [
+     "Visita libre del cerro y su ermita, por senderos señalizados con paneles.",
+     "Busca con luz rasante (primera o última hora) los trazos finos de los animales paleolíticos.",
+     "Fíjate en los grabados medievales de jinetes y escenas de caza superpuestos.",
+     "Ciudad de Segovia."
+    ],
+    "fuentes": [
+     "https://rupestre.art/es/caves/domingo-garcia",
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/cerro-san-isidro",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "acueducto-segovia",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Romano",
+    "lat": 40.9479,
+    "lon": -4.118,
+    "texto": {
+     "general": "<p>La obra romana más famosa de España, levantada a <b>finales del siglo I o principios del II d. C.</b>, en tiempos de Trajano según los últimos estudios. Su puente tiene <b>167 arcos sobre 120 pilares</b> y alcanza <b>28 metros</b> de altura en la plaza del Azoguejo. Está hecho con unos 20.400 bloques de <b>granito colocados en seco</b>, sin argamasa: se sostienen por su propio peso.</p><p>El agua venía del manantial de la <b>Fuenfría</b>, en la sierra, a unos 15 km, por un canal con desarenadores donde se depositaba la tierra antes de cruzar el valle sobre los arcos hasta la parte alta de la ciudad y el Alcázar.</p><p>En el siglo XV los <b>Reyes Católicos</b> mandaron reconstruir <b>36 arcos</b> que estaban arruinados, obra encargada al prior del monasterio del Parral. El acueducto siguió llevando agua a Segovia hasta el siglo XX y es <b>Patrimonio Mundial desde 1985</b>, junto con la ciudad vieja.</p><p class=\"dato\"><span>¿Sabías que…?</span>La leyenda dice que lo levantó el diablo en una noche a cambio del alma de una aguadora, pero cantó el gallo cuando faltaba una piedra y perdió el trato.</p>"
+    },
+    "ver_alli": [
+     "Acceso libre. Patrimonio Mundial.",
+     "Mira el tramo más alto desde la plaza del Azoguejo y sube por las escaleras junto a la muralla para verlo de cerca.",
+     "En lo alto, la hornacina con la Virgen (hoy réplica)."
+    ],
+    "fuentes": [
+     "https://jcyl.es/jcyl/patrimoniocultural/GuiaLugaresArqueologicos/wp-content/uploads/2022/11/Folleto-acueducto-2.pdf",
+     "https://es.wikipedia.org/wiki/Acueducto_de_Segovia",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "cauca",
+   "campos": {
+    "tipo": "yacimiento",
+    "estilo": "Romano",
+    "lat": 41.222,
+    "lon": -4.5243,
+    "texto": {
+     "general": "<p>Coca fue <b>Cauca</b>, una importante ciudad de los <b>vacceos</b> antes de Roma. En el 151 a. C. la conquistó y destruyó Lucio Licinio Lúculo; reconstruida, volvió a ser arrasada por las tropas de Pompeyo en el 74 a. C. por haber apoyado a Sertorio. Aun así renació y prosperó: en el siglo IV nació aquí el emperador <b>Teodosio el Grande</b>.</p><p>Junto a la fuente de los Cinco Caños, a las afueras del pueblo, se conserva un <b>edificio romano relacionado con el agua</b>: quizá una fuente pública o un <b>ninfeo</b> dedicado a las ninfas. Tenía un patio con columnas y, al fondo, tres nichos semicirculares.</p><p>Lo mejor son sus <b>pinturas murales en su sitio</b>, con motivos geométricos e <b>imitaciones de mármol</b>. Otros fragmentos con rostros, peces y plantas acuáticas están en el Museo de Segovia.</p>"
+    },
+    "ver_alli": [
+     "Acceso libre, a cubierto.",
+     "Busca las pinturas que imitan mármoles en la parte baja de los muros.",
+     "Los restos están unos 50 m detrás de la fuente-lavadero de los Cinco Caños.",
+     "Castillo de Coca."
+    ],
+    "fuentes": [
+     "https://www.terranostrum.es/turismo/edificio-romano-de-los-cinco-canos",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "alcazar-de-segovia",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Gótico y mudéjar",
+    "lat": 40.9525,
+    "lon": -4.1322,
+    "texto": {
+     "general": "<p>Como la proa de un barco sobre el valle del <b>Eresma</b>, el Alcázar de Segovia es uno de los castillos más reconocibles del mundo. Ya se documenta a comienzos del siglo XII, poco después de la repoblación de la ciudad, y fue creciendo como <b>castillo-palacio</b> de los reyes de Castilla.</p><p>En el siglo XV se levantó la imponente <b>torre de Juan II</b> (1440-1465), de unos 80 metros, y se decoraron sus salas con <b>techumbres mudéjares</b>, como la de la Sala de la Chimenea (1456) o el friso de yeserías de la Sala de la Galera (1412). El <b>13 de diciembre de 1474</b> salió de aquí <b>Isabel</b> para ser proclamada reina de Castilla junto a la iglesia de San Miguel, y en 1570 se celebró en él la boda de Felipe II con Ana de Austria.</p><p>Desde 1764 acogió el <b>Real Colegio de Artillería</b>. El incendio del 6 de marzo de 1862 destruyó las techumbres de las salas nobles, que se rehicieron después siguiendo grabados antiguos. Hoy alberga también el Archivo General Militar, instalado en 1898.</p><p class=\"dato\"><span>¿Sabías que…?</span>Su silueta inspiró el castillo de la película <i>Blancanieves</i> de Disney (1937).</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "Levanta la vista a las techumbres mudéjares de las salas de la Chimenea, la Galera y Reyes.",
+     "Sube los 152 escalones de la torre de Juan II para ver la ciudad y la sierra.",
+     "Para la mejor foto del exterior, baja al mirador de la Pradera de San Marcos."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Alc%C3%A1zar_de_Segovia",
+     "https://www.esdiario.com/chismografo/tendencias/260930/199143/segovia-isabel-catolica-proclamacion-san-miguel.html",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "iglesia-de-la-vera-cruz",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 40.9557,
+    "lon": -4.1322,
+    "texto": {
+     "general": "<p>A las afueras de Segovia, en la cuesta que sube a Zamarramala, se alza una de las iglesias más misteriosas de España. Su lápida dice que se dedicó el <b>13 de abril de 1208</b> como «iglesia del Santo Sepulcro», y su forma lo recuerda: una nave de <b>doce lados</b> que gira alrededor de un <b>edículo central de dos pisos</b>, como el templo del Sepulcro de Jerusalén.</p><p>Durante mucho tiempo se atribuyó a los <b>templarios</b>, pero hoy se piensa que la construyó la <b>Orden del Santo Sepulcro</b>. En 1216 el papa Honorio III le concedió una reliquia de la cruz de Cristo (<i>lignum crucis</i>), que en 1692 se llevó a la parroquia de Zamarramala. Desde 1531 depende de la <b>Orden de Malta</b>, que recuperó su posesión en 1951.</p><p>El piso alto del edículo se cubre con una cúpula de tradición califal; la torre, cuadrada, se añadió más tarde. Es Monumento Nacional desde 1919.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "Sube al piso alto del edículo central, con su cúpula de tradición califal.",
+     "Recorre la nave circular y mira la cúpula de nervios cruzados.",
+     "Desde la explanada, una de las mejores vistas del Alcázar."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Iglesia_de_la_Vera_Cruz_(Segovia)",
+     "https://turismodesegovia.com/sites/default/files/Media/Files/2020-01/Ruta-romanico.pdf",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-coca",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Gótico-mudéjar",
+    "lat": 41.2152,
+    "lon": -4.5255,
+    "texto": {
+     "general": "<p>El castillo de Coca es la gran joya del <b>mudéjar militar</b> castellano: una fortaleza casi toda de <b>ladrillo</b>, rodeada por un foso ancho y profundo, con torres y almenas que parecen más un palacio de exhibición que un castillo de guerra.</p><p>En <b>1453</b> el rey Juan II dio licencia a <b>Alonso de Fonseca</b>, arzobispo de Sevilla, para levantarlo, y las obras siguieron con su sobrino, del mismo nombre, que lo dejó prácticamente terminado hacia <b>1493</b>. La piedra caliza solo aparece en detalles como las aspilleras o las columnas del patio.</p><p>La mayor de sus cuatro torres de esquina es la del homenaje, con escalera de caracol de ladrillo, capilla y sala de armas. El castillo pasó a la casa de Alba y en 1954 se cedió al Estado; desde 1958 funciona en él una escuela de capataces forestales. Es Monumento Nacional desde 1926.</p>"
+    },
+    "ver_alli": [
+     "Visita guiada.",
+     "Rodea el foso a pie para apreciar el juego decorativo del ladrillo.",
+     "Dentro, fíjate en la bóveda de la sala de armas de la torre del homenaje.",
+     "A unos pasos, la torre de San Nicolás y los restos romanos de los Cinco Caños."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Coca",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-turegano",
+   "campos": {
+    "tipo": "castillo",
+    "estilo": "Románico y gótico",
+    "lat": 41.1581,
+    "lon": -4.0052,
+    "texto": {
+     "general": "<p>El castillo de Turégano es un caso curioso: una <b>iglesia románica dentro de una fortaleza</b>. Los obispos de Segovia fueron sus dueños durante siglos, y el obispo Pedro de Agén empezó a finales del siglo XII la iglesia de <b>San Miguel</b>, de tres naves.</p><p>A partir de <b>1471</b> el obispo <b>Arias Dávila</b> levantó en torno al templo una fortaleza-palacio, de modo que la iglesia quedó encerrada entre muros. En el siglo XVI se reforzaron las defensas con muros y torres cilíndricas preparados para las armas de fuego, y en <b>1703</b> se añadió la espadaña barroca sobre la fachada sur.</p><p>En <b>1585</b> estuvo aquí preso <b>Antonio Pérez</b>, el secretario caído en desgracia de Felipe II. Es Monumento Nacional desde 1931.</p>"
+    },
+    "ver_alli": [
+     "Con entrada (horario reducido).",
+     "Entra en la iglesia de San Miguel y busca las naves laterales románicas.",
+     "Mira la espadaña barroca recortada sobre las murallas.",
+     "Abajo, la gran plaza porticada de Turégano."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Tur%C3%A9gano",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "pedraza",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Medieval",
+    "lat": 41.131,
+    "lon": -3.8113,
+    "texto": {
+     "general": "<p>Pedraza es una de las <b>villas medievales amuralladas</b> mejor conservadas de Castilla. Solo se entra por una puerta, la <b>Puerta de la Villa</b>, de origen en el siglo XI y rehecha en el XVI, junto a la cual está la antigua <b>cárcel</b>, una torre del siglo XIII que hoy es museo.</p><p>En el otro extremo, el <b>castillo</b>, del siglo XIII y reedificado en el XV. Allí estuvieron como rehenes de Carlos V los hijos de Francisco I de Francia hasta 1530. En <b>1926</b> lo compró el pintor <b>Ignacio Zuloaga</b>, que lo restauró e instaló su taller; hoy alberga un museo con obra suya.</p><p>Entre ambos, calles empedradas, casonas blasonadas, la iglesia de San Juan y una <b>plaza porticada</b> de estilo castellano. Es conjunto histórico desde 1951.</p><p class=\"dato\"><span>¿Sabías que…?</span>En la Noche de las Velas, los primeros sábados de julio, se apaga el alumbrado y la villa se ilumina solo con velas.</p>"
+    },
+    "ver_alli": [
+     "Acceso libre.",
+     "Entra por la Puerta de la Villa y visita la antigua cárcel.",
+     "Pasea hasta la plaza porticada y sigue hasta el castillo-museo Zuloaga.",
+     "Deja el coche fuera del recinto amurallado."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Pedraza_(Segovia)",
+     "https://www.spain.info/es/lugares-interes/museo-ignacio-zuloaga/",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "sepulveda",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Medieval y románico",
+    "lat": 41.2972,
+    "lon": -3.7485,
+    "texto": {
+     "general": "<p>Sepúlveda se asoma a las <b>Hoces del Duratón</b> desde lo alto de un cerro. En el año <b>940</b> el conde <b>Fernán González</b> recibió el encargo de repoblarla, y su <b>fuero</b>, cuyo texto latino más antiguo es de Alfonso VI en 1076, fue uno de los más influyentes de Castilla.</p><p>Su joya es la iglesia de <b>El Salvador</b>, en la cima del pueblo: una inscripción en el ábside lleva la fecha de <b>1093</b>, lo que la convierte en la iglesia románica más antigua de la provincia, con un atrio porticado de ocho arcos y torre separada. También son románicas la <b>Virgen de la Peña</b>, sobre una de las hoces, y <b>San Justo</b>, hoy Museo de los Fueros.</p><p>En la plaza se alzan los restos del castillo de Fernán González y la antigua cárcel, hoy museo. Es conjunto histórico-artístico desde 1951.</p>"
+    },
+    "ver_alli": [
+     "Acceso libre.",
+     "Sube a El Salvador y busca la fecha de 1093 en el exterior del ábside.",
+     "Asómate a las hoces desde la Virgen de la Peña.",
+     "Centro de interpretación del Parque Natural de las Hoces del Duratón."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Sep%C3%BAlveda",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Salvador_(Sep%C3%BAlveda)",
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/sepulveda/patrimonio",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "ayllon",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Medieval y renacentista",
+    "lat": 41.4196,
+    "lon": -3.3763,
+    "texto": {
+     "general": "<p>Ayllón, en el extremo nordeste de la provincia, recibe al visitante con su <b>arco</b> de entrada, una de las tres puertas de la villa, decorado con cuatro escudos. Junto a él se levanta el <b>palacio de los Contreras</b>, de <b>1497</b>, con un cordón franciscano y tres escudos en la fachada.</p><p>La <b>Plaza Mayor</b> está porticada y en ella se encuentra la iglesia de <b>San Miguel</b>, de origen románico, con su ábside muy restaurado. La parroquia de Santa María la Mayor, barroca, se terminó en 1701. En lo alto domina el cerro de <b>La Martina</b>, con la vieja torre del castillo, donde aparecieron restos celtibéricos.</p><p>Juan II concedió el señorío de la villa a su favorito <b>don Álvaro de Luna</b>. Es conjunto histórico-artístico desde 1973.</p>"
+    },
+    "ver_alli": [
+     "Acceso libre.",
+     "Entra por el arco y mira la fachada del palacio de los Contreras.",
+     "En la Plaza Mayor, la iglesia románica de San Miguel y la fuente de 1892.",
+     "Sube al cerro de La Martina para ver la villa."
+    ],
+    "fuentes": [
+     "https://www.terranostrum.es/turismo/segovia/segovia-nordeste-riaza-y-duraton/un-paseo-por-ayllon-y-alrededores",
+     "https://es.wikipedia.org/wiki/Ayll%C3%B3n",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "nuestra-senora-de-tejadilla",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 41.1839,
+    "lon": -3.6899,
+    "ver_alli": [
+     "Exterior libre; interior concertado con la Mancomunidad de la Sierra (921 50 74 66).",
+     "Recorre los canecillos del alero del ábside.",
+     "Dentro, compara los dos capiteles del arco triunfal: virtud y pecado.",
+     "En el ábside, la ventana con capiteles de sirenas-pez."
+    ],
+    "fuentes": [
+     "https://turismosierrasegovia.es/nuestra-senora-de-tejadilla/",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "san-millan-de-segovia",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 40.9457,
+    "lon": -4.1207,
+    "texto": {
+     "general": "<p>San Millán es para muchos la iglesia románica más bella de Segovia. Su <b>torre</b> es anterior al resto: sus ventanas de herradura la sitúan en la tradición mozárabe, antes de la repoblación de la ciudad.</p><p>El resto del templo se rehízo entre <b>1111 y 1126</b>, en tiempos de <b>Alfonso I el Batallador</b>, imitando a menor escala la planta de la <b>catedral de Jaca</b>: tres naves con pilares y columnas alternos, crucero con cúpula y tres ábsides. A los lados corren <b>dos galerías porticadas</b>, tan típicas de Segovia.</p><p>Entre sus capiteles destacan los <b>Reyes Magos camino de Belén</b> y la <b>Huida a Egipto</b>, y bajo la torre se conserva uno de los dos tímpanos románicos de la ciudad, con santa Elena descubriendo el Santo Sepulcro.</p>"
+    },
+    "ver_alli": [
+     "Exterior libre; interior concertado o en horario de culto.",
+     "Rodea las dos galerías porticadas y busca el capitel de los Reyes Magos.",
+     "Fíjate en los canecillos de rollos de tradición califal.",
+     "Dentro, la cúpula del crucero sobre nervios paralelos."
+    ],
+    "fuentes": [
+     "https://turismodesegovia.com/sites/default/files/Media/Files/2020-01/Ruta-romanico.pdf",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Mill%C3%A1n_(Segovia)",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "san-esteban-de-segovia",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 40.952,
+    "lon": -4.1248,
+    "texto": {
+     "general": "<p>San Esteban, levantada en el siglo XII, tiene la torre que da carácter al perfil de Segovia. Su campanario de <b>cinco cuerpos</b>, añadido en el siglo XIII, llegó a medir 56 metros con su antiguo chapitel, lo que la convertía en el <b>campanario románico más alto de la península</b>; hoy ronda los 50 metros. Por eso la llaman «la reina de las torres románicas de Castilla».</p><p>Una <b>galería porticada</b> recorre los lados oeste y sur, con capiteles muy desgastados por la intemperie. El interior se rehízo en estilo barroco y la cabecera se reformó en el siglo XVIII.</p><p>Fue declarada Monumento Nacional en <b>1896</b>. Dentro guarda un calvario de finales del siglo XIII o del XIV procedente de la desaparecida iglesia de Santiago.</p>"
+    },
+    "ver_alli": [
+     "Exterior libre.",
+     "Contempla la torre desde la plaza de San Esteban.",
+     "Recorre la galería porticada del lado sur y sus capiteles.",
+     "Si está abierta, busca el calvario gótico de la iglesia de Santiago."
+    ],
+    "fuentes": [
+     "https://turismodesegovia.com/sites/default/files/Media/Files/2020-01/Ruta-romanico.pdf",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Esteban_(Segovia)",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "san-martin-de-segovia",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 40.949,
+    "lon": -4.1219,
+    "texto": {
+     "general": "<p>En plena calle Juan Bravo, a medio camino entre el acueducto y la catedral, San Martín es una de las iglesias más antiguas de Segovia: ya existía en <b>1117</b>, cuando su abad firmó como testigo un testamento.</p><p>Tiene tres naves y una <b>galería porticada</b> que rodea todas sus fachadas salvo la cabecera. La portada principal, de cinco arquivoltas, queda bajo un pórtico cuyos arcos descansan sobre <b>estatuas-columna</b> de personajes del Antiguo Testamento. Sobre el crucero se alza un cimborrio de ladrillo y el campanario es <b>románico-mudéjar</b>, con arcos de ladrillo sobre columnas de piedra.</p><p>La nave central original se sustituyó por otra más amplia en época barroca. En el ábside central hay incrustada una figura de san Martín bendiciendo.</p>"
+    },
+    "ver_alli": [
+     "Exterior libre; interior concertado o en horario de culto.",
+     "Mira las estatuas-columna del pórtico occidental.",
+     "Recorre los capiteles de la galería porticada.",
+     "Delante, la plaza con la estatua de Juan Bravo."
+    ],
+    "fuentes": [
+     "https://turismodesegovia.com/sites/default/files/Media/Files/2020-01/Ruta-romanico.pdf",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Mart%C3%ADn_(Segovia)",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "san-juan-de-los-caballeros",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 40.951,
+    "lon": -4.1172,
+    "texto": {
+     "general": "<p>San Juan de los Caballeros, levantada entre los siglos XI y XIII, es una de las iglesias más antiguas de Segovia. Tiene tres naves, tres ábsides de distinto tamaño y una <b>galería porticada</b> en el lado sur, cuyos aleros descansan sobre <b>canecillos figurados</b>.</p><p>Su nombre recuerda que fue <b>panteón de linajes nobles</b> y sede de las reuniones de la Junta de Nobles Linajes de la ciudad. Tras la desamortización quedó abandonada.</p><p>En <b>1905</b> la compró el ceramista <b>Daniel Zuloaga</b>, que instaló dentro su vivienda y su <b>taller de cerámica</b>; su sobrino, el pintor Ignacio Zuloaga, también trabajó aquí. Hoy, propiedad pública, es el <b>Museo Zuloaga</b>.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "Mira los canecillos de la galería porticada.",
+     "Dentro, las obras cerámicas de Daniel Zuloaga junto a los muros románicos.",
+     "Fíjate en las pinturas al fresco de la cabecera."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/monumentos/iglesias-ermitas/iglesia-san-juan-caballeros",
+     "https://turismodesegovia.com/sites/default/files/Media/Files/2020-01/Ruta-romanico.pdf",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Juan_de_los_Caballeros_(Segovia)",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "san-lorenzo-de-segovia",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico-mudéjar",
+    "lat": 40.9528,
+    "lon": -4.114,
+    "texto": {
+     "general": "<p>Fuera de las murallas, en el arrabal de San Lorenzo, al este de la ciudad, esta iglesia preside una plaza que parece de pueblo. Se levantó sobre un templo anterior, posiblemente mozárabe: la nave es del siglo XII y la cabecera, con <b>tres ábsides</b>, del XIII.</p><p>Su seña de identidad es la <b>torre de ladrillo</b>, de cinco cuerpos, con más ventanas cuanto más sube (una, dos, tres y cuatro), sobre una iglesia de piedra. Una <b>galería porticada</b> recorre los lados sur y oeste, con capiteles románicos y canecillos.</p><p>Entre los capiteles de los ábsides aparece el <b>martirio de san Lorenzo</b>. La portada occidental, de ladrillo con arco de herradura y alfiz, es de estilo románico-mudéjar. En la capilla de San Marcos hay un tríptico gótico de la Piedad.</p>"
+    },
+    "ver_alli": [
+     "Exterior libre.",
+     "Rodea la cabecera y mira la torre de ladrillo desde la plaza.",
+     "Busca entre los capiteles el martirio de san Lorenzo.",
+     "Pasea por la plaza de casas con entramado."
+    ],
+    "fuentes": [
+     "https://www.terranostrum.es/turismo/iglesia-de-san-lorenzo-segovia",
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-san-lorenzo-6482",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Lorenzo_(Segovia)",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "san-miguel-de-sotosalbos",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 41.0351,
+    "lon": -3.9436,
+    "texto": {
+     "general": "<p>A los pies de la sierra de Guadarrama, la iglesia de San Miguel de Sotosalbos es una de las joyas del <b>románico rural segoviano</b>. Se construyó en dos fases entre los siglos XI y XIII y conserva la cabecera y gran parte de la nave original.</p><p>Su mayor tesoro es la <b>galería porticada</b> del lado sur, con dos accesos y arcos sobre columnas pareadas. Sus capiteles forman un auténtico bestiario: grifos, arpías con gorro frigio, combates de soldados y de jinetes, <b>Sansón desquijarando al león</b>, una Epifanía y la lucha entre el bien y el mal.</p><p>La cornisa se adorna con arquillos que apean en canecillos. Dentro se venera la talla de <b>Nuestra Señora de la Sierra</b>. Es Monumento Nacional desde 1973.</p>"
+    },
+    "ver_alli": [
+     "Exterior libre; interior concertado o en horario de culto.",
+     "Recorre uno a uno los capiteles de la galería sur.",
+     "Busca a Sansón con el león y la Epifanía.",
+     "Fíjate en la cornisa de arquillos sobre canecillos."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-san-miguel-644f",
+     "https://www.terranostrum.es/turismo/iglesia-de-san-miguel-arcangel-sotosalbos",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "asuncion-de-duraton",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 41.2881,
+    "lon": -3.6824,
+    "texto": {
+     "general": "<p>En Duratón, a orillas del río que da nombre a las hoces, se alza una de las iglesias románicas porticadas más bellas de Castilla. Se fecha a comienzos del siglo XIII y da nombre al llamado <b>taller de Duratón</b>, con influencias islámicas en la portada.</p><p>Se levantó junto a una <b>necrópolis visigoda</b>, al norte del templo, excavada en 1942-1943: se hallaron 666 enterramientos y ricos ajuares, hoy en el Museo de Segovia.</p><p>Muy cerca está el yacimiento de <b>Los Mercados</b>, identificado con la ciudad romana de <b>Confloenta</b>, que se desarrolló entre el siglo I a. C. y el V d. C. y que hacia el año 75 era uno de los tres municipios del actual territorio segoviano, junto a Segovia y Cauca.</p>"
+    },
+    "ver_alli": [
+     "Exterior libre.",
+     "Recorre los capiteles de la galería porticada y fíjate en la portada, de influencia islámica.",
+     "Junto a la iglesia, el panel de la necrópolis visigoda.",
+     "Desde aquí sale el camino al yacimiento de Confloenta."
+    ],
+    "fuentes": [
+     "https://es.hispanopedia.com/wiki/Durat%C3%B3n_(Segovia)",
+     "https://es-academic.com/dic.nsf/eswiki/597568",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "ermita-de-san-frutos",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "texto": {
+     "general": "<p>Sobre un meandro de las <b>Hoces del Duratón</b> se encuentra uno de los paisajes más espectaculares de Segovia. Aquí vivió en el siglo VII el ermitaño <b>san Frutos</b>, con sus hermanos Valentín y Engracia, y la leyenda cuenta que abrió con su bastón la grieta de <b>La Cuchillada</b> para frenar a sus perseguidores.</p><p>En <b>1076</b> Alfonso VI donó el sepulcro del santo al monasterio de <b>Silos</b>, que fundó aquí un priorato. La iglesia, de una sola nave y ábside semicircular, toda de sillería, fue consagrada en <b>1100</b> por el arzobispo de Toledo Bernardo; una inscripción recuerda al maestro <i>dom Michael</i>.</p><p>Los monjes se marcharon con la exclaustración de 1836 y el priorato está en ruinas, aunque la espadaña conserva el escudo de Silos. Delante de la iglesia hay tumbas antropomorfas anteriores al edificio románico.</p>"
+    },
+    "ver_alli": [
+     "Acceso libre a pie desde el aparcamiento.",
+     "Cruza el puentecillo de piedra sobre La Cuchillada (1757).",
+     "Dentro, busca el capitel de san Benito con el libro de su Regla.",
+     "Mira al cielo: el cañón es territorio del buitre leonado."
+    ],
+    "fuentes": [
+     "https://www.terranostrum.es/turismo/ermita-de-san-frutos"
+    ]
+   }
+  },
+  {
+   "id": "fuentiduena",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Románico",
+    "epoca": "Villas y cascos medievales",
+    "lat": 41.4421,
+    "lon": -3.9788,
+    "texto": {
+     "general": "<p>Fuentidueña se alza sobre el estrecho valle del <b>Duratón</b>, que le dio importancia en la Edad Media. Es cabeza de una Comunidad de Villa y Tierra que agrupa a 21 pueblos y conserva su <b>muralla</b> con tres puertas, las ruinas del <b>castillo</b>, el hospital de la Magdalena y una necrópolis medieval excavada en la roca. Es conjunto histórico desde 2007.</p><p>La parroquia es la iglesia románica de <b>San Miguel</b>. De la iglesia de <b>San Martín</b>, en cambio, solo quedan la nave en ruinas y un muñón de la torre, porque su <b>ábside</b>, de mediados del siglo XII, viajó a Nueva York.</p><p>En 1957 el Gobierno lo cedió en depósito a Estados Unidos a cambio de recuperar parte de las pinturas de San Baudelio de Berlanga. Se desmontó en <b>1958</b> en 3.300 cajones y hoy está montado en <b>The Cloisters</b>, del Museo Metropolitano de Arte.</p>"
+    },
+    "ver_alli": [
+     "Exterior libre.",
+     "Pasea por la muralla y sus puertas.",
+     "Visita San Miguel y las ruinas de San Martín, hoy cementerio.",
+     "Sube a la necrópolis medieval junto al castillo."
+    ],
+    "fuentes": [
+     "https://metmuseum.org/en/art/collection/search/472507",
+     "https://es.wikipedia.org/wiki/Fuentidue%C3%B1a",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Mart%C3%ADn_(Fuentidue%C3%B1a)",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "san-pedro-de-perorrubio",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Románico",
+    "lat": 41.2458,
+    "lon": -3.7082,
+    "texto": {
+     "general": "<p>En la aldea de Perorrubio, dentro del término de Sepúlveda, se conserva una pequeña iglesia románica del <b>siglo XII</b>, dedicada a san Pedro y construida con sillares, sillarejo y mampostería.</p><p>Lo más valioso es su <b>pórtico</b>, de finales del siglo XII o comienzos del XIII: recorre las fachadas sur y oeste sobre un zócalo, con arcos de medio punto y columnas pareadas con <b>capiteles historiados</b>. La portada sur lleva palmetas en las dovelas, y la puerta de los pies, cegada, decoración en zigzag.</p><p>El ábside tiene una ventana con columnas de capiteles historiados y una cornisa sobre canecillos. Es Bien de Interés Cultural desde 1995.</p>"
+    },
+    "ver_alli": [
+     "Exterior libre.",
+     "Recorre los capiteles historiados del pórtico.",
+     "Mira la decoración de palmetas de la portada sur.",
+     "Rodea el ábside para ver su ventana y los canecillos."
+    ],
+    "fuentes": [
+     "https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-san-pedro-64df",
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Pedro_(Perorrubio)",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-sacramenia",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Cisterciense (románico y gótico)",
+    "texto": {
+     "general": "<p>El monasterio de Santa María la Real de Sacramenia lo fundó <b>Alfonso VII en 1141</b> para monjes cistercienses venidos de Francia. Su iglesia, de transición del románico al gótico, sigue la sobriedad cisterciense: tres naves, <b>cinco ábsides</b> y bóvedas de crucería.</p><p>Con la <b>desamortización de 1835</b> pasó a manos privadas. En <b>1925</b> sus propietarios vendieron al magnate <b>William Randolph Hearst</b> el claustro, la sala capitular y el refectorio, que se desmontaron piedra a piedra y se llevaron a Estados Unidos.</p><p>Hoy esas piezas están montadas en <b>Miami (Florida)</b>, donde se las conoce como «el Monasterio Español». En Sacramenia siguen en pie la iglesia y la cilla, de propiedad privada. Es Bien de Interés Cultural desde 1931.</p>"
+    },
+    "ver_alli": [
+     "Visita concertada.",
+     "Fíjate en la cabecera de cinco ábsides.",
+     "Busca dónde estuvo el claustro, hoy en Miami."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santa_Mar%C3%ADa_la_Real_(Sacramenia)"
+    ]
+   }
+  },
+  {
+   "id": "palacio-real-de-la-granja",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Barroco",
+    "lat": 40.8977,
+    "lon": -4.0047,
+    "texto": {
+     "general": "<p>Felipe V, el primer Borbón, que añoraba Versalles, compró a los jerónimos del Parral una granja en la sierra y en <b>1721</b> empezó a construir aquí su palacio, con proyecto de <b>Teodoro Ardemans</b>. Isabel de Farnesio lo amplió entre 1727 y 1737 bajo la dirección de Andrea Procaccini.</p><p>Los <b>jardines</b>, de estilo francés, los trazaron René Carlier y Étienne Boutelou y ocupan 146 hectáreas. Sus <b>fuentes monumentales</b> son de plomo pintado imitando bronce y aún funcionan en días señalados: el chorro de <b>La Fama</b> supera los 40 metros.</p><p>Felipe V e Isabel de Farnesio están enterrados en la <b>Real Colegiata</b>, junto al palacio. Un incendio en 1918 dañó la planta alta. Al lado, la Real Fábrica de Cristales hizo las grandes lámparas de vidrio del interior.</p><p class=\"dato\"><span>¿Sabías que…?</span>Ante la fuente de los Baños de Diana, el rey dijo: «Tres minutos me has divertido, pero tres millones me has costado».</p>"
+    },
+    "ver_alli": [
+     "Con entrada (Patrimonio Nacional).",
+     "Dentro, las lámparas de cristal de La Granja y el museo de tapices.",
+     "Recorre los jardines hasta la fuente de La Fama y los Baños de Diana.",
+     "Consulta los días de funcionamiento de las fuentes."
+    ],
+    "fuentes": [
+     "https://www.patrimonionacional.es/visita/palacio-real-de-la-granja-de-san-ildefonso",
+     "https://es.wikipedia.org/wiki/Palacio_Real_de_La_Granja_de_San_Ildefonso",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-riofrio",
+   "campos": {
+    "tipo": "monumento",
+    "estilo": "Barroco",
+    "texto": {
+     "general": "<p>En medio de un bosque de 625 hectáreas poblado de <b>gamos y ciervos</b>, el palacio de Riofrío lo mandó levantar en <b>1751</b> <b>Isabel de Farnesio</b>, viuda de Felipe V, aunque nunca llegó a vivir en él.</p><p>Lo diseñó el arquitecto <b>Virgilio Rabaglio</b> a imagen del Palacio Real de Madrid: <b>planta cuadrada</b>, tres pisos, patio interior y una gran escalera de honor, todo de gusto italiano.</p><p>Fue refugio de <b>Alfonso XII</b> durante el duelo por la muerte de su esposa María de las Mercedes, y también residió aquí Francisco de Asís de Borbón. Desde los años sesenta alberga en su ala este un <b>museo de la caza</b>.</p>"
+    },
+    "ver_alli": [
+     "Con entrada (Patrimonio Nacional).",
+     "Recorre el bosque despacio: es fácil ver gamos y ciervos.",
+     "Dentro, la escalera de honor y el museo de la caza."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_Real_de_Riofr%C3%ADo"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-segovia",
+   "campos": {
+    "tipo": "iglesia",
+    "estilo": "Gótico tardío",
+    "lat": 40.9501,
+    "lon": -4.1255,
+    "texto": {
+     "general": "<p>La catedral vieja de Segovia, junto al Alcázar, quedó destruida en <b>1521</b> durante la guerra de las Comunidades. Para sustituirla se puso la primera piedra de la nueva el <b>8 de junio de 1525</b>, en la parte más alta de la ciudad, con trazas de <b>Juan Gil de Hontañón</b>, a quien siguió su hijo Rodrigo.</p><p>Es una de las <b>últimas catedrales góticas de Europa</b>, levantada en pleno siglo XVI, cuando ya triunfaba el Renacimiento. Mide unos 109 metros de largo y 50 de ancho, con bóvedas de unos 30 metros. Por sus proporciones y su elegancia la llaman <b>«la dama de las catedrales»</b>. Su torre, de casi 90 metros, recibió en 1614 el chapitel de piedra actual tras perder el de madera por un rayo.</p><p>El <b>claustro</b> gótico se trasladó piedra a piedra desde la catedral vieja. Dentro destacan las vidrieras, el altar mayor neoclásico de Sabatini con la Virgen de la Paz y capillas con retablos de Juan de Juni y José Churriguera. Se consagró en 1789.</p>"
+    },
+    "ver_alli": [
+     "Con entrada.",
+     "Rodea la cabecera, con sus pináculos y arbotantes.",
+     "Dentro, el retablo de Juan de Juni en la capilla de la Piedad y el claustro trasladado.",
+     "Si se puede, sube a la torre."
+    ],
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Catedral_de_Segovia",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  }
+ ]
+}
