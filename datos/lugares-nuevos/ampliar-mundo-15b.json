@@ -1,0 +1,404 @@
+{
+ "zona": "Ampliar mundo-15b",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "museo-del-bardo",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Nacional del Bardo</b>, en las afueras de Túnez, es uno de los grandes museos del Mediterráneo y el segundo de África después del Museo Egipcio de El Cairo. Abrió el <b>7 de mayo de 1888</b> con el nombre de Museo Alaoui, en honor del bey reinante, y ocupa un antiguo <b>palacio de los beyes</b> cuyo origen se remonta a un palacio hafsí del siglo XV. Tras la independencia del país pasó a llamarse Museo del Bardo, y en 2012 terminó una gran ampliación moderna.</p><p>Su fama se debe a una de las mayores colecciones de <b>mosaicos romanos</b> del mundo, sacados de Cartago, Hadrumeto (Susa), Dougga o Útica, que retratan la vida cotidiana del África romana. La pieza estrella es el <i>Mosaico de Virgilio</i>, del siglo III, en el que el poeta aparece sentado entre dos musas, Clío y Melpómene. Hay también estatuas de dioses y emperadores, piezas púnicas como la estela del sacerdote y el niño, máscaras de terracota, obras paleocristianas, el busto de Afrodita del pecio de Mahdia y hojas del <i>Corán azul</i> de Kairuán.</p><p>El <b>18 de marzo de 2015</b> un ataque terrorista yihadista mató a <b>22 personas</b>, 21 de ellas turistas extranjeros. El museo celebró su reapertura simbólica solo seis días después, el 24 de marzo, y a la entrada un memorial con los nombres de las víctimas las recuerda.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJZUdtiDkz_RIRZ1qp5OILUxU",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Musée+du+Bardo+Tunis",
+     "https://en.wikipedia.org/wiki/Bardo_National_Museum_(Tunis)",
+     "https://en.wikipedia.org/wiki/Bardo_National_Museum_attack"
+    ]
+   }
+  },
+  {
+   "id": "dougga",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Dougga</b>, la antigua <i>Thugga</i>, se asienta en lo alto de una colina entre olivares cerca de Teboursouk, en el norte de Túnez. Fue primero una ciudad númida y púnica y después una ciudad romana, y sus ruinas ocupan 75 hectáreas. La UNESCO la declaró <b>Patrimonio Mundial en 1997</b> como «la pequeña ciudad romana mejor conservada del norte de África».</p><p>Lo más antiguo es una necrópolis con dólmenes, y de la época númida queda el <b>mausoleo líbico-púnico de Ateban</b>, una torre de 21 metros del siglo II a. C., uno de los rarísimos ejemplos de arquitectura real númida. Allí estaba una <b>inscripción bilingüe en púnico y en líbico</b>, la escritura de los antiguos bereberes, que permitió empezar a descifrarla; el original está hoy en el <b>Museo Británico</b>. Bajo Roma la ciudad prosperó: casi todo lo que se ve es de los siglos II y III, cuando Septimio Severo la elevó a municipio.</p><p>No hay que perderse el <b>Capitolio</b>, terminado hacia 166-167 y dedicado a Júpiter, Juno y Minerva, excepcionalmente conservado porque quedó dentro de una fortaleza bizantina; el <b>teatro</b> del año 168 o 169, con sitio para unos 3.500 espectadores en una ciudad de unos 5.000 habitantes; los templos de Saturno y de Juno Celeste, la plaza de la Rosa de los Vientos, con una rosa grabada en el suelo, y las termas.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ68eHwcyC_BIR722LjYThEzU",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Dougga",
+     "https://en.wikipedia.org/wiki/Dougga"
+    ]
+   }
+  },
+  {
+   "id": "kerkouane",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Kerkouane</b>, en la punta del cabo Bon, es la única ciudad <b>púnica</b> que no quedó tapada después por una ciudad romana, y por eso deja ver cómo era una población fenicio-púnica. Los testimonios más antiguos son del siglo VI a. C., pero lo visible es de finales del IV y la primera mitad del III a. C. Su nombre antiguo se ha perdido: el actual se lo dieron los arqueólogos. Fue descubierta en <b>1952</b> y es <b>Patrimonio Mundial desde 1985</b>, junto con su necrópolis.</p><p>Era una ciudad pequeña de pescadores y artesanos. Los muchos caparazones de <b>múrice</b> hallados indican que fabricaba el tinte de <b>púrpura</b>, además de sal y <i>garum</i>, la salsa de pescado. Fue abandonada hacia el <b>250 a. C.</b>, probablemente durante la <b>primera guerra púnica</b>, quizá tras la expedición romana de Atilio Régulo, y nunca se volvió a habitar.</p><p>Se recorren sus calles trazadas en cuadrícula, con plazas y casas de plano regular, muchas con restos del enlucido de color. Casi todas tenían su <b>cuarto de baño con bañera</b> de asiento, algo excepcional para la época. En algunos suelos aparece el <b>signo de Tanit</b>, el símbolo de la gran diosa cartaginesa, y queda un santuario con columnas. Los objetos hallados se exponen en el pequeño museo junto al yacimiento.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJtWOBHp4wHRMRWuy_0HaNcUE",
+     "https://en.wikipedia.org/wiki/Kerkouane",
+     "https://whc.unesco.org/en/list/332/",
+     "https://fr.wikipedia.org/wiki/Kerkouane"
+    ]
+   }
+  },
+  {
+   "id": "gran-mezquita-de-kairuan",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Gran Mezquita de Kairuán</b>, también llamada mezquita de Uqba, es una de las más antiguas del norte de África y modelo de todas las mezquitas posteriores del Magreb. La fundó el general árabe <b>Uqba ibn Nafi</b> hacia el <b>670</b>, al mismo tiempo que la ciudad, y el emir aglabí Ziyadat Allah I la rehízo en el <b>836</b>, cuando adquirió su aspecto actual. Ocupa más de 9.000 metros cuadrados y es <b>Patrimonio Mundial</b> con la medina de Kairuán desde 1988.</p><p>Kairuán nació como ciudad campamento de los ejércitos árabes que conquistaban el norte de África, frente a la resistencia de los bereberes, y los emires aglabíes la convirtieron en su capital, gran centro de comercio y estudio. De aquí salieron a comienzos del siglo IX familias que se instalaron en Fez, entre ellas la de <b>Fátima al-Fihri</b>, que en 857 o 859, según las crónicas, fundó allí la mezquita de al-Qarawiyyin, «la de los de Kairuán».</p><p>El gran <b>patio</b> de mármol está rodeado de pórticos con <b>columnas romanas, paleocristianas y bizantinas reutilizadas</b>, muchas traídas de Cartago. Su <b>alminar cuadrado</b> de tres cuerpos y 31,5 metros es el más antiguo del mundo islámico que sigue en pie y sirvió de modelo a los del Magreb y al-Ándalus. En la sala de oración están el mihrab, rodeado de azulejos de reflejo metálico del siglo IX, y el púlpito o <i>minbar</i> de madera tallada, el más antiguo que se conserva.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ45cjaD_F_RIRHrojZwgOIYk",
+     "https://nominatim.openstreetmap.org/search?format=json&q=Grande+Mosquée+de+Kairouan",
+     "https://en.wikipedia.org/wiki/Great_Mosque_of_Kairouan",
+     "https://en.wikipedia.org/wiki/Kairouan",
+     "https://en.wikipedia.org/wiki/University_of_al-Qarawiyyin"
+    ]
+   }
+  },
+  {
+   "id": "castillo-de-malbork",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>castillo de Malbork</b>, la antigua Marienburg, a orillas del río Nogat en el norte de Polonia, es el mayor castillo del mundo por superficie: ocupa casi 21 hectáreas. Lo levantó la <b>Orden Teutónica</b>, una orden de cruzados alemanes, en un largo proceso que suele fecharse entre <b>1274 y 1406</b>, y al terminarse era el mayor castillo de ladrillo del mundo. Es una obra maestra del gótico de ladrillo y <b>Patrimonio de la Humanidad desde 1997</b>.</p><p>En <b>1309</b> el gran maestre Siegfried von Feuchtwangen trasladó aquí la sede de la Orden, que gobernaba desde Marienburg su Estado monástico en Prusia. En 1410, tras la derrota teutónica de Grunwald, resistió el asedio polaco, pero en 1457, durante la guerra de los Trece Años, los mercenarios que lo guardaban se lo vendieron al rey <b>Casimiro IV de Polonia</b>. Fue residencia real polaca hasta 1772 y luego pasó a Prusia, que lo restauró desde 1816.</p><p>Entre enero y marzo de 1945 los combates con el Ejército Rojo destruyeron más de la mitad del castillo; un incendio en 1959 empeoró los daños. Desde 1962 se ha reconstruido casi por completo y alberga el Museo del Castillo, fundado en 1961. Se recorren el castillo Alto, con la gran <b>iglesia de Santa María</b>, restaurada en 2016, el castillo Medio, con el <b>palacio del gran maestre</b>, y las murallas.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Malbork_Castle"
+    ]
+   }
+  },
+  {
+   "id": "galeria-de-faras-museo-nacional-de-varso",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Galería de Faras</b> es una sala del Museo Nacional de Varsovia dedicada al arte de la Nubia cristiana. Guarda pinturas murales y piezas de la <b>catedral de Faras</b>, la antigua Pachoras, junto a la actual frontera entre Sudán y Egipto. La primera catedral se levantó allí en el siglo VII, y los edificios descubiertos, superpuestos unos a otros, van del siglo VII al XIV, cubiertos de pinturas religiosas.</p><p>Entre <b>1961 y 1964</b> una expedición polaca dirigida por el profesor <b>Kazimierz Michałowski</b> excavó el lugar dentro de la campaña internacional para salvar los monumentos de Nubia antes de que los cubrieran las aguas del <b>lago Nasser</b>, formado por la presa de Asuán. Para arrancar las pinturas, los restauradores las cubrieron con papel japonés y una mezcla de cera y resina, cortaron el enlucido con cuchillos y sierras y las pasaron a bastidores de madera. Se repartieron entre Jartum y Varsovia, que recibió <b>67 pinturas</b> y muchos otros objetos.</p><p>La galería abrió en <b>1972</b>, con el primer congreso de nubiología, y se renovó en <b>2014</b>. En una sala que evoca el interior de un templo se ven imágenes de Cristo, la Virgen, arcángeles, santos, obispos y reyes; entre las más famosas, <b>santa Ana</b>, los arcángeles Miguel y Gabriel y los obispos Marianos y Petros. Hay también epitafios de los obispos de Faras.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJK6UEcvfMHkcR0iGDJoZsIgc",
+     "https://en.wikipedia.org/wiki/Faras_Gallery",
+     "https://en.wikipedia.org/wiki/Faras_Cathedral"
+    ]
+   }
+  },
+  {
+   "id": "polin-museo-de-la-historia-de-los-judios",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>POLIN, Museo de la Historia de los Judíos Polacos</b>, se alza en Muranów, el barrio judío de Varsovia antes de la guerra y solar del antiguo gueto, frente al <b>Monumento a los Héroes del Gueto</b>. El edificio, de los arquitectos finlandeses <b>Rainer Mahlamäki e Ilmari Lahdelma</b>, ganó en 2005 un concurso internacional al que se presentaron cien proyectos y abrió el <b>19 de abril de 2013</b>, en el 70.º aniversario del levantamiento del gueto.</p><p>Su exposición permanente, inaugurada el <b>28 de octubre de 2014</b>, cuenta en ocho galerías y más de 4.000 metros cuadrados <b>mil años de vida judía en Polonia</b>, que llegó a tener la mayor comunidad judía del mundo: desde los primeros pobladores judíos y la edad de oro de los siglos XVI y XVII, cuando Polonia fue llamada «paraíso de los judíos», hasta el Holocausto, que la aniquiló casi por completo, y la posguerra. Combina objetos, reconstrucciones e instalaciones interactivas. En 2016 recibió el premio al Museo Europeo del Año.</p><p>La pieza más espectacular es la reconstrucción del <b>tejado y la bóveda pintada de la sinagoga de madera de Gwoździec</b>, del siglo XVII, destruida en la guerra. El gran vestíbulo de muros ondulantes, un vacío que parte el edificio, simboliza las grietas en la historia de los judíos polacos. El museo organiza también exposiciones temporales, conciertos y actividades educativas.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/POLIN_Museum_of_the_History_of_Polish_Jews"
+    ]
+   }
+  },
+  {
+   "id": "auschwitz-birkenau",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Auschwitz</b>, junto a la ciudad polaca de Oświęcim, a unos 50 km al suroeste de Cracovia, fue el mayor complejo de campos de concentración y exterminio de la Alemania nazi: más de 40 campos y subcampos. Se creó en <b>abril de 1940</b> como campo para presos políticos polacos, con <b>Rudolf Höss</b> como primer comandante. Lo formaban Auschwitz I, el campo principal; <b>Auschwitz II-Birkenau</b>, con sus cámaras de gas, y Auschwitz III-Monowitz, un campo de trabajo para la industria química IG Farben.</p><p>Desde 1942 y hasta finales de 1944 llegaron trenes de mercancías con judíos de toda la Europa ocupada; al llegar, en la rampa, los recién llegados pasaban por la «selección» entre quienes iban a trabajar y quienes iban directamente a las cámaras de gas. De los 1,3 millones de personas deportadas allí, fueron asesinadas cerca de <b>1,1 millones</b>: unos 960.000 judíos, 74.000 polacos no judíos, 21.000 gitanos, 15.000 prisioneros de guerra soviéticos y miles de otras nacionalidades. Las tropas soviéticas liberaron el campo el <b>27 de enero de 1945</b>, fecha que desde 2005 es el Día Internacional de Conmemoración del Holocausto.</p><p>En 1947 Polonia creó el Museo Estatal de Auschwitz-Birkenau, <b>Patrimonio de la Humanidad desde 1979</b>. En Auschwitz I se cruza la puerta con el letrero <i>Arbeit macht frei</i> («El trabajo os hará libres») y se visitan los barracones de los prisioneros; en Birkenau, los barracones, las <b>ruinas de las cámaras de gas</b> y la <b>rampa de llegada de los trenes</b>.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Auschwitz_concentration_camp"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-wilanow",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>palacio de Wilanów</b>, al sur de Varsovia, es la residencia de verano que se hizo construir entre <b>1677 y 1696</b> el rey de Polonia <b>Juan III Sobieski</b>, el vencedor de Viena. Lo proyectó el arquitecto <b>Agustín Locci</b>: empezó como una casa señorial polaca con cuatro torres y acabó convertido en un palacio barroco «entre patio y jardín», inspirado en las villas romanas. En fachadas e interiores, los símbolos antiguos glorifican a la familia Sobieski y sobre todo los triunfos militares del rey.</p><p>Tras la muerte de Sobieski en 1696, el palacio pasó por las grandes familias de magnates polacos, como los Sieniawski, Czartoryski, Lubomirski, Potocki y Branicki, que lo ampliaron y reformaron a su gusto. En <b>1805</b> Stanisław Kostka Potocki abrió en una parte del edificio uno de los primeros <b>museos públicos de Polonia</b>. En la Segunda Guerra Mundial las tropas alemanas lo dañaron y saquearon sus colecciones, pero no lo demolieron tras el levantamiento de 1944, como a gran parte de Varsovia; después de la guerra se restauró y se recuperaron casi todas las obras robadas.</p><p>Es uno de los mejores ejemplos del barroco polaco. Se visitan los salones reales, decorados con relieves de las hazañas del rey, y obras como el famoso <b>retrato ecuestre de Potocki</b> pintado por Jacques-Louis David en 1781. Alrededor se extienden los <b>jardines</b>, nacidos como un jardín barroco a la italiana, con una rosaleda donde se celebran conciertos reales en verano.</p>"
+    },
+    "fuentes": [
+     "https://www.google.com/maps/place/?q=place_id:ChIJ6xic6UAtGUcRIVWoCEyUf1A",
+     "https://www.openstreetmap.org/way/8106732",
+     "https://en.wikipedia.org/wiki/Wilan%C3%B3w_Palace"
+    ]
+   }
+  },
+  {
+   "id": "casa-natal-de-juan-pablo-ii",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>casa natal de Juan Pablo II</b> está en el número 7 de la calle Kościelna de <b>Wadowice</b>, una pequeña ciudad del sur de Polonia a unos 50 km al suroeste de Cracovia. En 1919 la familia Wojtyła alquiló aquí dos habitaciones y una cocina en el primer piso, y en ese piso nació <b>Karol Wojtyła</b> el <b>18 de mayo de 1920</b>. Vivió en él hasta <b>1938</b>, cuando se trasladó con su padre a Cracovia para estudiar en la Universidad Jaguelónica.</p><p>La vivienda es museo desde <b>1984</b>. Tras casi cuatro años de obras, reabrió en <b>abril de 2014</b> como un museo moderno y multimedia, con cientos de objetos y unas 150 instalaciones audiovisuales, bajo el lema «Nací en Wadowice», la primera frase de su biografía. Las habitaciones de la familia se han devuelto a su aspecto de antes de la guerra, y el recorrido sigue su vida, desde su infancia en el Wadowice de entreguerras y la Segunda Guerra Mundial hasta su papado. Hay fotografías y recuerdos de sus padres.</p><p>Justo al lado, en la plaza mayor, está la <b>basílica de la Presentación de la Virgen</b>, del siglo XV y rehecha en el XVIII, donde fue bautizado el 20 de junio de 1920. En la plaza se vende la <i>kremówka</i>, un pastel de hojaldre y crema: en su visita de 1999 el papa recordó que, tras el examen de bachillerato, él y sus compañeros iban a comerlas a una pastelería del pueblo.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Holy_Father_John_Paul_II_Family_Home,_Wadowice",
+     "https://en.wikipedia.org/wiki/Wadowice",
+     "https://culture.pl/en/article/new-john-paul-ii-museum-opened",
+     "https://www.vaticannews.va/en/pope/news/2020-05/john-paul-ii-family-home-museum-documents-life-of-polish-pontiff.html",
+     "https://www.inyourpocket.com/poland/krakow/articles/wadowice-birthplace-of-pope-john-paul-ii",
+     "https://pilgrimaps.com/papieszka-kremowka-a-slice-of-polish-memory"
+    ]
+   }
+  },
+  {
+   "id": "cracovia-plaza-del-mercado-y-castillo-de",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Cracovia</b>, a orillas del Vístula, fue la capital de Polonia durante casi toda la Edad Media y el Renacimiento, hasta que la corte se trasladó a Varsovia en 1596. Su casco antiguo, con la colina de Wawel, entró en <b>1978</b> en la primera lista del Patrimonio de la Humanidad.</p><p>El corazón de la ciudad es la <b>plaza del Mercado</b> (<i>Rynek Główny</i>), trazada de nuevo en <b>1257</b> tras la destrucción mongola de 1241. Con casi 4 hectáreas, es una de las mayores plazas medievales de Europa. En el centro se alza la <b>Lonja de los Paños</b>, rehecha en estilo renacentista en 1555, y a su alrededor la torre del antiguo ayuntamiento, la pequeña iglesia de San Adalberto, el monumento al poeta Adam Mickiewicz y la <b>basílica de Santa María</b>.</p><p>Sobre la colina de <b>Wawel</b> se levantan el castillo real, fundado por Casimiro III el Grande y transformado entre 1507 y 1536 por Segismundo I en un palacio renacentista con un gran patio porticado, y la <b>catedral</b> donde se coronaban y enterraban los reyes de Polonia, como Ladislao II Jagellón y Juan III Sobieski. El castillo, museo desde 1930, guarda los tapices de Segismundo Augusto y la espada de la coronación. Al pie de la colina, junto al río, está la cueva del Dragón, con su estatua que escupe fuego.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Main_Square,_Krak%C3%B3w",
+     "https://en.wikipedia.org/wiki/Wawel_Castle",
+     "https://en.wikipedia.org/wiki/Wawel_Cathedral"
+    ]
+   }
+  },
+  {
+   "id": "centro-europeo-de-solidaridad",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Centro Europeo de Solidaridad</b> es un museo y biblioteca de Gdańsk dedicado a la historia del sindicato <b>Solidaridad</b> y de los movimientos de oposición en la Europa del Este comunista. Se alza junto a los antiguos astilleros Lenin, donde nació el sindicato, en un edificio del estudio polaco FORT cuyas paredes evocan los cascos de los barcos. Se inauguró el <b>31 de agosto de 2014</b>, aniversario de los acuerdos de Gdańsk.</p><p>El <b>14 de agosto de 1980</b>, una nueva subida de los precios de los alimentos desató una huelga en el astillero. El electricista <b>Lech Wałęsa</b>, despedido años antes por su activismo, <b>saltó la valla</b> y se convirtió enseguida en uno de sus líderes. El comité de huelga colgó en las puertas del astillero sus <b>21 reivindicaciones</b>, y el 31 de agosto el Gobierno las aceptó con los <b>acuerdos de Gdańsk</b>, que permitieron fundar Solidaridad. Nueve años después, en 1989, Polonia tuvo el primer Gobierno no comunista del bloque soviético.</p><p>La exposición permanente ocupa unos 3.000 metros cuadrados en siete salas, con cerca de 1.800 piezas: las tablas originales de las 21 reivindicaciones, la grúa que manejaba la sindicalista Anna Walentynowicz o la chaqueta agujereada por las balas de un obrero muerto en 1970. Delante, junto a la histórica puerta n.º 2, se alza el monumento a los obreros caídos en 1970, inaugurado en 1980.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/European_Solidarity_Centre",
+     "https://en.wikipedia.org/wiki/Lech_Wa%C5%82%C4%99sa",
+     "https://en.wikipedia.org/wiki/Gda%C5%84sk_Agreement",
+     "https://en.wikipedia.org/wiki/Monument_to_the_Fallen_Shipyard_Workers_of_1970",
+     "https://presentations.thebestinheritage.com/2017/european-solidarity-centre"
+    ]
+   }
+  },
+  {
+   "id": "mina-de-sal-de-wieliczka",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>mina de sal de Wieliczka</b>, a unos 12 km de Cracovia, es una de las minas de sal más antiguas del mundo. Desde el <b>siglo XIII</b> se excavaron aquí pozos para sacar sal gema, y la producción continuó sin interrupción hasta <b>1996</b>, cuando la bajada del precio de la sal y las inundaciones de la mina hicieron inviable la explotación comercial.</p><p>La mina llega a <b>327 metros</b> de profundidad y tiene más de <b>287 km</b> de galerías y cámaras repartidas en varios niveles. Una leyenda la relaciona con la princesa húngara <b>Kinga</b> (Cunegunda), esposa de Boleslao V el Casto, que se convirtió en patrona de los mineros de la sal. Por ella han pasado visitantes como Copérnico, Goethe, Humboldt o Chopin. Fue uno de los primeros lugares inscritos en la lista del <b>Patrimonio Mundial, en 1978</b>, y hoy la visitan cerca de 1,2 millones de personas al año.</p><p>La ruta turística, de unos 3,5 km, recorre los tres primeros niveles: menos del 2 % de las galerías. Los mineros tallaron en la propia sal <b>estatuas</b> y cuatro <b>capillas</b>, entre ellas la gran <b>capilla de Santa Kinga</b>, con lámparas de cristales de sal. Hay también un lago subterráneo y exposiciones sobre las técnicas mineras antiguas. Existe además una «ruta de los mineros», más aventurera, con casco y lámpara.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Wieliczka_Salt_Mine",
+     "https://www.google.com/maps/place/?q=place_id:ChIJS46BBdhDFkcRFbST_a5JJZc",
+     "https://www.openstreetmap.org/way/1078429469"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-frombork",
+   "campos": {
+    "texto": {
+     "general": "<p>Sobre una colina junto a la laguna del Vístula se alza la <b>catedral de Frombork</b>, gótica y de ladrillo, rodeada de murallas como una fortaleza. Se construyó entre <b>1329 y 1388</b> en lugar de una iglesia anterior de 1288 y es la sede del arzobispado de Varmia.</p><p>Aquí fue canónigo <b>Nicolás Copérnico</b> durante unos treinta años, entre 1512 y 1516 y de nuevo de 1522 a 1543; además trabajó como médico y administrador y usó el lugar para sus observaciones del cielo. En estas tierras escribió el libro que publicó en 1543, <i>Sobre las revoluciones de las esferas celestes</i>, donde proponía que la Tierra gira alrededor del Sol. Murió aquí ese mismo año y fue enterrado en la catedral sin lápida. En 2005 se excavó bajo uno de sus altares, y en 2008 los restos se identificaron comparando su ADN con el de unos cabellos hallados en un libro que había usado, conservado en la Universidad de Upsala. El <b>23 de mayo de 2010</b> se le volvió a enterrar con honores en la catedral. Entre 1626 y 1635 los suecos de Gustavo Adolfo ocuparon la ciudad, saquearon la catedral y se llevaron a Suecia los manuscritos de Copérnico.</p><p>En el recinto se pueden ver la nueva tumba, la torre de Copérnico, el antiguo palacio episcopal, hoy <b>Museo Nicolás Copérnico</b>, y una torre con un pequeño planetario y un <b>péndulo de Foucault</b>.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Frombork",
+     "https://gcatholic.org/churches/poland/3518.htm",
+     "https://www.deseret.com/2010/5/22/20116792/astronomer-copernicus-to-be-reburied-as-hero/",
+     "https://en.wikipedia.org/wiki/Frombork_Cathedral"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-memoria-y-los-derechos-human",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo de la Memoria y los Derechos Humanos</b>, en la avenida Matucana de Santiago, frente a la estación de metro Quinta Normal, está dedicado a las violaciones de los derechos humanos cometidas por el Estado durante la <b>dictadura militar chilena (1973-1990)</b>. Lo inauguró la presidenta <b>Michelle Bachelet</b>, ella misma víctima de tortura en la dictadura, el <b>11 de enero de 2010</b>, dentro de las obras del Bicentenario de Chile. El edificio es obra de un equipo de arquitectos brasileños.</p><p>Según el propio museo, su propósito no es explicar las causas del golpe sino transmitir que hechos así no deben repetirse «nunca más». El recorrido empieza con el golpe del <b>11 de septiembre de 1973</b>, con grabaciones de las últimas palabras de Salvador Allende y las primeras cadenas nacionales de la Junta Militar, y sigue con la represión, los centros de detención y tortura, la lucha de las familias de los <b>detenidos desaparecidos</b> y la solidaridad internacional. Se exponen documentos, testimonios, cartas, objetos de las víctimas y los informes de las comisiones Rettig y Valech.</p><p>Lo más conmovedor es la sala «Ausencia y memoria»: un <b>gran muro con las fotografías de las víctimas</b>, que se contempla desde un mirador lleno de velas, y una pantalla táctil para buscar la ficha de cada una. En la fachada están escritos en cobre los 30 artículos de la Declaración Universal de los Derechos Humanos, y bajo la explanada hay una obra de Alfredo Jaar.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Museo_de_la_Memoria_y_los_Derechos_Humanos"
+    ]
+   }
+  },
+  {
+   "id": "playa-de-anakena",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Anakena</b>, en Rapa Nui (isla de Pascua), es una playa de arena blanca de coral con un palmeral, dentro del Parque Nacional Rapa Nui. Es una de las dos únicas playas de arena de una isla de costas rocosas. Su nombre podría significar «cueva del <i>kena</i>», un ave marina, y su nombre antiguo era Hanga Rau Ariki, «bahía de los reyes».</p><p>Según la tradición oral, aquí desembarcó <b>Hotu Matu'a</b>, el jefe polinesio que llegó con dos canoas y fundó el primer asentamiento de la isla. Más tarde fue un centro ceremonial donde se leían las tablillas <i>rongorongo</i>. Los arqueólogos han hallado aquí huellas de población de hacia el <b>1200 d. C.</b>, de las más antiguas de la isla. Excavaron en Anakena Katherine Routledge en 1914 y William Mulloy y Thor Heyerdahl en los años cincuenta.</p><p>En la playa hay <b>dos ahu restaurados</b>. El <b>ahu Ature Huki</b> tiene un solo moái, el primero que se volvió a levantar en la isla en tiempos modernos, por iniciativa de Heyerdahl. El <b>ahu Nau Nau</b>, restaurado entre 1978 y 1980 por el arqueólogo rapanui Sergio Rapu, tiene siete moáis, cuatro de ellos con sus <b>pukao</b>, los tocados de piedra roja. Al restaurarlo se encontraron fragmentos de un ojo de coral blanco, que hoy se conserva en el Museo Antropológico Sebastián Englert.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Anakena",
+     "https://imaginarapanui.com/en/easter-island-sightseeing/easter-island-archaeology/ahu-nau-nau/"
+    ],
+    "ver_alli": [
+     "Es una de las dos únicas playas de arena de la isla.",
+     "Los dos ahu están junto a la arena, al lado del palmeral, así que se combinan baño y visita arqueológica."
+    ]
+   }
+  },
+  {
+   "id": "museo-gabriela-mistral",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Gabriela Mistral</b> está en <b>Vicuña</b>, en el valle de Elqui, la ciudad donde nació la poeta el 7 de abril de 1889 con el nombre de Lucila Godoy Alcayaga. Abrió el 18 de septiembre de 1957, solo unos meses después de su muerte en Nueva York, y el edificio actual, del arquitecto Oscar Mac-Clure, se inauguró el 13 de septiembre de 1971.</p><p>Gabriela Mistral fue maestra y cónsul de Chile, y en <b>1945</b> recibió el <b>premio Nobel de Literatura</b>, el primero que la Academia Sueca concedió a las letras latinoamericanas. El museo cuenta su vida y su obra con cerca de 1.100 objetos personales; en 2008 recibió unos 3.000 más, donados por la albacea de Doris Dana, su compañera de sus últimos años. Tiene además una biblioteca de unos 2.000 libros, la mayoría de la colección personal de la poeta, y dos salas: la sala Albricias, que presenta sus obras principales, y la sala Lagar, para actividades.</p><p>En el interior hay una <b>réplica de la casa donde nació</b> y un parque con especies del lugar, como cactus, naranjos y chañares. A pocos kilómetros, en <b>Montegrande</b>, el pueblo donde vivió de los tres a los nueve años y que consideraba su verdadero hogar, están la casa escuela rural donde pasó su infancia, hoy monumento nacional, y su <b>tumba</b>: allí pidió ser enterrada y allí descansa desde enero de 1957.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Museo%20Gabriela%20Mistral%2C%20Vicu%C3%B1a",
+     "https://es.wikipedia.org/wiki/Museo_Gabriela_Mistral",
+     "https://es.wikipedia.org/wiki/Gabriela_Mistral"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-san-miguel-de-azapa",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Arqueológico San Miguel de Azapa</b>, en el valle de Azapa, a 12 km de Arica, pertenece a la <b>Universidad de Tarapacá</b> y se fundó en 1967. Es famoso por guardar las <b>momias de la cultura Chinchorro</b>, las momias artificiales más antiguas del mundo: las primeras se prepararon hacia el 5000 a. C., unos dos mil años antes que las egipcias.</p><p>Los chinchorro fueron pescadores y recolectores que vivieron en la costa del desierto, entre el sur de Perú y Antofagasta, con su núcleo en la zona de Arica y los valles de Azapa, Lluta y Camarones. Quitaban a sus muertos la piel y los órganos, reforzaban los huesos con palos, rellenaban el cuerpo con materia vegetal y lo recubrían de arcilla, con una máscara también de arcilla. Desde que el arqueólogo alemán Max Uhle empezó a estudiarlos en Arica en 1914 se han encontrado unas 280 momias, entre ellas 96 cuerpos al pie del <b>Morro de Arica</b>. La más antigua conocida es la de un niño del valle de Camarones. En <b>2021</b> los asentamientos y cementerios chinchorro de Arica y Camarones fueron declarados <b>Patrimonio de la Humanidad</b>.</p><p>El museo reúne unas 86.000 piezas, de las que se exponen cerca de mil. Además de la sala Chinchorro, muestra tejidos, cestería y cerámica de los pueblos andinos y costeros, una prensa de aceite del siglo XVIII y, a la entrada, un parque con 13 bloques de petroglifos prehispánicos y un busto de Max Uhle.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Museo%20Arqueol%C3%B3gico%20San%20Miguel%20de%20Azapa",
+     "https://es.wikipedia.org/wiki/Museo_Arqueol%C3%B3gico_San_Miguel_de_Azapa",
+     "https://es.wikipedia.org/wiki/Cultura_chinchorro",
+     "https://en.wikipedia.org/wiki/Chinchorro_culture"
+    ],
+    "ver_alli": [
+     "A 12 km de Arica, en el valle de Azapa, por la ruta A-27.",
+     "Se puede completar la visita con el sitio de Colón 10, en Arica, que también conserva momias chinchorro."
+    ]
+   }
+  },
+  {
+   "id": "casa-de-neruda-en-isla-negra",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>casa de Isla Negra</b>, en la comuna costera de El Quisco, en la región de Valparaíso, es una de las tres casas que el poeta <b>Pablo Neruda</b>, premio Nobel de Literatura en <b>1971</b>, tuvo en Chile, y fue su favorita. La compró en 1938 a un marino español, cuando era solo una cabaña de piedra en un lugar llamado Las Gaviotas; el poeta lo rebautizó Isla Negra por el color de sus rocas.</p><p>Neruda fue ampliando la casa durante años, primero con el arquitecto catalán Germán Rodríguez Arias, entre 1943 y 1945, y después con su amigo Sergio Soza desde 1965. Amante del mar, la concibió como un <b>barco</b>, con techos bajos, suelos de madera que crujen, pasillos estrechos y escaleras empinadas, y le añadió una torre como las de Temuco, donde pasó su infancia. Allí vivió la mayor parte del tiempo con su tercera esposa, <b>Matilde Urrutia</b>. Tras su muerte en 1973 la casa quedó abandonada; la Fundación Neruda la recuperó y la abrió como museo en 1990, año en que fue declarada Monumento Histórico.</p><p>Dentro están sus <b>colecciones</b>, casi todas relacionadas con el mar: <b>mascarones de proa</b>, mapas, barcos en botellas, caracolas y dientes de cachalote, además de pipas, máscaras, mariposas y botellas de formas extrañas. En el jardín hay una vieja locomóvil y, frente al océano, desde 1996, la <b>tumba de Neruda y Matilde</b>.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Casa_de_Isla_Negra",
+     "https://es.wikipedia.org/wiki/Pablo_Neruda"
+    ]
+   }
+  },
+  {
+   "id": "orongo",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Orongo</b> es una aldea ceremonial de piedra en el extremo suroeste de Rapa Nui, en el borde del cráter del volcán <b>Rano Kau</b>. A un lado, un acantilado de unos 300 metros cae al océano; al otro, una ladera muy empinada baja hasta la laguna del cráter. Sus 53 casas son bajas, redondeadas, sin ventanas y con puertas por las que hay que entrar agachado, cubiertas de piedra y tierra.</p><p>Entre el siglo XVIII y mediados del XIX fue el centro del culto del dios Make-Make y del <b>Hombre Pájaro</b> (<i>tangata manu</i>). Cada primavera, los aspirantes enviaban a sus hombres a nadar hasta el islote de <b>Motu Nui</b> para buscar el primer huevo del <i>manutara</i>, un charrán. El que volvía con él intacto, escalando el acantilado, convertía a su patrón en Hombre Pájaro durante un año. La prueba era muy peligrosa: algunos caían por el acantilado o morían atacados por tiburones. Con las epidemias y las deportaciones de esclavos de la década de 1860 y la conversión de los supervivientes al cristianismo, el lugar se abandonó.</p><p>Orongo es el principal sitio de arte rupestre de la isla, con <b>centenares de petroglifos</b>, sobre todo de hombres-pájaro. Las casas se restauraron entre 1974 y 1976 bajo la dirección de William Mulloy. En 1868 la tripulación del barco británico <i>Topaze</i> se llevó de aquí el moái de basalto <b>Hoa Hakananai'a</b>, hoy en el Museo Británico. Forma parte del Parque Nacional Rapa Nui, Patrimonio de la Humanidad.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Orongo%2C%20Rapa%20Nui",
+     "https://en.wikipedia.org/wiki/Orongo",
+     "https://es.wikipedia.org/wiki/Orongo",
+     "https://en.wikipedia.org/wiki/Tangata_manu"
+    ]
+   }
+  },
+  {
+   "id": "ahu-tongariki",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>ahu Tongariki</b> es la mayor plataforma ceremonial de Rapa Nui. Está en la costa sur de la isla, a un kilómetro del volcán <b>Rano Raraku</b>, la cantera de toba volcánica de la que salieron los moáis, y cerca del volcán Poike. Fue el centro principal del clan Hotu-iti, la confederación del este de la isla. Sobre la plataforma se alinean <b>15 moáis</b> de espaldas al mar; uno lleva su <i>pukao</i>, el tocado de piedra roja, y otro, de 86 toneladas, es el más pesado que se llegó a erigir en la isla.</p><p>Sus moáis fueron derribados durante las guerras internas de la isla. En <b>1960</b>, el tsunami causado por el gran terremoto de Valdivia arrastró la plataforma y las estatuas tierra adentro. En los años noventa se restauró durante cinco años, en un proyecto dirigido por los arqueólogos <b>Claudio Cristino y Patricia Vargas</b>, de la Universidad de Chile, gracias a un acuerdo entre el Gobierno chileno, esa universidad y la empresa japonesa de grúas <b>Tadano</b>.</p><p>Junto a la plataforma se alza un moái solitario, el <b>«moái viajero»</b>, que fue prestado a Japón para una exposición en Osaka. Todos los moáis de Tongariki miran hacia el punto donde se pone el sol en el solsticio de invierno. Forma parte del Parque Nacional Rapa Nui, Patrimonio de la Humanidad.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ahu_Tongariki",
+     "https://es.wikipedia.org/wiki/Ahu_Tongariki",
+     "https://cromwell-intl.com/travel/rapa-nui/ahu-tongariki/"
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-la-moneda",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Palacio de La Moneda</b>, en el centro de Santiago, es la sede de la presidencia de Chile. Este edificio <b>neoclásico</b> nació como <b>Real Casa de Moneda</b>, la fábrica de monedas del reino, según los planos del arquitecto italiano <b>Joaquín Toesca</b>, que había trabajado en el taller de Sabatini en Madrid. Las obras empezaron en 1784; Toesca murió en 1799 sin verlo terminado, y el gobernador Luis Muñoz de Guzmán lo inauguró en <b>1805</b>.</p><p>En 1845 el presidente Manuel Bulnes decidió convertirlo en sede del Gobierno y residencia de los presidentes, y el traslado se hizo en 1846; los talleres de acuñación salieron del palacio en 1929. El <b>11 de septiembre de 1973</b>, durante el golpe de Estado, el palacio fue cañoneado por el Ejército y bombardeado con cohetes por dos aviones Hawker Hunter de la Fuerza Aérea, y en él murió el presidente <b>Salvador Allende</b>. Quedó parcialmente destruido y se reconstruyó hasta 1980; más tarde se reabrió la puerta de Morandé 80 y se restauró el salón donde murió Allende.</p><p>Ante la fachada norte, en la plaza de la Constitución, se celebra el vistoso <b>cambio de guardia</b> de los carabineros. Al sur, bajo la plaza de la Ciudadanía, están el <b>Centro Cultural La Moneda</b>, abierto en 2006, y la cripta del <b>Altar de la Patria</b>, donde reposan los restos de <b>Bernardo O'Higgins</b>.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Palacio_de_La_Moneda",
+     "https://es.wikipedia.org/wiki/Altar_de_la_Patria_(Chile)"
+    ]
+   }
+  },
+  {
+   "id": "salitrera-humberstone",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>oficina salitrera Humberstone</b> es hoy un pueblo fantasma en pleno desierto de Atacama, a unos 48 km al este de Iquique: calles, casas, edificios públicos y las instalaciones donde se procesaba el <b>salitre</b>, un nitrato natural. Se fundó en <b>1872</b>, cuando la zona aún pertenecía a Perú, con el nombre de <b>La Palma</b>, por la Compañía de Nitratos del Perú.</p><p>La Palma llegó a ser una de las mayores productoras de salitre de Tarapacá. Casi en quiebra, la compró en <b>1934</b> la compañía COSATAN, que la amplió y la rebautizó como oficina Santiago Humberstone en honor de <b>James Thomas Humberstone</b>, un químico e ingeniero inglés nacido en Dover que había introducido en la zona el sistema de extracción Shanks. En su apogeo vivían en ella más de <b>3.700 personas</b>, los «pampinos». La decadencia del salitre natural hundió a COSATAN, que desapareció en 1958, y Humberstone se abandonó en <b>1960</b>, igual que poco después la vecina oficina de <b>Santa Laura</b>.</p><p>Las dos son monumento nacional desde 1970 y <b>Patrimonio de la Humanidad desde 2005</b>, y estuvieron en la lista del patrimonio en peligro hasta 2019. Se recorren la plaza, el gran <b>teatro</b>, la iglesia y la pulpería, construidos en buena parte con pino de Oregón importado, la escuela, la piscina de acero y las casas de los obreros; en Santa Laura destaca la planta de elaboración, con su gran chimenea.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Humberstone_and_Santa_Laura_Saltpeter_Works",
+     "https://www.openstreetmap.org/search?query=Humberstone%2C%20Pozo%20Almonte",
+     "https://es.wikipedia.org/wiki/Oficinas_salitreras_de_Humberstone_y_Santa_Laura",
+     "https://en.wikipedia.org/wiki/James_Thomas_Humberstone"
+    ]
+   }
+  },
+  {
+   "id": "casa-museo-gabriel-garcia-marquez",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Casa Museo Gabriel García Márquez</b>, en Aracataca (Magdalena), ocupa el solar de la casa de los abuelos maternos del escritor, donde nació en <b>1927</b> y vivió hasta los cuatro años. Aracataca, a unos 88 km al sur de Santa Marta, es el pueblo que inspiró <b>Macondo</b>, el escenario de <i>Cien años de soledad</i>.</p><p>La casa original, de palma y bahareque, ya había ardido casi por completo en 1925 y fue reconstruida enseguida por la familia; acabó demolida en los años setenta. Como no quedaba ninguna fotografía de ella, el Ministerio de Cultura y la Universidad del Magdalena la <b>reconstruyeron</b> siguiendo la descripción que hizo el propio García Márquez en sus memorias, <i>Vivir para contarla</i>, y poniendo nombre a cada espacio de acuerdo con él. Más que copiar la casa, se quiso recuperar el ambiente de la vida diaria de su infancia. El museo se inauguró en <b>abril de 2010</b>.</p><p>Se recorren catorce espacios típicos de una casa caribeña, con muebles y objetos de la época y frases de sus libros: la sala de visitas, el corredor de las begonias, el cuarto de los abuelos, el cuarto de Gabo niño, la oficina del abuelo, la cocina con su despensa, el <b>taller de platería</b> y el patio.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Casa%20Museo%20Gabriel%20Garc%C3%ADa%20M%C3%A1rquez%2C%20Aracataca",
+     "https://es.wikipedia.org/wiki/Casa_Museo_Gabriel_Garc%C3%ADa_M%C3%A1rquez",
+     "https://en.wikipedia.org/wiki/Aracataca",
+     "https://es.wikipedia.org/wiki/Aracataca"
+    ]
+   }
+  },
+  {
+   "id": "museo-del-oro",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo del Oro</b> de Bogotá, del Banco de la República, tiene la mayor colección de <b>orfebrería prehispánica</b> del mundo: unas 34.000 piezas de oro y <i>tumbaga</i> (aleación de oro y cobre) y cerca de 25.000 objetos de cerámica, piedra, concha, hueso y tejido. La colección empezó en diciembre de <b>1939</b>, cuando el banco compró el <b>poporo quimbaya</b>, un recipiente de oro para la cal hallado en Antioquia en el siglo XIX. El edificio actual, de 1968, se amplió y renovó por completo en 2008.</p><p>Las salas muestran el trabajo de los pueblos que vivían en la actual Colombia antes de la llegada de los europeos: calima, quimbaya, <b>muisca</b>, zenú, tairona, San Agustín, Tierradentro, Nariño o Tumaco. Otras salas explican cómo se trabajaba el metal y su uso en ceremonias, como el vuelo chamánico.</p><p>La pieza más famosa es la <b>balsa muisca</b>, hallada en 1969 en Pasca y fechada entre 1295 y 1410. Representa a un cacique sentado sobre una balsa de juncos, rodeado de diez figuras más pequeñas de acompañantes y remeros, y se relaciona con la ceremonia de la laguna de <b>Guatavita</b>: el nuevo cacique, cubierto de polvo de oro, arrojaba ofrendas al agua, origen de la leyenda de <b>El Dorado</b>. En la última planta, la <b>sala de la Ofrenda</b>, a oscuras, recrea ese ritual con efectos de luz y sonido.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Gold_Museum,_Bogot%C3%A1",
+     "https://es.wikipedia.org/wiki/Museo_del_Oro",
+     "https://en.wikipedia.org/wiki/Muisca_raft"
+    ]
+   }
+  },
+  {
+   "id": "quinta-de-san-pedro-alejandrino",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Quinta de San Pedro Alejandrino</b>, a las afueras de Santa Marta, es la hacienda donde <b>Simón Bolívar</b> pasó sus últimos días y murió el <b>17 de diciembre de 1830</b>. La fundó en 1608 un canónigo de la catedral de Santa Marta, y llegó a tener un ingenio con trapiche para hacer panela, miel y ron con la caña de azúcar. Hacia 1820 pasó al español <b>Joaquín de Mier</b>, que acogió en ella al Libertador, ya muy enfermo.</p><p>En la casa principal se conserva la <b>alcoba</b> donde murió Bolívar, con su catre de campaña cubierto por la bandera de Colombia, y el sillón desde el que dictó el 10 de diciembre su testamento y su última proclama. Allí mismo su médico, Alejandro Próspero Révérend, le hizo la autopsia. En 1891 el departamento del Magdalena compró la hacienda, la restauró para devolverla a su aspecto de 1830 y colocó una estatua de Bolívar en mármol de Carrara; más tarde se declaró Monumento Nacional.</p><p>Además de la casa y del viejo ingenio, el conjunto tiene el <b>Altar de la Patria</b>, un gran monumento proyectado para el centenario de su muerte en 1930 e inaugurado en 1942; el <b>Museo Bolivariano de Arte Contemporáneo</b>, abierto en 1986 con obras de artistas de los países bolivarianos, y un jardín botánico. Junto a la casa siguen en pie árboles centenarios: un samán, una ceiba y dos tamarindos, entre los que, según la tradición, colgaron la hamaca de Bolívar al llegar.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Quinta%20de%20San%20Pedro%20Alejandrino%2C%20Santa%20Marta",
+     "https://es.wikipedia.org/wiki/Quinta_de_San_Pedro_Alejandrino"
+    ]
+   }
+  },
+  {
+   "id": "puente-de-boyaca",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>puente de Boyacá</b> es un pequeño puente sobre el río Teatinos, en la cordillera Oriental de los Andes, a unos 8 km al suroeste de Tunja y junto a la carretera de Bogotá. Construido a comienzos del siglo XVIII, es monumento nacional desde 1920 porque allí se libró la batalla que decidió la independencia de Colombia.</p><p>El <b>7 de agosto de 1819</b>, el ejército patriota de <b>Simón Bolívar</b> y <b>Francisco de Paula Santander</b> salió al paso del ejército realista del brigadier <b>José María Barreiro</b>, que marchaba hacia Santa Fe de Bogotá para unirse a las fuerzas del virrey. Los patriotas perdieron solo 13 hombres; los realistas, un centenar de muertos y unos 1.600 prisioneros, entre ellos Barreiro, que fue fusilado en octubre con otros 37 oficiales. Al saber la noticia, el virrey Sámano huyó de la capital, y la victoria abrió a Bolívar el camino de Bogotá y de la independencia.</p><p>Alrededor del puente se levanta un gran conjunto de monumentos: la estatua de <b>Bolívar sostenido por cinco figuras femeninas</b>, que representan las cinco naciones que liberó, la de Santander, un arco del triunfo, el obelisco de la Victoria y la plaza de Banderas con la <b>llama perpetua de la Libertad</b>. Hay también un monumento a Pedro Pascasio Martínez, el joven soldado patriota al que Barreiro intentó sobornar para escapar.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/search?query=Puente%20de%20Boyac%C3%A1",
+     "https://es.wikipedia.org/wiki/Puente_de_Boyac%C3%A1",
+     "https://es.wikipedia.org/wiki/Batalla_de_Boyac%C3%A1"
+    ]
+   }
+  },
+  {
+   "id": "museo-de-la-independencia-casa-del-flore",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo de la Independencia - Casa del Florero</b>, antes llamado Museo del 20 de Julio, ocupa una casa colonial en la esquina noreste de la <b>plaza de Bolívar</b> de Bogotá. La casa se construyó a finales del siglo XVI para el mariscal Hernán Venegas Carrillo, y en 1810 albergaba varios comercios, entre ellos el del español <b>José González Llorente</b>.</p><p>El viernes <b>20 de julio de 1810</b>, día de mercado, un grupo de criollos encabezados por los hermanos Francisco y Antonio Morales fue a la tienda de Llorente a pedirle prestado un <b>florero</b> para agasajar al comisionado regio Antonio Villavicencio. Era una provocación preparada: ante la negativa del comerciante estalló una riña que encendió a la gente de la plaza. La revuelta forzó esa misma noche la formación de la primera <b>junta de gobierno</b> de Santa Fe y la firma del Acta de la Revolución del 20 de julio. La casa fue más tarde uno de los edificios que sobrevivieron al Bogotazo, y en 1985 se vio afectada por la toma del Palacio de Justicia.</p><p>El museo se fundó en <b>1960</b>, en el 150.º aniversario de la independencia, y se amplió en 2010; seis nuevas salas invitan a reflexionar sobre la autonomía, la libertad y las formas de gobierno. Su pieza fundacional es la <b>base del florero de Llorente</b>, de porcelana del siglo XVIII, que se expone junto a retratos de los próceres y documentos de la época.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Casa_del_Florero",
+     "https://es.wikipedia.org/wiki/El_Florero_de_Llorente"
+    ]
+   }
+  },
+  {
+   "id": "murallas-y-castillo-de-san-felipe-de-car",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Cartagena de Indias</b> fue fundada el <b>1 de junio de 1533</b> por Pedro de Heredia y se convirtió en uno de los grandes puertos del imperio español: por ella salía hacia España la <b>plata de Potosí</b> y entraban los esclavos africanos. Su riqueza la hizo blanco de piratas y corsarios franceses, ingleses y holandeses, y para defenderla se rodeó de murallas, construidas por etapas entre 1614 y 1796. Hoy el centro histórico conserva <b>11 km de murallas</b>, baluartes y calles de casas coloniales con balcones de madera. Desde <b>1984</b> el puerto, las fortificaciones y el conjunto monumental son Patrimonio de la Humanidad.</p><p>Sobre el cerro de San Lázaro, a unos 40 metros sobre el mar, se alza el <b>castillo de San Felipe de Barajas</b>, llamado así en honor de Felipe IV, que domina los accesos a la ciudad por tierra y por mar. Construido con mano de obra de esclavos africanos y ampliado entre 1639 y 1657, fue tomado en 1697 por el barón de Pointis. Desde 1762 el ingeniero <b>Antonio de Arévalo</b> lo convirtió en una gran fortaleza con al menos siete baterías y hasta 63 cañones. En <b>1741</b>, el almirante <b>Blas de Lezo</b>, con unos 3.600 hombres y seis barcos, resistió el asedio de la enorme flota inglesa del almirante Edward Vernon.</p><p>Se recorren sus baterías, garitas y aljibe y parte de su laberinto de <b>túneles</b>. En los jardines del castillo se alza la estatua de Blas de Lezo.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Cartagena,_Colombia",
+     "https://es.wikipedia.org/wiki/Castillo_San_Felipe_de_Barajas",
+     "https://en.wikipedia.org/wiki/Castillo_San_Felipe_de_Barajas"
+    ]
+   }
+  },
+  {
+   "id": "catedral-de-sal-de-zipaquira",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>Catedral de Sal de Zipaquirá</b> es una iglesia excavada a unos <b>200 metros</b> bajo tierra en las galerías de una mina de sal, en una montaña de halita junto a la ciudad de Zipaquirá, a 49 km al norte de Bogotá. Es un templo católico en uso y un lugar de peregrinación, aunque, al no tener obispo, no es catedral en sentido canónico. Está considerada una de las grandes obras de la arquitectura colombiana.</p><p>Los <b>muiscas</b> ya explotaban estas minas de sal desde el siglo V a. C. Hacia 1932 los mineros tallaron un pequeño santuario para rezar antes de bajar a trabajar. Sobre esa tradición se construyó una primera catedral, inaugurada el 15 de agosto de <b>1954</b> y dedicada a la Virgen del Rosario, patrona de los mineros, con tres naves y una cruz monumental; los problemas de seguridad de la mina obligaron a cerrarla en 1992. La actual se empezó en 1991, más abajo, según el proyecto del arquitecto <b>Roswell Garavito Pearl</b>, ganador de un concurso, y se inauguró el <b>16 de diciembre de 1995</b>.</p><p>Se baja por un túnel con las <b>14 estaciones del vía crucis</b>, pequeñas capillas con cruces talladas en la sal, hasta una cúpula y, al fondo, el templo, con tres naves que representan el nacimiento, la vida y la muerte de Jesús. Iconos y adornos están tallados a mano en la roca de sal, y algunas esculturas son de mármol. El conjunto forma parte del Parque de la Sal.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Salt_Cathedral_of_Zipaquir%C3%A1",
+     "https://www.openstreetmap.org/search?query=Catedral%20de%20Sal%2C%20Zipaquir%C3%A1"
+    ]
+   }
+  }
+ ]
+}
