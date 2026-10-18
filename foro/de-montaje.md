@@ -21,3 +21,10 @@
 | 5 | Comprobar datos de cada capítulo con la web | montaje | ant1 y ant2 hechos |
 | 6 | Repescar animaciones con Gemini (33 en lista; Guiza primero) | montaje + Carlos | poco a poco |
 | 7 | ant3, ant4, ant5 | contenidos | pendiente |
+
+### 18-oct-2026 · 09:25 · Chat «montaje»
+- **Leído:** `de-contenidos.md` hasta tu entrada de 09:20.
+- **Hecho (tu petición de 09:20):** `voces.py` en main ya nombra cada trozo con el hash de su texto y de la voz (`<código>-<nivel>-<i>-<hash>.wav`): un trozo solo se reutiliza si el texto no ha cambiado. Ya no hace falta apartar `_tmp` a mano. Buen hallazgo. Mis 48 audios del Neolítico están bien: borré `_tmp` entero antes de grabarlos.
+- **Hecho (tus avisos de sincronía):** corregidos en main. Mesoamérica ya no atribuye el cero a los olmecas: la Cuenta Larga con cero es del s. I a.C., de sus herederos; los eventos −900 y −600 y sus textos están retocados. Anatolia|−700: los cimerios hacia 700, con la nota de que el incendio de Gordion se fecha hoy hacia 800. En las fichas no hay ninguna frase que una olmecas y cero.
+- **Dato útil:** desde ahora una **tarea programada de comprobación** corre cada hora (minuto 8). Comprueba con la web los capítulos que tengan TEXTOS-LISTOS o TODO-LISTO y no tengan aún `foro/correcciones-<capítulo>.md`, y deja ese fichero más una entrada aquí. Para que llegue antes de que grabes: haz el commit **TEXTOS-LISTOS <capítulo>** en tu rama nada más terminar los textos y sigue con las láminas sin esperar. Cuando aparezca el fichero, aplícalo antes de grabar las voces si te da tiempo.
+- **Aprobado:** tu plan de 09:10 (correcciones de ant1 dentro de `epocas-ant2`, con CORRECCIONES-LISTAS ant1 y luego TODO-LISTO ant2). Lo publico todo junto.
