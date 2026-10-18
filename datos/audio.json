@@ -2790,91 +2790,203 @@
   },
   "des-sixtina": {
    "viva": "img/vivas/des-sixtina.mp4",
-   "viva_tipo": "veo"
+   "viva_tipo": "veo",
+   "d": 337,
+   "voz_d": "Leda"
   },
   "des-victoria": {
    "viva": "img/vivas/des-victoria.mp4",
-   "viva_tipo": "veo"
+   "viva_tipo": "veo",
+   "d": 373,
+   "voz_d": "Aoede"
   },
   "mod1-5": {
    "viva": "img/vivas/mod1-5.mp4",
-   "viva_tipo": "veo"
+   "viva_tipo": "veo",
+   "n": 90,
+   "voz_n": "Leda",
+   "g": 148,
+   "voz_g": "Sadaltager",
+   "p": 792,
+   "voz_p": "Sadaltager"
   },
   "des-potosi": {
    "viva": "img/vivas/des-potosi.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "d": 359,
+   "voz_d": "Achird"
   },
   "des-sevilla-indias": {
    "viva": "img/vivas/des-sevilla-indias.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "d": 327,
+   "voz_d": "Algieba"
   },
   "des-suleymaniye": {
    "viva": "img/vivas/des-suleymaniye.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "d": 348,
+   "voz_d": "Gacrux"
   },
   "mod1-0": {
    "viva": "img/vivas/mod1-0.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 87,
+   "voz_n": "Leda",
+   "g": 154,
+   "voz_g": "Aoede",
+   "p": 820,
+   "voz_p": "Aoede"
   },
   "mod1-1": {
    "viva": "img/vivas/mod1-1.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 87,
+   "voz_n": "Leda",
+   "g": 156,
+   "voz_g": "Aoede",
+   "p": 828,
+   "voz_p": "Aoede"
   },
   "mod1-10": {
    "viva": "img/vivas/mod1-10.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 92,
+   "voz_n": "Leda",
+   "g": 141,
+   "voz_g": "Achird",
+   "p": 700,
+   "voz_p": "Achird"
   },
   "mod1-11": {
    "viva": "img/vivas/mod1-11.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 86,
+   "voz_n": "Leda",
+   "g": 171,
+   "voz_g": "Despina",
+   "p": 863,
+   "voz_p": "Despina"
   },
   "mod1-12": {
    "viva": "img/vivas/mod1-12.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 82,
+   "voz_n": "Leda",
+   "g": 157,
+   "voz_g": "Vindemiatrix",
+   "p": 770,
+   "voz_p": "Vindemiatrix"
   },
   "mod1-13": {
    "viva": "img/vivas/mod1-13.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 92,
+   "voz_n": "Leda",
+   "g": 149,
+   "voz_g": "Rasalgethi",
+   "p": 678,
+   "voz_p": "Rasalgethi"
   },
   "mod1-14": {
    "viva": "img/vivas/mod1-14.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 83,
+   "voz_n": "Leda",
+   "g": 143,
+   "voz_g": "Achird",
+   "p": 679,
+   "voz_p": "Achird"
   },
   "mod1-15": {
    "viva": "img/vivas/mod1-15.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 83,
+   "voz_n": "Leda",
+   "g": 143,
+   "voz_g": "Algieba",
+   "p": 784,
+   "voz_p": "Algieba"
   },
   "mod1-16": {
    "viva": "img/vivas/mod1-16.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 86,
+   "voz_n": "Leda",
+   "g": 164,
+   "voz_g": "Vindemiatrix",
+   "p": 815,
+   "voz_p": "Vindemiatrix"
   },
   "mod1-2": {
    "viva": "img/vivas/mod1-2.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 87,
+   "voz_n": "Leda",
+   "g": 163,
+   "voz_g": "Gacrux",
+   "p": 867,
+   "voz_p": "Gacrux"
   },
   "mod1-3": {
    "viva": "img/vivas/mod1-3.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 88,
+   "voz_n": "Leda",
+   "g": 166,
+   "voz_g": "Iapetus",
+   "p": 839,
+   "voz_p": "Iapetus"
   },
   "mod1-4": {
    "viva": "img/vivas/mod1-4.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 75,
+   "voz_n": "Leda",
+   "g": 151,
+   "voz_g": "Algieba",
+   "p": 835,
+   "voz_p": "Algieba"
   },
   "mod1-6": {
    "viva": "img/vivas/mod1-6.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 82,
+   "voz_n": "Leda",
+   "g": 154,
+   "voz_g": "Leda",
+   "p": 829,
+   "voz_p": "Leda"
   },
   "mod1-7": {
    "viva": "img/vivas/mod1-7.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 84,
+   "voz_n": "Leda",
+   "g": 150,
+   "voz_g": "Despina",
+   "p": 852,
+   "voz_p": "Despina"
   },
   "mod1-8": {
    "viva": "img/vivas/mod1-8.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 75,
+   "voz_n": "Leda",
+   "g": 151,
+   "voz_g": "Leda",
+   "p": 811,
+   "voz_p": "Leda"
   },
   "mod1-9": {
    "viva": "img/vivas/mod1-9.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "camara",
+   "n": 84,
+   "voz_n": "Leda",
+   "g": 161,
+   "voz_g": "Gacrux",
+   "p": 892,
+   "voz_p": "Gacrux"
   }
  }
 }
