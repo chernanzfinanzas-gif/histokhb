@@ -1,0 +1,485 @@
+{
+ "zona": "Ampliar espana-2a",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "baetulo",
+   "campos": {
+    "texto": {
+     "general": "<p>Bajo el <b>Museu de Badalona</b> se conserva el corazón de <b>Baetulo</b>, la ciudad romana que dio origen a Badalona. Se fundó de nueva planta hacia el <b>100 a. C.</b> sobre una suave loma junto al mar, con unas 10 hectáreas rodeadas por una muralla con torres. Plinio el Viejo la cita como <i>oppidum civium romanorum</i>, una ciudad de ciudadanos romanos.</p><p>Sus calles, de unos cinco metros de ancho, tenían casas con atrio y mosaicos, tiendas y edificios públicos junto al foro. La ciudad siguió viva hasta el siglo VI y nunca se abandonó del todo: la Badalona actual está encima. Las <b>termas del siglo I a. C.</b>, uno de los ejemplos más antiguos de baños públicos de la península ibérica, las descubrió el arqueólogo Josep Maria Cuyàs en 1955.</p><p>Hoy el recorrido subterráneo abarca más de 3.400 m², con el <b>decumano máximo</b> y el cardo, tiendas (<i>tabernae</i>) y tres manzanas de casas, incorporados a la visita en 2010. En las salas del museo se expone la <b>Venus de Badalona</b>, una pequeña figura de mármol de Paros del siglo I hallada en 1934, una de las piezas más famosas de la arqueología romana de Cataluña, junto a la <i>tabula hospitalitatis</i> del año 98 d. C.</p>"
+    },
+    "fuentes": [
+     "https://visitmuseum.gencat.cat/en/museum/museu-de-badalona-conjunt-termes-i-decumanus",
+     "https://es.wikipedia.org/wiki/Baetulo",
+     "https://en.wikipedia.org/wiki/Venus_de_Badalona",
+     "https://en.wikipedia.org/wiki/Badalona_Museum"
+    ]
+   }
+  },
+  {
+   "id": "olerdola",
+   "campos": {
+    "texto": {
+     "general": "<p>Un cerro amurallado del Penedès con <b>más de 3.000 años de historia</b>: poblado íbero, fortín romano con cisterna y una aldea medieval con tumbas excavadas en la roca. Ya en el Bronce final hubo aquí un poblado estable, y hacia los siglos IX-VIII a. C. se levantó una primera muralla que cerraba unas 3,5 hectáreas. Hacia el siglo IV a. C. se instalaron los íberos <b>cosetanos</b>, que tallaban sus casas en la roca.</p><p>En los siglos II-I a. C. los romanos convirtieron el cerro en un fortín que vigilaba la Vía Augusta: levantaron una muralla de unos 145 metros con una puerta y cuatro torres, tallaron una gran cisterna en la roca, que recogía el agua de lluvia por dos canales, y abrieron una cantera (la «pedrera») de la que sacaban la piedra. Tras casi mil años de abandono, el conde <b>Sunyer</b> (911-947) refortificó el lugar como bastión de frontera frente a al-Ándalus. Entre los siglos X y XI Olèrdola fue la capital del Penedès, y allí se hizo fuerte el noble rebelde <b>Mir Geribert</b>. Entre los siglos XIII y XIV sus vecinos bajaron al llano.</p><p>Se ven todavía la muralla, la cisterna y la cantera, junto a la iglesia de <b>Sant Miquel</b>, de origen prerrománico. Fuera de la muralla, el <b>Pla dels Albats</b> fue un barrio medieval y guarda uno de los grupos de tumbas antropomorfas más importantes de Cataluña.</p>"
+    },
+    "fuentes": [
+     "https://museu.gramenet.cat/fileadmin/museu_torre_balldovina/Imatges_activitats/ProgramaCSI2020_Ruta_dels_Ibers.pdf",
+     "https://www.spain.info/es/lugares-interes/poblado-olerdola/",
+     "https://es.wikipedia.org/wiki/Olèrdola",
+     "https://www.enciclopedia.cat/catalunya-romanica/poblat-dolerdola"
+    ]
+   }
+  },
+  {
+   "id": "anillo-olimpico-de-montjuic",
+   "campos": {
+    "texto": {
+     "general": "<p>Para los <b>Juegos Olímpicos de 1992</b> Barcelona reunió en lo alto de Montjuïc sus grandes instalaciones deportivas. El corazón es el <b>Estadio Olímpico Lluís Companys</b>, obra de Pere Domènech i Roura que inauguró Alfonso XIII el 20 de mayo de 1929 para la Exposición Internacional. Allí debía empezar la Olimpiada Popular el 19 de julio de 1936, suspendida por el estallido de la Guerra Civil.</p><p>Para los Juegos se vació y remodeló por dentro, conservando la fachada, con proyecto de los arquitectos Correa, Milà, Margarit y Buxadé, con Vittorio Gregotti; se reinauguró en 1989 con la Copa del Mundo de Atletismo. Alrededor se levantaron el <b>Palau Sant Jordi</b>, de Arata Isozaki, inaugurado en 1990, donde se disputaron la gimnasia y las finales de balonmano; el INEFC, de Ricardo Bofill (1984-1990); las piscinas Bernat Picornell, remodeladas para la ocasión, y la blanca <b>torre de comunicaciones</b> de Santiago Calatrava, de unos 120 metros.</p><p>Hoy el estadio, con casi 56.000 localidades, acoge grandes conciertos y fue el campo del RCD Espanyol entre 1997 y 2009. Junto a él se conserva el pebetero de la llama olímpica, y enfrente está el Museo Olímpico y del Deporte Joan Antoni Samaranch.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Anillo_Olímpico_de_Montjuic",
+     "https://es.wikipedia.org/wiki/Estadio_Olímpico_Lluís_Companys",
+     "https://es.wikipedia.org/wiki/Palau_Sant_Jordi"
+    ]
+   }
+  },
+  {
+   "id": "palau-de-la-virreina",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Palau de la Virreina</b>, en la Rambla, lo mandó construir entre <b>1772</b> y 1778 <b>Manuel d'Amat i de Junyent</b>, virrey del Perú entre 1761 y 1776, a su vuelta de América. Él mismo envió desde Lima el anteproyecto, y su hermano Antoni compró los solares en la Rambla. El proyecto definitivo se atribuye a <b>Josep Ausich</b>; las obras las dirigió el escultor <b>Carles Grau</b>, que talló también las cornisas de las ventanas y los jarrones de la azotea.</p><p>Es un edificio a caballo entre el barroco y el rococó, en piedra de Montjuïc y de Santanyí: la fachada se divide en cinco calles con pilastras jónicas y remata en una balaustrada con doce jarrones; dentro, un patio de esquinas redondeadas y una escalera noble. Su nombre viene de la esposa del virrey, <b>Francesca de Fiveller</b>, «la virreina», que lo habitó tras la muerte de Amat en 1782. El Ayuntamiento lo compró en 1944 y lo dedicó a museos, como el de Artes Decorativas.</p><p>Hoy es sede del Institut de Cultura de Barcelona y de la Virreina Centre de la Imatge, con exposiciones temporales de fotografía e imagen. También se exponen los <b>gigantes de la ciudad</b> y el águila de Barcelona.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Palau_de_la_Virreina",
+     "https://es.wikipedia.org/wiki/Palacio_de_la_Virreina",
+     "https://ca.wikipedia.org/wiki/Palau_de_la_Virreina"
+    ]
+   }
+  },
+  {
+   "id": "castell-y-colegiata-de-cardona",
+   "campos": {
+    "texto": {
+     "general": "<p>En lo alto de un cerro sobre el río Cardener se alza el castillo de Cardona, que la tradición atribuye a <b>Wifredo el Velloso</b> en el año 886. Fue la cuna de los Cardona, que en el siglo XV, ya como duques, eran la familia más poderosa de la Corona de Aragón después de la casa real. Dentro del recinto, la <b>colegiata de Sant Vicenç</b>, consagrada en <b>1040</b>, es la obra de referencia del primer románico catalán: la promovió el vizconde <b>Bermon</b> y tiene tres naves, un crucero con cúpula sobre trompas y cripta bajo el presbiterio, con más de 19 metros de altura.</p><p>El castillo se alza sobre una de las explotaciones de sal más antiguas de Europa. A sus pies, en la Vall Salina, los grupos campesinos del Neolítico medio arrancaban ya hacia 4.500-4.200 aC bloques de sal a cielo abierto con hachas y picos de piedra pulida, y la sal se intercambiaba por objetos llegados de lejos, como cuentas de variscita de Gavà. En la Guerra de Sucesión fue uno de los últimos reductos en rendirse a Felipe V, el 18 de septiembre de 1714.</p><p>Hoy el castillo es el <b>Parador Duques de Cardona</b> y domina la Montaña de Sal. La <b>Torre Minyona</b>, del siglo XI, mide 15 metros de altura. Las pinturas del pórtico de la colegiata están en el MNAC, y la antigua mina se visita en el Parque Cultural de la Montaña de Sal.</p>"
+    },
+    "fuentes": [
+     "https://www.enciclopedia.cat/gran-enciclopedia-catalana/sant-vicenc-del-castell-de-cardona",
+     "https://es.wikipedia.org/wiki/Castillo_de_Cardona",
+     "https://en.wikipedia.org/wiki/Church_of_Sant_Vicen%C3%A7"
+    ]
+   }
+  },
+  {
+   "id": "nean-capellades-abric-romani",
+   "campos": {
+    "texto": {
+     "general": "<p>En el cingle del Capelló, un acantilado de travertino sobre el río Anoia, el arqueólogo <b>Amador Romaní</b> descubrió en 1909 el <b>Abric Romaní</b>, hasta entonces conocido como Balma del Fossar Vell. El travertino, una roca que forma el agua cargada de cal, fue cubriendo los campamentos de los <b>neandertales</b> entre hace unos 70.000 y 40.000 años y conservó decenas de hogueras, miles de herramientas y hasta los huecos de objetos de madera que se pudrieron, como estacas o un recipiente de unos 45.000 años.</p><p>Tras Romaní excavaron aquí el Institut d'Estudis Catalans y, desde los años cincuenta, Eduard Ripoll y Henry de Lumley. Desde 1983 lo excava el equipo de <b>Eudald Carbonell</b>, hoy en el IPHES-CERCA. Se conocen 27 niveles, todos del Paleolítico medio salvo el más alto: una capa auriñaciense de hace unos 39.000 años que marca la llegada de los humanos modernos. Han salido más de 5.000 piezas de sílex de técnica musteriense. En 2022 apareció el primer resto humano del yacimiento: parte de un cráneo neandertal de unos 60.000 años.</p><p>El <b>NEAN, Parque Prehistórico de Capellades</b>, acerca este yacimiento al público con un paseo junto al río, réplicas y talleres de prehistoria.</p>"
+    },
+    "fuentes": [
+     "https://anoiaturisme.cat/es/anoia/nean-parc-prehistoric-de-capellades",
+     "https://patrimonicultural.diba.cat/print/pdf/node/44382",
+     "https://www.iphes.cat/sites/default/files//20220825-np-descobert_el_neandertal_de_labric_romani_de_capellades_ca.pdf",
+     "https://en.wikipedia.org/wiki/Abric_Roman%C3%AD"
+    ]
+   }
+  },
+  {
+   "id": "sant-jaume-de-frontanya",
+   "campos": {
+    "texto": {
+     "general": "<p>En un pueblecito del Berguedà se alza <b>Sant Jaume de Frontanyà</b>, una de las iglesias más armoniosas del románico lombardo catalán. Ya en el año 905 el obispo Nantigís de Urgell había consagrado aquí una primera iglesia. La actual se empezó hacia 1060, y en 1066, cuando <b>Arnau Mir de Tost</b> y la vizcondesa Arsenda le donaron tierras, ya había una comunidad de clérigos que rezaba en común. Desde 1140 fue una <b>canónica agustiniana</b>, secularizada en 1592; al año siguiente pasó al nuevo obispado de Solsona.</p><p>Tiene <b>nave única, transepto y tres ábsides</b> (no una verdadera planta de trébol, como a veces se dice), con bóvedas de cañón. Sobre el crucero se levanta un <b>cimborrio de doce caras</b>, octogonal por dentro, único en Cataluña en su época. Los muros son de sillares pequeños, bien tallados y uniformes.</p><p>Por fuera, los ábsides y la fachada se decoran con arquillos ciegos y lesenas, la firma de los maestros lombardos. El claustro y las dependencias de los canónigos han desaparecido, y al derribar la rectoría adosada la iglesia quedó exenta. Un fragmento de su retablo pintado hacia 1300, con escenas de la vida de Santiago, se guarda desde 1909 en el <b>Museu Diocesà de Solsona</b>.</p>"
+    },
+    "fuentes": [
+     "https://elbergueda.cat/en/pl161/el-bergueda/senderisme/xarxa-de-camins-i-rutes-circulars/id225/sant-jaume-de-frontanya-pr-c-51.htm",
+     "https://monestirs.cat/monst/bergue/ebg27fron.htm",
+     "https://www.enciclopedia.cat/gran-enciclopedia-catalana/monestir-de-sant-jaume-de-frontanya",
+     "https://www.enciclopedia.cat/catalunya-romanica/sant-jaume-de-frontanya"
+    ]
+   }
+  },
+  {
+   "id": "museu-de-montserrat",
+   "campos": {
+    "texto": {
+     "general": "<p>El museo de la abadía de Montserrat nació en 1911 como un «museo bíblico». Lo creó el monje <b>Bonaventura Ubach</b> (1879-1960), que desde 1906 pasó largas temporadas en Jerusalén y Beirut y recorrió Oriente Próximo reuniendo objetos para explicar el mundo de la Biblia. Hoy reúne más de 1.300 piezas en seis colecciones.</p><p>Su sección de <b>arqueología del Oriente bíblico</b> guarda piezas de Mesopotamia, Grecia, Tierra Santa, Chipre y <b>Egipto</b>: ataúdes y momias, escarabeos y amuletos. La pieza más antigua del museo es un <b>sarcófago egipcio del siglo XIII a. C.</b> Son de épocas posteriores a las pirámides, pero muestran las creencias en la vida después de la muerte que ya se ven en el Imperio Antiguo: proteger el cuerpo, rodearlo de imágenes y conjuros y asegurarle ofrendas para la eternidad.</p><p>El resto del museo sorprende en plena montaña: pintura antigua de <b>El Greco</b>, Caravaggio, Berruguete, Luca Giordano o Tiepolo; pintura catalana moderna de Fortuny, Rusiñol, Casas, Nonell, <b>Picasso</b> y Dalí; impresionistas franceses como Monet, Sisley, Degas y Pissarro; una colección de unos 160 iconos bizantinos y eslavos y orfebrería litúrgica.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Museum_of_Montserrat",
+     "https://visitmuseum.gencat.cat/en/museum/museu-de-montserrat",
+     "https://www.spain.info/es/lugares-interes/museo-montserrat/"
+    ]
+   }
+  },
+  {
+   "id": "palau-de-la-generalitat",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Palau de la Generalitat</b> es la sede del gobierno de Cataluña desde que la institución compró aquí unas casas en <b>1400</b>. La Diputació del General, nacida de las Cortes en 1289 y consolidada en las de Cervera de 1359, necesitaba una sede fija, y el 3 de diciembre de 1400 sus representantes compraron la casa de Pere Brunet en la calle de Sant Honorat.</p><p>La parte gótica es obra de <b>Marc Safont</b>: la fachada de la calle del Bisbe (1416-1419), con el medallón de San Jorge de Pere Joan, el <b>patio central</b> (1424-1425), con su escalera y 26 gárgolas, y la <b>capilla de San Jorge</b>, de gótico flamígero, terminada en 1434. La fachada principal, a la plaza de Sant Jaume, es <b>renacentista</b>: la proyectó Pere Blai, fue la primera gran fachada de ese estilo en Cataluña y se construyó entre <b>1597</b> y 1619. La estatua de San Jorge que la preside es de 1860.</p><p>Por dentro destaca también el <b>Pati dels Tarongers</b>, el patio de los naranjos. Un puente neogótico sobre la calle del Bisbe, inaugurado en 1928, lo une con la vecina Casa dels Canonges. La entrada principal luce cuatro columnas de granito oscuro que, según la tradición, llegaron a Tarragona para la visita del emperador Adriano.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Palau_de_la_Generalitat_de_Catalunya",
+     "https://catalangovernment.eu/catalangovernment/government/palace-generalitat"
+    ]
+   }
+  },
+  {
+   "id": "santa-maria-de-l-estany",
+   "campos": {
+    "texto": {
+     "general": "<p>En L'Estany (Moianès) hubo una iglesia desde el año 990, y en 1080 el obispo de Vic instaló aquí una comunidad de <b>canónigos agustinos</b>. La iglesia actual, de planta de cruz latina, se consagró en <b>1133</b>; el terremoto de 1448 derribó parte de ella y del campanario. El pueblo debe su nombre al antiguo estanque que lo rodeaba, desecado en 1737 con una mina de 425 metros.</p><p>Su claustro, de los siglos XII y XIII, tiene <b>72 capiteles esculpidos</b>, uno de los conjuntos más ricos de Cataluña: escenas bíblicas, nudos de Salomón, animales y flores. Es de planta casi cuadrada, con nueve pares de columnas por lado. La galería norte, la más antigua, narra la vida de Jesús, de la huida a Egipto a la Última Cena; la del este mezcla la Anunciación con escenas profanas, como una joven peinándose, y las del oeste y sur se llenan de bestias, plantas y escudos. Junto a él reposan en sarcófagos varios abades del siglo XIV.</p><p>Fue abadía desde 1264, sufrió un asalto e incendio en 1395, se secularizó en 1592 y en 1775 pasó a ser parroquia. Fue declarado monumento nacional en 1931, y ese año empezó la restauración decisiva. Las antiguas dependencias acogen hoy un pequeño museo.</p>"
+    },
+    "fuentes": [
+     "https://monestirs.cat/monst/bages/eba12mari.htm",
+     "https://patrimonicultural.diba.cat/print/pdf/node/52877",
+     "https://www.femturisme.cat/en/villages/estany"
+    ]
+   }
+  },
+  {
+   "id": "cosmocaixa-mamut",
+   "campos": {
+    "texto": {
+     "general": "<p>Desde octubre de 2025, el museo de la ciencia <b>CosmoCaixa</b> expone de forma permanente el esqueleto de un <b>mamut lanudo</b> de la región de Tiumén, en Siberia occidental, que vivió hace unos 40.000-50.000 años en la estepa fría de la Edad de Hielo. Es un macho joven de unos 6 metros de largo y 3,5 de alto, con casi todos los huesos originales; antes se mostró en el Museo de la Evolución Humana de Burgos, en la exposición «Mamutmanía» (2023-2024), y en los CaixaForum de Sevilla, Zaragoza, Madrid, Palma y Tarragona, donde lo vieron más de 308.000 personas.</p><p>El mamut lanudo tenía pelo largo, orejas pequeñas y una joroba de grasa, adaptaciones al frío; sus enormes «colmillos» eran en realidad incisivos que crecían toda la vida. En la península llegó hasta Granada, a Padul, y desapareció del continente hace unos 10.000 años.</p><p>El museo ocupa un edificio modernista de 1909, obra de Josep Domènech i Estapà, que fue asilo de ciegos; reabrió ampliado en 2004 con más de 50.000 m² y fue elegido <b>Museo Europeo del Año 2006</b>. El mamut está en la <b>Sala Universo</b>, cerca de otros fósiles como el gran armadillo <i>Holmesina</i>.</p>"
+    },
+    "fuentes": [
+     "https://www.atalayar.com/en/articulo/culture/ice-age-mammoth-fossil-arrives-at-cosmocaixa-from-siberia-to-barcelona/20251028124914219866.html",
+     "https://www.museoevolucionhumana.com/archivos/un-mamut-en-burgos.pdf",
+     "https://www.latlong.net/place/cosmocaixa-barcelona-barcelona-spain-23193.html",
+     "https://es.wikipedia.org/wiki/CosmoCaixa_Barcelona"
+    ]
+   }
+  },
+  {
+   "id": "pabellon-mies-van-der-rohe",
+   "campos": {
+    "texto": {
+     "general": "<p>Para la <b>Exposición Internacional de 1929</b>, el gobierno alemán encargó su pabellón a <b>Ludwig Mies van der Rohe</b> y Lilly Reich, que habían dirigido en 1927 la exposición del Werkbund en Stuttgart. Las obras empezaron en 1928; se inauguró el 27 de mayo de 1929 y se desmontó a principios de 1930.</p><p>Es una obra maestra de la arquitectura moderna: sobre una plataforma de <b>travertino</b>, muros de ónice dorado y mármol verde de Tinos y mamparas de vidrio separan espacios abiertos que fluyen unos en otros, junto al agua. Una cubierta plana, que parece flotar, descansa sobre finos <b>pilares de acero cromado</b> de sección en cruz. En el estanque pequeño se alza <b>«Alba»</b>, escultura de Georg Kolbe, y para el edificio se diseñó la <b>silla Barcelona</b>, que todavía se fabrica.</p><p>La Fundació Mies van der Rohe, creada por un grupo de arquitectos catalanes, lo reconstruyó en su emplazamiento entre 1983 y 1986, a partir de los planos y de los cimientos originales reencontrados. Hoy, además de visitarse, acoge intervenciones de artistas y arquitectos: Ai Weiwei llenó sus estanques de café y leche, y SANAA levantó dentro muros curvos de metacrilato.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Barcelona_Pavilion"
+    ],
+    "ver_alli": [
+     "El muro de ónice dorado, centro del pabellón.",
+     "La escultura «Alba» de Kolbe reflejada en el estanque.",
+     "Las sillas Barcelona, diseñadas para este edificio.",
+     "Fíjate en los finos pilares cromados en cruz que sostienen la cubierta."
+    ]
+   }
+  },
+  {
+   "id": "cavas-codorniu",
+   "campos": {
+    "texto": {
+     "general": "<p>La casa Codorníu, de la familia Raventós, remonta su negocio del vino a mediados del siglo XVI: la empresa da como fecha de fundación 1551, con <b>Jaume Codorníu</b>. En 1659 Anna de Codorníu se casó con Miquel Raventós y unió dos familias de viticultores. En 1872 <b>Josep Raventós</b> elaboró aquí espumoso por el método tradicional: el nacimiento del <b>cava</b> y de toda una industria en el Alt Penedès.</p><p>Tras la crisis de la filoxera, Manuel Raventós encargó a <b>Josep Puig i Cadafalch</b> unas bodegas nuevas, levantadas entre finales del siglo XIX y 1915 en medio de las viñas, porque creía que la cercanía mejoraba el vino. Entonces producían unas 100.000 botellas al año y el edificio parecía desmesurado. El conjunto reúne el pabellón de expediciones con arcos parabólicos, el gran celler con bóvedas de ladrillo y la masía de aire medieval, todo en ladrillo visto y con trencadís de botellas en las fachadas. Más tarde Lluís Bonet i Garí lo amplió.</p><p>Bajo tierra se extienden <b>más de 30 kilómetros de galerías</b>, donde el cava reposa en botella. El conjunto es <b>monumento histórico-artístico nacional desde 1976</b>, una rareza para una bodega en activo.</p>"
+    },
+    "fuentes": [
+     "https://patrimonicultural.diba.cat/print/pdf/node/99226",
+     "https://en.wikipedia.org/wiki/Codorn%C3%ADu_Winery",
+     "https://miraespanha.com/en/visit-to-codorniu/"
+    ]
+   }
+  },
+  {
+   "id": "museu-d-arqueologia-de-catalunya",
+   "campos": {
+    "texto": {
+     "general": "<p>El Museu d'Arqueologia de Catalunya ocupa en Montjuïc el antiguo <b>Palacio de Artes Gráficas</b>, construido para la <b>Exposición Internacional de Barcelona de 1929</b>. La Generalitat creó el museo a partir de 1932, y en 1935 abrió como Museo Arqueológico de Barcelona bajo la dirección de <b>Pere Bosch Gimpera</b>, el gran prehistoriador catalán. Tras la Guerra Civil lo gestionó la Diputación de Barcelona, y en 1995 pasó a la Generalitat como sede central de una red que incluye otros yacimientos y centros de Cataluña.</p><p>Su colección no se limita a Cataluña: reúne útiles de piedra del Paleolítico, piezas de <b>El Argar</b> (Almería), exvotos fenicios, cerámica griega o el <b>altar de la Salud</b> de Cartagena. Así, el visitante recorre la prehistoria y la Antigüedad de buena parte del Mediterráneo occidental.</p><p>Entre lo imprescindible están la <b>mandíbula de neandertal de Sitges</b>, de 53.200 años; el <b>tesoro ibérico de Tivissa</b>; y el <b>Príapo romano de Hostafrancs</b>. El original del Asclepio de Empúries estuvo aquí hasta 2008, cuando volvió a Empúries.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Museo_de_Arqueología_de_Cataluña_(Barcelona)",
+     "https://www.google.com/maps/place/?q=place_id:ChIJr-_dbm-ipBIRglWvPSN40mc"
+    ]
+   }
+  },
+  {
+   "id": "crip-hostalets-de-pierola",
+   "campos": {
+    "texto": {
+     "general": "<p>Los barrancos de Els Hostalets de Pierola, a los pies de Montserrat, guardan capas del <b>Mioceno</b> de hace unos 13 a 9 millones de años, cuando aquí crecían bosques subtropicales. Al ampliar el vertedero de Can Mata, bajo control paleontológico, apareció en diciembre de 2002 <b>«Pau»</b>, <i>Pierolapithecus catalaunicus</i>: 83 huesos de un gran simio macho adulto de unos 30 kilos y de unos 12,5-13 millones de años, publicado en <i>Science</i> en 2004 por el equipo de <b>Salvador Moyà-Solà</b>. Su pecho ancho y su espalda rígida muestran que ya trepaba con el tronco erguido.</p><p>Su nombre científico recuerda al pueblo y a Cataluña, y el apodo, «paz» en catalán, se anunció en plena oleada de manifestaciones contra la guerra de Irak. Su lugar en el árbol de los grandes simios aún se discute. De la misma zona han salido «Lluc» (<i>Anoiapithecus</i>, 2009), «Laia» (<i>Pliobates</i>, 2015), <i>Dryopithecus</i>, <i>Pliopithecus canmatensis</i> y el pariente más antiguo conocido del oso panda.</p><p>El <b>CRIP</b> explica estos hallazgos al lado de donde se produjeron, con un espacio expositivo, un laboratorio donde se restauran los fósiles y rutas por los barrancos.</p>"
+    },
+    "fuentes": [
+     "https://elshostaletsdepierola.cat/wp-content/uploads/2023/01/Carta-de-serveis-CRIP.pdf",
+     "https://anoiaturisme.cat/es/anoia/centre-de-restauracio-i-interpretacio-paleontologic-crip",
+     "https://en.wikipedia.org/wiki/Pierolapithecus"
+    ]
+   }
+  },
+  {
+   "id": "puig-castellet",
+   "campos": {
+    "texto": {
+     "general": "<p>En lo alto de una colina sobre Lloret de Mar se conserva un pequeño <b>recinto fortificado ibérico</b> de planta pentagonal. Desde esta posición estratégica los <b>indiketes</b> dominaban una amplia franja de costa, de la desembocadura del Tordera al extremo oriental de la playa de Lloret, y controlaban directamente los demás poblados ibéricos de la zona, como Montbarbat y Turó Rodó.</p><p>Fue un asentamiento de vida corta: estuvo habitado unos <b>cincuenta años</b>, aproximadamente entre el 250 y el <b>200 a. C.</b>, cuando se abandonó, en los años en que Roma se asentaba en la Península tras la Segunda Guerra Púnica. Se excavó entre 1975 y 1980. Allí aparecieron cerámica ibérica de tipo ampuritano, ánforas ibéricas y púnicas, objetos de bronce y herramientas agrícolas de hierro.</p><p>Hoy forma parte de la <b>Ruta dels Ibers</b>.</p>"
+    },
+    "fuentes": [
+     "https://patrimoni.gencat.cat/en/node/10901",
+     "https://es.hispanopedia.com/wiki/Lloret_de_Mar",
+     "https://fonspalol.icac.cat/001070-2"
+    ]
+   }
+  },
+  {
+   "id": "escalinata-y-fachada-de-la-catedral-de-g",
+   "campos": {
+    "texto": {
+     "general": "<p>La catedral gótica de Girona se presenta a la ciudad con una fachada barroca y una escalinata monumental de <b>noventa escalones</b>, construida a finales del siglo XVII, que salva el desnivel entre la plaza y el templo y lo convierte en un gran escenario.</p><p>La fachada responde al proyecto que el arquitecto <b>Pere Costa</b> (Vic, 1693-Berga, 1761) trazó en 1730, como un gran retablo de piedra; él mismo esculpió las figuras de las <b>Tres Virtudes</b> y dirigió las obras hasta 1733. Las obras se alargaron durante siglos: la fachada no se dio por acabada hasta 1960, y en los años siguientes los escultores Bohigas, Casamor, Busquets y Fita llenaron las hornacinas vacías con nuevas estatuas. Al lado se alza el campanario, levantado a partir de 1580.</p><p>Detrás espera la <b>nave gótica más ancha del mundo</b>, de 22,98 metros, con 50 de largo y 34 de alto; en 1417 se decidió hacerla de una sola nave, bajo la dirección de Guillem Bofill. Dentro no hay que perderse el claustro románico del siglo XII y, en el museo, el <b>Tapiz de la Creación</b>, también del siglo XII.</p>"
+    },
+    "fuentes": [
+     "https://www.enciclopedia.cat/gran-enciclopedia-catalana/catedral-de-girona",
+     "https://www.enciclopedia.cat/gran-enciclopedia-catalana/pere-costa-i-cases",
+     "https://es.wikipedia.org/wiki/Catedral_de_Santa_Mar%C3%ADa_(Gerona)"
+    ],
+    "ver_alli": [
+     "Sube la escalinata y gírate: la vista sobre el Barri Vell es de las mejores.",
+     "Mira la fachada como un retablo: las Tres Virtudes de Pere Costa.",
+     "La escalinata y la fachada se ven libremente desde la plaza.",
+     "Dentro, la nave única gótica, el claustro románico y el Tapiz de la Creación en el museo."
+    ]
+   }
+  },
+  {
+   "id": "castell-del-montgri",
+   "campos": {
+    "texto": {
+     "general": "<p>Su silueta cuadrada corona el macizo del Montgrí, una montaña caliza de <b>315 metros</b> de altura a 6 km del mar, sobre Torroella de Montgrí. Lo mandó levantar el rey <b>Jaime II</b> a partir de 1294 como punto de control en su pugna con Ponce V, conde de Empúries; empezó las obras Bernat de Llabià, gobernador de Torroella.</p><p>Es de <b>planta cuadrada de 31 metros de lado</b>, con cuatro torres cilíndricas en las esquinas y muros de unos 13 metros coronados de almenas. Tenía foso y cisterna, y su fachada principal, orientada al sur, se abre con un portal de arco de medio punto. Como el cercano castillo de Bellcaire, es testigo de la lucha entre la monarquía y los condes ampurdaneses.</p><p>Nunca se terminó: las obras se interrumpieron en 1301, cuando el poder del conde de Barcelona se impuso al de Empúries y la fortaleza dejó de ser necesaria. Desde lo alto se domina el Baix Empordà y la vista alcanza el Canigó.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_del_Montgr%C3%AD"
+    ]
+   }
+  },
+  {
+   "id": "castell-d-hostalric",
+   "campos": {
+    "texto": {
+     "general": "<p>Sobre un cerro de roca volcánica, junto al río Tordera, el castillo de Hostalric ya existía en 1145 y perteneció a los vizcondes de <b>Cabrera</b>. Está hecho con la misma piedra volcánica de la montaña. La villa conserva unos <b>600 metros de muralla</b> con ocho torres cilíndricas, obra sobre todo del siglo XIV.</p><p>Los franceses lo desmantelaron en 1695, y desde la Guerra de Sucesión (1711-1713) se reconstruyó durante buena parte del siglo XVIII como fortaleza moderna, con baluartes en estrella, fosos y rampas al estilo de Vauban; los planos se atribuyen, al parecer, al ingeniero militar Jorge Próspero de Verboom. Ese es el aspecto que tiene hoy. En la Guerra de la Independencia fue una plaza fuerte de primer orden, porque dominaba el camino real de Girona a Barcelona: la villa cayó en 1809, pero el castillo resistió hasta mayo de 1810. La noche del 12 de mayo su gobernador, el coronel <b>Julián de Estrada</b>, salió con unos 1.100 hombres; unos 800 lograron escapar a Vic, y los franceses ocuparon por fin el castillo.</p><p>Siguió siendo fortaleza militar, con gobernador y guarnición, hasta el siglo XX; después pasó al municipio y en 1963 fue declarado monumento nacional.</p>"
+    },
+    "fuentes": [
+     "https://www.enciclopedia.cat/catalunya-romanica/vila-fortificada-dhostalric",
+     "https://es.wikipedia.org/wiki/Castillo_de_Hostalrich",
+     "https://www.enciclopedia.cat/gran-enciclopedia-catalana/castell-dhostalric",
+     "https://www.historyofwar.org/articles/siege_hostalrich.html"
+    ]
+   }
+  },
+  {
+   "id": "sant-miquel-de-cruilles",
+   "campos": {
+    "texto": {
+     "general": "<p>En el Baix Empordà, entre campos, se alza este antiguo <b>monasterio benedictino</b> edificado a mediados del siglo XI y documentado en 1057, cuando la condesa <b>Ermesenda</b> lo unió al monasterio piamontés de San Michele della Chiusa. Desde 1144 tuvo bajo su mando el monasterio de Sant Genís de Rocafort y la parroquia de Santa Eulàlia de Cruïlles.</p><p>Su iglesia tiene planta basilical de <b>tres naves</b>, transepto y <b>tres ábsides</b> semicirculares con decoración lombarda de arquillos ciegos y lesenas. Las naves se cubren con bóveda de cañón sobre pilares en cruz. Sobre el crucero, una cúpula semiesférica asoma al exterior como cimborrio; el campanario cuadrado se añadió en los siglos XVI-XVII. El monasterio fue saqueado en 1485, durante la guerra de los remensas, y en 1592, cuando solo quedaban un prior y un monje, el papa Clemente VIII lo unió a Sant Pere de Galligans de Girona.</p><p>En 1930 se retiró su retablo gótico de <b>Lluís Borrassà</b> para llevarlo al Museu d'Art de Girona, y al hacerlo aparecieron pinturas murales de mediados del siglo XII con la traición de Judas. El mismo museo guarda otra pieza de aquí, una Majestad coronada del siglo XII.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Miguel_(Cruilles)"
+    ]
+   }
+  },
+  {
+   "id": "casa-museu-dali-portlligat",
+   "campos": {
+    "texto": {
+     "general": "<p>En esta pequeña cala junto a Cadaqués vivió y trabajó <b>Salvador Dalí</b> desde 1930 hasta 1982. Empezó comprando a Lídia Nogués una <b>barraca de pescadores</b> en 1929 y fue anexionando otras durante cuarenta años, junto a <b>Gala</b>: nuevas plantas en 1935, la biblioteca en 1942, la última barraca en 1954, la Sala Oval en 1961 y una habitación para Gala en 1962… hasta unir varias barracas en una sola casa laberíntica.</p><p>La casa, decorada con innumerables <b>huevos</b>, mezcla lo popular con lo surrealista: un oso disecado regalo de Edward James hace de paragüero y lamparero, el taller conserva caballetes y pinceles, y en la habitación de los modelos está el busto de Nerón que inspiró <i>Desmaterialización de la nariz de Nerón</i> (1947). La <b>piscina</b> de 1967 tiene un sofá en forma de labios, surtidores con forma de cisne y carteles de Pirelli.</p><p>Tras la muerte de Gala en 1982, Dalí se instaló en el castillo de Púbol y no volvió. Las obras para convertir la casa en museo, a cargo de los arquitectos Oriol Clos y José Ramos, empezaron en 1994; es Bien de Interés Cultural desde 1997 y la gestiona la Fundació Gala-Salvador Dalí.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Casa-Museo_Salvador_Dal%C3%AD"
+    ]
+   }
+  },
+  {
+   "id": "monestir-de-sant-pere-de-camprodon",
+   "campos": {
+    "texto": {
+     "general": "<p>A comienzos del siglo X ya había aquí una iglesia dedicada a San Pedro, consagrada en 904. Hacia 950 el conde <b>Wifredo de Besalú</b> decidió fundar un monasterio en el valle de Camprodon, y en 952 ya había comunidad con su primer abad, Gaufred. En 1078 pasó a depender de la gran abadía borgoñona de <b>Cluny</b>, hasta 1461. Llegó a tener 25 monjes en su época de esplendor, en los siglos XI y XII.</p><p>La iglesia actual, de <b>mediados del siglo XII</b>, es austera: planta de cruz latina con <b>cuatro ábsides cuadrados</b>, el mayor tan ancho como la nave. Sobre el crucero se alza una cúpula revestida por fuera con una <b>linterna octogonal</b> que sirve de base a un campanario de dos pisos. Un terremoto en 1428 derribó el claustro y parte de la iglesia; algunos capiteles del claustro fueron a parar al Museu Diocesà de Girona.</p><p>La vida monástica terminó con la exclaustración de 1835, cuando apenas quedaban cinco monjes. Durante la ocupación napoleónica se perdieron las reliquias de san Patllari. En 1932 se derribaron las ruinas del monasterio y se restauró la iglesia, que perdió parte de su aspecto original. Dentro quedan restos de sepulcros de abades.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Pedro_(Camprod%C3%B3n)"
+    ]
+   }
+  },
+  {
+   "id": "monestir-de-sant-feliu-de-guixols",
+   "campos": {
+    "texto": {
+     "general": "<p>Junto al puerto de Sant Feliu de Guíxols, este monasterio benedictino está documentado desde <b>968</b>, cuando el rey franco Lotario dio al abad Sunyer el gobierno de Sant Pol de Mar y de Sant Feliu, aunque probablemente ya existía antes: el conde Sunyer, muerto en 947, le había donado bienes. En 1016 los condes Ramon Borrell y Ermesenda confirmaron sus posesiones, y para la conquista de Mallorca aportó 179 hombres.</p><p>Su elemento más singular es la <b>Porta Ferrada</b>, una fachada <b>prerrománica</b> con arcos de herradura, descubierta en una restauración de 1931 tras siglos tapada por otros edificios, quizá de un edificio carolingio, que hoy sirve de atrio a la iglesia. En el siglo XIV el conjunto se fortificó; quedan la <b>torre del Corn</b>, rectangular, y la <b>torre del Fum</b>, semicircular: según la tradición, desde una se avisaba con humo y desde la otra con un cuerno.</p><p>La iglesia es gótica, de una nave con crucero y tres ábsides poligonales, con parte de la nave aún románica. Desde la desamortización de 1835 es la parroquia de la villa. La antigua entrada al recinto es el barroco <b>Arc de Sant Benet</b>.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Fel%C3%ADu_de_Guixols"
+    ]
+   }
+  },
+  {
+   "id": "sant-cristofol-de-beget",
+   "campos": {
+    "texto": {
+     "general": "<p>Beget, un pequeño pueblo del Ripollès, en el término de Camprodon, conserva una iglesia románica muy completa. El valle aparece ya en 979, en el testamento del conde-obispo Miró, que lo cedió al monasterio de Sant Pere de Camprodon. En 1013 ese monasterio edificó aquí una iglesia; en 1168 ya era parroquia.</p><p>Lo más llamativo es su <b>campanario lombardo de cuatro pisos</b>, separados por frisos en dientes de sierra: los pisos bajos podrían ser de un templo anterior, del siglo X, y los dos superiores son del XII. La iglesia tiene una sola nave con bóveda de cañón apuntada y un ábside semicircular decorado por fuera con arquillos lombardos y dientes de sierra. La <b>portada sur</b> tiene cinco arquivoltas y capiteles con animales fantásticos.</p><p>Dentro guarda la <b>Majestat de Beget</b>, una talla románica policromada de Cristo en majestad del siglo XII, y una pila bautismal románica de inmersión de 120 cm de diámetro. El presbiterio y el altar mayor se rehicieron en 1787, y a finales del siglo XIX el pintor <b>Joaquim Vayreda</b> decoró las bóvedas. Es Bien Cultural de Interés Nacional.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Iglesia_de_San_Crist%C3%B3bal_(Beget)"
+    ]
+   }
+  },
+  {
+   "id": "castell-de-peralada",
+   "campos": {
+    "texto": {
+     "general": "<p>Peralada ya tenía castillo en el siglo IX, el llamado castillo Tolón, pero fue destruido en 1285 durante la invasión francesa del Empordà, la cruzada de Felipe III el Atrevido contra la Corona de Aragón, en la que también ardió la villa. A mediados del siglo XIV los vizcondes <b>Rocabertí</b> levantaron fuera de las murallas un nuevo palacio, origen del actual; en 1599 Felipe III de España nombró al vizconde Francesc Jofre de Rocabertí <b>conde de Peralada</b>.</p><p>La fachada oriental es renacentista y a finales del siglo XIX el edificio se amplió bajo la dirección del arquitecto francés Grant. En 1923 lo compró <b>Miquel Mateu</b>, que reunió en él una colección de vidrio, cerámica, pintura, libros y manuscritos, y patrocinó la colección de estudios eruditos «Biblioteca de Peralada».</p><p>Hoy sus jardines acogen cada verano, en julio y agosto, el <b>Festival Internacional de Música de Peralada</b>, y desde 1979 —se inauguró el 16 de agosto— el castillo alberga un casino. También es sede de una bodega, por lo que no se puede visitar entero.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Castillo_de_Peralada"
+    ]
+   }
+  },
+  {
+   "id": "villa-romana-de-vilauba",
+   "campos": {
+    "texto": {
+     "general": "<p>Entre campos, en el término de Camós, cerca de Banyoles, estos restos son de una de las <b>villas romanas mejor estudiadas de Cataluña</b>, imprescindible para entender el mundo rural romano y visigodo. Se descubrió en 1932 y desde 1978 se excava de forma sistemática bajo la dirección del Museu Arqueològic Comarcal de Banyoles.</p><p>Su larga vida permite seguir la evolución de una finca rural desde el Alto Imperio (siglos I-III) hasta el Bajo Imperio (IV-V). Entre los siglos VI y VIII, en época visigoda, la villa se transformó en un <b>vicus</b>, una pequeña aldea altomedieval. Muy cerca, en Mas Castell de Porqueres, hay una necrópolis e iglesias de las mismas épocas tardías.</p><p>Han salido monedas, cerámicas, herramientas de hueso, bronce y hierro, restos humanos, restos de animales y plantas carbonizados y <b>tres figuritas de bronce de un larario</b>, el altar doméstico romano. Hoy el yacimiento está restaurado y preparado para la visita.</p>"
+    },
+    "fuentes": [
+     "https://visitmuseum.gencat.cat/en/museum/vil-la-romana-de-vilauba"
+    ]
+   }
+  },
+  {
+   "id": "puig-rom",
+   "campos": {
+    "texto": {
+     "general": "<p>Sobre uno de los picos del Puig Rom, la montaña que corona Roses y domina su bahía, se alza un <b>recinto fortificado visigodo</b> habitado desde la segunda mitad del siglo VII hasta el primer cuarto del siglo VIII, es decir, hasta la llegada de los musulmanes. Se considera uno de los recintos fortificados de época visigoda mejor conservados.</p><p>Lo descubrieron en 1946 los arqueólogos <b>Lluís Pericot</b>, Francesc Riuró, Miquel Oliva y Pere de Palol, con ayuda de la Capitanía General de Cataluña. La muralla está hecha con dos paramentos rellenos de tierra y piedra menuda, y la puerta queda entre <b>dos torres cuadrangulares</b>. Dentro aparecieron monedas visigodas y romanas, herramientas agrícolas de hierro, hebillas de cinturón visigodas, adornos de origen bizantino, una cuchara visigoda y cerámica parecida a la de la necrópolis de Simancas.</p><p>Hoy se recorren al aire libre la puerta, la muralla y las casas de la cima, con amplias vistas sobre el golfo de Roses.</p>"
+    },
+    "fuentes": [
+     "https://visitacostabrava.com/en/what-to-visit/retreats/visigothic-castrum",
+     "https://es.wikipedia.org/wiki/Castrum_o_Ciudadela_visigoda_del_Puig_Rom"
+    ]
+   }
+  },
+  {
+   "id": "sant-quirze-de-colera",
+   "campos": {
+    "texto": {
+     "general": "<p>Escondido en un valle solitario de la sierra de l'Albera, en el término de Rabós, este monasterio benedictino está documentado desde el siglo IX. En 927 el conde Gausberto de Empúries le cedió tierras y su iglesia se consagró en <b>935</b>, de manos del obispo Guigó de Girona; en 1123 se celebró una segunda consagración, a cargo del obispo Berenguer Dalmau, con la iglesia bajo la advocación de los santos Quirze, Andreu y Benet.</p><p>La iglesia tiene <b>tres naves</b> cubiertas con bóveda de cañón y una cabecera de <b>tres ábsides semicirculares</b>; el central luce un friso de arquillos. Los arcos descansan sobre pilares en cruz, y la fachada oeste se rehízo en el siglo XII. Quedan restos del claustro, una torre de defensa y parte de la muralla. En la restauración aparecieron restos de pinturas románicas, y en el antiguo refectorio se hallaron tumbas antropomorfas que delatan una ocupación anterior, del siglo VIII.</p><p>En 1592 se unió a Sant Pere de Besalú, y con la desamortización de 1835 se subastó y pasó a manos privadas: lo compró el general Ramon Nouvilas.</p><p class=\"dato\"><span>¿Sabías que…?</span>En 1994 el ayuntamiento de Rabós lo compró a sus descendientes por un precio simbólico: mil pesetas.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Monasterio_de_San_Quirico_de_Colera"
+    ]
+   }
+  },
+  {
+   "id": "murallas-de-montblanc",
+   "campos": {
+    "texto": {
+     "general": "<p>Montblanc, fundada en 1163, tuvo pronto un primer cercado que protegía un pequeño castillo en el Pla de Santa Bàrbara. En el siglo XIV se rodeó de una gran <b>muralla</b>: las obras se encargaron hacia 1366, en el reinado de <b>Pedro el Ceremonioso</b>, a fray Guillem de Guimerà, en los años en que las Compañías Blancas de Du Guesclin acampaban cerca de la villa; la última intervención documentada es de 1396. Mide unos <b>1.700 metros</b>, con 6 m de altura media; la tradición habla de 34 torres, y hoy se ven 25, de unos 16 metros de alto.</p><p>La muralla sufrió en la guerra civil catalana del siglo XV y en 1651, durante la Guerra dels Segadors, cuando se bombardearon y derribaron tramos. Se conservan portales como el de <b>Sant Jordi</b>, salida hacia las montañas de Prades, y el del Bover, el más fácil de defender y el único con matacán. La tradición sitúa aquí, junto al Portal de Sant Jordi, la <b>leyenda de Sant Jordi y el dragón</b>.</p><p>El recinto es conjunto monumental desde 1947, y desde entonces se han restaurado tramos y quitado construcciones añadidas: hoy se ve más de un kilómetro del perímetro. Cada abril, la Setmana Medieval llena las calles en torno al día de Sant Jordi.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Muralla_de_Montblanc"
+    ]
+   }
+  },
+  {
+   "id": "monestir-de-santes-creus",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>monasterio cisterciense de Santes Creus</b>, a orillas del río Gaià, guarda los sepulcros de Pedro el Grande y de Jaime II con Blanca de Anjou. Su historia empezó en 1150, cuando Guillem Ramon de Montcada, senescal de Barcelona, dio tierras en Valldaura a monjes de la abadía de <b>Grandselve</b>, cerca de Toulouse; en 1160 la comunidad se trasladó a este paraje, donado por Guerau Alemany de Cervelló y otros nobles. La iglesia se empezó en 1174 y las principales dependencias se terminaron hacia 1225.</p><p>En la iglesia del monasterio está el sepulcro de <b>Pedro III el Grande</b>, el rey que en 1282 se convirtió en rey de Sicilia tras las Vísperas Sicilianas y que murió en 1285, poco después de rechazar la cruzada francesa contra Cataluña. Enfrente están los de su hijo <b>Jaime II</b> y su esposa Blanca de Anjou, bajo doseles góticos, labrados entre 1311 y 1315. Según la tradición, también fue enterrado aquí el almirante <b>Roger de Lauria</b>, muerto en 1305, a los pies de su rey. Pedro III mandó levantar además un palacio real, rehecho después por Jaime II y Pedro IV.</p><p>El <b>claustro gótico</b> (1313-1341), trazado por Reinard des Fonoll, fue el primero de este estilo en la Corona de Aragón. Junto a él están la sala capitular románica y el gran dormitorio. Tras la desamortización de 1835 los monjes se fueron y es hoy el único monasterio de la Ruta del Císter sin vida monástica. Es monumento nacional desde 1921.</p>"
+    },
+    "fuentes": [
+     "https://patrimoni.gencat.cat/ca/monuments/monuments/reial-monestir-de-santes-creus",
+     "https://es.wikipedia.org/wiki/Monasterio_de_Santes_Creus"
+    ]
+   }
+  },
+  {
+   "id": "monestir-de-poblet",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>monasterio cisterciense de Poblet</b>, en la Conca de Barberà, es el panteón de los reyes de la Corona de Aragón, como Jaime I; sigue habitado por monjes y es <b>Patrimonio Mundial desde 1991</b>. Lo fundó hacia 1150-1151 el conde <b>Ramon Berenguer IV</b>, que cedió estas tierras a monjes llegados de Francia, de la abadía de Fontfroide; la primera comunidad se instaló en 1153 y la iglesia se levantó entre 1162 y 1196.</p><p><b>Jaime I</b>, el rey que conquistó Mallorca y Valencia y firmó en 1258 el tratado de Corbeil, murió en Alzira en 1276 y pidió ser enterrado en Poblet. En 1340 <b>Pedro IV el Ceremonioso</b>, que recuperó Mallorca en 1343, creó el gran panteón real; aquí reposan también Alfonso II, Juan I, Martín el Humano, Fernando I, Alfonso el Magnánimo y Juan II, con varias de sus reinas. Los sepulcros reales fueron saqueados en 1835, tras la desamortización, y restaurados en el siglo XX por el escultor <b>Frederic Marès</b>; los restos de Jaime I volvieron a Poblet en 1952. En 1940 lo refundaron monjes cistercienses italianos.</p><p>El recinto de clausura está rodeado por una muralla de 608 metros, 11 de altura y 12 torres, a la que se entra por la <b>Puerta Real</b>, del siglo XIV. Dentro esperan el claustro, la sala capitular y, en la iglesia, el gran retablo de alabastro de Damià Forment.</p>"
+    },
+    "fuentes": [
+     "https://www.poblet.cat/ca/visita-turistica/",
+     "https://es.wikipedia.org/wiki/Monasterio_de_Poblet",
+     "https://en.wikipedia.org/wiki/Poblet_Monastery"
+    ]
+   }
+  },
+  {
+   "id": "els-munts",
+   "campos": {
+    "texto": {
+     "general": "<p>Junto a la playa de <b>Altafulla</b>, cerca de Tarraco, se levantó en el siglo I d. C. una lujosa villa que estuvo habitada hasta el siglo V y se abandonó entre los siglos VI y VII. Su gran momento constructivo llegó hacia mediados del siglo II, y hacia el año 260 un incendio destruyó casi todos sus edificios, que luego se reconstruyeron.</p><p>Se relaciona con <b>Caius Valerius Avitus</b>, magistrado (duunviro) de Tarraco que antes había gobernado Augustobriga, en la actual Soria, y su mujer <b>Faustina</b>. Los mármoles, las esculturas y las pinturas murales hallados muestran el lujo en que vivían sus dueños: una casa de dos plantas con un pasillo porticado en forma de L decorado con mosaicos, un pórtico con vistas al mar, cisternas en lo alto del cerro, jardines y <b>termas</b> con vestuarios, piscinas de agua fría y caliente, sauna, letrinas y hornos. Un segundo conjunto termal, más pequeño, quedó en parte bajo la playa.</p><p>Ya en el siglo XVI se conocía el lugar por los muros que asomaban. El Museo Nacional Arqueológico de Tarragona la excava desde 1967 y guarda sus mejores piezas; forma parte del conjunto arqueológico de Tarraco, Patrimonio Mundial desde 2000.</p>"
+    },
+    "fuentes": [
+     "https://www.mnat.cat/en/the-roman-villa-of-els-munts/",
+     "https://www.spain.info/es/lugares-interes/villa-romana-munts/",
+     "https://costadaurada.info/en/node/2450",
+     "https://es.hispanopedia.com/wiki/Villa_dels_Munts"
+    ]
+   }
+  },
+  {
+   "id": "centcelles",
+   "campos": {
+    "texto": {
+     "general": "<p>En Constantí, a unos 7 km de Tarragona y junto al río Francolí, se alza un edificio con una cúpula de mosaico de casi un millón de teselas, del siglo IV; se discute si fue el mausoleo del emperador Constante. Formaba parte de una gran villa romana de los siglos I-II, reconstruida en el siglo IV. La sala, cuadrada por fuera y circular por dentro, tiene una cúpula de <b>10,60 metros</b> de diámetro con cuatro nichos en la base.</p><p>Su cúpula de mosaico es de la época de <b>Constantino</b> y sus hijos, y se ordena en tres franjas: abajo, una cacería de ciervos con redes, perros y jinetes; en medio, dieciséis escenas de la Biblia, como Noé, Jonás, Daniel entre los leones o la resurrección de Lázaro, en torno al Buen Pastor; y arriba, las estaciones y cuatro personajes entronizados. En los años cincuenta el arqueólogo alemán Helmut Schlunk propuso que fuera el mausoleo de <b>Constante</b>, hijo de Constantino, asesinado en 350 en el Rosellón, y bajo la sala apareció una cripta. Otros investigadores lo ven como la gran sala de una residencia de un alto cargo —en 2013 se propuso el cuartel del <i>comes Hispaniarum</i> Asterio—, y la cuestión sigue abierta.</p><p>En el siglo XIX la sala se adaptó como vivienda rural, con bodega y granero, y la subcripta se usó como lagar. Es monumento desde 1931 y Patrimonio Mundial, con Tarraco, desde 2000.</p>"
+    },
+    "fuentes": [
+     "https://www.mnat.cat/en/roman-complex-of-centcelles/",
+     "https://es.hispanopedia.com/wiki/Villa-mausoleo_de_Centcelles"
+    ]
+   }
+  },
+  {
+   "id": "celler-cooperatiu-pinell-de-brai",
+   "campos": {
+    "texto": {
+     "general": "<p>La bodega cooperativa del Pinell de Brai, en la Terra Alta, conocida como la <b>«catedral del vino»</b>, la levantó el arquitecto <b>Cèsar Martinell</b> entre <b>1918 y 1922</b> por encargo del sindicato agrícola cooperativo del pueblo. Es a la vez bodega y molino de aceite, y nació del auge del cooperativismo agrario catalán, que había empezado a finales del siglo XIX y que la Guerra Civil interrumpió.</p><p>El edificio está pensado como una cadena de trabajo, con muelle de descarga, nave de elaboración y naves de depósitos. Son cuatro naves contiguas: una, de dos plantas, alberga el molino de aceite, y las demás son bodega. Dentro, las naves principales son de planta basilical, con <b>arcos parabólicos de ladrillo</b> que sostienen la cubierta y ventanas pensadas para ventilar. Bajo el suelo, los depósitos cilíndricos de fermentación están separados por cámaras de aire aisladas: arquitectura al servicio del vino.</p><p>La fachada se organiza en tres niveles: zócalo de piedra, paramento liso y coronamiento. En el segundo luce el famoso <b>friso cerámico de Xavier Nogués</b>. Junto a la bodega se conserva la caseta del transformador, con zócalo de piedra y ladrillo visto. Es bien cultural de interés nacional, como monumento histórico, desde 2002.</p>"
+    },
+    "fuentes": [
+     "https://es.wikipedia.org/wiki/Bodega_Cooperativa_de_Pinell_de_Bray",
+     "https://www.openstreetmap.org/"
+    ]
+   }
+  },
+  {
+   "id": "pedrera-del-medol",
+   "campos": {
+    "texto": {
+     "general": "<p>De esta cantera salió buena parte de la piedra de <b>Tarraco</b>. Se explotó durante la República y el Imperio romanos: empezó en el siglo II a. C., para levantar la muralla, y en el siglo I d. C. surtió al foro provincial y al circo. Se calcula que se extrajeron unos <b>50.000 metros cúbicos</b> de una caliza dorada llamada «soldó».</p><p>El resultado es un gran tajo de más de 200 metros de largo, con paredes casi verticales de hasta 12 metros. En el centro, los romanos dejaron sin cortar una <b>aguja</b> como testigo para medir la piedra extraída: durante mucho tiempo se dijo que medía unos 16 metros, pero los estudios del Instituto Catalán de Arqueología Clásica la han medido en <b>unos 20</b>, y la fechan en época de Augusto.</p><p>La Vía Augusta pasaba muy cerca y por ella se llevaban los bloques a la ciudad, a unos 6 km; las excavaciones han hallado además, cerca del Bosc de la Marquesa, un muelle de carga de la piedra, un hallazgo único en Cataluña. Desde 2014 la cantera tiene itinerarios señalizados y un centro de interpretación. Forma parte del conjunto arqueológico de Tarraco, Patrimonio de la Humanidad desde <b>2000</b>.</p>"
+    },
+    "fuentes": [
+     "https://www.ancient-history-sites.com/sites/el-medol/",
+     "https://www.openstreetmap.org/",
+     "https://icac.cat/actualitat/noticies/2014/novetats-arqueologiques-de-la-pedrera-del-medol",
+     "https://www.spain.info/pt_BR/lugares-interesse/pedreira-romana-medol/"
+    ],
+    "ver_alli": [
+     "La aguja testigo, de unos 20 m, en el centro del tajo.",
+     "Las paredes cortadas a pico, con huellas de extracción.",
+     "Los miradores del sendero que rodea la cantera.",
+     "Empieza por el centro de interpretación para entender cómo se cortaba la piedra."
+    ]
+   }
+  },
+  {
+   "id": "abrics-de-l-ermita-ulldecona",
+   "campos": {
+    "texto": {
+     "general": "<p>En la sierra de Godall, junto a la ermita de la Pietat de Ulldecona, se encuentra el conjunto de <b>arte rupestre levantino</b> más importante de Cataluña. Las primeras pinturas se descubrieron por casualidad el 31 de marzo de <b>1975</b>: las encontró un chico del pueblo, Juan Ruiz, durante una salida del grupo infantil de espeleología local. Hoy se conocen <b>trece o catorce abrigos</b> decorados.</p><p>Fueron pintados hace unos <b>8.000 años</b>. Se cuentan 386 figuras a lo largo de casi 500 metros: 111 son <b>arqueros</b> y 82 animales de la zona, y el resto, huellas, rastros, flechas y fragmentos. Hay también figuras que se interpretan como divinidades o especialistas rituales; parecen contar creencias o relatos míticos ligados a la caza, y quizá señalaban lugares de reunión y celebración. El abrigo IV, en cambio, guarda arte esquemático y, pintados con carbón, barcos de los siglos XVII y XVIII, quizá exvotos ligados a la ermita.</p><p>Forman parte del Arte Rupestre del Arco Mediterráneo, <b>Patrimonio de la Humanidad desde 1998</b>. Junto a los abrigos, un centro de interpretación del Museu d'Arqueologia de Catalunya, abierto en 2005, muestra réplicas de las pinturas; los abrigos I y IV tienen escaleras y plataformas.</p>"
+    },
+    "fuentes": [
+     "https://patrimoni.gencat.cat/en/collection/abrics-de-lermita",
+     "https://www.openstreetmap.org/",
+     "https://www.diaridetarragona.com/ebre/232321/mig-segle-preservant-l-art-rupestre-a-ulldecona-mm23499489.html",
+     "https://www.diaridetarragona.com/ebre/Descobreixen-pintures-de-vaixells-del-segle-XVII-a-labric-IV-dUlldecona-20220312-0044.html"
+    ]
+   }
+  },
+  {
+   "id": "calafell",
+   "campos": {
+    "texto": {
+     "general": "<p>Junto a la costa, entre Calafell y Segur de Calafell, se levantó en el <b>siglo VI a. C.</b> un poblado fortificado de los íberos <b>cosetanos</b>, conocido también como Alorda Park o Les Toixoneres. Empezó siendo un pequeño asentamiento y llegó a ser uno de los poblados más destacados de los cosetanos, con unas 3 hectáreas. Estuvo habitado hasta la época de la <b>Segunda Guerra Púnica</b>, a finales del siglo III a. C.</p><p>Una fuerte muralla cerraba el poblado, y casi todo su interior se ha excavado: casas de una élite guerrera, la del jefe en el punto más alto, espacios de culto doméstico, un pozo, hornos de pan y torres de almacenaje. Tras más de treinta años de excavaciones, proyectos de la Universidad de Barcelona lo han <b>reconstruido a tamaño real</b> con arqueología experimental: casas con réplicas de objetos íberos, murallas y torres a las que se puede subir y la reproducción de un asalto romano con torre de asedio. La reconstrucción, que muestra el poblado en el siglo III a. C., se hizo en 1992, y funciona como museo didáctico.</p><p>Forma parte de la Ruta de los Íberos que coordina el Museu d'Arqueologia de Catalunya.</p>"
+    },
+    "fuentes": [
+     "https://www.penedesturisme.cat/en/what-to-do/iberian-citadel-calafell",
+     "https://patrimoni.gencat.cat/en/node/11493"
+    ]
+   }
+  }
+ ]
+}
