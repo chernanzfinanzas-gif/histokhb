@@ -1917,6 +1917,106 @@
    "viva_tipo": "camara",
    "d": 372,
    "voz_d": "Despina"
+  },
+  "med2-13": {
+   "viva": "img/vivas/med2-13.mp4",
+   "viva_tipo": "veo"
+  },
+  "des-angkor": {
+   "viva": "img/vivas/des-angkor.mp4",
+   "viva_tipo": "veo"
+  },
+  "med2-5": {
+   "viva": "img/vivas/med2-5.mp4",
+   "viva_tipo": "veo"
+  },
+  "med2-0": {
+   "viva": "img/vivas/med2-0.mp4",
+   "viva_tipo": "camara"
+  },
+  "med2-1": {
+   "viva": "img/vivas/med2-1.mp4",
+   "viva_tipo": "camara"
+  },
+  "med2-2": {
+   "viva": "img/vivas/med2-2.mp4",
+   "viva_tipo": "camara"
+  },
+  "med2-3": {
+   "viva": "img/vivas/med2-3.mp4",
+   "viva_tipo": "camara"
+  },
+  "med2-4": {
+   "viva": "img/vivas/med2-4.mp4",
+   "viva_tipo": "camara"
+  },
+  "med2-6": {
+   "viva": "img/vivas/med2-6.mp4",
+   "viva_tipo": "camara"
+  },
+  "med2-7": {
+   "viva": "img/vivas/med2-7.mp4",
+   "viva_tipo": "camara"
+  },
+  "med2-8": {
+   "viva": "img/vivas/med2-8.mp4",
+   "viva_tipo": "camara"
+  },
+  "med2-9": {
+   "viva": "img/vivas/med2-9.mp4",
+   "viva_tipo": "camara"
+  },
+  "med2-10": {
+   "viva": "img/vivas/med2-10.mp4",
+   "viva_tipo": "camara"
+  },
+  "med2-11": {
+   "viva": "img/vivas/med2-11.mp4",
+   "viva_tipo": "camara"
+  },
+  "med2-12": {
+   "viva": "img/vivas/med2-12.mp4",
+   "viva_tipo": "camara"
+  },
+  "med2-14": {
+   "viva": "img/vivas/med2-14.mp4",
+   "viva_tipo": "camara"
+  },
+  "med2-15": {
+   "viva": "img/vivas/med2-15.mp4",
+   "viva_tipo": "camara"
+  },
+  "med2-16": {
+   "viva": "img/vivas/med2-16.mp4",
+   "viva_tipo": "camara"
+  },
+  "med2-17": {
+   "viva": "img/vivas/med2-17.mp4",
+   "viva_tipo": "camara"
+  },
+  "med2-18": {
+   "viva": "img/vivas/med2-18.mp4",
+   "viva_tipo": "camara"
+  },
+  "med2-19": {
+   "viva": "img/vivas/med2-19.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-mezquita": {
+   "viva": "img/vivas/des-mezquita.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-azahara": {
+   "viva": "img/vivas/des-azahara.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-naranco": {
+   "viva": "img/vivas/des-naranco.mp4",
+   "viva_tipo": "camara"
+  },
+  "des-anse": {
+   "viva": "img/vivas/des-anse.mp4",
+   "viva_tipo": "camara"
   }
  }
 }
