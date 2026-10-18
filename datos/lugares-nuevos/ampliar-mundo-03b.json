@@ -1,0 +1,391 @@
+{
+ "zona": "Ampliar mundo-03b",
+ "nuevos": [],
+ "cambios": [
+  {
+   "id": "santuario-de-eleusis",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>santuario de Deméter y de su hija Perséfone</b> en Eleusis fue el escenario de los <b>Misterios de Eleusis</b>, los ritos secretos más famosos de la antigua Grecia, que prometían a los iniciados una suerte mejor después de la muerte. Bajo el gran salón de iniciación se han hallado restos de un edificio de época micénica, y el culto, de raíz agrícola, duró casi dos mil años, hasta que el emperador <b>Teodosio I</b> lo cerró en el 392 d. C.; en el 396 los godos de <b>Alarico</b> saquearon lo que quedaba.</p><p>Con el tirano Pisístrato los Misterios se abrieron a todos los griegos. Cada año, miles de iniciados salían del Cerámico de Atenas y venían en procesión por la <b>Vía Sacra</b>. Tras ayunar y beber el <i>kykeon</i>, una bebida de cebada y poleo, entraban en el <b>Telesterion</b>, el salón de iniciación que diseñó Ictino, el arquitecto del Partenón, y que podía acoger a miles de personas. Divulgar lo que allí se veía se castigaba con la muerte, y nunca se reveló. Se inició aquí el emperador Adriano, y Marco Aurelio reconstruyó el templo tras el saqueo de los costobocos en el 170. Eleusis fue además la patria del trágico <b>Esquilo</b>.</p><p>Hoy, entre las fábricas de la moderna <b>Elefsina</b>, Capital Europea de la Cultura en 2023, se recorren los cimientos del Telesterion y la gruta del Plutonion, dedicada a Hades y Perséfone. El museo del recinto guarda piezas del santuario; el gran relieve de Deméter, Perséfone y Triptólemo está en el Museo Arqueológico Nacional de Atenas.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Eleusinian_Mysteries",
+     "https://en.wikipedia.org/wiki/Telesterion",
+     "https://en.wikipedia.org/wiki/Elefsina"
+    ]
+   }
+  },
+  {
+   "id": "esparta-y-su-museo",
+   "campos": {
+    "texto": {
+     "general": "<p>De la antigua <b>Esparta</b>, la ciudad guerrera que dominó el Peloponeso, queda muy poco, porque no tenía grandes murallas ni monumentos. Ya lo previó el historiador <b>Tucídides</b>: si la ciudad quedara desierta, las generaciones futuras no creerían que su poder estuvo a la altura de su fama. Su fuerza era su ejército: desde los siete años, los varones se formaban en la dura <b>agogé</b>, y en el 480 a. C. el rey <b>Leónidas</b> cayó con sus hombres en las Termópilas frente a los persas.</p><p>Se ven la acrópolis, con restos del santuario de Atenea Calcieco, el <b>teatro</b> y la llamada «tumba de Leónidas», un edificio de enormes bloques que quizá fue un templo. Junto al río Eurotas está el <b>santuario de Artemisa Ortia</b>, con culto desde el siglo X a. C., donde los jóvenes de la agogé eran azotados ante el altar en una prueba de resistencia, la <i>diamastigosis</i>. En el siglo III d. C. los romanos le añadieron un graderío para el público. Lo excavó la Escuela Británica de Atenas entre 1906 y 1910.</p><p>La ciudad moderna se fundó en 1834 por decreto del rey Otón. Tiene una estatua de Leónidas y un <b>Museo Arqueológico</b> de la década de 1870, uno de los más antiguos de Grecia, con hallazgos de Ortia, mosaicos romanos y el busto de guerrero del siglo V a. C. llamado «Leónidas»; muchas figurillas de plomo y máscaras de Ortia acabaron en Liverpool y en el Museo Británico.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Sparta",
+     "https://en.wikipedia.org/wiki/Sanctuary_of_Artemis_Orthia"
+    ]
+   }
+  },
+  {
+   "id": "meteora",
+   "campos": {
+    "texto": {
+     "general": "<p>Las <b>Meteora</b> son un conjunto de monasterios ortodoxos encaramados en lo alto de enormes columnas de arenisca, junto a Kalambaka, en Tesalia. Las rocas nacieron hace unos 60 millones de años, cuando movimientos de tierra levantaron el antiguo fondo marino y el agua, el viento y los cambios de temperatura fueron tallando las grietas. Desde hace más de mil años vivieron en sus huecos ermitaños que solo se reunían para rezar en una capilla al pie de la roca de Dupiani.</p><p>Los monasterios se fundaron en el <b>siglo XIV</b>, cuando avanzaban los otomanos. En 1344 llegó desde el monte Athos el monje <b>Atanasio el Meteorita</b>, que entre 1356 y 1372 fundó el <b>Gran Meteoro</b>, el mayor y más antiguo, con la protección del señor serbio Simeón Uroš. En su apogeo, en el siglo XVI, hubo 24 monasterios. Hasta los años 20 del siglo XX se subía por escaleras de cuerda o metido en <b>redes</b> izadas con un torno, y se decía que las cuerdas solo se cambiaban «cuando el Señor las dejaba romperse»; después se tallaron escalones en la roca.</p><p>Hoy <b>seis siguen habitados</b>, cuatro por monjes y dos por monjas; uno de ellos, San Esteban, es convento femenino desde 1961. Merece la pena Varlaam, el segundo en tamaño, con su museo de reliquias. Son Patrimonio Mundial desde 1988.</p><p class=\"dato\"><span>¿Sabías que…?</span>La reina María de Rumanía fue, en 1921, la primera mujer a la que se permitió entrar en el Gran Meteoro.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Meteora"
+    ]
+   }
+  },
+  {
+   "id": "templo-de-zeus-olimpico",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Olimpieion</b> fue el templo más grande de Grecia en época romana. Hacia el 520 a. C. lo empezaron <b>Hipias e Hiparco</b>, hijos del tirano Pisístrato, que soñaban con el mayor templo del mundo antiguo, de piedra caliza y orden dórico. Al caer la tiranía, en el 510 a. C., las obras se pararon; Aristóteles lo puso como ejemplo de cómo los tiranos tenían ocupado al pueblo con grandes obras para que no se rebelara.</p><p>En el 174 a. C. el rey seléucida <b>Antíoco IV</b> lo retomó con el arquitecto romano Decimo Cosucio, que lo pasó a mármol del Pentélico y a orden <b>corintio</b>, por primera vez en el exterior de un gran templo. Volvió a quedar a medias, y en el 86 a. C. Sila se llevó varias columnas a Roma para el templo de Júpiter del Capitolio. Lo terminó por fin el emperador <b>Adriano</b>, que lo dedicó hacia el 131-132 d. C., más de 600 años después de empezarse. Dentro se alzaba una colosal estatua de Zeus de oro y marfil, y detrás, otra gigantesca de Adriano.</p><p>Tenía <b>104 columnas</b> de unos 17 metros de altura. Quedan <b>15 en pie</b>, y una más yace en el suelo desde que la derribó una tormenta en 1852; en 1759 un gobernador otomano voló otra con pólvora para hacer cal. Al lado se levanta el <b>Arco de Adriano</b>.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Temple_of_Olympian_Zeus,_Athens"
+    ]
+   }
+  },
+  {
+   "id": "antigua-corinto-y-acrocorinto",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Corinto</b> fue una de las ciudades más ricas de Grecia gracias a su posición en el istmo, entre dos mares: tenía un puerto en cada golfo, Lequeo y Cencreas. En los siglos VII y VI a. C. la gobernaron los tiranos <b>Cípselo</b> y su hijo <b>Periandro</b>, uno de los Siete Sabios, que construyó el <i>Diolkos</i>, una calzada de piedra para arrastrar barcos de un mar al otro. En el 146 a. C. el general romano Lucio Mumio la arrasó; <b>Julio César</b> la refundó como colonia romana en el 44 a. C., y llegó a ser la capital de la provincia de Acaya.</p><p>Aquí vivió dieciocho meses el apóstol <b>San Pablo</b>, autor de las dos cartas a los Corintios del Nuevo Testamento. Según la tradición, en la tribuna o <i>bema</i> del foro fue juzgado ante el procónsul Galión, hermano de Séneca, hacia el 51-52 d. C.</p><p>Lo más llamativo es el <b>templo de Apolo</b>, dórico, de hacia el 550 a. C.: de sus 38 columnas siguen en pie siete, visibles desde la Antigüedad. Alrededor se recorre el foro romano. Encima se alza el <b>Acrocorinto</b>, una roca habitada y fortificada desde época arcaica hasta el siglo XIX por macedonios, bizantinos, francos, venecianos y otomanos; en su cumbre hubo un templo de Afrodita, convertido luego en iglesia y en mezquita. Desde 1896 excava aquí la Escuela Americana de Atenas.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ancient_Corinth",
+     "https://en.wikipedia.org/wiki/Acrocorinth"
+    ]
+   }
+  },
+  {
+   "id": "dion",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Dion</b> era la ciudad sagrada de los antiguos macedonios, al pie del <b>monte Olimpo</b>. Su nombre viene de Zeus (<i>Dios</i>, «de Zeus»), y desde muy antiguo hubo aquí un gran altar a Zeus Olímpico y a las Musas, entre árboles, manantiales y un río navegable. A finales del siglo V a. C. el rey Arquelao I instituyó unos juegos de nueve días en honor de Zeus y las Musas, y aquí celebraban los reyes el año nuevo macedonio.</p><p><b>Filipo II</b> y <b>Alejandro Magno</b> festejaron en Dion sus victorias, y en el 334 a. C. Alejandro reunió aquí su ejército e hizo grandes sacrificios antes de partir a la conquista de Asia. Casandro rodeó la ciudad de murallas; los romanos la tomaron en el 169 a. C. y Octavio fundó en ella una colonia. Terremotos e inundaciones acabaron por despoblarla. El viajero inglés William Leake identificó sus ruinas en 1806, y desde 1973 la excava la Universidad Aristóteles de Tesalónica.</p><p>En el parque arqueológico se pasea entre agua y vegetación por los santuarios de Zeus, Deméter e <b>Isis</b>, la diosa egipcia cuyo culto se impuso aquí desde el siglo II a. C., las termas y la casa de Dioniso, con un mosaico excepcional. El museo guarda las estatuas del santuario de Isis y un <b>órgano hidráulico</b> del siglo II d. C., hallado en 1992: el más antiguo de su clase que se conoce en el mundo.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/249176654",
+     "https://en.wikipedia.org/wiki/Dion,_Pieria",
+     "https://en.wikipedia.org/wiki/Archaeological_Museum_of_Dion"
+    ]
+   }
+  },
+  {
+   "id": "delfos",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>santuario de Apolo</b> en Delfos, en la ladera del monte Parnaso, fue el oráculo más famoso del mundo griego: allí la sacerdotisa <b>Pitia</b> respondía a las consultas de ciudades y particulares. Según la leyenda, Zeus soltó dos águilas desde los extremos de la Tierra y se cruzaron sobre Delfos, que los griegos consideraban el centro del mundo, marcado por la piedra del <i>ómphalos</i>, el «ombligo». En el templo estaban grabadas máximas como «Conócete a ti mismo» y «Nada en exceso».</p><p>Las ciudades griegas llenaron la Vía Sacra de estatuas y «tesoros», pequeños edificios para guardar sus ofrendas; el más vistoso es el <b>tesoro de los atenienses</b>, reconstruido, que conmemoraba la victoria de Maratón en el 490 a. C. Más arriba están el <b>templo de Apolo</b>, el <b>teatro</b>, para unos 4.500 espectadores, y el <b>estadio</b>. Teodosio I acabó con el santuario hacia el 390 y sobre él creció la aldea de Kastri; para excavarlo, la Escuela Francesa de Atenas trasladó el pueblo y en 1893 empezó la «Gran Excavación».</p><p>Unos 800 metros más abajo está el santuario de <b>Atenea Pronaia</b>, con su <i>tholos</i>, un templo circular de hacia 380-360 a. C. del que se han vuelto a levantar tres columnas. El museo guarda el <b>Auriga</b> de bronce, de 1,8 metros y con ojos de vidrio incrustados, que dedicó Polizalo, tirano de Gela, por una victoria en la carrera de carros de los Juegos Píticos del 478 o del 474 a. C.; apareció en 1896. Delfos es Patrimonio Mundial.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Delphi",
+     "https://en.wikipedia.org/wiki/Charioteer_of_Delphi"
+    ]
+   }
+  },
+  {
+   "id": "festos",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Festos</b> fue el segundo gran palacio minoico de Creta, después de Cnosos. Se alza sobre una colina que domina la fértil llanura de <b>Mesará</b>, con vistas al <b>monte Ida</b> (Psiloritis). El palacio fue destruido y reconstruido varias veces a lo largo de unos tres siglos; el último se arruinó hacia el 1400 a. C., quizá por un terremoto, y ya no se rehízo. El historiador Diodoro cuenta que fue una de las tres ciudades fundadas por el rey Minos. La ciudad griega posterior la destruyó su vecina Gortina a finales del siglo III a. C.</p><p>Lo excavaron entre 1900 y 1904 los italianos <b>Federico Halbherr</b> y <b>Luigi Pernier</b>, y las ruinas se conservan sin reconstrucciones modernas. El 3 de julio de 1908 Pernier halló en un sótano del palacio el <b>disco de Festos</b>, de barro cocido, con 242 signos de 45 tipos distintos estampados en espiral por las dos caras con sellos sueltos, como una imprenta primitiva. Nadie ha conseguido descifrarlo; hoy está en el Museo Arqueológico de Heraclión. Aquí aparecieron también decenas de documentos en lineal A.</p><p>Desde la escalinata monumental y el patio central se domina toda la llanura. A unos 3 km está <b>Hagia Triada</b>, una gran villa minoica ligada a Festos, donde salieron unas 150 tablillas en lineal A, el mayor conjunto conocido, el «vaso de los segadores» y un <b>sarcófago pintado</b> con escenas de ritos funerarios.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Phaistos",
+     "https://en.wikipedia.org/wiki/Phaistos_Disc",
+     "https://en.wikipedia.org/wiki/Hagia_Triada"
+    ]
+   }
+  },
+  {
+   "id": "nea-moni-de-quios",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Nea Moni</b> («Monasterio Nuevo») es un monasterio bizantino del siglo XI en el monte Provateio, en el interior de la isla de Quíos. Según la tradición, tres monjes, Nicetas, Juan y José, encontraron milagrosamente un icono de la Virgen colgado de una rama de mirto. Fueron a ver a <b>Constantino Monómaco</b>, desterrado en la vecina Lesbos, y le contaron una visión según la cual llegaría a emperador. Él prometió una iglesia si se cumplía, y al subir al trono, en 1042, la mandó construir junto con su esposa, la emperatriz Zoe. La iglesia principal se inauguró en 1049 y el conjunto se acabó en 1055.</p><p>Llegó a ser uno de los monasterios más ricos del Egeo: en su apogeo poseía un tercio de la isla y se calcula que tuvo hasta 800 monjes. Su decadencia empezó en abril de 1822, con la destrucción de Quíos durante la guerra de independencia: unas 2.000 personas se refugiaron en él, pero los otomanos lo asaltaron, hicieron una matanza y quemaron la iglesia con muchos refugiados dentro. En 1881 un terremoto hundió la cúpula y derribó el campanario de 1512. Desde 1952 es convento de monjas.</p><p>Lo que no hay que perderse son sus <b>mosaicos</b>, de gran expresividad, que junto con los de Dafni y Hosios Lukás están entre las mejores obras del arte bizantino en Grecia; dañados por el terremoto, se han restaurado. Es Patrimonio Mundial desde 1990.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Nea_Moni_of_Chios"
+    ]
+   }
+  },
+  {
+   "id": "pidna",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Pidna</b> fue una ciudad griega a orillas del golfo Termaico que ya en el siglo V a. C. pertenecía al reino de Macedonia. En el 410 a. C. se rebeló, y el rey Arquelao I, tras tomarla, trasladó a sus habitantes 20 estadios tierra adentro, aunque a su muerte volvieron a la costa. Filipo II la recuperó en el 357 a. C. Tras la muerte de Alejandro Magno se refugió aquí su madre, <b>Olimpia</b>, con la viuda y el hijo del rey; Casandro la sitió, tomó la ciudad y la mandó matar en la primavera del 316 a. C.</p><p>El 22 de junio del 168 a. C., cerca de aquí, el romano <b>Emilio Paulo</b> derrotó a <b>Perseo</b>, el último rey de Macedonia: la flexibilidad de las legiones se impuso a la rígida falange. Fue el fin de la dinastía antigónida. Más tarde, con el nombre de Kitros, fue sede de un obispo y la ciudad más importante de Pieria hasta el siglo XIV.</p><p>El yacimiento está junto al mar, a 2,5 km de Makrygialos; la mitad oriental de la ciudad se la ha tragado el mar. Se ven restos de murallas, sobre todo bizantinas, y de la basílica episcopal de San Alejandro, que los francos convirtieron en fortaleza tras tomar la ciudad en 1204. Alrededor hay <b>túmulos</b> y tumbas macedonias, y una necrópolis con unas 3.000 tumbas de época clásica y helenística; parte de los hallazgos está en el museo de Makrygialos.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/694332498",
+     "https://en.wikipedia.org/wiki/Ancient_Pydna",
+     "https://en.wikipedia.org/wiki/Necropolises_of_Pydna",
+     "https://en.wikipedia.org/wiki/Battle_of_Pydna",
+     "https://en.wikipedia.org/wiki/Olympias",
+     "https://es.wikipedia.org/wiki/Pidna"
+    ]
+   }
+  },
+  {
+   "id": "templo-de-afaya-en-egina",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>templo de Afaya</b>, de orden dórico y construido hacia el 500 a. C., se alza en lo alto de un pinar al este de la isla de Egina y es uno de los templos griegos mejor conservados. Afaya era una diosa local parecida a Artemisa: según Pausanias, los eginetas la identificaban con Britomartis, una joven cretense que, huyendo del rey Minos, se arrojó a unas redes de pesca y a la que Artemisa convirtió en diosa. El templo se levantó sobre otro anterior que ardió hacia el 510 a. C., y durante mucho tiempo se creyó dedicado a Júpiter Panhelenio.</p><p>Sus <b>frontones</b>, con Atenea en el centro, mostraban a los héroes de Egina en las dos guerras de Troya, y son clave para entender el paso del arte arcaico al clásico; aún conservan restos de su pintura original. En 1811 el arquitecto inglés Charles Cockerell y el barón Stackelberg se llevaron las esculturas, que compró el príncipe heredero Luis de Baviera; restauradas por Thorvaldsen, están en la <b>Gliptoteca de Múnich</b>.</p><p>Egina fue rival de Atenas y la primera ciudad de Europa que acuñó moneda: las <b>«tortugas»</b>, estáteras con una tortuga marina. En el museo del recinto se ve una reconstrucción del frontón del templo más antiguo y copias de las esculturas del último.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Temple_of_Aphaia",
+     "https://en.wikipedia.org/wiki/Aegina"
+    ]
+   }
+  },
+  {
+   "id": "laurion-minas-de-plata",
+   "campos": {
+    "texto": {
+     "general": "<p>Las <b>minas de plata del Laurión</b>, en el sureste del Ática, a unos 60 km de Atenas, fueron una de las grandes fuentes de ingresos del Estado ateniense. Ya se extraía mineral a comienzos de la Edad del Bronce, hacia el 3200 a. C., y la explotación sistemática empezó en el siglo VI a. C., con Pisístrato. Las minas eran del Estado, que las arrendaba a particulares, y en ellas trabajaban exclusivamente esclavos.</p><p>Hacia el 483 a. C. se encontró una gran veta, y <b>Temístocles</b> convenció a los atenienses de dedicar esa riqueza a ampliar la flota hasta 200 trirremes: así nació el poder naval de Atenas. Con esta plata se acuñaban las monedas atenienses con la lechuza de Atenea, las <b>«lechuzas»</b> (<i>glaukes</i>), que circularon por todo el Mediterráneo. A finales del siglo V a. C. la producción cayó, en parte por la ocupación espartana de Decelia, y en tiempos de Estrabón ya solo se volvían a lavar las escorias. En el siglo XIX compañías francesas y griegas reabrieron las minas, sobre todo para sacar plomo, manganeso y cadmio, también de aquellas escorias antiguas; en 1896 una huelga minera terminó a tiros.</p><p>Todavía se conservan <b>pozos, galerías y lavaderos</b> de mineral de época antigua. En la ciudad de Laurio, levantada donde estuvo la antigua Tórico, el <b>Museo Arqueológico</b> cuenta la historia de las minas y el Museo Mineralógico reúne minerales de la comarca.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Lavrio",
+     "https://en.wikipedia.org/wiki/Owl_of_Athena"
+    ]
+   }
+  },
+  {
+   "id": "mesene",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Mesene</b> fue fundada en el 369 a. C. por el general tebano <b>Epaminondas</b>, que tras derrotar a Esparta en Leuctra (371 a. C.) invadió el Peloponeso y liberó a los mesenios, sometidos durante siglos como ilotas de los espartanos. La levantó sobre las ruinas de la antigua Itome e invitó a volver a los mesenios exiliados. Según Pausanias, la ciudad amurallada se construyó en solo 85 días, e incluía dentro de sus muros el monte Itome, que hacía de acrópolis, además de tierras de cultivo y manantiales para resistir cualquier asedio.</p><p>Su <b>muralla</b>, de unos 9 km, es uno de los mejores ejemplos conservados de fortificación griega: tenía torres de dos pisos de unos 9 m de altura, y la <b>puerta de Arcadia</b> conserva un patio circular de unos 18 m de diámetro y un dintel de una sola piedra de 5,7 m. Como nadie construyó encima, la ciudad está casi intacta; desde 1986 la excava el arqueólogo Petros Themelis.</p><p>Se recorren el teatro, el ágora, el <b>santuario de Asclepio</b>, el buleuterio o sala del consejo y, en la parte baja, el <b>estadio</b> rodeado de columnas, con el <b>heroon</b>, un pequeño templo funerario, restaurados con cuidado. El pueblo de Mavromati ocupa la parte alta de la ciudad antigua, junto a la fuente Clepsidra, y el museo guarda los hallazgos.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Messene",
+     "https://es.wikipedia.org/wiki/Mesene"
+    ]
+   }
+  },
+  {
+   "id": "mistra",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Mistrá</b> nació como un castillo: hacia 1249 el príncipe franco <b>Guillermo II de Villehardouin</b> levantó una fortaleza en una ladera del Taigeto, sobre Esparta. En 1259 los bizantinos lo capturaron en la batalla de Pelagonia, y en 1262 tuvo que entregarles Mistrá a cambio de su libertad. Los habitantes de Esparta se fueron mudando a la ciudad que crecía a la sombra del castillo, y desde 1349 fue la capital del <b>Despotado de Morea</b>.</p><p>En los siglos XIV y XV vivió un gran florecimiento cultural: aquí enseñó el filósofo <b>Jorge Gemisto Pletón</b>, que influyó en el Renacimiento italiano, y fue déspota <b>Constantino XI Paleólogo</b> antes de ser el último emperador bizantino. En 1460 se rindió al sultán Mehmed II. Los venecianos la ocuparon de 1687 a 1715; se sumó a la revuelta de Orlov de 1770 y fue saqueada, y en la década de 1830 se abandonó cuando se fundó la nueva Esparta, a unos 8 km.</p><p>Hay que subir a pie por callejuelas empinadas entre casas en ruinas, el <b>palacio de los déspotas</b>, el único palacio bizantino que se conserva, e iglesias con <b>frescos de los siglos XIV y XV</b>, como la Peribleptos. El monasterio de la <b>Pantanassa</b> sigue habitado por monjas, las únicas habitantes de Mistrá. Es Patrimonio Mundial desde 1989.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Mystras"
+    ]
+   }
+  },
+  {
+   "id": "monasterio-de-dafni",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>monasterio de Dafni</b> está en Chaidari, a las afueras de Atenas, junto a la antigua <b>Vía Sacra</b> que llevaba a Eleusis. Su nombre significa «bosque de laureles», y ocupa el lugar de un <b>santuario de Apolo</b> que profanaron los godos en el 395. El monasterio se fundó a finales del siglo VI, y en una época de prosperidad, en los siglos XI y XII, se rehízo con una nueva iglesia octogonal, un refectorio y una capilla funeraria. Una de las columnas jónicas del templo de Apolo quedó empotrada en el muro de la iglesia; las demás se las llevó a Londres lord Elgin y están en el Museo Británico.</p><p>Tras el saqueo de los cruzados en 1205, el duque de Atenas Otón de la Roche lo entregó a los <b>monjes cistercienses</b> franceses de la abadía de Bellevaux, que añadieron un claustro y arcos góticos apuntados en la fachada, y lo convirtieron en lugar de enterramiento de caballeros. En 1458, con la llegada de los turcos, lo abandonaron y pasó a monjes ortodoxos. Su restauración comenzó en 1888, y el <b>terremoto de 1999</b> lo dañó gravemente.</p><p>Lo que no hay que perderse son sus <b>mosaicos</b> de fondo de oro, de hacia el 1100, entre los mejores del arte bizantino: en la cúpula, un severo <b>Cristo Pantocrátor</b> rodeado de dieciséis profetas, y escenas de la Vida de Cristo y de la Virgen. Es Patrimonio Mundial desde 1990, junto con Hosios Lukás y Nea Moni.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Daphni_Monastery",
+     "https://es.wikipedia.org/wiki/Monasterio_de_Dafni"
+    ]
+   }
+  },
+  {
+   "id": "templo-de-poseidon-en-sunion",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>templo de Poseidón</b> de Sunión se construyó en mármol entre el 444 y el 440 a. C., en tiempos de Pericles, que también reconstruía el Partenón. Se alza en lo alto de un acantilado del cabo Sunión, en la punta sur del Ática, sobre los restos de un templo arcaico que probablemente destruyeron los persas de Jerjes en el 480 a. C.</p><p>Ya la <i>Odisea</i> habla del «sagrado Sunión, cabo de los atenienses», donde murió Frontis, el timonel de Menelao, al volver de Troya. Los barcos que se acercaban al Ática lo veían desde lejos, y en el siglo VI a. C. Atenas celebraba aquí una fiesta cada cuatro años con una nave sagrada. Según el mito, el rey <b>Egeo</b>, al ver regresar el barco de su hijo Teseo con velas negras, lo creyó muerto tras su lucha con el Minotauro y se arrojó al mar, que por eso se llama Egeo (otras versiones lo hacen saltar desde la Acrópolis).</p><p>De pie quedan varias columnas dóricas, tantas que en el siglo XVII al cabo se le llamaba <i>Capo Colonne</i>. En la base de una se lee el nombre de <b>Lord Byron</b>, que visitó Sunión en 1810-1811, aunque no hay prueba de que lo grabara él. Junto al templo se halló en 1906 el <b>kurós de Sunión</b>, una estatua votiva de un joven. Es famoso por sus puestas de sol sobre el mar.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Temple_of_Poseidon,_Sounion",
+     "https://en.wikipedia.org/wiki/Sounion",
+     "https://en.wikipedia.org/wiki/Aegeus"
+    ]
+   }
+  },
+  {
+   "id": "museo-arqueologico-de-heraclion",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Arqueológico de Heraclión</b> es el mejor del mundo para conocer la civilización minoica: reúne casi todo su arte, junto con piezas de más de 5.500 años de historia de Creta, del Neolítico a la época romana. Nació en 1883 como una simple colección, cuando empezaban a descubrirse los palacios minoicos. Tras los terremotos de 1926, 1930 y 1935 el primer edificio estuvo a punto de hundirse, y el arqueólogo <b>Spyridon Marinatos</b>, que dirigió el museo entre 1929 y 1937, consiguió que se levantara uno nuevo antisísmico, obra de Patroklos Karantinos (1937-1940), que resistió los bombardeos de 1941. Marinatos fue también quien en 1939 relacionó la erupción del volcán de Thera con el declive minoico.</p><p>Aquí están los <b>frescos originales</b> de los palacios —el salto del toro, los delfines, las damas de azul—, la diosa de las serpientes, joyas y el <b>disco de Festos</b>, hallado en 1908. También hay tablillas en <b>lineal A</b>, la escritura minoica que nadie sabe leer, y en <b>lineal B</b>, una forma arcaica de griego, la más antigua escrita, que descifró en 1952 el arquitecto inglés Michael Ventris.</p><p>Es el complemento natural de la visita a Cnosos y Festos, porque en él están los originales de lo hallado en los palacios. El museo se renovó a fondo y reabrió en 2013.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Heraklion_Archaeological_Museum",
+     "https://en.wikipedia.org/wiki/Spyridon_Marinatos",
+     "https://en.wikipedia.org/wiki/Michael_Ventris",
+     "https://en.wikipedia.org/wiki/Phaistos_Disc"
+    ]
+   }
+  },
+  {
+   "id": "fortaleza-de-palamidi",
+   "campos": {
+    "texto": {
+     "general": "<p>Los venecianos levantaron esta enorme fortaleza entre <b>1711 y 1714</b>, durante su segunda ocupación de la zona (1686-1715), en lo alto de una colina de 216 metros que domina Nauplia y el golfo Argólico. Es una típica fortaleza barroca, con planos del ingeniero Antonio Giancix (Antun Jančić), y la construyó el ingeniero militar francés Pierre de la Salle. Apenas terminada, en <b>1715</b>, la tomaron los otomanos, que la conservaron más de un siglo.</p><p>En <b>1822</b>, durante la guerra de independencia, los griegos la conquistaron en el asedio de Nauplia. Sus <b>ocho bastiones</b> cambiaron de nombre con cada dueño: primero llevaron los de los gobernadores venecianos, luego nombres turcos y al final los de héroes de la Grecia antigua, como Epaminondas, Milcíades, Leónidas, Foción, Aquiles y Temístocles; los otros dos se dedicaron a San Andrés y al filoheleno francés Robert, muerto en la Acrópolis de Atenas. El bastión de Milcíades sirvió después de cárcel, y en él estuvo preso <b>Theodoros Kolokotronis</b>, el gran héroe de la revolución griega, vencedor de los otomanos en Dervenakia en 1822.</p><p>Se puede subir a pie desde Nauplia por una larga escalera de piedra, o en coche hasta la entrada; desde las murallas se domina toda la ciudad y el golfo.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Palamidi",
+     "https://www.openstreetmap.org/relation/3734604",
+     "https://en.wikipedia.org/wiki/Theodoros_Kolokotronis"
+    ]
+   }
+  },
+  {
+   "id": "museo-arqueologico-nacional-de-atenas",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Museo Arqueológico Nacional</b> de Atenas es el mayor museo de arte griego antiguo. El primer museo nacional lo fundó Ioannis Kapodistrias en Egina en 1829; el edificio actual, neoclásico, se levantó entre 1866 y 1889 en un solar donado por Eleni Tositsa, con proyecto de Ludwig Lange modificado por Panagis Kalkos y Ernst Ziller.</p><p>En las salas micénicas brillan los tesoros de las tumbas de pozo de Micenas que <b>Heinrich Schliemann</b> excavó en 1876, con la máscara de oro que él llamó «de Agamenón», aunque es unos 300-400 años anterior a la guerra de Troya. Hay ídolos cicládicos de mármol de Delos y Keros. Entre los bronces destacan el <b>dios de Artemisión</b>, Poseidón o, para la mayoría, Zeus, algo mayor que el natural, y el <b>jinete niño</b>, de hacia el 140 a. C., ambos rescatados del mar; y del pecio de Anticitera, el <b>mecanismo de Anticitera</b>, del siglo II a. C., un calculador astronómico que pasa por ser el ordenador analógico más antiguo conocido.</p><p>Su <b>sala de Thera</b> guarda varios de los grandes <b>frescos de Akrotiri</b>, la ciudad que sepultó la erupción del volcán en el siglo XVI a. C.: el fresco de la primavera, con lirios y golondrinas, y el de los niños boxeadores. Además de miles de estatuas y vasos, tiene una de las mejores colecciones de arte egipcio del mundo, con más de 6.000 piezas.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/National_Archaeological_Museum,_Athens",
+     "https://en.wikipedia.org/wiki/Mask_of_Agamemnon",
+     "https://en.wikipedia.org/wiki/Artemision_Bronze",
+     "https://en.wikipedia.org/wiki/Jockey_of_Artemision",
+     "https://en.wikipedia.org/wiki/Antikythera_mechanism",
+     "https://en.wikipedia.org/wiki/Akrotiri_(prehistoric_city)",
+     "https://www.greeka.com/cyclades/santorini/news/events/thera-gallery-reopens-its-doors/"
+    ]
+   }
+  },
+  {
+   "id": "fortaleza-vieja-de-corfu",
+   "campos": {
+    "texto": {
+     "general": "<p>Corfú estuvo en manos de <b>Venecia</b> de 1386 a 1797, y su ciudad, conocida desde la Edad Media como <i>Kastropolis</i>, la «ciudad de los castillos», fue la llave del Adriático. La <b>Fortaleza Vieja</b> ocupa el promontorio donde nació la ciudad en época bizantina, con dos cumbres que los bizantinos ya fortificaron hacia el siglo XII. Los venecianos la separaron de la ciudad con la <i>Contrafossa</i>, un foso artificial de agua de mar que la convirtió en una isla, y entre 1545 y 1555 sus ingenieros Savorgnan y Martinengo diseñaron los bastiones que aún se conservan.</p><p>Sus defensas resistieron los asedios otomanos de <b>1537, 1571, 1573 y 1716</b>. En 1537 el almirante Barbarroja desembarcó con 25.000 hombres, y en 1716 el conde Schulenburg dirigió una defensa que duró siete semanas. Gracias a Venecia, Corfú fue la única parte de Grecia que los otomanos nunca conquistaron.</p><p>Tras los venecianos llegaron los británicos, que en 1815 levantaron el Palacio de San Miguel y San Jorge, de piedra blanca de Malta, y trajeron el <b>críquet</b>: Corfú es el único lugar de Grecia donde este deporte es popular. La ciudad vieja, con sus calles estrechas, sus casas de varios pisos y la galería porticada del <b>Liston</b>, es Patrimonio de la Humanidad desde 2007.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Old_Town_of_Corfu",
+     "https://www.openstreetmap.org/way/624275904",
+     "https://en.wikipedia.org/wiki/Old_Fortress,_Corfu",
+     "https://en.wikipedia.org/wiki/Corfu_(city)"
+    ]
+   }
+  },
+  {
+   "id": "iglesias-pintadas-de-troodos",
+   "campos": {
+    "texto": {
+     "general": "<p>En los <b>montes Troodos</b>, en el centro de Chipre, se conservan diez iglesias y monasterios bizantinos de los siglos XI al XVI, con las paredes cubiertas de pinturas bizantinas y posbizantinas. Chipre volvió al Imperio bizantino en el 965, y durante los cinco siglos siguientes estas montañas se llenaron de iglesias, hasta formar una de las mayores concentraciones de iglesias y monasterios de todo el antiguo imperio. La UNESCO declaró nueve de ellas Patrimonio de la Humanidad en 1985 y añadió la de Palaichori en 2001.</p><p>Por fuera parecen sencillas casas de campo: tienen <b>tejados de madera muy inclinados</b>, cubiertos de tejas, un rasgo propio de Chipre; la capilla de la Virgen de Moutoullas, del siglo XIII, es el ejemplo más antiguo. Por dentro, en cambio, todo está pintado.</p><p>La más antigua es <i>Agios Nikolaos tis Stegis</i> (San Nicolás), en Kakopetria, del siglo XI, la iglesia monástica más antigua que se conserva en la isla. No hay que perderse la <b>Virgen de Asinou</b>, cerca de Nikitari, del siglo XII, con frescos de esa época y posteriores que están entre lo mejor de la pintura bizantina de Chipre, ni la Virgen de Arakas, en Lagoudera, también del XII. Completan el conjunto San Juan Lampadistis, en Kalopanagiotis; el Arcángel Miguel, en Pedoulas; la Santa Cruz de Pelendri, con pinturas únicas del siglo XIV; la Virgen Podithou, en Galata, y la Santa Cruz de Platanistasa.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/277512413",
+     "https://en.wikipedia.org/wiki/Painted_Churches_in_the_Troodos_Region",
+     "https://en.wikipedia.org/wiki/Nikitari"
+    ]
+   }
+  },
+  {
+   "id": "choirokoitia",
+   "campos": {
+    "texto": {
+     "general": "<p>Hacia el 7000 a. C., según las dataciones por radiocarbono, unos campesinos levantaron en esta ladera del valle del río Maroni, a unos 6 km del mar, una aldea de <b>casas redondas</b> de piedra y adobe, de 2 a 9 metros de diámetro, agrupadas alrededor de patios que quizá correspondían a familias. Un muro de unos 2,5 metros de grosor la aislaba del exterior. Vivían en ella a la vez entre 300 y 600 personas, que cultivaban trigo, cebada y lentejas, criaban ovejas, cabras y cerdos y cazaban ciervos.</p><p>A los muertos se los enterraba encogidos bajo el suelo de las casas, a veces con ofrendas, quizá por un culto a los antepasados. La aldea se abandonó de repente hacia el 6000 a. C., sin que se sepa por qué. El yacimiento lo descubrió en 1934 <b>Porfirios Dikaios</b>, que lo excavó hasta 1946 y al principio lo creyó del 4000 a. C.; desde 1977 trabaja aquí una misión francesa dirigida por Alain Le Brun.</p><p>Es uno de los yacimientos prehistóricos más importantes y mejor conservados del Mediterráneo oriental, y Patrimonio de la Humanidad desde 1998. Al pie de la colina, unas casas reconstruidas ayudan a imaginar cómo era la aldea.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Choirokoitia",
+     "https://www.openstreetmap.org/way/1101925644",
+     "https://en.wikipedia.org/wiki/Khirokitia"
+    ]
+   }
+  },
+  {
+   "id": "iglesia-de-boyana",
+   "campos": {
+    "texto": {
+     "general": "<p>La <b>iglesia de Boyana</b>, en las afueras de Sofía, al pie del monte Vitosha, se construyó en tres etapas: la parte oriental, una pequeña iglesia, a finales del siglo X o comienzos del XI; la central, de dos pisos y pensada como panteón, la encargaron a mediados del siglo XIII el <b>sebastocrátor Kaloyan</b> y su esposa Desislava; y la occidental se añadió a mediados del XIX.</p><p>Su fama se debe a los <b>frescos de 1259</b>, pintados sobre otros más antiguos por artistas desconocidos: <b>89 escenas</b> con unos <b>240 personajes</b>, la mayoría con rasgos individuales, gran hondura psicológica y vida. Los retratos de los fundadores, Kaloyan y Desislava, y los del zar Constantino Tij Asen y la zarina Irina, en el muro norte, son de un realismo admirable y están entre los retratos más antiguos de personajes de la historia búlgara. En el nártex, dieciocho escenas cuentan la vida de San Nicolás con detalles de la vida de la época. En la restauración de 2006-2008 apareció bajo el yeso una inscripción oculta, «Yo, Vasiliy, escribí», quizá la firma del maestro de Boyana.</p><p>Es uno de los conjuntos de arte medieval más completos y mejor conservados de los Balcanes, y Patrimonio de la Humanidad desde 1979.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/44890267",
+     "https://en.wikipedia.org/wiki/Boyana_Church",
+     "https://es.wikipedia.org/wiki/Iglesia_de_Boyana"
+    ]
+   }
+  },
+  {
+   "id": "pliska-y-gran-preslav",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Pliska</b> fue la primera capital del reino búlgaro, entre el 681 y el 893; según la tradición la fundó el kan Asparuj, aunque la arqueología no lo ha confirmado. Empezó siendo un campamento, y a comienzos del siglo IX ya tenía muralla y un enorme recinto de tierra alrededor. En el 811 el emperador bizantino Nicéforo I la saqueó e incendió, pero el kan Krum expulsó a los invasores y Omurtag la reconstruyó en piedra. Tras la conversión de Boris I al cristianismo, en el 864, se levantó la <b>Gran Basílica</b>, con un monasterio.</p><p>En el 893 la capital pasó a <b>Preslav</b>, con el zar <b>Simeón I</b>, y en los ochenta años siguientes se convirtió en un gran centro de la cultura eslava: allí trabajó la Escuela Literaria de Preslav, en cuyo entorno probablemente se desarrolló el <b>alfabeto cirílico</b>, y sus talleres hacían cerámica vidriada e iconos de cerámica. A finales de los años 960 la ocupó el príncipe Sviatoslav de Kiev, y luego la arrasó el emperador Juan Tzimisces.</p><p>En Pliska se ven las murallas, el palacio y la Gran Basílica. Gran Preslav, a unos 20 km de Shumen, conserva la <b>Iglesia Redonda</b> y el palacio. En 1978 apareció en una viña cercana el <b>tesoro de Preslav</b>: más de 170 objetos de oro, plata y bronce, con joyas bizantinas del siglo X escondidas durante aquella guerra, expuesto en el museo local.</p>"
+    },
+    "fuentes": [
+     "https://www.openstreetmap.org/way/268646446",
+     "https://en.wikipedia.org/wiki/Pliska",
+     "https://en.wikipedia.org/wiki/Veliki_Preslav",
+     "https://en.wikipedia.org/wiki/Preslav_Treasure"
+    ]
+   }
+  },
+  {
+   "id": "tumba-tracia-de-kazanlak",
+   "campos": {
+    "texto": {
+     "general": "<p>Esta tumba tracia del <b>siglo IV a. C.</b> es una construcción de ladrillo de tipo <i>tholos</i>: un estrecho corredor lleva a una cámara redonda, del tamaño justo para el enterramiento, cubierta con una cúpula en forma de colmena. Las dos están pintadas al fresco. Forma parte de una gran necrópolis real tracia, en el llamado valle de los Reyes Tracios, cerca de su antigua capital, Seutópolis; en la comarca hay más de mil tumbas de reyes y aristócratas tracios. La descubrieron por casualidad en 1944 unos soldados que cavaban una trinchera durante la Segunda Guerra Mundial.</p><p>En la cúpula se ve a una <b>pareja sentada</b> que se da la mano por la muñeca, durante un banquete funerario, mientras se acerca una procesión con bandejas, músicos que tocan cuernos y caballos ensillados sin jinete; en lo alto corre una <b>carrera de carros</b>. Una cenefa con cráneos de buey adornados con cintas rodea la base de la cúpula. Son las pinturas de época helenística mejor conservadas de Bulgaria y uno de los conjuntos de pintura antigua mejor conservados de los Balcanes. Fue de los primeros lugares de Bulgaria declarados Patrimonio de la Humanidad, en 1979.</p><p class=\"dato\"><span>¿Sabías que…?</span>La mujer sentada del fresco aparece en el reverso de la moneda búlgara de 50 stotinki emitida en 2005.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Thracian_Tomb_of_Kazanlak",
+     "https://www.openstreetmap.org/way/212107109",
+     "https://es.wikipedia.org/wiki/Tumba_tracia_de_Kazanlak"
+    ]
+   }
+  },
+  {
+   "id": "puente-de-mehmed-pasa-sokolovic",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>puente de Mehmed Paša Sokolović</b> cruza el río Drina en Višegrad, en el este de Bosnia, con <b>11 arcos</b> de piedra de 11 a 15 metros de luz y una rampa de acceso en ángulo recto en la orilla oeste. Lo construyó entre 1571 y 1577 <b>Mimar Sinan</b>, el gran arquitecto de la corte otomana, por encargo del gran visir Mehmed Paša Sokolović (en turco, Sokollu Mehmed Pasha).</p><p>Sokolović había nacido hacia 1505 en una modesta familia cristiana ortodoxa, en Sokolovići, cerca de Rudo, no lejos de aquí. De niño fue arrebatado por el <i>devşirme</i>, el «tributo de sangre» con el que los otomanos reclutaban niños cristianos para formarlos como soldados y funcionarios, y llegó a gran visir con tres sultanes, empezando por Solimán el Magnífico, hasta que lo asesinaron en 1579. Mandó levantar el puente como homenaje a su tierra natal y símbolo del comercio. Se restauró varias veces; en la Primera Guerra Mundial se destruyeron tres arcos y en la Segunda se dañaron cinco, que luego se rehicieron.</p><p>Es el protagonista de la novela <i>Un puente sobre el Drina</i> (1945), de <b>Ivo Andrić</b>, que se crió en Višegrad y ganó el premio Nobel de Literatura en 1961. Es Patrimonio de la Humanidad desde 2007.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Mehmed_Pa%C5%A1a_Sokolovi%C4%87_Bridge",
+     "https://en.wikipedia.org/wiki/Sokollu_Mehmed_Pasha",
+     "https://en.wikipedia.org/wiki/Ivo_Andri%C4%87"
+    ]
+   }
+  },
+  {
+   "id": "puente-viejo-de-mostar",
+   "campos": {
+    "texto": {
+     "general": "<p>El <b>Puente Viejo</b> (<i>Stari Most</i>) de Mostar salva el río Neretva con un solo arco de piedra de unos 28 metros de luz, a más de 20 metros sobre el agua. Lo encargó Solimán el Magnífico en 1557 para sustituir un puente anterior, y lo diseñó <b>Mimar Hayruddin</b>, discípulo del gran arquitecto Sinan; según su inscripción, se terminó en 1566-1567. Cuenta la tradición que Hayruddin, amenazado de muerte si fallaba, preparó su propio funeral el día en que se retiraron los andamios. Al acabarse era el arco más ancho construido por el hombre. Lo protegen dos torres, Halebija y Tara, los «guardianes del puente» (<i>mostari</i>).</p><p>Durante la guerra entre croatas y bosnios, el <b>9 de noviembre de 1993</b>, lo derribó la artillería del Consejo de Defensa Croata (HVO). En diciembre de ese año, ingenieros militares españoles de la ONU tendieron en tres días un puente provisional. Después se reconstruyó con las mismas técnicas y con la piedra caliza local, la <i>tenelija</i>; buzos del ejército húngaro sacaron del río piedras del original, aunque casi todas estaban demasiado dañadas. Se inauguró el <b>23 de julio de 2004</b>, y el puente y el casco viejo son Patrimonio de la Humanidad desde 2005.</p><p>Cada verano los jóvenes de Mostar se lanzan al río desde el puente, y desde 1968 se celebra una competición oficial de saltos.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Stari_Most",
+     "https://es.wikipedia.org/wiki/Puente_de_Mostar"
+    ]
+   }
+  },
+  {
+   "id": "puente-latino-de-sarajevo",
+   "campos": {
+    "texto": {
+     "general": "<p>Un puente de piedra sobre el río Miljacka con <b>cuatro arcos</b> apoyados en tres pilas, y dos característicos «ojos» sobre ellas que aparecen en el sello de Sarajevo. Debe su nombre a que llevaba al barrio católico, el «Latinluk». Ya había un puente aquí en 1541, probablemente de madera; uno de piedra lo construyó Ali Ajni-Beg hacia 1565 y, tras una riada en 1791, se rehízo en 1798-1799 con dinero del comerciante Abdulah-aga Briga. Por sus cimientos, es el más antiguo de los puentes conservados de la ciudad.</p><p>El <b>28 de junio de 1914</b>, en el extremo norte del puente, el joven <b>Gavrilo Princip</b>, de 19 años y miembro de la Joven Bosnia, mató a tiros al archiduque <b>Francisco Fernando</b>, heredero del trono de Austria-Hungría, y a su esposa Sofía. El atentado desató la crisis de julio y, en pocas semanas, la Primera Guerra Mundial. Por su edad, Princip se libró de la pena de muerte y fue condenado a veinte años; murió de tuberculosis en la fortaleza de Terezín en 1918. En la Yugoslavia comunista se le llamó Puente de Princip; tras las guerras de los años noventa recuperó su nombre.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Latin_Bridge",
+     "https://www.openstreetmap.org/way/242640790",
+     "https://en.wikipedia.org/wiki/Gavrilo_Princip"
+    ]
+   }
+  },
+  {
+   "id": "ohrid-san-clemente-y-santa-sofia",
+   "campos": {
+    "texto": {
+     "general": "<p><b>Ohrid</b>, la antigua Lychnidos, a orillas del lago del mismo nombre, fue uno de los grandes centros culturales de los eslavos. Aquí enseñó <b>San Clemente</b>, discípulo de los santos Cirilo y Metodio, que en el 886 fundó la <b>Escuela Literaria de Ohrid</b> y difundió entre los eslavos cristianos la escritura glagolítica y la cirílica; se le tiene por el primer obispo que predicó en lengua búlgara. Entre el 990 y el 1015 la ciudad fue la capital de <b>Samuel de Bulgaria</b> y sede del patriarcado búlgaro, que tras la conquista bizantina de 1018 quedó como arzobispado de Ohrid. Según la leyenda llegó a tener 365 iglesias, una por cada día del año, y se la llamó la «Jerusalén de los Balcanes».</p><p>En la colina de <b>Plaošnik</b>, Clemente levantó en el 893 la iglesia de San Pantaleón sobre una basílica paleocristiana; los otomanos la convirtieron en mezquita y hoy el conjunto se está restaurando. <b>Santa Sofía</b>, la antigua catedral de los arzobispos, también fue mezquita en época otomana; su forma actual es sobre todo del siglo XI, con añadidos del XIV, y conserva <b>frescos de los siglos XI al XIII</b>, de lo mejor de la pintura bizantina de su tiempo.</p><p>La ciudad y el lago son Patrimonio de la Humanidad desde 1979 y 1980: uno de los pocos lugares del mundo que lo son a la vez por su valor cultural y natural.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Ohrid",
+     "https://en.wikipedia.org/wiki/Church_of_Saint_Sophia,_Ohrid",
+     "https://en.wikipedia.org/wiki/Plao%C5%A1nik",
+     "https://en.wikipedia.org/wiki/Clement_of_Ohrid"
+    ]
+   }
+  },
+  {
+   "id": "anfiteatro-de-durres",
+   "campos": {
+    "texto": {
+     "general": "<p>Durrës es la antigua <b>Epidamno</b>, fundada hacia el siglo VII a. C. por colonos griegos de Corinto y Corcira junto con los taulantios ilirios, y llamada <b>Dirraquio</b> por los romanos. De aquí partía la Vía Egnatia, que cruzaba los Balcanes hasta Constantinopla. Su <b>anfiteatro</b> se empezó a construir a comienzos del siglo II d. C., bajo Trajano, y acogió espectáculos hasta el siglo IV. Es el mayor anfiteatro romano de los Balcanes: una elipse de 132 por 113 metros con capacidad para unos 20.000 espectadores.</p><p>El terremoto del 345-346 acabó con los juegos de gladiadores, y en la segunda mitad del siglo IV se construyó dentro una <b>capilla cristiana</b>, decorada en el siglo VI con mosaicos. Ante las murallas de Dirraquio, el 18 de octubre de 1081, los normandos de <b>Roberto Guiscardo</b> derrotaron al emperador bizantino <b>Alejo I Comneno</b>, y en febrero de 1082 tomaron la ciudad.</p><p>Tras la conquista otomana, en el siglo XVI, el anfiteatro quedó enterrado, y no se redescubrió hasta 1966. Un tercio se excavó en los años sesenta y el resto en los ochenta, aunque hay casas modernas construidas sobre parte del graderío. Se conserva la capilla con sus mosaicos, y hoy funciona como museo.</p>"
+    },
+    "fuentes": [
+     "https://en.wikipedia.org/wiki/Amphitheatre_of_Durr%C3%ABs",
+     "https://en.wikipedia.org/wiki/Durr%C3%ABs",
+     "https://en.wikipedia.org/wiki/Battle_of_Dyrrhachium_(1081)"
+    ]
+   }
+  }
+ ]
+}
