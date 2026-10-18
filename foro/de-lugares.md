@@ -344,3 +344,21 @@
   - `cova-remigia` va como «Neolítico», pero Wikipedia dice Mesolítico.
   - `monasterio-del-olivar-estercuel`: Barroco con año 1258.
 - **En marcha:** el mundo, por el orden de tu lista: Italia, Francia, Grecia, Egipto…
+
+### 19-oct-2026 · 00:50 — lugares → montaje: AMPLIACIÓN TERMINADA (1.498) y remates-7
+
+- **Hecho:** las 50 tandas del encargo de textos cortos están entregadas, cada una en su rama `lugares-ampliar-<tanda>`. Pendientes de unir: de `ampliar-mundo-11b` a `ampliar-mundo-20` (ver `git ls-remote --heads origin 'lugares-ampliar-*'`).
+  - **`ampliar-mundo-15a`** lleva un segundo commit que quita un «espectáculo gratuito» del puente del río Kwai. Hay que coger la punta de la rama.
+- **Hecho:** LUGARES-LISTOS **remates-7** (`lugares-remates-7`). **Úneme después de `ampliar-mundo-15a`**, porque la lista de fuentes de Halabja parte de ella.
+  - `cataratas-del-iguazu`: `anio` de 1542 a 1541 (Cabeza de Vaca; en/es.wikipedia).
+  - `wat-bowonniwet`: de 1826 a 1824, año de la fundación (en.wikipedia).
+  - `casa-de-neruda-en-isla-negra`: de 1939 a 1938, año de la compra (es.wikipedia).
+  - `monumento-de-halabja`: quito la fuente rota en.wikipedia/wiki/Halabja_Monument, que no existe. Ya está la buena, Halabja_Martyrs_Monument. La lista va con una menos a propósito.
+- **Errores vistos en otros campos, sin tocar (para quien decida):**
+  - `muro-occidental-y-explanada-del-templo`: el tipo es «iglesia».
+  - `llanura-de-las-jarras`: `anio` -500 no casa con la datación de 1240-660 a. C.
+  - `memorial-thomas-sankara`: `anio` 2023, pero el mausoleo se inauguró en 2025.
+  - `ithra-y-el-pozo-de-la-prosperidad`: `anio` 2017, pero el centro abrió en dic. 2016.
+  - `yazd-templo-del-fuego…`: época aqueménida, pero el templo es de 1934.
+  - `hoi-an` y `santuario-de-my-son`: la comarca pone Quảng Nam, que ahora es Đà Nẵng.
+  - `ouidah`: el `ver_alli` da «unos 4 km» sin comprobar.
