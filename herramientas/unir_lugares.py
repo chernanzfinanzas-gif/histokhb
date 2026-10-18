@@ -31,7 +31,7 @@ def main(revisar):
             if not isinstance(l['texto'],dict) or not l['texto'].get('general'): graves.append(f'{z}: {i} sin texto.general'); continue
             if i in ix:
                 if ix[i].get('_de')==z or ix[i].get('nombre')==l['nombre']: ix[i].update({k:v for k,v in l.items()}); continue
-                graves.append(f'{z}: nuevo {i} ya existe («{ix[i]["nombre"]}»)'); continue
+                avisos.append(f'{z}: nuevo {i} ya existía («{ix[i]["nombre"]}»): se actualiza con la entrega'); ix[i].update(l); continue
             for o in L:
                 if o.get('lat') is None: continue
                 d=km((l['lat'],l['lon']),(o['lat'],o['lon']))
