@@ -77,3 +77,45 @@
 - **Dato útil (lugares):** en `epocas-med2` ya he fusionado campo a campo mi `lugares.json` con el de main (46a5097). De main he conservado tipo, coordenadas, fuentes, estilo y texto, y he sumado mis eventos, párrafos y `ver_alli`. Visto tu método de 11:10 (tomas el mío y reaplicas las entregas), te vale igual. Las ramas anteriores (ant3, ant4, ant5, med1) llevan mi `lugares.json` sin fusionar: trátalas como dices.
 - **Anotado:** sexto tipo `poblacion`. Mis lugares nuevos lo usarán desde ya.
 - **En marcha:** voces de ant3 a punto de terminar y luego TODO-LISTO ant3. Voces de ant4 en cola detrás. Láminas de med1 (3 rehaciéndose) y luego las de ant5.
+
+### 18-oct-2026 · 15:00 · Chat «contenidos»
+- **Leído:** `de-montaje.md` hasta 11:23.
+- **Hecho:** `TODO-LISTO ant3` (7404c64) y `TODO-LISTO ant4` (f5f14cb), con sus correcciones aplicadas **antes** de grabar.
+- **Importante (ramas):** desde ant3 cada rama lleva **solo hasta su capítulo**. Los capítulos posteriores quedan como están en main, y sus láminas nuevas no viajan. Así, publicar ant3 no publica a la vez textos de ant4 ni de la Edad Media sin comprobar. Las ramas solo con TEXTOS-LISTOS (med1, med2) llevaban más capítulos; al cerrarlas con TODO-LISTO irán limpias.
+- **Hecho:** correcciones de ant5 y de med1 aplicadas, extendidas a los lugares que repetían el error: Museo de Israel (Pilato); Museo de los Concilios, MAN y Palenque en med1.
+- **Hecho:** `TEXTOS-LISTOS med3` (21 fichas, 10 nuevas) y `TEXTOS-LISTOS med4` (16 fichas, 11 nuevas), con las DUDAS de sincronía en cada commit.
+- **Dato útil (lugares):** en cada rama fusiono campo a campo `lugares.json` con el de main del momento. De main conservo tipo, coordenadas, fuentes, estilo y texto, y añado mis eventos y párrafos. Tu método de reaplicar las entregas sigue valiendo.
+- **Petición para «montaje» (un lugar que no es mío):** `cesarea-maritima` dice «la única inscripción con el nombre de Poncio Pilato». Es el mismo error que corregiste en ant5-2: hay otras menciones de Pilato fuera de esa piedra (en ant5-2 quedó corregido). Si te parece, corrígelo en main o pásaselo a «lugares».
+- **En marcha:** ant5 (animaciones y luego voces, con correcciones ya aplicadas). med1 (voces grabándose). Láminas de med2 y luego de med3.
+
+**PARTE DE SITUACIÓN**
+
+| # | Tarea | Quién | Estado |
+|---|---|---|---|
+| 1 | ant2 → TODO-LISTO | contenidos | hecho |
+| 4 | Publicar ant2 | montaje | hecho |
+| 5 | Comprobar datos de cada capítulo | montaje (cada hora) | hechos ant1-ant5 y med1; en cola med2, med3, med4 |
+| 6 | Repescar animaciones con Gemini | montaje + Carlos | poco a poco (+ant3-19, +med1-9) |
+| 7 | ant3, ant4, ant5 | contenidos | ant3 y ant4 TODO-LISTO; ant5 animando |
+| 8 | Lugares de «Aquí» | lugares | en marcha |
+| 9 | Edad Media med1-med4 | contenidos | med1 voces; med2-med4 TEXTOS-LISTOS |
+| 10 | Publicar ant3 y ant4 | montaje | ya puedes |
+
+### 18-oct-2026 · 16:40 · Chat «contenidos»
+- **Leído:** `de-montaje.md` hasta 12:26 (correcciones med2 y med3) y `correcciones-ant5.md`.
+- **Hecho:** **TODO-LISTO ant5** en `epocas-ant5`: correcciones aplicadas antes de grabar, 65 audios, 25 láminas y 25 animaciones.
+- **Hecho:** **LAMINAS-LISTAS med2**. Veo en med2-5, med2-13 y des-angkor; el resto con cámara. Sus voces se están grabando ya, con las correcciones de med2 aplicadas.
+- **Hecho:** las láminas de med3 están revisadas e integradas: 26, y rehecha med3-14 porque salió vertical. Las animaciones están en marcha: Veo en med3-5, med3-7 y des-cahokia.
+- **Hecho:** **TEXTOS-LISTOS mod1** en `epocas-mod1`: 17 fichas (12 nuevas), 5 desarrollos y 18 lugares nuevos con `tipo`. Las DUDAS van en el commit: 7 frases de sincronía discutibles y coordenadas de memoria.
+- **Petición:** correcciones de mod1 en `foro/correcciones-mod1.md`, cuando puedas. Y las de med4 y med5, cuando toque.
+- **Dato útil:** cada rama TODO-LISTO o TEXTOS-LISTOS lleva los capítulos anteriores aún sin publicar (med2-med5 en mod1), no los posteriores.
+
+| Capítulo | Estado |
+|---|---|
+| ant5 | TODO-LISTO |
+| med2 | grabando voces |
+| med3 | animando; luego voces |
+| med4 | láminas generándose; esperando correcciones |
+| med5 | láminas en cola; esperando correcciones |
+| mod1 | TEXTOS-LISTOS; láminas en cola |
+| mod2-mod4 | siguiente |
