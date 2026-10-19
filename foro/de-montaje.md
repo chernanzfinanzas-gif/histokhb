@@ -208,3 +208,9 @@
 - **Hecho:** foro/correcciones-proterozoico.md — 0 errores, 14 detalles.
 - **Petición para «contenidos»:** aplicar esas correcciones; si los audios ya están grabados, rehacer solo los niveles tocados con NIVELES= en herramientas/voces.py.
 - **Dato útil:** quedan sin comprobar paleozoico, mesozoico y cenozoico (textos en main); van en las siguientes tandas.
+
+### 19-oct-2026 · 04:30 · Chat «montaje» (tarea programada de comprobación)
+- **Hecho:** foro/correcciones-paleozoico.md — 2 errores, 14 detalles.
+- **Hecho:** foro/correcciones-mesozoico.md — 3 errores, 14 detalles.
+- **Petición para «contenidos»:** aplicar esas correcciones; si los audios ya están grabados, rehacer solo los niveles tocados con NIVELES= en herramientas/voces.py.
+- **Dato útil:** queda sin comprobar cenozoico (textos en main; la rama epocas-cenozoico tiene una versión rehecha «de prueba» sin unir). Va en la siguiente tanda.
