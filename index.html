@@ -61,6 +61,16 @@ a{color:inherit}
 .big h3{margin:0;font-size:17px}
 .big p{margin:2px 0 0;font-size:14px;color:var(--ink2)}
 .foot0{text-align:center;font-size:13px;color:var(--muted);margin:26px 0 10px}
+/* panel bienvenida */
+.bienvenida{background:#fff;border:1.5px solid var(--accent);border-radius:20px;padding:18px 16px 14px;margin:18px 0 4px;position:relative}
+.bienvenida h2{font-family:'Fredoka';font-weight:700;font-size:20px;margin:0 0 10px;color:var(--ink)}
+.bienvenida .bsec{margin:8px 0 0}
+.bienvenida .bsec h3{font-family:'Fredoka';font-weight:600;font-size:16px;margin:0 0 2px;color:var(--accent)}
+.bienvenida .bsec p{margin:0;font-size:14px;color:var(--ink2);line-height:1.45}
+.bienvenida .bdiv{height:1px;background:var(--line);margin:10px 0}
+.bcheck{display:flex;align-items:center;gap:10px;margin-top:14px;padding-top:10px;border-top:1px solid var(--line);cursor:pointer}
+.bcheck input{width:18px;height:18px;accent-color:var(--accent);cursor:pointer;flex:0 0 auto}
+.bcheck span{font-family:'Fredoka';font-weight:600;font-size:15px;color:var(--ink2)}
 /* épocas */
 .erachips{position:sticky;top:var(--top);z-index:12;display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;margin:0 -16px;padding:9px 16px;background:var(--bg)}
 .erachips::-webkit-scrollbar{display:none}
@@ -329,6 +339,21 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <h1>La historia <em>del mundo</em></h1>
   <p>Estrellas que nacen, dinosaurios, faraones, imperios, revoluciones… Todo lo que ha pasado desde el origen del universo, contado como una gran aventura.</p>
  </div>
+ <div class="bienvenida" id="panelBienvenida">
+  <h2>👋 ¿Cómo funciona HistoKHB?</h2>
+  <div class="bsec"><h3>📚 Épocas</h3><p>Toda la historia ordenada: del Big Bang a hoy. Elige un nivel de lectura —Niños, General o Profundo— y explora cada época y capítulo.</p></div>
+  <div class="bdiv"></div>
+  <div class="bsec"><h3>🌍 El mundo a la vez</h3><p>¿Qué pasaba en China mientras caía Roma? Compara civilizaciones de todo el planeta año a año.</p></div>
+  <div class="bdiv"></div>
+  <div class="bsec"><h3>📍 Aquí</h3><p>La app detecta dónde estás y te cuenta la historia de ese lugar: yacimientos, monumentos, batallas y personajes a tu alrededor.</p></div>
+  <div class="bdiv"></div>
+  <div class="bsec"><h3>🏆 Reto del día</h3><p>5 preguntas nuevas cada día para poner a prueba lo que sabes. El marcador guarda tu racha.</p></div>
+  <div class="bdiv"></div>
+  <div class="bsec"><h3>⭐ Guardados</h3><p>Marca cualquier ficha con ☆ y la encontrarás aquí, para releerla cuando quieras.</p></div>
+  <div class="bdiv"></div>
+  <div class="bsec"><h3>🔎 Buscador</h3><p>Escribe cualquier nombre, fecha o tema y la app te lleva a la ficha al instante.</p></div>
+  <label class="bcheck"><input type="checkbox" id="chkConozco"><span>Ya conozco la app, no mostrar esto</span></label>
+ </div>
  <div class="search"><span class="mag">🔎</span><input id="q" type="search" placeholder="Busca: Cleopatra, Almanzor, penicilina…" autocomplete="off"></div>
  <div class="results" id="res"></div>
  <div id="inicio-body">
@@ -502,7 +527,17 @@ function screen(p){ const k=p[0]||'';
 }
 
 // ---------- inicio ----------
+function initBienvenida(){
+ const p=$('#panelBienvenida');
+ if(!p)return;
+ try{if(localStorage.getItem('hk-conozco')==='1'){p.classList.add('hide');return;}}catch(e){}
+ const ch=$('#chkConozco');
+ ch.addEventListener('change',()=>{
+  if(ch.checked){try{localStorage.setItem('hk-conozco','1');}catch(e){}p.style.transition='opacity .4s';p.style.opacity='0';setTimeout(()=>p.classList.add('hide'),420);}
+ });
+}
 function initInicio(){
+ initBienvenida();
  initNov0().catch(()=>{});
  $('#nfichas').textContent=Object.keys(IDX.fichas).length;
  $('#eras').innerHTML=IDX.secciones.map(s=>`<button class="era" style="background:linear-gradient(150deg,${s.col},${s.col}cc)" onclick="go('#/epoca/${s.id}')"><span class="ei">${ERA_IC[s.id]||''}</span><span class="ep">${s.per}</span><h3>${s.t}</h3></button>`).join('');
