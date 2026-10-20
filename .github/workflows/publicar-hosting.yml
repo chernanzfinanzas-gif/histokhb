@@ -36,3 +36,13 @@ jobs:
             --exclude '.git' --exclude '.github' \
             --info=stats2 \
             ./ historiatotal@hl1708.dinaserver.com:www/
+
+      - name: Comprobar que la web responde
+        run: |
+          for u in http://historiatotal.es/ https://historiatotal.es/ https://historiatotal.es/index.html https://historiatotal.es/audio/ant1-0-g.mp3 https://historiatotal.es/datos/; do
+            r=$(curl -s -o /tmp/body -w "%{http_code} %{size_download}B %{content_type}" -m 30 "$u" || echo "sin conexion")
+            t=$(grep -o '<title>[^<]*' /tmp/body 2>/dev/null | head -1 | sed 's/<title>//')
+            echo "::notice::$u -> $r $t"
+          done
+          h=$(curl -sI -m 30 https://historiatotal.es/index.html | grep -iE '^(cache-control|age|x-cache|x-varnish|via|server):' | tr -d '\r' | tr '\n' ' ')
+          echo "::notice::Cabeceras: $h"
