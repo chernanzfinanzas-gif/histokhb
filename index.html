@@ -475,6 +475,12 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
    <div id="ajCodVal" style="font-family:var(--f-head);font-weight:700;font-size:26px;letter-spacing:3px;color:var(--accent)">·······</div>
   </div>
   <button class="btn sec" id="ajBtnCopiaCod" type="button">📋 Copiar código</button>
+  <p style="margin:14px 0 0;font-size:13px;color:var(--muted)">¿Quieres usar el código de otro dispositivo (y traerte su progreso aquí)? <a href="javascript:void(0)" onclick="$('#ajCajaOtroCod').classList.toggle('hide')" style="color:var(--accent);font-weight:700;text-decoration:underline">Introdúcelo aquí</a></p>
+  <div id="ajCajaOtroCod" class="hide" style="margin-top:10px">
+   <input id="ajInCod" type="text" placeholder="Tu código" style="width:100%;padding:10px 12px;border:1.5px solid var(--line);border-radius:12px;font-size:16px;text-transform:uppercase;box-sizing:border-box" maxlength="10">
+   <p id="ajErrCod" style="color:#c0392b;font-size:13px;margin:6px 0 0"></p>
+   <button class="btn" type="button" style="margin-top:8px;width:100%" onclick="ajUsarOtroCodigo()">Usar este código</button>
+  </div>
  </div>
 </div></section>
 </main>
@@ -571,6 +577,13 @@ function renderAjustes(){
  $('#ajCodVal').textContent=cod||'(aún no se ha creado)';
  const bc=$('#ajBtnCopiaCod');
  bc.onclick=()=>{ if(!cod)return; try{navigator.clipboard.writeText(cod);}catch(e){} bc.textContent='✅ Copiado'; setTimeout(()=>{bc.textContent='📋 Copiar código';},1800); };
+}
+function ajUsarOtroCodigo(){
+ const v=($('#ajInCod').value||'').trim().toUpperCase();
+ if(v.length<4){ $('#ajErrCod').textContent='Escribe el código completo.'; return; }
+ try{localStorage.setItem('hk_codigo',v);}catch(e){}
+ $('#ajErrCod').textContent='';
+ syncPull().then(()=>{ aplicaAjustes(); renderAjustes(); if(lastScreen==='inicio')renderInicio(); });
 }
 
 let IDX=null, SINC=null, LUG=null, BUS=null, MONI=null, DESA=null;
