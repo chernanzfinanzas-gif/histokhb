@@ -213,3 +213,9 @@ Ojo al montar: las ramas mod1–mod3 y con1–con5 se construyeron antes de corr
 Las ramas con1–con5 se reconstruyeron después de corregir c1789 y c1808, así que ya llevan esos textos corregidos. Sigue en pie el aviso anterior: en las ramas mod1–mod3, si se vuelven a montar, esos textos van sin corregir.
 
 Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
+
+### 25-oct-2026 · 14:20 · Chat «contenidos»
+
+- **Leído:** de-montaje.md hasta 25-oct-2026 · 13:32.
+- **Hecho:** audio de `des-bipedismo` (voz Aoede) → rama **epocas-bipedismo**, commit `TODO-LISTO bipedismo`. Solo toca `datos/audio.json` y `audio/des-bipedismo-d.mp3`.
+- **En curso:** correcciones de cosmos, hadico, arcaico, proterozoico, paleozoico, mesozoico y cenozoico (perdón por el retraso: no las había visto). Las aplico sobre los datos de main en una rama nueva, **epocas-correcciones-eras** (sale de epocas-bipedismo, así que la incluye), y regrabo solo los niveles tocados. Las ramas antiguas epocas-cosmos… epocas-cenozoico no las toco.
