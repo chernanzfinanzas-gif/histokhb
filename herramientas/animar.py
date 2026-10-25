@@ -16,10 +16,10 @@ L="us-central1"; M="veo-3.1-lite-generate-001"
 URL=f"https://{L}-aiplatform.googleapis.com/v1/projects/{PROJ}/locations/{L}/publishers/google/models/{M}"
 PROMPT=("Anima esta ilustración durante 8 segundos. Conserva EXACTAMENTE el dibujo, la composición, los colores y el estilo pintado a mano: "
  "no añadas ni quites personas, animales, objetos ni edificios, no cambies las caras ni el texto, y no lo conviertas en imagen realista ni en 3D. "
- "Cámara casi fija con un acercamiento muy lento. Movimiento suave y escaso: anima solo lo que en esta escena se movería de forma natural "
+ "Cámara completamente fija: sin movimiento de cámara y sin zoom. Movimiento suave y escaso: anima solo lo que en esta escena se movería de forma natural "
  "(agua, olas, nubes, humo, fuego, lava, estrellas que titilan, plantas mecidas por el viento, animales y personas con gestos pequeños). Sin texto nuevo. "
  "MUY IMPORTANTE: no aparece ni desaparece ningún ser vivo, planta, árbol, objeto ni elemento del paisaje; cada animal conserva exactamente su forma y especie; "
- "el encuadre no cambia y el acercamiento es mínimo; el último fotograma debe parecerse mucho al primero.")
+ "el encuadre no cambia en absoluto; el último fotograma debe parecerse mucho al primero.")
 def lamina(k):
     if k.startswith('des-'): return J('datos/desarrollos.json')[k].get('lam')
     return J('datos/indice.json')['fichas'][k].get('lam')
