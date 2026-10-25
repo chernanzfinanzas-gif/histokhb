@@ -4,6 +4,16 @@ Láminas que hoy solo tienen **movimiento de cámara** (Veo falló o no se inten
 Se rehacen poco a poco con Gemini (≈3 vídeos por tramo de uso): una conversación nueva por vídeo,
 adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini también falla, se queda la cámara.
 
+## Plantilla del texto (la que funciona — 25-oct)
+
+NO describir el dibujo (si se describe, Gemini genera una ilustración nueva). Solo decir qué se mueve y qué queda quieto:
+
+```
+Animate this illustration, not another one, as an 8-second video. Keep all elements exactly as they are — do not add, remove or change anything. Animate naturally: <qué se mueve>. <Edificios/objetos fijos> remain completely still. No camera movement, no zoom.
+```
+
+Al recibir un vídeo: comparar su primer fotograma con la lámina; si Gemini ha cambiado el dibujo, NO se sube.
+
 ## Prioridad
 
 - [x] des-guiza (Gemini, 18-oct) · Cómo se construyó la Gran Pirámide
