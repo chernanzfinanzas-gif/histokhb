@@ -108,9 +108,9 @@ a{color:inherit}
 .tag{display:inline-block;font-size:11.5px;font-weight:700;border-radius:999px;padding:1px 8px;color:#fff;margin-left:6px;vertical-align:1px}
 .star{color:#e0a020}
 /* ficha */
-.sheet{position:fixed;inset:0;z-index:60;background:var(--bg);overflow-y:auto;transform:translateY(100%);transition:transform .28s ease;visibility:hidden}
+.sheet{position:fixed;inset:0;z-index:60;background:var(--card);overflow-y:auto;transform:translateY(100%);transition:transform .28s ease;visibility:hidden}
 .sheet.open{transform:none;visibility:visible}
-.sh-top{position:sticky;top:0;z-index:3;background:var(--bg);padding:10px 16px 8px;border-bottom:1px solid var(--line)}
+.sh-top{position:sticky;top:0;z-index:3;background:var(--card);padding:10px 16px 8px;border-bottom:1px solid var(--line)}
 .sh-row{display:flex;align-items:center;gap:8px;max-width:640px;margin:0 auto}
 .ibtn{width:40px;height:40px;border-radius:12px;border:1px solid var(--line);background:#fff;font-size:19px;line-height:1;flex:0 0 auto;display:flex;align-items:center;justify-content:center;text-decoration:none}
 .ibtn.wa2{background:var(--wa);border-color:var(--wa);color:#fff}
@@ -148,7 +148,7 @@ a{color:inherit}
 .audctl button{flex:1;border:1.5px solid var(--era,var(--accent));background:#fff;color:var(--era,var(--accent));border-radius:12px;padding:7px 4px;font-family:var(--f-head);font-weight:600;font-size:14px;cursor:pointer}
 .escuchar .bar{cursor:pointer}
 .aud-on .sh-illo{position:sticky;top:var(--shtop,104px);z-index:3}
-.aud-on #audBox{position:sticky;top:calc(var(--shtop,104px) + var(--illoh,0px));z-index:3;background:var(--bg);margin:0 -18px;padding:8px 18px;box-shadow:0 8px 12px -10px rgba(0,0,0,.35)}
+.aud-on #audBox{position:sticky;top:calc(var(--shtop,104px) + var(--illoh,0px));z-index:3;background:var(--card);margin:0 -18px;padding:8px 18px;box-shadow:0 8px 12px -10px rgba(0,0,0,.35)}
 .syn{transition:background .4s,box-shadow .4s;border-radius:6px}
 .syn.reading{background:#fff1c2;box-shadow:0 0 0 6px #fff1c2}
 .aud-on .syn{cursor:pointer}
@@ -167,7 +167,7 @@ a{color:inherit}
 .more{display:block;width:100%;margin:6px 0;border:1.5px solid var(--accent);background:#fff;color:var(--accent);border-radius:14px;padding:12px;font-family:var(--f-head);font-weight:600;font-size:15px;text-align:center;text-decoration:none}
 .verlist{margin:6px 0 14px;padding-left:20px}.verlist li{margin:4px 0}
 .src{font-size:12.5px;color:var(--muted);word-break:break-all}
-.sh-foot{position:fixed;left:0;right:0;bottom:0;z-index:4;display:flex;gap:8px;padding:10px 16px calc(10px + env(safe-area-inset-bottom));background:rgba(251,246,236,.97);border-top:1px solid var(--line)}
+.sh-foot{position:fixed;left:0;right:0;bottom:0;z-index:4;display:flex;gap:8px;padding:10px 16px calc(10px + env(safe-area-inset-bottom));background:rgba(255,255,255,.97);border-top:1px solid var(--line)}
 .sh-foot button{flex:1;border:1px solid var(--line);border-radius:12px;padding:11px 4px;font-family:var(--f-head);font-weight:600;font-size:14.5px;background:#fff}
 .sh-foot button:disabled{opacity:.35}
 @media(min-width:700px){.sh-foot{justify-content:center}.sh-foot button{flex:0 1 210px}}
