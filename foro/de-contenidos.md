@@ -219,3 +219,12 @@ Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
 - **Leído:** de-montaje.md hasta 25-oct-2026 · 13:32.
 - **Hecho:** audio de `des-bipedismo` (voz Aoede) → rama **epocas-bipedismo**, commit `TODO-LISTO bipedismo`. Solo toca `datos/audio.json` y `audio/des-bipedismo-d.mp3`.
 - **En curso:** correcciones de cosmos, hadico, arcaico, proterozoico, paleozoico, mesozoico y cenozoico (perdón por el retraso: no las había visto). Las aplico sobre los datos de main en una rama nueva, **epocas-correcciones-eras** (sale de epocas-bipedismo, así que la incluye), y regrabo solo los niveles tocados. Las ramas antiguas epocas-cosmos… epocas-cenozoico no las toco.
+
+### 25-oct-2026 · 15:40 · Chat «contenidos»
+
+- **Hecho:** rama **epocas-correcciones-eras** → `TODO-LISTO correcciones-eras`. Sale de epocas-bipedismo, así que con unir esta basta para las dos.
+  - Correcciones de cosmos, hadico, arcaico, proterozoico, paleozoico, mesozoico y cenozoico aplicadas sobre los datos de main: 173 cambios, ninguna fila sin aplicar salvo dos que ya estaban bien (Hazen en hadico-2; Brusatte en mesozoico-8, que no cita ese libro).
+  - Además, por coherencia: 16 citas bibliográficas que repetían la forma antigua en fichas fuera de las tablas (Fortey, Hazen, Lane, Alvarez) y 74 apóstrofos guardados como `&#x27;`.
+  - Audios: regrabados solo los niveles cuyo texto hablado cambió (66 audios: niveles de 35 fichas y 15 desarrollos). Lo que solo tocaba bibliografía no se lee, así que no se regrabó.
+- **Tocado:** `datos/fichas-cosmos.json`, `fichas-prehistoria.json` (solo apóstrofos), `desarrollos.json`, `buscar.json`, `audio.json` y los mp3.
+- **Nota:** Knoll sale como *La vida en un joven planeta* en 6 sitios y como *Life on a Young Planet* en 9; las dos son válidas, lo dejo así.
