@@ -18,7 +18,7 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 
 Veo no supo animarlas sin cambiar el dibujo. Todas las demás láminas ya tienen animación. Carlos las hace en su Gemini, de 12 en 12, con la plantilla de arriba; al recibir cada vídeo se sube, se pasa `herramientas/igualar_lamina.py <código>` y se marca aquí con [x].
 
-1. ant4-20 · Paracas y Nazca
+1. ✓ ant4-20 · Paracas y Nazca
 2. ant5-1 · Egipto romano y cristiano
 3. con1-19 · Fotografía, telégrafo y vapor
 4. con3-17 · Oriente Medio tras los otomanos
@@ -149,7 +149,7 @@ Veo no supo animarlas sin cambiar el dibujo. Todas las demás láminas ya tienen
 - [x] ant4-16 (Veo, 25-oct) · Qin Shi Huang y los guerreros de terracota
 - [x] ant4-17 (Veo, 25-oct) · Ashoka
 - [x] ant4-18 (Veo, 25-oct) · Las damas ibéricas: Elche, Baza y el Cerro de los Santos
-- [ ] ant4-20 · Paracas y Nazca
+- [x] ant4-20 (Gemini, 25-oct) · Paracas y Nazca
 - [x] des-partenon (Veo, 25-oct) · El Partenón
 - [x] des-numancia (Veo, 25-oct) · Numancia, el asedio
 - [ ] des-terracota · Los guerreros de terracota
