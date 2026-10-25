@@ -339,6 +339,23 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <h1>La historia <em>del mundo</em></h1>
   <p>Estrellas que nacen, dinosaurios, faraones, imperios, revoluciones… Todo lo que ha pasado desde el origen del universo, contado como una gran aventura.</p>
  </div>
+ <div class="bienvenida" id="panelCodigo" style="border-color:#3a9a5b">
+  <h2>🔑 Tu código personal</h2>
+  <p style="margin:0 0 10px;font-size:14px;color:var(--ink2);line-height:1.45">Así no pierdes tu progreso (fichas vistas, racha del reto…). Es solo para ti, no hace falta email ni contraseña.</p>
+  <div style="background:#f6f1e7;border-radius:12px;padding:12px 14px;text-align:center;margin:4px 0 10px">
+   <div id="codVal" style="font-family:'Fredoka';font-weight:700;font-size:28px;letter-spacing:3px;color:var(--accent)">·······</div>
+  </div>
+  <div class="rbtns">
+   <button class="btn sec" id="btnCopiaCod" type="button">📋 Copiar código</button>
+   <button class="btn" id="btnGuardadoCod" type="button">Ya lo he guardado</button>
+  </div>
+  <p style="margin:12px 0 0;font-size:13px;color:var(--muted)">¿Ya tienes un código de otro dispositivo? <a href="javascript:void(0)" id="btnTengoCod" style="color:var(--accent);font-weight:700;text-decoration:underline">Introdúcelo aquí</a></p>
+  <div id="cajaTengoCod" class="hide" style="margin-top:10px">
+   <input id="inCod" type="text" placeholder="Tu código" style="width:100%;padding:10px 12px;border:1.5px solid var(--line);border-radius:12px;font-size:16px;text-transform:uppercase;box-sizing:border-box" maxlength="10">
+   <p id="errCod" style="color:#c0392b;font-size:13px;margin:6px 0 0"></p>
+   <button class="btn" id="btnUsarCod" type="button" style="margin-top:8px;width:100%">Usar este código</button>
+  </div>
+ </div>
  <div class="bienvenida" id="panelBienvenida">
   <h2>👋 ¿Cómo funciona HistoKHB?</h2>
   <div class="bsec"><h3>📚 Épocas</h3><p>Toda la historia ordenada: del Big Bang a hoy. Elige un nivel de lectura —Niños, General o Profundo— y explora cada época y capítulo.</p></div>
@@ -527,6 +544,35 @@ function screen(p){ const k=p[0]||'';
 }
 
 // ---------- inicio ----------
+// ---------- código personal ----------
+function generaCodigo(){
+ const ab='ABCDEFGHJKLMNPQRSTUVWXYZ23456789'; // sin 0/O/1/I, se confunden
+ let s=''; for(let i=0;i<7;i++) s+=ab[Math.floor(Math.random()*ab.length)];
+ return s;
+}
+function initCodigo(){
+ const p=$('#panelCodigo'); if(!p)return;
+ let cod=null; try{cod=localStorage.getItem('hk_codigo');}catch(e){}
+ if(cod){ p.classList.add('hide'); return; } // ya tenía código: no se muestra
+ cod=generaCodigo();
+ try{localStorage.setItem('hk_codigo',cod);}catch(e){}
+ $('#codVal').textContent=cod;
+ $('#btnCopiaCod').addEventListener('click',()=>{
+  try{navigator.clipboard.writeText(cod);}catch(e){}
+  const b=$('#btnCopiaCod');b.textContent='✅ Copiado';setTimeout(()=>{b.textContent='📋 Copiar código';},1800);
+ });
+ $('#btnGuardadoCod').addEventListener('click',()=>{
+  p.style.transition='opacity .4s';p.style.opacity='0';setTimeout(()=>p.classList.add('hide'),420);
+ });
+ $('#btnTengoCod').addEventListener('click',()=>{$('#cajaTengoCod').classList.toggle('hide');});
+ $('#btnUsarCod').addEventListener('click',()=>{
+  const v=($('#inCod').value||'').trim().toUpperCase();
+  if(v.length<4){ $('#errCod').textContent='Escribe el código completo.'; return; }
+  try{localStorage.setItem('hk_codigo',v);}catch(e){}
+  p.style.transition='opacity .4s';p.style.opacity='0';setTimeout(()=>p.classList.add('hide'),420);
+ });
+}
+// ---------- inicio ----------
 function initBienvenida(){
  const p=$('#panelBienvenida');
  if(!p)return;
@@ -537,6 +583,7 @@ function initBienvenida(){
  });
 }
 function initInicio(){
+ initCodigo();
  initBienvenida();
  initNov0().catch(()=>{});
  $('#nfichas').textContent=Object.keys(IDX.fichas).length;

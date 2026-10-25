@@ -30,6 +30,29 @@ jobs:
           chmod 600 ~/.ssh/id_ed25519
           ssh-keyscan -H hl1708.dinaserver.com >> ~/.ssh/known_hosts
 
+      - name: Generar api/config.php (base de datos) si hay secretos configurados
+        env:
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_USUARIO: ${{ secrets.DB_USUARIO }}
+          DB_CONTRASENA: ${{ secrets.DB_CONTRASENA }}
+          DB_NOMBRE: ${{ secrets.DB_NOMBRE }}
+        run: |
+          if [ -z "$DB_HOST" ]; then
+            echo "::warning::Faltan los secretos DB_HOST/DB_USUARIO/DB_CONTRASENA/DB_NOMBRE en GitHub. El panel de código funcionará en el navegador, pero sin guardar nada en el servidor hasta que se añadan."
+          else
+            esc() { printf '%s' "$1" | sed "s/'/\\\\'/g"; }
+            {
+              echo "<?php"
+              echo "return ["
+              echo "    'host' => '$(esc "$DB_HOST")',"
+              echo "    'usuario' => '$(esc "$DB_USUARIO")',"
+              echo "    'contrasena' => '$(esc "$DB_CONTRASENA")',"
+              echo "    'basedatos' => '$(esc "$DB_NOMBRE")',"
+              echo "];"
+            } > api/config.php
+            echo "api/config.php generado."
+          fi
+
       - name: Copiar al hosting (solo lo que ha cambiado)
         run: |
           rsync -rlt --omit-dir-times --compress --chmod=D755,F644 \
