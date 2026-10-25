@@ -23,21 +23,21 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 
 ### Edad Antigua
 - [x] ant1-0 (Gemini, 25-oct) · Sumer y sus ciudades
-- [ ] ant1-11 · Caral, la ciudad más antigua de América
+- [x] ant1-11 (Veo, 25-oct) · Caral, la ciudad más antigua de América
 - [x] ant1-12 (Veo, 25-oct) · China antes de las dinastías: Longshan y el «gran Yu»
-- [ ] ant1-13 · El Argar, el primer Estado de la península
-- [ ] ant1-2 · El valle del Indo
+- [x] ant1-13 (Veo, 25-oct) · El Argar, el primer Estado de la península
+- [x] ant1-2 (Veo, 25-oct) · El valle del Indo
 - [ ] ant1-3 · Y mientras tanto…
 - [x] ant1-4 (Gemini, 25-oct) · Narmer y la unificación de Egipto
-- [ ] ant1-5 · Gilgamesh, el primer héroe
-- [ ] ant1-6 · Las tumbas reales de Ur
-- [ ] ant1-7 · Enheduanna, la primera autora con nombre
-- [ ] ant1-9 · Ebla y Mari, archivos de barro
+- [x] ant1-5 (Veo, 25-oct) · Gilgamesh, el primer héroe
+- [x] ant1-6 (Veo, 25-oct) · Las tumbas reales de Ur
+- [x] ant1-7 (Veo, 25-oct) · Enheduanna, la primera autora con nombre
+- [x] ant1-9 (Veo, 25-oct) · Ebla y Mari, archivos de barro
 
 ### Cosmos y Tierra
-- [ ] arcaico-6 · Los fósiles más antiguos: la búsqueda de la primera vida
+- [x] arcaico-6 (Veo, 25-oct) · Los fósiles más antiguos: la búsqueda de la primera vida
 - [x] mesozoico-8 (Veo, 25-oct) · Los primeros mamíferos, a la sombra de los dinosaurios
-- [ ] paleozoico-11 · El bosque que se hizo carbón
+- [x] paleozoico-11 (Veo, 25-oct) · El bosque que se hizo carbón
 - [x] proterozoico-5 (Veo, 25-oct) · La vida se hace múltiple
 - [x] proterozoico-7 (Veo, 25-oct) · La capa de ozono: un filtro solar para el planeta
 
@@ -49,274 +49,274 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 
 ### Desarrollos
 - [x] des-altamira (Gemini, 25-oct) · Altamira: la cueva que nadie creyó
-- [ ] des-antequera · Antequera: Menga, Viera y El Romeral
-- [ ] des-argar · La Bastida de Totana
+- [x] des-antequera (Veo, 25-oct) · Antequera: Menga, Viera y El Romeral
+- [x] des-argar (Veo, 25-oct) · La Bastida de Totana
 - [ ] des-bola-nieve · La Tierra bola de nieve
 - [ ] des-mesiniense · Cuando el Mediterráneo era un desierto de sal
 - [x] des-mohenjo (Gemini, 25-oct) · Un paseo por Mohenjo-Daro
 - [ ] des-polvo-estrellas · Polvo de estrellas: de dónde viene cada átomo de tu cuerpo
-- [ ] des-sistema-solar · Cómo nace un sistema solar: del polvo a los planetas
+- [x] des-sistema-solar (Veo, 25-oct) · Cómo nace un sistema solar: del polvo a los planetas
 - [x] des-stonehenge (Gemini, 25-oct) · Stonehenge: piedras traídas de muy lejos
 - [ ] des-ur · Las tumbas reales de Ur
 
 ### Edad Antigua · capítulo 2
-- [ ] ant2-0 · Egipto: los Imperios Medio y Nuevo
+- [x] ant2-0 (Veo, 25-oct) · Egipto: los Imperios Medio y Nuevo
 - [x] ant2-1 (Veo, 25-oct) · Babilonia, Asiria y los hititas
-- [ ] ant2-2 · El Egeo: minoicos y micénicos
+- [x] ant2-2 (Veo, 25-oct) · El Egeo: minoicos y micénicos
 - [x] ant2-3 (Veo, 25-oct) · India: los Vedas
 - [x] ant2-4 (Veo, 25-oct) · China: la dinastía Shang
-- [ ] ant2-5 · Y mientras tanto…
-- [ ] ant2-6 · Hammurabi y su código
-- [ ] ant2-7 · Hatshepsut, la mujer faraón
-- [ ] ant2-9 · Tutankamón
+- [x] ant2-5 (Veo, 25-oct) · Y mientras tanto…
+- [x] ant2-6 (Veo, 25-oct) · Hammurabi y su código
+- [x] ant2-7 (Veo, 25-oct) · Hatshepsut, la mujer faraón
+- [x] ant2-9 (Veo, 25-oct) · Tutankamón
 - [x] ant2-10 (Gemini, 25-oct, redibujada) · Ramsés II y el primer tratado de paz
 - [x] ant2-11 (Gemini, 18-oct) · La erupción de Thera
-- [ ] ant2-12 · Troya, entre el mito y la historia
-- [ ] ant2-13 · Kerma, el reino de Nubia
+- [x] ant2-12 (Veo, 25-oct) · Troya, entre el mito y la historia
+- [x] ant2-13 (Veo, 25-oct) · Kerma, el reino de Nubia
 - [ ] ant2-14 · Fu Hao y los huesos oraculares
-- [ ] ant2-15 · Las motillas de La Mancha
-- [ ] des-hattusa · Hattusa, la capital de los hititas
-- [ ] des-tutankamon · La tumba de Tutankamón
-- [ ] des-akrotiri · Akrotiri, la Pompeya del Egeo
-- [ ] des-motilla · La Motilla del Azuer
+- [x] ant2-15 (Veo, 25-oct) · Las motillas de La Mancha
+- [x] des-hattusa (Veo, 25-oct) · Hattusa, la capital de los hititas
+- [x] des-tutankamon (Veo, 25-oct) · La tumba de Tutankamón
+- [x] des-akrotiri (Veo, 25-oct) · Akrotiri, la Pompeya del Egeo
+- [x] des-motilla (Veo, 25-oct) · La Motilla del Azuer
 
 ### Edad Antigua · capítulo 3
 - [x] ant3-1 (Veo, 25-oct) · Egipto: decadencia y faraones extranjeros
 - [x] ant3-2 (Veo, 25-oct) · Israel, Fenicia y el alfabeto
-- [ ] ant3-3 · Asiria, Babilonia y el Imperio persa
+- [x] ant3-3 (Veo, 25-oct) · Asiria, Babilonia y el Imperio persa
 - [x] ant3-4 (Veo, 25-oct) · Grecia: nace la polis
 - [x] ant3-5 (Veo, 25-oct) · América: olmecas y Chavín
 - [x] ant3-6 (Veo, 25-oct) · La Era Axial: Buda, Confucio y Lao-Tsé
-- [ ] ant3-7 · China: los Zhou
-- [ ] ant3-8 · La Iberia prerromana: Tartessos, iberos y celtíberos
+- [x] ant3-7 (Veo, 25-oct) · China: los Zhou
+- [x] ant3-8 (Veo, 25-oct) · La Iberia prerromana: Tartessos, iberos y celtíberos
 - [x] ant3-9 (Veo, 25-oct) · Y mientras tanto…
 - [x] ant3-10 (Veo, 25-oct) · El tesoro del Carambolo
-- [ ] ant3-11 · Cancho Roano y Casas del Turuñuelo
+- [x] ant3-11 (Veo, 25-oct) · Cancho Roano y Casas del Turuñuelo
 - [x] ant3-12 (Veo, 25-oct) · Gadir y los fenicios en el Mediterráneo occidental
-- [ ] ant3-13 · Asurbanipal y la biblioteca de Nínive
+- [x] ant3-13 (Veo, 25-oct) · Asurbanipal y la biblioteca de Nínive
 - [x] ant3-14 (Veo, 25-oct) · Nabucodonosor II y la Babilonia de la Puerta de Ishtar
-- [ ] ant3-15 · Ciro el Grande
+- [x] ant3-15 (Veo, 25-oct) · Ciro el Grande
 - [x] ant3-16 (Veo, 25-oct) · Homero y los primeros Juegos Olímpicos
 - [x] ant3-17 (Veo, 25-oct) · Kush: los faraones negros
-- [ ] ant3-18 · Los etruscos y la fundación de Roma
-- [ ] ant3-19 · Los escitas, jinetes de las estepas
+- [x] ant3-18 (Veo, 25-oct) · Los etruscos y la fundación de Roma
+- [x] ant3-19 (Veo, 25-oct) · Los escitas, jinetes de las estepas
 - [x] des-carambolo (Veo, 25-oct) · El tesoro del Carambolo
 - [ ] des-turunuelo · Casas del Turuñuelo, el edificio enterrado
-- [ ] des-ninive · La biblioteca de Asurbanipal
+- [x] des-ninive (Veo, 25-oct) · La biblioteca de Asurbanipal
 - [ ] des-ishtar · La Puerta de Ishtar
 
 ### Edad Antigua · capítulo 4
 - [x] ant4-0 (Gemini, 25-oct) · La Grecia clásica
 - [x] ant4-1 (Veo, 25-oct) · Alejandro Magno y el helenismo
-- [ ] ant4-2 · Roma: de la República al dominio del mundo
-- [ ] ant4-3 · Hispania romana: conquista y romanización
-- [ ] ant4-5 · China: Qin y Han
+- [x] ant4-2 (Veo, 25-oct) · Roma: de la República al dominio del mundo
+- [x] ant4-3 (Veo, 25-oct) · Hispania romana: conquista y romanización
+- [x] ant4-5 (Veo, 25-oct) · China: Qin y Han
 - [x] ant4-6 (Veo, 25-oct) · India: el Imperio Maurya
 - [x] ant4-7 (Veo, 25-oct) · Y mientras tanto…
 - [ ] ant4-9 · Pericles y la Acrópolis
-- [ ] ant4-10 · Sócrates, Platón y Aristóteles
+- [x] ant4-10 (Veo, 25-oct) · Sócrates, Platón y Aristóteles
 - [x] ant4-11 (Veo, 25-oct) · Aníbal y las guerras púnicas
-- [ ] ant4-12 · Numancia
-- [ ] ant4-13 · Viriato y los lusitanos
-- [ ] ant4-14 · Julio César
+- [x] ant4-12 (Veo, 25-oct) · Numancia
+- [x] ant4-13 (Veo, 25-oct) · Viriato y los lusitanos
+- [x] ant4-14 (Veo, 25-oct) · Julio César
 - [x] ant4-15 (Veo, 25-oct) · Darío I y Persépolis
-- [ ] ant4-16 · Qin Shi Huang y los guerreros de terracota
-- [ ] ant4-17 · Ashoka
-- [ ] ant4-18 · Las damas ibéricas: Elche, Baza y el Cerro de los Santos
+- [x] ant4-16 (Veo, 25-oct) · Qin Shi Huang y los guerreros de terracota
+- [x] ant4-17 (Veo, 25-oct) · Ashoka
+- [x] ant4-18 (Veo, 25-oct) · Las damas ibéricas: Elche, Baza y el Cerro de los Santos
 - [ ] ant4-20 · Paracas y Nazca
-- [ ] des-partenon · El Partenón
-- [ ] des-numancia · Numancia, el asedio
+- [x] des-partenon (Veo, 25-oct) · El Partenón
+- [x] des-numancia (Veo, 25-oct) · Numancia, el asedio
 - [ ] des-terracota · Los guerreros de terracota
-- [ ] des-elche · La Dama de Elche
-- [ ] des-persepolis · Persépolis
+- [x] des-elche (Veo, 25-oct) · La Dama de Elche
+- [x] des-persepolis (Veo, 25-oct) · Persépolis
 
 ### Edad Media · capítulo 1
-- [ ] med1-0 · La caída de Roma y los reinos bárbaros
-- [ ] med1-5 · Suevos, vándalos y alanos: Hispania se rompe
+- [x] med1-0 (Veo, 25-oct) · La caída de Roma y los reinos bárbaros
+- [x] med1-5 (Veo, 25-oct) · Suevos, vándalos y alanos: Hispania se rompe
 - [x] med1-10 (Veo, 25-oct) · Clodoveo y los francos
-- [ ] med1-14 · Teodorico y la Italia ostrogoda
-- [ ] med1-6 · Justiniano, Teodora y Santa Sofía
+- [x] med1-14 (Veo, 25-oct) · Teodorico y la Italia ostrogoda
+- [x] med1-6 (Veo, 25-oct) · Justiniano, Teodora y Santa Sofía
 - [x] med1-11 (Veo, 25-oct) · La peste de Justiniano
-- [ ] med1-3 · La Iglesia, los monjes y el papado
-- [ ] med1-9 · Los anglosajones y Sutton Hoo
-- [ ] med1-1 · La Hispania visigoda: el reino de Toledo
+- [x] med1-3 (Veo, 25-oct) · La Iglesia, los monjes y el papado
+- [x] med1-9 (Veo, 25-oct) · Los anglosajones y Sutton Hoo
+- [x] med1-1 (Veo, 25-oct) · La Hispania visigoda: el reino de Toledo
 - [x] med1-13 (Veo, 25-oct) · China: Sui y Tang
-- [ ] med1-7 · Isidoro de Sevilla y las Etimologías
-- [ ] med1-12 · Los mayas del Clásico: Palenque y Pakal
-- [ ] med1-8 · El tesoro de Guarrazar
-- [ ] med1-4 · Y mientras tanto…
-- [ ] des-ravena · Los mosaicos de Rávena
-- [ ] des-santa-sofia · Santa Sofía
+- [x] med1-7 (Veo, 25-oct) · Isidoro de Sevilla y las Etimologías
+- [x] med1-12 (Veo, 25-oct) · Los mayas del Clásico: Palenque y Pakal
+- [x] med1-8 (Veo, 25-oct) · El tesoro de Guarrazar
+- [x] med1-4 (Veo, 25-oct) · Y mientras tanto…
+- [x] des-ravena (Veo, 25-oct) · Los mosaicos de Rávena
+- [x] des-santa-sofia (Veo, 25-oct) · Santa Sofía
 - [x] des-guarrazar (Veo, 25-oct) · Las coronas de Guarrazar
-- [ ] des-sutton-hoo · Sutton Hoo, el barco enterrado
+- [x] des-sutton-hoo (Veo, 25-oct) · Sutton Hoo, el barco enterrado
 - [ ] des-palenque · La tumba de Pakal
 
 ### Edad Antigua · capítulo 5
-- [ ] ant5-0 · El Imperio romano
-- [ ] ant5-8 · Augusto y la Pax Romana
+- [x] ant5-0 (Veo, 25-oct) · El Imperio romano
+- [x] ant5-8 (Veo, 25-oct) · Augusto y la Pax Romana
 - [ ] ant5-1 · Egipto romano y cristiano
 - [x] ant5-2 (Veo, 25-oct) · Judea, Jesús y el nacimiento del cristianismo
-- [ ] ant5-3 · China: Han, Tres Reinos y división
+- [x] ant5-3 (Veo, 25-oct) · China: Han, Tres Reinos y división
 - [x] ant5-12 (Veo, 25-oct) · Hispania en el Imperio: Mérida, Itálica y Las Médulas
-- [ ] ant5-19 · Japón y Corea: Yamato y los Tres Reinos
-- [ ] ant5-15 · Aksum
+- [x] ant5-19 (Veo, 25-oct) · Japón y Corea: Yamato y los Tres Reinos
+- [x] ant5-15 (Veo, 25-oct) · Aksum
 - [x] ant5-9 (Veo, 25-oct) · Pompeya y Herculano
-- [ ] ant5-11 · El Coliseo y los gladiadores
-- [ ] ant5-10 · Trajano y Adriano, emperadores de Hispania
-- [ ] ant5-14 · Los moche y el Señor de Sipán
-- [ ] ant5-6 · Mesoamérica: Teotihuacan y los mayas
-- [ ] ant5-5 · Persia sasánida
+- [x] ant5-11 (Veo, 25-oct) · El Coliseo y los gladiadores
+- [x] ant5-10 (Veo, 25-oct) · Trajano y Adriano, emperadores de Hispania
+- [x] ant5-14 (Veo, 25-oct) · Los moche y el Señor de Sipán
+- [x] ant5-6 (Veo, 25-oct) · Mesoamérica: Teotihuacan y los mayas
+- [x] ant5-5 (Veo, 25-oct) · Persia sasánida
 - [x] ant5-13 (Veo, 25-oct) · Constantino y Constantinopla
 - [ ] ant5-4 · India: el Imperio Gupta
-- [ ] ant5-16 · Los visigodos y el fin del Imperio de Occidente
-- [ ] ant5-18 · Hipatia de Alejandría
+- [x] ant5-16 (Veo, 25-oct) · Los visigodos y el fin del Imperio de Occidente
+- [x] ant5-18 (Veo, 25-oct) · Hipatia de Alejandría
 - [x] ant5-7 (Veo, 25-oct) · Y mientras tanto…
-- [ ] des-coliseo · El Coliseo
-- [ ] des-medulas · Las Médulas
+- [x] des-coliseo (Veo, 25-oct) · El Coliseo
+- [x] des-medulas (Veo, 25-oct) · Las Médulas
 - [x] des-pompeya (Gemini, 18-oct) · Pompeya, una ciudad detenida
-- [ ] des-sipan · El Señor de Sipán
-- [ ] des-teotihuacan · Teotihuacan
+- [x] des-sipan (Veo, 25-oct) · El Señor de Sipán
+- [x] des-teotihuacan (Veo, 25-oct) · Teotihuacan
 
 ### Edad Media · capítulo 2
-- [ ] med2-0 · Mahoma y la expansión del islam
-- [ ] med2-2 · Al-Ándalus y el esplendor de Córdoba
+- [x] med2-0 (Veo, 25-oct) · Mahoma y la expansión del islam
+- [x] med2-2 (Veo, 25-oct) · Al-Ándalus y el esplendor de Córdoba
 - [x] med2-3 (Veo, 25-oct) · Covadonga y el reino de Asturias
-- [ ] med2-15 · China Tang: esplendor y rebelión
-- [ ] med2-18 · El colapso maya y Chichén Itzá
-- [ ] med2-17 · Ghana, el país del oro
-- [ ] med2-4 · Carlomagno y el Imperio carolingio
+- [x] med2-15 (Veo, 25-oct) · China Tang: esplendor y rebelión
+- [x] med2-18 (Veo, 25-oct) · El colapso maya y Chichén Itzá
+- [x] med2-17 (Veo, 25-oct) · Ghana, el país del oro
+- [x] med2-4 (Veo, 25-oct) · Carlomagno y el Imperio carolingio
 - [x] med2-1 (Veo, 25-oct) · La Edad de Oro del islam: Bagdad
-- [ ] med2-7 · De Oviedo al Duero: de Alfonso II a Alfonso III
-- [ ] med2-12 · El arte asturiano
+- [x] med2-7 (Veo, 25-oct) · De Oviedo al Duero: de Alfonso II a Alfonso III
+- [x] med2-12 (Veo, 25-oct) · El arte asturiano
 - [x] med2-16 (Veo, 25-oct) · Angkor y el imperio jemer
-- [ ] med2-10 · La Casa de la Sabiduría y al-Juarismi
-- [ ] med2-11 · Santiago de Compostela y el nacimiento del Camino
-- [ ] med2-19 · Fátima al-Fihri y la mezquita de al-Qarawiyyin
+- [x] med2-10 (Veo, 25-oct) · La Casa de la Sabiduría y al-Juarismi
+- [x] med2-11 (Veo, 25-oct) · Santiago de Compostela y el nacimiento del Camino
+- [x] med2-19 (Veo, 25-oct) · Fátima al-Fihri y la mezquita de al-Qarawiyyin
 - [x] med2-14 (Veo, 25-oct) · La Rus de Kiev
 - [ ] med2-8 · El reino de León y la Castilla de Fernán González
 - [ ] med2-9 · Abderramán III y Medina Azahara
-- [ ] med2-6 · Y mientras tanto…
+- [x] med2-6 (Veo, 25-oct) · Y mientras tanto…
 - [x] des-mezquita (Veo, 25-oct) · La Mezquita de Córdoba
 - [ ] des-azahara · Medina Azahara
-- [ ] des-naranco · Santa María del Naranco
+- [x] des-naranco (Veo, 25-oct) · Santa María del Naranco
 - [x] des-anse (Veo, 25-oct) · L'Anse aux Meadows
 
 ### Edad Media · capítulo 3
-- [ ] med3-9 · El Japón de los samuráis
-- [ ] med3-4 · Bizancio: esplendor y la Cuarta Cruzada
+- [x] med3-9 (Veo, 25-oct) · El Japón de los samuráis
+- [x] med3-4 (Veo, 25-oct) · Bizancio: esplendor y la Cuarta Cruzada
 - [x] med3-8 (Veo, 25-oct) · China Song y la revolución de los inventos
-- [ ] med3-1 · El Sacro Imperio y el Papado
+- [x] med3-1 (Veo, 25-oct) · El Sacro Imperio y el Papado
 - [x] med3-0 (Veo, 25-oct) · El feudalismo y el despegue de Europa
-- [ ] med3-13 · El románico: de Jaca y Frómista al Pórtico de la Gloria
-- [ ] med3-20 · Murasaki Shikibu y el Genji
-- [ ] med3-6 · La Reconquista (II): de las taifas a Las Navas de Tolosa
-- [ ] med3-14 · Almorávides y almohades
+- [x] med3-13 (Veo, 25-oct) · El románico: de Jaca y Frómista al Pórtico de la Gloria
+- [x] med3-20 (Veo, 25-oct) · Murasaki Shikibu y el Genji
+- [x] med3-6 (Veo, 25-oct) · La Reconquista (II): de las taifas a Las Navas de Tolosa
+- [x] med3-14 (Veo, 25-oct) · Almorávides y almohades
 - [ ] med3-11 · El Cid, entre la historia y el cantar
 - [ ] med3-17 · Cahokia, la ciudad del Misisipi
-- [ ] med3-2 · Inglaterra y Francia: Hastings y la Carta Magna
-- [ ] med3-3 · Las Cruzadas y el choque con el Islam
+- [x] med3-2 (Veo, 25-oct) · Inglaterra y Francia: Hastings y la Carta Magna
+- [x] med3-3 (Veo, 25-oct) · Las Cruzadas y el choque con el Islam
 - [ ] med3-15 · Hildegarda de Bingen
 - [x] med3-16 (Veo, 25-oct) · Angkor Wat
-- [ ] med3-18 · Averroes y Maimónides
-- [ ] med3-12 · La Escuela de Traductores de Toledo
+- [x] med3-18 (Veo, 25-oct) · Averroes y Maimónides
+- [x] med3-12 (Veo, 25-oct) · La Escuela de Traductores de Toledo
 - [x] med3-19 (Veo, 25-oct) · Leonor de Aquitania
-- [ ] med3-10 · Y mientras tanto…
-- [ ] des-catedral-burgos · La catedral de Burgos
-- [ ] des-giralda · La Giralda
+- [x] med3-10 (Veo, 25-oct) · Y mientras tanto…
+- [x] des-catedral-burgos (Veo, 25-oct) · La catedral de Burgos
+- [x] des-giralda (Veo, 25-oct) · La Giralda
 - [ ] des-portico · El Pórtico de la Gloria
-- [ ] des-angkor-wat · Angkor Wat
+- [x] des-angkor-wat (Veo, 25-oct) · Angkor Wat
 
 ### Edad Media · capítulo 4
 - [x] med4-0 (Veo, 25-oct) · Gengis Kan y el Imperio Mongol
 - [x] med4-2 (Veo, 25-oct) · África: Malí y Mansa Musa
-- [ ] med4-8 · La Alhambra y el reino nazarí de Granada
+- [x] med4-8 (Veo, 25-oct) · La Alhambra y el reino nazarí de Granada
 - [x] med4-3 (Veo, 25-oct) · Los reinos del África negra
-- [ ] med4-1 · El Islam después de los mongoles
-- [ ] med4-10 · Gran Zimbabue
-- [ ] med4-5 · Alfonso X el Sabio
+- [x] med4-1 (Veo, 25-oct) · El Islam después de los mongoles
+- [x] med4-10 (Veo, 25-oct) · Gran Zimbabue
+- [x] med4-5 (Veo, 25-oct) · Alfonso X el Sabio
 - [x] med4-9 (Veo, 25-oct) · La Corona de Aragón en el Mediterráneo
-- [ ] med4-12 · Dante, Giotto y el Trecento
+- [x] med4-12 (Veo, 25-oct) · Dante, Giotto y el Trecento
 - [x] med4-7 (Veo, 25-oct) · Kublai Kan y la China Yuan
-- [ ] med4-6 · Marco Polo y el Libro de las maravillas
-- [ ] med4-11 · Las invasiones mongolas de Japón
+- [x] med4-6 (Veo, 25-oct) · Marco Polo y el Libro de las maravillas
+- [x] med4-11 (Veo, 25-oct) · Las invasiones mongolas de Japón
 - [ ] med4-13 · El final de los templarios
-- [ ] med4-15 · Los mexicas y la fundación de Tenochtitlan
-- [ ] med4-14 · Ibn Battuta, el viajero de Tánger
-- [ ] des-cantigas · Las Cantigas de Santa María
+- [x] med4-15 (Veo, 25-oct) · Los mexicas y la fundación de Tenochtitlan
+- [x] med4-14 (Veo, 25-oct) · Ibn Battuta, el viajero de Tánger
+- [x] des-cantigas (Veo, 25-oct) · Las Cantigas de Santa María
 - [ ] des-scrovegni · La Capilla de los Scrovegni
 - [x] des-tenochtitlan (Veo, 25-oct) · Tenochtitlan, la ciudad en el lago
-- [ ] des-zimbabue · Gran Zimbabue
+- [x] des-zimbabue (Veo, 25-oct) · Gran Zimbabue
 
 ### Edad Media · capítulo 5
 - [x] med5-2 (Veo, 25-oct) · La caída de Constantinopla y los otomanos
-- [ ] med5-1 · La Guerra de los Cien Años
+- [x] med5-1 (Veo, 25-oct) · La Guerra de los Cien Años
 - [x] med5-0 (Veo, 25-oct) · La Peste Negra y la crisis del siglo XIV
-- [ ] med5-16 · Christine de Pizan
-- [ ] med5-15 · Los Ming y la Ciudad Prohibida
+- [x] med5-16 (Veo, 25-oct) · Christine de Pizan
+- [x] med5-15 (Veo, 25-oct) · Los Ming y la Ciudad Prohibida
 - [ ] med5-8 · Tamerlán, Samarcanda y la embajada de Clavijo
-- [ ] med5-14 · El reino del Kongo
-- [ ] med5-7 · Sefarad: de 1391 a la expulsión de 1492
-- [ ] med5-4 · El Renacimiento y la imprenta
-- [ ] med5-17 · Caspe y la Corona de Aragón en Nápoles
-- [ ] med5-9 · Juana de Arco
+- [x] med5-14 (Veo, 25-oct) · El reino del Kongo
+- [x] med5-7 (Veo, 25-oct) · Sefarad: de 1391 a la expulsión de 1492
+- [x] med5-4 (Veo, 25-oct) · El Renacimiento y la imprenta
+- [x] med5-17 (Veo, 25-oct) · Caspe y la Corona de Aragón en Nápoles
+- [x] med5-9 (Veo, 25-oct) · Juana de Arco
 - [x] med5-12 (Veo, 25-oct) · Los portugueses en la costa de África
 - [ ] med5-11 · Brunelleschi y la cúpula de Florencia
 - [x] med5-5 (Veo, 25-oct) · Los imperios de América: aztecas e incas
-- [ ] med5-13 · Pachacútec y Machu Picchu
-- [ ] med5-3 · El fin de la Reconquista: los Reyes Católicos
-- [ ] med5-6 · Y mientras tanto…
-- [ ] des-ciudad-prohibida · La Ciudad Prohibida
-- [ ] des-gutenberg · La Biblia de Gutenberg
-- [ ] des-transito · La sinagoga del Tránsito
+- [x] med5-13 (Veo, 25-oct) · Pachacútec y Machu Picchu
+- [x] med5-3 (Veo, 25-oct) · El fin de la Reconquista: los Reyes Católicos
+- [x] med5-6 (Veo, 25-oct) · Y mientras tanto…
+- [x] des-ciudad-prohibida (Veo, 25-oct) · La Ciudad Prohibida
+- [x] des-gutenberg (Veo, 25-oct) · La Biblia de Gutenberg
+- [x] des-transito (Veo, 25-oct) · La sinagoga del Tránsito
 
 ### Edad Moderna · capítulo 1
-- [ ] mod1-0 · Colón, los taínos y La Española
-- [ ] mod1-11 · Las epidemias y el gran desplome de América
+- [x] mod1-0 (Veo, 25-oct) · Colón, los taínos y La Española
+- [x] mod1-11 (Veo, 25-oct) · Las epidemias y el gran desplome de América
 - [x] mod1-2 (Veo, 25-oct) · Portugal y el imperio de las especias
-- [ ] mod1-8 · Leonardo, Miguel Ángel y Rafael
-- [ ] mod1-12 · Los humanistas: Erasmo, Moro, Nebrija y Alcalá
-- [ ] mod1-14 · Songhai y Tombuctú
+- [x] mod1-8 (Veo, 25-oct) · Leonardo, Miguel Ángel y Rafael
+- [x] mod1-12 (Veo, 25-oct) · Los humanistas: Erasmo, Moro, Nebrija y Alcalá
+- [x] mod1-14 (Veo, 25-oct) · Songhai y Tombuctú
 - [x] mod1-15 (Veo, 25-oct) · Sevilla, la Casa de Contratación y la Carrera de Indias
-- [ ] mod1-3 · El Imperio de Carlos V y Felipe II
-- [ ] mod1-13 · Comuneros y Germanías
+- [x] mod1-3 (Veo, 25-oct) · El Imperio de Carlos V y Felipe II
+- [x] mod1-13 (Veo, 25-oct) · Comuneros y Germanías
 - [ ] mod1-1 · La primera vuelta al mundo
-- [ ] mod1-7 · Montesinos, Las Casas y las Leyes Nuevas
-- [ ] mod1-9 · Solimán el Magnífico y Hürrem
+- [x] mod1-7 (Veo, 25-oct) · Montesinos, Las Casas y las Leyes Nuevas
+- [x] mod1-9 (Veo, 25-oct) · Solimán el Magnífico y Hürrem
 - [x] mod1-6 (Veo, 25-oct) · Cajamarca y el fin del Tahuantinsuyo
 - [ ] mod1-16 · Japón en guerra y los primeros europeos
-- [ ] mod1-10 · Potosí y la plata
-- [ ] mod1-4 · Y mientras tanto…
+- [x] mod1-10 (Veo, 25-oct) · Potosí y la plata
+- [x] mod1-4 (Veo, 25-oct) · Y mientras tanto…
 - [x] des-potosi (Veo, 25-oct) · El Cerro Rico de Potosí
-- [ ] des-sevilla-indias · Sevilla, puerto de Indias
-- [ ] des-suleymaniye · La mezquita de Solimán
+- [x] des-sevilla-indias (Veo, 25-oct) · Sevilla, puerto de Indias
+- [x] des-suleymaniye (Veo, 25-oct) · La mezquita de Solimán
 
 ### Edad Moderna · capítulo 2
 - [ ] mod2-0 · Lutero y la Reforma protestante
-- [ ] mod2-1 · La Contrarreforma católica
+- [x] mod2-1 (Veo, 25-oct) · La Contrarreforma católica
 - [ ] mod2-7 · Felipe II: Lepanto, Portugal y la Armada
-- [ ] mod2-17 · Los moriscos: de las Alpujarras a la expulsión
+- [x] mod2-17 (Veo, 25-oct) · Los moriscos: de las Alpujarras a la expulsión
 - [x] mod2-8 (Veo, 25-oct) · Teresa de Jesús y Juan de la Cruz
 - [ ] mod2-20 · La rebelión de los Países Bajos
 - [x] mod2-11 (Veo, 25-oct) · Isabel I de Inglaterra y Shakespeare
 - [x] mod2-3 (Veo, 25-oct) · Los imperios de la pólvora: otomanos y safávidas
-- [ ] mod2-12 · Akbar, Nur Jahan y el Taj Mahal
+- [x] mod2-12 (Veo, 25-oct) · Akbar, Nur Jahan y el Taj Mahal
 - [x] mod2-14 (Veo, 25-oct) · Manila y el Galeón
-- [ ] mod2-16 · Guamán Poma y el Inca Garcilaso
-- [ ] mod2-18 · Matteo Ricci y el final de los Ming
-- [ ] mod2-13 · Los Tokugawa y la embajada de Hasekura
+- [x] mod2-16 (Veo, 25-oct) · Guamán Poma y el Inca Garcilaso
+- [x] mod2-18 (Veo, 25-oct) · Matteo Ricci y el final de los Ming
+- [x] mod2-13 (Veo, 25-oct) · Los Tokugawa y la embajada de Hasekura
 - [ ] mod2-9 · Cervantes y el Quijote
-- [ ] mod2-19 · La caza de brujas
+- [x] mod2-19 (Veo, 25-oct) · La caza de brujas
 - [ ] mod2-5 · El nacimiento de la ciencia moderna
 - [ ] mod2-15 · Galileo
 - [ ] mod2-2 · La Guerra de los Treinta Años
 - [ ] mod2-4 · La decadencia de los Austrias
-- [ ] mod2-10 · Velázquez y la pintura del Siglo de Oro
+- [x] mod2-10 (Veo, 25-oct) · Velázquez y la pintura del Siglo de Oro
 - [ ] mod2-21 · Njinga de Ndongo y Matamba
 - [x] mod2-6 (Veo, 25-oct) · Y mientras tanto…
-- [ ] des-escorial · El Escorial
-- [ ] des-globe · El teatro del Globo
-- [ ] des-isfahan · La plaza de Isfahán
-- [ ] des-taj-mahal · El Taj Mahal
+- [x] des-escorial (Veo, 25-oct) · El Escorial
+- [x] des-globe (Veo, 25-oct) · El teatro del Globo
+- [x] des-isfahan (Veo, 25-oct) · La plaza de Isfahán
+- [x] des-taj-mahal (Veo, 25-oct) · El Taj Mahal
 
 ### Edad Moderna · capítulo 3
 - [ ] mod3-0 · Luis XIV y el absolutismo
