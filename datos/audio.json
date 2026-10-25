@@ -1078,7 +1078,7 @@
    "viva": "img/vivas/des-mesiniense.mp4",
    "d": 337,
    "voz_d": "Aoede",
-   "viva_tipo": "veo"
+   "viva_tipo": "camara"
   },
   "des-gran-mortandad": {
    "viva": "img/vivas/des-gran-mortandad.mp4",
@@ -2291,7 +2291,7 @@
   },
   "ant4-20": {
    "viva": "img/vivas/ant4-20.mp4",
-   "viva_tipo": "veo",
+   "viva_tipo": "camara",
    "n": 83,
    "voz_n": "Leda",
    "g": 175,
@@ -2313,7 +2313,7 @@
   },
   "des-terracota": {
    "viva": "img/vivas/des-terracota.mp4",
-   "viva_tipo": "veo",
+   "viva_tipo": "camara",
    "d": 348,
    "voz_d": "Leda"
   },
@@ -2931,7 +2931,7 @@
   },
   "med3-17": {
    "viva": "img/vivas/med3-17.mp4",
-   "viva_tipo": "veo",
+   "viva_tipo": "camara",
    "n": 85,
    "voz_n": "Leda",
    "g": 150,
@@ -3063,7 +3063,7 @@
   },
   "des-scrovegni": {
    "viva": "img/vivas/des-scrovegni.mp4",
-   "viva_tipo": "veo",
+   "viva_tipo": "camara",
    "d": 343,
    "voz_d": "Vindemiatrix"
   },
@@ -4221,7 +4221,7 @@
   },
   "mod4-16": {
    "viva": "img/vivas/mod4-16.mp4",
-   "viva_tipo": "veo",
+   "viva_tipo": "camara",
    "n": 82,
    "voz_n": "Leda",
    "g": 164,
@@ -4419,11 +4419,15 @@
   },
   "des-rev1789": {
    "d": 381,
-   "voz_d": "Gacrux"
+   "voz_d": "Gacrux",
+   "viva": "img/vivas/des-rev1789.mp4",
+   "viva_tipo": "camara"
   },
   "des-malaspina": {
    "d": 330,
-   "voz_d": "Despina"
+   "voz_d": "Despina",
+   "viva": "img/vivas/des-malaspina.mp4",
+   "viva_tipo": "camara"
   },
   "des-tambora": {
    "viva": "img/vivas/des-tambora.mp4",
@@ -5311,7 +5315,7 @@
   },
   "con4-17": {
    "viva": "img/vivas/con4-17.mp4",
-   "viva_tipo": "veo",
+   "viva_tipo": "camara",
    "n": 86,
    "voz_n": "Leda",
    "g": 145,
