@@ -43,7 +43,7 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] des-argar · La Bastida de Totana
 - [ ] des-bola-nieve · La Tierra bola de nieve
 - [ ] des-mesiniense · Cuando el Mediterráneo era un desierto de sal
-- [ ] des-mohenjo · Un paseo por Mohenjo-Daro
+- [x] des-mohenjo (Gemini, 25-oct) · Un paseo por Mohenjo-Daro
 - [ ] des-polvo-estrellas · Polvo de estrellas: de dónde viene cada átomo de tu cuerpo
 - [ ] des-sistema-solar · Cómo nace un sistema solar: del polvo a los planetas
 - [x] des-stonehenge (Gemini, 25-oct) · Stonehenge: piedras traídas de muy lejos
