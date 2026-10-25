@@ -527,12 +527,44 @@ function aplicaAjustes(){
  r.setProperty('--f-head',f.head); r.setProperty('--f-body',f.body); r.setProperty('--f-size',t.px);
 }
 aplicaAjustes(); // se aplica ya, antes de pintar nada, para que no haya parpadeo
+
+// ---------- sincronizar con el servidor (por código) ----------
+function datosSync(){
+ return {
+  vistas: LS.get('hk_vistas',[]),
+  reto: LS.get('hk_reto',{d:{}}),
+  favs: LS.get('hk_favs',[]),
+  ultima: LS.get('hk_ultima',null),
+  ajustes: LS.get('hk_ajustes',{pal:'pergamino',fon:'redondeada',tam:'normal'}),
+ };
+}
+let syncT=null;
+function syncPush(){
+ clearTimeout(syncT);
+ syncT=setTimeout(()=>{
+  let cod=null; try{cod=localStorage.getItem('hk_codigo');}catch(e){}
+  if(!cod)return;
+  fetch('api/sync.php?codigo='+encodeURIComponent(cod),{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(datosSync())}).catch(()=>{});
+ },1200);
+}
+function syncPull(){
+ let cod=null; try{cod=localStorage.getItem('hk_codigo');}catch(e){}
+ if(!cod)return Promise.resolve();
+ return fetch('api/sync.php?codigo='+encodeURIComponent(cod)).then(r=>r.json()).then(d=>{
+  if(!d||typeof d!=='object')return;
+  if('vistas'in d)LS.set('hk_vistas',d.vistas);
+  if('reto'in d)LS.set('hk_reto',d.reto);
+  if('favs'in d)LS.set('hk_favs',d.favs);
+  if('ultima'in d)LS.set('hk_ultima',d.ultima);
+  if('ajustes'in d){LS.set('hk_ajustes',d.ajustes);aplicaAjustes();}
+ }).catch(()=>{});
+}
 function renderAjustes(){
  show('ajustes');
  const a=LS.get('hk_ajustes',{pal:'pergamino',fon:'redondeada',tam:'normal'});
- $('#ajPaletas').innerHTML=PALETAS.map(p=>`<button class="btn ${p.id===a.pal?'':'sec'}" style="flex:0 0 auto" onclick="LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),pal:'${p.id}'});aplicaAjustes();renderAjustes()"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:${p.accent};margin-right:6px;vertical-align:-1px"></span>${p.nombre}</button>`).join('');
- $('#ajFuentes').innerHTML=FUENTES.map(f=>`<button class="btn ${f.id===a.fon?'':'sec'}" style="flex:0 0 auto;font-family:${f.head}" onclick="LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),fon:'${f.id}'});aplicaAjustes();renderAjustes()">${f.nombre}</button>`).join('');
- $('#ajTamanos').innerHTML=TAMANOS.map(t=>`<button class="btn ${t.id===a.tam?'':'sec'}" style="flex:0 0 auto" onclick="LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),tam:'${t.id}'});aplicaAjustes();renderAjustes()">${t.nombre}</button>`).join('');
+ $('#ajPaletas').innerHTML=PALETAS.map(p=>`<button class="btn ${p.id===a.pal?'':'sec'}" style="flex:0 0 auto" onclick="LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),pal:'${p.id}'});aplicaAjustes();syncPush();renderAjustes()"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:${p.accent};margin-right:6px;vertical-align:-1px"></span>${p.nombre}</button>`).join('');
+ $('#ajFuentes').innerHTML=FUENTES.map(f=>`<button class="btn ${f.id===a.fon?'':'sec'}" style="flex:0 0 auto;font-family:${f.head}" onclick="LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),fon:'${f.id}'});aplicaAjustes();syncPush();renderAjustes()">${f.nombre}</button>`).join('');
+ $('#ajTamanos').innerHTML=TAMANOS.map(t=>`<button class="btn ${t.id===a.tam?'':'sec'}" style="flex:0 0 auto" onclick="LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),tam:'${t.id}'});aplicaAjustes();syncPush();renderAjustes()">${t.nombre}</button>`).join('');
  let cod=null; try{cod=localStorage.getItem('hk_codigo');}catch(e){}
  $('#ajCodVal').textContent=cod||'(aún no se ha creado)';
  const bc=$('#ajBtnCopiaCod');
@@ -561,7 +593,7 @@ function go(h){location.hash=h;}
 $('#waTop').innerHTML=WA_ICO+'<span class="wat">Compartir</span>';
 $('#waTop').href=waLink('📜 HistoKHB · La historia del mundo, del Big Bang a hoy\n\nDel origen del universo al mundo de hoy, contado como una gran aventura. Para niños, para curiosos y para quien quiere saberlo todo.\n\n👉 '+SHORT);
 $('#shWa').innerHTML=WA_ICO;
-getJ('indice.json').then(j=>{IDX=j;initInicio();route();}).catch(e=>{document.body.insertAdjacentHTML('afterbegin','<p style="padding:20px">No se han podido cargar los datos. Comprueba la conexión y recarga.</p>');});
+getJ('indice.json').then(j=>{IDX=j;return syncPull();}).then(()=>{initInicio();route();}).catch(e=>{document.body.insertAdjacentHTML('afterbegin','<p style="padding:20px">No se han podido cargar los datos. Comprueba la conexión y recarga.</p>');});
 window.addEventListener('hashchange',route);
 if('serviceWorker' in navigator){const hadSW=!!navigator.serviceWorker.controller; let rl=false;
  navigator.serviceWorker.addEventListener('controllerchange',()=>{if(hadSW&&!rl&&PL.paused){rl=true;location.reload();}});
@@ -626,6 +658,7 @@ function initCodigo(){
   const v=($('#inCod').value||'').trim().toUpperCase();
   if(v.length<4){ $('#errCod').textContent='Escribe el código completo.'; return; }
   try{localStorage.setItem('hk_codigo',v);}catch(e){}
+  syncPull().then(()=>{ if(lastScreen==='inicio')renderInicio(); });
   p.style.transition='opacity .4s';p.style.opacity='0';setTimeout(()=>p.classList.add('hide'),420);
  });
 }
@@ -718,7 +751,7 @@ $('#seg').querySelectorAll('button').forEach(b=>b.onclick=()=>{setLevel(b.datase
 $('#segHome').querySelectorAll('button').forEach(b=>b.onclick=()=>setLevel(b.dataset.l));
 function setLevel(l){LV=l;LS.set('hk_nivel',l);document.querySelectorAll('.lvsel button').forEach(x=>x.classList.toggle('on',x.dataset.l===l));}
 setLevel(LV);
-$('#shFav').onclick=()=>{if(!CUR)return;const id=CUR.kind+':'+CUR.key;let f=LS.get('hk_favs',[]);const k=CUR.kind==='f'?CUR.key:id;f=f.includes(k)?f.filter(x=>x!==k):[...f,k];LS.set('hk_favs',f);favBtn();if(curEra){const keep=curEra;curEra=null;if(lastScreen==='epoca')renderEpoca(keep,null,true);}};
+$('#shFav').onclick=()=>{if(!CUR)return;const id=CUR.kind+':'+CUR.key;let f=LS.get('hk_favs',[]);const k=CUR.kind==='f'?CUR.key:id;f=f.includes(k)?f.filter(x=>x!==k):[...f,k];LS.set('hk_favs',f);syncPush();favBtn();if(curEra){const keep=curEra;curEra=null;if(lastScreen==='epoca')renderEpoca(keep,null,true);}};
 function favBtn(){const k=CUR.kind==='f'?CUR.key:CUR.kind+':'+CUR.key;const on=LS.get('hk_favs',[]).includes(k);$('#shFav').textContent=on?'★':'☆';$('#shFav').style.color=on?'#e0a020':'';}
 // ── Audio de las fichas y láminas animadas (datos/audio.json) ──
 let AMAN=null; const PL=new Audio(); PL.preload='none';
@@ -795,7 +828,7 @@ async function audioUI(k,f,lv){lv=lv||LV;
 }
 // ── Fichas vistas y última ficha abierta ──
 const isVista=k=>LS.get('hk_vistas',[]).includes(k);
-function setVista(k,on){let v=LS.get('hk_vistas',[]);v=v.filter(x=>x!==k);if(on)v.push(k);LS.set('hk_vistas',v);if(curEra){const keep=curEra;curEra=null;if(lastScreen==='epoca')renderEpoca(keep,null,true);}const bt=$('#btnVista');if(bt&&CUR&&CUR.key===k)paintVista(bt,on);}
+function setVista(k,on){let v=LS.get('hk_vistas',[]);v=v.filter(x=>x!==k);if(on)v.push(k);LS.set('hk_vistas',v);syncPush();if(curEra){const keep=curEra;curEra=null;if(lastScreen==='epoca')renderEpoca(keep,null,true);}const bt=$('#btnVista');if(bt&&CUR&&CUR.key===k)paintVista(bt,on);}
 function paintVista(bt,on){bt.classList.toggle('on',on);bt.textContent=on?'✓ Ficha vista':'Marcar como vista';}
 function toggleVista(){if(!CUR)return;setVista(CUR.key,!isVista(CUR.key));}
 function audSeen(){const d=PL.duration,k=(PL.dataset.k||'').split('|')[0];if(k&&IDX.fichas[k]&&d&&PL.currentTime/d>0.95&&!isVista(k))setVista(k,true);}
@@ -809,7 +842,7 @@ async function renderSheet(){
   const cap=IDX.capitulos.find(c=>c.id===f.cap);
   let ill= LV==='n'&&T.sv ? T.sv : f.lam ? `<img src="${f.lam}" alt="${esc(f.t)}" loading="lazy">` : (cap?cap.svg:'');
   $('#shTtl').textContent=f.t; $('#seg').classList.remove('hide');
-  LS.set('hk_ultima',k);
+  LS.set('hk_ultima',k); syncPush();
   b.innerHTML=`<div class="sh-illo">${ill}</div><div class="sh-head"><div class="ic">${f.ic}</div><div><div class="d">${esc(f.d)} · ${esc(f.c)}</div><h2>${esc(f.t)}</h2></div></div><div class="rt">⏱ ${mins(h)} min de lectura · ${LV==='n'?'Niños':LV==='g'?'General':'Profundo'}</div><div class="txt">${h}</div><button class="vista${isVista(k)?' on':''}" id="btnVista" onclick="toggleVista()">${isVista(k)?'✓ Ficha vista':'Marcar como vista'}</button>`+
    (LV!=='p'?`<button class="more" onclick="setLevel('p');renderSheet().then(()=>$('#sheet').scrollTo({top:0,behavior:'smooth'}))">Quiero saber más →</button>`:'')+
    `<p class="rt">${esc(S.t)} · ${cap?esc(cap.t):''}</p>`;
@@ -1288,7 +1321,7 @@ function drawReto(){
  const dots='<div class="dots">'+RS.qs.map((q,j)=>`<i class="${q.ans==null?(j===RS.k?'cur':''):(q.wrong.length?'ko':'ok')}"></i>`).join('')+'</div>';
  if(RS.k>=n){ // terminado: las 5 resueltas
   const first=RS.qs.filter(q=>!q.wrong.length).length;
-  if(!RS.practice){const r=LS.get('hk_reto',{d:{}});if(!(r.d[RS.day]||{}).ok){r.d[RS.day]={s:first,ok:true};LS.set('hk_reto',r);const st0=racha();const prevR=rango(st0-1).r;r.best=Math.max(r.best||0,st0);LS.set('hk_reto',r);RS.subio=(rango(st0).r!==prevR)?rango(st0).r:null;}}
+  if(!RS.practice){const r=LS.get('hk_reto',{d:{}});if(!(r.d[RS.day]||{}).ok){r.d[RS.day]={s:first,ok:true};LS.set('hk_reto',r);const st0=racha();const prevR=rango(st0-1).r;r.best=Math.max(r.best||0,st0);LS.set('hk_reto',r);syncPush();RS.subio=(rango(st0).r!==prevR)?rango(st0).r:null;}}
   const st=racha(), msg=first===5?'¡Pleno a la primera! Eres un sabio de la historia.':first>=3?'¡Muy bien! Reto resuelto.':'¡Reto resuelto! Buscar en las fichas también es aprender.';
   const share='🏆 Reto del día de HistoKHB: '+first+'/5 a la primera'+(RS.practice?'':(st>1?' · 🔥 racha de '+st+' días · '+rango(st).r[1]+' '+rango(st).r[2]:''))+'. ¿Te atreves?\n👉 https://historiatotal.es/#/reto';
   B.innerHTML=LVS+`<div class="score"><div class="sec-t" style="margin-top:6px">${RS.practice?'Práctica':'Reto del día · '+RS.day.split('-').reverse().join('/')}</div><div class="big1">${first}/5</div><p style="margin:4px 0 0;color:var(--muted);font-weight:700">a la primera</p><p>${msg}</p>${RS.practice?'':`${RS.subio?`<div class="fb" style="text-align:center">🎉 ¡Nueva categoría: <b>${RS.subio[1]} ${RS.subio[2]}</b>!</div>`:''}<span class="streak">🔥 Racha: ${st} día${st!==1?'s':''}</span>${rangoHTML(st)}<p class="rt">Cada día que resuelves las 5 preguntas suma uno. Si un día no lo haces, la racha vuelve a empezar.</p>`}</div>`+
