@@ -14,31 +14,27 @@ Animate this illustration, not another one, as an 8-second video. Keep all eleme
 
 Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py <código>`. Si Gemini redibujó, la lámina pasa a ser el primer fotograma del vídeo (así imagen fija y vídeo coinciden). Carlos no tiene que revisar nada.
 
-## LAS QUE QUEDAN PARA GEMINI (21) — pedir SOLO estas
+## LAS QUE QUEDAN PARA GEMINI (17) — pedir SOLO estas
 
-Veo no supo animarlas sin cambiar el dibujo. Todas las demás láminas ya tienen animación. Carlos las hace en su Gemini, de 12 en 12, con la plantilla de arriba; al recibir cada vídeo se sube, se pasa `herramientas/igualar_lamina.py <código>` y se marca aquí con [x].
+Veo no supo animarlas sin cambiar el dibujo. Todas las demás láminas ya tienen animación. Carlos las hace en su Gemini con la plantilla de arriba, una por conversación; al recibir cada vídeo se sube, se pasa `herramientas/igualar_lamina.py <código>` y se marca aquí con [x]. Hechas el 25-oct: ant4-20, ant5-1, con1-19, con3-17.
 
-1. ✓ ant4-20 · Paracas y Nazca
-2. ✓ ant5-1 · Egipto romano y cristiano
-3. ✓ con1-19 · Fotografía, telégrafo y vapor
-4. ✓ con3-17 · Oriente Medio tras los otomanos
-5. con4-0 · La Guerra Fría
-6. con4-17 · 1968: juventud, música y protesta
-7. con5-5 · Y mientras tanto…
-8. des-malaspina · La expedición Malaspina (1789-1794)
-9. des-mesiniense · Cuando el Mediterráneo era un desierto de sal
-10. des-polvo-estrellas · Polvo de estrellas: de dónde viene cada átomo de tu cuerpo
-11. des-rev1789 · 1789: el año que cambió Francia
-12. des-scrovegni · La Capilla de los Scrovegni
-13. des-terracota · Los guerreros de terracota
-14. med3-11 · El Cid, entre la historia y el cantar
-15. med3-17 · Cahokia, la ciudad del Misisipi
-16. med4-13 · El final de los templarios
-17. mod1-1 · La primera vuelta al mundo
-18. mod1-16 · Japón en guerra y los primeros europeos
-19. mod2-15 · Galileo
-20. mod3-17 · Nueva Francia y los pueblos de los Grandes Lagos
-21. mod4-16 · Junípero Serra y las misiones de California
+1. con4-0 · La Guerra Fría
+2. con4-17 · 1968: juventud, música y protesta
+3. con5-5 · Y mientras tanto…
+4. des-malaspina · La expedición Malaspina (1789-1794)
+5. des-mesiniense · Cuando el Mediterráneo era un desierto de sal
+6. des-polvo-estrellas · Polvo de estrellas: de dónde viene cada átomo de tu cuerpo
+7. des-rev1789 · 1789: el año que cambió Francia
+8. des-scrovegni · La Capilla de los Scrovegni
+9. des-terracota · Los guerreros de terracota
+10. med3-11 · El Cid, entre la historia y el cantar
+11. med3-17 · Cahokia, la ciudad del Misisipi
+12. med4-13 · El final de los templarios
+13. mod1-1 · La primera vuelta al mundo
+14. mod1-16 · Japón en guerra y los primeros europeos
+15. mod2-15 · Galileo
+16. mod3-17 · Nueva Francia y los pueblos de los Grandes Lagos
+17. mod4-16 · Junípero Serra y las misiones de California
 
 ## Prioridad
 
