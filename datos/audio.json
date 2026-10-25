@@ -5531,7 +5531,7 @@
   },
   "con5-16": {
    "viva": "img/vivas/con5-16.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 107,
    "voz_n": "Leda",
    "g": 134,
@@ -5541,7 +5541,7 @@
   },
   "con5-18": {
    "viva": "img/vivas/con5-18.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 85,
    "voz_n": "Leda",
    "g": 168,
@@ -5551,7 +5551,7 @@
   },
   "con5-2": {
    "viva": "img/vivas/con5-2.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 82,
    "voz_n": "Leda",
    "g": 154,
@@ -5561,7 +5561,7 @@
   },
   "con5-3": {
    "viva": "img/vivas/con5-3.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 88,
    "voz_n": "Leda",
    "g": 139,
@@ -5591,7 +5591,7 @@
   },
   "con5-6": {
    "viva": "img/vivas/con5-6.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 92,
    "voz_n": "Leda",
    "g": 176,
@@ -5601,7 +5601,7 @@
   },
   "con5-7": {
    "viva": "img/vivas/con5-7.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 94,
    "voz_n": "Leda",
    "g": 154,
@@ -5611,7 +5611,7 @@
   },
   "con5-8": {
    "viva": "img/vivas/con5-8.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 86,
    "voz_n": "Leda",
    "g": 168,
@@ -5631,25 +5631,25 @@
   },
   "des-atocha-11m": {
    "viva": "img/vivas/des-atocha-11m.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "d": 321,
    "voz_d": "Leda"
   },
   "des-cern": {
    "viva": "img/vivas/des-cern.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "d": 373,
    "voz_d": "Sadaltager"
   },
   "des-memorial-11s": {
    "viva": "img/vivas/des-memorial-11s.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "d": 364,
    "voz_d": "Despina"
   },
   "des-srebrenica": {
    "viva": "img/vivas/des-srebrenica.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "d": 363,
    "voz_d": "Iapetus"
   },

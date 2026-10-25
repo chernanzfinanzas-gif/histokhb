@@ -477,27 +477,27 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] des-congreso-1978 (Veo, 25-oct) · El Congreso y la Constitución de 1978
 - [x] des-onu (Veo, 25-oct) · La sede de la ONU en Nueva York
 - [ ] des-robben-island · Robben Island
-- [ ] con5-7 · 
+- [x] con5-7 (Veo, 25-oct) · 
 - [x] con5-10 (Veo, 25-oct) · 
-- [ ] con5-8 · 
+- [x] con5-8 (Veo, 25-oct) · 
 - [x] con5-9 (Veo, 25-oct) · 
 - [x] con5-1 (Veo, 25-oct) · 
 - [x] con5-11 (Veo, 25-oct) · 
 - [x] con5-12 (Veo, 25-oct) · 
-- [ ] con5-2 · 
-- [ ] con5-16 · 
+- [x] con5-2 (Veo, 25-oct) · 
+- [x] con5-16 (Veo, 25-oct) · 
 - [x] con5-13 (Veo, 25-oct) · 
 - [x] con5-15 (Veo, 25-oct) · 
 - [x] con5-4 (Veo, 25-oct) · 
 - [x] con5-14 (Veo, 25-oct) · 
-- [ ] con5-18 · 
-- [ ] con5-3 · 
-- [ ] con5-6 · 
+- [x] con5-18 (Veo, 25-oct) · 
+- [x] con5-3 (Veo, 25-oct) · 
+- [x] con5-6 (Veo, 25-oct) · 
 - [ ] con5-5 · 
-- [ ] des-atocha-11m · El memorial del 11-M en Atocha
-- [ ] des-cern · El CERN y el bosón de Higgs
-- [ ] des-memorial-11s · El Memorial del 11-S
-- [ ] des-srebrenica · El memorial de Srebrenica-Potočari
+- [x] des-atocha-11m (Veo, 25-oct) · El memorial del 11-M en Atocha
+- [x] des-cern (Veo, 25-oct) · El CERN y el bosón de Higgs
+- [x] des-memorial-11s (Veo, 25-oct) · El Memorial del 11-S
+- [x] des-srebrenica (Veo, 25-oct) · El memorial de Srebrenica-Potočari
 
 ## Hechos con Gemini
 
