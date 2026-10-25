@@ -19,7 +19,7 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 Veo no supo animarlas sin cambiar el dibujo. Todas las demás láminas ya tienen animación. Carlos las hace en su Gemini, de 12 en 12, con la plantilla de arriba; al recibir cada vídeo se sube, se pasa `herramientas/igualar_lamina.py <código>` y se marca aquí con [x].
 
 1. ✓ ant4-20 · Paracas y Nazca
-2. ant5-1 · Egipto romano y cristiano
+2. ✓ ant5-1 · Egipto romano y cristiano
 3. con1-19 · Fotografía, telégrafo y vapor
 4. con3-17 · Oriente Medio tras los otomanos
 5. con4-0 · La Guerra Fría
@@ -180,7 +180,7 @@ Veo no supo animarlas sin cambiar el dibujo. Todas las demás láminas ya tienen
 ### Edad Antigua · capítulo 5
 - [x] ant5-0 (Veo, 25-oct) · El Imperio romano
 - [x] ant5-8 (Veo, 25-oct) · Augusto y la Pax Romana
-- [ ] ant5-1 · Egipto romano y cristiano
+- [x] ant5-1 (Gemini, 25-oct) · Egipto romano y cristiano
 - [x] ant5-2 (Veo, 25-oct) · Judea, Jesús y el nacimiento del cristianismo
 - [x] ant5-3 (Veo, 25-oct) · China: Han, Tres Reinos y división
 - [x] ant5-12 (Veo, 25-oct) · Hispania en el Imperio: Mérida, Itálica y Las Médulas
