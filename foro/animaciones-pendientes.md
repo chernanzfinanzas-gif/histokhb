@@ -20,7 +20,7 @@ Veo no supo animarlas sin cambiar el dibujo. Todas las demás láminas ya tienen
 
 1. ✓ ant4-20 · Paracas y Nazca
 2. ✓ ant5-1 · Egipto romano y cristiano
-3. con1-19 · Fotografía, telégrafo y vapor
+3. ✓ con1-19 · Fotografía, telégrafo y vapor
 4. con3-17 · Oriente Medio tras los otomanos
 5. con4-0 · La Guerra Fría
 6. con4-17 · 1968: juventud, música y protesta
@@ -424,7 +424,7 @@ Veo no supo animarlas sin cambiar el dibujo. Todas las demás láminas ya tienen
 - [x] con1-18 (Veo, 25-oct) · 
 - [x] con1-9 (Veo, 25-oct) · 
 - [x] con1-14 (Veo, 25-oct) · 
-- [ ] con1-19 · 
+- [x] con1-19 (Gemini, 25-oct) · 
 - [x] con1-11 (Veo, 25-oct) · 
 - [x] con1-4 (Veo, 25-oct) · 
 - [x] con1-15 (Veo, 25-oct) · 
