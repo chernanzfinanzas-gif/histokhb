@@ -69,7 +69,7 @@ Al recibir un vídeo: comparar su primer fotograma con la lámina; si Gemini ha 
 - [ ] ant2-6 · Hammurabi y su código
 - [ ] ant2-7 · Hatshepsut, la mujer faraón
 - [ ] ant2-9 · Tutankamón
-- [ ] ant2-10 · Ramsés II y el primer tratado de paz
+- [x] ant2-10 (Gemini, 25-oct, redibujada) · Ramsés II y el primer tratado de paz
 - [x] ant2-11 (Gemini, 18-oct) · La erupción de Thera
 - [ ] ant2-12 · Troya, entre el mito y la historia
 - [ ] ant2-13 · Kerma, el reino de Nubia
