@@ -509,9 +509,10 @@ const LS={get(k,d){try{const v=localStorage.getItem(k);return v==null?d:JSON.par
 
 // ---------- ajustes: paleta, letra y tamaño ----------
 const PALETAS=[
+ {id:'oceano',nombre:'Océano',bg:'#eef4f8',ink:'#22303f',accent:'#3f7fb2'},
  {id:'pergamino',nombre:'Pergamino',bg:'#fbf6ec',ink:'#2e2a40',accent:'#e08b3e'},
  {id:'bosque',nombre:'Bosque',bg:'#f3f6ec',ink:'#243324',accent:'#3f8f52'},
- {id:'oceano',nombre:'Océano',bg:'#eef4f8',ink:'#22303f',accent:'#3f7fb2'},
+ {id:'lavanda',nombre:'Lavanda',bg:'#f5f1f8',ink:'#2e2740',accent:'#7c5aa0'},
 ];
 const FUENTES=[
  {id:'redondeada',nombre:'Redondeada',head:"'Fredoka',system-ui,sans-serif",body:"'Nunito',system-ui,sans-serif"},
@@ -520,7 +521,7 @@ const FUENTES=[
 ];
 const TAMANOS=[{id:'normal',nombre:'Normal',px:'16px'},{id:'grande',nombre:'Grande',px:'18px'},{id:'muy-grande',nombre:'Muy grande',px:'21px'}];
 function aplicaAjustes(){
- const a=LS.get('hk_ajustes',{pal:'pergamino',fon:'redondeada',tam:'normal'});
+ const a=LS.get('hk_ajustes',{pal:'oceano',fon:'redondeada',tam:'normal'});
  const p=PALETAS.find(x=>x.id===a.pal)||PALETAS[0], f=FUENTES.find(x=>x.id===a.fon)||FUENTES[0], t=TAMANOS.find(x=>x.id===a.tam)||TAMANOS[0];
  const r=document.documentElement.style;
  r.setProperty('--bg',p.bg); r.setProperty('--ink',p.ink); r.setProperty('--accent',p.accent);
@@ -535,7 +536,7 @@ function datosSync(){
   reto: LS.get('hk_reto',{d:{}}),
   favs: LS.get('hk_favs',[]),
   ultima: LS.get('hk_ultima',null),
-  ajustes: LS.get('hk_ajustes',{pal:'pergamino',fon:'redondeada',tam:'normal'}),
+  ajustes: LS.get('hk_ajustes',{pal:'oceano',fon:'redondeada',tam:'normal'}),
  };
 }
 let syncT=null;
@@ -561,7 +562,7 @@ function syncPull(){
 }
 function renderAjustes(){
  show('ajustes');
- const a=LS.get('hk_ajustes',{pal:'pergamino',fon:'redondeada',tam:'normal'});
+ const a=LS.get('hk_ajustes',{pal:'oceano',fon:'redondeada',tam:'normal'});
  $('#ajPaletas').innerHTML=PALETAS.map(p=>`<button class="btn ${p.id===a.pal?'':'sec'}" style="flex:0 0 auto" onclick="LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),pal:'${p.id}'});aplicaAjustes();syncPush();renderAjustes()"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:${p.accent};margin-right:6px;vertical-align:-1px"></span>${p.nombre}</button>`).join('');
  $('#ajFuentes').innerHTML=FUENTES.map(f=>`<button class="btn ${f.id===a.fon?'':'sec'}" style="flex:0 0 auto;font-family:${f.head}" onclick="LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),fon:'${f.id}'});aplicaAjustes();syncPush();renderAjustes()">${f.nombre}</button>`).join('');
  $('#ajTamanos').innerHTML=TAMANOS.map(t=>`<button class="btn ${t.id===a.tam?'':'sec'}" style="flex:0 0 auto" onclick="LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),tam:'${t.id}'});aplicaAjustes();syncPush();renderAjustes()">${t.nombre}</button>`).join('');
