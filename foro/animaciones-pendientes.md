@@ -27,7 +27,7 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] ant1-12 (Veo, 25-oct) · China antes de las dinastías: Longshan y el «gran Yu»
 - [x] ant1-13 (Veo, 25-oct) · El Argar, el primer Estado de la península
 - [x] ant1-2 (Veo, 25-oct) · El valle del Indo
-- [ ] ant1-3 · Y mientras tanto…
+- [x] ant1-3 (Veo, 25-oct) · Y mientras tanto…
 - [x] ant1-4 (Gemini, 25-oct) · Narmer y la unificación de Egipto
 - [x] ant1-5 (Veo, 25-oct) · Gilgamesh, el primer héroe
 - [x] ant1-6 (Veo, 25-oct) · Las tumbas reales de Ur
@@ -42,7 +42,7 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] proterozoico-7 (Veo, 25-oct) · La capa de ozono: un filtro solar para el planeta
 
 ### Prehistoria
-- [ ] neolitico-19 · Las megaaldeas de Ucrania
+- [x] neolitico-19 (Veo, 25-oct) · Las megaaldeas de Ucrania
 - [x] neolitico-6 (Veo, 25-oct) · Agriculturas de otros mundos
 - [x] paleolitico-12 (Veo, 25-oct) · El poblamiento del planeta
 - [x] paleolitico-14 (Gemini, 25-oct) · Las Venus paleolíticas
@@ -51,13 +51,13 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] des-altamira (Gemini, 25-oct) · Altamira: la cueva que nadie creyó
 - [x] des-antequera (Veo, 25-oct) · Antequera: Menga, Viera y El Romeral
 - [x] des-argar (Veo, 25-oct) · La Bastida de Totana
-- [ ] des-bola-nieve · La Tierra bola de nieve
+- [x] des-bola-nieve (Veo, 25-oct) · La Tierra bola de nieve
 - [ ] des-mesiniense · Cuando el Mediterráneo era un desierto de sal
 - [x] des-mohenjo (Gemini, 25-oct) · Un paseo por Mohenjo-Daro
 - [ ] des-polvo-estrellas · Polvo de estrellas: de dónde viene cada átomo de tu cuerpo
 - [x] des-sistema-solar (Veo, 25-oct) · Cómo nace un sistema solar: del polvo a los planetas
 - [x] des-stonehenge (Gemini, 25-oct) · Stonehenge: piedras traídas de muy lejos
-- [ ] des-ur · Las tumbas reales de Ur
+- [x] des-ur (Veo, 25-oct) · Las tumbas reales de Ur
 
 ### Edad Antigua · capítulo 2
 - [x] ant2-0 (Veo, 25-oct) · Egipto: los Imperios Medio y Nuevo
@@ -73,7 +73,7 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] ant2-11 (Gemini, 18-oct) · La erupción de Thera
 - [x] ant2-12 (Veo, 25-oct) · Troya, entre el mito y la historia
 - [x] ant2-13 (Veo, 25-oct) · Kerma, el reino de Nubia
-- [ ] ant2-14 · Fu Hao y los huesos oraculares
+- [x] ant2-14 (Veo, 25-oct) · Fu Hao y los huesos oraculares
 - [x] ant2-15 (Veo, 25-oct) · Las motillas de La Mancha
 - [x] des-hattusa (Veo, 25-oct) · Hattusa, la capital de los hititas
 - [x] des-tutankamon (Veo, 25-oct) · La tumba de Tutankamón
@@ -101,7 +101,7 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] ant3-18 (Veo, 25-oct) · Los etruscos y la fundación de Roma
 - [x] ant3-19 (Veo, 25-oct) · Los escitas, jinetes de las estepas
 - [x] des-carambolo (Veo, 25-oct) · El tesoro del Carambolo
-- [ ] des-turunuelo · Casas del Turuñuelo, el edificio enterrado
+- [x] des-turunuelo (Veo, 25-oct) · Casas del Turuñuelo, el edificio enterrado
 - [x] des-ninive (Veo, 25-oct) · La biblioteca de Asurbanipal
 - [ ] des-ishtar · La Puerta de Ishtar
 
@@ -113,7 +113,7 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] ant4-5 (Veo, 25-oct) · China: Qin y Han
 - [x] ant4-6 (Veo, 25-oct) · India: el Imperio Maurya
 - [x] ant4-7 (Veo, 25-oct) · Y mientras tanto…
-- [ ] ant4-9 · Pericles y la Acrópolis
+- [x] ant4-9 (Veo, 25-oct) · Pericles y la Acrópolis
 - [x] ant4-10 (Veo, 25-oct) · Sócrates, Platón y Aristóteles
 - [x] ant4-11 (Veo, 25-oct) · Aníbal y las guerras púnicas
 - [x] ant4-12 (Veo, 25-oct) · Numancia
@@ -149,7 +149,7 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] des-santa-sofia (Veo, 25-oct) · Santa Sofía
 - [x] des-guarrazar (Veo, 25-oct) · Las coronas de Guarrazar
 - [x] des-sutton-hoo (Veo, 25-oct) · Sutton Hoo, el barco enterrado
-- [ ] des-palenque · La tumba de Pakal
+- [x] des-palenque (Veo, 25-oct) · La tumba de Pakal
 
 ### Edad Antigua · capítulo 5
 - [x] ant5-0 (Veo, 25-oct) · El Imperio romano
@@ -167,7 +167,7 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] ant5-6 (Veo, 25-oct) · Mesoamérica: Teotihuacan y los mayas
 - [x] ant5-5 (Veo, 25-oct) · Persia sasánida
 - [x] ant5-13 (Veo, 25-oct) · Constantino y Constantinopla
-- [ ] ant5-4 · India: el Imperio Gupta
+- [x] ant5-4 (Veo, 25-oct) · India: el Imperio Gupta
 - [x] ant5-16 (Veo, 25-oct) · Los visigodos y el fin del Imperio de Occidente
 - [x] ant5-18 (Veo, 25-oct) · Hipatia de Alejandría
 - [x] ant5-7 (Veo, 25-oct) · Y mientras tanto…
@@ -193,11 +193,11 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] med2-11 (Veo, 25-oct) · Santiago de Compostela y el nacimiento del Camino
 - [x] med2-19 (Veo, 25-oct) · Fátima al-Fihri y la mezquita de al-Qarawiyyin
 - [x] med2-14 (Veo, 25-oct) · La Rus de Kiev
-- [ ] med2-8 · El reino de León y la Castilla de Fernán González
-- [ ] med2-9 · Abderramán III y Medina Azahara
+- [x] med2-8 (Veo, 25-oct) · El reino de León y la Castilla de Fernán González
+- [x] med2-9 (Veo, 25-oct) · Abderramán III y Medina Azahara
 - [x] med2-6 (Veo, 25-oct) · Y mientras tanto…
 - [x] des-mezquita (Veo, 25-oct) · La Mezquita de Córdoba
-- [ ] des-azahara · Medina Azahara
+- [x] des-azahara (Veo, 25-oct) · Medina Azahara
 - [x] des-naranco (Veo, 25-oct) · Santa María del Naranco
 - [x] des-anse (Veo, 25-oct) · L'Anse aux Meadows
 
@@ -215,7 +215,7 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [ ] med3-17 · Cahokia, la ciudad del Misisipi
 - [x] med3-2 (Veo, 25-oct) · Inglaterra y Francia: Hastings y la Carta Magna
 - [x] med3-3 (Veo, 25-oct) · Las Cruzadas y el choque con el Islam
-- [ ] med3-15 · Hildegarda de Bingen
+- [x] med3-15 (Veo, 25-oct) · Hildegarda de Bingen
 - [x] med3-16 (Veo, 25-oct) · Angkor Wat
 - [x] med3-18 (Veo, 25-oct) · Averroes y Maimónides
 - [x] med3-12 (Veo, 25-oct) · La Escuela de Traductores de Toledo
@@ -223,7 +223,7 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] med3-10 (Veo, 25-oct) · Y mientras tanto…
 - [x] des-catedral-burgos (Veo, 25-oct) · La catedral de Burgos
 - [x] des-giralda (Veo, 25-oct) · La Giralda
-- [ ] des-portico · El Pórtico de la Gloria
+- [x] des-portico (Veo, 25-oct) · El Pórtico de la Gloria
 - [x] des-angkor-wat (Veo, 25-oct) · Angkor Wat
 
 ### Edad Media · capítulo 4
@@ -253,14 +253,14 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] med5-0 (Veo, 25-oct) · La Peste Negra y la crisis del siglo XIV
 - [x] med5-16 (Veo, 25-oct) · Christine de Pizan
 - [x] med5-15 (Veo, 25-oct) · Los Ming y la Ciudad Prohibida
-- [ ] med5-8 · Tamerlán, Samarcanda y la embajada de Clavijo
+- [x] med5-8 (Veo, 25-oct) · Tamerlán, Samarcanda y la embajada de Clavijo
 - [x] med5-14 (Veo, 25-oct) · El reino del Kongo
 - [x] med5-7 (Veo, 25-oct) · Sefarad: de 1391 a la expulsión de 1492
 - [x] med5-4 (Veo, 25-oct) · El Renacimiento y la imprenta
 - [x] med5-17 (Veo, 25-oct) · Caspe y la Corona de Aragón en Nápoles
 - [x] med5-9 (Veo, 25-oct) · Juana de Arco
 - [x] med5-12 (Veo, 25-oct) · Los portugueses en la costa de África
-- [ ] med5-11 · Brunelleschi y la cúpula de Florencia
+- [x] med5-11 (Veo, 25-oct) · Brunelleschi y la cúpula de Florencia
 - [x] med5-5 (Veo, 25-oct) · Los imperios de América: aztecas e incas
 - [x] med5-13 (Veo, 25-oct) · Pachacútec y Machu Picchu
 - [x] med5-3 (Veo, 25-oct) · El fin de la Reconquista: los Reyes Católicos
@@ -291,7 +291,7 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] des-suleymaniye (Veo, 25-oct) · La mezquita de Solimán
 
 ### Edad Moderna · capítulo 2
-- [ ] mod2-0 · Lutero y la Reforma protestante
+- [x] mod2-0 (Veo, 25-oct) · Lutero y la Reforma protestante
 - [x] mod2-1 (Veo, 25-oct) · La Contrarreforma católica
 - [x] mod2-7 (Veo, 25-oct) · Felipe II: Lepanto, Portugal y la Armada
 - [x] mod2-17 (Veo, 25-oct) · Los moriscos: de las Alpujarras a la expulsión
@@ -304,7 +304,7 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] mod2-16 (Veo, 25-oct) · Guamán Poma y el Inca Garcilaso
 - [x] mod2-18 (Veo, 25-oct) · Matteo Ricci y el final de los Ming
 - [x] mod2-13 (Veo, 25-oct) · Los Tokugawa y la embajada de Hasekura
-- [ ] mod2-9 · Cervantes y el Quijote
+- [x] mod2-9 (Veo, 25-oct) · Cervantes y el Quijote
 - [x] mod2-19 (Veo, 25-oct) · La caza de brujas
 - [x] mod2-5 (Veo, 25-oct) · El nacimiento de la ciencia moderna
 - [ ] mod2-15 · Galileo
@@ -326,7 +326,7 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] mod3-13 (Veo, 25-oct) · El Japón de Edo
 - [x] mod3-12 (Veo, 25-oct) · Kangxi y la China de los Qing
 - [x] mod3-10 (Veo, 25-oct) · Pedro el Grande
-- [ ] mod3-11 · Viena, 1683
+- [x] mod3-11 (Veo, 25-oct) · Viena, 1683
 - [x] mod3-9 (Veo, 25-oct) · Las misiones de los guaraníes
 - [x] mod3-14 (Veo, 25-oct) · Piratas, corsarios y Cartagena de Indias
 - [x] mod3-5 (Veo, 25-oct) · El comercio atlántico y la esclavitud
@@ -346,7 +346,7 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] mod4-1 (Veo, 25-oct) · Los filósofos de la Ilustración
 - [x] mod4-7 (Veo, 25-oct) · Las expediciones científicas españolas
 - [x] mod4-12 (Veo, 25-oct) · Las mujeres de la Ilustración
-- [ ] mod4-15 · Qianlong y el comercio de Cantón
+- [x] mod4-15 (Veo, 25-oct) · Qianlong y el comercio de Cantón
 - [x] mod4-18 (Veo, 25-oct) · El terremoto de Lisboa de 1755
 - [x] mod4-10 (Veo, 25-oct) · Federico el Grande y la Guerra de los Siete Años
 - [x] mod4-4 (Veo, 25-oct) · Catalina la Grande y la Europa oriental
@@ -364,11 +364,11 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] des-sanssouci (Veo, 25-oct) · Sanssouci
 - [x] con-1789-0 (Veo, 25-oct) · El mundo entre 1789 y 1808: la era de las revoluciones
 - [x] con-1789-es (Veo, 25-oct) · España entre 1789 y 1808: de Carlos IV a la crisis de la monarquía
-- [ ] con-1789-eu · Europa entre 1789 y 1808: la Revolución francesa y Napoleón
+- [x] con-1789-eu (Veo, 25-oct) · Europa entre 1789 y 1808: la Revolución francesa y Napoleón
 - [x] con-1789-am (Veo, 25-oct) · América entre 1789 y 1808: Haití, Estados Unidos y los imperios ibéricos
 - [x] con-1789-om (Veo, 25-oct) · Oriente Medio y el norte de África entre 1789 y 1808: Napoleón en Egipto
 - [ ] des-rev1789 · 1789: el año que cambió Francia
-- [ ] des-terror · El Terror (1793-1794)
+- [x] des-terror (Veo, 25-oct) · El Terror (1793-1794)
 - [x] des-napoleon (Veo, 25-oct) · Napoleón: del Consulado al Imperio (1799-1808)
 - [x] des-egipto (Veo, 25-oct) · La expedición a Egipto y el nacimiento de la egiptología (1798-1801)
 - [x] des-trafalgar (Veo, 25-oct) · Trafalgar (1805)
@@ -439,12 +439,12 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] con3-18 (Veo, 25-oct) · 
 - [x] con3-9 (Veo, 25-oct) · 
 - [x] con3-12 (Veo, 25-oct) · 
-- [ ] con3-4 · 
+- [x] con3-4 (Veo, 25-oct) · 
 - [x] con3-19 (Veo, 25-oct) · 
 - [x] con3-2 (Veo, 25-oct) · 
 - [x] con3-3 (Veo, 25-oct) · 
 - [x] con3-13 (Veo, 25-oct) · 
-- [ ] con3-16 · 
+- [x] con3-16 (Veo, 25-oct) · 
 - [ ] con3-17 · 
 - [x] con3-14 (Veo, 25-oct) · 
 - [x] con3-5 (Veo, 25-oct) · 
@@ -457,11 +457,11 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [ ] con4-0 · 
 - [x] con4-10 (Veo, 25-oct) · 
 - [x] con4-16 (Veo, 25-oct) · 
-- [ ] con4-4 · 
+- [x] con4-4 (Veo, 25-oct) · 
 - [x] con4-11 (Veo, 25-oct) · 
 - [x] con4-5 (Veo, 25-oct) · 
 - [x] con4-1 (Veo, 25-oct) · 
-- [ ] con4-2 · 
+- [x] con4-2 (Veo, 25-oct) · 
 - [x] con4-12 (Veo, 25-oct) · 
 - [x] con4-15 (Veo, 25-oct) · 
 - [x] con4-14 (Veo, 25-oct) · 
@@ -476,7 +476,7 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] des-chernobil (Veo, 25-oct) · Chernóbil
 - [x] des-congreso-1978 (Veo, 25-oct) · El Congreso y la Constitución de 1978
 - [x] des-onu (Veo, 25-oct) · La sede de la ONU en Nueva York
-- [ ] des-robben-island · Robben Island
+- [x] des-robben-island (Veo, 25-oct) · Robben Island
 - [x] con5-7 (Veo, 25-oct) · 
 - [x] con5-10 (Veo, 25-oct) · 
 - [x] con5-8 (Veo, 25-oct) · 

@@ -844,7 +844,7 @@
    "viva": "img/vivas/des-bola-nieve.mp4",
    "d": 346,
    "voz_d": "Aoede",
-   "viva_tipo": "camara"
+   "viva_tipo": "veo"
   },
   "paleolitico-18": {
    "viva": "img/vivas/paleolitico-18.mp4",
@@ -1078,7 +1078,7 @@
    "viva": "img/vivas/des-mesiniense.mp4",
    "d": 337,
    "voz_d": "Aoede",
-   "viva_tipo": "camara"
+   "viva_tipo": "veo"
   },
   "des-gran-mortandad": {
    "viva": "img/vivas/des-gran-mortandad.mp4",
@@ -1229,7 +1229,7 @@
    "p": 572,
    "voz_p": "Algieba",
    "viva": "img/vivas/neolitico-19.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "veo"
   },
   "neolitico-2": {
    "g": 150,
@@ -1393,7 +1393,7 @@
   },
   "ant1-3": {
    "viva": "img/vivas/ant1-3.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 86,
    "voz_n": "Leda",
    "g": 141,
@@ -1483,7 +1483,7 @@
   },
   "des-ur": {
    "viva": "img/vivas/des-ur.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "d": 375,
    "voz_d": "Vindemiatrix"
   },
@@ -1627,7 +1627,7 @@
    "p": 658,
    "voz_p": "Algieba",
    "viva": "img/vivas/ant2-14.mp4",
-   "viva_tipo": "camara"
+   "viva_tipo": "veo"
   },
   "ant2-10": {
    "n": 81,
@@ -1855,7 +1855,7 @@
   },
   "des-palenque": {
    "viva": "img/vivas/des-palenque.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "d": 363,
    "voz_d": "Gacrux"
   },
@@ -1931,7 +1931,7 @@
   },
   "ant5-4": {
    "viva": "img/vivas/ant5-4.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 79,
    "voz_n": "Leda",
    "g": 146,
@@ -2191,7 +2191,7 @@
   },
   "ant4-9": {
    "viva": "img/vivas/ant4-9.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 75,
    "voz_n": "Leda",
    "g": 153,
@@ -2291,7 +2291,7 @@
   },
   "ant4-20": {
    "viva": "img/vivas/ant4-20.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 83,
    "voz_n": "Leda",
    "g": 175,
@@ -2313,7 +2313,7 @@
   },
   "des-terracota": {
    "viva": "img/vivas/des-terracota.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "d": 348,
    "voz_d": "Leda"
   },
@@ -2543,7 +2543,7 @@
   },
   "des-turunuelo": {
    "viva": "img/vivas/des-turunuelo.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "d": 334,
    "voz_d": "Iapetus"
   },
@@ -2657,7 +2657,7 @@
   },
   "med2-8": {
    "viva": "img/vivas/med2-8.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 77,
    "voz_n": "Leda",
    "g": 167,
@@ -2667,7 +2667,7 @@
   },
   "med2-9": {
    "viva": "img/vivas/med2-9.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 85,
    "voz_n": "Leda",
    "g": 169,
@@ -2773,7 +2773,7 @@
   },
   "des-azahara": {
    "viva": "img/vivas/des-azahara.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "d": 359,
    "voz_d": "Gacrux"
   },
@@ -2835,7 +2835,7 @@
   },
   "des-portico": {
    "viva": "img/vivas/des-portico.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "d": 364,
    "voz_d": "Aoede"
   },
@@ -2911,7 +2911,7 @@
   },
   "med3-15": {
    "viva": "img/vivas/med3-15.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 77,
    "voz_n": "Leda",
    "g": 128,
@@ -2931,7 +2931,7 @@
   },
   "med3-17": {
    "viva": "img/vivas/med3-17.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 85,
    "voz_n": "Leda",
    "g": 150,
@@ -3063,7 +3063,7 @@
   },
   "des-scrovegni": {
    "viva": "img/vivas/des-scrovegni.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "d": 343,
    "voz_d": "Vindemiatrix"
   },
@@ -3281,7 +3281,7 @@
   },
   "med5-11": {
    "viva": "img/vivas/med5-11.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 85,
    "voz_n": "Leda",
    "g": 150,
@@ -3411,7 +3411,7 @@
   },
   "med5-8": {
    "viva": "img/vivas/med5-8.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 77,
    "voz_n": "Leda",
    "g": 148,
@@ -3671,7 +3671,7 @@
   },
   "mod2-0": {
    "viva": "img/vivas/mod2-0.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 81,
    "voz_n": "Leda",
    "g": 154,
@@ -3871,7 +3871,7 @@
   },
   "mod2-9": {
    "viva": "img/vivas/mod2-9.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 82,
    "voz_n": "Leda",
    "g": 160,
@@ -3951,7 +3951,7 @@
   },
   "mod3-11": {
    "viva": "img/vivas/mod3-11.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 86,
    "voz_n": "Leda",
    "g": 149,
@@ -4211,7 +4211,7 @@
   },
   "mod4-15": {
    "viva": "img/vivas/mod4-15.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 86,
    "voz_n": "Leda",
    "g": 174,
@@ -4221,7 +4221,7 @@
   },
   "mod4-16": {
    "viva": "img/vivas/mod4-16.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 82,
    "voz_n": "Leda",
    "g": 164,
@@ -4341,7 +4341,7 @@
   },
   "con-1789-eu": {
    "viva": "img/vivas/con-1789-eu.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 119,
    "voz_n": "Leda",
    "g": 163,
@@ -4407,7 +4407,7 @@
   },
   "des-terror": {
    "viva": "img/vivas/des-terror.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "d": 374,
    "voz_d": "Gacrux"
   },
@@ -5061,7 +5061,7 @@
   },
   "con3-16": {
    "viva": "img/vivas/con3-16.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 84,
    "voz_n": "Leda",
    "g": 149,
@@ -5121,7 +5121,7 @@
   },
   "con3-4": {
    "viva": "img/vivas/con3-4.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 92,
    "voz_n": "Leda",
    "g": 176,
@@ -5311,7 +5311,7 @@
   },
   "con4-17": {
    "viva": "img/vivas/con4-17.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 86,
    "voz_n": "Leda",
    "g": 145,
@@ -5331,7 +5331,7 @@
   },
   "con4-2": {
    "viva": "img/vivas/con4-2.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 96,
    "voz_n": "Leda",
    "g": 168,
@@ -5351,7 +5351,7 @@
   },
   "con4-4": {
    "viva": "img/vivas/con4-4.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 94,
    "voz_n": "Leda",
    "g": 175,
@@ -5429,7 +5429,7 @@
   },
   "des-robben-island": {
    "viva": "img/vivas/des-robben-island.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "d": 392,
    "voz_d": "Leda"
   },
