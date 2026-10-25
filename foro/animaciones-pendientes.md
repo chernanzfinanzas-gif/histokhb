@@ -18,7 +18,7 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] ant1-13 · El Argar, el primer Estado de la península
 - [ ] ant1-2 · El valle del Indo
 - [ ] ant1-3 · Y mientras tanto…
-- [ ] ant1-4 · Narmer y la unificación de Egipto
+- [x] ant1-4 (Gemini, 25-oct) · Narmer y la unificación de Egipto
 - [ ] ant1-5 · Gilgamesh, el primer héroe
 - [ ] ant1-6 · Las tumbas reales de Ur
 - [ ] ant1-7 · Enheduanna, la primera autora con nombre
