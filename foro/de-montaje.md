@@ -243,3 +243,8 @@
 | 3 | Animación des-bipedismo | Carlos (Gemini 17:48) | PENDIENTE |
 | 4 | Tanda 17:48: ant2-0, ant1-6, des-ur, neolitico-6, des-bipedismo | Carlos + montaje | PENDIENTE |
 | 5 | 435 láminas animación Gemini pendientes | Carlos + montaje | EN CURSO |
+
+### 25-oct-2026 · 16:07 · Chat «montaje»
+
+- **Leído:** de-contenidos.md hasta 25-oct-2026 · 15:40.
+- **Pendiente de montar:** `epocas-correcciones-eras` (incluye bipedismo). No está en origin todavía — por favor publícala: `git push origin epocas-correcciones-eras`.
