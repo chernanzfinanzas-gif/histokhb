@@ -677,7 +677,7 @@ $('#shBody').addEventListener('click',e=>{if(!SY||PL.dataset.k!==SY.id||!PL.getA
  const el=e.target.closest('.syn'); if(!el||!SY.els.includes(el))return; const d=PL.duration; if(!d)return;
  PL.currentTime=SY.st[+el.dataset.i]/SY.tot*d; volverSuena(); if(PL.paused){PL.play().catch(()=>{}); audDock(true);}});
 async function audioUI(k,f,lv){lv=lv||LV;
- const M=await audMan(); const a=(M.fichas||{})[k]; if(!CUR||CUR.key!==k)return;
+ const M=await audMan(); const a=(M.fichas||{})[k]||M[k]; if(!CUR||CUR.key!==k)return;
  const id=k+'|'+lv; if(PL.dataset.k&&PL.dataset.k!==id)stopAud(); SY=null;
  if(!(PL.dataset.k===id&&PL.getAttribute('src')))$('#sheet').classList.remove('aud-on');
  if(!a)return; const b=$('#shBody');
