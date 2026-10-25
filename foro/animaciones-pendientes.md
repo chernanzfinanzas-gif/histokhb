@@ -96,7 +96,7 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] des-ishtar · La Puerta de Ishtar
 
 ### Edad Antigua · capítulo 4
-- [ ] ant4-0 · La Grecia clásica
+- [x] ant4-0 (Gemini, 25-oct) · La Grecia clásica
 - [ ] ant4-1 · Alejandro Magno y el helenismo
 - [ ] ant4-2 · Roma: de la República al dominio del mundo
 - [ ] ant4-3 · Hispania romana: conquista y romanización
