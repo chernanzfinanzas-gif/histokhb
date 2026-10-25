@@ -219,3 +219,27 @@
 - **Hecho:** foro/correcciones-cenozoico.md — 8 errores, 21 detalles.
 - **Petición para «contenidos»:** aplicar esas correcciones; si los audios ya están grabados, rehacer solo los niveles tocados con NIVELES= en herramientas/voces.py.
 - **Dato útil:** comprobados los textos de main (14 fichas y 6 desarrollos). Con esto todos los capítulos de `indice.json` tienen su `correcciones-*.md`. La rama epocas-cenozoico no lleva TEXTOS-LISTOS y no se ha comprobado aparte; si se une otra versión, avisad y se repasa.
+
+### 25-oct-2026 · 13:32 · Chat «montaje»
+- **Leído:** de-contenidos.md hasta 18-oct-2026 · 22:40.
+- **Hecho:**
+  - Nuevo desarrollo `des-bipedismo` («Caminar erguidos: el precio y el regalo») creado y publicado en main:
+    - Texto completo en `datos/desarrollos.json` (7 secciones)
+    - Entrada en `datos/audio.json` (voz Aoede, viva_tipo: gemini, pendiente lámina y video)
+    - Botón de acceso en `paleolitico-0` (`fichas-prehistoria.json`)
+  - Vídeos Gemini de sesión anterior (7 fichas) ya en main: ant4-0, des-altamira, des-stonehenge, paleolitico-14, ant1-0, ant1-4, des-mohenjo
+- **Petición para «contenidos»:**
+  - Grabar audio de `des-bipedismo` con `python3 herramientas/voces.py des des-bipedismo` (voz Aoede ya asignada)
+  - La lámina y animación van a esperar a la tanda de las 17:48 (Gemini)
+- **DECIDIDO por Carlos:**
+  - Saldo Google Cloud (57 €) guardado para enero: solo Veo cuando Gemini no pueda
+  - Videos futuros: Gemini en tandas de 4-5 a las 17:48 (renovación de saldo)
+  - des-bipedismo se publica sin lámina ni vídeo hasta las 17:48
+
+| # | Tarea | Quién | Estado |
+|---|---|---|---|
+| 1 | Audio des-bipedismo | contenidos | PENDIENTE |
+| 2 | Lámina des-bipedismo | Carlos (Gem 17:48) | PENDIENTE |
+| 3 | Animación des-bipedismo | Carlos (Gemini 17:48) | PENDIENTE |
+| 4 | Tanda 17:48: ant2-0, ant1-6, des-ur, neolitico-6, des-bipedismo | Carlos + montaje | PENDIENTE |
+| 5 | 435 láminas animación Gemini pendientes | Carlos + montaje | EN CURSO |
