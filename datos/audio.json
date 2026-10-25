@@ -5131,7 +5131,7 @@
   },
   "con3-5": {
    "viva": "img/vivas/con3-5.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 93,
    "voz_n": "Leda",
    "g": 150,
@@ -5141,7 +5141,7 @@
   },
   "con3-6": {
    "viva": "img/vivas/con3-6.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 80,
    "voz_n": "Leda",
    "g": 166,
@@ -5151,7 +5151,7 @@
   },
   "con3-7": {
    "viva": "img/vivas/con3-7.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 86,
    "voz_n": "Leda",
    "g": 143,
@@ -5161,7 +5161,7 @@
   },
   "con3-8": {
    "viva": "img/vivas/con3-8.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 86,
    "voz_n": "Leda",
    "g": 139,
@@ -5171,7 +5171,7 @@
   },
   "con3-9": {
    "viva": "img/vivas/con3-9.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 79,
    "voz_n": "Leda",
    "g": 178,
@@ -5181,19 +5181,19 @@
   },
   "des-auschwitz": {
    "viva": "img/vivas/des-auschwitz.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "d": 407,
    "voz_d": "Vindemiatrix"
   },
   "des-guernica": {
    "viva": "img/vivas/des-guernica.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "d": 343,
    "voz_d": "Iapetus"
   },
   "des-verdun": {
    "viva": "img/vivas/des-verdun.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "d": 322,
    "voz_d": "Algieba"
   },
@@ -5231,7 +5231,7 @@
   },
   "con4-1": {
    "viva": "img/vivas/con4-1.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 85,
    "voz_n": "Leda",
    "g": 173,
@@ -5241,7 +5241,7 @@
   },
   "con4-10": {
    "viva": "img/vivas/con4-10.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 86,
    "voz_n": "Leda",
    "g": 165,
@@ -5271,7 +5271,7 @@
   },
   "con4-13": {
    "viva": "img/vivas/con4-13.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 87,
    "voz_n": "Leda",
    "g": 172,
@@ -5281,7 +5281,7 @@
   },
   "con4-14": {
    "viva": "img/vivas/con4-14.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 93,
    "voz_n": "Leda",
    "g": 156,
@@ -5291,7 +5291,7 @@
   },
   "con4-15": {
    "viva": "img/vivas/con4-15.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 86,
    "voz_n": "Leda",
    "g": 148,
@@ -5301,7 +5301,7 @@
   },
   "con4-16": {
    "viva": "img/vivas/con4-16.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 91,
    "voz_n": "Leda",
    "g": 163,
@@ -5341,7 +5341,7 @@
   },
   "con4-3": {
    "viva": "img/vivas/con4-3.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 84,
    "voz_n": "Leda",
    "g": 156,
@@ -5371,7 +5371,7 @@
   },
   "con4-6": {
    "viva": "img/vivas/con4-6.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 81,
    "voz_n": "Leda",
    "g": 167,
@@ -5381,7 +5381,7 @@
   },
   "con4-7": {
    "viva": "img/vivas/con4-7.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 90,
    "voz_n": "Leda",
    "g": 165,
@@ -5401,7 +5401,7 @@
   },
   "con4-9": {
    "viva": "img/vivas/con4-9.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 83,
    "voz_n": "Leda",
    "g": 142,
@@ -5411,13 +5411,13 @@
   },
   "des-chernobil": {
    "viva": "img/vivas/des-chernobil.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "d": 365,
    "voz_d": "Leda"
   },
   "des-congreso-1978": {
    "viva": "img/vivas/des-congreso-1978.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "d": 378,
    "voz_d": "Gacrux"
   },
@@ -5461,7 +5461,7 @@
   },
   "con5-1": {
    "viva": "img/vivas/con5-1.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 87,
    "voz_n": "Leda",
    "g": 152,
@@ -5471,7 +5471,7 @@
   },
   "con5-10": {
    "viva": "img/vivas/con5-10.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 79,
    "voz_n": "Leda",
    "g": 163,
@@ -5481,7 +5481,7 @@
   },
   "con5-11": {
    "viva": "img/vivas/con5-11.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 87,
    "voz_n": "Leda",
    "g": 158,
@@ -5491,7 +5491,7 @@
   },
   "con5-12": {
    "viva": "img/vivas/con5-12.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 84,
    "voz_n": "Leda",
    "g": 154,
@@ -5501,7 +5501,7 @@
   },
   "con5-13": {
    "viva": "img/vivas/con5-13.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 83,
    "voz_n": "Leda",
    "g": 149,
@@ -5511,7 +5511,7 @@
   },
   "con5-14": {
    "viva": "img/vivas/con5-14.mp4",
-   "viva_tipo": "camara",
+   "viva_tipo": "veo",
    "n": 86,
    "voz_n": "Leda",
    "g": 153,

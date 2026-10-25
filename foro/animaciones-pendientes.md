@@ -434,10 +434,10 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] des-transiberiano (Veo, 25-oct) · El Transiberiano
 - [x] con3-0 (Veo, 25-oct) · 
 - [x] con3-10 (Veo, 25-oct) · 
-- [ ] con3-8 · 
+- [x] con3-8 (Veo, 25-oct) · 
 - [x] con3-1 (Veo, 25-oct) · 
 - [x] con3-18 (Veo, 25-oct) · 
-- [ ] con3-9 · 
+- [x] con3-9 (Veo, 25-oct) · 
 - [x] con3-12 (Veo, 25-oct) · 
 - [ ] con3-4 · 
 - [x] con3-19 (Veo, 25-oct) · 
@@ -447,49 +447,49 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [ ] con3-16 · 
 - [ ] con3-17 · 
 - [x] con3-14 (Veo, 25-oct) · 
-- [ ] con3-5 · 
+- [x] con3-5 (Veo, 25-oct) · 
 - [x] con3-15 (Veo, 25-oct) · 
-- [ ] con3-6 · 
-- [ ] con3-7 · 
-- [ ] des-auschwitz · Auschwitz-Birkenau
-- [ ] des-guernica · El Guernica
-- [ ] des-verdun · Verdún
+- [x] con3-6 (Veo, 25-oct) · 
+- [x] con3-7 (Veo, 25-oct) · 
+- [x] des-auschwitz (Veo, 25-oct) · Auschwitz-Birkenau
+- [x] des-guernica (Veo, 25-oct) · El Guernica
+- [x] des-verdun (Veo, 25-oct) · Verdún
 - [ ] con4-0 · 
-- [ ] con4-10 · 
-- [ ] con4-16 · 
+- [x] con4-10 (Veo, 25-oct) · 
+- [x] con4-16 (Veo, 25-oct) · 
 - [ ] con4-4 · 
 - [x] con4-11 (Veo, 25-oct) · 
 - [x] con4-5 (Veo, 25-oct) · 
-- [ ] con4-1 · 
+- [x] con4-1 (Veo, 25-oct) · 
 - [ ] con4-2 · 
 - [x] con4-12 (Veo, 25-oct) · 
-- [ ] con4-15 · 
-- [ ] con4-14 · 
+- [x] con4-15 (Veo, 25-oct) · 
+- [x] con4-14 (Veo, 25-oct) · 
 - [ ] con4-17 · 
-- [ ] con4-3 · 
-- [ ] con4-7 · 
-- [ ] con4-13 · 
-- [ ] con4-6 · 
+- [x] con4-3 (Veo, 25-oct) · 
+- [x] con4-7 (Veo, 25-oct) · 
+- [x] con4-13 (Veo, 25-oct) · 
+- [x] con4-6 (Veo, 25-oct) · 
 - [x] con4-19 (Veo, 25-oct) · 
 - [x] con4-8 (Veo, 25-oct) · 
-- [ ] con4-9 · 
-- [ ] des-chernobil · Chernóbil
-- [ ] des-congreso-1978 · El Congreso y la Constitución de 1978
+- [x] con4-9 (Veo, 25-oct) · 
+- [x] des-chernobil (Veo, 25-oct) · Chernóbil
+- [x] des-congreso-1978 (Veo, 25-oct) · El Congreso y la Constitución de 1978
 - [x] des-onu (Veo, 25-oct) · La sede de la ONU en Nueva York
 - [ ] des-robben-island · Robben Island
 - [ ] con5-7 · 
-- [ ] con5-10 · 
+- [x] con5-10 (Veo, 25-oct) · 
 - [ ] con5-8 · 
 - [x] con5-9 (Veo, 25-oct) · 
-- [ ] con5-1 · 
-- [ ] con5-11 · 
-- [ ] con5-12 · 
+- [x] con5-1 (Veo, 25-oct) · 
+- [x] con5-11 (Veo, 25-oct) · 
+- [x] con5-12 (Veo, 25-oct) · 
 - [ ] con5-2 · 
 - [ ] con5-16 · 
-- [ ] con5-13 · 
+- [x] con5-13 (Veo, 25-oct) · 
 - [x] con5-15 (Veo, 25-oct) · 
 - [x] con5-4 (Veo, 25-oct) · 
-- [ ] con5-14 · 
+- [x] con5-14 (Veo, 25-oct) · 
 - [ ] con5-18 · 
 - [ ] con5-3 · 
 - [ ] con5-6 · 
