@@ -1,4 +1,10 @@
-{"des-bipedismo":{"viva":"img/vivas/des-bipedismo.mp4","d":680,"voz_d":"Aoede","viva_tipo":"gemini"},
+{
+ "des-bipedismo": {
+  "viva": "img/vivas/des-bipedismo.mp4",
+  "d": 680,
+  "voz_d": "Aoede",
+  "viva_tipo": "gemini"
+ },
  "nota": "Audios en audio/<ficha>-<nivel>.mp3 (n,g,p = segundos); viva = lámina animada",
  "fichas": {
   "ant2-5": {
@@ -5651,6 +5657,10 @@
    "viva_tipo": "camara",
    "d": 363,
    "voz_d": "Iapetus"
+  },
+  "des-bipedismo": {
+   "d": 305,
+   "voz_d": "Aoede"
   }
  }
 }
