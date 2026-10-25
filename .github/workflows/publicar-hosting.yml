@@ -69,3 +69,11 @@ jobs:
           done
           h=$(curl -sI -m 30 https://historiatotal.es/index.html | grep -iE '^(cache-control|age|x-cache|x-varnish|via|server):' | tr -d '\r' | tr '\n' ' ')
           echo "::notice::Cabeceras: $h"
+
+      - name: Comprobar la base de datos (api/sync.php)
+        run: |
+          set -x
+          curl -sS -m 30 -X POST "https://historiatotal.es/api/sync.php?codigo=CIACTIONS" -H "Content-Type: application/json" -d '{"prueba":true}'
+          echo
+          curl -sS -m 30 "https://historiatotal.es/api/sync.php?codigo=CIACTIONS"
+          echo
