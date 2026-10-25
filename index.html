@@ -1186,7 +1186,9 @@ async function aqMap(pt){
  $('#aqMapBox').classList.remove('hide'); const L=window.L;
  if(!AQ.M){AQ.M=L.map('aqMap',{zoomControl:true}).setView(pt,10);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18,attribution:'© OpenStreetMap'}).addTo(AQ.M);
-  AQ.layer=L.layerGroup().addTo(AQ.M);AQ.rings=L.layerGroup().addTo(AQ.M);AQ.M.on('moveend zoomend',aqDraw);}
+  AQ.layer=L.layerGroup().addTo(AQ.M);AQ.rings=L.layerGroup().addTo(AQ.M);
+  AQ.M.on('popupopen',()=>{AQ.sinRedibujar=true;}); // el globo desplaza el mapa solo para encajar en pantalla; ese desplazamiento no debe redibujar (y borrar) los marcadores
+  AQ.M.on('moveend zoomend',()=>{if(AQ.sinRedibujar){AQ.sinRedibujar=false;return;}aqDraw();});}
  AQ.M.invalidateSize(); AQ.rings.clearLayers();
  L.circleMarker(pt,{radius:7,color:'#fff',weight:3,fillColor:'#e0463c',fillOpacity:1}).addTo(AQ.rings);
  [[5,'5 km'],[25,'25 km'],[50,'50 km']].forEach(([r,t])=>{L.circle(pt,{radius:r*1000,color:'#b07a2a',weight:1.5,dashArray:'5 6',fill:false,interactive:false}).addTo(AQ.rings);
