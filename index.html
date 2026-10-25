@@ -682,7 +682,7 @@ async function audioUI(k,f,lv){lv=lv||LV;
  if(!(PL.dataset.k===id&&PL.getAttribute('src')))$('#sheet').classList.remove('aud-on');
  if(!a)return; const b=$('#shBody');
  const calm=(navigator.connection&&navigator.connection.saveData)||matchMedia('(prefers-reduced-motion: reduce)').matches;
- if(a.viva&&lv!=='n'&&!calm){const il=b.querySelector('.sh-illo'); if(il)il.innerHTML=`<video src="${a.viva}" ${f.lam?`poster="${f.lam}"`:''} autoplay muted loop playsinline preload="metadata" aria-label="${esc(f.t)}"></video>`;}
+ if(a.viva&&lv!=='n'&&!calm){const il=b.querySelector('.sh-illo'); if(il)il.innerHTML=`<video src="${a.viva}" ${f.lam?`poster="${f.lam}"`:''} autoplay muted playsinline preload="metadata" aria-label="${esc(f.t)}"></video>`;}
  if(a[lv]){const rt=b.querySelector('.rt'); if(!rt)return;
   rt.insertAdjacentHTML('afterend',`<div class="audbox" id="audBox"><div class="audrow"><button class="escuchar" id="btnAud" data-k="${id}" data-src="audio/${k}-${lv}.mp3" data-d="${a[lv]}" data-t="${esc(f.t)}" data-l="${f.lam||''}" onclick="audToggle()"><span class="ico">🔊</span><span class="lb">Escuchar</span><span class="bar" onclick="audBar(event)"><i></i></span><span class="tm"></span></button></div><div class="audctl"><button onclick="audRestart()" aria-label="Desde el principio">⟲ Inicio</button><button onclick="audSeek(-30)" aria-label="Atrasar 30 segundos">−30 s</button><button onclick="audSeek(30)" aria-label="Adelantar 30 segundos">+30 s</button><button onclick="stopAud()" aria-label="Parar">■ Parar</button></div></div>`);
   audSyncBuild(id,b.querySelector('.txt'),lv==='d'?(f.t||'').length+26:0);
