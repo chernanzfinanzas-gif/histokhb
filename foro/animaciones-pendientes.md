@@ -12,7 +12,7 @@ NO describir el dibujo (si se describe, Gemini genera una ilustración nueva). S
 Animate this illustration, not another one, as an 8-second video. Keep all elements exactly as they are — do not add, remove or change anything. Animate naturally: <qué se mueve>. <Edificios/objetos fijos> remain completely still. No camera movement, no zoom.
 ```
 
-Al recibir un vídeo: comparar su primer fotograma con la lámina; si Gemini ha cambiado el dibujo, NO se sube.
+Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py <código>`. Si Gemini redibujó, la lámina pasa a ser el primer fotograma del vídeo (así imagen fija y vídeo coinciden). Carlos no tiene que revisar nada.
 
 ## Prioridad
 
