@@ -393,10 +393,10 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] des-grecia (Veo, 25-oct) · La guerra de independencia griega (1821-1830)
 - [x] des-te-opio (Veo, 25-oct) · El té, el opio y el viaje secreto de las plantas de té (1757-1860)
 
-- [ ] con1-8 · 
+- [x] con1-8 (Veo, 25-oct) · 
 - [x] con1-10 (Veo, 25-oct) · 
 - [x] con1-18 (Veo, 25-oct) · 
-- [ ] con1-9 · 
+- [x] con1-9 (Veo, 25-oct) · 
 - [x] con1-14 (Veo, 25-oct) · 
 - [ ] con1-19 · 
 - [x] con1-11 (Veo, 25-oct) · 
@@ -408,47 +408,47 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] con1-16 (Veo, 25-oct) · 
 - [x] con1-21 (Veo, 25-oct) · 
 - [x] con1-7 (Veo, 25-oct) · 
-- [ ] des-cruz-roja · La Cruz Roja de Ginebra
+- [x] des-cruz-roja (Veo, 25-oct) · La Cruz Roja de Ginebra
 - [x] des-galapagos (Veo, 25-oct) · Las islas Galápagos
 - [x] des-suez (Veo, 25-oct) · El canal de Suez
-- [ ] con2-1 · 
-- [ ] con2-12 · 
+- [x] con2-1 (Veo, 25-oct) · 
+- [x] con2-12 (Veo, 25-oct) · 
 - [x] con2-0 (Veo, 25-oct) · 
-- [ ] con2-9 · 
-- [ ] con2-10 · 
-- [ ] con2-4 · 
-- [ ] con2-3 · 
+- [x] con2-9 (Veo, 25-oct) · 
+- [x] con2-10 (Veo, 25-oct) · 
+- [x] con2-4 (Veo, 25-oct) · 
+- [x] con2-3 (Veo, 25-oct) · 
 - [x] con2-7 (Veo, 25-oct) · 
-- [ ] con2-5 · 
-- [ ] con2-16 · 
-- [ ] con2-2 · 
-- [ ] con2-14 · 
+- [x] con2-5 (Veo, 25-oct) · 
+- [x] con2-16 (Veo, 25-oct) · 
+- [x] con2-2 (Veo, 25-oct) · 
+- [x] con2-14 (Veo, 25-oct) · 
 - [x] con2-17 (Veo, 25-oct) · 
 - [x] con2-13 (Veo, 25-oct) · 
 - [x] con2-15 (Veo, 25-oct) · 
-- [ ] con2-8 · 
+- [x] con2-8 (Veo, 25-oct) · 
 - [x] con2-18 (Veo, 25-oct) · 
-- [ ] con2-6 · 
-- [ ] des-ellis-island · Ellis Island
-- [ ] des-sagrada-familia · La Sagrada Família
+- [x] con2-6 (Veo, 25-oct) · 
+- [x] des-ellis-island (Veo, 25-oct) · Ellis Island
+- [x] des-sagrada-familia (Veo, 25-oct) · La Sagrada Família
 - [x] des-transiberiano (Veo, 25-oct) · El Transiberiano
-- [ ] con3-0 · 
-- [ ] con3-10 · 
+- [x] con3-0 (Veo, 25-oct) · 
+- [x] con3-10 (Veo, 25-oct) · 
 - [ ] con3-8 · 
-- [ ] con3-1 · 
-- [ ] con3-18 · 
+- [x] con3-1 (Veo, 25-oct) · 
+- [x] con3-18 (Veo, 25-oct) · 
 - [ ] con3-9 · 
-- [ ] con3-12 · 
+- [x] con3-12 (Veo, 25-oct) · 
 - [ ] con3-4 · 
-- [ ] con3-19 · 
-- [ ] con3-2 · 
-- [ ] con3-3 · 
-- [ ] con3-13 · 
+- [x] con3-19 (Veo, 25-oct) · 
+- [x] con3-2 (Veo, 25-oct) · 
+- [x] con3-3 (Veo, 25-oct) · 
+- [x] con3-13 (Veo, 25-oct) · 
 - [ ] con3-16 · 
 - [ ] con3-17 · 
-- [ ] con3-14 · 
+- [x] con3-14 (Veo, 25-oct) · 
 - [ ] con3-5 · 
-- [ ] con3-15 · 
+- [x] con3-15 (Veo, 25-oct) · 
 - [ ] con3-6 · 
 - [ ] con3-7 · 
 - [ ] des-auschwitz · Auschwitz-Birkenau
