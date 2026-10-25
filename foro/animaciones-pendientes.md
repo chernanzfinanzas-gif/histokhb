@@ -293,10 +293,10 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 ### Edad Moderna · capítulo 2
 - [ ] mod2-0 · Lutero y la Reforma protestante
 - [x] mod2-1 (Veo, 25-oct) · La Contrarreforma católica
-- [ ] mod2-7 · Felipe II: Lepanto, Portugal y la Armada
+- [x] mod2-7 (Veo, 25-oct) · Felipe II: Lepanto, Portugal y la Armada
 - [x] mod2-17 (Veo, 25-oct) · Los moriscos: de las Alpujarras a la expulsión
 - [x] mod2-8 (Veo, 25-oct) · Teresa de Jesús y Juan de la Cruz
-- [ ] mod2-20 · La rebelión de los Países Bajos
+- [x] mod2-20 (Veo, 25-oct) · La rebelión de los Países Bajos
 - [x] mod2-11 (Veo, 25-oct) · Isabel I de Inglaterra y Shakespeare
 - [x] mod2-3 (Veo, 25-oct) · Los imperios de la pólvora: otomanos y safávidas
 - [x] mod2-12 (Veo, 25-oct) · Akbar, Nur Jahan y el Taj Mahal
@@ -306,12 +306,12 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] mod2-13 (Veo, 25-oct) · Los Tokugawa y la embajada de Hasekura
 - [ ] mod2-9 · Cervantes y el Quijote
 - [x] mod2-19 (Veo, 25-oct) · La caza de brujas
-- [ ] mod2-5 · El nacimiento de la ciencia moderna
+- [x] mod2-5 (Veo, 25-oct) · El nacimiento de la ciencia moderna
 - [ ] mod2-15 · Galileo
-- [ ] mod2-2 · La Guerra de los Treinta Años
-- [ ] mod2-4 · La decadencia de los Austrias
+- [x] mod2-2 (Veo, 25-oct) · La Guerra de los Treinta Años
+- [x] mod2-4 (Veo, 25-oct) · La decadencia de los Austrias
 - [x] mod2-10 (Veo, 25-oct) · Velázquez y la pintura del Siglo de Oro
-- [ ] mod2-21 · Njinga de Ndongo y Matamba
+- [x] mod2-21 (Veo, 25-oct) · Njinga de Ndongo y Matamba
 - [x] mod2-6 (Veo, 25-oct) · Y mientras tanto…
 - [x] des-escorial (Veo, 25-oct) · El Escorial
 - [x] des-globe (Veo, 25-oct) · El teatro del Globo
@@ -319,36 +319,36 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] des-taj-mahal (Veo, 25-oct) · El Taj Mahal
 
 ### Edad Moderna · capítulo 3
-- [ ] mod3-0 · Luis XIV y el absolutismo
-- [ ] mod3-1 · Inglaterra: parlamento y revolución
+- [x] mod3-0 (Veo, 25-oct) · Luis XIV y el absolutismo
+- [x] mod3-1 (Veo, 25-oct) · Inglaterra: parlamento y revolución
 - [x] mod3-2 (Veo, 25-oct) · La República Holandesa y su Siglo de Oro
-- [ ] mod3-8 · Sor Juana Inés de la Cruz
-- [ ] mod3-13 · El Japón de Edo
-- [ ] mod3-12 · Kangxi y la China de los Qing
-- [ ] mod3-10 · Pedro el Grande
+- [x] mod3-8 (Veo, 25-oct) · Sor Juana Inés de la Cruz
+- [x] mod3-13 (Veo, 25-oct) · El Japón de Edo
+- [x] mod3-12 (Veo, 25-oct) · Kangxi y la China de los Qing
+- [x] mod3-10 (Veo, 25-oct) · Pedro el Grande
 - [ ] mod3-11 · Viena, 1683
-- [ ] mod3-9 · Las misiones de los guaraníes
+- [x] mod3-9 (Veo, 25-oct) · Las misiones de los guaraníes
 - [x] mod3-14 (Veo, 25-oct) · Piratas, corsarios y Cartagena de Indias
-- [ ] mod3-5 · El comercio atlántico y la esclavitud
+- [x] mod3-5 (Veo, 25-oct) · El comercio atlántico y la esclavitud
 - [ ] mod3-17 · Nueva Francia y los pueblos de los Grandes Lagos
 - [x] mod3-18 (Veo, 25-oct) · Maria Sibylla Merian, la pintora de las orugas
-- [ ] mod3-7 · Carlos II y la Guerra de Sucesión
-- [ ] mod3-15 · Bach, Händel y la música barroca
-- [ ] mod3-4 · La América colonial: virreinatos y plata
-- [ ] mod3-3 · Los grandes imperios de Asia: mogoles y safávidas
-- [ ] mod3-6 · Y mientras tanto…
-- [ ] des-cartagena-indias · Las murallas de Cartagena de Indias
-- [ ] des-misiones-guaranies · Las ruinas de San Ignacio Miní
+- [x] mod3-7 (Veo, 25-oct) · Carlos II y la Guerra de Sucesión
+- [x] mod3-15 (Veo, 25-oct) · Bach, Händel y la música barroca
+- [x] mod3-4 (Veo, 25-oct) · La América colonial: virreinatos y plata
+- [x] mod3-3 (Veo, 25-oct) · Los grandes imperios de Asia: mogoles y safávidas
+- [x] mod3-6 (Veo, 25-oct) · Y mientras tanto…
+- [x] des-cartagena-indias (Veo, 25-oct) · Las murallas de Cartagena de Indias
+- [x] des-misiones-guaranies (Veo, 25-oct) · Las ruinas de San Ignacio Miní
 - [x] des-ronda-noche (Veo, 25-oct) · La ronda de noche
 
-- [ ] mod4-0 · Newton y la razón universal
+- [x] mod4-0 (Veo, 25-oct) · Newton y la razón universal
 - [x] mod4-2 (Veo, 25-oct) · La España de los primeros Borbones
-- [ ] mod4-1 · Los filósofos de la Ilustración
+- [x] mod4-1 (Veo, 25-oct) · Los filósofos de la Ilustración
 - [x] mod4-7 (Veo, 25-oct) · Las expediciones científicas españolas
-- [ ] mod4-12 · Las mujeres de la Ilustración
+- [x] mod4-12 (Veo, 25-oct) · Las mujeres de la Ilustración
 - [ ] mod4-15 · Qianlong y el comercio de Cantón
 - [ ] mod4-18 · El terremoto de Lisboa de 1755
-- [ ] mod4-10 · Federico el Grande y la Guerra de los Siete Años
+- [x] mod4-10 (Veo, 25-oct) · Federico el Grande y la Guerra de los Siete Años
 - [ ] mod4-4 · Catalina la Grande y la Europa oriental
 - [ ] mod4-6 · Carlos III y el Madrid ilustrado
 - [ ] mod4-14 · Plassey y la Compañía de las Indias
@@ -359,9 +359,9 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [ ] mod4-17 · Olaudah Equiano y los primeros abolicionistas
 - [ ] mod4-8 · Túpac Amaru II y las rebeliones de 1780
 - [x] mod4-5 (Veo, 25-oct) · Y mientras tanto…
-- [ ] des-edificio-prado · El edificio de Villanueva
-- [ ] des-mision-carmelo · La misión de Carmel
-- [ ] des-sanssouci · Sanssouci
+- [x] des-edificio-prado (Veo, 25-oct) · El edificio de Villanueva
+- [x] des-mision-carmelo (Veo, 25-oct) · La misión de Carmel
+- [x] des-sanssouci (Veo, 25-oct) · Sanssouci
 - [x] con-1789-0 (Veo, 25-oct) · El mundo entre 1789 y 1808: la era de las revoluciones
 - [x] con-1789-es (Veo, 25-oct) · España entre 1789 y 1808: de Carlos IV a la crisis de la monarquía
 - [ ] con-1789-eu · Europa entre 1789 y 1808: la Revolución francesa y Napoleón
