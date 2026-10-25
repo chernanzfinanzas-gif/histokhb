@@ -12,7 +12,7 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 
 
 ### Edad Antigua
-- [ ] ant1-0 · Sumer y sus ciudades
+- [x] ant1-0 (Gemini, 25-oct) · Sumer y sus ciudades
 - [ ] ant1-11 · Caral, la ciudad más antigua de América
 - [ ] ant1-12 · China antes de las dinastías: Longshan y el «gran Yu»
 - [ ] ant1-13 · El Argar, el primer Estado de la península
@@ -35,7 +35,7 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] neolitico-19 · Las megaaldeas de Ucrania
 - [ ] neolitico-6 · Agriculturas de otros mundos
 - [ ] paleolitico-12 · El poblamiento del planeta
-- [ ] paleolitico-14 · Las Venus paleolíticas
+- [x] paleolitico-14 (Gemini, 25-oct) · Las Venus paleolíticas
 
 ### Desarrollos
 - [x] des-altamira (Gemini, 25-oct) · Altamira: la cueva que nadie creyó
