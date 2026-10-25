@@ -347,17 +347,17 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] mod4-7 (Veo, 25-oct) · Las expediciones científicas españolas
 - [x] mod4-12 (Veo, 25-oct) · Las mujeres de la Ilustración
 - [ ] mod4-15 · Qianlong y el comercio de Cantón
-- [ ] mod4-18 · El terremoto de Lisboa de 1755
+- [x] mod4-18 (Veo, 25-oct) · El terremoto de Lisboa de 1755
 - [x] mod4-10 (Veo, 25-oct) · Federico el Grande y la Guerra de los Siete Años
-- [ ] mod4-4 · Catalina la Grande y la Europa oriental
-- [ ] mod4-6 · Carlos III y el Madrid ilustrado
-- [ ] mod4-14 · Plassey y la Compañía de las Indias
+- [x] mod4-4 (Veo, 25-oct) · Catalina la Grande y la Europa oriental
+- [x] mod4-6 (Veo, 25-oct) · Carlos III y el Madrid ilustrado
+- [x] mod4-14 (Veo, 25-oct) · Plassey y la Compañía de las Indias
 - [x] mod4-11 (Veo, 25-oct) · Empieza la Revolución Industrial
-- [ ] mod4-13 · Mozart y el Clasicismo
+- [x] mod4-13 (Veo, 25-oct) · Mozart y el Clasicismo
 - [ ] mod4-16 · Junípero Serra y las misiones de California
-- [ ] mod4-3 · La independencia de Estados Unidos
-- [ ] mod4-17 · Olaudah Equiano y los primeros abolicionistas
-- [ ] mod4-8 · Túpac Amaru II y las rebeliones de 1780
+- [x] mod4-3 (Veo, 25-oct) · La independencia de Estados Unidos
+- [x] mod4-17 (Veo, 25-oct) · Olaudah Equiano y los primeros abolicionistas
+- [x] mod4-8 (Veo, 25-oct) · Túpac Amaru II y las rebeliones de 1780
 - [x] mod4-5 (Veo, 25-oct) · Y mientras tanto…
 - [x] des-edificio-prado (Veo, 25-oct) · El edificio de Villanueva
 - [x] des-mision-carmelo (Veo, 25-oct) · La misión de Carmel
@@ -366,48 +366,48 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 - [x] con-1789-es (Veo, 25-oct) · España entre 1789 y 1808: de Carlos IV a la crisis de la monarquía
 - [ ] con-1789-eu · Europa entre 1789 y 1808: la Revolución francesa y Napoleón
 - [x] con-1789-am (Veo, 25-oct) · América entre 1789 y 1808: Haití, Estados Unidos y los imperios ibéricos
-- [ ] con-1789-om · Oriente Medio y el norte de África entre 1789 y 1808: Napoleón en Egipto
+- [x] con-1789-om (Veo, 25-oct) · Oriente Medio y el norte de África entre 1789 y 1808: Napoleón en Egipto
 - [ ] des-rev1789 · 1789: el año que cambió Francia
 - [ ] des-terror · El Terror (1793-1794)
 - [x] des-napoleon (Veo, 25-oct) · Napoleón: del Consulado al Imperio (1799-1808)
-- [ ] des-egipto · La expedición a Egipto y el nacimiento de la egiptología (1798-1801)
+- [x] des-egipto (Veo, 25-oct) · La expedición a Egipto y el nacimiento de la egiptología (1798-1801)
 - [x] des-trafalgar (Veo, 25-oct) · Trafalgar (1805)
-- [ ] des-haiti · La revolución de Haití (1791-1804)
+- [x] des-haiti (Veo, 25-oct) · La revolución de Haití (1791-1804)
 - [x] des-luisiana (Veo, 25-oct) · La compra de Luisiana y el viaje de Lewis y Clark (1803-1806)
 - [x] des-humboldt (Veo, 25-oct) · El viaje de Humboldt por América (1799-1804)
 - [ ] des-malaspina · La expedición Malaspina (1789-1794)
-- [ ] des-balmis · La Real Expedición Filantrópica de la Vacuna (1803-1806)
+- [x] des-balmis (Veo, 25-oct) · La Real Expedición Filantrópica de la Vacuna (1803-1806)
 - [x] con-1808-0 (Veo, 25-oct) · El mundo entre 1808 y 1830: imperios que caen, naciones que nacen y máquinas de vapor
 - [x] con-1808-es (Veo, 25-oct) · España entre 1808 y 1830: de la guerra de la Independencia a la Década Ominosa
-- [ ] con-1808-eu · Europa entre 1808 y 1830: de Napoleón a la Restauración
-- [ ] con-1808-am · América entre 1808 y 1830: las independencias
+- [x] con-1808-eu (Veo, 25-oct) · Europa entre 1808 y 1830: de Napoleón a la Restauración
+- [x] con-1808-am (Veo, 25-oct) · América entre 1808 y 1830: las independencias
 - [x] con-1808-om (Veo, 25-oct) · Oriente Medio y el norte de África entre 1808 y 1830: reformas desde arriba y presión de Europa
 - [x] con-1808-as (Veo, 25-oct) · Asia y Oceanía entre 1808 y 1830: imperios cerrados, compañías comerciales y un volcán que enfrió el mundo
-- [ ] des-cadiz · Las Cortes de Cádiz y la Constitución de 1812
-- [ ] des-trienio · Riego y el Trienio Liberal (1820-1823)
+- [x] des-cadiz (Veo, 25-oct) · Las Cortes de Cádiz y la Constitución de 1812
+- [x] des-trienio (Veo, 25-oct) · Riego y el Trienio Liberal (1820-1823)
 - [x] des-rusia1812 (Veo, 25-oct) · La campaña de Rusia (1812)
 - [x] des-bolivar (Veo, 25-oct) · Simón Bolívar y la Gran Colombia (1810-1830)
 - [x] des-sanmartin (Veo, 25-oct) · San Martín y el cruce de los Andes (1812-1822)
 - [x] des-mexico (Veo, 25-oct) · México: de Hidalgo a Iturbide (1810-1824)
 - [x] des-guerraind (Veo, 25-oct) · La guerra de la Independencia: Bailén, los Sitios y la guerrilla (1808-1814)
 - [x] des-grecia (Veo, 25-oct) · La guerra de independencia griega (1821-1830)
-- [ ] des-te-opio · El té, el opio y el viaje secreto de las plantas de té (1757-1860)
+- [x] des-te-opio (Veo, 25-oct) · El té, el opio y el viaje secreto de las plantas de té (1757-1860)
 
 - [ ] con1-8 · 
 - [x] con1-10 (Veo, 25-oct) · 
-- [ ] con1-18 · 
+- [x] con1-18 (Veo, 25-oct) · 
 - [ ] con1-9 · 
 - [x] con1-14 (Veo, 25-oct) · 
 - [ ] con1-19 · 
 - [x] con1-11 (Veo, 25-oct) · 
-- [ ] con1-4 · 
-- [ ] con1-15 · 
-- [ ] con1-13 · 
-- [ ] con1-17 · 
-- [ ] con1-20 · 
-- [ ] con1-16 · 
-- [ ] con1-21 · 
-- [ ] con1-7 · 
+- [x] con1-4 (Veo, 25-oct) · 
+- [x] con1-15 (Veo, 25-oct) · 
+- [x] con1-13 (Veo, 25-oct) · 
+- [x] con1-17 (Veo, 25-oct) · 
+- [x] con1-20 (Veo, 25-oct) · 
+- [x] con1-16 (Veo, 25-oct) · 
+- [x] con1-21 (Veo, 25-oct) · 
+- [x] con1-7 (Veo, 25-oct) · 
 - [ ] des-cruz-roja · La Cruz Roja de Ginebra
 - [x] des-galapagos (Veo, 25-oct) · Las islas Galápagos
 - [x] des-suez (Veo, 25-oct) · El canal de Suez
