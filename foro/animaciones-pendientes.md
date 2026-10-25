@@ -38,7 +38,7 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] paleolitico-14 · Las Venus paleolíticas
 
 ### Desarrollos
-- [ ] des-altamira · Altamira: la cueva que nadie creyó
+- [x] des-altamira (Gemini, 25-oct) · Altamira: la cueva que nadie creyó
 - [ ] des-antequera · Antequera: Menga, Viera y El Romeral
 - [ ] des-argar · La Bastida de Totana
 - [ ] des-bola-nieve · La Tierra bola de nieve
