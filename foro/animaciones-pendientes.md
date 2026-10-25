@@ -46,7 +46,7 @@ adjuntando la lámina y un texto que prohíba añadir elementos. Si Gemini tambi
 - [ ] des-mohenjo · Un paseo por Mohenjo-Daro
 - [ ] des-polvo-estrellas · Polvo de estrellas: de dónde viene cada átomo de tu cuerpo
 - [ ] des-sistema-solar · Cómo nace un sistema solar: del polvo a los planetas
-- [ ] des-stonehenge · Stonehenge: piedras traídas de muy lejos
+- [x] des-stonehenge (Gemini, 25-oct) · Stonehenge: piedras traídas de muy lejos
 - [ ] des-ur · Las tumbas reales de Ur
 
 ### Edad Antigua · capítulo 2
