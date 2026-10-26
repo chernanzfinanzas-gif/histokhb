@@ -23,7 +23,7 @@ Veo no supo animarlas sin cambiar el dibujo. Todas las demás láminas ya tienen
 3. ✓ con5-5 · Y mientras tanto…
 4. ✓ des-malaspina · La expedición Malaspina (1789-1794)
 5. ✓ des-mesiniense · Cuando el Mediterráneo era un desierto de sal
-6. des-polvo-estrellas · Polvo de estrellas: de dónde viene cada átomo de tu cuerpo
+6. ✓ des-polvo-estrellas · Polvo de estrellas: de dónde viene cada átomo de tu cuerpo
 7. des-rev1789 · 1789: el año que cambió Francia
 8. des-scrovegni · La Capilla de los Scrovegni
 9. des-terracota · Los guerreros de terracota
@@ -76,7 +76,7 @@ Veo no supo animarlas sin cambiar el dibujo. Todas las demás láminas ya tienen
 - [x] des-bola-nieve (Veo, 25-oct) · La Tierra bola de nieve
 - [x] des-mesiniense (Gemini, 26-oct) · Cuando el Mediterráneo era un desierto de sal
 - [x] des-mohenjo (Gemini, 25-oct) · Un paseo por Mohenjo-Daro
-- [ ] des-polvo-estrellas · Polvo de estrellas: de dónde viene cada átomo de tu cuerpo
+- [x] des-polvo-estrellas (Gemini, 26-oct) · Polvo de estrellas: de dónde viene cada átomo de tu cuerpo
 - [x] des-sistema-solar (Veo, 25-oct) · Cómo nace un sistema solar: del polvo a los planetas
 - [x] des-stonehenge (Gemini, 25-oct) · Stonehenge: piedras traídas de muy lejos
 - [x] des-ur (Veo, 25-oct) · Las tumbas reales de Ur
