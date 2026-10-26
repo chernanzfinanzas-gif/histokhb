@@ -3,7 +3,9 @@ name: Publicar en historiatotal.es
 
 on:
   push:
-    branches: [main, buzon-medios]   # buzon-medios: audios y vídeos nuevos (ver herramientas/medios.py)
+    branches: [main]
+  # El buzón de audios y vídeos (rama buzon-medios) se procesa en cada publicación;
+  # herramientas/medios.py pide una publicación (workflow_dispatch) al subir al buzón.
   workflow_dispatch:
 
 concurrency:

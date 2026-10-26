@@ -11,8 +11,8 @@ datos/medios.json = {ruta: [bytes, md5]} de todos los audios y vídeos publicado
 Uso en una sesión, después de generar audios o vídeos (voces.py, animar.py…):
     python3 herramientas/medios.py subir audio/med5-8-p.mp3 img/vivas/xxx.mp4 …
     python3 herramientas/medios.py subir            # sin rutas: todos los que haya en audio/ e img/vivas/
-  Los deja en la rama «buzon-medios» y los sube a GitHub. El workflow los copia al hosting,
-  apunta su huella en datos/medios.json y vacía el buzón. Sube el buzón ANTES que main.
+  Los deja en la rama «buzon-medios», los sube a GitHub y pide una publicación. El workflow los
+  copia al hosting, apunta su huella en datos/medios.json y vacía el buzón. Sube el buzón ANTES que main.
 
 Uso en el workflow (no a mano):
     python3 herramientas/medios.py recoger   # trae al árbol los ficheros del buzón y actualiza medios.json
@@ -54,7 +54,12 @@ def subir(rutas):
         sh('git', 'add', '-f', *rutas, cwd=wt)
         sh('git', 'commit', '-q', '-m', f'Buzón: {len(rutas)} audios/vídeos', cwd=wt)
         sh('git', 'push', '-q', 'origin', f'HEAD:refs/heads/{RAMA}', cwd=wt)
-        print(f'{len(rutas)} ficheros en el buzón. Al publicar pasan al hosting:', *rutas, sep='\n  ')
+        print(f'{len(rutas)} ficheros en el buzón:', *rutas, sep='\n  ')
+        # Un push al buzón no lanza el workflow (esa rama no lo lleva): se pide una publicación.
+        r = sh('gh', 'api', '-X', 'POST', 'repos/chernanzfinanzas-gif/histokhb/actions/workflows/publicar-hosting.yml/dispatches',
+               '-f', 'ref=main', check=False)
+        print('Publicación pedida: en unos minutos estarán en el hosting.' if r.returncode == 0 else
+              'No se pudo pedir la publicación; pasarán al hosting con la próxima publicación de main.')
     finally:
         sh('git', 'worktree', 'remove', '--force', wt, check=False)
 
