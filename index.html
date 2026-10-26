@@ -1,9 +1,9 @@
 <!doctype html>
 <html lang="es"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>HistoKHB - historiatotal.es</title>
+<title>HistoKHB - Historia Total</title>
 <meta name="description" content="Del origen del universo al mundo de hoy, contado como una gran aventura. Para niños, para curiosos y para quien quiere saberlo todo.">
-<meta property="og:title" content="HistoKHB · La historia del mundo, del Big Bang a hoy">
+<meta property="og:title" content="HistoKHB - Historia Total · La historia del mundo, del Big Bang a hoy">
 <meta property="og:description" content="Del origen del universo al mundo de hoy, contado como una gran aventura.">
 <meta name="theme-color" content="#2e2a40">
 <link rel="manifest" href="manifest.json">
@@ -375,10 +375,14 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .codtengo button{border:0;background:none;padding:0;font:inherit;color:var(--accent);font-weight:700;text-decoration:underline}
 .codajus{margin:14px 0 0;padding:10px 12px;border-radius:12px;background:var(--bg);font-size:15px;color:var(--ink2)}
 .codajus button{border:1.5px solid var(--accent);background:#fff;color:var(--accent);border-radius:999px;padding:3px 10px;font-family:var(--f-head);font-weight:600;font-size:14.5px;margin-left:2px}
+/* cabecera: «HistoKHB - Historia Total»; en móviles estrechos la segunda parte va debajo, más pequeña */
+.brand{display:flex;align-items:baseline;flex-wrap:wrap;column-gap:0;line-height:1.05;min-width:0}
+.brand .brand2{font-size:15px;font-weight:600;color:var(--ink);white-space:pre}
+@media(max-width:480px){.brand{flex-direction:column;align-items:flex-start;font-size:19px}.brand .brand2{font-size:12.5px;letter-spacing:.02em;color:var(--muted)}.brand .brsep{display:none}}
 </style></head>
 <body>
 <header class="top">
- <a class="brand" href="#/">Histo<b>KHB</b></a>
+ <a class="brand" href="#/"><span>Histo<b>KHB</b></span><span class="brand2"><span class="brsep"> - </span>Historia Total</span></a>
  <div class="sp"></div>
  <a class="ajustesTop" href="#/ajustes" aria-label="Ajustes">⚙️</a>
  <a class="wa" id="waTop" target="_blank" rel="noopener" aria-label="Compartir por WhatsApp"></a>
@@ -412,7 +416,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <div class="codajus">Puedes ver tu código o cambiarlo cuando quieras en <button type="button" onclick="go('#/ajustes')">⚙️ Ajustes</button></div>
  </div>
  <div class="bienvenida" id="panelBienvenida">
-  <h2>👋 ¿Cómo funciona HistoKHB?</h2>
+  <h2>👋 ¿Cómo funciona HistoKHB - Historia Total?</h2>
   <div class="bsec"><h3>📚 Épocas</h3><p>Toda la historia ordenada: del Big Bang a hoy. Elige un nivel de lectura —Niños, General o Profundo— y explora cada época y capítulo.</p></div>
   <div class="bdiv"></div>
   <div class="bsec"><h3>🌍 El mundo a la vez</h3><p>¿Qué pasaba en China mientras caía Roma? Compara civilizaciones de todo el planeta año a año.</p></div>
@@ -435,7 +439,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <p class="lvq">¿Cómo quieres leer las historias?</p>
   <div class="seg lvhome lvsel" id="segHome"><button data-l="n">🧒 Niños</button><button data-l="g">📘 General</button><button data-l="p">🎓 Profundo</button></div>
   <div class="eras" id="eras"></div>
-  <div class="sec-t">Hoy en HistoKHB</div>
+  <div class="sec-t">Hoy en HistoKHB - Historia Total</div>
   <button class="big" onclick="go('#/reto')"><span class="bi" id="retoIco">🏆</span><div><h3>Reto del día</h3><p id="retoMini">5 preguntas nuevas cada día. ¿Cuántas aciertas?</p></div></button>
   <div id="hdia"></div>
   <div id="semana0"></div>
@@ -445,7 +449,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <button class="big" onclick="go('#/aqui')"><span class="bi">📍</span><div><h3>¿Qué pasó donde estás?</h3><p>Tu móvil te sitúa y la app te cuenta la historia del lugar que pisas.</p></div></button>
   <button class="big" onclick="go('#/favs')"><span class="bi">⭐</span><div><h3>Guardados</h3><p id="favMini">Las historias que marques con ☆.</p></div></button>
   <div id="favs0" class="hide"></div>
-  <div class="foot0">HistoKHB · <span id="nfichas"></span> historias y más de 2.300 hechos del mundo · Del Big Bang a hoy</div>
+  <div class="foot0">HistoKHB - Historia Total · <span id="nfichas"></span> historias y más de 2.300 hechos del mundo · Del Big Bang a hoy</div>
  </div>
 </div></section>
 
@@ -548,7 +552,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
  <div class="bienvenida">
   <h2>📧 ¿Dudas o sugerencias?</h2>
   <p style="margin:0 0 10px;font-size:14px;color:var(--ink2)">Escríbenos lo que quieras: un fallo, una idea, algo que no se ve bien…</p>
-  <a class="btn" id="ajBtnContacto" href="mailto:contacto@historiatotal.es?subject=HistoKHB%20-%20duda%20o%20sugerencia" style="display:block;text-align:center;text-decoration:none">✉️ Escríbenos a contacto@historiatotal.es</a>
+  <a class="btn" id="ajBtnContacto" href="mailto:contacto@historiatotal.es?subject=HistoKHB%20-%20Historia%20Total%20-%20duda%20o%20sugerencia" style="display:block;text-align:center;text-decoration:none">✉️ Escríbenos a contacto@historiatotal.es</a>
  </div>
 </div></section>
 </main>
@@ -674,7 +678,7 @@ function go(h){location.hash=h;}
 
 // ---------- arranque ----------
 $('#waTop').innerHTML=WA_ICO+'<span class="wat">Compartir</span>';
-$('#waTop').href=waLink('📜 HistoKHB · La historia del mundo, del Big Bang a hoy\n\nDel origen del universo al mundo de hoy, contado como una gran aventura. Para niños, para curiosos y para quien quiere saberlo todo.\n\n👉 '+SHORT);
+$('#waTop').href=waLink('📜 HistoKHB - Historia Total · La historia del mundo, del Big Bang a hoy\n\nDel origen del universo al mundo de hoy, contado como una gran aventura. Para niños, para curiosos y para quien quiere saberlo todo.\n\n👉 '+SHORT);
 $('#shWa').innerHTML=WA_ICO;
 getJ('indice.json').then(j=>{IDX=j;return syncPull();}).then(()=>{initInicio();route();}).catch(e=>{document.body.insertAdjacentHTML('afterbegin','<p style="padding:20px">No se han podido cargar los datos. Comprueba la conexión y recarga.</p>');});
 window.addEventListener('hashchange',route);
@@ -843,7 +847,7 @@ async function dicMuestra(pal,mayus){
  const rw=r?r.l:w, rae=`<a class="dr" href="https://dle.rae.es/${encodeURIComponent(rw)}" target="_blank" rel="noopener">Buscar «${esc(rw)}» en el diccionario de la RAE ↗</a>`;
  let h=`<div class="dh"><div class="dp">${esc(r&&!mayus?r.l:pal)}</div><button class="dx" onclick="dicCierra()" aria-label="Cerrar">×</button></div>`;
  if(r){ const esp=LV!=='n'&&(r.e[1]||r.e[2]); if(LV!=='n'&&r.e[2]) h+=`<p class="dl"><b>En ciencia</b>${esc(r.e[2])}</p>`; if(LV!=='n'&&r.e[1]) h+=`<p class="dl"><b>En historia</b>${esc(r.e[1])}</p>`; h+=`<p class="dl">${esp?'<b>Significado general</b>':''}${esc(r.e[0])}</p>`+(mayus?`<a class="dr" href="https://es.wikipedia.org/wiki/${encodeURIComponent(pal)}" target="_blank" rel="noopener">Más sobre «${esc(pal)}» en Wikipedia ↗</a>`:rae); }
- else h+=`<p class="dl">No está en el diccionario de HistoKHB.</p>`+(mayus?`<a class="dr" href="https://es.wikipedia.org/wiki/${encodeURIComponent(pal)}" target="_blank" rel="noopener">Buscar «${esc(pal)}» en Wikipedia ↗</a>`:rae);
+ else h+=`<p class="dl">No está en el diccionario de HistoKHB - Historia Total.</p>`+(mayus?`<a class="dr" href="https://es.wikipedia.org/wiki/${encodeURIComponent(pal)}" target="_blank" rel="noopener">Buscar «${esc(pal)}» en Wikipedia ↗</a>`:rae);
  el.innerHTML=h; el.classList.remove('hide');
 }
 document.addEventListener('selectionchange',()=>{clearTimeout(dicT);dicT=setTimeout(()=>{
@@ -950,7 +954,7 @@ PL.addEventListener('ended',()=>{posSet(PL.dataset.k,0);PL.currentTime=0;audPain
 function audToggle(){const bt=$('#btnAud'); if(!bt)return; const id=bt.dataset.k;
  if(PL.dataset.k!==id||!PL.getAttribute('src')){PL.src=bt.dataset.src; PL.dataset.k=id; const p=posGet(id);
   if(p>0){try{PL.currentTime=p;}catch(e){} PL.addEventListener('loadedmetadata',()=>{if(Math.abs(PL.currentTime-p)>1)PL.currentTime=p;},{once:true});}
-  if('mediaSession' in navigator&&window.MediaMetadata){navigator.mediaSession.metadata=new MediaMetadata({title:bt.dataset.t||'',artist:'HistoKHB',artwork:bt.dataset.l?[{src:bt.dataset.l}]:[]});}}
+  if('mediaSession' in navigator&&window.MediaMetadata){navigator.mediaSession.metadata=new MediaMetadata({title:bt.dataset.t||'',artist:'HistoKHB - Historia Total',artwork:bt.dataset.l?[{src:bt.dataset.l}]:[]});}}
  if(PL.paused){PL.play().catch(()=>{}); follow=true; audDock(true);} else PL.pause();}
 // lámina y marcador fijos arriba mientras suena (sin cambiar su tamaño); el texto corre por debajo
 function audMeasure(){const sh=$('#sheet'), il=$('#shBody .sh-illo'); sh.style.setProperty('--shtop',$('.sh-top').offsetHeight+'px'); sh.style.setProperty('--illoh',(il?il.offsetHeight:0)+'px');}
@@ -1028,7 +1032,7 @@ async function renderSheet(){
   ft.innerHTML=`<button ${i<=0?'disabled':''} onclick="go('#/f/${keys[i-1]}')">‹ Anterior</button>`+
    (f.y!=null?`<button class="pri" onclick="go('#/mundo/ano/${Math.max(-3500,f.y)}')">🌍 ¿Y en el mundo?</button>`:`<button class="pri" onclick="go('#/epoca/${f.sec}/${f.cap}')">📜 Capítulo</button>`)+
    `<button ${i>=keys.length-1?'disabled':''} onclick="go('#/f/${keys[i+1]}')">Siguiente ›</button>`;
-  $('#shWa').href=waLink('📜 '+f.t+' ('+f.d+')\n'+f.tz+'\n\nLéelo en HistoKHB 👉 '+BASE+'#/f/'+k);
+  $('#shWa').href=waLink('📜 '+f.t+' ('+f.d+')\n'+f.tz+'\n\nLéelo en HistoKHB - Historia Total 👉 '+BASE+'#/f/'+k);
  } else if(CUR.kind==='d'){
   if(!DESA)DESA=await getJ('desarrollos.json').catch(()=>({}));
   const d=DESA[CUR.key]; if(!d){b.innerHTML='<p class="empty-st">Este tema no existe.</p>';return;}
@@ -1037,7 +1041,7 @@ async function renderSheet(){
   await audioUI(CUR.key,{t:d.t,lam:d.lam},'d'); if(!CUR||CUR.kind!=='d')return;
   if(d.sk&&d.sk.length){await sinc(); b.insertAdjacentHTML('beforeend',`<div class="sec-t">📅 Relacionado en la sincronía</div>`+d.sk.map(key=>{const r=key.slice(0,key.lastIndexOf('|')),y=+key.split('|').pop();const e=(SINC.ev[r]||[]).find(e=>e[0]===y);return `<button class="lugar" onclick="go('#/s/${encodeURIComponent(key)}')"><div class="lk">📅 ${fy(y)} · ${esc(rn(r))}${e&&e[3]===2?'<span class="bio">biografía</span>':''}</div><h3>${esc(e?e[1]:rn(r))}</h3></button>`;}).join(''));}
   ft.innerHTML=`<button class="pri" onclick="history.back()">‹ Volver a la ficha</button>`;
-  $('#shWa').href=waLink('📖 '+d.t+'\n\nEn HistoKHB 👉 '+BASE+'#/d/'+CUR.key);
+  $('#shWa').href=waLink('📖 '+d.t+'\n\nEn HistoKHB - Historia Total 👉 '+BASE+'#/d/'+CUR.key);
  } else if(CUR.kind==='s'){
   const key=CUR.key, [r,ys]=[key.slice(0,key.lastIndexOf('|')),key.slice(key.lastIndexOf('|')+1)], y=+ys;
   const D=await detOf(y); const h=D[key]||'<p>Esta casilla todavía no tiene ficha.</p>';
@@ -1049,7 +1053,7 @@ async function renderSheet(){
   const pv=LUG.lugares.filter(l=>(l.eventos||[]).includes(key)||(l.anio===y&&(l.regiones_sincronia||[])[0]===r)).sort((a,b)=>(a.anio||0)-(b.anio||0));
   if(pv.length&&CUR.key===key) b.insertAdjacentHTML('beforeend',`<div class="sec-t">🏛️ Para visitar (${pv.length})</div>`+pv.map(l=>`<button class="lugar" onclick="go('#/l/${l.id}')"><div class="lk">🏛️ ${esc(l.epoca||'')}${l.anio!=null?' · h. '+fy(l.anio):''}</div><h3>${esc(l.nombre)}</h3><p>${esc([l.comarca,l.provincia].filter(Boolean).join(' · '))}</p></button>`).join(''));
   ft.innerHTML=`<button class="pri" onclick="go('#/mundo/ano/${y}')">🌍 El mundo en ${fy(y)}</button><button onclick="addZone('${esc(r)}')">🧭 Seguir esta zona</button>`;
-  $('#shWa').href=waLink('🌍 '+rn(r)+', '+fy(y)+': '+(e?e[1]:'')+'\n\nEn HistoKHB 👉 '+BASE+'#/s/'+encodeURIComponent(key));
+  $('#shWa').href=waLink('🌍 '+rn(r)+', '+fy(y)+': '+(e?e[1]:'')+'\n\nEn HistoKHB - Historia Total 👉 '+BASE+'#/s/'+encodeURIComponent(key));
  } else if(CUR.kind==='l'){
   if(!LUG)LUG=await getJ('lugares.json'); const L=LUG.lugares.find(x=>x.id===CUR.key);
   if(!L){b.innerHTML='<p class="empty-st">Lugar no encontrado.</p>';return;}
@@ -1060,9 +1064,9 @@ async function renderSheet(){
   const evF=(L.eventos||[]).filter(e=>e.startsWith('f:')&&IDX.fichas[e.slice(2)]), evD=(L.eventos||[]).filter(e=>e.startsWith('des-')), evS=(L.eventos||[]).filter(e=>e.includes('|'));
   if(evD.length&&!DESA)DESA=await getJ('desarrollos.json').catch(()=>({}));
   const lk=evF.map(e=>{const F=IDX.fichas[e.slice(2)];return `<button class="lugar" onclick="go('#/f/${e.slice(2)}')"><div class="lk">📖 Ficha · ${esc(F.c||'')}</div><h3>${esc(F.t)}</h3></button>`;}).concat(evD.filter(d=>DESA&&DESA[d]).map(d=>`<button class="lugar" onclick="go('#/d/${d}')"><div class="lk">📖 Desarrollo del tema</div><h3>${esc(DESA[d].t)}</h3></button>`)).join('');
-  if(lk)b.insertAdjacentHTML('beforeend',`<div class="sec-t">📖 Lo que pasó aquí, en HistoKHB</div>`+lk);
+  if(lk)b.insertAdjacentHTML('beforeend',`<div class="sec-t">📖 Lo que pasó aquí, en HistoKHB - Historia Total</div>`+lk);
   ft.innerHTML=`<button class="pri" onclick="go('#/aqui')">📍 Ver alrededores</button>`+(evS.length?`<button onclick="go('#/s/${encodeURIComponent(evS[0])}')">📅 En la sincronía</button>`:evF.length?`<button onclick="go('#/f/${evF[0].slice(2)}')">📖 Leer la ficha</button>`:'');
-  $('#shWa').href=waLink('📍 '+L.nombre+': su historia en HistoKHB 👉 '+BASE+'#/l/'+L.id);
+  $('#shWa').href=waLink('📍 '+L.nombre+': su historia en HistoKHB - Historia Total 👉 '+BASE+'#/l/'+L.id);
  }
  favBtn();
 }
@@ -1450,7 +1454,7 @@ async function aquiAt(pt,label,quiet){ LASTPT=pt; try{sessionStorage.setItem('hk
  try{
   const u=`https://es.wikipedia.org/w/api.php?action=query&list=geosearch&gscoord=${pt[0]}|${pt[1]}&gsradius=10000&gslimit=12&format=json&origin=*`;
   const j=await (await fetch(u)).json(); const g=(j.query&&j.query.geosearch)||[];
-  $('#wkList').innerHTML=g.length?g.map(x=>`<a class="wk" href="https://es.wikipedia.org/?curid=${x.pageid}" target="_blank" rel="noopener"><b>${esc(x.title)}</b><span>${x.dist<1000?Math.round(x.dist)+' m':(x.dist/1000).toFixed(1)+' km'}</span></a>`).join('')+'<p class="rt">Enlaces a Wikipedia: contenido externo, no revisado por HistoKHB.</p>':'<p class="rt">No hay artículos cerca.</p>';
+  $('#wkList').innerHTML=g.length?g.map(x=>`<a class="wk" href="https://es.wikipedia.org/?curid=${x.pageid}" target="_blank" rel="noopener"><b>${esc(x.title)}</b><span>${x.dist<1000?Math.round(x.dist)+' m':(x.dist/1000).toFixed(1)+' km'}</span></a>`).join('')+'<p class="rt">Enlaces a Wikipedia: contenido externo, no revisado por HistoKHB - Historia Total.</p>':'<p class="rt">No hay artículos cerca.</p>';
  }catch(e){$('#wkList').innerHTML='<p class="rt">No se ha podido consultar Wikipedia.</p>';}
 }
 
@@ -1496,7 +1500,7 @@ function drawReto(){
   const first=RS.qs.filter(q=>!q.wrong.length).length;
   if(!RS.practice){const r=LS.get('hk_reto',{d:{}});if(!(r.d[RS.day]||{}).ok){r.d[RS.day]={s:first,ok:true};LS.set('hk_reto',r);const st0=racha();const prevR=rango(st0-1).r;r.best=Math.max(r.best||0,st0);LS.set('hk_reto',r);syncPush();RS.subio=(rango(st0).r!==prevR)?rango(st0).r:null;}}
   const st=racha(), msg=first===5?'¡Pleno a la primera! Eres un sabio de la historia.':first>=3?'¡Muy bien! Reto resuelto.':'¡Reto resuelto! Buscar en las fichas también es aprender.';
-  const share='🏆 Reto del día de HistoKHB: '+first+'/5 a la primera'+(RS.practice?'':(st>1?' · 🔥 racha de '+st+' días · '+rango(st).r[1]+' '+rango(st).r[2]:''))+'. ¿Te atreves?\n👉 https://historiatotal.es/#/reto';
+  const share='🏆 Reto del día de HistoKHB - Historia Total: '+first+'/5 a la primera'+(RS.practice?'':(st>1?' · 🔥 racha de '+st+' días · '+rango(st).r[1]+' '+rango(st).r[2]:''))+'. ¿Te atreves?\n👉 https://historiatotal.es/#/reto';
   B.innerHTML=LVS+`<div class="score"><div class="sec-t" style="margin-top:6px">${RS.practice?'Práctica':'Reto del día · '+RS.day.split('-').reverse().join('/')}</div><div class="big1">${first}/5</div><p style="margin:4px 0 0;color:var(--muted);font-weight:700">a la primera</p><p>${msg}</p>${RS.practice?'':`${RS.subio?`<div class="fb" style="text-align:center">🎉 ¡Nueva categoría: <b>${RS.subio[1]} ${RS.subio[2]}</b>!</div>`:''}<span class="streak">🔥 Racha: ${st} día${st!==1?'s':''}</span>${rangoHTML(st)}<p class="rt">Cada día que resuelves las 5 preguntas suma uno. Si un día no lo haces, la racha vuelve a empezar.</p>`}</div>`+
    `<div class="rbtns"><a class="btn" style="background:var(--wa)" target="_blank" rel="noopener" href="${waLink(share)}">Retar por WhatsApp</a></div>`+
    `<div class="rbtns"><button class="btn sec" onclick="RS=null;go('#/reto/practica');renderReto('practica')">Practicar más</button></div>`+
@@ -1522,7 +1526,7 @@ function fdia(d){const [a,m,dd]=d.split('-');return +dd+' '+['ene','feb','mar','
 async function initNov0(){const N=await novs();if(!N.length)return;const u=N[N.length-1];
  $('#nov0').innerHTML=`<button class="big" onclick="go('#/novedades')"><span class="bi">🆕</span><div><h3>Novedades · ${fdia(u.fecha)}</h3><p>${u.items.length} historias nuevas o ampliadas · ${esc(u.titulo)}. ${esc(u.items.slice(0,2).map(i=>i.t).join(' · '))}…</p></div></button>`;}
 async function renderNov(){lastScreen='novedades';show('novedades');const N=await novs();await sinc().catch(()=>{});
- let h='<div class="sec-t" style="margin-top:6px">🆕 Novedades</div><p class="rt">HistoKHB crece cada día. Aquí tienes las últimas historias añadidas o ampliadas.</p>';
+ let h='<div class="sec-t" style="margin-top:6px">🆕 Novedades</div><p class="rt">HistoKHB - Historia Total crece cada día. Aquí tienes las últimas historias añadidas o ampliadas.</p>';
  h+=N.slice().reverse().map(d=>`<div class="sec-t">${fdia(d.fecha)} · ${esc(d.titulo)}</div>`+d.items.map(i=>{const r=i.k.slice(0,i.k.lastIndexOf('|')),y=+i.k.split('|').pop();const href=i.href||('#/s/'+encodeURIComponent(i.k));const sub=i.sub||(esc(rn(r))+' · '+fy(y));
   return `<button class="res" onclick="go('${href}')"><div class="rk">${i.tipo==='nueva'?'✨ Nueva':'➕ Ampliada'} · ${sub}</div><div class="rt">${esc(i.t)}</div>${i.lugares&&i.lugares.length?`<div class="rs">📍 ${esc(i.lugares.join(', '))}</div>`:''}</button>`;}).join('')).join('');
  $('#novBox').innerHTML=h||'<p class="empty-st">Pronto habrá novedades.</p>';}
