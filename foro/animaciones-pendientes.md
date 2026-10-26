@@ -20,7 +20,7 @@ Veo no supo animarlas sin cambiar el dibujo. Todas las demás láminas ya tienen
 
 1. ✓ con4-0 · La Guerra Fría
 2. ✓ con4-17 · 1968: juventud, música y protesta
-3. con5-5 · Y mientras tanto…
+3. ✓ con5-5 · Y mientras tanto…
 4. des-malaspina · La expedición Malaspina (1789-1794)
 5. des-mesiniense · Cuando el Mediterráneo era un desierto de sal
 6. des-polvo-estrellas · Polvo de estrellas: de dónde viene cada átomo de tu cuerpo
@@ -515,7 +515,7 @@ Veo no supo animarlas sin cambiar el dibujo. Todas las demás láminas ya tienen
 - [x] con5-18 (Veo, 25-oct) · 
 - [x] con5-3 (Veo, 25-oct) · 
 - [x] con5-6 (Veo, 25-oct) · 
-- [ ] con5-5 · 
+- [x] con5-5 (Gemini, 26-oct) · 
 - [x] des-atocha-11m (Veo, 25-oct) · El memorial del 11-M en Atocha
 - [x] des-cern (Veo, 25-oct) · El CERN y el bosón de Higgs
 - [x] des-memorial-11s (Veo, 25-oct) · El Memorial del 11-S
