@@ -33,7 +33,7 @@
 "g": "Bajar el precio de algo."
 },
 "abarca": {
-"g": "Calzado rústico de cuero que cubre la planta del pie y se ata con correas al tobillo."
+"g": "Forma de abarcar: incluir o rodear algo. Como nombre, calzado rústico de cuero atado con correas."
 },
 "abarcar": {
 "g": "Comprender o incluir dentro de sí un conjunto de cosas o un periodo de tiempo."
@@ -105,7 +105,8 @@
 "g": "De forma clara y sin esconderse."
 },
 "abierto": {
-"g": "Que cualquiera puede ver o usar libremente."
+"g": "No cerrado; también, que cualquiera puede ver o usar, o que sigue sin resolverse.",
+"c": "Paisaje abierto: con pocos árboles, como la sabana o la estepa."
 },
 "abigarrado": {
 "g": "De colores o elementos muy variados y mezclados sin orden."
@@ -225,7 +226,8 @@
 "g": "Proteger del frío o mantener el calor."
 },
 "abrigo": {
-"g": "Lugar que protege del frío o del mal tiempo; también, prenda de ropa de invierno."
+"g": "Lugar que protege del frío o del mal tiempo; también, prenda de ropa de invierno.",
+"c": "En arqueología, saliente de roca poco hondo que protegía del tiempo y donde vivieron grupos prehistóricos."
 },
 "abrumador": {
 "g": "Tan grande o intenso que resulta casi imposible de soportar o rebatir."
@@ -269,6 +271,7 @@
 },
 "absorción": {
 "g": "Acción de retener una sustancia o la luz, que así queda atrapada y no pasa.",
+"h": "Incorporación de un país o un territorio a otro más grande que lo domina.",
 "c": "En astronomía, la luz de ciertos colores que un gas retiene al atravesarlo, y que deja rayas oscuras en el espectro."
 },
 "absorto": {
@@ -281,7 +284,7 @@
 "g": "Dejar de votar a favor o en contra en una votación."
 },
 "abstracto": {
-"g": "Arte que no representa cosas reales, solo formas y colores."
+"g": "Que se refiere a ideas y no a cosas concretas; en arte, que no representa cosas reales."
 },
 "absurdo": {
 "g": "Que no tiene sentido o va contra la razón."
@@ -605,7 +608,8 @@
 "g": "Unirse dos cosas encajando entre sí."
 },
 "acorazado": {
-"g": "Barco de guerra protegido con gruesas planchas de acero."
+"g": "Protegido con una coraza o con planchas duras; también, barco de guerra blindado.",
+"c": "Pez acorazado: pez primitivo con la cabeza y el pecho cubiertos de placas de hueso."
 },
 "acordado": {
 "g": "Decidido de común acuerdo."
@@ -1301,6 +1305,7 @@
 },
 "agregado": {
 "g": "Conjunto de partes unidas formando un todo.",
+"h": "Agregado militar o naval: militar destinado en una embajada para tratar asuntos de defensa.",
 "c": "Grano formado por partículas pequeñas de polvo o hielo que se han ido pegando unas a otras."
 },
 "agresivo": {
@@ -1392,7 +1397,7 @@
 },
 "agujero": {
 "g": "Abertura o hueco en algo.",
-"c": "Un agujero negro es una zona del espacio con tanta materia concentrada que nada, ni siquiera la luz, puede escapar de su atracción."
+"c": "Agujero negro: zona del espacio de la que nada escapa, ni la luz. Agujero occipital: orificio del cráneo por donde pasa la médula."
 },
 "agustina": {
 "g": "Monja de la orden de san Agustín."
@@ -1510,7 +1515,7 @@
 "g": "Salamandra que vive solo en los lagos de México y conserva toda su vida aspecto de larva."
 },
 "ajuar": {
-"g": "Conjunto de objetos que se colocaban en una tumba junto al difunto."
+"g": "Objetos que se colocaban en una tumba junto al difunto; también, ropa y enseres que lleva una novia."
 },
 "ajustable": {
 "g": "Que se puede ajustar o regular."
@@ -1928,7 +1933,8 @@
 "g": "Lo que se come o se bebe para vivir."
 },
 "alineación": {
-"g": "Postura de un país a favor de un bando; los no alineados no se unían a ninguno."
+"g": "Colocación de varias cosas en línea; también, postura de un país a favor de un bando.",
+"c": "Alineación astronómica: orientación de un monumento hacia la salida o la puesta del Sol o de un astro en una fecha señalada."
 },
 "alineamiento": {
 "g": "Fila de piedras grandes colocadas en línea en la prehistoria."
@@ -2590,7 +2596,7 @@
 "g": "Reconstrucción de un monumento con sus propias piedras caídas."
 },
 "anatolia": {
-"g": "La península de Asia Menor, la parte asiática de la actual Turquía."
+"g": "Asia Menor, la parte asiática de la actual Turquía; como adjetivo, de esa región."
 },
 "anatolio": {
 "g": "De Anatolia, la actual Turquía asiática."
@@ -3207,7 +3213,7 @@
 "g": "Acción de dejar sin valor una ley, un acuerdo o una decisión."
 },
 "anular": {
-"g": "Dejar sin valor una ley, un acuerdo o una decisión."
+"g": "Dejar sin valor una ley o una decisión; como nombre, el dedo que está junto al meñique."
 },
 "anunciar": {
 "g": "Dar a conocer una noticia; también, avisar de algo que va a pasar."
@@ -3385,7 +3391,8 @@
 "g": "Herramienta del campo, como el arado o la azada."
 },
 "apertura": {
-"g": "Acción de abrir; también, de permitir más libertad o contacto con el exterior."
+"g": "Acción de abrir; también, de permitir más libertad o contacto con el exterior.",
+"c": "Apertura de un océano: separación de dos continentes, que deja entre ellos un mar que se va ensanchando."
 },
 "apestado": {
 "g": "Enfermo de peste o lleno de ella."
@@ -3623,7 +3630,7 @@
 "g": "Persona que no tiene nacionalidad de ningún país."
 },
 "apéndice": {
-"g": "Parte que sale del cuerpo principal de un animal, como una pata, una antena o una pinza."
+"g": "Parte añadida al final de un libro; en los animales, parte que sale del cuerpo, como una pata o una antena."
 },
 "apócrifo": {
 "g": "Texto falso o de autor dudoso; en religión, libro que la Iglesia no admite como sagrado."
@@ -3757,7 +3764,8 @@
 "g": "Pequeña ramificación que forma un hongo dentro de las células de una raíz para intercambiar alimento."
 },
 "arca": {
-"g": "Caja grande con tapa; arcas públicas son el dinero del Estado."
+"g": "Caja grande con tapa; arcas públicas son el dinero del Estado.",
+"c": "En Galicia, nombre popular de los dólmenes, las cámaras de piedra que hay dentro de los túmulos."
 },
 "arcabucero": {
 "g": "Soldado armado con arcabuz."
@@ -4594,7 +4602,8 @@
 "g": "Burro."
 },
 "asociación": {
-"g": "Grupo de personas unidas para un fin común."
+"g": "Grupo de personas unidas para un fin común.",
+"c": "En biología, vida en común de dos seres distintos que se benefician los dos, como un hongo y una planta."
 },
 "asociado": {
 "g": "Relacionado o unido con otra cosa."
@@ -5308,7 +5317,7 @@
 "g": "Cereal que se usa para alimento de personas y animales."
 },
 "avenida": {
-"g": "Calle ancha."
+"g": "Calle ancha; también, crecida repentina de un río que arrastra lo que encuentra."
 },
 "aventajar": {
 "g": "Superar a otro."
@@ -5763,7 +5772,7 @@
 },
 "banda": {
 "g": "Tira de tela o de otro material; también, grupo de personas.",
-"c": "En las rocas, franja o capa de otro color; también, cada franja de colores o de rayas de un espectro de luz."
+"c": "Franja o capa en las rocas; cerámica de bandas: la de los primeros agricultores de Europa central, decorada con líneas."
 },
 "bandeado": {
 "g": "Formado por bandas o capas de distinto color."
@@ -5922,7 +5931,7 @@
 "g": "Barca pequeña."
 },
 "barra": {
-"g": "Pieza larga y estrecha; barra de oro o hierro: lingote."
+"g": "Pieza larga y estrecha; también, banco de arena en la boca de un río o de un puerto."
 },
 "barraca": {
 "g": "Casa pobre y provisional, chabola."
@@ -6082,7 +6091,8 @@
 "g": "Barca pequeña que llevaba un barco grande."
 },
 "batería": {
-"g": "Grupo de cañones colocados para disparar; también, pila eléctrica."
+"g": "Grupo de cañones colocados para disparar; también, pila eléctrica.",
+"c": "Batería de dientes: muchas filas de dientes apretados que se van reponiendo, como en los hadrosaurios."
 },
 "batey": {
 "g": "Plaza central de los poblados taínos, donde se jugaba a la pelota y se hacían fiestas."
@@ -7772,7 +7782,7 @@
 "g": "Recipiente grande y hondo de metal para cocinar."
 },
 "caldo": {
-"g": "Caldo de cultivo: ambiente que favorece que algo nazca o crezca."
+"g": "Líquido que resulta de cocer alimentos en agua; caldo de cultivo: ambiente que favorece que algo crezca."
 },
 "caledoniano": {
 "g": "De la cadena de montañas que se levantó hace unos 400 millones de años en Escocia, Escandinavia y Groenlandia."
@@ -7893,7 +7903,8 @@
 "h": "Calzada romana: camino empedrado que construían los romanos para unir las ciudades del imperio y mover sus tropas."
 },
 "calzado": {
-"g": "Zapatos, botas y todo lo que sirve para cubrir los pies."
+"g": "Zapatos, botas y todo lo que sirve para cubrir los pies.",
+"h": "Carmelitas calzados: los de la regla antigua, frente a los descalzos que reformó santa Teresa."
 },
 "calzar": {
 "g": "Poner el calzado a alguien."
@@ -8036,7 +8047,7 @@
 "g": "De Canadá."
 },
 "canal": {
-"g": "Cauce hecho por las personas para llevar agua o para que naveguen barcos."
+"g": "Cauce o paso estrecho por donde va el agua o algo; también, conducto del cuerpo, como el canal del parto."
 },
 "canalillo": {
 "g": "Canal pequeño."
@@ -8189,7 +8200,8 @@
 "g": "Mujer que acompañaba a los ejércitos vendiendo comida y bebida y cuidando heridos."
 },
 "canto": {
-"g": "Acción de cantar; canción."
+"g": "Acción de cantar; también, piedra redondeada por el agua de un río (canto rodado).",
+"c": "En prehistoria, piedra redondeada de río que se golpeaba para tallar herramientas."
 },
 "cantonal": {
 "g": "De los cantones.",
@@ -8339,7 +8351,8 @@
 },
 "capuchino": {
 "g": "Fraile de una rama de la orden franciscana.",
-"h": "La «Capuchinada» fue el encierro de estudiantes y profesores en el convento de capuchinos de Sarriá en 1966 contra el franquismo."
+"h": "La «Capuchinada» fue el encierro de estudiantes y profesores en el convento de capuchinos de Sarriá en 1966 contra el franquismo.",
+"c": "Mono capuchino: pequeño mono de Sudamérica que usa piedras para partir frutos."
 },
 "capullo": {
 "g": "Envoltura que fabrica el gusano de seda y de la que se saca el hilo."
@@ -8704,7 +8717,7 @@
 "g": "Persona que hace mapas."
 },
 "carácter": {
-"g": "Signo de escritura, como una letra o un símbolo chino."
+"g": "Forma de ser de una persona o de un animal; también, signo de escritura, como una letra o un símbolo chino."
 },
 "carísimo": {
 "g": "Muy caro."
@@ -8937,7 +8950,7 @@
 "g": "Goma elástica que se saca de la savia de algunos árboles tropicales."
 },
 "caudal": {
-"g": "De la cola; la aleta caudal es la de la cola de un pez."
+"g": "Cantidad de agua que lleva un río; también, de la cola (la aleta caudal es la de la cola de un pez)."
 },
 "caudaloso": {
 "g": "Que lleva mucha agua."
@@ -9067,7 +9080,8 @@
 "h": "La «diplomacia de las cañoneras» era la presión de las potencias del siglo XIX enviando barcos de guerra a países más débiles."
 },
 "cañón": {
-"g": "Arma de fuego grande que dispara proyectiles pesados."
+"g": "Arma de fuego grande que dispara proyectiles pesados.",
+"c": "Valle muy estrecho y profundo, de paredes casi verticales, excavado por un río."
 },
 "caótico": {
 "g": "Desordenado y confuso."
@@ -9678,7 +9692,8 @@
 "g": "Que chirría o hace un ruido agudo y molesto."
 },
 "chimenea": {
-"g": "Conducto por el que sale el humo; también hogar para encender fuego en una casa."
+"g": "Conducto por el que sale el humo; también hogar para encender fuego en una casa.",
+"c": "Chimenea hidrotermal: torre de minerales en el fondo del mar por la que sale agua caliente; quizá allí empezó la vida."
 },
 "chimpancé": {
 "g": "Mono grande de África, el pariente vivo más cercano del ser humano."
@@ -10022,7 +10037,8 @@
 },
 "circo": {
 "g": "Espectáculo con payasos, acróbatas y animales.",
-"h": "En Roma, gran recinto alargado para carreras de carros, como el Circo Máximo."
+"h": "En Roma, gran recinto alargado para carreras de carros, como el Circo Máximo.",
+"c": "Circo glaciar: hondonada en forma de anfiteatro que excava un glaciar en lo alto de una montaña."
 },
 "circonio": {
 "g": "Metal duro que forma el mineral circón, usado para fechar las rocas más antiguas."
@@ -10208,7 +10224,7 @@
 "g": "Pieza pequeña de madera o metal que se encaja en un agujero para unir o sujetar."
 },
 "clavo": {
-"g": "Pieza de metal con punta que se clava para unir cosas."
+"g": "Pieza de metal con punta para clavar; también, especia: el capullo seco de un árbol de las Molucas."
 },
 "clavícula": {
 "g": "Hueso largo que une el hombro con el esternón."
@@ -10377,7 +10393,8 @@
 "g": "Persona que conduce un coche de caballos."
 },
 "cochinilla": {
-"g": "Pequeño animal gris de tierra húmeda que se enrolla en bola al tocarlo."
+"g": "Pequeño animal gris de tierra húmeda que se enrolla en bola al tocarlo.",
+"h": "Insecto americano del que se sacaba un tinte rojo muy caro, la grana, que España vendía a toda Europa."
 },
 "cocido": {
 "g": "Endurecido con el calor del fuego, como el barro o el ladrillo."
@@ -10521,6 +10538,7 @@
 },
 "cola": {
 "g": "Parte final del cuerpo de algunos animales.",
+"h": "Nuez de cola: semilla africana que se masca como estimulante y se comerciaba mucho en África occidental.",
 "c": "En astronomía, estela de gas y polvo que un cometa o la magnetosfera de un planeta deja en dirección contraria al Sol."
 },
 "colaboracionismo": {
@@ -10673,7 +10691,8 @@
 "g": "De Colombia."
 },
 "colombino": {
-"g": "De Cristóbal Colón; intercambio colombino: paso de plantas, animales y enfermedades entre América y el Viejo Mundo."
+"g": "De Cristóbal Colón; intercambio colombino: paso de plantas, animales y enfermedades entre América y el Viejo Mundo.",
+"c": "Mamut colombino: gran mamut de América del Norte, de climas templados."
 },
 "colonato": {
 "g": "Sistema en que los campesinos quedaban atados a la tierra que cultivaban para un gran propietario.",
@@ -11291,7 +11310,8 @@
 "g": "Tubo o canal por donde pasa algo, como aire o agua."
 },
 "conductor": {
-"g": "Persona que conduce un vehículo o guía a otros."
+"g": "Persona que conduce un vehículo o guía a otros.",
+"c": "Material que deja pasar la electricidad o el calor, como los metales."
 },
 "conectar": {
 "g": "Unir o poner en relación dos cosas o lugares."
@@ -11416,7 +11436,8 @@
 "g": "Convertir en hielo por el frío."
 },
 "conglomerado": {
-"g": "Grupo de empresas de distintos negocios bajo un mismo dueño."
+"g": "Grupo de empresas de distintos negocios bajo un mismo dueño.",
+"c": "Roca hecha de cantos y gravas antiguos pegados entre sí por un cemento natural."
 },
 "congo": {
 "g": "Del Congo, región y reino de África central."
@@ -11999,7 +12020,7 @@
 },
 "convergencia": {
 "g": "Acercamiento de cosas que se dirigen al mismo punto.",
-"c": "Convergencia de placas: lugar donde dos placas de la corteza chocan y una se hunde bajo la otra."
+"c": "Choque de placas tectónicas; en biología, parecido que logran seres no emparentados por vivir igual, como ictiosaurios y delfines."
 },
 "convergente": {
 "g": "Evolución convergente: la que hace parecidos a seres no emparentados por vivir de forma semejante."
@@ -12166,7 +12187,8 @@
 "g": "Que tiene joroba."
 },
 "cordado": {
-"g": "Cerámica cordada: decorada con marcas de cuerdas, típica de un pueblo del norte de Europa en la Edad del Cobre."
+"g": "Cerámica cordada: decorada con marcas de cuerdas, típica de un pueblo del norte de Europa en la Edad del Cobre.",
+"c": "Cordados: gran grupo de animales con un cordón a lo largo de la espalda; incluye a todos los vertebrados."
 },
 "cordaital": {
 "g": "Árbol antiguo parecido a las coníferas que formaba bosques en el Carbonífero."
@@ -12473,7 +12495,8 @@
 "g": "Mezcla de gentes y culturas de muchos lugares."
 },
 "cosmos": {
-"g": "El universo entero, entendido como un todo ordenado."
+"g": "El universo entero, entendido como un todo ordenado.",
+"h": "En la antigua Creta, nombre de los magistrados que gobernaban la ciudad."
 },
 "cosmovisión": {
 "g": "Manera de ver y explicar el mundo propia de un pueblo."
@@ -12522,7 +12545,8 @@
 "g": "Manera de hacer algo que se repite y se hereda."
 },
 "costura": {
-"g": "Trabajo de coser."
+"g": "Trabajo de coser.",
+"c": "En geología, línea donde chocaron dos antiguos continentes y quedaron soldados, como una cicatriz."
 },
 "costurera": {
 "g": "Mujer que cose por oficio."
@@ -12782,7 +12806,7 @@
 "c": "En biología, unión de dos animales o plantas distintos para que tengan crías; también la mezcla de dos especies o poblaciones."
 },
 "crucero": {
-"g": "Barco de guerra grande y rápido; también viaje de recreo en barco."
+"g": "Barco de guerra rápido; viaje por mar; en una iglesia, la nave que cruza la principal formando una cruz."
 },
 "crucería": {
 "g": "Bóveda de crucería: la formada por arcos que se cruzan, típica del gótico."
@@ -12856,7 +12880,7 @@
 "g": "Vasija grande y ancha donde los griegos mezclaban el vino con agua."
 },
 "crédito": {
-"g": "Dinero prestado que hay que devolver."
+"g": "Dinero prestado que hay que devolver; también confianza: «no dar crédito» es no poder creerse algo."
 },
 "cría": {
 "g": "Animal recién nacido o pequeño; también acción de criar."
@@ -13482,7 +13506,8 @@
 "g": "Techo con forma de media esfera."
 },
 "cúspide": {
-"g": "Parte más alta de algo, la punta; también, el punto máximo de una carrera o poder."
+"g": "Parte más alta de algo, la punta; también el punto máximo de una carrera o un poder.",
+"c": "En los dientes, cada una de las puntas o bultos de la superficie de las muelas, que ayudan a identificar especies."
 },
 "cúter": {
 "g": "Cuchilla de hoja fina y retráctil para cortar papel o cartón."
@@ -13741,7 +13766,7 @@
 "g": "Adornos con que se embellece algo."
 },
 "decorado": {
-"g": "Adornado."
+"g": "Adornado; como nombre, lo que se pone en un escenario para representar un lugar."
 },
 "decorar": {
 "g": "Adornar."
@@ -13873,7 +13898,7 @@
 "g": "Que ha perdido calidad, valor o rango."
 },
 "degradar": {
-"g": "Deteriorar o descomponer algo poco a poco."
+"g": "Deteriorar algo poco a poco; también quitar a alguien su grado o cargo como castigo."
 },
 "deinoterio": {
 "g": "Animal extinguido de la familia de los elefantes, con colmillos curvados hacia abajo en la mandíbula inferior."
@@ -14102,7 +14127,7 @@
 "g": "De un departamento; grandes almacenes son tiendas enormes con muchas secciones."
 },
 "dependencia": {
-"g": "Situación de quien necesita de otro y no es libre."
+"g": "Situación de quien necesita de otro y no es libre; también habitación o local de un edificio."
 },
 "depender": {
 "g": "Necesitar de otro o de algo para existir o funcionar."
@@ -14150,7 +14175,7 @@
 "g": "Que sufre depresión, una enfermedad de tristeza profunda."
 },
 "depresión": {
-"g": "Zona del terreno más baja que lo que la rodea, como una hondonada grande."
+"g": "Zona del terreno más baja que lo que la rodea; también época de crisis económica o de pérdida de población."
 },
 "deprimir": {
 "g": "Quitar el ánimo, hundir en la tristeza."
@@ -14441,7 +14466,7 @@
 "g": "Pausa para recuperar fuerzas tras el trabajo o el esfuerzo."
 },
 "descarga": {
-"g": "Acción de sacar la carga de un barco o vehículo."
+"g": "Acción de descargar; también disparo a la vez de muchas armas, o salida brusca de mucha agua."
 },
 "descargar": {
 "g": "Sacar la carga de un barco, un carro o un vehículo."
@@ -15032,13 +15057,13 @@
 "g": "Acto de despedirse o decir adiós."
 },
 "despedir": {
-"g": "Decir adiós a alguien que se va; también, echar a alguien de su trabajo."
+"g": "Decir adiós a alguien; echar a alguien de su trabajo; también lanzar algo con fuerza: salir despedido."
 },
 "despedirse": {
 "g": "Decir adiós."
 },
 "despegar": {
-"g": "Levantar el vuelo un avión o una nave."
+"g": "Separar algo que estaba pegado; también levantar el vuelo un avión, un ave o un animal."
 },
 "despegue": {
 "g": "Momento en que algo empieza a crecer con fuerza, o en que un avión levanta el vuelo."
@@ -15788,7 +15813,7 @@
 "g": "Muro que contiene el agua de un río o del mar."
 },
 "dirección": {
-"g": "Hacia dónde se mueve o mira algo."
+"g": "Hacia dónde se mueve o mira algo; también el grupo de personas que dirige algo."
 },
 "directiva": {
 "g": "Orden o norma que da una autoridad."
@@ -16221,7 +16246,7 @@
 "g": "Torcido o plegado; también, multiplicado por dos."
 },
 "doblar": {
-"g": "Multiplicar por dos; también, torcer o curvar."
+"g": "Multiplicar por dos; torcer o curvar; también pasar un barco al otro lado de un cabo."
 },
 "doblarse": {
 "g": "Curvarse o torcerse."
@@ -16370,7 +16395,8 @@
 "g": "Regalo de bienes o dinero, a menudo a una iglesia o institución."
 },
 "donante": {
-"g": "Persona que regala bienes o dinero."
+"g": "Persona que regala bienes o dinero.",
+"c": "En química, sustancia que cede electrones a otra en una reacción."
 },
 "donar": {
 "g": "Regalar algo, sobre todo a una institución."
@@ -16401,7 +16427,8 @@
 "g": "De color de oro o cubierta de oro."
 },
 "dorado": {
-"g": "De color de oro o cubierto de oro."
+"g": "De color de oro o cubierto de oro.",
+"c": "«Clavo dorado»: punto marcado en una roca que sirve de referencia mundial para el comienzo de un periodo geológico."
 },
 "dorador": {
 "g": "Artesano que cubre objetos con oro."
@@ -16868,7 +16895,8 @@
 "g": "En efecto; de verdad."
 },
 "efectivo": {
-"g": "Que funciona y consigue lo que busca."
+"g": "Que funciona y consigue lo que busca; también dinero en monedas y billetes.",
+"c": "Población efectiva: número de individuos que realmente dejan descendencia y transmiten sus genes; suele ser mucho menor que la población total."
 },
 "efecto": {
 "g": "Lo que resulta de una causa; consecuencia.",
@@ -17234,7 +17262,7 @@
 "g": "Meter algo apretado dentro de otra cosa."
 },
 "emergencia": {
-"g": "Situación de peligro que exige actuar enseguida."
+"g": "Situación de peligro que exige actuar enseguida; también hecho de salir a la superficie o aparecer."
 },
 "emergente": {
 "g": "Que empieza a aparecer o a tener importancia."
@@ -17358,7 +17386,7 @@
 "g": "Mujer que gobierna un imperio o esposa del emperador."
 },
 "empeñar": {
-"g": "Dejar algo como garantía de un préstamo."
+"g": "Dejar algo como garantía de un préstamo; empeñarse: insistir con tesón en algo."
 },
 "empeño": {
 "g": "Esfuerzo y constancia por conseguir algo."
@@ -17370,7 +17398,7 @@
 "g": "Lugar donde está situado algo."
 },
 "emplazar": {
-"g": "Situar o colocar en un lugar."
+"g": "Situar o colocar en un lugar; también citar a alguien para que se presente en un sitio o ante un tribunal."
 },
 "empleado": {
 "g": "Persona que trabaja para otra o para una empresa a cambio de un sueldo."
@@ -17388,7 +17416,8 @@
 "g": "Que tiene plumas."
 },
 "empobrecer": {
-"g": "Hacer más pobre."
+"g": "Hacer más pobre.",
+"c": "En química, tener una sustancia menos cantidad de lo normal de un elemento o isótopo: «empobrecida en carbono-13»."
 },
 "empobrecimiento": {
 "g": "Proceso de volverse más pobre."
@@ -17692,7 +17721,8 @@
 "g": "Aumento de la dureza o de la severidad."
 },
 "endémico": {
-"g": "Que solo vive en un lugar concreto."
+"g": "Que se repite siempre en un lugar, como una enfermedad o un mal que no desaparece.",
+"c": "En biología, especie que solo vive en un lugar concreto del mundo y en ningún otro."
 },
 "endógeno": {
 "g": "Que nace o se origina dentro, no viene de fuera."
@@ -17899,7 +17929,8 @@
 "g": "Poner rejas."
 },
 "enriquecer": {
-"g": "Hacer rico o más rico."
+"g": "Hacer rico o más rico.",
+"c": "En química, aumentar en una sustancia la cantidad de un elemento o isótopo: «enriquecido en oxígeno pesado»."
 },
 "enriquecimiento": {
 "g": "Hecho de hacerse rico."
@@ -18446,7 +18477,7 @@
 "g": "Traje hermético con casco para respirar bajo el agua o en el espacio."
 },
 "escala": {
-"g": "Tamaño o proporción de algo; a gran escala es en grande.",
+"g": "Tamaño o proporción de algo; a gran escala es en grande; también parada intermedia en un viaje.",
 "c": "Escala geológica: forma de dividir la historia de la Tierra en eones, eras, periodos y épocas."
 },
 "escalada": {
@@ -18701,7 +18732,7 @@
 "g": "Lugar donde se escribía y copiaba en un monasterio; también, mesa para escribir."
 },
 "escritura": {
-"g": "Sistema de signos para escribir una lengua."
+"g": "Sistema de signos para escribir una lengua; también documento firmado ante notario."
 },
 "escrupulosamente": {
 "g": "Con todo cuidado y exactitud."
@@ -18733,7 +18764,7 @@
 "g": "Escudo pequeño."
 },
 "escudo": {
-"g": "Arma que se lleva en el brazo para protegerse de golpes.",
+"g": "Arma que se lleva en el brazo para protegerse; también dibujo con los símbolos de un país, una familia o una ciudad.",
 "c": "Escudo continental: zona muy antigua y estable de la corteza de un continente, de rocas de miles de millones de años."
 },
 "esculpir": {
@@ -18938,7 +18969,8 @@
 "g": "Persona que mira un espectáculo."
 },
 "espectro": {
-"g": "Conjunto de los colores que forman la luz al separarse."
+"g": "Fantasma; también amenaza o temor que se cierne sobre algo.",
+"c": "Conjunto de los colores o de las ondas en que se separa la luz; cada elemento químico deja en él unas rayas propias."
 },
 "espectrofotómetro": {
 "g": "Aparato que mide la luz de distintos colores que deja pasar una sustancia."
@@ -19083,7 +19115,7 @@
 "g": "Echar polvo de algo esparciéndolo."
 },
 "espolón": {
-"g": "Punta reforzada en la proa de un barco de guerra para embestir."
+"g": "Punta reforzada en la proa de un barco para embestir; también saliente de roca o de tierra en un monte."
 },
 "esponja": {
 "g": "Animal marino muy sencillo y lleno de poros; también, objeto que absorbe líquidos."
@@ -19219,7 +19251,9 @@
 "g": "Condición de ser un estado de pleno derecho, por ejemplo dentro de Estados Unidos."
 },
 "estadio": {
-"g": "Recinto para competiciones deportivas, con gradas para el público."
+"g": "Recinto deportivo con gradas para el público; también fase o etapa de un proceso.",
+"h": "En la Grecia antigua, medida de longitud de unos 160 a 190 metros.",
+"c": "Estadios isotópicos marinos: fases frías y cálidas del clima de los últimos millones de años, contadas en los sedimentos del fondo del mar."
 },
 "estadista": {
 "g": "Gobernante con capacidad y visión política."
@@ -19420,7 +19454,7 @@
 "g": "Representar algo de forma simplificada y elegante."
 },
 "estima": {
-"g": "Aprecio o buena opinión hacia alguien."
+"g": "Aprecio o buena opinión hacia alguien; «se estima» también quiere decir «se calcula de forma aproximada»."
 },
 "estimación": {
 "g": "Cálculo aproximado."
@@ -19555,11 +19589,11 @@
 "g": "Muy estrecho."
 },
 "estrella": {
-"g": "Astro que brilla con luz propia en el cielo nocturno.",
+"g": "Astro que brilla con luz propia; también persona famosa o lo más destacado de algo.",
 "c": "Enorme bola de gas caliente que brilla porque en su centro se funden átomos ligeros en otros más pesados. El Sol es una estrella."
 },
 "estrellar": {
-"g": "Chocar con violencia."
+"g": "Chocar con violencia; estrellado: con forma de estrella."
 },
 "estrellato": {
 "g": "Condición de estrella famosa."
@@ -19583,7 +19617,8 @@
 "g": "Verso o versos que se repiten en una canción o poema."
 },
 "estribo": {
-"g": "Pieza que cuelga de la silla de montar para apoyar el pie."
+"g": "Pieza que cuelga de la silla de montar para apoyar el pie.",
+"c": "Uno de los tres huesecillos del oído medio, junto al martillo y el yunque; es el hueso más pequeño del cuerpo."
 },
 "estrictamente": {
 "g": "Rigurosamente, sin salirse de lo exacto."
@@ -19659,7 +19694,8 @@
 "g": "Quieto, que no cambia."
 },
 "estéril": {
-"g": "Que no puede tener hijos o no da fruto."
+"g": "Que no puede tener hijos o no da fruto.",
+"c": "Libre de microbios: agua o material estéril, limpiado para que no lleve ningún ser vivo."
 },
 "estética": {
 "g": "Gusto por la belleza; también, aspecto bonito de algo."
@@ -19977,7 +20013,8 @@
 "g": "Muy elevado, de gran dignidad o categoría."
 },
 "excentricidad": {
-"g": "En astronomía, cuánto se aleja una órbita de ser un círculo perfecto."
+"g": "Rareza en la forma de ser o de comportarse; cosa extravagante.",
+"c": "En astronomía, cuánto se aleja una órbita de ser un círculo perfecto; la de la Tierra cambia en ciclos de unos 100.000 años."
 },
 "excepcional": {
 "g": "Que se sale de lo normal por bueno o raro."
@@ -20001,7 +20038,8 @@
 "g": "En cerámica, técnica de decorar recortando y quitando trozos de barro de la superficie."
 },
 "excitar": {
-"g": "Provocar o avivar un sentimiento, como la ira o el entusiasmo."
+"g": "Provocar o avivar un sentimiento, como la ira o el entusiasmo.",
+"c": "En física, estado excitado: cuando un átomo o un núcleo tiene más energía de lo normal y luego la suelta."
 },
 "exclamación": {
 "g": "Palabra o frase dicha con fuerza para expresar una emoción."
@@ -20227,7 +20265,7 @@
 "g": "Fuerza con la que estalla algo, como un volcán en erupción."
 },
 "explosivo": {
-"g": "Sustancia que puede explotar, como la pólvora o la dinamita."
+"g": "Sustancia que puede explotar, como la pólvora; como adjetivo, muy rápido y violento: un vuelo explosivo."
 },
 "explosión": {
 "g": "Estallido violento con mucho ruido y fuerza.",
@@ -20508,7 +20546,8 @@
 "g": "Copia exacta de un documento o libro antiguo."
 },
 "factor": {
-"g": "Cada una de las causas que influyen en algo."
+"g": "Cada una de las causas que influyen en algo.",
+"h": "En la España de los siglos XV-XVII, oficial que llevaba el comercio y las cuentas del rey en un puerto o una factoría."
 },
 "factoría": {
 "g": "Establecimiento comercial fundado en un país lejano, a veces fortificado, para comerciar con los nativos.",
@@ -20536,8 +20575,8 @@
 "g": "Arco que refuerza por debajo una bóveda, dividiéndola en tramos."
 },
 "falange": {
-"g": "Formación de soldados en filas cerradas con escudos y lanzas largas.",
-"h": "La falange fue la fuerza de los griegos y sobre todo de los macedonios de Filipo II y Alejandro Magno."
+"g": "Cada uno de los huesos de los dedos.",
+"h": "Formación de soldados en filas cerradas con escudos y lanzas largas: fue la fuerza de los griegos y de los macedonios de Alejandro Magno."
 },
 "falangista": {
 "g": "Miembro de Falange Española, partido fascista español fundado en 1933.",
@@ -21097,7 +21136,7 @@
 "g": "Sin apartar la mirada."
 },
 "fijar": {
-"g": "Fijarse: quedar establecido de forma definitiva, como un texto que deja de cambiar."
+"g": "Sujetar algo para que no se mueva; también establecer algo de forma definitiva, como una fecha o un texto."
 },
 "fijo": {
 "g": "Que no se mueve ni cambia; permanente."
@@ -21228,7 +21267,7 @@
 "g": "Poner el nombre en un documento para aceptarlo y obligarse a cumplirlo."
 },
 "firme": {
-"g": "Tierra firme: suelo que no es mar ni agua."
+"g": "Que está bien sujeto y no se mueve, o que no cambia de idea; tierra firme: suelo que no es mar."
 },
 "firmemente": {
 "g": "Con fuerza y sin moverse ni ceder."
@@ -21296,7 +21335,7 @@
 "g": "Tan evidente que no se puede negar."
 },
 "flamenco": {
-"g": "Ave de patas y cuello muy largos y plumas rosadas."
+"g": "De Flandes, región de la actual Bélgica y Países Bajos; también ave rosada de patas largas, y cante y baile andaluz."
 },
 "flanco": {
 "g": "Lado o costado de algo, como la ladera de un volcán o el lado de un ejército."
@@ -21632,7 +21671,7 @@
 },
 "fosa": {
 "g": "Hoyo cavado en la tierra, sobre todo para enterrar a alguien.",
-"c": "Fosa oceánica: hondonada larguísima y muy profunda del fondo del mar, donde una placa de la corteza se hunde bajo otra."
+"c": "Fosa oceánica: hondonada profundísima del fondo del mar; en anatomía, hueco de un hueso, como la fosa canina bajo el pómulo."
 },
 "fosfato": {
 "g": "Sustancia mineral con fósforo; puede conservar fósiles diminutos con todo detalle."
@@ -21713,7 +21752,7 @@
 "g": "División en partes; en química, separación de los distintos tipos de átomos de un elemento."
 },
 "fracción": {
-"g": "Grupo dentro de un partido que tiene ideas propias y se organiza aparte."
+"g": "Parte pequeña de un todo; también grupo dentro de un partido con ideas propias."
 },
 "fractal": {
 "g": "Forma que se repite igual a escalas cada vez más pequeñas, como las ramas de un helecho."
@@ -21762,7 +21801,7 @@
 "h": "Los franciscanos fueron grandes misioneros en América, desde México hasta las misiones de California."
 },
 "franco": {
-"g": "De los francos, pueblo germánico que dio nombre a Francia; también, sincero."
+"g": "De los francos, pueblo germánico que dio nombre a Francia; también francés (franco-alemán) y sincero."
 },
 "francobritánico": {
 "g": "Entre Francia y Gran Bretaña."
@@ -21840,7 +21879,8 @@
 "g": "Muy rápido, intenso y agitado."
 },
 "fresco": {
-"g": "Pintura hecha sobre una pared con la cal aún húmeda."
+"g": "Algo frío de forma agradable; también recién hecho o recogido, sin estropear.",
+"h": "Al fresco: pintura sobre una pared con la cal aún húmeda; así se pintaron grandes murales como la Capilla Sixtina."
 },
 "fresno": {
 "g": "Árbol de madera dura y flexible, común en Europa."
@@ -21922,7 +21962,7 @@
 "g": "Persona que vende fruta."
 },
 "fruto": {
-"g": "Resultado o provecho de algo."
+"g": "Lo que da una planta tras la flor, con las semillas dentro; también resultado o provecho de algo."
 },
 "frágil": {
 "g": "Que se rompe con facilidad."
@@ -22042,7 +22082,7 @@
 "g": "Para qué sirve algo; el papel que cumple."
 },
 "funda": {
-"g": "Crear algo nuevo, como una ciudad, una empresa o una dinastía."
+"g": "Cubierta que envuelve y protege un objeto; «funda» también es del verbo fundar: crear algo nuevo."
 },
 "fundacional": {
 "g": "De la fundación o el origen de algo."
@@ -22208,7 +22248,8 @@
 "g": "«Guía» o «jefe» en alemán; título que se dio Hitler como dictador de Alemania."
 },
 "gabinete": {
-"g": "Grupo de ministros que gobiernan con el jefe del Gobierno."
+"g": "Habitación o mueble para guardar colecciones; también despacho; y grupo de ministros del Gobierno.",
+"h": "Gabinete de curiosidades: colección de rarezas naturales y obras de arte que reunían sabios y nobles en los siglos XVI a XVIII."
 },
 "gacaca": {
 "g": "Tribunal tradicional de aldea de Ruanda, usado para juzgar a los acusados del genocidio de 1994."
@@ -22262,7 +22303,8 @@
 "g": "Barco de guerra antiguo movido sobre todo por remos."
 },
 "galería": {
-"g": "Pasillo largo; también, túnel subterráneo o sala de exposiciones."
+"g": "Pasillo largo; también túnel subterráneo o sala de exposiciones.",
+"c": "Bosque de galería: franja de árboles que crece a lo largo de un río en una zona seca o de sabana."
 },
 "galeáspido": {
 "g": "Pez sin mandíbula, con coraza en la cabeza, que vivió en China hace más de 400 millones de años."
@@ -22421,7 +22463,7 @@
 "g": "Gancho de hierro para agarrar o enganchar algo."
 },
 "garganta": {
-"g": "Parte del cuello por donde pasan la comida y el aire."
+"g": "Parte del cuello por donde pasan la comida y el aire; también valle estrecho y hondo entre montañas."
 },
 "garita": {
 "g": "Torrecilla pequeña en una muralla para que se resguarde el centinela."
@@ -22782,7 +22824,7 @@
 "g": "Partidario de Alemania; en España, durante la Primera Guerra Mundial, quien deseaba su victoria."
 },
 "germen": {
-"g": "Origen o principio de algo."
+"g": "Origen o principio de algo; gérmenes: microbios que causan enfermedades."
 },
 "germinar": {
 "g": "Empezar a crecer una semilla."
@@ -22950,7 +22992,7 @@
 "g": "Extender algo a todo el mundo; un mundo globalizado está muy conectado por el comercio."
 },
 "globo": {
-"g": "Bolsa de tela llena de aire caliente o gas que sube y vuela."
+"g": "Esfera, sobre todo la que representa la Tierra; también bolsa de aire o gas que sube y vuela."
 },
 "globular": {
 "g": "Con forma de globo o esfera; un cúmulo globular es un grupo esférico de estrellas muy viejas."
@@ -23103,7 +23145,7 @@
 "g": "Estuche que guardaba juntos el arco y las flechas de los escitas."
 },
 "gota": {
-"g": "Porción muy pequeña de un líquido."
+"g": "Porción muy pequeña de un líquido; también enfermedad que inflama las articulaciones, sobre todo de pies y manos."
 },
 "gotear": {
 "g": "Caer un líquido gota a gota."
@@ -23335,7 +23377,7 @@
 "g": "Raja en una superficie."
 },
 "grifo": {
-"g": "Animal fabuloso con cuerpo de león y cabeza y alas de águila."
+"g": "Llave que abre y cierra el paso del agua; también animal fabuloso con cuerpo de león y cabeza y alas de águila."
 },
 "grillete": {
 "g": "Aro de hierro que sujeta los pies o las manos de un preso."
@@ -23433,7 +23475,7 @@
 "g": "De los guaraníes, pueblo indígena de Paraguay y zonas vecinas."
 },
 "guarda": {
-"g": "Se conserva o se tiene guardado."
+"g": "Persona que vigila o protege algo; «guarda» es también del verbo guardar: conservar."
 },
 "guardacostas": {
 "g": "Barco o cuerpo encargado de vigilar las costas."
@@ -23625,7 +23667,7 @@
 "g": "Muy frío, helado."
 },
 "género": {
-"g": "Clase o tipo; en biología, grupo de especies parecidas."
+"g": "Clase o tipo; también condición de hombre o mujer en la sociedad; en biología, grupo de especies parecidas."
 },
 "génesis": {
 "g": "Origen o nacimiento de algo."
@@ -24666,7 +24708,7 @@
 "g": "Ser vivo, como las setas o el moho, que no es planta ni animal."
 },
 "honor": {
-"g": "Muestra de respeto con que se recibe a alguien importante."
+"g": "Respeto y buena fama que merece alguien; «en honor a» alguien: para recordarlo o celebrarlo."
 },
 "honorario": {
 "g": "Que tiene un título por honor, sin ejercer de verdad el cargo."
@@ -24740,7 +24782,7 @@
 "g": "Construcción cerrada para cocer o calentar a mucha temperatura, como pan o ladrillos."
 },
 "horquilla": {
-"g": "Pasador en forma de U para sujetar el pelo."
+"g": "Pasador en U para el pelo; también, palo o camino que se abre en dos, como una Y."
 },
 "horrendo": {
 "g": "Horrible, espantoso."
@@ -24810,7 +24852,7 @@
 "g": "Agujero en la tierra."
 },
 "hoz": {
-"g": "Garganta estrecha y profunda que forma un río entre montañas."
+"g": "Herramienta de hoja curva para segar cereales; también, garganta estrecha por donde pasa un río."
 },
 "huaca": {
 "g": "En los Andes, lugar o templo sagrado; también, pirámide de adobe."
@@ -25002,7 +25044,8 @@
 "g": "Seguidor de Jan Hus, reformador religioso de Bohemia quemado en 1415."
 },
 "huso": {
-"g": "Palo que gira y sirve para hilar a mano."
+"g": "Palo que gira y sirve para hilar a mano.",
+"c": "Forma de huso: alargada, gruesa en el centro y afilada en las puntas, como la de los peces rápidos."
 },
 "hutspot": {
 "g": "Guiso holandés de zanahoria, cebolla y patata."
@@ -25533,7 +25576,7 @@
 "g": "Pintor del impresionismo, que captaba la luz y el instante con pinceladas rápidas."
 },
 "impresión": {
-"g": "Marca o huella que deja algo al apretarlo sobre una superficie blanda."
+"g": "Efecto o sensación que algo deja en alguien; también, huella o marca, o la acción de imprimir."
 },
 "impreso": {
 "g": "Papel o libro imprimido con imprenta."
@@ -25728,7 +25771,7 @@
 "c": "Inclinación del eje de la Tierra (unos 23 grados): es la causa de las estaciones del año."
 },
 "inclinar": {
-"g": "Tender hacia una opinión."
+"g": "Torcer o doblar hacia un lado o hacia abajo; también, tender hacia una opinión."
 },
 "incluir": {
 "g": "Meter algo dentro de un grupo."
@@ -26186,7 +26229,7 @@
 "g": "Hinchazón con calor y dolor en una parte del cuerpo."
 },
 "inflar": {
-"g": "Exagerar una cifra."
+"g": "Llenar de aire o gas, como un globo; también, exagerar una cifra."
 },
 "inflexible": {
 "g": "Que no cambia de opinión ni cede."
@@ -27172,7 +27215,8 @@
 "g": "De forma contraria; en matemáticas, que disminuye cuando lo otro aumenta."
 },
 "inversión": {
-"g": "Dinero que se pone en algo para ganar más."
+"g": "Dinero que se pone en algo para ganar más.",
+"c": "Inversión del campo magnético: cuando el norte y el sur magnéticos de la Tierra se intercambian, algo que pasa cada cierto tiempo."
 },
 "inverso": {
 "g": "Contrario u opuesto en el orden o la dirección."
@@ -27806,7 +27850,7 @@
 "g": "Reino del sur de los antiguos hebreos, con capital en Jerusalén."
 },
 "judía": {
-"g": "Mujer del pueblo judío."
+"g": "Planta y su semilla comestible, la alubia o frijol; también, mujer del pueblo judío."
 },
 "judío": {
 "g": "Del pueblo judío o de su religión."
@@ -28579,7 +28623,7 @@
 "g": "Arma de palo largo con punta de hierro."
 },
 "lanzada": {
-"g": "Lanzada o tirada."
+"g": "Que ha sido lanzada o enviada, como un cohete o una bomba; también, golpe dado con una lanza."
 },
 "lanzadardo": {
 "g": "Palo con un gancho que sirve para lanzar dardos con más fuerza."
@@ -29301,7 +29345,7 @@
 "g": "Planta de la que se saca una fibra para hacer tela; también esa tela."
 },
 "linterna": {
-"g": "Torrecilla con ventanas que remata una cúpula y deja entrar la luz."
+"g": "Lámpara que se lleva en la mano; también, torrecilla con ventanas que remata una cúpula."
 },
 "liquen": {
 "g": "Ser vivo formado por un hongo y un alga juntos, que crece sobre rocas y árboles."
@@ -29583,7 +29627,7 @@
 "g": "Claridad para pensar y entender."
 },
 "lucir": {
-"g": "Mostrarse o lucir algo para llamar la atención."
+"g": "Brillar; también, mostrar algo con orgullo para que lo vean."
 },
 "lucrativo": {
 "g": "Que da mucho dinero o ganancias."
@@ -30019,7 +30063,8 @@
 "g": "Grandeza y lujo espléndidos."
 },
 "magnitud": {
-"g": "Tamaño o importancia de algo."
+"g": "Tamaño o importancia de algo.",
+"c": "Medida de la fuerza de un terremoto o del brillo de una estrella; en los terremotos, cuanto más alta la cifra, más fuerte."
 },
 "magnolia": {
 "g": "Árbol de grandes flores blancas y olorosas."
@@ -30354,7 +30399,7 @@
 "g": "Bosque de árboles que crecen en el agua salada de costas tropicales."
 },
 "mango": {
-"g": "Parte por donde se coge una herramienta o un utensilio."
+"g": "Parte por donde se coge una herramienta; también, árbol tropical y su fruta dulce."
 },
 "manguera": {
 "g": "Tubo largo y flexible para echar agua."
@@ -30461,7 +30506,7 @@
 "g": "Escrito a mano."
 },
 "manzana": {
-"g": "Conjunto de casas entre cuatro calles."
+"g": "Fruta redonda del manzano; también, conjunto de casas rodeado por cuatro calles."
 },
 "manzano": {
 "g": "Árbol que da manzanas."
@@ -30917,7 +30962,7 @@
 "g": "Unión de dos personas, reconocida por la ley o la religión, para formar una familia."
 },
 "matriz": {
-"g": "Molde para hacer copias iguales de algo."
+"g": "Molde para hacer copias iguales; también, origen o base de la que sale otra cosa."
 },
 "matrona": {
 "g": "Madre de familia respetable; en Roma, mujer casada de buena posición."
@@ -32449,7 +32494,7 @@
 "g": "Muy feo, enorme o espantoso."
 },
 "monta": {
-"g": "Arma o junta las piezas de algo."
+"g": "Sube y va a caballo; también, arma o junta las piezas de algo."
 },
 "montacargas": {
 "g": "Ascensor para subir y bajar cosas pesadas."
@@ -33346,7 +33391,8 @@
 },
 "nave": {
 "g": "Barco; espacio de una iglesia o una fábrica.",
-"h": "Barco antiguo; en una iglesia, cada uno de los espacios alargados entre columnas."
+"h": "Barco antiguo; en una iglesia, cada uno de los espacios alargados entre columnas.",
+"c": "Nave espacial: vehículo que viaja por el espacio, con o sin tripulación."
 },
 "navegable": {
 "g": "Por donde pueden pasar barcos."
@@ -35901,7 +35947,8 @@
 "g": "Tomar parte en algo."
 },
 "partición": {
-"g": "División en partes; aquí, la división de la India británica en India y Pakistán."
+"g": "División en partes; la de 1947 separó la India británica en India y Pakistán.",
+"c": "En las células, forma de reproducirse dividiéndose en dos, como hacen las bacterias."
 },
 "particular": {
 "g": "Propio de algo, especial; también, de una persona privada."
@@ -35919,7 +35966,7 @@
 "g": "Guerrillero que lucha contra un ejército invasor."
 },
 "partitura": {
-"g": "Papel con la música escrita; aquí, en sentido figurado."
+"g": "Papel con la música escrita; también, en sentido figurado, la pauta o el dibujo que sigue algo."
 },
 "parto": {
 "g": "Hecho de dar a luz."
@@ -36250,7 +36297,7 @@
 "g": "Con muchas piedras."
 },
 "pedúnculo": {
-"g": "Prolongación estrecha de una pieza, que sirve para sujetarla a un mango."
+"g": "Rabillo que une una flor o un fruto a la planta; también, saliente de una punta de piedra para encajarla en un mango."
 },
 "pega": {
 "g": "Inconveniente."
@@ -36365,7 +36412,7 @@
 "g": "Ave acuática grande con una bolsa bajo el pico."
 },
 "penacho": {
-"g": "Columna de humo, gas o ceniza que sale hacia arriba."
+"g": "Adorno de plumas que se lleva en la cabeza o el casco; también, columna de humo o gas que sube."
 },
 "penal": {
 "g": "De las leyes que castigan los delitos; también, cárcel."
@@ -36578,7 +36625,8 @@
 "g": "Falta de ganas de trabajar."
 },
 "perezoso": {
-"g": "Que no quiere trabajar o esforzarse."
+"g": "Que no quiere trabajar o esforzarse.",
+"c": "Mamífero de América que vive colgado de los árboles y se mueve muy despacio; hubo perezosos gigantes."
 },
 "perfeccionar": {
 "g": "Mejorar algo hasta hacerlo muy bueno."
@@ -36912,7 +36960,7 @@
 "g": "Grabado hecho en una roca al aire libre."
 },
 "petrolera": {
-"g": "Mujer acusada de incendiar edificios con petróleo durante la Comuna de París de 1871."
+"g": "Empresa que busca, saca o vende petróleo; en 1871, mujer acusada de incendiar París con petróleo."
 },
 "petrolífero": {
 "g": "Que tiene o produce petróleo."
@@ -36966,7 +37014,7 @@
 "g": "Persona que trabaja la piedra."
 },
 "picar": {
-"g": "Golpear una superficie para borrar lo grabado."
+"g": "Golpear con una punta, como al grabar en la roca; también, morder un insecto o cortar en trozos."
 },
 "picardía": {
 "g": "Astucia graciosa y un poco pícara."
@@ -37035,7 +37083,7 @@
 "g": "Ropa para dormir."
 },
 "pila": {
-"g": "Recipiente de piedra para agua, como el de bautizar; también, montón de cosas puestas unas sobre otras."
+"g": "Montón de cosas puestas unas sobre otras; también, recipiente de piedra para agua, o aparato que da electricidad."
 },
 "pilar": {
 "g": "Columna fuerte que sostiene un edificio; también, apoyo principal de algo."
@@ -37128,7 +37176,7 @@
 "g": "Persona que pinta cuadros o paredes."
 },
 "pinza": {
-"g": "Parte de algunos animales que sirve para agarrar, como en los cangrejos."
+"g": "Herramienta de dos brazos para agarrar cosas pequeñas; también, parte con que agarran cangrejos y escorpiones."
 },
 "pinzón": {
 "g": "Pájaro pequeño de pico corto y fuerte."
@@ -38574,7 +38622,8 @@
 "g": "Cárcel; también, encierro de alguien."
 },
 "prisma": {
-"g": "Objeto con varias caras planas; aquí, pieza de barro con escritura."
+"g": "Cuerpo de varias caras planas; también, pieza de cristal que separa los colores de la luz.",
+"c": "En los minerales, cristal alargado de caras planas, como los del circón."
 },
 "prismáticos": {
 "g": "Aparato con dos tubos para ver de lejos."
@@ -38644,7 +38693,7 @@
 "g": "Manera ordenada de hacer algo, paso a paso."
 },
 "procesado": {
-"g": "Persona acusada formalmente ante un tribunal."
+"g": "Persona llevada a juicio; también, trabajo que transforma algo, como el procesado de la carne."
 },
 "procesador": {
 "g": "Pieza de un ordenador que hace los cálculos y ejecuta los programas."
@@ -38944,8 +38993,9 @@
 "g": "Fuerza que hace avanzar un vehículo."
 },
 "propulsor": {
-"g": "Palo con gancho que servía para lanzar azagayas más lejos y con más fuerza.",
-"h": "En la Prehistoria, instrumento de hueso o madera para lanzar venablos; muchos del Paleolítico superior están decorados."
+"g": "Que empuja algo hacia delante, como la máquina que mueve un barco o un avión.",
+"h": "En la Prehistoria, instrumento de hueso o madera para lanzar venablos; muchos del Paleolítico superior están decorados.",
+"c": "En prehistoria, palo con gancho que servía para lanzar azagayas más lejos y con más fuerza."
 },
 "propósito": {
 "g": "Intención u objetivo; «a propósito»: queriendo."
@@ -39116,7 +39166,7 @@
 "g": "Proceder o venir de algún lugar u origen."
 },
 "provenzal": {
-"g": "Lengua de la Provenza, en el sur de Francia; fue la de los trovadores medievales."
+"g": "De la Provenza, en el sur de Francia; también, su lengua, la de los trovadores."
 },
 "proverbial": {
 "g": "Muy conocido, como si fuera un refrán."
@@ -39321,7 +39371,8 @@
 "h": "Grupo humano con lengua y costumbres propias, como los pueblos germánicos o los pueblos prerromanos."
 },
 "pueblos": {
-"g": "Pueblos del Mar: grupos llegados por mar que atacaron el Mediterráneo oriental hacia 1200 a.C."
+"g": "Poblaciones pequeñas, o grupos de gente de un mismo origen y cultura.",
+"h": "Pueblos del Mar: grupos llegados por mar que atacaron el Mediterráneo oriental hacia 1200 a.C."
 },
 "puercoespín": {
 "g": "Mamífero roedor cubierto de púas."
@@ -39909,7 +39960,8 @@
 "g": "Con prejuicios racistas."
 },
 "ración": {
-"g": "Cantidad de comida que se da a cada persona."
+"g": "Cantidad de comida que se da a cada persona.",
+"h": "Escribano de ración: oficial de la corte que llevaba la cuenta de los gastos de la casa real."
 },
 "radaníes": {
 "g": "Mercaderes judíos medievales que comerciaban entre Europa y China."
@@ -39954,7 +40006,7 @@
 "g": "De forma total o desde la raíz."
 },
 "radio": {
-"g": "Aparato para oír emisoras; también medio de comunicación.",
+"g": "Aparato para oír emisoras; también, cada varilla que une el centro de una rueda con su borde.",
 "c": "En geometría, distancia del centro de un círculo o esfera a su borde; un radio terrestre mide unos 6.371 km. El radio es también un elemento radiactivo."
 },
 "radioaficionado": {
@@ -40248,7 +40300,8 @@
 "c": "Rayos X, gamma o cósmicos: radiaciones invisibles de mucha energía que viajan por el espacio."
 },
 "raza": {
-"g": "Cada grupo humano en que antes se dividía a la gente por rasgos físicos; hoy la ciencia no lo acepta."
+"g": "Variedad de animales domésticos de una especie con rasgos propios, como las razas de perros.",
+"h": "Antes se dividía a las personas en «razas» por rasgos físicos; la ciencia actual rechaza esa división."
 },
 "razia": {
 "g": "Incursión rápida en tierra enemiga para saquear y llevarse botín.",
@@ -41158,7 +41211,7 @@
 "g": "Devolver el buen nombre o la función a alguien o algo."
 },
 "rehacer": {
-"g": "Recuperarse tras una desgracia."
+"g": "Volver a hacer algo; también, recuperarse tras una desgracia."
 },
 "rehuir": {
 "g": "Evitar algo o a alguien."
@@ -41243,7 +41296,8 @@
 "g": "Era Reiwa: nombre del reinado del emperador japonés Naruhito, desde 2019."
 },
 "reja": {
-"g": "Pieza de hierro del arado que corta y remueve la tierra."
+"g": "Conjunto de barras de hierro que cierra una ventana o una entrada.",
+"h": "En el arado, pieza de hierro que corta y remueve la tierra; su mejora aumentó las cosechas medievales."
 },
 "rejilla": {
 "g": "Red o entramado de varillas."
@@ -41402,7 +41456,7 @@
 "g": "Arrastre de un vehículo por otro."
 },
 "remontar": {
-"g": "Subir un río contra la corriente."
+"g": "Subir un río contra la corriente; «remontarse»: ir atrás en el tiempo hasta una época."
 },
 "remoto": {
 "g": "Muy lejano en el espacio o en el tiempo."
@@ -41686,10 +41740,10 @@
 "g": "Proceso por el que los seres vivos tienen hijos; también, copia de una obra."
 },
 "reproducir": {
-"g": "Tener crías o multiplicarse."
+"g": "Tener crías; también, copiar o repetir algo, como un texto, un discurso o una imagen."
 },
 "reproductor": {
-"g": "Aparato para escuchar o ver grabaciones."
+"g": "Que sirve para reproducirse, como las células reproductoras; también, aparato para oír grabaciones."
 },
 "reptil": {
 "g": "Animal de sangre fría con escamas, como el lagarto, la serpiente o el cocodrilo."
@@ -41865,7 +41919,7 @@
 },
 "resonancia": {
 "g": "Prolongación de un sonido; caja de resonancia: hueco que hace sonar más un instrumento.",
-"c": "Resonancia orbital: cuando los tiempos que tardan dos astros en dar la vuelta guardan una proporción exacta y se influyen."
+"c": "Resonancia orbital: astros con vueltas acompasadas; la de espín electrónico es una técnica que fecha dientes y cuarzo."
 },
 "resonante": {
 "g": "Que tiene mucho eco o repercusión."
@@ -42021,7 +42075,8 @@
 "g": "Desafío; algo difícil que hay que conseguir."
 },
 "retocador": {
-"g": "Herramienta prehistórica de hueso o asta para afilar el sílex."
+"g": "Persona que retoca algo, como fotografías.",
+"c": "En prehistoria, herramienta de hueso, asta o piedra para afilar y dar forma al sílex."
 },
 "retocar": {
 "g": "Hacer pequeños cambios para mejorar algo."
@@ -42447,7 +42502,8 @@
 "g": "Gotitas de agua que aparecen sobre las plantas por la noche o al amanecer."
 },
 "rodado": {
-"g": "Grabado o filmado, hablando de una película."
+"g": "Canto rodado: piedra redondeada y lisa por el roce del agua; también, filmado.",
+"c": "Los cantos rodados de los ríos fueron la materia prima de las primeras herramientas de piedra."
 },
 "rodaje": {
 "g": "Hecho de grabar una película o un programa."
@@ -43544,7 +43600,7 @@
 "g": "Hijo que no es el primogénito y por eso no hereda el título ni los bienes principales."
 },
 "seguro": {
-"g": "Que no admite duda; seguro."
+"g": "Que no admite duda; también, libre de peligro."
 },
 "seii taishōgun": {
 "g": "Título japonés: «gran general que somete a los bárbaros», abreviado shogun."
@@ -43818,7 +43874,7 @@
 "g": "Acción de apartar o dividir lo que estaba unido."
 },
 "separado": {
-"g": "Muy separado, apartado."
+"g": "Apartado de los demás; «por separado»: cada uno por su lado."
 },
 "separar": {
 "g": "Apartar o dividir lo que estaba junto."
@@ -43893,7 +43949,8 @@
 "g": "Con seriedad, de verdad; o de forma grave."
 },
 "serie": {
-"g": "Conjunto de cosas que van una detrás de otra."
+"g": "Conjunto de cosas que van una detrás de otra.",
+"c": "Series de uranio: método que fecha rocas, costras y dientes midiendo cómo se transforma el uranio que contienen."
 },
 "seriedad": {
 "g": "Cualidad de quien actúa con responsabilidad y sin bromas."
@@ -44313,7 +44370,8 @@
 "g": "Contorno o forma de una figura."
 },
 "siluro": {
-"g": "Pez de río grande, con barbas, parecido al bagre."
+"g": "Pez de río grande, con barbas, parecido al bagre.",
+"h": "Los siluros fueron un pueblo celta del sur de Gales; de su nombre viene el del periodo Silúrico."
 },
 "silvestre": {
 "g": "Que nace y crece en el campo sin que nadie lo cultive."
@@ -44579,7 +44637,8 @@
 "h": "Asedio: rodear una ciudad para que se rinda, como el sitio de Zaragoza (1808-1809)."
 },
 "situado": {
-"g": "Colocado en un lugar."
+"g": "Colocado en un lugar.",
+"h": "En el imperio español, dinero que la Nueva España enviaba cada año para pagar la defensa de Filipinas y el Caribe."
 },
 "situar": {
 "g": "Poner a alguien o algo en un lugar o en una fecha."
@@ -44780,7 +44839,7 @@
 "g": "Conjunto de soldados indisciplinados."
 },
 "soldado": {
-"g": "Unido con soldadura."
+"g": "Persona que sirve en un ejército; también, unido con soldadura."
 },
 "soldadura": {
 "g": "Unión firme de dos piezas; también, unión de dos masas que estaban separadas."
@@ -44999,7 +45058,7 @@
 "g": "Que se puede mantener mucho tiempo sin agotar los recursos ni dañar el medio ambiente."
 },
 "sostenido": {
-"g": "Que se mantiene sin parar durante un tiempo."
+"g": "Que se mantiene sin parar durante un tiempo; en música, nota subida medio tono (do sostenido)."
 },
 "sostén": {
 "g": "Lo que sirve de apoyo o mantiene algo en pie."
@@ -45637,7 +45696,8 @@
 "g": "Dejar algo sin efecto o detenerlo por un tiempo; también, colgar."
 },
 "suspensión": {
-"g": "Detención de algo durante un tiempo, o anulación de un derecho."
+"g": "Detención de algo durante un tiempo, o anulación de un derecho.",
+"c": "Partículas en suspensión: trocitos sólidos que flotan dentro de un líquido o del aire sin hundirse."
 },
 "suspenso": {
 "g": "«En suspenso»: sin decidir o detenido hasta más adelante."
@@ -45936,7 +45996,8 @@
 "g": "Castigo igual al daño causado: «ojo por ojo»."
 },
 "talla": {
-"g": "Acción de dar forma a una piedra golpeándola o cortándola."
+"g": "Acción de dar forma a la piedra o la madera golpeándola o cortándola; también, estatura o tamaño.",
+"h": "En la Francia del Antiguo Régimen, impuesto directo que pagaban los campesinos y del que la nobleza estaba libre."
 },
 "tallado": {
 "g": "Trabajo de dar forma a la piedra, la madera u otro material cortándolo."
@@ -46250,7 +46311,8 @@
 "g": "Máquina para tejer."
 },
 "telaraña": {
-"g": "Red que tejen las arañas."
+"g": "Red que tejen las arañas.",
+"c": "Telaraña cósmica: red de filamentos de galaxias y materia oscura que forma el universo a gran escala."
 },
 "teledirigir": {
 "g": "Dirigir un aparato a distancia."
@@ -46409,7 +46471,7 @@
 "g": "Oscuro, lleno de tinieblas; también, que da miedo."
 },
 "tener": {
-"g": "Tenido por: considerado como."
+"g": "Poseer algo o estar en cierta situación; «tener por»: considerar."
 },
 "teneriense": {
 "g": "Del grupo de pobladores de la región de Ténéré, en el Sahara, de hace unos 7.000 a 4.500 años."
@@ -46506,7 +46568,9 @@
 "g": "Estrofa de tres versos."
 },
 "terciario": {
-"g": "Que ocupa el tercer lugar; aquí, se dice de las plumas del ala más próximas al cuerpo."
+"g": "Que ocupa el tercer lugar.",
+"h": "Terciario o terciaria: seglar que vive según la regla de una orden religiosa sin ser fraile ni monja.",
+"c": "Era Terciaria: antiguo nombre del periodo de hace 66 a 2,6 millones de años; también, plumas terciarias del ala."
 },
 "tercio": {
 "g": "Cada una de tres partes iguales.",
@@ -46537,7 +46601,7 @@
 "g": "Final o parte final de algo."
 },
 "terminal": {
-"g": "Estación final de una línea; también, aparato conectado a un ordenador central."
+"g": "Que está al final; también, estación final de una línea o aparato unido a un ordenador."
 },
 "termita": {
 "g": "Insecto pequeño que vive en grandes colonias y come madera."
@@ -46906,7 +46970,7 @@
 "g": "Rizo de pelo en forma de espiral."
 },
 "tirada": {
-"g": "Número de ejemplares que se imprimen de un libro o periódico de una vez."
+"g": "Arrastrada por animales, como una carreta tirada por bueyes; también, ejemplares impresos de una vez."
 },
 "tirador": {
 "g": "Soldado que dispara con armas de fuego."
@@ -47582,7 +47646,7 @@
 "g": "Camino que sigue algo o alguien a lo largo del tiempo."
 },
 "traza": {
-"g": "Cantidad muy pequeña de algo, casi imposible de notar."
+"g": "Plano o diseño de un edificio; también, señal o cantidad muy pequeña de algo (trazas)."
 },
 "trazado": {
 "g": "Dibujo o recorrido de un camino, una calle o una línea."
@@ -47981,7 +48045,8 @@
 "g": "Con forma de tubo."
 },
 "tubérculo": {
-"g": "Bulto o saliente pequeño; en un hueso, relieve donde se sujeta un ligamento o músculo."
+"g": "Parte gruesa de una raíz o tallo bajo tierra que se come, como la patata o el ñame.",
+"c": "En anatomía, pequeño bulto de un hueso donde se sujeta un músculo o un ligamento."
 },
 "tucán": {
 "g": "Ave de la selva americana con un pico muy grande y de colores."
@@ -48750,7 +48815,7 @@
 "g": "Familia real que reinó en Francia de 1328 a 1589."
 },
 "valor": {
-"g": "Número o cantidad que resulta de una medida o cálculo."
+"g": "Lo que vale o importa algo; también, valentía; y número que resulta de una medida."
 },
 "valoración": {
 "g": "Opinión sobre lo que vale algo."
@@ -49011,8 +49076,8 @@
 "g": "Pelo corto y fino del cuerpo."
 },
 "vellón": {
-"g": "Mezcla de cobre con un poco de plata con la que se hacían monedas.",
-"h": "En el siglo XVII Castilla llenó el mercado de monedas de vellón de poco valor, lo que provocó subidas de precios."
+"g": "Lana de una oveja que sale entera al esquilarla.",
+"h": "Moneda de cobre con poca plata; en la España del siglo XVII se acuñó tanta que perdió valor y subieron los precios."
 },
 "velo": {
 "g": "Tela fina con que se cubre la cabeza o la cara."
@@ -49028,7 +49093,7 @@
 "g": "Muy rápido."
 },
 "vena": {
-"g": "Conducto que lleva la sangre al corazón."
+"g": "Conducto que lleva la sangre al corazón; también, nervio de las alas de un insecto o de una hoja."
 },
 "venablo": {
 "g": "Lanza corta que se arroja con la mano."
@@ -49373,7 +49438,8 @@
 "g": "Que ha ganado una batalla o una competición."
 },
 "vicuña": {
-"g": "Animal de los Andes parecido a la llama, más pequeño y de lana finísima."
+"g": "Animal de los Andes parecido a la llama, más pequeño y de lana finísima.",
+"h": "En el Potosí del siglo XVII, «vicuñas» era el bando de criollos y andaluces enfrentado a los vascos."
 },
 "vid": {
 "g": "Planta que da las uvas."
@@ -49457,7 +49523,7 @@
 "g": "Malo, despreciable."
 },
 "villa": {
-"g": "Casa de campo lujosa.",
+"g": "Población con cierta importancia; también, casa de campo lujosa, como las villas romanas.",
 "h": "En Roma, gran finca agrícola; en la Edad Media, población con fuero y concejo propios."
 },
 "villancico": {
@@ -49524,7 +49590,7 @@
 "g": "Forma de canción medieval francesa con estribillo."
 },
 "virgen": {
-"g": "Persona que no ha tenido relaciones sexuales; en el cristianismo, la Virgen María."
+"g": "Intacto, que nadie ha tocado ni explorado (selva virgen); también, la Virgen María."
 },
 "virginidad": {
 "g": "Estado de quien no ha tenido relaciones sexuales."
@@ -49603,7 +49669,7 @@
 "g": "Persona que va a ver un lugar o a alguien."
 },
 "visión": {
-"g": "Imagen que alguien cree ver, a menudo tomada como mensaje sobrenatural."
+"g": "Capacidad de ver; también, manera de entender algo, o imagen sobrenatural que alguien cree ver."
 },
 "vistazo": {
 "g": "Mirada rápida."
@@ -49715,7 +49781,7 @@
 "g": "Rueda con que se dirige un coche."
 },
 "volar": {
-"g": "Hacer saltar algo por los aires con una explosión."
+"g": "Moverse por el aire; también, hacer saltar algo por los aires con explosivos."
 },
 "volatilidad": {
 "g": "Tendencia a cambiar mucho y de forma brusca, como los precios."
@@ -49806,7 +49872,8 @@
 "g": "Religión de origen africano, muy viva en Haití, que mezcla creencias africanas y católicas."
 },
 "vuelco": {
-"g": "Cambio total y brusco de algo; también, darse la vuelta."
+"g": "Cambio total y brusco de algo; también, darse la vuelta.",
+"c": "Circulación de vuelco del Atlántico: gran corriente que lleva agua cálida al norte y la devuelve fría por el fondo."
 },
 "vuelo": {
 "g": "Viaje en avión; también, acción de volar."
@@ -50152,7 +50219,7 @@
 "h": "En al-Ándalus, los mozárabes y judíos pagaban la yizia para conservar su religión."
 },
 "yodo": {
-"g": "Elemento químico que, en forma de vapor, se usaba para hacer sensible a la luz la placa de las primeras fotografías."
+"g": "Elemento químico necesario para el cuerpo; su vapor se usó en las primeras fotografías."
 },
 "yoga": {
 "g": "Ejercicios de origen indio para el cuerpo y la mente."
@@ -50700,7 +50767,8 @@
 "g": "Órgano de la mujer donde se forma el bebé."
 },
 "útil": {
-"g": "Que sirve para algo."
+"g": "Que sirve para algo.",
+"c": "En prehistoria, «útil» es cualquier herramienta o instrumento, como un raspador o un bifaz."
 },
 "ġgantija": {
 "g": "Templos prehistóricos de piedra de la isla de Gozo (Malta), más antiguos que las pirámides."
