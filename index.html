@@ -367,6 +367,14 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .dicw .dl b{font-family:var(--f-body);font-weight:var(--w-small);letter-spacing:var(--ls-small);font-size:11.5px;text-transform:uppercase;color:var(--accent);display:block;margin-bottom:1px}
 .dicw .dr{display:inline-block;margin-top:8px;font-size:13px;color:var(--accent)}
 .sheet .txt,.sheet .sh-head{-webkit-user-select:text;user-select:text}
+/* cuadro del código personal */
+.codaviso{background:#fff4d6;border:1.5px solid #e8b931;border-radius:12px;padding:12px 14px;font-size:16px;line-height:1.5;color:var(--ink)}
+.codaviso b{display:block;font-family:var(--f-head);font-size:18px;color:#a35d00;margin-bottom:2px}
+.codno{display:block;width:100%;margin:10px 0 0;border:1.5px solid var(--line);background:#fff;border-radius:14px;padding:10px;font-family:var(--f-head);font-weight:600;font-size:14.5px;color:var(--muted)}
+.codtengo{margin:16px 0 0;font-size:16px;font-weight:600;color:var(--ink)}
+.codtengo button{border:0;background:none;padding:0;font:inherit;color:var(--accent);font-weight:700;text-decoration:underline}
+.codajus{margin:14px 0 0;padding:10px 12px;border-radius:12px;background:var(--bg);font-size:15px;color:var(--ink2)}
+.codajus button{border:1.5px solid var(--accent);background:#fff;color:var(--accent);border-radius:999px;padding:3px 10px;font-family:var(--f-head);font-weight:600;font-size:14.5px;margin-left:2px}
 </style></head>
 <body>
 <header class="top">
@@ -386,21 +394,22 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
  </div>
  <div class="bienvenida" id="panelCodigo" style="border-color:#3a9a5b">
   <h2>🔑 Tu código personal</h2>
-  <p style="margin:0 0 10px;font-size:14px;color:var(--ink2);line-height:1.45">Así no pierdes tu progreso (fichas vistas, racha del reto…). Es solo para ti, no hace falta email ni contraseña.</p>
-  <div style="background:#f6f1e7;border-radius:12px;padding:12px 14px;text-align:center;margin:4px 0 10px">
-   <div id="codVal" style="font-family:var(--f-head);font-weight:700;font-size:28px;letter-spacing:3px;color:var(--accent)">·······</div>
+  <div class="codaviso"><b>¡Importante!</b> Si quieres conservar el historial, los favoritos y tus avances en la web, guarda este código. Te servirá para usarlos en otros dispositivos, o en este mismo si se borran los datos del navegador.</div>
+  <div style="background:#f6f1e7;border-radius:12px;padding:12px 14px;text-align:center;margin:12px 0 10px">
+   <div id="codVal" style="font-family:var(--f-head);font-weight:700;font-size:30px;letter-spacing:3px;color:var(--accent)">·······</div>
   </div>
   <div class="rbtns">
    <button class="btn sec" id="btnCopiaCod" type="button">📋 Copiar código</button>
    <button class="btn" id="btnGuardadoCod" type="button">Ya lo he guardado</button>
   </div>
-  <p style="margin:12px 0 0;font-size:13px;color:var(--muted)">¿Ya tienes un código de otro dispositivo? <a href="javascript:void(0)" id="btnTengoCod" style="color:var(--accent);font-weight:700;text-decoration:underline">Introdúcelo aquí</a></p>
+  <button class="codno" id="btnNoCod" type="button">No deseo guardar el historial</button>
+  <div class="codtengo"><span>¿Ya tienes un código de otro dispositivo?</span> <button type="button" id="btnTengoCod">Introdúcelo aquí</button></div>
   <div id="cajaTengoCod" class="hide" style="margin-top:10px">
-   <input id="inCod" type="text" placeholder="Tu código" style="width:100%;padding:10px 12px;border:1.5px solid var(--line);border-radius:12px;font-size:16px;text-transform:uppercase;box-sizing:border-box" maxlength="10">
-   <p id="errCod" style="color:#c0392b;font-size:13px;margin:6px 0 0"></p>
+   <input id="inCod" type="text" placeholder="Tu código" style="width:100%;padding:12px;border:1.5px solid var(--line);border-radius:12px;font-size:18px;text-transform:uppercase;box-sizing:border-box" maxlength="10">
+   <p id="errCod" style="color:#c0392b;font-size:14px;margin:6px 0 0"></p>
    <button class="btn" id="btnUsarCod" type="button" style="margin-top:8px;width:100%">Usar este código</button>
   </div>
-  <p style="margin:10px 0 0;font-size:12.5px;color:var(--muted)">Si más adelante tienes algún problema con tu código, puedes gestionarlo desde ⚙️ Ajustes.</p>
+  <div class="codajus">Puedes ver tu código o cambiarlo cuando quieras en <button type="button" onclick="go('#/ajustes')">⚙️ Ajustes</button></div>
  </div>
  <div class="bienvenida" id="panelBienvenida">
   <h2>👋 ¿Cómo funciona HistoKHB?</h2>
@@ -716,25 +725,26 @@ function generaCodigo(){
 }
 function initCodigo(){
  const p=$('#panelCodigo'); if(!p)return;
+ // el cuadro sale SIEMPRE hasta que se pulse «Ya lo he guardado» o «No deseo guardar el historial» (o se use un código ya existente)
+ let ok=null; try{ok=localStorage.getItem('hk_codigo_ok');}catch(e){}
  let cod=null; try{cod=localStorage.getItem('hk_codigo');}catch(e){}
- if(cod){ p.classList.add('hide'); return; } // ya tenía código: no se muestra
- cod=generaCodigo();
- try{localStorage.setItem('hk_codigo',cod);}catch(e){}
+ if(!cod){ cod=generaCodigo(); try{localStorage.setItem('hk_codigo',cod);}catch(e){} }
+ if(ok){ p.classList.add('hide'); return; }
  $('#codVal').textContent=cod;
+ const cierra=(v)=>{ try{localStorage.setItem('hk_codigo_ok',v);}catch(e){} p.style.transition='opacity .4s';p.style.opacity='0';setTimeout(()=>p.classList.add('hide'),420); };
  $('#btnCopiaCod').addEventListener('click',()=>{
-  try{navigator.clipboard.writeText(cod);}catch(e){}
+  try{navigator.clipboard.writeText($('#codVal').textContent);}catch(e){}
   const b=$('#btnCopiaCod');b.textContent='✅ Copiado';setTimeout(()=>{b.textContent='📋 Copiar código';},1800);
  });
- $('#btnGuardadoCod').addEventListener('click',()=>{
-  p.style.transition='opacity .4s';p.style.opacity='0';setTimeout(()=>p.classList.add('hide'),420);
- });
+ $('#btnGuardadoCod').addEventListener('click',()=>cierra('guardado'));
+ $('#btnNoCod').addEventListener('click',()=>cierra('no'));
  $('#btnTengoCod').addEventListener('click',()=>{$('#cajaTengoCod').classList.toggle('hide');});
  $('#btnUsarCod').addEventListener('click',()=>{
   const v=($('#inCod').value||'').trim().toUpperCase();
   if(v.length<4){ $('#errCod').textContent='Escribe el código completo.'; return; }
   try{localStorage.setItem('hk_codigo',v);}catch(e){}
   syncPull().then(()=>{ if(lastScreen==='inicio')renderInicio(); });
-  p.style.transition='opacity .4s';p.style.opacity='0';setTimeout(()=>p.classList.add('hide'),420);
+  cierra('guardado');
  });
 }
 // ---------- inicio ----------
