@@ -831,7 +831,7 @@ function dicCierra(){$('#dicw').classList.add('hide');dicUlt='';}
 async function dicMuestra(pal,mayus){
  const w=pal.toLowerCase(); const r=await dicBusca(w); const el=$('#dicw');
  const rw=r?r.l:w, rae=`<a class="dr" href="https://dle.rae.es/${encodeURIComponent(rw)}" target="_blank" rel="noopener">Buscar «${esc(rw)}» en el diccionario de la RAE ↗</a>`;
- let h=`<div class="dh"><div class="dp">${esc(r?r.l:pal)}</div><button class="dx" onclick="dicCierra()" aria-label="Cerrar">×</button></div>`;
+ let h=`<div class="dh"><div class="dp">${esc(r&&!mayus?r.l:pal)}</div><button class="dx" onclick="dicCierra()" aria-label="Cerrar">×</button></div>`;
  if(r){ const esp=LV!=='n'&&(r.e[1]||r.e[2]); if(LV!=='n'&&r.e[2]) h+=`<p class="dl"><b>En ciencia</b>${esc(r.e[2])}</p>`; if(LV!=='n'&&r.e[1]) h+=`<p class="dl"><b>En historia</b>${esc(r.e[1])}</p>`; h+=`<p class="dl">${esp?'<b>Significado general</b>':''}${esc(r.e[0])}</p>`+(mayus?`<a class="dr" href="https://es.wikipedia.org/wiki/${encodeURIComponent(pal)}" target="_blank" rel="noopener">Más sobre «${esc(pal)}» en Wikipedia ↗</a>`:rae); }
  else h+=`<p class="dl">No está en el diccionario de HistoKHB.</p>`+(mayus?`<a class="dr" href="https://es.wikipedia.org/wiki/${encodeURIComponent(pal)}" target="_blank" rel="noopener">Buscar «${esc(pal)}» en Wikipedia ↗</a>`:rae);
  el.innerHTML=h; el.classList.remove('hide');
@@ -844,6 +844,8 @@ document.addEventListener('selectionchange',()=>{clearTimeout(dicT);dicT=setTime
  dicUlt=pal; dicMuestra(pal,pal[0]!==pal[0].toLowerCase()&&!/[.!?»]\s*$/.test((s.anchorNode.textContent||'').slice(0,s.anchorOffset).trim()) );
 },450);});
 window.addEventListener('hashchange',dicCierra);
+// se cierra al tocar cualquier otro punto (no al tocar dentro de la ventana)
+document.addEventListener('pointerdown',e=>{const w=$('#dicw'); if(!w.classList.contains('hide')&&!w.contains(e.target)) dicCierra();},true);
 function doSearch(q){
  const r=$('#res'), body=$('#inicio-body'); q=norm(q.trim());
  if(q.length<2){r.innerHTML='';body.classList.remove('hide');return;}
