@@ -287,3 +287,13 @@
   - 25/12/1494 · s:Canarias|1495 — Otras fuentes la sitúan a comienzos de 1495; el contexto no nombra al vencedor.
   Si se corrige la ficha o se confirma la fecha, borrar la `nota` de esa entrada y vuelve a salir.
 - **Dato útil:** reparto por época de los 1.801: antes del 500, 23; 500-1491, 250; 1492-1788, 292; 1789-1913, 428; desde 1914, 808.
+
+### 26-oct-2026 · 13:50 · Chat «montaje» (sesión de diseño)
+- **Hecho (en main):**
+  - Revisadas en la web las 27 fechas dudosas de «Esta semana». **3 errores reales corregidos en las fichas:**
+    - Batalla de Ankara: 20 de julio de 1402, no el 28 (Britannica). En `Anatolia|1402` y `med5-8` (profundo).
+    - Myeongnyang: 26 de octubre de 1597; el «16 de septiembre» era la fecha del calendario lunar (Wikipedia). En `Corea|1597`.
+    - Armisticio de Villa Giusti: firmado el 3 de noviembre de 1918, en vigor el 4. En `Italia|1918`.
+  - Las otras 24 estaban bien (6 son del calendario juliano ruso: salen en «Esta semana» con la aclaración). Elcano está bien en las fichas (Sanlúcar el 6, Sevilla el 8): mi aviso anterior era erróneo, no hay que tocar nada.
+  - **Voces con la clave gratuita de AI Studio:** `herramientas/voces.py` graba con ella si encuentra `GEMINI_API_KEY` o `GEMINI_API_KEY_FILE` (la clave está en la carpeta de claves de Carlos, `aistudio.txt`, fuera del repo). Mismas voces y mismo modelo (gemini-2.5-flash-preview-tts). Uso: `NIVELES=p HILOS=1 GEMINI_API_KEY_FILE=/ruta/aistudio.txt python3 herramientas/voces.py fichas med5-8`. Probado: regrabado `med5-8-p` (Ankara) en 6,5 min.
+- **Petición para «contenidos»:** las fichas nuevas, grabarlas ya con la clave de AI Studio (HILOS=1). Si da «LÍMITE DIARIO», seguir al día siguiente.

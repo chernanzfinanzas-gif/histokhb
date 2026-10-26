@@ -1,5 +1,5 @@
 {
-"nota": "Hechos con fecha exacta revisados a mano (26-oct-2026). Los que llevan \"nota\" tienen fecha dudosa y NO se publican hasta revisarlos.",
+"nota": "Hechos con fecha exacta revisados (26-oct-2026). Si alguno lleva \"nota\", tiene fecha dudosa y NO se publica hasta revisarlo.",
 "hechos": [
 {
 "m": 1,
@@ -1054,9 +1054,8 @@
 "d": 27,
 "a": 1837,
 "z": "Rusia",
-"t": "El poeta Pushkin es herido de muerte en un duelo; muere dos días después.",
-"k": "s:Rusia|1837",
-"nota": "Fecha en calendario ruso (juliano); en el gregoriano sería el 8 de febrero."
+"t": "El poeta Pushkin es herido de muerte en un duelo; muere dos días después (calendario juliano).",
+"k": "s:Rusia|1837"
 },
 {
 "m": 1,
@@ -1512,8 +1511,7 @@
 "a": 1817,
 "z": "Chile",
 "t": "El ejército de San Martín, tras cruzar los Andes, derrota a los realistas en Chacabuco.",
-"k": "d:des-sanmartin",
-"nota": "Año 1817 deducido: el texto no lo dice."
+"k": "d:des-sanmartin"
 },
 {
 "m": 2,
@@ -1712,9 +1710,8 @@
 "d": 19,
 "a": 1861,
 "z": "Rusia",
-"t": "El zar Alejandro II firma el manifiesto que libera a los siervos.",
-"k": "f:con1-20",
-"nota": "Fecha del calendario juliano; en el gregoriano es el 3 de marzo de 1861."
+"t": "El zar Alejandro II firma el manifiesto que libera a los siervos (calendario juliano).",
+"k": "f:con1-20"
 },
 {
 "m": 2,
@@ -1889,9 +1886,8 @@
 "d": 23,
 "a": 1917,
 "z": "Rusia",
-"t": "Las tejedoras de Petrogrado dejan los telares y salen a la calle: empieza la revolución de Febrero.",
-"k": "f:con3-1",
-"nota": "Fecha del calendario juliano; en el gregoriano es el 8 de marzo de 1917."
+"t": "Las tejedoras de Petrogrado salen a la calle: empieza la revolución de Febrero (calendario juliano).",
+"k": "f:con3-1"
 },
 {
 "m": 2,
@@ -3219,8 +3215,7 @@
 "a": 1350,
 "z": "Castilla",
 "t": "Alfonso XI muere de peste negra ante Gibraltar, el único rey europeo muerto en esa epidemia.",
-"k": "s:Hispania · Castilla · España|1312",
-"nota": "Algunas fuentes dan el 26 de marzo."
+"k": "s:Hispania · Castilla · España|1312"
 },
 {
 "m": 3,
@@ -3412,8 +3407,7 @@
 "a": 1948,
 "z": "Ciencia",
 "t": "Se publica el artículo «Alpher, Bethe y Gamow» sobre el origen de los elementos tras la Gran Explosión.",
-"k": "f:cosmos-7",
-"nota": "El tema del artículo (nucleosíntesis) no está en el contexto extraído; verificar con la ficha."
+"k": "f:cosmos-7"
 },
 {
 "m": 4,
@@ -3693,8 +3687,7 @@
 "a": 1888,
 "z": "Cataluña",
 "t": "Abre en Barcelona la primera Exposición Universal de España, en el parque de la Ciutadella.",
-"k": "s:Cataluña|1888",
-"nota": "La inauguración oficial con la reina regente fue el 20 de mayo de 1888; conviene comprobar la fecha."
+"k": "s:Cataluña|1888"
 },
 {
 "m": 4,
@@ -3974,8 +3967,7 @@
 "a": 1690,
 "z": "México",
 "t": "Se inaugura en Santo Domingo de Puebla una capilla con paredes y cúpula cubiertas de decoración dorada.",
-"k": "f:mod3-4",
-"nota": "El párrafo no nombra la capilla (es la del Rosario) ni dice «dorada»; comprobar."
+"k": "f:mod3-4"
 },
 {
 "m": 4,
@@ -4007,8 +3999,7 @@
 "a": 1680,
 "z": "Canadá",
 "t": "Muere con 24 años Kateri Tekakwitha, joven iroquesa cristiana canonizada en 2012.",
-"k": "f:mod3-17",
-"nota": "El nombre no aparece en el párrafo extraído; comprobar con la ficha."
+"k": "f:mod3-17"
 },
 {
 "m": 4,
@@ -4408,8 +4399,7 @@
 "a": 1521,
 "z": "Filipinas",
 "t": "Magallanes muere en la playa de Mactán frente a los guerreros de Lapulapu.",
-"k": "s:SE asiático|1521",
-"nota": "Lapulapu no se nombra en el contexto extraído; verificar con la ficha."
+"k": "s:SE asiático|1521"
 },
 {
 "m": 4,
@@ -4936,9 +4926,8 @@
 "d": 8,
 "a": 1781,
 "z": "Florida",
-"t": "Una bala española vuela un polvorín británico en Pensacola, y la plaza cae ante Gálvez.",
-"k": "s:Norteamérica|1781",
-"nota": "La capitulación formal de Pensacola fue el 10 de mayo; el 8 es la explosión del polvorín."
+"t": "Una bala española vuela un polvorín británico en Pensacola; dos días después la plaza se rinde a Gálvez.",
+"k": "s:Norteamérica|1781"
 },
 {
 "m": 5,
@@ -5289,9 +5278,8 @@
 "d": 19,
 "a": 1891,
 "z": "Rusia",
-"t": "El futuro Nicolás II pone la primera piedra del Transiberiano en Vladivostok.",
-"k": "d:des-transiberiano",
-"nota": "Fecha del calendario juliano; en el gregoriano es el 31 de mayo."
+"t": "El futuro Nicolás II pone la primera piedra del Transiberiano en Vladivostok (calendario juliano).",
+"k": "d:des-transiberiano"
 },
 {
 "m": 5,
@@ -5986,9 +5974,8 @@
 "d": 6,
 "a": 1217,
 "z": "Castilla",
-"t": "En Palencia, una teja desprendida hiere de muerte al rey Enrique I de Castilla, de trece años.",
-"k": "s:Hispania · Castilla · España|1214",
-"nota": "La cronología habitual sitúa el accidente a finales de mayo y la muerte el 6 de junio de 1217."
+"t": "Muere en Palencia Enrique I de Castilla, de trece años, herido días antes por una teja.",
+"k": "s:Hispania · Castilla · España|1214"
 },
 {
 "m": 6,
@@ -6427,9 +6414,8 @@
 "d": 18,
 "a": 1858,
 "z": "India",
-"t": "La reina Lakshmi Bai de Jhansi muere luchando contra la caballería británica cerca de Gwalior.",
-"k": "f:con1-13",
-"nota": "El texto dice «el 17 o 18 de junio»: la fecha exacta es discutida."
+"t": "La reina Lakshmi Bai de Jhansi muere luchando contra los británicos cerca de Gwalior (el 17 o el 18).",
+"k": "f:con1-13"
 },
 {
 "m": 6,
@@ -6844,9 +6830,8 @@
 "d": 28,
 "a": 1762,
 "z": "Rusia",
-"t": "La guardia proclama emperatriz a Catalina; su marido, Pedro III, abdica.",
-"k": "f:mod4-4",
-"nota": "Fecha del calendario ruso (juliano); en el gregoriano es el 9 de julio."
+"t": "La guardia proclama emperatriz a Catalina; su marido, Pedro III, abdica (calendario juliano).",
+"k": "f:mod4-4"
 },
 {
 "m": 6,
@@ -7022,8 +7007,7 @@
 "a": 1520,
 "z": "México",
 "t": "Noche Triste: los españoles y sus aliados tlaxcaltecas huyen de Tenochtitlan por la calzada de Tacuba y sufren una dura derrota.",
-"k": "s:Mesoamérica|1520",
-"nota": "La huida fue la noche del 30 de junio al 1 de julio: puede repetirse en el 30 de junio."
+"k": "s:Mesoamérica|1520"
 },
 {
 "m": 7,
@@ -7908,6 +7892,14 @@
 {
 "m": 7,
 "d": 20,
+"a": 1402,
+"z": "Anatolia",
+"t": "Tamerlán derrota a los otomanos junto a Ankara y captura al sultán Bayaceto.",
+"k": "s:Anatolia|1402"
+},
+{
+"m": 7,
+"d": 20,
 "a": 1810,
 "z": "Colombia",
 "t": "El incidente del florero desata en Bogotá la formación de una junta de gobierno criolla.",
@@ -8151,8 +8143,7 @@
 "a": 1533,
 "z": "Perú",
 "t": "Atahualpa, prisionero de Pizarro, es ejecutado por garrote.",
-"k": "s:Andes|1532",
-"nota": "Fecha discutida: la tradición daba el 29 de agosto de 1533."
+"k": "s:Andes|1532"
 },
 {
 "m": 7,
@@ -8249,15 +8240,6 @@
 "z": "Corea",
 "t": "El armisticio de Panmunjom pone fin a los combates de la Guerra de Corea.",
 "k": "s:Global|1953"
-},
-{
-"m": 7,
-"d": 28,
-"a": 1402,
-"z": "Anatolia",
-"t": "Tamerlán derrota a los otomanos junto a Ankara y captura al sultán Bayaceto.",
-"k": "s:Anatolia|1402",
-"nota": "La batalla de Ankara suele fecharse el 20 de julio de 1402."
 },
 {
 "m": 7,
@@ -8377,8 +8359,7 @@
 "a": 1838,
 "z": "Jamaica",
 "t": "A medianoche termina el sistema de aprendizaje y los antiguos esclavizados de Jamaica son plenamente libres.",
-"k": "f:con1-15",
-"nota": "El contexto describe la medianoche del 31 de julio y la celebración; la libertad plena llegó el 1 de agosto de 1838."
+"k": "f:con1-15"
 },
 {
 "m": 7,
@@ -8538,8 +8519,7 @@
 "a": 1701,
 "z": "Canadá",
 "t": "Unos cuarenta pueblos indígenas se reúnen en Montreal con los franceses para firmar la Gran Paz.",
-"k": "f:mod3-17",
-"nota": "El contexto describe la reunión; el tratado de la Gran Paz de Montreal se firmó el 4 de agosto de 1701."
+"k": "f:mod3-17"
 },
 {
 "m": 8,
@@ -9947,8 +9927,7 @@
 "a": 1522,
 "z": "España",
 "t": "Elcano llega a Sanlúcar con 18 supervivientes en la nave Victoria: es la primera vuelta al mundo.",
-"k": "s:Hispania · Castilla · España|1522",
-"nota": "Las fichas de Moderna (mod1-1, general y profundo) dicen que llegó a Sevilla el 6; el 6 fue Sanlúcar y a Sevilla llegó el 8."
+"k": "s:Hispania · Castilla · España|1522"
 },
 {
 "m": 9,
@@ -10357,15 +10336,6 @@
 "z": "Aragón",
 "t": "En La Seo de Zaragoza, un grupo de conversos ataca al inquisidor Pedro Arbués, que muere dos días después.",
 "k": "s:Aragón / C.Valenciana|1485"
-},
-{
-"m": 9,
-"d": 16,
-"a": 1597,
-"z": "Corea",
-"t": "Batalla de Myeongnyang: con solo 13 barcos, la flota coreana hunde o daña unos 30 barcos japoneses.",
-"k": "s:Corea|1597",
-"nota": "Probablemente es fecha del calendario lunar coreano; en el calendario occidental la batalla fue el 26 de octubre de 1597."
 },
 {
 "m": 9,
@@ -11877,8 +11847,7 @@
 "a": 1149,
 "z": "Cataluña",
 "t": "Se rinden a la vez Lleida, Fraga y Mequinenza a Ramón Berenguer IV y Ermengol VI de Urgell.",
-"k": "s:Cataluña|1148",
-"nota": "La ficha está en el año 1148 pero el texto (correcto) da 24 de octubre de 1149."
+"k": "s:Cataluña|1148"
 },
 {
 "m": 10,
@@ -11975,6 +11944,14 @@
 "z": "Castilla",
 "t": "El Batallador y Enrique de Portugal vencen en Candespina, cerca de Sepúlveda; muere Gómez González.",
 "k": "s:Hispania · Castilla · España|1111"
+},
+{
+"m": 10,
+"d": 26,
+"a": 1597,
+"z": "Corea",
+"t": "Batalla de Myeongnyang: con solo 13 barcos, la flota coreana de Yi Sun-sin vence a la japonesa.",
+"k": "s:Corea|1597"
 },
 {
 "m": 10,
@@ -12387,6 +12364,14 @@
 {
 "m": 11,
 "d": 3,
+"a": 1918,
+"z": "Italia",
+"t": "Tras la derrota de Vittorio Veneto, Austria-Hungría firma con Italia el armisticio de Villa Giusti.",
+"k": "s:Italia|1918"
+},
+{
+"m": 11,
+"d": 3,
 "a": 1940,
 "z": "España",
 "t": "Manuel Azaña muere en el exilio, en Montauban (Francia), huyendo de los alemanes y de la policía franquista.",
@@ -12439,15 +12424,6 @@
 "z": "Crimea",
 "t": "Florence Nightingale llega al hospital de Escútari con treinta y ocho enfermeras para atender a los heridos de Crimea.",
 "k": "f:con1-17"
-},
-{
-"m": 11,
-"d": 4,
-"a": 1918,
-"z": "Italia",
-"t": "Tras la derrota de Vittorio Veneto, Austria-Hungría firma el armisticio con Italia.",
-"k": "s:Italia|1918",
-"nota": "El armisticio de Villa Giusti se firmó el 3 de noviembre y entró en vigor el 4."
 },
 {
 "m": 11,
@@ -13990,9 +13966,8 @@
 "d": 14,
 "a": 1825,
 "z": "Rusia",
-"t": "Sublevación decembrista en San Petersburgo: oficiales que piden constitución son dispersados a cañonazos.",
-"k": "f:con-1808-eu",
-"nota": "Fecha del calendario juliano; en el gregoriano es el 26 de diciembre."
+"t": "Sublevación decembrista en San Petersburgo: oficiales que piden una constitución son dispersados (calendario juliano).",
+"k": "f:con-1808-eu"
 },
 {
 "m": 12,
@@ -14183,9 +14158,8 @@
 "d": 21,
 "a": 804,
 "z": "Castilla",
-"t": "El obispo Juan restaura la iglesia de Santa María de Valpuesta, en el norte de Burgos.",
-"k": "s:Hispania · Castilla · España|804",
-"nota": "La autenticidad del documento de Valpuesta es discutida."
+"t": "Según los cartularios de Valpuesta, el obispo Juan restaura la iglesia de Santa María de Valpuesta (Burgos).",
+"k": "s:Hispania · Castilla · España|804"
 },
 {
 "m": 12,
@@ -14329,8 +14303,7 @@
 "a": 1494,
 "z": "Canarias",
 "t": "Alonso Fernández de Lugo vence a los guanches cerca de Acentejo.",
-"k": "s:Canarias|1495",
-"nota": "Otras fuentes la sitúan a comienzos de 1495; el contexto no nombra al vencedor."
+"k": "s:Canarias|1495"
 },
 {
 "m": 12,
@@ -27053,6 +27026,11 @@
 "s:África oriental|2013",
 9,
 21
+],
+[
+"f:med5-8",
+7,
+20
 ]
 ]
 }

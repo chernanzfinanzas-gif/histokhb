@@ -6,6 +6,7 @@
 # Niños: voz Leda (cuentacuentos). General y profundo: 10 voces alternas, la misma en los dos niveles de cada ficha;
 # los desarrollos usan la voz de su ficha. Escribe audio/<codigo>-<n|g|p|d>.mp3 y actualiza datos/audio.json.
 # Si una petición falla por límite (429) reintenta sola; al final lista lo que falte: volver a lanzar solo eso.
+# Con la clave gratuita de AI Studio: GEMINI_API_KEY_FILE=/ruta/aistudio.txt python3 herramientas/voces.py ... (HILOS=1 para no pasar del límite por minuto).
 import sys,os,re,html,base64,time,subprocess,json,hashlib
 from concurrent.futures import ThreadPoolExecutor
 from comun import REPO,PROJ,TMP,sess,J,fichas_de,seccion_de
@@ -29,7 +30,33 @@ def trozos(ps,lim=2800):
         if len((cur+'\n\n'+p).encode())>lim and cur: out.append(cur);cur=p
         else: cur=(cur+'\n\n'+p) if cur else p
     return out+([cur] if cur else [])
+# Clave gratuita de Google AI Studio (desde 26-oct-2026): si existe GEMINI_API_KEY (o el fichero que diga
+# GEMINI_API_KEY_FILE), se graba con la API de Gemini en vez de con Google Cloud. Mismas voces y mismas indicaciones.
+def _clave():
+    k=os.environ.get('GEMINI_API_KEY','').strip()
+    f=os.environ.get('GEMINI_API_KEY_FILE','')
+    if not k and f and os.path.exists(f): k=open(f,encoding='utf-8').read().strip()
+    return k
+MODELO=os.environ.get('GEMINI_TTS_MODEL','gemini-2.5-flash-preview-tts')
+def tts_aistudio(text,voz,prompt,dst,clave):
+    import requests,wave
+    b={"contents":[{"parts":[{"text":prompt+"\n\n"+text}]}],
+       "generationConfig":{"responseModalities":["AUDIO"],"speechConfig":{"voiceConfig":{"prebuiltVoiceConfig":{"voiceName":voz}}}}}
+    for i in range(8):
+        try:
+            r=requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{MODELO}:generateContent",headers={"x-goog-api-key":clave},json=b,timeout=300)
+            if r.ok:
+                pcm=base64.b64decode(r.json()['candidates'][0]['content']['parts'][0]['inlineData']['data'])
+                with wave.open(dst,'wb') as w: w.setnchannels(1); w.setsampwidth(2); w.setframerate(24000); w.writeframes(pcm)
+                return True
+            if r.status_code==429 and 'PerDay' in r.text: print('LÍMITE DIARIO de AI Studio agotado: seguir mañana',dst); return False
+            if r.status_code not in (429,500,502,503,504): print('ERR',dst,r.status_code,r.text[:200]); return False
+        except Exception as e: pass
+        time.sleep(20*(i+1))
+    print('ERR tras reintentos',dst); return False
 def tts(text,voz,prompt,dst):
+    clave=_clave()
+    if clave: return tts_aistudio(text,voz,prompt,dst,clave)
     b={"input":{"text":text,"prompt":prompt},"voice":{"languageCode":"es-ES","name":voz,"model_name":"gemini-2.5-flash-tts"},"audioConfig":{"audioEncoding":"LINEAR16","sampleRateHertz":24000}}
     for i in range(8):
         try:
