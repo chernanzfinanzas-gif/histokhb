@@ -305,3 +305,6 @@
 
 ## 26-oct-2026 · Novedades automáticas
 Las novedades ya no se escriben a mano: `herramientas/novedades.py` detecta historias nuevas o ampliadas y recoge las líneas `NOVEDAD:` de los commits (mejoras de la app). Lo explica `herramientas/LEEME.md`. Ojo: tras cada publicación hay un commit nuevo en `main` («Novedades automáticas»); hacer `git pull --rebase` antes de seguir.
+
+## 26-oct-2026 · Audios y vídeos fuera del repositorio — LEER ANTES DE GRABAR VOCES O ANIMAR
+Ya no se hace `git add` de mp3/mp4 (están en `.gitignore`). Tras `voces.py` o `animar.py`: `python3 herramientas/medios.py subir <rutas>` y DESPUÉS publicar en main el `audio.json`. Detalle en `herramientas/LEEME.md`. El historial del repo se limpió de audios y vídeos: si tienes un clon anterior a hoy, tíralo y clona de nuevo.

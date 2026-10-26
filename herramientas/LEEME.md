@@ -24,3 +24,9 @@ Se ejecuta sola en cada publicación y rellena `datos/novedades.json`; después 
 - **Contenido**: compara fichas, desarrollos y fichas de la Sincronía con la huella anterior. Lo que no existía → «✨ Nueva»; lo que crece de verdad (≥15 % y ≥300 caracteres) → «➕ Ampliada». Las correcciones pequeñas no se anuncian.
 - **Mejoras de la app**: cada línea de la descripción de un commit que empiece por `NOVEDAD:` se anuncia tal cual como «🛠️ En la app». Escríbela para el lector, corta y en castellano llano.
 - Como el workflow añade un commit a `main`, antes de publicar otra vez hay que hacer `git pull --rebase origin main`.
+
+## Audios y vídeos (`medios.py`) — desde el 26-oct-2026 NO van en el repositorio
+Los `.mp3` de `audio/` y los `.mp4` de `img/vivas/` están en `.gitignore`. Viven en el hosting y, como copia, en el PC de Carlos (`Historia Universal\Multimedia`, que se pone al día con «Actualizar copia (1 clic).bat»). `datos/medios.json` guarda la huella (bytes y md5) de cada uno.
+- **Después de grabar voces o animar** (voces.py, animar.py…): `python3 herramientas/medios.py subir <rutas>` (sin rutas: todos los que haya). Los deja en la rama `buzon-medios`. **Súbelos ANTES de publicar en main** el `datos/audio.json` que los menciona.
+- El workflow los recoge, los copia al hosting, apunta su huella en `datos/medios.json` y vacía el buzón.
+- Una sesión nueva NO tiene los audios ni los vídeos antiguos. Si hay que retocar uno (p. ej. igualar_lamina.py), se trae del PC de Carlos con el puente o se vuelve a generar.

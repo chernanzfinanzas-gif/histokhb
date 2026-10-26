@@ -1,4 +1,5 @@
 # Voces de HistoKHB con Gemini-TTS (narrador). Uso:
+# AUDIOS: no van al repo. Tras grabar → python3 herramientas/medios.py subir <rutas> (ver LEEME.md).
 #   python3 herramientas/voces.py fichas CAPITULO            (las 3 voces de cada ficha del capítulo)
 #   python3 herramientas/voces.py fichas codigo1,codigo2     (fichas concretas)
 #   python3 herramientas/voces.py des des-xxx,des-yyy        (desarrollos del tema)

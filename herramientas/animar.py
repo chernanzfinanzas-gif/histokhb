@@ -1,4 +1,5 @@
 # Láminas animadas de HistoKHB con Veo 3.1 Lite (8 s, sin sonido). Uso:
+# VÍDEOS: no van al repo. Tras animar → python3 herramientas/medios.py subir <rutas> (ver LEEME.md).
 #   python3 herramientas/animar.py CAPITULO | codigo1,codigo2 | des-xxx,des-yyy
 #   python3 herramientas/animar.py --camara codigo1,codigo2   (sustituye por movimiento de cámara lento, gratis)
 # Escribe img/vivas/<codigo>.mp4, actualiza 'viva' en datos/audio.json y deja en herramientas/_tmp/revision.jpg
