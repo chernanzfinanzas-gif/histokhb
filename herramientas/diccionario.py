@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Diccionario de HistoKHB — genera datos/dic/<letra>.json para la ventana «mantén pulsada una palabra».
 
-Base: herramientas/diccionario_base.json  {"palabras": {palabra: {"g": general, "h": histórico (opcional)}}, "alias": {...}, "descartes": [...]}
+Base: herramientas/diccionario_base.json  {"palabras": {palabra: {"g": general, "h": histórico (opcional), "c": científico (opcional)}}, "alias": {...}, "descartes": [...]}
 Recorre los textos de la app y enlaza cada forma («conquistaron», «hidalgas»…) con su palabra de diccionario
 (simplemma), así las fichas nuevas quedan cubiertas solas. Las palabras nuevas sin definición se apuntan en
 herramientas/diccionario_pendientes.json (solo si está instalado wordfreq) para la siguiente tanda.
@@ -54,7 +54,9 @@ for w, n in cnt.items():
 out = collections.defaultdict(lambda: {'f': {}, 'd': {}})
 for w, l in formas.items(): out[letra(w)]['f'][w] = l
 for l, e in base.items():
-    out[letra(l)]['d'][l] = [e['g'], e['h']] if e.get('h') else [e['g']]
+    v = [e['g'], e.get('h', ''), e.get('c', '')]   # general, sentido histórico, sentido científico
+    while len(v) > 1 and not v[-1]: v.pop()
+    out[letra(l)]['d'][l] = v
 os.makedirs(os.path.join(D, 'dic'), exist_ok=True)
 for f in glob.glob(os.path.join(D, 'dic', '*.json')): os.remove(f)
 for k, v in out.items():
