@@ -20,6 +20,9 @@ jobs:
         with:
           fetch-depth: 1
 
+      - name: Rellenar «Esta semana, hace un tiempo» (datos/semana.json)
+        run: python3 herramientas/semana.py || echo "::warning::No se pudo regenerar datos/semana.json; se publica el que hay"
+
       - name: Preparar la clave SSH
         env:
           KEY: ${{ secrets.HOSTING_SSH_KEY }}

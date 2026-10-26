@@ -248,3 +248,42 @@
 
 - **Leído:** de-contenidos.md hasta 25-oct-2026 · 15:40.
 - **Pendiente de montar:** `epocas-correcciones-eras` (incluye bipedismo). No está en origin todavía — por favor publícala: `git push origin epocas-correcciones-eras`.
+
+### 26-oct-2026 · 13:20 · Chat «montaje» (sesión de diseño)
+- **Leído:** de-contenidos.md hasta su última entrada.
+- **Hecho (en main):**
+  - Nueva sección **«Esta semana, hace un tiempo»** en «Hoy en HistoKHB»: bloque en la portada y pantalla `#/semana` (hechos con fecha exacta ±4 días alrededor de hoy, cada uno abre su ficha; abajo «No fue esta semana, pero te puede interesar…» con una ficha de época al azar de la época que menos sale). **Oculta en el nivel Niños.**
+  - Datos: `datos/semana.json` (1.801 hechos, 364 días del año) lo genera `herramientas/semana.py` a partir de `herramientas/semana_revisados.json` (1.828 revisados a mano) + las fechas que aparezcan en fichas nuevas. **Se regenera solo en cada publicación** (paso nuevo en el workflow).
+  - Letras: los textos pequeños (etiquetas tipo «Humanidad», fechas de las tarjetas, épocas de la portada, barra inferior) usan ahora la letra del cuerpo con grosor medio y algo de espaciado; la «Accesible» pasa a Atkinson Hyperlegible Next (trae todos los grosores; la antigua solo 400/700 y el navegador engordaba los 600). Aviso de un tester: se veían borrosos en ordenador. **Sin comprobar a ojo** (no pude cargar las letras de Google en las pruebas).
+- **Petición para «contenidos»:**
+  1. Para que las fichas nuevas entren bien en la sección, escribir las fechas completas con sujeto: «El 26 de octubre de 1909, Ahn Jung-geun disparó…». Las fechas nuevas entran solas con la frase donde aparecen.
+  2. Hay 27 fechas dudosas que NO se publican hasta revisarlas (en `herramientas/semana_revisados.json`, campo `nota`). Algunas apuntan a posibles errores en las fichas:
+  - 27/1/1837 · s:Rusia|1837 — Fecha en calendario ruso (juliano); en el gregoriano sería el 8 de febrero.
+  - 12/2/1817 · d:des-sanmartin — Año 1817 deducido: el texto no lo dice.
+  - 19/2/1861 · f:con1-20 — Fecha del calendario juliano; en el gregoriano es el 3 de marzo de 1861.
+  - 23/2/1917 · f:con3-1 — Fecha del calendario juliano; en el gregoriano es el 8 de marzo de 1917.
+  - 27/3/1350 · s:Hispania · Castilla · España|1312 — Algunas fuentes dan el 26 de marzo.
+  - 1/4/1948 · f:cosmos-7 — El tema del artículo (nucleosíntesis) no está en el contexto extraído; verificar con la ficha.
+  - 8/4/1888 · s:Cataluña|1888 — La inauguración oficial con la reina regente fue el 20 de mayo de 1888; conviene comprobar la fecha.
+  - 16/4/1690 · f:mod3-4 — El párrafo no nombra la capilla (es la del Rosario) ni dice «dorada»; comprobar.
+  - 17/4/1680 · f:mod3-17 — El nombre no aparece en el párrafo extraído; comprobar con la ficha.
+  - 27/4/1521 · s:SE asiático|1521 — Lapulapu no se nombra en el contexto extraído; verificar con la ficha.
+  - 8/5/1781 · s:Norteamérica|1781 — La capitulación formal de Pensacola fue el 10 de mayo; el 8 es la explosión del polvorín.
+  - 19/5/1891 · d:des-transiberiano — Fecha del calendario juliano; en el gregoriano es el 31 de mayo.
+  - 6/6/1217 · s:Hispania · Castilla · España|1214 — La cronología habitual sitúa el accidente a finales de mayo y la muerte el 6 de junio de 1217.
+  - 18/6/1858 · f:con1-13 — El texto dice «el 17 o 18 de junio»: la fecha exacta es discutida.
+  - 28/6/1762 · f:mod4-4 — Fecha del calendario ruso (juliano); en el gregoriano es el 9 de julio.
+  - 1/7/1520 · s:Mesoamérica|1520 — La huida fue la noche del 30 de junio al 1 de julio: puede repetirse en el 30 de junio.
+  - 26/7/1533 · s:Andes|1532 — Fecha discutida: la tradición daba el 29 de agosto de 1533.
+  - 28/7/1402 · s:Anatolia|1402 — La batalla de Ankara suele fecharse el 20 de julio de 1402.
+  - 31/7/1838 · f:con1-15 — El contexto describe la medianoche del 31 de julio y la celebración; la libertad plena llegó el 1 de agosto de 1838.
+  - 4/8/1701 · f:mod3-17 — El contexto describe la reunión; el tratado de la Gran Paz de Montreal se firmó el 4 de agosto de 1701.
+  - 6/9/1522 · s:Hispania · Castilla · España|1522 — Las fichas de Moderna (mod1-1, general y profundo) dicen que llegó a Sevilla el 6; el 6 fue Sanlúcar y a Sevilla llegó el 8.
+  - 16/9/1597 · s:Corea|1597 — Probablemente es fecha del calendario lunar coreano; en el calendario occidental la batalla fue el 26 de octubre de 1597.
+  - 24/10/1149 · s:Cataluña|1148 — La ficha está en el año 1148 pero el texto (correcto) da 24 de octubre de 1149.
+  - 4/11/1918 · s:Italia|1918 — El armisticio de Villa Giusti se firmó el 3 de noviembre y entró en vigor el 4.
+  - 14/12/1825 · f:con-1808-eu — Fecha del calendario juliano; en el gregoriano es el 26 de diciembre.
+  - 21/12/804 · s:Hispania · Castilla · España|804 — La autenticidad del documento de Valpuesta es discutida.
+  - 25/12/1494 · s:Canarias|1495 — Otras fuentes la sitúan a comienzos de 1495; el contexto no nombra al vencedor.
+  Si se corrige la ficha o se confirma la fecha, borrar la `nota` de esa entrada y vuelve a salir.
+- **Dato útil:** reparto por época de los 1.801: antes del 500, 23; 500-1491, 250; 1492-1788, 292; 1789-1913, 428; desde 1914, 808.
