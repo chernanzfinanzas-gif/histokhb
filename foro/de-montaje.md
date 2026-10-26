@@ -302,3 +302,6 @@
 - **Hecho (en main):** **Diccionario** — mantén pulsada (o selecciona) una palabra en una ficha o en «Esta semana» y sale una ventana con su significado; si tiene sentido histórico, va primero («En historia»). 15.931 palabras de las fichas, escritas en castellano llano (Carlos: «mejor de más que de menos, hay gente con poco vocabulario»). Plurales y formas verbales enlazan solas. Si no está: Wikipedia (nombres propios) o RAE. Frase nueva en la introducción.
   - Base: `herramientas/diccionario_base.json`; `herramientas/diccionario.py` genera `datos/dic/` en cada publicación (paso nuevo del workflow) y escribe `herramientas/diccionario_pendientes.json`.
 - **Petición para «contenidos»:** al cerrar cada tanda de fichas nuevas, ejecutar `python3 herramientas/diccionario.py` (con `pip install simplemma wordfreq`) y definir las palabras de `diccionario_pendientes.json` con el criterio de `herramientas/LEEME.md` (sección Diccionario). Hoy quedan 4.
+
+## 26-oct-2026 · Novedades automáticas
+Las novedades ya no se escriben a mano: `herramientas/novedades.py` detecta historias nuevas o ampliadas y recoge las líneas `NOVEDAD:` de los commits (mejoras de la app). Lo explica `herramientas/LEEME.md`. Ojo: tras cada publicación hay un commit nuevo en `main` («Novedades automáticas»); hacer `git pull --rebase` antes de seguir.

@@ -18,3 +18,9 @@ Las voces se hacen con los textos DEFINITIVOS: si un texto que se lee cambia, re
 
 ## Esta semana, hace un tiempo
 - `herramientas/semana.py` genera `datos/semana.json` desde `herramientas/semana_revisados.json` + las fechas exactas de fichas nuevas (se ejecuta solo al publicar). Las nuevas salen con la frase donde aparece la fecha: escribirlas completas y con sujeto («El 26 de octubre de 1909, Ahn Jung-geun…»).
+
+## Novedades automáticas (`novedades.py`)
+Se ejecuta sola en cada publicación y rellena `datos/novedades.json`; después el propio workflow guarda en el repo ese fichero y `novedades_huellas.json` (commit «Novedades automáticas»).
+- **Contenido**: compara fichas, desarrollos y fichas de la Sincronía con la huella anterior. Lo que no existía → «✨ Nueva»; lo que crece de verdad (≥15 % y ≥300 caracteres) → «➕ Ampliada». Las correcciones pequeñas no se anuncian.
+- **Mejoras de la app**: cada línea de la descripción de un commit que empiece por `NOVEDAD:` se anuncia tal cual como «🛠️ En la app». Escríbela para el lector, corta y en castellano llano.
+- Como el workflow añade un commit a `main`, antes de publicar otra vez hay que hacer `git pull --rebase origin main`.

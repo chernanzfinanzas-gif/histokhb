@@ -13,6 +13,8 @@ concurrency:
 jobs:
   publicar:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     timeout-minutes: 60
     steps:
       - name: Descargar el repo
@@ -27,6 +29,19 @@ jobs:
 
       - name: Rellenar «Esta semana, hace un tiempo» (datos/semana.json)
         run: python3 herramientas/semana.py || echo "::warning::No se pudo regenerar datos/semana.json; se publica el que hay"
+
+      - name: Novedades automáticas (contenido nuevo o ampliado y líneas «NOVEDAD:» de los commits)
+        env:
+          NOVEDADES_COMMITS: ${{ toJson(github.event.commits) }}
+        run: |
+          python3 herramientas/novedades.py || { echo "::warning::No se pudieron generar las novedades"; exit 0; }
+          git config user.name "HistoKHB (publicación automática)"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add datos/novedades.json herramientas/novedades_huellas.json
+          if ! git diff --cached --quiet; then
+            git commit -q -m "Novedades automáticas"
+            git push -q origin HEAD:main || echo "::warning::No se pudieron guardar las novedades en el repositorio (se publican igualmente)"
+          fi
 
       - name: Preparar la clave SSH
         env:
