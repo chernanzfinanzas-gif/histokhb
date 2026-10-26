@@ -358,6 +358,15 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .semit .fx{margin-top:3px;font-size:12.5px;color:var(--muted)}
 .semvac{border:1.5px dashed var(--line);border-radius:14px;padding:16px;text-align:center;color:var(--muted);font-size:14px;margin:8px 0}
 .semotra{display:block;margin:2px 0 20px;border:1.5px solid var(--accent);background:var(--card);color:var(--accent);border-radius:999px;padding:7px 16px;font-family:var(--f-head);font-weight:600;font-size:14px}
+/* diccionario: ventana al seleccionar una palabra */
+.dicw{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(var(--nav) + 12px + env(safe-area-inset-bottom));z-index:80;width:min(560px,calc(100% - 24px));background:var(--card);border:1.5px solid var(--accent);border-radius:16px;box-shadow:0 8px 28px rgba(0,0,0,.22);padding:12px 14px 12px}
+.dicw .dh{display:flex;align-items:baseline;gap:8px}
+.dicw .dp{font-family:var(--f-head);font-weight:600;font-size:18px;flex:1;min-width:0;overflow-wrap:anywhere}
+.dicw .dx{border:0;background:none;font-size:22px;line-height:1;color:var(--muted);padding:0 2px}
+.dicw .dl{margin:6px 0 0;font-size:15px;line-height:1.45}
+.dicw .dl b{font-family:var(--f-body);font-weight:var(--w-small);letter-spacing:var(--ls-small);font-size:11.5px;text-transform:uppercase;color:var(--accent);display:block;margin-bottom:1px}
+.dicw .dr{display:inline-block;margin-top:8px;font-size:13px;color:var(--accent)}
+.sheet .txt,.sheet .sh-head{-webkit-user-select:text;user-select:text}
 </style></head>
 <body>
 <header class="top">
@@ -405,6 +414,8 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <div class="bdiv"></div>
   <div class="bsec"><h3>⭐ Guardados</h3><p>Marca cualquier ficha con ☆ y la encontrarás aquí, para releerla cuando quieras.</p></div>
   <div class="bdiv"></div>
+  <div class="bsec"><h3>📖 Diccionario</h3><p>Si no entiendes algo, usa el diccionario: mantén pulsada la palabra que no entiendas y una ventana te la explicará.</p></div>
+  <div class="bdiv"></div>
   <div class="bsec"><h3>🔎 Buscador</h3><p>Escribe cualquier nombre, fecha o tema y la app te lleva a la ficha al instante.</p></div>
   <label class="bcheck"><input type="checkbox" id="chkConozco"><span>Ya conozco la app, no mostrar esto</span></label>
  </div>
@@ -428,6 +439,8 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <div class="foot0">HistoKHB · <span id="nfichas"></span> historias y más de 2.300 hechos del mundo · Del Big Bang a hoy</div>
  </div>
 </div></section>
+
+<div class="dicw hide" id="dicw" role="dialog" aria-live="polite"></div>
 
 <!-- ESTA SEMANA, HACE UN TIEMPO -->
 <section class="scr" id="s-semana"><div class="wrap" id="semana"></div></section>
@@ -805,6 +818,32 @@ function semOtra(nueva){
  const f=IDX.fichas[SEMALT], s=IDX.secciones.find(x=>x.id===f.sec)||{};
  $('#semAlt').innerHTML=`<button class="card" onclick="go('#/f/${SEMALT}')"><div class="ic">${f.ic}</div><div><div class="d">📖 ${esc(s.t||'')} · ${esc(f.d)}</div><h3>${esc(f.t)}</h3><div class="t">${esc(f.tz||'')}</div></div></button>`;
 }
+// ---------- diccionario (datos/dic/<letra>.json, lo genera herramientas/diccionario.py) ----------
+const DIC={}; let dicT=null, dicUlt='';
+function dicLetra(w){const c=w[0];return c==='ñ'?'ñ':c.normalize('NFD')[0];}
+async function dicCarga(l){if(!(l in DIC)){try{DIC[l]=await getJ('dic/'+encodeURIComponent(l)+'.json');}catch(e){DIC[l]={f:{},d:{}};}}return DIC[l];}
+async function dicBusca(w){
+ const a=await dicCarga(dicLetra(w)); let l=a.d[w]?w:(a.f[w]||w);
+ const b=dicLetra(l)===dicLetra(w)?a:await dicCarga(dicLetra(l));
+ return b.d[l]?{l,e:b.d[l]}:null;
+}
+function dicCierra(){$('#dicw').classList.add('hide');dicUlt='';}
+async function dicMuestra(pal,mayus){
+ const w=pal.toLowerCase(); const r=await dicBusca(w); const el=$('#dicw');
+ const rw=r?r.l:w, rae=`<a class="dr" href="https://dle.rae.es/${encodeURIComponent(rw)}" target="_blank" rel="noopener">Buscar «${esc(rw)}» en el diccionario de la RAE ↗</a>`;
+ let h=`<div class="dh"><div class="dp">${esc(r?r.l:pal)}</div><button class="dx" onclick="dicCierra()" aria-label="Cerrar">×</button></div>`;
+ if(r){ if(r.e[1]&&LV!=='n') h+=`<p class="dl"><b>En historia</b>${esc(r.e[1])}</p>`; h+=`<p class="dl">${r.e[1]&&LV!=='n'?'<b>Significado general</b>':''}${esc(r.e[0])}</p>`+rae; }
+ else h+=`<p class="dl">No está en el diccionario de HistoKHB.</p>`+(mayus?`<a class="dr" href="https://es.wikipedia.org/wiki/${encodeURIComponent(pal)}" target="_blank" rel="noopener">Buscar «${esc(pal)}» en Wikipedia ↗</a>`:rae);
+ el.innerHTML=h; el.classList.remove('hide');
+}
+document.addEventListener('selectionchange',()=>{clearTimeout(dicT);dicT=setTimeout(()=>{
+ const s=window.getSelection(); if(!s||s.isCollapsed)return;
+ const n=s.anchorNode&&(s.anchorNode.nodeType===1?s.anchorNode:s.anchorNode.parentElement); if(!n||!n.closest('#sheet,#semana'))return;
+ const pal=s.toString().trim().replace(/^[«"“'(¿¡]+|[»"”').,;:!?…]+$/g,'');
+ if(!/^[A-Za-zÁÉÍÓÚÜÑáéíóúüñ]{2,30}$/.test(pal)||pal===dicUlt)return;
+ dicUlt=pal; dicMuestra(pal,pal[0]!==pal[0].toLowerCase()&&!/[.!?»]\s*$/.test((s.anchorNode.textContent||'').slice(0,s.anchorOffset).trim()) );
+},450);});
+window.addEventListener('hashchange',dicCierra);
 function doSearch(q){
  const r=$('#res'), body=$('#inicio-body'); q=norm(q.trim());
  if(q.length<2){r.innerHTML='';body.classList.remove('hide');return;}

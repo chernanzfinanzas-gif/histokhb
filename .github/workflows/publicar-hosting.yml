@@ -20,6 +20,11 @@ jobs:
         with:
           fetch-depth: 1
 
+      - name: Enlazar el diccionario con las palabras de las fichas (datos/dic/)
+        run: |
+          pip install --quiet simplemma || true
+          python3 herramientas/diccionario.py || echo "::warning::No se pudo regenerar el diccionario; se publica el que hay"
+
       - name: Rellenar «Esta semana, hace un tiempo» (datos/semana.json)
         run: python3 herramientas/semana.py || echo "::warning::No se pudo regenerar datos/semana.json; se publica el que hay"
 
