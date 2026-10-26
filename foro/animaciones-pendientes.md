@@ -19,7 +19,7 @@ Al recibir un vídeo: se sube y se pasa `python3 herramientas/igualar_lamina.py 
 Veo no supo animarlas sin cambiar el dibujo. Todas las demás láminas ya tienen animación. Carlos las hace en su Gemini con la plantilla de arriba, una por conversación; al recibir cada vídeo se sube, se pasa `herramientas/igualar_lamina.py <código>` y se marca aquí con [x]. Hechas el 25-oct: ant4-20, ant5-1, con1-19, con3-17.
 
 1. ✓ con4-0 · La Guerra Fría
-2. con4-17 · 1968: juventud, música y protesta
+2. ✓ con4-17 · 1968: juventud, música y protesta
 3. con5-5 · Y mientras tanto…
 4. des-malaspina · La expedición Malaspina (1789-1794)
 5. des-mesiniense · Cuando el Mediterráneo era un desierto de sal
@@ -487,7 +487,7 @@ Veo no supo animarlas sin cambiar el dibujo. Todas las demás láminas ya tienen
 - [x] con4-12 (Veo, 25-oct) · 
 - [x] con4-15 (Veo, 25-oct) · 
 - [x] con4-14 (Veo, 25-oct) · 
-- [ ] con4-17 · 
+- [x] con4-17 (Gemini, 26-oct) · 
 - [x] con4-3 (Veo, 25-oct) · 
 - [x] con4-7 (Veo, 25-oct) · 
 - [x] con4-13 (Veo, 25-oct) · 
