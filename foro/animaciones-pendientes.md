@@ -22,7 +22,7 @@ Veo no supo animarlas sin cambiar el dibujo. Todas las demás láminas ya tienen
 2. ✓ con4-17 · 1968: juventud, música y protesta
 3. ✓ con5-5 · Y mientras tanto…
 4. ✓ des-malaspina · La expedición Malaspina (1789-1794)
-5. des-mesiniense · Cuando el Mediterráneo era un desierto de sal
+5. ✓ des-mesiniense · Cuando el Mediterráneo era un desierto de sal
 6. des-polvo-estrellas · Polvo de estrellas: de dónde viene cada átomo de tu cuerpo
 7. des-rev1789 · 1789: el año que cambió Francia
 8. des-scrovegni · La Capilla de los Scrovegni
@@ -74,7 +74,7 @@ Veo no supo animarlas sin cambiar el dibujo. Todas las demás láminas ya tienen
 - [x] des-antequera (Veo, 25-oct) · Antequera: Menga, Viera y El Romeral
 - [x] des-argar (Veo, 25-oct) · La Bastida de Totana
 - [x] des-bola-nieve (Veo, 25-oct) · La Tierra bola de nieve
-- [ ] des-mesiniense · Cuando el Mediterráneo era un desierto de sal
+- [x] des-mesiniense (Gemini, 26-oct) · Cuando el Mediterráneo era un desierto de sal
 - [x] des-mohenjo (Gemini, 25-oct) · Un paseo por Mohenjo-Daro
 - [ ] des-polvo-estrellas · Polvo de estrellas: de dónde viene cada átomo de tu cuerpo
 - [x] des-sistema-solar (Veo, 25-oct) · Cómo nace un sistema solar: del polvo a los planetas
