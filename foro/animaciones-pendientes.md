@@ -21,7 +21,7 @@ Veo no supo animarlas sin cambiar el dibujo. Todas las demás láminas ya tienen
 1. ✓ con4-0 · La Guerra Fría
 2. ✓ con4-17 · 1968: juventud, música y protesta
 3. ✓ con5-5 · Y mientras tanto…
-4. des-malaspina · La expedición Malaspina (1789-1794)
+4. ✓ des-malaspina · La expedición Malaspina (1789-1794)
 5. des-mesiniense · Cuando el Mediterráneo era un desierto de sal
 6. des-polvo-estrellas · Polvo de estrellas: de dónde viene cada átomo de tu cuerpo
 7. des-rev1789 · 1789: el año que cambió Francia
@@ -397,7 +397,7 @@ Veo no supo animarlas sin cambiar el dibujo. Todas las demás láminas ya tienen
 - [x] des-haiti (Veo, 25-oct) · La revolución de Haití (1791-1804)
 - [x] des-luisiana (Veo, 25-oct) · La compra de Luisiana y el viaje de Lewis y Clark (1803-1806)
 - [x] des-humboldt (Veo, 25-oct) · El viaje de Humboldt por América (1799-1804)
-- [ ] des-malaspina · La expedición Malaspina (1789-1794)
+- [x] des-malaspina (Gemini, 26-oct) · La expedición Malaspina (1789-1794)
 - [x] des-balmis (Veo, 25-oct) · La Real Expedición Filantrópica de la Vacuna (1803-1806)
 - [x] con-1808-0 (Veo, 25-oct) · El mundo entre 1808 y 1830: imperios que caen, naciones que nacen y máquinas de vapor
 - [x] con-1808-es (Veo, 25-oct) · España entre 1808 y 1830: de la guerra de la Independencia a la Década Ominosa
