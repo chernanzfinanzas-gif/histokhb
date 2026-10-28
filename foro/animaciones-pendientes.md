@@ -28,7 +28,7 @@ Veo no supo animarlas sin cambiar el dibujo. Todas las demás láminas ya tienen
 8. ✓ des-scrovegni · La Capilla de los Scrovegni (28-oct)
 9. ✓ des-terracota · Los guerreros de terracota (28-oct)
 10. ✓ med3-11 · El Cid, entre la historia y el cantar (28-oct)
-11. med3-17 · Cahokia, la ciudad del Misisipi
+11. ✓ med3-17 · Cahokia, la ciudad del Misisipi (28-oct)
 12. med4-13 · El final de los templarios
 13. mod1-1 · La primera vuelta al mundo
 14. mod1-16 · Japón en guerra y los primeros europeos
