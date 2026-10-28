@@ -31,7 +31,7 @@ Veo no supo animarlas sin cambiar el dibujo. Todas las demás láminas ya tienen
 11. ✓ med3-17 · Cahokia, la ciudad del Misisipi (28-oct)
 12. ✓ med4-13 · El final de los templarios (28-oct)
 13. ✓ mod1-1 · La primera vuelta al mundo (28-oct)
-14. mod1-16 · Japón en guerra y los primeros europeos
+14. ✓ mod1-16 · Japón en guerra y los primeros europeos (28-oct, recortado a 3,5 s en ida y vuelta: luego el sacerdote se fundía con el samurái)
 15. mod2-15 · Galileo
 16. mod3-17 · Nueva Francia y los pueblos de los Grandes Lagos
 17. mod4-16 · Junípero Serra y las misiones de California
