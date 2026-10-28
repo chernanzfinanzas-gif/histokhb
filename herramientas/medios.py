@@ -42,7 +42,7 @@ def subir(rutas):
     wt = tempfile.mkdtemp(prefix='buzon-')
     hay = sh('git', 'ls-remote', '--heads', 'origin', RAMA).stdout.strip()
     if hay:
-        sh('git', 'fetch', '-q', '--depth', '1', 'origin', f'{RAMA}:refs/remotes/origin/{RAMA}')
+        sh('git', 'fetch', '-q', '--depth', '1', 'origin', f'+{RAMA}:refs/remotes/origin/{RAMA}')
         sh('git', 'worktree', 'add', '-q', '--detach', wt, f'origin/{RAMA}')
     else:
         sh('git', 'worktree', 'add', '-q', '--detach', wt)

@@ -26,7 +26,7 @@ Veo no supo animarlas sin cambiar el dibujo. Todas las demás láminas ya tienen
 6. des-polvo-estrellas · Polvo de estrellas: de dónde viene cada átomo de tu cuerpo — REPETIR (la actual tiene un cangrejo)
 7. ✓ des-rev1789 · 1789: el año que cambió Francia (28-oct, 2.º intento: el 1.º redibujó y puso la tricolor sobre la Bastilla)
 8. ✓ des-scrovegni · La Capilla de los Scrovegni (28-oct)
-9. des-terracota · Los guerreros de terracota
+9. ✓ des-terracota · Los guerreros de terracota (28-oct)
 10. med3-11 · El Cid, entre la historia y el cantar
 11. med3-17 · Cahokia, la ciudad del Misisipi
 12. med4-13 · El final de los templarios
