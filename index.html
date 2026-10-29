@@ -162,6 +162,7 @@ body.sec-scr{--barra:43px}
 .seg button{border:0;background:none;padding:8px 2px;font-family:var(--f-head);font-weight:600;font-size:14px}
 .seg button+button{border-left:1.5px solid var(--line)}
 .seg button.on{background:var(--accent);color:#fff}
+.audpend{margin:6px 0 12px;padding:10px 12px;border-radius:12px;background:#f1f4f8;border:1px dashed var(--line);color:var(--muted);font-size:14px}
 .seg.dver{grid-template-columns:repeat(2,1fr);margin:4px 0 10px}
 .sh-body{max-width:640px;margin:0 auto;padding:0 18px 110px}
 .sh-illo{margin:0 -18px 14px;max-height:260px;overflow:hidden;background:#eee}
@@ -1064,6 +1065,7 @@ async function audioUI(k,f,lv){lv=lv||LV;
  const M=await audMan(); const a=(M.fichas||{})[k]||M[k]; if(!CUR||CUR.key!==k)return;
  const id=k+'|'+lv; if(PL.dataset.k&&PL.dataset.k!==id)stopAud(); SY=null;
  if(!(PL.dataset.k===id&&PL.getAttribute('src')))$('#sheet').classList.remove('aud-on');
+ if(lv==='dg'&&!(a&&a.dg)){const rt=$('#shBody .rt'); if(rt&&!$('#audPend'))rt.insertAdjacentHTML('afterend','<div class="audpend" id="audPend">🔊 Audio pendiente: pronto podrás escuchar este resumen.</div>');}
  if(!a)return; const b=$('#shBody');
  const calm=(navigator.connection&&navigator.connection.saveData)||matchMedia('(prefers-reduced-motion: reduce)').matches;
  if(a.viva&&lv!=='n'&&!calm){const il=b.querySelector('.sh-illo'); const cont=LS.get('hk_ajustes',{}).anim==='cont';
