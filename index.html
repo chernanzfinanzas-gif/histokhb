@@ -128,6 +128,7 @@ body.sec-scr .cerrar-scr{display:block}
 .seg button{border:0;background:none;padding:8px 2px;font-family:var(--f-head);font-weight:600;font-size:14px}
 .seg button+button{border-left:1.5px solid var(--line)}
 .seg button.on{background:var(--accent);color:#fff}
+.seg.dver{grid-template-columns:repeat(2,1fr);margin:4px 0 10px}
 .sh-body{max-width:640px;margin:0 auto;padding:0 18px 110px}
 .sh-illo{margin:0 -18px 14px;max-height:260px;overflow:hidden;background:#eee}
 .sh-illo svg,.sh-illo img{width:100%;height:auto;max-height:260px;display:block;object-fit:cover}
@@ -682,6 +683,7 @@ let IDX=null, SINC=null, LUG=null, BUS=null, MONI=null, DESA=null;
 function monIdx(){if(MONI||!LUG)return MONI;MONI={};LUG.lugares.forEach(l=>{if(l.tipo!=='yacimiento'||l.anio==null)return;const r=(l.regiones_sincronia||[])[0];if(!r)return;const o=MONI[r]=MONI[r]||{};(o[l.anio]=o[l.anio]||[]).push(l);});return MONI;}
 const TXT={}, DET={};
 let LV=LS.get('hk_nivel','g');
+let DVER=null; // versión del desarrollo elegida a mano: 'g' resumen, 'p' completo
 function fy(y){return y<0?(-y).toLocaleString('es-ES')+' a.C.':String(y);}
 function strip(h){const d=document.createElement('div');d.innerHTML=h||'';return d.textContent;}
 function mins(h){return Math.max(1,Math.round(strip(h).split(/\s+/).length/200));}
@@ -932,7 +934,7 @@ function setupCapbar(caps){
 // ---------- hoja de ficha ----------
 let CUR=null;
 async function openSheet(kind,key){
- CUR={kind,key}; const sh=$('#sheet');
+ CUR={kind,key}; DVER=null; const sh=$('#sheet');
  sh.classList.add('open'); document.body.style.overflow='hidden';
  $('#shBody').innerHTML='<p class="empty-st">Cargando…</p>'; $('#shFoot').innerHTML='';
  await renderSheet(); sh.scrollTo(0,0);
@@ -1025,7 +1027,7 @@ async function audioUI(k,f,lv){lv=lv||LV;
   if(il){il.classList.add('con-video');il.innerHTML=`<video src="${a.viva}" ${f.lam?`poster="${f.lam}"`:''} autoplay muted playsinline ${cont?'loop':''} preload="metadata" aria-label="${esc(f.t)}"></video><button class="vloop${cont?' on':''}" type="button" onclick="vLoop(this)" aria-pressed="${cont}">🔁 Reprod. continua</button>`;}}
  if(a[lv]){const rt=b.querySelector('.rt'); if(!rt)return;
   rt.insertAdjacentHTML('afterend',`<div class="audbox" id="audBox"><div class="audrow"><button class="escuchar" id="btnAud" data-k="${id}" data-src="audio/${k}-${lv}.mp3" data-d="${a[lv]}" data-t="${esc(f.t)}" data-l="${f.lam||''}" onclick="audToggle()"><span class="ico">🔊</span><span class="lb">Escuchar</span><span class="bar" onclick="audBar(event)"><i></i></span><span class="tm"></span></button></div><div class="audctl"><button onclick="audRestart()" aria-label="Desde el principio">⟲ Inicio</button><button onclick="audSeek(-30)" aria-label="Atrasar 30 segundos">−30 s</button><button onclick="audSeek(30)" aria-label="Adelantar 30 segundos">+30 s</button><button onclick="stopAud()" aria-label="Parar">■ Parar</button></div></div>`);
-  audSyncBuild(id,b.querySelector('.txt'),lv==='d'?(f.t||'').length+26:0);
+  audSyncBuild(id,b.querySelector('.txt'),(lv==='d'||lv==='dg')?(f.t||'').length+26:0);
   if(PL.dataset.k===id&&PL.getAttribute('src'))audDock(true);
   audPaint();}
 }
@@ -1065,8 +1067,12 @@ async function renderSheet(){
   if(!DESA)DESA=await getJ('desarrollos.json').catch(()=>({}));
   const d=DESA[CUR.key]; if(!d){b.innerHTML='<p class="empty-st">Este tema no existe.</p>';return;}
   $('#shTtl').textContent=d.t; $('#seg').classList.add('hide');
-  b.innerHTML=(d.lam?`<div class="sh-illo"><img src="${d.lam}" alt="" loading="lazy"></div>`:'<div style="height:16px"></div>')+`<div class="sh-head"><div><div class="d">📖 Desarrollo del tema · ${esc(d.d)}</div><h2>${esc(d.t)}</h2></div></div><div class="rt">⏱ ${mins(d.h)} min de lectura</div><div class="txt">${d.h}</div>`;
-  await audioUI(CUR.key,{t:d.t,lam:d.lam},'d'); if(!CUR||CUR.kind!=='d')return;
+  // Resumen (hg) y Completo (h): el resumen por defecto en Niños/General, el completo en Profundo
+  const corto=!!d.hg&&(DVER==='g'||(DVER==null&&LV!=='p')); const H=corto?d.hg:d.h;
+  b.innerHTML=(d.lam?`<div class="sh-illo"><img src="${d.lam}" alt="" loading="lazy"></div>`:'<div style="height:16px"></div>')+`<div class="sh-head"><div><div class="d">📖 Desarrollo del tema · ${esc(d.d)}</div><h2>${esc(d.t)}</h2></div></div>`+
+   (d.hg?`<div class="seg dver"><button class="${corto?'on':''}" onclick="DVER='g';renderSheet()">📘 Resumen · ${mins(d.hg)} min</button><button class="${corto?'':'on'}" onclick="DVER='p';renderSheet()">🎓 Completo · ${mins(d.h)} min</button></div>`:'')+
+   `<div class="rt">⏱ ${mins(H)} min de lectura</div><div class="txt">${H}</div>`;
+  await audioUI(CUR.key,{t:d.t,lam:d.lam},corto?'dg':'d'); if(!CUR||CUR.kind!=='d')return;
   if(d.sk&&d.sk.length){await sinc(); b.insertAdjacentHTML('beforeend',`<div class="sec-t">📅 Relacionado en la sincronía</div>`+d.sk.map(key=>{const r=key.slice(0,key.lastIndexOf('|')),y=+key.split('|').pop();const e=(SINC.ev[r]||[]).find(e=>e[0]===y);return `<button class="lugar" onclick="go('#/s/${encodeURIComponent(key)}')"><div class="lk">📅 ${fy(y)} · ${esc(rn(r))}${e&&e[3]===2?'<span class="bio">biografía</span>':''}</div><h3>${esc(e?e[1]:rn(r))}</h3></button>`;}).join(''));}
   ft.innerHTML=`<button class="pri" onclick="history.back()">‹ Volver a la ficha</button>`;
   $('#shWa').href=waLink('📖 '+d.t+'\n\nEn HistoKHB - Historia Total 👉 '+BASE+'#/d/'+CUR.key);
