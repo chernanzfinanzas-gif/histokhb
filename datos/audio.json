@@ -5665,6 +5665,24 @@
   },
   "des-erauso": {
    "viva": "img/vivas/des-erauso.mp4",
+   "viva_tipo": "gemini",
+   "d": 364,
+   "voz_d": "Iapetus",
+   "dg": 153,
+   "voz_dg": "Iapetus"
+  },
+  "des-garbo": {
+   "d": 373,
+   "voz_d": "Gacrux",
+   "dg": 146,
+   "voz_dg": "Gacrux"
+  },
+  "des-baler": {
+   "d": 397,
+   "voz_d": "Aoede",
+   "dg": 140,
+   "voz_dg": "Aoede",
+   "viva": "img/vivas/des-baler.mp4",
    "viva_tipo": "gemini"
   }
  }
