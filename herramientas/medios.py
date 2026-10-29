@@ -28,10 +28,10 @@ def md5(p):
     with open(p, 'rb') as f:
         for b in iter(lambda: f.read(1 << 20), b''): h.update(b)
     return h.hexdigest()
-def es_medio(p): return (p.startswith('audio/') and p.endswith('.mp3')) or (p.startswith('img/vivas/') and p.endswith('.mp4'))
+def es_medio(p): return (p.startswith('audio/') and p.endswith('.mp3')) or (p.startswith('img/vivas/') and p.endswith('.mp4')) or (p.startswith('sonidos/') and p.endswith('.mp3'))
 
 def subir(rutas):
-    rutas = rutas or sorted(os.path.relpath(p, R) for p in glob.glob(os.path.join(R, 'audio', '*.mp3')) + glob.glob(os.path.join(R, 'img', 'vivas', '*.mp4')))
+    rutas = rutas or sorted(os.path.relpath(p, R) for p in glob.glob(os.path.join(R, 'audio', '*.mp3')) + glob.glob(os.path.join(R, 'img', 'vivas', '*.mp4')) + glob.glob(os.path.join(R, 'sonidos', '*.mp3')))
     rutas = [r.replace('\\', '/') for r in rutas]
     malas = [r for r in rutas if not es_medio(r) or not os.path.isfile(os.path.join(R, r))]
     if malas: sys.exit('No son audios/vídeos de la app o no existen: ' + ', '.join(malas))

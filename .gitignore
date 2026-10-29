@@ -3,3 +3,4 @@ api/config.php
 # Audios y vídeos: viven en el hosting y en el PC (Historia Universal\Multimedia), no aquí. Ver herramientas/medios.py
 audio/*.mp3
 img/vivas/*.mp4
+sonidos/*.mp3
