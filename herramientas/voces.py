@@ -102,7 +102,8 @@ if __name__=='__main__':
                 own=[k for k,v in T.items() if 'd/'+dk in (v.get('p') or '')+(v.get('n') or '')]
                 if own: voz=orden_voz(own[0]); break
             voz=J('datos/audio.json').get('fichas',{}).get(dk,{}).get('voz_d') or voz
-            jobs.append((dk,'d',D[dk]['h'],voz,'32k',D[dk]['t']))
+            if 'd' in os.environ.get('DES_NIVELES','d,dg').split(','): jobs.append((dk,'d',D[dk]['h'],voz,'32k',D[dk]['t']))
+            if D[dk].get('hg') and 'dg' in os.environ.get('DES_NIVELES','d,dg').split(','): jobs.append((dk,'dg',D[dk]['hg'],voz,'32k',D[dk]['t']))
     res={}
     def run(j):
         d=genera(*j)
