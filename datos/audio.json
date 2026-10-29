@@ -717,7 +717,9 @@
   "des-materia-oscura": {
    "d": 359,
    "voz_d": "Aoede",
-   "viva": "img/vivas/des-materia-oscura.mp4"
+   "viva": "img/vivas/des-materia-oscura.mp4",
+   "dg": 177,
+   "voz_dg": "Aoede"
   },
   "des-webb": {
    "d": 377,
@@ -959,7 +961,9 @@
    "viva": "img/vivas/des-sistema-solar.mp4",
    "d": 392,
    "voz_d": "Aoede",
-   "viva_tipo": "veo"
+   "viva_tipo": "veo",
+   "dg": 176,
+   "voz_dg": "Aoede"
   },
   "paleolitico-13": {
    "viva": "img/vivas/paleolitico-13.mp4",
@@ -1845,7 +1849,9 @@
    "viva": "img/vivas/des-guarrazar.mp4",
    "viva_tipo": "veo",
    "d": 374,
-   "voz_d": "Leda"
+   "voz_d": "Leda",
+   "dg": 144,
+   "voz_dg": "Leda"
   },
   "des-sutton-hoo": {
    "viva": "img/vivas/des-sutton-hoo.mp4",
@@ -3077,7 +3083,9 @@
    "viva": "img/vivas/des-zimbabue.mp4",
    "viva_tipo": "veo",
    "d": 333,
-   "voz_d": "Despina"
+   "voz_d": "Despina",
+   "dg": 155,
+   "voz_dg": "Despina"
   },
   "med4-0": {
    "viva": "img/vivas/med4-0.mp4",
@@ -3649,7 +3657,9 @@
    "viva": "img/vivas/des-isfahan.mp4",
    "viva_tipo": "veo",
    "d": 357,
-   "voz_d": "Vindemiatrix"
+   "voz_d": "Vindemiatrix",
+   "dg": 145,
+   "voz_dg": "Vindemiatrix"
   },
   "des-escorial": {
    "viva": "img/vivas/des-escorial.mp4",
