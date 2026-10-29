@@ -743,7 +743,9 @@ if('serviceWorker' in navigator){const hadSW=!!navigator.serviceWorker.controlle
 let lastScreen=null, lastRoute=null;
 const SECUND=['novedades','semana','favs','ajustes','calendario','mundo','aqui'];
 let ORIGEN={}; // pantalla desde la que se entró en cada pantalla secundaria (para «✕ Cerrar»)
-function cerrarScr(){const k=(location.hash.replace(/^#\/?/,'').split('/')[0])||'';go(ORIGEN[k]||'#/');}
+let ALTURA={}, VOLVER_A=null; // altura de la página de cada pantalla, para volver al mismo sitio
+function cerrarScr(){const k=(location.hash.replace(/^#\/?/,'').split('/')[0])||'';const d=ORIGEN[k]||'#/';VOLVER_A=d;go(d);}
+function restaurarAltura(){if(VOLVER_A==null||(location.hash||'#/')!==VOLVER_A)return;const y=ALTURA[VOLVER_A]||0;VOLVER_A=null;[0,80,250,600].forEach(ms=>setTimeout(()=>window.scrollTo(0,y),ms));}
 function show(id){document.body.classList.toggle('sec-scr',SECUND.includes(id));const cb=document.querySelector('.cerrar-scr');if(cb){cb.textContent='✕ Cerrar';cb.onclick=cerrarScr;}document.querySelectorAll('.scr').forEach(s=>s.classList.toggle('on',s.id==='s-'+id));document.querySelectorAll('#nav a').forEach(a=>a.classList.toggle('on',a.dataset.n===id||(id==='favs'&&a.dataset.n==='inicio')));}
 const ALIAS={'con1-0':'con-1789-eu','con1-1':'con-1808-eu','con1-2':'con-1808-eu','con1-3':'con-1808-am','con1-5':'con-1808-es'};
 function route(){
@@ -760,10 +762,10 @@ function route(){
    openSheet(k,p.slice(1).join('/')); return;
  }
  if($('#sheet').classList.contains('open')&&lastScreen&&(location.hash||'#/')===lastRoute){closeSheetUI();sheetBase=null;return;} // volver a la pantalla de debajo tal como estaba
- closeSheetUI(); sheetBase=null;
+ closeSheetUI(); sheetBase=null; if(lastRoute)ALTURA[lastRoute]=window.scrollY;
  {const kN=(location.hash.replace(/^#\/?/,'').split('/')[0])||'', kV=((lastRoute||'').replace(/^#\/?/,'').split('/')[0])||''; if(lastRoute&&kN!==kV&&SECUND.includes(kN))ORIGEN[kN]=lastRoute;}
  lastRoute=location.hash||'#/'; try{sessionStorage.setItem('hk_base',lastRoute);}catch(e){}
- screen(p);
+ screen(p); restaurarAltura();
 }
 function screen(p){ const k=p[0]||'';
  if(k===''){renderInicio();}
