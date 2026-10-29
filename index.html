@@ -184,6 +184,9 @@ body.sec-scr{--barra:43px}
 .audrow .escuchar{margin:0;flex:1;min-width:0}
 .audctl{display:none;gap:6px;margin-top:6px}
 .audbox.act .audctl{display:flex}
+.audscr{display:none;width:100%;margin-top:6px;border:0;background:transparent;color:var(--muted);font:600 12.5px/1.3 var(--f-body,system-ui);padding:4px;text-align:center;cursor:pointer}
+.audbox.act .audscr{display:block}
+.audscr b{color:var(--era,var(--accent))}
 .audctl button{flex:1;border:1.5px solid var(--era,var(--accent));background:#fff;color:var(--era,var(--accent));border-radius:12px;padding:7px 4px;font-family:var(--f-head);font-weight:600;font-size:14px;cursor:pointer}
 .escuchar .bar{cursor:pointer}
 .aud-on .sh-illo{position:sticky;top:var(--shtop,104px);z-index:3}
@@ -588,6 +591,9 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <div class="rbtns" id="ajFuentes" style="flex-wrap:wrap"></div>
   <h2 style="margin-top:18px">🔍 Tamaño del texto</h2>
   <div class="rbtns" id="ajTamanos" style="flex-wrap:wrap"></div>
+  <h2 style="margin-top:18px">📱 Pantalla al escuchar</h2>
+  <div class="rbtns" id="ajPant" style="flex-wrap:wrap"></div>
+  <p style="margin:6px 0 0;font-size:13px;color:var(--muted)">«Encendida»: ves el texto avanzar con la voz. «Que se apague»: ahorras batería y el audio sigue sonando; lo controlas desde la pantalla de bloqueo.</p>
   <h2 style="margin-top:18px">🎬 Láminas animadas</h2>
   <div class="rbtns" id="ajAnim" style="flex-wrap:wrap"></div>
   <p style="margin:6px 0 0;font-size:13px;color:var(--muted)">«Una vez»: se mueve 8 segundos y se queda quieta. «Continua»: se repite sin parar. Con «🔇 Sonido» oyes el ambiente de cada lámina.</p>
@@ -705,6 +711,7 @@ function renderAjustes(){
  $('#ajPaletas').innerHTML=PALETAS.map(p=>`<button class="btn ${p.id===a.pal?'':'sec'}" style="flex:0 0 auto" onclick="LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),pal:'${p.id}'});aplicaAjustes();syncPush();renderAjustes()"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:${p.accent};margin-right:6px;vertical-align:-1px"></span>${p.nombre}</button>`).join('');
  $('#ajFuentes').innerHTML=FUENTES.map(f=>`<button class="btn ${f.id===a.fon?'':'sec'}" style="flex:0 0 auto;font-family:${f.head}" onclick="LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),fon:'${f.id}'});aplicaAjustes();syncPush();renderAjustes()">${f.nombre}</button>`).join('');
  $('#ajTamanos').innerHTML=TAMANOS.map(t=>`<button class="btn ${t.id===a.tam?'':'sec'}" style="flex:0 0 auto" onclick="LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),tam:'${t.id}'});aplicaAjustes();syncPush();renderAjustes()">${t.nombre}</button>`).join('');
+ $('#ajPant').innerHTML=[['on','☀️ Encendida'],['off','🌙 Que se apague']].map(([id,n])=>`<button class="btn ${(a.pant||'on')===id?'':'sec'}" style="flex:0 0 auto" onclick="pantSet('${id}')">${n}</button>`).join('');
  $('#ajAnim').innerHTML=[['una','Una vez'],['cont','Reproducción continua']].map(([id,n])=>`<button class="btn ${(a.anim||'una')===id?'':'sec'}" style="flex:0 0 auto" onclick="LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),anim:'${id}'});syncPush();renderAjustes()">${n}</button>`).join('');
  let cod=null; try{cod=localStorage.getItem('hk_codigo');}catch(e){}
  $('#ajCodVal').textContent=cod||'(aún no se ha creado)';
@@ -1030,6 +1037,20 @@ function vSon(b){if(AMB.length){ambStop();return;}let ids=[];try{ids=JSON.parse(
  AMB=ids.map(id=>{const a=new Audio('sonidos/'+id+'.mp3');a.loop=true;return a;});ambVol();AMB.forEach(a=>a.play().catch(()=>{}));
  b.classList.add('on');b.textContent='🔊 Sonido';b.setAttribute('aria-pressed','true');}
 ['play','pause','ended'].forEach(ev=>PL.addEventListener(ev,ambVol));
+// pantalla al escuchar: encendida (por defecto) o que se apague sola; el audio sigue sonando con la pantalla apagada
+let WL=null; const pantOn=()=>(LS.get('hk_ajustes',{}).pant||'on')==='on';
+async function pantSync(){const quiere=pantOn()&&PL.getAttribute('src')&&!PL.paused&&document.visibilityState==='visible';
+ if(quiere&&!WL&&navigator.wakeLock){try{WL=await navigator.wakeLock.request('screen'); WL.addEventListener('release',()=>{WL=null;});}catch(e){WL=null;}}
+ else if(!quiere&&WL){try{await WL.release();}catch(e){} WL=null;}}
+function pantPaint(){const b=$('#audScr'); if(b)b.innerHTML=pantOn()?'☀️ La pantalla <b>se queda encendida</b> mientras escuchas · <u>cambiar</u>':'🌙 La pantalla <b>se apaga sola</b> y el audio sigue · <u>cambiar</u>'; if($('#ajPant'))renderAjustes();}
+function pantSet(v){LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),pant:v}); syncPush(); pantSync(); pantPaint();}
+function pantToggle(){pantSet(pantOn()?'off':'on');}
+['play','pause','ended'].forEach(ev=>PL.addEventListener(ev,pantSync)); document.addEventListener('visibilitychange',pantSync);
+// controles en la pantalla de bloqueo
+if('mediaSession' in navigator){const ms=navigator.mediaSession,h=(a,f)=>{try{ms.setActionHandler(a,f);}catch(e){}};
+ h('play',()=>PL.play().catch(()=>{})); h('pause',()=>PL.pause());
+ h('seekbackward',d=>{PL.currentTime=Math.max(0,PL.currentTime-((d&&d.seekOffset)||30));});
+ h('seekforward',d=>{PL.currentTime=Math.min((PL.duration||0)-1,PL.currentTime+((d&&d.seekOffset)||30));});}
 // 🔁 Reprod. continua: la animación se repite; si suena la narración, hasta que esta termina
 function vLoop(b){const v=b.parentNode.querySelector('video'); if(!v)return; const on=!v.loop; v.loop=on;
  b.classList.toggle('on',on); b.setAttribute('aria-pressed',String(on));
@@ -1087,7 +1108,7 @@ async function audioUI(k,f,lv){lv=lv||LV; ambStop();
  if(a.viva&&lv!=='n'&&!calm){const il=b.querySelector('.sh-illo'); const cont=LS.get('hk_ajustes',{}).anim==='cont';
   if(il){il.classList.add('con-video');il.innerHTML=`<video src="${a.viva}" ${f.lam?`poster="${f.lam}"`:''} autoplay muted playsinline ${cont?'loop':''} preload="metadata" aria-label="${esc(f.t)}"></video><button class="vloop${cont?' on':''}" type="button" onclick="vLoop(this)" aria-pressed="${cont}">🔁 Reprod. continua</button>${a.son&&a.son.length?`<button class="vson" type="button" onclick="vSon(this)" data-son='${JSON.stringify(a.son)}' aria-pressed="false">🔇 Sonido</button>`:''}`;}}
  if(a[lv]){const rt=b.querySelector('.rt'); if(!rt)return;
-  rt.insertAdjacentHTML('afterend',`<div class="audbox" id="audBox"><div class="audrow"><button class="escuchar" id="btnAud" data-k="${id}" data-src="audio/${k}-${lv}.mp3" data-d="${a[lv]}" data-t="${esc(f.t)}" data-l="${f.lam||''}" onclick="audToggle()"><span class="ico">🔊</span><span class="lb">Escuchar</span><span class="bar" onclick="audBar(event)"><i></i></span><span class="tm"></span></button></div><div class="audctl"><button onclick="audRestart()" aria-label="Desde el principio">⟲ Inicio</button><button onclick="audSeek(-30)" aria-label="Atrasar 30 segundos">−30 s</button><button onclick="audSeek(30)" aria-label="Adelantar 30 segundos">+30 s</button><button onclick="stopAud()" aria-label="Parar">■ Parar</button></div></div>`);
+  rt.insertAdjacentHTML('afterend',`<div class="audbox" id="audBox"><div class="audrow"><button class="escuchar" id="btnAud" data-k="${id}" data-src="audio/${k}-${lv}.mp3" data-d="${a[lv]}" data-t="${esc(f.t)}" data-l="${f.lam||''}" onclick="audToggle()"><span class="ico">🔊</span><span class="lb">Escuchar</span><span class="bar" onclick="audBar(event)"><i></i></span><span class="tm"></span></button></div><div class="audctl"><button onclick="audRestart()" aria-label="Desde el principio">⟲ Inicio</button><button onclick="audSeek(-30)" aria-label="Atrasar 30 segundos">−30 s</button><button onclick="audSeek(30)" aria-label="Adelantar 30 segundos">+30 s</button><button onclick="stopAud()" aria-label="Parar">■ Parar</button></div><button class="audscr" id="audScr" onclick="pantToggle()"></button></div>`); pantPaint();
   const SQ=await sincro(); if(!CUR||CUR.key!==k)return; audSyncBuild(id,b.querySelector('.txt'),(lv==='d'||lv==='dg')?(f.t||'').length+26:0,SQ[k+'|'+lv]);
   if(PL.dataset.k===id&&PL.getAttribute('src'))audDock(true);
   audPaint();}
