@@ -36,7 +36,8 @@ a{color:inherit}
 .calrej{display:grid;gap:5px}.calrej.n0{grid-template-columns:repeat(4,1fr)}.calrej.n1{grid-template-columns:repeat(7,1fr)}.calrej.n2{grid-template-columns:repeat(6,1fr)}.calrej.n3,.calrej.n4{grid-template-columns:repeat(6,1fr)}
 .caldow{text-align:center;font-size:11px;color:var(--muted);font-weight:700}
 .calc{position:relative;border:1px solid var(--line);border-radius:10px;background:#fff;min-height:48px;padding:5px;display:flex;flex-direction:column;align-items:flex-start;justify-content:space-between;font:inherit;color:var(--ink)}
-.calrej.n0 .calc{min-height:64px}.calc.dic{grid-column:1/-1;min-height:84px}.calc.dic .ce{font-size:18px}
+.calrej.n0{grid-template-columns:repeat(3,1fr)}.calrej.n0 .calc{min-height:72px}.calrej.n0 .ce{font:700 17px var(--f-head);color:var(--ink)}.calrej.n0 .calc.con .ce,.calrej.n0 .calc.osc .ce{color:inherit}.calrej.n0 b small{font:600 12px var(--f-body,inherit)}.calrej.n0 b.cero{font:500 12px var(--f-body,inherit);color:var(--muted)}
+.calc.dic{grid-column:1/-1;min-height:92px}.calrej.n0 .calc.dic .ce{font-size:24px}.calrej.n0 .calc.dic b{font-size:22px}
 .calc .ce{font-size:12px;color:var(--muted);text-transform:capitalize}.calc b{font:700 16px var(--f-head);align-self:flex-end}
 .calc.con{cursor:pointer;background:color-mix(in srgb,var(--accent) calc(var(--a)*100%),#fff);border-color:var(--accent)}.calc.con .ce{color:inherit}
 .calc.osc{color:#fff}.calc[aria-pressed="true"]{outline:3px solid var(--ink);outline-offset:1px}
@@ -425,7 +426,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 @media(max-width:480px){.brand{display:grid;grid-template-columns:auto auto;grid-template-rows:auto auto;column-gap:7px;align-items:center}.brand .brlogo{grid-row:1/3;width:36px;height:36px;margin:0}.brand .brand2{grid-column:2}}
 </style></head>
 <body>
-<button class="cerrar-scr" type="button" onclick="go('#/')" aria-label="Cerrar y volver al inicio">✕ Cerrar</button>
+<button class="cerrar-scr" type="button" aria-label="Cerrar y volver al inicio">✕ Cerrar</button>
 <header class="top">
  <a class="brand" href="#/"><img class="brlogo" src="img/logo-concha.png" alt="" width="34" height="34"><span>Histo<b>KHB</b></span><span class="brand2"><span class="brsep"> - </span>Historia Total</span></a>
  <div class="sp"></div>
@@ -741,7 +742,7 @@ if('serviceWorker' in navigator){const hadSW=!!navigator.serviceWorker.controlle
 // ---------- rutas ----------
 let lastScreen=null, lastRoute=null;
 const SECUND=['novedades','semana','favs','ajustes','calendario'];
-function show(id){document.body.classList.toggle('sec-scr',SECUND.includes(id));document.querySelectorAll('.scr').forEach(s=>s.classList.toggle('on',s.id==='s-'+id));document.querySelectorAll('#nav a').forEach(a=>a.classList.toggle('on',a.dataset.n===id||(id==='favs'&&a.dataset.n==='inicio')));}
+function show(id){document.body.classList.toggle('sec-scr',SECUND.includes(id));const cb=document.querySelector('.cerrar-scr');if(cb){cb.textContent='✕ Cerrar';cb.onclick=()=>go('#/');}document.querySelectorAll('.scr').forEach(s=>s.classList.toggle('on',s.id==='s-'+id));document.querySelectorAll('#nav a').forEach(a=>a.classList.toggle('on',a.dataset.n===id||(id==='favs'&&a.dataset.n==='inicio')));}
 const ALIAS={'con1-0':'con-1789-eu','con1-1':'con-1808-eu','con1-2':'con-1808-eu','con1-3':'con-1808-am','con1-5':'con-1808-es'};
 function route(){
  if(!IDX)return;
@@ -1614,7 +1615,7 @@ let CALV={n:0,ini:0};
 const CALDOW=['L','M','X','J','V','S','D'];
 function calIni(m){let s=0;for(let i=0;i<m;i++)s+=MDIAS[i]*86400;return s;}
 function calSub(v){ // casillas del nivel: [{ini,fin,etq,sub}]
- if(v.n===0)return MESES.map((n,i)=>({ini:calIni(i),fin:calIni(i)+MDIAS[i]*86400,etq:n.slice(0,3),big:i===11}));
+ if(v.n===0)return MESES.map((n,i)=>({ini:calIni(i),fin:calIni(i)+MDIAS[i]*86400,etq:n,big:i===11}));
  if(v.n===1){const m=calFecha(v.ini).m;return Array.from({length:MDIAS[m]},(_,d)=>({ini:v.ini+d*86400,fin:v.ini+(d+1)*86400,etq:String(d+1)}));}
  const paso=v.n===2?3600:v.n===3?60:1, n=v.n===2?24:60;
  return Array.from({length:n},(_,k)=>({ini:v.ini+k*paso,fin:v.ini+(k+1)*paso,etq:v.n===2?k+' h':v.n===3?':'+p2(k):':'+p2(k)}));}
@@ -1635,13 +1636,14 @@ async function renderCal(mantener){lastScreen='calendario';show('calendario'); i
  let rejilla='';
  if(v.n===1){const dow=(new Date(2025,calFecha(v.ini).m,1).getDay()+6)%7; rejilla=CALDOW.map(d=>`<div class="caldow">${d}</div>`).join('')+'<div></div>'.repeat(dow);}
  rejilla+=cas.map((c,k)=>{const n=cnt(c);const a=n?0.15+0.85*Math.sqrt(n/mx):0;
-  return `<button class="calc${n?' con':''}${a>0.55?' osc':''}${c.big?' dic':''}" ${n?(v.n===4?`onclick="CALV.sel=${c.ini};renderCal(true)"`:`onclick="calIr(${v.n+1},${c.ini})"`):'disabled'}${v.sel===c.ini?' aria-pressed="true"':''} style="--a:${a.toFixed(2)}"><span class="ce">${c.etq}</span>${n?`<b>${n}</b>`:''}</button>`;}).join('');
+  return `<button class="calc${n?' con':''}${a>0.55?' osc':''}${c.big?' dic':''}" ${n?(v.n===4?`onclick="CALV.sel=${c.ini};renderCal(true)"`:`onclick="calIr(${v.n+1},${c.ini})"`):'disabled'}${v.sel===c.ini?' aria-pressed="true"':''} style="--a:${a.toFixed(2)}"><span class="ce">${c.etq}</span>${n?`<b>${n}${v.n===0?` <small>${n>1?'eventos':'evento'}</small>`:''}</b>`:(v.n===0?'<b class="cero">0 eventos</b>':'')}</button>`;}).join('');
  h+=`<div class="calrej n${v.n}">${rejilla}</div>`;
- if(v.n===4&&v.sel!=null){const L=F.filter(x=>x[0]>=v.sel&&x[0]<v.sel+1),c=calFecha(v.sel);h+=`<div class="sec-t">Segundo ${c.h}:${p2(c.mi)}:${p2(c.se)} · ${L.length} ${L.length>1?'historias':'historia'}</div>`+L.map(x=>calItem(x,'seg')).join('');}
- else if(v.n>=1&&dentro.length&&dentro.length<=40) h+=`<div class="sec-t">${dentro.length} ${dentro.length>1?'historias':'historia'}</div>`+dentro.map(x=>calItem(x,v.n<=1?'dia':v.n===2?'hora':'seg')).join('');
- else if(dentro.length>40) h+=`<p class="calnota">${dentro.length} historias. Toca una casilla para ampliar${v.n===0?': casi todo está el 31 de diciembre':''}.</p>`;
+ if(v.n===4&&v.sel!=null){const L=F.filter(x=>x[0]>=v.sel&&x[0]<v.sel+1),c=calFecha(v.sel);h+=`<div class="sec-t">Segundo ${c.h}:${p2(c.mi)}:${p2(c.se)} · ${L.length} ${L.length>1?'eventos':'evento'}</div>`+L.map(x=>calItem(x,'seg')).join('');}
+ else if(v.n>=1&&dentro.length&&dentro.length<=40) h+=`<div class="sec-t">${dentro.length} ${dentro.length>1?'eventos':'evento'}</div>`+dentro.map(x=>calItem(x,v.n<=1?'dia':v.n===2?'hora':'seg')).join('');
+ else if(dentro.length>40) h+=`<p class="calnota">${dentro.length} eventos. Toca una casilla para ampliar${v.n===0?': casi todo está el 31 de diciembre':''}.</p>`;
  else if(!dentro.length) h+=`<p class="empty-st">Aquí no pasa nada que tengamos en la app: el universo seguía formando estrellas y galaxias.</p>`;
- B.innerHTML=h; window.scrollTo({top:0});}
+ B.innerHTML=h; window.scrollTo({top:0});
+ const cb=document.querySelector('.cerrar-scr'); if(cb&&v.n>0){const L=[[0,0],[1,calIni(calFecha(v.ini).m)],[2,Math.floor(v.ini/86400)*86400],[3,Math.floor(v.ini/3600)*3600]][v.n-1];cb.textContent='‹ Volver';cb.onclick=()=>calIr(L[0],L[1]);}}
 
 // ---------- guardados ----------
 function renderFavs(){
