@@ -158,6 +158,9 @@ a{color:inherit}
 .escuchar .bar i{display:block;height:100%;width:0;background:#fff;transition:width .3s linear}
 .escuchar .tm{font-size:13px;opacity:.9;white-space:nowrap}
 .sh-illo video{width:100%;height:auto;max-height:none!important;aspect-ratio:16/9;object-fit:cover;display:block}
+.sh-illo.con-video{position:relative}
+.vloop{position:absolute;right:10px;bottom:10px;border:0;border-radius:999px;padding:7px 12px;font:600 13px/1 var(--f-body,inherit);background:rgba(255,255,255,.88);color:var(--accent);box-shadow:0 1px 4px rgba(0,0,0,.25);cursor:pointer}
+.vloop.on{background:var(--accent);color:#fff}
 .sh-illo:has(video){max-height:none}
 .vista{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;margin:6px 0;border:1.5px solid #3a9a5b;background:#fff;color:#3a9a5b;border-radius:14px;padding:11px;font-family:var(--f-head);font-weight:600;font-size:15px;cursor:pointer}
 .vista.on{background:#3a9a5b;color:#fff}
@@ -533,7 +536,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 <!-- AJUSTES -->
 <section class="scr" id="s-ajustes"><div class="wrap">
  <button class="ibtn" style="margin:14px 0 0" aria-label="Volver" onclick="window.history.length>1?window.history.back():go('#/')">‹</button>
- <div class="aqui-hero"><div class="bi">⚙️</div><h1>Ajustes</h1><p>Colores, letra y tamaño de texto de la app.</p></div>
+ <div class="aqui-hero"><div class="bi">⚙️</div><h1>Ajustes</h1><p>Colores, letra, tamaño de texto y animaciones.</p></div>
  <div class="bienvenida">
   <h2>🎨 Paleta de colores</h2>
   <div class="rbtns" id="ajPaletas" style="flex-wrap:wrap"></div>
@@ -541,6 +544,9 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <div class="rbtns" id="ajFuentes" style="flex-wrap:wrap"></div>
   <h2 style="margin-top:18px">🔍 Tamaño del texto</h2>
   <div class="rbtns" id="ajTamanos" style="flex-wrap:wrap"></div>
+  <h2 style="margin-top:18px">🎬 Láminas animadas</h2>
+  <div class="rbtns" id="ajAnim" style="flex-wrap:wrap"></div>
+  <p style="margin:6px 0 0;font-size:13px;color:var(--muted)">«Una vez»: se mueve 8 segundos y se queda quieta. «Continua»: se repite sin parar.</p>
  </div>
  <div class="bienvenida">
   <h2>🔑 Tu código</h2>
@@ -654,6 +660,7 @@ function renderAjustes(){
  $('#ajPaletas').innerHTML=PALETAS.map(p=>`<button class="btn ${p.id===a.pal?'':'sec'}" style="flex:0 0 auto" onclick="LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),pal:'${p.id}'});aplicaAjustes();syncPush();renderAjustes()"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:${p.accent};margin-right:6px;vertical-align:-1px"></span>${p.nombre}</button>`).join('');
  $('#ajFuentes').innerHTML=FUENTES.map(f=>`<button class="btn ${f.id===a.fon?'':'sec'}" style="flex:0 0 auto;font-family:${f.head}" onclick="LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),fon:'${f.id}'});aplicaAjustes();syncPush();renderAjustes()">${f.nombre}</button>`).join('');
  $('#ajTamanos').innerHTML=TAMANOS.map(t=>`<button class="btn ${t.id===a.tam?'':'sec'}" style="flex:0 0 auto" onclick="LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),tam:'${t.id}'});aplicaAjustes();syncPush();renderAjustes()">${t.nombre}</button>`).join('');
+ $('#ajAnim').innerHTML=[['una','Una vez'],['cont','Reproducción continua']].map(([id,n])=>`<button class="btn ${(a.anim||'una')===id?'':'sec'}" style="flex:0 0 auto" onclick="LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),anim:'${id}'});syncPush();renderAjustes()">${n}</button>`).join('');
  let cod=null; try{cod=localStorage.getItem('hk_codigo');}catch(e){}
  $('#ajCodVal').textContent=cod||'(aún no se ha creado)';
  const bc=$('#ajBtnCopiaCod');
@@ -959,7 +966,13 @@ function audPaint(){const bt=$('#btnAud'); if(!bt){audSync();return;} const id=b
  const bx=$('#audBox'); if(bx)bx.classList.toggle('act',mine||c>1);
  audSync();}
 ['play','pause','timeupdate','ended','loadedmetadata','seeked'].forEach(ev=>PL.addEventListener(ev,audPaint));
-PL.addEventListener('ended',()=>{posSet(PL.dataset.k,0);PL.currentTime=0;audPaint();});
+PL.addEventListener('ended',()=>{posSet(PL.dataset.k,0);PL.currentTime=0;audPaint();
+ const v=document.querySelector('#shBody .sh-illo video'); if(v&&v.dataset.hastaAudio){v.loop=false;v.dataset.hastaAudio='';const bb=v.parentNode.querySelector('.vloop');if(bb){bb.classList.remove('on');bb.setAttribute('aria-pressed','false');}}});
+// 🔁 Reprod. continua: la animación se repite; si suena la narración, hasta que esta termina
+function vLoop(b){const v=b.parentNode.querySelector('video'); if(!v)return; const on=!v.loop; v.loop=on;
+ b.classList.toggle('on',on); b.setAttribute('aria-pressed',String(on));
+ v.dataset.hastaAudio=(on&&PL.getAttribute('src')&&!PL.paused&&LS.get('hk_ajustes',{}).anim!=='cont')?'1':'';
+ if(on&&(v.paused||v.ended)){if(v.ended)v.currentTime=0; v.play().catch(()=>{});}}
 function audToggle(){const bt=$('#btnAud'); if(!bt)return; const id=bt.dataset.k;
  if(PL.dataset.k!==id||!PL.getAttribute('src')){PL.src=bt.dataset.src; PL.dataset.k=id; const p=posGet(id);
   if(p>0){try{PL.currentTime=p;}catch(e){} PL.addEventListener('loadedmetadata',()=>{if(Math.abs(PL.currentTime-p)>1)PL.currentTime=p;},{once:true});}
@@ -1003,7 +1016,8 @@ async function audioUI(k,f,lv){lv=lv||LV;
  if(!(PL.dataset.k===id&&PL.getAttribute('src')))$('#sheet').classList.remove('aud-on');
  if(!a)return; const b=$('#shBody');
  const calm=(navigator.connection&&navigator.connection.saveData)||matchMedia('(prefers-reduced-motion: reduce)').matches;
- if(a.viva&&lv!=='n'&&!calm){const il=b.querySelector('.sh-illo'); if(il)il.innerHTML=`<video src="${a.viva}" ${f.lam?`poster="${f.lam}"`:''} autoplay muted playsinline preload="metadata" aria-label="${esc(f.t)}"></video>`;}
+ if(a.viva&&lv!=='n'&&!calm){const il=b.querySelector('.sh-illo'); const cont=LS.get('hk_ajustes',{}).anim==='cont';
+  if(il){il.classList.add('con-video');il.innerHTML=`<video src="${a.viva}" ${f.lam?`poster="${f.lam}"`:''} autoplay muted playsinline ${cont?'loop':''} preload="metadata" aria-label="${esc(f.t)}"></video><button class="vloop${cont?' on':''}" type="button" onclick="vLoop(this)" aria-pressed="${cont}">🔁 Reprod. continua</button>`;}}
  if(a[lv]){const rt=b.querySelector('.rt'); if(!rt)return;
   rt.insertAdjacentHTML('afterend',`<div class="audbox" id="audBox"><div class="audrow"><button class="escuchar" id="btnAud" data-k="${id}" data-src="audio/${k}-${lv}.mp3" data-d="${a[lv]}" data-t="${esc(f.t)}" data-l="${f.lam||''}" onclick="audToggle()"><span class="ico">🔊</span><span class="lb">Escuchar</span><span class="bar" onclick="audBar(event)"><i></i></span><span class="tm"></span></button></div><div class="audctl"><button onclick="audRestart()" aria-label="Desde el principio">⟲ Inicio</button><button onclick="audSeek(-30)" aria-label="Atrasar 30 segundos">−30 s</button><button onclick="audSeek(30)" aria-label="Adelantar 30 segundos">+30 s</button><button onclick="stopAud()" aria-label="Parar">■ Parar</button></div></div>`);
   audSyncBuild(id,b.querySelector('.txt'),lv==='d'?(f.t||'').length+26:0);
