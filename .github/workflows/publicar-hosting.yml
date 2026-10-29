@@ -40,14 +40,20 @@ jobs:
         env:
           NOVEDADES_COMMITS: ${{ toJson(github.event.commits) }}
         run: |
-          python3 herramientas/novedades.py || echo "::warning::No se pudieron generar las novedades"
           git config user.name "HistoKHB (publicación automática)"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add datos/novedades.json herramientas/novedades_huellas.json datos/medios.json
-          if ! git diff --cached --quiet; then
+          # Si otra publicación ha movido main entretanto, se rehace sobre el main nuevo (hasta 4 intentos).
+          for intento in 1 2 3 4; do
+            python3 herramientas/novedades.py || echo "::warning::No se pudieron generar las novedades"
+            git add datos/novedades.json herramientas/novedades_huellas.json datos/medios.json
+            git diff --cached --quiet && break
             git commit -q -m "Publicación automática: novedades y lista de medios"
-            git push -q origin HEAD:main || echo "::warning::No se pudieron guardar las novedades en el repositorio (se publican igualmente)"
-          fi
+            git push -q origin HEAD:main && break
+            echo "main ha cambiado: se repite sobre el main nuevo (intento $intento)"
+            sleep $((intento * 5))
+            git fetch -q --depth 1 origin main && git reset -q --hard FETCH_HEAD
+            python3 herramientas/medios.py recoger
+          done
 
       - name: Preparar la clave SSH
         env:
