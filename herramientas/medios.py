@@ -38,6 +38,11 @@ def subir(rutas):
     if not rutas: sys.exit('No hay nada que subir.')
     man = json.load(open(MAN)) if os.path.exists(MAN) else {}
     rutas = [r for r in rutas if man.get(r, [0, ''])[1] != md5(os.path.join(R, r))]
+    # sincronía texto-voz de los audios nuevos (datos/sincro.json, que va en el commit de main)
+    nuevos = [os.path.join(R, r) for r in rutas if r.startswith('audio/')]
+    if nuevos:
+        r = sh(sys.executable, os.path.join(R, 'herramientas', 'sincro.py'), *nuevos, check=False)
+        print((r.stdout or r.stderr).strip().split('\n')[0], '→ sube también datos/sincro.json a main')
     if not rutas: print('Todo está ya publicado (mismas huellas). Nada que subir.'); return
     wt = tempfile.mkdtemp(prefix='buzon-')
     hay = sh('git', 'ls-remote', '--heads', 'origin', RAMA).stdout.strip()

@@ -1046,22 +1046,27 @@ function audDock(on){const sh=$('#sheet'); if(!on){sh.classList.remove('aud-on')
 window.addEventListener('resize',()=>{if($('#sheet').classList.contains('aud-on'))audMeasure();});
 // el texto sigue a la voz (reparto por caracteres)
 let SY=null, follow=true, followT=0;
-function audSyncBuild(id,txt,lead){SY=null; if(!txt)return;
+let SINCRO=null; async function sincro(){if(!SINCRO){try{SINCRO=await getJ('sincro.json');}catch(e){SINCRO={};}}return SINCRO;}
+// SY.sec: tiempos medidos en el audio (datos/sincro.json, en segundos); si no, reparto por letras
+function audPos(){return SY.sec?PL.currentTime+0.2:PL.currentTime/(PL.duration||1)*SY.tot;}
+function audEnd(){return SY.sec?(PL.duration||SY.st[SY.st.length-1]+30):SY.tot;}
+function audSyncBuild(id,txt,lead,ts){SY=null; if(!txt)return;
  const els=[...txt.querySelectorAll('p,h4,li,.tt')].filter(e=>!e.closest('.biblio')&&!e.closest('button')&&!e.querySelector('p,li')&&e.textContent.trim());
  let acc=lead||0; const st=[];
  els.forEach(e=>{if(e.matches('li')&&e.parentElement.classList.contains('crono')&&e===e.parentElement.firstElementChild)acc+=37; st.push(acc); acc+=e.textContent.trim().length+25;});
- els.forEach((e,i)=>{e.classList.add('syn');e.dataset.i=i;}); SY={id,els,st,tot:acc,cur:-1};}
+ els.forEach((e,i)=>{e.classList.add('syn');e.dataset.i=i;}); SY={id,els,st,tot:acc,cur:-1};
+ if(ts&&ts.length===els.length){SY.st=ts.slice(); SY.sec=true;}}
 function clearReading(){if(SY&&SY.cur>=0&&SY.els[SY.cur])SY.els[SY.cur].classList.remove('reading'); if(SY)SY.cur=-1;}
 function audSync(){if(!SY)return; const mine=PL.dataset.k===SY.id&&!!PL.getAttribute('src'); if(!mine||!$('#sheet').classList.contains('aud-on')){clearReading();return;}
- const d=PL.duration||0; if(!d)return; const pos=PL.currentTime/d*SY.tot; let i=0; while(i+1<SY.st.length&&SY.st[i+1]<=pos)i++;
+ const d=PL.duration||0; if(!d)return; const pos=audPos(); let i=0; while(i+1<SY.st.length&&SY.st[i+1]<=pos)i++;
  if(i!==SY.cur){clearReading(); SY.cur=i; SY.els[i].classList.add('reading');}
  if(follow&&!PL.paused)audScrollTo(i,pos);}
 function audScrollTo(i,pos){const e=SY.els[i], sh=$('#sheet'), bx=$('#audBox'); if(!e||!bx)return;
  const top=bx.getBoundingClientRect().bottom+12, avail=sh.clientHeight-top-90, r=e.getBoundingClientRect();
- const end=i+1<SY.st.length?SY.st[i+1]:SY.tot, fr=Math.min(1,Math.max(0,(pos-SY.st[i])/Math.max(1,end-SY.st[i])));
+ const end=i+1<SY.st.length?SY.st[i+1]:audEnd(), fr=Math.min(1,Math.max(0,(pos-SY.st[i])/Math.max(1,end-SY.st[i])));
  const want=top-Math.max(0,r.height-avail)*fr, d=r.top-want; if(Math.abs(d)>30)sh.scrollBy({top:d,behavior:'smooth'});}
 function volverUI(on){let v=$('#volver'); if(!v){$('#sheet').insertAdjacentHTML('beforeend','<button id="volver" class="volver hide" onclick="volverSuena()">↧ Volver a lo que suena</button>'); v=$('#volver');} v.classList.toggle('hide',!on);}
-function volverSuena(){follow=true; clearTimeout(followT); volverUI(false); if(SY&&SY.cur>=0&&PL.duration)audScrollTo(SY.cur,PL.currentTime/PL.duration*SY.tot);}
+function volverSuena(){follow=true; clearTimeout(followT); volverUI(false); if(SY&&SY.cur>=0&&PL.duration)audScrollTo(SY.cur,audPos());}
 function audSeek(dt){if(!$('#btnAud'))return; if(PL.dataset.k!==$('#btnAud').dataset.k||!PL.getAttribute('src')){audToggle();return;} PL.currentTime=Math.max(0,Math.min((PL.duration||0)-1,PL.currentTime+dt)); follow=true; volverSuena();}
 function audRestart(){const bt=$('#btnAud'); if(!bt)return; posSet(bt.dataset.k,0); if(PL.dataset.k===bt.dataset.k&&PL.getAttribute('src')){PL.currentTime=0; follow=true; $('#sheet').scrollTo({top:0,behavior:'smooth'}); if(PL.paused)PL.play().catch(()=>{});} else {audPaint(); audToggle();}}
 function audBar(ev){const bt=$('#btnAud'); if(PL.dataset.k!==bt.dataset.k||!PL.getAttribute('src')||!PL.duration)return; ev.stopPropagation();
@@ -1071,7 +1076,7 @@ function audUserScroll(){if(!$('#sheet').classList.contains('aud-on')||PL.paused
 // tocar un párrafo salta el audio a ese punto
 $('#shBody').addEventListener('click',e=>{if(!SY||PL.dataset.k!==SY.id||!PL.getAttribute('src'))return; if(e.target.closest('button,a'))return;
  const el=e.target.closest('.syn'); if(!el||!SY.els.includes(el))return; const d=PL.duration; if(!d)return;
- PL.currentTime=SY.st[+el.dataset.i]/SY.tot*d; volverSuena(); if(PL.paused){PL.play().catch(()=>{}); audDock(true);}});
+ PL.currentTime=SY.sec?SY.st[+el.dataset.i]:SY.st[+el.dataset.i]/SY.tot*d; volverSuena(); if(PL.paused){PL.play().catch(()=>{}); audDock(true);}});
 async function audioUI(k,f,lv){lv=lv||LV; ambStop();
  const M=await audMan(); const a=(M.fichas||{})[k]||M[k]; if(!CUR||CUR.key!==k)return;
  const id=k+'|'+lv; if(PL.dataset.k&&PL.dataset.k!==id)stopAud(); SY=null;
@@ -1083,7 +1088,7 @@ async function audioUI(k,f,lv){lv=lv||LV; ambStop();
   if(il){il.classList.add('con-video');il.innerHTML=`<video src="${a.viva}" ${f.lam?`poster="${f.lam}"`:''} autoplay muted playsinline ${cont?'loop':''} preload="metadata" aria-label="${esc(f.t)}"></video><button class="vloop${cont?' on':''}" type="button" onclick="vLoop(this)" aria-pressed="${cont}">🔁 Reprod. continua</button>${a.son&&a.son.length?`<button class="vson" type="button" onclick="vSon(this)" data-son='${JSON.stringify(a.son)}' aria-pressed="false">🔇 Sonido</button>`:''}`;}}
  if(a[lv]){const rt=b.querySelector('.rt'); if(!rt)return;
   rt.insertAdjacentHTML('afterend',`<div class="audbox" id="audBox"><div class="audrow"><button class="escuchar" id="btnAud" data-k="${id}" data-src="audio/${k}-${lv}.mp3" data-d="${a[lv]}" data-t="${esc(f.t)}" data-l="${f.lam||''}" onclick="audToggle()"><span class="ico">🔊</span><span class="lb">Escuchar</span><span class="bar" onclick="audBar(event)"><i></i></span><span class="tm"></span></button></div><div class="audctl"><button onclick="audRestart()" aria-label="Desde el principio">⟲ Inicio</button><button onclick="audSeek(-30)" aria-label="Atrasar 30 segundos">−30 s</button><button onclick="audSeek(30)" aria-label="Adelantar 30 segundos">+30 s</button><button onclick="stopAud()" aria-label="Parar">■ Parar</button></div></div>`);
-  audSyncBuild(id,b.querySelector('.txt'),(lv==='d'||lv==='dg')?(f.t||'').length+26:0);
+  const SQ=await sincro(); if(!CUR||CUR.key!==k)return; audSyncBuild(id,b.querySelector('.txt'),(lv==='d'||lv==='dg')?(f.t||'').length+26:0,SQ[k+'|'+lv]);
   if(PL.dataset.k===id&&PL.getAttribute('src'))audDock(true);
   audPaint();}
 }
