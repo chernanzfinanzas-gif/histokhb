@@ -1041,9 +1041,14 @@ function vSon(b){if(AMB.length){ambStop();return;}let ids=[];try{ids=JSON.parse(
 ['play','pause','ended'].forEach(ev=>PL.addEventListener(ev,ambVol));
 // pantalla al escuchar: encendida (por defecto) o que se apague sola; el audio sigue sonando con la pantalla apagada
 let WL=null; const pantOn=()=>(LS.get('hk_ajustes',{}).pant||'on')==='on';
-async function pantSync(){const quiere=pantOn()&&PL.getAttribute('src')&&!PL.paused&&document.visibilityState==='visible';
- if(quiere&&!WL&&navigator.wakeLock){try{WL=await navigator.wakeLock.request('screen'); WL.addEventListener('release',()=>{WL=null;});}catch(e){WL=null;}}
- else if(!quiere&&WL){try{await WL.release();}catch(e){} WL=null;}}
+let WLp=false;
+async function pantSync(){const suena=PL.getAttribute('src')&&!PL.paused, quiere=pantOn()&&suena&&document.visibilityState==='visible';
+ // un vídeo en marcha también impide que el móvil apague la pantalla: con «que se apague», la lámina se queda quieta mientras suena la voz
+ if(!pantOn()&&suena){const v=document.querySelector('#shBody .sh-illo video'); if(v&&!v.paused){v.pause(); v.loop=false;}}
+ if(quiere&&!WL&&!WLp&&navigator.wakeLock){WLp=true; try{const w=await navigator.wakeLock.request('screen'); WLp=false;
+   if(WL||!(pantOn()&&PL.getAttribute('src')&&!PL.paused)){w.release().catch(()=>{});} else {WL=w; w.addEventListener('release',()=>{if(WL===w)WL=null;});}}
+  catch(e){WLp=false;}}
+ else if(!quiere&&WL){const w=WL; WL=null; try{await w.release();}catch(e){}}}
 function pantPaint(){const b=$('#audScr'); if(b)b.innerHTML=pantOn()?'☀️ La pantalla <b>se queda encendida</b> mientras escuchas · <u>cambiar</u>':'🌙 La pantalla <b>se apaga sola</b> y el audio sigue · <u>cambiar</u>'; if($('#ajPant'))renderAjustes();}
 function pantSet(v){LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),pant:v}); syncPush(); pantSync(); pantPaint();}
 function pantToggle(){pantSet(pantOn()?'off':'on');}
