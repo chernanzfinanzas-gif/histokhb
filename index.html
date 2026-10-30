@@ -762,7 +762,7 @@ let lastScreen=null, lastRoute=null;
 const SECUND=['novedades','semana','favs','ajustes','calendario','mundo','aqui'];
 let ORIGEN={}; // pantalla desde la que se entró en cada pantalla secundaria (para «✕ Cerrar»)
 let ALTURA={}, VOLVER_A=null; // altura de la página de cada pantalla, para volver al mismo sitio
-function cerrarScr(){const k=(location.hash.replace(/^#\/?/,'').split('/')[0])||'';const d=ORIGEN[k]||'#/';VOLVER_A=d;go(d);}
+function cerrarScr(){const k=(location.hash.replace(/^#\/?/,'').split('/')[0])||'';const d=ORIGEN[k]||'#/';VOLVER_A=d; if((location.hash||'#/')===d||(d==='#/'&&!location.hash)){lastRoute=null;route();} else go(d);}
 function restaurarAltura(){if(VOLVER_A==null||(location.hash||'#/')!==VOLVER_A)return;const y=ALTURA[VOLVER_A]||0;VOLVER_A=null;[0,80,250,600].forEach(ms=>setTimeout(()=>window.scrollTo(0,y),ms));}
 function show(id){document.body.classList.toggle('sec-scr',SECUND.includes(id));document.body.classList.remove('cal-dentro');document.querySelectorAll('.scr').forEach(s=>s.classList.toggle('on',s.id==='s-'+id));document.querySelectorAll('#nav a').forEach(a=>a.classList.toggle('on',a.dataset.n===id||(id==='favs'&&a.dataset.n==='inicio')));}
 const ALIAS={'con1-0':'con-1789-eu','con1-1':'con-1808-eu','con1-2':'con-1808-eu','con1-3':'con-1808-am','con1-5':'con-1808-es'};
