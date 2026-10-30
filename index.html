@@ -713,7 +713,7 @@ function renderAjustes(){
  $('#ajPaletas').innerHTML=PALETAS.map(p=>`<button class="btn ${p.id===a.pal?'':'sec'}" style="flex:0 0 auto" onclick="LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),pal:'${p.id}'});aplicaAjustes();syncPush();renderAjustes()"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:${p.accent};margin-right:6px;vertical-align:-1px"></span>${p.nombre}</button>`).join('');
  $('#ajFuentes').innerHTML=FUENTES.map(f=>`<button class="btn ${f.id===a.fon?'':'sec'}" style="flex:0 0 auto;font-family:${f.head}" onclick="LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),fon:'${f.id}'});aplicaAjustes();syncPush();renderAjustes()">${f.nombre}</button>`).join('');
  $('#ajTamanos').innerHTML=TAMANOS.map(t=>`<button class="btn ${t.id===a.tam?'':'sec'}" style="flex:0 0 auto" onclick="LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),tam:'${t.id}'});aplicaAjustes();syncPush();renderAjustes()">${t.nombre}</button>`).join('');
- $('#ajPant').innerHTML=[['on','☀️ Encendida'],['off','🌙 Que se apague']].map(([id,n])=>`<button class="btn ${(a.pant||'on')===id?'':'sec'}" style="flex:0 0 auto" onclick="pantSet('${id}')">${n}</button>`).join('');
+ pantAjustes();
  $('#ajAnim').innerHTML=[['una','Una vez'],['cont','Reproducción continua']].map(([id,n])=>`<button class="btn ${(a.anim||'una')===id?'':'sec'}" style="flex:0 0 auto" onclick="LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),anim:'${id}'});syncPush();renderAjustes()">${n}</button>`).join('');
  let cod=null; try{cod=localStorage.getItem('hk_codigo');}catch(e){}
  $('#ajCodVal').textContent=cod||'(aún no se ha creado)';
@@ -1049,7 +1049,8 @@ async function pantSync(){const suena=PL.getAttribute('src')&&!PL.paused, quiere
    if(WL||!(pantOn()&&PL.getAttribute('src')&&!PL.paused)){w.release().catch(()=>{});} else {WL=w; w.addEventListener('release',()=>{if(WL===w)WL=null;});}}
   catch(e){WLp=false;}}
  else if(!quiere&&WL){const w=WL; WL=null; try{await w.release();}catch(e){}}}
-function pantPaint(){const b=$('#audScr'); if(b)b.innerHTML=pantOn()?'☀️ La pantalla <b>se queda encendida</b> mientras escuchas · <u>cambiar</u>':'🌙 La pantalla <b>se apaga sola</b> y el audio sigue · <u>cambiar</u>'; if($('#ajPant'))renderAjustes();}
+function pantPaint(){const b=$('#audScr'); if(b)b.innerHTML=pantOn()?'☀️ La pantalla <b>se queda encendida</b> mientras escuchas · <u>cambiar</u>':'🌙 La pantalla <b>se apaga sola</b> y el audio sigue · <u>cambiar</u>'; pantAjustes();}
+function pantAjustes(){const e=$('#ajPant'); if(e)e.innerHTML=[['on','☀️ Encendida'],['off','🌙 Que se apague']].map(([id,n])=>`<button class="btn ${(pantOn()?'on':'off')===id?'':'sec'}" style="flex:0 0 auto" onclick="pantSet('${id}')">${n}</button>`).join('');}
 function pantSet(v){LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),pant:v}); syncPush(); pantSync(); pantPaint();}
 function pantToggle(){pantSet(pantOn()?'off':'on');}
 ['play','pause','ended'].forEach(ev=>PL.addEventListener(ev,pantSync)); document.addEventListener('visibilitychange',pantSync);
