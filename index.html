@@ -435,7 +435,9 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 /* logo de la cabecera (concha de Ammo) */
 .brand .brlogo{width:34px;height:34px;margin-right:8px;align-self:center;flex:0 0 auto}
 @media(max-width:480px){.brand{display:grid;grid-template-columns:auto auto;grid-template-rows:auto auto;column-gap:7px;align-items:center}.brand .brlogo{grid-row:1/3;width:36px;height:36px;margin:0}.brand .brand2{grid-column:2}}
-</style></head>
+</style><script>window.goatcounter={no_onload:true};window.gcQ=[];</script>
+<script data-goatcounter="https://historiareal.goatcounter.com/count" async src="//gc.zgo.at/count.js" onload="(window.gcQ||[]).splice(0).forEach(x=>goatcounter.count(x))"></script>
+</head>
 <body>
 <header class="top">
  <a class="brand" href="#/"><img class="brlogo" src="img/logo-concha.png" alt="" width="34" height="34"><span>Histo<b>KHB</b></span><span class="brand2"><span class="brsep"> - </span>Historia Total</span></a>
@@ -653,6 +655,7 @@ const ERA_IC={cosmos:'🌌',prehistoria:'🦣',antigua:'🏛️',media:'🏰',mo
 const ESP='Hispania · Castilla · España';
 const $=s=>document.querySelector(s);
 const LS={get(k,d){try{const v=localStorage.getItem(k);return v==null?d:JSON.parse(v);}catch(e){return d;}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v));}catch(e){}}};
+function gcCount(path,ev){const d={path:path,title:document.title,event:!!ev};if(window.goatcounter&&goatcounter.count)goatcounter.count(d);else (window.gcQ=window.gcQ||[]).push(d);}
 
 // ---------- ajustes: paleta, letra y tamaño ----------
 const PALETAS=[
@@ -783,7 +786,7 @@ function route(){
  closeSheetUI(); sheetBase=null; if(lastRoute)ALTURA[lastRoute]=window.scrollY;
  {const kN=(location.hash.replace(/^#\/?/,'').split('/')[0])||'', kV=((lastRoute||'').replace(/^#\/?/,'').split('/')[0])||''; if(lastRoute&&kN!==kV&&SECUND.includes(kN))ORIGEN[kN]=lastRoute;}
  lastRoute=location.hash||'#/'; try{sessionStorage.setItem('hk_base',lastRoute);}catch(e){}
- screen(p); restaurarAltura();
+ screen(p); gcCount(location.hash||'#/'); restaurarAltura();
 }
 function screen(p){ const k=p[0]||'';
  if(k===''){renderInicio();}
@@ -990,7 +993,7 @@ function setupCapbar(caps){
 // ---------- hoja de ficha ----------
 let CUR=null;
 async function openSheet(kind,key){
- CUR={kind,key}; DVER=null; const sh=$('#sheet');
+ CUR={kind,key}; DVER=null; gcCount(location.hash||('#/'+kind+'/'+key)); const sh=$('#sheet');
  sh.classList.add('open'); document.body.style.overflow='hidden';
  $('#shBody').innerHTML='<p class="empty-st">Cargando…</p>'; $('#shFoot').innerHTML='';
  await renderSheet(); sh.scrollTo(0,0);
@@ -1063,7 +1066,9 @@ function vLoop(b){const v=b.parentNode.querySelector('video'); if(!v)return; con
  b.classList.toggle('on',on); b.setAttribute('aria-pressed',String(on));
  v.dataset.hastaAudio=(on&&PL.getAttribute('src')&&!PL.paused&&LS.get('hk_ajustes',{}).anim!=='cont')?'1':'';
  if(on&&(v.paused||v.ended)){if(v.ended)v.currentTime=0; v.play().catch(()=>{});}}
+let audContados=new Set();
 function audToggle(){const bt=$('#btnAud'); if(!bt)return; const id=bt.dataset.k;
+ if(PL.paused&&!audContados.has(id)){audContados.add(id);gcCount('/audio/'+id,true);}
  if(PL.dataset.k!==id||!PL.getAttribute('src')){PL.src=bt.dataset.src; PL.dataset.k=id; const p=posGet(id);
   if(p>0){try{PL.currentTime=p;}catch(e){} PL.addEventListener('loadedmetadata',()=>{if(Math.abs(PL.currentTime-p)>1)PL.currentTime=p;},{once:true});}
   if('mediaSession' in navigator&&window.MediaMetadata){navigator.mediaSession.metadata=new MediaMetadata({title:bt.dataset.t||'',artist:'HistoKHB - Historia Total',artwork:bt.dataset.l?[{src:bt.dataset.l}]:[]});}}
@@ -1621,7 +1626,7 @@ function drawReto(){
  const dots='<div class="dots">'+RS.qs.map((q,j)=>`<i class="${q.ans==null?(j===RS.k?'cur':''):(q.wrong.length?'ko':'ok')}"></i>`).join('')+'</div>';
  if(RS.k>=n){ // terminado: las 5 resueltas
   const first=RS.qs.filter(q=>!q.wrong.length).length;
-  if(!RS.practice){const r=LS.get('hk_reto',{d:{}});if(!(r.d[RS.day]||{}).ok){r.d[RS.day]={s:first,ok:true};LS.set('hk_reto',r);const st0=racha();const prevR=rango(st0-1).r;r.best=Math.max(r.best||0,st0);LS.set('hk_reto',r);syncPush();RS.subio=(rango(st0).r!==prevR)?rango(st0).r:null;}}
+  if(!RS.practice){const r=LS.get('hk_reto',{d:{}});if(!(r.d[RS.day]||{}).ok){r.d[RS.day]={s:first,ok:true};LS.set('hk_reto',r);const st0=racha();const prevR=rango(st0-1).r;r.best=Math.max(r.best||0,st0);LS.set('hk_reto',r);syncPush();gcCount('/reto-completado/'+first,true);RS.subio=(rango(st0).r!==prevR)?rango(st0).r:null;}}
   const st=racha(), msg=first===5?'¡Pleno a la primera! Eres un sabio de la historia.':first>=3?'¡Muy bien! Reto resuelto.':'¡Reto resuelto! Buscar en las fichas también es aprender.';
   const share='🏆 Reto del día de HistoKHB - Historia Total: '+first+'/5 a la primera'+(RS.practice?'':(st>1?' · 🔥 racha de '+st+' días · '+rango(st).r[1]+' '+rango(st).r[2]:''))+'. ¿Te atreves?\n👉 https://historiatotal.es/#/reto';
   B.innerHTML=LVS+`<div class="score"><img class="ammo-reto" src="img/ammo/ammo-${first>=4?'celebra':first>=2?'lee':'piensa'}.webp" alt="" width="110" height="130"><div class="sec-t" style="margin-top:6px">${RS.practice?'Práctica':'Reto del día · '+RS.day.split('-').reverse().join('/')}</div><div class="big1">${first}/5</div><p style="margin:4px 0 0;color:var(--muted);font-weight:700">a la primera</p><p>${msg}</p>${RS.practice?'':`${RS.subio?`<div class="fb" style="text-align:center">🎉 ¡Nueva categoría: <b>${RS.subio[1]} ${RS.subio[2]}</b>!</div>`:''}<span class="streak">🔥 Racha: ${st} día${st!==1?'s':''}</span>${rangoHTML(st)}<p class="rt">Cada día que resuelves las 5 preguntas suma uno. Si un día no lo haces, la racha vuelve a empezar.</p>`}</div>`+
