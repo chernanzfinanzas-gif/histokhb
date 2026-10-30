@@ -988,7 +988,9 @@
    "son": [
     "pajaros",
     "cosmos"
-   ]
+   ],
+   "dg": 180,
+   "voz_dg": "Aoede"
   },
   "des-materia-oscura": {
    "d": 359,
@@ -1007,7 +1009,9 @@
    "viva": "img/vivas/des-webb.mp4",
    "son": [
     "cosmos"
-   ]
+   ],
+   "dg": 296,
+   "voz_dg": "Aoede"
   },
   "paleolitico-0": {
    "g": 152,
@@ -1091,7 +1095,9 @@
    "son": [
     "mar",
     "gaviotas"
-   ]
+   ],
+   "dg": 618,
+   "voz_dg": "Aoede"
   },
   "des-origen-vida": {
    "viva": "img/vivas/des-origen-vida.mp4",
@@ -1100,7 +1106,9 @@
    "son": [
     "laboratorio",
     "tormenta"
-   ]
+   ],
+   "dg": 177,
+   "voz_dg": "Aoede"
   },
   "paleolitico-19": {
    "viva": "img/vivas/paleolitico-19.mp4",
@@ -1134,7 +1142,9 @@
    "son": [
     "mar",
     "gaviotas"
-   ]
+   ],
+   "dg": 157,
+   "voz_dg": "Aoede"
   },
   "paleolitico-9": {
    "viva": "img/vivas/paleolitico-9.mp4",
@@ -1156,7 +1166,9 @@
    "son": [
     "mar",
     "viento"
-   ]
+   ],
+   "dg": 156,
+   "voz_dg": "Aoede"
   },
   "paleolitico-14": {
    "viva": "img/vivas/paleolitico-14.mp4",
@@ -1178,7 +1190,9 @@
    "son": [
     "cosmos",
     "reloj"
-   ]
+   ],
+   "dg": 195,
+   "voz_dg": "Aoede"
   },
   "des-bola-nieve": {
    "viva": "img/vivas/des-bola-nieve.mp4",
@@ -1259,7 +1273,9 @@
    "son": [
     "grillos",
     "cosmos"
-   ]
+   ],
+   "dg": 160,
+   "voz_dg": "Aoede"
   },
   "des-endosimbiosis": {
    "viva": "img/vivas/des-endosimbiosis.mp4",
@@ -1293,7 +1309,9 @@
    "voz_d": "Aoede",
    "son": [
     "ventisca"
-   ]
+   ],
+   "dg": 160,
+   "voz_dg": "Aoede"
   },
   "paleolitico-21": {
    "viva": "img/vivas/paleolitico-21.mp4",
@@ -1329,7 +1347,9 @@
    "son": [
     "grillos",
     "cosmos"
-   ]
+   ],
+   "dg": 157,
+   "voz_dg": "Aoede"
   },
   "paleolitico-20": {
    "viva": "img/vivas/paleolitico-20.mp4",
@@ -1508,7 +1528,9 @@
    "son": [
     "bosque",
     "pajaros"
-   ]
+   ],
+   "dg": 655,
+   "voz_dg": "Aoede"
   },
   "des-altamira": {
    "viva": "img/vivas/des-altamira.mp4",
@@ -1568,7 +1590,9 @@
    "son": [
     "tormenta",
     "cosmos"
-   ]
+   ],
+   "dg": 163,
+   "voz_dg": "Aoede"
   },
   "des-lucy": {
    "viva": "img/vivas/des-lucy.mp4",
@@ -3298,7 +3322,9 @@
    "son": [
     "viento",
     "rio"
-   ]
+   ],
+   "dg": 529,
+   "voz_dg": "Algieba"
   },
   "des-terracota": {
    "viva": "img/vivas/des-terracota.mp4",
@@ -3316,7 +3342,9 @@
    "voz_d": "Achird",
    "son": [
     "pajaros"
-   ]
+   ],
+   "dg": 154,
+   "voz_dg": "Achird"
   },
   "des-persepolis": {
    "viva": "img/vivas/des-persepolis.mp4",
@@ -8044,7 +8072,9 @@
    "son": [
     "viento",
     "pajaros"
-   ]
+   ],
+   "dg": 133,
+   "voz_dg": "Aoede"
   },
   "des-erauso": {
    "viva": "img/vivas/des-erauso.mp4",
