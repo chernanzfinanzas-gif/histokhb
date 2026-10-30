@@ -850,7 +850,7 @@ function initInicio(){
  $('#nfichas').textContent=Object.keys(IDX.fichas).length;
  $('#eras').innerHTML=IDX.secciones.map(s=>`<button class="era" style="background:linear-gradient(150deg,${s.col},${s.col}cc)" onclick="go('#/epoca/${s.id}')"><span class="ei">${ERA_IC[s.id]||''}</span><span class="ep">${s.per}</span><h3>${s.t}</h3></button>`).join('');
  let t=null; $('#q').addEventListener('input',e=>{clearTimeout(t);t=setTimeout(()=>doSearch(e.target.value),180);});
- $('#q').addEventListener('focus',()=>{sinc().catch(()=>{});if(!BUS)getJ('buscar.json').then(j=>{BUS=j;}).catch(()=>{});if(!LUG)getJ('lugares.json').then(j=>LUG=j).catch(()=>{});},{once:true});
+ $('#q').addEventListener('focus',()=>{sinc().catch(()=>{});if(!BUS)getJ('buscar.json').then(j=>{BUS=j;}).catch(()=>{});if(!LUG)getJ('lugares.json').then(j=>LUG=j).catch(()=>{});if(!DESA)getJ('desarrollos.json').then(j=>{DESA=j;if($('#q').value.trim().length>1)doSearch($('#q').value);}).catch(()=>{});},{once:true});
 }
 function renderInicio(){lastScreen='inicio';show('inicio');renderFavs0();const f=LS.get('hk_favs',[]);$('#favMini').textContent=f.length?f.length+' historia'+(f.length>1?'s':'')+' guardada'+(f.length>1?'s':'')+' en este móvil.':'Las historias que marques con ☆.';const r=LS.get('hk_reto',{d:{}});const t=r.d[hoy()],st=racha();const RG=rango(st).r;$('#retoIco').textContent=RG[1];$('#retoMini').textContent=(t&&t.ok)?'✅ Hoy resuelto ('+t.s+'/5 a la primera) · 🔥 racha de '+st+' día'+(st!==1?'s':''):(st?'🔥 Racha de '+st+' día'+(st!==1?'s':'')+'. ¡Resuelve el de hoy para seguir!':'5 preguntas nuevas cada día. ¿Te atreves?')+(st?' · '+RG[2]:'');
  const ks=Object.keys(IDX.fichas), R=rng('dia'+hoy()), hk=ks[Math.floor(R()*ks.length)], hf=IDX.fichas[hk];
@@ -948,6 +948,9 @@ function doSearch(q){
  body.classList.add('hide');
  const words=q.split(/\s+/); const hit=s=>{const n=norm(s);return words.every(w=>n.includes(w));};
  const out=[];
+ // desarrollos primero: los destacados (d.claves) y luego los que coinciden por título
+ if(DESA){const ds=Object.entries(DESA).filter(([k,d])=>hit(d.t)||(d.claves&&hit(d.claves))).sort((a,b)=>(b[1].claves&&hit(b[1].claves)?1:0)-(a[1].claves&&hit(a[1].claves)?1:0));
+  ds.forEach(([k,d])=>out.push(`<button class="res" onclick="go('#/d/${k}')"><div class="rk">📖 Desarrollo del tema · ${esc(d.d||'')}</div><div class="rt">${esc(d.t)}</div></button>`));}
  if(LUG) LUG.lugares.forEach(l=>{if(hit(l.nombre+' '+l.provincia))out.push(`<button class="res" onclick="go('#/l/${l.id}')"><div class="rk">📍 Lugar · ${esc(l.provincia)}</div><div class="rt">${esc(l.nombre)}</div></button>`);});
  Object.entries(IDX.fichas).forEach(([k,f])=>{if(hit(f.t)||hit(f.tz)||(BUS&&BUS[k]&&hit(BUS[k])))out.push(`<button class="res" onclick="go('#/f/${k}')"><div class="rk">${ERA_IC[f.sec]||''} ${esc(f.d)} · ${esc(IDX.secciones.find(s=>s.id===f.sec).t)}</div><div class="rt">${esc(f.t)}</div><div class="rs">${esc(f.tz.slice(0,110))}…</div></button>`);});
  if(SINC) Object.entries(SINC.ev).forEach(([reg,a])=>a.forEach(e=>{if(out.length<60&&hit(e[1]+' '+reg))out.push(`<button class="res" onclick="${e[3]?`go('#/s/${encodeURIComponent(reg+'|'+e[0])}')`:`go('#/mundo/ano/${e[0]}')`}"><div class="rk">🌍 ${esc(rn(reg))} · ${fy(e[0])}</div><div class="rt">${esc(e[1])}</div></button>`);}));
@@ -1163,7 +1166,7 @@ async function renderSheet(){
   const d=DESA[CUR.key]; if(!d){b.innerHTML='<p class="empty-st">Este tema no existe.</p>';return;}
   $('#shTtl').textContent=d.t; $('#seg').classList.add('hide');
   // Resumen (hg) y Completo (h): el resumen por defecto en Niños/General, el completo en Profundo
-  const corto=!!d.hg&&(DVER==='g'||(DVER==null&&LV!=='p')); const H=corto?d.hg:d.h;
+  const corto=!!d.hg&&(DVER==='g'||(DVER==null&&LV!=='p'&&!d.full)); /* d.full: completo en todos los niveles (galería de dinosaurios) */ const H=corto?d.hg:d.h;
   b.innerHTML=(d.lam?`<div class="sh-illo"><img src="${d.lam}" alt="" loading="lazy"></div>`:'<div style="height:16px"></div>')+`<div class="sh-head"><div><div class="d">📖 Desarrollo del tema · ${esc(d.d)}</div><h2>${esc(d.t)}</h2></div></div>`+
    (d.hg?`<div class="seg dver"><button class="${corto?'on':''}" onclick="DVER='g';renderSheet()">📘 Resumen · ${mins(d.hg)} min</button><button class="${corto?'':'on'}" onclick="DVER='p';renderSheet()">🎓 Completo · ${mins(d.h)} min</button></div>`:'')+
    `<div class="rt">⏱ ${mins(H)} min de lectura</div><div class="txt">${H}</div>`;
