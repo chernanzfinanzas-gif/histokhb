@@ -710,7 +710,7 @@ function datosSync(){
  return {
   vistas: LS.get('hk_vistas',[]),
   reto: LS.get('hk_reto',{d:{}}),
-  apodo: LS.get('hk_apodo',''),
+  apodo: LS.get('hk_apodo','')||undefined,
   solo: !!LS.get('hk_solo',false),
   marcadores: (typeof viaje==='function'&&IDX)?Object.fromEntries(['n','g','p'].map(c=>{const v=viaje(c);return [c,{pts:v.pts,dia:v.dia}];}).filter(([c,m])=>m.dia)):null,
   favs: LS.get('hk_favs',[]),
@@ -736,6 +736,8 @@ function syncPull(){
   if('reto'in d)LS.set('hk_reto',d.reto);
   if('favs'in d)LS.set('hk_favs',d.favs);
   if('ultima'in d)LS.set('hk_ultima',d.ultima);
+  if(d.apodo)LS.set('hk_apodo',d.apodo);           // el apodo y «solo compito conmigo» viajan con el código entre dispositivos
+  if('solo'in d)LS.set('hk_solo',!!d.solo);
   if('ajustes'in d){LS.set('hk_ajustes',d.ajustes);aplicaAjustes();}
  }).catch(()=>{});
 }
