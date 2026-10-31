@@ -1667,11 +1667,11 @@ function viaje(){const r=LS.get('hk_reto',{d:{}}), dias=Object.keys(r.d).filter(
 function vParada(cat,pts){
  if(cat==='n'){const C=IDX.capitulos, i=Math.min(C.length-1,Math.floor(pts/3)); return {tot:C.length*3,fin:pts>=C.length*3,t:C[i].t,h:'#/epoca/'+C[i].sec+'/'+C[i].id};}
  const F=IDX.capitulos.flatMap(c=>c.f), i=Math.min(F.length-1,pts), f=IDX.fichas[F[i]]; return {tot:F.length,fin:pts>=F.length,t:f?f.t:'',h:'#/f/'+F[i]};}
-let CLAS=null;
+let CLAS=null, VISTO=false;   // VISTO: la presentación ya se cerró en esta visita (por si el navegador no deja guardarlo)
 async function viajeUI(){const B=$('#viajeBox'); if(!B||!IDX)return; const v=viaje(); let cod=null; try{cod=localStorage.getItem('hk_codigo');}catch(e){}
  const ap=LS.get('hk_apodo',''), pct=Math.min(100,Math.round(v.pts/v.tot*100));
  const solo=!!LS.get('hk_solo',false);
- if(!LS.get('hk_viaje_visto',false)&&!document.querySelector('#s-reto .vnormas'))$('#retoBox').insertAdjacentHTML('beforebegin',vNormas(true));   // la primera vez, arriba del todo
+ if(!VISTO&&!LS.get('hk_viaje_visto',false)&&!document.querySelector('#s-reto .vnormas'))$('#retoBox').insertAdjacentHTML('beforebegin',vNormas(true));   // la primera vez, arriba del todo
  let h=`<div class="sec-t">🗺️ Tu viaje por la historia · ${VCAT[v.cat]}</div><div class="viaje"><div class="vt">${v.fin?'🏁 ¡Has llegado a hoy!':'Vas por'} · ${pct} %</div><button class="vf" onclick="go('${v.h}')">${esc(v.t)}</button><div class="bar2"><i style="width:${pct}%"></i></div><div class="rt">${v.pts} puntos · ${pct} % del camino, del Big Bang a hoy</div>`;
  h+=`<div class="rbtns" style="margin-top:10px"><button class="btn sec" onclick="vVerNormas()">❔ Normas del juego</button></div>`;
  h+=`<label class="vsolo"><input type="checkbox" ${solo?'checked':''} onchange="vSolo(this.checked)"> <span><b>🙈 Solo compito conmigo</b><br><small>No apareces en la clasificación ni ves la de los demás: solo tu propio viaje.</small></span></label>`;
@@ -1706,7 +1706,7 @@ function vNormas(primera){return `<div class="vnormas"><h3>🗺️ El viaje por 
  <p>El código es tu llave: <b>nunca se muestra</b>. Por eso en la clasificación sales con un <b>apodo</b> que eliges tú (no se puede repetir). Si no lo eliges, sales como «Viajero» y un número.</p>
  <h4>🙈 Solo compito conmigo</h4>
  <p>Si prefieres no compararte, marca esta opción: no apareces en la clasificación ni ves la de los demás. Solo tu propio viaje.</p>
- <div class="rbtns"><button class="btn" onclick="LS.set('hk_viaje_visto',true);this.closest('.vnormas').remove()">${primera?'¡Empezar el viaje!':'Entendido'}</button></div></div>`;}
+ <div class="rbtns"><button class="btn" onclick="VISTO=true;LS.set('hk_viaje_visto',true);this.closest('.vnormas').remove()">${primera?'¡Empezar el viaje!':'Entendido'}</button></div></div>`;}
 function vApodo(){const a=($('#vApodo').value||'').trim().replace(/\s+/g,' ').slice(0,20); if(a.length<2)return;
  if(CLAS&&(CLAS.apodos||[]).includes(a.toLowerCase())){$('#vComo').innerHTML='⚠️ Ese apodo ya lo usa otra persona. Elige otro:';return;}
  LS.set('hk_apodo',a); syncPush(); setTimeout(viajeUI,1800);}
