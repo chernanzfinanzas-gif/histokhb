@@ -194,6 +194,10 @@ body.sec-scr{--barra:43px}
 .relg[open]{padding:0 10px 4px}
 .relg[open]>summary{padding-left:4px;padding-right:4px}
 .lugar.rel h3{font-size:16px}
+.anun-fondo{position:fixed;inset:0;background:rgba(20,20,30,.55);z-index:9999;display:flex;align-items:center;justify-content:center;padding:16px}
+.anun{background:#fffaf0;border-radius:20px;max-width:380px;width:100%;padding:20px 18px 14px;text-align:center;box-shadow:0 10px 40px rgba(0,0,0,.3)}
+.anun img{display:block;margin:0 auto 6px}.anun h3{margin:4px 0 8px;font-family:var(--f-head);font-size:22px;color:var(--accent)}.anun p{margin:0 0 12px;font-size:16px;line-height:1.45}
+.anun .rbtns{margin-top:8px}
 .vnormas{background:#fffaf0;border:2px solid var(--era,var(--accent));border-radius:16px;padding:14px 16px;margin:6px 0 14px;font-size:15px;line-height:1.5}
 .vnormas h3{margin:0 0 6px;font-family:var(--f-head)}.vnormas h4{margin:12px 0 2px;font-family:var(--f-head);color:var(--era,var(--accent))}.vnormas p{margin:4px 0}
 .vtab{width:100%;border-collapse:collapse;font-size:14px;margin:4px 0}.vtab th,.vtab td{border-bottom:1px solid #eee;padding:4px 6px;text-align:center}.vtab td:first-child,.vtab th:first-child{text-align:left}
@@ -779,7 +783,7 @@ function go(h){location.hash=h;}
 $('#waTop').innerHTML=WA_ICO+'<span class="wat">Compartir</span>';
 $('#waTop').href=waLink('👉 Accede con '+BASE+' tanto en el móvil como en el ordenador.\n\n📜 *HistoKHB - Historia Total*\n\nOs presento mi proyecto, aparcado durante años: toda la historia del mundo, del Big Bang a hoy. Gratis, con ilustraciones animadas y voz.\n\n• Elige nivel: Niños, General o Profundo.\n• 🔊 *Escuchar* para que te la cuenten.\n• Mantén pulsada una palabra y te dice qué significa.\n• 🌍 *El mundo*: qué pasaba en todo el planeta el mismo año.\n• 📍 *Aquí*: la historia de donde estás.\n• 🏆 *Reto*: 5 preguntas cada día.\n\n🔑 Guarda el código que te sale la primera vez: así no pierdes tus favoritos ni tus avances al abrir la página en un dispositivo u otro.\n\nCarlos HB (KHB)');
 $('#shWa').innerHTML=WA_ICO;
-getJ('indice.json').then(j=>{IDX=j;return syncPull();}).then(()=>{initInicio();route();}).catch(e=>{document.body.insertAdjacentHTML('afterbegin','<p style="padding:20px;text-align:center"><img src="img/ammo/ammo-duerme.webp" alt="" width="120" height="116" style="display:block;margin:0 auto 8px">No se han podido cargar los datos. Comprueba la conexión y recarga.</p>');});
+getJ('indice.json').then(j=>{IDX=j;return syncPull();}).then(()=>{initInicio();route();setTimeout(anuncio,1200);}).catch(e=>{document.body.insertAdjacentHTML('afterbegin','<p style="padding:20px;text-align:center"><img src="img/ammo/ammo-duerme.webp" alt="" width="120" height="116" style="display:block;margin:0 auto 8px">No se han podido cargar los datos. Comprueba la conexión y recarga.</p>');});
 window.addEventListener('hashchange',route);
 if('serviceWorker' in navigator){const hadSW=!!navigator.serviceWorker.controller; let rl=false;
  navigator.serviceWorker.addEventListener('controllerchange',()=>{if(hadSW&&!rl&&PL.paused){rl=true;location.reload();}});
@@ -1667,6 +1671,12 @@ function viaje(){const r=LS.get('hk_reto',{d:{}}), dias=Object.keys(r.d).filter(
 function vParada(cat,pts){
  if(cat==='n'){const C=IDX.capitulos, i=Math.min(C.length-1,Math.floor(pts/3)); return {tot:C.length*3,fin:pts>=C.length*3,t:C[i].t,h:'#/epoca/'+C[i].sec+'/'+C[i].id};}
  const F=IDX.capitulos.flatMap(c=>c.f), i=Math.min(F.length-1,pts), f=IDX.fichas[F[i]]; return {tot:F.length,fin:pts>=F.length,t:f?f.t:'',h:'#/f/'+F[i]};}
+// 📣 Anuncio de una sola vez al abrir la app (se cambia la clave para un anuncio nuevo)
+const ANUNCIO={k:'hk_anuncio_viaje1',img:'img/ammo/ammo-celebra.webp',t:'¡Novedades en el reto!',p:'Nuevas normas, más desafío: cada reto te hace avanzar por la historia, del Big Bang a hoy. ¡Sé el primero en alcanzar la actualidad!',ir:'#/reto',btn:'🏆 Ir al reto'};
+let ANUN_VISTO=false;
+function anuncio(){if(ANUN_VISTO||LS.get(ANUNCIO.k,false)||document.getElementById('anuncio'))return;
+ document.body.insertAdjacentHTML('beforeend',`<div id="anuncio" class="anun-fondo" onclick="if(event.target===this)anuncioCierra()"><div class="anun"><img src="${ANUNCIO.img}" alt="" width="120" height="140"><h3>${ANUNCIO.t}</h3><p>${ANUNCIO.p}</p><div class="rbtns"><button class="btn" onclick="anuncioCierra();go('${ANUNCIO.ir}')">${ANUNCIO.btn}</button></div><div class="rbtns"><button class="btn sec" onclick="anuncioCierra()">Cerrar</button></div></div></div>`);}
+function anuncioCierra(){ANUN_VISTO=true; LS.set(ANUNCIO.k,true); const e=document.getElementById('anuncio'); if(e)e.remove();}
 let CLAS=null, VISTO=false;   // VISTO: la presentación ya se cerró en esta visita (por si el navegador no deja guardarlo)
 async function viajeUI(){const B=$('#viajeBox'); if(!B||!IDX)return; const v=viaje(); let cod=null; try{cod=localStorage.getItem('hk_codigo');}catch(e){}
  const ap=LS.get('hk_apodo',''), pct=Math.min(100,Math.round(v.pts/v.tot*100));
