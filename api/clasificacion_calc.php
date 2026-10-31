@@ -14,6 +14,7 @@ function clasificacion(array $filas, string $codigo, string $hoy): array {
         foreach ($ms as $cat => $m) {
             if (!isset($lista[$cat]) || !is_array($m)) continue;
             $pts = max(0, (int) ($m['pts'] ?? 0)); $dia = (string) ($m['dia'] ?? '');
+            if ($dia < '2026-10-31') continue;           // el viaje empezó el 31-oct-2026: marcadores anteriores no cuentan
             if ($cat !== 'n' && preg_match('/^\d{4}-\d{2}-\d{2}$/', $dia) && $dia < $hoy) {
                 // días completos sin jugar desde el último reto de ese nivel (hoy aún se puede jugar); como mucho 7: luego se congela
                 $sin = (int) round((strtotime($hoy) - strtotime($dia)) / 86400) - 1;

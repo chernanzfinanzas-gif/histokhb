@@ -1663,7 +1663,8 @@ function rangoHTML(st){const v=viaje(), vp=Math.min(100,Math.floor(v.pts/v.tot*1
 const VPTS={5:5,4:4,3:3,2:-1,1:-2,0:-3}, VCAT={n:'🧒 Niños',g:'📘 General',p:'🎓 Profundo'};
 // Un viaje por nivel: r.v = {n:{día:aciertos}, g:{…}, p:{…}}. Cada nivel cuenta una vez al día.
 function vDias(r){if(!r.v){r.v={n:{},g:{},p:{}}; Object.keys(r.d||{}).forEach(k=>{const x=r.d[k]; if(x&&x.ok)r.v[x.lv||LV][k]=x.s;});} return r.v;}
-function viaje(cat){cat=cat||LV; const r=LS.get('hk_reto',{d:{}}), V=vDias(r)[cat]||{}, dias=Object.keys(V).sort();
+const VINICIO='2026-10-31';   // salida del viaje: los retos de antes no cuentan, todos empiezan en el Big Bang
+function viaje(cat){cat=cat||LV; const r=LS.get('hk_reto',{d:{}}), V=vDias(r)[cat]||{}, dias=Object.keys(V).filter(k=>k>=VINICIO).sort();
  let pts=0; if(dias.length){const d=new Date(dias[0]+'T12:00:00'), fin=hoy(); let sin=0;
   for(;;){const k=dkey(d); if(k>fin)break;
    if(V[k]!=null){pts+= cat==='n'?V[k]:VPTS[V[k]]; sin=0;}
@@ -1690,7 +1691,7 @@ async function viajeUI(){const B=$('#viajeBox'); if(!B||!IDX)return; const v=via
  if(solo){} else if(!cod) h+=`<p class="rt">Para aparecer en la clasificación necesitas tu código personal (lo tienes en ⚙️ Ajustes).</p>`;
  else if(!ap) h+=`<div class="vap"><p class="rt" id="vComo">En la clasificación apareces como «Viajero» con un número. Si quieres, elige un apodo (tu código no se muestra nunca):</p><div class="rbtns"><input id="vApodo" maxlength="20" placeholder="Tu apodo"><button class="btn" onclick="vApodo()">Guardar</button></div></div>`;
  h+='<div id="vClas"></div></div>'; B.innerHTML=h;
- if(cod&&LS.get('hk_marc_env','')!==hoy()){LS.set('hk_marc_env',hoy()); syncPush();}   // el marcador sube una vez al día aunque no se juegue
+ if(cod&&LS.get('hk_marc_env2','')!==hoy()){LS.set('hk_marc_env2',hoy()); syncPush();}   // el marcador sube una vez al día aunque no se juegue
  if(cod&&!solo){try{CLAS=await fetch('api/clasificacion.php?codigo='+encodeURIComponent(cod),{cache:'no-store'}).then(r=>r.json());}catch(e){CLAS=null;}
   const L=CLAS&&CLAS.lista&&CLAS.lista[v.cat]; if(!L||!L.length||!$('#vClas'))return;
   const yo=CLAS.yo&&CLAS.yo[v.cat]?{pos:CLAS.yo[v.cat]}:null, p1=vParada(v.cat,L[0][1]);
