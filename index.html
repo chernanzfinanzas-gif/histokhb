@@ -401,7 +401,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .nav a,.sg .ev small,.aq-ring,table.sg th.y,table.sg td.y{font-family:var(--f-body);font-weight:var(--w-small);letter-spacing:var(--ls-small)}
 .seg button{font-weight:var(--w-small)}
 /* esta semana, hace un tiempo */
-.semcard .semt{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+.semcard .t{-webkit-line-clamp:3}
 .semcard .sm{margin-top:4px;font-family:var(--f-body);font-weight:var(--w-small);letter-spacing:var(--ls-small);font-size:13px;color:var(--accent)}
 .cal{flex:0 0 52px;height:56px;border-radius:12px;border:1.5px solid var(--line);background:var(--card);overflow:hidden;display:flex;flex-direction:column;text-align:center}
 .cal .cm{background:var(--accent);color:#fff;font-family:var(--f-body);font-weight:var(--w-small);letter-spacing:.06em;text-transform:uppercase;font-size:10.5px;padding:3px 0 2px}
@@ -917,7 +917,7 @@ async function renderSemana0(){
  if(!l.length){el.innerHTML='';return;}
  let n=0; for(let k=-4;k<=4;k++)n+=semDia(semMas(h0,k)).length;
  const h=l[Math.floor(rng('sem'+hoy())()*l.length)], dr=semMas(h0,dd);
- el.innerHTML=`<button class="card semcard" onclick="go('#/semana')"><div class="cal" aria-hidden="true"><div class="cm">${MESN[dr.getMonth()].slice(0,3)}</div><div class="cd">${dr.getDate()}</div></div><div><div class="d">📅 Esta semana, hace un tiempo · ${dd===0?'un día como hoy':'un '+dr.getDate()+' de '+MESN[dr.getMonth()]} de ${fy(h.a)}</div><h3 class="semt">${esc(h.t)}</h3><div class="sm">Ver los ${n} hechos de estos días ›</div></div></button>`;
+ el.innerHTML=`<button class="card semcard" onclick="go('#/semana')"><div class="cal" aria-hidden="true"><div class="cm">${MESN[dr.getMonth()].slice(0,3)}</div><div class="cd">${dr.getDate()}</div></div><div><h3>Esta semana, hace un tiempo</h3><div class="d">📅 ${dd===0?'Un día como hoy':'Un '+dr.getDate()+' de '+MESN[dr.getMonth()]} de ${fy(h.a)}</div><div class="t">${esc(h.t)}</div><div class="sm">Ver los ${n} hechos de estos días ›</div></div></button>`;
 }
 async function renderSemana(){
  if(LV==='n'){location.replace('#/');return;}
