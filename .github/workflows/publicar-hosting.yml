@@ -35,6 +35,8 @@ jobs:
 
       - name: Colocar las fichas en «La historia en un año» (datos/calendario.json)
         run: python3 herramientas/calendario.py || echo "::warning::No se pudo regenerar datos/calendario.json; se publica el que hay"
+      - name: Historias relacionadas de cada ficha (datos/relacionadas.json)
+        run: python3 herramientas/relacionadas.py || echo "::warning::No se pudo regenerar datos/relacionadas.json; se publica el que hay"
 
       - name: Rellenar «Esta semana, hace un tiempo» (datos/semana.json)
         run: python3 herramientas/semana.py || echo "::warning::No se pudo regenerar datos/semana.json; se publica el que hay"
