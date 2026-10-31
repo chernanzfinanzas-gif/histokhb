@@ -1,40 +1,38 @@
 <?php
 // Cálculo de la clasificación, separado para poder probarlo sin base de datos.
+// Cada usuario trae «marcadores» {n|g|p: {pts, dia}}: un viaje por nivel (o el antiguo «marcador» {cat, pts, dia}).
+function viajero(string $cod): string { return 'Viajero ' . str_pad((string) (crc32('hk-viajero-' . $cod) % 10000), 4, '0', STR_PAD_LEFT); }
 function clasificacion(array $filas, string $codigo, string $hoy): array {
     $lista = ['n' => [], 'g' => [], 'p' => []];
-    $mio = null;
     foreach ($filas as [$cod, $d]) {
-        if (!is_array($d)) continue;
+        if (!is_array($d) || !empty($d['solo'])) continue;          // «Solo compito conmigo»: no aparece
+        $ms = $d['marcadores'] ?? null;
+        if (!is_array($ms) && is_array($d['marcador'] ?? null)) $ms = [($d['marcador']['cat'] ?? '') => $d['marcador']];
+        if (!is_array($ms)) continue;
         $ap = trim((string) ($d['apodo'] ?? ''));
-        $m = $d['marcador'] ?? null;
-        if (!is_array($m) || !isset($lista[$m['cat'] ?? ''])) continue;
-        if (!empty($d['solo'])) continue;          // «Solo compito conmigo»: no aparece
-        // sin apodo: «Viajero 4821», número fijo sacado del código que no permite adivinarlo
-        if ($ap === '') $ap = 'Viajero ' . str_pad((string) (crc32('hk-viajero-' . $cod) % 10000), 4, '0', STR_PAD_LEFT);
-        $cat = $m['cat']; $pts = max(0, (int) ($m['pts'] ?? 0));
-        $dia = (string) ($m['dia'] ?? '');
-        if ($cat !== 'n' && preg_match('/^\d{4}-\d{2}-\d{2}$/', $dia) && $dia < $hoy) {
-            // días completos sin jugar después del último reto (hoy aún se puede jugar: no cuenta)
-            $sin = (int) ((strtotime($hoy) - strtotime($dia)) / 86400) - 1;
-            $pts = max(0, $pts - max(0, $sin));
+        $ap = $ap === '' ? viajero($cod) : mb_substr(preg_replace('/\s+/u', ' ', strip_tags($ap)), 0, 20);
+        foreach ($ms as $cat => $m) {
+            if (!isset($lista[$cat]) || !is_array($m)) continue;
+            $pts = max(0, (int) ($m['pts'] ?? 0)); $dia = (string) ($m['dia'] ?? '');
+            if ($cat !== 'n' && preg_match('/^\d{4}-\d{2}-\d{2}$/', $dia) && $dia < $hoy) {
+                // días completos sin jugar desde el último reto de ese nivel (hoy aún se puede jugar); como mucho 7: luego se congela
+                $sin = (int) round((strtotime($hoy) - strtotime($dia)) / 86400) - 1;
+                $pts = max(0, $pts - min(7, max(0, $sin)));
+            }
+            $lista[$cat][] = [$ap, $pts, $cod];
         }
-        $ap = mb_substr(preg_replace('/\s+/u', ' ', strip_tags($ap)), 0, 20);
-        $lista[$cat][] = [$ap, $pts, $cod];
     }
-    // apodos repetidos (por si dos móviles lo guardaron a la vez): al segundo se le añade su número de viajero
-    $vistos = [];
-    foreach ($lista as &$l0) foreach ($l0 as &$e0) {
-        $k = mb_strtolower($e0[0]);
-        if (isset($vistos[$k]) && $vistos[$k] !== $e0[2]) $e0[0] .= ' · ' . str_pad((string) (crc32('hk-viajero-' . $e0[2]) % 10000), 4, '0', STR_PAD_LEFT);
-        else $vistos[$k] = $e0[2];
-    }
-    unset($l0, $e0);
-    $yo = null;
+    // apodos repetidos entre personas distintas: al segundo se le añade su número de viajero
+    $dueno = [];
+    foreach ($lista as $cat => $l) foreach ($l as $e) { $k = mb_strtolower($e[0]); if (!isset($dueno[$k])) $dueno[$k] = $e[2]; }
+    $yo = [];
     foreach ($lista as $cat => &$l) {
+        foreach ($l as &$e) if ($dueno[mb_strtolower($e[0])] !== $e[2]) $e[0] .= ' · ' . substr(viajero($e[2]), 8);
+        unset($e);
         usort($l, fn($a, $b) => $b[1] <=> $a[1] ?: strcmp($a[0], $b[0]));
-        foreach ($l as $i => $e) if ($codigo !== '' && $e[2] === $codigo) $yo = ['cat' => $cat, 'pos' => $i + 1];
+        foreach ($l as $i => $e) if ($codigo !== '' && $e[2] === $codigo) $yo[$cat] = $i + 1;
         $l = array_map(fn($e) => [$e[0], $e[1]], array_slice($l, 0, 100));
     }
-    // ¿está libre un apodo? (?apodo=…)  — para avisar al elegirlo
-    return ['lista' => $lista, 'yo' => $yo, 'apodos' => array_keys($vistos)];
+    unset($l);
+    return ['lista' => $lista, 'yo' => (object) $yo, 'apodos' => array_keys($dueno)];
 }
