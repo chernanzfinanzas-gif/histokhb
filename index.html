@@ -194,6 +194,14 @@ body.sec-scr{--barra:43px}
 .relg[open]{padding:0 10px 4px}
 .relg[open]>summary{padding-left:4px;padding-right:4px}
 .lugar.rel h3{font-size:16px}
+.viaje{background:#fff;border:1.5px solid var(--line,#e6dfd3);border-radius:16px;padding:14px;margin:6px 0 14px}
+.viaje .vt{font-size:13px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.5px}
+.viaje .vf{display:block;width:100%;text-align:left;border:0;background:none;padding:2px 0 8px;font-family:var(--f-head);font-weight:700;font-size:19px;color:var(--era,var(--accent));cursor:pointer}
+.viaje .vreg{margin-top:10px;font-size:14px}.viaje .vreg summary{cursor:pointer;font-weight:700;color:var(--era,var(--accent))}
+.viaje .vlider,.viaje .vpos{margin-top:10px;font-size:15px}
+.vap input{flex:1;min-width:0;border:1.5px solid var(--line,#ddd);border-radius:12px;padding:9px 12px;font-size:16px}
+.vlist{padding-left:22px;margin:8px 0 0}.vlist li{padding:6px 0;border-bottom:1px solid #eee;display:flex;gap:8px;align-items:baseline}
+.vlist li span{font-weight:700}.vlist li small{flex:1;color:var(--muted)}.vlist li.yo{background:#fff6dd}
 .audscr{display:none;width:100%;margin-top:6px;border:0;background:transparent;color:var(--muted);font:600 12.5px/1.3 var(--f-body,system-ui);padding:4px;text-align:center;cursor:pointer}
 .audbox.act .audscr{display:block}
 .audscr b{color:var(--era,var(--accent))}
@@ -586,7 +594,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 <!-- RETO -->
 <section class="scr" id="s-calendario"><div class="wrap"><div id="calBox"></div></div></section>
 <section class="scr" id="s-novedades"><div class="wrap"><div id="novBox"></div></div></section>
-<section class="scr" id="s-reto"><div class="wrap"><div id="retoBox"></div></div></section>
+<section class="scr" id="s-reto"><div class="wrap"><div id="retoBox"></div><div id="viajeBox"></div></div></section>
 
 <!-- GUARDADOS -->
 <section class="scr" id="s-favs"><div class="wrap">
@@ -694,6 +702,8 @@ function datosSync(){
  return {
   vistas: LS.get('hk_vistas',[]),
   reto: LS.get('hk_reto',{d:{}}),
+  apodo: LS.get('hk_apodo',''),
+  marcador: (typeof viaje==='function'&&IDX)?(({cat,pts,dia})=>({cat,pts,dia}))(viaje()):null,
   favs: LS.get('hk_favs',[]),
   ultima: LS.get('hk_ultima',null),
   ajustes: LS.get('hk_ajustes',{pal:'oceano',fon:'redondeada',tam:'normal'}),
@@ -1637,6 +1647,39 @@ function rango(n){let r=RANGOS[0],nx=null;for(let i=0;i<RANGOS.length;i++){if(n>
 function rangoHTML(st){const {r,nx}=rango(st);const best=LS.get('hk_reto',{d:{}}).best||st;
  const pct=nx?Math.round((st-r[0])/(nx[0]-r[0])*100):100;
  return `<div class="rango"><div class="ri">${r[1]}</div><div class="rb"><div class="rn">${r[2]}</div><div class="bar2"><i style="width:${pct}%"></i></div><div class="rt">${nx?`Te faltan ${nx[0]-st} día${nx[0]-st!==1?'s':''} para <b>${nx[1]} ${nx[2]}</b>`:'¡Has alcanzado la categoría máxima!'} · Mejor racha: ${Math.max(best,st)}</div></div></div>`;}
+// 🗺️ Viaje por la historia: cada día del reto suma (o resta) y vas avanzando por las fichas, del Big Bang a hoy.
+// Niños: +1 por acierto, nunca resta, 30 capítulos (3 puntos cada uno). General y Profundo: 5/4/3/−1/−2/−3 y −1 si no juegas, 483 fichas.
+const VPTS={5:5,4:4,3:3,2:-1,1:-2,0:-3}, VCAT={n:'🧒 Niños',g:'📘 General',p:'🎓 Profundo'};
+function viaje(){const r=LS.get('hk_reto',{d:{}}), dias=Object.keys(r.d).filter(k=>r.d[k]&&r.d[k].ok).sort();
+ const ult=dias.length?r.d[dias[dias.length-1]]:null, cat=(ult&&ult.lv)||LV;
+ let pts=0; if(dias.length){const d=new Date(dias[0]+'T12:00:00'), fin=hoy();
+  for(;;){const k=dkey(d), x=r.d[k]; if(k>fin)break;
+   if(x&&x.ok) pts+= cat==='n'?x.s:VPTS[x.s]; else if(cat!=='n'&&k<fin) pts-=1;
+   pts=Math.max(0,pts); d.setDate(d.getDate()+1);}}
+ return {cat,pts,dia:dias.length?dias[dias.length-1]:null,...vParada(cat,pts)};}
+function vParada(cat,pts){
+ if(cat==='n'){const C=IDX.capitulos, i=Math.min(C.length-1,Math.floor(pts/3)); return {tot:C.length*3,fin:pts>=C.length*3,t:C[i].t,h:'#/epoca/'+C[i].sec+'/'+C[i].id};}
+ const F=IDX.capitulos.flatMap(c=>c.f), i=Math.min(F.length-1,pts), f=IDX.fichas[F[i]]; return {tot:F.length,fin:pts>=F.length,t:f?f.t:'',h:'#/f/'+F[i]};}
+let CLAS=null;
+async function viajeUI(){const B=$('#viajeBox'); if(!B||!IDX)return; const v=viaje(); let cod=null; try{cod=localStorage.getItem('hk_codigo');}catch(e){}
+ const ap=LS.get('hk_apodo',''), pct=Math.min(100,Math.round(v.pts/v.tot*100));
+ let h=`<div class="sec-t">🗺️ Tu viaje por la historia · ${VCAT[v.cat]}</div><div class="viaje"><div class="vt">${v.fin?'🏁 ¡Has llegado a hoy!':'Vas por'}</div><button class="vf" onclick="go('${v.h}')">${esc(v.t)}</button><div class="bar2"><i style="width:${pct}%"></i></div><div class="rt">${v.pts} puntos · ${pct} % del camino, del Big Bang a hoy</div>`;
+ h+=`<details class="vreg"><summary>¿Cómo se avanza?</summary>${v.cat==='n'?'<p>Cada acierto a la primera suma 1 punto y nunca se resta. Cada 3 puntos avanzas un capítulo.</p>':'<p>Cada día del reto, según los aciertos a la primera: 5 → +5 · 4 → +4 · 3 → +3 · 2 → −1 · 1 → −2 · 0 → −3. Un día sin jugar resta 1. Cada punto avanza una ficha.</p>'}<p>Juegas en la categoría del último reto que hiciste.</p></details>`;
+ if(!cod) h+=`<p class="rt">Para aparecer en la clasificación necesitas tu código personal (lo tienes en ⚙️ Ajustes).</p>`;
+ else if(!ap) h+=`<div class="vap"><p class="rt" id="vComo">En la clasificación apareces como «Viajero» con un número. Si quieres, elige un apodo (tu código no se muestra nunca):</p><div class="rbtns"><input id="vApodo" maxlength="20" placeholder="Tu apodo"><button class="btn" onclick="vApodo()">Guardar</button></div></div>`;
+ h+='<div id="vClas"></div></div>'; B.innerHTML=h;
+ if(cod&&LS.get('hk_marc_env','')!==hoy()){LS.set('hk_marc_env',hoy()); syncPush();}   // el marcador sube una vez al día aunque no se juegue
+ if(cod){try{CLAS=await fetch('api/clasificacion.php?codigo='+encodeURIComponent(cod),{cache:'no-store'}).then(r=>r.json());}catch(e){CLAS=null;}
+  const L=CLAS&&CLAS.lista&&CLAS.lista[v.cat]; if(!L||!L.length||!$('#vClas'))return;
+  const yo=CLAS.yo&&CLAS.yo.cat===v.cat?CLAS.yo:null, p1=vParada(v.cat,L[0][1]);
+  if(yo&&!ap&&$('#vComo'))$('#vComo').innerHTML=`En la clasificación apareces como <b>${esc(L[yo.pos-1][0])}</b>. Si quieres, elige un apodo (tu código no se muestra nunca):`;
+  let c=`<div class="vlider">👑 <b>${esc(L[0][0])}</b> va por <b>${esc(p1.t)}</b></div>`;
+  if(yo&&yo.pos) c+=`<div class="vpos">Eres el <b>${yo.pos}º</b> de ${L.length} en ${VCAT[v.cat]}</div>`;
+  c+=`<details class="vreg"><summary>Ver clasificación</summary><ol class="vlist">${L.slice(0,20).map(([a,pt],i)=>`<li${yo&&yo.pos===i+1?' class="yo"':''}><span>${esc(a)}</span><small>${esc(vParada(v.cat,pt).t)}</small><b>${pt}</b></li>`).join('')}</ol></details>`;
+  $('#vClas').innerHTML=c;}}
+function vApodo(){const a=($('#vApodo').value||'').trim().replace(/\s+/g,' ').slice(0,20); if(a.length<2)return;
+ if(CLAS&&(CLAS.apodos||[]).includes(a.toLowerCase())){$('#vComo').innerHTML='⚠️ Ese apodo ya lo usa otra persona. Elige otro:';return;}
+ LS.set('hk_apodo',a); syncPush(); setTimeout(viajeUI,1800);}
 function saveProg(){ if(!RS.practice) LS.set('hk_reto_prog',RS); }
 async function renderReto(mode){
  lastScreen='reto'; show('reto');
@@ -1651,12 +1694,12 @@ async function renderReto(mode){
  drawReto();
 }
 function drawReto(){
- const B=$('#retoBox'), n=RS.qs.length;
+ const B=$('#retoBox'), n=RS.qs.length; setTimeout(viajeUI,0);
  const LVS=`<p class="lvq">Preguntas para:</p><div class="seg lvhome lvsel">${[['n','🧒 Niños'],['g','📘 General'],['p','🎓 Profundo']].map(([l,t])=>`<button data-l="${l}" class="${l===LV?'on':''}" onclick="setLevel('${l}');renderReto(RS&&RS.practice?'practica':'')">${t}</button>`).join('')}</div>`;
  const dots='<div class="dots">'+RS.qs.map((q,j)=>`<i class="${q.ans==null?(j===RS.k?'cur':''):(q.wrong.length?'ko':'ok')}"></i>`).join('')+'</div>';
  if(RS.k>=n){ // terminado: las 5 resueltas
   const first=RS.qs.filter(q=>!q.wrong.length).length;
-  if(!RS.practice){const r=LS.get('hk_reto',{d:{}});if(!(r.d[RS.day]||{}).ok){r.d[RS.day]={s:first,ok:true};LS.set('hk_reto',r);const st0=racha();const prevR=rango(st0-1).r;r.best=Math.max(r.best||0,st0);LS.set('hk_reto',r);syncPush();gcCount('/reto-completado/'+first,true);RS.subio=(rango(st0).r!==prevR)?rango(st0).r:null;}}
+  if(!RS.practice){const r=LS.get('hk_reto',{d:{}});if(!(r.d[RS.day]||{}).ok){r.d[RS.day]={s:first,ok:true,lv:RS.lv};LS.set('hk_reto',r);const st0=racha();const prevR=rango(st0-1).r;r.best=Math.max(r.best||0,st0);LS.set('hk_reto',r);syncPush();gcCount('/reto-completado/'+first,true);RS.subio=(rango(st0).r!==prevR)?rango(st0).r:null;}}
   const st=racha(), msg=first===5?'¡Pleno a la primera! Eres un sabio de la historia.':first>=3?'¡Muy bien! Reto resuelto.':'¡Reto resuelto! Buscar en las fichas también es aprender.';
   const share='🏆 Reto del día de HistoKHB - Historia Total: '+first+'/5 a la primera'+(RS.practice?'':(st>1?' · 🔥 racha de '+st+' días · '+rango(st).r[1]+' '+rango(st).r[2]:''))+'. ¿Te atreves?\n👉 https://historiatotal.es/#/reto';
   B.innerHTML=LVS+`<div class="score"><img class="ammo-reto" src="img/ammo/ammo-${first>=4?'celebra':first>=2?'lee':'piensa'}.webp" alt="" width="110" height="130"><div class="sec-t" style="margin-top:6px">${RS.practice?'Práctica':'Reto del día · '+RS.day.split('-').reverse().join('/')}</div><div class="big1">${first}/5</div><p style="margin:4px 0 0;color:var(--muted);font-weight:700">a la primera</p><p>${msg}</p>${RS.practice?'':`${RS.subio?`<div class="fb" style="text-align:center">🎉 ¡Nueva categoría: <b>${RS.subio[1]} ${RS.subio[2]}</b>!</div>`:''}<span class="streak">🔥 Racha: ${st} día${st!==1?'s':''}</span>${rangoHTML(st)}<p class="rt">Cada día que resuelves las 5 preguntas suma uno. Si un día no lo haces, la racha vuelve a empezar.</p>`}</div>`+
