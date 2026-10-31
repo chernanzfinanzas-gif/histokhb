@@ -38,7 +38,13 @@ for sec in {f['sec'] for f in I.values()}:
     for k, f in F.items():
         if k in I:
             h = (f.get('p') or '') + (f.get('g') or ''); items['f:' + k] = (I[k]['t'], negritas(h), anio(I[k])); CRUDO['f:' + k] = plano(I[k]['t'] + ' ' + h)
-for k, d in DES.items(): items['d:' + k] = (d['t'], negritas(d.get('h')), None); CRUDO['d:' + k] = plano(d['t'] + ' ' + (d.get('h') or ''))
+# año de un desarrollo: el de la ficha que lo contiene (su botón «📖» está en ella)
+DUENO = {}
+for sec in {f['sec'] for f in I.values()}:
+    for fk, f in J(f'fichas-{sec}.json').items():
+        if fk in I:
+            for dk in re.findall(r"#/d/([\w-]+)", ' '.join(f.get(n) or '' for n in 'ngp')): DUENO.setdefault(dk, anio(I[fk]))
+for k, d in DES.items(): items['d:' + k] = (d['t'], negritas(d.get('h')), DUENO.get(k)); CRUDO['d:' + k] = plano(d['t'] + ' ' + (d.get('h') or ''))
 TIT = {(r + '|' + str(e[0])): e[1] for r, a in SE.items() for e in a}
 for p in glob.glob(os.path.join(R, 'datos', 'sinc-det-*.json')):
     for k, h in json.load(open(p, encoding='utf-8')).items():
@@ -85,7 +91,7 @@ def cerca(y1, y2):
     esc = max(25, 0.25 * max(HOY - min(y1, y2), 1))
     return math.exp(-abs(y1 - y2) / esc)
 
-def grupos(k, maxg=5, maxi=5):
+def grupos(k, maxg=8, maxi=10):
     t, ns, y = items[k]
     util = [n for n in ns if 2 <= df[n] <= 250]
     cand = collections.defaultdict(float)
@@ -107,14 +113,18 @@ def grupos(k, maxg=5, maxi=5):
         r = raiz(n)
         if any(r <= e or e <= r for e in elegidos): continue      # «Isidoro» ⊂ «Isidoro de Sevilla» ⊂ «San Isidoro»: un solo grupo
         g0 = sorted((c for c in idx[n] if c in cand and c not in usados and vale(n, c) and cand[c] > 0.8), key=lambda c: (-en_titulo(n, c), -cand[c]))
-        g, lug = [], 0
+        g, lug, vistos = [], 0, {norm(items[x][0]) for x in usados}
         for c in g0:
+            tn = norm(items[c][0])
+            if tn in vistos or tn == norm(t): continue             # mismo título (ficha y sincronía gemelas): una sola vez
+            vistos.add(tn)
             if c.startswith('l:'):
                 if lug: continue
                 lug = 1
             g.append(c)
             if len(g) >= maxi: break
         if len(g) < 2: continue
+        g.sort(key=lambda c: (items[c][2] is None, items[c][2] if items[c][2] is not None else 0))   # de antiguo a moderno; los lugares al final
         out.append([ns[n], g]); usados.update(g); elegidos.append(r)
         if len(out) >= maxg: break
     # pocas historias en total (6 o menos): van juntas, sin grupos
@@ -129,6 +139,22 @@ if __name__ == '__main__':
         sys.exit()
     out = {k[2:]: grupos(k) for k in items if k.startswith('f:')}
     # los lugares que no son ficha también pueden aparecer: se guardan con su clave l:… (la app abre #/l/…)
+    # «Más historias de esta época»: cada ficha de sincronía que no ha salido en ningún grupo va a la ficha de época
+    # más cercana en el tiempo que hable de su región o de algún nombre suyo (como mucho 12 por ficha)
+    usadas = {c for v in out.values() for _, g in v for c in g}
+    fichas = [k for k in items if k.startswith('f:') and items[k][2] is not None]
+    reg = {k: norm(k[2:].rsplit('|', 1)[0]) for k in items if k.startswith('s:')}
+    extra = collections.defaultdict(list)
+    for s in sorted((k for k in items if k.startswith('s:') and k not in usadas), key=lambda k: items[k][2]):
+        y = items[s][2]; pal = [w for w in re.findall(r'[a-z]{4,}', reg[s]) if w not in ('castilla', 'espana', 'hispania')] or re.findall(r'[a-z]{4,}', reg[s])
+        def nota(f):
+            c = cerca(y, items[f][2]); txt = CRUDO[f].lower()
+            return c * (1 + 2 * any(w in txt for w in pal) + sum(idf(n) for n in items[s][1] if n in items[f][1]) / 5)
+        for f in sorted(fichas, key=lambda f: -nota(f)):
+            if nota(f) < 0.3: break
+            if len(extra[f]) < 12: extra[f].append(s); break
+    for f, g in extra.items():
+        g.sort(key=lambda c: items[c][2]); out.setdefault(f[2:], []).append(['Más historias de esta época', g])
     out = {k: v for k, v in out.items() if v}
     json.dump(out, open(os.path.join(R, 'datos', 'relacionadas.json'), 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
     print(f'relacionadas: {len(out)} de {sum(1 for k in items if k.startswith("f:"))} fichas con grupos; {sum(len(v) for v in out.values())} grupos')

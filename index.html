@@ -184,7 +184,15 @@ body.sec-scr{--barra:43px}
 .audrow .escuchar{margin:0;flex:1;min-width:0}
 .audctl{display:none;gap:6px;margin-top:6px}
 .audbox.act .audctl{display:flex}
-.rel-t span{text-transform:none;letter-spacing:0;color:var(--era,var(--accent));font-size:1.05em}
+.relg{border:1.5px solid var(--line,#e6dfd3);border-radius:14px;margin:8px 0;background:#fff}
+.relg>summary{list-style:none;display:flex;align-items:center;gap:10px;padding:12px 14px;cursor:pointer;font-family:var(--f-head);font-weight:700;font-size:16px;color:var(--ink,#222)}
+.relg>summary::-webkit-details-marker{display:none}
+.relg>summary::before{content:'▸';color:var(--era,var(--accent));transition:transform .2s}
+.relg[open]>summary::before{transform:rotate(90deg)}
+.relg .rl{flex:1}
+.relg .rn{font-size:13px;font-weight:700;color:#fff;background:var(--era,var(--accent));border-radius:999px;padding:2px 9px}
+.relg[open]{padding:0 10px 4px}
+.relg[open]>summary{padding-left:4px;padding-right:4px}
 .lugar.rel h3{font-size:16px}
 .audscr{display:none;width:100%;margin-top:6px;border:0;background:transparent;color:var(--muted);font:600 12.5px/1.3 var(--f-body,system-ui);padding:4px;text-align:center;cursor:pointer}
 .audbox.act .audscr{display:block}
@@ -1008,8 +1016,8 @@ let navCount=0; window.addEventListener('hashchange',()=>{navCount++;});
 let sheetBase=null; // ruta de pantalla bajo la ficha
 // PILA: fichas abiertas desde «Para saber más de…»; al cerrar se vuelve a la ficha de origen, a la misma altura
 let PILA=[];
-function relGo(h){PILA.push({h:location.hash,y:$('#sheet').scrollTop}); go(h);}
-function closeSheet(){ if(PILA.length){const o=PILA.pop(); go(o.h); [350,800,1500].forEach(ms=>setTimeout(()=>{if(location.hash===o.h)$('#sheet').scrollTop=o.y;},ms)); return;}
+function relGo(h){PILA.push({h:location.hash,y:$('#sheet').scrollTop,ab:[...document.querySelectorAll('#shBody .relg[open] .rl')].map(e=>e.textContent)}); go(h);}
+function closeSheet(){ if(PILA.length){const o=PILA.pop(); go(o.h); [350,800,1500].forEach(ms=>setTimeout(()=>{if(location.hash!==o.h)return; document.querySelectorAll('#shBody .relg').forEach(d=>{if(o.ab.includes(d.querySelector('.rl').textContent))d.open=true;}); $('#sheet').scrollTop=o.y;},ms)); return;}
  if(sheetBase!==null){const b=sheetBase;sheetBase=null;go(b);} else { const f=CUR&&CUR.kind==='f'&&IDX.fichas[CUR.key]; go(f?'#/epoca/'+f.sec:'#/'); } }
 $('#shClose').onclick=closeSheet;
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&CUR)closeSheet();});
@@ -1167,7 +1175,7 @@ async function renderSheet(){
   await audioUI(k,f); if(!CUR||CUR.key!==k)return;
   // 🔎 Para saber más de…: grupos de historias relacionadas (datos/relacionadas.json, generado por herramientas/relacionadas.py)
   {const RL=await relac(); const G=RL[k]; if(G&&G.length&&CUR&&CUR.key===k){ await sinc().catch(()=>{}); if(!DESA)DESA=await getJ('desarrollos.json').catch(()=>({})); if(!LUG)LUG=await getJ('lugares.json').catch(()=>({lugares:[]}));
-   if(CUR&&CUR.key===k) b.insertAdjacentHTML('beforeend',G.map(([lab,ids])=>`<div class="sec-t rel-t">🔎 ${lab?'Para saber más de <span>'+esc(lab)+'</span>':'Historias relacionadas'}</div>`+ids.map(relItem).join('')).join(''));}}
+   if(CUR&&CUR.key===k) b.insertAdjacentHTML('beforeend',`<div class="sec-t">🔎 Para saber más</div>`+G.map(([lab,ids])=>{const it=ids.map(relItem).filter(Boolean); return it.length?`<details class="relg"${lab?'':' open'}><summary><span class="rl">${lab?esc(lab):'Historias relacionadas'}</span><span class="rn">${it.length}</span></summary>${it.join('')}</details>`:'';}).join(''));}}
   if(!(RELAC&&RELAC[k])&&f.sk&&f.sk.length){await sinc(); if(CUR&&CUR.key===k) b.insertAdjacentHTML('beforeend',`<div class="sec-t">📅 En la sincronía (${f.sk.length})</div>`+f.sk.map(key=>{const r=key.slice(0,key.lastIndexOf('|')),y=+key.split('|').pop();const e=(SINC.ev[r]||[]).find(e=>e[0]===y);return `<button class="lugar" onclick="go('#/s/${encodeURIComponent(key)}')"><div class="lk">📅 ${fy(y)} · ${esc(rn(r))}${e&&e[3]===2?'<span class="bio">biografía</span>':''}</div><h3>${esc(e?e[1]:rn(r))}</h3></button>`;}).join(''));}
   if(!LUG)LUG=await getJ('lugares.json').catch(()=>({lugares:[]}));
   const pvf=LUG.lugares.filter(l=>(l.eventos||[]).includes('f:'+k));
