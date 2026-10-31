@@ -8,6 +8,7 @@ function clasificacion(array $filas, string $codigo, string $hoy): array {
         $ap = trim((string) ($d['apodo'] ?? ''));
         $m = $d['marcador'] ?? null;
         if (!is_array($m) || !isset($lista[$m['cat'] ?? ''])) continue;
+        if (!empty($d['solo'])) continue;          // «Solo compito conmigo»: no aparece
         // sin apodo: «Viajero 4821», número fijo sacado del código que no permite adivinarlo
         if ($ap === '') $ap = 'Viajero ' . str_pad((string) (crc32('hk-viajero-' . $cod) % 10000), 4, '0', STR_PAD_LEFT);
         $cat = $m['cat']; $pts = max(0, (int) ($m['pts'] ?? 0));
