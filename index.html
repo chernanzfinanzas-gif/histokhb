@@ -194,6 +194,22 @@ body.sec-scr{--barra:43px}
 .relg[open]{padding:0 10px 4px}
 .relg[open]>summary{padding-left:4px;padding-right:4px}
 .lugar.rel h3{font-size:16px}
+.anun-fondo{position:fixed;inset:0;background:rgba(20,20,30,.55);z-index:9999;display:flex;align-items:center;justify-content:center;padding:16px}
+.anun{background:#fffaf0;border-radius:20px;max-width:380px;width:100%;padding:20px 18px 14px;text-align:center;box-shadow:0 10px 40px rgba(0,0,0,.3)}
+.anun img{display:block;margin:0 auto 6px}.anun h3{margin:4px 0 8px;font-family:var(--f-head);font-size:22px;color:var(--accent)}.anun p{margin:0 0 12px;font-size:16px;line-height:1.45}
+.anun .rbtns{margin-top:8px}
+.vnormas{background:#fffaf0;border:2px solid var(--era,var(--accent));border-radius:16px;padding:14px 16px;margin:6px 0 14px;font-size:15px;line-height:1.5}
+.vnormas h3{margin:0 0 6px;font-family:var(--f-head)}.vnormas h4{margin:12px 0 2px;font-family:var(--f-head);color:var(--era,var(--accent))}.vnormas p{margin:4px 0}
+.vtab{width:100%;border-collapse:collapse;font-size:14px;margin:4px 0}.vtab th,.vtab td{border-bottom:1px solid #eee;padding:4px 6px;text-align:center}.vtab td:first-child,.vtab th:first-child{text-align:left}
+.vsolo{display:flex;gap:10px;align-items:flex-start;margin-top:12px;font-size:14px;cursor:pointer}.vsolo input{width:20px;height:20px;margin-top:2px}
+.viaje{background:#fff;border:1.5px solid var(--line,#e6dfd3);border-radius:16px;padding:14px;margin:6px 0 14px}
+.viaje .vt{font-size:13px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.5px}
+.viaje .vf{display:block;width:100%;text-align:left;border:0;background:none;padding:2px 0 8px;font-family:var(--f-head);font-weight:700;font-size:19px;color:var(--era,var(--accent));cursor:pointer}
+.viaje .vreg{margin-top:10px;font-size:14px}.viaje .vreg summary{cursor:pointer;font-weight:700;color:var(--era,var(--accent))}
+.viaje .vlider,.viaje .vpos{margin-top:10px;font-size:15px}
+.vap input{flex:1;min-width:0;border:1.5px solid var(--line,#ddd);border-radius:12px;padding:9px 12px;font-size:16px}
+.vlist{padding-left:22px;margin:8px 0 0}.vlist li{padding:6px 0;border-bottom:1px solid #eee;display:flex;gap:8px;align-items:baseline}
+.vlist li span{font-weight:700}.vlist li small{flex:1;color:var(--muted)}.vlist li.yo{background:#fff6dd}
 .audscr{display:none;width:100%;margin-top:6px;border:0;background:transparent;color:var(--muted);font:600 12.5px/1.3 var(--f-body,system-ui);padding:4px;text-align:center;cursor:pointer}
 .audbox.act .audscr{display:block}
 .audscr b{color:var(--era,var(--accent))}
@@ -586,7 +602,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 <!-- RETO -->
 <section class="scr" id="s-calendario"><div class="wrap"><div id="calBox"></div></div></section>
 <section class="scr" id="s-novedades"><div class="wrap"><div id="novBox"></div></div></section>
-<section class="scr" id="s-reto"><div class="wrap"><div id="retoBox"></div></div></section>
+<section class="scr" id="s-reto"><div class="wrap"><div id="retoBox"></div><div id="viajeBox"></div></div></section>
 
 <!-- GUARDADOS -->
 <section class="scr" id="s-favs"><div class="wrap">
@@ -694,6 +710,9 @@ function datosSync(){
  return {
   vistas: LS.get('hk_vistas',[]),
   reto: LS.get('hk_reto',{d:{}}),
+  apodo: LS.get('hk_apodo',''),
+  solo: !!LS.get('hk_solo',false),
+  marcador: (typeof viaje==='function'&&IDX)?(({cat,pts,dia})=>({cat,pts,dia}))(viaje()):null,
   favs: LS.get('hk_favs',[]),
   ultima: LS.get('hk_ultima',null),
   ajustes: LS.get('hk_ajustes',{pal:'oceano',fon:'redondeada',tam:'normal'}),
@@ -764,7 +783,7 @@ function go(h){location.hash=h;}
 $('#waTop').innerHTML=WA_ICO+'<span class="wat">Compartir</span>';
 $('#waTop').href=waLink('👉 Accede con '+BASE+' tanto en el móvil como en el ordenador.\n\n📜 *HistoKHB - Historia Total*\n\nOs presento mi proyecto, aparcado durante años: toda la historia del mundo, del Big Bang a hoy. Gratis, con ilustraciones animadas y voz.\n\n• Elige nivel: Niños, General o Profundo.\n• 🔊 *Escuchar* para que te la cuenten.\n• Mantén pulsada una palabra y te dice qué significa.\n• 🌍 *El mundo*: qué pasaba en todo el planeta el mismo año.\n• 📍 *Aquí*: la historia de donde estás.\n• 🏆 *Reto*: 5 preguntas cada día.\n\n🔑 Guarda el código que te sale la primera vez: así no pierdes tus favoritos ni tus avances al abrir la página en un dispositivo u otro.\n\nCarlos HB (KHB)');
 $('#shWa').innerHTML=WA_ICO;
-getJ('indice.json').then(j=>{IDX=j;return syncPull();}).then(()=>{initInicio();route();}).catch(e=>{document.body.insertAdjacentHTML('afterbegin','<p style="padding:20px;text-align:center"><img src="img/ammo/ammo-duerme.webp" alt="" width="120" height="116" style="display:block;margin:0 auto 8px">No se han podido cargar los datos. Comprueba la conexión y recarga.</p>');});
+getJ('indice.json').then(j=>{IDX=j;return syncPull();}).then(()=>{initInicio();route();setTimeout(anuncio,1200);}).catch(e=>{document.body.insertAdjacentHTML('afterbegin','<p style="padding:20px;text-align:center"><img src="img/ammo/ammo-duerme.webp" alt="" width="120" height="116" style="display:block;margin:0 auto 8px">No se han podido cargar los datos. Comprueba la conexión y recarga.</p>');});
 window.addEventListener('hashchange',route);
 if('serviceWorker' in navigator){const hadSW=!!navigator.serviceWorker.controller; let rl=false;
  navigator.serviceWorker.addEventListener('controllerchange',()=>{if(hadSW&&!rl&&PL.paused){rl=true;location.reload();}});
@@ -862,7 +881,7 @@ function initInicio(){
  let t=null; $('#q').addEventListener('input',e=>{clearTimeout(t);t=setTimeout(()=>doSearch(e.target.value),180);});
  $('#q').addEventListener('focus',()=>{sinc().catch(()=>{});if(!BUS)getJ('buscar.json').then(j=>{BUS=j;}).catch(()=>{});if(!LUG)getJ('lugares.json').then(j=>LUG=j).catch(()=>{});if(!DESA)getJ('desarrollos.json').then(j=>{DESA=j;if($('#q').value.trim().length>1)doSearch($('#q').value);}).catch(()=>{});},{once:true});
 }
-function renderInicio(){lastScreen='inicio';show('inicio');renderFavs0();const f=LS.get('hk_favs',[]);$('#favMini').textContent=f.length?f.length+' historia'+(f.length>1?'s':'')+' guardada'+(f.length>1?'s':'')+' en este móvil.':'Las historias que marques con ☆.';const r=LS.get('hk_reto',{d:{}});const t=r.d[hoy()],st=racha();const RG=rango(st).r;$('#retoIco').textContent=RG[1];$('#retoMini').textContent=(t&&t.ok)?'✅ Hoy resuelto ('+t.s+'/5 a la primera) · 🔥 racha de '+st+' día'+(st!==1?'s':''):(st?'🔥 Racha de '+st+' día'+(st!==1?'s':'')+'. ¡Resuelve el de hoy para seguir!':'5 preguntas nuevas cada día. ¿Te atreves?')+(st?' · '+RG[2]:'');
+function renderInicio(){lastScreen='inicio';show('inicio');renderFavs0();const f=LS.get('hk_favs',[]);$('#favMini').textContent=f.length?f.length+' historia'+(f.length>1?'s':'')+' guardada'+(f.length>1?'s':'')+' en este móvil.':'Las historias que marques con ☆.';const r=LS.get('hk_reto',{d:{}});const t=r.d[hoy()],st=racha();const RG=rango(vPct()).r;$('#retoIco').textContent=RG[1];$('#retoMini').textContent=(t&&t.ok)?'✅ Hoy resuelto ('+t.s+'/5 a la primera) · 🔥 racha de '+st+' día'+(st!==1?'s':''):(st?'🔥 Racha de '+st+' día'+(st!==1?'s':'')+'. ¡Resuelve el de hoy para seguir!':'5 preguntas nuevas cada día. ¿Te atreves?')+(st?' · '+RG[2]:'');
  const ks=Object.keys(IDX.fichas), R=rng('dia'+hoy()), hk=ks[Math.floor(R()*ks.length)], hf=IDX.fichas[hk];
  const ul=LS.get('hk_ultima',null), uf=ul&&IDX.fichas[ul], nv=LS.get('hk_vistas',[]).filter(x=>IDX.fichas[x]).length;
  $('#hdia').innerHTML=(uf?`<button class="card" style="border-color:#3a9a5b" onclick="go('#/f/${ul}')"><div class="ic">${uf.ic}</div><div><div class="d">↩️ Seguir donde lo dejaste${nv?` · ✓ ${nv} de ${ks.length} vistas`:''}</div><h3>${esc(uf.t)}</h3><div class="t">${esc(uf.d)}</div></div></button>`:'')+`<button class="card" style="border-color:var(--accent)" onclick="go('#/f/${hk}')"><div class="ic">${hf.ic}</div><div><div class="d">📖 Historia del día · ${esc(hf.d)}</div><h3>${esc(hf.t)}</h3><div class="t">${esc(hf.tz)}</div></div></button>`;renderSemana0();}
@@ -1632,11 +1651,75 @@ function pickSet(seed,lv){
  want.forEach(d=>{for(let t=0;t<200;t++){const i=byDif[d][Math.floor(R()*byDif[d].length)];const f=FI(RETOQ[i][0]);if(used.has(i)||(t<150&&f&&secs.has(f.sec)))continue;used.add(i);f&&secs.add(f.sec);out.push(i);break;}});
  return out.map(i=>({i,ord:[0,1,2,3].sort(()=>R()-.5),ans:null,wrong:[],hint:false}));
 }
-const RANGOS=[[0,'🧭','Viajero curioso'],[3,'📜','Aprendiz de escriba'],[7,'🪶','Cronista'],[14,'🏛️','Erudito'],[30,'📚','Sabio de Alejandría'],[60,'🦉','Guardián de la memoria'],[100,'👑','Maestro de la Historia']];
+// categorías por lo avanzado en el viaje (% del camino del Big Bang a hoy), no por días seguidos: no se pierden de golpe
+const RANGOS=[[0,'🧭','Viajero curioso'],[5,'📜','Aprendiz de escriba'],[15,'🪶','Cronista'],[30,'🏛️','Erudito'],[50,'📚','Sabio de Alejandría'],[75,'🦉','Guardián de la memoria'],[100,'👑','Maestro de la Historia']];
+function vPct(){try{const v=viaje();return Math.min(100,Math.floor(v.pts/v.tot*100));}catch(e){return 0;}}
 function rango(n){let r=RANGOS[0],nx=null;for(let i=0;i<RANGOS.length;i++){if(n>=RANGOS[i][0]){r=RANGOS[i];nx=RANGOS[i+1]||null;}}return {r,nx};}
-function rangoHTML(st){const {r,nx}=rango(st);const best=LS.get('hk_reto',{d:{}}).best||st;
- const pct=nx?Math.round((st-r[0])/(nx[0]-r[0])*100):100;
- return `<div class="rango"><div class="ri">${r[1]}</div><div class="rb"><div class="rn">${r[2]}</div><div class="bar2"><i style="width:${pct}%"></i></div><div class="rt">${nx?`Te faltan ${nx[0]-st} día${nx[0]-st!==1?'s':''} para <b>${nx[1]} ${nx[2]}</b>`:'¡Has alcanzado la categoría máxima!'} · Mejor racha: ${Math.max(best,st)}</div></div></div>`;}
+function rangoHTML(st){const v=viaje(), vp=Math.min(100,Math.floor(v.pts/v.tot*100)), {r,nx}=rango(vp);const best=LS.get('hk_reto',{d:{}}).best||st;
+ const pct=nx?Math.round((vp-r[0])/(nx[0]-r[0])*100):100, falta=nx?Math.max(1,Math.ceil(nx[0]*v.tot/100)-v.pts):0;
+ return `<div class="rango"><div class="ri">${r[1]}</div><div class="rb"><div class="rn">${r[2]}</div><div class="bar2"><i style="width:${pct}%"></i></div><div class="rt">${nx?`Te faltan ${falta} punto${falta!==1?'s':''} para <b>${nx[1]} ${nx[2]}</b>`:'¡Has alcanzado la categoría máxima!'} · Mejor racha: ${Math.max(best,st)} días</div></div></div>`;}
+// 🗺️ Viaje por la historia: cada día del reto suma (o resta) y vas avanzando por las fichas, del Big Bang a hoy.
+// Niños: +1 por acierto, nunca resta, 30 capítulos (3 puntos cada uno). General y Profundo: 5/4/3/−1/−2/−3 y −1 si no juegas, 483 fichas.
+const VPTS={5:5,4:4,3:3,2:-1,1:-2,0:-3}, VCAT={n:'🧒 Niños',g:'📘 General',p:'🎓 Profundo'};
+function viaje(){const r=LS.get('hk_reto',{d:{}}), dias=Object.keys(r.d).filter(k=>r.d[k]&&r.d[k].ok).sort();
+ const ult=dias.length?r.d[dias[dias.length-1]]:null, cat=(ult&&ult.lv)||LV;
+ let pts=0; if(dias.length){const d=new Date(dias[0]+'T12:00:00'), fin=hoy();
+  for(;;){const k=dkey(d), x=r.d[k]; if(k>fin)break;
+   if(x&&x.ok) pts+= cat==='n'?x.s:VPTS[x.s]; else if(cat!=='n'&&k<fin) pts-=1;
+   pts=Math.max(0,pts); d.setDate(d.getDate()+1);}}
+ return {cat,pts,dia:dias.length?dias[dias.length-1]:null,...vParada(cat,pts)};}
+function vParada(cat,pts){
+ if(cat==='n'){const C=IDX.capitulos, i=Math.min(C.length-1,Math.floor(pts/3)); return {tot:C.length*3,fin:pts>=C.length*3,t:C[i].t,h:'#/epoca/'+C[i].sec+'/'+C[i].id};}
+ const F=IDX.capitulos.flatMap(c=>c.f), i=Math.min(F.length-1,pts), f=IDX.fichas[F[i]]; return {tot:F.length,fin:pts>=F.length,t:f?f.t:'',h:'#/f/'+F[i]};}
+// 📣 Anuncio de una sola vez al abrir la app (se cambia la clave para un anuncio nuevo)
+const ANUNCIO={k:'hk_anuncio_viaje1',img:'img/ammo/ammo-celebra.webp',t:'¡Novedades en el reto!',p:'Nuevas normas, más desafío: cada reto te hace avanzar por la historia, del Big Bang a hoy. ¡Sé el primero en alcanzar la actualidad!',ir:'#/reto',btn:'🏆 Ir al reto'};
+let ANUN_VISTO=false;
+function anuncio(){if(ANUN_VISTO||LS.get(ANUNCIO.k,false)||document.getElementById('anuncio'))return;
+ document.body.insertAdjacentHTML('beforeend',`<div id="anuncio" class="anun-fondo" onclick="if(event.target===this)anuncioCierra()"><div class="anun"><img src="${ANUNCIO.img}" alt="" width="120" height="140"><h3>${ANUNCIO.t}</h3><p>${ANUNCIO.p}</p><div class="rbtns"><button class="btn" onclick="anuncioCierra();go('${ANUNCIO.ir}')">${ANUNCIO.btn}</button></div><div class="rbtns"><button class="btn sec" onclick="anuncioCierra()">Cerrar</button></div></div></div>`);}
+function anuncioCierra(){ANUN_VISTO=true; LS.set(ANUNCIO.k,true); const e=document.getElementById('anuncio'); if(e)e.remove();}
+let CLAS=null, VISTO=false;   // VISTO: la presentación ya se cerró en esta visita (por si el navegador no deja guardarlo)
+async function viajeUI(){const B=$('#viajeBox'); if(!B||!IDX)return; const v=viaje(); let cod=null; try{cod=localStorage.getItem('hk_codigo');}catch(e){}
+ const ap=LS.get('hk_apodo',''), pct=Math.min(100,Math.round(v.pts/v.tot*100));
+ const solo=!!LS.get('hk_solo',false);
+ if(!VISTO&&!LS.get('hk_viaje_visto',false)&&!document.querySelector('#s-reto .vnormas'))$('#retoBox').insertAdjacentHTML('beforebegin',vNormas(true));   // la primera vez, arriba del todo
+ let h=`<div class="sec-t">🗺️ Tu viaje por la historia · ${VCAT[v.cat]}</div><div class="viaje"><div class="vt">${v.fin?'🏁 ¡Has llegado a hoy!':'Vas por'} · ${pct} %</div><button class="vf" onclick="go('${v.h}')">${esc(v.t)}</button><div class="bar2"><i style="width:${pct}%"></i></div><div class="rt">${v.pts} puntos · ${pct} % del camino, del Big Bang a hoy</div>`;
+ h+=`<div class="rbtns" style="margin-top:10px"><button class="btn sec" onclick="vVerNormas()">❔ Normas del juego</button></div>`;
+ h+=`<label class="vsolo"><input type="checkbox" ${solo?'checked':''} onchange="vSolo(this.checked)"> <span><b>🙈 Solo compito conmigo</b><br><small>No apareces en la clasificación ni ves la de los demás: solo tu propio viaje.</small></span></label>`;
+ if(solo){} else if(!cod) h+=`<p class="rt">Para aparecer en la clasificación necesitas tu código personal (lo tienes en ⚙️ Ajustes).</p>`;
+ else if(!ap) h+=`<div class="vap"><p class="rt" id="vComo">En la clasificación apareces como «Viajero» con un número. Si quieres, elige un apodo (tu código no se muestra nunca):</p><div class="rbtns"><input id="vApodo" maxlength="20" placeholder="Tu apodo"><button class="btn" onclick="vApodo()">Guardar</button></div></div>`;
+ h+='<div id="vClas"></div></div>'; B.innerHTML=h;
+ if(cod&&LS.get('hk_marc_env','')!==hoy()){LS.set('hk_marc_env',hoy()); syncPush();}   // el marcador sube una vez al día aunque no se juegue
+ if(cod&&!solo){try{CLAS=await fetch('api/clasificacion.php?codigo='+encodeURIComponent(cod),{cache:'no-store'}).then(r=>r.json());}catch(e){CLAS=null;}
+  const L=CLAS&&CLAS.lista&&CLAS.lista[v.cat]; if(!L||!L.length||!$('#vClas'))return;
+  const yo=CLAS.yo&&CLAS.yo.cat===v.cat?CLAS.yo:null, p1=vParada(v.cat,L[0][1]);
+  if(yo&&!ap&&$('#vComo'))$('#vComo').innerHTML=`En la clasificación apareces como <b>${esc(L[yo.pos-1][0])}</b>. Si quieres, elige un apodo (tu código no se muestra nunca):`;
+  const pc=pt=>Math.min(100,Math.round(pt/v.tot*100))+' %';
+  let c=`<div class="vlider">👑 <b>${esc(L[0][0])}</b> va por <b>${esc(p1.t)}</b> · ${pc(L[0][1])}</div>`;
+  if(yo&&yo.pos) c+=`<div class="vpos">Eres el <b>${yo.pos}º</b> de ${L.length} en ${VCAT[v.cat]}</div>`;
+  c+=`<details class="vreg"><summary>Ver clasificación</summary><ol class="vlist">${L.slice(0,20).map(([a,pt],i)=>`<li${yo&&yo.pos===i+1?' class="yo"':''}><span>${esc(a)}</span><small>${esc(vParada(v.cat,pt).t)}</small><b>${pc(pt)}</b></li>`).join('')}</ol></details>`;
+  $('#vClas').innerHTML=c;}}
+function vSolo(on){LS.set('hk_solo',!!on); syncPush(); viajeUI();}
+function vVerNormas(){const B=$('#viajeBox'); if(!B)return; const d=document.createElement('div'); d.innerHTML=vNormas(false); B.prepend(d.firstElementChild); B.scrollIntoView({behavior:'smooth'});}
+function vNormas(primera){return `<div class="vnormas"><h3>🗺️ El viaje por la historia</h3>
+ <p>Cada día, el <b>Reto del día</b> te hace 5 preguntas. Según los aciertos <b>a la primera</b>, avanzas (o retrocedes) por la historia, del Big Bang a hoy. ¡A ver hasta dónde llegas!</p>
+ <h4>Puntos</h4>
+ <table class="vtab"><tr><th></th><th>📘 General · 🎓 Profundo</th><th>🧒 Niños</th></tr>
+ <tr><td>5 aciertos</td><td>+5</td><td>+5</td></tr><tr><td>4 aciertos</td><td>+4</td><td>+4</td></tr><tr><td>3 aciertos (aprobado)</td><td>+3</td><td>+3</td></tr>
+ <tr><td>2 aciertos</td><td>−1</td><td>+2</td></tr><tr><td>1 acierto</td><td>−2</td><td>+1</td></tr><tr><td>0 aciertos</td><td>−3</td><td>0</td></tr><tr><td>Un día sin jugar</td><td>−1</td><td>0</td></tr></table>
+ <p>Nunca bajas del Big Bang (0 puntos).</p>
+ <h4>El camino</h4>
+ <p>📘 General y 🎓 Profundo: cada punto avanza una ficha; son 483 hasta hoy. 🧒 Niños: cada 3 puntos avanzas un capítulo; son 30. Juegas en la categoría del último reto que hiciste.</p>
+ <h4>Títulos</h4>
+ <p>🧭 Viajero curioso → 📜 Aprendiz de escriba (5 %) → 🪶 Cronista (15 %) → 🏛️ Erudito (30 %) → 📚 Sabio de Alejandría (50 %) → 🦉 Guardián de la memoria (75 %) → 👑 Maestro de la Historia (llegar a hoy).</p>
+ <h4>Clasificación y apodo</h4>
+ <p>Hay una clasificación para cada categoría: verás por dónde va el primero, tu puesto y el % de cada uno. Para aparecer necesitas tu <b>código personal</b> (en ⚙️ Ajustes).</p>
+ <p>El código es tu llave: <b>nunca se muestra</b>. Por eso en la clasificación sales con un <b>apodo</b> que eliges tú (no se puede repetir). Si no lo eliges, sales como «Viajero» y un número.</p>
+ <h4>🙈 Solo compito conmigo</h4>
+ <p>Si prefieres no compararte, marca esta opción: no apareces en la clasificación ni ves la de los demás. Solo tu propio viaje.</p>
+ <div class="rbtns"><button class="btn" onclick="VISTO=true;LS.set('hk_viaje_visto',true);this.closest('.vnormas').remove()">${primera?'¡Empezar el viaje!':'Entendido'}</button></div></div>`;}
+function vApodo(){const a=($('#vApodo').value||'').trim().replace(/\s+/g,' ').slice(0,20); if(a.length<2)return;
+ if(CLAS&&(CLAS.apodos||[]).includes(a.toLowerCase())){$('#vComo').innerHTML='⚠️ Ese apodo ya lo usa otra persona. Elige otro:';return;}
+ LS.set('hk_apodo',a); syncPush(); setTimeout(viajeUI,1800);}
 function saveProg(){ if(!RS.practice) LS.set('hk_reto_prog',RS); }
 async function renderReto(mode){
  lastScreen='reto'; show('reto');
@@ -1651,18 +1734,18 @@ async function renderReto(mode){
  drawReto();
 }
 function drawReto(){
- const B=$('#retoBox'), n=RS.qs.length;
+ const B=$('#retoBox'), n=RS.qs.length; setTimeout(viajeUI,0);
  const LVS=`<p class="lvq">Preguntas para:</p><div class="seg lvhome lvsel">${[['n','🧒 Niños'],['g','📘 General'],['p','🎓 Profundo']].map(([l,t])=>`<button data-l="${l}" class="${l===LV?'on':''}" onclick="setLevel('${l}');renderReto(RS&&RS.practice?'practica':'')">${t}</button>`).join('')}</div>`;
  const dots='<div class="dots">'+RS.qs.map((q,j)=>`<i class="${q.ans==null?(j===RS.k?'cur':''):(q.wrong.length?'ko':'ok')}"></i>`).join('')+'</div>';
  if(RS.k>=n){ // terminado: las 5 resueltas
   const first=RS.qs.filter(q=>!q.wrong.length).length;
-  if(!RS.practice){const r=LS.get('hk_reto',{d:{}});if(!(r.d[RS.day]||{}).ok){r.d[RS.day]={s:first,ok:true};LS.set('hk_reto',r);const st0=racha();const prevR=rango(st0-1).r;r.best=Math.max(r.best||0,st0);LS.set('hk_reto',r);syncPush();gcCount('/reto-completado/'+first,true);RS.subio=(rango(st0).r!==prevR)?rango(st0).r:null;}}
+  if(!RS.practice){const r=LS.get('hk_reto',{d:{}});if(!(r.d[RS.day]||{}).ok){const p0=vPct();r.d[RS.day]={s:first,ok:true,lv:RS.lv};LS.set('hk_reto',r);const st0=racha();const prevR=rango(p0).r;r.best=Math.max(r.best||0,st0);LS.set('hk_reto',r);syncPush();gcCount('/reto-completado/'+first,true);{const nr=rango(vPct()).r; RS.subio=(nr[0]>prevR[0])?nr:null;}}}
   const st=racha(), msg=first===5?'¡Pleno a la primera! Eres un sabio de la historia.':first>=3?'¡Muy bien! Reto resuelto.':'¡Reto resuelto! Buscar en las fichas también es aprender.';
-  const share='🏆 Reto del día de HistoKHB - Historia Total: '+first+'/5 a la primera'+(RS.practice?'':(st>1?' · 🔥 racha de '+st+' días · '+rango(st).r[1]+' '+rango(st).r[2]:''))+'. ¿Te atreves?\n👉 https://historiatotal.es/#/reto';
-  B.innerHTML=LVS+`<div class="score"><img class="ammo-reto" src="img/ammo/ammo-${first>=4?'celebra':first>=2?'lee':'piensa'}.webp" alt="" width="110" height="130"><div class="sec-t" style="margin-top:6px">${RS.practice?'Práctica':'Reto del día · '+RS.day.split('-').reverse().join('/')}</div><div class="big1">${first}/5</div><p style="margin:4px 0 0;color:var(--muted);font-weight:700">a la primera</p><p>${msg}</p>${RS.practice?'':`${RS.subio?`<div class="fb" style="text-align:center">🎉 ¡Nueva categoría: <b>${RS.subio[1]} ${RS.subio[2]}</b>!</div>`:''}<span class="streak">🔥 Racha: ${st} día${st!==1?'s':''}</span>${rangoHTML(st)}<p class="rt">Cada día que resuelves las 5 preguntas suma uno. Si un día no lo haces, la racha vuelve a empezar.</p>`}</div>`+
+  const share='🏆 Reto del día de HistoKHB - Historia Total: '+first+'/5 a la primera'+(RS.practice?'':(st>1?' · 🔥 racha de '+st+' días':'')+' · '+rango(vPct()).r[1]+' '+rango(vPct()).r[2]+' ('+vPct()+' % del viaje)')+'. ¿Te atreves?\n👉 https://historiatotal.es/#/reto';
+  B.innerHTML=LVS+`<div class="score"><img class="ammo-reto" src="img/ammo/ammo-${first>=4?'celebra':first>=2?'lee':'piensa'}.webp" alt="" width="110" height="130"><div class="sec-t" style="margin-top:6px">${RS.practice?'Práctica':'Reto del día · '+RS.day.split('-').reverse().join('/')}</div><div class="big1">${first}/5</div><p style="margin:4px 0 0;color:var(--muted);font-weight:700">a la primera</p><p>${msg}</p>${RS.practice?'':`${RS.subio?`<div class="fb" style="text-align:center">🎉 ¡Nueva categoría: <b>${RS.subio[1]} ${RS.subio[2]}</b>!</div>`:''}<span class="streak">🔥 Racha: ${st} día${st!==1?'s':''}</span>${rangoHTML(st)}<p class="rt">Tu título depende de lo que has avanzado en el viaje por la historia (más abajo). La racha cuenta los días seguidos que juegas: si la pierdes, no pierdes el título.</p>`}</div>`+
    `<div class="rbtns"><a class="btn" style="background:var(--wa)" target="_blank" rel="noopener" href="${waLink(share)}">Retar por WhatsApp</a></div>`+
    `<div class="rbtns"><button class="btn sec" onclick="RS=null;go('#/reto/practica');renderReto('practica')">Practicar más</button></div>`+
-   `<div class="sec-t">Repasa las respuestas</div>`+RS.qs.map(q=>{const Q=RETOQ[q.i],f=FI(Q[0]);return `<button class="res" onclick="go('${FH(Q[0])}')"><div class="rk">${q.wrong.length?'🔎 Resuelta buscando':'✅ A la primera'} · ${f?esc(f.t):''}</div><div class="rt">${esc(Q[2])}</div><div class="rs">Respuesta: ${esc(Q[3][Q[4]])}</div></button>`;}).join('')+
+   `<details class="relg"><summary><span class="rl">📝 Ver las respuestas</span><span class="rn">${RS.qs.length}</span></summary>`+RS.qs.map(q=>{const Q=RETOQ[q.i],f=FI(Q[0]);return `<button class="res" onclick="go('${FH(Q[0])}')"><div class="rk">${q.wrong.length?'🔎 Resuelta buscando':'✅ A la primera'} · ${f?esc(f.t):''}</div><div class="rt">${esc(Q[2])}</div><div class="rs">Respuesta: ${esc(Q[3][Q[4]])}</div></button>`;}).join('')+`</details>`+
    (RS.practice?'':'<p class="rt" style="text-align:center">Mañana tendrás 5 preguntas nuevas.</p>');
   return;
  }
