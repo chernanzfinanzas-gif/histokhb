@@ -1663,7 +1663,7 @@ function vParada(cat,pts){
 let CLAS=null;
 async function viajeUI(){const B=$('#viajeBox'); if(!B||!IDX)return; const v=viaje(); let cod=null; try{cod=localStorage.getItem('hk_codigo');}catch(e){}
  const ap=LS.get('hk_apodo',''), pct=Math.min(100,Math.round(v.pts/v.tot*100));
- let h=`<div class="sec-t">🗺️ Tu viaje por la historia · ${VCAT[v.cat]}</div><div class="viaje"><div class="vt">${v.fin?'🏁 ¡Has llegado a hoy!':'Vas por'}</div><button class="vf" onclick="go('${v.h}')">${esc(v.t)}</button><div class="bar2"><i style="width:${pct}%"></i></div><div class="rt">${v.pts} puntos · ${pct} % del camino, del Big Bang a hoy</div>`;
+ let h=`<div class="sec-t">🗺️ Tu viaje por la historia · ${VCAT[v.cat]}</div><div class="viaje"><div class="vt">${v.fin?'🏁 ¡Has llegado a hoy!':'Vas por'} · ${pct} %</div><button class="vf" onclick="go('${v.h}')">${esc(v.t)}</button><div class="bar2"><i style="width:${pct}%"></i></div><div class="rt">${v.pts} puntos · ${pct} % del camino, del Big Bang a hoy</div>`;
  h+=`<details class="vreg"><summary>¿Cómo se avanza?</summary>${v.cat==='n'?'<p>Cada acierto a la primera suma 1 punto y nunca se resta. Cada 3 puntos avanzas un capítulo.</p>':'<p>Cada día del reto, según los aciertos a la primera: 5 → +5 · 4 → +4 · 3 → +3 · 2 → −1 · 1 → −2 · 0 → −3. Un día sin jugar resta 1. Cada punto avanza una ficha.</p>'}<p>Juegas en la categoría del último reto que hiciste.</p></details>`;
  if(!cod) h+=`<p class="rt">Para aparecer en la clasificación necesitas tu código personal (lo tienes en ⚙️ Ajustes).</p>`;
  else if(!ap) h+=`<div class="vap"><p class="rt" id="vComo">En la clasificación apareces como «Viajero» con un número. Si quieres, elige un apodo (tu código no se muestra nunca):</p><div class="rbtns"><input id="vApodo" maxlength="20" placeholder="Tu apodo"><button class="btn" onclick="vApodo()">Guardar</button></div></div>`;
@@ -1673,9 +1673,10 @@ async function viajeUI(){const B=$('#viajeBox'); if(!B||!IDX)return; const v=via
   const L=CLAS&&CLAS.lista&&CLAS.lista[v.cat]; if(!L||!L.length||!$('#vClas'))return;
   const yo=CLAS.yo&&CLAS.yo.cat===v.cat?CLAS.yo:null, p1=vParada(v.cat,L[0][1]);
   if(yo&&!ap&&$('#vComo'))$('#vComo').innerHTML=`En la clasificación apareces como <b>${esc(L[yo.pos-1][0])}</b>. Si quieres, elige un apodo (tu código no se muestra nunca):`;
-  let c=`<div class="vlider">👑 <b>${esc(L[0][0])}</b> va por <b>${esc(p1.t)}</b></div>`;
+  const pc=pt=>Math.min(100,Math.round(pt/v.tot*100))+' %';
+  let c=`<div class="vlider">👑 <b>${esc(L[0][0])}</b> va por <b>${esc(p1.t)}</b> · ${pc(L[0][1])}</div>`;
   if(yo&&yo.pos) c+=`<div class="vpos">Eres el <b>${yo.pos}º</b> de ${L.length} en ${VCAT[v.cat]}</div>`;
-  c+=`<details class="vreg"><summary>Ver clasificación</summary><ol class="vlist">${L.slice(0,20).map(([a,pt],i)=>`<li${yo&&yo.pos===i+1?' class="yo"':''}><span>${esc(a)}</span><small>${esc(vParada(v.cat,pt).t)}</small><b>${pt}</b></li>`).join('')}</ol></details>`;
+  c+=`<details class="vreg"><summary>Ver clasificación</summary><ol class="vlist">${L.slice(0,20).map(([a,pt],i)=>`<li${yo&&yo.pos===i+1?' class="yo"':''}><span>${esc(a)}</span><small>${esc(vParada(v.cat,pt).t)}</small><b>${pc(pt)}</b></li>`).join('')}</ol></details>`;
   $('#vClas').innerHTML=c;}}
 function vApodo(){const a=($('#vApodo').value||'').trim().replace(/\s+/g,' ').slice(0,20); if(a.length<2)return;
  if(CLAS&&(CLAS.apodos||[]).includes(a.toLowerCase())){$('#vComo').innerHTML='⚠️ Ese apodo ya lo usa otra persona. Elige otro:';return;}
