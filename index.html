@@ -711,6 +711,7 @@ function datosSync(){
   vistas: LS.get('hk_vistas',[]),
   reto: LS.get('hk_reto',{d:{}}),
   apodo: LS.get('hk_apodo','')||undefined,
+  temporada: 2,
   solo: !!LS.get('hk_solo',false),
   marcadores: (typeof viaje==='function'&&IDX)?Object.fromEntries(['n','g','p'].map(c=>{const v=viaje(c);return [c,{pts:v.pts,dia:v.dia}];}).filter(([c,m])=>m.dia)):null,
   favs: LS.get('hk_favs',[]),
@@ -1664,11 +1665,10 @@ function rangoHTML(st){const v=viaje(), vp=Math.min(100,Math.floor(v.pts/v.tot*1
 // Niños: +1 por acierto, nunca resta, 30 capítulos (3 puntos cada uno). General y Profundo: 5/4/3/−1/−2/−3 y −1 si no juegas, 483 fichas.
 const VPTS={5:5,4:4,3:3,2:-1,1:-2,0:-3}, VCAT={n:'🧒 Niños',g:'📘 General',p:'🎓 Profundo'};
 // Un viaje por nivel: r.v = {n:{día:aciertos}, g:{…}, p:{…}}. Cada nivel cuenta una vez al día.
-function vDias(r){if(!r.v)r.v={n:{},g:{},p:{}}; ['n','g','p'].forEach(c=>{r.v[c]=r.v[c]||{};});
- // recoge los retos guardados solo en r.d (por una versión antigua de la app) que no estén en ningún viaje
- Object.keys(r.d||{}).forEach(k=>{const x=r.d[k]; if(x&&x.ok&&!['n','g','p'].some(c=>r.v[c][k]!=null))r.v[x.lv||LV][k]=x.s;}); return r.v;}
-const VINICIO='2026-10-31';   // salida del viaje: los retos de antes no cuentan, todos empiezan en el Big Bang
-function viaje(cat){cat=cat||LV; const r=LS.get('hk_reto',{d:{}}), V=vDias(r)[cat]||{}, dias=Object.keys(V).filter(k=>k>=VINICIO).sort();
+// Temporada 2 (reinicio del 31-oct-2026, 9:30): los puntos van en r.w, vacío para todos; lo anterior (r.v, r.d) ya no suma.
+// La racha sigue usando r.d y no cambia.
+function vDias(r){if(!r.w)r.w={n:{},g:{},p:{}}; ['n','g','p'].forEach(c=>{r.w[c]=r.w[c]||{};}); return r.w;}
+function viaje(cat){cat=cat||LV; const r=LS.get('hk_reto',{d:{}}), V=vDias(r)[cat]||{}, dias=Object.keys(V).sort();
  let pts=0; if(dias.length){const d=new Date(dias[0]+'T12:00:00'), fin=hoy(); let sin=0;
   for(;;){const k=dkey(d); if(k>fin)break;
    if(V[k]!=null){pts+= cat==='n'?V[k]:VPTS[V[k]]; sin=0;}
@@ -1695,7 +1695,7 @@ async function viajeUI(){const B=$('#viajeBox'); if(!B||!IDX)return; const v=via
  if(solo){} else if(!cod) h+=`<p class="rt">Para aparecer en la clasificación necesitas tu código personal (lo tienes en ⚙️ Ajustes).</p>`;
  else if(!ap) h+=`<div class="vap"><p class="rt" id="vComo">En la clasificación apareces como «Viajero» con un número. Si quieres, elige un apodo (tu código no se muestra nunca):</p><div class="rbtns"><input id="vApodo" maxlength="20" placeholder="Tu apodo"><button class="btn" onclick="vApodo()">Guardar</button></div></div>`;
  h+='<div id="vClas"></div></div>'; B.innerHTML=h;
- if(cod&&LS.get('hk_marc_env2','')!==hoy()){LS.set('hk_marc_env2',hoy()); syncPush();}   // el marcador sube una vez al día aunque no se juegue
+ if(cod&&LS.get('hk_marc_env3','')!==hoy()){LS.set('hk_marc_env3',hoy()); syncPush();}   // el marcador sube una vez al día aunque no se juegue
  if(cod&&!solo){try{CLAS=await fetch('api/clasificacion.php?codigo='+encodeURIComponent(cod),{cache:'no-store'}).then(r=>r.json());}catch(e){CLAS=null;}
   const L=CLAS&&CLAS.lista&&CLAS.lista[v.cat]; if(!L||!L.length||!$('#vClas'))return;
   const yo=CLAS.yo&&CLAS.yo[v.cat]?{pos:CLAS.yo[v.cat]}:null, p1=vParada(v.cat,L[0][1]);
@@ -1739,7 +1739,8 @@ async function renderReto(mode){
  if(mode==='practica'){ if(!RS||!RS.practice||RS.k>=RS.qs.length||RS.lv!==LV){RS={practice:true,lv:LV,qs:pickSet('p'+Date.now(),LV),k:0};} }
  else if(!RS||RS.practice||RS.day!==today||RS.lv!==LV){
    const prog=LS.get('hk_reto_prog',null);
-   RS=(prog&&prog.day===today&&prog.lv===LV)?prog:{day:today,lv:LV,practice:false,qs:pickSet('hk'+today+LV,LV),k:0};
+   RS=(prog&&prog.day===today&&prog.lv===LV)?prog:{day:today,lv:LV,practice:false,qs:pickSet('hk'+today+LV,LV),k:0,t2:true};
+   if(RS.k>=RS.qs.length&&!RS.t2)RS.viejo=true;   // reto terminado antes del reinicio: no suma en la temporada nueva
  }
  drawReto();
 }
@@ -1749,7 +1750,7 @@ function drawReto(){
  const dots='<div class="dots">'+RS.qs.map((q,j)=>`<i class="${q.ans==null?(j===RS.k?'cur':''):(q.wrong.length?'ko':'ok')}"></i>`).join('')+'</div>';
  if(RS.k>=n){ // terminado: las 5 resueltas
   const first=RS.qs.filter(q=>!q.wrong.length).length;
-  if(!RS.practice){const r=LS.get('hk_reto',{d:{}});if(!(vDias(r)[RS.lv]||{})[RS.day]){const p0=vPct();vDias(r)[RS.lv][RS.day]=first;if(!(r.d[RS.day]||{}).ok)r.d[RS.day]={s:first,ok:true,lv:RS.lv};LS.set('hk_reto',r);const st0=racha();const prevR=rango(p0).r;r.best=Math.max(r.best||0,st0);LS.set('hk_reto',r);syncPush();gcCount('/reto-completado/'+first,true);{const nr=rango(vPct()).r; RS.subio=(nr[0]>prevR[0])?nr:null;}}}
+  if(!RS.practice){const r=LS.get('hk_reto',{d:{}});if(!(vDias(r)[RS.lv]||{})[RS.day]&&!RS.viejo){const p0=vPct();vDias(r)[RS.lv][RS.day]=first;if(!(r.d[RS.day]||{}).ok)r.d[RS.day]={s:first,ok:true,lv:RS.lv};LS.set('hk_reto',r);const st0=racha();const prevR=rango(p0).r;r.best=Math.max(r.best||0,st0);LS.set('hk_reto',r);syncPush();gcCount('/reto-completado/'+first,true);{const nr=rango(vPct()).r; RS.subio=(nr[0]>prevR[0])?nr:null;}}}
   const st=racha(), msg=first===5?'¡Pleno a la primera! Eres un sabio de la historia.':first>=3?'¡Muy bien! Reto resuelto.':'¡Reto resuelto! Buscar en las fichas también es aprender.';
   const share='🏆 Reto del día de HistoKHB - Historia Total: '+first+'/5 a la primera'+(RS.practice?'':(st>1?' · 🔥 racha de '+st+' días':'')+' · '+rango(vPct()).r[1]+' '+rango(vPct()).r[2]+' ('+vPct()+' % del viaje)')+'. ¿Te atreves?\n👉 https://historiatotal.es/#/reto';
   B.innerHTML=LVS+`<div class="score"><img class="ammo-reto" src="img/ammo/ammo-${first>=4?'celebra':first>=2?'lee':'piensa'}.webp" alt="" width="110" height="130"><div class="sec-t" style="margin-top:6px">${RS.practice?'Práctica':'Reto del día · '+RS.day.split('-').reverse().join('/')}</div><div class="big1">${first}/5</div><p style="margin:4px 0 0;color:var(--muted);font-weight:700">a la primera</p><p>${msg}</p>${RS.practice?'':`${RS.subio?`<div class="fb" style="text-align:center">🎉 ¡Nueva categoría: <b>${RS.subio[1]} ${RS.subio[2]}</b>!</div>`:''}<span class="streak">🔥 Racha: ${st} día${st!==1?'s':''}</span>${rangoHTML(st)}<p class="rt">Tu título depende de lo que has avanzado en el viaje por la historia (más abajo). La racha cuenta los días seguidos que juegas: si la pierdes, no pierdes el título.</p>`}</div>`+

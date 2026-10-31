@@ -6,6 +6,7 @@ function clasificacion(array $filas, string $codigo, string $hoy): array {
     $lista = ['n' => [], 'g' => [], 'p' => []];
     foreach ($filas as [$cod, $d]) {
         if (!is_array($d) || !empty($d['solo'])) continue;          // «Solo compito conmigo»: no aparece
+        if ((int) ($d['temporada'] ?? 0) < 2) continue;              // puntos de antes del reinicio del 31-oct (9:30): no cuentan
         $ms = $d['marcadores'] ?? null;
         if (!is_array($ms) && is_array($d['marcador'] ?? null)) $ms = [($d['marcador']['cat'] ?? '') => $d['marcador']];
         if (!is_array($ms)) continue;
@@ -14,7 +15,6 @@ function clasificacion(array $filas, string $codigo, string $hoy): array {
         foreach ($ms as $cat => $m) {
             if (!isset($lista[$cat]) || !is_array($m)) continue;
             $pts = max(0, (int) ($m['pts'] ?? 0)); $dia = (string) ($m['dia'] ?? '');
-            if ($dia < '2026-10-31') continue;           // el viaje empezó el 31-oct-2026: marcadores anteriores no cuentan
             if ($cat !== 'n' && preg_match('/^\d{4}-\d{2}-\d{2}$/', $dia) && $dia < $hoy) {
                 // días completos sin jugar desde el último reto de ese nivel (hoy aún se puede jugar); como mucho 7: luego se congela
                 $sin = (int) round((strtotime($hoy) - strtotime($dia)) / 86400) - 1;
