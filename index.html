@@ -400,7 +400,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 /* textos pequeños más nítidos en ordenador (aviso de un tester, 26-oct-2026) */
 .nav a,.sg .ev small,.aq-ring,table.sg th.y,table.sg td.y{font-family:var(--f-body);font-weight:var(--w-small);letter-spacing:var(--ls-small)}
 .seg button{font-weight:var(--w-small)}
-/* esta semana, hace un tiempo */
+/* esta semana en la historia */
 .semcard .t{-webkit-line-clamp:3}
 .semcard .sm{margin-top:4px;font-family:var(--f-body);font-weight:var(--w-small);letter-spacing:var(--ls-small);font-size:13px;color:var(--accent)}
 .cal{flex:0 0 52px;height:56px;border-radius:12px;border:1.5px solid var(--line);background:var(--card);overflow:hidden;display:flex;flex-direction:column;text-align:center}
@@ -897,7 +897,7 @@ function renderInicio(){lastScreen='inicio';show('inicio');renderFavs0();const f
  const ks=Object.keys(IDX.fichas), R=rng('dia'+hoy()), hk=ks[Math.floor(R()*ks.length)], hf=IDX.fichas[hk];
  const ul=LS.get('hk_ultima',null), uf=ul&&IDX.fichas[ul], nv=LS.get('hk_vistas',[]).filter(x=>IDX.fichas[x]).length;
  $('#hdia').innerHTML=(uf?`<button class="card" style="border-color:#3a9a5b" onclick="go('#/f/${ul}')"><div class="ic">${uf.ic}</div><div><div class="d">↩️ Seguir donde lo dejaste${nv?` · ✓ ${nv} de ${ks.length} vistas`:''}</div><h3>${esc(uf.t)}</h3><div class="t">${esc(uf.d)}</div></div></button>`:'')+`<button class="card" style="border-color:var(--accent)" onclick="go('#/f/${hk}')"><div class="ic">${hf.ic}</div><div><div class="d">📖 Historia del día · ${esc(hf.d)}</div><h3>${esc(hf.t)}</h3><div class="t">${esc(hf.tz)}</div></div></button>`;renderSemana0();}
-// ---------- esta semana, hace un tiempo (datos/semana.json, lo genera herramientas/semana.py) ----------
+// ---------- esta semana en la historia (datos/semana.json, lo genera herramientas/semana.py) ----------
 let SEM=null, SEMC=null, SEMSEL=null, SEMTODO=false;
 const MESN=['enero','febrero','marzo','abril','mayo','junio','julio','agosto','septiembre','octubre','noviembre','diciembre'];
 const DOWN=['dom','lun','mar','mié','jue','vie','sáb'];
@@ -917,7 +917,7 @@ async function renderSemana0(){
  if(!l.length){el.innerHTML='';return;}
  let n=0; for(let k=-4;k<=4;k++)n+=semDia(semMas(h0,k)).length;
  const h=l[Math.floor(rng('sem'+hoy())()*l.length)], dr=semMas(h0,dd);
- el.innerHTML=`<button class="card semcard" onclick="go('#/semana')"><div class="cal" aria-hidden="true"><div class="cm">${MESN[dr.getMonth()].slice(0,3)}</div><div class="cd">${dr.getDate()}</div></div><div><h3>Esta semana, hace un tiempo</h3><div class="d">📅 ${dd===0?'Un día como hoy':'Un '+dr.getDate()+' de '+MESN[dr.getMonth()]} de ${fy(h.a)}</div><div class="t">${esc(h.t)}</div><div class="sm">Ver los ${n} hechos de estos días ›</div></div></button>`;
+ el.innerHTML=`<button class="card semcard" onclick="go('#/semana')"><div class="cal" aria-hidden="true"><div class="cm">${MESN[dr.getMonth()].slice(0,3)}</div><div class="cd">${dr.getDate()}</div></div><div><h3>Esta semana en la historia</h3><div class="d">📅 ${dd===0?'Un día como hoy':'Un '+dr.getDate()+' de '+MESN[dr.getMonth()]} de ${fy(h.a)}</div><div class="t">${esc(h.t)}</div><div class="sm">Ver los ${n} hechos de estos días ›</div></div></button>`;
 }
 async function renderSemana(){
  if(LV==='n'){location.replace('#/');return;}
@@ -928,7 +928,7 @@ async function renderSemana(){
  const H=new Date(), dias=[]; for(let k=-4;k<=4;k++)dias.push(semMas(SEMC,k));
  const mismo=(a,b)=>a.getDate()===b.getDate()&&a.getMonth()===b.getMonth();
  const enHoy=dias.some(d=>mismo(d,H)&&d.getFullYear()===H.getFullYear());
- let h=`<img class="ammo-der" src="img/ammo/ammo-lee.webp" alt="" width="56" height="79"><h2 class="semh">Esta semana, hace un tiempo…</h2><p class="semsub">Lo que pasó estos días del calendario, en otros años.</p>`;
+ let h=`<img class="ammo-der" src="img/ammo/ammo-lee.webp" alt="" width="56" height="79"><h2 class="semh">Esta semana en la historia</h2><p class="semsub">Lo que pasó estos días del calendario, en otros años.</p>`;
  h+=`<div class="sembus"><b>📅 Buscar día</b><select id="sbD" aria-label="Día">${Array.from({length:31},(_,i)=>`<option${i+1===SEMC.getDate()?' selected':''}>${i+1}</option>`).join('')}</select><select id="sbM" aria-label="Mes">${MESN.map((m,i)=>`<option value="${i}"${i===SEMC.getMonth()?' selected':''}>${m}</option>`).join('')}</select><button onclick="semBuscar()">Ver</button></div>`;
  h+=`<div class="semnav"><button onclick="semMover(-7)">‹ Anterior</button><span class="rg">${dias[0].getDate()} ${MESN[dias[0].getMonth()].slice(0,3)} – ${dias[8].getDate()} ${MESN[dias[8].getMonth()].slice(0,3)}${enHoy?'':' · <a href="javascript:semMover(0)">volver a hoy</a>'}</span><button onclick="semMover(7)">Siguiente ›</button></div>`;
  h+=`<div class="semstrip">`+dias.map((d,i)=>{const c=semDia(d).length;return `<button class="${mismo(d,H)?'hoy ':''}${SEMSEL===i?'on':''}" onclick="SEMTODO=SEMSEL===${i};SEMSEL=SEMSEL===${i}?null:${i};renderSemana()" aria-label="${d.getDate()} de ${MESN[d.getMonth()]}, ${c} hechos"><span class="w">${DOWN[d.getDay()]}</span><span class="n">${d.getDate()}</span><span class="c">${c||''}</span></button>`;}).join('')+`</div>`+(SEMSEL!==null?`<div class="semver"><button onclick="SEMTODO=true;SEMSEL=null;renderSemana()">Ver los hechos de toda la semana</button></div>`:'');

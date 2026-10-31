@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""«Esta semana, hace un tiempo» — genera datos/semana.json.
+"""«Esta semana en la historia» — genera datos/semana.json.
 
 Junta:
   1. los hechos revisados a mano (herramientas/semana_revisados.json), y
