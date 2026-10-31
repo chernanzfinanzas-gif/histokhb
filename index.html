@@ -1664,7 +1664,9 @@ function rangoHTML(st){const v=viaje(), vp=Math.min(100,Math.floor(v.pts/v.tot*1
 // Niños: +1 por acierto, nunca resta, 30 capítulos (3 puntos cada uno). General y Profundo: 5/4/3/−1/−2/−3 y −1 si no juegas, 483 fichas.
 const VPTS={5:5,4:4,3:3,2:-1,1:-2,0:-3}, VCAT={n:'🧒 Niños',g:'📘 General',p:'🎓 Profundo'};
 // Un viaje por nivel: r.v = {n:{día:aciertos}, g:{…}, p:{…}}. Cada nivel cuenta una vez al día.
-function vDias(r){if(!r.v){r.v={n:{},g:{},p:{}}; Object.keys(r.d||{}).forEach(k=>{const x=r.d[k]; if(x&&x.ok)r.v[x.lv||LV][k]=x.s;});} return r.v;}
+function vDias(r){if(!r.v)r.v={n:{},g:{},p:{}}; ['n','g','p'].forEach(c=>{r.v[c]=r.v[c]||{};});
+ // recoge los retos guardados solo en r.d (por una versión antigua de la app) que no estén en ningún viaje
+ Object.keys(r.d||{}).forEach(k=>{const x=r.d[k]; if(x&&x.ok&&!['n','g','p'].some(c=>r.v[c][k]!=null))r.v[x.lv||LV][k]=x.s;}); return r.v;}
 const VINICIO='2026-10-31';   // salida del viaje: los retos de antes no cuentan, todos empiezan en el Big Bang
 function viaje(cat){cat=cat||LV; const r=LS.get('hk_reto',{d:{}}), V=vDias(r)[cat]||{}, dias=Object.keys(V).filter(k=>k>=VINICIO).sort();
  let pts=0; if(dias.length){const d=new Date(dias[0]+'T12:00:00'), fin=hoy(); let sin=0;
