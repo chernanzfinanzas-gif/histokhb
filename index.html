@@ -184,6 +184,8 @@ body.sec-scr{--barra:43px}
 .audrow .escuchar{margin:0;flex:1;min-width:0}
 .audctl{display:none;gap:6px;margin-top:6px}
 .audbox.act .audctl{display:flex}
+.rel-t span{text-transform:none;letter-spacing:0;color:var(--era,var(--accent));font-size:1.05em}
+.lugar.rel h3{font-size:16px}
 .audscr{display:none;width:100%;margin-top:6px;border:0;background:transparent;color:var(--muted);font:600 12.5px/1.3 var(--f-body,system-ui);padding:4px;text-align:center;cursor:pointer}
 .audbox.act .audscr{display:block}
 .audscr b{color:var(--era,var(--accent))}
@@ -1083,6 +1085,15 @@ function audDock(on){const sh=$('#sheet'); if(!on){sh.classList.remove('aud-on')
 window.addEventListener('resize',()=>{if($('#sheet').classList.contains('aud-on'))audMeasure();});
 // el texto sigue a la voz (reparto por caracteres)
 let SY=null, follow=true, followT=0;
+let RELAC=null; async function relac(){if(!RELAC){try{RELAC=await getJ('relacionadas.json');}catch(e){RELAC={};}}return RELAC;}
+function relItem(id){const t=id[0], k=id.slice(2); let on='', ic='', rk='', h='', sub='';
+ if(t==='f'){const f=IDX.fichas[k]; if(!f)return ''; on=`#/f/${k}`; ic='📜'; rk='Ficha · '+esc(f.d||''); h=f.t;}
+ else if(t==='s'){const r=k.slice(0,k.lastIndexOf('|')), y=+k.split('|').pop(), e=SINC&&(SINC.ev[r]||[]).find(e=>e[0]===y); if(!e)return '';
+  on='#/s/'+encodeURIComponent(k); h=e[1]; const bio=e[3]===2, bat=/\b(batalla|guerra|asedio|derrota|vence|conquista)/i.test(h);
+  ic=bio?'👤':bat?'⚔️':'📅'; rk=(bio?'Biografía · ':bat?'Batalla · ':'')+fy(y)+' · '+esc(rn(r));}
+ else if(t==='d'){const d=DESA&&DESA[k]; if(!d)return ''; on=`#/d/${k}`; ic='📖'; rk='Desarrollo del tema · '+esc(d.d||''); h=d.t;}
+ else if(t==='l'){const l=LUG&&LUG.lugares.find(x=>x.id===k); if(!l)return ''; on=`#/l/${k}`; ic='🏛️'; rk='Para visitar · '+esc([l.provincia].filter(Boolean).join('')); h=l.nombre;}
+ return `<button class="lugar rel" onclick="go('${on}')"><div class="lk">${ic} ${rk}</div><h3>${esc(h)}</h3></button>`;}
 let SINCRO=null; async function sincro(){if(!SINCRO){try{SINCRO=await getJ('sincro.json');}catch(e){SINCRO={};}}return SINCRO;}
 // SY.sec: tiempos medidos en el audio (datos/sincro.json, en segundos); si no, reparto por letras
 function audPos(){return SY.sec?PL.currentTime+0.2:PL.currentTime/(PL.duration||1)*SY.tot;}
@@ -1150,7 +1161,10 @@ async function renderSheet(){
    (LV!=='p'?`<button class="more" onclick="setLevel('p');renderSheet().then(()=>$('#sheet').scrollTo({top:0,behavior:'smooth'}))">Quiero saber más →</button>`:'')+
    `<p class="rt">${esc(S.t)} · ${cap?esc(cap.t):''}</p>`;
   await audioUI(k,f); if(!CUR||CUR.key!==k)return;
-  if(f.sk&&f.sk.length){await sinc(); if(CUR&&CUR.key===k) b.insertAdjacentHTML('beforeend',`<div class="sec-t">📅 En la sincronía (${f.sk.length})</div>`+f.sk.map(key=>{const r=key.slice(0,key.lastIndexOf('|')),y=+key.split('|').pop();const e=(SINC.ev[r]||[]).find(e=>e[0]===y);return `<button class="lugar" onclick="go('#/s/${encodeURIComponent(key)}')"><div class="lk">📅 ${fy(y)} · ${esc(rn(r))}${e&&e[3]===2?'<span class="bio">biografía</span>':''}</div><h3>${esc(e?e[1]:rn(r))}</h3></button>`;}).join(''));}
+  // 🔎 Para saber más de…: grupos de historias relacionadas (datos/relacionadas.json, generado por herramientas/relacionadas.py)
+  {const RL=await relac(); const G=RL[k]; if(G&&G.length&&CUR&&CUR.key===k){ await sinc().catch(()=>{}); if(!DESA)DESA=await getJ('desarrollos.json').catch(()=>({})); if(!LUG)LUG=await getJ('lugares.json').catch(()=>({lugares:[]}));
+   if(CUR&&CUR.key===k) b.insertAdjacentHTML('beforeend',G.map(([lab,ids])=>`<div class="sec-t rel-t">🔎 ${lab?'Para saber más de <span>'+esc(lab)+'</span>':'Historias relacionadas'}</div>`+ids.map(relItem).join('')).join(''));}}
+  if(!(RELAC&&RELAC[k])&&f.sk&&f.sk.length){await sinc(); if(CUR&&CUR.key===k) b.insertAdjacentHTML('beforeend',`<div class="sec-t">📅 En la sincronía (${f.sk.length})</div>`+f.sk.map(key=>{const r=key.slice(0,key.lastIndexOf('|')),y=+key.split('|').pop();const e=(SINC.ev[r]||[]).find(e=>e[0]===y);return `<button class="lugar" onclick="go('#/s/${encodeURIComponent(key)}')"><div class="lk">📅 ${fy(y)} · ${esc(rn(r))}${e&&e[3]===2?'<span class="bio">biografía</span>':''}</div><h3>${esc(e?e[1]:rn(r))}</h3></button>`;}).join(''));}
   if(!LUG)LUG=await getJ('lugares.json').catch(()=>({lugares:[]}));
   const pvf=LUG.lugares.filter(l=>(l.eventos||[]).includes('f:'+k));
   if(pvf.length&&CUR.key===k){const ib=l=>{const r=(l.regiones_sincronia||[])[0];return ESPS.includes(r)||r==='Canarias';}, fuera=pvf.filter(l=>!ib(l)), esp=pvf.filter(ib);
