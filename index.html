@@ -401,7 +401,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .nav a,.sg .ev small,.aq-ring,table.sg th.y,table.sg td.y{font-family:var(--f-body);font-weight:var(--w-small);letter-spacing:var(--ls-small)}
 .seg button{font-weight:var(--w-small)}
 /* esta semana, hace un tiempo */
-.semcard .t{-webkit-line-clamp:3}
+.semcard .semt{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
 .semcard .sm{margin-top:4px;font-family:var(--f-body);font-weight:var(--w-small);letter-spacing:var(--ls-small);font-size:13px;color:var(--accent)}
 .cal{flex:0 0 52px;height:56px;border-radius:12px;border:1.5px solid var(--line);background:var(--card);overflow:hidden;display:flex;flex-direction:column;text-align:center}
 .cal .cm{background:var(--accent);color:#fff;font-family:var(--f-body);font-weight:var(--w-small);letter-spacing:.06em;text-transform:uppercase;font-size:10.5px;padding:3px 0 2px}
@@ -409,6 +409,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .semh{margin:16px 0 2px;font-size:18px;line-height:1.2;padding-right:62px}
 #s-semana .ammo-der{width:56px;margin-top:10px}
 .semsub{padding-right:64px}
+.semver{text-align:center;margin:-2px 0 8px}.semver button{border:0;background:none;color:var(--accent);font-weight:700;font-size:14px;text-decoration:underline;padding:4px}
 .sembus{clear:both;display:flex;gap:6px;align-items:center;flex-wrap:nowrap;background:#fff;border:1.5px solid var(--line);border-radius:14px;padding:8px 10px;margin:0 0 10px;font-size:14px}
 .sembus b{font-family:var(--f-head)}
 .sembus select{border:1.5px solid var(--line);border-radius:10px;padding:6px 4px;font-size:15px;background:#fff;min-width:0}
@@ -825,7 +826,8 @@ function route(){
  closeSheetUI(); sheetBase=null; PILA=[]; if(lastRoute)ALTURA[lastRoute]=window.scrollY;
  {const kN=(location.hash.replace(/^#\/?/,'').split('/')[0])||'', kV=((lastRoute||'').replace(/^#\/?/,'').split('/')[0])||''; if(lastRoute&&kN!==kV&&SECUND.includes(kN))ORIGEN[kN]=lastRoute;}
  lastRoute=location.hash||'#/'; try{sessionStorage.setItem('hk_base',lastRoute);}catch(e){}
- screen(p); gcCount(location.hash||'#/'); restaurarAltura();
+ screen(p); gcCount(location.hash||'#/'); {const kS=p[0]||''; if(SECUND.includes(kS)&&VOLVER_A!==(location.hash||'#/'))window.scrollTo(0,0);}   // las pantallas secundarias abren por arriba
+ restaurarAltura();
 }
 function screen(p){ const k=p[0]||'';
  if(k===''){renderInicio();}
@@ -896,7 +898,7 @@ function renderInicio(){lastScreen='inicio';show('inicio');renderFavs0();const f
  const ul=LS.get('hk_ultima',null), uf=ul&&IDX.fichas[ul], nv=LS.get('hk_vistas',[]).filter(x=>IDX.fichas[x]).length;
  $('#hdia').innerHTML=(uf?`<button class="card" style="border-color:#3a9a5b" onclick="go('#/f/${ul}')"><div class="ic">${uf.ic}</div><div><div class="d">↩️ Seguir donde lo dejaste${nv?` · ✓ ${nv} de ${ks.length} vistas`:''}</div><h3>${esc(uf.t)}</h3><div class="t">${esc(uf.d)}</div></div></button>`:'')+`<button class="card" style="border-color:var(--accent)" onclick="go('#/f/${hk}')"><div class="ic">${hf.ic}</div><div><div class="d">📖 Historia del día · ${esc(hf.d)}</div><h3>${esc(hf.t)}</h3><div class="t">${esc(hf.tz)}</div></div></button>`;renderSemana0();}
 // ---------- esta semana, hace un tiempo (datos/semana.json, lo genera herramientas/semana.py) ----------
-let SEM=null, SEMC=null, SEMSEL=null;
+let SEM=null, SEMC=null, SEMSEL=null, SEMTODO=false;
 const MESN=['enero','febrero','marzo','abril','mayo','junio','julio','agosto','septiembre','octubre','noviembre','diciembre'];
 const DOWN=['dom','lun','mar','mié','jue','vie','sáb'];
 async function semana(){if(!SEM){try{SEM=await getJ('semana.json');}catch(e){SEM=[];}}return SEM;}
@@ -915,19 +917,21 @@ async function renderSemana0(){
  if(!l.length){el.innerHTML='';return;}
  let n=0; for(let k=-4;k<=4;k++)n+=semDia(semMas(h0,k)).length;
  const h=l[Math.floor(rng('sem'+hoy())()*l.length)], dr=semMas(h0,dd);
- el.innerHTML=`<button class="card semcard" onclick="go('#/semana')"><div class="cal" aria-hidden="true"><div class="cm">${MESN[dr.getMonth()].slice(0,3)}</div><div class="cd">${dr.getDate()}</div></div><div><div class="d">📅 Esta semana, hace un tiempo · ${dd===0?'un día como hoy':'un '+dr.getDate()+' de '+MESN[dr.getMonth()]} de ${fy(h.a)}</div><div class="t">${esc(h.t)}</div><div class="sm">Ver los ${n} hechos de estos días ›</div></div></button>`;
+ el.innerHTML=`<button class="card semcard" onclick="go('#/semana')"><div class="cal" aria-hidden="true"><div class="cm">${MESN[dr.getMonth()].slice(0,3)}</div><div class="cd">${dr.getDate()}</div></div><div><div class="d">📅 Esta semana, hace un tiempo · ${dd===0?'un día como hoy':'un '+dr.getDate()+' de '+MESN[dr.getMonth()]} de ${fy(h.a)}</div><h3 class="semt">${esc(h.t)}</h3><div class="sm">Ver los ${n} hechos de estos días ›</div></div></button>`;
 }
 async function renderSemana(){
  if(LV==='n'){location.replace('#/');return;}
+ if(lastScreen!=='semana')SEMSEL=null;
  lastScreen='semana'; show('semana'); await semana();
  if(!SEMC){SEMC=new Date();SEMC.setHours(12,0,0,0);}
+ if(SEMSEL===null&&!SEMTODO)SEMSEL=4;   // abre en el día central (hoy o el día buscado)
  const H=new Date(), dias=[]; for(let k=-4;k<=4;k++)dias.push(semMas(SEMC,k));
  const mismo=(a,b)=>a.getDate()===b.getDate()&&a.getMonth()===b.getMonth();
  const enHoy=dias.some(d=>mismo(d,H)&&d.getFullYear()===H.getFullYear());
  let h=`<img class="ammo-der" src="img/ammo/ammo-lee.webp" alt="" width="56" height="79"><h2 class="semh">Esta semana, hace un tiempo…</h2><p class="semsub">Lo que pasó estos días del calendario, en otros años.</p>`;
  h+=`<div class="sembus"><b>📅 Buscar día</b><select id="sbD" aria-label="Día">${Array.from({length:31},(_,i)=>`<option${i+1===SEMC.getDate()?' selected':''}>${i+1}</option>`).join('')}</select><select id="sbM" aria-label="Mes">${MESN.map((m,i)=>`<option value="${i}"${i===SEMC.getMonth()?' selected':''}>${m}</option>`).join('')}</select><button onclick="semBuscar()">Ver</button></div>`;
  h+=`<div class="semnav"><button onclick="semMover(-7)">‹ Anterior</button><span class="rg">${dias[0].getDate()} ${MESN[dias[0].getMonth()].slice(0,3)} – ${dias[8].getDate()} ${MESN[dias[8].getMonth()].slice(0,3)}${enHoy?'':' · <a href="javascript:semMover(0)">volver a hoy</a>'}</span><button onclick="semMover(7)">Siguiente ›</button></div>`;
- h+=`<div class="semstrip">`+dias.map((d,i)=>{const c=semDia(d).length;return `<button class="${mismo(d,H)?'hoy ':''}${SEMSEL===i?'on':''}" onclick="SEMSEL=SEMSEL===${i}?null:${i};renderSemana()" aria-label="${d.getDate()} de ${MESN[d.getMonth()]}, ${c} hechos"><span class="w">${DOWN[d.getDay()]}</span><span class="n">${d.getDate()}</span><span class="c">${c||''}</span></button>`;}).join('')+`</div>`;
+ h+=`<div class="semstrip">`+dias.map((d,i)=>{const c=semDia(d).length;return `<button class="${mismo(d,H)?'hoy ':''}${SEMSEL===i?'on':''}" onclick="SEMTODO=SEMSEL===${i};SEMSEL=SEMSEL===${i}?null:${i};renderSemana()" aria-label="${d.getDate()} de ${MESN[d.getMonth()]}, ${c} hechos"><span class="w">${DOWN[d.getDay()]}</span><span class="n">${d.getDate()}</span><span class="c">${c||''}</span></button>`;}).join('')+`</div>`+(SEMSEL!==null?`<div class="semver"><button onclick="SEMTODO=true;SEMSEL=null;renderSemana()">Ver los hechos de toda la semana</button></div>`:'');
  const cuenta={}; let tot=0;
  dias.forEach((d,i)=>{const l=semDia(d).slice().sort((a,b)=>a.a-b.a); l.forEach(x=>{cuenta[semSec(x.a)]=(cuenta[semSec(x.a)]||0)+1;});
   if(SEMSEL!==null&&SEMSEL!==i)return; tot+=l.length;
@@ -942,7 +946,7 @@ async function renderSemana(){
 let SEMCUENTA={}, SEMALT=null;
 // 📅 Buscar un día (cumpleaños, aniversarios…): se coloca en el centro de la tira y se muestra solo ese día
 function semBuscar(){const m=+$('#sbM').value, d=Math.min(+$('#sbD').value,[31,29,31,30,31,30,31,31,30,31,30,31][m]); SEMC=new Date(new Date().getFullYear(),m,d,12); SEMSEL=4; renderSemana(); const t=document.querySelector('.semdia,.semvac'); if(t)t.scrollIntoView({block:'center'});}
-function semMover(k){if(k===0){SEMC=null;}else{SEMC=semMas(SEMC,k);}SEMSEL=null;renderSemana();window.scrollTo(0,0);}
+function semMover(k){if(k===0){SEMC=null;}else{SEMC=semMas(SEMC,k);}SEMSEL=null;SEMTODO=false;renderSemana();window.scrollTo(0,0);}
 function semOtra(nueva){
  // ficha de época al azar, de la época que menos sale en estos días; evita las ya vistas si se puede
  const secs=IDX.secciones.map(s=>s.id), min=Math.min(...secs.map(s=>SEMCUENTA[s]||0));
