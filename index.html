@@ -784,8 +784,8 @@ function route(){
      else { renderInicio(); sheetBase=lastRoute='#/'; } }
    openSheet(k,p.slice(1).join('/')); return;
  }
- if($('#sheet').classList.contains('open')&&lastScreen&&(location.hash||'#/')===lastRoute){closeSheetUI();sheetBase=null;return;} // volver a la pantalla de debajo tal como estaba
- closeSheetUI(); sheetBase=null; if(lastRoute)ALTURA[lastRoute]=window.scrollY;
+ if($('#sheet').classList.contains('open')&&lastScreen&&(location.hash||'#/')===lastRoute){closeSheetUI();sheetBase=null;PILA=[];return;} // volver a la pantalla de debajo tal como estaba
+ closeSheetUI(); sheetBase=null; PILA=[]; if(lastRoute)ALTURA[lastRoute]=window.scrollY;
  {const kN=(location.hash.replace(/^#\/?/,'').split('/')[0])||'', kV=((lastRoute||'').replace(/^#\/?/,'').split('/')[0])||''; if(lastRoute&&kN!==kV&&SECUND.includes(kN))ORIGEN[kN]=lastRoute;}
  lastRoute=location.hash||'#/'; try{sessionStorage.setItem('hk_base',lastRoute);}catch(e){}
  screen(p); gcCount(location.hash||'#/'); restaurarAltura();
@@ -1006,7 +1006,11 @@ async function openSheet(kind,key){
 function closeSheetUI(){const sh=$('#sheet');if(sh.classList.contains('open')){stopAud();ambStop();sh.classList.remove('open');document.body.style.overflow='';CUR=null;}}
 let navCount=0; window.addEventListener('hashchange',()=>{navCount++;});
 let sheetBase=null; // ruta de pantalla bajo la ficha
-function closeSheet(){ if(sheetBase!==null){const b=sheetBase;sheetBase=null;go(b);} else { const f=CUR&&CUR.kind==='f'&&IDX.fichas[CUR.key]; go(f?'#/epoca/'+f.sec:'#/'); } }
+// PILA: fichas abiertas desde «Para saber más de…»; al cerrar se vuelve a la ficha de origen, a la misma altura
+let PILA=[];
+function relGo(h){PILA.push({h:location.hash,y:$('#sheet').scrollTop}); go(h);}
+function closeSheet(){ if(PILA.length){const o=PILA.pop(); go(o.h); [350,800,1500].forEach(ms=>setTimeout(()=>{if(location.hash===o.h)$('#sheet').scrollTop=o.y;},ms)); return;}
+ if(sheetBase!==null){const b=sheetBase;sheetBase=null;go(b);} else { const f=CUR&&CUR.kind==='f'&&IDX.fichas[CUR.key]; go(f?'#/epoca/'+f.sec:'#/'); } }
 $('#shClose').onclick=closeSheet;
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&CUR)closeSheet();});
 $('#seg').querySelectorAll('button').forEach(b=>b.onclick=()=>{setLevel(b.dataset.l);renderSheet();});
@@ -1093,7 +1097,7 @@ function relItem(id){const t=id[0], k=id.slice(2); let on='', ic='', rk='', h=''
   ic=bio?'👤':bat?'⚔️':'📅'; rk=(bio?'Biografía · ':bat?'Batalla · ':'')+fy(y)+' · '+esc(rn(r));}
  else if(t==='d'){const d=DESA&&DESA[k]; if(!d)return ''; on=`#/d/${k}`; ic='📖'; rk='Desarrollo del tema · '+esc(d.d||''); h=d.t;}
  else if(t==='l'){const l=LUG&&LUG.lugares.find(x=>x.id===k); if(!l)return ''; on=`#/l/${k}`; ic='🏛️'; rk='Para visitar · '+esc([l.provincia].filter(Boolean).join('')); h=l.nombre;}
- return `<button class="lugar rel" onclick="go('${on}')"><div class="lk">${ic} ${rk}</div><h3>${esc(h)}</h3></button>`;}
+ return `<button class="lugar rel" onclick="relGo('${on}')"><div class="lk">${ic} ${rk}</div><h3>${esc(h)}</h3></button>`;}
 let SINCRO=null; async function sincro(){if(!SINCRO){try{SINCRO=await getJ('sincro.json');}catch(e){SINCRO={};}}return SINCRO;}
 // SY.sec: tiempos medidos en el audio (datos/sincro.json, en segundos); si no, reparto por letras
 function audPos(){return SY.sec?PL.currentTime+0.2:PL.currentTime/(PL.duration||1)*SY.tot;}
