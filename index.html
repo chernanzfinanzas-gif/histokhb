@@ -1667,8 +1667,9 @@ const VPTS={5:5,4:4,3:3,2:-1,1:-2,0:-3}, VCAT={n:'🧒 Niños',g:'📘 General',
 // Un viaje por nivel: r.v = {n:{día:aciertos}, g:{…}, p:{…}}. Cada nivel cuenta una vez al día.
 // Temporada 2 (reinicio del 31-oct-2026, 9:30): los puntos van en r.w, vacío para todos; lo anterior (r.v, r.d) ya no suma.
 // La racha sigue usando r.d y no cambia.
+const VINICIO='2026-11-01';   // salida del viaje: 1-nov-2026 a las 00:00; lo jugado antes no suma
 function vDias(r){if(!r.w)r.w={n:{},g:{},p:{}}; ['n','g','p'].forEach(c=>{r.w[c]=r.w[c]||{};}); return r.w;}
-function viaje(cat){cat=cat||LV; const r=LS.get('hk_reto',{d:{}}), V=vDias(r)[cat]||{}, dias=Object.keys(V).sort();
+function viaje(cat){cat=cat||LV; const r=LS.get('hk_reto',{d:{}}), V=vDias(r)[cat]||{}, dias=Object.keys(V).filter(k=>k>=VINICIO).sort();
  let pts=0; if(dias.length){const d=new Date(dias[0]+'T12:00:00'), fin=hoy(); let sin=0;
   for(;;){const k=dkey(d); if(k>fin)break;
    if(V[k]!=null){pts+= cat==='n'?V[k]:VPTS[V[k]]; sin=0;}
@@ -1689,7 +1690,7 @@ async function viajeUI(){const B=$('#viajeBox'); if(!B||!IDX)return; const v=via
  const ap=LS.get('hk_apodo',''), pct=Math.min(100,Math.round(v.pts/v.tot*100));
  const solo=!!LS.get('hk_solo',false);
  if(!VISTO&&!LS.get('hk_viaje_visto',false)&&!document.querySelector('#s-reto .vnormas'))$('#retoBox').insertAdjacentHTML('beforebegin',vNormas(true));   // la primera vez, arriba del todo
- let h=`<div class="sec-t">🗺️ Tu viaje por la historia · ${VCAT[v.cat]}</div><div class="viaje"><div class="vt">${v.fin?'🏁 ¡Has llegado a hoy!':'Vas por'} · ${pct} %</div><button class="vf" onclick="go('${v.h}')">${esc(v.t)}</button><div class="bar2"><i style="width:${pct}%"></i></div><div class="rt">${v.pts} puntos · ${pct} % del camino, del Big Bang a hoy</div>`;
+ let h=(hoy()<VINICIO?`<div class="fb" style="text-align:center">🚀 <b>El viaje empieza esta noche a las 00:00</b>. Lo que juegues hoy no suma: mañana salimos todos desde el Big Bang.</div>`:'')+`<div class="sec-t">🗺️ Tu viaje por la historia · ${VCAT[v.cat]}</div><div class="viaje"><div class="vt">${v.fin?'🏁 ¡Has llegado a hoy!':'Vas por'} · ${pct} %</div><button class="vf" onclick="go('${v.h}')">${esc(v.t)}</button><div class="bar2"><i style="width:${pct}%"></i></div><div class="rt">${v.pts} puntos · ${pct} % del camino, del Big Bang a hoy</div>`;
  h+=`<div class="rbtns" style="margin-top:10px"><button class="btn sec" onclick="vVerNormas()">❔ Normas del juego</button></div>`;
  h+=`<label class="vsolo"><input type="checkbox" ${solo?'checked':''} onchange="vSolo(this.checked)"> <span><b>🙈 Solo compito conmigo</b><br><small>No apareces en la clasificación ni ves la de los demás: solo tu propio viaje.</small></span></label>`;
  if(solo){} else if(!cod) h+=`<p class="rt">Para aparecer en la clasificación necesitas tu código personal (lo tienes en ⚙️ Ajustes).</p>`;
