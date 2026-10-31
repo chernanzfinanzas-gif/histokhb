@@ -97,7 +97,7 @@ def grupos(k, maxg=8, maxi=10):
     cand = collections.defaultdict(float)
     for n in util:
         for c in idx[n]:
-            if c != k and items[c][0].strip(): cand[c] += idf(n)
+            if c != k and c.startswith('s:') and items[c][0].strip(): cand[c] += idf(n)   # solo sincronía: fichas y desarrollos ya salen al avanzar por la app
     for c in list(cand):
         f = cerca(y, items[c][2])
         if f < 0.35: del cand[c]
@@ -113,10 +113,11 @@ def grupos(k, maxg=8, maxi=10):
         r = raiz(n)
         if any(r <= e or e <= r for e in elegidos): continue      # «Isidoro» ⊂ «Isidoro de Sevilla» ⊂ «San Isidoro»: un solo grupo
         g0 = sorted((c for c in idx[n] if c in cand and c not in usados and vale(n, c) and cand[c] > 0.8), key=lambda c: (-en_titulo(n, c), -cand[c]))
-        g, lug, vistos = [], 0, {norm(items[x][0]) for x in usados}
+        clave = lambda x: ' '.join([w for w in re.findall(r'[a-z0-9]+', norm(items[x][0])) if w not in VACIAS and w != 'h'][:3])   # «Hitler llega al poder…» contado desde dos regiones: una vez
+        g, lug, vistos = [], 0, {clave(x) for x in usados}
         for c in g0:
-            tn = norm(items[c][0])
-            if tn in vistos or tn == norm(t): continue             # mismo título (ficha y sincronía gemelas): una sola vez
+            tn = clave(c)
+            if tn in vistos or tn == ' '.join([w for w in re.findall(r'[a-z0-9]+', norm(t)) if w not in VACIAS][:3]): continue             # mismo título (ficha y sincronía gemelas): una sola vez
             vistos.add(tn)
             if c.startswith('l:'):
                 if lug: continue
