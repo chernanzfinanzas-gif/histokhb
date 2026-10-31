@@ -406,14 +406,21 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .cal{flex:0 0 52px;height:56px;border-radius:12px;border:1.5px solid var(--line);background:var(--card);overflow:hidden;display:flex;flex-direction:column;text-align:center}
 .cal .cm{background:var(--accent);color:#fff;font-family:var(--f-body);font-weight:var(--w-small);letter-spacing:.06em;text-transform:uppercase;font-size:10.5px;padding:3px 0 2px}
 .cal .cd{flex:1;display:flex;align-items:center;justify-content:center;font-family:var(--f-head);font-weight:600;font-size:24px;line-height:1;color:var(--ink)}
-.semh{margin:18px 0 2px;font-size:22px;line-height:1.2}
+.semh{margin:16px 0 2px;font-size:18px;line-height:1.2;padding-right:62px}
+#s-semana .ammo-der{width:56px;margin-top:10px}
+.semsub{padding-right:64px}
+.sembus{clear:both;display:flex;gap:6px;align-items:center;flex-wrap:nowrap;background:#fff;border:1.5px solid var(--line);border-radius:14px;padding:8px 10px;margin:0 0 10px;font-size:14px}
+.sembus b{font-family:var(--f-head)}
+.sembus select{border:1.5px solid var(--line);border-radius:10px;padding:6px 4px;font-size:15px;background:#fff;min-width:0}
+.sembus #sbM{flex:1}
+.sembus button{border:0;background:var(--accent);color:#fff;border-radius:10px;padding:7px 12px;font-weight:700;font-size:14px}
 .semsub{margin:0 0 12px;color:var(--muted);font-size:14px}
 .semnav{display:flex;align-items:center;justify-content:space-between;gap:8px;margin:0 0 10px}
 .semnav button{border:1.5px solid var(--line);background:var(--card);border-radius:999px;padding:6px 12px;font-family:var(--f-head);font-weight:600;font-size:14px}
 .semnav .rg{flex:1;min-width:0;text-align:center;font-family:var(--f-body);font-weight:var(--w-small);letter-spacing:var(--ls-small);font-size:13.5px;color:var(--muted)}
 .semstrip{position:sticky;top:calc(var(--top) + var(--barra,0px));z-index:12;display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;margin:0 -16px 6px;padding:8px 16px;background:var(--bg)}
 .semstrip::-webkit-scrollbar{display:none}
-.semstrip button{flex:1 0 42px;display:flex;flex-direction:column;align-items:center;gap:1px;padding:6px 0;border-radius:12px;border:1.5px solid var(--line);background:var(--card)}
+.semstrip button{flex:1 1 0;min-width:34px;display:flex;flex-direction:column;align-items:center;gap:1px;padding:6px 0;border-radius:12px;border:1.5px solid var(--line);background:var(--card)}
 .semstrip .w{font-family:var(--f-body);font-weight:var(--w-small);letter-spacing:.04em;text-transform:uppercase;font-size:10.5px;color:var(--muted)}
 .semstrip .n{font-family:var(--f-head);font-weight:600;font-size:17px;line-height:1.15}
 .semstrip .c{font-family:var(--f-body);font-weight:700;font-size:10px;color:var(--accent);min-height:12px}
@@ -917,7 +924,8 @@ async function renderSemana(){
  const H=new Date(), dias=[]; for(let k=-4;k<=4;k++)dias.push(semMas(SEMC,k));
  const mismo=(a,b)=>a.getDate()===b.getDate()&&a.getMonth()===b.getMonth();
  const enHoy=dias.some(d=>mismo(d,H)&&d.getFullYear()===H.getFullYear());
- let h=`<img class="ammo-der" src="img/ammo/ammo-lee.webp" alt="" width="70" height="99"><h2 class="semh">Esta semana, hace un tiempo…</h2><p class="semsub">Lo que pasó estos días del calendario, en otros años.</p>`;
+ let h=`<img class="ammo-der" src="img/ammo/ammo-lee.webp" alt="" width="56" height="79"><h2 class="semh">Esta semana, hace un tiempo…</h2><p class="semsub">Lo que pasó estos días del calendario, en otros años.</p>`;
+ h+=`<div class="sembus"><b>📅 Buscar día</b><select id="sbD" aria-label="Día">${Array.from({length:31},(_,i)=>`<option${i+1===SEMC.getDate()?' selected':''}>${i+1}</option>`).join('')}</select><select id="sbM" aria-label="Mes">${MESN.map((m,i)=>`<option value="${i}"${i===SEMC.getMonth()?' selected':''}>${m}</option>`).join('')}</select><button onclick="semBuscar()">Ver</button></div>`;
  h+=`<div class="semnav"><button onclick="semMover(-7)">‹ Anterior</button><span class="rg">${dias[0].getDate()} ${MESN[dias[0].getMonth()].slice(0,3)} – ${dias[8].getDate()} ${MESN[dias[8].getMonth()].slice(0,3)}${enHoy?'':' · <a href="javascript:semMover(0)">volver a hoy</a>'}</span><button onclick="semMover(7)">Siguiente ›</button></div>`;
  h+=`<div class="semstrip">`+dias.map((d,i)=>{const c=semDia(d).length;return `<button class="${mismo(d,H)?'hoy ':''}${SEMSEL===i?'on':''}" onclick="SEMSEL=SEMSEL===${i}?null:${i};renderSemana()" aria-label="${d.getDate()} de ${MESN[d.getMonth()]}, ${c} hechos"><span class="w">${DOWN[d.getDay()]}</span><span class="n">${d.getDate()}</span><span class="c">${c||''}</span></button>`;}).join('')+`</div>`;
  const cuenta={}; let tot=0;
@@ -932,6 +940,8 @@ async function renderSemana(){
  $('#semana').innerHTML=h; SEMCUENTA=cuenta; semOtra(false);
 }
 let SEMCUENTA={}, SEMALT=null;
+// 📅 Buscar un día (cumpleaños, aniversarios…): se coloca en el centro de la tira y se muestra solo ese día
+function semBuscar(){const m=+$('#sbM').value, d=Math.min(+$('#sbD').value,[31,29,31,30,31,30,31,31,30,31,30,31][m]); SEMC=new Date(new Date().getFullYear(),m,d,12); SEMSEL=4; renderSemana(); const t=document.querySelector('.semdia,.semvac'); if(t)t.scrollIntoView({block:'center'});}
 function semMover(k){if(k===0){SEMC=null;}else{SEMC=semMas(SEMC,k);}SEMSEL=null;renderSemana();window.scrollTo(0,0);}
 function semOtra(nueva){
  // ficha de época al azar, de la época que menos sale en estos días; evita las ya vistas si se puede
