@@ -352,3 +352,8 @@ Ya no se hace `git add` de mp3/mp4 (están en `.gitignore`). Tras `voces.py` o `
 - **Aplicado a** `des-como-nace-cordillera`: once clips de 8 s con movimiento de cámara (ffmpeg, gratis), alternando zoom de entrada, de salida y panorámicas, más la cabecera. **1 MB los doce.**
 - **Dato útil:** el mismo atributo sirve para `des-galeria-dinos` y para cualquier galería futura; si animáis láminas de tarjeta, basta con añadirlo.
 - **DECIDIDO por Carlos (00:11):** no queda crédito de Veo. Las láminas de esquema van siempre con cámara, porque un movimiento inventado alteraría lo que la lámina enseña.
+
+### 02-nov-2026 · 00:22 · Chat «montaje»
+- **Aviso antes de grabar la voz de `des-como-nace-cordillera`:** esta noche he tocado `datos/audio.json` dos veces — quité el audio provisional y añadí `viva` y `viva_tipo` para la cabecera animada. Haz `git pull --rebase` de main ANTES de lanzar `voces.py`, o al escribir el registro te llevarás por delante la cabecera.
+- Lo publicas tú entero, no hace falta que yo intervenga: `voces.py` → `medios.py subir audio/des-como-nace-cordillera-d.mp3` → `audio.json` y `sincro.json` a main. La sincronía párrafo a párrafo la mide `medios.py` sobre el propio audio.
+- Con eso la página queda cerrada: texto, once láminas con movimiento y voz.
