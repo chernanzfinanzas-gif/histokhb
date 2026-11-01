@@ -1759,7 +1759,8 @@ function vNormas(primera){return `<div class="vnormas"><h3>🗺️ El viaje por 
 function vApodo(){const a=($('#vApodo').value||'').trim().replace(/\s+/g,' ').slice(0,20); if(a.length<2)return;
  if(CLAS&&(CLAS.apodos||[]).includes(a.toLowerCase())){$('#vComo').innerHTML='⚠️ Ese apodo ya lo usa otra persona. Elige otro:';return;}
  LS.set('hk_apodo',a); syncPush(); setTimeout(viajeUI,1800);}
-function saveProg(){ if(!RS.practice) LS.set('hk_reto_prog',RS); }
+// el reto a medias se guarda por nivel (antes solo uno: al cambiar de nivel se perdía el otro y se podía repetir)
+function saveProg(){ if(!RS.practice){const P=LS.get('hk_reto_progs',{}); Object.keys(P).forEach(l=>{if(P[l].day!==RS.day)delete P[l];}); P[RS.lv]=RS; LS.set('hk_reto_progs',P);} }
 async function renderReto(mode){
  lastScreen='reto'; show('reto');
  if(!RETOQ){$('#retoBox').innerHTML='<p class="empty-st">Cargando preguntas…</p>';RETOQ=await getJ('reto.json');}
@@ -1767,9 +1768,13 @@ async function renderReto(mode){
  const today=hoy();
  if(mode==='practica'){ if(!RS||!RS.practice||RS.k>=RS.qs.length||RS.lv!==LV){RS={practice:true,lv:LV,qs:pickSet('p'+Date.now(),LV),k:0};} }
  else if(!RS||RS.practice||RS.day!==today||RS.lv!==LV){
-   const prog=LS.get('hk_reto_prog',null);
-   RS=(prog&&prog.day===today&&prog.lv===LV)?prog:{day:today,lv:LV,practice:false,qs:pickSet('hk'+today+LV,LV),k:0,t2:true};
+   const P=LS.get('hk_reto_progs',{}), viejo=LS.get('hk_reto_prog',null);
+   const prog=(P[LV]&&P[LV].day===today)?P[LV]:(viejo&&viejo.day===today&&viejo.lv===LV)?viejo:null;
+   RS=prog||{day:today,lv:LV,practice:false,qs:pickSet('hk'+today+LV,LV),k:0,t2:true};
    if(RS.k>=RS.qs.length&&!RS.t2)RS.viejo=true;   // reto terminado antes del reinicio: no suma en la temporada nueva
+   // ya hecho hoy en este nivel (en este u otro aparato) y sin el reto a medias: se muestra terminado, con su resultado, sin repetirlo
+   const hecho=(vDias(LS.get('hk_reto',{d:{}}))[LV]||{})[today];
+   if(hecho!=null&&RS.k<RS.qs.length&&!RS.qs.some(q=>q.ans!=null)){RS.qs.forEach((q,i)=>{q.ans=RETOQ[q.i][4]; q.wrong=i<hecho?[]:[(RETOQ[q.i][4]+1)%4];}); RS.k=RS.qs.length;}
  }
  drawReto();
 }
