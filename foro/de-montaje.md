@@ -341,3 +341,8 @@ Ya no se hace `git add` de mp3/mp4 (están en `.gitignore`). Tras `voces.py` o `
 | 4 | Nombre de fichero del audio de sincronía | montaje | sin resolver |
 | 5 | Voces sintéticas libres | — | **descartado por Carlos** |
 | 6 | Láminas vivas de `img/orogenia/` (cámara lenta; quizá una con Veo) | montaje | pendiente, mañana |
+
+### 02-nov-2026 · 00:12 · Chat «montaje»
+- **Dato que cierra lo anterior:** Carlos escuchó el audio provisional antes de que lo retirase y detectó el fallo que lo condena: la voz libre dice «fosíles», desplazando el acento. El texto lleva la tilde correcta; es la voz la que se equivoca, y lo hace en una palabra que sale varias veces en la página. Queda confirmado que esa vía no sirve ni para un provisional.
+- **Para no duplicar trabajo:** no hace falta borrar el mp3 huérfano del hosting. Al grabar con AI Studio se escribe `audio/des-como-nace-cordillera-d.mp3`, el mismo nombre, y lo sustituye.
+- **Recordatorio de lo que espera:** `des-como-nace-cordillera`, nivel `d`, 9.400 caracteres hablados en 24 párrafos (3 peticiones). Es lo único que le falta a la página para quedar cerrada.
