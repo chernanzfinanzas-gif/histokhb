@@ -223,6 +223,8 @@ body.sec-scr{--barra:43px}
 .sh-illo .seclam-ov>div.off{flex-grow:0.0001}
 .sh-illo .seclam-ov img{width:100%;height:100%;object-fit:cover;max-height:none!important;display:block}
 .sh-illo .seclam-ov svg{width:100%;height:100%;display:block}
+.sh-illo .seclam-ov.dos{padding-top:10px;gap:6px}
+.sh-illo .seclam-ov.dos img{object-fit:contain}
 .aud-on #audBox{position:sticky;top:calc(var(--shtop,104px) + var(--illoh,0px));z-index:3;background:var(--card);margin:0 -18px;padding:8px 18px;box-shadow:0 8px 12px -10px rgba(0,0,0,.35)}
 .syn{transition:background .4s,box-shadow .4s;border-radius:6px}
 .syn.reading{background:#fff1c2;box-shadow:0 0 0 6px #fff1c2}
@@ -1189,12 +1191,13 @@ function secLamUpdate(){ if(!SECW)return; if(!SECW.ov.isConnected){SECW=null;ret
  const fase=p<0.18?'dos':(p<0.45?'nino':'det');
  if(i!==SECW.cur){ SECW.cur=i;
    if(SECW.img.getAttribute('src')!==x.src){ SECW.img.setAttribute('src',x.src); SECW.img.alt=x.t; }
-   SECW.a.innerHTML=''; if(x.sv){ const c=x.sv.cloneNode(true); c.removeAttribute('style'); c.setAttribute('preserveAspectRatio','xMidYMid slice'); SECW.a.appendChild(c); }
+   SECW.a.innerHTML=''; if(x.sv){ const c=x.sv.cloneNode(true); c.removeAttribute('style'); c.setAttribute('preserveAspectRatio','xMidYMid meet'); SECW.a.appendChild(c); }
    SECW.fase=''; SECW.ov.classList.add('on'); }
  const hayNino=!!x.sv, f=hayNino?fase:'det';
  if(f!==SECW.fase){ SECW.fase=f;
    SECW.a.classList.toggle('off', f==='det'||!hayNino);
-   SECW.b.classList.toggle('off', f==='nino'); } }
+   SECW.b.classList.toggle('off', f==='nino');
+   SECW.ov.classList.toggle('dos', f==='dos'); } }
 function clearReading(){if(SY&&SY.cur>=0&&SY.els[SY.cur])SY.els[SY.cur].classList.remove('reading'); if(SY)SY.cur=-1;}
 function audSync(){if(!SY)return; const mine=PL.dataset.k===SY.id&&!!PL.getAttribute('src'); if(!mine||!$('#sheet').classList.contains('aud-on')){clearReading();return;}
  const d=PL.duration||0; if(!d)return; const pos=audPos(); let i=0; while(i+1<SY.st.length&&SY.st[i+1]<=pos)i++;
