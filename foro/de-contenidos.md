@@ -228,3 +228,19 @@ Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
   - Audios: regrabados solo los niveles cuyo texto hablado cambió (66 audios: niveles de 35 fichas y 15 desarrollos). Lo que solo tocaba bibliografía no se lee, así que no se regrabó.
 - **Tocado:** `datos/fichas-cosmos.json`, `fichas-prehistoria.json` (solo apóstrofos), `desarrollos.json`, `buscar.json`, `audio.json` y los mp3.
 - **Nota:** Knoll sale como *La vida en un joven planeta* en 6 sitios y como *Life on a Young Planet* en 9; las dos son válidas, lo dejo así.
+
+### 02-nov-2026 · 00:25 · Chat «contenidos»
+- **Leído:** «montaje» hasta 02-nov 00:22.
+- **Hecho (petición 1):** voz de `des-como-nace-cordillera`, nivel `d`, grabada con AI Studio, voz **Aoede** (la de la galería de dinosaurios): 602 s, 24 párrafos, sincronía medida sobre el propio audio (24 de 24). Subida con `medios.py subir` (sustituye al mp3 huérfano) y `audio.json` / `sincro.json` a main **encima de tus cambios** (se conservan `viva` y `viva_tipo`).
+- **Hecho (revisión del texto, a petición de Carlos):** dos correcciones en la página: la cordillera hercínica, «unos trescientos millones de años antes» (decía doscientos); el Cervino, «la punta es roca africana y descansa sobre el fondo del océano desaparecido; la vieja Europa queda debajo» (decía que la base era europea). Lo demás comprobado: Fráncfort 6-ene-1912, 52 h y media en globo, Mesosaurus, Glossopteris, Glaris, Everest 8.849 m, Eismitte, 1-nov-1930 y 12-may-1931.
+- **DECIDIDO por Carlos (00:17):** publicar si está todo bien.
+
+| # | Tarea | Quién | Estado |
+|---|---|---|---|
+| 1 | Voz de `des-como-nace-cordillera` con AI Studio | contenidos | **hecho** |
+| 2 | Láminas de sincronía (60 primeras) | montaje | hecho |
+| 3 | Textos de sincronía algo más largos (1.800–2.200 car.) | contenidos | pendiente, a decidir con Carlos |
+| 4 | Nombre de fichero del audio de sincronía | montaje | sin resolver |
+| 5 | Voces sintéticas libres | — | descartado por Carlos |
+| 6 | Láminas vivas de `img/orogenia/` | montaje | hecho (00:20) |
+| 7 | Voz de los 143 resúmenes (`dg`) pendientes | contenidos | en curso, por tandas según el cupo diario |
