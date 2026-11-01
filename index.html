@@ -219,12 +219,13 @@ body.sec-scr{--barra:43px}
 #sheet:not(.aud-on) .sh-illo.seclam{position:relative}
 .sh-illo .seclam-ov{position:absolute;inset:0;display:flex;gap:2px;opacity:0;transition:opacity .22s;pointer-events:none;z-index:2;background:var(--bg)}
 .sh-illo .seclam-ov.on{opacity:1}
-.sh-illo .seclam-ov>div{position:relative;overflow:hidden;transition:flex-grow .35s ease;min-width:0;background:#fff}
+.sh-illo .seclam-ov>div{position:relative;overflow:hidden;flex:1 1 0;transition:flex-grow .35s ease;min-width:0;background:#fff}
 .sh-illo .seclam-ov>div.off{flex-grow:0.0001}
 .sh-illo .seclam-ov img{width:100%;height:100%;object-fit:cover;max-height:none!important;display:block}
 .sh-illo .seclam-ov svg{width:100%;height:100%;display:block}
-.sh-illo .seclam-ov.dos{padding-top:10px;gap:6px}
-.sh-illo .seclam-ov.dos img{object-fit:contain}
+.sh-illo .seclam-ov.dos{padding:10px 8px;gap:10px;align-items:center}
+.sh-illo .seclam-ov.dos>div{display:flex;align-items:center;justify-content:center;background:transparent;border-radius:8px}
+.sh-illo .seclam-ov.dos img,.sh-illo .seclam-ov.dos svg{width:auto;height:auto;max-width:100%;max-height:100%;object-fit:contain;border-radius:8px}
 .aud-on #audBox{position:sticky;top:calc(var(--shtop,104px) + var(--illoh,0px));z-index:3;background:var(--card);margin:0 -18px;padding:8px 18px;box-shadow:0 8px 12px -10px rgba(0,0,0,.35)}
 .syn{transition:background .4s,box-shadow .4s;border-radius:6px}
 .syn.reading{background:#fff1c2;box-shadow:0 0 0 6px #fff1c2}
@@ -1117,7 +1118,7 @@ async function pantSync(){const suena=PL.getAttribute('src')&&!PL.paused, quiere
  else if(!quiere&&WL){const w=WL; WL=null; try{await w.release();}catch(e){}}}
 function pantPaint(){const b=$('#audScr'); if(b)b.innerHTML=pantOn()?'☀️ La pantalla <b>se queda encendida</b> mientras escuchas · <u>cambiar</u>':'🌙 La pantalla <b>se apaga sola</b> y el audio sigue · <u>cambiar</u>'; pantAjustes();}
 function pantAjustes(){const e=$('#ajPant'); if(e)e.innerHTML=[['on','☀️ Encendida'],['off','🌙 Que se apague']].map(([id,n])=>`<button class="btn ${(pantOn()?'on':'off')===id?'':'sec'}" style="flex:0 0 auto" onclick="pantSet('${id}')">${n}</button>`).join('');}
-function pantSet(v){LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),pant:v}); syncPush(); pantSync(); pantPaint();}
+function pantSet(v){LS.set('hk_ajustes',{...LS.get('hk_ajustes',{}),pant:v}); syncPush(); pantSync(); pantPaint(); audVelAplica();}
 function pantToggle(){pantSet(pantOn()?'off':'on');}
 ['play','pause','ended'].forEach(ev=>PL.addEventListener(ev,pantSync)); document.addEventListener('visibilitychange',pantSync);
 // controles en la pantalla de bloqueo
@@ -1154,6 +1155,12 @@ function relItem(id){const t=id[0], k=id.slice(2); let on='', ic='', rk='', h=''
  return `<button class="lugar rel" onclick="relGo('${on}')"><div class="lk">${ic} ${rk}</div><h3>${esc(h)}</h3></button>`;}
 let SINCRO=null; async function sincro(){if(!SINCRO){try{SINCRO=await getJ('sincro.json');}catch(e){SINCRO={};}}return SINCRO;}
 // SY.sec: tiempos medidos en el audio (datos/sincro.json, en segundos); si no, reparto por letras
+const VELS=[1,1.25,1.5,2];
+function audVelAplica(){ try{ const v=+(localStorage.getItem('khb_vel')||1)||1; PL.playbackRate=v;
+  if('preservesPitch' in PL)PL.preservesPitch=true; if('mozPreservesPitch' in PL)PL.mozPreservesPitch=true; if('webkitPreservesPitch' in PL)PL.webkitPreservesPitch=true;
+  const b=$('#btnVel'); if(b)b.textContent='⏩ '+String(v).replace('.',',')+'x'; }catch(e){} }
+function audVel(b){ let v=+(localStorage.getItem('khb_vel')||1)||1; const i=VELS.indexOf(v);
+  v=VELS[(i<0?0:i+1)%VELS.length]; try{localStorage.setItem('khb_vel',v);}catch(e){} audVelAplica(); }
 function audPos(){return SY.sec?PL.currentTime+0.2:PL.currentTime/(PL.duration||1)*SY.tot;}
 function audEnd(){return SY.sec?(PL.duration||SY.st[SY.st.length-1]+30):SY.tot;}
 function audSyncBuild(id,txt,lead,ts){SY=null; if(!txt)return;
@@ -1229,7 +1236,7 @@ async function audioUI(k,f,lv){lv=lv||LV; ambStop();
  if(a.viva&&lv!=='n'&&!calm){const il=b.querySelector('.sh-illo'); const cont=LS.get('hk_ajustes',{}).anim==='cont';
   if(il){il.classList.add('con-video');il.innerHTML=`<video src="${a.viva}" ${f.lam?`poster="${f.lam}"`:''} autoplay muted playsinline ${cont?'loop':''} preload="metadata" aria-label="${esc(f.t)}"></video><button class="vloop${cont?' on':''}" type="button" onclick="vLoop(this)" aria-pressed="${cont}">🔁 Reprod. continua</button>${a.son&&a.son.length?`<button class="vson" type="button" onclick="vSon(this)" data-son='${JSON.stringify(a.son)}' aria-pressed="false">🔇 Sonido</button>`:''}`;}}
  if(a[lv]){const rt=b.querySelector('.rt'); if(!rt)return;
-  rt.insertAdjacentHTML('afterend',`<div class="audbox" id="audBox"><div class="audrow"><button class="escuchar" id="btnAud" data-k="${id}" data-src="audio/${k}-${lv}.mp3" data-d="${a[lv]}" data-t="${esc(f.t)}" data-l="${f.lam||''}" onclick="audToggle()"><span class="ico">🔊</span><span class="lb">Escuchar</span><span class="bar" onclick="audBar(event)"><i></i></span><span class="tm"></span></button></div><div class="audctl"><button onclick="audRestart()" aria-label="Desde el principio">⟲ Inicio</button><button onclick="audSeek(-30)" aria-label="Atrasar 30 segundos">−30 s</button><button onclick="audSeek(30)" aria-label="Adelantar 30 segundos">+30 s</button><button onclick="stopAud()" aria-label="Parar">■ Parar</button></div><button class="audscr" id="audScr" onclick="pantToggle()"></button></div>`); pantPaint();
+  rt.insertAdjacentHTML('afterend',`<div class="audbox" id="audBox"><div class="audrow"><button class="escuchar" id="btnAud" data-k="${id}" data-src="audio/${k}-${lv}.mp3" data-d="${a[lv]}" data-t="${esc(f.t)}" data-l="${f.lam||''}" onclick="audToggle()"><span class="ico">🔊</span><span class="lb">Escuchar</span><span class="bar" onclick="audBar(event)"><i></i></span><span class="tm"></span></button></div><div class="audctl"><button onclick="audVel(this)" id="btnVel" aria-label="Velocidad de lectura">⏩ 1x</button><button onclick="audRestart()" aria-label="Desde el principio">⟲ Inicio</button><button onclick="audSeek(-30)" aria-label="Atrasar 30 segundos">−30 s</button><button onclick="audSeek(30)" aria-label="Adelantar 30 segundos">+30 s</button><button onclick="stopAud()" aria-label="Parar">■ Parar</button></div><button class="audscr" id="audScr" onclick="pantToggle()"></button></div>`); pantPaint();
   const SQ=await sincro(); if(!CUR||CUR.key!==k)return; audSyncBuild(id,b.querySelector('.txt'),(lv==='d'||lv==='dg')?(f.t||'').length+26:0,SQ[k+'|'+lv]);
   if(PL.dataset.k===id&&PL.getAttribute('src'))audDock(true);
   audPaint();}
