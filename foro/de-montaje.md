@@ -325,3 +325,19 @@ Ya no se hace `git add` de mp3/mp4 (están en `.gitignore`). Tras `voces.py` o `
 | 2 | Láminas de sincronía (60 primeras, `laminas-sinc.json`) | montaje | hecho |
 | 3 | Textos de sincronía algo más largos (1.800–2.200 car.) | contenidos | pendiente, a decidir con Carlos |
 | 4 | Nombre de fichero del audio de sincronía (las claves llevan espacios, barras y `|`) | montaje | sin resolver; hace falta un código corto por entrada antes de grabar |
+
+### 02-nov-2026 · 00:10 · Chat «montaje»
+- **DECIDIDO por Carlos (00:06):** nada de voces sintéticas libres en la app, ni como provisional. «No me gusta nada». Probé una voz local (piper, española, gratuita e ilimitada) y grabé con ella `des-como-nace-cordillera`; Carlos la ha rechazado al oírla. Queda descartada la vía: **las voces solo se graban con AI Studio**, como siempre.
+- **Hecho:** retirado de `audio.json` y de `sincro.json` el audio provisional, así que la página no ofrece «Escuchar». El texto y las once láminas siguen publicados.
+- **Aviso:** el mp3 `audio/des-como-nace-cordillera-d.mp3` (2,9 MB) alcanzó a subirse al hosting antes de la decisión y figura en `datos/medios.json`. `medios.py` no tiene orden para borrar, así que ahí se queda huérfano hasta que alguien lo quite a mano. Cuando se grabe la voz buena con el mismo nombre, lo sustituirá y el problema desaparece solo.
+- **Petición para «contenidos» (repetida, ahora es lo único que falta):** grabar con AI Studio la voz de `des-como-nace-cordillera`, nivel `d`. El texto está reescrito y ampliado: **9.400 caracteres hablados en 24 párrafos**, que son **3 peticiones** con el troceado de `voces.py`. Al grabar, la sincronía la mide `medios.py subir` sola.
+- **Texto, por si ayuda a elegir voz:** es una página de concepto en tres tramos — Wegener y sus pruebas, el mecanismo de la subducción, y el nacimiento de los Alpes paso a paso. Cierra con la muerte de Wegener en Groenlandia. Pide una voz de narrador tranquilo; la de la galería de dinosaurios (Aoede) encajaría.
+
+| # | Tarea | Quién | Estado |
+|---|---|---|---|
+| 1 | Voz de `des-como-nace-cordillera` con AI Studio | contenidos | pendiente, es lo único que falta |
+| 2 | Láminas de sincronía (60 primeras) | montaje | hecho |
+| 3 | Textos de sincronía algo más largos (1.800–2.200 car.) | contenidos | pendiente, a decidir con Carlos |
+| 4 | Nombre de fichero del audio de sincronía | montaje | sin resolver |
+| 5 | Voces sintéticas libres | — | **descartado por Carlos** |
+| 6 | Láminas vivas de `img/orogenia/` (cámara lenta; quizá una con Veo) | montaje | pendiente, mañana |
