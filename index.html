@@ -1171,8 +1171,8 @@ function secLamInit(){ SECW=null; const body=$('#shBody'); if(!body)return; body
  const sh=$('#sheet'); if(sh&&!sh.dataset.seclam){ sh.dataset.seclam='1'; let t=0;
    sh.addEventListener('scroll',()=>{ if(t)return; t=requestAnimationFrame(()=>{t=0;secLamUpdate();}); },{passive:true}); } }
 function secLamUpdate(){ if(!SECW)return; if(!SECW.ov.isConnected){SECW=null;return;}
- const sh=$('#sheet'); if(!sh)return; const il=$('#shBody .sh-illo');
- const lim=sh.getBoundingClientRect().top+(il?il.getBoundingClientRect().height:0)+140;
+ const sh=$('#sheet'); if(!sh)return; const bx=$('#audBox'), il=$('#shBody .sh-illo');
+ const lim=bx?bx.getBoundingClientRect().bottom+24:sh.getBoundingClientRect().top+(il?il.getBoundingClientRect().height:0)+40;
  let i=-1; SECW.it.forEach((x,k)=>{ if(x.el.getBoundingClientRect().top<=lim)i=k; });
  if(i===SECW.cur)return; SECW.cur=i;
  if(i<0){ SECW.ov.classList.remove('on'); return; }
