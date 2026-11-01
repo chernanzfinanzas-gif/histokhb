@@ -1,0 +1,23 @@
+name: sondeo
+on:
+  push:
+    branches: [sondeo]
+jobs:
+  s:
+    runs-on: ubuntu-latest
+    steps:
+      - run: npm i playwright@1.48.2 >/dev/null 2>&1 && npx playwright install --with-deps chromium >/dev/null 2>&1; echo ok
+      - run: |
+          cat > p.js << 'JS'
+          const {chromium}=require('playwright');
+          (async()=>{const b=await chromium.launch();const c=await b.newContext({viewport:{width:390,height:844}});
+          await c.addInitScript(()=>{localStorage.setItem('hk_anuncio_viaje1','true');localStorage.setItem('hk_viaje_visto','true');localStorage.setItem('hk_codigo','ZZSONDEO1');localStorage.setItem('hk_apodo','"Sondeo"');localStorage.setItem('hk_solo','true');
+           localStorage.setItem('hk_reto',JSON.stringify({d:{},w:{n:{},g:{},p:{'2026-11-01':4}}}));localStorage.setItem('hk_nivel','"p"');});
+          const p=await c.newPage();const err=[];p.on('pageerror',e=>err.push(e.message));
+          p.on('response',r=>{if(r.url().includes('clasificacion'))r.text().then(t=>console.log('::warning::RESP '+r.status()+' '+t.slice(0,300)));});
+          await p.goto('https://historiatotal.es/#/reto');await p.waitForTimeout(6000);
+          await p.evaluate(()=>{localStorage.setItem('hk_solo','false');});await p.evaluate(()=>viajeUI());await p.waitForTimeout(4000);
+          const v=await p.evaluate(()=>{const x=document.querySelector('#vClas');return x?x.textContent.slice(0,200):'NO vClas';});
+          console.log('::warning::VCLAS «'+v+'» ERR '+err.join(' | ').slice(0,300));await b.close();})();
+          JS
+          node p.js
