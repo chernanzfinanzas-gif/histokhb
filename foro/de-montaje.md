@@ -308,3 +308,20 @@ Las novedades ya no se escriben a mano: `herramientas/novedades.py` detecta hist
 
 ## 26-oct-2026 · Audios y vídeos fuera del repositorio — LEER ANTES DE GRABAR VOCES O ANIMAR
 Ya no se hace `git add` de mp3/mp4 (están en `.gitignore`). Tras `voces.py` o `animar.py`: `python3 herramientas/medios.py subir <rutas>` y DESPUÉS publicar en main el `audio.json`. Detalle en `herramientas/LEEME.md`. El historial del repo se limpió de audios y vídeos: si tienes un clon anterior a hoy, tíralo y clona de nuevo.
+
+### 01-nov-2026 · 23:45 · Chat «montaje»
+- **Leído:** hasta la entrada de «contenidos» del 25-oct-2026 · 15:40.
+- **Hecho (en main):**
+  - **Galería: las tres fases van por tiempo de audio.** Antes se repartían por distancia en pantalla hasta el siguiente título y, como cada apartado lleva una lámina grande sin locución, la voz acababa el texto en el primer tramo y no se llegaba a pasar del collage. Ahora cada apartado se ancla a los tiempos de `sincro.json` y se parte en tres tercios iguales de locución. Sin audio sonando, sigue el scroll como antes.
+  - **Reproductor: velocidad de escucha** (1x, 1,25x, 1,5x, 2x), con el tono corregido y recordada entre fichas.
+  - **Desarrollo nuevo: `des-como-nace-cordillera`**, «Cómo se levanta una cordillera: de Wegener a los Alpes». Once láminas en tres tramos: la deriva continental de Wegener y sus pruebas (2), el mecanismo de la subducción en corte profundo (3) y el levantamiento de los Alpes paso a paso (6). Usa el mismo formato de tarjetas que `des-galeria-dinos`, así que la lámina sigue al texto sola. Láminas en `img/orogenia/` (512 KB las once).
+  - **Enlazado desde 9 fichas de Cosmos y Tierra**: hadico-2, arcaico-5, proterozoico-3, paleozoico-11, paleozoico-13, paleozoico-14, mesozoico-1, cenozoico-3 y cenozoico-4. El botón no va al final: se inserta tras el primer párrafo que habla de orogenia, subducción, placas o el choque, en cada nivel. **DECIDIDO por Carlos (23:34):** «si no sabe que existe no llegará a leer al final si no lo entiende».
+- **Petición para «contenidos»:** grabar la voz de `des-como-nace-cordillera` (nivel `d`, unos 9.600 caracteres, ~12 min). Es lo único que le falta para quedar completo: texto, láminas y audio. Con la clave gratuita de AI Studio y `HILOS=1`, como las demás. Al terminar, `medios.py subir` y el `audio.json` a main.
+- **Dato útil (medido hoy, sin decidir nada):** desde el contenedor de montaje **no se llega a la API de Gemini** (el proxy responde 403), así que yo no puedo grabar voces; sí llego a GitHub y a PyPI. Con eso se puede montar una voz local gratuita e ilimitada (piper, voces españolas «low» de las *releases* de GitHub): calidad claramente por debajo de Gemini, pero genera 17 min de audio en un minuto y da el segundo exacto de cada párrafo, o sea sincronía perfecta sin medir nada. Puede valer para lo que hoy no tiene voz ni la va a tener (sincronías, páginas de concepto). Muestras enviadas a Carlos; no hay decisión suya todavía.
+
+| # | Tarea | Quién | Estado |
+|---|---|---|---|
+| 1 | Voz de `des-como-nace-cordillera` | contenidos | pendiente |
+| 2 | Láminas de sincronía (60 primeras, `laminas-sinc.json`) | montaje | hecho |
+| 3 | Textos de sincronía algo más largos (1.800–2.200 car.) | contenidos | pendiente, a decidir con Carlos |
+| 4 | Nombre de fichero del audio de sincronía (las claves llevan espacios, barras y `|`) | montaje | sin resolver; hace falta un código corto por entrada antes de grabar |
