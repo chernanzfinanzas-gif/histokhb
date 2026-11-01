@@ -216,6 +216,9 @@ body.sec-scr{--barra:43px}
 .audctl button{flex:1;border:1.5px solid var(--era,var(--accent));background:#fff;color:var(--era,var(--accent));border-radius:12px;padding:7px 4px;font-family:var(--f-head);font-weight:600;font-size:14px;cursor:pointer}
 .escuchar .bar{cursor:pointer}
 .aud-on .sh-illo{position:sticky;top:var(--shtop,104px);z-index:3}
+#sheet:not(.aud-on) .sh-illo.seclam{position:relative}
+.sh-illo .seclam-img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity .22s;pointer-events:none;z-index:2;max-height:none!important}
+.sh-illo .seclam-img.on{opacity:1}
 .aud-on #audBox{position:sticky;top:calc(var(--shtop,104px) + var(--illoh,0px));z-index:3;background:var(--card);margin:0 -18px;padding:8px 18px;box-shadow:0 8px 12px -10px rgba(0,0,0,.35)}
 .syn{transition:background .4s,box-shadow .4s;border-radius:6px}
 .syn.reading{background:#fff1c2;box-shadow:0 0 0 6px #fff1c2}
@@ -1153,6 +1156,28 @@ function audSyncBuild(id,txt,lead,ts){SY=null; if(!txt)return;
  els.forEach(e=>{if(e.matches('li')&&e.parentElement.classList.contains('crono')&&e===e.parentElement.firstElementChild)acc+=37; st.push(acc); acc+=e.textContent.trim().length+25;});
  els.forEach((e,i)=>{e.classList.add('syn');e.dataset.i=i;}); SY={id,els,st,tot:acc,cur:-1};
  if(ts&&ts.length===els.length){SY.st=ts.slice(); SY.sec=true;}}
+let SECW=null;
+function secLamInit(){ SECW=null; const body=$('#shBody'); if(!body)return; body.classList.remove('seclam');
+ const il=body.querySelector('.sh-illo'), txt=body.querySelector('.txt'); if(!il||!txt)return;
+ const it=[]; txt.querySelectorAll('h4').forEach(h=>{ let n=h.nextElementSibling, im=null;
+   const card=h.closest('div')||h.parentElement;
+   if(card&&card!==txt)im=card.querySelector('img');
+   while(!im&&n&&n.tagName!=='H4'){ im=n.matches&&n.matches('img')?n:(n.querySelector?n.querySelector('img'):null); if(im)break; n=n.nextElementSibling; }
+   if(im&&im.getAttribute('src'))it.push({el:h,src:im.getAttribute('src'),t:(h.textContent||'').trim()}); });
+ if(it.length<3)return;
+ body.classList.add('seclam'); il.classList.add('seclam');
+ let ov=il.querySelector('.seclam-img'); if(!ov){ ov=document.createElement('img'); ov.className='seclam-img'; ov.alt=''; il.appendChild(ov); }
+ SECW={ov,it,cur:-2}; secLamUpdate();
+ const sh=$('#sheet'); if(sh&&!sh.dataset.seclam){ sh.dataset.seclam='1'; let t=0;
+   sh.addEventListener('scroll',()=>{ if(t)return; t=requestAnimationFrame(()=>{t=0;secLamUpdate();}); },{passive:true}); } }
+function secLamUpdate(){ if(!SECW)return; if(!SECW.ov.isConnected){SECW=null;return;}
+ const sh=$('#sheet'); if(!sh)return; const il=$('#shBody .sh-illo');
+ const lim=sh.getBoundingClientRect().top+(il?il.getBoundingClientRect().height:0)+140;
+ let i=-1; SECW.it.forEach((x,k)=>{ if(x.el.getBoundingClientRect().top<=lim)i=k; });
+ if(i===SECW.cur)return; SECW.cur=i;
+ if(i<0){ SECW.ov.classList.remove('on'); return; }
+ const x=SECW.it[i]; if(SECW.ov.getAttribute('src')!==x.src){ SECW.ov.setAttribute('src',x.src); SECW.ov.alt=x.t; }
+ SECW.ov.classList.add('on'); }
 function clearReading(){if(SY&&SY.cur>=0&&SY.els[SY.cur])SY.els[SY.cur].classList.remove('reading'); if(SY)SY.cur=-1;}
 function audSync(){if(!SY)return; const mine=PL.dataset.k===SY.id&&!!PL.getAttribute('src'); if(!mine||!$('#sheet').classList.contains('aud-on')){clearReading();return;}
  const d=PL.duration||0; if(!d)return; const pos=audPos(); let i=0; while(i+1<SY.st.length&&SY.st[i+1]<=pos)i++;
@@ -1234,6 +1259,7 @@ async function renderSheet(){
    (d.hg?`<div class="seg dver"><button class="${corto?'on':''}" onclick="DVER='g';renderSheet()">📘 Resumen · ${mins(d.hg)} min</button><button class="${corto?'':'on'}" onclick="DVER='p';renderSheet()">🎓 Completo · ${mins(d.h)} min</button></div>`:'')+
    `<div class="rt">⏱ ${mins(H)} min de lectura</div><div class="txt">${H}</div>`;
   await audioUI(CUR.key,{t:d.t,lam:d.lam},corto?'dg':'d'); if(!CUR||CUR.kind!=='d')return;
+  secLamInit();
   if(d.sk&&d.sk.length){await sinc(); b.insertAdjacentHTML('beforeend',`<div class="sec-t">📅 Relacionado en la sincronía</div>`+d.sk.map(key=>{const r=key.slice(0,key.lastIndexOf('|')),y=+key.split('|').pop();const e=(SINC.ev[r]||[]).find(e=>e[0]===y);return `<button class="lugar" onclick="go('#/s/${encodeURIComponent(key)}')"><div class="lk">📅 ${fy(y)} · ${esc(rn(r))}${e&&e[3]===2?'<span class="bio">biografía</span>':''}</div><h3>${esc(e?e[1]:rn(r))}</h3></button>`;}).join(''));}
   ft.innerHTML=`<button class="pri" onclick="history.back()">‹ Volver a la ficha</button>`;
   $('#shWa').href=waLink('📖 '+d.t+'\n\nEn HistoKHB - Historia Total 👉 '+BASE+'#/d/'+CUR.key);
