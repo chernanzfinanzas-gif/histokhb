@@ -788,6 +788,7 @@ async function txtOf(sec){if(!TXT[sec])TXT[sec]=await getJ('fichas-'+sec+'.json'
 function bucket(y){return y<-3500?'pre':y<476?'ant':y<1492?'med':y<1789?'mod':'con';}
 async function detOf(y){const b=bucket(y);if(!DET[b])DET[b]=await getJ('sinc-det-'+b+'.json');return DET[b];}
 async function sinc(){if(!SINC)SINC=await getJ('sinc-eventos.json');return SINC;}
+let LAMS=null; async function lamSinc(){if(!LAMS){try{LAMS=await getJ('laminas-sinc.json');}catch(e){LAMS={};}}return LAMS;}
 function go(h){location.hash=h;}
 
 // ---------- arranque ----------
@@ -1242,7 +1243,9 @@ async function renderSheet(){
   await sinc(); const e=(SINC.ev[r]||[]).find(e=>e[0]===y);
   $('#shTtl').textContent=rn(r)+' · '+fy(y); $('#seg').classList.add('hide');
   document.documentElement.style.setProperty('--era','#8b7d6b');
-  b.innerHTML=`<div class="sh-head" style="margin-top:16px"><div><div class="d">${fy(y)} · ${esc(rn(r))}</div><h2>${esc(e?e[1]:rn(r))}</h2></div></div><div class="rt">⏱ ${mins(h)} min de lectura</div><div class="txt">${h}</div>`;
+  const LS=await lamSinc(); const lam=LS[r+"|"+Math.floor(y/100)]||"";
+  b.innerHTML=`<div class="sh-head" style="margin-top:16px"><div><div class="d">${fy(y)} · ${esc(rn(r))}</div><h2>${esc(e?e[1]:rn(r))}</h2></div></div>`+(lam?`<img class="slam" src="${lam}" alt="" loading="lazy">`:"")+`<div class="rt">⏱ ${mins(h)} min de lectura</div><div class="txt">${h}</div>`;
+  await audioUI(key,{t:(e?e[1]:rn(r)),lam:lam},"s"); if(!CUR||CUR.key!==key)return;
   if(!LUG)LUG=await getJ('lugares.json').catch(()=>({lugares:[]}));
   const pv=LUG.lugares.filter(l=>(l.eventos||[]).includes(key)||(l.anio===y&&(l.regiones_sincronia||[])[0]===r)).sort((a,b)=>(a.anio||0)-(b.anio||0));
   if(pv.length&&CUR.key===key) b.insertAdjacentHTML('beforeend',`<div class="sec-t">🏛️ Para visitar (${pv.length})</div>`+pv.map(l=>`<button class="lugar" onclick="go('#/l/${l.id}')"><div class="lk">🏛️ ${esc(l.epoca||'')}${l.anio!=null?' · h. '+fy(l.anio):''}</div><h3>${esc(l.nombre)}</h3><p>${esc([l.comarca,l.provincia].filter(Boolean).join(' · '))}</p></button>`).join(''));
