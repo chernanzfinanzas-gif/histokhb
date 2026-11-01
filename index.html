@@ -742,7 +742,7 @@ function syncPull(){
  return fetch('api/sync.php?codigo='+encodeURIComponent(cod)).then(r=>r.json()).then(d=>{
   if(!d||typeof d!=='object')return;
   if('vistas'in d)LS.set('hk_vistas',d.vistas);
-  if('reto'in d)LS.set('hk_reto',d.reto);
+  if('reto'in d){const j=retoJunta(d.reto,LS.get('hk_reto',{d:{}})); LS.set('hk_reto',j); if(JSON.stringify(j)!==JSON.stringify(d.reto))syncPush();}
   if('favs'in d)LS.set('hk_favs',d.favs);
   if('ultima'in d)LS.set('hk_ultima',d.ultima);
   if(d.apodo)LS.set('hk_apodo',d.apodo);           // el apodo y «solo compito conmigo» viajan con el código entre dispositivos
@@ -1682,7 +1682,15 @@ const VPTS={5:5,4:4,3:3,2:-1,1:-2,0:-3}, VCAT={n:'🧒 Niños',g:'📘 General',
 // Temporada 2 (reinicio del 31-oct-2026, 9:30): los puntos van en r.w, vacío para todos; lo anterior (r.v, r.d) ya no suma.
 // La racha sigue usando r.d y no cambia.
 const VINICIO='2026-11-01';   // salida del viaje: 1-nov-2026 a las 00:00; lo jugado antes no suma
-function vDias(r){if(!r.w)r.w={n:{},g:{},p:{}}; ['n','g','p'].forEach(c=>{r.w[c]=r.w[c]||{};}); return r.w;}
+function vDias(r){if(!r.w)r.w={n:{},g:{},p:{}}; ['n','g','p'].forEach(c=>{r.w[c]=r.w[c]||{};});
+ // retos desde la salida apuntados por una versión antigua de la app (en r.v o solo en r.d): se recogen
+ ['n','g','p'].forEach(c=>Object.keys((r.v||{})[c]||{}).forEach(k=>{if(k>=VINICIO&&r.w[c][k]==null)r.w[c][k]=r.v[c][k];}));
+ Object.keys(r.d||{}).forEach(k=>{const x=r.d[k]; if(k>=VINICIO&&x&&x.ok&&!['n','g','p'].some(c=>r.w[c][k]!=null))r.w[x.lv||LV][k]=x.s;});
+ return r.w;}
+// juntar el reto de dos aparatos (el servidor y este): no se pierde lo jugado en ninguno
+function retoJunta(a,b){a=a||{d:{}}; b=b||{d:{}}; const o={...a,...b,d:{...(a.d||{}),...(b.d||{})}};
+ ['v','w'].forEach(t=>{if(a[t]||b[t]){o[t]={}; ['n','g','p'].forEach(c=>{o[t][c]={...((a[t]||{})[c]||{}),...((b[t]||{})[c]||{})};});}});
+ o.best=Math.max(a.best||0,b.best||0); return o;}
 function viaje(cat){cat=cat||LV; const r=LS.get('hk_reto',{d:{}}), V=vDias(r)[cat]||{}, dias=Object.keys(V).filter(k=>k>=VINICIO).sort();
  let pts=0; if(dias.length){const d=new Date(dias[0]+'T12:00:00'), fin=hoy(); let sin=0;
   for(;;){const k=dkey(d); if(k>fin)break;
