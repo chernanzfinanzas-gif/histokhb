@@ -1700,7 +1700,8 @@ function anuncio(){if(ANUN_VISTO||LS.get(ANUNCIO.k,false)||document.getElementBy
  document.body.insertAdjacentHTML('beforeend',`<div id="anuncio" class="anun-fondo" onclick="if(event.target===this)anuncioCierra()"><div class="anun"><img src="${ANUNCIO.img}" alt="" width="120" height="140"><h3>${ANUNCIO.t}</h3><p>${ANUNCIO.p}</p><div class="rbtns"><button class="btn" onclick="anuncioCierra();go('${ANUNCIO.ir}')">${ANUNCIO.btn}</button></div><div class="rbtns"><button class="btn sec" onclick="anuncioCierra()">Cerrar</button></div></div></div>`);}
 function anuncioCierra(){ANUN_VISTO=true; LS.set(ANUNCIO.k,true); const e=document.getElementById('anuncio'); if(e)e.remove();}
 let CLAS=null, VISTO=false;   // VISTO: la presentación ya se cerró en esta visita (por si el navegador no deja guardarlo)
-async function viajeUI(){const B=$('#viajeBox'); if(!B||!IDX)return; const v=viaje(); let cod=null; try{cod=localStorage.getItem('hk_codigo');}catch(e){}
+let VREINT=0;
+async function viajeUI(re){if(!re)VREINT=0; const B=$('#viajeBox'); if(!B||!IDX)return; const v=viaje(); let cod=null; try{cod=localStorage.getItem('hk_codigo');}catch(e){}
  const ap=LS.get('hk_apodo',''), pct=Math.min(100,Math.round(v.pts/v.tot*100));
  const solo=!!LS.get('hk_solo',false);
  if(!VISTO&&!LS.get('hk_viaje_visto',false)&&!document.querySelector('#s-reto .vnormas'))$('#retoBox').insertAdjacentHTML('beforebegin',vNormas(true));   // la primera vez, arriba del todo
@@ -1712,8 +1713,13 @@ async function viajeUI(){const B=$('#viajeBox'); if(!B||!IDX)return; const v=via
  h+='<div id="vClas"></div></div>'; B.innerHTML=h;
  if(cod&&LS.get('hk_marc_env3','')!==hoy()){LS.set('hk_marc_env3',hoy()); syncPush();}   // el marcador sube una vez al día aunque no se juegue
  if(cod&&!solo){try{CLAS=await fetch('api/clasificacion.php?codigo='+encodeURIComponent(cod),{cache:'no-store'}).then(r=>r.json());}catch(e){CLAS=null;}
-  const L=CLAS&&CLAS.lista&&CLAS.lista[v.cat]; if(!L||!L.length||!$('#vClas'))return;
-  const yo=CLAS.yo&&CLAS.yo[v.cat]?{pos:CLAS.yo[v.cat]}:null, p1=vParada(v.cat,L[0][1]);
+  const L=(CLAS&&CLAS.lista&&CLAS.lista[v.cat])||[], yo=CLAS&&CLAS.yo&&CLAS.yo[v.cat]?{pos:CLAS.yo[v.cat]}:null;
+  // mis puntos acaban de mandarse y el servidor aún no los tiene: se vuelve a pedir dentro de unos segundos (hasta 3 veces)
+  if(v.dia&&!yo&&VREINT<3){VREINT++; setTimeout(()=>viajeUI(true),3000);}
+  if(!$('#vClas'))return;
+  if(!CLAS){$('#vClas').innerHTML='<p class="rt">No se ha podido cargar la clasificación. Inténtalo más tarde.</p>';return;}
+  if(!L.length){$('#vClas').innerHTML=`<p class="rt">Aún no hay nadie en la clasificación de ${VCAT[v.cat]}${v.dia?': en unos segundos aparecerás tú':'. ¡Juega el reto de este nivel y sé el primero!'}</p>`;return;}
+  const p1=vParada(v.cat,L[0][1]);
   if(yo&&!ap&&$('#vComo'))$('#vComo').innerHTML=`En la clasificación apareces como <b>${esc(L[yo.pos-1][0])}</b>. Si quieres, elige un apodo (tu código no se muestra nunca):`;
   const pc=pt=>Math.min(100,Math.round(pt/v.tot*100))+' %';
   let c=`<div class="vlider">👑 <b>${esc(L[0][0])}</b> va por <b>${esc(p1.t)}</b> · ${pc(L[0][1])}</div>`;
