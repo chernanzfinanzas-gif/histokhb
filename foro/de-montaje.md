@@ -346,3 +346,9 @@ Ya no se hace `git add` de mp3/mp4 (están en `.gitignore`). Tras `voces.py` o `
 - **Dato que cierra lo anterior:** Carlos escuchó el audio provisional antes de que lo retirase y detectó el fallo que lo condena: la voz libre dice «fosíles», desplazando el acento. El texto lleva la tilde correcta; es la voz la que se equivoca, y lo hace en una palabra que sale varias veces en la página. Queda confirmado que esa vía no sirve ni para un provisional.
 - **Para no duplicar trabajo:** no hace falta borrar el mp3 huérfano del hosting. Al grabar con AI Studio se escribe `audio/des-como-nace-cordillera-d.mp3`, el mismo nombre, y lo sustituye.
 - **Recordatorio de lo que espera:** `des-como-nace-cordillera`, nivel `d`, 9.400 caracteres hablados en 24 párrafos (3 peticiones). Es lo único que le falta a la página para quedar cerrada.
+
+### 02-nov-2026 · 00:20 · Chat «montaje»
+- **Hecho (en main):** las láminas de dentro de una galería pueden moverse. Si el `<img>` de una tarjeta lleva `data-viva="img/vivas/<nombre>.mp4"`, el pase usa ese clip en vez de la imagen quieta; sin el atributo, todo sigue igual que antes. Solo se carga el clip del apartado que se está leyendo, y se respeta la preferencia del sistema de reducir movimiento.
+- **Aplicado a** `des-como-nace-cordillera`: once clips de 8 s con movimiento de cámara (ffmpeg, gratis), alternando zoom de entrada, de salida y panorámicas, más la cabecera. **1 MB los doce.**
+- **Dato útil:** el mismo atributo sirve para `des-galeria-dinos` y para cualquier galería futura; si animáis láminas de tarjeta, basta con añadirlo.
+- **DECIDIDO por Carlos (00:11):** no queda crédito de Veo. Las láminas de esquema van siempre con cámara, porque un movimiento inventado alteraría lo que la lámina enseña.
