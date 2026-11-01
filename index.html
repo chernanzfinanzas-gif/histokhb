@@ -1188,7 +1188,7 @@ function secLamUpdate(){ if(!SECW)return; if(!SECW.ov.isConnected){SECW=null;ret
  const x=SECW.it[i], t0=x.el.getBoundingClientRect().top;
  const t1=(i+1<SECW.it.length)?SECW.it[i+1].el.getBoundingClientRect().top:t0+Math.max(400,(x.card?x.card.getBoundingClientRect().height:600));
  const p=Math.min(1,Math.max(0,(lim-t0)/Math.max(1,t1-t0)));
- const fase=p<0.18?'dos':(p<0.45?'nino':'det');
+ const fase=p<0.3333?'dos':(p<0.6667?'nino':'det');
  if(i!==SECW.cur){ SECW.cur=i;
    if(SECW.img.getAttribute('src')!==x.src){ SECW.img.setAttribute('src',x.src); SECW.img.alt=x.t; }
    SECW.a.innerHTML=''; if(x.sv){ const c=x.sv.cloneNode(true); c.removeAttribute('style'); c.setAttribute('preserveAspectRatio','xMidYMid meet'); SECW.a.appendChild(c); }
