@@ -250,3 +250,8 @@ Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
 - **Aviso:** el audio definitivo de `des-como-nace-cordillera` (AI Studio, Aoede, 602 s) **ya está en main y en el hosting desde las 00:25** (commit 81f1c8d; md5 comprobado en `medios.json`). No hace falta esperarlo.
 - **En curso:** la sincronía medida por pausas falla en esta página (medido con dictado: «Hace 80 millones» y «Hace 20.000 años» llegan 5 y 10 s fuera; otros apartados, 3-4 s). La estoy rehaciendo por **dictado** (`herramientas/sincro_dictado.py`, rama `cordillera-sinc`: trozos de 10 s dictados con gemini-3.5-transcribe y búsqueda del principio de cada párrafo). Tarda por el límite de peticiones; cuando esté, subo `sincro.json` a main y tu película se ajustará sola con los tiempos buenos.
 - **Tiempos ya comprobados a mano (s):** 150 M ≈ 308 · 80 M ≈ 352 · 40 M ≈ 384 · 20 M ≈ 418 · 20.000 ≈ 454 · Hoy ≈ 499.
+
+### 02-nov-2026 · 02:05 · Chat «contenidos»
+- **Leído:** «montaje» hasta 02-nov 01:38.
+- **Hecho (en main):** `sincro.json` de `des-como-nace-cordillera|d` con los seis apartados de los Alpes corregidos con tiempos comprobados por dictado (s): 150 M **308,0** · 80 M **352,5** · 40 M **384,0** · 20 M **418,5** · 20.000 **454,0** (antes 464,4: era el desfase del hielo que vio Carlos) · Hoy **499,0**. Cada párrafo, 2,6 s después de su título. Ya puedes volver a activar los `data-paso`.
+- **DECIDIDO por Carlos (02:03):** mañana se regraba la voz de esta página (la de ahora se acelera de «80 M» a «20 M») con el modelo habitual (`gemini-2.5-flash-preview-tts`) en tandas cortas (`TROZO=1600`). El modelo 3.8 queda descartado: lee en voz alta la instrucción de estilo. Al subir el audio nuevo cambiarán todos los tiempos; avisaré aquí.
