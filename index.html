@@ -896,8 +896,18 @@ function initBienvenida(){
   if(ch.checked){try{localStorage.setItem('hk-conozco','1');}catch(e){}p.style.transition='opacity .4s';p.style.opacity='0';setTimeout(()=>p.classList.add('hide'),420);}
  });
 }
+function limpiaBusq(){const q=$('#q'),r=$('#res'),b=$('#inicio-body');if(q){q.value='';q.blur();}if(r)r.innerHTML='';if(b)b.classList.remove('hide');}
+// «Inicio» (y el logo) vuelven al inicio limpio desde cualquier estado, aunque el hash no cambie
+function initVolverInicio(){
+ document.querySelectorAll('#nav a, header .brand').forEach(a=>a.addEventListener('click',e=>{
+  const h=a.getAttribute('href'), cur=location.hash||'#/';
+  if(h==='#/')limpiaBusq();
+  if(h===cur){ e.preventDefault(); if($('#sheet').classList.contains('open')){closeSheetUI();sheetBase=null;PILA=[];} lastRoute=null; route(); window.scrollTo(0,0); }
+ }));
+}
 function initInicio(){
  initCodigo();
+ initVolverInicio();
  initBienvenida();
  initNov0().catch(()=>{});
  $('#nfichas').textContent=Object.keys(IDX.fichas).length;
@@ -905,7 +915,7 @@ function initInicio(){
  let t=null; $('#q').addEventListener('input',e=>{clearTimeout(t);t=setTimeout(()=>doSearch(e.target.value),180);});
  $('#q').addEventListener('focus',()=>{sinc().catch(()=>{});if(!BUS)getJ('buscar.json').then(j=>{BUS=j;}).catch(()=>{});if(!LUG)getJ('lugares.json').then(j=>LUG=j).catch(()=>{});if(!DESA)getJ('desarrollos.json').then(j=>{DESA=j;if($('#q').value.trim().length>1)doSearch($('#q').value);}).catch(()=>{});},{once:true});
 }
-function renderInicio(){lastScreen='inicio';show('inicio');renderFavs0();const f=LS.get('hk_favs',[]);$('#favMini').textContent=f.length?f.length+' historia'+(f.length>1?'s':'')+' guardada'+(f.length>1?'s':'')+' en este móvil.':'Las historias que marques con ☆.';const r=LS.get('hk_reto',{d:{}});const t=r.d[hoy()],st=racha();const RG=rango(vPct()).r;$('#retoIco').textContent=RG[1];$('#retoMini').textContent=(t&&t.ok)?'✅ Hoy resuelto ('+t.s+'/5 a la primera) · 🔥 racha de '+st+' día'+(st!==1?'s':''):(st?'🔥 Racha de '+st+' día'+(st!==1?'s':'')+'. ¡Resuelve el de hoy para seguir!':'5 preguntas nuevas cada día. ¿Te atreves?')+(st?' · '+RG[2]:'');
+function renderInicio(){if(lastScreen!=='inicio')limpiaBusq();lastScreen='inicio';show('inicio');renderFavs0();const f=LS.get('hk_favs',[]);$('#favMini').textContent=f.length?f.length+' historia'+(f.length>1?'s':'')+' guardada'+(f.length>1?'s':'')+' en este móvil.':'Las historias que marques con ☆.';const r=LS.get('hk_reto',{d:{}});const t=r.d[hoy()],st=racha();const RG=rango(vPct()).r;$('#retoIco').textContent=RG[1];$('#retoMini').textContent=(t&&t.ok)?'✅ Hoy resuelto ('+t.s+'/5 a la primera) · 🔥 racha de '+st+' día'+(st!==1?'s':''):(st?'🔥 Racha de '+st+' día'+(st!==1?'s':'')+'. ¡Resuelve el de hoy para seguir!':'5 preguntas nuevas cada día. ¿Te atreves?')+(st?' · '+RG[2]:'');
  const ks=Object.keys(IDX.fichas), R=rng('dia'+hoy()), hk=ks[Math.floor(R()*ks.length)], hf=IDX.fichas[hk];
  const ul=LS.get('hk_ultima',null), uf=ul&&IDX.fichas[ul], nv=LS.get('hk_vistas',[]).filter(x=>IDX.fichas[x]).length;
  $('#hdia').innerHTML=(uf?`<button class="card" style="border-color:#3a9a5b" onclick="go('#/f/${ul}')"><div class="ic">${uf.ic}</div><div><div class="d">↩️ Seguir donde lo dejaste${nv?` · ✓ ${nv} de ${ks.length} vistas`:''}</div><h3>${esc(uf.t)}</h3><div class="t">${esc(uf.d)}</div></div></button>`:'')+`<button class="card" style="border-color:var(--accent)" onclick="go('#/f/${hk}')"><div class="ic">${hf.ic}</div><div><div class="d">📖 Historia del día · ${esc(hf.d)}</div><h3>${esc(hf.t)}</h3><div class="t">${esc(hf.tz)}</div></div></button>`;renderSemana0();}
