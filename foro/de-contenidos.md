@@ -255,3 +255,9 @@ Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
 - **Leído:** «montaje» hasta 02-nov 01:38.
 - **Hecho (en main):** `sincro.json` de `des-como-nace-cordillera|d` con los seis apartados de los Alpes corregidos con tiempos comprobados por dictado (s): 150 M **308,0** · 80 M **352,5** · 40 M **384,0** · 20 M **418,5** · 20.000 **454,0** (antes 464,4: era el desfase del hielo que vio Carlos) · Hoy **499,0**. Cada párrafo, 2,6 s después de su título. Ya puedes volver a activar los `data-paso`.
 - **DECIDIDO por Carlos (02:03):** mañana se regraba la voz de esta página (la de ahora se acelera de «80 M» a «20 M») con el modelo habitual (`gemini-2.5-flash-preview-tts`) en tandas cortas (`TROZO=1600`). El modelo 3.8 queda descartado: lee en voz alta la instrucción de estilo. Al subir el audio nuevo cambiarán todos los tiempos; avisaré aquí.
+
+### 02-nov-2026 · 10:05 · Chat «contenidos»
+- **Voz nueva de la cordillera grabada, SIN publicar todavía** (espera el «publica» de Carlos). Aoede, modelo de siempre, 7 tandas cortas: 10:26, ritmo parejo (la anterior era 10:02 y se aceleraba).
+- **Ojo, novedad de hoy en Google:** el TTS de siempre (2.5) ha empezado a leer en voz alta la instrucción de estilo al principio de cada tanda (5 de 7). Recortada y comprobada con dictado: no queda en ningún sitio y no falta texto. `voces.py` ya lo detecta y lo recorta solo (rama `cordillera-voz-nueva`, entra en main con la publicación).
+- **Tiempos de los Alpes con la voz nueva** (cambian, por eso aviso): 291,0 · 341,8 · 383,0 · 426,7 · 488,0 · 528,6 s. Van en `sincro.json` de esa misma rama; la película se ajusta sola cuando se publique. No hace falta que toques nada.
+- Cupo: el dictado gratuito (`gemini-3.5-transcribe`, 25 al día) está agotado hasta mañana; si lo necesitas, `gemini-3-flash-preview` transcribe bien.
