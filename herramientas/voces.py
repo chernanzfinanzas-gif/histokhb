@@ -55,16 +55,42 @@ def tts_aistudio(text,voz,prompt,dst,clave):
         except Exception as e: pass
         time.sleep(20*(i+1))
     print('ERR tras reintentos',dst); return False
+MODELOS_OIDO=['gemini-3.5-transcribe','gemini-3-flash-preview','gemini-3.5-flash-lite','gemini-3.1-flash-lite']
+def oye(dst,a,d,clave):
+    """Dicta d segundos desde a. Prueba varios modelos (cada uno tiene su cupo diario); None si ninguno responde."""
+    import requests,tempfile
+    t=tempfile.mktemp(suffix='.mp3'); subprocess.run(['ffmpeg','-y','-loglevel','error','-ss',str(a),'-t',str(d),'-i',dst,'-ac','1','-ar','16000','-b:a','32k',t])
+    au={"inline_data":{"mime_type":"audio/mp3","data":base64.b64encode(open(t,'rb').read()).decode()}}
+    for m in list(MODELOS_OIDO):
+        b={"contents":[{"parts":[au,{"text":"Transcribe" if 'transcribe' in m else "Transcribe literalmente este audio en español. Solo el texto."}]}]}
+        for i in range(4):
+            try:
+                r=requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent",headers={"x-goog-api-key":clave},json=b,timeout=120)
+                if r.ok:
+                    pt=r.json()['candidates'][0]['content']['parts'][0]
+                    x=(pt.get('audioTranscription') or {}).get('text') or pt.get('text') or ''
+                    if x.strip(): return x
+                    break
+                if r.status_code==429 and 'PerDay' in r.text: MODELOS_OIDO.remove(m); break
+                if r.status_code in (400,401,403,404): MODELOS_OIDO.remove(m); break
+            except Exception: pass
+            time.sleep(15*(i+1))
+    return None
 def quita_instruccion(dst,clave):
     """Desde el 2-nov-2026 Gemini-TTS a veces LEE EN VOZ ALTA la indicación de estilo antes del texto.
-    Si el dictado del principio la contiene, recorta hasta la primera pausa tras la que ya empieza el texto."""
+    Si el dictado del principio la contiene, recorta hasta la primera pausa tras la que ya empieza el texto.
+    Si no se puede dictar (sin cupo), el audio NO se acepta: mejor que falte a que se publique con la instrucción."""
     import sincro_dictado as SD
-    malo=lambda t:any(x in t for x in ('dramatizar','castellano de espana','pausas entre','cuentacuentos','documental de historia'))
-    if not malo(SD.norm(SD.dicta(dst,0,8,clave))): return True
+    malo=lambda t:any(x in t for x in ('dramatizar','castellano de espana','pausas entre','cuentacuentos','documental de historia','narrador de un buen'))
+    x=oye(dst,0,8,clave)
+    if x is None: print('ERR: no hay cupo para comprobar la instrucción; se repetirá',dst); os.remove(dst); return False
+    if not malo(SD.norm(x)): return True
     r=subprocess.run(['ffmpeg','-hide_banner','-t','40','-i',dst,'-af','silencedetect=noise=-35dB:d=0.25','-f','null','-'],capture_output=True,text=True).stderr
     for t in [float(x) for x in re.findall(r'silence_end: ([\d.]+)',r)]:
         if t<4: continue
-        txt=SD.norm(SD.dicta(dst,t-0.05,6,clave))
+        x=oye(dst,t-0.05,6,clave)
+        if x is None: break
+        txt=SD.norm(x)
         if txt.strip() and not malo(txt):
             tmp=dst+'.rec.wav'; subprocess.run(['ffmpeg','-v','error','-y','-ss',str(max(0,t-0.15)),'-i',dst,'-c:a','pcm_s16le',tmp],check=True)
             os.replace(tmp,dst); print('  instrucción leída y recortada en',round(t,1),'s:',os.path.basename(dst)); return True
@@ -97,19 +123,27 @@ def limpia_bordes(w):
     return o
 def iguala_ritmo(wavs,textos):
     """Cada tanda de Gemini sale a su propia velocidad y al juntarlas se oyen escalones (cordillera, 2-nov-2026).
-    Pone todas las tandas al ritmo de la tanda mediana (sílabas por segundo), sin cambiar el tono (atempo)."""
+    Pone todas las tandas al ritmo de la tanda mediana, sin cambiar el tono (atempo). El ritmo se mide en sílabas
+    por segundo DE VOZ (sin contar las pausas): una cronología o una lista se lee con muchas pausas y no por eso
+    va más lenta. Tandas cortas (<300 sílabas: colas con cronologías y listas) no se miden ni se tocan, y el ajuste nunca pasa de ±12 %."""
     wavs=[limpia_bordes(w) for w in wavs]
     if len(wavs)<2: return wavs
     import silabas as S
-    dur=lambda p:float(subprocess.run(['ffprobe','-v','error','-show_entries','format=duration','-of','csv=p=0',p],capture_output=True,text=True).stdout)
-    r=[S.silabas(t)/max(dur(w),1) for w,t in zip(wavs,textos)]; obj=sorted(r)[len(r)//2]; out=[]
+    def voz(p):
+        r=subprocess.run(['ffmpeg','-hide_banner','-i',p,'-af','silencedetect=noise=-35dB:d=0.15','-f','null','-'],capture_output=True,text=True).stderr
+        tot=float(subprocess.run(['ffprobe','-v','error','-show_entries','format=duration','-of','csv=p=0',p],capture_output=True,text=True).stdout)
+        return max(1.0,tot-sum(float(x) for x in re.findall(r'silence_duration: ([\d.]+)',r)))
+    sy=[S.silabas(t) for t in textos]; r=[(n/voz(w) if n>=300 else None) for w,n in zip(wavs,sy)]
+    med=sorted(x for x in r if x)
+    if len(med)<2: return wavs
+    obj=med[len(med)//2]; out=[]
     for w,x in zip(wavs,r):
-        f=min(1.25,max(0.8,obj/x))
+        f=1.0 if x is None else min(1.12,max(0.88,obj/x))
         if abs(f-1)<0.03: out.append(w); continue
-        o=w[:-4]+f'.r{f:.3f}.wav'
+        o=w[:-4]+f'.v{f:.3f}.wav'
         if not os.path.exists(o): subprocess.run(['ffmpeg','-v','error','-y','-i',w,'-af',f'atempo={f:.4f}','-c:a','pcm_s16le',o],check=True)
         out.append(o)
-    print('  ritmo igualado por tandas:',' '.join(f'{x:.1f}' for x in r),'→',f'{obj:.1f}',flush=True); return out
+    print('  ritmo de voz por tandas:',' '.join('-' if x is None else f'{x:.1f}' for x in r),'→',f'{obj:.1f}',flush=True); return out
 def genera(cod,nivel,html_,voz,kbps,cabecera=None):
     ps=limpia(html_); ps=([cabecera+'.'] if cabecera else [])+ps
     wavs=[]
@@ -123,7 +157,15 @@ def genera(cod,nivel,html_,voz,kbps,cabecera=None):
     lst=os.path.join(TMP,f'{cod}-{nivel}.txt'); open(lst,'w').write(''.join(f"file '{os.path.basename(w)}'\n"+("file 'sil.wav'\n" if j<len(wavs)-1 else '') for j,w in enumerate(wavs)))
     out=os.path.join(REPO,'audio',f'{cod}-{nivel}.mp3'); os.makedirs(os.path.dirname(out),exist_ok=True)
     subprocess.run(['ffmpeg','-v','error','-y','-f','concat','-safe','0','-i',lst,'-ac','1','-b:a',kbps,out],check=True,cwd=TMP)
-    return round(float(subprocess.run(['ffprobe','-v','error','-show_entries','format=duration','-of','csv=p=0',out],capture_output=True,text=True).stdout))
+    dur=float(subprocess.run(['ffprobe','-v','error','-show_entries','format=duration','-of','csv=p=0',out],capture_output=True,text=True).stdout)
+    import silabas as S
+    v=sum(S.silabas(p) for p in ps)/max(dur,1)
+    if v>7:   # Gemini a veces corta la grabación a medias (pasó con Lutero, 2-nov-2026): demasiadas sílabas para tan poco audio
+        print(f'ERR: audio incompleto ({v:.1f} sílabas/s), no se acepta:',out); os.remove(out)
+        for w in wavs: 
+            if os.path.exists(w): os.remove(w)
+        return None
+    return round(dur)
 def orden_voz(k):
     sec=seccion_de(k); idx=J('datos/indice.json'); ks=[x for c in idx['capitulos'] if c['sec']==sec for x in c['f']]
     return VOCES[ks.index(k)%10]
