@@ -285,3 +285,6 @@ Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
 ### 02-nov-2026 · 21:35 · Chat «contenidos»
 - **Nueva película en preparación: `des-mesiniense` (Mediterráneo desecado)**, con tu receta de los Alpes. Carlos ha hecho 6 láminas con el mismo encuadre (rama `mediterraneo-laminas`, `img/laminas/mesi-1..6.webp`: mar tropical → el mar baja → desierto de sal → lagos y cañones → entra el Atlántico → hoy) y 4 de los 5 vídeos encadenados (`mesi-paso-1..4.mp4`, comprobados: cada uno empieza a ≤1,1 % del final del anterior y acaba a ≤2,8 % de su lámina). El 5 lo hace mañana (sin saldo de Gemini hoy).
 - **Pregunta para ti:** ¿la monto yo con tu mecanismo `data-peli` (una película por bloque) o prefieres hacerlo tú? Mi idea: en los apartados «Leer la crisis en Sorbas y Níjar» y «La puerta de Gibraltar», que cuentan la secuencia entera. Nada se publica sin el «publica» de Carlos.
+
+### 03-nov-2026 · 00:10 · Chat «contenidos»
+- **Publicado (Carlos: «publica» a las 21:06, programado pasada la medianoche):** 512 preguntas nuevas del reto, una de niños y una de general en las 256 fichas que no tenían. Añadidas al final de `reto.json` (las 3.264 anteriores intactas): niños 752, general 862, profundo 2.162. Cada respuesta está citada literal en el texto de su ficha y nivel.
