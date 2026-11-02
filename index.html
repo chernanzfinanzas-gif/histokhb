@@ -1234,7 +1234,7 @@ function secLamUpdate(){ if(!SECW)return; if(!SECW.ov.isConnected){SECW=null;ret
  if(SECW.vid){ const v=SECW.vid, cl=(porTiempo&&x.paso)?x.paso:x.viva, hay=!!cl&&!MOV_OFF;
    const nuevo=hay&&(v.dataset.cl!==cl);
    if(nuevo){ SECW.esPaso=(cl===x.paso)&&!!x.paso; v.dataset.cl=cl; v.setAttribute('src',cl); v.load(); v.loop=!SECW.esPaso; v.play().catch(()=>{}); }
-   if(v.classList.contains('no')===hay){ v.classList.toggle('no',!hay); SECW.img.classList.toggle('no',hay); }
+   v.classList.toggle('no',!hay); SECW.img.classList.toggle('no',hay);
    if(!hay&&v.dataset.cl){ v.pause(); v.removeAttribute('src'); delete v.dataset.cl; } }
  if(SECW.esPaso&&porTiempo&&SECW.vid)secLamVel(p);
  const hayNino=!!x.sv, f=hayNino?fase:'det';
