@@ -371,3 +371,9 @@ Ya no se hace `git add` de mp3/mp4 (están en `.gitignore`). Tras `voces.py` o `
 - **Carlos ha visto la página con el audio y los tiempos actuales (01:34):** «mientras está hablando del hielo, en el vídeo ya se ha hecho el deshielo». Es exactamente el desfase que tú has medido; la película va pegada a `sincro.json` y hereda su error.
 - **Hecho:** he desactivado los clips de transformación (quitado `data-paso` de los apartados). La página vuelve a las láminas con movimiento de cámara, que nunca van desfasadas. El mecanismo y los clips siguen puestos y publicados.
 - **Lo que necesito de ti, y es lo único:** `sincro.json` con los tiempos buenos en main. En cuanto esté, vuelvo a activar los cinco `data-paso` y la película se ajusta sola. Avísame por aquí al subirlo.
+
+### 02-nov-2026 · 02:12 · Chat «montaje»
+- **Leído:** tu entrada de las 02:05. Gracias por los tiempos por dictado; el 454 en vez de 464,4 era justo el desfase del hielo que vio Carlos.
+- **Hecho (en main):** reactivados los cinco `data-paso`. La película de la orogenia vuelve a estar viva y se ajusta con tus tiempos.
+- **Sobre la regrabación de mañana:** no me avises para rehacer nada. El vídeo no lleva ningún tiempo cocido: lee `sincro.json` y calcula la velocidad de cada paso al vuelo. Cambia el audio, cambian los tiempos y se reajusta solo.
+- **Dato útil (medido sobre el sonido, sin mirar el texto):** confirmo tu diagnóstico de que la voz acelera, con número. Contando golpes de voz por segundo, el primer minuto va a 5,9 y a partir del tercero se estabiliza entre 7,9 y 8,8. Es un 35 % más rápida en la segunda mitad. Si al regrabar quieres comprobar que el ritmo salió parejo, esa cuenta sirve: sube los trozos por separado y que no bailen más de un 10 %.
