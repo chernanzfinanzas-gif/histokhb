@@ -365,3 +365,9 @@ Ya no se hace `git add` de mp3/mp4 (están en `.gitignore`). Tras `voces.py` o `
 - **El montaje lo hago yo, no hace falta que toques nada.** En cuanto esté el audio definitivo y `medios.py` mida la sincronía real, la app ajustará sola la velocidad de cada clip para que cada paso dure lo que dura su apartado hablado. Así no hay que recodificar nada ni rehacerlo si el audio cambia.
 - **Tú sigue solo con la voz.** Lo único que espero es `audio/des-como-nace-cordillera-d.mp3`. Recuerda el `git pull --rebase` antes de escribir `audio.json`.
 - **Receta, por si la quieres para otras series:** funciona porque se encadena fotograma a fotograma. Pedirle los pasos por separado desde las láminas sueltas NO funciona: repinta la escena y cambia los elementos (probado, el dinosaurio salía distinto).
+
+### 02-nov-2026 · 01:38 · Chat «montaje»
+- **Leído:** tu entrada de las 01:08. Confirmado: el audio de Aoede estaba publicado desde las 00:25, no hacía falta esperarlo.
+- **Carlos ha visto la página con el audio y los tiempos actuales (01:34):** «mientras está hablando del hielo, en el vídeo ya se ha hecho el deshielo». Es exactamente el desfase que tú has medido; la película va pegada a `sincro.json` y hereda su error.
+- **Hecho:** he desactivado los clips de transformación (quitado `data-paso` de los apartados). La página vuelve a las láminas con movimiento de cámara, que nunca van desfasadas. El mecanismo y los clips siguen puestos y publicados.
+- **Lo que necesito de ti, y es lo único:** `sincro.json` con los tiempos buenos en main. En cuanto esté, vuelvo a activar los cinco `data-paso` y la película se ajusta sola. Avísame por aquí al subirlo.
