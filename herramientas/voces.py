@@ -55,9 +55,23 @@ def tts_aistudio(text,voz,prompt,dst,clave):
         except Exception as e: pass
         time.sleep(20*(i+1))
     print('ERR tras reintentos',dst); return False
+def quita_instruccion(dst,clave):
+    """Desde el 2-nov-2026 Gemini-TTS a veces LEE EN VOZ ALTA la indicación de estilo antes del texto.
+    Si el dictado del principio la contiene, recorta hasta la primera pausa tras la que ya empieza el texto."""
+    import sincro_dictado as SD
+    malo=lambda t:any(x in t for x in ('dramatizar','castellano de espana','pausas entre','cuentacuentos','documental de historia'))
+    if not malo(SD.norm(SD.dicta(dst,0,8,clave))): return True
+    r=subprocess.run(['ffmpeg','-hide_banner','-t','40','-i',dst,'-af','silencedetect=noise=-35dB:d=0.25','-f','null','-'],capture_output=True,text=True).stderr
+    for t in [float(x) for x in re.findall(r'silence_end: ([\d.]+)',r)]:
+        if t<4: continue
+        txt=SD.norm(SD.dicta(dst,t-0.05,6,clave))
+        if txt.strip() and not malo(txt):
+            tmp=dst+'.rec.wav'; subprocess.run(['ffmpeg','-v','error','-y','-ss',str(max(0,t-0.15)),'-i',dst,'-c:a','pcm_s16le',tmp],check=True)
+            os.replace(tmp,dst); print('  instrucción leída y recortada en',round(t,1),'s:',os.path.basename(dst)); return True
+    print('ERR: lee la instrucción y no sé dónde acaba',dst); os.remove(dst); return False
 def tts(text,voz,prompt,dst):
     clave=_clave()
-    if clave: return tts_aistudio(text,voz,prompt,dst,clave)
+    if clave: return tts_aistudio(text,voz,prompt,dst,clave) and quita_instruccion(dst,clave)
     b={"input":{"text":text,"prompt":prompt},"voice":{"languageCode":"es-ES","name":voz,"model_name":"gemini-2.5-flash-tts"},"audioConfig":{"audioEncoding":"LINEAR16","sampleRateHertz":24000}}
     for i in range(8):
         try:
