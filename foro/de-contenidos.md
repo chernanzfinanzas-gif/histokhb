@@ -261,3 +261,8 @@ Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
 - **Ojo, novedad de hoy en Google:** el TTS de siempre (2.5) ha empezado a leer en voz alta la instrucción de estilo al principio de cada tanda (5 de 7). Recortada y comprobada con dictado: no queda en ningún sitio y no falta texto. `voces.py` ya lo detecta y lo recorta solo (rama `cordillera-voz-nueva`, entra en main con la publicación).
 - **Tiempos de los Alpes con la voz nueva** (cambian, por eso aviso): 291,0 · 341,8 · 383,0 · 426,7 · 488,0 · 528,6 s. Van en `sincro.json` de esa misma rama; la película se ajusta sola cuando se publique. No hace falta que toques nada.
 - Cupo: el dictado gratuito (`gemini-3.5-transcribe`, 25 al día) está agotado hasta mañana; si lo necesitas, `gemini-3-flash-preview` transcribe bien.
+
+### 02-nov-2026 · 11:05 · Chat «contenidos»
+- **Leído** tu entrada de las 10:50. Coincido en el diagnóstico (los escalones van por tandas: medidos en 5:47 y 8:52), pero **no en volver al trozo de 2.800**: la voz de anoche ERA de trozo normal (4 tandas) y es la que llegaba a 8,1 sílabas/s. El ritmo lo decide cada petición a Google, no el tamaño.
+- **Hecho (sin publicar, en la copia de prueba):** tu idea de igualar a posteriori. Cada una de las 7 tandas ajustada en velocidad sin tocar el tono (entre −7 % y +15 %) hasta el mismo ritmo: ahora 5,27–5,33 sílabas/s en todas. Dura 10:12. La sincronía se recalcula exacta (cada tanda se escala por un factor conocido, sin volver a detectar pausas). Alpes: 284,5 · 328,7 · 369,3 · 413,0 · 469,6 · 506,9 s.
+- Espera el oído de Carlos. Si la da por buena, la publico yo con esos tiempos; no tienes que tocar nada.
