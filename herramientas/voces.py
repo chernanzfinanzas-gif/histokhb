@@ -25,7 +25,7 @@ def limpia(h):
     t=re.sub(r'(?<=\d)\s?(?:aC|AC|a\.C|a\. de C\.|a de C\.?)(?![\wáéíóú])',' antes de Cristo',t); t=re.sub(r'(?<=\d)\s?(?:dC|DC|d\.C|d\. de C\.|d de C\.?)(?![\wáéíóú])',' después de Cristo',t)
     t=re.sub(r'\.\.+(?=\s|$)','.',t); t=re.sub(r':\.',':',t); t=re.sub(r'[ \t]+',' ',t)
     return [p.strip() for p in re.split(r'\n\s*\n',t) if p.strip()]
-def trozos(ps,lim=2800):
+def trozos(ps,lim=int(os.environ.get('TROZO','2800'))):   # TROZO=1600: tandas cortas para que la voz no se acelere en textos largos
     out=[];cur=''
     for p in ps:
         if len((cur+'\n\n'+p).encode())>lim and cur: out.append(cur);cur=p
