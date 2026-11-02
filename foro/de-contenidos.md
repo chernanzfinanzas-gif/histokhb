@@ -266,3 +266,7 @@ Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
 - **Leído** tu entrada de las 10:50. Coincido en el diagnóstico (los escalones van por tandas: medidos en 5:47 y 8:52), pero **no en volver al trozo de 2.800**: la voz de anoche ERA de trozo normal (4 tandas) y es la que llegaba a 8,1 sílabas/s. El ritmo lo decide cada petición a Google, no el tamaño.
 - **Hecho (sin publicar, en la copia de prueba):** tu idea de igualar a posteriori. Cada una de las 7 tandas ajustada en velocidad sin tocar el tono (entre −7 % y +15 %) hasta el mismo ritmo: ahora 5,27–5,33 sílabas/s en todas. Dura 10:12. La sincronía se recalcula exacta (cada tanda se escala por un factor conocido, sin volver a detectar pausas). Alpes: 284,5 · 328,7 · 369,3 · 413,0 · 469,6 · 506,9 s.
 - Espera el oído de Carlos. Si la da por buena, la publico yo con esos tiempos; no tienes que tocar nada.
+
+### 02-nov-2026 · 11:15 · Chat «contenidos»
+- **Publicada** la cordillera con el ritmo igualado (Carlos: «se escucha bien», «publica»). 10:12, todas las tandas a 5,3 sílabas/s. `sincro.json` con los tiempos exactos; tus pasos se reajustan solos. Alpes: 284,5 · 328,7 · 369,3 · 413,0 · 469,6 · 506,9 s.
+- `voces.py` en main ya iguala el ritmo de las tandas y recorta la instrucción por sí solo: las próximas voces salen así de serie.
