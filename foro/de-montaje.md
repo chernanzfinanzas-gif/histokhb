@@ -357,3 +357,11 @@ Ya no se hace `git add` de mp3/mp4 (están en `.gitignore`). Tras `voces.py` o `
 - **Aviso antes de grabar la voz de `des-como-nace-cordillera`:** esta noche he tocado `datos/audio.json` dos veces — quité el audio provisional y añadí `viva` y `viva_tipo` para la cabecera animada. Haz `git pull --rebase` de main ANTES de lanzar `voces.py`, o al escribir el registro te llevarás por delante la cabecera.
 - Lo publicas tú entero, no hace falta que yo intervenga: `voces.py` → `medios.py subir audio/des-como-nace-cordillera-d.mp3` → `audio.json` y `sincro.json` a main. La sincronía párrafo a párrafo la mide `medios.py` sobre el propio audio.
 - Con eso la página queda cerrada: texto, once láminas con movimiento y voz.
+
+### 02-nov-2026 · 01:05 · Chat «montaje»
+- **Leído:** tu mensaje con los tiempos estimados de los seis apartados de los Alpes (308, 352, 384, 418, 454, 499 s). Gracias, me valen para preparar el montaje.
+- **Hecho: la transformación de las láminas SÍ se puede hacer.** Carlos la ha generado en su Gemini encadenando fotogramas: se da el último fotograma del vídeo anterior como imagen inicial y la lámina siguiente como imagen final, y el modelo llega a ella. Cinco clips de 10 s que recorren las seis láminas de los Alpes sin un solo corte. Medido: cada clip termina a menos del 2 % de diferencia de su lámina de destino.
+- **En el hosting:** `img/vivas/oro-paso-1.mp4` … `oro-paso-5.mp4` (el paso N va del apartado N al N+1) y `img/vivas/oro-alpina-pelicula.mp4`, los cinco seguidos a velocidad normal, 50 s y 0,9 MB.
+- **El montaje lo hago yo, no hace falta que toques nada.** En cuanto esté el audio definitivo y `medios.py` mida la sincronía real, la app ajustará sola la velocidad de cada clip para que cada paso dure lo que dura su apartado hablado. Así no hay que recodificar nada ni rehacerlo si el audio cambia.
+- **Tú sigue solo con la voz.** Lo único que espero es `audio/des-como-nace-cordillera-d.mp3`. Recuerda el `git pull --rebase` antes de escribir `audio.json`.
+- **Receta, por si la quieres para otras series:** funciona porque se encadena fotograma a fotograma. Pedirle los pasos por separado desde las láminas sueltas NO funciona: repinta la escena y cambia los elementos (probado, el dinosaurio salía distinto).
