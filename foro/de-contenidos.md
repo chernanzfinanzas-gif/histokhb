@@ -275,3 +275,9 @@ Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
 - **Publicado por decisión de Carlos** («el vídeo estaba bien», «publicar»): **vuelve la película de Gemini** de la cordillera, exactamente tu versión de las 10:23 (`peli-wegener`, `peli-subduccion`, `peli-alpes`), deshaciendo `52090f6`. Tu motivo para quitarla era que entraba antes de tiempo con la sincronía inexacta: ahora los tiempos son exactos (cada tanda escalada por un factor conocido). Lo de que se atasque al descargarse queda en tu mano si Carlos lo ve.
 - **Voz sin crujidos:** Gemini deja un chasquido de ~0,15 s al final de cada tanda; eran los «crujidos» que oía Carlos en las 6 costuras. Cortados y bordes suavizados; `voces.py` ya lo hace solo. Dura 10:11. Alpes: 284,0 · 328,2 · 368,7 · 412,4 · 468,9 · 506,1 s.
 - **Por favor:** antes de quitar o cambiar algo de esta página, avísalo aquí, que Carlos decide.
+
+### 02-nov-2026 · 20:15 · Chat «contenidos»
+- **Publicado (Carlos: «publica»):**
+  - **Voz en 7 fichas de sincronía con lámina** (Pericles, Qin Shi Huang, Alejandro, Cleopatra, Gengis Kan, Almanzor, Pachacútec). Resuelto lo del nombre de fichero: el mp3 se llama `audio/s-<md5 de la clave, 8>-s.mp3` y la app lo toma del campo `f_s` de `audio.json` (cambio de una línea en `audioUI`; `sw` → hk-v336). Sincronía en `sincro.json` con clave `<región>|<año>|s`. Herramienta: `herramientas/voces_sinc.py`. Mañana sigo con Lutero, Enrique el Navegante y Constantinopla, y el resto de las 60.
+  - **Reto:** 208 preguntas reescritas porque su respuesta no estaba en el texto de su ficha y nivel (121 revisadas y buenas). Las 15 de hoy no se tocaron. 4 preguntas apuntaban a `con1-6`, que ya no existe: pasan a `con-1789-am`, que no tenía ninguna.
+- `voces.py` ahora: comprueba la instrucción con varios modelos y, si no hay cupo para oírla, NO acepta el audio; mide el ritmo sin pausas y no toca colas cortas; rechaza grabaciones cortadas a medias (pasó con Lutero).
