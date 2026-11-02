@@ -18,6 +18,7 @@ def dicta(mp3, a, d, k):
         except Exception as e:
             time.sleep(10 * (i + 1))
     return ''
+PASO = float(os.environ.get('PASO', '20')); ESPERA = float(os.environ.get('ESPERA', '8'))
 if __name__ == '__main__':
     mp3 = sys.argv[1]; k = open(os.environ['GEMINI_API_KEY_FILE']).read().strip()
     b = os.path.basename(mp3)[:-4]; cod, nivel = b.rsplit('-', 1)
@@ -26,9 +27,9 @@ if __name__ == '__main__':
     # palabras dictadas con su segundo aproximado (repartidas de forma uniforme dentro de cada trozo de 10 s)
     W = []; a = 0.0
     while a < tot:
-        txt = norm(dicta(mp3, a, 10, k)).split(); d = min(10, tot - a)
+        txt = norm(dicta(mp3, a, PASO, k)).split(); d = min(PASO, tot - a)
         W += [(w, a + d * (i + 0.5) / max(1, len(txt))) for i, w in enumerate(txt)]
-        print(f'{a:6.0f} s · {len(txt)} palabras', flush=True); a += 10; time.sleep(3)
+        print(f'{a:6.0f} s · {len(txt)} palabras', flush=True); a += PASO; time.sleep(ESPERA)
     pal = [w for w, _ in W]; ts = []; desde = 0
     for e in els:
         q = norm(e).split()[:6]; mejor = (0, None)
