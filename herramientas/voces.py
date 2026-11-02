@@ -81,9 +81,24 @@ def tts(text,voz,prompt,dst):
         except Exception as e: pass
         time.sleep(20*(i+1))
     print('ERR tras reintentos',dst); return False
+def limpia_bordes(w):
+    """Gemini deja un chasquido de ~0,15 s al final de cada tanda (medido en la cordillera, 2-nov-2026): se corta
+    y se suavizan los bordes (15 ms de entrada, 30 ms de salida) para que las costuras no crujan."""
+    import numpy as np
+    o=w[:-4]+'.lb.wav'
+    if os.path.exists(o): return o
+    raw=subprocess.run(['ffmpeg','-v','error','-i',w,'-ac','1','-ar','24000','-af','highpass=f=5000','-f','s16le','-'],capture_output=True).stdout
+    x=np.frombuffer(raw,np.int16).astype(np.float32)/32768; h=120; n=len(x)//h
+    if n<200: return w
+    e=np.sqrt((x[:n*h].reshape(n,h)**2).mean(1)); T=len(x)/24000
+    idx=[i for i in range(n-120,n) if e[i]>0.15]
+    cut=idx[0]*0.005-0.02 if idx else T
+    subprocess.run(['ffmpeg','-v','error','-y','-i',w,'-t',f'{cut:.3f}','-af',f'afade=t=in:d=0.015,afade=t=out:st={max(0,cut-0.03):.3f}:d=0.03','-c:a','pcm_s16le',o],check=True)
+    return o
 def iguala_ritmo(wavs,textos):
     """Cada tanda de Gemini sale a su propia velocidad y al juntarlas se oyen escalones (cordillera, 2-nov-2026).
     Pone todas las tandas al ritmo de la tanda mediana (sílabas por segundo), sin cambiar el tono (atempo)."""
+    wavs=[limpia_bordes(w) for w in wavs]
     if len(wavs)<2: return wavs
     import silabas as S
     dur=lambda p:float(subprocess.run(['ffprobe','-v','error','-show_entries','format=duration','-of','csv=p=0',p],capture_output=True,text=True).stdout)
