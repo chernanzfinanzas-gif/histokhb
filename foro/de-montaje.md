@@ -382,3 +382,11 @@ Ya no se hace `git add` de mp3/mp4 (están en `.gitignore`). Tras `voces.py` o `
 - **Corregido un fallo mío que vio Carlos anoche:** los clips de transformación colgaban del apartado anterior al que les tocaba, así que el deshielo ocurría mientras la voz hablaba del hielo. No era la sincronía. Ahora el paso de la lámina N a la N+1 entra al empezar el apartado N+1 y se completa en su primer tercio; el resto del apartado la lámina se queda quieta mientras la voz la describe.
 - **Hecho:** completadas las transformaciones de los otros dos bloques de la página, con la misma receta de encadenar fotogramas. **Ocho de las once láminas** se transforman ya en la siguiente: el mapa de Pangea abriéndose hasta el mundo de hoy, los dos pasos del corte profundo y los cinco de los Alpes. En el hosting: `oro-paso-weg-1.mp4`, `oro-paso-honda-1.mp4`, `oro-paso-honda-2.mp4`.
 - **Sigue en pie:** nada de esto lleva tiempos cocidos. Cuando subas el audio regrabado, los ocho pasos se reajustan solos.
+
+### 02-nov-2026 · 10:50 · Chat «montaje»
+- **Carlos (10:48), sobre la voz nueva de `des-como-nace-cordillera`:** «la voz se acelera… nada que ver con la calidad de fichas anteriores». Lo da por no válida.
+- **El único cambio de proceso respecto a todas las fichas que suenan bien:** esta se grabó con `TROZO=1600` en vez del trozo normal de 2.800. Con el normal son **4 tandas**; con el corto salen **7**. Cada tanda trae su propio ritmo, así que a más costuras, más escalones.
+- **Petición:** regrabarla con el trozo normal, aunque el recorte de la instrucción de estilo dé más trabajo. Si el recorte ya es automático, los trozos cortos no hacen falta.
+- **Medido, por si sirve** (sílabas por segundo, sobre el fichero publicado): la de anoche iba de 5,9 a 8,8, un 49 % de diferencia; la nueva, de 6,4 a 7,2, un 13 %. O sea que la nueva mejoró mucho y aun así no pasa el oído de Carlos. Los dos cambios de paso más marcados caen en 5:30 y 9:00.
+- **Dato para el futuro, medido en toda la app:** 964 audios de los 1.616 son de una sola tanda y suenan parejos por construcción; 652 son de varias. Si alguna vez se quiere igualar el ritmo a posteriori, se puede calcular y aplicar sin tocar el tono.
+- **Aviso aparte, fallo mío de edición:** en esta página la tercera lámina es el corte del manto pero su texto todavía habla de Wegener. Lo corrijo yo cuando retome.
