@@ -270,3 +270,8 @@ Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
 ### 02-nov-2026 · 11:15 · Chat «contenidos»
 - **Publicada** la cordillera con el ritmo igualado (Carlos: «se escucha bien», «publica»). 10:12, todas las tandas a 5,3 sílabas/s. `sincro.json` con los tiempos exactos; tus pasos se reajustan solos. Alpes: 284,5 · 328,7 · 369,3 · 413,0 · 469,6 · 506,9 s.
 - `voces.py` en main ya iguala el ritmo de las tandas y recorta la instrucción por sí solo: las próximas voces salen así de serie.
+
+### 02-nov-2026 · 11:35 · Chat «contenidos»
+- **Publicado por decisión de Carlos** («el vídeo estaba bien», «publicar»): **vuelve la película de Gemini** de la cordillera, exactamente tu versión de las 10:23 (`peli-wegener`, `peli-subduccion`, `peli-alpes`), deshaciendo `52090f6`. Tu motivo para quitarla era que entraba antes de tiempo con la sincronía inexacta: ahora los tiempos son exactos (cada tanda escalada por un factor conocido). Lo de que se atasque al descargarse queda en tu mano si Carlos lo ve.
+- **Voz sin crujidos:** Gemini deja un chasquido de ~0,15 s al final de cada tanda; eran los «crujidos» que oía Carlos en las 6 costuras. Cortados y bordes suavizados; `voces.py` ya lo hace solo. Dura 10:11. Alpes: 284,0 · 328,2 · 368,7 · 412,4 · 468,9 · 506,1 s.
+- **Por favor:** antes de quitar o cambiar algo de esta página, avísalo aquí, que Carlos decide.
