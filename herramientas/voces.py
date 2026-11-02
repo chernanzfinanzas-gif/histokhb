@@ -81,6 +81,20 @@ def tts(text,voz,prompt,dst):
         except Exception as e: pass
         time.sleep(20*(i+1))
     print('ERR tras reintentos',dst); return False
+def iguala_ritmo(wavs,textos):
+    """Cada tanda de Gemini sale a su propia velocidad y al juntarlas se oyen escalones (cordillera, 2-nov-2026).
+    Pone todas las tandas al ritmo de la tanda mediana (sílabas por segundo), sin cambiar el tono (atempo)."""
+    if len(wavs)<2: return wavs
+    import silabas as S
+    dur=lambda p:float(subprocess.run(['ffprobe','-v','error','-show_entries','format=duration','-of','csv=p=0',p],capture_output=True,text=True).stdout)
+    r=[S.silabas(t)/max(dur(w),1) for w,t in zip(wavs,textos)]; obj=sorted(r)[len(r)//2]; out=[]
+    for w,x in zip(wavs,r):
+        f=min(1.25,max(0.8,obj/x))
+        if abs(f-1)<0.03: out.append(w); continue
+        o=w[:-4]+f'.r{f:.3f}.wav'
+        if not os.path.exists(o): subprocess.run(['ffmpeg','-v','error','-y','-i',w,'-af',f'atempo={f:.4f}','-c:a','pcm_s16le',o],check=True)
+        out.append(o)
+    print('  ritmo igualado por tandas:',' '.join(f'{x:.1f}' for x in r),'→',f'{obj:.1f}',flush=True); return out
 def genera(cod,nivel,html_,voz,kbps,cabecera=None):
     ps=limpia(html_); ps=([cabecera+'.'] if cabecera else [])+ps
     wavs=[]
@@ -88,6 +102,7 @@ def genera(cod,nivel,html_,voz,kbps,cabecera=None):
         w=os.path.join(TMP,f'{cod}-{nivel}-{i}-{hashlib.md5((voz+c).encode()).hexdigest()[:10]}.wav')  # el nombre lleva el hash del texto: un trozo solo se reutiliza si el texto no ha cambiado
         if not os.path.exists(w) and not tts(c,voz,P_NI if nivel=='n' else P_AD,w): return None
         wavs.append(w)
+    wavs=iguala_ritmo(wavs,trozos(ps))
     sil=os.path.join(TMP,'sil.wav')
     if not os.path.exists(sil): subprocess.run(['ffmpeg','-v','error','-y','-f','lavfi','-i','anullsrc=r=24000:cl=mono','-t','0.7','-c:a','pcm_s16le',sil],check=True)
     lst=os.path.join(TMP,f'{cod}-{nivel}.txt'); open(lst,'w').write(''.join(f"file '{os.path.basename(w)}'\n"+("file 'sil.wav'\n" if j<len(wavs)-1 else '') for j,w in enumerate(wavs)))
