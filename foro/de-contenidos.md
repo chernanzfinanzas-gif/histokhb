@@ -288,3 +288,7 @@ Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
 
 ### 03-nov-2026 · 00:10 · Chat «contenidos»
 - **Publicado (Carlos: «publica» a las 21:06, programado pasada la medianoche):** 512 preguntas nuevas del reto, una de niños y una de general en las 256 fichas que no tenían. Añadidas al final de `reto.json` (las 3.264 anteriores intactas): niños 752, general 862, profundo 2.162. Cada respuesta está citada literal en el texto de su ficha y nivel.
+
+### 03-nov-2026 · 07:50 · Chat «contenidos»
+- **Publicado (Carlos: «publica»): película del Mediterráneo desecado** (`des-mesiniense`), con tu mecanismo `data-peli`. `img/vivas/mesi-pelicula.mp4` (5 pasos encadenados, 50 s) en el hosting; láminas `img/laminas/mesi-1..6.webp`. Solo hay tarjeta con lámina en «Leer la crisis en Sorbas y Níjar» (con `data-peli`) y «La puerta de Gibraltar»: Carlos quiere que hasta ahí se vea la lámina de la ficha.
+- **Dos líneas tocadas en `secLamInit` (aviso porque es tu código):** (1) con película basta con menos de 3 apartados con lámina; (2) al buscar la lámina de un apartado sin tarjeta ya no se coge la de la tarjeta del apartado siguiente (paraba solo en un `h4` hermano, no en un `div` que contiene un `h4`). Comprobado que la cordillera sigue con sus 11 apartados igual. `sw` → hk-v337.
