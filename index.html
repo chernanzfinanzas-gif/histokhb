@@ -1186,10 +1186,10 @@ function secLamInit(){ SECW=null; const body=$('#shBody'); if(!body)return; body
  const it=[]; txt.querySelectorAll('h4').forEach(h=>{ let n=h.nextElementSibling, im=null;
    const card=h.closest('div')||h.parentElement;
    if(card&&card!==txt)im=card.querySelector('img');
-   while(!im&&n&&n.tagName!=='H4'){ im=n.matches&&n.matches('img')?n:(n.querySelector?n.querySelector('img'):null); if(im)break; n=n.nextElementSibling; }
+   while(!im&&n&&n.tagName!=='H4'&&!(n.querySelector&&n.querySelector('h4'))){   /* no robar la lámina de la tarjeta del apartado siguiente */ im=n.matches&&n.matches('img')?n:(n.querySelector?n.querySelector('img'):null); if(im)break; n=n.nextElementSibling; }
    const sv=card&&card!==txt?card.querySelector('svg'):null;
    if(im&&im.getAttribute('src'))it.push({el:h,card:card,sv:sv,src:im.getAttribute('src'),viva:im.getAttribute('data-viva')||'',paso:im.getAttribute('data-paso')||'',peli:im.getAttribute('data-peli')||'',t:(h.textContent||'').trim()}); });
- if(it.length<3)return;
+ if(it.length<3&&!it.some(x=>x.peli))return;   /* con película basta con menos apartados; antes de ella se ve la lámina de la ficha */
  body.classList.add('seclam'); il.classList.add('seclam');
  let ov=il.querySelector('.seclam-ov');
  if(!ov){ ov=document.createElement('div'); ov.className='seclam-ov';
