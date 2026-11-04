@@ -556,7 +556,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <button class="big" onclick="go('#/aqui')"><span class="bi">📍</span><div><h3>¿Qué pasó donde estás?</h3><p>Tu móvil te sitúa y la app te cuenta la historia del lugar que pisas.</p></div></button>
   <button class="big" onclick="go('#/favs')"><span class="bi">⭐</span><div><h3>Guardados</h3><p id="favMini">Las historias que marques con ☆.</p></div></button>
   <div id="favs0" class="hide"></div>
-  <div class="foot0">HistoKHB - Historia Total · <span id="nfichas"></span> historias y más de 2.300 hechos del mundo · Del Big Bang a hoy</div>
+  <div class="foot0">HistoKHB - Historia Total · <span id="nfichas"></span> historias y <span id="nhechos">más de 4.000</span> hechos del mundo · Del Big Bang a hoy</div>
  </div>
 </div></section>
 
@@ -910,7 +910,8 @@ function initInicio(){
  initVolverInicio();
  initBienvenida();
  initNov0().catch(()=>{});
- $('#nfichas').textContent=Object.keys(IDX.fichas).length;
+ $('#nfichas').textContent=Object.keys(IDX.fichas).length.toLocaleString('es-ES');
+ setTimeout(()=>sinc().then(S=>{const n=Object.values(S.ev||{}).reduce((t,l)=>t+l.length,0); if(n&&$('#nhechos'))$('#nhechos').textContent=n.toLocaleString('es-ES');}).catch(()=>{}),2500);   /* los hechos de «El mundo a la vez», contados de verdad */
  $('#eras').innerHTML=IDX.secciones.map(s=>`<button class="era" style="background:linear-gradient(150deg,${s.col},${s.col}cc)" onclick="go('#/epoca/${s.id}')"><span class="ei">${ERA_IC[s.id]||''}</span><span class="ep">${s.per}</span><h3>${s.t}</h3></button>`).join('');
  let t=null; $('#q').addEventListener('input',e=>{clearTimeout(t);t=setTimeout(()=>doSearch(e.target.value),180);});
  $('#q').addEventListener('focus',()=>{sinc().catch(()=>{});if(!BUS)getJ('buscar.json').then(j=>{BUS=j;}).catch(()=>{});if(!LUG)getJ('lugares.json').then(j=>LUG=j).catch(()=>{});if(!DESA)getJ('desarrollos.json').then(j=>{DESA=j;if($('#q').value.trim().length>1)doSearch($('#q').value);}).catch(()=>{});},{once:true});
@@ -1849,7 +1850,7 @@ function vNormas(primera){return `<div class="vnormas"><h3>🗺️ El viaje por 
  <tr><td>2 aciertos</td><td>−1</td><td>+2</td></tr><tr><td>1 acierto</td><td>−2</td><td>+1</td></tr><tr><td>0 aciertos</td><td>−3</td><td>0</td></tr><tr><td>Un día sin jugar</td><td>−1</td><td>0</td></tr></table>
  <p>Nunca bajas del Big Bang (0 puntos).</p>
  <h4>El camino</h4>
- <p>📘 General y 🎓 Profundo: cada punto avanza una ficha; son 483 hasta hoy. 🧒 Niños: cada 3 puntos avanzas un capítulo; son 30. Cada nivel tiene su propio viaje y su propia clasificación: puedes jugar los tres cada día y cada uno avanza por su cuenta.</p>
+ <p>📘 General y 🎓 Profundo: cada punto avanza una ficha; son ${IDX?Object.keys(IDX.fichas).length.toLocaleString('es-ES'):483} hasta hoy. 🧒 Niños: cada 3 puntos avanzas un capítulo; son 30. Cada nivel tiene su propio viaje y su propia clasificación: puedes jugar los tres cada día y cada uno avanza por su cuenta.</p>
  <h4>Tres niveles, tres viajes</h4>
  <p>🧒 Niños, 📘 General y 🎓 Profundo tienen cada uno <b>su propio viaje y su propia clasificación</b>. Puedes hacer el reto de los tres niveles cada día: cada uno cuenta una vez y avanza por su cuenta, sin mezclarse. Arriba eliges qué nivel juegas y abajo ves el viaje de ese nivel.</p>
  <p>Un día sin jugar solo resta en los niveles que estás jugando. Si dejas un nivel más de 7 días, deja de restar y ese viaje se queda congelado hasta que vuelvas.</p>
