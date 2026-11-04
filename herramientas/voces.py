@@ -134,6 +134,13 @@ def iguala_ritmo(wavs,textos):
         tot=float(subprocess.run(['ffprobe','-v','error','-show_entries','format=duration','-of','csv=p=0',p],capture_output=True,text=True).stdout)
         return max(1.0,tot-sum(float(x) for x in re.findall(r'silence_duration: ([\d.]+)',r)))
     sy=[S.silabas(t) for t in textos]; r=[(n/voz(w) if n>=300 else None) for w,n in zip(wavs,sy)]
+    malas=[w for w,x in zip(wavs,r) if x and x>9.5]   # Asturias 866 (4-nov-2026): una tanda casi muda o farfullada mide 12 sílabas/s de voz
+    if malas:
+        print('ERR: tanda con muy poca voz para su texto, se rechaza y se regrabará:',' '.join(f'{x:.1f}' for x in r if x),flush=True)
+        for w in malas:
+            for q in (w,w.replace('.lb.wav','.wav')):
+                if os.path.exists(q): os.remove(q)
+        return None
     med=sorted(x for x in r if x)
     if len(med)<2: return wavs
     obj=med[len(med)//2]; out=[]
@@ -152,6 +159,7 @@ def genera(cod,nivel,html_,voz,kbps,cabecera=None):
         if not os.path.exists(w) and not tts(c,voz,P_NI if nivel=='n' else P_AD,w): return None
         wavs.append(w)
     wavs=iguala_ritmo(wavs,trozos(ps))
+    if wavs is None: return None
     sil=os.path.join(TMP,'sil.wav')
     if not os.path.exists(sil): subprocess.run(['ffmpeg','-v','error','-y','-f','lavfi','-i','anullsrc=r=24000:cl=mono','-t','0.7','-c:a','pcm_s16le',sil],check=True)
     lst=os.path.join(TMP,f'{cod}-{nivel}.txt'); open(lst,'w').write(''.join(f"file '{os.path.basename(w)}'\n"+("file 'sil.wav'\n" if j<len(wavs)-1 else '') for j,w in enumerate(wavs)))
