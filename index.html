@@ -1349,7 +1349,7 @@ async function renderSheet(){
   await sinc(); const e=(SINC.ev[r]||[]).find(e=>e[0]===y);
   $('#shTtl').textContent=rn(r)+' · '+fy(y); $('#seg').classList.add('hide');
   document.documentElement.style.setProperty('--era','#8b7d6b');
-  const LS=await lamSinc(); const lam=LS[r+"|"+Math.floor(y/100)]||"";
+  const LS=await lamSinc(); const lam=(LS._fichas||{})[key]||LS[r+"|"+Math.floor(y/100)]||"";   /* lámina propia de la ficha (_fichas) o la de su zona y siglo */
   b.innerHTML=`<div class="sh-head" style="margin-top:16px"><div><div class="d">${fy(y)} · ${esc(rn(r))}</div><h2>${esc(e?e[1]:rn(r))}</h2></div></div>`+(lam?slamHtml(lam,(LS._vivas||{})[lam]):"")+`<div class="rt">⏱ ${mins(h)} min de lectura</div><div class="txt">${h}</div>`;
   await audioUI(key,{t:(e?e[1]:rn(r)),lam:lam},"s"); if(!CUR||CUR.key!==key)return;
   if(!LUG)LUG=await getJ('lugares.json').catch(()=>({lugares:[]}));
