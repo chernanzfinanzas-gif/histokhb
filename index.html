@@ -799,6 +799,9 @@ async function txtOf(sec){if(!TXT[sec])TXT[sec]=await getJ('fichas-'+sec+'.json'
 function bucket(y){return y<-3500?'pre':y<476?'ant':y<1492?'med':y<1789?'mod':'con';}
 async function detOf(y){const b=bucket(y);if(!DET[b])DET[b]=await getJ('sinc-det-'+b+'.json');return DET[b];}
 async function sinc(){if(!SINC)SINC=await getJ('sinc-eventos.json');return SINC;}
+/* lámina de «El mundo a la vez»: si tiene vídeo (laminas-sinc.json → _vivas), se ve el vídeo en todas las fichas de esa zona y siglo */
+function slamHtml(lam,viva){const calm=(navigator.connection&&navigator.connection.saveData)||MOV_OFF; const cont=LS.get('hk_ajustes',{}).anim==='cont';
+ return viva&&!calm?`<video class="slam" src="${viva}" poster="${lam}" autoplay muted playsinline ${cont?'loop':''} preload="metadata" aria-hidden="true"></video>`:`<img class="slam" src="${lam}" alt="" loading="lazy">`;}
 let LAMS=null; async function lamSinc(){if(!LAMS){try{LAMS=await getJ('laminas-sinc.json');}catch(e){LAMS={};}}return LAMS;}
 function go(h){location.hash=h;}
 
@@ -1346,8 +1349,8 @@ async function renderSheet(){
   await sinc(); const e=(SINC.ev[r]||[]).find(e=>e[0]===y);
   $('#shTtl').textContent=rn(r)+' · '+fy(y); $('#seg').classList.add('hide');
   document.documentElement.style.setProperty('--era','#8b7d6b');
-  const LS=await lamSinc(); const lam=LS[r+"|"+Math.floor(y/100)]||"";
-  b.innerHTML=`<div class="sh-head" style="margin-top:16px"><div><div class="d">${fy(y)} · ${esc(rn(r))}</div><h2>${esc(e?e[1]:rn(r))}</h2></div></div>`+(lam?`<img class="slam" src="${lam}" alt="" loading="lazy">`:"")+`<div class="rt">⏱ ${mins(h)} min de lectura</div><div class="txt">${h}</div>`;
+  const LS=await lamSinc(); const lam=(LS._fichas||{})[key]||LS[r+"|"+Math.floor(y/100)]||"";   /* lámina propia de la ficha (_fichas) o la de su zona y siglo */
+  b.innerHTML=`<div class="sh-head" style="margin-top:16px"><div><div class="d">${fy(y)} · ${esc(rn(r))}</div><h2>${esc(e?e[1]:rn(r))}</h2></div></div>`+(lam?slamHtml(lam,(LS._vivas||{})[lam]):"")+`<div class="rt">⏱ ${mins(h)} min de lectura</div><div class="txt">${h}</div>`;
   await audioUI(key,{t:(e?e[1]:rn(r)),lam:lam},"s"); if(!CUR||CUR.key!==key)return;
   if(!LUG)LUG=await getJ('lugares.json').catch(()=>({lugares:[]}));
   const pv=LUG.lugares.filter(l=>(l.eventos||[]).includes(key)||(l.anio===y&&(l.regiones_sincronia||[])[0]===r)).sort((a,b)=>(a.anio||0)-(b.anio||0));
