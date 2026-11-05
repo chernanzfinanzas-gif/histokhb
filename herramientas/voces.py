@@ -151,6 +151,29 @@ def iguala_ritmo(wavs,textos):
         if not os.path.exists(o): subprocess.run(['ffmpeg','-v','error','-y','-i',w,'-af',f'atempo={f:.4f}','-c:a','pcm_s16le',o],check=True)
         out.append(o)
     print('  ritmo de voz por tandas:',' '.join('-' if x is None else f'{x:.1f}' for x in r),'→',f'{obj:.1f}',flush=True); return out
+def final_oido(mp3,dur,ultimo):
+    """Dicta los últimos segundos y exige oír la última línea del texto (al menos la mitad de sus palabras con
+    contenido). Gemini a veces cierra con un murmullo o con silencios larguísimos en vez de leer el final.
+    Si ningún modelo de dictado tiene cupo, no se puede comprobar y se acepta avisando."""
+    r=subprocess.run(['ffmpeg','-i',mp3,'-af','silencedetect=noise=-40dB:d=6','-f','null','-'],capture_output=True,text=True).stderr
+    if 'silence_start' in r: print('ERR: silencio de más de 6 s dentro de la grabación, se rechaza:',mp3,flush=True); return False   # Moctezuma 1440
+    import numpy as np
+    a=np.frombuffer(subprocess.run(['ffmpeg','-v','error','-i',mp3,'-ac','1','-ar','8000','-f','s16le','-'],capture_output=True).stdout,np.int16).astype(float)
+    sg=[np.sqrt((a[i:i+8000]**2).mean()) for i in range(0,len(a)-8000,8000)]
+    if len(sg)>20:
+        habla=np.percentile(sg,75); fin=sorted(sg[-12:-1])[-3]      # tercer segundo más fuerte de los 11 últimos
+        if fin<habla*0.2: print(f'ERR: el final suena a murmullo ({20*np.log10(fin/habla):.0f} dB bajo la voz), se rechaza:',mp3,flush=True); return False   # Granada 1354
+    clave=_clave()
+    if not clave: return True
+    import unicodedata
+    nz=lambda t: unicodedata.normalize('NFD',t.lower()).encode('ascii','ignore').decode()
+    pal=[w for w in re.findall(r'[a-z]{4,}',nz(ultimo))]
+    if not pal: return True
+    oido=oye(mp3,max(0,dur-25),25,clave)
+    if oido is None: print('  (sin cupo de dictado: final sin comprobar)',mp3,flush=True); return True
+    v=nz(oido); n=sum(1 for w in pal if w in v)
+    if n*2<len(pal): print(f'ERR: no se oye el final ({n}/{len(pal)} palabras de «{ultimo[:60]}»), se rechaza:',mp3,flush=True); return False
+    return True
 def genera(cod,nivel,html_,voz,kbps,cabecera=None):
     ps=limpia(html_); ps=([cabecera+'.'] if cabecera else [])+ps
     wavs=[]
@@ -171,6 +194,11 @@ def genera(cod,nivel,html_,voz,kbps,cabecera=None):
     if v>7:   # Gemini a veces corta la grabación a medias (pasó con Lutero, 2-nov-2026): demasiadas sílabas para tan poco audio
         print(f'ERR: audio incompleto ({v:.1f} sílabas/s), no se acepta:',out); os.remove(out)
         for w in wavs: 
+            if os.path.exists(w): os.remove(w)
+        return None
+    if not final_oido(out,dur,ps[-1]):   # Granada 1354 (5-nov-2026): las dos últimas líneas eran un murmullo
+        os.remove(out)
+        for w in wavs:
             if os.path.exists(w): os.remove(w)
         return None
     return round(dur)
