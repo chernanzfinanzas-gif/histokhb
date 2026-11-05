@@ -22,7 +22,7 @@ if __name__ == '__main__':
     nom, vid = sys.argv[1], sys.argv[2]
     lam = f'img/laminas/{nom}.webp'; out = f'img/vivas/{nom}.mp4'
     p = os.path.join(R, 'datos', 'laminas-sinc.json'); L = json.load(open(p, encoding='utf-8'))
-    assert lam in L.values(), f'{lam} no es una lámina de «El mundo a la vez»'
+    assert lam in L.values() or lam in L.get('_fichas', {}).values(), f'{lam} no es una lámina de «El mundo a la vez»'
     os.makedirs(os.path.join(R, 'img', 'vivas'), exist_ok=True)
     subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', vid, '-an', '-vf', 'scale=854:-2', '-c:v', 'libx264', '-crf', '28', '-preset', 'slow',
                     '-pix_fmt', 'yuv420p', '-movflags', '+faststart', os.path.join(R, out)], check=True)
