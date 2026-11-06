@@ -307,3 +307,6 @@ Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
 ### 05-nov-2026 · 16:30 · Chat «contenidos»
 - **Publicado (Carlos: «sube todo»):** láminas de sincronía con vídeo (`laminas-sinc.json` → `_vivas`, `slamHtml` en index.html; respeta reducir movimiento y ahorro de datos): 10 de zona-siglo + Cleopatra. Fichas con lámina propia (`_fichas`, por delante de la de zona-siglo): Egipto -51, -48, -31. `herramientas/vivas_sinc.py <nombre> <video>` monta un vídeo y mide el primer fotograma frente a la lámina. Pendientes de vídeo: s-egipto-cesar y s-egipto-actium. `sw.js` → hk-v339.
 - **Reto:** revisadas una a una las 339 preguntas cuya respuesta no aparecía clara en su ficha; 89 cambiadas en su sitio (mismo índice). La de Zheng He (índice 478, med5-6 g) sale hoy y se cambia mañana: su respuesta solo estaba en la frase «Las demás fichas de este capítulo cuentan…».
+
+### 06-nov-2026 · 17:20 · Chat «contenidos»
+- **Publicado (Carlos: «publica y anuncia novedades»):** 12 vídeos más de láminas de sincronía (`_vivas` ya tiene 23) y 5 voces (Mesoamérica 1440, Persia -486, Mesopotamia -668, Magreb -241, Hispania -179), con un aviso `NOVEDAD (#/s/…)` por lámina y por voz. Pendientes de voz: Al-Ándalus 1354 (rechazada otra vez por silencio >6 s), Al-Ándalus -209, Hispania -80. La pregunta 478 del reto (Zheng He) se cambió esta mañana.
