@@ -167,7 +167,8 @@ def final_oido(mp3,dur,ultimo):
     if not clave: return True
     import unicodedata
     nz=lambda t: unicodedata.normalize('NFD',t.lower()).encode('ascii','ignore').decode()
-    pal=[w for w in re.findall(r'[a-z]{4,}',nz(ultimo))]
+    # «después de Cristo» se dicta como «d. C.»: no cuenta; los números sí (el dictado los escribe en cifras)
+    pal=[w for w in re.findall(r'[a-z]{4,}|\d{2,}',nz(ultimo)) if w not in ('despues','antes','cristo')]
     if not pal: return True
     oido=oye(mp3,max(0,dur-25),25,clave)
     if oido is None: print('  (sin cupo de dictado: final sin comprobar)',mp3,flush=True); return True
@@ -196,7 +197,7 @@ def genera(cod,nivel,html_,voz,kbps,cabecera=None):
         for w in wavs: 
             if os.path.exists(w): os.remove(w)
         return None
-    if not final_oido(out,dur,ps[-1]):   # Granada 1354 (5-nov-2026): las dos últimas líneas eran un murmullo
+    if not final_oido(out,dur,' '.join(ps[-2:])):   # las dos últimas líneas: una sola («526 · Muerte.») da muy poco que comprobar   # Granada 1354 (5-nov-2026): las dos últimas líneas eran un murmullo
         os.remove(out)
         for w in wavs:
             if os.path.exists(w): os.remove(w)
