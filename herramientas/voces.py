@@ -30,7 +30,9 @@ def trozos(ps,lim=int(os.environ.get('TROZO','2800'))):   # TROZO=1600: tandas c
     for p in ps:
         if len((cur+'\n\n'+p).encode())>lim and cur: out.append(cur);cur=p
         else: cur=(cur+'\n\n'+p) if cur else p
-    return out+([cur] if cur else [])
+    out=out+([cur] if cur else [])
+    if len(out)>1 and len(out[-1])<400: ult=out.pop(); out[-1]=out[-1]+'\n\n'+ult   # Italia 161/493 (7-nov-2026): una tanda final de 80 letras («526 · Muerte.») sale casi muda
+    return out
 # Clave gratuita de Google AI Studio (desde 26-oct-2026): si existe GEMINI_API_KEY (o el fichero que diga
 # GEMINI_API_KEY_FILE), se graba con la API de Gemini en vez de con Google Cloud. Mismas voces y mismas indicaciones.
 def _clave():
