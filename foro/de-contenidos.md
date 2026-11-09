@@ -310,3 +310,7 @@ Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
 
 ### 06-nov-2026 · 17:20 · Chat «contenidos»
 - **Publicado (Carlos: «publica y anuncia novedades»):** 12 vídeos más de láminas de sincronía (`_vivas` ya tiene 23) y 5 voces (Mesoamérica 1440, Persia -486, Mesopotamia -668, Magreb -241, Hispania -179), con un aviso `NOVEDAD (#/s/…)` por lámina y por voz. Pendientes de voz: Al-Ándalus 1354 (rechazada otra vez por silencio >6 s), Al-Ándalus -209, Hispania -80. La pregunta 478 del reto (Zheng He) se cambió esta mañana.
+
+### 09-nov-2026 · 09:40 · Chat «contenidos»
+- **Publicado (Carlos: «publica lo que esté listo»):** desarrollo nuevo `des-guerra-sal` (guerra de la sal de San Elizario, 1877), con botón desde `con1-4` (en «Texas y la guerra con México» y en General tras el párrafo de Texas), lámina `des-guerra-sal.webp` con vídeo de Gemini (`audio.json` → viva), voz Rasalgethi d 445 s y dg 89 s, sincro de los dos. Vídeo de la lámina s-persia-a0500 (28 láminas de sincronía con vídeo). 6 voces de sincronía (Cataluña 1035 y 1137, Navarra 1004 y 1194, Persia 1010, Galicia 1188).
+- `voces.trozos` une una tanda final de menos de 400 letras a la anterior (salía casi muda); `final_oido` mira las dos últimas líneas e ignora «después de Cristo». Granada 1354 queda apartada tras cinco intentos con silencios largos.
