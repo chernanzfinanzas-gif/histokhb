@@ -360,8 +360,8 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .aq-near .n{flex:1}.aq-near b{font-family:var(--f-head);font-weight:600}.aq-near small{display:block;color:var(--muted)}
 .btn{display:inline-block;border:0;border-radius:14px;padding:13px 18px;font-family:var(--f-head);font-weight:600;font-size:16px;background:var(--accent);color:#fff}
 .btn.sec{background:#fff;color:var(--ink);border:1.5px solid var(--line)}
-.ingmini{width:84px;height:56px;object-fit:cover;border-radius:10px;flex:0 0 84px}.ingill{margin:10px 0 0;border-radius:16px;overflow:hidden;aspect-ratio:16/9;background:var(--line)}.ingill img,.ingill video{width:100%;height:100%;object-fit:cover;display:block}
-.ingvoz{background:#f2f6f0;border:1px solid var(--line);border-left:4px solid #4a7c4e;border-radius:10px;padding:8px 10px;font-size:13px;margin:10px 0 0}.ingvoz.mal{border-left-color:#9c3b2e;background:#f9eae7}.ingvoz select{display:block;max-width:100%;margin-top:5px;padding:4px;font-size:13px}
+.ingmini{width:84px;height:56px;object-fit:cover;border-radius:10px;flex:0 0 84px}.ingill{margin:4px 0 10px;border-radius:16px;overflow:hidden;aspect-ratio:16/9;background:var(--line)}.ingill img,.ingill video{width:100%;height:100%;object-fit:cover;display:block}
+.ingvoz{background:#f2f6f0;border:1px solid var(--line);border-left:4px solid #4a7c4e;border-radius:10px;padding:8px 10px;font-size:13px;margin:10px 0 0}.ingvoz.suave{background:none;border:0;border-left:0;padding:2px 0;color:var(--muted);font-size:12px;text-align:center}.ingvoz.suave select{display:inline-block;margin:0 0 0 4px;font-size:12px;max-width:60%}.ingvoz.mal{border-left-color:#9c3b2e;background:#f9eae7}.ingvoz select{display:block;max-width:100%;margin-top:5px;padding:4px;font-size:13px}
 .ingmeta{text-align:center;font-size:12px;color:var(--muted);margin:6px 0 4px}
 .ingp{background:#fff;border:1px solid var(--line);border-radius:16px;padding:14px;margin:12px 0;transition:opacity .2s}.ingp.off{opacity:.45}
 .ingh{display:flex;align-items:center;gap:10px;font-family:var(--f-head);font-size:17px}.ingn{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;flex:0 0 26px;border-radius:50%;background:var(--accent);color:#fff;font-size:14px}.ingn.fin{background:#4a7c4e}
@@ -369,7 +369,10 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .ingglos{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:4px 14px;font-size:14px}.ingglos div{border-bottom:1px dotted var(--line);padding:3px 0}
 .ingb{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0}.ingb .btn{padding:10px 14px;font-size:15px}.ingvel{font-size:13px;color:var(--muted)}.ingvel select{margin-left:6px;padding:3px}
 .ingnota{font-size:13px;color:var(--muted);margin:8px 0 0}.ingq p{margin:10px 0 4px;font-weight:600}.ingq .res{padding:8px 12px;margin:4px 0}.ingq .res.bien{background:#e4f0e2;border-color:#4a7c4e}.ingq .res.mal{background:#f6e2de;border-color:#9c3b2e}
-.ingfr{margin:0 0 6px;padding:6px 8px;border-radius:10px;cursor:pointer;font-size:17px;line-height:1.45}.ingfr:hover{background:#faf1e2}.ingfr.suena{background:#ffe9b8}.ingfr u{text-decoration:none;border-bottom:2px dotted var(--accent)}
+.ingfr{margin:0 0 6px;padding:6px 8px;border-radius:10px;font-size:17px;line-height:1.45}.ingfr.suena{background:#ffe9b8}.ingfr u{text-decoration:none;border-bottom:2px dotted var(--accent)}
+.ingfr{display:flex;gap:8px;align-items:flex-start}.ingfr .en{flex:1}.ingfr .es{flex-basis:100%;padding-left:38px}.ingfr{flex-wrap:wrap}.ingpl{flex:0 0 30px;height:30px;border-radius:50%;border:1.5px solid var(--line);background:#fff;color:var(--accent);font-size:12px;cursor:pointer;margin-top:1px}
+.w{cursor:pointer;border-radius:4px}.w:hover{background:#f3e7cf}.w.g{border-bottom:2px dotted var(--accent)}.w.sel{background:#ffd98a}
+.ingdef{position:fixed;z-index:60;background:var(--ink);color:#fff;border-radius:12px;padding:8px 12px;font-size:15px;line-height:1.35;box-shadow:0 6px 20px rgba(0,0,0,.25)}.ingdef i{opacity:.75}.ingdef button{background:none;border:0;font-size:16px;cursor:pointer;padding:0 0 0 4px}
 .ingfr .es{display:none;font-size:14px;color:var(--muted);margin-top:2px}#ingTexto.cones .ingfr .es{display:block}
 .ingfrase{font-size:17px;margin:10px 0 4px}.ingcmp{line-height:2;font-size:15px;margin-top:6px}.ingcmp span{padding:2px 5px;border-radius:6px}.ingcmp .ok{background:#dcebd9;color:#2e5230}.ingcmp .ko{background:#f3dcd7;color:#7d2f24;text-decoration:line-through}.ingcmp .ex{color:var(--muted)}
 .ingta{width:100%;min-height:90px;border:1.5px solid var(--line);border-radius:12px;padding:10px;font:inherit;background:var(--bg)}
@@ -1962,18 +1965,18 @@ const ING_K={easy:'🌱 Aprendiendo',medium:'📘 Básicos',hard:'🎓 Grandes'}
 function ingPinta(){const T=ingT(),n=ingN(); ingPara();
  const paso=(i,t,s,body,off)=>`<div class="ingp${off?' off':''}" id="ip${i}"><div class="ingh"><span class="ingn${i===7?' fin':''}">${i}</span><b>${t}</b></div><p class="ings">${s}</p>${body}</div>`;
  let h=`<div class="sec-t" style="margin-top:6px"><a href="#/ingles" style="color:inherit">🇬🇧 Inglés con historia</a></div>
+${(T.lam||T.viva)?`<div class="ingill">${T.viva&&!(navigator.connection&&navigator.connection.saveData)&&!matchMedia('(prefers-reduced-motion: reduce)').matches?`<video src="${T.viva}" poster="${T.lam||''}" autoplay muted loop playsinline preload="metadata"></video>`:`<img src="${T.lam}" alt="" loading="lazy">`}</div>`:''}
  <div class="seg" id="ingSeg">${Object.keys(ING_K).map(k=>`<button data-k="${k}" class="${k===IG.k?'on':''}">${ING_K[k]}</button>`).join('')}</div>
  <div id="ingVozBox" class="ingvoz">Comprobando las voces…</div>
  <p class="ingmeta">${esc(n.et)} · ${n.fr.length} frases · ${n.s?`${Math.round(n.s/6)/10} min · voz ${esc(T.voz||'')}, acento ${T.acento==='American'?'americano':'británico'}`:'voz del navegador'}</p>`;
- if(T.lam||T.viva)h+=`<div class="ingill">${T.viva&&!(navigator.connection&&navigator.connection.saveData)&&!matchMedia('(prefers-reduced-motion: reduce)').matches?`<video src="${T.viva}" poster="${T.lam||''}" autoplay muted loop playsinline preload="metadata"></video>`:`<img src="${T.lam}" alt="" loading="lazy">`}</div>`;
  h+=paso(0,'Before you listen','El título y las palabras, nada más. Saber de qué va es lo que más ayuda; leer el texto antes, no.',
   `<h2 class="ingtit">${esc(T.tEN)}</h2><p class="ingsub">${esc(T.tES)}</p><div class="ingglos">${n.glos.map(([p,s])=>`<div><b>${esc(p)}</b> — ${esc(s)}</div>`).join('')}</div>`);
  h+=paso(1,'Listen with no text','Sin leer. Repítelo las veces que quieras antes de pasar.',
   `<div class="ingb"><button class="btn" onclick="ingOir('todo',2)">▶ Escuchar</button>${IG.k!=='easy'?'<button class="btn sec" onclick="ingEscalera()">▶ Primero la fácil, luego ésta</button>':''}<button class="btn sec" onclick="ingPara()">■ Parar</button></div>
   <label class="ingvel">Velocidad <select id="ingVel" onchange="IGA.playbackRate=+this.value">${['0.7','0.8','0.9','1','1.15'].map(v=>`<option${v===(n.audio?'1':n.vel)?' selected':''}>${v}</option>`).join('')}</select></label><p class="ingnota" id="ingEsc">Veces escuchado: ${IG.esc}</p>`);
  h+=paso(2,'What was it about?','Idea general. Todavía sin texto.','<div id="ingGist"></div>',1);
- h+=paso(3,'Listen and read','Pulsa una frase para oírla sola. El castellano puedes verlo debajo.',
-  `<div class="ingb"><button class="btn" onclick="ingOir('todo',4)">▶ Escuchar todo</button><button class="btn sec" id="ingEsB" onclick="ingEs()">Ver el castellano</button></div><div id="ingTexto">${n.fr.map((f,i)=>{let t=esc(f[0]);n.glos.forEach(([w])=>{t=t.replace(new RegExp('\\b('+w.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')\\b','i'),'<u>$1</u>');});return `<p class="ingfr" data-i="${i}" onclick="ingOir(${i},4)"><span>${t}</span><span class="es">${esc(f[1])}</span></p>`;}).join('')}</div>`,1);
+ h+=paso(3,'Listen and read','Pulsa ▶ para oír una frase sola y pulsa cualquier palabra para ver qué significa.',
+  `<div class="ingb"><button class="btn" onclick="ingOir('todo',4)">▶ Escuchar todo</button><button class="btn sec" id="ingEsB" onclick="ingEs()">Ver el castellano</button></div><div id="ingTexto">${n.fr.map((f,i)=>`<p class="ingfr" data-i="${i}"><button class="ingpl" title="Oír la frase" onclick="ingOir(${i},4)">▶</button><span class="en">${ingPal(f[0],n)}</span><span class="es">${esc(f[1])}</span></p>`).join('')}</div>`,1);
  h+=paso(4,'Now the details','Fechas, nombres y cifras. Distintas de las de antes.','<div id="ingDet"></div>',1);
  h+=paso(5,'Shadowing','Oye una frase y repítela imitándola, sin pensar en la gramática.',
   `<div class="ingb"><button class="btn sec" onclick="ingOir(IG.fr,6)">▶ Oír la frase</button><button class="btn" onclick="ingRepite()">🎙 Repetirla</button><button class="btn sec" onclick="IG.fr=(IG.fr+1)%ingN().fr.length;ingFrase()">Otra frase →</button></div><p class="ingfrase" id="ingFr"></p><div class="ingcmp" id="ingFrCmp"></div>`,1);
@@ -1990,7 +1993,9 @@ const ingAbre=i=>{const e=$('#ip'+i);if(e)e.classList.remove('off');};
 let ING_VOZ=null;
 function ingVoces(){const S=window.speechSynthesis;if(!S)return [];const en=S.getVoices().filter(v=>/^en/i.test(v.lang));en.sort((a,b)=>(/natural|google/i.test(b.name)?1:0)-(/natural|google/i.test(a.name)?1:0));return en;}
 function ingVoz(){const en=ingVoces(),g=LS.get('hk_ing_voz','');return ING_VOZ=en.find(v=>v.name===g)||en[0]||null;}
-function ingVozUI(){const b=$('#ingVozBox');if(!b)return;const en=ingVoces();ingVoz();
+function ingVozUI(){const b=$('#ingVozBox');if(!b)return;const en=ingVoces();ingVoz();const grab=!!(ING&&IG.t&&ingN().audio);
+ if(grab){b.className='ingvoz suave';b.innerHTML=en.length?`Para leer lo que escribas, voz del navegador: <select id="ingVozSel">${en.map(v=>`<option value="${esc(v.name)}"${ING_VOZ&&v.name===ING_VOZ.name?' selected':''}>${esc(v.name)}</option>`).join('')}</select>`:'Este navegador no tiene voz inglesa: la historia suena igual, pero no podrá leerte lo que escribas.';
+  const sel=$('#ingVozSel');if(sel)sel.onchange=e=>{LS.set('hk_ing_voz',e.target.value);ingVoz();ingHabla('This is the voice you have chosen.');};return;}
  if(!en.length){b.className='ingvoz mal';b.innerHTML='<b>No hay ninguna voz inglesa en este navegador.</b> Se añaden en Windows: Configuración → Hora e idioma → Voz → Agregar voces → English. Prueba también con Edge o Chrome.';return;}
  b.className='ingvoz';b.innerHTML=`<b>Voz</b> · ${en.length} voces inglesas. Cámbiala y la oyes: <select id="ingVozSel">${en.map(v=>`<option value="${esc(v.name)}"${ING_VOZ&&v.name===ING_VOZ.name?' selected':''}>${esc(v.name)} (${esc(v.lang)})</option>`).join('')}</select>`;
  $('#ingVozSel').onchange=e=>{LS.set('hk_ing_voz',e.target.value);ingVoz();ingHabla('This is the voice you have chosen. Does it sound right to you?');};}
@@ -2008,13 +2013,27 @@ function ingOir(q,abrir,cb){const n=ingN();ingPara();if(abrir)ingAbre(abrir);
 function ingEscalera(){const f=IG.k==='hard'?'medium':'easy',k=IG.k;ingAbre(2);
  IG.k=f;ingOir('todo',0,()=>{ingOir('todo');$('#ingEsc').textContent='Ahora la tuya. Se entiende bastante más, ¿verdad?';});IG.k=k;   // ingOir guarda el nivel al empezar
  $('#ingEsc').textContent='Suena la versión fácil… y luego la tuya.';}
+
+// ---- diccionario: cada palabra se puede pulsar y dice lo que significa (T.dic; el glosario del nivel manda) ----
+function ingPal(t,n){const gl=new Set(n.glos.map(([w])=>w.toLowerCase()));
+ return t.split(/([A-Za-zÀ-ÿ][A-Za-zÀ-ÿ'’-]*)/).map((x,i)=>i%2?`<span class="w${gl.has(x.toLowerCase())?' g':''}" data-w="${esc(x.toLowerCase().replace('’',"'"))}" onclick="ingDef(this,event)">${esc(x)}</span>`:esc(x)).join('');}
+const ING_BAS={"a": "un, una", "an": "un, una", "the": "el, la, los, las", "and": "y", "or": "o", "but": "pero", "of": "de", "to": "a; para", "in": "en", "on": "en, sobre", "at": "en, a", "by": "por; junto a", "for": "para; durante", "with": "con", "from": "de, desde", "as": "como", "is": "es, está", "was": "era, fue, estaba", "were": "eran, fueron, estaban", "are": "son, están", "be": "ser, estar", "been": "sido, estado", "it": "ello (sujeto o complemento)", "its": "su (de una cosa)", "this": "este, esta", "that": "ese, esa; que", "these": "estos", "those": "esos", "he": "él", "she": "ella", "they": "ellos, ellas", "them": "los, les, ellos", "his": "su (de él)", "her": "su (de ella); la", "their": "su (de ellos)", "we": "nosotros", "our": "nuestro", "you": "tú, usted", "your": "tu, su", "i": "yo", "my": "mi", "me": "me, mí", "not": "no", "no": "no; ningún", "so": "así que; tan", "than": "que (en comparaciones)", "then": "entonces, luego", "there": "allí; (there was) había", "here": "aquí", "who": "quien, que", "which": "que, el cual", "what": "qué, lo que", "when": "cuando", "where": "donde", "how": "cómo", "all": "todo, todos", "one": "uno", "two": "dos", "three": "tres", "four": "cuatro", "five": "cinco", "six": "seis", "ten": "diez", "had": "tenía, tuvo; había", "has": "tiene, ha", "have": "tener, haber", "do": "hacer", "did": "hizo", "does": "hace", "could": "podía, pudo, podría", "would": "(condicional) -ría; solía", "will": "(futuro) -rá", "can": "puede", "may": "puede (que)", "might": "podría", "must": "debe", "should": "debería", "into": "dentro de, hacia", "about": "sobre, acerca de; unos", "over": "sobre; más de", "up": "arriba", "out": "fuera", "off": "fuera, lejos", "very": "muy", "only": "solo", "just": "solo; justo", "also": "también", "more": "más", "most": "la mayoría; el más", "some": "algunos, algo de", "any": "cualquier, algún", "each": "cada", "every": "cada, todos los", "other": "otro", "such": "tal, semejante", "own": "propio", "same": "mismo", "too": "también; demasiado", "de": "de (en nombres españoles)", "la": "la (en nombres españoles)"};
+function ingBusca(w){const T=ingT(),d=Object.assign({},ING_BAS,T.dic||{}),n=ingN();const g=n.glos.find(([p])=>p.toLowerCase()===w);if(g)return g[1];
+ for(const c of [w,w.replace(/'s$/,''),w.replace(/ies$/,'y'),w.replace(/es$/,''),w.replace(/s$/,''),w.replace(/ed$/,''),w.replace(/d$/,''),w.replace(/ing$/,''),w.replace(/ing$/,'e')])if(d[c])return d[c];return null;}
+function ingDef(el,ev){ev.stopPropagation();ingDefFuera();const w=el.dataset.w,m=ingBusca(w);el.classList.add('sel');
+ const b=document.createElement('div');b.id='ingDef';b.className='ingdef';b.innerHTML=`<b>${esc(el.textContent)}</b> ${m?'— '+esc(m):'<i>palabra corriente, sin traducción en este texto</i>'} <button onclick="event.stopPropagation();ingHabla('${esc(el.textContent).replace(/'/g,"\\'")}')" title="Oír la palabra">🔊</button>`;
+ document.body.appendChild(b);const r=el.getBoundingClientRect(),W=Math.min(320,innerWidth-24);b.style.maxWidth=W+'px';
+ let x=Math.min(Math.max(12,r.left+r.width/2-b.offsetWidth/2),innerWidth-b.offsetWidth-12),y=r.bottom+8;if(y+b.offsetHeight>innerHeight-70)y=r.top-b.offsetHeight-8;
+ b.style.left=x+'px';b.style.top=y+'px';}
+function ingDefFuera(){const b=$('#ingDef');if(b)b.remove();document.querySelectorAll('.w.sel').forEach(e=>e.classList.remove('sel'));}
+document.addEventListener('click',ingDefFuera);addEventListener('scroll',ingDefFuera,{passive:true});
 function ingEs(){const t=$('#ingTexto');t.classList.toggle('cones');$('#ingEsB').textContent=t.classList.contains('cones')?'Ocultar el castellano':'Ver el castellano';}
 function ingPreg(cont,lista,abrir){const c=$('#'+cont);let hechas=0,bien=0;
  c.innerHTML=lista.map((p,n)=>`<div class="ingq" data-n="${n}"><p>${n+1}. ${esc(p.q)}</p>${p.o.map((o,i)=>`<button class="res" data-i="${i}">${esc(o)}</button>`).join('')}</div>`).join('');
  c.querySelectorAll('.ingq').forEach(d=>{const p=lista[+d.dataset.n];d.querySelectorAll('button').forEach(b=>b.onclick=()=>{if(d.dataset.done)return;d.dataset.done=1;hechas++;const i=+b.dataset.i;
   if(i===p.ok){b.classList.add('bien');bien++;}else{b.classList.add('mal');d.querySelectorAll('button')[p.ok].classList.add('bien');}
   if(hechas===lista.length){c.insertAdjacentHTML('beforeend',`<p class="ingnota">Aciertos: ${bien} de ${lista.length}${bien*2<lista.length?' — si en la primera escucha coges menos de la mitad, baja de nivel: no es el orden, es el nivel.':''}</p>`);ingAbre(abrir);}});});}
-function ingFrase(){const e=$('#ingFr');if(e)e.textContent=ingN().fr[IG.fr][0];const c=$('#ingFrCmp');if(c)c.innerHTML='';}
+function ingFrase(){const e=$('#ingFr');if(e)e.innerHTML=ingPal(ingN().fr[IG.fr][0],ingN());const c=$('#ingFrCmp');if(c)c.innerHTML='';}
 const ingNorm=t=>t.toLowerCase().replace(/[^a-z0-9'\s]/g,' ').split(/\s+/).filter(Boolean);
 function ingCompara(dicho,obj,dest,nota){const a=ingNorm(dicho),b=ingNorm(obj),us=new Set();let ac=0;
  const h=b.map(w=>{const j=a.findIndex((x,k)=>x===w&&!us.has(k));if(j>=0){us.add(j);ac++;return `<span class="ok">${w}</span>`;}return `<span class="ko">${w}</span>`;}).join(' ');
