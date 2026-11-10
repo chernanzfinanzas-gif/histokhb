@@ -580,7 +580,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <div class="sec-t">Otras formas de explorar</div>
   <button class="big" onclick="go('#/mundo')"><span class="bi">🌍</span><div><h3>El mundo a la vez</h3><p>¿Qué pasaba en China mientras caía Roma? Compara todas las civilizaciones, año a año.</p></div></button>
   <button class="big" onclick="go('#/calendario')"><span class="bi">📅</span><div><h3>La historia en un año</h3><p>Si todo el universo cupiera en un año, ¿qué día llegamos nosotros? Spoiler: el 31 de diciembre, casi a medianoche.</p></div></button>
-  <button class="big" onclick="go('#/ingles')"><span class="bi">🇬🇧</span><div><h3>Inglés con historia</h3><p>Repasa inglés escuchando la historia de España: tres niveles, preguntas, repetir en voz alta y contarlo tú.</p></div></button>
+  <button class="big" onclick="go('#/ingles')"><span class="bi"><img src="img/ammo/ammo-ingles.webp" alt="" width="44" height="50" style="display:block"></span><div><h3>Inglés con historia</h3><p>Repasa inglés escuchando la historia de España: tres niveles, preguntas, repetir en voz alta y contarlo tú.</p></div></button>
   <button class="big" onclick="go('#/aqui')"><span class="bi">📍</span><div><h3>¿Qué pasó donde estás?</h3><p>Tu móvil te sitúa y la app te cuenta la historia del lugar que pisas.</p></div></button>
   <button class="big" onclick="go('#/favs')"><span class="bi">⭐</span><div><h3>Guardados</h3><p id="favMini">Las historias que marques con ☆.</p></div></button>
   <div id="favs0" class="hide"></div>
@@ -1964,7 +1964,7 @@ async function ingDatos(){if(!ING){try{ING=await getJ('ingles.json');}catch(e){I
 async function renderIngles(id){lastScreen='ingles';show('ingles');const D=await ingDatos();
  if(id==='gramatica'){ingGramPag(D);return;}
  if(!id){const GG=D.gram||{},vis=new Set();D.temas.forEach(t=>Object.values(t.niveles).forEach(n=>n.gram&&vis.add(n.gram.id)));
-  $('#ingBox').innerHTML='<div class="sec-t" style="margin-top:6px">🇬🇧 Inglés con historia</div><p class="rt">Repasa inglés con la historia de España: escucha, contesta, repite y cuéntalo tú. Cada historia tiene tres niveles; entra por el que te apetezca hoy.</p>'+
+  $('#ingBox').innerHTML='<img class="ammo-der" src="img/ammo/ammo-ingles.webp" alt="" width="96" height="110"><div class="sec-t" style="margin-top:6px">🇬🇧 Inglés con historia</div><p class="rt">Repasa inglés con la historia de España: escucha, contesta, repite y cuéntalo tú. Cada historia tiene tres niveles; entra por el que te apetezca hoy.</p>'+
   `<button class="big" onclick="go('#/ingles/gramatica')"><span class="bi">📚</span><div><h3>Clases de gramática</h3><p>${vis.size} de ${Object.keys(GG).length} clases vistas en las historias</p></div></button>`+
    D.temas.slice().reverse().map(t=>{const P=ingPtsTodo(),pt=['easy','medium','hard'].reduce((a,k)=>a+Object.values(P[t.id+'-'+k]||{}).reduce((x,y)=>x+y,0),0);return `<button class="big" onclick="go('#/ingles/${t.id}')">${t.lam?`<img class="ingmini" src="${t.lam}" alt="" loading="lazy">`:'<span class="bi">🎧</span>'}<div><h3>${esc(t.tEN)}</h3><p>${esc(t.tES)}${t.fecha?' · '+esc(t.fecha):''}${pt?` · ⭐ ${pt} puntos`:''}</p></div></button>`;}).join('')||'<p class="empty-st">Pronto habrá historias.</p>';return;}
  const T=D.temas.find(t=>t.id===id); if(!T){go('#/ingles');return;}
