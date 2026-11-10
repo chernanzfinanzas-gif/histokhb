@@ -777,6 +777,809 @@
      "ok": 0
     }
    }
+  },
+  {
+   "id": "trafalgar",
+   "des": "des-trafalgar",
+   "tEN": "Trafalgar: The Battle for the Seas",
+   "tES": "Trafalgar: la batalla por los mares",
+   "fecha": "1805",
+   "lam": "img/laminas/des-trafalgar.webp",
+   "pv": {
+    "v": "blow up",
+    "es": "explotar, saltar por los aires; volar algo",
+    "ex": "<i>Blow</i> es «soplar», pero <b>blow up</b> es «explotar, saltar por los aires», y también «volar algo» (<i>they blew up the bridge</i>). Es muy frecuente en noticias y libros de historia.",
+    "ej": [
+     "In 1804 the Spanish frigate Mercedes <b>blew up</b> near Cádiz with hundreds of people on board.",
+     "A ship could <b>blow up</b> if a fire reached its gunpowder."
+    ],
+    "q": {
+     "q": "«The ship blew up» significa…",
+     "o": [
+      "El barco saltó por los aires",
+      "El barco subió al puerto",
+      "El barco se hinchó con el viento"
+     ],
+     "ok": 0
+    }
+   },
+   "niveles": {
+    "easy": {
+     "et": "Aprendiendo inglés",
+     "vel": "0.8",
+     "fr": [
+      [
+       "In 1805 Spain and France were friends, and Britain was their enemy.",
+       "En 1805 España y Francia eran aliadas, y Gran Bretaña era su enemiga."
+      ],
+      [
+       "Napoleon wanted to invade England, but first he needed the sea.",
+       "Napoleón quería invadir Inglaterra, pero antes necesitaba el mar."
+      ],
+      [
+       "On 21 October, a big Spanish and French fleet met the British ships near Cádiz.",
+       "El 21 de octubre, una gran flota española y francesa se encontró con los barcos británicos cerca de Cádiz."
+      ],
+      [
+       "The place was Cape Trafalgar, on the south coast of Spain.",
+       "El lugar era el cabo de Trafalgar, en la costa sur de España."
+      ],
+      [
+       "The British admiral was Horatio Nelson, and he had a new plan.",
+       "El almirante británico era Horatio Nelson, y tenía un plan nuevo."
+      ],
+      [
+       "His ships cut the enemy line in two places.",
+       "Sus barcos cortaron la línea enemiga por dos sitios."
+      ],
+      [
+       "The British gunners were faster and better trained.",
+       "Los artilleros británicos eran más rápidos y estaban mejor entrenados."
+      ],
+      [
+       "The Santísima Trinidad was the biggest ship in the world, but the British captured it.",
+       "El Santísima Trinidad era el barco más grande del mundo, pero los británicos lo capturaron."
+      ],
+      [
+       "Nelson won the battle, but a French soldier on another ship shot him, and he died.",
+       "Nelson ganó la batalla, pero un soldado francés de otro barco le disparó, y murió."
+      ],
+      [
+       "After the battle, a terrible storm sank many more ships.",
+       "Después de la batalla, una tormenta terrible hundió muchos barcos más."
+      ]
+     ],
+     "glos": [
+      [
+       "fleet",
+       "flota"
+      ],
+      [
+       "admiral",
+       "almirante"
+      ],
+      [
+       "enemy",
+       "enemigo"
+      ],
+      [
+       "gunners",
+       "artilleros"
+      ],
+      [
+       "storm",
+       "tormenta"
+      ],
+      [
+       "sank",
+       "hundió"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "What is this story about?",
+       "o": [
+        "A famous battle at sea",
+        "A journey to America",
+        "A new king of Spain"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "Who won the battle?",
+       "o": [
+        "The British",
+        "The Spanish and the French",
+        "Nobody"
+       ],
+       "ok": 0
+      }
+     ],
+     "det": [
+      {
+       "q": "Where was the battle?",
+       "o": [
+        "Near Cádiz",
+        "Near London",
+        "In the Caribbean"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "What was special about the Santísima Trinidad?",
+       "o": [
+        "It was the biggest ship in the world",
+        "It was the fastest ship",
+        "It was a British ship"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "What happened after the battle?",
+       "o": [
+        "A storm sank many ships",
+        "The ships sailed to America",
+        "Nelson went home"
+       ],
+       "ok": 0
+      }
+     ],
+     "modelo": "In 1805 a Spanish and French fleet met Nelson's ships near Cape Trafalgar. Nelson cut their line, and his gunners were faster. He won the battle but died, and then a storm sank many ships.",
+     "gancho": "¿Por qué muchos marinos españoles no querían salir de Cádiz aquel día?",
+     "trad": [
+      [
+       "El almirante británico tenía un plan nuevo.",
+       "The British admiral had a new plan."
+      ],
+      [
+       "Después de la batalla hubo una tormenta terrible.",
+       "After the battle there was a terrible storm."
+      ]
+     ],
+     "gram": {
+      "id": "comparativos",
+      "ej": [
+       "The British gunners were <b>faster</b> and <b>better</b> trained.",
+       "The Santísima Trinidad was <b>the biggest</b> ship in the world.",
+       "Nelson's plan was <b>more dangerous</b> than the usual one."
+      ],
+      "q": [
+       {
+        "q": "The Santísima Trinidad was ___ than the British ships. (big)",
+        "o": [
+         "bigger",
+         "more big",
+         "biggest"
+        ],
+        "ok": 0
+       },
+       {
+        "q": "Nelson was ___ admiral in Britain. (famous)",
+        "o": [
+         "the famousest",
+         "the most famous",
+         "more famous"
+        ],
+        "ok": 1
+       }
+      ]
+     },
+     "audio": "audio/en-trafalgar-easy.mp3",
+     "s": 66,
+     "t": [
+      0.0,
+      10.15,
+      16.89,
+      25.89,
+      31.37,
+      37.38,
+      41.96,
+      46.24,
+      53.26,
+      60.28
+     ]
+    },
+    "medium": {
+     "et": "Conocimientos básicos",
+     "vel": "0.9",
+     "fr": [
+      [
+       "In October 1805, a combined fleet of French and Spanish ships was waiting in the port of Cádiz.",
+       "En octubre de 1805, una flota combinada de barcos franceses y españoles esperaba en el puerto de Cádiz."
+      ],
+      [
+       "It was commanded by the French admiral Villeneuve, together with the Spanish admiral Federico Gravina.",
+       "La mandaba el almirante francés Villeneuve, junto con el almirante español Federico Gravina."
+      ],
+      [
+       "Napoleon ordered them to sail, even though the weather was bad and many crews were poorly trained.",
+       "Napoleón les ordenó zarpar, aunque hacía mal tiempo y muchas tripulaciones estaban mal entrenadas."
+      ],
+      [
+       "Several Spanish officers were against it, but they obeyed.",
+       "Varios oficiales españoles estaban en contra, pero obedecieron."
+      ],
+      [
+       "On 21 October, their thirty-three ships met Admiral Nelson's twenty-seven off Cape Trafalgar.",
+       "El 21 de octubre, sus treinta y tres navíos se encontraron con los veintisiete del almirante Nelson frente al cabo de Trafalgar."
+      ],
+      [
+       "Instead of fighting in parallel lines, Nelson attacked in two columns and broke the enemy line.",
+       "En vez de combatir en líneas paralelas, Nelson atacó en dos columnas y rompió la línea enemiga."
+      ],
+      [
+       "The British gunners could fire much faster, and that decided the battle.",
+       "Los artilleros británicos podían disparar mucho más rápido, y eso decidió la batalla."
+      ],
+      [
+       "Nelson was hit by a French marksman and died a few hours later, knowing that he had won.",
+       "Nelson fue alcanzado por un tirador francés y murió unas horas después, sabiendo que había ganado."
+      ],
+      [
+       "Cosme Damián Churruca, a famous Spanish scientist and captain, was killed while he was still giving orders.",
+       "Cosme Damián Churruca, un famoso científico y capitán español, murió mientras seguía dando órdenes."
+      ],
+      [
+       "The Santísima Trinidad, the largest warship of its time, was captured.",
+       "El Santísima Trinidad, el mayor navío de guerra de su tiempo, fue capturado."
+      ],
+      [
+       "Then a storm hit the coast for several days, and many damaged ships were destroyed.",
+       "Después un temporal azotó la costa durante varios días, y muchos barcos dañados quedaron destruidos."
+      ],
+      [
+       "The people of Cádiz rescued sailors of every nation from the sea.",
+       "La gente de Cádiz rescató del mar a marineros de todas las naciones."
+      ]
+     ],
+     "glos": [
+      [
+       "combined fleet",
+       "flota combinada"
+      ],
+      [
+       "commanded",
+       "mandada, dirigida"
+      ],
+      [
+       "crews",
+       "tripulaciones"
+      ],
+      [
+       "obeyed",
+       "obedecieron"
+      ],
+      [
+       "off",
+       "frente a (en el mar)"
+      ],
+      [
+       "marksman",
+       "tirador"
+      ],
+      [
+       "warship",
+       "navío de guerra"
+      ],
+      [
+       "damaged",
+       "dañados"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "Why did the fleet leave Cádiz?",
+       "o": [
+        "Napoleon ordered it",
+        "The Spanish officers wanted to fight",
+        "The weather was perfect"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "What decided the battle?",
+       "o": [
+        "The speed of the British guns",
+        "The storm",
+        "The size of the Spanish ships"
+       ],
+       "ok": 0
+      }
+     ],
+     "det": [
+      {
+       "q": "Who commanded the combined fleet?",
+       "o": [
+        "Villeneuve",
+        "Nelson",
+        "Churruca"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "How many British ships were there?",
+       "o": [
+        "Twenty-seven",
+        "Thirty-three",
+        "Fifteen"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "Who helped the sailors after the storm?",
+       "o": [
+        "The people of Cádiz",
+        "The British navy",
+        "Napoleon"
+       ],
+       "ok": 0
+      }
+     ],
+     "modelo": "In 1805 Napoleon ordered the French and Spanish fleet to leave Cádiz. Nelson attacked in two columns, and his gunners were much faster. Nelson and Churruca were killed, the Santísima Trinidad was captured, and a storm destroyed many ships.",
+     "gancho": "Galdós empezó sus Episodios Nacionales con esta batalla, contada por un grumete de catorce años. ¿Qué vio aquel chico?",
+     "trad": [
+      [
+       "La flota fue mandada por un almirante francés.",
+       "The fleet was commanded by a French admiral."
+      ],
+      [
+       "Muchos barcos fueron destruidos por la tormenta.",
+       "Many ships were destroyed by the storm."
+      ]
+     ],
+     "gram": {
+      "id": "pasiva-simple",
+      "ej": [
+       "It <b>was commanded</b> by the French admiral Villeneuve.",
+       "Nelson <b>was hit</b> by a French marksman.",
+       "The Santísima Trinidad <b>was captured</b>."
+      ],
+      "q": [
+       {
+        "q": "The Santísima Trinidad ___ by the British. (capture)",
+        "o": [
+         "was captured",
+         "captured",
+         "was capture"
+        ],
+        "ok": 0
+       },
+       {
+        "q": "Many damaged ships ___ by the storm. (destroy)",
+        "o": [
+         "was destroyed",
+         "were destroyed",
+         "destroyed"
+        ],
+        "ok": 1
+       }
+      ]
+     },
+     "audio": "audio/en-trafalgar-medium.mp3",
+     "s": 80,
+     "t": [
+      0.0,
+      9.19,
+      16.87,
+      24.35,
+      29.27,
+      37.03,
+      44.59,
+      49.79,
+      56.66,
+      64.44,
+      70.15,
+      76.47
+     ]
+    },
+    "hard": {
+     "et": "Grandes conocimientos",
+     "vel": "1",
+     "fr": [
+      [
+       "When the combined fleet sailed out of Cádiz in October 1805, few of its Spanish officers expected to win.",
+       "Cuando la flota combinada salió de Cádiz en octubre de 1805, pocos de sus oficiales españoles esperaban ganar."
+      ],
+      [
+       "Their crews had been thinned by epidemics and filled out with soldiers, conscripts and men who had never served at sea.",
+       "Sus tripulaciones habían sido diezmadas por las epidemias y completadas con soldados, reclutas forzosos y hombres que nunca habían servido en el mar."
+      ],
+      [
+       "Gravina, Churruca and Alcalá Galiano had argued for staying in port, but Villeneuve, stung by Napoleon's reproaches, insisted on putting to sea.",
+       "Gravina, Churruca y Alcalá Galiano habían defendido quedarse en puerto, pero Villeneuve, herido por los reproches de Napoleón, se empeñó en hacerse a la mar."
+      ],
+      [
+       "Off Cape Trafalgar they met Nelson's twenty-seven ships of the line, and Nelson did something no textbook recommended.",
+       "Frente al cabo de Trafalgar se encontraron con los veintisiete navíos de línea de Nelson, y Nelson hizo algo que ningún manual recomendaba."
+      ],
+      [
+       "Rather than sailing in a parallel line, he drove two columns straight into the enemy formation, accepting heavy fire on the approach.",
+       "En lugar de navegar en línea paralela, lanzó dos columnas directamente contra la formación enemiga, aceptando un fuego intenso durante la aproximación."
+      ],
+      [
+       "It was a gamble that would have failed had the allied gunners been quicker, but British crews could fire far more rapidly.",
+       "Fue una apuesta que habría fracasado si los artilleros aliados hubieran sido más rápidos, pero las dotaciones británicas disparaban mucho más deprisa."
+      ],
+      [
+       "Churruca, a respected scientist and cartographer, kept directing the San Juan Nepomuceno until a cannonball shattered his leg, and he died shortly afterwards.",
+       "Churruca, un científico y cartógrafo respetado, siguió dirigiendo el San Juan Nepomuceno hasta que una bala de cañón le destrozó la pierna, y murió poco después."
+      ],
+      [
+       "Nelson himself was shot by a marksman from the Redoutable and died that afternoon, aware that the battle was won.",
+       "El propio Nelson fue alcanzado por un tirador del Redoutable y murió esa misma tarde, consciente de que la batalla estaba ganada."
+      ],
+      [
+       "The storm that followed did almost as much damage as the guns, sinking or wrecking ships that had survived the fighting.",
+       "La tormenta que siguió hizo casi tanto daño como los cañones, hundiendo o destrozando contra la costa barcos que habían sobrevivido al combate."
+      ],
+      [
+       "Had the fleet stayed in Cádiz, Spain might not have lost the navy it needed to defend its American empire.",
+       "Si la flota se hubiera quedado en Cádiz, quizá España no habría perdido la armada que necesitaba para defender su imperio americano."
+      ],
+      [
+       "Britain, by contrast, would rule the seas for a century, and Nelson's column still stands in Trafalgar Square.",
+       "Gran Bretaña, en cambio, dominaría los mares durante un siglo, y la columna de Nelson sigue en pie en Trafalgar Square."
+      ]
+     ],
+     "glos": [
+      [
+       "thinned",
+       "diezmadas, mermadas"
+      ],
+      [
+       "conscripts",
+       "reclutas forzosos"
+      ],
+      [
+       "stung",
+       "herido (en su orgullo)"
+      ],
+      [
+       "putting to sea",
+       "hacerse a la mar"
+      ],
+      [
+       "ships of the line",
+       "navíos de línea"
+      ],
+      [
+       "gamble",
+       "apuesta arriesgada"
+      ],
+      [
+       "approach",
+       "aproximación"
+      ],
+      [
+       "cartographer",
+       "cartógrafo"
+      ],
+      [
+       "shattered",
+       "destrozó"
+      ],
+      [
+       "wrecking",
+       "haciendo naufragar"
+      ],
+      [
+       "by contrast",
+       "en cambio"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "Why were the Spanish officers pessimistic?",
+       "o": [
+        "Their crews were weak and inexperienced",
+        "They did not trust Villeneuve's ships",
+        "They had no cannons"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "Why did Nelson's risky plan work?",
+       "o": [
+        "His gunners fired much faster",
+        "The enemy had no ships of the line",
+        "The storm helped him during the battle"
+       ],
+       "ok": 0
+      }
+     ],
+     "det": [
+      {
+       "q": "Who wanted to stay in port?",
+       "o": [
+        "Gravina, Churruca and Alcalá Galiano",
+        "Villeneuve and Napoleon",
+        "Nelson"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "Which ship did the marksman fire from?",
+       "o": [
+        "The Redoutable",
+        "The Victory",
+        "The San Juan Nepomuceno"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "What did the storm do?",
+       "o": [
+        "It sank or wrecked ships that had survived",
+        "It stopped the battle",
+        "It saved the combined fleet"
+       ],
+       "ok": 0
+      }
+     ],
+     "modelo": "The combined fleet left Cádiz with weak crews, against the advice of its Spanish officers. Nelson risked attacking in two columns, and his faster gunners won the day. Churruca and Nelson died, a storm wrecked many ships, and Spain lost the navy it needed for its empire.",
+     "gancho": "Junto al faro de Trafalgar hay una placa con palabras de Galdós. ¿Qué dicen de los muertos de ambos bandos?",
+     "trad": [
+      [
+       "Si la flota se hubiera quedado en Cádiz, no se habría hundido.",
+       "If the fleet had stayed in Cádiz, it would not have sunk."
+      ],
+      [
+       "Churruca siguió dando órdenes hasta que lo hirieron.",
+       "Churruca kept giving orders until he was wounded."
+      ]
+     ],
+     "gram": {
+      "id": "condicional-3",
+      "ej": [
+       "It was a gamble that <b>would have failed had</b> the allied gunners <b>been</b> quicker.",
+       "<b>Had</b> the fleet <b>stayed</b> in Cádiz, Spain <b>might not have lost</b> its navy.",
+       "If Villeneuve <b>had listened</b> to Gravina, the fleet <b>would have stayed</b> in port."
+      ],
+      "q": [
+       {
+        "q": "If the crews ___ better trained, they would have fired faster.",
+        "o": [
+         "were",
+         "had been",
+         "would be"
+        ],
+        "ok": 1
+       },
+       {
+        "q": "___ Nelson sailed in a parallel line, the battle might have ended differently.",
+        "o": [
+         "Had",
+         "If",
+         "Would"
+        ],
+        "ok": 0
+       }
+      ]
+     },
+     "audio": "audio/en-trafalgar-hard.mp3",
+     "s": 89,
+     "t": [
+      0.0,
+      8.41,
+      16.34,
+      27.26,
+      35.31,
+      44.12,
+      51.29,
+      62.1,
+      69.33,
+      76.4,
+      82.95
+     ]
+    }
+   },
+   "dic": {
+    "accepting": "aceptando",
+    "admiral": "almirante",
+    "advice": "consejo",
+    "after": "después de",
+    "afternoon": "tarde",
+    "afterwards": "después",
+    "against": "contra",
+    "alcalá": "Alcalá (Galiano, marino español)",
+    "allied": "aliado",
+    "almost": "casi",
+    "american": "americano",
+    "another": "otro",
+    "approach": "aproximación",
+    "argued": "defendieron, argumentaron",
+    "attacked": "atacó",
+    "attacking": "atacando",
+    "aware": "consciente",
+    "bad": "malo",
+    "battle": "batalla",
+    "better": "mejor",
+    "big": "grande",
+    "biggest": "el más grande",
+    "britain": "Gran Bretaña",
+    "british": "británico",
+    "broke": "rompió",
+    "cannonball": "bala de cañón",
+    "cape": "cabo",
+    "captain": "capitán",
+    "captured": "capturó; capturado",
+    "cartographer": "cartógrafo",
+    "century": "siglo",
+    "churruca": "Churruca (marino y científico español)",
+    "coast": "costa",
+    "column": "columna",
+    "columns": "columnas",
+    "combined": "combinado",
+    "commanded": "mandó; mandado",
+    "conscripts": "reclutas forzosos",
+    "contrast": "contraste (by contrast: en cambio)",
+    "cosme": "Cosme (Damián Churruca)",
+    "crews": "tripulaciones",
+    "cut": "cortó",
+    "cádiz": "Cádiz",
+    "damage": "daño",
+    "damaged": "dañado",
+    "damián": "Damián",
+    "day": "día",
+    "days": "días",
+    "decided": "decidió",
+    "defend": "defender",
+    "destroyed": "destruido; destruyó",
+    "died": "murió",
+    "directing": "dirigiendo",
+    "drove": "lanzó, condujo",
+    "empire": "imperio",
+    "enemy": "enemigo",
+    "england": "Inglaterra",
+    "epidemics": "epidemias",
+    "even": "incluso (even though: aunque)",
+    "expected": "esperaban",
+    "failed": "fracasó; fracasado",
+    "famous": "famoso",
+    "far": "mucho (far more: mucho más)",
+    "faster": "más rápido",
+    "federico": "Federico (Gravina)",
+    "few": "pocos",
+    "fighting": "el combate; combatiendo",
+    "filled": "llenó (filled out: completó)",
+    "fire": "fuego; disparar",
+    "first": "primero, antes",
+    "fleet": "flota",
+    "followed": "siguió",
+    "formation": "formación",
+    "france": "Francia",
+    "french": "francés",
+    "friends": "amigos, aliados",
+    "galiano": "Galiano (Dionisio Alcalá Galiano)",
+    "gamble": "apuesta arriesgada",
+    "giving": "dando",
+    "gravina": "Gravina (almirante español)",
+    "gunners": "artilleros",
+    "guns": "cañones",
+    "heavy": "intenso, pesado",
+    "him": "le, lo, él",
+    "himself": "él mismo",
+    "hit": "alcanzado; azotó, golpeó",
+    "horatio": "Horatio (Nelson)",
+    "hours": "horas",
+    "if": "si",
+    "insisted": "insistió, se empeñó",
+    "instead": "en vez de (instead of)",
+    "invade": "invadir",
+    "juan": "Juan",
+    "kept": "siguió (kept doing: siguió haciendo)",
+    "killed": "matado (was killed: murió)",
+    "knowing": "sabiendo",
+    "largest": "el más grande",
+    "later": "después, más tarde",
+    "leave": "dejar, salir de",
+    "left": "dejó, salió de",
+    "leg": "pierna",
+    "line": "línea",
+    "lines": "líneas",
+    "lost": "perdió; perdido",
+    "many": "muchos",
+    "marksman": "tirador",
+    "men": "hombres",
+    "met": "se encontró con",
+    "much": "mucho",
+    "napoleon": "Napoleón",
+    "napoleon's": "de Napoleón",
+    "nation": "nación",
+    "navy": "armada, marina de guerra",
+    "near": "cerca de",
+    "needed": "necesitaba",
+    "nelson": "Nelson (almirante británico)",
+    "nelson's": "de Nelson",
+    "nepomuceno": "Nepomuceno (San Juan Nepomuceno, navío español)",
+    "never": "nunca",
+    "new": "nuevo",
+    "obeyed": "obedecieron",
+    "october": "octubre",
+    "officers": "oficiales",
+    "ordered": "ordenó",
+    "orders": "órdenes",
+    "parallel": "paralelo",
+    "people": "gente",
+    "place": "lugar, sitio",
+    "places": "sitios",
+    "plan": "plan",
+    "poorly": "mal",
+    "port": "puerto",
+    "putting": "poniendo (putting to sea: hacerse a la mar)",
+    "quicker": "más rápido",
+    "rapidly": "rápidamente",
+    "rather": "más bien (rather than: en lugar de)",
+    "recommended": "recomendaba",
+    "redoutable": "Redoutable (navío francés)",
+    "reproaches": "reproches",
+    "rescued": "rescató",
+    "respected": "respetado",
+    "risked": "arriesgó",
+    "rule": "dominar, gobernar",
+    "sail": "zarpar, navegar",
+    "sailed": "zarpó, navegó",
+    "sailing": "navegando",
+    "sailors": "marineros",
+    "san": "San",
+    "sank": "hundió",
+    "santísima": "Santísima (Trinidad, navío español)",
+    "scientist": "científico",
+    "sea": "mar",
+    "seas": "mares",
+    "served": "sirvió",
+    "seven": "siete",
+    "several": "varios",
+    "shattered": "destrozó",
+    "ship": "barco",
+    "ships": "barcos",
+    "shortly": "poco (shortly afterwards: poco después)",
+    "shot": "disparó; alcanzado de un disparo",
+    "sinking": "hundiendo",
+    "soldier": "soldado",
+    "soldiers": "soldados",
+    "something": "algo",
+    "south": "sur",
+    "spain": "España",
+    "spanish": "español",
+    "square": "plaza",
+    "stands": "se alza, sigue en pie",
+    "stayed": "se quedó",
+    "staying": "quedarse",
+    "still": "todavía, aún",
+    "storm": "tormenta, temporal",
+    "straight": "directamente, recto",
+    "stung": "herido (en su orgullo)",
+    "sunk": "hundido",
+    "survived": "sobrevivió; sobrevivido",
+    "terrible": "terrible",
+    "textbook": "manual, libro de texto",
+    "thinned": "diezmado, mermado",
+    "thirty": "treinta",
+    "though": "aunque (even though)",
+    "time": "tiempo; época",
+    "together": "junto (together with: junto con)",
+    "trafalgar": "Trafalgar",
+    "trained": "entrenado",
+    "trinidad": "Trinidad",
+    "twenty": "veinte",
+    "until": "hasta que",
+    "villeneuve": "Villeneuve (almirante francés)",
+    "waiting": "esperando",
+    "wanted": "quería",
+    "warship": "navío de guerra",
+    "weak": "débil",
+    "weather": "tiempo (atmosférico)",
+    "while": "mientras",
+    "win": "ganar",
+    "won": "ganó; ganado",
+    "world": "mundo",
+    "wounded": "herido",
+    "wrecked": "destrozó, hizo naufragar",
+    "wrecking": "destrozando, haciendo naufragar"
+   },
+   "voz": "Aoede",
+   "acento": "American"
   }
  ],
  "gram": {
