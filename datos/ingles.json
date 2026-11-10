@@ -138,6 +138,16 @@
       36.16,
       39.83,
       44.63
+     ],
+     "trad": [
+      [
+       "Edward Jenner era un médico rural inglés.",
+       "Edward Jenner was an English country doctor."
+      ],
+      [
+       "La nueva vacuna solo duraba unos pocos días.",
+       "The new vaccine only lasted a few days."
+      ]
      ]
     },
     "medium": {
@@ -284,6 +294,16 @@
       62.34,
       68.95,
       76.27
+     ],
+     "trad": [
+      [
+       "La vacuna no podía viajar porque el líquido perdía su fuerza en pocos días.",
+       "The vaccine could not travel because the fluid lost its power within a few days."
+      ],
+      [
+       "España dio sus primeras vacunas cuatro años después, en un pueblo pequeño.",
+       "Spain gave its first vaccinations four years later, in a small town."
+      ]
      ]
     },
     "hard": {
@@ -437,6 +457,16 @@
       67.51,
       77.41,
       87.94
+     ],
+     "trad": [
+      [
+       "Si la vacuna se hubiera enviado en frascos, habría llegado sin ningún efecto.",
+       "If the vaccine had been sent in bottles, it would have arrived with no effect at all."
+      ],
+      [
+       "Todos los intentos anteriores de llevar la vacuna a través del Atlántico habían fracasado.",
+       "Every earlier attempt to carry the vaccine across the Atlantic had failed."
+      ]
      ]
     }
    },
