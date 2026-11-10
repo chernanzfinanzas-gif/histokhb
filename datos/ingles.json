@@ -1,0 +1,1257 @@
+{
+ "temas": [
+  {
+   "id": "balmis",
+   "des": "des-balmis",
+   "tEN": "The Children Who Carried the Vaccine",
+   "tES": "Los niños que llevaron la vacuna",
+   "fecha": "1803-1806",
+   "niveles": {
+    "easy": {
+     "et": "Aprendiendo inglés",
+     "vel": "0.8",
+     "fr": [
+      [
+       "Two hundred years ago, smallpox killed thousands of people every year.",
+       "Hace doscientos años, la viruela mataba a miles de personas cada año."
+      ],
+      [
+       "Many people who survived the disease lost their sight.",
+       "Mucha gente que sobrevivía a la enfermedad se quedaba ciega."
+      ],
+      [
+       "Then an English country doctor noticed something strange.",
+       "Un día, un médico rural inglés se fijó en algo raro."
+      ],
+      [
+       "People who caught a mild illness from cows never caught smallpox.",
+       "Quien pillaba una enfermedad leve de las vacas no cogía nunca la viruela."
+      ],
+      [
+       "That is where our word comes from: vaccine, from vaca, a cow.",
+       "De ahí viene nuestra palabra: vacuna, de vaca."
+      ],
+      [
+       "But the new vaccine had a big problem.",
+       "Pero la vacuna nueva tenía un problema gordo."
+      ],
+      [
+       "It only lasted a few days, and then it died.",
+       "Solo duraba unos días, y después se moría."
+      ],
+      [
+       "And America was two months away by ship.",
+       "Y América estaba a dos meses en barco."
+      ],
+      [
+       "So a Spanish doctor had an idea that still sounds impossible.",
+       "Así que un médico español tuvo una idea que todavía hoy parece imposible."
+      ],
+      [
+       "His name was Francisco Javier de Balmis, and the King said yes.",
+       "Se llamaba Francisco Javier de Balmis, y el rey dijo que sí."
+      ]
+     ],
+     "glos": [
+      [
+       "smallpox",
+       "viruela"
+      ],
+      [
+       "sight",
+       "vista"
+      ],
+      [
+       "mild",
+       "leve"
+      ],
+      [
+       "illness",
+       "enfermedad"
+      ],
+      [
+       "lasted",
+       "duró"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "What is this story about?",
+       "o": [
+        "Taking a vaccine across the ocean",
+        "A war between Spain and England",
+        "Building the first hospital"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "Why was it so difficult?",
+       "o": [
+        "The vaccine died after a few days",
+        "Nobody believed in it",
+        "There were no ships"
+       ],
+       "ok": 0
+      }
+     ],
+     "det": [
+      {
+       "q": "Where does the word 'vaccine' come from?",
+       "o": [
+        "From the cow",
+        "From a doctor's name",
+        "From a city in Spain"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "How long did the journey to America take?",
+       "o": [
+        "Two months",
+        "Two weeks",
+        "Two years"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "Who said yes to the plan?",
+       "o": [
+        "The King",
+        "The Pope",
+        "The city of La Coruña"
+       ],
+       "ok": 0
+      }
+     ],
+     "modelo": "Smallpox killed thousands of people every year. An English doctor saw that cows could protect them. The vaccine died in a few days, so a Spanish doctor found a way to carry it alive to America.",
+     "gancho": "¿Cuál era esa idea que todavía hoy parece imposible?",
+     "audio": "audio/en-balmis-easy.mp3",
+     "s": 50,
+     "t": [
+      0.0,
+      7.47,
+      12.52,
+      17.84,
+      23.72,
+      29.12,
+      32.05,
+      36.16,
+      39.83,
+      44.63
+     ],
+     "trad": [
+      [
+       "Edward Jenner era un médico rural inglés.",
+       "Edward Jenner was an English country doctor."
+      ],
+      [
+       "La nueva vacuna solo duraba unos pocos días.",
+       "The new vaccine only lasted a few days."
+      ]
+     ],
+     "gram": {
+      "id": "pasado-simple",
+      "ej": [
+       "Smallpox <b>killed</b> thousands of people every year.",
+       "Many people who survived the disease <b>lost</b> their sight.",
+       "His name was Balmis, and the King <b>said</b> yes."
+      ],
+      "q": [
+       {
+        "q": "Then an English country doctor ___ something strange. (notice)",
+        "o": [
+         "noticed",
+         "noticing",
+         "notice"
+        ],
+        "ok": 0
+       },
+       {
+        "q": "People who ___ a mild illness from cows never caught smallpox. (catch)",
+        "o": [
+         "catched",
+         "caught",
+         "catching"
+        ],
+        "ok": 1
+       }
+      ]
+     }
+    },
+    "medium": {
+     "et": "Conocimientos básicos",
+     "vel": "0.9",
+     "fr": [
+      [
+       "In 1796 an English country doctor, Edward Jenner, proved that cowpox protected people against smallpox.",
+       "En 1796 un médico rural inglés, Edward Jenner, demostró que la viruela de las vacas protegía de la humana."
+      ],
+      [
+       "The word vaccine comes from the Latin word for cow, and that is no accident.",
+       "La palabra vacuna viene del latín «vaca», y no es casualidad."
+      ],
+      [
+       "Spain gave its first vaccinations four years later, in a small town in the Pyrenees.",
+       "España vacunó por primera vez cuatro años después, en un pueblo del Pirineo."
+      ],
+      [
+       "But the vaccine itself could not travel, and that was the problem nobody could solve.",
+       "Pero la vacuna no podía viajar, y ése era el problema que nadie sabía resolver."
+      ],
+      [
+       "The fluid taken from the blisters lost its power within days, and nothing could be kept cold.",
+       "El fluido de las pústulas perdía su eficacia en pocos días, y no había forma de conservar nada en frío."
+      ],
+      [
+       "Every attempt to carry it to America, two months away by sea, had failed.",
+       "Todos los intentos de llevarla a América, a dos meses por mar, habían fracasado."
+      ],
+      [
+       "Then Francisco Javier de Balmis, a military surgeon from Alicante, proposed something very different.",
+       "Entonces Francisco Javier de Balmis, cirujano militar alicantino, propuso algo muy distinto."
+      ],
+      [
+       "Instead of carrying the fluid, they would carry it alive, inside the bodies of children.",
+       "En vez de llevar el fluido, lo llevarían vivo, dentro del cuerpo de unos niños."
+      ],
+      [
+       "They would be vaccinated two at a time, in a chain, all the way across the Atlantic.",
+       "Se les vacunaría por parejas, en cadena, durante toda la travesía del Atlántico."
+      ],
+      [
+       "The King approved the plan, and on 30 November 1803 a ship left La Coruña.",
+       "El rey aprobó el plan, y el 30 de noviembre de 1803 un barco salió de La Coruña."
+      ],
+      [
+       "There were twenty-two children on board, and none of them had ever had smallpox.",
+       "Iban veintidós niños a bordo, y ninguno había pasado la viruela."
+      ]
+     ],
+     "glos": [
+      [
+       "cowpox",
+       "viruela de las vacas"
+      ],
+      [
+       "blisters",
+       "pústulas, ampollas"
+      ],
+      [
+       "fluid",
+       "fluido"
+      ],
+      [
+       "attempt",
+       "intento"
+      ],
+      [
+       "surgeon",
+       "cirujano"
+      ],
+      [
+       "chain",
+       "cadena"
+      ],
+      [
+       "on board",
+       "a bordo"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "What was Balmis's proposal?",
+       "o": [
+        "To carry the vaccine alive inside children",
+        "To build a faster ship",
+        "To keep the fluid on ice"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "Had vaccination already reached Spain?",
+       "o": [
+        "Yes, four years after Jenner",
+        "No, never before this",
+        "Only in the colonies"
+       ],
+       "ok": 0
+      }
+     ],
+     "det": [
+      {
+       "q": "When did the ship leave La Coruña?",
+       "o": [
+        "30 November 1803",
+        "21 October 1805",
+        "1 January 1800"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "How many children sailed?",
+       "o": [
+        "Twenty-two",
+        "Twelve",
+        "Forty"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "Where was Balmis from?",
+       "o": [
+        "Alicante",
+        "Barcelona",
+        "La Coruña"
+       ],
+       "ok": 0
+      }
+     ],
+     "modelo": "In 1796 Jenner proved that cowpox protected people against smallpox, but the vaccine lost its power within days and could not reach America. Balmis, a military surgeon from Alicante, proposed carrying it alive inside the bodies of children, vaccinated in pairs along the way. The King approved the plan, and a ship sailed from La Coruña in November 1803 with twenty-two children on board.",
+     "gancho": "Veintidós niños a bordo. ¿Quién cuidaba de ellos, y qué fue de ellos después?",
+     "audio": "audio/en-balmis-medium.mp3",
+     "s": 81,
+     "t": [
+      0.0,
+      11.47,
+      18.66,
+      26.18,
+      33.11,
+      40.56,
+      46.82,
+      55.28,
+      62.34,
+      68.95,
+      76.27
+     ],
+     "trad": [
+      [
+       "La vacuna no podía viajar porque el líquido perdía su fuerza en pocos días.",
+       "The vaccine could not travel because the fluid lost its power within a few days."
+      ],
+      [
+       "España dio sus primeras vacunas cuatro años después, en un pueblo pequeño.",
+       "Spain gave its first vaccinations four years later, in a small town."
+      ]
+     ],
+     "gram": {
+      "id": "could-would",
+      "ej": [
+       "But the vaccine itself <b>could not</b> travel. → <i>no podía viajar</i>",
+       "Nothing <b>could</b> be kept cold. → <i>no se podía conservar</i>",
+       "Instead of carrying the fluid, they <b>would</b> carry it alive. → <i>iban a llevarla viva</i>"
+      ],
+      "q": [
+       {
+        "q": "In 1803 people ___ not keep things cold for weeks.",
+        "o": [
+         "would",
+         "could",
+         "can"
+        ],
+        "ok": 1
+       },
+       {
+        "q": "«They would carry it alive» significa…",
+        "o": [
+         "Podían llevarla viva",
+         "Iban a llevarla viva",
+         "La llevaban siempre viva"
+        ],
+        "ok": 1
+       }
+      ]
+     }
+    },
+    "hard": {
+     "et": "Grandes conocimientos",
+     "vel": "1",
+     "fr": [
+      [
+       "At the end of the eighteenth century smallpox was among the deadliest diseases on earth, reckoned to have killed hundreds of thousands of Europeans every year.",
+       "A finales del siglo XVIII la viruela era una de las enfermedades más mortíferas del mundo; se calcula que mataba a cientos de miles de europeos cada año."
+      ],
+      [
+       "Those who survived were frequently left scarred for life or blind, and in the Americas the disease had been catastrophic since the sixteenth century.",
+       "Quienes sobrevivían quedaban a menudo marcados de por vida o ciegos, y en América la enfermedad había sido catastrófica desde el siglo XVI."
+      ],
+      [
+       "Indigenous populations there had no inherited defences against it, and epidemics returned every few years to kill whoever had been born since the last one.",
+       "Los pueblos indígenas no tenían defensas heredadas contra ella, y las epidemias volvían cada pocos años a matar a quien hubiera nacido desde la anterior."
+      ],
+      [
+       "A partial remedy existed: variolation, which meant inoculating a healthy person with matter from a mild case in order to confer immunity.",
+       "Existía un remedio parcial, la variolización: inocular a una persona sana con material de un enfermo leve para inmunizarla."
+      ],
+      [
+       "It worked, but it killed a proportion of those who underwent it, and it could spread the disease to everyone around them.",
+       "Funcionaba, pero mataba a una parte de los inoculados y podía contagiar a quienes los rodeaban."
+      ],
+      [
+       "Jenner's demonstration in 1796 changed everything except for one intractable obstacle: the fluid perished within days and could not be refrigerated.",
+       "La demostración de Jenner en 1796 lo cambió todo salvo un obstáculo irresoluble: el fluido se echaba a perder en días y no se podía refrigerar."
+      ],
+      [
+       "Balmis, who had served in New Spain and had translated a French treatise on vaccination, proposed carrying the vaccine in living tissue instead.",
+       "Balmis, que había servido en Nueva España y había traducido un tratado francés sobre la vacuna, propuso transportarla en tejido vivo."
+      ],
+      [
+       "Children who had never contracted smallpox would be vaccinated in pairs, in sequence, each pair's blisters maturing in nine or ten days to supply the next.",
+       "Se vacunaría por parejas, en secuencia, a niños que no hubieran pasado la viruela, y las pústulas de cada pareja madurarían en nueve o diez días para abastecer a la siguiente."
+      ],
+      [
+       "The ambition went well beyond mere delivery: local physicians were to be trained, and a standing vaccination board left in every city to keep the fluid alive indefinitely.",
+       "La ambición iba mucho más allá de la entrega: había que formar a los médicos locales y dejar en cada ciudad una junta de vacuna que mantuviera el fluido vivo indefinidamente."
+      ],
+      [
+       "Twenty-two children, aged three to nine, sailed from La Coruña on 30 November 1803, and most of them came from its foundling hospital.",
+       "Veintidós niños, de tres a nueve años, zarparon de La Coruña el 30 de noviembre de 1803, y la mayoría venía de su casa de expósitos."
+      ]
+     ],
+     "glos": [
+      [
+       "reckoned",
+       "se calcula"
+      ],
+      [
+       "scarred",
+       "marcado, con cicatrices"
+      ],
+      [
+       "inherited",
+       "heredado"
+      ],
+      [
+       "confer",
+       "conferir, dar"
+      ],
+      [
+       "underwent",
+       "se sometieron a"
+      ],
+      [
+       "intractable",
+       "irresoluble"
+      ],
+      [
+       "perished",
+       "se echaba a perder"
+      ],
+      [
+       "treatise",
+       "tratado"
+      ],
+      [
+       "standing",
+       "permanente"
+      ],
+      [
+       "foundling hospital",
+       "casa de expósitos, inclusa"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "Why was variolation not good enough?",
+       "o": [
+        "It killed some people and could spread the disease",
+        "It had never actually been tried",
+        "It was forbidden by the Crown"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "What was the obstacle Jenner's discovery did not solve?",
+       "o": [
+        "The fluid could not be preserved or transported",
+        "Doctors refused to believe him",
+        "Nobody in Spain had heard of it"
+       ],
+       "ok": 0
+      }
+     ],
+     "det": [
+      {
+       "q": "How long did each pair's blisters take to mature?",
+       "o": [
+        "Nine or ten days",
+        "Two days",
+        "About a month"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "Where did most of the children come from?",
+       "o": [
+        "The foundling hospital of La Coruña",
+        "Noble families of Madrid",
+        "New Spain"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "What was to be left behind in every city?",
+       "o": [
+        "A standing vaccination board",
+        "A military garrison",
+        "A printing press"
+       ],
+       "ok": 0
+      }
+     ],
+     "modelo": "Smallpox was among the deadliest diseases of the eighteenth century, and Jenner's discovery of 1796 could not be exploited overseas because the fluid perished within days. Balmis therefore proposed transporting it in living tissue: children who had never contracted the disease, vaccinated in sequential pairs whose blisters matured every nine or ten days. The purpose of the expedition extended well beyond delivery, since local physicians were to be trained and a permanent vaccination board left behind in each city.",
+     "gancho": "Veintidós niños de la inclusa, de tres a nueve años. ¿Quién respondía por ellos a bordo?",
+     "audio": "audio/en-balmis-hard.mp3",
+     "s": 97,
+     "t": [
+      0.0,
+      10.2,
+      20.08,
+      30.28,
+      40.0,
+      46.97,
+      58.01,
+      67.51,
+      77.41,
+      87.94
+     ],
+     "trad": [
+      [
+       "Si la vacuna se hubiera enviado en frascos, habría llegado sin ningún efecto.",
+       "If the vaccine had been sent in bottles, it would have arrived with no effect at all."
+      ],
+      [
+       "Todos los intentos anteriores de llevar la vacuna a través del Atlántico habían fracasado.",
+       "Every earlier attempt to carry the vaccine across the Atlantic had failed."
+      ]
+     ],
+     "gram": {
+      "id": "pasado-perfecto",
+      "ej": [
+       "Balmis, who <b>had served</b> in New Spain and <b>had translated</b> a French treatise…",
+       "Children who <b>had never contracted</b> smallpox would be vaccinated in pairs.",
+       "Every attempt to carry it to America <b>had failed</b>."
+      ],
+      "q": [
+       {
+        "q": "By 1803 Balmis ___ a French treatise on the vaccine.",
+        "o": [
+         "has translated",
+         "had translated",
+         "translated had"
+        ],
+        "ok": 1
+       },
+       {
+        "q": "The children ___ smallpox before the voyage.",
+        "o": [
+         "had never contracted",
+         "never had contract",
+         "have never contracted"
+        ],
+        "ok": 0
+       }
+      ]
+     }
+    }
+   },
+   "lam": "img/laminas/des-balmis.webp",
+   "viva": "img/vivas/des-balmis.mp4",
+   "voz": "Iapetus",
+   "acento": "British",
+   "dic": {
+    "accident": "casualidad, accidente",
+    "across": "a través de, al otro lado de",
+    "against": "contra",
+    "aged": "de (tantos) años de edad",
+    "ago": "hace (tiempo)",
+    "alive": "vivo",
+    "ambition": "ambición",
+    "america": "América",
+    "americas": "las Américas",
+    "among": "entre (varios)",
+    "approved": "aprobó",
+    "around": "alrededor de, por",
+    "atlantic": "Atlántico",
+    "attempt": "intento",
+    "away": "lejos, de distancia",
+    "big": "grande",
+    "beyond": "más allá de",
+    "blind": "ciego",
+    "blisters": "ampollas",
+    "board": "a bordo (on board)",
+    "bodies": "cuerpos",
+    "born": "nacido",
+    "came": "vino, llegó",
+    "carry": "llevar, transportar",
+    "carrying": "llevando",
+    "case": "caso",
+    "catastrophic": "catastrófico",
+    "caught": "cogió, se contagió de",
+    "century": "siglo",
+    "chain": "cadena",
+    "changed": "cambió",
+    "children": "niños",
+    "city": "ciudad",
+    "cold": "frío",
+    "comes": "viene",
+    "confer": "dar, conferir",
+    "contracted": "contrajo (una enfermedad)",
+    "country": "campo; país (country doctor: médico rural)",
+    "cow": "vaca",
+    "cowpox": "viruela de las vacas",
+    "cows": "vacas",
+    "days": "días",
+    "deadliest": "la más mortífera",
+    "defences": "defensas",
+    "delivery": "entrega, transporte",
+    "demonstration": "demostración",
+    "died": "murió",
+    "different": "distinto",
+    "disease": "enfermedad",
+    "diseases": "enfermedades",
+    "doctor": "médico",
+    "earth": "la Tierra",
+    "eighteenth": "decimoctavo (siglo XVIII)",
+    "end": "final",
+    "english": "inglés",
+    "epidemics": "epidemias",
+    "europeans": "europeos",
+    "ever": "nunca, jamás (en preguntas: alguna vez)",
+    "everyone": "todo el mundo",
+    "everything": "todo",
+    "except": "excepto",
+    "existed": "existía",
+    "failed": "fracasó, falló",
+    "few": "pocos",
+    "first": "primero",
+    "fluid": "líquido",
+    "foundling": "expósito, niño abandonado",
+    "french": "francés",
+    "frequently": "con frecuencia",
+    "gave": "dio",
+    "healthy": "sano",
+    "hospital": "hospital",
+    "hundred": "cien",
+    "hundreds": "cientos",
+    "idea": "idea",
+    "illness": "enfermedad",
+    "immunity": "inmunidad",
+    "impossible": "imposible",
+    "indefinitely": "indefinidamente",
+    "indigenous": "indígena",
+    "inherited": "heredado",
+    "inoculating": "inoculando",
+    "inside": "dentro de",
+    "instead": "en vez de eso",
+    "intractable": "sin solución, insoluble",
+    "itself": "en sí misma",
+    "keep": "mantener, conservar",
+    "kept": "mantenido, conservado",
+    "kill": "matar",
+    "killed": "mató",
+    "king": "rey",
+    "last": "último; durar",
+    "lasted": "duró",
+    "later": "después, más tarde",
+    "latin": "latín",
+    "left": "salió, partió",
+    "life": "vida",
+    "living": "vivo; viviente",
+    "local": "local",
+    "lost": "perdió",
+    "many": "muchos",
+    "matter": "materia",
+    "maturing": "madurando",
+    "meant": "significaba",
+    "mere": "simple, mero",
+    "mild": "leve, suave",
+    "military": "militar",
+    "months": "meses",
+    "name": "nombre",
+    "never": "nunca",
+    "new": "nuevo",
+    "next": "siguiente",
+    "nine": "nueve",
+    "nobody": "nadie",
+    "none": "ninguno",
+    "nothing": "nada",
+    "noticed": "se dio cuenta, notó",
+    "november": "noviembre",
+    "obstacle": "obstáculo",
+    "order": "orden",
+    "pair's": "de la pareja",
+    "pairs": "parejas",
+    "partial": "parcial",
+    "people": "gente, personas",
+    "perished": "murió, pereció",
+    "person": "persona",
+    "physicians": "médicos",
+    "plan": "plan",
+    "populations": "poblaciones",
+    "power": "poder, fuerza",
+    "problem": "problema",
+    "proportion": "proporción",
+    "proposed": "propuso",
+    "protected": "protegía",
+    "proved": "demostró",
+    "pyrenees": "los Pirineos",
+    "reckoned": "calculaba, estimaba",
+    "refrigerated": "refrigerado",
+    "remedy": "remedio",
+    "returned": "volvió",
+    "said": "dijo",
+    "sailed": "zarpó, navegó",
+    "scarred": "con cicatrices",
+    "sea": "mar",
+    "sequence": "secuencia, serie",
+    "served": "sirvió",
+    "ship": "barco",
+    "sight": "vista",
+    "since": "desde (que)",
+    "sixteenth": "decimosexto (siglo XVI)",
+    "small": "pequeño",
+    "smallpox": "viruela",
+    "solve": "resolver",
+    "something": "algo",
+    "sounds": "suena",
+    "spain": "España",
+    "spanish": "español",
+    "spread": "se extendió, propagó",
+    "standing": "en pie, vigente",
+    "still": "todavía",
+    "strange": "extraño",
+    "supply": "suministro, provisión",
+    "surgeon": "cirujano",
+    "survived": "sobrevivió",
+    "taken": "tomado, sacado",
+    "thousands": "miles",
+    "time": "tiempo; vez",
+    "tissue": "tejido",
+    "town": "pueblo",
+    "trained": "formado, entrenado",
+    "translated": "traducido",
+    "travel": "viajar",
+    "treatise": "tratado (libro)",
+    "twenty-two": "veintidós",
+    "underwent": "se sometió a",
+    "vaca": "vaca (en español)",
+    "vaccinated": "vacunado",
+    "vaccination": "vacunación",
+    "vaccinations": "vacunaciones",
+    "vaccine": "vacuna",
+    "variolation": "variolización (inocular viruela humana)",
+    "way": "camino, manera",
+    "well": "bien",
+    "went": "fue",
+    "whoever": "quienquiera que",
+    "within": "en menos de, dentro de",
+    "word": "palabra",
+    "worked": "funcionó",
+    "year": "año",
+    "years": "años",
+    "yes": "sí",
+    "edward": "Edward (nombre)",
+    "jenner": "Jenner (apellido)",
+    "jenner's": "de Jenner",
+    "balmis": "Balmis (apellido)",
+    "alicante": "Alicante",
+    "francisco": "Francisco",
+    "javier": "Javier",
+    "coruña": "A Coruña"
+   },
+   "pv": {
+    "v": "set off",
+    "es": "salir, ponerse en camino (de viaje)",
+    "ex": "Un <i>phrasal verb</i> es un verbo con una partícula (off, out, up…) que cambia su significado: <i>set</i> es «poner», pero <b>set off</b> es «salir de viaje». Se usa mucho más que <i>depart</i> o <i>leave</i> al contar viajes.",
+    "ej": [
+     "The ship <b>set off</b> from A Coruña on 30 November 1803.",
+     "They <b>set off</b> with twenty-two children on board."
+    ],
+    "q": {
+     "q": "«They set off at dawn» significa…",
+     "o": [
+      "Se pusieron en camino al amanecer",
+      "Se quedaron en casa al amanecer",
+      "Lo apagaron al amanecer"
+     ],
+     "ok": 0
+    }
+   }
+  }
+ ],
+ "gram": {
+  "presente-simple": {
+   "n": "easy",
+   "t": "El presente simple para hechos y costumbres",
+   "r": "the word comes from Latin; cows give milk"
+  },
+  "presente-continuo": {
+   "n": "easy",
+   "t": "El presente continuo: lo que pasa ahora",
+   "r": "the doctor is waiting"
+  },
+  "articulos": {
+   "n": "easy",
+   "t": "Artículos: a, an, the y sin artículo",
+   "r": "a doctor, an idea, the King, people"
+  },
+  "plurales": {
+   "n": "easy",
+   "t": "Plurales y plurales irregulares",
+   "r": "children, people, men, women"
+  },
+  "pronombres": {
+   "n": "easy",
+   "t": "Pronombres y posesivos",
+   "r": "he / him / his; they / them / their"
+  },
+  "this-that": {
+   "n": "easy",
+   "t": "This, that, these, those",
+   "r": "this ship, those children"
+  },
+  "genitivo": {
+   "n": "easy",
+   "t": "El genitivo 's",
+   "r": "Jenner's discovery, the King's ship"
+  },
+  "was-were": {
+   "n": "easy",
+   "t": "Was y were",
+   "r": "the problem was…, they were…"
+  },
+  "pasado-simple": {
+   "n": "easy",
+   "t": "El pasado simple (past simple)",
+   "r": "killed, noticed / had, lost, said",
+   "ex": "Para contar lo que pasó se usa el pasado simple. Los verbos regulares añaden <b>-ed</b>: <i>kill → killed</i>, <i>notice → noticed</i>. Los irregulares cambian y hay que aprenderlos: <i>have → had</i>, <i>lose → lost</i>, <i>say → said</i>, <i>catch → caught</i>. Es igual para todas las personas: I, he, they… <b>killed</b>."
+  },
+  "irregulares": {
+   "n": "easy",
+   "t": "Los verbos irregulares más usados",
+   "r": "go → went, take → took, give → gave"
+  },
+  "pasado-continuo": {
+   "n": "easy",
+   "t": "El pasado continuo",
+   "r": "they were sailing when…"
+  },
+  "there-was": {
+   "n": "easy",
+   "t": "There is / there was (hay, había)",
+   "r": "there were twenty-two children"
+  },
+  "preguntas-did": {
+   "n": "easy",
+   "t": "Preguntas y negativas en pasado con did",
+   "r": "Did he…? He didn't…"
+  },
+  "can-could": {
+   "n": "easy",
+   "t": "Can y could: poder",
+   "r": "the vaccine could not travel"
+  },
+  "must-have-to": {
+   "n": "easy",
+   "t": "Must y have to: obligación",
+   "r": "they had to keep it alive"
+  },
+  "futuro-will-going": {
+   "n": "easy",
+   "t": "Will y going to para el futuro",
+   "r": "it will work / they are going to sail"
+  },
+  "comparativos": {
+   "n": "easy",
+   "t": "Comparativos y superlativos",
+   "r": "bigger, the biggest, more important"
+  },
+  "adverbios-frecuencia": {
+   "n": "easy",
+   "t": "Adverbios de frecuencia",
+   "r": "always, often, never"
+  },
+  "adj-adv": {
+   "n": "easy",
+   "t": "Adjetivos y adverbios en -ly",
+   "r": "slow → slowly, careful → carefully"
+  },
+  "cantidades": {
+   "n": "easy",
+   "t": "Much, many, a few, a lot of, some, any",
+   "r": "many people, a few days"
+  },
+  "contables": {
+   "n": "easy",
+   "t": "Contables e incontables",
+   "r": "information, advice, two ships"
+  },
+  "prep-tiempo": {
+   "n": "easy",
+   "t": "In, on, at con fechas y horas",
+   "r": "in 1803, on 30 November, at night"
+  },
+  "prep-lugar": {
+   "n": "easy",
+   "t": "Preposiciones de lugar y movimiento",
+   "r": "on board, across the sea, to America"
+  },
+  "conectores-basicos": {
+   "n": "easy",
+   "t": "Conectores: and, but, because, so",
+   "r": "it lasted a few days, so…"
+  },
+  "numeros-fechas": {
+   "n": "easy",
+   "t": "Números, ordinales y fechas",
+   "r": "the eighteenth century, 30 November 1803"
+  },
+  "orden-frase": {
+   "n": "easy",
+   "t": "El orden de la frase en inglés",
+   "r": "sujeto + verbo + complemento"
+  },
+  "imperativo": {
+   "n": "easy",
+   "t": "El imperativo: dar órdenes e instrucciones",
+   "r": "Listen. Don't stop."
+  },
+  "have-got": {
+   "n": "easy",
+   "t": "Have y have got",
+   "r": "the ship had two masts"
+  },
+  "like-ing": {
+   "n": "easy",
+   "t": "Like, love, hate + -ing",
+   "r": "he liked sailing"
+  },
+  "would-like": {
+   "n": "easy",
+   "t": "Would like: pedir y ofrecer",
+   "r": "would you like to try?"
+  },
+  "how-much-many": {
+   "n": "easy",
+   "t": "How much, how many, how long",
+   "r": "how many children?"
+  },
+  "indefinidos": {
+   "n": "easy",
+   "t": "Somebody, nothing, everyone, anywhere",
+   "r": "nobody could solve it"
+  },
+  "preguntas-wh": {
+   "n": "easy",
+   "t": "Preguntas con who, what, where, when, why",
+   "r": "Who was Balmis?"
+  },
+  "verbo-to-be": {
+   "n": "easy",
+   "t": "El verbo to be en presente",
+   "r": "he is a doctor, they are children"
+  },
+  "presente-perfecto": {
+   "n": "medium",
+   "t": "El presente perfecto (have + participio)",
+   "r": "has changed, have found"
+  },
+  "perfecto-vs-pasado": {
+   "n": "medium",
+   "t": "Presente perfecto o pasado simple",
+   "r": "has saved / saved in 1803"
+  },
+  "for-since-ago": {
+   "n": "medium",
+   "t": "For, since y ago",
+   "r": "for ten years, since 1803, 200 years ago"
+  },
+  "perfecto-continuo": {
+   "n": "medium",
+   "t": "El presente perfecto continuo",
+   "r": "they have been working for…"
+  },
+  "could-would": {
+   "n": "medium",
+   "t": "Could y would para hablar del pasado",
+   "r": "could not travel / would carry",
+   "ex": "<b>Could</b> es el pasado de <i>can</i>: lo que se podía o no se podía hacer. <b>Would</b> sirve para hablar del futuro visto desde el pasado, lo que <i>iba a</i> pasar según un plan. Los dos van seguidos del verbo sin <i>to</i>: <i>could travel</i>, <i>would carry</i>."
+  },
+  "used-to": {
+   "n": "medium",
+   "t": "Used to: costumbres del pasado",
+   "r": "people used to die of smallpox"
+  },
+  "was-going-to": {
+   "n": "medium",
+   "t": "Was going to: planes en el pasado",
+   "r": "they were going to sail…"
+  },
+  "futuros": {
+   "n": "medium",
+   "t": "Los tres futuros: will, going to y presente continuo",
+   "r": "we leave tomorrow"
+  },
+  "pasiva-simple": {
+   "n": "medium",
+   "t": "La pasiva sencilla",
+   "r": "was built, were vaccinated"
+  },
+  "relativos": {
+   "n": "medium",
+   "t": "Who, which, that, where, whose",
+   "r": "a doctor who…, the ship that…"
+  },
+  "condicional-1-2": {
+   "n": "medium",
+   "t": "Condicionales primero y segundo",
+   "r": "if it travels… / if it could travel…"
+  },
+  "may-might": {
+   "n": "medium",
+   "t": "May, might y could: posibilidad",
+   "r": "it might fail"
+  },
+  "should": {
+   "n": "medium",
+   "t": "Should y ought to: consejo",
+   "r": "you should rest"
+  },
+  "gerundio-infinitivo": {
+   "n": "medium",
+   "t": "Gerundio o infinitivo después de un verbo",
+   "r": "stopped trying / decided to go"
+  },
+  "verbos-preposicion": {
+   "n": "medium",
+   "t": "Verbos con preposición",
+   "r": "depend on, arrive in, look for"
+  },
+  "phrasal-verbs": {
+   "n": "medium",
+   "t": "Phrasal verbs frecuentes",
+   "r": "set off, carry on, find out"
+  },
+  "too-enough": {
+   "n": "medium",
+   "t": "Too y enough",
+   "r": "too far, not cold enough"
+  },
+  "so-such": {
+   "n": "medium",
+   "t": "So y such",
+   "r": "so far away, such a long voyage"
+  },
+  "both-either": {
+   "n": "medium",
+   "t": "Both, either, neither",
+   "r": "both ships, neither of them"
+  },
+  "ed-ing": {
+   "n": "medium",
+   "t": "Adjetivos en -ed y en -ing",
+   "r": "surprised / surprising"
+  },
+  "as-as": {
+   "n": "medium",
+   "t": "Comparaciones con as… as",
+   "r": "as dangerous as"
+  },
+  "question-tags": {
+   "n": "medium",
+   "t": "Las coletillas: isn't it?, didn't he?",
+   "r": "it worked, didn't it?"
+  },
+  "conectores-b1": {
+   "n": "medium",
+   "t": "Conectores: however, although, while, as a result",
+   "r": "although it was dangerous…"
+  },
+  "reflexivos": {
+   "n": "medium",
+   "t": "Pronombres reflexivos: myself, itself",
+   "r": "the vaccine itself"
+  },
+  "make-do": {
+   "n": "medium",
+   "t": "Make o do",
+   "r": "make a plan, do research"
+  },
+  "get": {
+   "n": "medium",
+   "t": "Los usos de get",
+   "r": "get ill, get better, get to America"
+  },
+  "finalidad": {
+   "n": "medium",
+   "t": "To e in order to: para qué",
+   "r": "to carry the vaccine"
+  },
+  "grado": {
+   "n": "medium",
+   "t": "Quite, rather, fairly, really",
+   "r": "quite dangerous"
+  },
+  "preguntas-indirectas": {
+   "n": "medium",
+   "t": "Preguntas indirectas",
+   "r": "nobody knew how it worked"
+  },
+  "estilo-indirecto-basico": {
+   "n": "medium",
+   "t": "Estilo indirecto sencillo",
+   "r": "the King said that…"
+  },
+  "pasado-perfecto": {
+   "n": "hard",
+   "t": "El pasado perfecto (past perfect)",
+   "r": "had failed, had served",
+   "ex": "Se forma con <b>had + participio</b> y sirve para algo que ya había pasado <i>antes</i> de otro momento del pasado. En historia es muy útil para dar el contexto de lo que se cuenta. Con <i>never</i> o <i>already</i>, estas palabras van entre <i>had</i> y el participio."
+  },
+  "pasado-perfecto-cont": {
+   "n": "hard",
+   "t": "El pasado perfecto continuo",
+   "r": "they had been waiting for months"
+  },
+  "futuro-perfecto": {
+   "n": "hard",
+   "t": "Futuro perfecto y futuro continuo",
+   "r": "by then they will have arrived"
+  },
+  "condicional-3": {
+   "n": "hard",
+   "t": "El tercer condicional",
+   "r": "if it had been sent…, it would have…"
+  },
+  "condicional-mixto": {
+   "n": "hard",
+   "t": "Condicionales mixtos",
+   "r": "if he had not travelled, they would still…"
+  },
+  "wish": {
+   "n": "hard",
+   "t": "Wish e if only",
+   "r": "I wish I had known"
+  },
+  "modales-pasado": {
+   "n": "hard",
+   "t": "Must have, could have, should have",
+   "r": "must have known, could have died"
+  },
+  "deduccion": {
+   "n": "hard",
+   "t": "Modales de deducción en presente",
+   "r": "it can't be true, it must be"
+  },
+  "pasiva-compleja": {
+   "n": "hard",
+   "t": "La pasiva de opinión: it is said that…",
+   "r": "is thought to have…, was believed to…"
+  },
+  "causativa": {
+   "n": "hard",
+   "t": "La causativa: have something done",
+   "r": "he had the children vaccinated"
+  },
+  "relativos-explicativos": {
+   "n": "hard",
+   "t": "Oraciones de relativo explicativas",
+   "r": "Balmis, who had served in…, …"
+  },
+  "frases-participio": {
+   "n": "hard",
+   "t": "Frases de participio",
+   "r": "Having served in…, Born in…"
+  },
+  "estilo-indirecto": {
+   "n": "hard",
+   "t": "El estilo indirecto",
+   "r": "he said that it would…"
+  },
+  "verbos-reporte": {
+   "n": "hard",
+   "t": "Verbos para contar lo que se dijo",
+   "r": "claimed, denied, insisted, admitted"
+  },
+  "inversion": {
+   "n": "hard",
+   "t": "La inversión para dar énfasis",
+   "r": "Never had…, Not only did…"
+  },
+  "cleft": {
+   "n": "hard",
+   "t": "Frases para destacar: It was… who",
+   "r": "It was Balmis who proposed…"
+  },
+  "concesivas": {
+   "n": "hard",
+   "t": "Although, despite, in spite of, however",
+   "r": "despite the danger, although…"
+  },
+  "nominalizacion": {
+   "n": "hard",
+   "t": "La nominalización: el estilo de la historia",
+   "r": "the delivery of the vaccine"
+  },
+  "would-rather": {
+   "n": "hard",
+   "t": "Would rather, had better, it's time",
+   "r": "it's time they left"
+  },
+  "subjuntivo": {
+   "n": "hard",
+   "t": "El subjuntivo formal",
+   "r": "the King insisted that he be…"
+  },
+  "matizar": {
+   "n": "hard",
+   "t": "Matizar: hedging en textos de historia",
+   "r": "it seems likely that…, arguably"
+  },
+  "elipsis": {
+   "n": "hard",
+   "t": "Elipsis y sustitución",
+   "r": "so did he, I think so"
+  },
+  "articulos-avanzados": {
+   "n": "hard",
+   "t": "Artículos con nombres de lugares y épocas",
+   "r": "the Atlantic, Spain, the 18th century"
+  },
+  "percepcion": {
+   "n": "hard",
+   "t": "Verbos de percepción + -ing o infinitivo",
+   "r": "they saw the ship leave / leaving"
+  },
+  "adjetivos-compuestos": {
+   "n": "hard",
+   "t": "Adjetivos compuestos",
+   "r": "a two-month voyage, twenty-two children"
+  },
+  "was-to": {
+   "n": "hard",
+   "t": "Was to: el destino en el pasado",
+   "r": "he was to die in…"
+  },
+  "conectores-c1": {
+   "n": "hard",
+   "t": "Whereas, nevertheless, hence, thus",
+   "r": "nevertheless, it worked"
+  },
+  "it-adjetivo": {
+   "n": "hard",
+   "t": "It + adjetivo + that / to",
+   "r": "it is likely that…, it was impossible to…"
+  },
+  "formacion-palabras": {
+   "n": "hard",
+   "t": "Formación de palabras: prefijos y sufijos",
+   "r": "vaccinate → vaccination → unvaccinated"
+  },
+  "relativo-preposicion": {
+   "n": "hard",
+   "t": "Relativos con preposición: in which, by whom",
+   "r": "the method by which…"
+  }
+ }
+}

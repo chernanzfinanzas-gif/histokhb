@@ -41,8 +41,24 @@ def _clave():
     if not k and f and os.path.exists(f): k=open(f,encoding='utf-8').read().strip()
     return k
 MODELO=os.environ.get('GEMINI_TTS_MODEL','gemini-2.5-flash-preview-tts')
+# Clave de PAGO (proyecto histokhb-ingles, 10-nov-2026): la pagan los 10 $ mensuales de créditos del Google Developer Program.
+# Se usa si GEMINI_API_KEY_FILE apunta a un fichero cuyo nombre contiene «pago». Cada segundo de audio que devuelve
+# se apunta en herramientas/gasto_pago.json por mes, y al llegar a TOPE_PAGO_MIN minutos no se pide nada más ese mes
+# (25 tokens por segundo a 10 $ el millón = 0,015 $ por minuto: 550 min son unos 8,25 $; el margen cubre lo que se rechaza).
+TOPE_PAGO_MIN=float(os.environ.get('TOPE_PAGO_MIN','550'))
+GASTO=os.path.join(os.path.dirname(os.path.abspath(__file__)),'gasto_pago.json')
+def es_pago(): return 'pago' in os.path.basename(os.environ.get('GEMINI_API_KEY_FILE',''))
+def gasto_mes():
+    import datetime; m=datetime.date.today().strftime('%Y-%m')
+    G=json.load(open(GASTO)) if os.path.exists(GASTO) else {}
+    return G,m,G.get(m,0)
+def apunta_gasto(seg):
+    G,m,v=gasto_mes(); G[m]=round(v+seg,1); json.dump(G,open(GASTO,'w'),indent=1)
 def tts_aistudio(text,voz,prompt,dst,clave):
     import requests,wave
+    if es_pago():
+        _,m,v=gasto_mes()
+        if v/60>=TOPE_PAGO_MIN: print(f'TOPE MENSUAL de la clave de pago alcanzado ({v/60:.0f} min en {m}): no se graba más este mes',dst); return False
     b={"contents":[{"parts":[{"text":prompt+"\n\n"+text}]}],
        "generationConfig":{"responseModalities":["AUDIO"],"speechConfig":{"voiceConfig":{"prebuiltVoiceConfig":{"voiceName":voz}}}}}
     for i in range(8):
@@ -51,6 +67,7 @@ def tts_aistudio(text,voz,prompt,dst,clave):
             if r.ok:
                 pcm=base64.b64decode(r.json()['candidates'][0]['content']['parts'][0]['inlineData']['data'])
                 with wave.open(dst,'wb') as w: w.setnchannels(1); w.setsampwidth(2); w.setframerate(24000); w.writeframes(pcm)
+                if es_pago(): apunta_gasto(len(pcm)/48000)   # 24 kHz, 16 bits: 48.000 bytes por segundo
                 return True
             if r.status_code==429 and 'PerDay' in r.text: print('LÍMITE DIARIO de AI Studio agotado: seguir mañana',dst); return False
             if r.status_code not in (429,500,502,503,504): print('ERR',dst,r.status_code,r.text[:200]); return False
@@ -184,6 +201,7 @@ def genera(cod,nivel,html_,voz,kbps,cabecera=None):
         w=os.path.join(TMP,f'{cod}-{nivel}-{i}-{hashlib.md5((voz+c).encode()).hexdigest()[:10]}.wav')  # el nombre lleva el hash del texto: un trozo solo se reutiliza si el texto no ha cambiado
         if not os.path.exists(w) and not tts(c,voz,P_NI if nivel=='n' else P_AD,w): return None
         wavs.append(w)
+    orig=list(wavs)   # 10-nov-2026: al rechazar hay que borrar también los trozos originales, no solo las copias retocadas (.lb.wav, atempo): si no, el reintento reutiliza el mismo audio malo
     wavs=iguala_ritmo(wavs,trozos(ps))
     if wavs is None: return None
     sil=os.path.join(TMP,'sil.wav')
@@ -196,12 +214,12 @@ def genera(cod,nivel,html_,voz,kbps,cabecera=None):
     v=sum(S.silabas(p) for p in ps)/max(dur,1)
     if v>7:   # Gemini a veces corta la grabación a medias (pasó con Lutero, 2-nov-2026): demasiadas sílabas para tan poco audio
         print(f'ERR: audio incompleto ({v:.1f} sílabas/s), no se acepta:',out); os.remove(out)
-        for w in wavs: 
+        for w in set(wavs+orig):
             if os.path.exists(w): os.remove(w)
         return None
     if not final_oido(out,dur,' '.join(ps[-2:])):   # las dos últimas líneas: una sola («526 · Muerte.») da muy poco que comprobar   # Granada 1354 (5-nov-2026): las dos últimas líneas eran un murmullo
         os.remove(out)
-        for w in wavs:
+        for w in set(wavs+orig):
             if os.path.exists(w): os.remove(w)
         return None
     return round(dur)
