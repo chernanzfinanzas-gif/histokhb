@@ -758,6 +758,24 @@
     "francisco": "Francisco",
     "javier": "Javier",
     "coruña": "A Coruña"
+   },
+   "pv": {
+    "v": "set off",
+    "es": "salir, ponerse en camino (de viaje)",
+    "ex": "Un <i>phrasal verb</i> es un verbo con una partícula (off, out, up…) que cambia su significado: <i>set</i> es «poner», pero <b>set off</b> es «salir de viaje». Se usa mucho más que <i>depart</i> o <i>leave</i> al contar viajes.",
+    "ej": [
+     "The ship <b>set off</b> from A Coruña on 30 November 1803.",
+     "They <b>set off</b> with twenty-two children on board."
+    ],
+    "q": {
+     "q": "«They set off at dawn» significa…",
+     "o": [
+      "Se pusieron en camino al amanecer",
+      "Se quedaron en casa al amanecer",
+      "Lo apagaron al amanecer"
+     ],
+     "ok": 0
+    }
    }
   }
  ],
@@ -893,6 +911,46 @@
    "t": "El orden de la frase en inglés",
    "r": "sujeto + verbo + complemento"
   },
+  "imperativo": {
+   "n": "easy",
+   "t": "El imperativo: dar órdenes e instrucciones",
+   "r": "Listen. Don't stop."
+  },
+  "have-got": {
+   "n": "easy",
+   "t": "Have y have got",
+   "r": "the ship had two masts"
+  },
+  "like-ing": {
+   "n": "easy",
+   "t": "Like, love, hate + -ing",
+   "r": "he liked sailing"
+  },
+  "would-like": {
+   "n": "easy",
+   "t": "Would like: pedir y ofrecer",
+   "r": "would you like to try?"
+  },
+  "how-much-many": {
+   "n": "easy",
+   "t": "How much, how many, how long",
+   "r": "how many children?"
+  },
+  "indefinidos": {
+   "n": "easy",
+   "t": "Somebody, nothing, everyone, anywhere",
+   "r": "nobody could solve it"
+  },
+  "preguntas-wh": {
+   "n": "easy",
+   "t": "Preguntas con who, what, where, when, why",
+   "r": "Who was Balmis?"
+  },
+  "verbo-to-be": {
+   "n": "easy",
+   "t": "El verbo to be en presente",
+   "r": "he is a doctor, they are children"
+  },
   "presente-perfecto": {
    "n": "medium",
    "t": "El presente perfecto (have + participio)",
@@ -1009,6 +1067,41 @@
    "t": "Conectores: however, although, while, as a result",
    "r": "although it was dangerous…"
   },
+  "reflexivos": {
+   "n": "medium",
+   "t": "Pronombres reflexivos: myself, itself",
+   "r": "the vaccine itself"
+  },
+  "make-do": {
+   "n": "medium",
+   "t": "Make o do",
+   "r": "make a plan, do research"
+  },
+  "get": {
+   "n": "medium",
+   "t": "Los usos de get",
+   "r": "get ill, get better, get to America"
+  },
+  "finalidad": {
+   "n": "medium",
+   "t": "To e in order to: para qué",
+   "r": "to carry the vaccine"
+  },
+  "grado": {
+   "n": "medium",
+   "t": "Quite, rather, fairly, really",
+   "r": "quite dangerous"
+  },
+  "preguntas-indirectas": {
+   "n": "medium",
+   "t": "Preguntas indirectas",
+   "r": "nobody knew how it worked"
+  },
+  "estilo-indirecto-basico": {
+   "n": "medium",
+   "t": "Estilo indirecto sencillo",
+   "r": "the King said that…"
+  },
   "pasado-perfecto": {
    "n": "hard",
    "t": "El pasado perfecto (past perfect)",
@@ -1124,6 +1217,41 @@
    "n": "hard",
    "t": "Artículos con nombres de lugares y épocas",
    "r": "the Atlantic, Spain, the 18th century"
+  },
+  "percepcion": {
+   "n": "hard",
+   "t": "Verbos de percepción + -ing o infinitivo",
+   "r": "they saw the ship leave / leaving"
+  },
+  "adjetivos-compuestos": {
+   "n": "hard",
+   "t": "Adjetivos compuestos",
+   "r": "a two-month voyage, twenty-two children"
+  },
+  "was-to": {
+   "n": "hard",
+   "t": "Was to: el destino en el pasado",
+   "r": "he was to die in…"
+  },
+  "conectores-c1": {
+   "n": "hard",
+   "t": "Whereas, nevertheless, hence, thus",
+   "r": "nevertheless, it worked"
+  },
+  "it-adjetivo": {
+   "n": "hard",
+   "t": "It + adjetivo + that / to",
+   "r": "it is likely that…, it was impossible to…"
+  },
+  "formacion-palabras": {
+   "n": "hard",
+   "t": "Formación de palabras: prefijos y sufijos",
+   "r": "vaccinate → vaccination → unvaccinated"
+  },
+  "relativo-preposicion": {
+   "n": "hard",
+   "t": "Relativos con preposición: in which, by whom",
+   "r": "the method by which…"
   }
  }
 }
