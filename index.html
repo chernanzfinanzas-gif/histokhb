@@ -67,7 +67,7 @@ body.sec-scr{--barra:43px}
 .bs-btn{border:0;border-radius:999px;padding:8px 16px;font:700 14px/1 var(--f-body,inherit);background:var(--accent);color:#fff;cursor:pointer}
 .bs-volver{visibility:hidden}body.cal-dentro .bs-volver{visibility:visible}.bs-cerrar{margin-left:auto}
 @media(min-width:900px){.barra-sec{padding-left:calc(50% - 370px);padding-right:calc(50% - 370px)}}
-.nav{position:fixed;left:0;right:0;bottom:0;z-index:45;display:grid;grid-template-columns:repeat(5,1fr);background:#fff;border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom)}
+.nav{position:fixed;left:0;right:0;bottom:0;z-index:45;display:grid;grid-template-columns:repeat(6,1fr);background:#fff;border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom)}
 .nav a{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:1px;height:var(--nav);text-decoration:none;color:var(--muted);font-family:var(--f-head);font-weight:600;font-size:12px}
 .nav a .i{font-size:21px;line-height:1.1;filter:grayscale(.6);opacity:.8}
 .nav a.on{color:var(--ink)}
@@ -384,6 +384,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .inggt{margin:2px 0 8px;font-size:21px;line-height:1.25;color:#5b3f80}
 .ingpv{background:#eef5f3;border:1px solid #c9e0da;border-radius:12px;padding:10px 12px;margin-top:14px}.ingpv .et{font-size:12px;color:#2f6f60;font-weight:700;text-transform:uppercase;letter-spacing:.04em}.ingpv h3{margin:4px 0 0;font-size:22px}.ingpves{margin:0 0 6px;color:#2f6f60;font-weight:600}
 .inggc{background:#fff;border:1px solid var(--line);border-left:4px solid #7a5c9e;border-radius:12px;padding:9px 12px;margin:6px 0;cursor:pointer}.inggc.pend{cursor:default;opacity:.55;border-left-color:var(--line)}.inggc b{display:block}.inggc span{display:block;font-size:13px;color:var(--muted)}.inggc .inggu{font-size:12px;margin-top:2px}
+.big.ingdest{background:linear-gradient(135deg,#fff 55%,#eef3fb);border:2px solid #7aa5d6;align-items:center}.big.ingdest img{flex:0 0 70px;height:auto}.big .nuevo{display:inline-block;background:#c0392b;color:#fff;font-size:11px;font-weight:800;letter-spacing:.06em;border-radius:6px;padding:1px 7px;margin-bottom:3px}
 .ingptos{text-align:center;font-size:15px;margin:2px 0 0;color:var(--ink)}.ingok{margin-left:auto;font-size:12px;font-weight:700;color:#4a7c4e;white-space:nowrap}.ingok.nuevo{animation:ingpop .6s}@keyframes ingpop{0%{transform:scale(1.6)}100%{transform:scale(1)}}
 .ingchk{display:flex;gap:8px;align-items:center;font-size:14px;background:#fdf8ee;border:1px solid var(--line);border-radius:10px;padding:8px 10px;margin:0 0 8px;cursor:pointer}.ingchk input{width:18px;height:18px;flex:0 0 18px}.ingchk i{color:var(--muted)}
 .ingsubt{font-weight:700;margin:14px 0 2px}.ingprefiero{margin-top:12px;width:100%}.ingp.plegado>:not(.ingh):not(.ingchk){display:none}.ingp.plegado .ingh{cursor:pointer}
@@ -577,6 +578,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <div class="seg lvhome lvsel" id="segHome"><button data-l="n">🧒 Niños</button><button data-l="g">📘 General</button><button data-l="p">🎓 Profundo</button></div>
   <div class="eras" id="eras"></div>
   <div class="sec-t">Hoy en HistoKHB - Historia Total</div>
+  <button class="big ingdest" onclick="go('#/ingles')"><img src="img/ammo/ammo-ingles.webp" alt="" width="70" height="80"><div><span class="nuevo">NUEVO</span><h3>Inglés con historia</h3><p>Escucha la historia de España en inglés, con voz real y en tres niveles. Toca cualquier palabra, aprende gramática y cuéntala tú. Una historia nueva cada lunes, miércoles y viernes.</p></div></button>
   <button class="big" onclick="go('#/reto')"><span class="bi" id="retoIco">🏆</span><div><h3>Reto del día</h3><p id="retoMini">5 preguntas nuevas cada día. ¿Cuántas aciertas?</p></div></button>
   <div id="hdia"></div>
   <div id="semana0"></div>
@@ -584,7 +586,6 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <div class="sec-t">Otras formas de explorar</div>
   <button class="big" onclick="go('#/mundo')"><span class="bi">🌍</span><div><h3>El mundo a la vez</h3><p>¿Qué pasaba en China mientras caía Roma? Compara todas las civilizaciones, año a año.</p></div></button>
   <button class="big" onclick="go('#/calendario')"><span class="bi">📅</span><div><h3>La historia en un año</h3><p>Si todo el universo cupiera en un año, ¿qué día llegamos nosotros? Spoiler: el 31 de diciembre, casi a medianoche.</p></div></button>
-  <button class="big" onclick="go('#/ingles')"><span class="bi"><img src="img/ammo/ammo-ingles.webp" alt="" width="44" height="50" style="display:block"></span><div><h3>Inglés con historia</h3><p>Repasa inglés escuchando la historia de España: tres niveles, preguntas, repetir en voz alta y contarlo tú.</p></div></button>
   <button class="big" onclick="go('#/aqui')"><span class="bi">📍</span><div><h3>¿Qué pasó donde estás?</h3><p>Tu móvil te sitúa y la app te cuenta la historia del lugar que pisas.</p></div></button>
   <button class="big" onclick="go('#/favs')"><span class="bi">⭐</span><div><h3>Guardados</h3><p id="favMini">Las historias que marques con ☆.</p></div></button>
   <div id="favs0" class="hide"></div>
@@ -710,6 +711,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
  <a href="#/epoca" data-n="epoca"><span class="i">📜</span>Épocas</a>
  <a href="#/mundo" data-n="mundo"><span class="i">🌍</span>El mundo</a>
  <a href="#/reto" data-n="reto"><span class="i">🏆</span>Reto</a>
+ <a href="#/ingles" data-n="ingles"><span class="i"><img src="img/ammo/ammo-ingles.webp" alt="" width="24" height="27" style="display:block;margin:0 auto"></span>Inglés</a>
  <a href="#/aqui" data-n="aqui"><span class="i">📍</span>Aquí</a>
 </nav>
 
@@ -1849,7 +1851,7 @@ function vParada(cat,pts){
  if(cat==='n'){const C=IDX.capitulos, i=Math.min(C.length-1,Math.floor(pts/3)); return {tot:C.length*3,fin:pts>=C.length*3,t:C[i].t,h:'#/epoca/'+C[i].sec+'/'+C[i].id};}
  const F=IDX.capitulos.flatMap(c=>c.f), i=Math.min(F.length-1,pts), f=IDX.fichas[F[i]]; return {tot:F.length,fin:pts>=F.length,t:f?f.t:'',h:'#/f/'+F[i]};}
 // 📣 Anuncio de una sola vez al abrir la app (se cambia la clave para un anuncio nuevo)
-const ANUNCIO={k:'hk_anuncio_viaje1',img:'img/ammo/ammo-celebra.webp',t:'¡Novedades en el reto!',p:'Nuevas normas, más desafío: cada reto te hace avanzar por la historia, del Big Bang a hoy. ¡Sé el primero en alcanzar la actualidad!',ir:'#/reto',btn:'🏆 Ir al reto'};
+const ANUNCIO={k:'hk_anuncio_ingles1',img:'img/ammo/ammo-ingles.webp',t:'¡Nuevo! Inglés con historia',p:'Practica inglés con la historia de España. Escúchala con voz real, en tres niveles, y toca cualquier palabra para saber qué significa. Cada historia trae una clase de gramática, un phrasal verb y ejercicios para que la cuentes tú, con puntos por cada bloque. Una historia nueva cada lunes, miércoles y viernes. La primera: los niños que llevaron la vacuna a América.',ir:'#/ingles/balmis',btn:'🎧 Probar la primera historia'};
 let ANUN_VISTO=false;
 function anuncio(){if(ANUN_VISTO||LS.get(ANUNCIO.k,false)||document.getElementById('anuncio'))return;
  document.body.insertAdjacentHTML('beforeend',`<div id="anuncio" class="anun-fondo" onclick="if(event.target===this)anuncioCierra()"><div class="anun"><img src="${ANUNCIO.img}" alt="" width="120" height="140"><h3>${ANUNCIO.t}</h3><p>${ANUNCIO.p}</p><div class="rbtns"><button class="btn" onclick="anuncioCierra();go('${ANUNCIO.ir}')">${ANUNCIO.btn}</button></div><div class="rbtns"><button class="btn sec" onclick="anuncioCierra()">Cerrar</button></div></div></div>`);}
@@ -1972,7 +1974,7 @@ async function ingDatos(){if(!ING){try{ING=await getJ('ingles.json');}catch(e){I
 async function renderIngles(id){lastScreen='ingles';show('ingles');const D=await ingDatos();
  if(id==='gramatica'){ingGramPag(D);return;}
  if(!id){const GG=D.gram||{},vis=new Set();D.temas.forEach(t=>Object.values(t.niveles).forEach(n=>n.gram&&vis.add(n.gram.id)));
-  $('#ingBox').innerHTML='<img class="ammo-der" src="img/ammo/ammo-ingles.webp" alt="" width="96" height="110"><div class="sec-t" style="margin-top:6px">🇬🇧 Inglés con historia</div><p class="rt">Repasa inglés con la historia de España: escucha, contesta, repite y cuéntalo tú. Cada historia tiene tres niveles; entra por el que te apetezca hoy.</p>'+
+  $('#ingBox').innerHTML='<img class="ammo-der" src="img/ammo/ammo-ingles.webp" alt="" width="96" height="110"><div class="sec-t" style="margin-top:6px">🎧 Inglés con historia</div><p class="rt">Repasa inglés con la historia de España: escucha, contesta, repite y cuéntalo tú. Cada historia tiene tres niveles; entra por el que te apetezca hoy.</p>'+
   `<button class="big" onclick="go('#/ingles/gramatica')"><span class="bi">📚</span><div><h3>Clases de gramática</h3><p>${vis.size} de ${Object.keys(GG).length} clases vistas en las historias</p></div></button>`+
    D.temas.slice().reverse().map(t=>{const P=ingPtsTodo(),pt=['easy','medium','hard'].reduce((a,k)=>a+Object.values(P[t.id+'-'+k]||{}).reduce((x,y)=>x+y,0),0);return `<button class="big" onclick="go('#/ingles/${t.id}')">${t.lam?`<img class="ingmini" src="${t.lam}" alt="" loading="lazy">`:'<span class="bi">🎧</span>'}<div><h3>${esc(t.tEN)}</h3><p>${esc(t.tES)}${t.fecha?' · '+esc(t.fecha):''}${pt?` · ⭐ ${pt} puntos`:''}</p></div></button>`;}).join('')||'<p class="empty-st">Pronto habrá historias.</p>';return;}
  const T=D.temas.find(t=>t.id===id); if(!T){go('#/ingles');return;}
@@ -1983,7 +1985,7 @@ const ING_K={easy:'🌱 Aprendiendo',medium:'📘 Básicos',hard:'🎓 Grandes'}
 function ingPinta(){const T=ingT(),n=ingN(); ingPara();
  const LAB={0:0,1:1,3:2,4:3,G:'G',5:4,6:5,7:6};   // id interno → número que se ve (el 1 y el 2 van juntos desde el 10-nov)
  const paso=(i,t,s,body)=>`<div class="ingp" id="ip${i}"><div class="ingh"><span class="ingn${i===7?' fin':''}${i==='G'?' gram':''}">${LAB[i]}</span><b>${t}</b><span class="ingok" id="ipb${i}"></span></div><p class="ings">${s}</p>${body}</div>`;
- let h=`<div class="sec-t" style="margin-top:6px"><a href="#/ingles" style="color:inherit">🇬🇧 Inglés con historia</a></div>
+ let h=`<div class="sec-t" style="margin-top:6px"><a href="#/ingles" style="color:inherit">🎧 Inglés con historia</a></div>
 ${(T.lam||T.viva)?`<div class="ingill">${T.viva&&!(navigator.connection&&navigator.connection.saveData)&&!matchMedia('(prefers-reduced-motion: reduce)').matches?`<video src="${T.viva}" poster="${T.lam||''}" autoplay muted loop playsinline preload="metadata"></video>`:`<img src="${T.lam}" alt="" loading="lazy">`}</div>`:''}
  <div class="seg" id="ingSeg">${Object.keys(ING_K).map(k=>`<button data-k="${k}" class="${k===IG.k?'on':''}">${ING_K[k]}</button>`).join('')}</div>
  <div id="ingVozBox" class="ingvoz">Comprobando las voces…</div>
@@ -2039,7 +2041,7 @@ function ingRep(abrir,extra,cierre){const n=ingN();
 
 function ingGramPag(D){const GG=D.gram||{},uso={};D.temas.forEach(t=>Object.entries(t.niveles).forEach(([k,n])=>{if(n.gram)(uso[n.gram.id]=uso[n.gram.id]||[]).push([t,k]);}));
  const P=ingPtsTodo();
- $('#ingBox').innerHTML=`<div class="sec-t" style="margin-top:6px"><a href="#/ingles" style="color:inherit">🇬🇧 Inglés con historia</a> › Gramática</div><p class="rt">El temario de gramática. Cada historia da una clase de cada nivel, sacada de su propio texto; con el tiempo se completan todas.</p>`+
+ $('#ingBox').innerHTML=`<div class="sec-t" style="margin-top:6px"><a href="#/ingles" style="color:inherit">🎧 Inglés con historia</a> › Gramática</div><p class="rt">El temario de gramática. Cada historia da una clase de cada nivel, sacada de su propio texto; con el tiempo se completan todas.</p>`+
  (()=>{const H=LS.get('hk_ing_hechas',{g:{},pv:{}}),g=Object.entries(H.g||{}),v=Object.entries(H.pv||{});
   return `<div class="sec-t">✅ Tus clases hechas</div>`+(g.length||v.length?`<div class="inghechas">${g.sort((a,b)=>a[1]<b[1]?1:-1).map(([id,f])=>`<p>📘 ${esc((GG[id]||{}).t||id)} <span>${ingFecha(f)}</span></p>`).join('')}${v.sort((a,b)=>a[1]<b[1]?1:-1).map(([w,f])=>`<p>🔗 ${esc(w)} <span>${ingFecha(f)}</span></p>`).join('')}<p class="ingnota">${g.length} de ${Object.keys(GG).length} clases de gramática · ${v.length} phrasal verbs. Se guardan en este móvil y viajan con tu código.</p></div>`:'<p class="rt">Todavía ninguna. Cuando aciertes las preguntas de un rincón de gramática o de un phrasal verb, aparecerá aquí.</p>');})()+
  `<div class="sec-t">🔗 Phrasal verbs</div>`+(D.temas.filter(t=>t.pv).map(t=>{const hecho=['easy','medium','hard'].some(k=>(P[t.id+'-'+k]||{}).Gp);return `<div class="inggc" onclick="IG.t=null;go('#/ingles/${t.id}');setTimeout(()=>{const e=$('#ipG');if(e)e.scrollIntoView({block:'start'})},400)"><b>${hecho?'✓ ':''}${esc(t.pv.v)}</b><span>${esc(t.pv.es)}</span><span class="inggu">En: ${esc(t.tEN)}</span></div>`;}).join('')||'<p class="rt">Cada historia trae uno.</p>')+
