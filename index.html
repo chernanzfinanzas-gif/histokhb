@@ -379,6 +379,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .ingta{width:100%;min-height:90px;border:1.5px solid var(--line);border-radius:12px;padding:10px;font:inherit;background:var(--bg)}
 .ingcorr{font-size:15px;line-height:1.8;margin-top:8px}.ingcorr .err{background:#f9e3de;border-bottom:2px solid #9c3b2e;border-radius:3px}.ingko{color:#9c3b2e}
 .inglista{list-style:none;padding:0;font-size:14px}.inglista li{border-left:3px solid var(--accent);background:#fdf8ee;padding:6px 10px;margin:5px 0;border-radius:0 8px 8px 0}.inglista li b{color:#9c3b2e}.inglista li i{color:#4a7c4e;font-style:normal;font-weight:700}.inglista li span{display:block;color:var(--muted);font-size:13px}.inglista li.okl{border-left-color:#4a7c4e}
+.ingn.gram{background:#7a5c9e}.ingex{margin:0 0 8px;line-height:1.5}.ingej{background:#f6f1fa;border-left:3px solid #7a5c9e;border-radius:0 10px 10px 0;padding:6px 12px;margin:0 0 6px}.ingej p{margin:5px 0}.ingej b{color:#5b3f80}
 .ingcuenta{font-size:13px;color:var(--muted);margin:4px 0 0}.ingcuenta.ok{color:#4a7c4e;font-weight:700}
 .ingtrad{border-top:1px dashed var(--line);padding-top:10px;margin-top:10px}.ingtrad:first-of-type{border-top:0;margin-top:0;padding-top:0}.ingesp{font-size:17px;font-weight:600;margin:0 0 6px}.ingta1{min-height:56px}.ingoir{background:none;border:0;cursor:pointer;font-size:16px}
 .ingmod{background:#eef3ec;border:1px solid #cfdcc9;border-radius:12px;padding:10px 12px;margin-top:10px}.ingmod .et{font-size:12px;color:#4a7c4e;font-weight:700;text-transform:uppercase;letter-spacing:.05em}.ingmod p{margin:4px 0 0}
@@ -1966,7 +1967,7 @@ async function renderIngles(id){lastScreen='ingles';show('ingles');const D=await
 const ingT=()=>ING.temas.find(t=>t.id===IG.t), ingN=()=>ingT().niveles[IG.k], ingTxt=n=>n.fr.map(f=>f[0]).join(' ');
 const ING_K={easy:'🌱 Aprendiendo',medium:'📘 Básicos',hard:'🎓 Grandes'};
 function ingPinta(){const T=ingT(),n=ingN(); ingPara();
- const paso=(i,t,s,body,off)=>`<div class="ingp${off?' off':''}" id="ip${i}"><div class="ingh"><span class="ingn${i===7?' fin':''}">${i}</span><b>${t}</b></div><p class="ings">${s}</p>${body}</div>`;
+ const paso=(i,t,s,body,off)=>`<div class="ingp${off?' off':''}" id="ip${i}"><div class="ingh"><span class="ingn${i===7?' fin':''}${i==='G'?' gram':''}">${i}</span><b>${t}</b></div><p class="ings">${s}</p>${body}</div>`;
  let h=`<div class="sec-t" style="margin-top:6px"><a href="#/ingles" style="color:inherit">🇬🇧 Inglés con historia</a></div>
 ${(T.lam||T.viva)?`<div class="ingill">${T.viva&&!(navigator.connection&&navigator.connection.saveData)&&!matchMedia('(prefers-reduced-motion: reduce)').matches?`<video src="${T.viva}" poster="${T.lam||''}" autoplay muted loop playsinline preload="metadata"></video>`:`<img src="${T.lam}" alt="" loading="lazy">`}</div>`:''}
  <div class="seg" id="ingSeg">${Object.keys(ING_K).map(k=>`<button data-k="${k}" class="${k===IG.k?'on':''}">${ING_K[k]}</button>`).join('')}</div>
@@ -1981,6 +1982,7 @@ ${(T.lam||T.viva)?`<div class="ingill">${T.viva&&!(navigator.connection&&navigat
  h+=paso(3,'Listen and read','▶ oye una frase sola, ES la traduce y cualquier palabra pulsada te dice qué significa.',
   `${ingRep(4,'<button class="btn sec" id="ingEsB" onclick="ingEs()">Ver el castellano</button>')}<div id="ingTexto">${n.fr.map((f,i)=>`<p class="ingfr" data-i="${i}"><button class="ingpl" title="Oír la frase" onclick="ingOir(${i},4)">▶</button><span class="en">${ingPal(f[0],n)}</span><button class="ingtr" title="Traducir esta frase" onclick="this.parentNode.classList.toggle('abierta')">ES</button><span class="es">${esc(f[1])}</span></p>`).join('')}</div>`,1);
  h+=paso(4,'Now the details','Fechas, nombres y cifras. Distintas de las de antes.','<div id="ingDet"></div>',1);
+ if(n.gram)h+=paso('G','Grammar corner',esc(n.gram.t),`<p class="ingex">${n.gram.ex}</p><div class="ingej">${n.gram.ej.map(x=>`<p>${x}</p>`).join('')}</div><div id="ingGram"></div>`,1);
  h+=paso(5,'Shadowing','Oye una frase y repítela imitándola, sin pensar en la gramática.',
   `<div class="ingb"><button class="btn sec" onclick="ingOir(IG.fr,6)">▶ Oír la frase</button><button class="btn" onclick="ingRepite()">🎙 Repetirla</button><button class="btn sec" onclick="IG.fr=(IG.fr+1)%ingN().fr.length;ingFrase()">Otra frase →</button></div><p class="ingfrase" id="ingFr"></p><div class="ingcmp" id="ingFrCmp"></div>`,1);
  const minP={easy:25,medium:50,hard:80}[IG.k];
@@ -1992,8 +1994,8 @@ ${(T.lam||T.viva)?`<div class="ingill">${T.viva&&!(navigator.connection&&navigat
  h+=`<div class="inggancho"><p>${esc(n.gancho)}</p>${T.des?`<button class="btn" onclick="go('#/d/${T.des}')">Leer la historia completa en castellano →</button>`:''}</div>`;
  $('#ingBox').innerHTML=h;
  $('#ingSeg').querySelectorAll('button').forEach(b=>b.onclick=()=>{IG.k=b.dataset.k;IG.esc=0;IG.fr=0;LS.set('hk_ing_k',IG.k);ingPinta();});
- ingPreg('ingGist',n.gist,3); ingPreg('ingDet',n.det,5); ingFrase(); ingVozUI(); setTimeout(ingVozUI,700);}
-const ingAbre=i=>{const e=$('#ip'+i);if(e)e.classList.remove('off');};
+ ingPreg('ingGist',n.gist,3); ingPreg('ingDet',n.det,n.gram?'G':5); if(n.gram)ingPreg('ingGram',n.gram.q,5); ingFrase(); ingVozUI(); setTimeout(ingVozUI,700);}
+const ingAbre=i=>{const e=$('#ip'+i);if(e)e.classList.remove('off');};   // 'G' = rincón de gramática, entre el 4 y el 5
 // ---- audio: el grabado (AI Studio) si lo hay; si no, la voz inglesa del navegador ----
 let ING_VOZ=null;
 function ingVoces(){const S=window.speechSynthesis;if(!S)return [];const en=S.getVoices().filter(v=>/^en/i.test(v.lang));en.sort((a,b)=>(/natural|google/i.test(b.name)?1:0)-(/natural|google/i.test(a.name)?1:0));return en;}
@@ -2053,7 +2055,7 @@ function ingPreg(cont,lista,abrir){const c=$('#'+cont);let hechas=0,bien=0;
  c.innerHTML=lista.map((p,n)=>`<div class="ingq" data-n="${n}"><p>${n+1}. ${esc(p.q)}</p>${p.o.map((o,i)=>`<button class="res" data-i="${i}">${esc(o)}</button>`).join('')}</div>`).join('');
  c.querySelectorAll('.ingq').forEach(d=>{const p=lista[+d.dataset.n];d.querySelectorAll('button').forEach(b=>b.onclick=()=>{if(d.dataset.done)return;d.dataset.done=1;hechas++;const i=+b.dataset.i;
   if(i===p.ok){b.classList.add('bien');bien++;}else{b.classList.add('mal');d.querySelectorAll('button')[p.ok].classList.add('bien');}
-  if(hechas===lista.length){c.insertAdjacentHTML('beforeend',`<p class="ingnota">Aciertos: ${bien} de ${lista.length}${bien*2<lista.length?' — si en la primera escucha coges menos de la mitad, baja de nivel: no es el orden, es el nivel.':''}</p>`);ingAbre(abrir);}});});}
+  if(hechas===lista.length){c.insertAdjacentHTML('beforeend',`<p class="ingnota">Aciertos: ${bien} de ${lista.length}${bien*2<lista.length&&cont==='ingGist'?' — si en la primera escucha coges menos de la mitad, baja de nivel: no es el orden, es el nivel.':''}</p>`);ingAbre(abrir);}});});}
 function ingFrase(){const e=$('#ingFr');if(e)e.innerHTML=ingPal(ingN().fr[IG.fr][0],ingN());const c=$('#ingFrCmp');if(c)c.innerHTML='';}
 const ingNorm=t=>t.toLowerCase().replace(/[^a-z0-9'\s]/g,' ').split(/\s+/).filter(Boolean);
 function ingCompara(dicho,obj,dest,nota){const a=ingNorm(dicho),b=ingNorm(obj),us=new Set();let ac=0;

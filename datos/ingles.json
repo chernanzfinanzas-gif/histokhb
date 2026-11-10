@@ -148,7 +148,36 @@
        "La nueva vacuna solo duraba unos pocos días.",
        "The new vaccine only lasted a few days."
       ]
-     ]
+     ],
+     "gram": {
+      "t": "El pasado simple (past simple)",
+      "ex": "Para contar lo que pasó se usa el pasado simple. Los verbos regulares añaden <b>-ed</b>: <i>kill → killed</i>, <i>notice → noticed</i>. Los irregulares cambian y hay que aprenderlos: <i>have → had</i>, <i>lose → lost</i>, <i>say → said</i>, <i>catch → caught</i>. Es igual para todas las personas: I, he, they… <b>killed</b>.",
+      "ej": [
+       "Smallpox <b>killed</b> thousands of people every year.",
+       "Many people who survived the disease <b>lost</b> their sight.",
+       "His name was Balmis, and the King <b>said</b> yes."
+      ],
+      "q": [
+       {
+        "q": "Then an English country doctor ___ something strange. (notice)",
+        "o": [
+         "noticed",
+         "noticing",
+         "notice"
+        ],
+        "ok": 0
+       },
+       {
+        "q": "People who ___ a mild illness from cows never caught smallpox. (catch)",
+        "o": [
+         "catched",
+         "caught",
+         "catching"
+        ],
+        "ok": 1
+       }
+      ]
+     }
     },
     "medium": {
      "et": "Conocimientos básicos",
@@ -304,7 +333,36 @@
        "España dio sus primeras vacunas cuatro años después, en un pueblo pequeño.",
        "Spain gave its first vaccinations four years later, in a small town."
       ]
-     ]
+     ],
+     "gram": {
+      "t": "Could y would para hablar del pasado",
+      "ex": "<b>Could</b> es el pasado de <i>can</i>: lo que se podía o no se podía hacer. <b>Would</b> sirve para hablar del futuro visto desde el pasado, lo que <i>iba a</i> pasar según un plan. Los dos van seguidos del verbo sin <i>to</i>: <i>could travel</i>, <i>would carry</i>.",
+      "ej": [
+       "But the vaccine itself <b>could not</b> travel. → <i>no podía viajar</i>",
+       "Nothing <b>could</b> be kept cold. → <i>no se podía conservar</i>",
+       "Instead of carrying the fluid, they <b>would</b> carry it alive. → <i>iban a llevarla viva</i>"
+      ],
+      "q": [
+       {
+        "q": "In 1803 people ___ not keep things cold for weeks.",
+        "o": [
+         "would",
+         "could",
+         "can"
+        ],
+        "ok": 1
+       },
+       {
+        "q": "«They would carry it alive» significa…",
+        "o": [
+         "Podían llevarla viva",
+         "Iban a llevarla viva",
+         "La llevaban siempre viva"
+        ],
+        "ok": 1
+       }
+      ]
+     }
     },
     "hard": {
      "et": "Grandes conocimientos",
@@ -467,7 +525,36 @@
        "Todos los intentos anteriores de llevar la vacuna a través del Atlántico habían fracasado.",
        "Every earlier attempt to carry the vaccine across the Atlantic had failed."
       ]
-     ]
+     ],
+     "gram": {
+      "t": "El pasado perfecto (past perfect)",
+      "ex": "Se forma con <b>had + participio</b> y sirve para algo que ya había pasado <i>antes</i> de otro momento del pasado. En historia es muy útil para dar el contexto de lo que se cuenta. Con <i>never</i> o <i>already</i>, estas palabras van entre <i>had</i> y el participio.",
+      "ej": [
+       "Balmis, who <b>had served</b> in New Spain and <b>had translated</b> a French treatise…",
+       "Children who <b>had never contracted</b> smallpox would be vaccinated in pairs.",
+       "Every attempt to carry it to America <b>had failed</b>."
+      ],
+      "q": [
+       {
+        "q": "By 1803 Balmis ___ a French treatise on the vaccine.",
+        "o": [
+         "has translated",
+         "had translated",
+         "translated had"
+        ],
+        "ok": 1
+       },
+       {
+        "q": "The children ___ smallpox before the voyage.",
+        "o": [
+         "had never contracted",
+         "never had contract",
+         "have never contracted"
+        ],
+        "ok": 0
+       }
+      ]
+     }
     }
    },
    "lam": "img/laminas/des-balmis.webp",
