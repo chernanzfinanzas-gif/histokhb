@@ -762,46 +762,156 @@
   }
  ],
  "gram": {
-  "pasado-simple": {
+  "presente-simple": {
    "n": "easy",
-   "t": "El pasado simple (past simple)",
-   "r": "killed, noticed / had, lost, said",
-   "ex": "Para contar lo que pasó se usa el pasado simple. Los verbos regulares añaden <b>-ed</b>: <i>kill → killed</i>, <i>notice → noticed</i>. Los irregulares cambian y hay que aprenderlos: <i>have → had</i>, <i>lose → lost</i>, <i>say → said</i>, <i>catch → caught</i>. Es igual para todas las personas: I, he, they… <b>killed</b>."
+   "t": "El presente simple para hechos y costumbres",
+   "r": "the word comes from Latin; cows give milk"
+  },
+  "presente-continuo": {
+   "n": "easy",
+   "t": "El presente continuo: lo que pasa ahora",
+   "r": "the doctor is waiting"
+  },
+  "articulos": {
+   "n": "easy",
+   "t": "Artículos: a, an, the y sin artículo",
+   "r": "a doctor, an idea, the King, people"
+  },
+  "plurales": {
+   "n": "easy",
+   "t": "Plurales y plurales irregulares",
+   "r": "children, people, men, women"
+  },
+  "pronombres": {
+   "n": "easy",
+   "t": "Pronombres y posesivos",
+   "r": "he / him / his; they / them / their"
+  },
+  "this-that": {
+   "n": "easy",
+   "t": "This, that, these, those",
+   "r": "this ship, those children"
+  },
+  "genitivo": {
+   "n": "easy",
+   "t": "El genitivo 's",
+   "r": "Jenner's discovery, the King's ship"
   },
   "was-were": {
    "n": "easy",
    "t": "Was y were",
    "r": "the problem was…, they were…"
   },
+  "pasado-simple": {
+   "n": "easy",
+   "t": "El pasado simple (past simple)",
+   "r": "killed, noticed / had, lost, said",
+   "ex": "Para contar lo que pasó se usa el pasado simple. Los verbos regulares añaden <b>-ed</b>: <i>kill → killed</i>, <i>notice → noticed</i>. Los irregulares cambian y hay que aprenderlos: <i>have → had</i>, <i>lose → lost</i>, <i>say → said</i>, <i>catch → caught</i>. Es igual para todas las personas: I, he, they… <b>killed</b>."
+  },
+  "irregulares": {
+   "n": "easy",
+   "t": "Los verbos irregulares más usados",
+   "r": "go → went, take → took, give → gave"
+  },
+  "pasado-continuo": {
+   "n": "easy",
+   "t": "El pasado continuo",
+   "r": "they were sailing when…"
+  },
   "there-was": {
    "n": "easy",
-   "t": "There was / there were (había)",
+   "t": "There is / there was (hay, había)",
    "r": "there were twenty-two children"
   },
   "preguntas-did": {
    "n": "easy",
-   "t": "Preguntas en pasado con did",
-   "r": "Did he…? What did they…?"
+   "t": "Preguntas y negativas en pasado con did",
+   "r": "Did he…? He didn't…"
+  },
+  "can-could": {
+   "n": "easy",
+   "t": "Can y could: poder",
+   "r": "the vaccine could not travel"
+  },
+  "must-have-to": {
+   "n": "easy",
+   "t": "Must y have to: obligación",
+   "r": "they had to keep it alive"
+  },
+  "futuro-will-going": {
+   "n": "easy",
+   "t": "Will y going to para el futuro",
+   "r": "it will work / they are going to sail"
   },
   "comparativos": {
    "n": "easy",
    "t": "Comparativos y superlativos",
    "r": "bigger, the biggest, more important"
   },
+  "adverbios-frecuencia": {
+   "n": "easy",
+   "t": "Adverbios de frecuencia",
+   "r": "always, often, never"
+  },
+  "adj-adv": {
+   "n": "easy",
+   "t": "Adjetivos y adverbios en -ly",
+   "r": "slow → slowly, careful → carefully"
+  },
+  "cantidades": {
+   "n": "easy",
+   "t": "Much, many, a few, a lot of, some, any",
+   "r": "many people, a few days"
+  },
+  "contables": {
+   "n": "easy",
+   "t": "Contables e incontables",
+   "r": "information, advice, two ships"
+  },
   "prep-tiempo": {
    "n": "easy",
    "t": "In, on, at con fechas y horas",
    "r": "in 1803, on 30 November, at night"
   },
-  "cantidades": {
+  "prep-lugar": {
    "n": "easy",
-   "t": "Much, many, a few, a lot of",
-   "r": "many people, a few days"
+   "t": "Preposiciones de lugar y movimiento",
+   "r": "on board, across the sea, to America"
   },
-  "presente-simple": {
+  "conectores-basicos": {
    "n": "easy",
-   "t": "El presente simple para hechos",
-   "r": "the word comes from Latin"
+   "t": "Conectores: and, but, because, so",
+   "r": "it lasted a few days, so…"
+  },
+  "numeros-fechas": {
+   "n": "easy",
+   "t": "Números, ordinales y fechas",
+   "r": "the eighteenth century, 30 November 1803"
+  },
+  "orden-frase": {
+   "n": "easy",
+   "t": "El orden de la frase en inglés",
+   "r": "sujeto + verbo + complemento"
+  },
+  "presente-perfecto": {
+   "n": "medium",
+   "t": "El presente perfecto (have + participio)",
+   "r": "has changed, have found"
+  },
+  "perfecto-vs-pasado": {
+   "n": "medium",
+   "t": "Presente perfecto o pasado simple",
+   "r": "has saved / saved in 1803"
+  },
+  "for-since-ago": {
+   "n": "medium",
+   "t": "For, since y ago",
+   "r": "for ten years, since 1803, 200 years ago"
+  },
+  "perfecto-continuo": {
+   "n": "medium",
+   "t": "El presente perfecto continuo",
+   "r": "they have been working for…"
   },
   "could-would": {
    "n": "medium",
@@ -809,24 +919,29 @@
    "r": "could not travel / would carry",
    "ex": "<b>Could</b> es el pasado de <i>can</i>: lo que se podía o no se podía hacer. <b>Would</b> sirve para hablar del futuro visto desde el pasado, lo que <i>iba a</i> pasar según un plan. Los dos van seguidos del verbo sin <i>to</i>: <i>could travel</i>, <i>would carry</i>."
   },
-  "presente-perfecto": {
+  "used-to": {
    "n": "medium",
-   "t": "El presente perfecto (have + participio)",
-   "r": "has changed, have found"
+   "t": "Used to: costumbres del pasado",
+   "r": "people used to die of smallpox"
+  },
+  "was-going-to": {
+   "n": "medium",
+   "t": "Was going to: planes en el pasado",
+   "r": "they were going to sail…"
+  },
+  "futuros": {
+   "n": "medium",
+   "t": "Los tres futuros: will, going to y presente continuo",
+   "r": "we leave tomorrow"
   },
   "pasiva-simple": {
    "n": "medium",
    "t": "La pasiva sencilla",
    "r": "was built, were vaccinated"
   },
-  "used-to": {
-   "n": "medium",
-   "t": "Used to: costumbres del pasado",
-   "r": "people used to die of smallpox"
-  },
   "relativos": {
    "n": "medium",
-   "t": "Who, which, that, where",
+   "t": "Who, which, that, where, whose",
    "r": "a doctor who…, the ship that…"
   },
   "condicional-1-2": {
@@ -834,15 +949,65 @@
    "t": "Condicionales primero y segundo",
    "r": "if it travels… / if it could travel…"
   },
-  "was-going-to": {
+  "may-might": {
    "n": "medium",
-   "t": "Was going to: planes en el pasado",
-   "r": "they were going to sail…"
+   "t": "May, might y could: posibilidad",
+   "r": "it might fail"
+  },
+  "should": {
+   "n": "medium",
+   "t": "Should y ought to: consejo",
+   "r": "you should rest"
   },
   "gerundio-infinitivo": {
    "n": "medium",
    "t": "Gerundio o infinitivo después de un verbo",
    "r": "stopped trying / decided to go"
+  },
+  "verbos-preposicion": {
+   "n": "medium",
+   "t": "Verbos con preposición",
+   "r": "depend on, arrive in, look for"
+  },
+  "phrasal-verbs": {
+   "n": "medium",
+   "t": "Phrasal verbs frecuentes",
+   "r": "set off, carry on, find out"
+  },
+  "too-enough": {
+   "n": "medium",
+   "t": "Too y enough",
+   "r": "too far, not cold enough"
+  },
+  "so-such": {
+   "n": "medium",
+   "t": "So y such",
+   "r": "so far away, such a long voyage"
+  },
+  "both-either": {
+   "n": "medium",
+   "t": "Both, either, neither",
+   "r": "both ships, neither of them"
+  },
+  "ed-ing": {
+   "n": "medium",
+   "t": "Adjetivos en -ed y en -ing",
+   "r": "surprised / surprising"
+  },
+  "as-as": {
+   "n": "medium",
+   "t": "Comparaciones con as… as",
+   "r": "as dangerous as"
+  },
+  "question-tags": {
+   "n": "medium",
+   "t": "Las coletillas: isn't it?, didn't he?",
+   "r": "it worked, didn't it?"
+  },
+  "conectores-b1": {
+   "n": "medium",
+   "t": "Conectores: however, although, while, as a result",
+   "r": "although it was dangerous…"
   },
   "pasado-perfecto": {
    "n": "hard",
@@ -850,25 +1015,55 @@
    "r": "had failed, had served",
    "ex": "Se forma con <b>had + participio</b> y sirve para algo que ya había pasado <i>antes</i> de otro momento del pasado. En historia es muy útil para dar el contexto de lo que se cuenta. Con <i>never</i> o <i>already</i>, estas palabras van entre <i>had</i> y el participio."
   },
+  "pasado-perfecto-cont": {
+   "n": "hard",
+   "t": "El pasado perfecto continuo",
+   "r": "they had been waiting for months"
+  },
+  "futuro-perfecto": {
+   "n": "hard",
+   "t": "Futuro perfecto y futuro continuo",
+   "r": "by then they will have arrived"
+  },
   "condicional-3": {
    "n": "hard",
    "t": "El tercer condicional",
    "r": "if it had been sent…, it would have…"
   },
-  "pasiva-compleja": {
+  "condicional-mixto": {
    "n": "hard",
-   "t": "La pasiva de opinión: it is said that…",
-   "r": "is thought to have…, was believed to…"
+   "t": "Condicionales mixtos",
+   "r": "if he had not travelled, they would still…"
+  },
+  "wish": {
+   "n": "hard",
+   "t": "Wish e if only",
+   "r": "I wish I had known"
   },
   "modales-pasado": {
    "n": "hard",
    "t": "Must have, could have, should have",
    "r": "must have known, could have died"
   },
-  "inversion": {
+  "deduccion": {
    "n": "hard",
-   "t": "La inversión para dar énfasis",
-   "r": "Never had…, Not only did…"
+   "t": "Modales de deducción en presente",
+   "r": "it can't be true, it must be"
+  },
+  "pasiva-compleja": {
+   "n": "hard",
+   "t": "La pasiva de opinión: it is said that…",
+   "r": "is thought to have…, was believed to…"
+  },
+  "causativa": {
+   "n": "hard",
+   "t": "La causativa: have something done",
+   "r": "he had the children vaccinated"
+  },
+  "relativos-explicativos": {
+   "n": "hard",
+   "t": "Oraciones de relativo explicativas",
+   "r": "Balmis, who had served in…, …"
   },
   "frases-participio": {
    "n": "hard",
@@ -880,10 +1075,55 @@
    "t": "El estilo indirecto",
    "r": "he said that it would…"
   },
+  "verbos-reporte": {
+   "n": "hard",
+   "t": "Verbos para contar lo que se dijo",
+   "r": "claimed, denied, insisted, admitted"
+  },
+  "inversion": {
+   "n": "hard",
+   "t": "La inversión para dar énfasis",
+   "r": "Never had…, Not only did…"
+  },
+  "cleft": {
+   "n": "hard",
+   "t": "Frases para destacar: It was… who",
+   "r": "It was Balmis who proposed…"
+  },
   "concesivas": {
    "n": "hard",
-   "t": "Although, despite, however",
+   "t": "Although, despite, in spite of, however",
    "r": "despite the danger, although…"
+  },
+  "nominalizacion": {
+   "n": "hard",
+   "t": "La nominalización: el estilo de la historia",
+   "r": "the delivery of the vaccine"
+  },
+  "would-rather": {
+   "n": "hard",
+   "t": "Would rather, had better, it's time",
+   "r": "it's time they left"
+  },
+  "subjuntivo": {
+   "n": "hard",
+   "t": "El subjuntivo formal",
+   "r": "the King insisted that he be…"
+  },
+  "matizar": {
+   "n": "hard",
+   "t": "Matizar: hedging en textos de historia",
+   "r": "it seems likely that…, arguably"
+  },
+  "elipsis": {
+   "n": "hard",
+   "t": "Elipsis y sustitución",
+   "r": "so did he, I think so"
+  },
+  "articulos-avanzados": {
+   "n": "hard",
+   "t": "Artículos con nombres de lugares y épocas",
+   "r": "the Atlantic, Spain, the 18th century"
   }
  }
 }
