@@ -385,7 +385,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .ingpv{background:#eef5f3;border:1px solid #c9e0da;border-radius:12px;padding:10px 12px;margin-top:14px}.ingpv .et{font-size:12px;color:#2f6f60;font-weight:700;text-transform:uppercase;letter-spacing:.04em}.ingpv h3{margin:4px 0 0;font-size:22px}.ingpves{margin:0 0 6px;color:#2f6f60;font-weight:600}
 .inggc{background:#fff;border:1px solid var(--line);border-left:4px solid #7a5c9e;border-radius:12px;padding:9px 12px;margin:6px 0;cursor:pointer}.inggc.pend{cursor:default;opacity:.55;border-left-color:var(--line)}.inggc b{display:block}.inggc span{display:block;font-size:13px;color:var(--muted)}.inggc .inggu{font-size:12px;margin-top:2px}
 .big.ingdest{background:linear-gradient(135deg,#fff 55%,#eef3fb);border:2px solid #7aa5d6;align-items:center}.big.ingdest img{flex:0 0 70px;height:auto}.big .nuevo{display:inline-block;background:#c0392b;color:#fff;font-size:11px;font-weight:800;letter-spacing:.06em;border-radius:6px;padding:1px 7px;margin-bottom:3px}
-.ingptos{text-align:center;font-size:15px;margin:2px 0 0;color:var(--ink)}.ingok{margin-left:auto;font-size:12px;font-weight:700;color:#4a7c4e;white-space:nowrap}.ingok.nuevo{animation:ingpop .6s}@keyframes ingpop{0%{transform:scale(1.6)}100%{transform:scale(1)}}
+.ingptos{text-align:center;font-size:15px;margin:2px 0 0;color:var(--ink)}.ingnota2{border:1px solid var(--line,#ddd);border-radius:14px;padding:10px 14px;background:var(--card,#fff);text-align:center}.ingnota2.fin{border-color:#c9a227;background:linear-gradient(#fff8e1,#fff3c4);color:#3b2f00}.ingn2t{font-weight:700;font-size:15px}.ingn2n{font-size:14px;margin:2px 0 6px}.ingn2n b{font-size:22px}.ingn2b{height:8px;border-radius:5px;background:rgba(0,0,0,.1);overflow:hidden}.ingn2b i{display:block;height:100%;background:#4a7c4e;border-radius:5px;transition:width .5s}.ingnota2.fin .ingn2b i{background:#c9a227}.ingn2s{font-size:12px;opacity:.8;margin-top:6px}.ingok.pend{color:inherit;opacity:.45;font-weight:400}.ingok{margin-left:auto;font-size:12px;font-weight:700;color:#4a7c4e;white-space:nowrap}.ingok.nuevo{animation:ingpop .6s}@keyframes ingpop{0%{transform:scale(1.6)}100%{transform:scale(1)}}
 .ingchk{display:flex;gap:8px;align-items:center;font-size:14px;background:#fdf8ee;border:1px solid var(--line);border-radius:10px;padding:8px 10px;margin:0 0 8px;cursor:pointer}.ingchk input{width:18px;height:18px;flex:0 0 18px}.ingchk i{color:var(--muted)}
 .ingsubt{font-weight:700;margin:14px 0 2px}.ingprefiero{margin-top:12px;width:100%}.ingp.plegado>:not(.ingh):not(.ingchk){display:none}.ingp.plegado .ingh{cursor:pointer}
 .ingcuenta{font-size:13px;color:var(--muted);margin:4px 0 0}.ingcuenta.ok{color:#4a7c4e;font-weight:700}
@@ -1976,7 +1976,7 @@ async function renderIngles(id){lastScreen='ingles';show('ingles');const D=await
  if(!id){const GG=D.gram||{},vis=new Set();D.temas.forEach(t=>Object.values(t.niveles).forEach(n=>n.gram&&vis.add(n.gram.id)));
   $('#ingBox').innerHTML='<img class="ammo-der" src="img/ammo/ammo-ingles.webp" alt="" width="96" height="110"><div class="sec-t" style="margin-top:6px">🎧 Inglés con historia</div><p class="rt">Repasa inglés con la historia de España: escucha, contesta, repite y cuéntalo tú. Cada historia tiene tres niveles; entra por el que te apetezca hoy.</p>'+
   `<button class="big" onclick="go('#/ingles/gramatica')"><span class="bi">📚</span><div><h3>Clases de gramática</h3><p>${vis.size} de ${Object.keys(GG).length} clases vistas en las historias</p></div></button>`+
-   D.temas.slice().reverse().map(t=>{const P=ingPtsTodo(),pt=['easy','medium','hard'].reduce((a,k)=>a+Object.values(P[t.id+'-'+k]||{}).reduce((x,y)=>x+y,0),0);return `<button class="big" onclick="go('#/ingles/${t.id}')">${t.lam?`<img class="ingmini" src="${t.lam}" alt="" loading="lazy">`:'<span class="bi">🎧</span>'}<div><h3>${esc(t.tEN)}</h3><p>${esc(t.tES)}${t.fecha?' · '+esc(t.fecha):''}${pt?` · ⭐ ${pt} puntos`:''}</p></div></button>`;}).join('')||'<p class="empty-st">Pronto habrá historias.</p>';return;}
+   D.temas.slice().reverse().map(t=>{const P=ingPtsTodo(),pt=['easy','medium','hard'].reduce((a,k)=>a+Object.values(P[t.id+'-'+k]||{}).reduce((x,y)=>x+y,0),0),med=['easy','medium','hard'].map(k=>{const N=ingNota(P[t.id+'-'+k]||{},ingMax(t,t.niveles[k]));return N.med?N.med[0]:'';}).join('');return `<button class="big" onclick="go('#/ingles/${t.id}')">${t.lam?`<img class="ingmini" src="${t.lam}" alt="" loading="lazy">`:'<span class="bi">🎧</span>'}<div><h3>${esc(t.tEN)}</h3><p>${esc(t.tES)}${t.fecha?' · '+esc(t.fecha):''}${pt?` · ⭐ ${pt} puntos`:''}${med?' · '+med:''}</p></div></button>`;}).join('')||'<p class="empty-st">Pronto habrá historias.</p>';return;}
  const T=D.temas.find(t=>t.id===id); if(!T){go('#/ingles');return;}
  if(IG.t!==id){IG={t:id,k:LS.get('hk_ing_k','medium'),esc:0,fr:0,tope:null};}
  ingPinta();}
@@ -1990,7 +1990,7 @@ ${(T.lam||T.viva)?`<div class="ingill">${T.viva&&!(navigator.connection&&navigat
  <div class="seg" id="ingSeg">${Object.keys(ING_K).map(k=>`<button data-k="${k}" class="${k===IG.k?'on':''}">${ING_K[k]}</button>`).join('')}</div>
  <div id="ingVozBox" class="ingvoz">Comprobando las voces…</div>
  <p class="ingmeta">${esc(n.et)} · ${n.fr.length} frases · ${n.s?`${Math.round(n.s/6)/10} min · voz ${esc(T.voz||'')}, acento ${T.acento==='American'?'americano':'británico'}`:'voz del navegador'}</p>
- <p class="ingptos" id="ingPtos"></p><p class="ingnota" style="text-align:center;margin-top:0">Haz los bloques que quieras y en el orden que quieras: cada uno terminado suma puntos.</p>`;
+ <div class="ingptos" id="ingPtos"></div><p class="ingnota" style="text-align:center;margin-top:0">Haz los bloques que quieras y en el orden que quieras: cada uno terminado suma puntos.</p>`;
  h+=paso(0,'Before you listen','Key words to help you understand the text · <i>Palabras clave para ayudarte a entender el texto</i>',
   `<h2 class="ingtit">${esc(T.tEN)}</h2><p class="ingsub">${esc(T.tES)}</p><div class="ingglos">${n.glos.map(([p,s])=>`<div><b>${esc(p)}</b> — ${esc(s)}</div>`).join('')}</div>`);
  h+=paso(1,'Listen with no text','Escucha sin leer, las veces que quieras, y luego contesta de qué iba.',
@@ -2013,6 +2013,7 @@ ${(T.lam||T.viva)?`<div class="ingill">${T.viva&&!(navigator.connection&&navigat
   `<div class="ingtrad"><p class="ingesp">${(n.trad||[]).length+1}. Ahora cuéntalo tú: escribe en inglés lo que recuerdes de la historia, al menos ${minP} palabras.</p><textarea id="ingMio" class="ingta" placeholder="Write about the story in your own words..." oninput="ingCuenta(${minP})"></textarea><p class="ingcuenta" id="ingCuenta">0 de ${minP} palabras</p><div class="ingb"><button class="btn sec" onclick="ingCorrige('')">✓ Corregir</button><button class="btn sec" onclick="ingDilo('')">🎙 Decirlo</button><button class="btn sec" onclick="ingLee()">🔊 Cómo debía sonar</button><button class="btn sec" onclick="ingModelo()">Así lo diría un nativo</button></div><div id="ingCorr" class="ingcorr"></div><ul id="ingLista" class="inglista"></ul><div id="ingMod"></div><div class="ingcmp" id="ingCmp"></div><p class="ingnota" id="ingCmpN"></p></div>`,1);
  h+=paso(7,'Listen one last time','Sin texto otra vez y a velocidad normal. Aquí se nota lo que has avanzado.',
   `${ingRep(0,'',1)}<p class="ingnota" id="ingCierreN">Sin texto y a la velocidad del nivel. Compara con la primera vez.</p>`,1);
+ h+=`<div id="ingPtosFin" style="margin-top:14px"></div>`;
  h+=`<div class="inggancho"><p>${esc(n.gancho)}</p>${T.des?`<button class="btn" onclick="go('#/d/${T.des}')">Leer la historia completa en castellano →</button>`:''}</div>`;
  $('#ingBox').innerHTML=h;
  $('#ingSeg').querySelectorAll('button').forEach(b=>b.onclick=()=>{IG.k=b.dataset.k;IG.esc=0;IG.fr=0;LS.set('hk_ing_k',IG.k);ingPinta();});
@@ -2054,9 +2055,16 @@ function ingSuma(k,v){const A=ingPtsTodo(),c=IG.t+'-'+IG.k,r=A[c]||{};
   if(k==='G'&&n.gram&&!h.g[n.gram.id])h.g[n.gram.id]=hoy;if(k==='Gp'&&T.pv&&!h.pv[T.pv.v])h.pv[T.pv.v]=hoy;LS.set('hk_ing_hechas',h);}
  if((r[k]||0)>=v){ingPtosUI();return;}r[k]=v;A[c]=r;LS.set('hk_ing_p',A);ingPtosUI(k,v);if(typeof syncPush==='function')syncPush();}
 const ingFecha=f=>{try{return new Date(f+'T12:00').toLocaleDateString('es-ES',{day:'numeric',month:'short'});}catch(e){return f;}};
-function ingPtosUI(k,v){const r=ingP(),tot=Object.values(r).reduce((a,b)=>a+b,0),e=$('#ingPtos');if(e)e.innerHTML=`⭐ <b>${tot}</b> puntos de lección en este nivel`;
- const blo={};Object.keys(r).forEach(x=>{const b=x[0]==='G'?'G':x[0];blo[b]=(blo[b]||0)+r[x];});
- ['1','3','4','G','5','6','7'].forEach(b=>{const s=$('#ipb'+b);if(s)s.textContent=blo[b]?`✓ ${blo[b]} pts`:'';});
+// máximo de cada bloque en una historia y nivel (las mismas cuentas que ingSuma)
+function ingMax(T,n){const m={1:(n.gist?5+5*n.gist.length:0)+10,3:10,4:n.det?5+5*n.det.length:0,G:(n.gram?5+5*n.gram.q.length:0)+(T.pv?10:0),5:25,6:(n.trad?10*n.trad.length:0)+20,7:15};Object.keys(m).forEach(b=>{if(!m[b])delete m[b];});return m;}
+function ingNota(r,M){const tot=Object.values(r).reduce((a,b)=>a+b,0),max=Object.values(M).reduce((a,b)=>a+b,0),blo={};
+ Object.keys(r).forEach(x=>{const b=x[0]==='G'?'G':x[0];blo[b]=(blo[b]||0)+r[x];});
+ const hechos=Object.keys(M).filter(b=>blo[b]).length,pc=max?Math.round(100*tot/max):0;
+ const med=hechos<Object.keys(M).length?null:pc>=90?['🥇','oro']:pc>=70?['🥈','plata']:['🥉','bronce'];return {tot,max,blo,hechos,nb:Object.keys(M).length,pc,med};}
+function ingPtosUI(k,v){const r=ingP(),M=ingMax(ingT(),ingN()),N=ingNota(r,M),blo=N.blo,e=$('#ingPtos');
+ const caja=`<div class="ingnota2${N.med?' fin':''}"><div class="ingn2t">${N.med?`${N.med[0]} ¡Lección completada! Medalla de ${N.med[1]}`:'⭐ Puntuación de la lección'}</div><div class="ingn2n"><b>${N.tot}</b> de ${N.max} puntos · ${N.pc} %</div><div class="ingn2b"><i style="width:${N.pc}%"></i></div><div class="ingn2s">${N.hechos} de ${N.nb} bloques hechos${N.med?'':' · completa todos para ganar tu medalla (🥉 · 🥈 desde el 70 % · 🥇 desde el 90 %)'}</div></div>`;
+ if(e)e.innerHTML=caja;const f=$('#ingPtosFin');if(f)f.innerHTML=caja;
+ ['1','3','4','G','5','6','7'].forEach(b=>{const s=$('#ipb'+b);if(s)s.textContent=blo[b]?`✓ ${blo[b]} de ${M[b]} pts`:(M[b]?`${M[b]} pts`:'');s&&s.classList.toggle('pend',!blo[b]);});
  if(k){const s=$('#ipb'+(k[0]==='G'?'G':k[0]));if(s){s.classList.remove('nuevo');void s.offsetWidth;s.classList.add('nuevo');}}}
 function ingPrefiero(si,quieto){LS.set('hk_ing_pref',!!si);const b=$('#ip1');if(!b)return;
  if(si){ingPara();b.classList.add('plegado');if(!quieto){const d=$('#ip3');if(d)d.scrollIntoView({behavior:'smooth',block:'start'});}}else b.classList.remove('plegado');}
