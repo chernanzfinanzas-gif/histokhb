@@ -124,7 +124,22 @@
       }
      ],
      "modelo": "Smallpox killed thousands of people every year. An English doctor saw that cows could protect them. The vaccine died in a few days, so a Spanish doctor found a way to carry it alive to America.",
-     "gancho": "¿Cuál era esa idea que todavía hoy parece imposible?"
+     "gancho": "¿Cuál era esa idea que todavía hoy parece imposible?",
+     "audio": "audio/en-balmis-easy.mp3",
+     "voz": "Iapetus",
+     "s": 50,
+     "t": [
+      0.0,
+      7.47,
+      12.52,
+      17.84,
+      23.72,
+      29.12,
+      32.05,
+      36.16,
+      39.83,
+      44.63
+     ]
     },
     "medium": {
      "et": "Conocimientos básicos",
@@ -255,7 +270,23 @@
       }
      ],
      "modelo": "In 1796 Jenner proved that cowpox protected people against smallpox, but the vaccine lost its power within days and could not reach America. Balmis, a military surgeon from Alicante, proposed carrying it alive inside the bodies of children, vaccinated in pairs along the way. The King approved the plan, and a ship sailed from La Coruña in November 1803 with twenty-two children on board.",
-     "gancho": "Veintidós niños a bordo. ¿Quién cuidaba de ellos, y qué fue de ellos después?"
+     "gancho": "Veintidós niños a bordo. ¿Quién cuidaba de ellos, y qué fue de ellos después?",
+     "audio": "audio/en-balmis-medium.mp3",
+     "voz": "Iapetus",
+     "s": 81,
+     "t": [
+      0.0,
+      11.47,
+      18.66,
+      26.18,
+      33.11,
+      40.56,
+      46.82,
+      55.28,
+      62.34,
+      68.95,
+      76.27
+     ]
     },
     "hard": {
      "et": "Grandes conocimientos",
@@ -394,7 +425,22 @@
       }
      ],
      "modelo": "Smallpox was among the deadliest diseases of the eighteenth century, and Jenner's discovery of 1796 could not be exploited overseas because the fluid perished within days. Balmis therefore proposed transporting it in living tissue: children who had never contracted the disease, vaccinated in sequential pairs whose blisters matured every nine or ten days. The purpose of the expedition extended well beyond delivery, since local physicians were to be trained and a permanent vaccination board left behind in each city.",
-     "gancho": "Veintidós niños de la inclusa, de tres a nueve años. ¿Quién respondía por ellos a bordo?"
+     "gancho": "Veintidós niños de la inclusa, de tres a nueve años. ¿Quién respondía por ellos a bordo?",
+     "audio": "audio/en-balmis-hard.mp3",
+     "voz": "Iapetus",
+     "s": 97,
+     "t": [
+      0.0,
+      10.2,
+      20.08,
+      30.28,
+      40.0,
+      46.97,
+      58.01,
+      67.51,
+      77.41,
+      87.94
+     ]
     }
    },
    "lam": "img/laminas/des-balmis.webp",

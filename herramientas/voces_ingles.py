@@ -49,10 +49,26 @@ def silencios(p, d=0.3):
     a = [float(x) for x in re.findall(r'silence_start: ([\d.]+)', r)]; b = [float(x) for x in re.findall(r'silence_end: ([\d.]+)', r)]
     return list(zip(a, b))
 
+def cortes(w, frases):
+    """Segundo en que empieza cada frase. Candidatas: todas las pausas (≥0,12 s) que no son la del principio ni la del final.
+    Cada corte se busca cerca de donde caería si la voz fuera pareja (proporcional a las letras), prefiriendo las pausas
+    largas: así una coma no se confunde con un punto."""
+    D = dur(w); cand = [(a, b) for a, b in silencios(w, 0.12) if a > 0.3 and b < D - 0.3]
+    if len(cand) < len(frases) - 1: return None
+    L = [len(f) for f in frases]; tot = sum(L); t = [0.0]; acc = 0; usadas = set()
+    for i in range(len(frases) - 1):
+        acc += L[i]; e = D * acc / tot
+        mejor = min((c for c in cand if c[1] > t[-1] + 0.5 and c not in usadas),
+                    key=lambda ab: abs(ab[1] - e) - 3 * (ab[1] - ab[0]), default=None)
+        if mejor is None: return None
+        usadas.add(mejor); t.append(round(mejor[1] - 0.12, 2))
+    return t
+
 def graba(tema, k, nv, voz, clave):
     frases = [f[0] for f in nv['fr']]
     w = os.path.join(TMP, f'en-{tema}-{k}.wav')
-    if os.path.exists(w): os.remove(w)   # nunca reutilizar un intento anterior
+    for q in (w, w[:-4] + '.lb.wav'):   # nunca reutilizar un intento anterior (ni su copia limpia)
+        if os.path.exists(q): os.remove(q)
     if not V.tts_aistudio('\n\n'.join(frases), voz, P[k], w, clave): return None
     x = oye_en(w, 0, 6, clave)
     if x is None: print('ERR: sin cupo de dictado para comprobar la instrucción', tema, k); os.remove(w); return None
@@ -61,10 +77,9 @@ def graba(tema, k, nv, voz, clave):
     car = sum(len(f) for f in frases)
     if car / D > 22: print(f'ERR: audio incompleto ({car / D:.1f} letras/s)', tema, k); return None
     if any(b - a > 6 for a, b in silencios(w, 6)): print('ERR: silencio de más de 6 s', tema, k); return None
-    # comienzo de cada frase: los n-1 silencios más largos, en orden
-    s = sorted(silencios(w), key=lambda ab: ab[1] - ab[0], reverse=True)[:len(frases) - 1]
-    if len(s) < len(frases) - 1: print(f'ERR: solo {len(s)} pausas para {len(frases)} frases', tema, k); return None
-    t = [0.0] + [round(b - 0.12, 2) for a, b in sorted(s)]
+    # comienzo de cada frase (ver cortes)
+    t = cortes(w, frases)
+    if t is None: print(f'ERR: no encuentro las pausas entre frases', tema, k); return None
     out = f'audio/en-{tema}-{k}.mp3'
     subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', w, '-ac', '1', '-b:a', '96k', os.path.join(REPO, out)], check=True)
     return {'audio': out, 'voz': voz, 's': round(D), 't': t}
