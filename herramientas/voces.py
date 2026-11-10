@@ -184,6 +184,7 @@ def genera(cod,nivel,html_,voz,kbps,cabecera=None):
         w=os.path.join(TMP,f'{cod}-{nivel}-{i}-{hashlib.md5((voz+c).encode()).hexdigest()[:10]}.wav')  # el nombre lleva el hash del texto: un trozo solo se reutiliza si el texto no ha cambiado
         if not os.path.exists(w) and not tts(c,voz,P_NI if nivel=='n' else P_AD,w): return None
         wavs.append(w)
+    orig=list(wavs)   # 10-nov-2026: al rechazar hay que borrar también los trozos originales, no solo las copias retocadas (.lb.wav, atempo): si no, el reintento reutiliza el mismo audio malo
     wavs=iguala_ritmo(wavs,trozos(ps))
     if wavs is None: return None
     sil=os.path.join(TMP,'sil.wav')
@@ -196,12 +197,12 @@ def genera(cod,nivel,html_,voz,kbps,cabecera=None):
     v=sum(S.silabas(p) for p in ps)/max(dur,1)
     if v>7:   # Gemini a veces corta la grabación a medias (pasó con Lutero, 2-nov-2026): demasiadas sílabas para tan poco audio
         print(f'ERR: audio incompleto ({v:.1f} sílabas/s), no se acepta:',out); os.remove(out)
-        for w in wavs: 
+        for w in set(wavs+orig):
             if os.path.exists(w): os.remove(w)
         return None
     if not final_oido(out,dur,' '.join(ps[-2:])):   # las dos últimas líneas: una sola («526 · Muerte.») da muy poco que comprobar   # Granada 1354 (5-nov-2026): las dos últimas líneas eran un murmullo
         os.remove(out)
-        for w in wavs:
+        for w in set(wavs+orig):
             if os.path.exists(w): os.remove(w)
         return None
     return round(dur)
