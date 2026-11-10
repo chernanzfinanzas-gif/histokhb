@@ -1973,7 +1973,7 @@ ${(T.lam||T.viva)?`<div class="ingill">${T.viva&&!(navigator.connection&&navigat
  <div class="seg" id="ingSeg">${Object.keys(ING_K).map(k=>`<button data-k="${k}" class="${k===IG.k?'on':''}">${ING_K[k]}</button>`).join('')}</div>
  <div id="ingVozBox" class="ingvoz">Comprobando las voces…</div>
  <p class="ingmeta">${esc(n.et)} · ${n.fr.length} frases · ${n.s?`${Math.round(n.s/6)/10} min · voz ${esc(T.voz||'')}, acento ${T.acento==='American'?'americano':'británico'}`:'voz del navegador'}</p>`;
- h+=paso(0,'Before you listen','El título y las palabras, nada más. Saber de qué va es lo que más ayuda; leer el texto antes, no.',
+ h+=paso(0,'Before you listen','Key words to help you understand the text · <i>Palabras clave para ayudarte a entender el texto</i>',
   `<h2 class="ingtit">${esc(T.tEN)}</h2><p class="ingsub">${esc(T.tES)}</p><div class="ingglos">${n.glos.map(([p,s])=>`<div><b>${esc(p)}</b> — ${esc(s)}</div>`).join('')}</div>`);
  h+=paso(1,'Listen with no text','Sin leer. Repítelo las veces que quieras antes de pasar.',
   `${ingRep(2,IG.k!=='easy'?'<button class="btn sec" onclick="ingEscalera()">Primero la fácil, luego ésta</button>':'')}
