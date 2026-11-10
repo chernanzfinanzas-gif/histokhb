@@ -57,6 +57,11 @@ def cortes(w, frases):
     largas: así una coma no se confunde con un punto."""
     D = dur(w); cand = [(a, b) for a, b in silencios(w, 0.12) if a > 0.3 and b < D - 0.3]
     if len(cand) < len(frases) - 1: return None
+    # Lo normal: las pausas entre frases (~1 s, se piden así) son claramente más largas que todas las de dentro
+    # (comas, ≤0,6 s). Si las n-1 más largas se separan bien del resto, son esas y no hace falta adivinar.
+    lar = sorted(cand, key=lambda ab: ab[1] - ab[0], reverse=True); n = len(frases) - 1
+    if n and len(lar) >= n and (len(lar) == n or (lar[n-1][1] - lar[n-1][0]) >= 1.5 * (lar[n][1] - lar[n][0])):
+        return [0.0] + [round(b - 0.12, 2) for a, b in sorted(lar[:n])]
     L = [len(f) for f in frases]; tot = sum(L); t = [0.0]; acc = 0; usadas = set()
     for i in range(len(frases) - 1):
         acc += L[i]; e = D * acc / tot

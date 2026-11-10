@@ -963,7 +963,21 @@
         "ok": 1
        }
       ]
-     }
+     },
+     "audio": "audio/en-trafalgar-easy.mp3",
+     "s": 66,
+     "t": [
+      0.0,
+      10.15,
+      16.89,
+      25.89,
+      31.37,
+      37.38,
+      41.96,
+      46.24,
+      53.26,
+      60.28
+     ]
     },
     "medium": {
      "et": "Conocimientos básicos",
@@ -1140,7 +1154,23 @@
         "ok": 1
        }
       ]
-     }
+     },
+     "audio": "audio/en-trafalgar-medium.mp3",
+     "s": 80,
+     "t": [
+      0.0,
+      9.19,
+      16.87,
+      24.35,
+      29.27,
+      37.03,
+      44.59,
+      49.79,
+      56.66,
+      64.44,
+      70.15,
+      76.47
+     ]
     },
     "hard": {
      "et": "Grandes conocimientos",
@@ -1325,7 +1355,22 @@
         "ok": 0
        }
       ]
-     }
+     },
+     "audio": "audio/en-trafalgar-hard.mp3",
+     "s": 89,
+     "t": [
+      0.0,
+      8.41,
+      16.34,
+      27.26,
+      35.31,
+      44.12,
+      51.29,
+      62.1,
+      69.33,
+      76.4,
+      82.95
+     ]
     }
    },
    "dic": {
@@ -1532,7 +1577,9 @@
     "wounded": "herido",
     "wrecked": "destrozó, hizo naufragar",
     "wrecking": "destrozando, haciendo naufragar"
-   }
+   },
+   "voz": "Aoede",
+   "acento": "American"
   }
  ],
  "gram": {
