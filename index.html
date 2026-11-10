@@ -380,6 +380,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .ingcorr{font-size:15px;line-height:1.8;margin-top:8px}.ingcorr .err{background:#f9e3de;border-bottom:2px solid #9c3b2e;border-radius:3px}.ingko{color:#9c3b2e}
 .inglista{list-style:none;padding:0;font-size:14px}.inglista li{border-left:3px solid var(--accent);background:#fdf8ee;padding:6px 10px;margin:5px 0;border-radius:0 8px 8px 0}.inglista li b{color:#9c3b2e}.inglista li i{color:#4a7c4e;font-style:normal;font-weight:700}.inglista li span{display:block;color:var(--muted);font-size:13px}.inglista li.okl{border-left-color:#4a7c4e}
 .ingn.gram{background:#7a5c9e}.ingex{margin:0 0 8px;line-height:1.5}.ingej{background:#f6f1fa;border-left:3px solid #7a5c9e;border-radius:0 10px 10px 0;padding:6px 12px;margin:0 0 6px}.ingej p{margin:5px 0}.ingej b{color:#5b3f80}
+.ingya.cerrado .ingyac{display:none}.ingyat{display:flex;align-items:center;gap:10px;flex-wrap:wrap;color:#4a7c4e;font-weight:600;margin:4px 0}.ingyat .btn{padding:6px 12px;font-size:13px}.inghechas{background:#fff;border:1px solid var(--line);border-radius:12px;padding:6px 12px}.inghechas p{margin:6px 0;display:flex;justify-content:space-between;gap:8px}.inghechas span{color:var(--muted);font-size:13px;white-space:nowrap}
 .ingpv{background:#eef5f3;border:1px solid #c9e0da;border-radius:12px;padding:10px 12px;margin-top:14px}.ingpv .et{font-size:12px;color:#2f6f60;font-weight:700;text-transform:uppercase;letter-spacing:.04em}.ingpv h3{margin:4px 0 0;font-size:22px}.ingpves{margin:0 0 6px;color:#2f6f60;font-weight:600}
 .inggc{background:#fff;border:1px solid var(--line);border-left:4px solid #7a5c9e;border-radius:12px;padding:9px 12px;margin:6px 0;cursor:pointer}.inggc.pend{cursor:default;opacity:.55;border-left-color:var(--line)}.inggc b{display:block}.inggc span{display:block;font-size:13px;color:var(--muted)}.inggc .inggu{font-size:12px;margin-top:2px}
 .ingptos{text-align:center;font-size:15px;margin:2px 0 0;color:var(--ink)}.ingok{margin-left:auto;font-size:12px;font-weight:700;color:#4a7c4e;white-space:nowrap}.ingok.nuevo{animation:ingpop .6s}@keyframes ingpop{0%{transform:scale(1.6)}100%{transform:scale(1)}}
@@ -767,6 +768,7 @@ function datosSync(){
   favs: LS.get('hk_favs',[]),
   ultima: LS.get('hk_ultima',null),
   ajustes: LS.get('hk_ajustes',{pal:'oceano',fon:'redondeada',tam:'normal'}),
+  ingles: {p:LS.get('hk_ing_p',{}),h:LS.get('hk_ing_hechas',{g:{},pv:{}}),k:LS.get('hk_ing_k','medium'),pref:!!LS.get('hk_ing_pref',false)},
  };
 }
 let syncT=null;
@@ -790,6 +792,9 @@ function syncPull(){
   if(d.apodo)LS.set('hk_apodo',d.apodo);           // el apodo y «solo compito conmigo» viajan con el código entre dispositivos
   if('solo'in d)LS.set('hk_solo',!!d.solo);
   if('ajustes'in d){LS.set('hk_ajustes',d.ajustes);aplicaAjustes();}
+  if(d.ingles){const a=LS.get('hk_ing_p',{}),b=d.ingles.p||{};for(const c in b){a[c]=a[c]||{};for(const k in b[c])a[c][k]=Math.max(a[c][k]||0,b[c][k]);}LS.set('hk_ing_p',a);   // inglés: se juntan los avances de los dos aparatos
+   const h=LS.get('hk_ing_hechas',{g:{},pv:{}}),hb=d.ingles.h||{};['g','pv'].forEach(t=>{h[t]=h[t]||{};for(const k in (hb[t]||{}))if(!h[t][k]||hb[t][k]<h[t][k])h[t][k]=hb[t][k];});LS.set('hk_ing_hechas',h);
+   if(d.ingles.k)LS.set('hk_ing_k',d.ingles.k);if('pref'in d.ingles)LS.set('hk_ing_pref',!!d.ingles.pref);}
  }).catch(()=>{});
 }
 function renderAjustes(){
@@ -1994,8 +1999,9 @@ ${(T.lam||T.viva)?`<div class="ingill">${T.viva&&!(navigator.connection&&navigat
  h+=paso(4,'Now the details','Fechas, nombres y cifras. Distintas de las de antes.','<div id="ingDet"></div>',1);
  const GC=n.gram&&(ING.gram||{})[n.gram.id]||{};
  const PV=T.pv;
- if(n.gram||PV)h+=paso('G','Grammar corner',(n.gram?esc(GC.t||''):'Phrasal verb of the day')+` · <a href="#/ingles/gramatica">ver todas las clases</a>`,(n.gram?`<p class="ingex">${GC.ex||''}</p><div class="ingej">${n.gram.ej.map(x=>`<p>${x}</p>`).join('')}</div><div id="ingGram"></div>`:'')+
-  (PV?`<div class="ingpv"><div class="et">Phrasal verb of the day · <i>el phrasal verb del día</i></div><h3>${esc(PV.v)} <button class="ingoir" onclick="ingHabla('${esc(PV.v)}')" title="Oírlo">🔊</button></h3><p class="ingpves">${esc(PV.es)}</p><p class="ingex">${PV.ex}</p><div class="ingej">${PV.ej.map(x=>`<p>${x}</p>`).join('')}</div><div id="ingPV"></div></div>`:''));
+ const HH=LS.get('hk_ing_hechas',{g:{},pv:{}}),gYa=n.gram&&HH.g&&HH.g[n.gram.id],pvYa=PV&&HH.pv&&HH.pv[PV.v];
+ if(n.gram||PV)h+=paso('G','Grammar corner',(n.gram?esc(GC.t||''):'Phrasal verb of the day')+` · <a href="#/ingles/gramatica">ver todas las clases</a>`,(n.gram?`<div class="ingya${gYa?' cerrado':''}">${gYa?`<p class="ingyat">✓ Ya hiciste esta clase el ${ingFecha(gYa)} <button class="btn sec" onclick="this.closest('.ingya').classList.remove('cerrado')">Repasar</button></p>`:''}<div class="ingyac"><p class="ingex">${GC.ex||''}</p><div class="ingej">${n.gram.ej.map(x=>`<p>${x}</p>`).join('')}</div><div id="ingGram"></div></div></div>`:'')+
+  (PV?`<div class="ingpv ingya${pvYa?' cerrado':''}"><div class="et">Phrasal verb of the day · <i>el phrasal verb del día</i></div>${pvYa?`<p class="ingyat">✓ Ya aprendiste <b>${esc(PV.v)}</b> el ${ingFecha(pvYa)} <button class="btn sec" onclick="this.closest('.ingya').classList.remove('cerrado')">Repasar</button></p>`:''}<div class="ingyac"><h3>${esc(PV.v)} <button class="ingoir" onclick="ingHabla('${esc(PV.v)}')" title="Oírlo">🔊</button></h3><p class="ingpves">${esc(PV.es)}</p><p class="ingex">${PV.ex}</p><div class="ingej">${PV.ej.map(x=>`<p>${x}</p>`).join('')}</div><div id="ingPV"></div></div></div>`:''));
  h+=paso(5,'Shadowing','Oye una frase y repítela imitándola, sin pensar en la gramática.',
   `<div class="ingb"><button class="btn sec" onclick="ingOir(IG.fr,6)">▶ Oír la frase</button><button class="btn" onclick="ingRepite()">🎙 Repetirla</button><button class="btn sec" onclick="IG.fr=(IG.fr+1)%ingN().fr.length;ingFrase()">Otra frase →</button></div><p class="ingfrase" id="ingFr"></p><div class="ingcmp" id="ingFrCmp"></div>`,1);
  const minP={easy:25,medium:50,hard:80}[IG.k];
@@ -2033,12 +2039,18 @@ function ingRep(abrir,extra,cierre){const n=ingN();
 function ingGramPag(D){const GG=D.gram||{},uso={};D.temas.forEach(t=>Object.entries(t.niveles).forEach(([k,n])=>{if(n.gram)(uso[n.gram.id]=uso[n.gram.id]||[]).push([t,k]);}));
  const P=ingPtsTodo();
  $('#ingBox').innerHTML=`<div class="sec-t" style="margin-top:6px"><a href="#/ingles" style="color:inherit">🇬🇧 Inglés con historia</a> › Gramática</div><p class="rt">El temario de gramática. Cada historia da una clase de cada nivel, sacada de su propio texto; con el tiempo se completan todas.</p>`+
+ (()=>{const H=LS.get('hk_ing_hechas',{g:{},pv:{}}),g=Object.entries(H.g||{}),v=Object.entries(H.pv||{});
+  return `<div class="sec-t">✅ Tus clases hechas</div>`+(g.length||v.length?`<div class="inghechas">${g.sort((a,b)=>a[1]<b[1]?1:-1).map(([id,f])=>`<p>📘 ${esc((GG[id]||{}).t||id)} <span>${ingFecha(f)}</span></p>`).join('')}${v.sort((a,b)=>a[1]<b[1]?1:-1).map(([w,f])=>`<p>🔗 ${esc(w)} <span>${ingFecha(f)}</span></p>`).join('')}<p class="ingnota">${g.length} de ${Object.keys(GG).length} clases de gramática · ${v.length} phrasal verbs. Se guardan en este móvil y viajan con tu código.</p></div>`:'<p class="rt">Todavía ninguna. Cuando aciertes las preguntas de un rincón de gramática o de un phrasal verb, aparecerá aquí.</p>');})()+
  `<div class="sec-t">🔗 Phrasal verbs</div>`+(D.temas.filter(t=>t.pv).map(t=>{const hecho=['easy','medium','hard'].some(k=>(P[t.id+'-'+k]||{}).Gp);return `<div class="inggc" onclick="IG.t=null;go('#/ingles/${t.id}');setTimeout(()=>{const e=$('#ipG');if(e)e.scrollIntoView({block:'start'})},400)"><b>${hecho?'✓ ':''}${esc(t.pv.v)}</b><span>${esc(t.pv.es)}</span><span class="inggu">En: ${esc(t.tEN)}</span></div>`;}).join('')||'<p class="rt">Cada historia trae uno.</p>')+
  Object.keys(ING_K).map(k=>`<div class="sec-t">${ING_K[k]}</div>`+Object.entries(GG).filter(([,g])=>g.n===k).map(([id,g])=>{const u=uso[id]||[];const hecho=u.some(([t,kk])=>(P[t.id+'-'+kk]||{}).G);
   return `<div class="inggc${u.length?'':' pend'}"${u.length?` onclick="IG.k='${u[0][1]}';LS.set('hk_ing_k','${u[0][1]}');IG.t=null;go('#/ingles/${u[0][0].id}');setTimeout(()=>{const e=$('#ipG');if(e)e.scrollIntoView({block:'start'})},400)"`:''}><b>${hecho?'✓ ':''}${esc(g.t)}</b><span>${esc(g.r||'')}</span><span class="inggu">${u.length?'En: '+u.map(([t])=>esc(t.tEN)).join(', '):'Próximamente'}</span></div>`;}).join('')).join('');}
 function ingPtsTodo(){return LS.get('hk_ing_p',{});}
 function ingP(){return ingPtsTodo()[IG.t+'-'+IG.k]||{};}
-function ingSuma(k,v){const A=ingPtsTodo(),c=IG.t+'-'+IG.k,r=A[c]||{};if((r[k]||0)>=v){ingPtosUI();return;}r[k]=v;A[c]=r;LS.set('hk_ing_p',A);ingPtosUI(k,v);}
+function ingSuma(k,v){const A=ingPtsTodo(),c=IG.t+'-'+IG.k,r=A[c]||{};
+ if(k==='G'||k==='Gp'){const h=LS.get('hk_ing_hechas',{g:{},pv:{}}),T=ingT(),n=ingN(),hoy=new Date().toISOString().slice(0,10);
+  if(k==='G'&&n.gram&&!h.g[n.gram.id])h.g[n.gram.id]=hoy;if(k==='Gp'&&T.pv&&!h.pv[T.pv.v])h.pv[T.pv.v]=hoy;LS.set('hk_ing_hechas',h);}
+ if((r[k]||0)>=v){ingPtosUI();return;}r[k]=v;A[c]=r;LS.set('hk_ing_p',A);ingPtosUI(k,v);if(typeof syncPush==='function')syncPush();}
+const ingFecha=f=>{try{return new Date(f+'T12:00').toLocaleDateString('es-ES',{day:'numeric',month:'short'});}catch(e){return f;}};
 function ingPtosUI(k,v){const r=ingP(),tot=Object.values(r).reduce((a,b)=>a+b,0),e=$('#ingPtos');if(e)e.innerHTML=`⭐ <b>${tot}</b> puntos de lección en este nivel`;
  const blo={};Object.keys(r).forEach(x=>{const b=x[0]==='G'?'G':x[0];blo[b]=(blo[b]||0)+r[x];});
  ['1','3','4','G','5','6','7'].forEach(b=>{const s=$('#ipb'+b);if(s)s.textContent=blo[b]?`✓ ${blo[b]} pts`:'';});
