@@ -2125,7 +2125,8 @@ function ingSol(j){const t=ingN().trad[j],m=$('#ingMio'+j).value.trim();if(m)ing
  $('#ingSol'+j).innerHTML=`<div class="ingmod"><div class="et">Una buena traducción</div><p>${esc(t[1])} <button class="ingoir" onclick="ingHabla(ingN().trad[${j}][1])" title="Oírla">🔊</button></p></div>`+(m?'<p class="ingnota">Tu frase comparada con la solución (en verde las palabras que coinciden):</p>':'');
  if(m)ingCompara(m,t[1],'ingCmp'+j,null);else $('#ingCmp'+j).innerHTML='';ingAbre(7);}
 function ingLee(){const m=$('#ingMio').value.trim();if(!m){alert('Escribe algo y te lo leo.');return;}ingHabla(m);ingAbre(7);}
-function ingModelo(){$('#ingMod').innerHTML=`<div class="ingmod"><div class="et">Así lo resumiría un nativo</div><p>${esc(ingN().modelo)}</p></div>`;ingAbre(7);}
+function ingModelo(){const e=$('#ingMod');e.innerHTML=`<div class="ingmod"><div class="et">Así lo resumiría un nativo</div><p>${esc(ingN().modelo)}</p><div class="ingb"><button class="btn sec" onclick="ingHabla(ingN().modelo)">🔊 Escucharlo</button></div></div>`;ingAbre(7);
+ e.scrollIntoView({behavior:'smooth',block:'center'});}   // 10-nov: el resumen salía debajo de la lista de correcciones y no se veía al pulsar
 const ING_REGLAS=[[/\bI have (\d+) years( old)?\b/gi,"I am $1 (years old)","La edad se dice con «to be»."],[/\b(has|have) reason\b/gi,"is / are right","«Tener razón» es «to be right»."],
  [/\binformations\b/gi,"information","«Information» es incontable."],[/\badvices\b/gi,"advice","«Advice» es incontable."],[/\bknowledges\b/gi,"knowledge","«Knowledge» es incontable."],
  [/\bexplain me\b/gi,"explain to me","«Explain» necesita «to» antes de la persona."],[/\bdepend of\b/gi,"depend on","«Depend» va con «on»."],[/\bassist to\b/gi,"attend","Asistir a un sitio es «attend»."],
