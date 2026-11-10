@@ -1964,7 +1964,7 @@ function ingPinta(){const T=ingT(),n=ingN(); ingPara();
  let h=`<div class="sec-t" style="margin-top:6px"><a href="#/ingles" style="color:inherit">🇬🇧 Inglés con historia</a></div>
  <div class="seg" id="ingSeg">${Object.keys(ING_K).map(k=>`<button data-k="${k}" class="${k===IG.k?'on':''}">${ING_K[k]}</button>`).join('')}</div>
  <div id="ingVozBox" class="ingvoz">Comprobando las voces…</div>
- <p class="ingmeta">${esc(n.et)} · ${n.fr.length} frases · ${n.s?Math.round(n.s/6)/10+' min de audio':'voz del navegador'}</p>`;
+ <p class="ingmeta">${esc(n.et)} · ${n.fr.length} frases · ${n.s?`${Math.round(n.s/6)/10} min · voz ${esc(T.voz||'')}, acento ${T.acento==='American'?'americano':'británico'}`:'voz del navegador'}</p>`;
  if(T.lam||T.viva)h+=`<div class="ingill">${T.viva&&!(navigator.connection&&navigator.connection.saveData)&&!matchMedia('(prefers-reduced-motion: reduce)').matches?`<video src="${T.viva}" poster="${T.lam||''}" autoplay muted loop playsinline preload="metadata"></video>`:`<img src="${T.lam}" alt="" loading="lazy">`}</div>`;
  h+=paso(0,'Before you listen','El título y las palabras, nada más. Saber de qué va es lo que más ayuda; leer el texto antes, no.',
   `<h2 class="ingtit">${esc(T.tEN)}</h2><p class="ingsub">${esc(T.tES)}</p><div class="ingglos">${n.glos.map(([p,s])=>`<div><b>${esc(p)}</b> — ${esc(s)}</div>`).join('')}</div>`);
