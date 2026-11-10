@@ -150,8 +150,7 @@
       ]
      ],
      "gram": {
-      "t": "El pasado simple (past simple)",
-      "ex": "Para contar lo que pasó se usa el pasado simple. Los verbos regulares añaden <b>-ed</b>: <i>kill → killed</i>, <i>notice → noticed</i>. Los irregulares cambian y hay que aprenderlos: <i>have → had</i>, <i>lose → lost</i>, <i>say → said</i>, <i>catch → caught</i>. Es igual para todas las personas: I, he, they… <b>killed</b>.",
+      "id": "pasado-simple",
       "ej": [
        "Smallpox <b>killed</b> thousands of people every year.",
        "Many people who survived the disease <b>lost</b> their sight.",
@@ -335,8 +334,7 @@
       ]
      ],
      "gram": {
-      "t": "Could y would para hablar del pasado",
-      "ex": "<b>Could</b> es el pasado de <i>can</i>: lo que se podía o no se podía hacer. <b>Would</b> sirve para hablar del futuro visto desde el pasado, lo que <i>iba a</i> pasar según un plan. Los dos van seguidos del verbo sin <i>to</i>: <i>could travel</i>, <i>would carry</i>.",
+      "id": "could-would",
       "ej": [
        "But the vaccine itself <b>could not</b> travel. → <i>no podía viajar</i>",
        "Nothing <b>could</b> be kept cold. → <i>no se podía conservar</i>",
@@ -527,8 +525,7 @@
       ]
      ],
      "gram": {
-      "t": "El pasado perfecto (past perfect)",
-      "ex": "Se forma con <b>had + participio</b> y sirve para algo que ya había pasado <i>antes</i> de otro momento del pasado. En historia es muy útil para dar el contexto de lo que se cuenta. Con <i>never</i> o <i>already</i>, estas palabras van entre <i>had</i> y el participio.",
+      "id": "pasado-perfecto",
       "ej": [
        "Balmis, who <b>had served</b> in New Spain and <b>had translated</b> a French treatise…",
        "Children who <b>had never contracted</b> smallpox would be vaccinated in pairs.",
@@ -763,5 +760,130 @@
     "coruña": "A Coruña"
    }
   }
- ]
+ ],
+ "gram": {
+  "pasado-simple": {
+   "n": "easy",
+   "t": "El pasado simple (past simple)",
+   "r": "killed, noticed / had, lost, said",
+   "ex": "Para contar lo que pasó se usa el pasado simple. Los verbos regulares añaden <b>-ed</b>: <i>kill → killed</i>, <i>notice → noticed</i>. Los irregulares cambian y hay que aprenderlos: <i>have → had</i>, <i>lose → lost</i>, <i>say → said</i>, <i>catch → caught</i>. Es igual para todas las personas: I, he, they… <b>killed</b>."
+  },
+  "was-were": {
+   "n": "easy",
+   "t": "Was y were",
+   "r": "the problem was…, they were…"
+  },
+  "there-was": {
+   "n": "easy",
+   "t": "There was / there were (había)",
+   "r": "there were twenty-two children"
+  },
+  "preguntas-did": {
+   "n": "easy",
+   "t": "Preguntas en pasado con did",
+   "r": "Did he…? What did they…?"
+  },
+  "comparativos": {
+   "n": "easy",
+   "t": "Comparativos y superlativos",
+   "r": "bigger, the biggest, more important"
+  },
+  "prep-tiempo": {
+   "n": "easy",
+   "t": "In, on, at con fechas y horas",
+   "r": "in 1803, on 30 November, at night"
+  },
+  "cantidades": {
+   "n": "easy",
+   "t": "Much, many, a few, a lot of",
+   "r": "many people, a few days"
+  },
+  "presente-simple": {
+   "n": "easy",
+   "t": "El presente simple para hechos",
+   "r": "the word comes from Latin"
+  },
+  "could-would": {
+   "n": "medium",
+   "t": "Could y would para hablar del pasado",
+   "r": "could not travel / would carry",
+   "ex": "<b>Could</b> es el pasado de <i>can</i>: lo que se podía o no se podía hacer. <b>Would</b> sirve para hablar del futuro visto desde el pasado, lo que <i>iba a</i> pasar según un plan. Los dos van seguidos del verbo sin <i>to</i>: <i>could travel</i>, <i>would carry</i>."
+  },
+  "presente-perfecto": {
+   "n": "medium",
+   "t": "El presente perfecto (have + participio)",
+   "r": "has changed, have found"
+  },
+  "pasiva-simple": {
+   "n": "medium",
+   "t": "La pasiva sencilla",
+   "r": "was built, were vaccinated"
+  },
+  "used-to": {
+   "n": "medium",
+   "t": "Used to: costumbres del pasado",
+   "r": "people used to die of smallpox"
+  },
+  "relativos": {
+   "n": "medium",
+   "t": "Who, which, that, where",
+   "r": "a doctor who…, the ship that…"
+  },
+  "condicional-1-2": {
+   "n": "medium",
+   "t": "Condicionales primero y segundo",
+   "r": "if it travels… / if it could travel…"
+  },
+  "was-going-to": {
+   "n": "medium",
+   "t": "Was going to: planes en el pasado",
+   "r": "they were going to sail…"
+  },
+  "gerundio-infinitivo": {
+   "n": "medium",
+   "t": "Gerundio o infinitivo después de un verbo",
+   "r": "stopped trying / decided to go"
+  },
+  "pasado-perfecto": {
+   "n": "hard",
+   "t": "El pasado perfecto (past perfect)",
+   "r": "had failed, had served",
+   "ex": "Se forma con <b>had + participio</b> y sirve para algo que ya había pasado <i>antes</i> de otro momento del pasado. En historia es muy útil para dar el contexto de lo que se cuenta. Con <i>never</i> o <i>already</i>, estas palabras van entre <i>had</i> y el participio."
+  },
+  "condicional-3": {
+   "n": "hard",
+   "t": "El tercer condicional",
+   "r": "if it had been sent…, it would have…"
+  },
+  "pasiva-compleja": {
+   "n": "hard",
+   "t": "La pasiva de opinión: it is said that…",
+   "r": "is thought to have…, was believed to…"
+  },
+  "modales-pasado": {
+   "n": "hard",
+   "t": "Must have, could have, should have",
+   "r": "must have known, could have died"
+  },
+  "inversion": {
+   "n": "hard",
+   "t": "La inversión para dar énfasis",
+   "r": "Never had…, Not only did…"
+  },
+  "frases-participio": {
+   "n": "hard",
+   "t": "Frases de participio",
+   "r": "Having served in…, Born in…"
+  },
+  "estilo-indirecto": {
+   "n": "hard",
+   "t": "El estilo indirecto",
+   "r": "he said that it would…"
+  },
+  "concesivas": {
+   "n": "hard",
+   "t": "Although, despite, however",
+   "r": "despite the danger, although…"
+  }
+ }
 }

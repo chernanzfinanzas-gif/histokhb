@@ -380,6 +380,9 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .ingcorr{font-size:15px;line-height:1.8;margin-top:8px}.ingcorr .err{background:#f9e3de;border-bottom:2px solid #9c3b2e;border-radius:3px}.ingko{color:#9c3b2e}
 .inglista{list-style:none;padding:0;font-size:14px}.inglista li{border-left:3px solid var(--accent);background:#fdf8ee;padding:6px 10px;margin:5px 0;border-radius:0 8px 8px 0}.inglista li b{color:#9c3b2e}.inglista li i{color:#4a7c4e;font-style:normal;font-weight:700}.inglista li span{display:block;color:var(--muted);font-size:13px}.inglista li.okl{border-left-color:#4a7c4e}
 .ingn.gram{background:#7a5c9e}.ingex{margin:0 0 8px;line-height:1.5}.ingej{background:#f6f1fa;border-left:3px solid #7a5c9e;border-radius:0 10px 10px 0;padding:6px 12px;margin:0 0 6px}.ingej p{margin:5px 0}.ingej b{color:#5b3f80}
+.inggc{background:#fff;border:1px solid var(--line);border-left:4px solid #7a5c9e;border-radius:12px;padding:9px 12px;margin:6px 0;cursor:pointer}.inggc.pend{cursor:default;opacity:.55;border-left-color:var(--line)}.inggc b{display:block}.inggc span{display:block;font-size:13px;color:var(--muted)}.inggc .inggu{font-size:12px;margin-top:2px}
+.ingptos{text-align:center;font-size:15px;margin:2px 0 0;color:var(--ink)}.ingok{margin-left:auto;font-size:12px;font-weight:700;color:#4a7c4e;white-space:nowrap}.ingok.nuevo{animation:ingpop .6s}@keyframes ingpop{0%{transform:scale(1.6)}100%{transform:scale(1)}}
+.ingsubt{font-weight:700;margin:14px 0 2px}.ingprefiero{margin-top:12px;width:100%}.ingp.plegado>:not(.ingh){display:none}.ingp.plegado .ingh{cursor:pointer}.ingp.plegado .ingh b::after{content:' · pulsar para abrir';font-weight:400;font-size:12px;color:var(--muted)}
 .ingcuenta{font-size:13px;color:var(--muted);margin:4px 0 0}.ingcuenta.ok{color:#4a7c4e;font-weight:700}
 .ingtrad{border-top:1px dashed var(--line);padding-top:10px;margin-top:10px}.ingtrad:first-of-type{border-top:0;margin-top:0;padding-top:0}.ingesp{font-size:17px;font-weight:600;margin:0 0 6px}.ingta1{min-height:56px}.ingoir{background:none;border:0;cursor:pointer;font-size:16px}
 .ingmod{background:#eef3ec;border:1px solid #cfdcc9;border-radius:12px;padding:10px 12px;margin-top:10px}.ingmod .et{font-size:12px;color:#4a7c4e;font-weight:700;text-transform:uppercase;letter-spacing:.05em}.ingmod p{margin:4px 0 0}
@@ -1959,30 +1962,37 @@ let ING=null, IG={t:null,k:'medium',esc:0,fr:0,tope:null};
 const IGA=new Audio(); IGA.preload='none';
 async function ingDatos(){if(!ING){try{ING=await getJ('ingles.json');}catch(e){ING={temas:[]};}}return ING;}
 async function renderIngles(id){lastScreen='ingles';show('ingles');const D=await ingDatos();
- if(!id){$('#ingBox').innerHTML='<div class="sec-t" style="margin-top:6px">🇬🇧 Inglés con historia</div><p class="rt">Repasa inglés con la historia de España: escucha, contesta, repite y cuéntalo tú. Cada historia tiene tres niveles; entra por el que te apetezca hoy.</p>'+
-   D.temas.slice().reverse().map(t=>`<button class="big" onclick="go('#/ingles/${t.id}')">${t.lam?`<img class="ingmini" src="${t.lam}" alt="" loading="lazy">`:'<span class="bi">🎧</span>'}<div><h3>${esc(t.tEN)}</h3><p>${esc(t.tES)}${t.fecha?' · '+esc(t.fecha):''}</p></div></button>`).join('')||'<p class="empty-st">Pronto habrá historias.</p>';return;}
+ if(id==='gramatica'){ingGramPag(D);return;}
+ if(!id){const GG=D.gram||{},vis=new Set();D.temas.forEach(t=>Object.values(t.niveles).forEach(n=>n.gram&&vis.add(n.gram.id)));
+  $('#ingBox').innerHTML='<div class="sec-t" style="margin-top:6px">🇬🇧 Inglés con historia</div><p class="rt">Repasa inglés con la historia de España: escucha, contesta, repite y cuéntalo tú. Cada historia tiene tres niveles; entra por el que te apetezca hoy.</p>'+
+  `<button class="big" onclick="go('#/ingles/gramatica')"><span class="bi">📚</span><div><h3>Clases de gramática</h3><p>${vis.size} de ${Object.keys(GG).length} clases vistas en las historias</p></div></button>`+
+   D.temas.slice().reverse().map(t=>{const P=ingPtsTodo(),pt=['easy','medium','hard'].reduce((a,k)=>a+Object.values(P[t.id+'-'+k]||{}).reduce((x,y)=>x+y,0),0);return `<button class="big" onclick="go('#/ingles/${t.id}')">${t.lam?`<img class="ingmini" src="${t.lam}" alt="" loading="lazy">`:'<span class="bi">🎧</span>'}<div><h3>${esc(t.tEN)}</h3><p>${esc(t.tES)}${t.fecha?' · '+esc(t.fecha):''}${pt?` · ⭐ ${pt} puntos`:''}</p></div></button>`;}).join('')||'<p class="empty-st">Pronto habrá historias.</p>';return;}
  const T=D.temas.find(t=>t.id===id); if(!T){go('#/ingles');return;}
  if(IG.t!==id){IG={t:id,k:LS.get('hk_ing_k','medium'),esc:0,fr:0,tope:null};}
  ingPinta();}
 const ingT=()=>ING.temas.find(t=>t.id===IG.t), ingN=()=>ingT().niveles[IG.k], ingTxt=n=>n.fr.map(f=>f[0]).join(' ');
 const ING_K={easy:'🌱 Aprendiendo',medium:'📘 Básicos',hard:'🎓 Grandes'};
 function ingPinta(){const T=ingT(),n=ingN(); ingPara();
- const paso=(i,t,s,body,off)=>`<div class="ingp${off?' off':''}" id="ip${i}"><div class="ingh"><span class="ingn${i===7?' fin':''}${i==='G'?' gram':''}">${i}</span><b>${t}</b></div><p class="ings">${s}</p>${body}</div>`;
+ const LAB={0:0,1:1,3:2,4:3,G:'G',5:4,6:5,7:6};   // id interno → número que se ve (el 1 y el 2 van juntos desde el 10-nov)
+ const paso=(i,t,s,body)=>`<div class="ingp" id="ip${i}"><div class="ingh" onclick="this.parentNode.classList.remove('plegado')"><span class="ingn${i===7?' fin':''}${i==='G'?' gram':''}">${LAB[i]}</span><b>${t}</b><span class="ingok" id="ipb${i}"></span></div><p class="ings">${s}</p>${body}</div>`;
  let h=`<div class="sec-t" style="margin-top:6px"><a href="#/ingles" style="color:inherit">🇬🇧 Inglés con historia</a></div>
 ${(T.lam||T.viva)?`<div class="ingill">${T.viva&&!(navigator.connection&&navigator.connection.saveData)&&!matchMedia('(prefers-reduced-motion: reduce)').matches?`<video src="${T.viva}" poster="${T.lam||''}" autoplay muted loop playsinline preload="metadata"></video>`:`<img src="${T.lam}" alt="" loading="lazy">`}</div>`:''}
  <div class="seg" id="ingSeg">${Object.keys(ING_K).map(k=>`<button data-k="${k}" class="${k===IG.k?'on':''}">${ING_K[k]}</button>`).join('')}</div>
  <div id="ingVozBox" class="ingvoz">Comprobando las voces…</div>
- <p class="ingmeta">${esc(n.et)} · ${n.fr.length} frases · ${n.s?`${Math.round(n.s/6)/10} min · voz ${esc(T.voz||'')}, acento ${T.acento==='American'?'americano':'británico'}`:'voz del navegador'}</p>`;
+ <p class="ingmeta">${esc(n.et)} · ${n.fr.length} frases · ${n.s?`${Math.round(n.s/6)/10} min · voz ${esc(T.voz||'')}, acento ${T.acento==='American'?'americano':'británico'}`:'voz del navegador'}</p>
+ <p class="ingptos" id="ingPtos"></p><p class="ingnota" style="text-align:center;margin-top:0">Haz los bloques que quieras y en el orden que quieras: cada uno terminado suma puntos.</p>`;
  h+=paso(0,'Before you listen','Key words to help you understand the text · <i>Palabras clave para ayudarte a entender el texto</i>',
   `<h2 class="ingtit">${esc(T.tEN)}</h2><p class="ingsub">${esc(T.tES)}</p><div class="ingglos">${n.glos.map(([p,s])=>`<div><b>${esc(p)}</b> — ${esc(s)}</div>`).join('')}</div>`);
- h+=paso(1,'Listen with no text','Sin leer. Repítelo las veces que quieras antes de pasar.',
+ h+=paso(1,'Listen with no text','Escucha sin leer, las veces que quieras, y luego contesta de qué iba.',
   `${ingRep(2,IG.k!=='easy'?'<button class="btn sec" onclick="ingEscalera()">Primero la fácil, luego ésta</button>':'')}
-  <label class="ingvel">Velocidad <select id="ingVel" onchange="IGA.playbackRate=+this.value">${['0.7','0.8','0.9','1','1.15'].map(v=>`<option${v===(n.audio?'1':n.vel)?' selected':''}>${v}</option>`).join('')}</select></label><p class="ingnota" id="ingEsc">Veces escuchado: ${IG.esc}</p>`);
- h+=paso(2,'What was it about?','Idea general. Todavía sin texto.','<div id="ingGist"></div>',1);
+  <label class="ingvel">Velocidad <select id="ingVel" onchange="IGA.playbackRate=+this.value">${['0.7','0.8','0.9','1','1.15'].map(v=>`<option${v===(n.audio?'1':n.vel)?' selected':''}>${v}</option>`).join('')}</select></label><p class="ingnota" id="ingEsc">Veces escuchado: ${IG.esc}</p>
+  <p class="ingsubt">What was it about? · <i>¿De qué iba?</i></p><div id="ingGist"></div>
+  <button class="btn sec ingprefiero" onclick="ingPrefiero()">📖 Prefiero tener el texto delante</button>`);
  h+=paso(3,'Listen and read','▶ oye una frase sola, ES la traduce y cualquier palabra pulsada te dice qué significa.',
   `${ingRep(4,'<button class="btn sec" id="ingEsB" onclick="ingEs()">Ver el castellano</button>')}<div id="ingTexto">${n.fr.map((f,i)=>`<p class="ingfr" data-i="${i}"><button class="ingpl" title="Oír la frase" onclick="ingOir(${i},4)">▶</button><span class="en">${ingPal(f[0],n)}</span><button class="ingtr" title="Traducir esta frase" onclick="this.parentNode.classList.toggle('abierta')">ES</button><span class="es">${esc(f[1])}</span></p>`).join('')}</div>`,1);
  h+=paso(4,'Now the details','Fechas, nombres y cifras. Distintas de las de antes.','<div id="ingDet"></div>',1);
- if(n.gram)h+=paso('G','Grammar corner',esc(n.gram.t),`<p class="ingex">${n.gram.ex}</p><div class="ingej">${n.gram.ej.map(x=>`<p>${x}</p>`).join('')}</div><div id="ingGram"></div>`,1);
+ const GC=n.gram&&(ING.gram||{})[n.gram.id]||{};
+ if(n.gram)h+=paso('G','Grammar corner',esc(GC.t||'')+` · <a href="#/ingles/gramatica">ver todas las clases</a>`,`<p class="ingex">${GC.ex||''}</p><div class="ingej">${n.gram.ej.map(x=>`<p>${x}</p>`).join('')}</div><div id="ingGram"></div>`,1);
  h+=paso(5,'Shadowing','Oye una frase y repítela imitándola, sin pensar en la gramática.',
   `<div class="ingb"><button class="btn sec" onclick="ingOir(IG.fr,6)">▶ Oír la frase</button><button class="btn" onclick="ingRepite()">🎙 Repetirla</button><button class="btn sec" onclick="IG.fr=(IG.fr+1)%ingN().fr.length;ingFrase()">Otra frase →</button></div><p class="ingfrase" id="ingFr"></p><div class="ingcmp" id="ingFrCmp"></div>`,1);
  const minP={easy:25,medium:50,hard:80}[IG.k];
@@ -1994,7 +2004,7 @@ ${(T.lam||T.viva)?`<div class="ingill">${T.viva&&!(navigator.connection&&navigat
  h+=`<div class="inggancho"><p>${esc(n.gancho)}</p>${T.des?`<button class="btn" onclick="go('#/d/${T.des}')">Leer la historia completa en castellano →</button>`:''}</div>`;
  $('#ingBox').innerHTML=h;
  $('#ingSeg').querySelectorAll('button').forEach(b=>b.onclick=()=>{IG.k=b.dataset.k;IG.esc=0;IG.fr=0;LS.set('hk_ing_k',IG.k);ingPinta();});
- ingPreg('ingGist',n.gist,3); ingPreg('ingDet',n.det,n.gram?'G':5); if(n.gram)ingPreg('ingGram',n.gram.q,5); ingFrase(); ingVozUI(); setTimeout(ingVozUI,700);}
+ ingPreg('ingGist',n.gist,3); ingPreg('ingDet',n.det,n.gram?'G':5); if(n.gram)ingPreg('ingGram',n.gram.q,5); ingPtosUI(); ingFrase(); ingVozUI(); setTimeout(ingVozUI,700);}
 const ingAbre=i=>{const e=$('#ip'+i);if(e)e.classList.remove('off');};   // 'G' = rincón de gramática, entre el 4 y el 5
 // ---- audio: el grabado (AI Studio) si lo hay; si no, la voz inglesa del navegador ----
 let ING_VOZ=null;
@@ -2014,6 +2024,22 @@ function ingPara(){IGA.pause();IG.tope=null;IG.modo=null;if(window.speechSynthes
 const ingMin=x=>{x=Math.max(0,Math.round(x||0));return Math.floor(x/60)+':'+String(x%60).padStart(2,'0');};
 function ingRep(abrir,extra,cierre){const n=ingN();
  return `<div class="ingrep"><div class="ingb"><button class="btn ingpp" onclick="ingPP(${abrir},${cierre?1:0})">▶ Escuchar</button><button class="btn sec" onclick="ingDesde0(${abrir},${cierre?1:0})">⟲ Desde el principio</button>${extra||''}</div>${n.audio?`<div class="ingbar" onclick="ingSeek(event,this)"><i></i></div><span class="ingtm">0:00 / ${ingMin(n.s)}</span>`:''}</div>`;}
+
+// ---- puntos de lección (por historia y nivel; se guarda el mejor resultado de cada bloque) ----
+
+function ingGramPag(D){const GG=D.gram||{},uso={};D.temas.forEach(t=>Object.entries(t.niveles).forEach(([k,n])=>{if(n.gram)(uso[n.gram.id]=uso[n.gram.id]||[]).push([t,k]);}));
+ const P=ingPtsTodo();
+ $('#ingBox').innerHTML=`<div class="sec-t" style="margin-top:6px"><a href="#/ingles" style="color:inherit">🇬🇧 Inglés con historia</a> › Gramática</div><p class="rt">El temario de gramática. Cada historia da una clase de cada nivel, sacada de su propio texto; con el tiempo se completan todas.</p>`+
+ Object.keys(ING_K).map(k=>`<div class="sec-t">${ING_K[k]}</div>`+Object.entries(GG).filter(([,g])=>g.n===k).map(([id,g])=>{const u=uso[id]||[];const hecho=u.some(([t,kk])=>(P[t.id+'-'+kk]||{}).G);
+  return `<div class="inggc${u.length?'':' pend'}"${u.length?` onclick="IG.k='${u[0][1]}';LS.set('hk_ing_k','${u[0][1]}');IG.t=null;go('#/ingles/${u[0][0].id}');setTimeout(()=>{const e=$('#ipG');if(e)e.scrollIntoView({block:'start'})},400)"`:''}><b>${hecho?'✓ ':''}${esc(g.t)}</b><span>${esc(g.r||'')}</span><span class="inggu">${u.length?'En: '+u.map(([t])=>esc(t.tEN)).join(', '):'Próximamente'}</span></div>`;}).join('')).join('');}
+function ingPtsTodo(){return LS.get('hk_ing_p',{});}
+function ingP(){return ingPtsTodo()[IG.t+'-'+IG.k]||{};}
+function ingSuma(k,v){const A=ingPtsTodo(),c=IG.t+'-'+IG.k,r=A[c]||{};if((r[k]||0)>=v){ingPtosUI();return;}r[k]=v;A[c]=r;LS.set('hk_ing_p',A);ingPtosUI(k,v);}
+function ingPtosUI(k,v){const r=ingP(),tot=Object.values(r).reduce((a,b)=>a+b,0),e=$('#ingPtos');if(e)e.innerHTML=`⭐ <b>${tot}</b> puntos de lección en este nivel`;
+ const blo={};Object.keys(r).forEach(x=>{const b=x[0]==='G'?'G':x[0];blo[b]=(blo[b]||0)+r[x];});
+ ['1','3','4','G','5','6','7'].forEach(b=>{const s=$('#ipb'+b);if(s)s.textContent=blo[b]?`✓ ${blo[b]} pts`:'';});
+ if(k){const s=$('#ipb'+(k[0]==='G'?'G':k[0]));if(s){s.classList.remove('nuevo');void s.offsetWidth;s.classList.add('nuevo');}}}
+function ingPrefiero(){ingPara();$('#ip1').classList.add('plegado');const d=$('#ip3');if(d)d.scrollIntoView({behavior:'smooth',block:'start'});}
 function ingSonando(){return IG.modo==='todo'&&(ingN().audio?!IGA.paused:(window.speechSynthesis&&speechSynthesis.speaking&&!speechSynthesis.paused));}
 function ingUI(){const son=ingSonando(),emp=IG.modo==='todo';
  document.querySelectorAll('.ingpp').forEach(b=>b.textContent=son?'⏸ Pausa':(emp?'▶ Seguir':'▶ Escuchar'));
@@ -2022,7 +2048,7 @@ function ingUI(){const son=ingSonando(),emp=IG.modo==='todo';
 function ingPP(abrir,cierre){const n=ingN();
  if(IG.modo==='todo'){if(n.audio){if(IGA.paused)IGA.play().catch(()=>{});else IGA.pause();}else{const S=speechSynthesis;if(S.paused)S.resume();else S.pause();}setTimeout(ingUI,50);return;}
  ingDesde0(abrir,cierre);}
-function ingDesde0(abrir,cierre){if(cierre){const v=$('#ingVel');if(v)v.value=ingN().audio?'1':ingN().vel;}
+function ingDesde0(abrir,cierre){IG.org=cierre?'7':({2:'1e',4:'3'})[abrir]||null;if(cierre){const v=$('#ingVel');if(v)v.value=ingN().audio?'1':ingN().vel;}
  ingOir('todo',abrir,cierre?()=>{$('#ingCierreN').textContent='Terminado. Si esta última vez lo has seguido sin esfuerzo, el siguiente hazlo un nivel por encima.';}:null);}
 function ingSeek(ev,bar){if(!ingN().audio)return;const r=bar.getBoundingClientRect(),f=Math.min(1,Math.max(0,(ev.clientX-r.left)/r.width));
  if(IG.modo!=='todo'){ingOir('todo');}IGA.currentTime=f*(IGA.duration||ingN().s);ingUI();}
@@ -2030,10 +2056,10 @@ function ingOir(q,abrir,cb){const n=ingN();ingPara();IG.modo=q==='todo'?'todo':'
  if(q==='todo'){IG.esc++;const e=$('#ingEsc');if(e)e.textContent='Veces escuchado: '+IG.esc;}
  if(n.audio){const a=IGA;if(!a.src.endsWith(n.audio))a.src=n.audio;a.onplay=a.onpause=ingUI;a.playbackRate=+(($('#ingVel')||{}).value||1);
   const t=n.t||[0];if(q==='todo'){a.currentTime=0;IG.tope=null;}else{a.currentTime=t[q]||0;IG.tope=q<t.length-1?t[q+1]-0.05:null;ingMarca(q);}
-  a.onended=()=>{IG.modo=null;ingMarca(-1);ingUI();cb&&cb();};a.ontimeupdate=()=>{ingUI();if(IG.tope!=null&&a.currentTime>=IG.tope){a.pause();IG.tope=null;ingMarca(-1);cb&&cb();return;}if(q==='todo'&&n.t&&n===ingN()){let i=0;while(i<t.length-1&&a.currentTime>=t[i+1])i++;ingMarca(i);}};
+  a.onended=()=>{if(IG.modo==='todo'&&IG.org)ingSuma(IG.org,IG.org==='7'?15:10);IG.modo=null;ingMarca(-1);ingUI();cb&&cb();};a.ontimeupdate=()=>{ingUI();if(IG.tope!=null&&a.currentTime>=IG.tope){a.pause();IG.tope=null;ingMarca(-1);cb&&cb();return;}if(q==='todo'&&n.t&&n===ingN()){let i=0;while(i<t.length-1&&a.currentTime>=t[i+1])i++;ingMarca(i);}};
   a.play().catch(()=>{});return;}
- if(q==='todo'){ingHabla(ingTxt(n),()=>{IG.modo=null;ingUI();cb&&cb();});setTimeout(ingUI,80);}else{ingMarca(q);ingHabla(n.fr[q][0],()=>{ingMarca(-1);cb&&cb();});}}
-function ingEscalera(){const f=IG.k==='hard'?'medium':'easy',k=IG.k;ingAbre(2);
+ if(q==='todo'){ingHabla(ingTxt(n),()=>{if(IG.org)ingSuma(IG.org,IG.org==='7'?15:10);IG.modo=null;ingUI();cb&&cb();});setTimeout(ingUI,80);}else{ingMarca(q);ingHabla(n.fr[q][0],()=>{ingMarca(-1);cb&&cb();});}}
+function ingEscalera(){IG.org='1e';const f=IG.k==='hard'?'medium':'easy',k=IG.k;ingAbre(2);
  IG.k=f;ingOir('todo',0,()=>{ingOir('todo');$('#ingEsc').textContent='Ahora la tuya. Se entiende bastante más, ¿verdad?';});IG.k=k;   // ingOir guarda el nivel al empezar
  $('#ingEsc').textContent='Suena la versión fácil… y luego la tuya.';}
 
@@ -2055,19 +2081,19 @@ function ingPreg(cont,lista,abrir){const c=$('#'+cont);let hechas=0,bien=0;
  c.innerHTML=lista.map((p,n)=>`<div class="ingq" data-n="${n}"><p>${n+1}. ${esc(p.q)}</p>${p.o.map((o,i)=>`<button class="res" data-i="${i}">${esc(o)}</button>`).join('')}</div>`).join('');
  c.querySelectorAll('.ingq').forEach(d=>{const p=lista[+d.dataset.n];d.querySelectorAll('button').forEach(b=>b.onclick=()=>{if(d.dataset.done)return;d.dataset.done=1;hechas++;const i=+b.dataset.i;
   if(i===p.ok){b.classList.add('bien');bien++;}else{b.classList.add('mal');d.querySelectorAll('button')[p.ok].classList.add('bien');}
-  if(hechas===lista.length){c.insertAdjacentHTML('beforeend',`<p class="ingnota">Aciertos: ${bien} de ${lista.length}${bien*2<lista.length&&cont==='ingGist'?' — si en la primera escucha coges menos de la mitad, baja de nivel: no es el orden, es el nivel.':''}</p>`);ingAbre(abrir);}});});}
+  if(hechas===lista.length){const B={ingGist:'1q',ingDet:'4',ingGram:'G'}[cont];if(B)ingSuma(B,5+5*bien);c.insertAdjacentHTML('beforeend',`<p class="ingnota">Aciertos: ${bien} de ${lista.length}${bien*2<lista.length&&cont==='ingGist'?' — si en la primera escucha coges menos de la mitad, baja de nivel: no es el orden, es el nivel.':''}</p>`);ingAbre(abrir);}});});}
 function ingFrase(){const e=$('#ingFr');if(e)e.innerHTML=ingPal(ingN().fr[IG.fr][0],ingN());const c=$('#ingFrCmp');if(c)c.innerHTML='';}
 const ingNorm=t=>t.toLowerCase().replace(/[^a-z0-9'\s]/g,' ').split(/\s+/).filter(Boolean);
 function ingCompara(dicho,obj,dest,nota){const a=ingNorm(dicho),b=ingNorm(obj),us=new Set();let ac=0;
  const h=b.map(w=>{const j=a.findIndex((x,k)=>x===w&&!us.has(k));if(j>=0){us.add(j);ac++;return `<span class="ok">${w}</span>`;}return `<span class="ko">${w}</span>`;}).join(' ');
  const sob=a.filter((x,k)=>!us.has(k));$('#'+dest).innerHTML=h+(sob.length?`<br><span class="ex">De más o distinto: ${esc(sob.join(' '))}</span>`:'');
- const pc=b.length?Math.round(100*ac/b.length):0;if(nota)$('#'+nota).textContent=`Se te ha entendido el ${pc} % de las palabras (${ac} de ${b.length}). `+(pc>85?'Te haces entender bien.':pc>60?'A medias: más despacio, marcando el final de cada palabra.':'Prueba frases más cortas y más lentas.');}
+ const pc=b.length?Math.round(100*ac/b.length):0;IG.ultPc=pc;if(nota)$('#'+nota).textContent=`Se te ha entendido el ${pc} % de las palabras (${ac} de ${b.length}). `+(pc>85?'Te haces entender bien.':pc>60?'A medias: más despacio, marcando el final de cada palabra.':'Prueba frases más cortas y más lentas.');}
 function ingEscucha(cb){const R=window.SpeechRecognition||window.webkitSpeechRecognition;if(!R){alert('Este navegador no reconoce la voz. Usa Chrome, Edge o Safari.');return;}
  const r=new R();r.lang='en-GB';r.interimResults=false;r.maxAlternatives=1;r.onresult=e=>cb(e.results[0][0].transcript);r.onerror=e=>alert('No se ha podido escuchar ('+e.error+').');r.start();}
-function ingRepite(){const f=ingN().fr[IG.fr][0];ingEscucha(t=>{ingCompara(t,f,'ingFrCmp');ingAbre(6);});}
+function ingRepite(){const f=ingN().fr[IG.fr][0];ingEscucha(t=>{ingCompara(t,f,'ingFrCmp');if(IG.ultPc>=60){IG.sh=IG.sh||new Set();IG.sh.add(IG.t+IG.k+IG.fr);ingSuma('5',Math.min(25,5*IG.sh.size));}ingAbre(6);});}
 function ingDilo(j){const m=$('#ingMio'+j).value.trim();if(!m){alert('Escribe primero tu frase.');return;}ingEscucha(t=>{ingCompara(t,m,'ingCmp'+j,'ingCmpN'+j);ingAbre(7);});}
-function ingCuenta(m){const c=($('#ingMio').value.match(/[A-Za-zÀ-ÿ'’-]+/g)||[]).length,e=$('#ingCuenta');e.textContent=c>=m?`${c} palabras ✓`:`${c} de ${m} palabras`;e.classList.toggle('ok',c>=m);}
-function ingSol(j){const t=ingN().trad[j],m=$('#ingMio'+j).value.trim();
+function ingCuenta(m){const c=($('#ingMio').value.match(/[A-Za-zÀ-ÿ'’-]+/g)||[]).length,e=$('#ingCuenta');if(c>=m)ingSuma('6l',20);e.textContent=c>=m?`${c} palabras ✓`:`${c} de ${m} palabras`;e.classList.toggle('ok',c>=m);}
+function ingSol(j){const t=ingN().trad[j],m=$('#ingMio'+j).value.trim();if(m)ingSuma('6t'+j,10);
  $('#ingSol'+j).innerHTML=`<div class="ingmod"><div class="et">Una buena traducción</div><p>${esc(t[1])} <button class="ingoir" onclick="ingHabla(ingN().trad[${j}][1])" title="Oírla">🔊</button></p></div>`+(m?'<p class="ingnota">Tu frase comparada con la solución (en verde las palabras que coinciden):</p>':'');
  if(m)ingCompara(m,t[1],'ingCmp'+j,null);else $('#ingCmp'+j).innerHTML='';ingAbre(7);}
 function ingLee(){const m=$('#ingMio').value.trim();if(!m){alert('Escribe algo y te lo leo.');return;}ingHabla(m);ingAbre(7);}
