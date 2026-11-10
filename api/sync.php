@@ -60,8 +60,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         echo json_encode(['error' => 'JSON no válido']);
         exit;
     }
-    // Límite de tamaño sencillo para evitar abusos (200 KB sobra de sobra para esto).
-    if (strlen($cuerpo) > 200000) {
+    // Límite de tamaño sencillo para evitar abusos (600 KB: desde nov-2026 guarda también los textos en inglés, ~110 KB al año de un alumno constante).
+    if (strlen($cuerpo) > 600000) {
         http_response_code(413);
         echo json_encode(['error' => 'Demasiados datos']);
         exit;

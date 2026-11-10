@@ -771,7 +771,7 @@ function datosSync(){
   favs: LS.get('hk_favs',[]),
   ultima: LS.get('hk_ultima',null),
   ajustes: LS.get('hk_ajustes',{pal:'oceano',fon:'redondeada',tam:'normal'}),
-  ingles: {p:LS.get('hk_ing_p',{}),h:LS.get('hk_ing_hechas',{g:{},pv:{}}),k:LS.get('hk_ing_k','medium'),pref:!!LS.get('hk_ing_pref',false)},
+  ingles: {p:LS.get('hk_ing_p',{}),h:LS.get('hk_ing_hechas',{g:{},pv:{}}),k:LS.get('hk_ing_k','medium'),pref:!!LS.get('hk_ing_pref',false),t:LS.get('hk_ing_txt',{})},
  };
 }
 let syncT=null;
@@ -797,6 +797,7 @@ function syncPull(){
   if('ajustes'in d){LS.set('hk_ajustes',d.ajustes);aplicaAjustes();}
   if(d.ingles){const a=LS.get('hk_ing_p',{}),b=d.ingles.p||{};for(const c in b){a[c]=a[c]||{};for(const k in b[c])a[c][k]=Math.max(a[c][k]||0,b[c][k]);}LS.set('hk_ing_p',a);   // inglés: se juntan los avances de los dos aparatos
    const h=LS.get('hk_ing_hechas',{g:{},pv:{}}),hb=d.ingles.h||{};['g','pv'].forEach(t=>{h[t]=h[t]||{};for(const k in (hb[t]||{}))if(!h[t][k]||hb[t][k]<h[t][k])h[t][k]=hb[t][k];});LS.set('hk_ing_hechas',h);
+   if(d.ingles.t){const ta=LS.get('hk_ing_txt',{});for(const c in d.ingles.t){const x=d.ingles.t[c];if(!ta[c]||(x.f||'')>(ta[c].f||''))ta[c]=x;}LS.set('hk_ing_txt',ta);}   // textos: gana el más reciente de cada lección
    if(d.ingles.k)LS.set('hk_ing_k',d.ingles.k);if('pref'in d.ingles)LS.set('hk_ing_pref',!!d.ingles.pref);}
  }).catch(()=>{});
 }
@@ -2010,14 +2011,22 @@ ${(T.lam||T.viva)?`<div class="ingill">${T.viva&&!(navigator.connection&&navigat
  const minP={easy:25,medium:50,hard:80}[IG.k];
  h+=paso(6,'Write it in English','Primero traduce dos frases. Luego cuenta tú la historia en inglés, con tus palabras.',
   (n.trad||[]).map((t,j)=>`<div class="ingtrad"><p class="ingesp">${j+1}. ${esc(t[0])}</p><textarea id="ingMio${j}" class="ingta ingta1" placeholder="Write it in English..."></textarea><div class="ingb"><button class="btn sec" onclick="ingCorrige(${j})">✓ Corregir</button><button class="btn sec" onclick="ingDilo(${j})">🎙 Decirlo</button><button class="btn sec" onclick="ingSol(${j})">Ver la solución</button></div><div id="ingCorr${j}" class="ingcorr"></div><ul id="ingLista${j}" class="inglista"></ul><div id="ingSol${j}"></div><div class="ingcmp" id="ingCmp${j}"></div><p class="ingnota" id="ingCmpN${j}"></p></div>`).join('')+
-  `<div class="ingtrad"><p class="ingesp">${(n.trad||[]).length+1}. Ahora cuéntalo tú: escribe en inglés lo que recuerdes de la historia, al menos ${minP} palabras.</p><textarea id="ingMio" class="ingta" placeholder="Write about the story in your own words..." oninput="ingCuenta(${minP})"></textarea><p class="ingcuenta" id="ingCuenta">0 de ${minP} palabras</p><div class="ingb"><button class="btn sec" onclick="ingCorrige('')">✓ Corregir</button><button class="btn sec" onclick="ingDilo('')">🎙 Decirlo</button><button class="btn sec" onclick="ingLee()">🔊 Cómo debía sonar</button><button class="btn sec" onclick="ingModelo()">Así lo diría un nativo</button></div><div id="ingCorr" class="ingcorr"></div><ul id="ingLista" class="inglista"></ul><div id="ingMod"></div><div class="ingcmp" id="ingCmp"></div><p class="ingnota" id="ingCmpN"></p></div>`,1);
+  `<div class="ingtrad"><p class="ingesp">${(n.trad||[]).length+1}. Ahora cuéntalo tú: escribe en inglés lo que recuerdes de la historia, al menos ${minP} palabras.</p><textarea id="ingMio" class="ingta" placeholder="Write about the story in your own words..." oninput="ingCuenta(${minP})"></textarea><p class="ingcuenta" id="ingCuenta">0 de ${minP} palabras</p><div class="ingb"><button class="btn sec" onclick="ingCorrige('')">✓ Corregir</button><button class="btn sec" onclick="ingDilo('')">🎙 Decirlo</button><button class="btn sec" onclick="ingLee()">🔊 Cómo debía sonar</button><button class="btn sec" onclick="ingModelo()">Así lo diría un nativo</button></div><div id="ingCorr" class="ingcorr"></div><ul id="ingLista" class="inglista"></ul><div id="ingMod"></div><div class="ingcmp" id="ingCmp"></div><p class="ingnota" id="ingCmpN"></p><p class="ingnota" id="ingTxtG"></p></div>`,1);
  h+=paso(7,'Listen one last time','Sin texto otra vez y a velocidad normal. Aquí se nota lo que has avanzado.',
   `${ingRep(0,'',1)}<p class="ingnota" id="ingCierreN">Sin texto y a la velocidad del nivel. Compara con la primera vez.</p>`,1);
  h+=`<div id="ingPtosFin" style="margin-top:14px"></div>`;
  h+=`<div class="inggancho"><p>${esc(n.gancho)}</p>${T.des?`<button class="btn" onclick="go('#/d/${T.des}')">Leer la historia completa en castellano →</button>`:''}</div>`;
  $('#ingBox').innerHTML=h;
  $('#ingSeg').querySelectorAll('button').forEach(b=>b.onclick=()=>{IG.k=b.dataset.k;IG.esc=0;IG.fr=0;LS.set('hk_ing_k',IG.k);ingPinta();});
- ingPreg('ingGist',n.gist,3); ingPreg('ingDet',n.det,n.gram?'G':5); if(n.gram)ingPreg('ingGram',n.gram.q,5); if(T.pv)ingPreg('ingPV',[T.pv.q],5); ingPtosUI(); if(LS.get('hk_ing_pref',false))ingPrefiero(true,1); ingFrase(); ingVozUI(); setTimeout(ingVozUI,700);}
+ ingPreg('ingGist',n.gist,3); ingPreg('ingDet',n.det,n.gram?'G':5); if(n.gram)ingPreg('ingGram',n.gram.q,5); if(T.pv)ingPreg('ingPV',[T.pv.q],5); ingPtosUI(); if(LS.get('hk_ing_pref',false))ingPrefiero(true,1); ingFrase(); ingVozUI(); setTimeout(ingVozUI,700); ingTxtCarga();}
+// ---- lo que escribe el alumno: se guarda solo (en el aparato y, si tiene código, en el hosting con su código) ----
+function ingTxtCarga(){const c=IG.t+'-'+IG.k,g=(LS.get('hk_ing_txt',{})[c])||{},minP=$('#ingCuenta')?+($('#ingCuenta').textContent.match(/de (\d+)/)||[0,0])[1]:0;
+ document.querySelectorAll('#ingBox textarea.ingta').forEach(a=>{const id=a.id.replace('ingMio','')||'m';if(g[id]){a.value=g[id];if(id==='m'&&minP)ingCuenta(minP);}
+  a.addEventListener('input',()=>{clearTimeout(a._t);a._t=setTimeout(()=>ingTxtGuarda(c,id,a.value),800);});});ingTxtAviso(g.f);}
+function ingTxtGuarda(c,id,v){const A=LS.get('hk_ing_txt',{}),r=A[c]||{};r[id]=v.slice(0,4000);r.f=new Date().toISOString();A[c]=r;LS.set('hk_ing_txt',A);ingTxtAviso(r.f);if(typeof syncPush==='function')syncPush();}
+function ingTxtAviso(f){const e=$('#ingTxtG');if(!e)return;let cod=null;try{cod=localStorage.getItem('hk_codigo');}catch(x){}
+ e.innerHTML=!f?(cod?'Lo que escribas se guarda solo con tu código.':'Lo que escribas se guarda en este aparato. <a href="#/ajustes">Pon tu código</a> para guardarlo también en la web y verlo en el móvil y el ordenador.')
+  :`💾 Guardado ${cod?'con tu código':'en este aparato'} · ${new Date(f).toLocaleString('es-ES',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'})}`;}
 const ingAbre=i=>{const e=$('#ip'+i);if(e)e.classList.remove('off');};   // 'G' = rincón de gramática, entre el 4 y el 5
 // ---- audio: el grabado (AI Studio) si lo hay; si no, la voz inglesa del navegador ----
 let ING_VOZ=null;
@@ -2125,21 +2134,25 @@ function ingSol(j){const t=ingN().trad[j],m=$('#ingMio'+j).value.trim();if(m)ing
  $('#ingSol'+j).innerHTML=`<div class="ingmod"><div class="et">Una buena traducción</div><p>${esc(t[1])} <button class="ingoir" onclick="ingHabla(ingN().trad[${j}][1])" title="Oírla">🔊</button></p></div>`+(m?'<p class="ingnota">Tu frase comparada con la solución (en verde las palabras que coinciden):</p>':'');
  if(m)ingCompara(m,t[1],'ingCmp'+j,null);else $('#ingCmp'+j).innerHTML='';ingAbre(7);}
 function ingLee(){const m=$('#ingMio').value.trim();if(!m){alert('Escribe algo y te lo leo.');return;}ingHabla(m);ingAbre(7);}
-function ingModelo(){$('#ingMod').innerHTML=`<div class="ingmod"><div class="et">Así lo resumiría un nativo</div><p>${esc(ingN().modelo)}</p></div>`;ingAbre(7);}
+function ingModelo(){const e=$('#ingMod');e.innerHTML=`<div class="ingmod"><div class="et">Así lo resumiría un nativo</div><p>${esc(ingN().modelo)}</p><div class="ingb"><button class="btn sec" onclick="ingHabla(ingN().modelo)">🔊 Escucharlo</button></div></div>`;ingAbre(7);
+ e.scrollIntoView({behavior:'smooth',block:'center'});}   // 10-nov: el resumen salía debajo de la lista de correcciones y no se veía al pulsar
 const ING_REGLAS=[[/\bI have (\d+) years( old)?\b/gi,"I am $1 (years old)","La edad se dice con «to be»."],[/\b(has|have) reason\b/gi,"is / are right","«Tener razón» es «to be right»."],
  [/\binformations\b/gi,"information","«Information» es incontable."],[/\badvices\b/gi,"advice","«Advice» es incontable."],[/\bknowledges\b/gi,"knowledge","«Knowledge» es incontable."],
  [/\bexplain me\b/gi,"explain to me","«Explain» necesita «to» antes de la persona."],[/\bdepend of\b/gi,"depend on","«Depend» va con «on»."],[/\bassist to\b/gi,"attend","Asistir a un sitio es «attend»."],
  [/\bin the year (\d{3,4})\b/gi,"in $1","Con el año basta «in 1803»."],[/\bI am agree\b/gi,"I agree","«Agree» ya es el verbo."],[/\bmake a question\b/gi,"ask a question","Las preguntas se «piden»."],
  [/\bmore (big|small|old|young|easy|fast|strong|large|long|short|high)\b/gi,"$1 + -er","Los adjetivos cortos hacen el comparativo con -er."],[/(^|\.\s+)(Is|Was) (important|necessary|possible|true|clear|difficult)\b/g,"It is / It was + $3","El inglés necesita sujeto."],
- [/\bthe people (is|was)\b/gi,"people are / were","«People» es plural."],[/\b(we|they|you) was\b/gi,"$1 were","Plural: «were»."],[/\ball the world\b/gi,"everybody","«Todo el mundo» es «everybody»."],
+ [/\b(?:the )?people (is|was|has)\b/gi,"people are / were / have","«People» es plural: «people are», «people have»."],[/\b(de|del|el|la|los|las|que|y|en|por|para|pero|muy)\b(?!\s+[A-ZÁÉÍÓÚÑ])/g,"(palabra en inglés)","Se ha colado una palabra en castellano: «de» es «of», «y» es «and», «que» es «that»…"],[/\b(?:the )?(idea|way|possibility|intention) of (transport|carry|take|keep|send|bring|save|use|make|find|travel|go|vaccinate)\b/gi,"$1 of $2-ing","Detrás de una preposición, el verbo va en -ing: «the idea of transporting»."],[/\b(we|they|you) was\b/gi,"$1 were","Plural: «were»."],[/\ball the world\b/gi,"everybody","«Todo el mundo» es «everybody»."],
  [/\bactually\b/gi,"currently (si querías «actualmente»)","«Actually» significa «en realidad»."],[/\beventually\b/gi,"possibly (si querías «eventualmente»)","«Eventually» significa «finalmente»."],
  [/\bsensible\b/gi,"sensitive (si querías «sensible»)","«Sensible» es «sensato»."],[/\bdiscuss about\b/gi,"discuss","«Discuss» no lleva «about»."],[/\bsince (\d+) years\b/gi,"for $1 years","Duración: «for»."],
  [/\b(english|spanish|french|british|american|european|january|february|march|april|june|july|august|september|october|november|december|monday|tuesday|wednesday|thursday|friday|saturday|sunday|america|spain|england|britain|france|europe|atlantic|madrid|london)\b/g,"con mayúscula","Idiomas, nacionalidades, meses, días y lugares van con mayúscula."]];
+// palabras que salen en la historia (nombres propios como Balmis o Coruña): el corrector no debe darlas por faltas
+function ingPropias(){const T=ingT(),w=new Set(Object.keys(T.dic||{}));Object.values(T.niveles||{}).forEach(n=>(n.fr||[]).forEach(f=>(f[0].match(/[A-Za-zÀ-ÿ']+/g)||[]).forEach(x=>w.add(x.toLowerCase()))));return w;}
 function ingReglas(t){const o=[];ING_REGLAS.forEach(([re,sug,por])=>{const r=new RegExp(re.source,re.flags.includes('g')?re.flags:re.flags+'g');let m;while((m=r.exec(t))!==null){let b=sug;for(let g=1;g<=4;g++)b=b.split('$'+g).join(m[g]||'');o.push({mal:m[0].trim(),bien:b.trim(),por});if(m.index===r.lastIndex)r.lastIndex++;}});return o;}
 function ingLista(items,fuente,j){$('#ingLista'+j).innerHTML=items.length?items.map(i=>`<li><b>${esc(i.mal)}</b> → <i>${esc(i.bien)}</i><span>${esc(i.por||'')}</span></li>`).join(''):`<li class="okl">Sin fallos detectados por ${fuente}.</li>`;}
 async function ingCorrige(j){const t=$('#ingMio'+j).value.trim();if(!t){alert('Escribe primero tu texto.');return;}const loc=ingReglas(t);$('#ingCorr'+j).innerHTML='<i>Comprobando la gramática…</i>';ingLista(loc,'las reglas de la página',j);
- try{const r=await fetch('https://api.languagetool.org/v2/check',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:new URLSearchParams({text:t,language:'en-GB'})});if(!r.ok)throw new Error('respuesta '+r.status);const d=await r.json();
-  const on=(d.matches||[]).map(m=>({mal:t.substr(m.offset,m.length)||'(falta algo)',bien:(m.replacements||[]).slice(0,3).map(x=>x.value).join(' / ')||'—',por:m.message,off:m.offset,len:m.length}));
+ try{const r=await fetch('https://api.languagetool.org/v2/check',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:new URLSearchParams({text:t,language:'en-GB',level:'picky'})});if(!r.ok)throw new Error('respuesta '+r.status);const d=await r.json();
+  const prop=ingPropias(),ES={'Possible spelling mistake found.':'Posible falta de ortografía.','Possible typo: you repeated a word':'Palabra repetida.','This sentence does not start with an uppercase letter.':'La frase debe empezar con mayúscula.'};
+  const on=(d.matches||[]).filter(m=>!(m.rule&&m.rule.issueType==='misspelling'&&prop.has(t.substr(m.offset,m.length).toLowerCase()))).map(m=>({mal:t.substr(m.offset,m.length)||'(falta algo)',bien:(m.replacements||[]).slice(0,3).map(x=>x.value).join(' / ')||'—',por:ES[m.message]||m.message,off:m.offset,len:m.length}));
   let h='',pos=0;on.slice().sort((a,b)=>a.off-b.off).forEach(m=>{h+=esc(t.slice(pos,m.off))+`<span class="err">${esc(t.substr(m.off,m.len))}</span>`;pos=m.off+m.len;});$('#ingCorr'+j).innerHTML=h+esc(t.slice(pos));ingLista(loc.concat(on),'el corrector',j);}
  catch(e){$('#ingCorr'+j).innerHTML=`<span class="ingko">El corrector de gramática no ha contestado (${esc(e.message)}). Te dejo lo que detectan las reglas de la página.</span>`;}ingAbre(7);}
 function ingCierre(){const v=$('#ingVel');if(v)v.value=ingN().audio?'1':ingN().vel;$('#ingCierreN').textContent='Sin texto y a la velocidad del nivel. Compara con la primera vez.';
