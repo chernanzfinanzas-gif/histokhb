@@ -1,0 +1,404 @@
+{
+ "temas": [
+  {
+   "id": "balmis",
+   "des": "des-balmis",
+   "tEN": "The Children Who Carried the Vaccine",
+   "tES": "Los niños que llevaron la vacuna",
+   "fecha": "1803-1806",
+   "niveles": {
+    "easy": {
+     "et": "Aprendiendo inglés",
+     "vel": "0.8",
+     "fr": [
+      [
+       "Two hundred years ago, smallpox killed thousands of people every year.",
+       "Hace doscientos años, la viruela mataba a miles de personas cada año."
+      ],
+      [
+       "Many people who survived the disease lost their sight.",
+       "Mucha gente que sobrevivía a la enfermedad se quedaba ciega."
+      ],
+      [
+       "Then an English country doctor noticed something strange.",
+       "Un día, un médico rural inglés se fijó en algo raro."
+      ],
+      [
+       "People who caught a mild illness from cows never caught smallpox.",
+       "Quien pillaba una enfermedad leve de las vacas no cogía nunca la viruela."
+      ],
+      [
+       "That is where our word comes from: vaccine, from vaca, a cow.",
+       "De ahí viene nuestra palabra: vacuna, de vaca."
+      ],
+      [
+       "But the new vaccine had a big problem.",
+       "Pero la vacuna nueva tenía un problema gordo."
+      ],
+      [
+       "It only lasted a few days, and then it died.",
+       "Solo duraba unos días, y después se moría."
+      ],
+      [
+       "And America was two months away by ship.",
+       "Y América estaba a dos meses en barco."
+      ],
+      [
+       "So a Spanish doctor had an idea that still sounds impossible.",
+       "Así que un médico español tuvo una idea que todavía hoy parece imposible."
+      ],
+      [
+       "His name was Francisco Javier de Balmis, and the King said yes.",
+       "Se llamaba Francisco Javier de Balmis, y el rey dijo que sí."
+      ]
+     ],
+     "glos": [
+      [
+       "smallpox",
+       "viruela"
+      ],
+      [
+       "sight",
+       "vista"
+      ],
+      [
+       "mild",
+       "leve"
+      ],
+      [
+       "illness",
+       "enfermedad"
+      ],
+      [
+       "lasted",
+       "duró"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "What is this story about?",
+       "o": [
+        "Taking a vaccine across the ocean",
+        "A war between Spain and England",
+        "Building the first hospital"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "Why was it so difficult?",
+       "o": [
+        "The vaccine died after a few days",
+        "Nobody believed in it",
+        "There were no ships"
+       ],
+       "ok": 0
+      }
+     ],
+     "det": [
+      {
+       "q": "Where does the word 'vaccine' come from?",
+       "o": [
+        "From the cow",
+        "From a doctor's name",
+        "From a city in Spain"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "How long did the journey to America take?",
+       "o": [
+        "Two months",
+        "Two weeks",
+        "Two years"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "Who said yes to the plan?",
+       "o": [
+        "The King",
+        "The Pope",
+        "The city of La Coruña"
+       ],
+       "ok": 0
+      }
+     ],
+     "modelo": "Smallpox killed thousands of people every year. An English doctor saw that cows could protect them. The vaccine died in a few days, so a Spanish doctor found a way to carry it alive to America.",
+     "gancho": "¿Cuál era esa idea que todavía hoy parece imposible?"
+    },
+    "medium": {
+     "et": "Conocimientos básicos",
+     "vel": "0.9",
+     "fr": [
+      [
+       "In 1796 an English country doctor, Edward Jenner, proved that cowpox protected people against smallpox.",
+       "En 1796 un médico rural inglés, Edward Jenner, demostró que la viruela de las vacas protegía de la humana."
+      ],
+      [
+       "The word vaccine comes from the Latin word for cow, and that is no accident.",
+       "La palabra vacuna viene del latín «vaca», y no es casualidad."
+      ],
+      [
+       "Spain gave its first vaccinations four years later, in a small town in the Pyrenees.",
+       "España vacunó por primera vez cuatro años después, en un pueblo del Pirineo."
+      ],
+      [
+       "But the vaccine itself could not travel, and that was the problem nobody could solve.",
+       "Pero la vacuna no podía viajar, y ése era el problema que nadie sabía resolver."
+      ],
+      [
+       "The fluid taken from the blisters lost its power within days, and nothing could be kept cold.",
+       "El fluido de las pústulas perdía su eficacia en pocos días, y no había forma de conservar nada en frío."
+      ],
+      [
+       "Every attempt to carry it to America, two months away by sea, had failed.",
+       "Todos los intentos de llevarla a América, a dos meses por mar, habían fracasado."
+      ],
+      [
+       "Then Francisco Javier de Balmis, a military surgeon from Alicante, proposed something very different.",
+       "Entonces Francisco Javier de Balmis, cirujano militar alicantino, propuso algo muy distinto."
+      ],
+      [
+       "Instead of carrying the fluid, they would carry it alive, inside the bodies of children.",
+       "En vez de llevar el fluido, lo llevarían vivo, dentro del cuerpo de unos niños."
+      ],
+      [
+       "They would be vaccinated two at a time, in a chain, all the way across the Atlantic.",
+       "Se les vacunaría por parejas, en cadena, durante toda la travesía del Atlántico."
+      ],
+      [
+       "The King approved the plan, and on 30 November 1803 a ship left La Coruña.",
+       "El rey aprobó el plan, y el 30 de noviembre de 1803 un barco salió de La Coruña."
+      ],
+      [
+       "There were twenty-two children on board, and none of them had ever had smallpox.",
+       "Iban veintidós niños a bordo, y ninguno había pasado la viruela."
+      ]
+     ],
+     "glos": [
+      [
+       "cowpox",
+       "viruela de las vacas"
+      ],
+      [
+       "blisters",
+       "pústulas, ampollas"
+      ],
+      [
+       "fluid",
+       "fluido"
+      ],
+      [
+       "attempt",
+       "intento"
+      ],
+      [
+       "surgeon",
+       "cirujano"
+      ],
+      [
+       "chain",
+       "cadena"
+      ],
+      [
+       "on board",
+       "a bordo"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "What was Balmis's proposal?",
+       "o": [
+        "To carry the vaccine alive inside children",
+        "To build a faster ship",
+        "To keep the fluid on ice"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "Had vaccination already reached Spain?",
+       "o": [
+        "Yes, four years after Jenner",
+        "No, never before this",
+        "Only in the colonies"
+       ],
+       "ok": 0
+      }
+     ],
+     "det": [
+      {
+       "q": "When did the ship leave La Coruña?",
+       "o": [
+        "30 November 1803",
+        "21 October 1805",
+        "1 January 1800"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "How many children sailed?",
+       "o": [
+        "Twenty-two",
+        "Twelve",
+        "Forty"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "Where was Balmis from?",
+       "o": [
+        "Alicante",
+        "Barcelona",
+        "La Coruña"
+       ],
+       "ok": 0
+      }
+     ],
+     "modelo": "In 1796 Jenner proved that cowpox protected people against smallpox, but the vaccine lost its power within days and could not reach America. Balmis, a military surgeon from Alicante, proposed carrying it alive inside the bodies of children, vaccinated in pairs along the way. The King approved the plan, and a ship sailed from La Coruña in November 1803 with twenty-two children on board.",
+     "gancho": "Veintidós niños a bordo. ¿Quién cuidaba de ellos, y qué fue de ellos después?"
+    },
+    "hard": {
+     "et": "Grandes conocimientos",
+     "vel": "1",
+     "fr": [
+      [
+       "At the end of the eighteenth century smallpox was among the deadliest diseases on earth, reckoned to have killed hundreds of thousands of Europeans every year.",
+       "A finales del siglo XVIII la viruela era una de las enfermedades más mortíferas del mundo; se calcula que mataba a cientos de miles de europeos cada año."
+      ],
+      [
+       "Those who survived were frequently left scarred for life or blind, and in the Americas the disease had been catastrophic since the sixteenth century.",
+       "Quienes sobrevivían quedaban a menudo marcados de por vida o ciegos, y en América la enfermedad había sido catastrófica desde el siglo XVI."
+      ],
+      [
+       "Indigenous populations there had no inherited defences against it, and epidemics returned every few years to kill whoever had been born since the last one.",
+       "Los pueblos indígenas no tenían defensas heredadas contra ella, y las epidemias volvían cada pocos años a matar a quien hubiera nacido desde la anterior."
+      ],
+      [
+       "A partial remedy existed: variolation, which meant inoculating a healthy person with matter from a mild case in order to confer immunity.",
+       "Existía un remedio parcial, la variolización: inocular a una persona sana con material de un enfermo leve para inmunizarla."
+      ],
+      [
+       "It worked, but it killed a proportion of those who underwent it, and it could spread the disease to everyone around them.",
+       "Funcionaba, pero mataba a una parte de los inoculados y podía contagiar a quienes los rodeaban."
+      ],
+      [
+       "Jenner's demonstration in 1796 changed everything except for one intractable obstacle: the fluid perished within days and could not be refrigerated.",
+       "La demostración de Jenner en 1796 lo cambió todo salvo un obstáculo irresoluble: el fluido se echaba a perder en días y no se podía refrigerar."
+      ],
+      [
+       "Balmis, who had served in New Spain and had translated a French treatise on vaccination, proposed carrying the vaccine in living tissue instead.",
+       "Balmis, que había servido en Nueva España y había traducido un tratado francés sobre la vacuna, propuso transportarla en tejido vivo."
+      ],
+      [
+       "Children who had never contracted smallpox would be vaccinated in pairs, in sequence, each pair's blisters maturing in nine or ten days to supply the next.",
+       "Se vacunaría por parejas, en secuencia, a niños que no hubieran pasado la viruela, y las pústulas de cada pareja madurarían en nueve o diez días para abastecer a la siguiente."
+      ],
+      [
+       "The ambition went well beyond mere delivery: local physicians were to be trained, and a standing vaccination board left in every city to keep the fluid alive indefinitely.",
+       "La ambición iba mucho más allá de la entrega: había que formar a los médicos locales y dejar en cada ciudad una junta de vacuna que mantuviera el fluido vivo indefinidamente."
+      ],
+      [
+       "Twenty-two children, aged three to nine, sailed from La Coruña on 30 November 1803, and most of them came from its foundling hospital.",
+       "Veintidós niños, de tres a nueve años, zarparon de La Coruña el 30 de noviembre de 1803, y la mayoría venía de su casa de expósitos."
+      ]
+     ],
+     "glos": [
+      [
+       "reckoned",
+       "se calcula"
+      ],
+      [
+       "scarred",
+       "marcado, con cicatrices"
+      ],
+      [
+       "inherited",
+       "heredado"
+      ],
+      [
+       "confer",
+       "conferir, dar"
+      ],
+      [
+       "underwent",
+       "se sometieron a"
+      ],
+      [
+       "intractable",
+       "irresoluble"
+      ],
+      [
+       "perished",
+       "se echaba a perder"
+      ],
+      [
+       "treatise",
+       "tratado"
+      ],
+      [
+       "standing",
+       "permanente"
+      ],
+      [
+       "foundling hospital",
+       "casa de expósitos, inclusa"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "Why was variolation not good enough?",
+       "o": [
+        "It killed some people and could spread the disease",
+        "It had never actually been tried",
+        "It was forbidden by the Crown"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "What was the obstacle Jenner's discovery did not solve?",
+       "o": [
+        "The fluid could not be preserved or transported",
+        "Doctors refused to believe him",
+        "Nobody in Spain had heard of it"
+       ],
+       "ok": 0
+      }
+     ],
+     "det": [
+      {
+       "q": "How long did each pair's blisters take to mature?",
+       "o": [
+        "Nine or ten days",
+        "Two days",
+        "About a month"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "Where did most of the children come from?",
+       "o": [
+        "The foundling hospital of La Coruña",
+        "Noble families of Madrid",
+        "New Spain"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "What was to be left behind in every city?",
+       "o": [
+        "A standing vaccination board",
+        "A military garrison",
+        "A printing press"
+       ],
+       "ok": 0
+      }
+     ],
+     "modelo": "Smallpox was among the deadliest diseases of the eighteenth century, and Jenner's discovery of 1796 could not be exploited overseas because the fluid perished within days. Balmis therefore proposed transporting it in living tissue: children who had never contracted the disease, vaccinated in sequential pairs whose blisters matured every nine or ten days. The purpose of the expedition extended well beyond delivery, since local physicians were to be trained and a permanent vaccination board left behind in each city.",
+     "gancho": "Veintidós niños de la inclusa, de tres a nueve años. ¿Quién respondía por ellos a bordo?"
+    }
+   },
+   "lam": "img/laminas/des-balmis.webp",
+   "viva": "img/vivas/des-balmis.mp4"
+  }
+ ]
+}

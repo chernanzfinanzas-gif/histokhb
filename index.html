@@ -360,6 +360,22 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .aq-near .n{flex:1}.aq-near b{font-family:var(--f-head);font-weight:600}.aq-near small{display:block;color:var(--muted)}
 .btn{display:inline-block;border:0;border-radius:14px;padding:13px 18px;font-family:var(--f-head);font-weight:600;font-size:16px;background:var(--accent);color:#fff}
 .btn.sec{background:#fff;color:var(--ink);border:1.5px solid var(--line)}
+.ingmini{width:84px;height:56px;object-fit:cover;border-radius:10px;flex:0 0 84px}.ingill{margin:10px 0 0;border-radius:16px;overflow:hidden;aspect-ratio:16/9;background:var(--line)}.ingill img,.ingill video{width:100%;height:100%;object-fit:cover;display:block}
+.ingmeta{text-align:center;font-size:12px;color:var(--muted);margin:6px 0 4px}
+.ingp{background:#fff;border:1px solid var(--line);border-radius:16px;padding:14px;margin:12px 0;transition:opacity .2s}.ingp.off{opacity:.45}
+.ingh{display:flex;align-items:center;gap:10px;font-family:var(--f-head);font-size:17px}.ingn{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;flex:0 0 26px;border-radius:50%;background:var(--accent);color:#fff;font-size:14px}.ingn.fin{background:#4a7c4e}
+.ings{margin:4px 0 10px 36px;font-size:13px;color:var(--muted)}.ingtit{margin:4px 0 0;font-size:22px}.ingsub{margin:2px 0 10px;color:var(--muted)}
+.ingglos{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:4px 14px;font-size:14px}.ingglos div{border-bottom:1px dotted var(--line);padding:3px 0}
+.ingb{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0}.ingb .btn{padding:10px 14px;font-size:15px}.ingvel{font-size:13px;color:var(--muted)}.ingvel select{margin-left:6px;padding:3px}
+.ingnota{font-size:13px;color:var(--muted);margin:8px 0 0}.ingq p{margin:10px 0 4px;font-weight:600}.ingq .res{padding:8px 12px;margin:4px 0}.ingq .res.bien{background:#e4f0e2;border-color:#4a7c4e}.ingq .res.mal{background:#f6e2de;border-color:#9c3b2e}
+.ingfr{margin:0 0 6px;padding:6px 8px;border-radius:10px;cursor:pointer;font-size:17px;line-height:1.45}.ingfr:hover{background:#faf1e2}.ingfr.suena{background:#ffe9b8}.ingfr u{text-decoration:none;border-bottom:2px dotted var(--accent)}
+.ingfr .es{display:none;font-size:14px;color:var(--muted);margin-top:2px}#ingTexto.cones .ingfr .es{display:block}
+.ingfrase{font-size:17px;margin:10px 0 4px}.ingcmp{line-height:2;font-size:15px;margin-top:6px}.ingcmp span{padding:2px 5px;border-radius:6px}.ingcmp .ok{background:#dcebd9;color:#2e5230}.ingcmp .ko{background:#f3dcd7;color:#7d2f24;text-decoration:line-through}.ingcmp .ex{color:var(--muted)}
+.ingta{width:100%;min-height:90px;border:1.5px solid var(--line);border-radius:12px;padding:10px;font:inherit;background:var(--bg)}
+.ingcorr{font-size:15px;line-height:1.8;margin-top:8px}.ingcorr .err{background:#f9e3de;border-bottom:2px solid #9c3b2e;border-radius:3px}.ingko{color:#9c3b2e}
+.inglista{list-style:none;padding:0;font-size:14px}.inglista li{border-left:3px solid var(--accent);background:#fdf8ee;padding:6px 10px;margin:5px 0;border-radius:0 8px 8px 0}.inglista li b{color:#9c3b2e}.inglista li i{color:#4a7c4e;font-style:normal;font-weight:700}.inglista li span{display:block;color:var(--muted);font-size:13px}.inglista li.okl{border-left-color:#4a7c4e}
+.ingmod{background:#eef3ec;border:1px solid #cfdcc9;border-radius:12px;padding:10px 12px;margin-top:10px}.ingmod .et{font-size:12px;color:#4a7c4e;font-weight:700;text-transform:uppercase;letter-spacing:.05em}.ingmod p{margin:4px 0 0}
+.inggancho{background:var(--ink);color:#fff;border-radius:16px;padding:16px;margin:16px 0}.inggancho p{margin:0 0 10px;font-size:17px}
 .lugar{display:block;width:100%;text-align:left;background:#fff;border:2px solid var(--accent);border-radius:16px;padding:14px;margin:10px 0}
 .lugar .lk{font-size:12px;font-weight:800;color:var(--accent);text-transform:uppercase;letter-spacing:1px}
 .lugar h3{margin:2px 0 4px;font-size:20px}
@@ -553,6 +569,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <div class="sec-t">Otras formas de explorar</div>
   <button class="big" onclick="go('#/mundo')"><span class="bi">🌍</span><div><h3>El mundo a la vez</h3><p>¿Qué pasaba en China mientras caía Roma? Compara todas las civilizaciones, año a año.</p></div></button>
   <button class="big" onclick="go('#/calendario')"><span class="bi">📅</span><div><h3>La historia en un año</h3><p>Si todo el universo cupiera en un año, ¿qué día llegamos nosotros? Spoiler: el 31 de diciembre, casi a medianoche.</p></div></button>
+  <button class="big" onclick="go('#/ingles')"><span class="bi">🇬🇧</span><div><h3>Inglés con historia</h3><p>Repasa inglés escuchando la historia de España: tres niveles, preguntas, repetir en voz alta y contarlo tú.</p></div></button>
   <button class="big" onclick="go('#/aqui')"><span class="bi">📍</span><div><h3>¿Qué pasó donde estás?</h3><p>Tu móvil te sitúa y la app te cuenta la historia del lugar que pisas.</p></div></button>
   <button class="big" onclick="go('#/favs')"><span class="bi">⭐</span><div><h3>Guardados</h3><p id="favMini">Las historias que marques con ☆.</p></div></button>
   <div id="favs0" class="hide"></div>
@@ -621,6 +638,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 <!-- RETO -->
 <section class="scr" id="s-calendario"><div class="wrap"><div id="calBox"></div></div></section>
 <section class="scr" id="s-novedades"><div class="wrap"><div id="novBox"></div></div></section>
+<section class="scr" id="s-ingles"><div class="wrap"><div id="ingBox"></div></div></section>
 <section class="scr" id="s-reto"><div class="wrap"><div id="retoBox"></div><div id="viajeBox"></div></div></section>
 
 <!-- GUARDADOS -->
@@ -817,7 +835,7 @@ if('serviceWorker' in navigator){const hadSW=!!navigator.serviceWorker.controlle
 
 // ---------- rutas ----------
 let lastScreen=null, lastRoute=null;
-const SECUND=['novedades','semana','favs','ajustes','calendario','mundo','aqui'];
+const SECUND=['ingles','novedades','semana','favs','ajustes','calendario','mundo','aqui'];
 let ORIGEN={}; // pantalla desde la que se entró en cada pantalla secundaria (para «✕ Cerrar»)
 let ALTURA={}, VOLVER_A=null; // altura de la página de cada pantalla, para volver al mismo sitio
 function cerrarScr(){const k=(location.hash.replace(/^#\/?/,'').split('/')[0])||'';const d=ORIGEN[k]||'#/';VOLVER_A=d; if((location.hash||'#/')===d||(d==='#/'&&!location.hash)){lastRoute=null;route();} else go(d);}
@@ -853,6 +871,7 @@ function screen(p){ const k=p[0]||'';
  else if(k==='calendario'){renderCal();}
  else if(k==='reto'){renderReto(p[1]);}
  else if(k==='novedades'){renderNov();}
+ else if(k==='ingles'){renderIngles(p[1]);}
  else if(k==='semana'){renderSemana();}
  else if(k==='ajustes'){renderAjustes();}
  else renderInicio();
@@ -1925,6 +1944,99 @@ async function renderNov(){lastScreen='novedades';show('novedades');const N=awai
  h+=N.slice().reverse().map(d=>`<div class="sec-t">${fdia(d.fecha)} · ${esc(d.titulo)}</div>`+d.items.map(i=>{const r=i.k.slice(0,i.k.lastIndexOf('|')),y=+i.k.split('|').pop();const href=i.href||('#/s/'+encodeURIComponent(i.k));const sub=i.sub||(esc(rn(r))+' · '+fy(y));
   return `<button class="res" onclick="go('${href}')"><div class="rk">${i.tipo==='app'?'🛠️ En la app':i.tipo==='nueva'?'✨ Nueva':'➕ Ampliada'} · ${sub}</div><div class="rt">${esc(i.t)}</div>${i.lugares&&i.lugares.length?`<div class="rs">📍 ${esc(i.lugares.join(', '))}</div>`:''}</button>`;}).join('')).join('');
  $('#novBox').innerHTML=h||'<p class="empty-st">Pronto habrá novedades.</p>';}
+
+
+// ---------- Inglés con historia (datos/ingles.json; boceto 05 del 10-nov-2026) ----------
+let ING=null, IG={t:null,k:'medium',esc:0,fr:0,tope:null};
+const IGA=new Audio(); IGA.preload='none';
+async function ingDatos(){if(!ING){try{ING=await getJ('ingles.json');}catch(e){ING={temas:[]};}}return ING;}
+async function renderIngles(id){lastScreen='ingles';show('ingles');const D=await ingDatos();
+ if(!id){$('#ingBox').innerHTML='<div class="sec-t" style="margin-top:6px">🇬🇧 Inglés con historia</div><p class="rt">Repasa inglés con la historia de España: escucha, contesta, repite y cuéntalo tú. Cada historia tiene tres niveles; entra por el que te apetezca hoy.</p>'+
+   D.temas.slice().reverse().map(t=>`<button class="big" onclick="go('#/ingles/${t.id}')">${t.lam?`<img class="ingmini" src="${t.lam}" alt="" loading="lazy">`:'<span class="bi">🎧</span>'}<div><h3>${esc(t.tEN)}</h3><p>${esc(t.tES)}${t.fecha?' · '+esc(t.fecha):''}</p></div></button>`).join('')||'<p class="empty-st">Pronto habrá historias.</p>';return;}
+ const T=D.temas.find(t=>t.id===id); if(!T){go('#/ingles');return;}
+ if(IG.t!==id){IG={t:id,k:LS.get('hk_ing_k','medium'),esc:0,fr:0,tope:null};}
+ ingPinta();}
+const ingT=()=>ING.temas.find(t=>t.id===IG.t), ingN=()=>ingT().niveles[IG.k], ingTxt=n=>n.fr.map(f=>f[0]).join(' ');
+const ING_K={easy:'🌱 Aprendiendo',medium:'📘 Básicos',hard:'🎓 Grandes'};
+function ingPinta(){const T=ingT(),n=ingN(); ingPara();
+ const paso=(i,t,s,body,off)=>`<div class="ingp${off?' off':''}" id="ip${i}"><div class="ingh"><span class="ingn${i===7?' fin':''}">${i}</span><b>${t}</b></div><p class="ings">${s}</p>${body}</div>`;
+ let h=`<div class="sec-t" style="margin-top:6px"><a href="#/ingles" style="color:inherit">🇬🇧 Inglés con historia</a></div>
+ <div class="seg" id="ingSeg">${Object.keys(ING_K).map(k=>`<button data-k="${k}" class="${k===IG.k?'on':''}">${ING_K[k]}</button>`).join('')}</div>
+ <p class="ingmeta">${esc(n.et)} · ${n.fr.length} frases · ${n.s?Math.round(n.s/6)/10+' min de audio':'voz del navegador'}</p>`;
+ if(T.lam||T.viva)h+=`<div class="ingill">${T.viva&&!(navigator.connection&&navigator.connection.saveData)&&!matchMedia('(prefers-reduced-motion: reduce)').matches?`<video src="${T.viva}" poster="${T.lam||''}" autoplay muted loop playsinline preload="metadata"></video>`:`<img src="${T.lam}" alt="" loading="lazy">`}</div>`;
+ h+=paso(0,'Before you listen','El título y las palabras, nada más. Saber de qué va es lo que más ayuda; leer el texto antes, no.',
+  `<h2 class="ingtit">${esc(T.tEN)}</h2><p class="ingsub">${esc(T.tES)}</p><div class="ingglos">${n.glos.map(([p,s])=>`<div><b>${esc(p)}</b> — ${esc(s)}</div>`).join('')}</div>`);
+ h+=paso(1,'Listen with no text','Sin leer. Repítelo las veces que quieras antes de pasar.',
+  `<div class="ingb"><button class="btn" onclick="ingOir('todo',2)">▶ Escuchar</button>${IG.k!=='easy'?'<button class="btn sec" onclick="ingEscalera()">▶ Primero la fácil, luego ésta</button>':''}<button class="btn sec" onclick="ingPara()">■ Parar</button></div>
+  <label class="ingvel">Velocidad <select id="ingVel" onchange="IGA.playbackRate=+this.value">${['0.7','0.8','0.9','1','1.15'].map(v=>`<option${v===(n.audio?'1':n.vel)?' selected':''}>${v}</option>`).join('')}</select></label><p class="ingnota" id="ingEsc">Veces escuchado: ${IG.esc}</p>`);
+ h+=paso(2,'What was it about?','Idea general. Todavía sin texto.','<div id="ingGist"></div>',1);
+ h+=paso(3,'Listen and read','Pulsa una frase para oírla sola. El castellano puedes verlo debajo.',
+  `<div class="ingb"><button class="btn" onclick="ingOir('todo',4)">▶ Escuchar todo</button><button class="btn sec" id="ingEsB" onclick="ingEs()">Ver el castellano</button></div><div id="ingTexto">${n.fr.map((f,i)=>{let t=esc(f[0]);n.glos.forEach(([w])=>{t=t.replace(new RegExp('\\b('+w.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')\\b','i'),'<u>$1</u>');});return `<p class="ingfr" data-i="${i}" onclick="ingOir(${i},4)"><span>${t}</span><span class="es">${esc(f[1])}</span></p>`;}).join('')}</div>`,1);
+ h+=paso(4,'Now the details','Fechas, nombres y cifras. Distintas de las de antes.','<div id="ingDet"></div>',1);
+ h+=paso(5,'Shadowing','Oye una frase y repítela imitándola, sin pensar en la gramática.',
+  `<div class="ingb"><button class="btn sec" onclick="ingOir(IG.fr,6)">▶ Oír la frase</button><button class="btn" onclick="ingRepite()">🎙 Repetirla</button><button class="btn sec" onclick="IG.fr=(IG.fr+1)%ingN().fr.length;ingFrase()">Otra frase →</button></div><p class="ingfrase" id="ingFr"></p><div class="ingcmp" id="ingFrCmp"></div>`,1);
+ h+=paso(6,'Say it yourself','Escribe en inglés lo que has entendido, dilo en voz alta y compara.',
+  `<textarea id="ingMio" class="ingta" placeholder="Write two or three sentences about the story..."></textarea><div class="ingb"><button class="btn" onclick="ingDilo()">🎙 Decirlo</button><button class="btn sec" onclick="ingLee()">🔊 Cómo debía sonar</button><button class="btn sec" onclick="ingCorrige()">✓ Corregir</button><button class="btn sec" onclick="ingModelo()">Así lo diría un nativo</button></div><div id="ingCorr" class="ingcorr"></div><ul id="ingLista" class="inglista"></ul><div id="ingMod"></div><div class="ingcmp" id="ingCmp"></div><p class="ingnota" id="ingCmpN"></p>`,1);
+ h+=paso(7,'Listen one last time','Sin texto otra vez y a velocidad normal. Aquí se nota lo que has avanzado.',
+  `<div class="ingb"><button class="btn" onclick="ingCierre()">▶ Escucha de cierre</button></div><p class="ingnota" id="ingCierreN"></p>`,1);
+ h+=`<div class="inggancho"><p>${esc(n.gancho)}</p>${T.des?`<button class="btn" onclick="go('#/d/${T.des}')">Leer la historia completa en castellano →</button>`:''}</div>`;
+ $('#ingBox').innerHTML=h;
+ $('#ingSeg').querySelectorAll('button').forEach(b=>b.onclick=()=>{IG.k=b.dataset.k;IG.esc=0;IG.fr=0;LS.set('hk_ing_k',IG.k);ingPinta();});
+ ingPreg('ingGist',n.gist,3); ingPreg('ingDet',n.det,5); ingFrase();}
+const ingAbre=i=>{const e=$('#ip'+i);if(e)e.classList.remove('off');};
+// ---- audio: el grabado (AI Studio) si lo hay; si no, la voz inglesa del navegador ----
+let ING_VOZ=null;
+function ingVoz(){const S=window.speechSynthesis;if(!S)return null;const en=S.getVoices().filter(v=>/^en/i.test(v.lang));en.sort((a,b)=>(/natural|google/i.test(b.name)?1:0)-(/natural|google/i.test(a.name)?1:0));return ING_VOZ=en[0]||null;}
+if(window.speechSynthesis)speechSynthesis.onvoiceschanged=ingVoz;
+function ingHabla(t,cb){const S=window.speechSynthesis;if(!S){cb&&cb();return;}S.cancel();const u=new SpeechSynthesisUtterance(t);const v=ING_VOZ||ingVoz();if(v){u.voice=v;u.lang=v.lang;}else u.lang='en-GB';u.rate=+(($('#ingVel')||{}).value||1);if(cb)u.onend=cb;S.speak(u);}
+function ingMarca(i){document.querySelectorAll('.ingfr').forEach(p=>p.classList.toggle('suena',+p.dataset.i===i));}
+function ingPara(){IGA.pause();IG.tope=null;if(window.speechSynthesis)speechSynthesis.cancel();ingMarca(-1);}
+function ingOir(q,abrir,cb){const n=ingN();ingPara();if(abrir)ingAbre(abrir);
+ if(q==='todo'){IG.esc++;const e=$('#ingEsc');if(e)e.textContent='Veces escuchado: '+IG.esc;}
+ if(n.audio){const a=IGA;if(!a.src.endsWith(n.audio))a.src=n.audio;a.playbackRate=+(($('#ingVel')||{}).value||1);
+  const t=n.t||[0];if(q==='todo'){a.currentTime=0;IG.tope=null;}else{a.currentTime=t[q]||0;IG.tope=q<t.length-1?t[q+1]-0.05:null;ingMarca(q);}
+  a.onended=()=>{ingMarca(-1);cb&&cb();};a.ontimeupdate=()=>{if(IG.tope!=null&&a.currentTime>=IG.tope){a.pause();IG.tope=null;ingMarca(-1);cb&&cb();return;}if(q==='todo'&&n.t&&n===ingN()){let i=0;while(i<t.length-1&&a.currentTime>=t[i+1])i++;ingMarca(i);}};
+  a.play().catch(()=>{});return;}
+ if(q==='todo')ingHabla(ingTxt(n),cb);else{ingMarca(q);ingHabla(n.fr[q][0],()=>{ingMarca(-1);cb&&cb();});}}
+function ingEscalera(){const f=IG.k==='hard'?'medium':'easy',k=IG.k;ingAbre(2);
+ IG.k=f;ingOir('todo',0,()=>{ingOir('todo');$('#ingEsc').textContent='Ahora la tuya. Se entiende bastante más, ¿verdad?';});IG.k=k;   // ingOir guarda el nivel al empezar
+ $('#ingEsc').textContent='Suena la versión fácil… y luego la tuya.';}
+function ingEs(){const t=$('#ingTexto');t.classList.toggle('cones');$('#ingEsB').textContent=t.classList.contains('cones')?'Ocultar el castellano':'Ver el castellano';}
+function ingPreg(cont,lista,abrir){const c=$('#'+cont);let hechas=0,bien=0;
+ c.innerHTML=lista.map((p,n)=>`<div class="ingq" data-n="${n}"><p>${n+1}. ${esc(p.q)}</p>${p.o.map((o,i)=>`<button class="res" data-i="${i}">${esc(o)}</button>`).join('')}</div>`).join('');
+ c.querySelectorAll('.ingq').forEach(d=>{const p=lista[+d.dataset.n];d.querySelectorAll('button').forEach(b=>b.onclick=()=>{if(d.dataset.done)return;d.dataset.done=1;hechas++;const i=+b.dataset.i;
+  if(i===p.ok){b.classList.add('bien');bien++;}else{b.classList.add('mal');d.querySelectorAll('button')[p.ok].classList.add('bien');}
+  if(hechas===lista.length){c.insertAdjacentHTML('beforeend',`<p class="ingnota">Aciertos: ${bien} de ${lista.length}${bien*2<lista.length?' — si en la primera escucha coges menos de la mitad, baja de nivel: no es el orden, es el nivel.':''}</p>`);ingAbre(abrir);}});});}
+function ingFrase(){const e=$('#ingFr');if(e)e.textContent=ingN().fr[IG.fr][0];const c=$('#ingFrCmp');if(c)c.innerHTML='';}
+const ingNorm=t=>t.toLowerCase().replace(/[^a-z0-9'\s]/g,' ').split(/\s+/).filter(Boolean);
+function ingCompara(dicho,obj,dest,nota){const a=ingNorm(dicho),b=ingNorm(obj),us=new Set();let ac=0;
+ const h=b.map(w=>{const j=a.findIndex((x,k)=>x===w&&!us.has(k));if(j>=0){us.add(j);ac++;return `<span class="ok">${w}</span>`;}return `<span class="ko">${w}</span>`;}).join(' ');
+ const sob=a.filter((x,k)=>!us.has(k));$('#'+dest).innerHTML=h+(sob.length?`<br><span class="ex">Te ha oído además: ${esc(sob.join(' '))}</span>`:'');
+ const pc=b.length?Math.round(100*ac/b.length):0;if(nota)$('#'+nota).textContent=`Se te ha entendido el ${pc} % de las palabras (${ac} de ${b.length}). `+(pc>85?'Te haces entender bien.':pc>60?'A medias: más despacio, marcando el final de cada palabra.':'Prueba frases más cortas y más lentas.');}
+function ingEscucha(cb){const R=window.SpeechRecognition||window.webkitSpeechRecognition;if(!R){alert('Este navegador no reconoce la voz. Usa Chrome, Edge o Safari.');return;}
+ const r=new R();r.lang='en-GB';r.interimResults=false;r.maxAlternatives=1;r.onresult=e=>cb(e.results[0][0].transcript);r.onerror=e=>alert('No se ha podido escuchar ('+e.error+').');r.start();}
+function ingRepite(){const f=ingN().fr[IG.fr][0];ingEscucha(t=>{ingCompara(t,f,'ingFrCmp');ingAbre(6);});}
+function ingDilo(){const m=$('#ingMio').value.trim();if(!m){alert('Escribe primero tu resumen.');return;}ingEscucha(t=>{ingCompara(t,m,'ingCmp','ingCmpN');ingAbre(7);});}
+function ingLee(){const m=$('#ingMio').value.trim();if(!m){alert('Escribe algo y te lo leo.');return;}ingHabla(m);ingAbre(7);}
+function ingModelo(){$('#ingMod').innerHTML=`<div class="ingmod"><div class="et">Así lo resumiría un nativo</div><p>${esc(ingN().modelo)}</p></div>`;ingAbre(7);}
+const ING_REGLAS=[[/\bI have (\d+) years( old)?\b/gi,"I am $1 (years old)","La edad se dice con «to be»."],[/\b(has|have) reason\b/gi,"is / are right","«Tener razón» es «to be right»."],
+ [/\binformations\b/gi,"information","«Information» es incontable."],[/\badvices\b/gi,"advice","«Advice» es incontable."],[/\bknowledges\b/gi,"knowledge","«Knowledge» es incontable."],
+ [/\bexplain me\b/gi,"explain to me","«Explain» necesita «to» antes de la persona."],[/\bdepend of\b/gi,"depend on","«Depend» va con «on»."],[/\bassist to\b/gi,"attend","Asistir a un sitio es «attend»."],
+ [/\bin the year (\d{3,4})\b/gi,"in $1","Con el año basta «in 1803»."],[/\bI am agree\b/gi,"I agree","«Agree» ya es el verbo."],[/\bmake a question\b/gi,"ask a question","Las preguntas se «piden»."],
+ [/\bmore (big|small|old|young|easy|fast|strong|large|long|short|high)\b/gi,"$1 + -er","Los adjetivos cortos hacen el comparativo con -er."],[/(^|\.\s+)(Is|Was) (important|necessary|possible|true|clear|difficult)\b/g,"It is / It was + $3","El inglés necesita sujeto."],
+ [/\bthe people (is|was)\b/gi,"people are / were","«People» es plural."],[/\b(we|they|you) was\b/gi,"$1 were","Plural: «were»."],[/\ball the world\b/gi,"everybody","«Todo el mundo» es «everybody»."],
+ [/\bactually\b/gi,"currently (si querías «actualmente»)","«Actually» significa «en realidad»."],[/\beventually\b/gi,"possibly (si querías «eventualmente»)","«Eventually» significa «finalmente»."],
+ [/\bsensible\b/gi,"sensitive (si querías «sensible»)","«Sensible» es «sensato»."],[/\bdiscuss about\b/gi,"discuss","«Discuss» no lleva «about»."],[/\bsince (\d+) years\b/gi,"for $1 years","Duración: «for»."],
+ [/\b(english|spanish|french|british|american|european|january|february|march|april|june|july|august|september|october|november|december|monday|tuesday|wednesday|thursday|friday|saturday|sunday|america|spain|england|britain|france|europe|atlantic|madrid|london)\b/g,"con mayúscula","Idiomas, nacionalidades, meses, días y lugares van con mayúscula."]];
+function ingReglas(t){const o=[];ING_REGLAS.forEach(([re,sug,por])=>{const r=new RegExp(re.source,re.flags.includes('g')?re.flags:re.flags+'g');let m;while((m=r.exec(t))!==null){let b=sug;for(let g=1;g<=4;g++)b=b.split('$'+g).join(m[g]||'');o.push({mal:m[0].trim(),bien:b.trim(),por});if(m.index===r.lastIndex)r.lastIndex++;}});return o;}
+function ingLista(items,fuente){$('#ingLista').innerHTML=items.length?items.map(i=>`<li><b>${esc(i.mal)}</b> → <i>${esc(i.bien)}</i><span>${esc(i.por||'')}</span></li>`).join(''):`<li class="okl">Sin fallos detectados por ${fuente}.</li>`;}
+async function ingCorrige(){const t=$('#ingMio').value.trim();if(!t){alert('Escribe primero tu texto.');return;}const loc=ingReglas(t);$('#ingCorr').innerHTML='<i>Comprobando la gramática…</i>';ingLista(loc,'las reglas de la página');
+ try{const r=await fetch('https://api.languagetool.org/v2/check',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:new URLSearchParams({text:t,language:'en-GB'})});if(!r.ok)throw new Error('respuesta '+r.status);const d=await r.json();
+  const on=(d.matches||[]).map(m=>({mal:t.substr(m.offset,m.length)||'(falta algo)',bien:(m.replacements||[]).slice(0,3).map(x=>x.value).join(' / ')||'—',por:m.message,off:m.offset,len:m.length}));
+  let h='',pos=0;on.slice().sort((a,b)=>a.off-b.off).forEach(m=>{h+=esc(t.slice(pos,m.off))+`<span class="err">${esc(t.substr(m.off,m.len))}</span>`;pos=m.off+m.len;});$('#ingCorr').innerHTML=h+esc(t.slice(pos));ingLista(loc.concat(on),'el corrector');}
+ catch(e){$('#ingCorr').innerHTML=`<span class="ingko">El corrector de gramática no ha contestado (${esc(e.message)}). Te dejo lo que detectan las reglas de la página.</span>`;}ingAbre(7);}
+function ingCierre(){const v=$('#ingVel');if(v)v.value=ingN().audio?'1':ingN().vel;$('#ingCierreN').textContent='Sin texto y a la velocidad del nivel. Compara con la primera vez.';
+ ingOir('todo',0,()=>{$('#ingCierreN').textContent='Terminado. Si esta última vez lo has seguido sin esfuerzo, el siguiente hazlo un nivel por encima.';});}
 
 
 // ---------- La historia en un año (calendario cósmico) ----------
