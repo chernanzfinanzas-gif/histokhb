@@ -367,7 +367,8 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .ingh{display:flex;align-items:center;gap:10px;font-family:var(--f-head);font-size:17px}.ingn{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;flex:0 0 26px;border-radius:50%;background:var(--accent);color:#fff;font-size:14px}.ingn.fin{background:#4a7c4e}
 .ings{margin:4px 0 10px 36px;font-size:13px;color:var(--muted)}.ingtit{margin:4px 0 0;font-size:22px}.ingsub{margin:2px 0 10px;color:var(--muted)}
 .ingglos{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:4px 14px;font-size:14px}.ingglos div{border-bottom:1px dotted var(--line);padding:3px 0}
-.ingb{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0}.ingb .btn{padding:10px 14px;font-size:15px}.ingvel{font-size:13px;color:var(--muted)}.ingvel select{margin-left:6px;padding:3px}
+.ingb{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0}.ingb .btn{padding:10px 14px;font-size:15px}.ingrep{margin:4px 0 6px}.ingbar{height:8px;background:var(--line);border-radius:6px;margin:10px 0 4px;cursor:pointer;overflow:hidden}.ingbar i{display:block;height:100%;width:0;background:var(--accent);border-radius:6px}.ingtm{font-size:12px;color:var(--muted)}.ingpp{min-width:130px}
+.ingvel{font-size:13px;color:var(--muted)}.ingvel select{margin-left:6px;padding:3px}
 .ingnota{font-size:13px;color:var(--muted);margin:8px 0 0}.ingq p{margin:10px 0 4px;font-weight:600}.ingq .res{padding:8px 12px;margin:4px 0}.ingq .res.bien{background:#e4f0e2;border-color:#4a7c4e}.ingq .res.mal{background:#f6e2de;border-color:#9c3b2e}
 .ingfr{margin:0 0 6px;padding:6px 8px;border-radius:10px;font-size:17px;line-height:1.45}.ingfr.suena{background:#ffe9b8}.ingfr u{text-decoration:none;border-bottom:2px dotted var(--accent)}
 .ingfr{display:flex;gap:8px;align-items:flex-start}.ingfr .en{flex:1}.ingfr .es{flex-basis:100%;padding-left:38px}.ingfr{flex-wrap:wrap}.ingpl{flex:0 0 30px;height:30px;border-radius:50%;border:1.5px solid var(--line);background:#fff;color:var(--accent);font-size:12px;cursor:pointer;margin-top:1px}
@@ -1972,18 +1973,18 @@ ${(T.lam||T.viva)?`<div class="ingill">${T.viva&&!(navigator.connection&&navigat
  h+=paso(0,'Before you listen','El título y las palabras, nada más. Saber de qué va es lo que más ayuda; leer el texto antes, no.',
   `<h2 class="ingtit">${esc(T.tEN)}</h2><p class="ingsub">${esc(T.tES)}</p><div class="ingglos">${n.glos.map(([p,s])=>`<div><b>${esc(p)}</b> — ${esc(s)}</div>`).join('')}</div>`);
  h+=paso(1,'Listen with no text','Sin leer. Repítelo las veces que quieras antes de pasar.',
-  `<div class="ingb"><button class="btn" onclick="ingOir('todo',2)">▶ Escuchar</button>${IG.k!=='easy'?'<button class="btn sec" onclick="ingEscalera()">▶ Primero la fácil, luego ésta</button>':''}<button class="btn sec" onclick="ingPara()">■ Parar</button></div>
+  `${ingRep(2,IG.k!=='easy'?'<button class="btn sec" onclick="ingEscalera()">Primero la fácil, luego ésta</button>':'')}
   <label class="ingvel">Velocidad <select id="ingVel" onchange="IGA.playbackRate=+this.value">${['0.7','0.8','0.9','1','1.15'].map(v=>`<option${v===(n.audio?'1':n.vel)?' selected':''}>${v}</option>`).join('')}</select></label><p class="ingnota" id="ingEsc">Veces escuchado: ${IG.esc}</p>`);
  h+=paso(2,'What was it about?','Idea general. Todavía sin texto.','<div id="ingGist"></div>',1);
  h+=paso(3,'Listen and read','Pulsa ▶ para oír una frase sola y pulsa cualquier palabra para ver qué significa.',
-  `<div class="ingb"><button class="btn" onclick="ingOir('todo',4)">▶ Escuchar todo</button><button class="btn sec" id="ingEsB" onclick="ingEs()">Ver el castellano</button></div><div id="ingTexto">${n.fr.map((f,i)=>`<p class="ingfr" data-i="${i}"><button class="ingpl" title="Oír la frase" onclick="ingOir(${i},4)">▶</button><span class="en">${ingPal(f[0],n)}</span><span class="es">${esc(f[1])}</span></p>`).join('')}</div>`,1);
+  `${ingRep(4,'<button class="btn sec" id="ingEsB" onclick="ingEs()">Ver el castellano</button>')}<div id="ingTexto">${n.fr.map((f,i)=>`<p class="ingfr" data-i="${i}"><button class="ingpl" title="Oír la frase" onclick="ingOir(${i},4)">▶</button><span class="en">${ingPal(f[0],n)}</span><span class="es">${esc(f[1])}</span></p>`).join('')}</div>`,1);
  h+=paso(4,'Now the details','Fechas, nombres y cifras. Distintas de las de antes.','<div id="ingDet"></div>',1);
  h+=paso(5,'Shadowing','Oye una frase y repítela imitándola, sin pensar en la gramática.',
   `<div class="ingb"><button class="btn sec" onclick="ingOir(IG.fr,6)">▶ Oír la frase</button><button class="btn" onclick="ingRepite()">🎙 Repetirla</button><button class="btn sec" onclick="IG.fr=(IG.fr+1)%ingN().fr.length;ingFrase()">Otra frase →</button></div><p class="ingfrase" id="ingFr"></p><div class="ingcmp" id="ingFrCmp"></div>`,1);
  h+=paso(6,'Say it yourself','Escribe en inglés lo que has entendido, dilo en voz alta y compara.',
   `<textarea id="ingMio" class="ingta" placeholder="Write two or three sentences about the story..."></textarea><div class="ingb"><button class="btn" onclick="ingDilo()">🎙 Decirlo</button><button class="btn sec" onclick="ingLee()">🔊 Cómo debía sonar</button><button class="btn sec" onclick="ingCorrige()">✓ Corregir</button><button class="btn sec" onclick="ingModelo()">Así lo diría un nativo</button></div><div id="ingCorr" class="ingcorr"></div><ul id="ingLista" class="inglista"></ul><div id="ingMod"></div><div class="ingcmp" id="ingCmp"></div><p class="ingnota" id="ingCmpN"></p>`,1);
  h+=paso(7,'Listen one last time','Sin texto otra vez y a velocidad normal. Aquí se nota lo que has avanzado.',
-  `<div class="ingb"><button class="btn" onclick="ingCierre()">▶ Escucha de cierre</button></div><p class="ingnota" id="ingCierreN"></p>`,1);
+  `${ingRep(0,'',1)}<p class="ingnota" id="ingCierreN">Sin texto y a la velocidad del nivel. Compara con la primera vez.</p>`,1);
  h+=`<div class="inggancho"><p>${esc(n.gancho)}</p>${T.des?`<button class="btn" onclick="go('#/d/${T.des}')">Leer la historia completa en castellano →</button>`:''}</div>`;
  $('#ingBox').innerHTML=h;
  $('#ingSeg').querySelectorAll('button').forEach(b=>b.onclick=()=>{IG.k=b.dataset.k;IG.esc=0;IG.fr=0;LS.set('hk_ing_k',IG.k);ingPinta();});
@@ -2002,14 +2003,30 @@ function ingVozUI(){const b=$('#ingVozBox');if(!b)return;const en=ingVoces();ing
 if(window.speechSynthesis)speechSynthesis.onvoiceschanged=ingVozUI;
 function ingHabla(t,cb){const S=window.speechSynthesis;if(!S){cb&&cb();return;}S.cancel();const u=new SpeechSynthesisUtterance(t);const v=ING_VOZ||ingVoz();if(v){u.voice=v;u.lang=v.lang;}else u.lang='en-GB';u.rate=+(($('#ingVel')||{}).value||1);if(cb)u.onend=cb;S.speak(u);}
 function ingMarca(i){document.querySelectorAll('.ingfr').forEach(p=>p.classList.toggle('suena',+p.dataset.i===i));}
-function ingPara(){IGA.pause();IG.tope=null;if(window.speechSynthesis)speechSynthesis.cancel();ingMarca(-1);}
-function ingOir(q,abrir,cb){const n=ingN();ingPara();if(abrir)ingAbre(abrir);
+function ingPara(){IGA.pause();IG.tope=null;IG.modo=null;if(window.speechSynthesis)speechSynthesis.cancel();ingMarca(-1);ingUI();}
+// ---- reproductor: un botón ▶/⏸ que retoma donde se dejó, «desde el principio» y barra de progreso ----
+const ingMin=x=>{x=Math.max(0,Math.round(x||0));return Math.floor(x/60)+':'+String(x%60).padStart(2,'0');};
+function ingRep(abrir,extra,cierre){const n=ingN();
+ return `<div class="ingrep"><div class="ingb"><button class="btn ingpp" onclick="ingPP(${abrir},${cierre?1:0})">▶ Escuchar</button><button class="btn sec" onclick="ingDesde0(${abrir},${cierre?1:0})">⟲ Desde el principio</button>${extra||''}</div>${n.audio?`<div class="ingbar" onclick="ingSeek(event,this)"><i></i></div><span class="ingtm">0:00 / ${ingMin(n.s)}</span>`:''}</div>`;}
+function ingSonando(){return IG.modo==='todo'&&(ingN().audio?!IGA.paused:(window.speechSynthesis&&speechSynthesis.speaking&&!speechSynthesis.paused));}
+function ingUI(){const son=ingSonando(),emp=IG.modo==='todo';
+ document.querySelectorAll('.ingpp').forEach(b=>b.textContent=son?'⏸ Pausa':(emp?'▶ Seguir':'▶ Escuchar'));
+ const d=IGA.duration||ingN().s||1,t=emp&&ingN().audio?IGA.currentTime:0;
+ document.querySelectorAll('.ingbar i').forEach(i=>i.style.width=(100*t/d)+'%');document.querySelectorAll('.ingtm').forEach(e=>e.textContent=ingMin(t)+' / '+ingMin(d));}
+function ingPP(abrir,cierre){const n=ingN();
+ if(IG.modo==='todo'){if(n.audio){if(IGA.paused)IGA.play().catch(()=>{});else IGA.pause();}else{const S=speechSynthesis;if(S.paused)S.resume();else S.pause();}setTimeout(ingUI,50);return;}
+ ingDesde0(abrir,cierre);}
+function ingDesde0(abrir,cierre){if(cierre){const v=$('#ingVel');if(v)v.value=ingN().audio?'1':ingN().vel;}
+ ingOir('todo',abrir,cierre?()=>{$('#ingCierreN').textContent='Terminado. Si esta última vez lo has seguido sin esfuerzo, el siguiente hazlo un nivel por encima.';}:null);}
+function ingSeek(ev,bar){if(!ingN().audio)return;const r=bar.getBoundingClientRect(),f=Math.min(1,Math.max(0,(ev.clientX-r.left)/r.width));
+ if(IG.modo!=='todo'){ingOir('todo');}IGA.currentTime=f*(IGA.duration||ingN().s);ingUI();}
+function ingOir(q,abrir,cb){const n=ingN();ingPara();IG.modo=q==='todo'?'todo':'frase';if(abrir)ingAbre(abrir);
  if(q==='todo'){IG.esc++;const e=$('#ingEsc');if(e)e.textContent='Veces escuchado: '+IG.esc;}
- if(n.audio){const a=IGA;if(!a.src.endsWith(n.audio))a.src=n.audio;a.playbackRate=+(($('#ingVel')||{}).value||1);
+ if(n.audio){const a=IGA;if(!a.src.endsWith(n.audio))a.src=n.audio;a.onplay=a.onpause=ingUI;a.playbackRate=+(($('#ingVel')||{}).value||1);
   const t=n.t||[0];if(q==='todo'){a.currentTime=0;IG.tope=null;}else{a.currentTime=t[q]||0;IG.tope=q<t.length-1?t[q+1]-0.05:null;ingMarca(q);}
-  a.onended=()=>{ingMarca(-1);cb&&cb();};a.ontimeupdate=()=>{if(IG.tope!=null&&a.currentTime>=IG.tope){a.pause();IG.tope=null;ingMarca(-1);cb&&cb();return;}if(q==='todo'&&n.t&&n===ingN()){let i=0;while(i<t.length-1&&a.currentTime>=t[i+1])i++;ingMarca(i);}};
+  a.onended=()=>{IG.modo=null;ingMarca(-1);ingUI();cb&&cb();};a.ontimeupdate=()=>{ingUI();if(IG.tope!=null&&a.currentTime>=IG.tope){a.pause();IG.tope=null;ingMarca(-1);cb&&cb();return;}if(q==='todo'&&n.t&&n===ingN()){let i=0;while(i<t.length-1&&a.currentTime>=t[i+1])i++;ingMarca(i);}};
   a.play().catch(()=>{});return;}
- if(q==='todo')ingHabla(ingTxt(n),cb);else{ingMarca(q);ingHabla(n.fr[q][0],()=>{ingMarca(-1);cb&&cb();});}}
+ if(q==='todo'){ingHabla(ingTxt(n),()=>{IG.modo=null;ingUI();cb&&cb();});setTimeout(ingUI,80);}else{ingMarca(q);ingHabla(n.fr[q][0],()=>{ingMarca(-1);cb&&cb();});}}
 function ingEscalera(){const f=IG.k==='hard'?'medium':'easy',k=IG.k;ingAbre(2);
  IG.k=f;ingOir('todo',0,()=>{ingOir('todo');$('#ingEsc').textContent='Ahora la tuya. Se entiende bastante más, ¿verdad?';});IG.k=k;   // ingOir guarda el nivel al empezar
  $('#ingEsc').textContent='Suena la versión fácil… y luego la tuya.';}
