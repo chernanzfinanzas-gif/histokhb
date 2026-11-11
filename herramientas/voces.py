@@ -44,8 +44,9 @@ MODELO=os.environ.get('GEMINI_TTS_MODEL','gemini-2.5-flash-preview-tts')
 # Clave de PAGO (proyecto histokhb-ingles, 10-nov-2026): la pagan los 10 $ mensuales de créditos del Google Developer Program.
 # Se usa si GEMINI_API_KEY_FILE apunta a un fichero cuyo nombre contiene «pago». Cada segundo de audio que devuelve
 # se apunta en herramientas/gasto_pago.json por mes, y al llegar a TOPE_PAGO_MIN minutos no se pide nada más ese mes
+# 10-nov-2026: la factura real de Google salió un 25 % por encima del contador (0,71 € frente a ~0,57 €: dictados y texto no cuentan), así que 450 min ≈ 8,4 € reales, justo bajo el límite de 8,5 € de Google.
 # (25 tokens por segundo a 10 $ el millón = 0,015 $ por minuto: 550 min son unos 8,25 $; el margen cubre lo que se rechaza).
-TOPE_PAGO_MIN=float(os.environ.get('TOPE_PAGO_MIN','550'))
+TOPE_PAGO_MIN=float(os.environ.get('TOPE_PAGO_MIN','450'))
 GASTO=os.path.join(os.path.dirname(os.path.abspath(__file__)),'gasto_pago.json')
 def es_pago(): return 'pago' in os.path.basename(os.environ.get('GEMINI_API_KEY_FILE',''))
 def gasto_mes():

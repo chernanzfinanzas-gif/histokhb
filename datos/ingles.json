@@ -1581,6 +1581,846 @@
    "voz": "Aoede",
    "acento": "American",
    "viva": "img/vivas/des-trafalgar.mp4"
+  },
+  {
+   "id": "atapuerca",
+   "des": "des-atapuerca",
+   "tEN": "Atapuerca: The Trench That Changed History",
+   "tES": "Atapuerca: la trinchera que cambió la historia",
+   "fecha": "1994",
+   "lam": "img/laminas/des-atapuerca.webp",
+   "viva": "img/vivas/des-atapuerca.mp4",
+   "pv": {
+    "v": "dig up",
+    "es": "desenterrar; sacar a la luz",
+    "ex": "<i>Dig</i> es «cavar»; <b>dig up</b> es «desenterrar», y también «sacar a la luz» algo olvidado (<i>a journalist dug up the old story</i>).",
+    "ej": [
+     "Every summer, volunteers <b>dig up</b> new fossils at Atapuerca.",
+     "In 1992 the team <b>dug up</b> three skulls in a single summer."
+    ],
+    "q": {
+     "q": "«They dug up a skull» significa…",
+     "o": [
+      "Desenterraron un cráneo",
+      "Enterraron un cráneo",
+      "Dibujaron un cráneo"
+     ],
+     "ok": 0
+    }
+   },
+   "niveles": {
+    "easy": {
+     "et": "Aprendiendo inglés",
+     "vel": "0.8",
+     "fr": [
+      [
+       "Atapuerca is a group of small hills near Burgos, in the north of Spain.",
+       "Atapuerca es una pequeña sierra cerca de Burgos, en el norte de España."
+      ],
+      [
+       "In 1896 there was a plan to build a railway through the hills.",
+       "En 1896 hubo un plan para construir un ferrocarril a través de la sierra."
+      ],
+      [
+       "The workers cut a deep trench in the rock, and they found caves full of earth.",
+       "Los obreros cortaron una trinchera profunda en la roca, y encontraron cuevas llenas de tierra."
+      ],
+      [
+       "The train soon stopped, but the trench stayed open.",
+       "El tren dejó de funcionar pronto, pero la trinchera se quedó abierta."
+      ],
+      [
+       "In 1976 a young engineer found a human jaw among many bear bones.",
+       "En 1976 un joven ingeniero encontró una mandíbula humana entre muchos huesos de oso."
+      ],
+      [
+       "In 1978 Emiliano Aguirre started to dig there with a small team of students.",
+       "En 1978 Emiliano Aguirre empezó a excavar allí con un pequeño equipo de estudiantes."
+      ],
+      [
+       "There were thousands of bones in a deep pit, the Pit of the Bones.",
+       "Había miles de huesos en un pozo profundo, la Sima de los Huesos."
+      ],
+      [
+       "In 1994 the team found human bones more than 780,000 years old.",
+       "En 1994 el equipo encontró huesos humanos de más de 780.000 años."
+      ],
+      [
+       "At that time, they were the oldest humans ever found in Western Europe.",
+       "En aquel momento, eran los humanos más antiguos encontrados en Europa occidental."
+      ],
+      [
+       "Today Atapuerca is a World Heritage Site, and every summer there are hundreds of people digging there.",
+       "Hoy Atapuerca es Patrimonio de la Humanidad, y cada verano hay cientos de personas excavando allí."
+      ]
+     ],
+     "glos": [
+      [
+       "hills",
+       "sierra, colinas"
+      ],
+      [
+       "railway",
+       "ferrocarril"
+      ],
+      [
+       "trench",
+       "trinchera"
+      ],
+      [
+       "jaw",
+       "mandíbula"
+      ],
+      [
+       "bear",
+       "oso"
+      ],
+      [
+       "pit",
+       "sima, pozo"
+      ],
+      [
+       "dig",
+       "excavar"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "What is this story about?",
+       "o": [
+        "Very old human bones found in Spain",
+        "A train journey to Burgos",
+        "A war in the north of Spain"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "How did people find the caves?",
+       "o": [
+        "Workers cut the rock for a railway",
+        "A storm opened the hill",
+        "Children played there"
+       ],
+       "ok": 0
+      }
+     ],
+     "det": [
+      {
+       "q": "What did the engineer find in 1976?",
+       "o": [
+        "A human jaw",
+        "A gold coin",
+        "An old train"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "Who started the excavations in 1978?",
+       "o": [
+        "Emiliano Aguirre",
+        "A British businessman",
+        "A group of miners"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "How old were the bones found in 1994?",
+       "o": [
+        "More than 780,000 years old",
+        "About 5,000 years old",
+        "About 100 years old"
+       ],
+       "ok": 0
+      }
+     ],
+     "modelo": "Workers cut a trench in Atapuerca for a railway, and caves appeared in the rock. In 1976 someone found a human jaw, and in 1978 Emiliano Aguirre started to dig. In 1994 the team found human bones more than 780,000 years old.",
+     "gancho": "¿Por qué una cara humana de más de un millón de años se llama «Pink»?",
+     "trad": [
+      [
+       "Había muchos huesos en la cueva.",
+       "There were many bones in the cave."
+      ],
+      [
+       "Los obreros encontraron una cueva.",
+       "The workers found a cave."
+      ]
+     ],
+     "gram": {
+      "id": "there-was",
+      "ej": [
+       "<b>There was</b> a plan to build a railway.",
+       "<b>There were</b> thousands of bones in a deep pit.",
+       "Every summer <b>there are</b> hundreds of people digging there."
+      ],
+      "q": [
+       {
+        "q": "___ many bear bones in the cave.",
+        "o": [
+         "There were",
+         "There was",
+         "It was"
+        ],
+        "ok": 0
+       },
+       {
+        "q": "___ a small team of students in 1978.",
+        "o": [
+         "There were",
+         "There was",
+         "There is"
+        ],
+        "ok": 1
+       }
+      ]
+     },
+     "audio": "audio/en-atapuerca-easy.mp3",
+     "s": 72,
+     "t": [
+      0.0,
+      7.74,
+      14.86,
+      22.4,
+      27.63,
+      36.07,
+      44.45,
+      50.03,
+      58.61,
+      64.44
+     ]
+    },
+    "medium": {
+     "et": "Conocimientos básicos",
+     "vel": "0.9",
+     "fr": [
+      [
+       "At the end of the nineteenth century, a British businessman built a railway to carry iron and coal from the mines near Burgos.",
+       "A finales del siglo XIX, un empresario británico construyó un ferrocarril para llevar hierro y carbón desde las minas cercanas a Burgos."
+      ],
+      [
+       "To cross the small hills of Atapuerca, workers dug a narrow trench that cut through several caves.",
+       "Para atravesar la pequeña sierra de Atapuerca, los obreros abrieron una trinchera estrecha que cortó varias cuevas."
+      ],
+      [
+       "The railway failed after a few years, but the trench, which showed the caves like the pages of a book, remained open.",
+       "El ferrocarril fracasó a los pocos años, pero la trinchera, que mostraba las cuevas como las páginas de un libro, quedó abierta."
+      ],
+      [
+       "In 1976 Trinidad Torres, an engineer who was studying fossil bears, found a human jaw in the Pit of the Bones.",
+       "En 1976 Trinidad Torres, un ingeniero que estudiaba osos fósiles, encontró una mandíbula humana en la Sima de los Huesos."
+      ],
+      [
+       "He took it to Emiliano Aguirre, a palaeontologist who understood its value immediately.",
+       "Se la llevó a Emiliano Aguirre, un paleontólogo que comprendió su valor de inmediato."
+      ],
+      [
+       "In 1978 Aguirre began the excavations with a few students and very little money.",
+       "En 1978 Aguirre empezó las excavaciones con unos pocos estudiantes y muy poco dinero."
+      ],
+      [
+       "Three of those students, Arsuaga, Bermúdez de Castro and Carbonell, later directed the project.",
+       "Tres de aquellos estudiantes, Arsuaga, Bermúdez de Castro y Carbonell, dirigieron después el proyecto."
+      ],
+      [
+       "In 1992 they found three skulls in a single summer, including one that they called Miguelón.",
+       "En 1992 encontraron tres cráneos en un solo verano, entre ellos uno al que llamaron Miguelón."
+      ],
+      [
+       "Two years later, in the Gran Dolina, they found human remains that were more than 780,000 years old.",
+       "Dos años después, en la Gran Dolina, encontraron restos humanos que tenían más de 780.000 años."
+      ],
+      [
+       "Until then, many experts believed that Europe had been populated much later.",
+       "Hasta entonces, muchos expertos creían que Europa se había poblado mucho más tarde."
+      ],
+      [
+       "In 1997 the new species was named Homo antecessor, and the team won the Prince of Asturias Award.",
+       "En 1997 la nueva especie recibió el nombre de Homo antecessor, y el equipo ganó el Premio Príncipe de Asturias."
+      ],
+      [
+       "Atapuerca became a World Heritage Site in 2000, and it is still a school for young scientists.",
+       "Atapuerca fue declarada Patrimonio de la Humanidad en 2000, y sigue siendo una escuela para jóvenes científicos."
+      ]
+     ],
+     "glos": [
+      [
+       "businessman",
+       "empresario"
+      ],
+      [
+       "narrow",
+       "estrecha"
+      ],
+      [
+       "remained",
+       "permaneció, quedó"
+      ],
+      [
+       "fossil",
+       "fósil"
+      ],
+      [
+       "palaeontologist",
+       "paleontólogo"
+      ],
+      [
+       "skulls",
+       "cráneos"
+      ],
+      [
+       "remains",
+       "restos"
+      ],
+      [
+       "species",
+       "especie"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "Why was the trench dug?",
+       "o": [
+        "For a railway",
+        "To look for fossils",
+        "To build a road"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "Why was the 1994 discovery so important?",
+       "o": [
+        "It showed that humans were in Europe much earlier",
+        "It was the first bear bone ever found",
+        "It was made of gold"
+       ],
+       "ok": 0
+      }
+     ],
+     "det": [
+      {
+       "q": "What was Trinidad Torres studying?",
+       "o": [
+        "Fossil bears",
+        "Railways",
+        "Ancient coins"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "What did they call one of the skulls found in 1992?",
+       "o": [
+        "Miguelón",
+        "Excalibur",
+        "Pink"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "Which prize did the team win in 1997?",
+       "o": [
+        "The Prince of Asturias Award",
+        "The Nobel Prize",
+        "An Olympic medal"
+       ],
+       "ok": 0
+      }
+     ],
+     "modelo": "A railway trench opened the caves of Atapuerca. In 1976 an engineer who was studying bears found a human jaw, and Aguirre started to dig in 1978. His students later found skulls and human remains that were more than 780,000 years old: a new species called Homo antecessor.",
+     "gancho": "En 1998 apareció entre los huesos una herramienta de piedra rojiza a la que llamaron «Excalibur». ¿Por qué?",
+     "trad": [
+      [
+       "Aguirre, que era paleontólogo, entendió el valor de la mandíbula.",
+       "Aguirre, who was a palaeontologist, understood the value of the jaw."
+      ],
+      [
+       "Encontraron un cráneo que llamaron Miguelón.",
+       "They found a skull that they called Miguelón."
+      ]
+     ],
+     "gram": {
+      "id": "relativos",
+      "ej": [
+       "Trinidad Torres, an engineer <b>who</b> was studying fossil bears, found a human jaw.",
+       "The trench, <b>which</b> showed the caves like the pages of a book, remained open.",
+       "They found human remains <b>that</b> were more than 780,000 years old."
+      ],
+      "q": [
+       {
+        "q": "Aguirre was a scientist ___ had studied fossils in Africa.",
+        "o": [
+         "who",
+         "which",
+         "where"
+        ],
+        "ok": 0
+       },
+       {
+        "q": "The trench, ___ cut through the hills, remained open.",
+        "o": [
+         "that",
+         "which",
+         "who"
+        ],
+        "ok": 1
+       }
+      ]
+     },
+     "audio": "audio/en-atapuerca-medium.mp3",
+     "s": 121,
+     "t": [
+      0.0,
+      12.71,
+      23.12,
+      34.39,
+      46.97,
+      56.13,
+      65.82,
+      75.83,
+      85.68,
+      96.01,
+      103.61,
+      113.98
+     ]
+    },
+    "hard": {
+     "et": "Grandes conocimientos",
+     "vel": "1",
+     "fr": [
+      [
+       "The trench that runs through the Sierra de Atapuerca was never meant for science: it was dug around 1900 for a mining railway that soon went bankrupt.",
+       "La trinchera que atraviesa la sierra de Atapuerca nunca se pensó para la ciencia: se abrió hacia 1900 para un ferrocarril minero que pronto quebró."
+      ],
+      [
+       "Yet by slicing through the hill, the workers exposed caves packed with sediment, as if a book had been split down the middle.",
+       "Pero al cortar la colina, los obreros dejaron al descubierto cuevas repletas de sedimento, como si se hubiera partido un libro por la mitad."
+      ],
+      [
+       "Systematic excavation began in 1978 under Emiliano Aguirre, a palaeontologist with experience in East Africa, and a handful of students with almost no funding.",
+       "Las excavaciones sistemáticas empezaron en 1978 con Emiliano Aguirre, un paleontólogo con experiencia en África oriental, y un puñado de estudiantes casi sin financiación."
+      ],
+      [
+       "The Pit of the Bones had been looted by amateurs searching for bear teeth, so the disturbed sediment had to be hauled out by hand through narrow passages.",
+       "La Sima de los Huesos había sido saqueada por aficionados que buscaban dientes de oso, así que el sedimento revuelto tuvo que sacarse a mano por pasos estrechos."
+      ],
+      [
+       "Since then, every bucket of earth has been washed and sieved, because tiny rodent teeth are known to be excellent clocks for dating each layer.",
+       "Desde entonces, cada cubo de tierra se lava y se criba, porque se sabe que los diminutos dientes de roedor son excelentes relojes para fechar cada nivel."
+      ],
+      [
+       "In 1994 human remains turned up in a layer of the Gran Dolina lying below the last reversal of the Earth's magnetic field.",
+       "En 1994 aparecieron restos humanos en un nivel de la Gran Dolina situado por debajo de la última inversión del campo magnético terrestre."
+      ],
+      [
+       "That made them more than 780,000 years old, at a time when Europe was widely believed to have been settled only half a million years ago.",
+       "Eso les daba más de 780.000 años, cuando se creía de forma generalizada que Europa no se había poblado hasta hacía medio millón de años."
+      ],
+      [
+       "The fossils were assigned to a new species, Homo antecessor, which is thought to have been one of the earliest Europeans.",
+       "Los fósiles se atribuyeron a una nueva especie, Homo antecessor, que se considera uno de los primeros europeos."
+      ],
+      [
+       "In 2022 an even older face emerged from the Sima del Elefante; nicknamed Pink, it is estimated to be between 1.1 and 1.4 million years old.",
+       "En 2022 salió de la Sima del Elefante una cara aún más antigua; apodada Pink, se calcula que tiene entre 1,1 y 1,4 millones de años."
+      ],
+      [
+       "Its discoverers cautiously attributed it to Homo affinis erectus, a reminder that the story of the first Europeans is still being rewritten.",
+       "Sus descubridores la atribuyeron con cautela a Homo affinis erectus, un recordatorio de que la historia de los primeros europeos se sigue reescribiendo."
+      ],
+      [
+       "Above all, Atapuerca has trained generations of researchers, and many of Spain's palaeoanthropologists are said to have learned their trade in that trench.",
+       "Sobre todo, Atapuerca ha formado a generaciones de investigadores, y se dice que muchos paleoantropólogos españoles aprendieron el oficio en esa trinchera."
+      ]
+     ],
+     "glos": [
+      [
+       "went bankrupt",
+       "quebró"
+      ],
+      [
+       "slicing through",
+       "cortando, atravesando"
+      ],
+      [
+       "sediment",
+       "sedimento"
+      ],
+      [
+       "handful",
+       "puñado"
+      ],
+      [
+       "looted",
+       "saqueada"
+      ],
+      [
+       "hauled out",
+       "sacado a pulso"
+      ],
+      [
+       "sieved",
+       "cribado"
+      ],
+      [
+       "rodent",
+       "roedor"
+      ],
+      [
+       "reversal",
+       "inversión"
+      ],
+      [
+       "settled",
+       "poblado"
+      ],
+      [
+       "nicknamed",
+       "apodada"
+      ],
+      [
+       "trade",
+       "oficio"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "Why is the trench important for science?",
+       "o": [
+        "It accidentally exposed caves full of fossils",
+        "It was built by scientists",
+        "It was the first museum in Spain"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "What changed after the 1994 discovery?",
+       "o": [
+        "People had reached Europe much earlier than believed",
+        "Europe was thought to be empty",
+        "The railway was reopened"
+       ],
+       "ok": 0
+      }
+     ],
+     "det": [
+      {
+       "q": "Why did the sediment in the Pit of the Bones have to be removed by hand?",
+       "o": [
+        "Amateurs had disturbed it looking for bear teeth",
+        "The trench was flooded",
+        "Machines were not allowed in the hills"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "What helps scientists to date each layer?",
+       "o": [
+        "Tiny rodent teeth",
+        "Pieces of the railway",
+        "Old coins"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "How old is Pink estimated to be?",
+       "o": [
+        "Between 1.1 and 1.4 million years",
+        "About 780,000 years",
+        "About 400,000 years"
+       ],
+       "ok": 0
+      }
+     ],
+     "modelo": "A failed mining railway accidentally exposed the caves of Atapuerca. From 1978 a small team dug patiently, and in 1994 they found human remains over 780,000 years old, assigned to Homo antecessor. Later, Pink was estimated to be more than a million years old, and Atapuerca became a school for generations of researchers.",
+     "gancho": "Entre los huesos de la Sima apareció un hacha de piedra rojiza casi intacta. ¿Fue una ofrenda a los muertos?",
+     "trad": [
+      [
+       "Se cree que el Homo antecessor fue uno de los primeros europeos.",
+       "Homo antecessor is believed to have been one of the first Europeans."
+      ],
+      [
+       "Se calcula que la cara tiene más de un millón de años.",
+       "The face is estimated to be more than a million years old."
+      ]
+     ],
+     "gram": {
+      "id": "pasiva-compleja",
+      "ej": [
+       "Homo antecessor <b>is thought to have been</b> one of the earliest Europeans.",
+       "Pink <b>is estimated to be</b> between 1.1 and 1.4 million years old.",
+       "Europe <b>was widely believed to have been settled</b> only half a million years ago."
+      ],
+      "q": [
+       {
+        "q": "The bones ___ to be more than 780,000 years old.",
+        "o": [
+         "are known",
+         "know",
+         "are knowing"
+        ],
+        "ok": 0
+       },
+       {
+        "q": "Excalibur ___ to have been an offering to the dead.",
+        "o": [
+         "thinks",
+         "is thought",
+         "is thinking"
+        ],
+        "ok": 1
+       }
+      ]
+     },
+     "audio": "audio/en-atapuerca-hard.mp3",
+     "s": 97,
+     "t": [
+      0.0,
+      10.7,
+      18.83,
+      30.91,
+      39.76,
+      48.31,
+      56.58,
+      65.13,
+      71.8,
+      82.04,
+      89.73
+     ]
+    }
+   },
+   "dic": {
+    "above": "por encima de (above all: sobre todo)",
+    "accidentally": "por casualidad, sin querer",
+    "affinis": "affinis (latín: «emparentado con»)",
+    "africa": "África",
+    "after": "después de",
+    "ago": "hace (tiempo)",
+    "aguirre": "Aguirre (Emiliano, paleontólogo español)",
+    "almost": "casi",
+    "amateurs": "aficionados",
+    "among": "entre (varios)",
+    "antecessor": "antecessor (latín: «el que va delante», «pionero»)",
+    "appeared": "apareció, aparecieron",
+    "around": "alrededor de, por",
+    "arsuaga": "Arsuaga (Juan Luis, paleoantropólogo)",
+    "assigned": "atribuido, asignado",
+    "asturias": "Asturias",
+    "atapuerca": "Atapuerca",
+    "attributed": "atribuyó; atribuido",
+    "award": "premio",
+    "bankrupt": "en quiebra (went bankrupt: quebró)",
+    "bear": "oso",
+    "bears": "osos",
+    "became": "se convirtió en, llegó a ser",
+    "because": "porque",
+    "began": "empezó",
+    "being": "siendo (is being rewritten: se está reescribiendo)",
+    "believed": "creía(n); creído",
+    "below": "por debajo de",
+    "bermúdez": "Bermúdez (de Castro, paleoantropólogo)",
+    "between": "entre",
+    "bones": "huesos",
+    "book": "libro",
+    "british": "británico",
+    "bucket": "cubo",
+    "build": "construir",
+    "built": "construyó",
+    "burgos": "Burgos",
+    "businessman": "empresario",
+    "called": "llamado; llamaron",
+    "carbonell": "Carbonell (Eudald, arqueólogo)",
+    "carry": "llevar, transportar",
+    "castro": "Castro (Bermúdez de Castro)",
+    "cautiously": "con cautela",
+    "cave": "cueva",
+    "caves": "cuevas",
+    "century": "siglo",
+    "clocks": "relojes",
+    "coal": "carbón",
+    "cross": "cruzar, atravesar",
+    "cut": "cortó",
+    "dating": "fechar, datar",
+    "deep": "profundo",
+    "del": "del (en nombres españoles)",
+    "dig": "excavar, cavar",
+    "digging": "excavando",
+    "directed": "dirigió",
+    "discoverers": "descubridores",
+    "disturbed": "revuelto, alterado",
+    "dolina": "Dolina (Gran Dolina, yacimiento)",
+    "down": "abajo (down the middle: por la mitad)",
+    "dug": "excavó, cavó; excavado",
+    "earliest": "los más antiguos, los primeros",
+    "earth": "la Tierra",
+    "earth's": "de la Tierra",
+    "east": "este (East Africa: África oriental)",
+    "elefante": "Elefante (Sima del Elefante)",
+    "emerged": "salió, apareció",
+    "emiliano": "Emiliano (Aguirre)",
+    "end": "final",
+    "engineer": "ingeniero",
+    "erectus": "erectus (Homo erectus)",
+    "estimated": "calculado, estimado",
+    "europe": "Europa",
+    "europeans": "europeos",
+    "even": "incluso (even though: aunque)",
+    "ever": "nunca, jamás (en preguntas: alguna vez)",
+    "excavation": "excavación",
+    "excavations": "excavaciones",
+    "excellent": "excelente",
+    "experience": "experiencia",
+    "experts": "expertos",
+    "exposed": "dejó al descubierto",
+    "face": "cara",
+    "failed": "fracasó; fracasado",
+    "few": "pocos",
+    "field": "campo",
+    "first": "primero, antes",
+    "fossil": "fósil",
+    "fossils": "fósiles",
+    "found": "encontró; encontrado",
+    "full": "lleno",
+    "funding": "financiación",
+    "generations": "generaciones",
+    "gran": "Gran (Gran Dolina)",
+    "group": "grupo",
+    "half": "medio, mitad",
+    "hand": "mano (by hand: a mano)",
+    "handful": "puñado",
+    "hauled": "sacado a pulso, arrastrado (hauled out)",
+    "heritage": "patrimonio (World Heritage Site: Patrimonio de la Humanidad)",
+    "hill": "colina",
+    "hills": "colinas, sierra",
+    "homo": "Homo (género humano)",
+    "human": "humano",
+    "humans": "humanos",
+    "hundreds": "cientos",
+    "if": "si",
+    "immediately": "de inmediato",
+    "including": "incluido, entre ellos",
+    "iron": "hierro",
+    "jaw": "mandíbula",
+    "known": "conocido (are known to be: se sabe que son)",
+    "last": "último; durar",
+    "later": "después, más tarde",
+    "layer": "capa, nivel",
+    "learned": "aprendió",
+    "like": "como",
+    "little": "poco",
+    "looted": "saqueado",
+    "lying": "situado, que está",
+    "made": "hizo (made them: les daba)",
+    "magnetic": "magnético",
+    "many": "muchos",
+    "meant": "significaba",
+    "middle": "medio, mitad",
+    "miguelón": "Miguelón (cráneo 5 de la Sima)",
+    "million": "millón",
+    "mines": "minas",
+    "mining": "minero",
+    "money": "dinero",
+    "much": "mucho",
+    "named": "llamado; recibió el nombre de",
+    "narrow": "estrecho",
+    "near": "cerca de",
+    "never": "nunca",
+    "new": "nuevo",
+    "nicknamed": "apodado",
+    "nineteenth": "decimonoveno (nineteenth century: siglo XIX)",
+    "north": "norte",
+    "old": "viejo, antiguo (780,000 years old: de 780.000 años)",
+    "older": "más antiguo",
+    "oldest": "el más antiguo",
+    "open": "abierto",
+    "opened": "abrió",
+    "packed": "repleto",
+    "pages": "páginas",
+    "palaeoanthropologists": "paleoantropólogos",
+    "palaeontologist": "paleontólogo",
+    "passages": "pasos, pasadizos",
+    "patiently": "con paciencia",
+    "people": "gente",
+    "pink": "rosa (Pink: apodo de la cara de la Sima del Elefante)",
+    "pit": "sima, pozo",
+    "plan": "plan",
+    "populated": "poblado",
+    "prince": "príncipe",
+    "project": "proyecto",
+    "railway": "ferrocarril",
+    "remained": "permaneció, quedó",
+    "remains": "restos",
+    "reminder": "recordatorio",
+    "researchers": "investigadores",
+    "reversal": "inversión",
+    "rewritten": "reescrito",
+    "rock": "roca",
+    "rodent": "roedor",
+    "runs": "atraviesa, recorre",
+    "said": "dijo",
+    "school": "escuela",
+    "science": "ciencia",
+    "scientists": "científicos",
+    "searching": "buscando",
+    "sediment": "sedimento",
+    "settled": "poblado, asentado",
+    "several": "varios",
+    "showed": "mostraba",
+    "sierra": "sierra",
+    "sieved": "cribado",
+    "sima": "Sima",
+    "since": "desde (que)",
+    "single": "solo, único",
+    "site": "lugar, yacimiento",
+    "skull": "cráneo",
+    "skulls": "cráneos",
+    "slicing": "cortando (slicing through: atravesando)",
+    "small": "pequeño",
+    "someone": "alguien",
+    "soon": "pronto",
+    "spain": "España",
+    "spain's": "de España",
+    "species": "especie",
+    "split": "partido",
+    "started": "empezó",
+    "stayed": "se quedó",
+    "still": "todavía, aún",
+    "stopped": "paró, dejó de funcionar",
+    "story": "historia",
+    "students": "estudiantes",
+    "studying": "estudiando",
+    "summer": "verano",
+    "systematic": "sistemático",
+    "team": "equipo",
+    "teeth": "dientes",
+    "thought": "pensado (is thought to: se cree que)",
+    "thousands": "miles",
+    "through": "a través de",
+    "time": "tiempo; época",
+    "tiny": "diminuto",
+    "today": "hoy",
+    "took": "llevó",
+    "torres": "Torres (Trinidad, ingeniero de minas)",
+    "trade": "oficio",
+    "train": "tren",
+    "trained": "entrenado",
+    "trench": "trinchera",
+    "trinidad": "Trinidad",
+    "turned": "apareció (turned up: apareció)",
+    "under": "bajo, con (bajo la dirección de)",
+    "understood": "comprendió",
+    "until": "hasta que",
+    "value": "valor",
+    "washed": "lavado",
+    "went": "fue",
+    "western": "occidental",
+    "widely": "ampliamente, de forma generalizada",
+    "won": "ganó; ganado",
+    "workers": "obreros",
+    "world": "mundo",
+    "years": "años",
+    "yet": "sin embargo, pero",
+    "young": "joven"
+   },
+   "voz": "Achird",
+   "acento": "British"
   }
  ],
  "gram": {
