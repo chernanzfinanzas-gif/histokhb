@@ -71,6 +71,28 @@ def cortes(w, frases):
         usadas.add(mejor); t.append(round(mejor[1] - 0.12, 2))
     return t
 
+def cortes_limpios(w, frases):
+    """Solo si las n-1 pausas más largas se separan claramente de las demás (la voz hizo caso a «pausa de un segundo»)."""
+    D = dur(w); cand = [(a, b) for a, b in silencios(w, 0.12) if a > 0.3 and b < D - 0.3]
+    lar = sorted(cand, key=lambda ab: ab[1] - ab[0], reverse=True); n = len(frases) - 1
+    if n and len(lar) >= n and (len(lar) == n or (lar[n-1][1] - lar[n-1][0]) >= 1.5 * (lar[n][1] - lar[n][0])):
+        return [0.0] + [round(b - 0.12, 2) for a, b in sorted(lar[:n])]
+    return None
+
+def cortes_dictado(w, frases, clave):
+    """Si la voz no hizo pausas largas (Atapuerca, nivel hard, 11-nov-2026): se trocea por todas las pausas de 0,3 s o más,
+    se dicta cada trozo y se marca como fin de frase el trozo cuyo final coincide con el final de la frase que toca."""
+    D = dur(w); c = [b for a, b in silencios(w, 0.12) if a > 0.3 and b < D - 0.3 and b - a >= 0.3]
+    if len(c) < len(frases) - 1 or len(c) > 3 * len(frases): return None
+    pts = [0.0] + c + [D]; fin = lambda x: re.findall(r"[a-z]+", x.lower())[-2:]
+    t = [0.0]; i = 0
+    for j in range(len(pts) - 1):
+        if i >= len(frases) - 1: break
+        x = oye_en(w, pts[j], pts[j+1] - pts[j], clave)
+        if x is None: return None
+        if fin(x) and fin(x) == fin(frases[i]): t.append(round(pts[j+1] - 0.12, 2)); i += 1
+    return t if len(t) == len(frases) else None
+
 def graba(tema, k, nv, voz, acento, clave):
     frases = [f[0] for f in nv['fr']]
     w = os.path.join(TMP, f'en-{tema}-{k}.wav')
@@ -85,7 +107,7 @@ def graba(tema, k, nv, voz, acento, clave):
     if car / D > 22: print(f'ERR: audio incompleto ({car / D:.1f} letras/s)', tema, k); return None
     if any(b - a > 6 for a, b in silencios(w, 6)): print('ERR: silencio de más de 6 s', tema, k); return None
     # comienzo de cada frase (ver cortes)
-    t = cortes(w, frases)
+    t = cortes_limpios(w, frases) or cortes_dictado(w, frases, clave) or cortes(w, frases)
     if t is None: print(f'ERR: no encuentro las pausas entre frases', tema, k); return None
     out = f'audio/en-{tema}-{k}.mp3'
     subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', w, '-ac', '1', '-b:a', '96k', os.path.join(REPO, out)], check=True)

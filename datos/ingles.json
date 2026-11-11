@@ -1772,7 +1772,21 @@
         "ok": 1
        }
       ]
-     }
+     },
+     "audio": "audio/en-atapuerca-easy.mp3",
+     "s": 72,
+     "t": [
+      0.0,
+      7.74,
+      14.86,
+      22.4,
+      27.63,
+      36.07,
+      44.45,
+      50.03,
+      58.61,
+      64.44
+     ]
     },
     "medium": {
      "et": "Conocimientos básicos",
@@ -1949,7 +1963,23 @@
         "ok": 1
        }
       ]
-     }
+     },
+     "audio": "audio/en-atapuerca-medium.mp3",
+     "s": 121,
+     "t": [
+      0.0,
+      12.71,
+      23.12,
+      34.39,
+      46.97,
+      56.13,
+      65.82,
+      75.83,
+      85.68,
+      96.01,
+      103.61,
+      113.98
+     ]
     },
     "hard": {
      "et": "Grandes conocimientos",
@@ -2138,7 +2168,22 @@
         "ok": 1
        }
       ]
-     }
+     },
+     "audio": "audio/en-atapuerca-hard.mp3",
+     "s": 97,
+     "t": [
+      0.0,
+      10.7,
+      18.83,
+      30.91,
+      39.76,
+      48.31,
+      56.58,
+      65.13,
+      71.8,
+      82.04,
+      89.73
+     ]
     }
    },
    "dic": {
@@ -2373,7 +2418,9 @@
     "years": "años",
     "yet": "sin embargo, pero",
     "young": "joven"
-   }
+   },
+   "voz": "Achird",
+   "acento": "British"
   }
  ],
  "gram": {
