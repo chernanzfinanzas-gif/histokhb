@@ -2421,6 +2421,799 @@
    },
    "voz": "Achird",
    "acento": "British"
+  },
+  {
+   "id": "altamira",
+   "des": "des-altamira",
+   "tEN": "Altamira: The Cave Nobody Believed",
+   "tES": "Altamira: la cueva que nadie creyó",
+   "fecha": "1879",
+   "lam": "img/laminas/des-altamira.webp",
+   "viva": "img/vivas/des-altamira.mp4",
+   "pv": {
+    "v": "turn out",
+    "es": "resultar (que), acabar siendo",
+    "ex": "<i>Turn</i> es «girar», pero <b>turn out</b> es «resultar»: sirve para contar cómo acabó algo que no se sabía. Va con <i>to be</i> (<i>it turned out to be true</i>) o con <i>that</i> (<i>it turned out that…</i>).",
+    "ej": [
+     "Years later, the experts <b>turned out</b> to be wrong.",
+     "The paintings <b>turned out</b> to be genuine."
+    ],
+    "q": {
+     "q": "«The story turned out to be true» significa…",
+     "o": [
+      "La historia dio la vuelta",
+      "La historia resultó ser cierta",
+      "La historia se apagó"
+     ],
+     "ok": 1
+    }
+   },
+   "voz": "Despina",
+   "acento": "American",
+   "dic": {
+    "accepted": "aceptado",
+    "after": "después de",
+    "age": "edad, era (Ice Age: Edad de Hielo; Stone Age: Edad de Piedra)",
+    "ago": "hace (tiempo)",
+    "ally": "aliado",
+    "altamira": "Altamira (cueva de Santillana del Mar, Cantabria)",
+    "amateur": "aficionado",
+    "among": "entre",
+    "animals": "animales",
+    "apology": "disculpa",
+    "appeared": "aparecieron",
+    "applied": "aplicados, puestos",
+    "argue": "sostener, argumentar",
+    "around": "hacia, alrededor de",
+    "art": "arte",
+    "article": "artículo",
+    "believe": "creer",
+    "believed": "creyeron",
+    "big": "grande",
+    "bison": "bisonte(s)",
+    "black": "negro",
+    "bone": "hueso",
+    "book": "libro",
+    "bright": "vivo, brillante (color)",
+    "calcite": "calcita (mineral que cubre las paredes)",
+    "called": "llamada; llamado",
+    "came": "llegó, vino",
+    "cartailhac": "Cartailhac (Émile, prehistoriador francés)",
+    "carved": "tallaron",
+    "cave": "cueva",
+    "caves": "cuevas",
+    "ceiling": "techo",
+    "clergymen": "clérigos, religiosos",
+    "colors": "colores",
+    "concluded": "concluyó",
+    "confession": "confesión",
+    "containing": "que contenían",
+    "convinced": "convencido",
+    "couldn't": "no podían (couldn't have painted: no podían haber pintado)",
+    "covered": "cubrían; cubiertos",
+    "culpa": "culpa (latín: mea culpa, «por mi culpa»)",
+    "daughter": "hija",
+    "death": "muerte",
+    "del": "del (Santillana del Mar)",
+    "died": "murió",
+    "digging": "excavando",
+    "discovered": "descubiertas",
+    "discovery": "descubrimiento",
+    "dog": "perro",
+    "doubt": "duda (in doubt: en entredicho)",
+    "drawings": "dibujos",
+    "earlier": "antes",
+    "eight": "ocho",
+    "eight-year-old": "de ocho años",
+    "engineer": "ingeniero",
+    "engravings": "grabados",
+    "entrance": "entrada",
+    "especially": "sobre todo, especialmente",
+    "even": "incluso (even suggested: llegaron a insinuar)",
+    "evolutionists": "evolucionistas",
+    "examined": "examinó",
+    "expert": "experto",
+    "experts": "expertos",
+    "family": "familia",
+    "father": "padre",
+    "forgery": "falsificación",
+    "found": "encontró",
+    "fourteen": "catorce",
+    "france": "Francia",
+    "french": "francés",
+    "fresh": "fresco, reciente",
+    "friend": "amigo",
+    "gabriel": "Gabriel (de Mortillet, prehistoriador francés)",
+    "genuine": "auténtico",
+    "geologist": "geólogo",
+    "girl": "niña",
+    "good": "bueno",
+    "harlé": "Harlé (Édouard, ingeniero francés)",
+    "him": "le, a él",
+    "hinted": "insinuó",
+    "however": "sin embargo",
+    "huge": "enorme",
+    "hunter": "cazador",
+    "hunters": "cazadores",
+    "ice": "hielo",
+    "influential": "influyente",
+    "insisted": "insistió",
+    "itself": "en sí mismo, ya",
+    "juan": "Juan (Vilanova y Piera, geólogo español)",
+    "landslide": "derrumbe, desprendimiento",
+    "late": "tarde (too late: demasiado tarde)",
+    "later": "después (years later: años después)",
+    "lawyer": "abogado",
+    "layers": "capas",
+    "leading": "principal, más destacado",
+    "longer": "ya (no… any longer: ya no)",
+    "looked": "miró; parecía (looked up: levantó la vista)",
+    "looking": "buscando (looking for: buscando)",
+    "low": "bajo",
+    "made": "hecho",
+    "mar": "Mar (Santillana del Mar)",
+    "marcelino": "Marcelino (Sanz de Sautuola)",
+    "maría": "María (hija de Sautuola)",
+    "mea": "mi (latín: mea culpa)",
+    "modern": "moderno",
+    "mortillet": "Mortillet (Gabriel de, prehistoriador francés)",
+    "moved": "apartó, movió",
+    "near": "cerca de",
+    "nobody": "nadie",
+    "north": "norte",
+    "objects": "objetos",
+    "old": "antiguo; de edad",
+    "paint": "pintar",
+    "painted": "pintados; pintaron",
+    "painter": "pintor",
+    "paintings": "pinturas",
+    "paris": "París",
+    "part": "papel (played its part: tuvo su papel)",
+    "people": "gente, personas",
+    "played": "jugó (played its part: también pesó)",
+    "point": "punto (turning point: punto de inflexión)",
+    "prehistoric": "prehistórico",
+    "prejudice": "prejuicio",
+    "produced": "hecho, producido",
+    "published": "publicó",
+    "quite": "bastante",
+    "recently": "recientemente",
+    "red": "rojo",
+    "reputation": "reputación",
+    "ridicule": "ridiculizar",
+    "rock": "roca",
+    "rocks": "rocas",
+    "room": "sala, habitación",
+    "s": "(en 1890s: la década de 1890)",
+    "said": "dijo, dijeron (is said to: se dice que)",
+    "santander": "Santander",
+    "santillana": "Santillana (del Mar, Cantabria)",
+    "sanz": "Sanz (de Sautuola)",
+    "sautuola": "Sautuola (Marcelino Sanz de, abogado y erudito santanderino)",
+    "saw": "vio",
+    "scholar": "erudito",
+    "sealed": "cerró, selló",
+    "sediment": "sedimento",
+    "seen": "visto",
+    "set": "tendida (a trap set by: una trampa tendida por)",
+    "short": "corto, breve",
+    "skeptic": "escéptico",
+    "skill": "maestría, habilidad",
+    "small": "pequeño",
+    "something": "algo",
+    "spain": "España",
+    "spanish": "español",
+    "specialists": "especialistas",
+    "still": "todavía, aún",
+    "stone": "piedra",
+    "stones": "piedras",
+    "suggested": "insinuaron, sugirieron",
+    "summer": "verano",
+    "supported": "apoyó",
+    "surprising": "sorprendente",
+    "suspected": "sospechado",
+    "thought": "pensó, pensaba",
+    "thousands": "miles",
+    "title": "título",
+    "tools": "herramientas",
+    "trap": "trampa",
+    "turn": "girar (turn out: resultar)",
+    "turned": "resultaron (turned out: resultó)",
+    "turning": "de inflexión (turning point)",
+    "vilanova": "Vilanova (Juan, geólogo español)",
+    "visited": "visitó",
+    "walked": "entró, caminó",
+    "well": "bien",
+    "while": "mientras",
+    "whose": "cuyo, cuya",
+    "why": "por qué (which is why: por eso)",
+    "wrong": "equivocado",
+    "wrote": "escribió",
+    "year": "año",
+    "years": "años",
+    "édouard": "Édouard (Harlé)",
+    "émile": "Émile (Cartailhac)"
+   },
+   "niveles": {
+    "easy": {
+     "et": "Aprendiendo inglés",
+     "vel": "0.8",
+     "fr": [
+      [
+       "Altamira is a cave near Santillana del Mar, in the north of Spain.",
+       "Altamira es una cueva cerca de Santillana del Mar, en el norte de España."
+      ],
+      [
+       "Around 1868, a hunter was looking for his dog among some rocks.",
+       "Hacia 1868, un cazador buscaba a su perro entre unas rocas."
+      ],
+      [
+       "He moved the stones and found the entrance to a cave.",
+       "Apartó las piedras y encontró la entrada de una cueva."
+      ],
+      [
+       "In the summer of 1879, Marcelino Sanz de Sautuola was digging there.",
+       "En el verano de 1879, Marcelino Sanz de Sautuola estaba excavando allí."
+      ],
+      [
+       "His daughter María was eight years old.",
+       "Su hija María tenía ocho años."
+      ],
+      [
+       "While her father was digging, she walked into a small, low room.",
+       "Mientras su padre excavaba, ella entró en una sala pequeña y baja."
+      ],
+      [
+       "She looked up and saw big red and black animals on the ceiling.",
+       "Levantó la vista y vio grandes animales rojos y negros en el techo."
+      ],
+      [
+       "They were bison, painted thousands of years ago.",
+       "Eran bisontes, pintados hace miles de años."
+      ],
+      [
+       "In 1880 Sautuola wrote a small book about the paintings.",
+       "En 1880 Sautuola escribió un librito sobre las pinturas."
+      ],
+      [
+       "But the experts did not believe him.",
+       "Pero los expertos no le creyeron."
+      ],
+      [
+       "They said that the paintings were too good and too fresh.",
+       "Dijeron que las pinturas eran demasiado buenas y demasiado frescas."
+      ],
+      [
+       "Sautuola died in 1888, and years later the experts turned out to be wrong.",
+       "Sautuola murió en 1888, y años después los expertos resultaron estar equivocados."
+      ]
+     ],
+     "glos": [
+      [
+       "cave",
+       "cueva"
+      ],
+      [
+       "hunter",
+       "cazador"
+      ],
+      [
+       "entrance",
+       "entrada"
+      ],
+      [
+       "digging",
+       "excavando"
+      ],
+      [
+       "ceiling",
+       "techo"
+      ],
+      [
+       "bison",
+       "bisonte(s)"
+      ],
+      [
+       "fresh",
+       "fresco, reciente"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "What is this story about?",
+       "o": [
+        "A dog that got lost in Paris",
+        "Very old paintings in a Spanish cave",
+        "A new museum in Madrid"
+       ],
+       "ok": 1
+      },
+      {
+       "q": "What did the experts think?",
+       "o": [
+        "They did not believe the paintings were old",
+        "They wanted to buy the cave",
+        "They said the paintings were ugly"
+       ],
+       "ok": 0
+      }
+     ],
+     "det": [
+      {
+       "q": "What was the hunter looking for?",
+       "o": [
+        "A bison",
+        "His daughter",
+        "His dog"
+       ],
+       "ok": 2
+      },
+      {
+       "q": "How old was María?",
+       "o": [
+        "Eight",
+        "Eighteen",
+        "Five"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "What colors were the animals on the ceiling?",
+       "o": [
+        "Blue and white",
+        "Red and black",
+        "Green and yellow"
+       ],
+       "ok": 1
+      }
+     ],
+     "modelo": "Around 1868 a hunter found the cave of Altamira. In 1879 Sautuola was digging there with his daughter María, and she saw red and black bison on the ceiling. Sautuola wrote a book, but the experts did not believe him. They said the paintings were too good to be old.",
+     "gancho": "Uno de los expertos que dijeron que era un fraude escribió años después un artículo con un título sorprendente. ¿Qué decía?",
+     "trad": [
+      [
+       "Ella estaba buscando a su perro.",
+       "She was looking for her dog."
+      ],
+      [
+       "Mientras él excavaba, ella miró al techo.",
+       "While he was digging, she looked at the ceiling."
+      ]
+     ],
+     "gram": {
+      "id": "pasado-continuo",
+      "ej": [
+       "A hunter <b>was looking</b> for his dog among some rocks.",
+       "Marcelino Sanz de Sautuola <b>was digging</b> there.",
+       "While her father <b>was digging</b>, she walked into a small, low room."
+      ],
+      "q": [
+       {
+        "q": "While María ___ around the cave, she saw the bison.",
+        "o": [
+         "walked",
+         "was walking",
+         "is walking"
+        ],
+        "ok": 1
+       },
+       {
+        "q": "The hunter ___ for his dog when he found the cave.",
+        "o": [
+         "was looking",
+         "were looking",
+         "looks"
+        ],
+        "ok": 0
+       }
+      ]
+     },
+     "audio": "audio/en-altamira-easy.mp3",
+     "s": 78,
+     "t": [
+      0.0,
+      8.2,
+      16.43,
+      22.23,
+      30.82,
+      35.61,
+      42.42,
+      49.09,
+      54.37,
+      61.34,
+      65.73,
+      71.39
+     ]
+    },
+    "medium": {
+     "et": "Conocimientos básicos",
+     "vel": "0.9",
+     "fr": [
+      [
+       "In the summer of 1879, an eight-year-old girl called María walked into a low room in the cave of Altamira.",
+       "En el verano de 1879, una niña de ocho años llamada María entró en una sala baja de la cueva de Altamira."
+      ],
+      [
+       "She looked up at the ceiling and saw huge red and black bison painted on the rock.",
+       "Miró al techo y vio enormes bisontes rojos y negros pintados en la roca."
+      ],
+      [
+       "Her father, Marcelino Sanz de Sautuola, thought that the paintings were as old as the stone tools he had seen in Paris.",
+       "Su padre, Marcelino Sanz de Sautuola, pensó que las pinturas eran tan antiguas como las herramientas de piedra que había visto en París."
+      ],
+      [
+       "In 1880 he published a short book with drawings of the ceiling, and the geologist Juan Vilanova supported him.",
+       "En 1880 publicó un librito con dibujos del techo, y el geólogo Juan Vilanova le apoyó."
+      ],
+      [
+       "However, most experts, especially in France, said that the paintings could not be prehistoric.",
+       "Sin embargo, la mayoría de los expertos, sobre todo en Francia, dijeron que las pinturas no podían ser prehistóricas."
+      ],
+      [
+       "The French expert Émile Cartailhac thought that Ice Age hunters could not paint so well.",
+       "El experto francés Émile Cartailhac pensaba que los cazadores de la Edad de Hielo no podían pintar tan bien."
+      ],
+      [
+       "In 1881 an engineer visited the cave and said that the paintings were modern.",
+       "En 1881 un ingeniero visitó la cueva y dijo que las pinturas eran modernas."
+      ],
+      [
+       "Some people even suggested that a painter, a friend of the family, had made them.",
+       "Algunos llegaron a insinuar que las había hecho un pintor amigo de la familia."
+      ],
+      [
+       "Sautuola died in 1888, and nobody had accepted his discovery.",
+       "Sautuola murió en 1888 y nadie había aceptado su descubrimiento."
+      ],
+      [
+       "Then, in the 1890s, painted caves appeared in France, with Stone Age tools in the layers that covered the art.",
+       "Luego, en la década de 1890, aparecieron en Francia cuevas pintadas, con herramientas de la Edad de Piedra en las capas que cubrían el arte."
+      ],
+      [
+       "In 1902 Cartailhac published an article with a surprising title: \"Mea culpa of a skeptic\".",
+       "En 1902 Cartailhac publicó un artículo con un título sorprendente: «Mea culpa de un escéptico»."
+      ],
+      [
+       "But it was too late for Sautuola.",
+       "Pero ya era tarde para Sautuola."
+      ]
+     ],
+     "glos": [
+      [
+       "ceiling",
+       "techo"
+      ],
+      [
+       "huge",
+       "enorme"
+      ],
+      [
+       "tools",
+       "herramientas"
+      ],
+      [
+       "supported",
+       "apoyó"
+      ],
+      [
+       "prehistoric",
+       "prehistórico"
+      ],
+      [
+       "Ice Age",
+       "Edad de Hielo"
+      ],
+      [
+       "layers",
+       "capas"
+      ],
+      [
+       "skeptic",
+       "escéptico"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "What is the main idea of the story?",
+       "o": [
+        "A girl painted animals in a cave",
+        "Experts refused to believe that the paintings were old",
+        "France bought the cave of Altamira"
+       ],
+       "ok": 1
+      },
+      {
+       "q": "What changed the experts' minds?",
+       "o": [
+        "New painted caves found in France",
+        "A letter from the King of Spain",
+        "A photo taken by María"
+       ],
+       "ok": 0
+      }
+     ],
+     "det": [
+      {
+       "q": "Where had Sautuola seen prehistoric stone tools?",
+       "o": [
+        "In Madrid",
+        "In Lisbon",
+        "In Paris"
+       ],
+       "ok": 2
+      },
+      {
+       "q": "Who supported Sautuola from the start?",
+       "o": [
+        "The geologist Juan Vilanova",
+        "Émile Cartailhac",
+        "An engineer from France"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "When did Cartailhac publish his article?",
+       "o": [
+        "In 1880",
+        "In 1902",
+        "In 1888"
+       ],
+       "ok": 1
+      }
+     ],
+     "modelo": "In 1879 María, who was eight, saw huge bison painted on the ceiling of Altamira. Her father believed they were prehistoric, but most experts said they were modern or even a fake. Sautuola died in 1888. In the 1890s similar caves were found in France, and in 1902 Cartailhac admitted that he had been wrong.",
+     "gancho": "Aquel otoño Cartailhac viajó por fin a Altamira con un joven sacerdote que iba a copiar las pinturas. ¿Y qué quiso hacer al conocer a María, ya adulta?",
+     "trad": [
+      [
+       "Dijeron que las pinturas eran modernas.",
+       "They said that the paintings were modern."
+      ],
+      [
+       "Cartailhac pensaba que los cazadores no podían pintar tan bien.",
+       "Cartailhac thought that the hunters could not paint so well."
+      ]
+     ],
+     "gram": {
+      "id": "estilo-indirecto-basico",
+      "ej": [
+       "Most experts <b>said that the paintings could not be</b> prehistoric.",
+       "An engineer visited the cave and <b>said that the paintings were</b> modern.",
+       "Her father <b>thought that the paintings were</b> as old as the stone tools."
+      ],
+      "q": [
+       {
+        "q": "Sautuola said: «The paintings are very old». → Sautuola said that the paintings ___ very old.",
+        "o": [
+         "are being",
+         "were",
+         "be"
+        ],
+        "ok": 1
+       },
+       {
+        "q": "The engineer said: «They are modern». → The engineer said that ___ modern.",
+        "o": [
+         "they were",
+         "they are being",
+         "were they"
+        ],
+        "ok": 0
+       }
+      ]
+     },
+     "audio": "audio/en-altamira-medium.mp3",
+     "s": 89,
+     "t": [
+      0.0,
+      9.96,
+      17.62,
+      27.59,
+      36.41,
+      44.1,
+      51.28,
+      57.59,
+      63.35,
+      69.87,
+      78.31,
+      86.43
+     ]
+    },
+    "hard": {
+     "et": "Grandes conocimientos",
+     "vel": "1",
+     "fr": [
+      [
+       "When eight-year-old María looked up at a low ceiling in the cave of Altamira in 1879, she saw something that nobody had seen for thousands of years.",
+       "Cuando María, de ocho años, miró un techo bajo de la cueva de Altamira en 1879, vio algo que nadie había visto en miles de años."
+      ],
+      [
+       "A landslide had sealed the entrance about 13,000 years earlier, which is why the red and black bison still looked so fresh.",
+       "Un derrumbe había cerrado la entrada unos 13.000 años antes, y por eso los bisontes rojos y negros aún parecían tan frescos."
+      ],
+      [
+       "Her father, a lawyer and amateur scholar from Santander, was convinced that they must have been painted by the people who had carved the bone objects he had seen in Paris.",
+       "Su padre, abogado y erudito aficionado de Santander, estaba convencido de que tenían que haberlos pintado los mismos que tallaron los objetos de hueso que había visto en París."
+      ],
+      [
+       "Most specialists, however, insisted that Ice Age hunters couldn't have painted with such skill, and that colors so bright must have been applied quite recently.",
+       "La mayoría de los especialistas, sin embargo, insistió en que los cazadores de la Edad de Hielo no podían haber pintado con tanta maestría, y en que unos colores tan vivos debían de ser recientes."
+      ],
+      [
+       "In 1881 the engineer Édouard Harlé examined the cave and concluded that the paintings were modern; it was even hinted that a painter who was a friend of the family might have produced them.",
+       "En 1881 el ingeniero Édouard Harlé examinó la cueva y concluyó que las pinturas eran modernas; llegó a insinuarse que podía haberlas hecho un pintor amigo de la familia."
+      ],
+      [
+       "Prejudice played its part too: the influential Gabriel de Mortillet is said to have suspected a trap set by Spanish clergymen to ridicule the evolutionists.",
+       "También pesaron los prejuicios: se cuenta que el influyente Gabriel de Mortillet llegó a sospechar una trampa de religiosos españoles para ridiculizar a los evolucionistas."
+      ],
+      [
+       "Sautuola died in 1888 with his reputation in doubt, and his ally, the geologist Juan Vilanova, died in 1893.",
+       "Sautuola murió en 1888 con su reputación en entredicho, y su aliado, el geólogo Juan Vilanova, en 1893."
+      ],
+      [
+       "The turning point came in the 1890s, when caves were discovered in France whose engravings were covered by layers of sediment and calcite containing Stone Age tools.",
+       "El punto de inflexión llegó en la década de 1890, cuando se descubrieron en Francia cuevas cuyos grabados estaban cubiertos por capas de sedimento y calcita con herramientas de la Edad de Piedra."
+      ],
+      [
+       "Nobody could argue any longer that such art was a modern forgery: the paintings had turned out to be genuine.",
+       "Ya nadie podía sostener que aquel arte fuera una falsificación moderna: las pinturas habían resultado ser auténticas."
+      ],
+      [
+       "In 1902 Émile Cartailhac, the leading skeptic, published an article whose title was itself a confession: \"Mea culpa of a skeptic\".",
+       "En 1902 Émile Cartailhac, el principal escéptico, publicó un artículo cuyo título era ya una confesión: «Mea culpa de un escéptico»."
+      ],
+      [
+       "The apology came fourteen years after Sautuola's death.",
+       "La disculpa llegó catorce años después de la muerte de Sautuola."
+      ]
+     ],
+     "glos": [
+      [
+       "landslide",
+       "derrumbe, desprendimiento"
+      ],
+      [
+       "sealed",
+       "cerró, selló"
+      ],
+      [
+       "scholar",
+       "erudito"
+      ],
+      [
+       "carved",
+       "tallaron"
+      ],
+      [
+       "skill",
+       "maestría, habilidad"
+      ],
+      [
+       "hinted",
+       "insinuó"
+      ],
+      [
+       "clergymen",
+       "clérigos, religiosos"
+      ],
+      [
+       "turning point",
+       "punto de inflexión"
+      ],
+      [
+       "engravings",
+       "grabados"
+      ],
+      [
+       "forgery",
+       "falsificación"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "Why did the experts reject Altamira for so long?",
+       "o": [
+        "The cave was too far from France",
+        "They believed prehistoric hunters were unable to paint like that",
+        "Sautuola refused to let them in"
+       ],
+       "ok": 1
+      },
+      {
+       "q": "What finally proved that the paintings were genuine?",
+       "o": [
+        "Similar art in French caves sealed under layers with Stone Age tools",
+        "A confession by a painter friend of the family",
+        "A chemical test made in Madrid"
+       ],
+       "ok": 0
+      }
+     ],
+     "det": [
+      {
+       "q": "When had a landslide sealed the cave?",
+       "o": [
+        "About 1,300 years earlier",
+        "About 13,000 years earlier",
+        "About 130,000 years earlier"
+       ],
+       "ok": 1
+      },
+      {
+       "q": "Who examined the cave in 1881 and called the paintings modern?",
+       "o": [
+        "Gabriel de Mortillet",
+        "Juan Vilanova",
+        "Édouard Harlé"
+       ],
+       "ok": 2
+      },
+      {
+       "q": "What was Sautuola's profession?",
+       "o": [
+        "Engineer",
+        "Lawyer",
+        "Priest"
+       ],
+       "ok": 1
+      }
+     ],
+     "modelo": "In 1879 a girl spotted painted bison in Altamira, which had been sealed by a landslide for some 13,000 years. Her father was convinced they were prehistoric, but the experts insisted that Ice Age hunters couldn't have painted them and that they must have been modern. Only after similar art turned up in sealed French caves did Cartailhac admit his mistake, in 1902, when Sautuola was already dead.",
+     "gancho": "¿Qué pasó cuando Cartailhac llegó por fin a Altamira, y por qué hoy solo cinco personas a la semana pueden entrar en la cueva?",
+     "trad": [
+      [
+       "Los cazadores no pueden haber pintado con tanta maestría.",
+       "The hunters can't have painted with such skill."
+      ],
+      [
+       "Un amigo de la familia podría haberlas hecho.",
+       "A friend of the family might have made them."
+      ]
+     ],
+     "gram": {
+      "id": "modales-pasado",
+      "ej": [
+       "They <b>must have been painted</b> by the people who had carved the bone objects.",
+       "Ice Age hunters <b>couldn't have painted</b> with such skill.",
+       "A painter who was a friend of the family <b>might have produced</b> them."
+      ],
+      "q": [
+       {
+        "q": "The colors are so bright that they ___ applied recently. (estoy casi seguro)",
+        "o": [
+         "might be",
+         "must have been",
+         "should have"
+        ],
+        "ok": 1
+       },
+       {
+        "q": "Primitive hunters ___ such masterpieces, said the experts. (era imposible)",
+        "o": [
+         "couldn't have painted",
+         "mustn't paint",
+         "shouldn't have painted"
+        ],
+        "ok": 0
+       }
+      ]
+     },
+     "audio": "audio/en-altamira-hard.mp3",
+     "s": 113,
+     "t": [
+      0.0,
+      12.68,
+      22.91,
+      34.85,
+      45.75,
+      58.63,
+      69.74,
+      80.06,
+      91.11,
+      98.83,
+      109.63
+     ]
+    }
+   }
   }
  ],
  "gram": {
