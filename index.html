@@ -535,7 +535,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
  </div>
  <div class="bienvenida" id="panelCodigo" style="border-color:#3a9a5b">
   <h2>🔑 Tu código personal</h2>
-  <div class="codaviso"><img class="ammo-izq" src="img/ammo/ammo-senala.webp" alt="" width="70" height="74"><b>¡Importante!</b> Si quieres conservar el historial, los favoritos y tus avances en la web, guarda este código. Te servirá para usarlos en otros dispositivos, o en este mismo si se borran los datos del navegador.</div>
+  <div class="codaviso"><img class="ammo-izq" src="img/ammo/ammo-senala.webp" alt="" width="70" height="74"><b>¡Importante!</b> Si quieres conservar el historial, los favoritos, tus avances y tus cuadernos de viaje en la web, guarda este código. Te servirá para usarlos en otros dispositivos, o en este mismo si se borran los datos del navegador.</div>
   <div style="background:#f6f1e7;border-radius:12px;padding:12px 14px;text-align:center;margin:12px 0 10px">
    <div id="codVal" style="font-family:var(--f-head);font-weight:700;font-size:30px;letter-spacing:3px;color:var(--accent)">·······</div>
   </div>
@@ -559,6 +559,8 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <div class="bsec"><h3>🌍 El mundo a la vez</h3><p>¿Qué pasaba en China mientras caía Roma? Compara civilizaciones de todo el planeta año a año.</p></div>
   <div class="bdiv"></div>
   <div class="bsec"><h3>📍 Aquí</h3><p>La app detecta dónde estás y te cuenta la historia de ese lugar: yacimientos, monumentos, batallas y personajes a tu alrededor.</p></div>
+  <div class="bdiv"></div>
+  <div class="bsec"><h3>🥾 Viajes</h3><p>Rutas por la naturaleza, yacimientos, monumentos y todo lo que tienes cerca, con un botón en cada sitio para leer su historia. Con «📓 Al cuaderno» apuntas los sitios que te gustan en tus cuadernos de viaje («Asturias 2027», «Iglesias románicas»…); en la pestaña 📓 Cuadernos los abres en el mapa, los compartes por WhatsApp o correo y descargas un GPX. Se guardan con tu código, así que los verás en cualquier aparato.</p></div>
   <div class="bdiv"></div>
   <div class="bsec"><h3>🏆 Reto del día</h3><p>5 preguntas nuevas cada día para poner a prueba lo que sabes. El marcador guarda tu racha.</p></div>
   <div class="bdiv"></div>
@@ -687,12 +689,12 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
  </div>
  <div class="bienvenida">
   <h2>🔑 Tu código</h2>
-  <p style="margin:0 0 10px;font-size:14px;color:var(--ink2);line-height:1.5">Es tu identificación en la app: guarda tu progreso (fichas vistas, favoritos, racha del reto) y tus ajustes de color/letra/tamaño. No hace falta email ni contraseña, pero cada código solo vive en el dispositivo donde lo guardaste, así que anótalo en algún sitio seguro.</p>
+  <p style="margin:0 0 10px;font-size:14px;color:var(--ink2);line-height:1.5">Es tu identificación en la app: guarda tu progreso (fichas vistas, favoritos, racha del reto), tus ajustes de color/letra/tamaño y tus cuadernos de viaje. No hace falta email ni contraseña, pero cada código solo vive en el dispositivo donde lo guardaste, así que anótalo en algún sitio seguro. Quien conozca tu código puede ver y cambiar lo guardado: no lo compartas y no pongas nada privado en tus cuadernos.</p>
   <div style="background:#f6f1e7;border-radius:12px;padding:12px 14px;text-align:center;margin:4px 0 10px">
    <div id="ajCodVal" style="font-family:var(--f-head);font-weight:700;font-size:26px;letter-spacing:3px;color:var(--accent)">·······</div>
   </div>
   <button class="btn sec" id="ajBtnCopiaCod" type="button">📋 Copiar código</button>
-  <p style="margin:14px 0 0;font-size:14px;color:var(--ink2);line-height:1.5"><b>Para usarlo en otro dispositivo</b> (móvil, tablet, otro navegador…): entra en la app en ese dispositivo, ve a Ajustes y pega aquí este mismo código. Se traerá tu progreso y tus ajustes.</p>
+  <p style="margin:14px 0 0;font-size:14px;color:var(--ink2);line-height:1.5"><b>Para usarlo en otro dispositivo</b> (móvil, tablet, otro navegador…): entra en la app en ese dispositivo, ve a Ajustes y pega aquí este mismo código. Se traerá tu progreso, tus ajustes y tus cuadernos de viaje.</p>
   <p style="margin:8px 0 0;font-size:14px;color:var(--ink2);line-height:1.5"><b>Si un dispositivo te generó un código nuevo por error</b> (por ejemplo, la primera vez que abriste la app ahí) y quieres usar el de otro dispositivo en su lugar, hazlo igual: escribe abajo el código que quieres usar y sustituirá al que había.</p>
   <p style="margin:12px 0 0;font-size:13px;color:var(--muted)">¿Quieres usar el código de otro dispositivo (y traerte su progreso aquí)? <a href="javascript:void(0)" onclick="$('#ajCajaOtroCod').classList.toggle('hide')" style="color:var(--accent);font-weight:700;text-decoration:underline">Introdúcelo aquí</a></p>
   <div id="ajCajaOtroCod" class="hide" style="margin-top:10px">
@@ -847,7 +849,7 @@ async function sinc(){if(!SINC)SINC=await getJ('sinc-eventos.json');return SINC;
 function slamHtml(lam,viva){const calm=(navigator.connection&&navigator.connection.saveData)||MOV_OFF; const cont=LS.get('hk_ajustes',{}).anim==='cont';
  return viva&&!calm?`<video class="slam" src="${viva}" poster="${lam}" autoplay muted playsinline ${cont?'loop':''} preload="metadata" aria-hidden="true"></video>`:`<img class="slam" src="${lam}" alt="" loading="lazy">`;}
 let LAMS=null; async function lamSinc(){if(!LAMS){try{LAMS=await getJ('laminas-sinc.json');}catch(e){LAMS={};}}return LAMS;}
-function go(h){location.hash=h;}
+function go(h){ if(h&&h[0]!=='#'){location.href=h;return;} location.hash=h; }   // «viajes/» y otras páginas fuera de la app
 
 // ---------- arranque ----------
 $('#waTop').innerHTML=WA_ICO+'<span class="wat">Compartir</span>';

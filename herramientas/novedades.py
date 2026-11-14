@@ -7,7 +7,7 @@ Se ejecuta solo en cada publicación (workflow publicar-hosting):
      clara (≥15 % y ≥300 caracteres) → «ampliada». Las correcciones pequeñas no se anuncian.
   2. FUNCIONES DE LA APP: cualquier línea que empiece por «NOVEDAD:» en la descripción de los commits
      publicados se anuncia tal cual («NOVEDAD: Diccionario: mantén pulsada una palabra…»).
-Con enlace: «NOVEDAD (#/d/des-xxx): texto» (o #/f/…, #/s/…) lleva a esa ficha; sin él, a la portada.
+Con enlace: «NOVEDAD (#/d/des-xxx): texto» (o #/f/…, #/s/…) lleva a esa ficha; «NOVEDAD (viajes/): …» lleva a Viajes; sin él, a la portada.
 A mano: NOVEDADES_COMMITS='[{"message":"NOVEDAD: texto"}]' python3 herramientas/novedades.py
 """
 import json, os, re, glob, hashlib, datetime
@@ -60,7 +60,7 @@ if previa is not None:
 
 for c in json.loads(os.environ.get('NOVEDADES_COMMITS') or '[]'):
     for linea in (c.get('message') or '').splitlines():
-        m = re.match(r'\s*NOVEDAD\s*(?:\((#/[^)\s]+)\))?:\s*(.+)', linea)   # «NOVEDAD (#/d/des-xxx): …» lleva a esa ficha
+        m = re.match(r'\s*NOVEDAD\s*(?:\((#/[^)\s]+|viajes/[^)\s]*)\))?:\s*(.+)', linea)   # «NOVEDAD (#/d/des-xxx): …» lleva a esa ficha
         if m:
             t = m.group(2).strip()
             items.append({'k': 'app-' + huella(t), 't': t, 'tipo': 'app', 'href': m.group(1) or '#/', 'sub': 'Mejora de la app', 'lugares': []})
