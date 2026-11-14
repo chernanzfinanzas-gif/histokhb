@@ -2,7 +2,10 @@
 #
 # Cada día (y a mano con «Run workflow») baja el catálogo que Carlos publica en
 # chernanzfinanzas-gif/mapas-ign, monta la versión pública con
-# herramientas/viajes/hacer_version_publica.py (sin sus rutas, fotos ni edición)
+# viajes-publico/hacer_version_publica.py, que vive en la App Mapas (sin sus rutas, fotos ni edición)
+#
+# Desde el 14-nov-2026 TODO lo de la versión pública se decide y se publica desde el catálogo de
+# la App Mapas (repositorio mapas-ign, carpeta viajes-publico/). Este fichero no hay que tocarlo más.
 # y sube al hosting SOLO lo que ha cambiado.
 #
 # Toca únicamente www/viajes/. Ahí sí borra lo que ya no está (--delete),
@@ -26,12 +29,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - name: Programa que monta la versión pública
-        uses: actions/checkout@v4
-        with:
-          sparse-checkout: herramientas/viajes
-
-      - name: Catálogo publicado de la app de mapas (solo lo necesario)
+      - name: Catálogo publicado de la app de mapas y su programa de versión pública
         uses: actions/checkout@v4
         with:
           repository: chernanzfinanzas-gif/mapas-ign
@@ -40,10 +38,11 @@ jobs:
             /catalogo.html
             /catalogo/
             /sync/
+            /viajes-publico/
           sparse-checkout-cone-mode: false
 
       - name: Montar la versión pública
-        run: python3 herramientas/viajes/hacer_version_publica.py --origen mapas --salida salida
+        run: python3 mapas/viajes-publico/hacer_version_publica.py --origen mapas --salida salida
 
       - name: Comprobar antes de subir (si falta algo, no se toca el hosting)
         run: |
