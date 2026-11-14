@@ -4,7 +4,9 @@
 // No hay contraseñas ni datos personales: el código es la única clave.
 //
 // GET  api/sync.php?codigo=XXXXXXX        -> devuelve el JSON guardado (o {} si no hay nada aún)
-// POST api/sync.php?codigo=XXXXXXX        -> guarda el JSON recibido en el cuerpo de la petición (lo sustituye entero)
+// POST api/sync.php?codigo=XXXXXXX        -> junta el JSON recibido con lo guardado, POR CAMPOS DE PRIMER NIVEL:
+//                                            los campos que llegan sustituyen a los guardados y el resto se conserva
+//                                            (desde 15-nov-2026: así Viajes puede enviar solo {"cuadernos":…} sin borrar vistas, reto…)
 
 header('Content-Type: application/json; charset=utf-8');
 header('Access-Control-Allow-Origin: *');
@@ -55,22 +57,41 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET') {
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $cuerpo = file_get_contents('php://input');
     $json = json_decode($cuerpo, true);
-    if (!is_array($json)) {
+    // tiene que ser un objeto {campo: valor}, no una lista
+    if (!is_array($json) || ($json !== [] && array_keys($json) === range(0, count($json) - 1))) {
         http_response_code(400);
         echo json_encode(['error' => 'JSON no válido']);
         exit;
     }
-    // Límite de tamaño sencillo para evitar abusos (600 KB: desde nov-2026 guarda también los textos en inglés, ~110 KB al año de un alumno constante).
-    if (strlen($cuerpo) > 600000) {
+    // Límite de tamaño sencillo para evitar abusos (600 KB: desde nov-2026 guarda también los textos en inglés,
+    // ~110 KB al año de un alumno constante). Se mira lo recibido y, más abajo, el resultado ya juntado.
+    $LIMITE = 600000;
+    if (strlen($cuerpo) > $LIMITE) {
         http_response_code(413);
         echo json_encode(['error' => 'Demasiados datos']);
         exit;
     }
-    $datos = json_encode($json, JSON_UNESCAPED_UNICODE);
+    // Leer lo guardado bloqueando la fila, para que dos envíos a la vez (web y Viajes) no se pisen.
+    $mysqli->begin_transaction();
+    $stmt = $mysqli->prepare('SELECT datos FROM usuarios WHERE codigo = ? FOR UPDATE');
+    $stmt->bind_param('s', $codigo);
+    $stmt->execute();
+    $fila = $stmt->get_result()->fetch_assoc();
+    $guardado = $fila ? json_decode($fila['datos'], true) : [];
+    if (!is_array($guardado)) { $guardado = []; }
+    foreach ($json as $campo => $valor) { $guardado[$campo] = $valor; }   // solo los campos que llegan
+    $datos = json_encode((object) $guardado, JSON_UNESCAPED_UNICODE);
+    if (strlen($datos) > $LIMITE) {
+        $mysqli->rollback();
+        http_response_code(413);
+        echo json_encode(['error' => 'Demasiados datos']);
+        exit;
+    }
     $stmt = $mysqli->prepare('INSERT INTO usuarios (codigo, datos, actualizado) VALUES (?, ?, NOW())
         ON DUPLICATE KEY UPDATE datos = VALUES(datos), actualizado = NOW()');
     $stmt->bind_param('ss', $codigo, $datos);
     $stmt->execute();
+    $mysqli->commit();
     echo json_encode(['ok' => true]);
     exit;
 }

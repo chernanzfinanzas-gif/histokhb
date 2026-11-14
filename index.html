@@ -768,7 +768,7 @@ function datosSync(){
  return {
   vistas: LS.get('hk_vistas',[]),
   reto: LS.get('hk_reto',{d:{}}),
-  apodo: LS.get('hk_apodo','')||undefined,
+  apodo: LS.get('hk_apodo','')||'',   // se envía aunque esté vacío: el servidor junta por campos y, si no, se quedaría el apodo viejo
   temporada: 2,
   solo: !!LS.get('hk_solo',false),
   marcadores: (typeof viaje==='function'&&IDX)?Object.fromEntries(['n','g','p'].map(c=>{const v=viaje(c);return [c,{pts:v.pts,dia:v.dia}];}).filter(([c,m])=>m.dia)):null,
