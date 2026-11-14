@@ -1,0 +1,72 @@
+# Publicar Viajes: el catálogo PÚBLICO de la app de mapas en historiatotal.es/viajes/
+#
+# Cada día (y a mano con «Run workflow») baja el catálogo que Carlos publica en
+# chernanzfinanzas-gif/mapas-ign, monta la versión pública con
+# herramientas/viajes/hacer_version_publica.py (sin sus rutas, fotos ni edición)
+# y sube al hosting SOLO lo que ha cambiado.
+#
+# Toca únicamente www/viajes/. Ahí sí borra lo que ya no está (--delete),
+# para que un sitio quitado del catálogo desaparezca también de la web.
+# El resto de historiatotal.es lo sigue publicando «Publicar en historiatotal.es».
+# Usa la misma clave del hosting (secreto HOSTING_SSH_KEY).
+
+name: Publicar Viajes (catálogo público)
+
+on:
+  schedule:
+    - cron: '17 4 * * *'      # cada día a las 05:17 en invierno / 06:17 en verano (hora de Madrid)
+  workflow_dispatch:           # botón «Run workflow» para lanzarlo cuando se quiera
+
+concurrency:
+  group: publicar-viajes
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Programa que monta la versión pública
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: herramientas/viajes
+
+      - name: Catálogo publicado de la app de mapas (solo lo necesario)
+        uses: actions/checkout@v4
+        with:
+          repository: chernanzfinanzas-gif/mapas-ign
+          path: mapas
+          sparse-checkout: |
+            /catalogo.html
+            /catalogo/
+            /sync/
+          sparse-checkout-cone-mode: false
+
+      - name: Montar la versión pública
+        run: python3 herramientas/viajes/hacer_version_publica.py --origen mapas --salida salida
+
+      - name: Comprobar antes de subir (si falta algo, no se toca el hosting)
+        run: |
+          test -s salida/index.html
+          test -s salida/catalogo/puntos.js
+          n=$(find salida -type f | wc -l)
+          echo "Ficheros a sincronizar: $n"
+          test "$n" -gt 500
+
+      - name: Clave del hosting
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "${{ secrets.HOSTING_SSH_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -H hl1708.dinaserver.com >> ~/.ssh/known_hosts 2>/dev/null
+
+      - name: Subir a historiatotal.es/viajes/ (solo lo cambiado)
+        run: |
+          rsync -rlt --omit-dir-times --compress --checksum --delete \
+                --chmod=D755,F644 --itemize-changes \
+                salida/ historiatotal@hl1708.dinaserver.com:www/viajes/ | tee cambios.txt
+          echo "Ficheros enviados o borrados: $(grep -c '^[<*]' cambios.txt || true)"
+
+      - name: Borrar la clave
+        if: always()
+        run: rm -f ~/.ssh/id_ed25519

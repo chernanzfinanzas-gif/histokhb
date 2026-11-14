@@ -67,10 +67,11 @@ body.sec-scr{--barra:43px}
 .bs-btn{border:0;border-radius:999px;padding:8px 16px;font:700 14px/1 var(--f-body,inherit);background:var(--accent);color:#fff;cursor:pointer}
 .bs-volver{visibility:hidden}body.cal-dentro .bs-volver{visibility:visible}.bs-cerrar{margin-left:auto}
 @media(min-width:900px){.barra-sec{padding-left:calc(50% - 370px);padding-right:calc(50% - 370px)}}
-.nav{position:fixed;left:0;right:0;bottom:0;z-index:45;display:grid;grid-template-columns:repeat(6,1fr);background:#fff;border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom)}
+.nav{position:fixed;left:0;right:0;bottom:0;z-index:45;display:grid;grid-template-columns:repeat(7,1fr);background:#fff;border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom)}
 .nav a{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:1px;height:var(--nav);text-decoration:none;color:var(--muted);font-family:var(--f-head);font-weight:600;font-size:12px}
 .nav a .i{font-size:21px;line-height:1.1;filter:grayscale(.6);opacity:.8}
 .nav a.on{color:var(--ink)}
+@media(max-width:420px){.nav a{font-size:11px;white-space:nowrap;letter-spacing:-.2px}}
 .nav a.on .i{filter:none;opacity:1}
 .wrap{max-width:640px;margin:0 auto;padding:0 16px 30px}
 .scr{display:none}.scr.on{display:block}
@@ -713,6 +714,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
  <a href="#/reto" data-n="reto"><span class="i">🏆</span>Reto</a>
  <a href="#/ingles" data-n="ingles"><span class="i"><img src="img/ammo/ammo-ingles.webp" alt="" width="24" height="27" style="display:block;margin:0 auto"></span>Inglés</a>
  <a href="#/aqui" data-n="aqui"><span class="i">📍</span>Aquí</a>
+ <a href="viajes/" data-n="viajes"><span class="i">🥾</span>Viajes</a>
 </nav>
 
 <div class="sheet" id="sheet" role="dialog" aria-modal="true">
