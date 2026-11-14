@@ -385,7 +385,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .inggt{margin:2px 0 8px;font-size:21px;line-height:1.25;color:#5b3f80}
 .ingpv{background:#eef5f3;border:1px solid #c9e0da;border-radius:12px;padding:10px 12px;margin-top:14px}.ingpv .et{font-size:12px;color:#2f6f60;font-weight:700;text-transform:uppercase;letter-spacing:.04em}.ingpv h3{margin:4px 0 0;font-size:22px}.ingpves{margin:0 0 6px;color:#2f6f60;font-weight:600}
 .inggc{background:#fff;border:1px solid var(--line);border-left:4px solid #7a5c9e;border-radius:12px;padding:9px 12px;margin:6px 0;cursor:pointer}.inggc.pend{cursor:default;opacity:.55;border-left-color:var(--line)}.inggc b{display:block}.inggc span{display:block;font-size:13px;color:var(--muted)}.inggc .inggu{font-size:12px;margin-top:2px}
-.big.ingdest{background:linear-gradient(135deg,#fff 55%,#eef3fb);border:2px solid #7aa5d6;align-items:center}.big.ingdest img{flex:0 0 70px;height:auto}.big .nuevo{display:inline-block;background:#c0392b;color:#fff;font-size:11px;font-weight:800;letter-spacing:.06em;border-radius:6px;padding:1px 7px;margin-bottom:3px}
+.big.ingdest{background:linear-gradient(135deg,#fff 55%,#eef3fb);border:2px solid #7aa5d6;align-items:center}.big.ingdest img{flex:0 0 70px;height:auto}.volvia{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(var(--nav) + 14px + env(safe-area-inset-bottom));z-index:44;background:#2f6b3a;color:#fff;border-radius:999px;padding:10px 20px;box-shadow:0 4px 14px rgba(0,0,0,.25);width:auto}.big .nuevo{display:inline-block;background:#c0392b;color:#fff;font-size:11px;font-weight:800;letter-spacing:.06em;border-radius:6px;padding:1px 7px;margin-bottom:3px}
 .ingptos{text-align:center;font-size:15px;margin:2px 0 0;color:var(--ink)}.ingnota2{border:1px solid var(--line,#ddd);border-radius:14px;padding:10px 14px;background:var(--card,#fff);text-align:center}.ingnota2.fin{border-color:#c9a227;background:linear-gradient(#fff8e1,#fff3c4);color:#3b2f00}.ingn2t{font-weight:700;font-size:15px}.ingn2n{font-size:14px;margin:2px 0 6px}.ingn2n b{font-size:22px}.ingn2b{height:8px;border-radius:5px;background:rgba(0,0,0,.1);overflow:hidden}.ingn2b i{display:block;height:100%;background:#4a7c4e;border-radius:5px;transition:width .5s}.ingnota2.fin .ingn2b i{background:#c9a227}.ingn2s{font-size:12px;opacity:.8;margin-top:6px}.ingok.pend{color:inherit;opacity:.45;font-weight:400}.ingok{margin-left:auto;font-size:12px;font-weight:700;color:#4a7c4e;white-space:nowrap}.ingok.nuevo{animation:ingpop .6s}@keyframes ingpop{0%{transform:scale(1.6)}100%{transform:scale(1)}}
 .ingchk{display:flex;gap:8px;align-items:center;font-size:14px;background:#fdf8ee;border:1px solid var(--line);border-radius:10px;padding:8px 10px;margin:0 0 8px;cursor:pointer}.ingchk input{width:18px;height:18px;flex:0 0 18px}.ingchk i{color:var(--muted)}
 .ingsubt{font-weight:700;margin:14px 0 2px}.ingprefiero{margin-top:12px;width:100%}.ingp.plegado>:not(.ingh):not(.ingchk){display:none}.ingp.plegado .ingh{cursor:pointer}
@@ -647,6 +647,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <button class="btn" id="geoBtn">📍 Localizarme</button>
   <div class="aq-demos"><button class="btn sec" data-p="42.338,-4.603" data-n="Carrión de los Condes">Carrión</button><button class="btn sec" data-p="40.416,-3.703" data-n="Madrid">Madrid</button><button class="btn sec" data-p="41.39,2.17" data-n="Barcelona">Barcelona</button><button class="btn sec" data-p="37.39,-5.99" data-n="Sevilla">Sevilla</button><button class="btn sec" data-p="43.36,-8.41" data-n="A Coruña">A Coruña</button></div>
   <div id="geoMsg" class="rt"></div></div>
+ <button id="volViajes" class="btn volvia hide" type="button" onclick="volverViajes()">← Volver a Viajes</button>
  <div id="aqMapBox" class="hide"><div id="aqMap"></div>
   <div class="aq-chips"><span class="aq-chip" data-t="pob"><span class="aq-dot pob">🏘️</span>Pueblos <span id="aqc-pob"></span></span><span class="aq-chip" data-t="igl"><span class="aq-dot igl">⛪</span>Iglesias <span id="aqc-igl"></span></span><span class="aq-chip" data-t="cas"><span class="aq-dot cas">🏰</span>Castillos <span id="aqc-cas"></span></span><span class="aq-chip" data-t="mon"><span class="aq-dot mon">🏛️</span>Monumentos <span id="aqc-mon"></span></span><span class="aq-chip" data-t="yac"><span class="aq-dot yac">⛏️</span>Yacimientos <span id="aqc-yac"></span></span><span class="aq-chip" data-t="mus"><span class="aq-dot mus">🖼️</span>Museos <span id="aqc-mus"></span></span></div></div>
  <div id="aquiOut"></div>
@@ -862,9 +863,9 @@ let lastScreen=null, lastRoute=null;
 const SECUND=['ingles','novedades','semana','favs','ajustes','calendario','mundo','aqui'];
 let ORIGEN={}; // pantalla desde la que se entró en cada pantalla secundaria (para «✕ Cerrar»)
 let ALTURA={}, VOLVER_A=null; // altura de la página de cada pantalla, para volver al mismo sitio
-function cerrarScr(){const k=(location.hash.replace(/^#\/?/,'').split('/')[0])||'';const d=ORIGEN[k]||'#/';VOLVER_A=d; if((location.hash||'#/')===d||(d==='#/'&&!location.hash)){lastRoute=null;route();} else go(d);}
+function cerrarScr(){const k=(location.hash.replace(/^#\/?/,'').split('/')[0])||'';if(k==='aqui'&&VIAJES_AQUI){volverViajes();return;}const d=ORIGEN[k]||'#/';VOLVER_A=d; if((location.hash||'#/')===d||(d==='#/'&&!location.hash)){lastRoute=null;route();} else go(d);}
 function restaurarAltura(){if(VOLVER_A==null||(location.hash||'#/')!==VOLVER_A)return;const y=ALTURA[VOLVER_A]||0;VOLVER_A=null;[0,80,250,600].forEach(ms=>setTimeout(()=>window.scrollTo(0,y),ms));}
-function show(id){document.body.classList.toggle('sec-scr',SECUND.includes(id));document.body.classList.remove('cal-dentro');document.querySelectorAll('.scr').forEach(s=>s.classList.toggle('on',s.id==='s-'+id));document.querySelectorAll('#nav a').forEach(a=>a.classList.toggle('on',a.dataset.n===id||(id==='favs'&&a.dataset.n==='inicio')));}
+function show(id){{const vv=document.getElementById('volViajes'); if(vv)vv.classList.toggle('hide',!(typeof VIAJES_AQUI!=='undefined'&&VIAJES_AQUI&&id==='aqui'));}document.body.classList.toggle('sec-scr',SECUND.includes(id));document.body.classList.remove('cal-dentro');document.querySelectorAll('.scr').forEach(s=>s.classList.toggle('on',s.id==='s-'+id));document.querySelectorAll('#nav a').forEach(a=>a.classList.toggle('on',a.dataset.n===id||(id==='favs'&&a.dataset.n==='inicio')));}
 const ALIAS={'con1-0':'con-1789-eu','con1-1':'con-1808-eu','con1-2':'con-1808-eu','con1-3':'con-1808-am','con1-5':'con-1808-es'};
 function route(){
  if(!IDX)return;
@@ -1121,6 +1122,9 @@ let navCount=0; window.addEventListener('hashchange',()=>{navCount++;});
 let sheetBase=null; // ruta de pantalla bajo la ficha
 // Si se entra a una ficha desde historiatotal.es/viajes/, al cerrarla se vuelve a Viajes (no al Inicio)
 const VIAJES_ENTRADA=(()=>{try{const r=new URL(document.referrer);return r.origin===location.origin&&/^\/viajes\//.test(r.pathname)&&/^#\/(f|s|l|d)\//.test(location.hash)?location.hash:null;}catch(e){return null;}})();
+// «Qué pasó aquí» desde Viajes abre la pantalla «Aquí» (no una ficha): botón para volver a Viajes
+var VIAJES_AQUI=(()=>{try{const r=new URL(document.referrer);return r.origin===location.origin&&/^\/viajes\//.test(r.pathname)&&/^#\/aqui\//.test(location.hash);}catch(e){return false;}})();
+function volverViajes(){ if(history.length>1&&navCount===0)history.back(); else location.href='viajes/'; }
 // PILA: fichas abiertas desde «Para saber más de…»; al cerrar se vuelve a la ficha de origen, a la misma altura
 let PILA=[];
 function relGo(h){PILA.push({h:location.hash,y:$('#sheet').scrollTop,ab:[...document.querySelectorAll('#shBody .relg[open] .rl')].map(e=>e.textContent)}); go(h);}
