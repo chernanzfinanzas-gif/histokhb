@@ -202,6 +202,14 @@ cambia(r'versión (\d+-nov [a-zñ]+)', r'viajes · versión \1', regex=True)
 if not A.con_privados:
     cambia("if (f.privado) h += '<div class=\"aviso\">🔒 Track de Wikiloc/Komoot: solo uso personal.</div>';",
            "if (f.privado) h += '<div class=\"aviso\">Trazado no disponible aquí: consulta la ruta en su fuente original.</div>';")
+# enlaces a la historia: en la MISMA pestaña, para que al cerrar la ficha se vuelva a Viajes
+# (si la app de mapas cambia estos textos no se para nada: solo seguirían abriéndose en pestaña nueva)
+for viejo in ('<a class="sec" target="_blank" rel="noopener" style="background:#7c2d12;color:#fff" href="https://historiatotal.es/#/l/',
+              '<a class="sec" target="_blank" rel="noopener" style="border:1.5px solid #7c2d12;color:#7c2d12;background:#fff" href="\'+enlaceHistoria('):
+    if viejo in h:
+        h = h.replace(viejo, viejo.replace(' target="_blank" rel="noopener"', ''))
+    else:
+        print('AVISO: no encuentro el enlace a la historia para abrirlo en la misma pestaña:', viejo[:70])
 escribe(os.path.join(OUT, 'index.html'), h)
 
 # ── 4. Servidor: comprimir si se puede, y caché corta para el índice ───────
