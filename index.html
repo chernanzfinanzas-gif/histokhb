@@ -888,7 +888,7 @@ function screen(p){ const k=p[0]||'';
  if(k===''){renderInicio();}
  else if(k==='epoca'){renderEpoca(p[1]||LS.get('hk_era','antigua'),p[2]);}
  else if(k==='mundo'){renderMundo(p[1]||'zonas',p.slice(2));}
- else if(k==='aqui'){renderAqui();}
+ else if(k==='aqui'){renderAqui(p[1],p.slice(2).join('/'));}
  else if(k==='favs'){renderFavs();}
  else if(k==='calendario'){renderCal();}
  else if(k==='reto'){renderReto(p[1]);}
@@ -1644,7 +1644,13 @@ const CENT={'Egipto':[26,30],'Nubia/Sudán':[16,32],'Magreb':[32,0],'Etiopía/Cu
 const IBER={'Portugal':[39.5,-8.2],'Galicia':[42.8,-8],'Asturias':[43.3,-5.9],'León':[42.4,-5.6],[ESP]:[40.6,-3.8],'Navarra / P.Vasco-Rioja':[42.8,-2],'Aragón / C.Valenciana':[40.8,-0.6],'Cataluña':[41.8,1.7],'Al-Ándalus / Andalucía-Murcia':[37.6,-4.2],'Canarias':[28.3,-15.8]};
 function km(a,b){const R=6371,t=x=>x*Math.PI/180;const d1=t(b[0]-a[0]),d2=t(b[1]-a[1]);const h=Math.sin(d1/2)**2+Math.cos(t(a[0]))*Math.cos(t(b[0]))*Math.sin(d2/2)**2;return 2*R*Math.asin(Math.sqrt(h));}
 function nearest(tab,p){return Object.entries(tab).map(([r,c])=>[r,km(p,c)]).sort((a,b)=>a[1]-b[1]);}
-function renderAqui(){lastScreen='aqui';show('aqui');
+function renderAqui(coord,nombre){lastScreen='aqui';show('aqui');
+ // enlace desde fuera: #/aqui/<latitud>,<longitud>/<nombre opcional> (lo usa el catálogo de la app de Mapas)
+ const c=(coord||'').split(',').map(x=>x.trim()), la=c.length===2&&c[0]!==''&&c[1]!==''?Number(c[0]):NaN, lo=c.length===2&&c[1]!==''?Number(c[1]):NaN;
+ if(isFinite(la)&&isFinite(lo)&&Math.abs(la)<=90&&Math.abs(lo)<=180){
+  if(!(LASTPT&&LASTPT[0]===la&&LASTPT[1]===lo))aquiAt([la,lo],(nombre||'').trim()||'el lugar elegido').then(()=>{const e=$('#geoMsg');if(e)setTimeout(()=>window.scrollTo({top:Math.max(0,e.getBoundingClientRect().top+window.scrollY-120),behavior:'smooth'}),150);});
+  else if(AQ.M)setTimeout(()=>AQ.M.invalidateSize(),50);
+  return; }
  if(!LASTPT){let s=null;try{s=JSON.parse(sessionStorage.getItem('hk_aqpt')||'null');}catch(e){} if(s&&s.pt)aquiAt(s.pt,s.label,true);}
  else if(AQ.M)setTimeout(()=>AQ.M.invalidateSize(),50);}
 $('#geoBtn').onclick=()=>{
@@ -1764,7 +1770,7 @@ async function aquiAt(pt,label,quiet){ LASTPT=pt; try{sessionStorage.setItem('hk
  const menc=items(P.filter(x=>x.d<=60),true).sort((a,b)=>yr(a)-yr(b));
  const era=y=>y<=-1e8||y<-3500?'Prehistoria':y<476?'Edad Antigua':y<1492?'Edad Media':y<1789?'Edad Moderna':'Edad Contemporánea';
  const tl=near.filter(x=>x.pl.d<=30); let cur='';
- h+=`<div class="sec-t">📜 La historia de ${esc(label)} <span style="text-transform:none;letter-spacing:0">· ${tl.length}</span></div><p class="rt">Lo que pasó en un radio de 30 km, ordenado en el tiempo. Toca una línea para abrir su ficha.</p>`;
+ h+=`<div class="sec-t">📜 La historia ${/^el /i.test(label)?'del '+esc(label.slice(3)):'de '+esc(label)} <span style="text-transform:none;letter-spacing:0">· ${tl.length}</span></div><p class="rt">Lo que pasó en un radio de 30 km, ordenado en el tiempo. Toca una línea para abrir su ficha.</p>`;
  if(!tl.length)h+='<div class="note">Todavía no tenemos hechos fechados a menos de 30 km. Queda apuntado.</div>';
  tl.forEach(it=>{const {id,pl}=it;let y,t,sub,href;
   if(id.startsWith('f:')){const k=id.slice(2),f=IDX.fichas[k];if(!f)return;y=f.y!=null?f.y:-1e9;t=f.t;sub=f.d;href='#/f/'+k;}
@@ -1854,7 +1860,8 @@ function vParada(cat,pts){
 // 📣 Anuncio de una sola vez al abrir la app (se cambia la clave para un anuncio nuevo)
 const ANUNCIO={k:'hk_anuncio_ingles1',img:'img/ammo/ammo-ingles.webp',t:'¡Nuevo! Inglés con historia',p:'Practica inglés con la historia de España. Escúchala con voz real, en tres niveles, y toca cualquier palabra para saber qué significa. Cada historia trae una clase de gramática, un phrasal verb y ejercicios para que la cuentes tú, con puntos por cada bloque. Una historia nueva cada lunes, miércoles y viernes. La primera: los niños que llevaron la vacuna a América.',ir:'#/ingles/balmis',btn:'🎧 Probar la primera historia'};
 let ANUN_VISTO=false;
-function anuncio(){if(ANUN_VISTO||LS.get(ANUNCIO.k,false)||document.getElementById('anuncio'))return;
+function anuncio(){if(/^#\/aqui\/./.test(location.hash))return; // quien llega por un enlace a un lugar viene a verlo: el aviso sale otro día
+ if(ANUN_VISTO||LS.get(ANUNCIO.k,false)||document.getElementById('anuncio'))return;
  document.body.insertAdjacentHTML('beforeend',`<div id="anuncio" class="anun-fondo" onclick="if(event.target===this)anuncioCierra()"><div class="anun"><img src="${ANUNCIO.img}" alt="" width="120" height="140"><h3>${ANUNCIO.t}</h3><p>${ANUNCIO.p}</p><div class="rbtns"><button class="btn" onclick="anuncioCierra();go('${ANUNCIO.ir}')">${ANUNCIO.btn}</button></div><div class="rbtns"><button class="btn sec" onclick="anuncioCierra()">Cerrar</button></div></div></div>`);}
 function anuncioCierra(){ANUN_VISTO=true; LS.set(ANUNCIO.k,true); const e=document.getElementById('anuncio'); if(e)e.remove();}
 let CLAS=null, VISTO=false;   // VISTO: la presentación ya se cerró en esta visita (por si el navegador no deja guardarlo)
