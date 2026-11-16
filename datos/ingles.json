@@ -3214,6 +3214,789 @@
      ]
     }
    }
+  },
+  {
+   "id": "malaspina",
+   "des": "des-malaspina",
+   "tEN": "Malaspina: From Hero to Prisoner",
+   "tES": "Malaspina: de héroe a prisionero",
+   "fecha": "1789",
+   "lam": "img/laminas/des-malaspina.webp",
+   "pv": {
+    "v": "carry out",
+    "es": "llevar a cabo, realizar",
+    "ex": "<i>Carry</i> es «llevar» (cargar algo), pero <b>carry out</b> es «llevar a cabo»: se usa con planes, trabajos, viajes, estudios u órdenes. Es separable: <i>carry out the voyage</i> o <i>carry it out</i>.",
+    "ej": [
+     "Two twin ships were built in Cádiz to <b>carry out</b> the voyage.",
+     "The naturalists <b>carried out</b> studies of plants and animals."
+    ],
+    "q": {
+     "q": "«They carried out the King's orders» significa…",
+     "o": [
+      "Sacaron las órdenes del rey",
+      "Cumplieron (llevaron a cabo) las órdenes del rey",
+      "Llevaron las órdenes del rey en brazos"
+     ],
+     "ok": 1
+    }
+   },
+   "voz": "Algieba",
+   "acento": "British",
+   "dic": {
+    "account": "relato, crónica",
+    "after": "después de; tras",
+    "against": "contra",
+    "age": "época (of the age: de la época)",
+    "aim": "objetivo",
+    "alaska": "Alaska",
+    "alejandro": "Alejandro (Malaspina)",
+    "alongside": "junto a (lived alongside: convivieron con)",
+    "animals": "animales",
+    "appear": "aparecer, ver la luz (publicarse)",
+    "around": "alrededor de",
+    "arrested": "detenido",
+    "artists": "artistas",
+    "atlantic": "Atlántico",
+    "atrevida": "Atrevida (corbeta de la expedición)",
+    "back": "de vuelta (came back: volvieron)",
+    "barely": "apenas",
+    "bastille": "la Bastilla (prisión de París tomada el 14 de julio de 1789)",
+    "bay": "bahía",
+    "bears": "lleva (un nombre)",
+    "besides": "además de",
+    "between": "entre",
+    "big": "grande",
+    "biggest": "el mayor, el más grande",
+    "board": "bordo (on board: a bordo)",
+    "born": "nacido",
+    "britain": "Gran Bretaña",
+    "british": "británico",
+    "brought": "trajeron",
+    "built": "construyó; construidos",
+    "bustamante": "Bustamante (José de Bustamante y Guerra, oficial cántabro)",
+    "came": "vino, volvieron (came back: volvieron)",
+    "carry": "llevar (carry out: llevar a cabo)",
+    "castle": "castillo (el de San Antón, en La Coruña)",
+    "caught": "atrapado (caught up in: envuelto en)",
+    "cell": "celda",
+    "century": "siglo",
+    "chart": "cartografiar",
+    "charted": "cartografiaron",
+    "charts": "cartas, mapas (nautical charts: cartas náuticas)",
+    "coast": "costa",
+    "coasts": "costas",
+    "colonies": "colonias",
+    "colony": "colonia",
+    "commander": "comandante",
+    "convinced": "convencido",
+    "cook": "Cook (James, navegante británico)",
+    "coruña": "Coruña (La Coruña)",
+    "corvettes": "corbetas",
+    "crossed": "cruzaron",
+    "crossing": "cruzar (after crossing: tras cruzar)",
+    "cádiz": "Cádiz",
+    "decided": "decidió",
+    "descubierta": "Descubierta (corbeta de la expedición)",
+    "die": "morir (was to die: moriría)",
+    "draw": "dibujar",
+    "drawings": "dibujos",
+    "dried": "secas, secadas",
+    "eighteenth": "decimoctavo (the eighteenth century: el siglo XVIII)",
+    "empire": "imperio",
+    "end": "acabar (end up: acabar)",
+    "exiled": "desterrado",
+    "expedition": "expedición",
+    "fall": "caída (the fall of the Bastille: la toma de la Bastilla)",
+    "find": "encontrar (find out: averiguar, conocer)",
+    "following": "siguiendo (following the King's orders: por orden del rey)",
+    "found": "encontraron",
+    "france": "Francia",
+    "glacier": "glaciar",
+    "globe": "globo, mundo (round the globe: alrededor del mundo)",
+    "godoy": "Godoy (Manuel, primer ministro de Carlos IV)",
+    "great": "grande",
+    "guerra": "Guerra (José de Bustamante y Guerra)",
+    "hero": "héroe",
+    "home": "a casa (came home: volvió)",
+    "hundreds": "cientos",
+    "idea": "idea",
+    "imagined": "imaginado",
+    "italian": "italiano",
+    "italy": "Italia",
+    "josé": "José (de Bustamante y Guerra)",
+    "july": "julio",
+    "kilometres": "kilómetros",
+    "king": "rey",
+    "king's": "del rey",
+    "landscapes": "paisajes",
+    "largest": "el mayor",
+    "later": "después (a year later: un año después)",
+    "left": "salieron de",
+    "legendary": "legendario",
+    "like": "como",
+    "lived": "vivieron (lived alongside: convivieron con)",
+    "look": "mirar (look for: buscar)",
+    "made": "hicieron",
+    "malaspina": "Malaspina (Alejandro, marino italiano al servicio de España, 1754-1810)",
+    "malaspina's": "de Malaspina",
+    "mapped": "cartografiaron",
+    "maps": "mapas",
+    "met": "conocieron, encontraron",
+    "minister": "ministro",
+    "name": "nombre",
+    "naturalists": "naturalistas",
+    "nature": "naturaleza",
+    "nautical": "náutico",
+    "naval": "naval, de la Armada",
+    "navy": "armada, marina de guerra",
+    "needed": "necesitaba",
+    "never": "nunca",
+    "new": "nuevo",
+    "nobody": "nadie",
+    "north": "norte",
+    "northwest": "noroeste (Northwest Passage: paso del Noroeste)",
+    "officer": "oficial",
+    "officers": "oficiales",
+    "orders": "órdenes",
+    "organise": "organizar",
+    "out": "fuera (carry out: llevar a cabo; find out: averiguar)",
+    "pacific": "Pacífico",
+    "painters": "pintores",
+    "passage": "paso (por mar)",
+    "people": "gente, personas; pueblo (the Tlingit people: el pueblo tlingit)",
+    "peoples": "pueblos",
+    "philippines": "Filipinas",
+    "plants": "plantas",
+    "plot": "intriga, conspiración",
+    "powerful": "poderoso",
+    "prison": "cárcel, prisión",
+    "proposed": "propuesto",
+    "pérouse": "La Pérouse (navegante francés)",
+    "real": "real, verdadero",
+    "reforms": "reformas",
+    "released": "liberado",
+    "returned": "volvieron",
+    "round": "alrededor de (round the globe)",
+    "route": "ruta",
+    "ruler": "dueño, soberano",
+    "sailed": "navegaron, zarparon",
+    "sailors": "marinos",
+    "scientific": "científico",
+    "scientists": "científicos",
+    "sea": "mar (sea route: ruta por mar)",
+    "searched": "buscaron (searched … for: buscaron)",
+    "sending": "enviando",
+    "sent": "enviaron",
+    "sentenced": "condenado",
+    "september": "septiembre",
+    "service": "servicio (in Spanish service: al servicio de España)",
+    "ships": "barcos",
+    "shore": "costa, orilla",
+    "since": "desde",
+    "spain": "España",
+    "spanish": "español",
+    "spent": "pasaron (spent some time with: convivieron con)",
+    "state": "estado, situación",
+    "storming": "asalto, toma",
+    "study": "estudiar",
+    "sydney": "Sídney (colonia británica recién fundada)",
+    "thousands": "miles",
+    "time": "tiempo; época (of the time: de la época)",
+    "tlingit": "tlingit (pueblo indígena de Alaska)",
+    "today": "hoy",
+    "tonga": "Tonga (archipiélago del Pacífico)",
+    "tuscany": "la Toscana (Italia)",
+    "twin": "gemelo",
+    "twofold": "doble",
+    "until": "hasta",
+    "up": "arriba (end up: acabar; caught up in: envuelto en)",
+    "vast": "inmenso",
+    "voyage": "viaje (por mar)",
+    "voyages": "viajes (por mar)",
+    "wanted": "quería",
+    "weeks": "semanas",
+    "went": "fue, fueron (went on board: subieron a bordo)",
+    "while": "mientras",
+    "within": "dentro de (within a year: antes de un año)",
+    "world": "mundo",
+    "y": "y (en José de Bustamante y Guerra)",
+    "yakutat": "Yakutat (bahía de Alaska)",
+    "year": "año",
+    "years": "años",
+    "youth": "juventud (since his youth: desde joven)",
+    "zealand": "Zelanda (New Zealand: Nueva Zelanda)"
+   },
+   "niveles": {
+    "easy": {
+     "et": "Aprendiendo inglés",
+     "vel": "0.8",
+     "fr": [
+      [
+       "Alejandro Malaspina was an Italian officer in the Spanish navy.",
+       "Alejandro Malaspina era un oficial italiano de la Armada española."
+      ],
+      [
+       "In the eighteenth century, France and Britain sent ships around the world.",
+       "En el siglo XVIII, Francia y Gran Bretaña enviaron barcos alrededor del mundo."
+      ],
+      [
+       "Spain had the biggest empire, and it wanted a great voyage too.",
+       "España tenía el mayor imperio y también quería un gran viaje."
+      ],
+      [
+       "Spain built two ships in Cádiz: the Descubierta and the Atrevida.",
+       "España construyó dos barcos en Cádiz: la Descubierta y la Atrevida."
+      ],
+      [
+       "Sailors, scientists and painters went on board.",
+       "Subieron a bordo marinos, científicos y pintores."
+      ],
+      [
+       "They left Cádiz on 30 July 1789.",
+       "Salieron de Cádiz el 30 de julio de 1789."
+      ],
+      [
+       "In 1791 they sailed north to Alaska.",
+       "En 1791 navegaron hacia el norte, hasta Alaska."
+      ],
+      [
+       "The King wanted a sea route from the Pacific to the Atlantic.",
+       "El rey quería una ruta por mar del Pacífico al Atlántico."
+      ],
+      [
+       "They did not find it, but they made maps of the coast.",
+       "No la encontraron, pero hicieron mapas de la costa."
+      ],
+      [
+       "They came back to Cádiz on 21 September 1794, after five years.",
+       "Volvieron a Cádiz el 21 de septiembre de 1794, después de cinco años."
+      ],
+      [
+       "Malaspina was a hero, but in 1795 he went to prison.",
+       "Malaspina era un héroe, pero en 1795 fue a la cárcel."
+      ]
+     ],
+     "glos": [
+      [
+       "navy",
+       "armada"
+      ],
+      [
+       "empire",
+       "imperio"
+      ],
+      [
+       "voyage",
+       "viaje (por mar)"
+      ],
+      [
+       "sailors",
+       "marinos"
+      ],
+      [
+       "route",
+       "ruta"
+      ],
+      [
+       "coast",
+       "costa"
+      ],
+      [
+       "prison",
+       "cárcel, prisión"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "What is this story about?",
+       "o": [
+        "A war between Spain and France",
+        "A new port in Alaska",
+        "A long Spanish voyage around the world"
+       ],
+       "ok": 2
+      },
+      {
+       "q": "What happened to Malaspina at the end?",
+       "o": [
+        "He went to prison",
+        "He became the King",
+        "He stayed in Alaska"
+       ],
+       "ok": 0
+      }
+     ],
+     "det": [
+      {
+       "q": "When did the ships leave Cádiz?",
+       "o": [
+        "In 1794",
+        "In 1789",
+        "In 1795"
+       ],
+       "ok": 1
+      },
+      {
+       "q": "What did the King want in the north?",
+       "o": [
+        "Gold from the mountains",
+        "A new colony",
+        "A sea route to the Atlantic"
+       ],
+       "ok": 2
+      },
+      {
+       "q": "How long was the voyage?",
+       "o": [
+        "Five years",
+        "Two years",
+        "Ten years"
+       ],
+       "ok": 0
+      }
+     ],
+     "modelo": "Malaspina was an Italian officer in the Spanish navy. In 1789 he left Cádiz with two ships, the Descubierta and the Atrevida. They sailed to Alaska to find a route to the Atlantic, but they didn't find it. They came back in 1794, and one year later Malaspina went to prison.",
+     "gancho": "Malaspina volvió como un héroe y al año siguiente estaba en la cárcel. ¿Qué había pasado?",
+     "trad": [
+      [
+       "Salieron de Cádiz en 1789.",
+       "They left Cádiz in 1789."
+      ],
+      [
+       "No encontraron la ruta, pero hicieron mapas.",
+       "They did not find the route, but they made maps."
+      ]
+     ],
+     "gram": {
+      "id": "prep-tiempo",
+      "ej": [
+       "They left Cádiz <b>on</b> 30 July 1789.",
+       "<b>In</b> 1791 they sailed north to Alaska.",
+       "<b>In</b> the eighteenth century, France and Britain sent ships around the world."
+      ],
+      "q": [
+       {
+        "q": "They came back to Cádiz ___ 21 September 1794.",
+        "o": [
+         "in",
+         "on",
+         "at"
+        ],
+        "ok": 1
+       },
+       {
+        "q": "Malaspina went to prison ___ 1795.",
+        "o": [
+         "in",
+         "on",
+         "at"
+        ],
+        "ok": 0
+       }
+      ]
+     },
+     "audio": "audio/en-malaspina-easy.mp3",
+     "s": 68,
+     "t": [
+      0.0,
+      7.26,
+      14.22,
+      20.6,
+      27.88,
+      33.12,
+      38.69,
+      43.73,
+      49.16,
+      53.85,
+      61.87
+     ]
+    },
+    "medium": {
+     "et": "Conocimientos básicos",
+     "vel": "0.9",
+     "fr": [
+      [
+       "In the eighteenth century, France and Britain sent scientific voyages around the world, like those of Cook.",
+       "En el siglo XVIII, Francia y Gran Bretaña enviaron grandes viajes científicos alrededor del mundo, como los de Cook."
+      ],
+      [
+       "Spain, which had the biggest empire of the time, decided to organise an expedition of its own.",
+       "España, que tenía el mayor imperio de la época, decidió organizar una expedición propia."
+      ],
+      [
+       "The idea came from two navy officers, the Italian Alejandro Malaspina and José de Bustamante.",
+       "La idea fue de dos oficiales de la Armada, el italiano Alejandro Malaspina y José de Bustamante."
+      ],
+      [
+       "Two twin ships, the Descubierta and the Atrevida, were built in Cádiz to carry out the voyage.",
+       "Para llevar a cabo el viaje se construyeron en Cádiz dos barcos gemelos, la Descubierta y la Atrevida."
+      ],
+      [
+       "Besides sailors, naturalists and artists went on board to draw landscapes, plants, animals and people.",
+       "Además de los marinos, subieron a bordo naturalistas y artistas para dibujar paisajes, plantas, animales y gentes."
+      ],
+      [
+       "The ships left Cádiz on 30 July 1789, two weeks after the fall of the Bastille.",
+       "Los barcos salieron de Cádiz el 30 de julio de 1789, dos semanas después de la toma de la Bastilla."
+      ],
+      [
+       "In 1791, following the King's orders, they sailed to Alaska to look for a passage to the Atlantic.",
+       "En 1791, por orden del rey, navegaron hasta Alaska para buscar un paso hacia el Atlántico."
+      ],
+      [
+       "They never found it, but they mapped the coast and spent time with the Tlingit people.",
+       "Nunca lo encontraron, pero cartografiaron la costa y convivieron un tiempo con el pueblo tlingit."
+      ],
+      [
+       "Then they crossed the Pacific to the Philippines, New Zealand and the British colony of Sydney.",
+       "Después cruzaron el Pacífico hasta Filipinas, Nueva Zelanda y la colonia británica de Sídney."
+      ],
+      [
+       "When they returned to Cádiz in September 1794, they brought thousands of plants and hundreds of drawings.",
+       "Cuando volvieron a Cádiz en septiembre de 1794, traían miles de plantas y cientos de dibujos."
+      ],
+      [
+       "Malaspina came home convinced that the empire needed big reforms.",
+       "Malaspina volvió convencido de que el imperio necesitaba grandes reformas."
+      ],
+      [
+       "A year later, he was arrested and sentenced to ten years in prison.",
+       "Un año después, fue detenido y condenado a diez años de prisión."
+      ]
+     ],
+     "glos": [
+      [
+       "voyages",
+       "viajes (por mar)"
+      ],
+      [
+       "twin",
+       "gemelo"
+      ],
+      [
+       "naturalists",
+       "naturalistas"
+      ],
+      [
+       "landscapes",
+       "paisajes"
+      ],
+      [
+       "passage",
+       "paso (por mar)"
+      ],
+      [
+       "mapped",
+       "cartografiaron"
+      ],
+      [
+       "reforms",
+       "reformas"
+      ],
+      [
+       "sentenced",
+       "condenado"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "What was the main purpose of the expedition?",
+       "o": [
+        "To study the coasts and nature of the empire",
+        "To fight the British in the Pacific",
+        "To bring gold back to Spain"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "How does the story end?",
+       "o": [
+        "Malaspina becomes a minister",
+        "Malaspina stays in Sydney",
+        "Malaspina goes to prison"
+       ],
+       "ok": 2
+      }
+     ],
+     "det": [
+      {
+       "q": "What happened two weeks before the ships left Cádiz?",
+       "o": [
+        "Cook died",
+        "The fall of the Bastille",
+        "The King of Spain died"
+       ],
+       "ok": 1
+      },
+      {
+       "q": "Which people did they spend time with in Alaska?",
+       "o": [
+        "The Tlingit",
+        "The Maori",
+        "The Inca"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "How many years in prison was Malaspina sentenced to?",
+       "o": [
+        "Five",
+        "Two",
+        "Ten"
+       ],
+       "ok": 2
+      }
+     ],
+     "modelo": "Spain wanted its own scientific voyage, so in 1789 Malaspina and Bustamante left Cádiz with two ships full of sailors, naturalists and artists. They sailed to Alaska to look for a passage to the Atlantic, crossed the Pacific and came back in 1794 with thousands of plants and drawings. A year later Malaspina was arrested and sent to prison.",
+     "gancho": "¿Por qué detuvieron a Malaspina, y por qué el relato de su viaje tardó casi un siglo en publicarse?",
+     "trad": [
+      [
+       "Navegaron hasta Alaska para buscar un paso.",
+       "They sailed to Alaska to look for a passage."
+      ],
+      [
+       "Llevaron artistas para dibujar plantas y animales.",
+       "They took artists to draw plants and animals."
+      ]
+     ],
+     "gram": {
+      "id": "finalidad",
+      "ej": [
+       "Two twin ships were built in Cádiz <b>to carry out</b> the voyage.",
+       "Naturalists and artists went on board <b>to draw</b> landscapes, plants, animals and people.",
+       "They sailed to Alaska <b>to look for</b> a passage to the Atlantic."
+      ],
+      "q": [
+       {
+        "q": "They went to Alaska ___ a passage.",
+        "o": [
+         "for look for",
+         "to look for",
+         "looking for"
+        ],
+        "ok": 1
+       },
+       {
+        "q": "The King sent painters ___ the people they met.",
+        "o": [
+         "to draw",
+         "for draw",
+         "for drawing them"
+        ],
+        "ok": 0
+       }
+      ]
+     },
+     "audio": "audio/en-malaspina-medium.mp3",
+     "s": 102,
+     "t": [
+      0.0,
+      10.39,
+      18.79,
+      28.75,
+      38.11,
+      47.96,
+      56.6,
+      65.91,
+      72.97,
+      80.51,
+      89.85,
+      96.17
+     ]
+    },
+    "hard": {
+     "et": "Grandes conocimientos",
+     "vel": "1",
+     "fr": [
+      [
+       "While Britain and France were sending Cook and La Pérouse round the globe, Spain, ruler of the largest empire of the age, wanted a voyage of its own.",
+       "Mientras Gran Bretaña y Francia enviaban a Cook y La Pérouse a dar la vuelta al mundo, España, dueña del mayor imperio de la época, quiso tener su propio viaje."
+      ],
+      [
+       "It was proposed by two naval officers: Alejandro Malaspina, born in Tuscany but in Spanish service since his youth, and José de Bustamante y Guerra.",
+       "Lo propusieron dos oficiales de la Armada: Alejandro Malaspina, nacido en la Toscana pero al servicio de España desde joven, y José de Bustamante y Guerra."
+      ],
+      [
+       "Its aim was twofold: to chart coasts and study nature, and to find out what the real state of the colonies was.",
+       "Su objetivo era doble: cartografiar costas y estudiar la naturaleza, y conocer el estado real de las colonias."
+      ],
+      [
+       "The twin corvettes Descubierta and Atrevida sailed from Cádiz on 30 July 1789, barely two weeks after the storming of the Bastille.",
+       "Las corbetas gemelas Descubierta y Atrevida zarparon de Cádiz el 30 de julio de 1789, apenas dos semanas después de la toma de la Bastilla."
+      ],
+      [
+       "In 1791, on the King's orders, they searched the coast of Alaska for the legendary Northwest Passage between the Pacific and the Atlantic.",
+       "En 1791, por orden del rey, buscaron en la costa de Alaska el legendario paso del Noroeste entre el Pacífico y el Atlántico."
+      ],
+      [
+       "They never found it, but they charted the shore and lived alongside the Tlingit people at Yakutat Bay; today a vast glacier bears Malaspina's name.",
+       "No lo encontraron, pero cartografiaron la costa y convivieron con el pueblo tlingit en la bahía de Yakutat; hoy un gran glaciar lleva el nombre de Malaspina."
+      ],
+      [
+       "After crossing the Pacific to the Philippines, New Zealand, Sydney and Tonga, they were back in Cádiz on 21 September 1794.",
+       "Tras cruzar el Pacífico hasta Filipinas, Nueva Zelanda, Sídney y Tonga, estaban de vuelta en Cádiz el 21 de septiembre de 1794."
+      ],
+      [
+       "They brought nautical charts of thousands of kilometres of coast, thousands of dried plants and hundreds of drawings of the peoples they had met.",
+       "Traían cartas náuticas de miles de kilómetros de costa, miles de plantas secas y cientos de dibujos de los pueblos que habían conocido."
+      ],
+      [
+       "Nobody on board could have imagined that, within a year, their commander was to end up in a prison cell.",
+       "Nadie a bordo podía imaginar que, antes de un año, su comandante iba a acabar en una celda."
+      ],
+      [
+       "In 1795, caught up in a plot against the powerful minister Godoy, Malaspina was arrested and sentenced to ten years in a castle in La Coruña.",
+       "En 1795, envuelto en una intriga contra el poderoso ministro Godoy, Malaspina fue detenido y condenado a diez años en un castillo de La Coruña."
+      ],
+      [
+       "Released in 1802 and exiled to Italy, he was to die there in 1810, and the account of his voyage was not to appear until 1885.",
+       "Liberado en 1802 y desterrado a Italia, allí moriría en 1810, y el relato de su viaje no vería la luz hasta 1885."
+      ]
+     ],
+     "glos": [
+      [
+       "twofold",
+       "doble"
+      ],
+      [
+       "chart",
+       "cartografiar"
+      ],
+      [
+       "corvettes",
+       "corbetas"
+      ],
+      [
+       "storming",
+       "asalto, toma"
+      ],
+      [
+       "Northwest Passage",
+       "paso del Noroeste"
+      ],
+      [
+       "glacier",
+       "glaciar"
+      ],
+      [
+       "nautical charts",
+       "cartas náuticas"
+      ],
+      [
+       "plot",
+       "intriga, conspiración"
+      ],
+      [
+       "exiled",
+       "desterrado"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "What was the double aim of the expedition?",
+       "o": [
+        "To conquer new lands and to find gold",
+        "To do science and to learn the real state of the colonies",
+        "To fight Britain and France at sea"
+       ],
+       "ok": 1
+      },
+      {
+       "q": "What is surprising about Malaspina's fate?",
+       "o": [
+        "He returned a hero but soon ended up in prison",
+        "He never came back to Spain",
+        "He became king of Tonga"
+       ],
+       "ok": 0
+      }
+     ],
+     "det": [
+      {
+       "q": "Where was Malaspina born?",
+       "o": [
+        "In Cádiz",
+        "In Tuscany",
+        "In La Coruña"
+       ],
+       "ok": 1
+      },
+      {
+       "q": "Whom did the crew live alongside at Yakutat Bay?",
+       "o": [
+        "The Tlingit",
+        "The Tehuelche",
+        "The Maori"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "When was the account of the voyage finally published?",
+       "o": [
+        "In 1802",
+        "In 1810",
+        "In 1885"
+       ],
+       "ok": 2
+      }
+     ],
+     "modelo": "Spain wanted a voyage to rival those of Cook and La Pérouse, so in 1789 Malaspina and Bustamante sailed from Cádiz with two corvettes. They searched Alaska for the Northwest Passage, crossed the Pacific and returned in 1794 with charts, plants and drawings. Yet within a year Malaspina was arrested over a plot against Godoy, and his account was not published until 1885.",
+     "gancho": "¿Cómo acabó Malaspina envuelto en una intriga contra Godoy, y cómo se ha recuperado hoy la memoria de su expedición?",
+     "trad": [
+      [
+       "Iba a morir en Italia en 1810.",
+       "He was to die in Italy in 1810."
+      ],
+      [
+       "No encontraron el paso del Noroeste, aunque lo buscaron en Alaska.",
+       "They did not find the Northwest Passage, although they searched for it in Alaska."
+      ]
+     ],
+     "gram": {
+      "id": "was-to",
+      "ej": [
+       "Their commander <b>was to end up</b> in a prison cell.",
+       "He <b>was to die</b> there in 1810.",
+       "The account of his voyage <b>was not to appear</b> until 1885."
+      ],
+      "q": [
+       {
+        "q": "Nobody knew that the young officer ___ famous one day. (lo que el destino le reservaba)",
+        "o": [
+         "is to become",
+         "was to become",
+         "was become"
+        ],
+        "ok": 1
+       },
+       {
+        "q": "The diaries ___ published until almost a century later.",
+        "o": [
+         "were not to be",
+         "are not to be",
+         "were not be"
+        ],
+        "ok": 0
+       }
+      ]
+     },
+     "audio": "audio/en-malaspina-hard.mp3",
+     "s": 111,
+     "t": [
+      0.0,
+      11.62,
+      23.66,
+      32.36,
+      44.15,
+      54.22,
+      64.7,
+      74.46,
+      83.94,
+      90.77,
+      101.53
+     ]
+    }
+   }
   }
  ],
  "gram": {
