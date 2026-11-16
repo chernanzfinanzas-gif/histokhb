@@ -4,7 +4,8 @@
 // No hay contraseñas ni datos personales: el código es la única clave.
 //
 // GET  api/sync.php?codigo=XXXXXXX        -> devuelve el JSON guardado (o {} si no hay nada aún)
-// POST api/sync.php?codigo=XXXXXXX        -> junta el JSON recibido con lo guardado, POR CAMPOS DE PRIMER NIVEL:
+// POST api/sync.php?codigo=XXXXXXX        -> junta (y en «reto», además, junta los días)
+//                                            junta el JSON recibido con lo guardado, POR CAMPOS DE PRIMER NIVEL:
 //                                            los campos que llegan sustituyen a los guardados y el resto se conserva
 //                                            (desde 15-nov-2026: así Viajes puede enviar solo {"cuadernos":…} sin borrar vistas, reto…)
 
@@ -54,6 +55,23 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET') {
     exit;
 }
 
+function retoJunta($a, $b) {
+    $o = array_merge($a, $b);
+    $o['d'] = array_merge(is_array($a['d'] ?? null) ? $a['d'] : [], is_array($b['d'] ?? null) ? $b['d'] : []);
+    foreach (['v', 'w'] as $t) {
+        if (!isset($a[$t]) && !isset($b[$t])) continue;
+        $o[$t] = [];
+        foreach (['n', 'g', 'p'] as $c) {
+            $x = is_array($a[$t][$c] ?? null) ? $a[$t][$c] : [];
+            $y = is_array($b[$t][$c] ?? null) ? $b[$t][$c] : [];
+            $o[$t][$c] = (object) array_merge($x, $y);   // claves de fecha: se conservan tal cual
+        }
+    }
+    $o['best'] = max((int) ($a['best'] ?? 0), (int) ($b['best'] ?? 0));
+    if ($o['d'] === []) $o['d'] = new stdClass();
+    return $o;
+}
+
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $cuerpo = file_get_contents('php://input');
     $json = json_decode($cuerpo, true);
@@ -79,7 +97,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $fila = $stmt->get_result()->fetch_assoc();
     $guardado = $fila ? json_decode($fila['datos'], true) : [];
     if (!is_array($guardado)) { $guardado = []; }
+    // «reto»: se JUNTAN los días en vez de sustituirlos (igual que retoJunta() en la web), para que si
+    // dos aparatos usan el mismo código, el que no jugó un día no borre ese día al enviar sus datos (16-nov-2026)
+    if (isset($json['reto']) && is_array($json['reto']) && isset($guardado['reto']) && is_array($guardado['reto'])) {
+        $json['reto'] = retoJunta($guardado['reto'], $json['reto']);
+    }
     foreach ($json as $campo => $valor) { $guardado[$campo] = $valor; }   // solo los campos que llegan
+    if (isset($guardado['reto']['d']) && $guardado['reto']['d'] === []) { $guardado['reto']['d'] = new stdClass(); }
     $datos = json_encode((object) $guardado, JSON_UNESCAPED_UNICODE);
     if (strlen($datos) > $LIMITE) {
         $mysqli->rollback();
