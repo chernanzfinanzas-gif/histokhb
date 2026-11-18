@@ -12,7 +12,7 @@ if ($m->connect_errno) { http_response_code(500); echo json_encode(['error' => '
 $m->set_charset('utf8mb4');
 $b = json_decode(file_get_contents('php://input'), true);
 $k = is_array($b) ? trim(preg_replace('/[\x00-\x1F\x7F"\'<>\\\\]/u', '', (string) ($b['k'] ?? ''))) : '';
-if (!preg_match('/^[fdsl]:.+/u', $k) || mb_strlen($k) > 150) { http_response_code(400); echo json_encode(['error' => 'Dato no válido']); exit; }
+if (!preg_match('/^[fdslv]:.+/u', $k) || mb_strlen($k) > 150) { http_response_code(400); echo json_encode(['error' => 'Dato no válido']); exit; }
 $m->query("CREATE TABLE IF NOT EXISTS visitas (
     ficha VARCHAR(160) NOT NULL,
     dia DATE NOT NULL,

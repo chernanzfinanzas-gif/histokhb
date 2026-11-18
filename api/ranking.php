@@ -1,6 +1,6 @@
 <?php
 // Aperturas de fichas, desarrollos, sincronías y sitios (las anota api/visita.php). Solo números.
-// GET api/ranking.php                         -> las más abiertas (?limite=20, ?desde=AAAA-MM-DD, ?tipo=f|d|s|l)
+// GET api/ranking.php                         -> las más abiertas (?limite=20, ?desde=AAAA-MM-DD, ?tipo=f|d|s|l|v; v = Viajes)
 // GET api/ranking.php?fichas=d:des-alaska,d:des-ayanz  -> esas, día a día
 header('Content-Type: application/json; charset=utf-8');
 header('Cache-Control: no-store');
@@ -30,7 +30,7 @@ if ($fichas) {
     exit;
 }
 $limite = max(1, min(200, (int) ($_GET['limite'] ?? 20)));
-$tipo = preg_replace('/[^fdsl]/', '', (string) ($_GET['tipo'] ?? ''));
+$tipo = preg_replace('/[^fdslv]/', '', (string) ($_GET['tipo'] ?? ''));
 $filtro = $tipo !== '' ? " AND ficha LIKE '" . $tipo[0] . ":%'" : '';
 $res = $m->query("SELECT ficha, SUM(n) AS n FROM visitas WHERE dia >= '$desdeE'$filtro GROUP BY ficha ORDER BY n DESC LIMIT $limite");
 $out = [];
