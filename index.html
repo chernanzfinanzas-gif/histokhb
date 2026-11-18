@@ -741,6 +741,11 @@ const ERA_IC={cosmos:'🌌',prehistoria:'🦣',antigua:'🏛️',media:'🏰',mo
 const ESP='Hispania · Castilla · España';
 const $=s=>document.querySelector(s);
 const LS={get(k,d){try{const v=localStorage.getItem(k);return v==null?d:JSON.parse(v);}catch(e){return d;}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v));}catch(e){}}};
+const VISTOS=new Set();
+function cuentaVisita(kind,key){ /* anota la apertura (qué y qué día; nada del usuario). Una vez por ficha y por visita a la web */
+ const k=kind+':'+key; if(VISTOS.has(k)||navigator.webdriver||!/historiatotal\.es$/.test(location.hostname))return; VISTOS.add(k);
+ try{fetch('api/visita.php',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({k}),keepalive:true}).catch(()=>{});}catch(e){}
+}
 function gcCount(path,ev){const d={path:path,title:document.title,event:!!ev};if(window.goatcounter&&goatcounter.count)goatcounter.count(d);else (window.gcQ=window.gcQ||[]).push(d);}
 
 // ---------- ajustes: paleta, letra y tamaño ----------
@@ -1120,7 +1125,7 @@ function setupCapbar(caps){
 // ---------- hoja de ficha ----------
 let CUR=null;
 async function openSheet(kind,key){
- CUR={kind,key}; DVER=null; gcCount(location.hash||('#/'+kind+'/'+key)); const sh=$('#sheet');
+ CUR={kind,key}; DVER=null; gcCount(location.hash||('#/'+kind+'/'+key)); cuentaVisita(kind,key); const sh=$('#sheet');
  sh.classList.add('open'); document.body.style.overflow='hidden';
  $('#shBody').innerHTML='<p class="empty-st">Cargando…</p>'; $('#shFoot').innerHTML='';
  await renderSheet(); sh.scrollTo(0,0);
