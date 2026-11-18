@@ -1,0 +1,4 @@
+# Ficheros que ya no están en el repositorio y hay que borrar del hosting (rutas desde www/).
+# La publicación borra los de esta lista en cada pasada; si ya no existen, no pasa nada.
+api/racha_diag.php
+api/vistas_diag.php

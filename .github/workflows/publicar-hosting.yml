@@ -100,6 +100,11 @@ jobs:
             --info=stats2 \
             ./ historiatotal@hl1708.dinaserver.com:www/
 
+      - name: Borrar del hosting los ficheros retirados (herramientas/retirados.txt)
+        run: |
+          l=$(grep -v '^#' herramientas/retirados.txt | grep -E '^[A-Za-z0-9_./-]+$' | grep -v '\.\.' | sed 's|^|www/|' | tr '\n' ' ')
+          if [ -n "$l" ]; then ssh historiatotal@hl1708.dinaserver.com "rm -f $l" && echo "Retirados: $l"; fi
+
       - name: Vaciar el buzón de audios y vídeos (ya están en el hosting)
         run: |
           sha=$(cat /tmp/buzon.sha 2>/dev/null || true)
