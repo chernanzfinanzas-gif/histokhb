@@ -3997,6 +3997,781 @@
      ]
     }
    }
+  },
+  {
+   "id": "victoria",
+   "des": "des-victoria",
+   "tEN": "The Victoria: The Ship That Lost a Day",
+   "tES": "La nao Victoria: el barco que perdió un día",
+   "fecha": "1522",
+   "lam": "img/laminas/des-victoria.webp",
+   "viva": "img/vivas/des-victoria.mp4",
+   "pv": {
+    "v": "run out (of)",
+    "es": "acabarse, quedarse sin",
+    "ex": "<i>Run</i> es «correr», pero <b>run out</b> es «acabarse»: <i>the food ran out</i> (se acabó la comida). Con <b>of</b> dice de qué se queda uno sin: <i>they ran out of food</i> (se quedaron sin comida).",
+    "ej": [
+     "The salted meat went bad and the food began to <b>run out</b>.",
+     "With the food <b>running out</b>, hunger and scurvy claimed more than twenty lives."
+    ],
+    "q": {
+     "q": "«We ran out of water» significa…",
+     "o": [
+      "Salimos corriendo a por agua",
+      "Nos quedamos sin agua",
+      "Corrimos por el agua"
+     ],
+     "ok": 1
+    }
+   },
+   "voz": "Leda",
+   "acento": "American",
+   "dic": {
+    "across": "a través de, cruzando",
+    "after": "después de",
+    "alone": "sola, en solitario",
+    "although": "aunque",
+    "america": "América",
+    "around": "hacia, alrededor de (around May: hacia mayo)",
+    "arrived": "llegaron",
+    "ashore": "en tierra",
+    "aside": "a un lado (turn aside: desviarse)",
+    "away": "lejos (well away from: muy lejos de)",
+    "bad": "malo (went bad: se pudrió)",
+    "battered": "castigado, golpeado",
+    "became": "pasó a ser, se convirtió en",
+    "because": "porque",
+    "before": "antes de",
+    "began": "empezó",
+    "behind": "detrás, atrasado (one day behind: un día por detrás)",
+    "big": "grande",
+    "board": "bordo (on board: a bordo)",
+    "borneo": "Borneo (isla del sudeste asiático)",
+    "bought": "compraron; comprado",
+    "broad": "ancho",
+    "buy": "comprar",
+    "calendar": "calendario",
+    "cape": "cabo (Cape Verde: Cabo Verde; Cape of Good Hope: cabo de Buena Esperanza)",
+    "captain": "capitán",
+    "captains": "capitanes",
+    "cargo": "carga (cargo ship: barco de carga)",
+    "carrying": "llevando, con",
+    "changed": "cambiado (changed hands: cambió de manos)",
+    "chose": "eligió, eligieron",
+    "church": "iglesia",
+    "claimed": "se cobró (claimed lives: se llevó vidas)",
+    "claiming": "diciendo, alegando",
+    "closer": "más cerca",
+    "cloth": "paños, tela",
+    "cloves": "clavo (especia)",
+    "cold": "frío",
+    "come": "venir (come from: venir de)",
+    "crew": "tripulación",
+    "crossing": "cruzando",
+    "date": "fecha",
+    "day": "día",
+    "days": "días",
+    "deaths": "muertes",
+    "december": "diciembre",
+    "diary": "diario",
+    "died": "murieron",
+    "discovered": "descubrió",
+    "eighteen": "dieciocho",
+    "elcano": "Elcano (Juan Sebastián, marino de Getaria)",
+    "entrusted": "confiado",
+    "europe": "Europa",
+    "european": "europeo",
+    "europeans": "europeos",
+    "exchange": "cambio (in exchange for: a cambio de)",
+    "exchanging": "cambiando",
+    "face": "enfrentarse a (he would face prison: le esperaba la cárcel)",
+    "far": "lejos; muy (far to the south: muy al sur)",
+    "filled": "llenaron",
+    "finest": "la mejor",
+    "five": "cinco",
+    "food": "comida",
+    "found": "descubrió, encontró",
+    "getaria": "Getaria (pueblo de Guipúzcoa)",
+    "good": "buena (Cape of Good Hope: cabo de Buena Esperanza)",
+    "hands": "manos (changed hands: cambió de manos)",
+    "home": "a casa",
+    "hope": "esperanza",
+    "however": "sin embargo",
+    "hunger": "hambre",
+    "indian": "Índico (Indian Ocean: océano Índico)",
+    "juan": "Juan (Sebastián Elcano)",
+    "july": "julio",
+    "killed": "mataron",
+    "king": "rey",
+    "knives": "cuchillos",
+    "knowing": "sabiendo",
+    "known": "conocido",
+    "land": "tierra",
+    "largest": "la mayor, la más grande",
+    "later": "después (days later: días después)",
+    "leaking": "haciendo agua",
+    "leaving": "dejando; partir (before leaving: antes de partir)",
+    "left": "partió, salió",
+    "length": "longitud (in length: de largo)",
+    "little": "poco (very little food: muy poca comida)",
+    "lives": "vidas",
+    "loaded": "cargado",
+    "long": "largo (twenty-five metres long: de veinticinco metros de largo)",
+    "lost": "perdió",
+    "loyalty": "fidelidad, lealtad",
+    "magellan": "Magallanes (Fernando de, jefe de la expedición)",
+    "managed": "lograron, consiguieron",
+    "many": "muchos",
+    "maría": "María (Santa María de la Victoria)",
+    "master": "maestre (ship's master: maestre, segundo al mando del barco)",
+    "meant": "significaban",
+    "meat": "carne",
+    "men": "hombres",
+    "metres": "metros",
+    "mirrors": "espejos",
+    "moluccas": "las Molucas (islas de las especias)",
+    "mozambique": "Mozambique (en manos portuguesas)",
+    "mutiny": "motín",
+    "name": "nombre",
+    "nao": "nao (barco de carga de la época)",
+    "near": "cerca de",
+    "neither": "ni (neither… nor: ni… ni)",
+    "nor": "ni",
+    "ocean": "océano",
+    "officers": "oficiales",
+    "out": "fuera (run out: acabarse)",
+    "pay": "pagar",
+    "pigafetta": "Pigafetta (Antonio, el cronista del viaje)",
+    "plunging": "adentrándose",
+    "poorly": "mal (poorly salted: mal salada)",
+    "ports": "puertos",
+    "portuguese": "portugueses",
+    "prison": "cárcel",
+    "reached": "llegó a",
+    "realised": "comprendieron, se dieron cuenta",
+    "refusing": "negándose",
+    "result": "resultado (as a result: como consecuencia)",
+    "rice": "arroz",
+    "rotting": "pudriéndose",
+    "rounded": "doblaron (un cabo)",
+    "route": "ruta",
+    "routes": "rutas",
+    "run": "correr (run out: acabarse)",
+    "running": "acabándose (running out)",
+    "sail": "vela (set sail: zarpar)",
+    "sailed": "navegó, navegaron",
+    "sailor": "marinero, marino",
+    "salted": "salado",
+    "sanlúcar": "Sanlúcar de Barrameda",
+    "santa": "Santa (María de la Victoria)",
+    "scurvy": "escorbuto",
+    "sebastián": "Sebastián (Juan Sebastián Elcano)",
+    "seized": "apresaron",
+    "september": "septiembre",
+    "set": "poner (set sail: zarpar)",
+    "setting": "zarpando (setting sail)",
+    "ship": "barco, nave",
+    "ship's": "del barco (ship's master: maestre)",
+    "ships": "barcos, naves",
+    "something": "algo",
+    "south": "sur",
+    "southern": "del sur, austral",
+    "spain": "España",
+    "spice": "especia",
+    "stop": "parar, hacer escala",
+    "stopped": "pararon, hicieron escala",
+    "stops": "escalas, paradas",
+    "storms": "tormentas",
+    "strange": "extraño",
+    "strong": "fuerte, resistente",
+    "sturdy": "resistente",
+    "survivors": "supervivientes",
+    "swore": "juró (swore loyalty: juró fidelidad)",
+    "thirteen": "trece",
+    "through": "a través de, entre",
+    "thursday": "jueves",
+    "tidore": "Tidore (isla de las Molucas)",
+    "tonnes": "toneladas",
+    "took": "tomó",
+    "triana": "Triana (barrio de Sevilla)",
+    "tried": "intentó",
+    "trinidad": "Trinidad (la nave capitana, que se quedó)",
+    "turn": "girar (turn aside: desviarse)",
+    "twenty": "veinte",
+    "twenty-five": "veinticinco",
+    "verde": "Verde (Cape Verde: Cabo Verde)",
+    "victoria": "Victoria (la nao)",
+    "violent": "violento",
+    "want": "querer",
+    "wednesday": "miércoles",
+    "weeks": "semanas",
+    "well": "bien; muy (well away from: muy lejos de)",
+    "went": "fue (went bad: se pudrió)",
+    "while": "mientras",
+    "wide": "ancho"
+   },
+   "niveles": {
+    "easy": {
+     "et": "Aprendiendo inglés",
+     "vel": "0.8",
+     "fr": [
+      [
+       "The Victoria was a cargo ship, wide and strong.",
+       "La Victoria era un barco de carga, ancho y resistente."
+      ],
+      [
+       "It was not very big: it was about twenty-five metres long.",
+       "No era muy grande: medía unos veinticinco metros."
+      ],
+      [
+       "In 1521, Juan Sebastián Elcano became its captain.",
+       "En 1521, Juan Sebastián Elcano pasó a ser su capitán."
+      ],
+      [
+       "In the Moluccas, they filled the ship with cloves.",
+       "En las Molucas llenaron el barco de clavo."
+      ],
+      [
+       "Then the Victoria sailed home alone, across the Indian Ocean.",
+       "Después, la Victoria volvió sola a casa, cruzando el océano Índico."
+      ],
+      [
+       "Elcano did not want to stop, because Portuguese ports meant prison.",
+       "Elcano no quería parar, porque los puertos portugueses significaban la cárcel."
+      ],
+      [
+       "They had very little food, and many men died.",
+       "Tenían muy poca comida, y murieron muchos hombres."
+      ],
+      [
+       "In July 1522 they stopped in Cape Verde to buy some rice.",
+       "En julio de 1522 pararon en Cabo Verde para comprar arroz."
+      ],
+      [
+       "There, they found something very strange about the date.",
+       "Allí descubrieron algo muy extraño sobre la fecha."
+      ],
+      [
+       "On the ship it was Wednesday, but on land it was Thursday!",
+       "En el barco era miércoles, ¡pero en tierra era jueves!"
+      ],
+      [
+       "On 6 September, only eighteen men from Europe arrived in Spain.",
+       "El 6 de septiembre, solo dieciocho hombres europeos llegaron a España."
+      ]
+     ],
+     "glos": [
+      [
+       "cargo ship",
+       "barco de carga"
+      ],
+      [
+       "cloves",
+       "clavo (especia)"
+      ],
+      [
+       "ports",
+       "puertos"
+      ],
+      [
+       "prison",
+       "cárcel"
+      ],
+      [
+       "rice",
+       "arroz"
+      ],
+      [
+       "strange",
+       "extraño"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "What is this story about?",
+       "o": [
+        "A war between Spain and Portugal",
+        "The long voyage home of a Spanish ship",
+        "A new port in Africa"
+       ],
+       "ok": 1
+      },
+      {
+       "q": "What strange thing did they find in Cape Verde?",
+       "o": [
+        "They had lost a day",
+        "The ship was full of water",
+        "The King was there"
+       ],
+       "ok": 0
+      }
+     ],
+     "det": [
+      {
+       "q": "Who became the captain in 1521?",
+       "o": [
+        "Magellan",
+        "Pigafetta",
+        "Juan Sebastián Elcano"
+       ],
+       "ok": 2
+      },
+      {
+       "q": "What did they buy in Cape Verde?",
+       "o": [
+        "Rice",
+        "Cloves",
+        "Wine"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "How many men from Europe arrived in Spain?",
+       "o": [
+        "Sixty",
+        "Eighteen",
+        "Thirteen"
+       ],
+       "ok": 1
+      }
+     ],
+     "modelo": "The Victoria was a small cargo ship. In 1521 Elcano became its captain. They filled it with cloves in the Moluccas and sailed home across the Indian Ocean without stopping. Many men died because there was very little food. In Cape Verde they discovered that they had lost a day, and in September 1522 only eighteen Europeans arrived in Spain.",
+     "gancho": "Navegando hacia el oeste, la Victoria «perdió» un día. ¿Cómo es posible? ¿Y qué pasó con los hombres que se quedaron en Cabo Verde?",
+     "trad": [
+      [
+       "Elcano era el capitán.",
+       "Elcano was the captain."
+      ],
+      [
+       "Compraron arroz en Cabo Verde.",
+       "They bought rice in Cape Verde."
+      ]
+     ],
+     "gram": {
+      "id": "cantidades",
+      "ej": [
+       "They had <b>very little</b> food, and <b>many</b> men died.",
+       "They stopped in Cape Verde to buy <b>some</b> rice."
+      ],
+      "q": [
+       {
+        "q": "They didn't have ___ water left.",
+        "o": [
+         "many",
+         "much",
+         "a few"
+        ],
+        "ok": 1
+       },
+       {
+        "q": "Only a ___ men arrived in Spain: eighteen.",
+        "o": [
+         "few",
+         "little",
+         "much"
+        ],
+        "ok": 0
+       }
+      ]
+     },
+     "audio": "audio/en-victoria-easy.mp3",
+     "s": 65,
+     "t": [
+      0.0,
+      6.54,
+      12.98,
+      15.44,
+      20.53,
+      29.06,
+      34.79,
+      38.75,
+      46.09,
+      50.07,
+      59.78
+     ]
+    },
+    "medium": {
+     "et": "Conocimientos básicos",
+     "vel": "0.9",
+     "fr": [
+      [
+       "The Victoria was a wide, strong cargo ship, and it was not the largest of the five ships.",
+       "La Victoria era un barco de carga ancho y resistente, y no era la mayor de las cinco naves."
+      ],
+      [
+       "It took its name from a church in Triana, where Magellan swore loyalty to the King before leaving.",
+       "Tomó su nombre de una iglesia de Triana, donde Magallanes juró fidelidad al rey antes de partir."
+      ],
+      [
+       "In September 1521, near Borneo, the officers chose Juan Sebastián Elcano, a sailor from Getaria, as captain.",
+       "En septiembre de 1521, cerca de Borneo, los oficiales eligieron capitán a Juan Sebastián Elcano, un marino de Getaria."
+      ],
+      [
+       "In Tidore they filled the ship with cloves, exchanging cloth, knives and mirrors for the spice.",
+       "En Tidore llenaron el barco de clavo, que cambiaron por paños, cuchillos y espejos."
+      ],
+      [
+       "However, the Trinidad was leaking, so the Victoria left alone on 21 December 1521.",
+       "Sin embargo, la Trinidad hacía agua, así que la Victoria partió sola el 21 de diciembre de 1521."
+      ],
+      [
+       "Although the Portuguese ports were closer, Elcano chose a route with no stops, because there he would face prison.",
+       "Aunque los puertos portugueses estaban más cerca, Elcano eligió una ruta sin escalas, porque allí le esperaba la cárcel."
+      ],
+      [
+       "They sailed far to the south of the Indian Ocean, through weeks of cold and storms.",
+       "Navegaron muy al sur del océano Índico, entre semanas de frío y tormentas."
+      ],
+      [
+       "While they were crossing it, the salted meat went bad and the food began to run out.",
+       "Mientras lo cruzaban, la carne salada se pudrió y la comida empezó a acabarse."
+      ],
+      [
+       "As a result, hunger and scurvy killed more than twenty men.",
+       "Como consecuencia, el hambre y el escorbuto mataron a más de veinte hombres."
+      ],
+      [
+       "In Cape Verde they bought rice, and Pigafetta discovered that his diary was one day behind.",
+       "En Cabo Verde compraron arroz, y Pigafetta descubrió que su diario iba un día por detrás."
+      ],
+      [
+       "On 6 September 1522 the Victoria reached Sanlúcar with eighteen Europeans on board.",
+       "El 6 de septiembre de 1522 la Victoria llegó a Sanlúcar con dieciocho europeos a bordo."
+      ]
+     ],
+     "glos": [
+      [
+       "swore loyalty",
+       "juró fidelidad"
+      ],
+      [
+       "cloves",
+       "clavo (especia)"
+      ],
+      [
+       "exchanging",
+       "cambiando, a cambio de"
+      ],
+      [
+       "leaking",
+       "haciendo agua"
+      ],
+      [
+       "storms",
+       "tormentas"
+      ],
+      [
+       "salted",
+       "salado"
+      ],
+      [
+       "scurvy",
+       "escorbuto"
+      ],
+      [
+       "diary",
+       "diario"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "Why did Elcano choose a route with no stops?",
+       "o": [
+        "Because the ship was too fast",
+        "Because he wanted to see the cold south",
+        "Because in Portuguese ports he would face prison"
+       ],
+       "ok": 2
+      },
+      {
+       "q": "What did Pigafetta discover in Cape Verde?",
+       "o": [
+        "That his diary was one day behind",
+        "That the cloves had gone bad",
+        "That the Trinidad was there"
+       ],
+       "ok": 0
+      }
+     ],
+     "det": [
+      {
+       "q": "Where did Magellan swear loyalty to the King?",
+       "o": [
+        "In a church in Triana",
+        "In Getaria",
+        "In Tidore"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "When did the Victoria leave Tidore alone?",
+       "o": [
+        "In September 1521",
+        "On 21 December 1521",
+        "On 6 September 1522"
+       ],
+       "ok": 1
+      },
+      {
+       "q": "How many men did hunger and scurvy kill?",
+       "o": [
+        "Eighteen",
+        "Thirteen",
+        "More than twenty"
+       ],
+       "ok": 2
+      }
+     ],
+     "modelo": "The Victoria was a cargo ship named after a church in Triana. In 1521 Elcano became its captain and filled it with cloves in Tidore. Although the Portuguese ports were closer, he sailed home with no stops, through the cold south of the Indian Ocean. The food ran out and more than twenty men died. In Cape Verde, Pigafetta found that his diary was one day behind, and in September 1522 the ship reached Sanlúcar with eighteen Europeans.",
+     "gancho": "¿Por qué el diario de Pigafetta iba un día atrasado, y qué fue de los hombres que se quedaron presos en Cabo Verde?",
+     "trad": [
+      [
+       "Aunque el viaje era peligroso, Elcano no se detuvo.",
+       "Although the voyage was dangerous, Elcano did not stop."
+      ],
+      [
+       "Llegaron a Sanlúcar con dieciocho europeos a bordo.",
+       "They reached Sanlúcar with eighteen Europeans on board."
+      ]
+     ],
+     "gram": {
+      "id": "conectores-b1",
+      "ej": [
+       "<b>However</b>, the Trinidad was leaking, so the Victoria left alone.",
+       "<b>Although</b> the Portuguese ports were closer, Elcano chose a route with no stops.",
+       "<b>While</b> they were crossing it, the salted meat went bad.",
+       "<b>As a result</b>, hunger and scurvy killed more than twenty men."
+      ],
+      "q": [
+       {
+        "q": "___ the sea was rough, they didn't stop.",
+        "o": [
+         "Although",
+         "However",
+         "As a result"
+        ],
+        "ok": 0
+       },
+       {
+        "q": "The food ran out. ___, many men died.",
+        "o": [
+         "While",
+         "As a result",
+         "Although"
+        ],
+        "ok": 1
+       }
+      ]
+     },
+     "audio": "audio/en-victoria-medium.mp3",
+     "s": 79,
+     "t": [
+      0.0,
+      7.68,
+      14.94,
+      24.15,
+      33.17,
+      40.82,
+      46.09,
+      54.91,
+      60.74,
+      65.23,
+      71.53
+     ]
+    },
+    "hard": {
+     "et": "Grandes conocimientos",
+     "vel": "1",
+     "fr": [
+      [
+       "Neither the largest nor the finest of the five ships, the Victoria was a broad, sturdy cargo nao some twenty-five metres in length.",
+       "Ni la mayor ni la mejor de las cinco naves, la Victoria era una nao de carga ancha y resistente, de unos veinticinco metros de largo."
+      ],
+      [
+       "It took its name from the church of Santa María de la Victoria in Triana, where Magellan swore loyalty to the King before setting sail.",
+       "Tomó su nombre de la iglesia de Santa María de la Victoria, en Triana, donde Magallanes juró fidelidad al rey antes de zarpar."
+      ],
+      [
+       "Having changed hands after a mutiny and the violent deaths of two of its captains, it was entrusted in 1521 to Juan Sebastián Elcano, a ship's master from Getaria.",
+       "Tras cambiar de manos después de un motín y de la muerte violenta de dos de sus capitanes, en 1521 se confió a Juan Sebastián Elcano, maestre de Getaria."
+      ],
+      [
+       "Loaded with cloves bought in Tidore in exchange for cloth, knives and mirrors, the Victoria set sail alone on 21 December, leaving the leaking Trinidad behind.",
+       "Cargada de clavo comprado en Tidore a cambio de paños, cuchillos y espejos, la Victoria zarpó sola el 21 de diciembre, dejando atrás a la Trinidad, que hacía agua."
+      ],
+      [
+       "Knowing that Portuguese ports meant prison, Elcano chose a route with no stops at all, plunging far into the southern Indian Ocean, well away from known routes.",
+       "Sabiendo que los puertos portugueses significaban la cárcel, Elcano eligió una ruta sin ninguna escala y se adentró muy al sur del océano Índico, lejos de las rutas conocidas."
+      ],
+      [
+       "Battered by weeks of cold and storms, the crew rounded the Cape of Good Hope around May, most of them refusing to turn aside to Mozambique.",
+       "Castigada por semanas de frío y tormentas, la tripulación dobló el cabo de Buena Esperanza hacia mayo, y la mayoría se negó a desviarse a Mozambique."
+      ],
+      [
+       "With the poorly salted meat rotting and the food running out, hunger and scurvy claimed more than twenty lives.",
+       "Con la carne mal salada pudriéndose y la comida acabándose, el hambre y el escorbuto se llevaron más de veinte vidas."
+      ],
+      [
+       "At Cape Verde, claiming to come from America, they managed to buy rice, and Pigafetta found that his diary was one day behind the calendar on land.",
+       "En Cabo Verde, diciendo que venían de América, lograron comprar arroz, y Pigafetta descubrió que su diario iba un día por detrás del calendario de tierra."
+      ],
+      [
+       "Days later, when a sailor tried to pay with cloves, the Portuguese realised where they had come from and seized thirteen men ashore.",
+       "Días después, cuando un marinero intentó pagar con clavo, los portugueses comprendieron de dónde venían y apresaron a trece hombres que estaban en tierra."
+      ],
+      [
+       "On 6 September 1522 the Victoria reached Sanlúcar, carrying about twenty-five tonnes of cloves and just eighteen European survivors.",
+       "El 6 de septiembre de 1522 la Victoria llegó a Sanlúcar con unas veinticinco toneladas de clavo y solo dieciocho supervivientes europeos."
+      ]
+     ],
+     "glos": [
+      [
+       "sturdy",
+       "resistente"
+      ],
+      [
+       "swore loyalty",
+       "juró fidelidad"
+      ],
+      [
+       "mutiny",
+       "motín"
+      ],
+      [
+       "entrusted",
+       "confiado"
+      ],
+      [
+       "leaking",
+       "que hacía agua"
+      ],
+      [
+       "plunging",
+       "adentrándose"
+      ],
+      [
+       "battered",
+       "castigado, golpeado"
+      ],
+      [
+       "rounded",
+       "doblaron (un cabo)"
+      ],
+      [
+       "scurvy",
+       "escorbuto"
+      ],
+      [
+       "seized",
+       "apresaron"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "What made Elcano's route home so hard?",
+       "o": [
+        "He had to fight the Portuguese fleet",
+        "He avoided all ports and sailed through cold, stormy southern waters",
+        "He lost the cloves in a storm"
+       ],
+       "ok": 1
+      },
+      {
+       "q": "How did the Portuguese discover where the ship came from?",
+       "o": [
+        "A sailor tried to pay with cloves",
+        "Pigafetta told them",
+        "They read Elcano's letter"
+       ],
+       "ok": 0
+      }
+     ],
+     "det": [
+      {
+       "q": "Where was Elcano from?",
+       "o": [
+        "Triana",
+        "Sanlúcar",
+        "Getaria"
+       ],
+       "ok": 2
+      },
+      {
+       "q": "Around when did they round the Cape of Good Hope?",
+       "o": [
+        "Around May",
+        "In December",
+        "In September"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "How many men did the Portuguese seize at Cape Verde?",
+       "o": [
+        "Eighteen",
+        "Thirteen",
+        "Twenty-five"
+       ],
+       "ok": 1
+      }
+     ],
+     "modelo": "The Victoria was a modest cargo nao named after a church in Triana. After a mutiny and the deaths of two captains, Elcano took command in 1521. Loaded with cloves, he sailed home with no stops through the cold southern Indian Ocean, while hunger and scurvy killed more than twenty men. At Cape Verde Pigafetta found his diary was a day behind, and thirteen men were seized. In September 1522 the ship reached Sanlúcar with only eighteen European survivors.",
+     "gancho": "¿Cómo pudo el diario de Pigafetta ir un día atrasado, y qué fue de la Victoria después de su hazaña?",
+     "trad": [
+      [
+       "Sabiendo que los puertos portugueses significaban la cárcel, Elcano no se detuvo.",
+       "Knowing that Portuguese ports meant prison, Elcano did not stop."
+      ],
+      [
+       "Trece hombres fueron apresados en Cabo Verde.",
+       "Thirteen men were seized in Cape Verde."
+      ]
+     ],
+     "gram": {
+      "id": "frases-participio",
+      "ej": [
+       "<b>Having changed</b> hands after a mutiny, it was entrusted in 1521 to Elcano.",
+       "<b>Loaded</b> with cloves bought in Tidore, the Victoria set sail alone.",
+       "<b>Knowing</b> that Portuguese ports meant prison, Elcano chose a route with no stops.",
+       "<b>Battered</b> by weeks of cold and storms, the crew rounded the Cape of Good Hope."
+      ],
+      "q": [
+       {
+        "q": "___ the cape, they sailed north towards Cape Verde.",
+        "o": [
+         "Having rounded",
+         "Rounded",
+         "Have rounded"
+        ],
+        "ok": 0
+       },
+       {
+        "q": "___ by hunger, the crew still refused to turn aside.",
+        "o": [
+         "Weakening",
+         "Weakened",
+         "Having weaken"
+        ],
+        "ok": 1
+       }
+      ]
+     },
+     "audio": "audio/en-victoria-hard.mp3",
+     "s": 118,
+     "t": [
+      0.0,
+      11.83,
+      22.57,
+      36.55,
+      49.99,
+      62.97,
+      74.35,
+      83.41,
+      95.19,
+      105.62
+     ]
+    }
+   }
   }
  ],
  "gram": {
