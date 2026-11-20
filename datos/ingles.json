@@ -4772,6 +4772,818 @@
      ]
     }
    }
+  },
+  {
+   "id": "manila",
+   "des": "des-galeon-manila",
+   "tEN": "The Manila Galleon: Silk for Silver",
+   "tES": "El Galeón de Manila: seda a cambio de plata",
+   "fecha": "1565-1815",
+   "lam": "img/laminas/des-galeon-manila.webp",
+   "viva": "img/vivas/des-galeon-manila.mp4",
+   "pv": {
+    "v": "wash up",
+    "es": "aparecer en la orilla (arrastrado por el mar)",
+    "ex": "<i>Wash</i> es «lavar», pero <b>wash up</b> dicho del mar es «llegar a la orilla»: <i>a bottle washed up on the beach</i> (una botella apareció en la playa). Ojo: en Gran Bretaña <i>wash up</i> también es «fregar los platos».",
+    "ej": [
+     "Dozens of galleons were lost, and pieces of Chinese porcelain still <b>wash up</b> there.",
+     "Fragments of its porcelain still <b>wash up</b> today."
+    ],
+    "q": {
+     "q": "«Some wood washed up on the beach» significa…",
+     "o": [
+      "Lavaron la madera en la playa",
+      "Apareció madera en la playa, traída por el mar",
+      "Subieron la madera a la playa"
+     ],
+     "ok": 1
+    }
+   },
+   "voz": "Sadaltager",
+   "acento": "British",
+   "dic": {
+    "above": "sobre (above all: sobre todo)",
+    "acapulco": "Acapulco (puerto de México, en el Pacífico)",
+    "across": "a través de, cruzando",
+    "agustín": "Agustín (San Agustín: nombre de un galeón)",
+    "along": "junto (along with: junto con)",
+    "america": "América",
+    "among": "entre (among the longest: de los más largos)",
+    "appeared": "apareció",
+    "arrival": "llegada",
+    "arrived": "llegó, llegaban",
+    "asia": "Asia",
+    "asians": "asiáticos",
+    "back": "de vuelta (on the way back: en el viaje de vuelta)",
+    "bad": "malo (went bad: se pudría)",
+    "bay": "bahía",
+    "better": "mejor",
+    "between": "entre",
+    "big": "grande",
+    "blue": "azul",
+    "blue-and-white": "azul y blanca",
+    "board": "bordo (on board: a bordo)",
+    "boletas": "boletas (papeletas que repartían el espacio de carga)",
+    "bought": "compraban, compraron",
+    "boxes": "cajas",
+    "brought": "traía, trajo",
+    "built": "construidos (were built: se construyeron)",
+    "called": "llamado; se llamaba",
+    "came": "venían, llegaron",
+    "cannon": "cañón (cannon fire: fuego de cañón, balas)",
+    "cannonballs": "balas de cañón",
+    "cargo": "carga",
+    "carried": "llevaba, llevaban",
+    "carry": "llevar, transportar",
+    "cavite": "Cavite (astillero en la bahía de Manila)",
+    "celebrated": "lo celebraban",
+    "centuries": "siglos",
+    "chests": "cajas, arcones",
+    "china": "China",
+    "chinese": "chino, china",
+    "chinos": "«chinos» (así llamaban en México a todos los asiáticos)",
+    "city": "ciudad (Mexico City: ciudad de México)",
+    "clay": "barro (clay jars: tinajas de barro)",
+    "coast": "costa",
+    "coins": "monedas",
+    "conscripted": "reclutado a la fuerza",
+    "cottons": "telas de algodón",
+    "crawled": "estaba llena (de bichos)",
+    "cut": "cortar",
+    "dozens": "decenas",
+    "drag": "arrastrar",
+    "dragged": "arrastrada, arrastrado",
+    "drakes": "Drake (Drakes Bay: bahía de Drake, en California)",
+    "during": "durante (during which: durante la cual)",
+    "eastbound": "hacia el este",
+    "end": "final (at the end of June: a finales de junio)",
+    "ended": "terminó",
+    "enslaved": "esclavizados",
+    "european": "europeo",
+    "fair": "feria",
+    "felled": "talada",
+    "filipinos": "filipinos",
+    "filled": "se llenaba (filled with: se llenaba de)",
+    "fire": "fuego (cannon fire: disparos de cañón)",
+    "floating": "flotando",
+    "folding": "plegable (folding screens: biombos)",
+    "food": "comida",
+    "forced": "forzado (forced labour: trabajo forzoso; were forced to: fueron obligados a)",
+    "fragments": "fragmentos",
+    "galleon": "galeón",
+    "galleon's": "del galeón",
+    "galleons": "galeones",
+    "go": "pasar, ir (go six months: pasar seis meses)",
+    "goods": "mercancías",
+    "got": "se pusieron (got ill: enfermaron)",
+    "great": "gran",
+    "half": "medio (two and a half: dos y medio)",
+    "hard": "duro",
+    "hardest": "más duro",
+    "hardwoods": "maderas duras",
+    "hot": "caluroso",
+    "hundred": "cien (two hundred: doscientos)",
+    "hung": "colgadas",
+    "ill": "enfermo",
+    "indian": "de la India",
+    "ivory": "marfil",
+    "jars": "tinajas, jarras",
+    "july": "julio",
+    "june": "junio",
+    "knew": "sabían",
+    "labour": "trabajo (forced labour: trabajo forzoso)",
+    "lacquer": "laca",
+    "land": "tierra (firme)",
+    "last": "último",
+    "leave": "salir de, partir",
+    "less": "menos",
+    "linked": "unió",
+    "long": "largo",
+    "longest": "más largo",
+    "lost": "perdidos (were lost: se perdieron)",
+    "manila": "Manila (capital de Filipinas)",
+    "many": "muchos (many of whom: muchos de los cuales)",
+    "merchants": "comerciantes, mercaderes",
+    "mexico": "México",
+    "molave": "molave (madera tropical muy dura)",
+    "months": "meses",
+    "mules": "mulas",
+    "narra": "narra (madera tropical dura)",
+    "near": "cerca",
+    "now": "ahora (what is now: lo que hoy es)",
+    "oak": "roble",
+    "ocean": "océano",
+    "officers": "oficiales",
+    "often": "a menudo",
+    "pacific": "Pacífico",
+    "paid": "pagados (were paid less: se les pagaba menos)",
+    "people": "personas, gente",
+    "pesos": "pesos (monedas de plata)",
+    "philippines": "Filipinas",
+    "pieces": "trozos",
+    "polo": "polo (trabajo obligatorio impuesto a los filipinos)",
+    "porcelain": "porcelana",
+    "port": "puerto",
+    "puebla": "Puebla (ciudad de México)",
+    "residents": "vecinos, habitantes",
+    "resisted": "resistían",
+    "return": "vuelta (return voyage: viaje de vuelta)",
+    "rigging": "jarcias",
+    "rotted": "se pudría",
+    "sailed": "navegó, navegaba",
+    "sailors": "marineros",
+    "san": "San",
+    "saw": "veían, vieron",
+    "screens": "biombos (folding screens)",
+    "scurvy": "escorbuto",
+    "seaweed": "algas",
+    "seeing": "ver (without seeing: sin ver)",
+    "set": "set in: aparecer, instalarse (una enfermedad)",
+    "shared": "repartido (shared out: se repartía)",
+    "ship": "barco",
+    "shores": "orillas",
+    "sighting": "avistar",
+    "silk": "seda",
+    "silks": "sedas",
+    "silver": "plata",
+    "sleepy": "adormecido, tranquilo",
+    "small": "pequeño",
+    "sold": "vendieron (sold on: revendían)",
+    "space": "espacio",
+    "spanish": "español",
+    "spices": "especias",
+    "still": "todavía, aún",
+    "system": "sistema",
+    "thousands": "miles",
+    "thread": "hilo",
+    "through": "por medio de",
+    "tickets": "papeletas, billetes",
+    "tied": "atados (tied together: unidos)",
+    "timber": "madera (de construcción)",
+    "today": "hoy",
+    "together": "juntos",
+    "towards": "hacia",
+    "town": "pueblo, ciudad pequeña",
+    "trees": "árboles",
+    "trip": "viaje",
+    "tropical": "tropical",
+    "turn": "convertir (turn … into: convertir en)",
+    "under": "bajo, por (under the polo: por el polo)",
+    "used": "used to: solía, solían",
+    "usually": "normalmente",
+    "voyage": "travesía, viaje por mar",
+    "wash": "wash up: aparecer en la orilla",
+    "water": "agua",
+    "way": "camino (on the way back: en el viaje de vuelta)",
+    "wealthy": "rico",
+    "went": "fue, iba (went bad: se pudrió)",
+    "westbound": "hacia el oeste",
+    "white": "blanco",
+    "whom": "quien, los cuales (many of whom: muchos de los cuales)",
+    "whose": "cuyo (on whose shores: en cuyas orillas)",
+    "without": "sin",
+    "wood": "madera",
+    "woods": "maderas",
+    "woodworm": "carcoma",
+    "world": "mundo",
+    "worms": "gusanos, carcoma",
+    "wrecked": "naufragado",
+    "year": "año",
+    "years": "años"
+   },
+   "niveles": {
+    "easy": {
+     "et": "Aprendiendo inglés",
+     "vel": "0.8",
+     "fr": [
+      [
+       "For two hundred and fifty years, a big Spanish ship sailed between Asia and America.",
+       "Durante 250 años, un gran barco español navegó entre Asia y América."
+      ],
+      [
+       "It went from Manila, in the Philippines, to Acapulco, in Mexico.",
+       "Iba de Manila, en Filipinas, a Acapulco, en México."
+      ],
+      [
+       "People built most of the galleons in the Philippines, with very hard wood.",
+       "La mayoría de los galeones se construían en Filipinas, con madera muy dura."
+      ],
+      [
+       "On board there were between two hundred and four hundred people.",
+       "A bordo iban entre doscientas y cuatrocientas personas."
+      ],
+      [
+       "Many of the sailors came from the Philippines.",
+       "Muchos de los marineros eran de Filipinas."
+      ],
+      [
+       "The ship carried silk and blue and white porcelain from China to Mexico.",
+       "El barco llevaba seda y porcelana azul y blanca de China a México."
+      ],
+      [
+       "On the way back to Manila, it carried boxes of silver coins.",
+       "En el viaje de vuelta a Manila, llevaba cajas de monedas de plata."
+      ],
+      [
+       "The trip across the Pacific was very long: up to six months.",
+       "El viaje a través del Pacífico era muy largo: hasta seis meses."
+      ],
+      [
+       "The water went bad, and many sailors got very ill.",
+       "El agua se pudría y muchos marineros enfermaban gravemente."
+      ],
+      [
+       "When the ship arrived in Acapulco, there was a big fair in the town.",
+       "Cuando el barco llegaba a Acapulco, había una gran feria en el pueblo."
+      ],
+      [
+       "From Acapulco, mules carried the goods up to Mexico City.",
+       "Desde Acapulco, las mulas subían las mercancías hasta la ciudad de México."
+      ],
+      [
+       "The last voyage ended in 1815.",
+       "El último viaje terminó en 1815."
+      ]
+     ],
+     "glos": [
+      [
+       "galleons",
+       "galeones"
+      ],
+      [
+       "on board",
+       "a bordo"
+      ],
+      [
+       "silk",
+       "seda"
+      ],
+      [
+       "porcelain",
+       "porcelana"
+      ],
+      [
+       "silver coins",
+       "monedas de plata"
+      ],
+      [
+       "fair",
+       "feria"
+      ],
+      [
+       "mules",
+       "mulas"
+      ],
+      [
+       "goods",
+       "mercancías"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "What is this story about?",
+       "o": [
+        "A Spanish ship that sailed between Asia and America",
+        "A war in the Philippines",
+        "A new city in China"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "What did the ship carry back to Manila?",
+       "o": [
+        "Silk",
+        "Boxes of silver coins",
+        "Porcelain"
+       ],
+       "ok": 1
+      }
+     ],
+     "det": [
+      {
+       "q": "Where were most of the galleons built?",
+       "o": [
+        "In Mexico",
+        "In Spain",
+        "In the Philippines"
+       ],
+       "ok": 2
+      },
+      {
+       "q": "How long could the trip to Mexico take?",
+       "o": [
+        "Up to six months",
+        "Two weeks",
+        "Two years"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "What carried the goods up to Mexico City?",
+       "o": [
+        "Ships",
+        "Mules",
+        "Carts"
+       ],
+       "ok": 1
+      }
+     ],
+     "modelo": "For 250 years, a Spanish galleon sailed from Manila, in the Philippines, to Acapulco, in Mexico. It carried silk and porcelain from China, and it went back to Manila with silver coins. The trip across the Pacific was very long and hard. In Acapulco there was a big fair, and mules carried the goods to Mexico City. The last voyage ended in 1815.",
+     "gancho": "¿Qué hacía falta para sobrevivir seis meses sin ver tierra, y quiénes eran los «chinos» que llegaron a México en el galeón?",
+     "trad": [
+      [
+       "El barco iba de Manila a Acapulco.",
+       "The ship went from Manila to Acapulco."
+      ],
+      [
+       "Muchos marineros eran de Filipinas.",
+       "Many sailors were from the Philippines."
+      ]
+     ],
+     "gram": {
+      "id": "prep-lugar",
+      "ej": [
+       "It went <b>from</b> Manila, <b>in</b> the Philippines, <b>to</b> Acapulco, <b>in</b> Mexico.",
+       "<b>On</b> board there were between two hundred and four hundred people.",
+       "The trip <b>across</b> the Pacific was very long.",
+       "Mules carried the goods <b>up to</b> Mexico City."
+      ],
+      "q": [
+       {
+        "q": "The galleon sailed ___ the Pacific Ocean.",
+        "o": [
+         "across",
+         "on",
+         "at"
+        ],
+        "ok": 0
+       },
+       {
+        "q": "Manila is ___ the Philippines.",
+        "o": [
+         "at",
+         "in",
+         "to"
+        ],
+        "ok": 1
+       }
+      ]
+     },
+     "audio": "audio/en-manila-easy.mp3",
+     "s": 74,
+     "t": [
+      0.0,
+      9.91,
+      17.2,
+      24.46,
+      29.86,
+      34.45,
+      41.66,
+      47.71,
+      53.42,
+      58.95,
+      65.01,
+      70.83
+     ]
+    },
+    "medium": {
+     "et": "Conocimientos básicos",
+     "vel": "0.9",
+     "fr": [
+      [
+       "Between 1565 and 1815, the Manila Galleon linked the Philippines with Mexico across the Pacific Ocean.",
+       "Entre 1565 y 1815, el Galeón de Manila unió Filipinas con México a través del océano Pacífico."
+      ],
+      [
+       "Most galleons were built in Cavite, on Manila Bay, from tropical woods that resisted worms and cannonballs better than European oak.",
+       "La mayoría de los galeones se construyeron en Cavite, en la bahía de Manila, con maderas tropicales que resistían la carcoma y las balas mejor que el roble europeo."
+      ],
+      [
+       "Thousands of Filipinos were forced to cut the trees and drag them to the coast.",
+       "Miles de filipinos fueron obligados a cortar los árboles y arrastrarlos hasta la costa."
+      ],
+      [
+       "The officers were usually Spanish, but most of the sailors were Filipinos, who were paid less.",
+       "Los oficiales solían ser españoles, pero la mayoría de los marineros eran filipinos, a los que se pagaba menos."
+      ],
+      [
+       "Towards Mexico, the ship used to carry Chinese silk, blue and white porcelain, spices and folding screens.",
+       "Hacia México, el barco solía llevar seda china, porcelana azul y blanca, especias y biombos."
+      ],
+      [
+       "On the way back, it used to carry chests of silver pesos.",
+       "En el viaje de vuelta, solía llevar cajas de pesos de plata."
+      ],
+      [
+       "The galleon used to leave Manila at the end of June or in July, and then it sailed for months without seeing land.",
+       "El galeón solía salir de Manila a finales de junio o en julio, y después navegaba durante meses sin ver tierra."
+      ],
+      [
+       "The water went bad, the food filled with worms, and scurvy appeared.",
+       "El agua se pudría, la comida se llenaba de gusanos y aparecía el escorbuto."
+      ],
+      [
+       "When the sailors saw floating seaweed, they knew that the coast of America was near, and they celebrated.",
+       "Cuando los marineros veían algas flotando, sabían que la costa de América estaba cerca, y lo celebraban."
+      ],
+      [
+       "Dozens of galleons were lost, and pieces of Chinese porcelain still wash up there.",
+       "Se perdieron decenas de galeones, y todavía aparecen allí trozos de porcelana china."
+      ],
+      [
+       "The arrival of the galleon used to turn Acapulco, a small and hot port, into a great fair.",
+       "La llegada del galeón solía convertir Acapulco, un puerto pequeño y caluroso, en una gran feria."
+      ]
+     ],
+     "glos": [
+      [
+       "linked",
+       "unió"
+      ],
+      [
+       "worms",
+       "gusanos, carcoma"
+      ],
+      [
+       "oak",
+       "roble"
+      ],
+      [
+       "drag",
+       "arrastrar"
+      ],
+      [
+       "folding screens",
+       "biombos"
+      ],
+      [
+       "chests",
+       "cajas, arcones"
+      ],
+      [
+       "scurvy",
+       "escorbuto"
+      ],
+      [
+       "seaweed",
+       "algas"
+      ],
+      [
+       "dozens",
+       "decenas"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "What did the galleon carry in each direction?",
+       "o": [
+        "Silver to Mexico and silk to Manila",
+        "Asian goods to Mexico and silver back to Manila",
+        "Wood in both directions"
+       ],
+       "ok": 1
+      },
+      {
+       "q": "Why did the sailors celebrate when they saw floating seaweed?",
+       "o": [
+        "Because the coast of America was near",
+        "Because they could eat it",
+        "Because the storm was over"
+       ],
+       "ok": 0
+      }
+     ],
+     "det": [
+      {
+       "q": "Where were most galleons built?",
+       "o": [
+        "In Acapulco",
+        "In Cavite",
+        "In Seville"
+       ],
+       "ok": 1
+      },
+      {
+       "q": "When did the galleon usually leave Manila?",
+       "o": [
+        "In December",
+        "At the end of June or in July",
+        "In March"
+       ],
+       "ok": 1
+      },
+      {
+       "q": "Who was paid less on board?",
+       "o": [
+        "The Filipino sailors",
+        "The Spanish officers",
+        "The passengers"
+       ],
+       "ok": 0
+      }
+     ],
+     "modelo": "Between 1565 and 1815, the Manila Galleon linked the Philippines with Mexico. The ships were built in Cavite from very hard tropical wood. They used to carry silk, porcelain and spices to Mexico and silver back to Manila. The return voyage was terrible: months without land, bad water and scurvy. When the galleon arrived, Acapulco used to become a great fair.",
+     "gancho": "¿Cómo se repartía el espacio de carga del galeón, y qué dejó en México y en Filipinas aquel ir y venir de dos siglos y medio?",
+     "trad": [
+      [
+       "El galeón solía salir de Manila en julio.",
+       "The galleon used to leave Manila in July."
+      ],
+      [
+       "Los marineros solían enfermar de escorbuto.",
+       "The sailors used to get scurvy."
+      ]
+     ],
+     "gram": {
+      "id": "used-to",
+      "ej": [
+       "Towards Mexico, the ship <b>used to carry</b> Chinese silk.",
+       "On the way back, it <b>used to carry</b> chests of silver pesos.",
+       "The galleon <b>used to leave</b> Manila at the end of June or in July.",
+       "The arrival of the galleon <b>used to turn</b> Acapulco into a great fair."
+      ],
+      "q": [
+       {
+        "q": "The sailors ___ eat salted meat on the voyage.",
+        "o": [
+         "used to",
+         "use to",
+         "were used"
+        ],
+        "ok": 0
+       },
+       {
+        "q": "___ the galleon stop in California?",
+        "o": [
+         "Used",
+         "Did … use to",
+         "Was … use to"
+        ],
+        "ok": 1
+       }
+      ]
+     },
+     "audio": "audio/en-manila-medium.mp3",
+     "s": 79,
+     "t": [
+      0.0,
+      10.88,
+      21.29,
+      27.31,
+      34.07,
+      42.23,
+      46.85,
+      54.52,
+      59.66,
+      66.79,
+      72.15
+     ]
+    },
+    "hard": {
+     "et": "Grandes conocimientos",
+     "vel": "1",
+     "fr": [
+      [
+       "For two and a half centuries, from 1565 to 1815, the Manila Galleon was the thread by which Asia and America were tied together.",
+       "Durante dos siglos y medio, de 1565 a 1815, el Galeón de Manila fue el hilo con el que se ataron Asia y América."
+      ],
+      [
+       "Most were built at Cavite, on Manila Bay, from tropical hardwoods such as molave and narra, which resisted woodworm and cannon fire better than European oak.",
+       "La mayoría se construyeron en Cavite, en la bahía de Manila, con maderas tropicales duras como el molave o el narra, que resistían la carcoma y las balas mejor que el roble europeo."
+      ],
+      [
+       "The timber was felled and dragged to the coast by thousands of Filipinos conscripted under the polo, a system of forced labour.",
+       "La madera la talaban y la arrastraban hasta la costa miles de filipinos reclutados por el polo, un sistema de trabajo forzoso."
+      ],
+      [
+       "Cargo space was shared out through tickets called boletas, which Spanish residents of Manila often sold on to wealthy merchants.",
+       "El espacio de carga se repartía con unas papeletas llamadas boletas, que los vecinos españoles de Manila a menudo revendían a los grandes comerciantes."
+      ],
+      [
+       "Eastbound went Chinese silks, blue-and-white porcelain, Indian cottons, spices, ivory and lacquer; westbound, above all, chests of silver pesos.",
+       "Hacia el este iban sedas chinas, porcelana azul y blanca, algodones de la India, especias, marfil y lacas; hacia el oeste, sobre todo, cajas de pesos de plata."
+      ],
+      [
+       "The return voyage, during which a ship might go six months without sighting land, was among the longest and hardest in the world.",
+       "La travesía de vuelta, durante la cual un barco podía pasar seis meses sin avistar tierra, era de las más largas y duras del mundo."
+      ],
+      [
+       "Water rotted in clay jars hung from the rigging, food crawled with worms, and scurvy set in.",
+       "El agua se pudría en tinajas de barro colgadas de las jarcias, la comida se llenaba de gusanos y llegaba el escorbuto."
+      ],
+      [
+       "Dozens of galleons were lost, among them the San Agustín, wrecked in 1595 in what is now Drakes Bay, on whose shores fragments of its porcelain still wash up today.",
+       "Se perdieron decenas de galeones, entre ellos el San Agustín, naufragado en 1595 en la actual bahía de Drake, en cuyas orillas aún hoy aparecen fragmentos de su porcelana."
+      ],
+      [
+       "In Acapulco, a sleepy port for most of the year, the galleon's arrival brought a great fair, at which merchants from Mexico City and Puebla bought the goods of Asia.",
+       "En Acapulco, un puerto adormecido casi todo el año, la llegada del galeón traía una gran feria, en la que comerciantes de la ciudad de México y de Puebla compraban las mercancías de Asia."
+      ],
+      [
+       "Along with the cargo came thousands of Asians, many of whom had been enslaved, and all of whom were called «chinos» in Mexico.",
+       "Con la carga llegaron miles de asiáticos, muchos de los cuales habían sido esclavizados, y a todos los cuales se llamaba «chinos» en México."
+      ]
+     ],
+     "glos": [
+      [
+       "thread",
+       "hilo"
+      ],
+      [
+       "hardwoods",
+       "maderas duras"
+      ],
+      [
+       "woodworm",
+       "carcoma"
+      ],
+      [
+       "felled",
+       "talada"
+      ],
+      [
+       "conscripted",
+       "reclutado a la fuerza"
+      ],
+      [
+       "sold on",
+       "revendían"
+      ],
+      [
+       "eastbound",
+       "hacia el este"
+      ],
+      [
+       "lacquer",
+       "laca"
+      ],
+      [
+       "sighting",
+       "avistar"
+      ],
+      [
+       "rigging",
+       "jarcias"
+      ],
+      [
+       "crawled",
+       "se llenaba (de bichos)"
+      ],
+      [
+       "wrecked",
+       "naufragado"
+      ],
+      [
+       "enslaved",
+       "esclavizados"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "What was the main exchange carried by the galleon?",
+       "o": [
+        "Asian luxury goods for American silver",
+        "Spanish wine for Chinese tea",
+        "Mexican gold for Indian cotton"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "What does the text say about the people who came to Mexico on the galleon?",
+       "o": [
+        "They were all Spanish officers",
+        "Thousands of Asians came, many of them enslaved",
+        "Only Chinese merchants came"
+       ],
+       "ok": 1
+      }
+     ],
+     "det": [
+      {
+       "q": "What were the boletas?",
+       "o": [
+        "Tickets that shared out the cargo space",
+        "Coins of silver",
+        "Letters from the King"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "Where was the San Agustín wrecked?",
+       "o": [
+        "In the Marianas",
+        "In what is now Drakes Bay",
+        "In Acapulco"
+       ],
+       "ok": 1
+      },
+      {
+       "q": "Who bought the Asian goods at the Acapulco fair?",
+       "o": [
+        "Sailors from Cavite",
+        "Merchants from Mexico City and Puebla",
+        "Dutch traders"
+       ],
+       "ok": 1
+      }
+     ],
+     "modelo": "From 1565 to 1815 the Manila Galleon tied Asia to America. The ships were built at Cavite from tropical hardwoods felled by Filipinos under forced labour. Cargo space was shared out through boletas. Silks, porcelain and spices went east, and silver went west. The return voyage could last six months without land, and many galleons were lost, like the San Agustín in 1595. In Acapulco the galleon brought a great fair, and with it came thousands of Asians, many of whom had been enslaved.",
+     "gancho": "¿Qué quedó del galeón en la talavera de Puebla, en los mantones «de Manila» y en la leyenda de la china poblana?",
+     "trad": [
+      [
+       "La travesía, durante la cual no veían tierra, duraba meses.",
+       "The voyage, during which they saw no land, lasted months."
+      ],
+      [
+       "Llegaron miles de asiáticos, muchos de los cuales habían sido esclavizados.",
+       "Thousands of Asians arrived, many of whom had been enslaved."
+      ]
+     ],
+     "gram": {
+      "id": "relativo-preposicion",
+      "ej": [
+       "The Manila Galleon was the thread <b>by which</b> Asia and America were tied together.",
+       "The return voyage, <b>during which</b> a ship might go six months without sighting land, was among the hardest in the world.",
+       "Drakes Bay, <b>on whose</b> shores fragments of its porcelain still wash up today.",
+       "Thousands of Asians came, <b>many of whom</b> had been enslaved."
+      ],
+      "q": [
+       {
+        "q": "Acapulco held a great fair, ___ merchants bought Asian goods.",
+        "o": [
+         "at which",
+         "which",
+         "at that"
+        ],
+        "ok": 0
+       },
+       {
+        "q": "The sailors, most ___ were Filipinos, were paid less.",
+        "o": [
+         "of who",
+         "of whom",
+         "of which"
+        ],
+        "ok": 1
+       }
+      ]
+     },
+     "audio": "audio/en-manila-hard.mp3",
+     "s": 136,
+     "t": [
+      0.0,
+      15.06,
+      31.02,
+      44.1,
+      57.12,
+      73.3,
+      86.5,
+      97.62,
+      113.3,
+      128.33
+     ]
+    }
+   }
   }
  ],
  "gram": {
