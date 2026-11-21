@@ -8705,7 +8705,9 @@
   },
   "des-tornaviaje": {
    "viva": "img/vivas/des-tornaviaje.mp4",
-   "viva_tipo": "gemini"
+   "viva_tipo": "gemini",
+   "dg": 86,
+   "voz_dg": "Algieba"
   }
  }
 }
