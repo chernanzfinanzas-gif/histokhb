@@ -138,6 +138,14 @@ def limpia_bordes(w):
     if n<200: return w
     e=np.sqrt((x[:n*h].reshape(n,h)**2).mean(1)); T=len(x)/24000
     idx=[i for i in range(n-120,n) if e[i]>0.15]
+    # 21-nov-2026: una «s» final («Samar») también tiene mucho agudo y se cortaba la palabra. Solo es chasquido si
+    # justo antes ya no hay voz (energía de toda la banda baja en los 100 ms previos).
+    if idx:
+        rawf=subprocess.run(['ffmpeg','-v','error','-i',w,'-ac','1','-ar','24000','-af','lowpass=f=3000','-f','s16le','-'],capture_output=True).stdout
+        xf=np.frombuffer(rawf,np.int16).astype(np.float32)/32768; nf=len(xf)//h
+        ef=np.sqrt((xf[:nf*h].reshape(nf,h)**2).mean(1))
+        i0=idx[0]
+        if ef[max(0,i0-20):i0].mean()>0.02: idx=[]
     cut=idx[0]*0.005-0.02 if idx else T
     subprocess.run(['ffmpeg','-v','error','-y','-i',w,'-t',f'{cut:.3f}','-af',f'afade=t=in:d=0.015,afade=t=out:st={max(0,cut-0.03):.3f}:d=0.03','-c:a','pcm_s16le',o],check=True)
     return o
