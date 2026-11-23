@@ -513,6 +513,9 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 /* logo de la cabecera (concha de Ammo) */
 .brand .brlogo{width:34px;height:34px;margin-right:8px;align-self:center;flex:0 0 auto}
 @media(max-width:480px){.brand{display:grid;grid-template-columns:auto auto;grid-template-rows:auto auto;column-gap:7px;align-items:center}.brand .brlogo{grid-row:1/3;width:36px;height:36px;margin:0}.brand .brand2{grid-column:2}}
+.ingdias{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;margin:10px 0 6px}.ingdias button{border:1px solid var(--line,#ccc);background:var(--card,#fff);color:inherit;border-radius:10px;padding:6px 4px;font:inherit;font-size:12px;line-height:1.2;cursor:pointer}.ingdias button b{display:block;font-size:13px}.ingdias button span{opacity:.75}.ingdias button.on{background:var(--accent,#b8860b);color:#fff;border-color:transparent}
+#ingBox[data-dia="1"] [data-dia]:not([data-dia="1"]),#ingBox[data-dia="2"] [data-dia]:not([data-dia="2"]),#ingBox[data-dia="3"] [data-dia]:not([data-dia="3"]){display:none}
+#ingBox[data-dia="0"] .ingsig{display:none}.ingsig{text-align:center;margin:14px 0;padding:12px;border:1px dashed var(--line,#ccc);border-radius:12px}.ingsig p{margin:0 0 8px}
 </style><script>window.goatcounter={no_onload:true};window.gcQ=[];</script>
 <script data-goatcounter="https://historiareal.goatcounter.com/count" async src="//gc.zgo.at/count.js" onload="(window.gcQ||[]).splice(0).forEach(x=>goatcounter.count(x))"></script>
 </head>
@@ -2017,13 +2020,17 @@ const ingT=()=>ING.temas.find(t=>t.id===IG.t), ingN=()=>ingT().niveles[IG.k], in
 const ING_K={easy:'🌱 Aprendiendo',medium:'📘 Básicos',hard:'🎓 Grandes'};
 function ingPinta(){const T=ingT(),n=ingN(); ingPara();
  const LAB={0:0,1:1,3:2,4:3,G:'G',5:4,6:5,7:6};   // id interno → número que se ve (el 1 y el 2 van juntos desde el 10-nov)
- const paso=(i,t,s,body)=>`<div class="ingp" id="ip${i}"><div class="ingh"><span class="ingn${i===7?' fin':''}${i==='G'?' gram':''}">${LAB[i]}</span><b>${t}</b><span class="ingok" id="ipb${i}"></span></div><p class="ings">${s}</p>${body}</div>`;
+ const DIA={0:1,1:1,3:1,4:1,G:2,5:3,6:3,7:3};
+ const paso=(i,t,s,body)=>`<div class="ingp" id="ip${i}" data-dia="${DIA[i]}"><div class="ingh"><span class="ingn${i===7?' fin':''}${i==='G'?' gram':''}">${LAB[i]}</span><b>${t}</b><span class="ingok" id="ipb${i}"></span></div><p class="ings">${s}</p>${body}</div>`;
  let h=`<div class="sec-t" style="margin-top:6px"><a href="#/ingles" style="color:inherit">🎧 Inglés con historia</a></div>
 ${(T.lam||T.viva)?`<div class="ingill">${T.viva&&!(navigator.connection&&navigator.connection.saveData)&&!matchMedia('(prefers-reduced-motion: reduce)').matches?`<video src="${T.viva}" poster="${T.lam||''}" autoplay muted loop playsinline preload="metadata"></video>`:`<img src="${T.lam}" alt="" loading="lazy">`}</div>`:''}
  <div class="seg" id="ingSeg">${Object.keys(ING_K).map(k=>`<button data-k="${k}" class="${k===IG.k?'on':''}">${ING_K[k]}</button>`).join('')}</div>
  <div id="ingVozBox" class="ingvoz">Comprobando las voces…</div>
  <p class="ingmeta">${esc(n.et)} · ${n.fr.length} frases · ${n.s?`${Math.round(n.s/6)/10} min · voz ${esc(T.voz||'')}, acento ${T.acento==='American'?'americano':'británico'}`:'voz del navegador'}</p>
- <div class="ingptos" id="ingPtos"></div><p class="ingnota" style="text-align:center;margin-top:0">Haz los bloques que quieras y en el orden que quieras: cada uno terminado suma puntos.</p>`;
+ <div class="ingptos" id="ingPtos"></div>
+ <div class="ingdias" id="ingDias">${[[1,'Día 1','Escuchar y entender'],[2,'Día 2','Gramática'],[3,'Día 3','Escribir y hablar'],[0,'Todo','seguido']].map(([d,a,b])=>`<button data-d="${d}"><b>${a}</b><span>${b}</span></button>`).join('')}</div>
+ <p class="ingnota" style="text-align:center;margin-top:0" id="ingDiaNota"></p>
+ <div class="ingb" style="justify-content:center;margin:-4px 0 10px"><button class="btn sec" onclick="ingCuaderno()">🖨 Cuaderno de ejercicios</button></div>`;
  h+=paso(0,'Before you listen','Key words to help you understand the text · <i>Palabras clave para ayudarte a entender el texto</i>',
   `<h2 class="ingtit">${esc(T.tEN)}</h2><p class="ingsub">${esc(T.tES)}</p><div class="ingglos">${n.glos.map(([p,s])=>`<div><b>${esc(p)}</b> — ${esc(s)}</div>`).join('')}</div>`);
  h+=paso(1,'Listen with no text','Escucha sin leer, las veces que quieras, y luego contesta de qué iba.',
@@ -2033,11 +2040,13 @@ ${(T.lam||T.viva)?`<div class="ingill">${T.viva&&!(navigator.connection&&navigat
  h+=paso(3,'Listen and read','▶ oye una frase sola, ES la traduce y cualquier palabra pulsada te dice qué significa.',
   `${ingRep(4,'<button class="btn sec" id="ingEsB" onclick="ingEs()">Ver el castellano</button>')}<div id="ingTexto">${n.fr.map((f,i)=>`<p class="ingfr" data-i="${i}"><button class="ingpl" title="Oír la frase" onclick="ingOir(${i},4)">▶</button><span class="en">${ingPal(f[0],n)}</span><button class="ingtr" title="Traducir esta frase" onclick="this.parentNode.classList.toggle('abierta')">ES</button><span class="es">${esc(f[1])}</span></p>`).join('')}</div>`,1);
  h+=paso(4,'Now the details','Fechas, nombres y cifras. Distintas de las de antes.','<div id="ingDet"></div>',1);
+ h+=`<div class="ingsig" data-dia="1"><p>Hasta aquí el día 1. Mañana, la gramática.</p><button class="btn" onclick="ingDia(2,1)">Ir al día 2 →</button></div>`;
  const GC=n.gram&&(ING.gram||{})[n.gram.id]||{};
  const PV=T.pv;
  const HH=LS.get('hk_ing_hechas',{g:{},pv:{}}),gYa=n.gram&&HH.g&&HH.g[n.gram.id],pvYa=PV&&HH.pv&&HH.pv[PV.v];
  if(n.gram||PV)h+=paso('G','Grammar corner',`Una clase de gramática del temario · <a href="#/ingles/gramatica">ver todas las clases</a>`,(n.gram?`<h3 class="inggt">${esc(GC.t||'')}</h3><div class="ingya${gYa?' cerrado':''}">${gYa?`<p class="ingyat">✓ Ya hiciste esta clase el ${ingFecha(gYa)} <button class="btn sec" onclick="this.closest('.ingya').classList.remove('cerrado')">Repasar</button></p>`:''}<div class="ingyac"><p class="ingex">${GC.ex||''}</p><div class="ingej">${n.gram.ej.map(x=>`<p>${x}</p>`).join('')}</div><div id="ingGram"></div></div></div>`:'')+
   (PV?`<div class="ingpv ingya${pvYa?' cerrado':''}"><div class="et">Phrasal verb of the day · <i>el phrasal verb del día</i></div>${pvYa?`<p class="ingyat">✓ Ya aprendiste <b>${esc(PV.v)}</b> el ${ingFecha(pvYa)} <button class="btn sec" onclick="this.closest('.ingya').classList.remove('cerrado')">Repasar</button></p>`:''}<div class="ingyac"><h3>${esc(PV.v)} <button class="ingoir" onclick="ingHabla('${esc(PV.v)}')" title="Oírlo">🔊</button></h3><p class="ingpves">${esc(PV.es)}</p><p class="ingex">${PV.ex}</p><div class="ingej">${PV.ej.map(x=>`<p>${x}</p>`).join('')}</div><div id="ingPV"></div></div></div>`:''));
+ h+=`<div class="ingsig" data-dia="2"><p>Hasta aquí el día 2. Mañana, escribir y hablar.</p><button class="btn" onclick="ingDia(3,1)">Ir al día 3 →</button></div>`;
  h+=paso(5,'Shadowing','Oye una frase y repítela imitándola, sin pensar en la gramática.',
   `<div class="ingb"><button class="btn sec" onclick="ingOir(IG.fr,6)">▶ Oír la frase</button><button class="btn" onclick="ingRepite()">🎙 Repetirla</button><button class="btn sec" onclick="IG.fr=(IG.fr+1)%ingN().fr.length;ingFrase()">Otra frase →</button></div><p class="ingfrase" id="ingFr"></p><div class="ingcmp" id="ingFrCmp"></div>`,1);
  const minP={easy:25,medium:50,hard:80}[IG.k];
@@ -2050,7 +2059,33 @@ ${(T.lam||T.viva)?`<div class="ingill">${T.viva&&!(navigator.connection&&navigat
  h+=`<div class="inggancho"><p>${esc(n.gancho)}</p>${T.des?`<button class="btn" onclick="go('#/d/${T.des}')">Leer la historia completa en castellano →</button>`:''}</div>`;
  $('#ingBox').innerHTML=h;
  $('#ingSeg').querySelectorAll('button').forEach(b=>b.onclick=()=>{IG.k=b.dataset.k;IG.esc=0;IG.fr=0;LS.set('hk_ing_k',IG.k);ingPinta();});
+ $('#ingDias').querySelectorAll('button').forEach(b=>b.onclick=()=>ingDia(+b.dataset.d,1)); ingDia(ingDiaGuardado(),0);
  ingPreg('ingGist',n.gist,3); ingPreg('ingDet',n.det,n.gram?'G':5); if(n.gram)ingPreg('ingGram',n.gram.q,5); if(T.pv)ingPreg('ingPV',[T.pv.q],5); ingPtosUI(); if(LS.get('hk_ing_pref',false))ingPrefiero(true,1); ingFrase(); ingVozUI(); setTimeout(ingVozUI,700); ingTxtCarga();}
+// ---- estudio en tres días (23-nov-2026): 1 escuchar y entender, 2 gramática, 3 escribir y hablar; 0 = todo seguido ----
+const ING_DIAN={1:'Día 1 · unos 10-15 minutos: escucha la historia y contesta.',2:'Día 2 · unos 10 minutos: la clase de gramática y el phrasal verb.',3:'Día 3 · unos 15 minutos: repite frases, escribe la historia y léela en voz alta.',0:'Todo seguido: haz los bloques que quieras y en el orden que quieras.'};
+function ingDiaGuardado(){const v=LS.get('hk_ing_dia',{})[IG.t+'-'+IG.k];return v===undefined?1:v;}
+function ingDia(d,guarda){const box=$('#ingBox');if(!box)return;box.dataset.dia=d;
+ box.querySelectorAll('#ingDias button').forEach(b=>b.classList.toggle('on',+b.dataset.d===d));
+ const nt=$('#ingDiaNota');if(nt)nt.textContent=ING_DIAN[d];
+ if(guarda){const A=LS.get('hk_ing_dia',{});A[IG.t+'-'+IG.k]=d;LS.set('hk_ing_dia',A);const p=$('#ingDias');if(p)p.scrollIntoView({behavior:'smooth',block:'start'});}}
+function ingCuaderno(){const T=ingT(),n=ingN(),GC=n.gram&&(ING.gram||{})[n.gram.id]||{},PV=T.pv;
+ const preg=(L)=>(L||[]).map((q,i)=>`<li>${esc(q.q)}<ol type="a">${q.o.map(o=>`<li>${esc(o)}</li>`).join('')}</ol></li>`).join('');
+ const sol=[...(n.gist||[]),...(n.det||[]),...((n.gram&&n.gram.q)||[]),...(PV?[PV.q]:[])].map((q,i)=>`${i+1}: ${'abcd'[q.ok]}`).join(' · ');
+ const lin=k=>'<div class="lin"></div>'.repeat(k);
+ const w=window.open('','_blank');if(!w){return;}
+ w.document.write(`<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Cuaderno · ${esc(T.tEN)}</title><style>
+ body{font:15px/1.5 Georgia,serif;color:#222;max-width:760px;margin:24px auto;padding:0 16px;background:#fff}h1{font-size:22px;margin:0}h2{font-size:17px;border-bottom:2px solid #b8860b;padding-bottom:3px;margin-top:26px}
+ .sub{color:#666;margin:2px 0 14px}.lin{border-bottom:1px solid #999;height:26px}.glos div{display:inline-block;width:48%;margin:2px 0}ol ol{margin:4px 0 8px}li{margin:4px 0}
+ .ej p{margin:4px 0;padding-left:10px;border-left:3px solid #ddd}.sol{font-size:12px;color:#666;margin-top:30px;transform:rotate(180deg);text-align:right}.no{margin:14px 0}@media print{.no{display:none}h2{break-after:avoid}}
+ </style></head><body><p class="no"><button onclick="print()">🖨 Imprimir o guardar en PDF</button></p>
+ <h1>${esc(T.tEN)}</h1><p class="sub">${esc(T.tES)} · ${esc(n.et)} · historiatotal.es</p>
+ <h2>Día 1 · Escuchar y entender</h2><p><b>Key words</b></p><div class="glos">${n.glos.map(([a,b])=>`<div><b>${esc(a)}</b> — ${esc(b)}</div>`).join('')}</div>
+ <p><b>What was it about?</b></p><ol>${preg(n.gist)}</ol><p><b>Now the details</b></p><ol start="${(n.gist||[]).length+1}">${preg(n.det)}</ol>
+ <h2>Día 2 · Gramática</h2>${n.gram?`<p><b>${esc(GC.t||'')}</b></p><div>${GC.ex||''}</div><div class="ej">${n.gram.ej.map(x=>`<p>${x}</p>`).join('')}</div><ol start="${(n.gist||[]).length+(n.det||[]).length+1}">${preg(n.gram.q)}</ol>`:''}
+ ${PV?`<p><b>Phrasal verb: ${esc(PV.v)}</b> — ${esc(PV.es)}</p><div>${PV.ex}</div><div class="ej">${PV.ej.map(x=>`<p>${x}</p>`).join('')}</div><ol start="${(n.gist||[]).length+(n.det||[]).length+((n.gram&&n.gram.q)||[]).length+1}">${preg([PV.q])}</ol>`:''}
+ <h2>Día 3 · Escribir y hablar</h2><p><b>Translate into English</b></p>${(n.trad||[]).map((t,j)=>`<p>${j+1}. ${esc(t[0])}</p>${lin(2)}`).join('')}
+ <p><b>Tell the story in your own words</b> (lee después tu texto en voz alta en la app y mira cuánto te entiende)</p>${lin(10)}
+ <p class="sol">Soluciones · ${sol}</p></body></html>`);w.document.close();}
 // ---- lo que escribe el alumno: se guarda solo (en el aparato y, si tiene código, en el hosting con su código) ----
 function ingTxtCarga(){const c=IG.t+'-'+IG.k,g=(LS.get('hk_ing_txt',{})[c])||{},minP=$('#ingCuenta')?+($('#ingCuenta').textContent.match(/de (\d+)/)||[0,0])[1]:0;
  document.querySelectorAll('#ingBox textarea.ingta').forEach(a=>{const id=a.id.replace('ingMio','')||'m';if(g[id]){a.value=g[id];if(id==='m'&&minP)ingCuenta(minP);}

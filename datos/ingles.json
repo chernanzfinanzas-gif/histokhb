@@ -6476,17 +6476,20 @@
   "pasado-continuo": {
    "n": "easy",
    "t": "El pasado continuo",
-   "r": "they were sailing when…"
+   "r": "they were sailing when…",
+   "ex": "Cuenta lo que estaba pasando en un momento del pasado: <b>was / were + -ing</b>. <i>The girl was playing in the cave</i> (estaba jugando). Muchas veces va junto a otra acción corta en pasado simple que la interrumpe: <i>while she was playing, she saw the bisons</i>."
   },
   "there-was": {
    "n": "easy",
    "t": "There is / there was (hay, había)",
-   "r": "there were twenty-two children"
+   "r": "there were twenty-two children",
+   "ex": "<b>There is / there are</b> es «hay»; en pasado, <b>there was</b> (con singular) y <b>there were</b> (con plural): <i>there was a cave</i>, había una cueva; <i>there were many bones</i>, había muchos huesos. Pregunta: <i>Was there…?</i>; negativa: <i>there wasn't…</i>."
   },
   "preguntas-did": {
    "n": "easy",
    "t": "Preguntas y negativas en pasado con did",
-   "r": "Did he…? He didn't…"
+   "r": "Did he…? He didn't…",
+   "ex": "En pasado, las preguntas y las negativas se hacen con <b>did</b>, y el verbo vuelve a su forma básica: <i>he spoke</i> → <i><b>did</b> he <b>speak</b>?</i> / <i>he <b>didn't speak</b></i>. Nunca <i>didn't spoke</i>. Para contestar corto: <i>Yes, he did. / No, he didn't.</i> El verbo <b>to be</b> va sin did: <i>was he…?</i>, <i>he wasn't…</i>"
   },
   "can-could": {
    "n": "easy",
@@ -6506,7 +6509,8 @@
   "comparativos": {
    "n": "easy",
    "t": "Comparativos y superlativos",
-   "r": "bigger, the biggest, more important"
+   "r": "bigger, the biggest, more important",
+   "ex": "Para comparar dos cosas, los adjetivos cortos añaden <b>-er</b> y van con <b>than</b>: <i>bigger than</i>, <i>faster than</i>. Los largos llevan <b>more</b>: <i>more dangerous than</i>. Para decir «el más» se usa <b>the</b> + <b>-est</b> o <b>the most</b>: <i>the biggest ship</i>, <i>the most famous battle</i>. Irregulares: <i>good → better → the best</i>, <i>bad → worse → the worst</i>."
   },
   "adverbios-frecuencia": {
    "n": "easy",
@@ -6521,7 +6525,8 @@
   "cantidades": {
    "n": "easy",
    "t": "Much, many, a few, a lot of, some, any",
-   "r": "many people, a few days"
+   "r": "many people, a few days",
+   "ex": "<b>much</b> con lo que no se cuenta (<i>much food</i>) y <b>many</b> con lo que se cuenta (<i>many sailors</i>); <b>a lot of</b> vale para los dos. <b>a few</b> = unos pocos (contables) y <b>a little</b> = un poco (incontables). <b>some</b> en frases afirmativas y <b>any</b> en preguntas y negativas: <i>they didn't have any food</i>."
   },
   "contables": {
    "n": "easy",
@@ -6531,12 +6536,14 @@
   "prep-tiempo": {
    "n": "easy",
    "t": "In, on, at con fechas y horas",
-   "r": "in 1803, on 30 November, at night"
+   "r": "in 1803, on 30 November, at night",
+   "ex": "<b>in</b> con años, meses, estaciones y siglos (<i>in 1789</i>, <i>in July</i>, <i>in the 18th century</i>); <b>on</b> con días y fechas (<i>on Monday</i>, <i>on 30 July</i>); <b>at</b> con horas y momentos concretos (<i>at noon</i>, <i>at night</i>, <i>at the end</i>). Para duraciones: <b>for</b> (<i>for five years</i>) y <b>during</b> (<i>during the voyage</i>)."
   },
   "prep-lugar": {
    "n": "easy",
    "t": "Preposiciones de lugar y movimiento",
-   "r": "on board, across the sea, to America"
+   "r": "on board, across the sea, to America",
+   "ex": "<b>in</b> dentro de un sitio (<i>in Mexico</i>, <i>in the ship</i>); <b>on</b> sobre una superficie o a bordo (<i>on board</i>, <i>on the island</i>); <b>at</b> en un punto concreto (<i>at the port</i>). Para el movimiento: <b>from … to</b> (de… a), <b>across</b> (cruzando), <b>up to</b> (subiendo hasta), <b>into</b> (hacia dentro)."
   },
   "conectores-basicos": {
    "n": "easy",
@@ -6622,7 +6629,8 @@
   "used-to": {
    "n": "medium",
    "t": "Used to: costumbres del pasado",
-   "r": "people used to die of smallpox"
+   "r": "people used to die of smallpox",
+   "ex": "<b>used to</b> + verbo cuenta lo que se hacía habitualmente en el pasado y ya no: <i>the galleon used to leave in July</i> (solía salir). Pregunta y negativa con <b>did</b> y sin la -d: <i>did it use to stop?</i>, <i>it didn't use to stop</i>. No confundir con <i>be used to</i>, estar acostumbrado."
   },
   "was-going-to": {
    "n": "medium",
@@ -6637,12 +6645,14 @@
   "pasiva-simple": {
    "n": "medium",
    "t": "La pasiva sencilla",
-   "r": "was built, were vaccinated"
+   "r": "was built, were vaccinated",
+   "ex": "La pasiva pone delante lo que recibe la acción, no a quien la hace: <b>was / were + participio</b>. <i>Nelson was killed</i> (mataron a Nelson). Si queremos decir quién lo hizo, se añade <b>by</b>: <i>the ship was sunk by the British</i>. En castellano muchas veces se traduce con «se»: <i>the fleet was destroyed</i>, se destruyó la flota."
   },
   "relativos": {
    "n": "medium",
    "t": "Who, which, that, where, whose",
-   "r": "a doctor who…, the ship that…"
+   "r": "a doctor who…, the ship that…",
+   "ex": "Para unir dos frases sin repetir: <b>who</b> para personas (<i>the man who found it</i>), <b>which</b> para cosas (<i>the cave which…</i>), <b>that</b> vale para las dos en lenguaje corriente, <b>where</b> para lugares (<i>the hill where they dug</i>) y <b>whose</b> para «cuyo» (<i>a boy whose bones…</i>)."
   },
   "condicional-1-2": {
    "n": "medium",
@@ -6662,7 +6672,8 @@
   "gerundio-infinitivo": {
    "n": "medium",
    "t": "Gerundio o infinitivo después de un verbo",
-   "r": "stopped trying / decided to go"
+   "r": "stopped trying / decided to go",
+   "ex": "Unos verbos van seguidos de <b>to</b> + verbo: <i>decide to</i>, <i>refuse to</i>, <i>offer to</i>, <i>pretend to</i>, <i>manage to</i>, <i>want to</i>. Otros, de la forma <b>-ing</b>: <i>keep</i>, <i>stop</i>, <i>enjoy</i>, <i>avoid</i>, <i>give up</i>. Y después de preposición, siempre -ing: <i>instead of giving up</i>. No hay regla fija: se aprenden con el verbo."
   },
   "verbos-preposicion": {
    "n": "medium",
@@ -6707,7 +6718,8 @@
   "conectores-b1": {
    "n": "medium",
    "t": "Conectores: however, although, while, as a result",
-   "r": "although it was dangerous…"
+   "r": "although it was dangerous…",
+   "ex": "Para unir ideas: <b>however</b> (sin embargo), al principio de frase y con coma; <b>although</b> (aunque), que une dos partes de la misma frase; <b>while</b> (mientras, o en cambio); <b>as a result</b> (como resultado, por eso). <i>Although they were few, they arrived. However, the ship was broken.</i>"
   },
   "reflexivos": {
    "n": "medium",
@@ -6727,7 +6739,8 @@
   "finalidad": {
    "n": "medium",
    "t": "To e in order to: para qué",
-   "r": "to carry the vaccine"
+   "r": "to carry the vaccine",
+   "ex": "Para decir «para qué», el inglés usa <b>to</b> + verbo: <i>they sailed to study the plants</i> (para estudiar). Más formal: <b>in order to</b>. Ojo: no se dice <i>for to study</i>. Con un nombre sí va <b>for</b>: <i>for science</i>, <i>for the King</i>."
   },
   "grado": {
    "n": "medium",
@@ -6742,7 +6755,8 @@
   "estilo-indirecto-basico": {
    "n": "medium",
    "t": "Estilo indirecto sencillo",
-   "r": "the King said that…"
+   "r": "the King said that…",
+   "ex": "Para contar lo que alguien dijo, el verbo suele dar un paso atrás en el tiempo: <i>«It is old»</i> → <i>he said that it <b>was</b> old</i>. <i>«I found it»</i> → <i>she said that she <b>had found</b> it</i>. Con <b>say</b> no hace falta decir a quién; con <b>tell</b> sí: <i>he told them that…</i>"
   },
   "pasado-perfecto": {
    "n": "hard",
@@ -6763,7 +6777,8 @@
   "condicional-3": {
    "n": "hard",
    "t": "El tercer condicional",
-   "r": "if it had been sent…, it would have…"
+   "r": "if it had been sent…, it would have…",
+   "ex": "Para imaginar un pasado distinto del que fue: <b>if + had + participio</b>, y en la otra parte <b>would have + participio</b>. <i>If the wind had changed, they would have escaped</i>: si el viento hubiera cambiado, habrían escapado. Es siempre algo que NO pasó."
   },
   "condicional-mixto": {
    "n": "hard",
@@ -6778,7 +6793,8 @@
   "modales-pasado": {
    "n": "hard",
    "t": "Must have, could have, should have",
-   "r": "must have known, could have died"
+   "r": "must have known, could have died",
+   "ex": "Para opinar sobre el pasado: <b>must have + participio</b>, casi seguro que sí (<i>they must have used torches</i>); <b>could have</b> / <b>might have</b>, es posible (<i>it could have been a ritual</i>); <b>can't have</b>, imposible (<i>it can't have been easy</i>); <b>should have</b>, debería haber (<i>they should have believed him</i>)."
   },
   "deduccion": {
    "n": "hard",
@@ -6788,7 +6804,8 @@
   "pasiva-compleja": {
    "n": "hard",
    "t": "La pasiva de opinión: it is said that…",
-   "r": "is thought to have…, was believed to…"
+   "r": "is thought to have…, was believed to…",
+   "ex": "Para contar lo que se dice o se cree sin decir quién: <b>it is said that…</b>, <b>it is believed that…</b> (se dice que, se cree que). Otra forma más elegante: <b>he is said to be…</b>, <b>they are thought to have lived…</b> En pasado: <i>it was thought that…</i>. Muy útil en historia, cuando las fuentes no son seguras."
   },
   "causativa": {
    "n": "hard",
@@ -6803,7 +6820,8 @@
   "frases-participio": {
    "n": "hard",
    "t": "Frases de participio",
-   "r": "Having served in…, Born in…"
+   "r": "Having served in…, Born in…",
+   "ex": "Una frase con participio resume otra entera: <b>-ing</b> si es activa y a la vez (<i>leaving Seville, they sailed south</i> = cuando salieron de Sevilla…); <b>having + participio</b> si pasó antes (<i>having lost the ship, they…</i>); y el participio solo si es pasiva (<i>built in 1519, the ship…</i> = construida en 1519…). El sujeto tiene que ser el mismo en las dos partes."
   },
   "estilo-indirecto": {
    "n": "hard",
@@ -6813,7 +6831,8 @@
   "verbos-reporte": {
    "n": "hard",
    "t": "Verbos para contar lo que se dijo",
-   "r": "claimed, denied, insisted, admitted"
+   "r": "claimed, denied, insisted, admitted",
+   "ex": "Para contar lo que alguien dijo, <i>said</i> se queda corto. <b>claim</b> (asegurar, afirmar sin pruebas), <b>insist</b> (insistir), <b>admit</b> (reconocer), <b>deny</b> (negar), <b>warn</b> (avisar). Casi todos van con <b>that</b>: <i>he claimed that the attack would come at Calais</i>. Algunos admiten -ing: <i>he denied meeting him</i>, <i>he admitted being wrong</i>."
   },
   "inversion": {
    "n": "hard",
@@ -6873,7 +6892,8 @@
   "was-to": {
    "n": "hard",
    "t": "Was to: el destino en el pasado",
-   "r": "he was to die in…"
+   "r": "he was to die in…",
+   "ex": "<b>Was / were to</b> + verbo cuenta lo que iba a pasar después, visto desde el pasado, como un destino: <i>he was to die in prison</i> (moriría en prisión). Muy de libro de historia. Con <b>have</b>: <i>was never to return</i>, nunca volvería."
   },
   "conectores-c1": {
    "n": "hard",
@@ -6893,7 +6913,8 @@
   "relativo-preposicion": {
    "n": "hard",
    "t": "Relativos con preposición: in which, by whom",
-   "r": "the method by which…"
+   "r": "the method by which…",
+   "ex": "En inglés formal la preposición va delante del relativo: <b>in which</b> (en el que), <b>by which</b> (por el que), <b>during which</b> (durante el cual), <b>of whom</b> (de los cuales, personas), <b>on whose</b> (en cuyo). <i>The voyage during which they saw no land.</i> En lenguaje corriente la preposición se va al final: <i>the ship they sailed in</i>."
   }
  }
 }
