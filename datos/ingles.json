@@ -5584,6 +5584,841 @@
      ]
     }
    }
+  },
+  {
+   "id": "garbo",
+   "des": "des-garbo",
+   "tEN": "Garbo: The Spy Who Fooled Hitler",
+   "tES": "Garbo, el espía que engañó a Hitler",
+   "fecha": "1941-1944",
+   "lam": "img/laminas/des-garbo.webp",
+   "viva": "img/vivas/des-garbo.mp4",
+   "pv": {
+    "v": "make up",
+    "es": "inventar (una historia, una excusa, unos datos)",
+    "ex": "<i>Make</i> es «hacer», pero <b>make up</b> es «inventar algo que no es verdad»: <i>he made up an excuse</i> (se inventó una excusa). Lo inventado es <b>made-up</b>: <i>a made-up name</i>, un nombre inventado.",
+    "ej": [
+     "He <b>made up</b> his reports with a tourist guide and a map.",
+     "Little by little he <b>made up</b> a network of twenty-seven agents."
+    ],
+    "q": {
+     "q": "«She made up a story» significa…",
+     "o": [
+      "Se maquilló para contar una historia",
+      "Se inventó una historia",
+      "Terminó una historia"
+     ],
+     "ok": 1
+    }
+   },
+   "voz": "Charon",
+   "acento": "American",
+   "dic": {
+    "abwehr": "Abwehr (servicio secreto militar alemán)",
+    "accept": "aceptar",
+    "accepted": "aceptaron",
+    "actor": "actor",
+    "actress": "actriz",
+    "admire": "admirar",
+    "admirer": "admirador",
+    "admitted": "reconoció",
+    "after": "después de; (named after: llamado así por)",
+    "against": "contra",
+    "agent": "agente",
+    "agents": "agentes",
+    "allied": "aliado",
+    "already": "ya",
+    "approached": "se dirigió a",
+    "april": "abril",
+    "armoured": "blindado",
+    "attack": "ataque",
+    "away": "give away: delatar",
+    "barcelona": "Barcelona",
+    "barcelona-born": "nacido en Barcelona",
+    "became": "se hizo, se convirtió en",
+    "believed": "creyó, creyeron",
+    "berlin": "Berlín",
+    "best": "el mejor",
+    "big": "grande",
+    "blow": "golpe",
+    "born": "nacido (was born: nació)",
+    "both": "los dos, ambos",
+    "britain": "Gran Bretaña",
+    "british": "británico",
+    "brought": "trajeron, llevaron",
+    "build": "construir, montar",
+    "calais": "Calais (puerto francés frente a Inglaterra)",
+    "called": "llamaron",
+    "case": "caso (case officer: oficial de caso)",
+    "chicken": "pollo",
+    "cinema": "cine",
+    "civil": "civil",
+    "claimed": "aseguró, afirmó",
+    "claiming": "asegurando",
+    "code-named": "con nombre en clave",
+    "come": "venir, llegar",
+    "command": "mando",
+    "communism": "comunismo",
+    "convinced": "convencido",
+    "counting": "contando",
+    "cross": "cruz (Iron Cross: Cruz de Hierro)",
+    "d-day": "el Día D (6 de junio de 1944)",
+    "day": "día",
+    "days": "días",
+    "decided": "decidió",
+    "decimal": "decimal",
+    "didn't": "no (en pasado: didn't like, no le gustaba)",
+    "died": "murió",
+    "disappear": "desaparecer",
+    "discovered": "descubrieron",
+    "diversion": "maniobra de distracción",
+    "divisions": "divisiones",
+    "double": "doble (double agent: agente doble)",
+    "down": "turn down: rechazar",
+    "eighteen": "dieciocho",
+    "embassy": "embajada",
+    "emerged": "salió",
+    "empire": "imperio",
+    "english": "inglés",
+    "even": "incluso, hasta",
+    "exist": "existir",
+    "expected": "esperaban (que)",
+    "faces": "caras",
+    "fall": "caer",
+    "farmer": "granjero, encargado de granja",
+    "fervent": "ferviente",
+    "few": "pocos (a few: unos pocos)",
+    "fight": "luchar",
+    "garbo": "Garbo (nombre en clave, por la actriz Greta Garbo)",
+    "garcía": "García",
+    "gave": "dio",
+    "george": "Jorge (George VI: Jorge VI)",
+    "german": "alemán",
+    "germans": "alemanes",
+    "given": "dado (given him away: haberle delatado)",
+    "giving": "give up: rendirse",
+    "go": "ir",
+    "going": "was going to: iba a",
+    "greatest": "el mayor, el más grande",
+    "greta": "Greta",
+    "guide": "guía",
+    "guidebooks": "guías de viaje",
+    "halting": "deteniendo",
+    "harris": "Harris (Tomás Harris, su oficial de caso)",
+    "high": "alto (high command: alto mando)",
+    "him": "le, a él",
+    "historian": "historiador",
+    "hitler": "Hitler",
+    "hours": "horas",
+    "if": "si (as if: como si)",
+    "illness": "enfermedad",
+    "imaginary": "imaginario",
+    "insisting": "insistiendo, asegurando",
+    "instead": "en su lugar (instead of: en vez de)",
+    "invasion": "invasión",
+    "invented": "inventado",
+    "iron": "hierro",
+    "join": "entrar en, unirse a",
+    "juan": "Juan",
+    "june": "junio",
+    "kept": "siguió (kept writing: siguió escribiendo)",
+    "king": "rey",
+    "landings": "desembarco",
+    "later": "más tarde, después",
+    "letters": "cartas",
+    "lie": "mentira",
+    "like": "gustar",
+    "lisbon": "Lisboa",
+    "little": "poco (little by little: poco a poco)",
+    "lived": "vivía",
+    "london": "Londres",
+    "made": "hizo (made up: se inventó)",
+    "madrid": "Madrid",
+    "main": "principal",
+    "man": "hombre",
+    "managed": "consiguió (managed to: logró)",
+    "manager": "gerente",
+    "many": "muchos",
+    "map": "mapa",
+    "maps": "mapas",
+    "mbe": "MBE (Miembro de la Orden del Imperio Británico)",
+    "medal": "medalla",
+    "member": "miembro",
+    "merely": "solo, simplemente",
+    "mi": "MI5 (servicio de seguridad británico)",
+    "military": "militar",
+    "mistakes": "errores",
+    "money": "dinero",
+    "months": "meses",
+    "nazis": "nazis",
+    "nazism": "nazismo",
+    "network": "red",
+    "never": "nunca",
+    "newsreels": "noticiarios",
+    "normandy": "Normandía",
+    "offered": "se ofreció",
+    "officer": "oficial",
+    "official": "oficial",
+    "once": "una vez que, cuando",
+    "order": "orden",
+    "paid": "pagó",
+    "paying": "pagar (stopped paying: dejaron de pagar)",
+    "pension": "pensión",
+    "pretended": "fingió",
+    "pujol": "Pujol",
+    "railway": "ferrocarril",
+    "real": "verdadero, de verdad",
+    "realised": "se dieron cuenta",
+    "really": "en realidad",
+    "received": "recibió",
+    "refused": "se negaron",
+    "reich": "Reich (el Estado alemán nazi)",
+    "reported": "informó",
+    "reports": "informes",
+    "ring": "red (spy ring: red de espías)",
+    "road": "carretera (road map: mapa de carreteras)",
+    "s": "'s: de (MI5's: del MI5)",
+    "secret": "secreto",
+    "sent": "enviaron, mandaron",
+    "service": "servicio",
+    "settled": "se instaló",
+    "spanish": "español",
+    "speak": "hablar",
+    "spy": "espía",
+    "spy ring": "red de espías",
+    "stayed": "se quedaron",
+    "stop": "detener, parar",
+    "stopped": "dejaron de",
+    "timetables": "horarios",
+    "together": "juntos",
+    "told": "contó, dijo",
+    "tomás": "Tomás",
+    "took": "llevaron",
+    "tourist": "turístico",
+    "training": "formación, entrenamiento",
+    "travel": "viajar",
+    "troops": "tropas",
+    "turned": "turned down: rechazado",
+    "twenty-seven": "veintisiete",
+    "twice": "dos veces",
+    "tyranny": "tiranía",
+    "vi": "sexto (George VI)",
+    "voice": "voz",
+    "want": "querer",
+    "wanted": "quería",
+    "war": "guerra",
+    "warned": "avisó",
+    "way": "manera (in his own way: a su manera)",
+    "weeks": "semanas",
+    "went": "fue",
+    "widow": "viuda",
+    "word": "palabra",
+    "work": "trabajar",
+    "world": "mundo",
+    "writing": "escribiendo",
+    "wrote": "escribió",
+    "yet": "sin embargo, pero"
+   },
+   "niveles": {
+    "easy": {
+     "et": "Aprendiendo inglés",
+     "vel": "0.8",
+     "fr": [
+      [
+       "Juan Pujol was born in Barcelona in 1912.",
+       "Juan Pujol nació en Barcelona en 1912."
+      ],
+      [
+       "He didn't like Hitler, and he wanted to stop him.",
+       "No le gustaba Hitler y quería detenerlo."
+      ],
+      [
+       "In 1941 he went to the British embassy in Madrid and offered to be a spy.",
+       "En 1941 fue a la embajada británica en Madrid y se ofreció como espía."
+      ],
+      [
+       "The British didn't want him.",
+       "Los británicos no le quisieron."
+      ],
+      [
+       "So he became a spy for the Germans, but he was really against them.",
+       "Así que se hizo espía de los alemanes, pero en realidad estaba contra ellos."
+      ],
+      [
+       "The Germans sent him to Britain, but he didn't go there.",
+       "Los alemanes le mandaron a Gran Bretaña, pero él no fue."
+      ],
+      [
+       "He lived in Lisbon and he made up his reports with a tourist guide and a map.",
+       "Vivía en Lisboa y se inventaba los informes con una guía turística y un mapa."
+      ],
+      [
+       "He didn't speak English, but the Germans believed him.",
+       "No hablaba inglés, pero los alemanes le creyeron."
+      ],
+      [
+       "Later the British took him to London and called him Garbo.",
+       "Más tarde los británicos le llevaron a Londres y le llamaron Garbo."
+      ],
+      [
+       "In June 1944 he told the Germans a big lie about the Allied invasion.",
+       "En junio de 1944 contó a los alemanes una gran mentira sobre la invasión aliada."
+      ],
+      [
+       "Hitler believed him and gave him a medal, and the British King gave him a medal too.",
+       "Hitler le creyó y le dio una medalla, y el rey británico también le dio una."
+      ]
+     ],
+     "glos": [
+      [
+       "spy",
+       "espía"
+      ],
+      [
+       "embassy",
+       "embajada"
+      ],
+      [
+       "offered",
+       "se ofreció"
+      ],
+      [
+       "against",
+       "contra"
+      ],
+      [
+       "reports",
+       "informes"
+      ],
+      [
+       "tourist guide",
+       "guía turística"
+      ],
+      [
+       "lie",
+       "mentira"
+      ],
+      [
+       "invasion",
+       "invasión"
+      ],
+      [
+       "medal",
+       "medalla"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "What is this story about?",
+       "o": [
+        "A Spanish spy who tricked the Germans",
+        "A German soldier in Barcelona",
+        "A British king in Madrid"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "Who believed Pujol's reports?",
+       "o": [
+        "Nobody",
+        "The Germans",
+        "Only his family"
+       ],
+       "ok": 1
+      }
+     ],
+     "det": [
+      {
+       "q": "Where did Pujol write his reports?",
+       "o": [
+        "In London",
+        "In Lisbon",
+        "In Berlin"
+       ],
+       "ok": 1
+      },
+      {
+       "q": "Did the British want him at first?",
+       "o": [
+        "Yes, they did",
+        "No, they didn't",
+        "The story doesn't say"
+       ],
+       "ok": 1
+      },
+      {
+       "q": "What did Hitler give him?",
+       "o": [
+        "A medal",
+        "A house",
+        "A car"
+       ],
+       "ok": 0
+      }
+     ],
+     "modelo": "Juan Pujol was a Spanish spy. The British didn't want him, so he worked for the Germans, but he was really against them. He lived in Lisbon and he made up his reports with a guide and a map. Later the British called him Garbo. In 1944 he told Hitler a big lie, and both sides gave him a medal.",
+     "gancho": "¿Cómo se inventó Garbo a veintisiete espías que no existían, y qué mentira cambió el Día D?",
+     "trad": [
+      [
+       "No hablaba inglés.",
+       "He didn't speak English."
+      ],
+      [
+       "¿Le creyeron los alemanes? Sí.",
+       "Did the Germans believe him? Yes, they did."
+      ]
+     ],
+     "gram": {
+      "id": "preguntas-did",
+      "ej": [
+       "He <b>didn't like</b> Hitler.",
+       "The British <b>didn't want</b> him.",
+       "The Germans sent him to Britain, but he <b>didn't go</b> there.",
+       "He <b>didn't speak</b> English, but the Germans believed him."
+      ],
+      "q": [
+       {
+        "q": "___ Pujol live in London in 1941?",
+        "o": [
+         "Did",
+         "Was",
+         "Does"
+        ],
+        "ok": 0
+       },
+       {
+        "q": "He didn't ___ English.",
+        "o": [
+         "spoke",
+         "speak",
+         "speaking"
+        ],
+        "ok": 1
+       }
+      ]
+     },
+     "audio": "audio/en-garbo-easy.mp3",
+     "s": 91,
+     "t": [
+      0.0,
+      9.3,
+      16.76,
+      28.05,
+      33.19,
+      41.8,
+      48.89,
+      58.05,
+      64.59,
+      71.88,
+      81.52
+     ]
+    },
+    "medium": {
+     "et": "Conocimientos básicos",
+     "vel": "0.9",
+     "fr": [
+      [
+       "Juan Pujol was born in Barcelona in 1912, and after the Spanish Civil War he decided to fight against Hitler in his own way.",
+       "Juan Pujol nació en Barcelona en 1912 y, después de la Guerra Civil española, decidió luchar contra Hitler a su manera."
+      ],
+      [
+       "In 1941 he offered to work for the British as a spy, but they refused to accept him.",
+       "En 1941 se ofreció a trabajar para los británicos como espía, pero se negaron a aceptarle."
+      ],
+      [
+       "Instead of giving up, he pretended to admire the Nazis and managed to join the German secret service.",
+       "En vez de rendirse, fingió admirar a los nazis y consiguió entrar en el servicio secreto alemán."
+      ],
+      [
+       "The Germans expected him to travel to Britain, but he settled in Lisbon.",
+       "Los alemanes esperaban que viajara a Gran Bretaña, pero él se instaló en Lisboa."
+      ],
+      [
+       "He made up his reports with a tourist guide, a road map and railway timetables.",
+       "Se inventaba los informes con una guía turística, un mapa de carreteras y horarios de trenes."
+      ],
+      [
+       "When the British discovered what he was doing, they brought him to London in 1942 and called him Garbo, after the actress Greta Garbo.",
+       "Cuando los británicos descubrieron lo que hacía, le llevaron a Londres en 1942 y le llamaron Garbo, por la actriz Greta Garbo."
+      ],
+      [
+       "Little by little he made up a network of twenty-seven agents who did not exist.",
+       "Poco a poco se inventó una red de veintisiete agentes que no existían."
+      ],
+      [
+       "He kept writing letters for up to eighteen hours a day, and the Germans never stopped paying his imaginary agents.",
+       "Siguió escribiendo cartas hasta dieciocho horas al día, y los alemanes nunca dejaron de pagar a sus agentes imaginarios."
+      ],
+      [
+       "On 9 June 1944, three days after the landings in Normandy, he warned the Germans that the real attack was going to come at Calais.",
+       "El 9 de junio de 1944, tres días después del desembarco de Normandía, avisó a los alemanes de que el ataque de verdad iba a llegar por Calais."
+      ],
+      [
+       "The German command believed him, and many troops stayed in Calais for weeks.",
+       "El mando alemán le creyó, y muchas tropas se quedaron semanas en Calais."
+      ],
+      [
+       "Hitler gave him the Iron Cross, and a few months later King George VI made him a member of the Order of the British Empire.",
+       "Hitler le dio la Cruz de Hierro, y pocos meses después el rey Jorge VI le hizo miembro de la Orden del Imperio Británico."
+      ]
+     ],
+     "glos": [
+      [
+       "refused",
+       "se negaron"
+      ],
+      [
+       "giving up",
+       "rendirse"
+      ],
+      [
+       "pretended",
+       "fingió"
+      ],
+      [
+       "managed to",
+       "consiguió"
+      ],
+      [
+       "settled",
+       "se instaló"
+      ],
+      [
+       "railway timetables",
+       "horarios de trenes"
+      ],
+      [
+       "network",
+       "red"
+      ],
+      [
+       "warned",
+       "avisó"
+      ],
+      [
+       "landings",
+       "desembarco"
+      ],
+      [
+       "Iron Cross",
+       "Cruz de Hierro"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "How did Pujol become a German spy?",
+       "o": [
+        "He pretended to admire the Nazis",
+        "The British sent him",
+        "He was born in Germany"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "What was his most important lie?",
+       "o": [
+        "That he lived in London",
+        "That the real attack would come at Calais",
+        "That Greta Garbo was a spy"
+       ],
+       "ok": 1
+      }
+     ],
+     "det": [
+      {
+       "q": "What did he use to make up his reports?",
+       "o": [
+        "Newspapers from Berlin",
+        "A tourist guide, a road map and train timetables",
+        "Letters from his family"
+       ],
+       "ok": 1
+      },
+      {
+       "q": "How many imaginary agents did he invent?",
+       "o": [
+        "Seven",
+        "Twenty-seven",
+        "Seventy"
+       ],
+       "ok": 1
+      },
+      {
+       "q": "When did he send the message about Calais?",
+       "o": [
+        "On 6 June 1944",
+        "On 9 June 1944",
+        "In December 1944"
+       ],
+       "ok": 1
+      }
+     ],
+     "modelo": "Juan Pujol decided to fight Hitler in his own way. The British refused to accept him, so he pretended to admire the Nazis and joined the German secret service. From Lisbon he made up reports and later a network of twenty-seven imaginary agents. In June 1944 he warned the Germans that the real attack was going to come at Calais, and they believed him.",
+     "gancho": "¿Cómo engañó Garbo a su muerte en 1949, y qué pasó cuando le encontraron en Venezuela?",
+     "trad": [
+      [
+       "Decidió luchar contra Hitler.",
+       "He decided to fight against Hitler."
+      ],
+      [
+       "Siguió escribiendo cartas.",
+       "He kept writing letters."
+      ]
+     ],
+     "gram": {
+      "id": "gerundio-infinitivo",
+      "ej": [
+       "He <b>decided to fight</b> against Hitler in his own way.",
+       "They <b>refused to accept</b> him.",
+       "He <b>pretended to admire</b> the Nazis and <b>managed to join</b> the German secret service.",
+       "He <b>kept writing</b> letters, and the Germans never <b>stopped paying</b> his imaginary agents."
+      ],
+      "q": [
+       {
+        "q": "He offered ___ for the British.",
+        "o": [
+         "working",
+         "to work",
+         "work"
+        ],
+        "ok": 1
+       },
+       {
+        "q": "He kept ___ letters every day.",
+        "o": [
+         "to writing",
+         "write",
+         "writing"
+        ],
+        "ok": 2
+       }
+      ]
+     },
+     "audio": "audio/en-garbo-medium.mp3",
+     "s": 101,
+     "t": [
+      0.0,
+      13.38,
+      22.55,
+      31.74,
+      38.39,
+      45.82,
+      57.3,
+      64.7,
+      73.99,
+      85.61,
+      92.37
+     ]
+    },
+    "hard": {
+     "et": "Grandes conocimientos",
+     "vel": "1",
+     "fr": [
+      [
+       "Juan Pujol García, a Barcelona-born chicken farmer and cinema manager with no military training, emerged from the Spanish Civil War convinced that Nazism and Communism were two faces of the same tyranny.",
+       "Juan Pujol García, barcelonés, encargado de una granja de pollos y gerente de un cine sin formación militar, salió de la Guerra Civil convencido de que el nazismo y el comunismo eran dos caras de la misma tiranía."
+      ],
+      [
+       "Turned down twice by the British embassy in Madrid in 1941, he approached the Abwehr instead, claiming to be a fervent admirer of the Reich.",
+       "Rechazado dos veces por la embajada británica en Madrid en 1941, se dirigió a la Abwehr, asegurando ser un ferviente admirador del Reich."
+      ],
+      [
+       "Sent to build a spy ring in Britain, he settled in Lisbon and made up his reports from guidebooks, maps and newsreels.",
+       "Enviado a montar una red de espías en Gran Bretaña, se instaló en Lisboa y se inventó los informes a partir de guías, mapas y noticiarios."
+      ],
+      [
+       "His mistakes, such as counting British money as if it were decimal, should have given him away, yet the Germans accepted every word.",
+       "Sus errores, como contar el dinero británico como si fuera decimal, deberían haberle delatado, pero los alemanes se lo creyeron todo."
+      ],
+      [
+       "Once MI5 realised who he was, they brought him to London in April 1942 and code-named him Garbo, insisting that he was the best actor in the world.",
+       "Cuando el MI5 se dio cuenta de quién era, le llevaron a Londres en abril de 1942 y le pusieron el nombre en clave de Garbo, porque aseguraban que era el mejor actor del mundo."
+      ],
+      [
+       "Together with his case officer, Tomás Harris, he wrote some 1,300 letters, each in the voice of one of twenty-seven imaginary agents.",
+       "Junto a su oficial de caso, Tomás Harris, escribió unas 1.300 cartas, cada una con la voz de uno de veintisiete agentes imaginarios."
+      ],
+      [
+       "When one of them had to disappear, Garbo reported that the man had died of an illness, and Berlin even paid a pension to his invented widow.",
+       "Cuando uno de ellos tenía que desaparecer, Garbo informaba de que había muerto de una enfermedad, y Berlín llegó a pagar una pensión a su viuda inventada."
+      ],
+      [
+       "On 9 June 1944, three days after D-Day, he warned that Normandy was merely a diversion and claimed that the main blow would fall at Calais.",
+       "El 9 de junio de 1944, tres días después del Día D, avisó de que Normandía era solo una maniobra de distracción y aseguró que el golpe principal caería en Calais."
+      ],
+      [
+       "The German high command believed him, halting armoured divisions already on their way to Normandy.",
+       "El alto mando alemán le creyó y detuvo divisiones blindadas que ya iban camino de Normandía."
+      ],
+      [
+       "He received both the Iron Cross and an MBE, and MI5's official historian later admitted that he had been the greatest double agent of the war.",
+       "Recibió la Cruz de Hierro y la MBE, y el historiador oficial del MI5 reconoció después que había sido el mayor agente doble de la guerra."
+      ]
+     ],
+     "glos": [
+      [
+       "emerged",
+       "salió"
+      ],
+      [
+       "tyranny",
+       "tiranía"
+      ],
+      [
+       "turned down",
+       "rechazado"
+      ],
+      [
+       "approached",
+       "se dirigió a"
+      ],
+      [
+       "fervent",
+       "ferviente"
+      ],
+      [
+       "spy ring",
+       "red de espías"
+      ],
+      [
+       "newsreels",
+       "noticiarios"
+      ],
+      [
+       "given him away",
+       "delatarle"
+      ],
+      [
+       "code-named",
+       "con nombre en clave"
+      ],
+      [
+       "case officer",
+       "oficial de caso"
+      ],
+      [
+       "widow",
+       "viuda"
+      ],
+      [
+       "diversion",
+       "maniobra de distracción"
+      ],
+      [
+       "halting",
+       "deteniendo"
+      ],
+      [
+       "armoured",
+       "blindadas"
+      ]
+     ],
+     "gist": [
+      {
+       "q": "What made Garbo so valuable to the Allies?",
+       "o": [
+        "He fed the Germans false information they trusted",
+        "He fought in Normandy",
+        "He stole German money"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "What did he claim on 9 June 1944?",
+       "o": [
+        "That the war was over",
+        "That Normandy was only a diversion",
+        "That he wanted to retire"
+       ],
+       "ok": 1
+      }
+     ],
+     "det": [
+      {
+       "q": "Who was Tomás Harris?",
+       "o": [
+        "A German officer",
+        "Garbo's case officer",
+        "One of the imaginary agents"
+       ],
+       "ok": 1
+      },
+      {
+       "q": "Which mistake should have given him away?",
+       "o": [
+        "Counting British money as if it were decimal",
+        "Writing in Spanish",
+        "Signing with his real name"
+       ],
+       "ok": 0
+      },
+      {
+       "q": "What did the Germans halt after his message?",
+       "o": [
+        "Their submarines",
+        "Armoured divisions on their way to Normandy",
+        "Their trains to Paris"
+       ],
+       "ok": 1
+      }
+     ],
+     "modelo": "Turned down by the British, Juan Pujol joined the Abwehr, claiming to admire the Reich. From Lisbon he made up reports, and in London, as Garbo, he ran twenty-seven imaginary agents with Tomás Harris. On 9 June 1944 he claimed that Normandy was a diversion, and the Germans halted divisions heading there. MI5's historian admitted that he had been the greatest double agent of the war.",
+     "gancho": "¿Por qué fingió su muerte en 1949, y cómo volvió en 1984 a Buckingham y a las playas de Normandía?",
+     "trad": [
+      [
+       "Aseguró que el ataque llegaría por Calais.",
+       "He claimed that the attack would come at Calais."
+      ],
+      [
+       "Reconoció que se había equivocado.",
+       "He admitted that he had been wrong."
+      ]
+     ],
+     "gram": {
+      "id": "verbos-reporte",
+      "ej": [
+       "He approached the Abwehr, <b>claiming</b> to be a fervent admirer of the Reich.",
+       "They code-named him Garbo, <b>insisting</b> that he was the best actor in the world.",
+       "He <b>warned</b> that Normandy was merely a diversion and <b>claimed</b> that the main blow would fall at Calais.",
+       "MI5's official historian later <b>admitted</b> that he had been the greatest double agent of the war."
+      ],
+      "q": [
+       {
+        "q": "He ___ that he had never been to London. (reconoció)",
+        "o": [
+         "admitted",
+         "insisted to",
+         "claimed to"
+        ],
+        "ok": 0
+       },
+       {
+        "q": "He ___ that he had ever met Tomás Harris. (lo negó)",
+        "o": [
+         "denied",
+         "admitted",
+         "claimed"
+        ],
+        "ok": 0
+       }
+      ]
+     },
+     "audio": "audio/en-garbo-hard.mp3",
+     "s": 90,
+     "t": [
+      0.0,
+      14.44,
+      23.82,
+      31.4,
+      39.35,
+      49.56,
+      58.27,
+      66.31,
+      75.53,
+      81.41
+     ]
+    }
+   }
   }
  ],
  "gram": {
