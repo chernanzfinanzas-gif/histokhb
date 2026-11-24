@@ -73,6 +73,11 @@ body.sec-scr{--barra:43px}
 .nav a.on{color:var(--ink)}
 @media(max-width:420px){.nav a{font-size:11px;white-space:nowrap;letter-spacing:-.2px}}
 .nav a.on .i{filter:none;opacity:1}
+.dvmenu{position:fixed;right:8px;bottom:calc(var(--nav) + env(safe-area-inset-bottom) + 8px);z-index:46;background:var(--card);border:1px solid var(--line);border-radius:16px;box-shadow:0 8px 28px rgba(0,0,0,.18);padding:6px;width:min(290px,calc(100vw - 16px))}
+.dvmenu[hidden]{display:none}
+.dvmenu a{display:flex;gap:12px;align-items:center;padding:10px;border-radius:12px;text-decoration:none;color:var(--ink)}
+.dvmenu a:active,.dvmenu a:hover{background:var(--bg)}
+.dvmenu .i{font-size:28px;width:34px;text-align:center}.dvmenu b{display:block;font-family:var(--f-head);font-weight:600;font-size:17px}.dvmenu small{color:var(--muted);font-size:13px;line-height:1.3}
 .wrap{max-width:640px;margin:0 auto;padding:0 16px 30px}
 .scr{display:none}.scr.on{display:block}
 /* inicio */
@@ -385,7 +390,21 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 .inggt{margin:2px 0 8px;font-size:21px;line-height:1.25;color:#5b3f80}
 .ingpv{background:#eef5f3;border:1px solid #c9e0da;border-radius:12px;padding:10px 12px;margin-top:14px}.ingpv .et{font-size:12px;color:#2f6f60;font-weight:700;text-transform:uppercase;letter-spacing:.04em}.ingpv h3{margin:4px 0 0;font-size:22px}.ingpves{margin:0 0 6px;color:#2f6f60;font-weight:600}
 .inggc{background:#fff;border:1px solid var(--line);border-left:4px solid #7a5c9e;border-radius:12px;padding:9px 12px;margin:6px 0;cursor:pointer}.inggc.pend{cursor:default;opacity:.55;border-left-color:var(--line)}.inggc b{display:block}.inggc span{display:block;font-size:13px;color:var(--muted)}.inggc .inggu{font-size:12px;margin-top:2px}
-.big.ingdest{background:linear-gradient(135deg,#fff 55%,#eef3fb);border:2px solid #7aa5d6;align-items:center}.big.ingdest img{flex:0 0 70px;height:auto}.big.viadest{background:linear-gradient(135deg,#fff 55%,#eef6ee);border-color:#6fa77a}.volvia{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(var(--nav) + 14px + env(safe-area-inset-bottom));z-index:44;background:#2f6b3a;color:#fff;border-radius:999px;padding:10px 20px;box-shadow:0 4px 14px rgba(0,0,0,.25);width:auto}.big .nuevo{display:inline-block;background:#c0392b;color:#fff;font-size:11px;font-weight:800;letter-spacing:.06em;border-radius:6px;padding:1px 7px;margin-bottom:3px}
+.big.ingdest{background:linear-gradient(135deg,#fff 55%,#eef3fb);border:2px solid #7aa5d6;align-items:center}.big.ingdest img{flex:0 0 70px;height:auto}.big.viadest{background:linear-gradient(135deg,#fff 55%,#eef6ee);border-color:#6fa77a}
+.bibdest{background:linear-gradient(135deg,#fff 55%,#f7efdf);border-color:#c9a25e}
+.bib-esc{display:flex;gap:14px;background:var(--card);border:1px solid var(--line);border-radius:18px;padding:14px;box-shadow:0 2px 10px #0001;margin:4px 0 6px}
+.bib-esc img{width:42%;max-width:180px;border-radius:6px;box-shadow:0 5px 14px #0004;align-self:flex-start;cursor:pointer}
+.bib-esc h2{font-family:var(--f-head);font-weight:600;font-size:21px;margin:6px 0 2px;color:var(--ink)}.bib-esc p{margin:0 0 6px;color:var(--ink2);font-size:14px}
+.bib-esc .tm{font-size:12.5px;color:var(--muted);margin-bottom:10px}
+.bib-b{display:inline-block;border:0;border-radius:11px;padding:8px 14px;margin:0 6px 6px 0;font:700 14px var(--f-body);text-decoration:none;background:#12324a;color:#fff}.bib-b.s{background:#e8eef2;color:#12324a}
+.bib-nv{display:inline-block;background:#c0392b;color:#fff;font-size:11px;font-weight:800;letter-spacing:.06em;border-radius:6px;padding:1px 7px}
+.bib-est{margin:0 0 8px}.bib-fila{display:flex;gap:12px;align-items:flex-end;min-height:150px;padding:10px 12px 0;overflow-x:auto;scrollbar-width:none}
+.bib-fila a{flex:0 0 auto;text-align:center;text-decoration:none;color:var(--ink2);font-size:11px}.bib-fila a img{height:128px;display:block;border-radius:3px;box-shadow:2px 3px 7px #0005;margin-bottom:3px}
+.bib-lomo{flex:0 0 30px;height:118px;border-radius:3px;background:#8697a5;box-shadow:2px 3px 6px #0004;display:flex;align-items:center;justify-content:center}
+.bib-lomo span{writing-mode:vertical-rl;transform:rotate(180deg);font:700 10px var(--f-body);color:#fffc;letter-spacing:1px}
+.bib-vac{flex:1;height:110px;border:2px dashed #c9a97a;border-radius:8px;display:flex;align-items:center;justify-content:center;color:#8a7350;font-size:14px;text-align:center;padding:0 10px}
+.bib-tabla{height:12px;margin:0 2px;background:linear-gradient(#b07a45,#7d522b);border-radius:3px;box-shadow:0 5px 8px #0003}
+.volvia{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(var(--nav) + 14px + env(safe-area-inset-bottom));z-index:44;background:#2f6b3a;color:#fff;border-radius:999px;padding:10px 20px;box-shadow:0 4px 14px rgba(0,0,0,.25);width:auto}.big .nuevo{display:inline-block;background:#c0392b;color:#fff;font-size:11px;font-weight:800;letter-spacing:.06em;border-radius:6px;padding:1px 7px;margin-bottom:3px}
 .ingptos{text-align:center;font-size:15px;margin:2px 0 0;color:var(--ink)}.ingnota2{border:1px solid var(--line,#ddd);border-radius:14px;padding:10px 14px;background:var(--card,#fff);text-align:center}.ingnota2.fin{border-color:#c9a227;background:linear-gradient(#fff8e1,#fff3c4);color:#3b2f00}.ingn2t{font-weight:700;font-size:15px}.ingn2n{font-size:14px;margin:2px 0 6px}.ingn2n b{font-size:22px}.ingn2b{height:8px;border-radius:5px;background:rgba(0,0,0,.1);overflow:hidden}.ingn2b i{display:block;height:100%;background:#4a7c4e;border-radius:5px;transition:width .5s}.ingnota2.fin .ingn2b i{background:#c9a227}.ingn2s{font-size:12px;opacity:.8;margin-top:6px}.ingok.pend{color:inherit;opacity:.45;font-weight:400}.ingok{margin-left:auto;font-size:12px;font-weight:700;color:#4a7c4e;white-space:nowrap}.ingok.nuevo{animation:ingpop .6s}@keyframes ingpop{0%{transform:scale(1.6)}100%{transform:scale(1)}}
 .ingchk{display:flex;gap:8px;align-items:center;font-size:14px;background:#fdf8ee;border:1px solid var(--line);border-radius:10px;padding:8px 10px;margin:0 0 8px;cursor:pointer}.ingchk input{width:18px;height:18px;flex:0 0 18px}.ingchk i{color:var(--muted)}
 .ingsubt{font-weight:700;margin:14px 0 2px}.ingprefiero{margin-top:12px;width:100%}.ingp.plegado>:not(.ingh):not(.ingchk){display:none}.ingp.plegado .ingh{cursor:pointer}
@@ -585,7 +604,8 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <div class="eras" id="eras"></div>
   <div class="sec-t">Hoy en HistoKHB - Historia Total</div>
   <button class="big ingdest viadest" onclick="location.href='viajes/'"><img src="img/ammo/ammo-viajero.webp" alt="" width="70" height="80"><div><span class="nuevo">NUEVO</span><h3>Viajes</h3><p>¿Te vas de viaje o de excursión? Complementa tus viajes con rutas por la naturaleza, yacimientos, castillos, monumentos y rincones con encanto, con el tiempo que hará y todo lo que tienes cerca. Y allí donde te encuentres, descubre qué pasó: cada sitio te lleva con un toque a su historia, para que el paisaje te cuente lo que vivió.</p></div></button>
-  <button class="big ingdest" onclick="go('#/ingles')"><img src="img/ammo/ammo-ingles.webp" alt="" width="70" height="80"><div><span class="nuevo">NUEVO</span><h3>Inglés con historia</h3><p>Escucha la historia de España en inglés, con voz real y en tres niveles. Toca cualquier palabra, aprende gramática y cuéntala tú. Una historia nueva cada lunes, miércoles y viernes.</p></div></button>
+  <button class="big ingdest" onclick="go('#/ingles')"><img src="img/ammo/ammo-ingles.webp" alt="" width="70" height="80"><div><span class="nuevo">NUEVO</span><h3>Inglés con historia</h3><p>Escucha la historia de España en inglés, con voz real y en tres niveles. Toca cualquier palabra, aprende gramática y cuéntala tú. Una historia nueva cada lunes, para estudiarla en tres días.</p></div></button>
+  <button class="big ingdest bibdest" id="bibHome" hidden onclick="go('#/biblioteca')"><img src="img/ammo/ammo-lee.webp" alt="" width="70" height="80"><div><span class="nuevo">NUEVO</span><h3>Biblioteca</h3><p id="bibMini">La revista «Bitácora», cada semana, y pronto libros de historia para leer por capítulos.</p></div></button>
   <button class="big" onclick="go('#/reto')"><span class="bi" id="retoIco">🏆</span><div><h3>Reto del día</h3><p id="retoMini">5 preguntas nuevas cada día. ¿Cuántas aciertas?</p></div></button>
   <div id="hdia"></div>
   <div id="semana0"></div>
@@ -662,6 +682,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
 <!-- RETO -->
 <section class="scr" id="s-calendario"><div class="wrap"><div id="calBox"></div></div></section>
 <section class="scr" id="s-novedades"><div class="wrap"><div id="novBox"></div></div></section>
+<section class="scr" id="s-biblioteca"><div class="wrap"><div id="bibBox"></div></div></section>
 <section class="scr" id="s-ingles"><div class="wrap"><div id="ingBox"></div></div></section>
 <section class="scr" id="s-reto"><div class="wrap"><div id="retoBox"></div><div id="viajeBox"></div></div></section>
 
@@ -720,9 +741,13 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
  <a href="#/mundo" data-n="mundo"><span class="i">🌍</span>El mundo</a>
  <a href="#/reto" data-n="reto"><span class="i">🏆</span>Reto</a>
  <a href="#/ingles" data-n="ingles"><span class="i"><img src="img/ammo/ammo-ingles.webp" alt="" width="24" height="27" style="display:block;margin:0 auto"></span>Inglés</a>
- <a href="#/aqui" data-n="aqui"><span class="i">📍</span>Aquí</a>
- <a href="viajes/" data-n="viajes"><span class="i"><img src="img/ammo/ammo-viajero.webp" alt="" width="24" height="27" style="display:block;margin:0 auto;object-fit:contain"></span>Viajes</a>
+ <a href="#/biblioteca" data-n="biblioteca"><span class="i"><img src="img/ammo/ammo-lee.webp" alt="" width="24" height="27" style="display:block;margin:0 auto;object-fit:contain"></span>Biblioteca</a>
+ <a href="#/aqui" data-n="deviaje" onclick="deViaje(event)" aria-haspopup="true"><span class="i"><img src="img/ammo/ammo-viajero.webp" alt="" width="24" height="27" style="display:block;margin:0 auto;object-fit:contain"></span>De viaje</a>
 </nav>
+<div class="dvmenu" id="dvMenu" hidden>
+ <a href="#/aqui" onclick="deViajeCierra()"><span class="i">📍</span><div><b>Aquí</b><small>La historia del sitio donde estás</small></div></a>
+ <a href="viajes/" onclick="deViajeCierra()"><img src="img/ammo/ammo-viajero.webp" alt="" width="34" height="38"><div><b>Viajes</b><small>Rutas, yacimientos y castillos para tus viajes</small></div></a>
+</div>
 
 <div class="sheet" id="sheet" role="dialog" aria-modal="true">
  <div class="sh-top">
@@ -871,12 +896,12 @@ if('serviceWorker' in navigator){const hadSW=!!navigator.serviceWorker.controlle
 
 // ---------- rutas ----------
 let lastScreen=null, lastRoute=null;
-const SECUND=['ingles','novedades','semana','favs','ajustes','calendario','mundo','aqui'];
+const SECUND=['ingles','biblioteca','novedades','semana','favs','ajustes','calendario','mundo','aqui'];
 let ORIGEN={}; // pantalla desde la que se entró en cada pantalla secundaria (para «✕ Cerrar»)
 let ALTURA={}, VOLVER_A=null; // altura de la página de cada pantalla, para volver al mismo sitio
 function cerrarScr(){const k=(location.hash.replace(/^#\/?/,'').split('/')[0])||'';if(k==='aqui'&&VIAJES_AQUI){volverViajes();return;}const d=ORIGEN[k]||'#/';VOLVER_A=d; if((location.hash||'#/')===d||(d==='#/'&&!location.hash)){lastRoute=null;route();} else go(d);}
 function restaurarAltura(){if(VOLVER_A==null||(location.hash||'#/')!==VOLVER_A)return;const y=ALTURA[VOLVER_A]||0;VOLVER_A=null;[0,80,250,600].forEach(ms=>setTimeout(()=>window.scrollTo(0,y),ms));}
-function show(id){{const vv=document.getElementById('volViajes'); if(vv)vv.classList.toggle('hide',!(typeof VIAJES_AQUI!=='undefined'&&VIAJES_AQUI&&id==='aqui'));}document.body.classList.toggle('sec-scr',SECUND.includes(id));document.body.classList.remove('cal-dentro');document.querySelectorAll('.scr').forEach(s=>s.classList.toggle('on',s.id==='s-'+id));document.querySelectorAll('#nav a').forEach(a=>a.classList.toggle('on',a.dataset.n===id||(id==='favs'&&a.dataset.n==='inicio')));}
+function show(id){{const vv=document.getElementById('volViajes'); if(vv)vv.classList.toggle('hide',!(typeof VIAJES_AQUI!=='undefined'&&VIAJES_AQUI&&id==='aqui'));}document.body.classList.toggle('sec-scr',SECUND.includes(id));document.body.classList.remove('cal-dentro');document.querySelectorAll('.scr').forEach(s=>s.classList.toggle('on',s.id==='s-'+id));document.querySelectorAll('#nav a').forEach(a=>a.classList.toggle('on',a.dataset.n===id||(id==='favs'&&a.dataset.n==='inicio')||(id==='aqui'&&a.dataset.n==='deviaje')));deViajeCierra();}
 const ALIAS={'con1-0':'con-1789-eu','con1-1':'con-1808-eu','con1-2':'con-1808-eu','con1-3':'con-1808-am','con1-5':'con-1808-es'};
 function route(){
  if(!IDX)return;
@@ -913,6 +938,7 @@ function screen(p){ const k=p[0]||'';
  else if(k==='reto'){renderReto(p[1]);}
  else if(k==='novedades'){renderNov();}
  else if(k==='ingles'){renderIngles(p[1]);}
+ else if(k==='biblioteca'){renderBiblioteca(p[1]);}
  else if(k==='semana'){renderSemana();}
  else if(k==='ajustes'){renderAjustes();}
  else renderInicio();
@@ -960,6 +986,10 @@ function initBienvenida(){
  });
 }
 function limpiaBusq(){const q=$('#q'),r=$('#res'),b=$('#inicio-body');if(q){q.value='';q.blur();}if(r)r.innerHTML='';if(b)b.classList.remove('hide');}
+// «De viaje» (barra de abajo): menú con «Aquí» y «Viajes»
+function deViaje(e){e.preventDefault();e.stopPropagation();const m=$('#dvMenu');m.hidden=!m.hidden;}
+function deViajeCierra(){const m=document.getElementById('dvMenu');if(m)m.hidden=true;}
+document.addEventListener('click',e=>{const m=document.getElementById('dvMenu');if(m&&!m.hidden&&!m.contains(e.target))m.hidden=true;});
 // «Inicio» (y el logo) vuelven al inicio limpio desde cualquier estado, aunque el hash no cambie
 function initVolverInicio(){
  document.querySelectorAll('#nav a, header .brand').forEach(a=>a.addEventListener('click',e=>{
@@ -979,7 +1009,7 @@ function initInicio(){
  let t=null; $('#q').addEventListener('input',e=>{clearTimeout(t);t=setTimeout(()=>doSearch(e.target.value),180);});
  $('#q').addEventListener('focus',()=>{sinc().catch(()=>{});if(!BUS)getJ('buscar.json').then(j=>{BUS=j;}).catch(()=>{});if(!LUG)getJ('lugares.json').then(j=>LUG=j).catch(()=>{});if(!DESA)getJ('desarrollos.json').then(j=>{DESA=j;if($('#q').value.trim().length>1)doSearch($('#q').value);}).catch(()=>{});},{once:true});
 }
-function renderInicio(){if(lastScreen!=='inicio')limpiaBusq();lastScreen='inicio';show('inicio');renderFavs0();const f=LS.get('hk_favs',[]);$('#favMini').textContent=f.length?f.length+' historia'+(f.length>1?'s':'')+' guardada'+(f.length>1?'s':'')+' en este móvil.':'Las historias que marques con ☆.';const r=LS.get('hk_reto',{d:{}});const t=r.d[hoy()],st=racha();const RG=rango(vPct()).r;$('#retoIco').textContent=RG[1];$('#retoMini').textContent=(t&&t.ok)?'✅ Hoy resuelto ('+t.s+'/5 a la primera) · 🔥 racha de '+st+' día'+(st!==1?'s':''):(st?'🔥 Racha de '+st+' día'+(st!==1?'s':'')+'. ¡Resuelve el de hoy para seguir!':'5 preguntas nuevas cada día. ¿Te atreves?')+(st?' · '+RG[2]:'');
+function renderInicio(){if(lastScreen!=='inicio')limpiaBusq();lastScreen='inicio';show('inicio');bibHome();renderFavs0();const f=LS.get('hk_favs',[]);$('#favMini').textContent=f.length?f.length+' historia'+(f.length>1?'s':'')+' guardada'+(f.length>1?'s':'')+' en este móvil.':'Las historias que marques con ☆.';const r=LS.get('hk_reto',{d:{}});const t=r.d[hoy()],st=racha();const RG=rango(vPct()).r;$('#retoIco').textContent=RG[1];$('#retoMini').textContent=(t&&t.ok)?'✅ Hoy resuelto ('+t.s+'/5 a la primera) · 🔥 racha de '+st+' día'+(st!==1?'s':''):(st?'🔥 Racha de '+st+' día'+(st!==1?'s':'')+'. ¡Resuelve el de hoy para seguir!':'5 preguntas nuevas cada día. ¿Te atreves?')+(st?' · '+RG[2]:'');
  const ks=Object.keys(IDX.fichas), R=rng('dia'+hoy()), hk=ks[Math.floor(R()*ks.length)], hf=IDX.fichas[hk];
  const ul=LS.get('hk_ultima',null), uf=ul&&IDX.fichas[ul], nv=LS.get('hk_vistas',[]).filter(x=>IDX.fichas[x]).length;
  $('#hdia').innerHTML=(uf?`<button class="card" style="border-color:#3a9a5b" onclick="go('#/f/${ul}')"><div class="ic">${uf.ic}</div><div><div class="d">↩️ Seguir donde lo dejaste${nv?` · ✓ ${nv} de ${ks.length} vistas`:''}</div><h3>${esc(uf.t)}</h3><div class="t">${esc(uf.d)}</div></div></button>`:'')+`<button class="card" style="border-color:var(--accent)" onclick="go('#/f/${hk}')"><div class="ic">${hf.ic}</div><div><div class="d">📖 Historia del día · ${esc(hf.d)}</div><h3>${esc(hf.t)}</h3><div class="t">${esc(hf.tz)}</div></div></button>`;renderSemana0();}
@@ -2002,6 +2032,22 @@ async function renderNov(){lastScreen='novedades';show('novedades');const N=awai
   return `<button class="res" onclick="go('${href}')"><div class="rk">${i.tipo==='app'?'🛠️ En la app':i.tipo==='nueva'?'✨ Nueva':'➕ Ampliada'} · ${sub}</div><div class="rt">${esc(i.t)}</div>${i.lugares&&i.lugares.length?`<div class="rs">📍 ${esc(i.lugares.join(', '))}</div>`:''}</button>`;}).join('')).join('');
  $('#novBox').innerHTML=h||'<p class="empty-st">Pronto habrá novedades.</p>';}
 
+
+// ---------- Biblioteca (datos/biblioteca.json): revista Bitácora, libros y novela ----------
+let BIB=null;
+async function bibDatos(){if(!BIB){try{BIB=await (await fetch('datos/biblioteca.json',{cache:'no-cache'})).json();}catch(e){BIB={revistas:[],libros:[],novela:[],avisos:{}};}}return BIB;}
+function bibHoy(){const d=new Date();return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');}
+function bibVis(l){const pre=LS.get('hk_bib_prev',0);return (l||[]).filter(x=>pre||!x.fecha||x.fecha<=bibHoy()).sort((a,b)=>(b.fecha||'').localeCompare(a.fecha||''));}
+async function bibHome(){const B=await bibDatos();const r=bibVis(B.revistas);const el=$('#bibHome');if(!el)return;el.hidden=!r.length;if(r.length)$('#bibMini').textContent=`Nuevo número de «Bitácora»: ${r[0].titulo}. La revista de Historia Total, cada semana, para leer en el móvil o en PDF.`;}
+function bibCuenta(q){cuentaVisita('b',q);}
+async function renderBiblioteca(arg){lastScreen='biblioteca';show('biblioteca');if(arg==='prev'){LS.set('hk_bib_prev',1);}const B=await bibDatos();bibCuenta('biblioteca');
+ const R=bibVis(B.revistas),L=bibVis(B.libros),N=bibVis(B.novela),A=B.avisos||{};
+ let h='<div class="sec-t" style="margin-top:6px">📚 Biblioteca</div>';
+ if(R.length){const x=R[0];h+=`<div class="bib-esc"><img src="${x.portada}" alt="Portada" onclick="bibCuenta('${x.id}-web');location.href='${x.web}'"><div><span class="bib-nv">NUEVO</span><h2>Bitácora nº ${x.n}</h2><p>${esc(x.titulo)}: ${esc(x.sub)}</p>${x.temas?`<div class="tm">${x.temas.map(esc).join(' · ')}</div>`:''}<a class="bib-b" href="${x.web}">Leer</a><a class="bib-b s" href="${x.pdf}" download onclick="bibCuenta('${x.id}-pdf')">PDF</a></div></div>`;}
+ else{const P=(B.revistas||[]).filter(x=>x.fecha>bibHoy()).sort((a,b)=>a.fecha.localeCompare(b.fecha))[0];if(P){const f=new Date(P.fecha+'T12:00:00').toLocaleDateString('es-ES',{weekday:'long',day:'numeric',month:'long'});h+=`<div class="bib-esc"><img src="img/ammo/ammo-lee.webp" alt="" style="width:90px;box-shadow:none;cursor:default"><div><span class="bib-nv">MUY PRONTO</span><h2>Bitácora nº ${P.n}</h2><p>La revista de Historia Total sale el <b>${f}</b>: ${esc(P.titulo)}, ${esc(P.sub.toLowerCase())}.</p></div></div>`;}}
+ const fila=(lst,av)=>`<div class="bib-est"><div class="bib-fila">${lst.map(x=>`<a href="${x.web}" title="${esc(x.titulo)}"><img src="${x.portada}" alt="" loading="lazy">${x.n?'Nº '+x.n:''}</a>`).join('')}${av?(lst.length?`<div class="bib-lomo"><span>${esc(av)}</span></div>`:`<div class="bib-vac">${esc(av)}</div>`):''}</div><div class="bib-tabla"></div></div>`;
+ h+='<div class="sec-t">Revistas</div>'+fila(R,R.length?A.revistas:'Aquí irán los números de «Bitácora»')+'<div class="sec-t">Libros</div>'+fila(L,A.libros)+'<div class="sec-t">Novela</div>'+fila(N,A.novela);
+ $('#bibBox').innerHTML=h;}
 
 // ---------- Inglés con historia (datos/ingles.json; boceto 05 del 10-nov-2026) ----------
 let ING=null, IG={t:null,k:'medium',esc:0,fr:0,tope:null};
