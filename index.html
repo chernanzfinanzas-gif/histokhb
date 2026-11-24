@@ -605,7 +605,7 @@ input[type=range]{width:100%;margin:10px 0 4px;accent-color:var(--accent)}
   <div class="sec-t">Hoy en HistoKHB - Historia Total</div>
   <button class="big ingdest viadest" onclick="location.href='viajes/'"><img src="img/ammo/ammo-viajero.webp" alt="" width="70" height="80"><div><span class="nuevo">NUEVO</span><h3>Viajes</h3><p>¿Te vas de viaje o de excursión? Complementa tus viajes con rutas por la naturaleza, yacimientos, castillos, monumentos y rincones con encanto, con el tiempo que hará y todo lo que tienes cerca. Y allí donde te encuentres, descubre qué pasó: cada sitio te lleva con un toque a su historia, para que el paisaje te cuente lo que vivió.</p></div></button>
   <button class="big ingdest" onclick="go('#/ingles')"><img src="img/ammo/ammo-ingles.webp" alt="" width="70" height="80"><div><span class="nuevo">NUEVO</span><h3>Inglés con historia</h3><p>Escucha la historia de España en inglés, con voz real y en tres niveles. Toca cualquier palabra, aprende gramática y cuéntala tú. Una historia nueva cada lunes, para estudiarla en tres días.</p></div></button>
-  <button class="big ingdest bibdest" id="bibHome" hidden onclick="go('#/biblioteca')"><img src="img/ammo/ammo-lee.webp" alt="" width="70" height="80"><div><span class="nuevo">NUEVO</span><h3>Biblioteca</h3><p id="bibMini">La revista «Bitácora», cada semana, y pronto libros de historia para leer por capítulos.</p></div></button>
+  <button class="big ingdest bibdest" id="bibHome" hidden onclick="go('#/biblioteca')"><img src="img/ammo/ammo-lee.webp" alt="" width="70" height="80"><div><span class="nuevo">NUEVO</span><h3>Biblioteca</h3><p id="bibMini">La revista «Bitácora», cada quince días, y pronto libros de historia para leer por capítulos.</p></div></button>
   <button class="big" onclick="go('#/reto')"><span class="bi" id="retoIco">🏆</span><div><h3>Reto del día</h3><p id="retoMini">5 preguntas nuevas cada día. ¿Cuántas aciertas?</p></div></button>
   <div id="hdia"></div>
   <div id="semana0"></div>
@@ -2038,7 +2038,7 @@ let BIB=null;
 async function bibDatos(){if(!BIB){try{BIB=await (await fetch('datos/biblioteca.json',{cache:'no-cache'})).json();}catch(e){BIB={revistas:[],libros:[],novela:[],avisos:{}};}}return BIB;}
 function bibHoy(){const d=new Date();return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');}
 function bibVis(l){const pre=LS.get('hk_bib_prev',0);return (l||[]).filter(x=>pre||!x.fecha||x.fecha<=bibHoy()).sort((a,b)=>(b.fecha||'').localeCompare(a.fecha||''));}
-async function bibHome(){const B=await bibDatos();const r=bibVis(B.revistas);const el=$('#bibHome');if(!el)return;el.hidden=!r.length;if(r.length)$('#bibMini').textContent=`Nuevo número de «Bitácora»: ${r[0].titulo}. La revista de Historia Total, cada semana, para leer en el móvil o en PDF.`;}
+async function bibHome(){const B=await bibDatos();const r=bibVis(B.revistas);const el=$('#bibHome');if(!el)return;el.hidden=!r.length;if(r.length)$('#bibMini').textContent=`Nuevo número de «Bitácora»: ${r[0].titulo}. La revista de Historia Total, cada quince días, para leer en el móvil o en PDF.`;}
 function bibCuenta(q){cuentaVisita('b',q);}
 async function renderBiblioteca(arg){lastScreen='biblioteca';show('biblioteca');if(arg==='prev'){LS.set('hk_bib_prev',1);}const B=await bibDatos();bibCuenta('biblioteca');
  const R=bibVis(B.revistas),L=bibVis(B.libros),N=bibVis(B.novela),A=B.avisos||{};
