@@ -347,3 +347,8 @@ Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
 - Nuevo en `biblioteca/la-llanura-vacia/`: visor con glosario (53 términos), PDF A5 con portada, 20 láminas y glosario (216 págs.), EPUB con glosario enlazado (229 enlaces). Prólogo con resumen de los libros 1 y 2.
 - `datos/biblioteca.json`: añadido al estante «novela» con fecha 2030-01-01, oculto como los libros 1 y 2.
 - Glosario en `herramientas/glosarios-biblioteca/la-llanura-vacia.py`.
+
+### 25-nov-2026 · Chat «novela» · Bitácora nº 2 (Carlos: «publica»)
+- Nuevo en `biblioteca/bitacora-02/`: «Los polos» (Amundsen y Scott, el Endurance, el hielo que recuerda, por qué hay hielo en los polos, los inuit, Josefina Castellví, efemérides del 11 al 24 de diciembre y curiosidades). Versión móvil con glosario, PDF A4 (18 págs., glosario incluido) y EPUB.
+- `datos/biblioteca.json`: estante «revistas», fecha 2026-12-11 (oculta hasta entonces). Novedad programada para el 11-dic a las 7:00.
+- Glosario en `herramientas/glosarios-biblioteca/bitacora02.py`.
