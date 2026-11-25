@@ -1,4 +1,6 @@
-{"revistas":[{"id":"bitacora-01","n":1,"titulo":"Pacífico","sub":"El océano que nadie sabía cruzar","fecha":"2026-11-27","portada":"biblioteca/bitacora-01/img/portada.webp","web":"biblioteca/bitacora-01/","pdf":"biblioteca/bitacora-01/bitacora-01.pdf","temas":["Magallanes","Urdaneta","El galeón de Manila","Isabel Zendal"]}],
-"libros":[{"id":"todo-bajo-el-cielo","titulo":"Todo bajo el cielo","sub":"Una historia de China","fecha":"2026-11-27","portada":"biblioteca/todo-bajo-el-cielo/img/portada.webp","web":"biblioteca/todo-bajo-el-cielo/","pdf":"biblioteca/todo-bajo-el-cielo/todo-bajo-el-cielo.pdf","audio":true,"temas":["12 capítulos","Mapas","Audiolibro"]}],"novela":[],
+{"revistas":[{"id":"bitacora-01","n":1,"titulo":"Pacífico","sub":"El océano que nadie sabía cruzar","fecha":"2026-11-27","portada":"biblioteca/bitacora-01/img/portada.webp","web":"biblioteca/bitacora-01/","pdf":"biblioteca/bitacora-01/bitacora-01.pdf","temas":["Magallanes","Urdaneta","El galeón de Manila","Isabel Zendal"],"epub":"biblioteca/bitacora-01/bitacora-01.epub"}],
+"libros":[{"id":"todo-bajo-el-cielo","titulo":"Todo bajo el cielo","sub":"Una historia de China","fecha":"2026-11-27","portada":"biblioteca/todo-bajo-el-cielo/img/portada.webp","web":"biblioteca/todo-bajo-el-cielo/","pdf":"biblioteca/todo-bajo-el-cielo/todo-bajo-el-cielo.pdf","audio":true,"temas":["12 capítulos","Mapas","Audiolibro"],"epub":"biblioteca/todo-bajo-el-cielo/todo-bajo-el-cielo.epub"}],
+"novela":[],
 "avisos":{"revistas":"Nº 2 · pronto",
-"libros":"Libro 2 · pronto","novela":"Próximamente"}}
+"libros":"Libro 2 · pronto",
+"novela":"Próximamente"}}

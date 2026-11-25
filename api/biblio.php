@@ -12,7 +12,7 @@ $f = (string)($_GET['f'] ?? '');
 if ($f === '' || substr($f, -1) === '/') $f .= 'index.html';
 $ruta = realpath($base . '/' . $f);
 if ($ruta === false || strpos($ruta, $base . DIRECTORY_SEPARATOR) !== 0 || !is_file($ruta) || basename($ruta)[0] === '.') { http_response_code(404); exit; }
-$tipos = ['html' => 'text/html; charset=utf-8', 'webp' => 'image/webp', 'jpg' => 'image/jpeg', 'png' => 'image/png', 'mp3' => 'audio/mpeg', 'pdf' => 'application/pdf', 'json' => 'application/json', 'css' => 'text/css', 'js' => 'text/javascript'];
+$tipos = ['html' => 'text/html; charset=utf-8', 'webp' => 'image/webp', 'jpg' => 'image/jpeg', 'png' => 'image/png', 'mp3' => 'audio/mpeg', 'pdf' => 'application/pdf', 'epub' => 'application/epub+zip', 'json' => 'application/json', 'css' => 'text/css', 'js' => 'text/javascript'];
 $ext = strtolower(pathinfo($ruta, PATHINFO_EXTENSION));
 header('Content-Type: ' . ($tipos[$ext] ?? 'application/octet-stream'));
 header('Accept-Ranges: bytes');
