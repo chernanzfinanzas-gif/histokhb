@@ -67,6 +67,15 @@ def silencios(wav):
     fin = [float(x) for x in re.findall(r'silence_end: ([\d.]+)', o)]
     return [(a + b) / 2 for a, b in zip(ini, fin)]
 
+def huecos(wav, letras, dur):
+    """Motivo si la voz se cortó o balbucea (ritmo normal ~16 letras por segundo de voz); '' si está bien."""
+    o = subprocess.run(['ffmpeg', '-hide_banner', '-i', wav, '-af', 'silencedetect=n=-40dB:d=0.3', '-f', 'null', '-'], capture_output=True, text=True).stderr
+    sil = [float(x) for x in re.findall(r'silence_duration: ([\d.]+)', o)]
+    voz = max(1, dur - sum(sil)); r = letras / voz
+    if letras > 200 and not 11 <= r <= 22: return f'ritmo {r:.0f} letras/s'
+    if max(sil or [0]) > 6: return f'silencio de {max(sil):.0f} s'
+    return ''
+
 def elementos(sec):
     L = [e for e in sec.select('p,h2,li') if not e.find_parent(class_='linea') and not e.find_parent('figure')
          and not e.find_parent(class_='esc') and 'esc' not in (e.get('class') or [])]
@@ -97,12 +106,17 @@ def capitulo(carpeta, sec, cid):
     grupos = [(-1, [cab])] + trozos(T)
     for n, (i0, txts) in enumerate(grupos):
         wav = os.path.join(tmp, f'{n:03d}.wav')
-        if not os.path.exists(wav):
+        intento = 0
+        while not os.path.exists(wav):
+            intento += 1
             pcm, cual = tts('\n\n'.join(txts))
             subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-f', 's16le', '-ar', '24000', '-ac', '1', '-i', '-', wav], input=pcm, check=True)
             dur = len(pcm) / 48000
             if cual == 'pago': gasto(dur)
             log(cid, f'trozo {n+1}/{len(grupos)}', f'{dur:.0f} s', cual, f'(pago mes: {gasto()/60:.0f} min)')
+            malo = huecos(wav, sum(len(x) for x in txts), dur)
+            if malo and intento < 3:
+                log(cid, 'trozo defectuoso,', malo, ': repito'); os.remove(wav)
         dur = float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', wav], capture_output=True, text=True).stdout)
         if i0 >= 0:
             # reparto por letras y ajuste a la pausa más cercana
