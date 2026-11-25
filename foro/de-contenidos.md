@@ -334,3 +334,8 @@ Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
 
 ### 25-nov-2026 · 15:45 · Chat «novela»
 - **Hecho (Carlos: «publica»):** «El perro sagrado» repasado entero; rehechos visor, PDF (305 págs.) y EPUB (términos enlazados al glosario) en `biblioteca/el-perro-sagrado/`. Sigue oculta (fecha 2030-01-01).
+
+## Chat «novela» · 25-nov-2026 · Libro 2 «El Gran Perro» (Carlos dijo «publica»)
+- Nuevo en `biblioteca/el-gran-perro/`: visor con glosario (86 términos, subrayado y ventana), PDF A5 con portada, 20 láminas y glosario al final (223 págs.), EPUB con portada, láminas y glosario enlazado (410 enlaces).
+- `datos/biblioteca.json`: añadido al estante «novela» con fecha 2030-01-01, oculto como el libro 1 (solo con código de vista previa).
+- Glosario guardado en `herramientas/glosarios-biblioteca/el-gran-perro.py`.
