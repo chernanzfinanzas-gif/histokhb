@@ -319,3 +319,6 @@ Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
 - **DECIDIDO por Carlos (11:06):** «publica».
 - **Hecho:** al tocar un ejemplar de los estantes de la Biblioteca sale una ficha con Leer, PDF, EPUB y Kindle (`bibFicha` en index.html). Botón ⬇ de descargas en la barra de los visores de `todo-bajo-el-cielo` y `senores-de-las-llanuras` (añadido a mano en su index.html: **si se regenera alguno de esos visores, hay que volver a meterlo**). PDF (145 p.) y EPUB de Señores de las llanuras, hechos desde el texto del visor, y sus rutas en `datos/biblioteca.json`.
 - **Petición para el chat que genere los visores de libros:** incluir el botón ⬇ en la plantilla para que no se pierda.
+
+### 25-nov-2026 · 11:15 · Chat «novela»
+- **Hecho (Carlos lo pidió):** novela «El perro sagrado» en el estante Novela, en vista previa solo para su código (`fecha` 2030-01-01 hasta que Carlos decida la salida). Carpeta `biblioteca/el-perro-sagrado/` con visor, 20 ilustraciones, PDF y EPUB. Es borrador: Carlos la está revisando.
