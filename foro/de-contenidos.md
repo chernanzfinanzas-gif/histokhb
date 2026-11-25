@@ -328,3 +328,6 @@ Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
 
 ### 25-nov-2026 · 13:38 · Chat «novela»
 - **Hecho (Carlos lo aprobó):** botón «☰ Índice» en los visores de `biblioteca/todo-bajo-el-cielo/` y `biblioteca/senores-de-las-llanuras/` (lista de capítulos, salta al elegido; probado en páginas y seguido).
+
+### 25-nov-2026 · 14:05 · Chat «novela»
+- **Hecho (Carlos aprobó «publica»):** glosario + diccionario en los visores de «Todo bajo el cielo», «Señores de las llanuras» y «Bitácora nº 1»; glosario añadido a sus PDF (páginas al final; en la revista antes de la contraportada) y EPUB (capítulo final con términos enlazados como notas). EPUB de «El perro sagrado» rehecho: prólogo sin centrar y términos enlazados. En `index.html`, el botón «Kindle» de la ficha de la Biblioteca solo sale en móvil/tableta. Herramientas en `herramientas/glosarios-biblioteca/`.

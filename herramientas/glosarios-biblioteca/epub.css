@@ -1,0 +1,6 @@
+body{font-family:serif;line-height:1.45;text-align:justify}
+h1{text-align:center;font-weight:normal;margin-top:2em}
+.ent{text-align:center;margin:0 0 .3em}
+hr{border:none;text-align:center;margin:1.2em 0}
+hr:after{content:"·  ·  ·"}
+p{margin:0 0 .5em}

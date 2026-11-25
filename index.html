@@ -2043,7 +2043,7 @@ function bibPrev(){if(bibPrevP)return bibPrevP;let c=null;try{c=localStorage.get
  if(!c){LS.set('hk_bib_prev',0);return bibPrevP=Promise.resolve(false);}
  return bibPrevP=fetch('api/prev.php',{method:'POST',credentials:'same-origin',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:'codigo='+encodeURIComponent(c)}).then(r=>r.json()).then(d=>{LS.set('hk_bib_prev',d&&d.ok?1:0);return !!(d&&d.ok);}).catch(()=>!!LS.get('hk_bib_prev',0));}
 // Enviar a Kindle: el móvil comparte el EPUB con la app de Kindle (solo donde el navegador deja compartir archivos)
-const BIB_KIN=(()=>{try{return !!(navigator.canShare&&navigator.canShare({files:[new File(['x'],'a.epub',{type:'application/epub+zip'})]}));}catch(e){return false;}})();
+const BIB_KIN=(()=>{try{const movil=/Android|iPhone|iPad|iPod/i.test(navigator.userAgent)||(navigator.maxTouchPoints>1&&/Mac/.test(navigator.platform));return movil&&!!(navigator.canShare&&navigator.canShare({files:[new File(['x'],'a.epub',{type:'application/epub+zip'})]}));}catch(e){return false;}})();
 let bibKinF=null;
 function bibKindle(u,t,id){bibCuenta(id+'-kindle');bibKinF=fetch(u,{credentials:'same-origin'}).then(r=>r.blob()).then(b=>new File([b],u.split('/').pop(),{type:'application/epub+zip'})).catch(()=>null);
 const ios=/iPhone|iPad|iPod/.test(navigator.userAgent),tienda=ios?'https://apps.apple.com/es/app/kindle/id302584613':'https://play.google.com/store/apps/details?id=com.amazon.kindle';
