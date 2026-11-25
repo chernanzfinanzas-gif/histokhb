@@ -325,3 +325,6 @@ Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
 
 ### 25-nov-2026 · 13:25 · Chat «novela»
 - **Hecho (Carlos lo pidió):** glosario en el visor de «El perro sagrado» (términos subrayados de puntos, ventanita al tocar; el resto de palabras abre el diccionario de la app al mantenerlas pulsadas, leyendo `datos/dic/`). Añadidas 16 palabras a `herramientas/diccionario_base.json` (genízaro, cíbolo, ranchería, taovaya, picurís, jicarilla…) y sentido histórico a presidio, rescate y vecino. Sigue oculta (solo código de Carlos).
+
+### 25-nov-2026 · 13:38 · Chat «novela»
+- **Hecho (Carlos lo aprobó):** botón «☰ Índice» en los visores de `biblioteca/todo-bajo-el-cielo/` y `biblioteca/senores-de-las-llanuras/` (lista de capítulos, salta al elegido; probado en páginas y seguido).
