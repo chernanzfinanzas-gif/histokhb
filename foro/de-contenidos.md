@@ -342,3 +342,8 @@ Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
 
 ### 25-nov-2026 · Chat «novela» · Libro 2 ampliado
 - **Hecho (aprobado):** «El Gran Perro» ampliado con escenas de vida diaria y prólogo largo con resumen del libro 1. Rehechos visor, PDF (274 págs., antes 223) y EPUB (436 enlaces al glosario) en `biblioteca/el-gran-perro/`. Sigue oculto (fecha 2030-01-01).
+
+### 25-nov-2026 · Chat «novela» · Libro 3 (Carlos: «publica», solo para él)
+- Nuevo en `biblioteca/la-llanura-vacia/`: visor con glosario (53 términos), PDF A5 con portada, 20 láminas y glosario (216 págs.), EPUB con glosario enlazado (229 enlaces). Prólogo con resumen de los libros 1 y 2.
+- `datos/biblioteca.json`: añadido al estante «novela» con fecha 2030-01-01, oculto como los libros 1 y 2.
+- Glosario en `herramientas/glosarios-biblioteca/la-llanura-vacia.py`.
