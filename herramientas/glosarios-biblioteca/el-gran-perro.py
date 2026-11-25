@@ -88,7 +88,7 @@ G = [
   'Fuerte de troncos que construyeron Lewis y Clark junto a los pueblos mandanes, donde pasaron el invierno de 1804-1805.'),
  ('Lugares', 'Río Marías', ['Marías'],
   'Afluente del Misuri que Lewis subió en julio de 1806 hacia el país de los pies negros.'),
- ('Lugares', 'Two Medicine', ['Two Medicine'],
+ ('Lugares', 'Two Medicine', ['Two Medicine', 'Dos Medicinas'],
   'Río del norte de Montana, afluente del Marías, donde ocurrió el encuentro de Lewis con los piegan el 26 y 27 de julio de 1806.'),
  ('Lugares', 'Río Columbia', ['Columbia'],
   'Gran río del noroeste que desemboca en el Pacífico. Lewis y Clark bajaron por él en 1805; Thompson lo siguió hasta el mar en 1811.'),
