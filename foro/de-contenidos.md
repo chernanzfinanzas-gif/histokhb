@@ -322,3 +322,6 @@ Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
 
 ### 25-nov-2026 · 11:15 · Chat «novela»
 - **Hecho (Carlos lo pidió):** novela «El perro sagrado» en el estante Novela, en vista previa solo para su código (`fecha` 2030-01-01 hasta que Carlos decida la salida). Carpeta `biblioteca/el-perro-sagrado/` con visor, 20 ilustraciones, PDF y EPUB. Es borrador: Carlos la está revisando.
+
+### 25-nov-2026 · 13:25 · Chat «novela»
+- **Hecho (Carlos lo pidió):** glosario en el visor de «El perro sagrado» (términos subrayados de puntos, ventanita al tocar; el resto de palabras abre el diccionario de la app al mantenerlas pulsadas, leyendo `datos/dic/`). Añadidas 16 palabras a `herramientas/diccionario_base.json` (genízaro, cíbolo, ranchería, taovaya, picurís, jicarilla…) y sentido histórico a presidio, rescate y vecino. Sigue oculta (solo código de Carlos).

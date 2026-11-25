@@ -834,6 +834,10 @@
 "adaptar": {
 "g": "Cambiar algo para que sirva en una situación nueva."
 },
+"adarga": {
+"g": "Escudo de cuero, ovalado o en forma de corazón.",
+"h": "La llevaban al brazo los soldados de cuera de la frontera norte de Nueva España."
+},
 "adarve": {
 "g": "Paseo o camino que recorre lo alto de una muralla."
 },
@@ -11430,6 +11434,9 @@
 "comanche": {
 "g": "Pueblo indígena de las Grandes Llanuras, excelente jinete, que dominó el sur durante siglos."
 },
+"comanchería": {
+"g": "Tierras de los comanches, en las llanuras del sur de Norteamérica."
+},
 "comandancia": {
 "g": "Distrito militar y administrativo; en la China Qin, cada una de las provincias del imperio."
 },
@@ -14258,6 +14265,9 @@
 },
 "césped": {
 "g": "Hierba corta y espesa que cubre el suelo."
+},
+"cíbolo": {
+"g": "Bisonte; así lo llamaban los españoles de Nuevo México y Texas."
 },
 "cícadas": {
 "g": "Plantas parecidas a palmeras, muy antiguas, que dominaban los paisajes en tiempos de los dinosaurios."
@@ -24073,6 +24083,10 @@
 "genético": {
 "g": "De los genes y la herencia biológica."
 },
+"genízaro": {
+"g": "Indio de otra nación rescatado o comprado de niño y criado al servicio de una familia española.",
+"h": "En Nuevo México, en los siglos XVII y XVIII, los genízaros (apaches, comanches, yutas…) vivían en barrios propios o en pueblos de frontera como Abiquiú."
+},
 "genómica": {
 "g": "Ciencia que estudia el genoma, todo el ADN de un ser vivo."
 },
@@ -29292,6 +29306,9 @@
 "jiazi": {
 "g": "Primer día del ciclo de sesenta días del antiguo calendario chino."
 },
+"jicarilla": {
+"g": "De un grupo de apaches del norte de Nuevo México que cazaban bisontes y sembraban maíz."
+},
 "jie": {
 "g": "Pueblo de pastores del norte de China, uno de los «cinco bárbaros» del siglo IV."
 },
@@ -31020,6 +31037,9 @@
 },
 "linterna": {
 "g": "Lámpara que se lleva en la mano; también, torrecilla con ventanas que remata una cúpula."
+},
+"lipán": {
+"g": "De un grupo de apaches de las llanuras del sur que en el siglo XVIII bajaron hacia Texas."
 },
 "liquen": {
 "g": "Ser vivo formado por un hongo y un alga juntos, que crece sobre rocas y árboles."
@@ -34850,6 +34870,9 @@
 "mukarrib": {
 "g": "Título de los primeros reyes de Saba, en el sur de Arabia."
 },
+"mula": {
+"g": "Cría de yegua y burro, fuerte y resistente, muy usada para cargar."
+},
 "muladí": {
 "g": "Cristiano de al-Ándalus que se convirtió al islam.",
 "h": "Fueron la mayoría de la población de al-Ándalus; familias muladíes como los Banu Qasi tuvieron gran poder."
@@ -35424,6 +35447,9 @@
 },
 "navaja": {
 "g": "Cuchillo cuya hoja se dobla y se guarda en el mango."
+},
+"navajo": {
+"g": "De un pueblo indio del suroeste de Norteamérica, pariente de los apaches, famoso por sus tejidos."
 },
 "naval": {
 "g": "De los barcos de guerra o de la marina."
@@ -38517,6 +38543,9 @@
 "pavoroso": {
 "g": "Que da mucho miedo."
 },
+"pawnee": {
+"g": "De un pueblo indio de las Grandes Llanuras que vivía en aldeas junto al río Platte."
+},
 "payés": {
 "g": "Campesino de Cataluña.",
 "h": "En la Cataluña medieval, los payeses de remensa estaban atados a la tierra y debían pagar para irse."
@@ -39455,6 +39484,10 @@
 "pictórico": {
 "g": "De la pintura."
 },
+"picurís": {
+"g": "Pueblo indio de lengua tiwa del norte de Nuevo México.",
+"h": "Tras rebelarse en 1696, parte de los picurís vivió diez años con los apaches de El Cuartelejo, en las llanuras."
+},
 "pie": {
 "g": "Parte del cuerpo al final de la pierna, sobre la que se anda."
 },
@@ -39595,6 +39628,9 @@
 },
 "pintarse": {
 "g": "Maquillarse."
+},
+"pinto": {
+"g": "Con manchas de varios colores; se dice sobre todo del caballo de manchas grandes de dos colores."
 },
 "pintor": {
 "g": "Persona que pinta cuadros o paredes."
@@ -40984,7 +41020,8 @@
 "g": "Preso que cumple condena."
 },
 "presidio": {
-"g": "Cárcel; también, fortaleza con soldados."
+"g": "Cárcel; también, fortaleza con soldados.",
+"h": "Fuerte de la frontera norte de Nueva España con una compañía de soldados a caballo."
 },
 "presidir": {
 "g": "Ocupar el puesto principal y dirigir una reunión."
@@ -42405,6 +42442,9 @@
 "queratina": {
 "g": "Sustancia dura de la que están hechos pelos, uñas, cuernos y plumas."
 },
+"querecho": {
+"g": "Nombre que dieron los españoles en 1541 a los cazadores de bisontes de las llanuras, antepasados de los apaches."
+},
 "querella": {
 "g": "Discusión o disputa larga entre partes."
 },
@@ -42798,6 +42838,9 @@
 },
 "ranchero": {
 "g": "Dueño o trabajador de un rancho, una gran finca ganadera."
+},
+"ranchería": {
+"g": "Campamento o poblado de indios no sedentarios, con sus tiendas o chozas."
 },
 "rancho": {
 "g": "Granja grande de ganado, sobre todo en América."
@@ -44559,7 +44602,8 @@
 "g": "Salvar a alguien de un peligro o recuperar algo perdido."
 },
 "rescate": {
-"g": "Acción de salvar a alguien; también, dinero que se paga para liberar a un prisionero."
+"g": "Acción de salvar a alguien; también, dinero que se paga para liberar a un prisionero.",
+"h": "En Nuevo México, compra de cautivos indios en las ferias; los rescatados quedaban al servicio de familias españolas."
 },
 "rescatista": {
 "g": "Persona que salva a otros de un peligro."
@@ -49222,6 +49266,9 @@
 "taotie": {
 "g": "Rostro de animal fantástico con grandes ojos, típico de los bronces chinos antiguos."
 },
+"taovaya": {
+"g": "De un pueblo de la familia wichita que vivía en aldeas junto al río Rojo y comerciaba con franceses y comanches."
+},
 "taoísmo": {
 "g": "Doctrina y religión china que busca vivir en armonía con el Tao, el orden natural del mundo."
 },
@@ -50451,6 +50498,9 @@
 },
 "torcer": {
 "g": "Dar vueltas a algo o desviarlo de su dirección."
+},
+"tordo": {
+"g": "Pájaro de plumas pardas; también, caballo de pelo mezclado de blanco y negro, que se ve gris."
 },
 "torero": {
 "g": "Persona que torea toros en la plaza."
@@ -52349,7 +52399,8 @@
 "g": "Hecho de vivir cerca y convivir con otros."
 },
 "vecino": {
-"g": "Que vive o está cerca."
+"g": "Que vive o está cerca.",
+"h": "En la América española, colono con casa y tierras en una villa, con derechos y obligación de servir en la milicia."
 },
 "veda": {
 "g": "Libros sagrados más antiguos de la India, himnos compuestos en sánscrito."
@@ -53783,6 +53834,9 @@
 },
 "yurta": {
 "g": "Tienda redonda de fieltro sobre armazón de madera, vivienda de los nómadas de Mongolia y Asia central."
+},
+"yuta": {
+"g": "De un pueblo indio de las montañas y mesetas del oeste de Norteamérica, que dio nombre a Utah."
 },
 "yutyrannus": {
 "g": "Pariente del tiranosaurio, con plumas, que vivió en China hace unos 125 millones de años."
