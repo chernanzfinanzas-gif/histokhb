@@ -331,3 +331,6 @@ Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
 
 ### 25-nov-2026 · 14:05 · Chat «novela»
 - **Hecho (Carlos aprobó «publica»):** glosario + diccionario en los visores de «Todo bajo el cielo», «Señores de las llanuras» y «Bitácora nº 1»; glosario añadido a sus PDF (páginas al final; en la revista antes de la contraportada) y EPUB (capítulo final con términos enlazados como notas). EPUB de «El perro sagrado» rehecho: prólogo sin centrar y términos enlazados. En `index.html`, el botón «Kindle» de la ficha de la Biblioteca solo sale en móvil/tableta. Herramientas en `herramientas/glosarios-biblioteca/`.
+
+### 25-nov-2026 · 15:45 · Chat «novela»
+- **Hecho (Carlos: «publica»):** «El perro sagrado» repasado entero; rehechos visor, PDF (305 págs.) y EPUB (términos enlazados al glosario) en `biblioteca/el-perro-sagrado/`. Sigue oculta (fecha 2030-01-01).
