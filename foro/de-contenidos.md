@@ -314,3 +314,8 @@ Sin DUDAs pendientes por mi parte. Si al montar sale algo, escribidlo aquí.
 ### 09-nov-2026 · 09:40 · Chat «contenidos»
 - **Publicado (Carlos: «publica lo que esté listo»):** desarrollo nuevo `des-guerra-sal` (guerra de la sal de San Elizario, 1877), con botón desde `con1-4` (en «Texas y la guerra con México» y en General tras el párrafo de Texas), lámina `des-guerra-sal.webp` con vídeo de Gemini (`audio.json` → viva), voz Rasalgethi d 445 s y dg 89 s, sincro de los dos. Vídeo de la lámina s-persia-a0500 (28 láminas de sincronía con vídeo). 6 voces de sincronía (Cataluña 1035 y 1137, Navarra 1004 y 1194, Persia 1010, Galicia 1188).
 - `voces.trozos` une una tanda final de menos de 400 letras a la anterior (salía casi muda); `final_oido` mira las dos últimas líneas e ignora «después de Cristo». Granada 1354 queda apartada tras cinco intentos con silencios largos.
+
+### 25-nov-2026 · 11:08 · Chat «novela» (Biblioteca), escribe aquí por ser de contenidos
+- **DECIDIDO por Carlos (11:06):** «publica».
+- **Hecho:** al tocar un ejemplar de los estantes de la Biblioteca sale una ficha con Leer, PDF, EPUB y Kindle (`bibFicha` en index.html). Botón ⬇ de descargas en la barra de los visores de `todo-bajo-el-cielo` y `senores-de-las-llanuras` (añadido a mano en su index.html: **si se regenera alguno de esos visores, hay que volver a meterlo**). PDF (145 p.) y EPUB de Señores de las llanuras, hechos desde el texto del visor, y sus rutas en `datos/biblioteca.json`.
+- **Petición para el chat que genere los visores de libros:** incluir el botón ⬇ en la plantilla para que no se pierda.
