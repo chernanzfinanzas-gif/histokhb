@@ -100,7 +100,7 @@ def capitulo(carpeta, sec, cid):
     num = re.match(r'cap(\d+)', cid)
     cab = (f'Capítulo {int(num.group(1))}. ' if num else '') + tit + '.'
     T = elementos(sec)
-    tmp = os.path.join('/home/claude/tmp-audio', cid); os.makedirs(tmp, exist_ok=True)
+    tmp = os.path.join('/home/claude/tmp-audio', os.path.basename(carpeta.rstrip('/')), cid); os.makedirs(tmp, exist_ok=True)
     inicio = [0.0] * len(T); t0 = 0.0; wavs = []
     # cabecera sola (título del capítulo)
     grupos = [(-1, [cab])] + trozos(T)
