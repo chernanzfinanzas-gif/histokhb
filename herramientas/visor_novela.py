@@ -63,6 +63,7 @@ rep = [
     (f"artist:'{ttit}'", f"artist:'{titulo}'"),
     ("hk_libro_llanuras", f"hk_libro_{slug}"),
     (f"b:{tslug}-", f"b:{slug}-"),
+    (f"lib_{tslug}'", f"lib_{slug}'"),
     (f"{tslug}.pdf", f"{slug}.pdf"), (f"{tslug}.epub", f"{slug}.epub"),
     # colores del libro (marrón) en vez del rojo de la plantilla
     ('--rojo:#5b1f1a;--rojo2:#a8322a', '--rojo:#3b2a1a;--rojo2:#8a5a2b'), ('--titulo:#5b1f1a', '--titulo:#3b2a1a'),
