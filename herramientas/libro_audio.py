@@ -67,6 +67,11 @@ def silencios(wav):
     fin = [float(x) for x in re.findall(r'silence_end: ([\d.]+)', o)]
     return [(a + b) / 2 for a, b in zip(ini, fin)]
 
+def huella(*textos):
+    """Nombre corto que depende del texto, la voz y el modelo: si cambia algo, cambia el nombre."""
+    import hashlib
+    return hashlib.sha1('\x1f'.join((VOZ, MODELO, PROMPT) + textos).encode()).hexdigest()[:16]
+
 def huecos(wav, letras, dur):
     """Motivo si la voz se cortó o balbucea (ritmo normal ~16 letras por segundo de voz); '' si está bien."""
     o = subprocess.run(['ffmpeg', '-hide_banner', '-i', wav, '-af', 'silencedetect=n=-40dB:d=0.3', '-f', 'null', '-'], capture_output=True, text=True).stderr
@@ -94,18 +99,30 @@ def trozos(textos):
 def capitulo(carpeta, sec, cid):
     aud = os.path.join(carpeta, 'audio'); os.makedirs(aud, exist_ok=True)
     mp3 = os.path.join(aud, cid + '.mp3')
-    if os.path.exists(mp3) and os.path.exists(mp3[:-4] + '.json'):
-        log(cid, 'ya hecho'); return
+    js = mp3[:-4] + '.json'
+    viejo = json.load(open(js)) if os.path.exists(js) else None
     h1 = sec.find('h1'); tit = h1.get_text(' ', strip=True) if h1 else ''
     num = re.match(r'cap(\d+)', cid)
     cab = (f'Capítulo {int(num.group(1))}. ' if num else '') + tit + '.'
     T = elementos(sec)
     tmp = os.path.join('/home/claude/tmp-audio', os.path.basename(carpeta.rstrip('/')), cid); os.makedirs(tmp, exist_ok=True)
+    firma = huella(cab, *T)
+    if viejo and os.path.exists(mp3) and viejo.get('firma', firma) == firma:
+        log(cid, 'ya hecho'); return       # (los audios antiguos sin firma se dan por buenos)
     inicio = [0.0] * len(T); t0 = 0.0; wavs = []
-    # cabecera sola (título del capítulo)
-    grupos = [(-1, [cab])] + trozos(T)
+    # Mismos cortes que la vez anterior si el número de párrafos no ha cambiado: así un cambio
+    # en un párrafo solo regraba su trozo. Cada trozo se guarda con el nombre de su texto.
+    cortes = viejo.get('trozos') if viejo else None
+    if cortes and sum(n for _, n in cortes) == len(T):
+        tz = [(i0, T[i0:i0 + n]) for i0, n in cortes]
+    else:
+        tz = trozos(T)
+    grupos = [(-1, [cab])] + tz
     for n, (i0, txts) in enumerate(grupos):
-        wav = os.path.join(tmp, f'{n:03d}.wav')
+        wav = os.path.join(tmp, huella(*txts) + '.wav')
+        antiguo = os.path.join(tmp, f'{n:03d}.wav')       # caché antigua, por número de trozo
+        if not os.path.exists(wav) and os.path.exists(antiguo) and not viejo:
+            os.rename(antiguo, wav)
         intento = 0
         while not os.path.exists(wav):
             intento += 1
@@ -132,7 +149,7 @@ def capitulo(carpeta, sec, cid):
     lista = os.path.join(tmp, 'lista.txt')
     open(lista, 'w').write(''.join(f"file '{w}'\n" for w in wavs))
     subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-f', 'concat', '-safe', '0', '-i', lista, '-ac', '1', '-ar', '24000', '-b:a', '64k', mp3], check=True)
-    json.dump({'sync': inicio, 'd': round(t0, 1)}, open(mp3[:-4] + '.json', 'w'))
+    json.dump({'sync': inicio, 'd': round(t0, 1), 'firma': firma, 'trozos': [[i0, len(t)] for i0, t in tz]}, open(js, 'w'))
     log(cid, 'HECHO', f'{t0/60:.1f} min')
 
 def main():
