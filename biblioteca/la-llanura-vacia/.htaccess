@@ -1,0 +1,5 @@
+# Cerrado hasta su salida (hora del servidor, 20300101000000): antes, todo pasa por api/biblio.php,
+# que solo lo sirve a la vista previa del autor. Después, se sirve normal sin tocar nada.
+RewriteEngine On
+RewriteCond %{TIME} <20300101000000
+RewriteRule ^(.*)$ /api/biblio.php?f=la-llanura-vacia/$1 [L,QSA]
