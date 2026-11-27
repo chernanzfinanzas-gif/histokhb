@@ -7,6 +7,7 @@ session_set_cookie_params(['lifetime' => 2592000, 'path' => '/', 'secure' => tru
 session_start();
 header('Cache-Control: private, no-store');
 if (empty($_SESSION['hkprev'])) { http_response_code(403); header('Content-Type: text/plain; charset=utf-8'); echo "Todavía no se ha publicado. Sale pronto en la Biblioteca de Historia Total."; exit; }
+session_write_close(); // suelta la sesión: si no, el audio, las imágenes y las demás peticiones van de una en una
 $base = realpath(__DIR__ . '/../biblioteca');
 $f = (string)($_GET['f'] ?? '');
 if ($f === '' || substr($f, -1) === '/') $f .= 'index.html';
@@ -15,6 +16,8 @@ if ($ruta === false || strpos($ruta, $base . DIRECTORY_SEPARATOR) !== 0 || !is_f
 $tipos = ['html' => 'text/html; charset=utf-8', 'webp' => 'image/webp', 'jpg' => 'image/jpeg', 'png' => 'image/png', 'mp3' => 'audio/mpeg', 'pdf' => 'application/pdf', 'epub' => 'application/epub+zip', 'json' => 'application/json', 'css' => 'text/css', 'js' => 'text/javascript'];
 $ext = strtolower(pathinfo($ruta, PATHINFO_EXTENSION));
 header('Content-Type: ' . ($tipos[$ext] ?? 'application/octet-stream'));
+// La página siempre fresca; audio e imágenes se pueden guardar en el aparato (solo lo ve quien tiene la vista previa)
+if ($ext !== 'html' && $ext !== 'json') header('Cache-Control: private, max-age=604800');
 header('Accept-Ranges: bytes');
 $tam = filesize($ruta); $ini = 0; $fin = $tam - 1;
 if (isset($_SERVER['HTTP_RANGE']) && preg_match('/bytes=(\d*)-(\d*)/', $_SERVER['HTTP_RANGE'], $m)) {

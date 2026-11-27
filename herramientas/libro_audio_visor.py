@@ -10,7 +10,7 @@ sync = {}
 for x in caps:
     j = os.path.join(c, 'audio', x['id'] + '.json')
     if os.path.exists(j):
-        d = json.load(open(j)); x['a'] = 'audio/' + x['id'] + '.mp3'; x['d'] = d['d']; sync[x['id']] = d['sync']
+        d = json.load(open(j)); x['a'] = 'audio/' + x['id'] + '.mp3?v=' + str(int(os.path.getmtime(os.path.join(c, 'audio', x['id'] + '.mp3')))); x['d'] = d['d']; sync[x['id']] = d['sync']
 p = p.replace(m.group(0), 'const CAPS=' + json.dumps(caps, ensure_ascii=False) + ';', 1)
 p = re.sub(r'const SYNC=\{.*?\};', lambda _: 'const SYNC=' + json.dumps(sync) + ';', p, count=1, flags=re.S)
 if sync:

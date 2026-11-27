@@ -248,4 +248,13 @@ document.addEventListener('pointerdown',e=>{const w=W();if(w&&!w.classList.conta
  document.addEventListener('visibilitychange',()=>{if(document.hidden)sube(true);else baja()});
  addEventListener('pagehide',()=>sube(true));
  baja();})();
-</script><!--SYNC-FIN--></body></html>
+</script><!--SYNC-FIN--><!--REANUDA-INI--><script>
+(function(){if(typeof au==='undefined'||typeof P==='undefined')return;let n=0,sonando=false,t0=0;
+ au.addEventListener('playing',()=>{sonando=true;n=0});au.addEventListener('pause',()=>{sonando=false});
+ au.addEventListener('timeupdate',()=>{if(au.currentTime>0)t0=au.currentTime});
+ function vuelve(){if(!sonando||n>=6||!au.currentSrc)return;n++;const s=au.currentSrc,t=t0;
+  setTimeout(()=>{au.addEventListener('loadedmetadata',()=>{try{au.currentTime=t}catch(e){}au.play().catch(()=>{})},{once:true});au.src=s;au.load()},1200*n)}
+ au.addEventListener('error',vuelve);
+ au.addEventListener('stalled',()=>{const t=au.currentTime;setTimeout(()=>{if(sonando&&au.currentTime===t&&au.readyState<3)vuelve()},8000)});
+})();
+</script><!--REANUDA-FIN--></body></html>
