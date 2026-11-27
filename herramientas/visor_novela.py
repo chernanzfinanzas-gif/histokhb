@@ -52,12 +52,13 @@ i, fin, _ = arr(p, 'CAPS'); p = p[:i] + json.dumps(caps, ensure_ascii=False) + p
 p = re.sub(r'const SYNC=\{.*?\};', 'const SYNC={};', p, count=1, flags=re.S)
 i, fin, _ = arr(p, 'GL'); _, _, gl = arr(N, 'GL'); p = p[:i] + json.dumps(gl, ensure_ascii=False) + p[fin:]
 primero = caps[0]['id']
+pri_js = "(CAPS.find(c=>c.a)||CAPS[0]).id"   # primer capítulo con audio
 rep = [
     (f'<title>{ttit}</title>', f'<title>{titulo}</title>'),
     (f'<span>{ttit.upper()}</span>', f'<span>{titulo.upper()}</span>'),
-    ("P.play(P.st.cap||'intro')", f"P.play(P.st.cap||'{primero}')"),
-    ("this.carga(this.st.cap||'intro')", f"this.carga(this.st.cap||'{primero}')"),
-    ("this.carga('intro')", f"this.carga('{primero}')"),
+    ("P.play(P.st.cap||'intro')", f"P.play(P.st.cap||{pri_js})"),
+    ("this.carga(this.st.cap||'intro')", f"this.carga(this.st.cap||{pri_js})"),
+    ("this.carga('intro')", f"this.carga({pri_js})"),
     ("'Capítulo '+c.n:'Introducción'", "'Capítulo '+c.n:c.t"),
     (f"c.n?c.t:'{ttit}'", f"c.n?c.t:'{titulo}'"),
     (f"artist:'{ttit}'", f"artist:'{titulo}'"),

@@ -1,5 +1,5 @@
-# Cerrado hasta su salida (hora del servidor, 20261127000000): antes, todo pasa por api/biblio.php,
+# Cerrado hasta su salida (hora del servidor, 20261130000000): antes, todo pasa por api/biblio.php,
 # que solo lo sirve a la vista previa del autor. Después, se sirve normal sin tocar nada.
 RewriteEngine On
-RewriteCond %{TIME} <20261127000000
+RewriteCond %{TIME} <20261130000000
 RewriteRule ^(.*)$ /api/biblio.php?f=bitacora-01/$1 [L,QSA]
