@@ -15,7 +15,7 @@ src, num, gru = sys.argv[1], int(sys.argv[2]), os.path.abspath(sys.argv[3])
 slug = f'almirante-{num:02d}'; dst = os.path.join(R, 'biblioteca', slug); os.makedirs(os.path.join(dst, 'img'), exist_ok=True)
 G = open(os.path.join(gru, 'index.html'), encoding='utf-8').read()
 
-# ---- ajustes de este número (nº 1, Pacífico) ----
+# ---- ajustes de cada número ----
 NUMEROS = {
  1: dict(tema='Pacífico', fecha='Diciembre de 2026', alt='Portada de Bitácora del Almirante nº 1: Pacífico',
   carta=['Hace quinientos años, el océano más grande del planeta era un hueco en los mapas. Los barcos sabían cruzarlo en un sentido, pero no volver; los pilotos sabían a qué altura del mundo estaban, pero no cuánto habían avanzado; y en cada travesía morían de hambre y de escorbuto decenas de hombres.',
@@ -41,6 +41,32 @@ NUMEROS = {
   ids={'Reportaje': 'magallanes', 'Historia': 'vuelta', 'Ciencia': 'ciencia', 'Sociedad': 'sociedad', 'Biografía': 'zendal',
        'El documento': 'documento', 'Mito o realidad': 'mitos', 'Para saber más': 'saber', 'Efemérides': 'efemerides',
        'Curiosidades': 'curiosidades'}),
+ 2: dict(tema='Los polos', fecha='Diciembre de 2026', alt='Portada de Bitácora del Almirante nº 2: Los polos',
+  carta=['Hace poco más de un siglo, los dos extremos del planeta eran los últimos lugares de la Tierra que nadie había pisado. Llegar a ellos costó barcos aplastados por el hielo, hombres muertos de frío y de hambre, y alguna de las mayores hazañas de supervivencia que se recuerdan.',
+         'Este segundo número de <b>Bitácora del Almirante</b> viaja a los polos: la carrera entre Amundsen y Scott, los veintiocho hombres de Shackleton, el hielo que guarda ochocientos mil años de clima, la razón por la que hay hielo allí, el pueblo que aprendió a vivir en el Ártico y la bióloga barcelonesa que llevó a España a la Antártida. Además, el último diario de Scott, los mitos que conviene desmontar y dónde seguir leyendo.',
+         'La misma historia, contada para los más jóvenes, está en <b>Bitácora del Grumete</b>, la revista hermana con Ammo.'],
+  figuras={
+   'polosur': [('b2-amundsen', 'Los cinco noruegos en el Polo Sur, el 14 de diciembre de 1911, junto a la tienda Polheim y la bandera de su país.', 4),
+               ('b2-scott', 'Los hombres de Scott tiraban ellos mismos de los trineos: más de cien kilos por cabeza, durante meses.', 12)],
+   'endurance': [('b2-endurance', 'El Endurance, atrapado en el hielo del mar de Weddell. Los perros vivían en «perreras» de hielo junto al barco.', 7),
+                 ('b2-caird', 'El James Caird, un bote de siete metros, en el océano Austral: dieciséis días hasta Georgia del Sur.', 14)],
+   'hielo': [('b2-testigo', 'Un testigo de hielo recién sacado del sondeo: cada metro guarda siglos de nieve.', 5),
+             ('b2-burbujas', 'Una lámina fina de hielo antiguo a contraluz: cada burbuja es una muestra del aire de otra época.', 8)],
+   'porque': [('b2-mapa', 'Los dos polos, frente a frente: en el norte, un océano helado rodeado de tierra; en el sur, un continente rodeado de océano.', 9),
+              ('des-tectonica', 'Alfred Wegener defendió en 1912 que los continentes se mueven. Murió en el hielo de Groenlandia en 1930, sin ver que tenía razón.', 17)],
+   'inuit': [('b2-iglu', 'Una familia levanta un iglú: bloques de nieve compacta colocados en espiral hasta cerrar la cúpula.', 7),
+             ('b2-qulliq', 'Dentro, la qulliq, la lámpara de grasa de foca: luz, calor, cocina y agua en un solo objeto.', 9)],
+   'castellvi': [('b2-castellvi', 'Josefina Castellví en la isla Livingston, junto a la base Juan Carlos I, en una recreación.', 8)],
+   'curiosidades': [('b2-nautilus', 'El submarino Nautilus pasa bajo el hielo del Polo Norte, el 3 de agosto de 1958.', 4)]},
+  fichas={'la carrera espacial': 'con4-15', 'Carlomagno y el Imperio carolingio': 'med2-4', 'el fin del comunismo': 'con4-8',
+          'electricidad, teléfono, cine y aviones': 'con2-9', 'Cuba y la crisis de los misiles': 'con4-12',
+          'la Unión Europea y el euro': 'con5-9', 'el fin de la Reconquista: los Reyes Católicos': 'med5-3'},
+  app={'«El planeta se enfría»': 'cenozoico-5', '«Las glaciaciones: el planeta que respira frío y calor»': 'paleolitico-16',
+       '«Pangea se fragmenta: nace el Atlántico»': 'mesozoico-1', '«Los vikingos en América»': 'med2-13', '«El cambio climático»': 'con5-14'},
+  ids={'Reportaje': 'polosur', 'Historia': 'endurance', 'Ciencia · El hielo que recuerda': 'hielo',
+       'Ciencia · ¿Por qué hay hielo en los polos?': 'porque', 'Sociedad': 'inuit', 'Biografía': 'castellvi',
+       'El documento': 'documento', 'Mito o realidad': 'mitos', 'Para saber más': 'saber', 'Efemérides': 'efemerides',
+       'Curiosidades': 'curiosidades'}),
 }
 N = NUMEROS[num]
 
@@ -57,7 +83,7 @@ arts, indice = [], []
 for parte in partes:
     cab, cuerpo = parte.split('\n', 1)
     sec, tit = [x.strip() for x in cab.split('·', 1)] if '·' in cab else (cab.strip(), cab.strip())
-    aid = N['ids'].get(sec, re.sub(r'\W+', '-', sec.lower()))
+    aid = N['ids'].get(sec + ' · ' + tit, N['ids'].get(sec, re.sub(r'\W+', '-', sec.lower())))   # (dos artículos de la misma sección: «Sección · Título»)
     sub = ''; m = re.match(r'\s*\*([^*].*?)\*\s*\n', cuerpo)
     if m: sub, cuerpo = m.group(1), cuerpo[m.end():]
     ent = ''; m = re.match(r'\s*\*\*(.+?)\*\*\s*\n', cuerpo, re.S)
