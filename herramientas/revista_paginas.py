@@ -22,7 +22,7 @@ CSS = r'''<!--PAG-INI--><style>
 .dobla,#pie{display:none}
 body.libro{overflow:hidden;height:100vh;height:100dvh}
 body.libro #lector{position:fixed;left:0;right:0;top:var(--bt,46px);bottom:34px;max-width:none;margin:0;padding:0;overflow:hidden}
-body.libro .hojas{height:100%;column-width:var(--pw);column-gap:var(--gap);column-fill:auto;padding:16px calc(var(--gap)/2) 0;box-sizing:border-box}
+body.libro .hojas{height:100%;column-width:var(--pw);column-gap:var(--gap);column-fill:auto;padding:30px calc(var(--gap)/2) 0;box-sizing:border-box}
 body.libro.doble .hojas{column-rule:1px solid #e3d6bd}
 body.libro figure img,body.libro .fin img{max-height:calc(var(--ph) * .55);width:auto;max-width:100%;margin-left:auto;margin-right:auto}
 body.libro .port img{max-height:calc(var(--ph) - 60px);margin:0 auto}
