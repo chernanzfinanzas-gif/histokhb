@@ -17,7 +17,7 @@ await p.route(/fonts\.(googleapis|gstatic)\.com/,r=>r.abort());await p.goto(url,
 await p.evaluate((FF)=>{try{localStorage.setItem('hk_libro_modo','0')}catch(e){};if(typeof R!=='undefined'&&R.on)R.modo(false);
  document.querySelectorAll('img[loading]').forEach(i=>i.loading='eager');
  const s=document.createElement('style');s.textContent=`${FF}.barra,.dobla,#pie,.arriba,.bpag,.dicw,.fin .btn{display:none!important}
- body{background:#fff}main{max-width:none;padding:0}figure{margin:14px 0;break-inside:avoid}figure img{max-height:110mm!important;width:auto;max-width:100%}
+ body{background:#fff}main{max-width:none;padding:0}figure{margin:14px 0;break-inside:avoid}figure img{max-height:85mm!important;width:auto;max-width:100%}.ind li{break-inside:avoid}.ind li a{padding:5px 0!important;font-size:15px!important}.carta p,.bienv p{font-size:14px!important}
  .port img{max-height:262mm;width:auto;margin:0 auto;box-shadow:none}.port{break-after:page}
  article,section.ind,footer.fin{break-before:page;border-top:0;margin-top:0;padding-top:0}
  h1,h2,h3,.sec{break-after:avoid}.cita,.bienv,.caja,.carta,.mito,.cifras div,.efe .d,.efe .t,.cur .c,.linea div{break-inside:avoid}
